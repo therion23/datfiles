@@ -6,5 +6,5 @@ Origin: Various
 * Includes files for S80, S90 and UIQ based devices. All files have been tested for valid header and content checksums. Note that since .sis files in this format have no timestamp as such, the year has been taken from the certificate timestamps, and thus only present in files with certificates.
 ## Symbian v9.1+ (S60v3 and onwards)
 Origin: Various
-* Includes files for ^3, ^4, Anna and Belle devices. All files have been renamed with a slightly customized version of [https://github.com/NuruDashdamir/symbian-sis-renamer/] (Symbian SIS Renamer), which is known to be rather buggy. It has rejected quite a few valid files for me, so i am working on a new tool to do the job properly. Until then, this is what you get.
+* Includes files for ^3, ^4, Anna and Belle devices. All files have been renamed with a slightly customized version of [Symbian SIS Renamer](https://github.com/NuruDashdamir/symbian-sis-renamer/), which is known to be rather buggy. It has rejected quite a few valid files for me, so i am working on a new tool to do the job properly. Until then, this is what you get.
  
