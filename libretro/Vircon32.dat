@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Vircon32</name>
+		<description>Vircon32</description>
+		<category>Standard DatFile</category>
+		<version>2025-01-24</version>
+		<date>2025-01-24</date>
+		<author>t23</author>
+		<url>https://www.vircon32.com/</url>
+		<comment>Fixes and updates to libretro DAT</comment>
+		<clrmamepro/>
+	</header>
+	<game name="2048">
+		<description>A port of the classic puzzle game, with improved graphics and sound.</description>
+		<rom name="2048.v32" size="27189508" crc="51f51f4b" sha1="bab6a3d8e07cba27043fad9ef30b55f1c1f813a6" md5="64c8dca07588736cd7bca278158e7849"/>
+	</game>
+	<game name="Basic Platformer">
+		<description>A platformer game, simple but quite polished. Includes 30 levels split into 3 worlds.</description>
+		<rom name="Basic Platformer.v32" size="30071324" crc="e3d4adef" sha1="bbe1e00b7b612c740a748fba18cbf60caca46ada" md5="a0466bab181f4fbe435c8a4eb23b8870"/>
+	</game>
+	<game name="Blockdude">
+		<description>Puzzle game where you pick and move blocks to reach the exit.</description>
+		<rom name="Blockdude.v32" size="28167224" crc="863cbf96" sha1="9774836cbab176b6c8b63f0f96b7064f311cd794" md5="704645aec23292ab94354af94bef9d3a"/>
+	</game>
+	<game name="Bricks (Demo)">
+		<description>A simple proof of concept for an Arkanoid style game.</description>
+		<rom name="Bricks (Demo).v32" size="5156372" crc="96ab95aa" sha1="3fb9d7945aa0c5af669e5d622474f2d42e1cf602" md5="bc2b38f2359cb4bc3c46d521094d2401"/>
+	</game>
+	<game name="Chip-8 Emulator">
+		<description>Chip-8 Emulator for Vircon32 console. Uses the memory card to load chip-8 roms.</description>
+		<rom name="Chip-8 Emulator.v32" size="1387156" crc="5fde8173" sha1="f7bd6c96078ead50018b82e285c31a03bdab72fa" md5="41610174b0bd60a0a4bc4b1d64d0e6a4"/>
+	</game>
+	<game name="Fierce Soldier">
+		<description>This is a Contra style game where you shoot at enemies in 3 levels.</description>
+		<rom name="Fierce Soldier.v32" size="35337576" crc="8ecded2a" sha1="9872de442c306afbbdcf75472f96ac64e3d6142b" md5="8668469f55a1dca5bab760bcd28871f4"/>
+	</game>
+	<game name="Formula1">
+		<description>Simulation of an old LCD handheld with a racing game.</description>
+		<rom name="Formula1.v32" size="1822340" crc="82d4bf1c" sha1="cd2482bcf95cd830d605090e6a8e7ca8f00f8223" md5="73fb3bd4358adf40f2643903972d91c9"/>
+	</game>
+	<game name="JellyFish">
+		<description>As a jellyfish, you must try to dodge other sea creatures to stay alive.</description>
+		<rom name="JellyFish.v32" size="9945972" crc="35d8069e" sha1="c597380d42e1439c2a3fa95217cd179eb20406c0" md5="15ae7d896f9a74a0913b8e2f617b3f90"/>
+	</game>
+	<game name="Mahjong">
+		<description>Mahjong solitaire</description>
+		<rom name="Mahjong.v32" size="38318332" crc="ca7f0be3" sha1="b52a7d25cdfe1efac58dc4fd210be98091e31f14" md5="a08a54627075521e1f20ef7dfcf2b0d8"/>
+	</game>
+	<game name="Mazethingie">
+		<description>Create random labyrinths of custom sizes and try to solve them.</description>
+		<rom name="Mazethingie.v32" size="392684" crc="ab471f27" sha1="b6a9f9e9423b3fe3d7fdaedf547f2b8750fcc949" md5="3c3f6d7ca373b4e9b7fd1c3124e4a26a"/>
+	</game>
+	<game name="MineSweeper">
+		<description>A Vircon32 version of the classic Windows game.</description>
+		<rom name="MineSweeper.v32" size="18094132" crc="71948acc" sha1="8775f8d8cd7ab26dd925476b79d2bfc864aa8bd1" md5="c4cb16fce1071f97c45494247b7c8f63"/>
+	</game>
+	<game name="One Skill">
+		<description>Platformer where your character has 4 skills but can only use 1 at a time.</description>
+		<rom name="One Skill.v32" size="38891492" crc="05983c83" sha1="a9dcdf3161cce88480505004de4a8586da16d755" md5="dee976ff0e6b5e74e2b366f302e522ee"/>
+	</game>
+	<game name="Party Man">
+		<description>A simple pacman clone for Vircon32.</description>
+		<rom name="Party Man.v32" size="32828616" crc="fb7ee1c3" sha1="93c35213dc0c1ff25a8e2224445e4aa24dbc6d3f" md5="913a45fd909b187b85465b7c54cc0fb9"/>
+	</game>
+	<game name="Pseudo-3D Racer (Demo)">
+		<description>A demo showing some advanced pseudo-3D effects.</description>
+		<rom name="Pseudo-3D Racer (Demo).v32" size="2239892" crc="cac752dd" sha1="818c2ab3410e0f8a692ebdfb01617bbf6b59ab8d" md5="029363c0c43544bfa49954dd8206eb33"/>
+	</game>
+	<game name="Puztrix">
+		<description>Puzzle game where you use gravity to make pieces touch and disappear.</description>
+		<rom name="Puztrix.v32" size="25988476" crc="72b3bdf3" sha1="d191c7a7a67aed0655b73f51894a7a6349ff49a1" md5="6dca9e6c5df82b29db6595a1bac95a2a"/>
+	</game>
+	<game name="Puzzle Land">
+		<description>Puzzle where you gain new shapes and try to fit all the pieces.</description>
+		<rom name="Puzzle Land.v32" size="139633580" crc="c0f78ae3" sha1="0c4bb7005832521626baa6ace83b25f2e20036b4" md5="9b59ee525507b40b4f70dbb3334b65fc"/>
+	</game>
+	<game name="Rubido">
+		<description>Chinese solitaire where you jump over balls to remove then until 1 is left.</description>
+		<rom name="Rubido.v32" size="64314480" crc="c75ef72b" sha1="87408d4f817d0cb10ff300eeaf882fe7a6b45306" md5="f76594c8c7893542d0426faf5c56d6c3"/>
+	</game>
+	<game name="Simple Tennis">
+		<description>A Vircon32 version of the classic Pong.</description>
+		<rom name="Simple Tennis.v32" size="735912" crc="c05ceed3" sha1="3e1a0652268c21dd3318f998d9261ed213cf48c4" md5="767eaa944a6df2d2cb3f3b20d2cb9abb"/>
+	</game>
+	<game name="Solitaire">
+		<description>The classic card solitaire, now for Vircon32.</description>
+		<rom name="Solitaire.v32" size="25599608" crc="375c5ad1" sha1="e7fdaa0344e9ab3c844e57d2b29a5e3a7c4f22a4" md5="8b85d7e5c368891cf9ea0a5b42f0c11d"/>
+	</game>
+	<game name="Test - Beat editor">
+		<description>Beat editor test</description>
+		<rom name="Test - Beat editor.v32" size="1410992" crc="1acd704d" sha1="002f7b180a8f15792c986d4ef359c67d5e6e9fe5" md5="b2b121cc0d16f287aba1805a0fe1867f"/>
+	</game>
+	<game name="Test - Blending modes">
+		<description>Blending modes test</description>
+		<rom name="Test - Blending modes.v32" size="2272228" crc="e911fc54" sha1="e0923f5ae90f46104cc6d0da19679d6564e62416" md5="2a4eba629ad0bfeb7e7e25c877697b40"/>
+	</game>
+	<game name="Test - Date and time">
+		<description>Date and time test</description>
+		<rom name="Test - Date and time.v32" size="858268" crc="fa1ee287" sha1="a9ef4e779d37cb793f0218eb6b9040311a76c336" md5="7eee30f7c6969a0d96276f4593942bc5"/>
+	</game>
+	<game name="Test - Gamepads">
+		<description>Gamepads test</description>
+		<rom name="Test - Gamepads.v32" size="161732" crc="e93ffa51" sha1="3a54288f8f355cacf38b15535a9240545f8ef314" md5="790275342d0d456f0476ed57a2803a66"/>
+	</game>
+	<game name="Test - Large zoom">
+		<description>Zoom test</description>
+		<rom name="Test - Large zoom.v32" size="17204" crc="023ab023" sha1="748c885d1021d85c44fbb403794b35fe8edeb8f0" md5="5276520bde0e0862ab8116894b1c964a"/>
+	</game>
+	<game name="Test - Math functions">
+		<description>Math functions test</description>
+		<rom name="Test - Math functions.v32" size="1030024" crc="5b958965" sha1="3caab6a291d3c03570dcde657bb4cf9eba090eda" md5="34741955659ac6e917b08cf8863b89a2"/>
+	</game>
+	<game name="Test - Memory card">
+		<description>Memory card test</description>
+		<rom name="Test - Memory card.v32" size="454128" crc="f9344e6d" sha1="2bcd5a57b0e3c52362111681c521e7e3a0632e1b" md5="25e9a5e6b940f20bb4e9ab5d81548e5c"/>
+	</game>
+	<game name="Test - Minimal test">
+		<description>Minimal test</description>
+		<rom name="Test - Minimal test.v32" size="272176" crc="907c3451" sha1="fc46ec8b80f23d79ff06af8b1a350066d96c95e2" md5="961af26bde1b404585d69691f481c279"/>
+	</game>
+	<game name="Test - Random numbers">
+		<description>Random numbers test</description>
+		<rom name="Test - Random numbers.v32" size="534328" crc="e63f70e3" sha1="04aa59f62889a7f8ff5b406546b52eafae7c7277" md5="1de99b342cc81ea233f6ec0a951eb714"/>
+	</game>
+	<game name="Test - Rotozoom">
+		<description>Rotation and zoom test</description>
+		<rom name="Test - Rotozoom.v32" size="1069168" crc="d0f1ab4d" sha1="5e3fd65b48fab60ea702f3974c257d6961bbaf22" md5="874acadbbcd78b8ee0d150f7c4f4c46b"/>
+	</game>
+	<game name="Test - Sound effects">
+		<description>Sound effects test</description>
+		<rom name="Test - Sound effects.v32" size="449236" crc="5fb93194" sha1="6b1f7304b37d79ca886526f3770f2d71b86dd9e5" md5="f90d327a4c0d48185c1564be1784bb4e"/>
+	</game>
+	<game name="Test - Tile map">
+		<description>Tile map test</description>
+		<rom name="Test - Tile map.v32" size="362584" crc="281c407f" sha1="0353f01a6a3cbeebf299bed222bae02a01e8f353" md5="f6054565093bd742e3b5d1f9b05c4b65"/>
+	</game>
+	<game name="Tic Tac Toe">
+		<description>A simple Tic Tac Toe port, for 2 players only on the same gamepad.</description>
+		<rom name="Tic Tac Toe.v32" size="1178792" crc="f92833b3" sha1="b0b83daeff09bbdfd3180ddec80f0b6520d9795e" md5="dd3a78ec66cab91f5093e4b68361b393"/>
+	</game>
+	<game name="Triple Bubble (Demo)">
+		<description>A bubble shooting game.</description>
+		<rom name="Triple Bubble (Demo).v32" size="33411740" crc="8c5108fe" sha1="5c0d661e00fbaf6e8584214a9ea34878876c8f14" md5="0a8e36802e5641c16cf155c981e96dae"/>
+	</game>
+	<game name="Virconstein 3D (Demo)">
+		<description>An impressive first-person 3D environment you can navigate.</description>
+		<rom name="Virconstein 3D (Demo).v32" size="1147300" crc="a8324e05" sha1="7f2a626e4119949b289adc2e993ae309242a2ab2" md5="71d5cb2f737786487c84579959e239b5"/>
+	</game>
+	<game name="Vitris">
+		<description>A Vircon32 version of the classic Tetris.</description>
+		<rom name="Vitris.v32" size="41611608" crc="53f1df5f" sha1="8de30d2037f64554d7668c43b5e10fc5cdb9f332" md5="bd8a12f30679f2357e132e96c919ff85"/>
+	</game>
+	<machine name="Bad Apple">
+		<description>Bad Apple</description>
+		<rom name="Bad Apple.v32" size="66873028" crc="742d3140" md5="b4c5a3c43a0af9a0de8aa88e72d9d4e8" sha1="220cd6e70998a946aedd31b1cdccf2e241d2f58b"/>
+	</machine>
+	<machine name="Blips">
+		<description>Blips</description>
+		<rom name="Blips.v32" size="30596288" crc="bcae67c9" md5="5d4b2f24778e02495bc52ca8761005cf" sha1="0ba45d066c80b56c824a8db0918cae1a07541174"/>
+	</machine>
+	<machine name="OceanStorm">
+		<description>OceanStorm</description>
+		<rom name="OceanStorm.v32" size="97237712" crc="cd68b940" md5="c3cb0cce152bcafa75b5d3343667cd67" sha1="c1bdb02cccee8cf1d58a7190efd0b6cb52ac6638"/>
+	</machine>
+	<machine name="Retrotime">
+		<description>Retrotime</description>
+		<rom name="Retrotime.v32" size="222130736" crc="c84b9915" md5="0cd9c7ea12961c81c24e71d188d75959" sha1="d97c907d7cf9d92a7e94070fc81c23a0f7838f91"/>
+	</machine>
+	<machine name="Savannah Sprint">
+		<description>Savannah Sprint</description>
+		<rom name="SavannahSprint.v32" size="27358232" crc="64658bf2" md5="d335e630ebd7a8b963677c5be3ad41cd" sha1="f96bafa4937d6f96eeb57f9a4e96fb3187c8ab38"/>
+	</machine>
+	<machine name="Test - CPU errors">
+		<description>CPU errors test</description>
+		<rom name="Test - CPU errors.v32" size="12568" crc="2ffa79d1" md5="8bdb3ce9b041da22807d9145c5115ec1" sha1="2df52f744f38d356e8c35b2064faeecde25a19dd"/>
+	</machine>
+	<machine name="Vircoban">
+		<description>Vircoban</description>
+		<rom name="Vircoban.v32" size="87359136" crc="ab51df6d" md5="7467ece98d526373baf7aa51cb6d8d6f" sha1="81c256fad08e877be2c776b5edbce07af99693e3"/>
+	</machine>
+	<machine name="Waternet">
+		<description>Waternet</description>
+		<rom name="Waternet.v32" size="18759376" crc="cfee6f4b" md5="031e190295e937d770b4039a1dc5f164" sha1="cbadeb4fdad79aba98c3960c0ea5d15cbbfbc71d"/>
+	</machine>
+</datafile>

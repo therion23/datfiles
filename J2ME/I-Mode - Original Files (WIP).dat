@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>I-Mode - Original Files (WIP)</name>
+		<description>Keitai Wiki's I-Mode collection</description>
+		<category>Standard DatFile</category>
+		<version>2025-01-21</version>
+		<date>2025-01-21</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>https://keitaiwiki.com/wiki/KeitaiWiki</url>
+		<comment>Collection by Keitai Wiki</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="D505i">
+		<description>D505i</description>
+		<rom name="device1\chocobo21.jam" size="385" crc="2782d9c7" md5="13afef2a2f56e19d28ca4e919b856937" sha1="5501bfa9ae0a9b428745859935c5507185a0b8a6"/>
+		<rom name="device1\chocobo21.jar" size="30709" crc="95a4046d" md5="9c5612710102fa85a69e6cb746f8b833" sha1="8db6713f0fbcf68c555610fbb1932dc9ec13f9a2"/>
+		<rom name="device1\chocobo21.sp" size="204864" crc="a122b345" md5="fd1460aaabf3041e7d150ffbabecb790" sha1="28827fc21475188c2fff0d4c683be0f4e681e224"/>
+		<rom name="device1\chocobo210.scr" size="201728" crc="e8a9e280" md5="41ec9f07e92a916c523c33162cb54ba0" sha1="7cb8d50000d2cef38b9e891c46f569fcbbf332ab"/>
+		<rom name="device1\chocobo211.scr" size="3072" crc="f759d415" md5="7c1de1195c5b2abf9d7e690a67d84a58" sha1="3e6457d3e85e967c60a56759dfcf0a7d95691dad"/>
+		<rom name="device1\chocomate.jam" size="467" crc="ef550df6" md5="66a183c008cbd33470fd58b209750020" sha1="c9f51ff9af0c00a9eb5cbeab52d886142073b68a"/>
+		<rom name="device1\chocomate.jar" size="24193" crc="9053806e" md5="18eb9fd3f9f133c11fba002a30960748" sha1="b2dde779dc9d22aed66da481ed2ea1255c8a2de9"/>
+		<rom name="device1\chocomate.sp" size="200064" crc="38763342" md5="f3c76edd636b6ed6c24258aa261796de" sha1="34f842f7ae3bf2f498a1caf06127cb3cc8b36de6"/>
+		<rom name="device1\chocomate0.scr" size="164760" crc="57309bbe" md5="5ae4e0703b81335e5d518afe6737cdff" sha1="65b604777be149c99e2e0b0ce03860f3c1ade646"/>
+		<rom name="device1\chocomate1.scr" size="35240" crc="4e1108a1" md5="24c94d8117b354abc665b8b07333b9b6" sha1="5bc38bb51cf40fb133a1d50b1a2516f42593c65d"/>
+		<rom name="device1\EmojiMail_D505i.jam" size="476" crc="fbb60d3e" md5="e6841afb16259b6133ebd15977a50345" sha1="2ab82f4216ec5f348e06a791ab191b71d7c111a9"/>
+		<rom name="device1\EmojiMail_D505i.jar" size="30709" crc="19c6cd4d" md5="5aef09e0bfaaa41b72ecda33fe9814f1" sha1="7fda607dea3e8dd5e85cd6035a6705e8a10670a2"/>
+		<rom name="device1\EmojiMail_D505i.sp" size="204864" crc="653e018b" md5="2e8d5ec4e9f814939942cf229e853ba3" sha1="510163b235ecdaca28c2e0a99933ec0ec4aef841"/>
+		<rom name="device1\EmojiMail_D505i0.scr" size="204800" crc="98075623" md5="f3b4c0cffbf4fa2f62fa5051bb63a82a" sha1="da5ca5d933fabee553f3ed9c1bd63d1505cf03eb"/>
+	</machine>
+	<machine name="SH-05A">
+		<description>SH-05A</description>
+		<rom name="Ore no Natsu Matsuri\Festival.jam" size="378" crc="e61c2b90" md5="d134b01fcf968c373ab7bf69b272f907" sha1="9ad48560093d7955015d82ae97ae5e99abac9279"/>
+		<rom name="Ore no Natsu Matsuri\Festival.jar" size="29934" crc="e648f615" md5="6a8d97da112b807894ad8ced34c0a0bc" sha1="2d10c30ad64a3e98f535aa890ee7034f0a7b1c79"/>
+		<rom name="Ore no Natsu Matsuri\Festival.sp" size="204864" crc="de6f3cfd" md5="b79c332ef5fa689f6e7f15ebc7799ffd" sha1="0a6fe32b022066b27849513c2cef4cabfcbe2fcd"/>
+	</machine>
+</datafile>

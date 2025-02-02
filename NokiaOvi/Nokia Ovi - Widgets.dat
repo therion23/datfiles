@@ -1,0 +1,1906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nokia Ovi Store Panic Grab - Widgets</name>
+		<description>Nokia Ovi Store Panic Grab - Widgets</description>
+		<category>Standard DatFile</category>
+		<version>2015-03-10</version>
+		<date>2015-03-10</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>https://archive.org/details/2015_ovi_store_panic</url>
+		<comment>Collection by Sketch the Cow</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="7sTouches_356771">
+		<description>7sTouches_356771</description>
+		<rom name="7sTouches_356771.wgz" size="1636743" crc="ffd72659" md5="1ad298b44fdffbb3105aeb0eaac72eda" sha1="4a0db72777931d180b8f396358e44423b492869e"/>
+	</machine>
+	<machine name="7wonderToolsWEB_386712">
+		<description>7wonderToolsWEB_386712</description>
+		<rom name="7wonderToolsWEB_386712.wgz" size="27364" crc="9019f606" md5="6b5fb3d9f448b6ae831178c5b2b6ad4d" sha1="46f16ec4e1b36b3d157a6cfe85fd42cded54d6ba"/>
+	</machine>
+	<machine name="_1000_Colors_Demo_558820">
+		<description>_1000_Colors_Demo_558820</description>
+		<rom name="_1000_Colors_Demo_558820.wgz" size="402769" crc="2b56418c" md5="eb7876718b6bd72f015425ab6abd0e7a" sha1="f4692529246eab20ded754a070ac9304bd196be9"/>
+	</machine>
+	<machine name="ABS-CBN_News_Mobile1_379282.1">
+		<description>ABS-CBN_News_Mobile1_379282.1</description>
+		<rom name="ABS-CBN_News_Mobile1_379282.1.wgz" size="642706" crc="0e7a0254" md5="8f6d894ddfd3dcb76a9047de58004b29" sha1="a8af3284da03f7fe1fbef0ec4fdcfd3cc2462ec3"/>
+	</machine>
+	<machine name="abthir_369788">
+		<description>abthir_369788</description>
+		<rom name="abthir_369788.wgz" size="933217" crc="895d514f" md5="f4d33089cf20d092d2d210e29cb97eb7" sha1="3d0f4ef8d646303f8da76769755ef1c7c88c7b42"/>
+	</machine>
+	<machine name="Aftonbladet_N_jesbladet_RSS_79979">
+		<description>Aftonbladet_N_jesbladet_RSS_79979</description>
+		<rom name="Aftonbladet_N_jesbladet_RSS_79979.wgz" size="36137" crc="6e69430c" md5="e9bd82548af395901f0db34ff7151141" sha1="3b86386780f778dd6affd0942989e0399f4d44d8"/>
+	</machine>
+	<machine name="Aftonbladet_Sportbladet_RSS_79977">
+		<description>Aftonbladet_Sportbladet_RSS_79977</description>
+		<rom name="Aftonbladet_Sportbladet_RSS_79977.wgz" size="34246" crc="80ec0d4a" md5="3d870a46b492f5a8769b727e57ec658a" sha1="6d76a4a459292ed483d9a14a7df5fa8b53917647"/>
+	</machine>
+	<machine name="Airport_Bus_Info_401963">
+		<description>Airport_Bus_Info_401963</description>
+		<rom name="Airport_Bus_Info_401963.wgz" size="151376" crc="3583a0fe" md5="ebf1ca138bfbef2c66f0724a7f9caa13" sha1="c29fc978a40612e94d1c4963bc034ce85589f60a"/>
+	</machine>
+	<machine name="algeria_640235">
+		<description>algeria_640235</description>
+		<rom name="algeria_640235.wgz" size="183409" crc="b0f3b1a0" md5="fcee689b3dbbcfb6280f7ea349cfdf6c" sha1="ac98e9e7bfaf5018602ff17ad12d317b44e33288"/>
+	</machine>
+	<machine name="All_Stars_Sudoku_Trial_45106">
+		<description>All_Stars_Sudoku_Trial_45106</description>
+		<rom name="All_Stars_Sudoku_Trial_45106.wgz" size="239451" crc="dd9e9904" md5="c67acd095d64c9ecb7075fc69d7d431d" sha1="91b107eb0099cba1834cdb682eb626b471bd64f6"/>
+	</machine>
+	<machine name="Alphabet_Quiz_Demo_606004">
+		<description>Alphabet_Quiz_Demo_606004</description>
+		<rom name="Alphabet_Quiz_Demo_606004.wgz" size="772450" crc="d61c0b7c" md5="18406156b15134a7d441f1733291268a" sha1="20426e4b411366b8ac8491327194fd2d9d6b3a69"/>
+	</machine>
+	<machine name="app-2_386332">
+		<description>app-2_386332</description>
+		<rom name="app-2_386332.wgz" size="1354915" crc="03020af5" md5="0cf5d407d93aa553e1a3a561c82d0d4d" sha1="54d23e3ef5f2490cdfbd53f6f618d408dbe6a27b"/>
+	</machine>
+	<machine name="app_384206">
+		<description>app_384206</description>
+		<rom name="app_384206.wgz" size="337372" crc="56debd65" md5="7441ac5617d10c168f3060c263ea63f0" sha1="b8b356b44de0db87e0b445202a40d3f7c3f14a31"/>
+	</machine>
+	<machine name="app_386344">
+		<description>app_386344</description>
+		<rom name="app_386344.wgz" size="9786959" crc="43a8dba2" md5="d0741d1300203100d798c3195b5187cd" sha1="f1c01141ad8d5d34d515f80bf356dc5e45546b51"/>
+	</machine>
+	<machine name="app_633052">
+		<description>app_633052</description>
+		<rom name="app_633052.wgz" size="1416602" crc="95571a86" md5="dfd5e73e975eab4da995936929513e1a" sha1="331e0e2c6290455eb0f4315db0965d06c6f8034c"/>
+	</machine>
+	<machine name="app_655642">
+		<description>app_655642</description>
+		<rom name="app_655642.wgz" size="7291560" crc="d67c43aa" md5="dea462e08a5bda3f25f7655fe73762b6" sha1="28d7c5c532db5e9a6387defcefa463d3b2cad397"/>
+	</machine>
+	<machine name="app_658650">
+		<description>app_658650</description>
+		<rom name="app_658650.wgz" size="6613707" crc="d214e64f" md5="c6c93e37ca3b06cb3301e76ad7ee87f9" sha1="09a0b5d43f0f797be7f70b0b97104857bb45f1c3"/>
+	</machine>
+	<machine name="appwizard115625_v1_3_76782">
+		<description>appwizard115625_v1_3_76782</description>
+		<rom name="appwizard115625_v1_3_76782.wgz" size="244509" crc="a6d594d0" md5="ebf0323e4a8edb9e1437637de4d54e09" sha1="31516abe4d2a896c003f213f02eab9843df1468c"/>
+	</machine>
+	<machine name="appwizard115628_v1_3_76793">
+		<description>appwizard115628_v1_3_76793</description>
+		<rom name="appwizard115628_v1_3_76793.wgz" size="257288" crc="2a734feb" md5="5f6a610362d476690f93780d7c4f4b2f" sha1="9d0636428a6bee9ca2b36b7da98f10601586bcba"/>
+	</machine>
+	<machine name="appwizard115809_v1_3_76747">
+		<description>appwizard115809_v1_3_76747</description>
+		<rom name="appwizard115809_v1_3_76747.wgz" size="269339" crc="d2d4f093" md5="d902b0d4d29c0865a4f69d8425130443" sha1="c8eddb8edd273d0e5d3d7cbd520fcb5671a06b3d"/>
+	</machine>
+	<machine name="appwizard116090_v1_3_76799">
+		<description>appwizard116090_v1_3_76799</description>
+		<rom name="appwizard116090_v1_3_76799.wgz" size="245469" crc="5642d588" md5="fbced7cad590e64dcb1dff5a96de12d2" sha1="cf969a49c16fcb8fa1f97dee8ba2c2365f7c488f"/>
+	</machine>
+	<machine name="appwizard116277_v1_3_76918">
+		<description>appwizard116277_v1_3_76918</description>
+		<rom name="appwizard116277_v1_3_76918.wgz" size="251829" crc="6d9cb2e9" md5="9eb7776726b62ea60077bc81b5e8cc15" sha1="f94f0e710963f44eb63d4e959d9264c222b40c4c"/>
+	</machine>
+	<machine name="appwizard118475_v1_3_77107">
+		<description>appwizard118475_v1_3_77107</description>
+		<rom name="appwizard118475_v1_3_77107.wgz" size="233804" crc="78a1efdc" md5="75702b8047aa146ed792f757f97311a3" sha1="4d0ee6e4096004bd2050720e755532e5d98a8142"/>
+	</machine>
+	<machine name="appwizard118723_v1_3_77099">
+		<description>appwizard118723_v1_3_77099</description>
+		<rom name="appwizard118723_v1_3_77099.wgz" size="264925" crc="93988203" md5="43c5929901bf1254cb1ced383aacca39" sha1="af19ef0667ef797fc04813a32b4916e55da34684"/>
+	</machine>
+	<machine name="appwizard119349_v1_2_77281">
+		<description>appwizard119349_v1_2_77281</description>
+		<rom name="appwizard119349_v1_2_77281.wgz" size="191028" crc="10af5aaa" md5="3cfa2e5d26e654faa07df2a58253bbb1" sha1="dcab24e582e597bec67e902c44a4de62c9cec156"/>
+	</machine>
+	<machine name="appwizard119387_v1_3_77295">
+		<description>appwizard119387_v1_3_77295</description>
+		<rom name="appwizard119387_v1_3_77295.wgz" size="239542" crc="99d97f26" md5="be91ee26cd8abb4acef0214ec223bf0e" sha1="ee198fc579ab94f6c1c9334363e2f543935c6595"/>
+	</machine>
+	<machine name="appwizard119523_v1_3_77278">
+		<description>appwizard119523_v1_3_77278</description>
+		<rom name="appwizard119523_v1_3_77278.wgz" size="255254" crc="501fbfbb" md5="2fd64c3db42af291df5d1a816336c550" sha1="9920f6bb824046da9c3b05427391e91bcb2f3912"/>
+	</machine>
+	<machine name="appwizard227038_v1_3_559856">
+		<description>appwizard227038_v1_3_559856</description>
+		<rom name="appwizard227038_v1_3_559856.wgz" size="296386" crc="10f94451" md5="787e795d36173148a2b582bc73473f77" sha1="4e655b401edaaaa410b6505fd1c72d00029490d3"/>
+	</machine>
+	<machine name="appwizard284250_v1_3_380867">
+		<description>appwizard284250_v1_3_380867</description>
+		<rom name="appwizard284250_v1_3_380867.wgz" size="293380" crc="01734cc1" md5="02ecc798ad639e425ad0c948490a7b73" sha1="e363ba105ed7e646421a5c996fd23819f219226d"/>
+	</machine>
+	<machine name="appwizard361188_v1_3_371556">
+		<description>appwizard361188_v1_3_371556</description>
+		<rom name="appwizard361188_v1_3_371556.wgz" size="299005" crc="6a559550" md5="26d1cc1c14dba2565f77090a4ea8a035" sha1="e1d0ca0e1fd288c8bf18234d1bafe01194989b6f"/>
+	</machine>
+	<machine name="appwizard370077_v1_3_573742">
+		<description>appwizard370077_v1_3_573742</description>
+		<rom name="appwizard370077_v1_3_573742.wgz" size="299533" crc="9ccb953a" md5="c1229f5de7bb5eff4fc365fa406321f9" sha1="ccf58b41a5afbd3a4cb98ba50ea836b5fef4a3f1"/>
+	</machine>
+	<machine name="appwizard371293_v1_3_573749">
+		<description>appwizard371293_v1_3_573749</description>
+		<rom name="appwizard371293_v1_3_573749.wgz" size="342856" crc="fb8e505f" md5="f6689caea8ad62ec1e803b25ce7936b9" sha1="776c7c1016e451e66b567038d699e34e4cbabd7b"/>
+	</machine>
+	<machine name="appwizard380080_v1_3_356894">
+		<description>appwizard380080_v1_3_356894</description>
+		<rom name="appwizard380080_v1_3_356894.wgz" size="297594" crc="d1657d98" md5="0f728f69c55c12314da6077519352b69" sha1="44701c88e003baef7a1429d8c9738a562e677e4b"/>
+	</machine>
+	<machine name="appwizard426911_v1_3_360317">
+		<description>appwizard426911_v1_3_360317</description>
+		<rom name="appwizard426911_v1_3_360317.wgz" size="262512" crc="466cb0b5" md5="2b160c638621a2022c244fd907609efc" sha1="17be6be11818f90c48079a19c0d84e9b40568c63"/>
+	</machine>
+	<machine name="appwizard429177_v1_3_357189">
+		<description>appwizard429177_v1_3_357189</description>
+		<rom name="appwizard429177_v1_3_357189.wgz" size="339344" crc="a3dd56a8" md5="459640ef6a6d763bb48a0d19017598a1" sha1="bcd61a3a425ae708063e3ca99dade5dc65ad2917"/>
+	</machine>
+	<machine name="appwizard429181_v1_3_357274">
+		<description>appwizard429181_v1_3_357274</description>
+		<rom name="appwizard429181_v1_3_357274.wgz" size="356452" crc="f1bd6745" md5="29862db19e4bfe49dabdafc5a23c87b5" sha1="2d5c7813c4bef0abc6e28635e17b7eca6544a36d"/>
+	</machine>
+	<machine name="appwizard429225_v1_3_357363">
+		<description>appwizard429225_v1_3_357363</description>
+		<rom name="appwizard429225_v1_3_357363.wgz" size="234693" crc="b6d8ec35" md5="a7e3e28bc9bc9db91b9beaaf150be7ea" sha1="ad718505654aaa677c17b9eeb86bbd829f93cef3"/>
+	</machine>
+	<machine name="appwizard429329_v1_3_356983">
+		<description>appwizard429329_v1_3_356983</description>
+		<rom name="appwizard429329_v1_3_356983.wgz" size="324332" crc="e87ba312" md5="822d458b19de16dd886b745ff07265e3" sha1="208202963900d022bca467283acbac377f42b00a"/>
+	</machine>
+	<machine name="appwizard429402_v1_3_357042">
+		<description>appwizard429402_v1_3_357042</description>
+		<rom name="appwizard429402_v1_3_357042.wgz" size="309049" crc="6b0739c6" md5="a212f8ccfa19c8505eb56f78ec8a5417" sha1="4acc13f0e56fec7a01c904b222efe76d9c113311"/>
+	</machine>
+	<machine name="appwizard429540_v1_3_357340">
+		<description>appwizard429540_v1_3_357340</description>
+		<rom name="appwizard429540_v1_3_357340.wgz" size="256685" crc="806d36ba" md5="bf270d297059f7a9eca701d78ca17af2" sha1="de5bd9c72ef7702c1b877768c61b96d69ed2298f"/>
+	</machine>
+	<machine name="appwizard430096_v1_3_358859">
+		<description>appwizard430096_v1_3_358859</description>
+		<rom name="appwizard430096_v1_3_358859.wgz" size="322458" crc="3c9c397b" md5="73ecc719162186442ed2d3fbcd147278" sha1="124f99d86debeb8617f16d293104780bdcdd5f82"/>
+	</machine>
+	<machine name="appwizard430158_v1_3_365932">
+		<description>appwizard430158_v1_3_365932</description>
+		<rom name="appwizard430158_v1_3_365932.wgz" size="354330" crc="447a9b54" md5="e165eecabaeea144d528749007a6182f" sha1="e5053da262255f06ee042749db5a89643861a4d9"/>
+	</machine>
+	<machine name="appwizard430687_v1_3_364830">
+		<description>appwizard430687_v1_3_364830</description>
+		<rom name="appwizard430687_v1_3_364830.wgz" size="329878" crc="55e38b1a" md5="07da16fba2f035084279fff9d45c8b60" sha1="768ff2c523481386385a39e6adecddd93255f7e9"/>
+	</machine>
+	<machine name="appwizard431017_v1_3_360725">
+		<description>appwizard431017_v1_3_360725</description>
+		<rom name="appwizard431017_v1_3_360725.wgz" size="255033" crc="c2d37784" md5="8ab8eb0a7038b20e1d418fe84968a53d" sha1="5ccb0ae1b16f214358392c7938d44593a266f12c"/>
+	</machine>
+	<machine name="appwizard431085_v1_3_360778">
+		<description>appwizard431085_v1_3_360778</description>
+		<rom name="appwizard431085_v1_3_360778.wgz" size="310568" crc="5656889e" md5="d2233b6ab92d1ffc507adbd4faa0c43c" sha1="970036f1272011864c258f54bc7b703a9522a485"/>
+	</machine>
+	<machine name="appwizard431354_v1_3_362005">
+		<description>appwizard431354_v1_3_362005</description>
+		<rom name="appwizard431354_v1_3_362005.wgz" size="355578" crc="2c054954" md5="05f6c78e35dec41a9b161e44160ed9ea" sha1="915b700f73a88aec5d021e228ad94a83c562e305"/>
+	</machine>
+	<machine name="appwizard431355_v1_3_364223">
+		<description>appwizard431355_v1_3_364223</description>
+		<rom name="appwizard431355_v1_3_364223.wgz" size="263111" crc="04c8086d" md5="1fd6ad7837b8ce4bc77980d4cbd422fc" sha1="48a42dc0af52fda2a9c2932477b564c83d921e9a"/>
+	</machine>
+	<machine name="appwizard431415_v1_3_363595">
+		<description>appwizard431415_v1_3_363595</description>
+		<rom name="appwizard431415_v1_3_363595.wgz" size="304808" crc="6f04f83d" md5="ba7cbcde41ecbe1736b863dab88451dc" sha1="28b7d5959f4e26af097ae0ddab0a3f00fb15c57b"/>
+	</machine>
+	<machine name="appwizard431951_v1_3_363398">
+		<description>appwizard431951_v1_3_363398</description>
+		<rom name="appwizard431951_v1_3_363398.wgz" size="299469" crc="b36ff7a1" md5="3bcb9b9dcc587a5e6b807a2d7dac03f6" sha1="f5b64da7dff2fe32d94bca91f14d86b153bcb092"/>
+	</machine>
+	<machine name="appwizard431973_v1_3_363417">
+		<description>appwizard431973_v1_3_363417</description>
+		<rom name="appwizard431973_v1_3_363417.wgz" size="255249" crc="b2d06ee6" md5="b2b9a62b0af7b6a177b87f1603c844e7" sha1="d8a8c5b1406ec65cd6d99cd8b0c9e815520e3445"/>
+	</machine>
+	<machine name="appwizard432050_v1_3_371586">
+		<description>appwizard432050_v1_3_371586</description>
+		<rom name="appwizard432050_v1_3_371586.wgz" size="330921" crc="dbffd52c" md5="c90f4b67db1fd9a1c8a8435f7903bc1e" sha1="ec0cf224f8cf08a4da21eec206aa824447fa6786"/>
+	</machine>
+	<machine name="appwizard432265_v1_3_364255">
+		<description>appwizard432265_v1_3_364255</description>
+		<rom name="appwizard432265_v1_3_364255.wgz" size="258436" crc="924c1a0e" md5="6078908c349244844840216f7b11f5b7" sha1="ee251f0e4b94290d1ffe7ece0f4fbf66620d7583"/>
+	</machine>
+	<machine name="appwizard432338_v1_3_363511">
+		<description>appwizard432338_v1_3_363511</description>
+		<rom name="appwizard432338_v1_3_363511.wgz" size="262706" crc="70939664" md5="2f60e3b3acca8d1dd7d1c0a6f93c193c" sha1="0eb62e6b8f52971136a76cbf49f5aee8154e4437"/>
+	</machine>
+	<machine name="appwizard432449_v1_3_363681">
+		<description>appwizard432449_v1_3_363681</description>
+		<rom name="appwizard432449_v1_3_363681.wgz" size="250294" crc="ad84689e" md5="c152e866e147fcfe02483534bda9dda3" sha1="bc04793c71c6ef91b8febb5fcf7ee24b35a97467"/>
+	</machine>
+	<machine name="appwizard432665_v1_3_365983">
+		<description>appwizard432665_v1_3_365983</description>
+		<rom name="appwizard432665_v1_3_365983.wgz" size="269447" crc="221c57bc" md5="591983676c9018d483b0b8f3e9f60359" sha1="0ef57f6f89de74697cfa0cc940dfe99133aff1d9"/>
+	</machine>
+	<machine name="appwizard432704_v1_3_364425">
+		<description>appwizard432704_v1_3_364425</description>
+		<rom name="appwizard432704_v1_3_364425.wgz" size="304899" crc="f1494d90" md5="a13996e0dfecf7291066da6c05302957" sha1="63c889092bef21719fc9ebbd73a7839235648f01"/>
+	</machine>
+	<machine name="appwizard432974_v1_3_379621">
+		<description>appwizard432974_v1_3_379621</description>
+		<rom name="appwizard432974_v1_3_379621.wgz" size="328185" crc="f582cc1d" md5="c895bcce826c806d4370dcb6eb8edbac" sha1="96689202df11f5ae8192396a3ba6e899a1f3bfd3"/>
+	</machine>
+	<machine name="appwizard433212_v1_3_368123">
+		<description>appwizard433212_v1_3_368123</description>
+		<rom name="appwizard433212_v1_3_368123.wgz" size="296997" crc="e06ba321" md5="289b75591dfaddc531335f93036042f6" sha1="745df6a03dcd276cad199bd7550dcc18c7f159ca"/>
+	</machine>
+	<machine name="appwizard433377_v1_3_366302">
+		<description>appwizard433377_v1_3_366302</description>
+		<rom name="appwizard433377_v1_3_366302.wgz" size="285543" crc="4257e665" md5="a8fba84be6d214b06b8d7b2324c84617" sha1="6796ccd906a5b4b700a1d3bdd8550abfcdc023ae"/>
+	</machine>
+	<machine name="appwizard433431_v1_3_366864">
+		<description>appwizard433431_v1_3_366864</description>
+		<rom name="appwizard433431_v1_3_366864.wgz" size="284210" crc="14d0b596" md5="653d3786a295f5993ebf0d53978a0f14" sha1="ea32db57f217f52438d3b9330264d010ac5414fb"/>
+	</machine>
+	<machine name="appwizard433476_v1_3_366750">
+		<description>appwizard433476_v1_3_366750</description>
+		<rom name="appwizard433476_v1_3_366750.wgz" size="246382" crc="2cf78125" md5="45309a871cdc3cab506d0dc0a3a3c0eb" sha1="8c31664c55fd0eff28cfcc815e5826546873a38e"/>
+	</machine>
+	<machine name="appwizard433682_v1_3_366919">
+		<description>appwizard433682_v1_3_366919</description>
+		<rom name="appwizard433682_v1_3_366919.wgz" size="279392" crc="91c5ff72" md5="4449087ba2a38fa82c44cf4b72b16ff6" sha1="4a2056998b2d9056723e4e0d657a0efc6e8e1c78"/>
+	</machine>
+	<machine name="appwizard433812_v1_3_372685">
+		<description>appwizard433812_v1_3_372685</description>
+		<rom name="appwizard433812_v1_3_372685.wgz" size="301689" crc="97bcc55c" md5="4adeedc778a5d67a303712710963b0a8" sha1="2fe5605ff8361862ac62a21d5fc92ce2b626ef3e"/>
+	</machine>
+	<machine name="appwizard434060_v1_3_368104">
+		<description>appwizard434060_v1_3_368104</description>
+		<rom name="appwizard434060_v1_3_368104.wgz" size="331350" crc="9f85e765" md5="a7949581aef83d2a312b3c15a4f28539" sha1="63024545d5b51d1fd38047acc14e715614e3fafa"/>
+	</machine>
+	<machine name="appwizard434205_v1_3_370904">
+		<description>appwizard434205_v1_3_370904</description>
+		<rom name="appwizard434205_v1_3_370904.wgz" size="278650" crc="025a91e9" md5="70f3779a3f5cbafd79cf38b563273a75" sha1="b53f6aa6ee1db40d5f521e7189c01c1f4c81c419"/>
+	</machine>
+	<machine name="appwizard435709_v1_3_371879">
+		<description>appwizard435709_v1_3_371879</description>
+		<rom name="appwizard435709_v1_3_371879.wgz" size="357967" crc="52dea96a" md5="1c21675b712e70d0bb59ea1d12969f96" sha1="ae329ffa2aca7909b0165819709b38429731df5e"/>
+	</machine>
+	<machine name="appwizard436548_v1_3_371772">
+		<description>appwizard436548_v1_3_371772</description>
+		<rom name="appwizard436548_v1_3_371772.wgz" size="261092" crc="328c3acd" md5="a7de83bd064829895f525b8f89c59d03" sha1="97b0f7227186f67b36385e86c66a285e1e047dc3"/>
+	</machine>
+	<machine name="appwizard436588_v1_3_371925">
+		<description>appwizard436588_v1_3_371925</description>
+		<rom name="appwizard436588_v1_3_371925.wgz" size="338501" crc="66f192d9" md5="3b8328dbed6d920e673de336d08d763c" sha1="d529a67278db6427cd181840d1f88f59101d4e01"/>
+	</machine>
+	<machine name="appwizard437394_v1_3_372753">
+		<description>appwizard437394_v1_3_372753</description>
+		<rom name="appwizard437394_v1_3_372753.wgz" size="323394" crc="34e8663c" md5="a4f3153bfebc4dc159ed08458cedd053" sha1="6e456a0394b918ed215a74c03b9f8aef95e3eedb"/>
+	</machine>
+	<machine name="appwizard437474_v1_3_372593">
+		<description>appwizard437474_v1_3_372593</description>
+		<rom name="appwizard437474_v1_3_372593.wgz" size="252590" crc="7c86e367" md5="10d224ced5cb0ca19868a45117dce3e2" sha1="d6e51635d3b31852130a02f1f863cdad4b785bbe"/>
+	</machine>
+	<machine name="appwizard437603_v1_3_372739">
+		<description>appwizard437603_v1_3_372739</description>
+		<rom name="appwizard437603_v1_3_372739.wgz" size="356950" crc="506fc4a4" md5="699130d9644a242034c56c640363a23c" sha1="873475a6dc788286c8ec420de47c3968fdc89c47"/>
+	</machine>
+	<machine name="appwizard437714_v1_3_372835">
+		<description>appwizard437714_v1_3_372835</description>
+		<rom name="appwizard437714_v1_3_372835.wgz" size="250569" crc="bef97c84" md5="f58a6710bb3335700cbc3b365bb5ae16" sha1="4277e18031d48df9a27164b7c8a2ff4752581da8"/>
+	</machine>
+	<machine name="appwizard437759_v1_3_373176">
+		<description>appwizard437759_v1_3_373176</description>
+		<rom name="appwizard437759_v1_3_373176.wgz" size="386248" crc="c09c9844" md5="abf8ba525807c841db060a45ca958e78" sha1="33bcc241ce8afd7a05d03e15540eb398b09851d7"/>
+	</machine>
+	<machine name="appwizard437815_v1_3_403693">
+		<description>appwizard437815_v1_3_403693</description>
+		<rom name="appwizard437815_v1_3_403693.wgz" size="274333" crc="46d43d14" md5="ab051097e75762696921db97de4770a2" sha1="9cc1facca92044e3dd5a8f1e95ab649c9f13b40c"/>
+	</machine>
+	<machine name="appwizard437876_v1_3_374026">
+		<description>appwizard437876_v1_3_374026</description>
+		<rom name="appwizard437876_v1_3_374026.wgz" size="337613" crc="337b99c5" md5="5912df95bfa65a4c4ee77df8f8e56974" sha1="44083b9f9b20f87e04660c377fa6b07d5f64bc4c"/>
+	</machine>
+	<machine name="appwizard437895_v1_3_373196">
+		<description>appwizard437895_v1_3_373196</description>
+		<rom name="appwizard437895_v1_3_373196.wgz" size="253892" crc="4ce8acf6" md5="7615eb50f124177a7cf744eaa874d7b3" sha1="8eadc11404f050b7e4b0fa179b22fc8542299201"/>
+	</machine>
+	<machine name="appwizard437922_v1_3_373726">
+		<description>appwizard437922_v1_3_373726</description>
+		<rom name="appwizard437922_v1_3_373726.wgz" size="274810" crc="95587f5d" md5="7b854650da145d4bdc725c2e263d5db3" sha1="fbc9e4d863f3729faee3a3f64cb496abb09c3777"/>
+	</machine>
+	<machine name="appwizard438206_v1_3_373656">
+		<description>appwizard438206_v1_3_373656</description>
+		<rom name="appwizard438206_v1_3_373656.wgz" size="329380" crc="68470b20" md5="9bf1c5e08185abcc9d726465c966bc97" sha1="db936a8fdee00dad0cfc2fdaa3e979726f34f2c1"/>
+	</machine>
+	<machine name="appwizard438333_v1_3_373734">
+		<description>appwizard438333_v1_3_373734</description>
+		<rom name="appwizard438333_v1_3_373734.wgz" size="309948" crc="c62f9bcc" md5="48bb93181d45c7b46ebd31aa1052872f" sha1="e6c9047a5e7f11348686b27f2a2705a69427653f"/>
+	</machine>
+	<machine name="appwizard438425_v1_3_374214">
+		<description>appwizard438425_v1_3_374214</description>
+		<rom name="appwizard438425_v1_3_374214.wgz" size="290130" crc="f9a3086c" md5="7c1aad4f43c9d75a2aa5591e9d7d3bce" sha1="fc9fc2ba1b80c02a2399b80c00db267866d4c0a0"/>
+	</machine>
+	<machine name="appwizard438443_v1_3_374089">
+		<description>appwizard438443_v1_3_374089</description>
+		<rom name="appwizard438443_v1_3_374089.wgz" size="283928" crc="008a67ec" md5="5fd1cee23a42918fdb2fd0b33f033d57" sha1="5d86a484800925b8d6edba3435001a3912546b31"/>
+	</machine>
+	<machine name="appwizard438776_v1_3_375039">
+		<description>appwizard438776_v1_3_375039</description>
+		<rom name="appwizard438776_v1_3_375039.wgz" size="356492" crc="f493dda4" md5="f3582d05629fe1c78a648165ae681017" sha1="178947a3fd3a2763eaea8ef793af1622688de3dd"/>
+	</machine>
+	<machine name="appwizard439673_v1_3_375105">
+		<description>appwizard439673_v1_3_375105</description>
+		<rom name="appwizard439673_v1_3_375105.wgz" size="295610" crc="769ae972" md5="b663a16bed71787e2b0b8a9897e1f140" sha1="01cd4acc0eaedc27131086b9557f678de16726ff"/>
+	</machine>
+	<machine name="appwizard440213_v1_3_383735">
+		<description>appwizard440213_v1_3_383735</description>
+		<rom name="appwizard440213_v1_3_383735.wgz" size="291292" crc="a7e8abf6" md5="cebae3c3dedf0dc45544a4480ed6a127" sha1="3b373e6660b8cd31028fb76c8eb3b673fc74d517"/>
+	</machine>
+	<machine name="appwizard440232_v1_3_376329">
+		<description>appwizard440232_v1_3_376329</description>
+		<rom name="appwizard440232_v1_3_376329.wgz" size="256591" crc="fe7e294d" md5="4164894c1454a6115e29348c1b4489da" sha1="1da1e67a7409b209aabd8601a34e7740683df9ed"/>
+	</machine>
+	<machine name="appwizard441419_v1_3_378427">
+		<description>appwizard441419_v1_3_378427</description>
+		<rom name="appwizard441419_v1_3_378427.wgz" size="273909" crc="c83df072" md5="bfc5e71a29028ead2cb70f06aac27e36" sha1="64ca7b738d75a4f42e330a53d8ba01e35bcbd8e5"/>
+	</machine>
+	<machine name="appwizard441567_v1_3_379009">
+		<description>appwizard441567_v1_3_379009</description>
+		<rom name="appwizard441567_v1_3_379009.wgz" size="266083" crc="368266da" md5="e0898367ca29b055b81893a356c7cdb6" sha1="d4134d70725a7f8e4223a84747f780cd5894051e"/>
+	</machine>
+	<machine name="appwizard441757_v1_3_378570">
+		<description>appwizard441757_v1_3_378570</description>
+		<rom name="appwizard441757_v1_3_378570.wgz" size="294439" crc="ffb02328" md5="b95ee55c0f2993c2627474f6188e5c17" sha1="6c063985f0fd82c5685bdd25d3a8191b5d5ffd61"/>
+	</machine>
+	<machine name="appwizard443511_v1_3_380656">
+		<description>appwizard443511_v1_3_380656</description>
+		<rom name="appwizard443511_v1_3_380656.wgz" size="249550" crc="369a6b50" md5="a744be5758a161d529366ea70ecab8f6" sha1="c8d4aafa5b20816917403d6c44684ce80374e3bd"/>
+	</machine>
+	<machine name="appwizard443539_v1_3_379798">
+		<description>appwizard443539_v1_3_379798</description>
+		<rom name="appwizard443539_v1_3_379798.wgz" size="273748" crc="42056950" md5="bec57fe45c7ac614690769872d2d3ee1" sha1="4dfa8747f86cf2d0e0249b9c0eaa1db4e686cd4d"/>
+	</machine>
+	<machine name="appwizard444733_v1_3_381234">
+		<description>appwizard444733_v1_3_381234</description>
+		<rom name="appwizard444733_v1_3_381234.wgz" size="340205" crc="c872b512" md5="a9886dbdbb800b3b8d5354ace67fb4dd" sha1="9f4b39b31038e79c16b4ac03c5ffd0ca402bf60c"/>
+	</machine>
+	<machine name="appwizard445792_v1_3_382399">
+		<description>appwizard445792_v1_3_382399</description>
+		<rom name="appwizard445792_v1_3_382399.wgz" size="274619" crc="e65c6506" md5="7ae5af5d16b70e799d9622897b02cb21" sha1="c11f84be70c0bb108c0273124bc2250e4a5084b5"/>
+	</machine>
+	<machine name="appwizard446006_v1_3_383002">
+		<description>appwizard446006_v1_3_383002</description>
+		<rom name="appwizard446006_v1_3_383002.wgz" size="279710" crc="de94709a" md5="95fc1a5cdc71890ce0a07a42d19d5197" sha1="89dd57ebb8344ca60dde47bbbca44c5326c57058"/>
+	</machine>
+	<machine name="appwizard446212_v1_3_383822">
+		<description>appwizard446212_v1_3_383822</description>
+		<rom name="appwizard446212_v1_3_383822.wgz" size="319879" crc="583247cd" md5="902bf154d355c4f9bcb790f4a52b495b" sha1="f8dc268a879934433fe0eecc5cf6604027201575"/>
+	</machine>
+	<machine name="appwizard446773_v1_3_390710">
+		<description>appwizard446773_v1_3_390710</description>
+		<rom name="appwizard446773_v1_3_390710.wgz" size="243780" crc="e3f06c71" md5="e4bd680ec10e6800da15a6811e40656e" sha1="62600b5516525d17ab8e37f56dfdbd42b1afa14a"/>
+	</machine>
+	<machine name="appwizard447015_v1_3_383902">
+		<description>appwizard447015_v1_3_383902</description>
+		<rom name="appwizard447015_v1_3_383902.wgz" size="332731" crc="2c379c33" md5="04e8db36a564e8ba2720a89e2d343cc2" sha1="fce73aa8337e13e81cb2ef32f1ba10b3bfd71b56"/>
+	</machine>
+	<machine name="appwizard447300_v1_3_384320">
+		<description>appwizard447300_v1_3_384320</description>
+		<rom name="appwizard447300_v1_3_384320.wgz" size="278902" crc="f608e925" md5="c538532dd3279cbddb9824f8973fa290" sha1="2dc946bd12e01a9ddf2eb03591b79269aa9b2b11"/>
+	</machine>
+	<machine name="appwizard447592_v1_3_384531">
+		<description>appwizard447592_v1_3_384531</description>
+		<rom name="appwizard447592_v1_3_384531.wgz" size="298366" crc="2ef10934" md5="a642c925908656e6384940a8d0c92165" sha1="f7c85889fa2c61410377510821866bea6daeceda"/>
+	</machine>
+	<machine name="appwizard447756_v1_3_384996">
+		<description>appwizard447756_v1_3_384996</description>
+		<rom name="appwizard447756_v1_3_384996.wgz" size="366332" crc="e165ea22" md5="7aca590e46a781180f52a09ef529f0f3" sha1="0d92bd70187ce890164b9fe22f6f055da8f4869f"/>
+	</machine>
+	<machine name="appwizard447841_v1_3_386212">
+		<description>appwizard447841_v1_3_386212</description>
+		<rom name="appwizard447841_v1_3_386212.wgz" size="248845" crc="2b5e67fa" md5="ea87045e453e33cd8a16993d2e1fa675" sha1="b1c93fa10355ed0bbeec0d08add09193df3bb1e1"/>
+	</machine>
+	<machine name="appwizard448265_v1_3_385587">
+		<description>appwizard448265_v1_3_385587</description>
+		<rom name="appwizard448265_v1_3_385587.wgz" size="310065" crc="4512d156" md5="bfaacbda1bcea73710c5aac4c355c4d4" sha1="2255a7c4fbadba85d8a9486b6ecc6db93d9f85ed"/>
+	</machine>
+	<machine name="appwizard448628_v1_3_385689">
+		<description>appwizard448628_v1_3_385689</description>
+		<rom name="appwizard448628_v1_3_385689.wgz" size="329343" crc="21bd0376" md5="8c93a489171fd9ded3ca98fd50f4fd1b" sha1="088a8ae96eb9d82f3a6eac274327aa63d8d2cba6"/>
+	</machine>
+	<machine name="appwizard448633_v1_3_385701">
+		<description>appwizard448633_v1_3_385701</description>
+		<rom name="appwizard448633_v1_3_385701.wgz" size="277237" crc="76003070" md5="71647795bf71190011c696a06085efe2" sha1="6581c911018f9bfc94ae7cecc588f36034a261e8"/>
+	</machine>
+	<machine name="appwizard448674_v1_3_386055">
+		<description>appwizard448674_v1_3_386055</description>
+		<rom name="appwizard448674_v1_3_386055.wgz" size="342593" crc="53f16d40" md5="fdda5ab1cd863ef20bb415669452cd05" sha1="1bad1c0f9bfed5fda495c29c90e90da24901c606"/>
+	</machine>
+	<machine name="appwizard448989_v1_3_386203">
+		<description>appwizard448989_v1_3_386203</description>
+		<rom name="appwizard448989_v1_3_386203.wgz" size="366717" crc="0acc3eab" md5="5de4a104ee4c9c8f3e2894d9a4d001da" sha1="1a0140350a6ad3870b17c4f87248c4e9e7eea410"/>
+	</machine>
+	<machine name="appwizard450163_v1_3_387828">
+		<description>appwizard450163_v1_3_387828</description>
+		<rom name="appwizard450163_v1_3_387828.wgz" size="261754" crc="0931b692" md5="efbac109331448ec81db4b0559944fd9" sha1="5f64f92364625f0aeba0107c45506ac76d43f5b2"/>
+	</machine>
+	<machine name="appwizard450472_v1_3_388511">
+		<description>appwizard450472_v1_3_388511</description>
+		<rom name="appwizard450472_v1_3_388511.wgz" size="322989" crc="d20fbab0" md5="6de7f0164086bae8f06303b693fca39f" sha1="7716ac917c74dc7ca03c78c81a204f6b27ec4470"/>
+	</machine>
+	<machine name="appwizard451011_v1_3_390649">
+		<description>appwizard451011_v1_3_390649</description>
+		<rom name="appwizard451011_v1_3_390649.wgz" size="324243" crc="cbd2733a" md5="2031c906bb718ae22c85e438cf5dbe02" sha1="df15b131d701c1fcdba96941822d3f89e54b4adb"/>
+	</machine>
+	<machine name="appwizard451894_v1_3_394636">
+		<description>appwizard451894_v1_3_394636</description>
+		<rom name="appwizard451894_v1_3_394636.wgz" size="250665" crc="282d0538" md5="9b2159e1ba8b54b6ce2597c52ec3579e" sha1="6a949a8e112fd7dfd987a91ea641abc26346c5ad"/>
+	</machine>
+	<machine name="appwizard452490_v1_3_391634">
+		<description>appwizard452490_v1_3_391634</description>
+		<rom name="appwizard452490_v1_3_391634.wgz" size="313092" crc="ad42bd47" md5="aa94aab2f5f0ebdfd27e99c6415212da" sha1="38cfdfaee582d263c6eb343bcaa82c3b0196d62f"/>
+	</machine>
+	<machine name="appwizard452771_v1_3_391761">
+		<description>appwizard452771_v1_3_391761</description>
+		<rom name="appwizard452771_v1_3_391761.wgz" size="272639" crc="a8cffee0" md5="13e07d4a34608677f64ebb4d9c75fdd1" sha1="e38d8b2b6fa482df20704bd8076402276f2a61a7"/>
+	</machine>
+	<machine name="appwizard452920_v1_3_394656">
+		<description>appwizard452920_v1_3_394656</description>
+		<rom name="appwizard452920_v1_3_394656.wgz" size="324845" crc="a2153e0e" md5="26dfa7a5e30aa8f19f5ebb54f1f0f871" sha1="9a1c3b1443c74c52d0fb33eb669cb6adc1567e9d"/>
+	</machine>
+	<machine name="appwizard453300_v1_3_392944">
+		<description>appwizard453300_v1_3_392944</description>
+		<rom name="appwizard453300_v1_3_392944.wgz" size="299838" crc="6d876deb" md5="757bf41a66824538deee7c3280be5709" sha1="f28144da26058c81dc99ef51d905826999880281"/>
+	</machine>
+	<machine name="appwizard453511_v1_3_392955">
+		<description>appwizard453511_v1_3_392955</description>
+		<rom name="appwizard453511_v1_3_392955.wgz" size="301202" crc="ea62b24b" md5="b1646604cdce687b6513eb2ce46d32fd" sha1="861f3a8f82d31c13ec11354dfaae3c1bd109ddf5"/>
+	</machine>
+	<machine name="appwizard453644_v1_3_393364">
+		<description>appwizard453644_v1_3_393364</description>
+		<rom name="appwizard453644_v1_3_393364.wgz" size="363404" crc="b204e12b" md5="219b1433b80bf32dc4fd2d4952d7949f" sha1="a743b6e169de1cecd650e36020a4c14d09e21eef"/>
+	</machine>
+	<machine name="appwizard454081_v1_3_396936">
+		<description>appwizard454081_v1_3_396936</description>
+		<rom name="appwizard454081_v1_3_396936.wgz" size="244619" crc="d242e528" md5="018ef182d7da22e8ac6a4a973e418d4d" sha1="ad857301546162b1fc079fe2058b2aab5ed012fb"/>
+	</machine>
+	<machine name="appwizard454331_v1_3_394801">
+		<description>appwizard454331_v1_3_394801</description>
+		<rom name="appwizard454331_v1_3_394801.wgz" size="243094" crc="58e2676b" md5="7761751dbe0244dcfa9420fbfcb4bff5" sha1="f54b3b9c7c2595d40197f715db07e133ffdfcae3"/>
+	</machine>
+	<machine name="appwizard454346_v1_3_394746">
+		<description>appwizard454346_v1_3_394746</description>
+		<rom name="appwizard454346_v1_3_394746.wgz" size="243165" crc="3f93f675" md5="6ab0ea19f2160dd3e21028f2c74fb869" sha1="267d623350228fe1c415edf52023c9d9291191d3"/>
+	</machine>
+	<machine name="appwizard454356_v1_3_395408">
+		<description>appwizard454356_v1_3_395408</description>
+		<rom name="appwizard454356_v1_3_395408.wgz" size="244978" crc="60ebe692" md5="6c6f9b5823f7bb8b05876eeaff71e532" sha1="79046fe0e96e524219bbe965e845aa82315639b9"/>
+	</machine>
+	<machine name="appwizard454799_v1_3_394534">
+		<description>appwizard454799_v1_3_394534</description>
+		<rom name="appwizard454799_v1_3_394534.wgz" size="349929" crc="2a7d51b9" md5="c40ac50d04cb0dc6ad00199f25bd8f54" sha1="d646b498d00d0b2b64a0b0f02caf7732a03805bb"/>
+	</machine>
+	<machine name="appwizard454920_v1_3_396140">
+		<description>appwizard454920_v1_3_396140</description>
+		<rom name="appwizard454920_v1_3_396140.wgz" size="292004" crc="6017821b" md5="13abd7c0a80a57f63efc22a870cb826a" sha1="e057c14c5fb2931dd394dbd0b592ec4fc68cedc0"/>
+	</machine>
+	<machine name="appwizard455335_v1_3_397027">
+		<description>appwizard455335_v1_3_397027</description>
+		<rom name="appwizard455335_v1_3_397027.wgz" size="262913" crc="73ab12d9" md5="8f943730cb72d8c67e20314c2154aff7" sha1="5df04304431d47ee43d89ce3c1bf32624864b66d"/>
+	</machine>
+	<machine name="appwizard455580_v1_3_396295">
+		<description>appwizard455580_v1_3_396295</description>
+		<rom name="appwizard455580_v1_3_396295.wgz" size="281551" crc="c71bd837" md5="41b7876ecd872a38593ea56ea76b1860" sha1="d5d00e255b071bd70b33fb54612a85c61e297818"/>
+	</machine>
+	<machine name="appwizard455976_v1_3_397078">
+		<description>appwizard455976_v1_3_397078</description>
+		<rom name="appwizard455976_v1_3_397078.wgz" size="319697" crc="0104cbd7" md5="35e9f3c34bad883dc2cdbf003cc184ac" sha1="966f793e3cae59fa794808517b852f9f9974bf7c"/>
+	</machine>
+	<machine name="appwizard456156_v1_3_397627">
+		<description>appwizard456156_v1_3_397627</description>
+		<rom name="appwizard456156_v1_3_397627.wgz" size="251624" crc="61f7c9a6" md5="4866695395a96a70709d95a24fd7ab8b" sha1="d04847bc4fdbe830f990ea4a6d4cb6a406f82a81"/>
+	</machine>
+	<machine name="appwizard456390_v1_3_397946">
+		<description>appwizard456390_v1_3_397946</description>
+		<rom name="appwizard456390_v1_3_397946.wgz" size="274473" crc="24869604" md5="5323bb0dbaa1ab72c8fa979c2be66d25" sha1="6e0b375e248aef3b337f5fe1fb7b766d790230c2"/>
+	</machine>
+	<machine name="appwizard456399_v1_3_397931">
+		<description>appwizard456399_v1_3_397931</description>
+		<rom name="appwizard456399_v1_3_397931.wgz" size="300463" crc="a1e7692f" md5="3f9ed68870deb261cfc34a475245fbbc" sha1="28ea2db6642a33ab915498f5ddd424bff45a3e9b"/>
+	</machine>
+	<machine name="appwizard456460_v1_3_397977">
+		<description>appwizard456460_v1_3_397977</description>
+		<rom name="appwizard456460_v1_3_397977.wgz" size="302294" crc="14a0c76d" md5="45aaed6103dbeb440e247df51d164f6e" sha1="b807028a454c44b0f589741e0c864bd7f0ec19de"/>
+	</machine>
+	<machine name="appwizard456488_v1_3_398065">
+		<description>appwizard456488_v1_3_398065</description>
+		<rom name="appwizard456488_v1_3_398065.wgz" size="333846" crc="3df0f2d3" md5="85c82fb1ecbe30abf1b055b01b1f100f" sha1="826c41f56cea5b616f677ff9ae73192612361c18"/>
+	</machine>
+	<machine name="appwizard456511_v1_3_398062">
+		<description>appwizard456511_v1_3_398062</description>
+		<rom name="appwizard456511_v1_3_398062.wgz" size="340086" crc="3d62d445" md5="b92c40886b3aa7ba64c34554686c035b" sha1="f90658ee5817952b93afb6d0ab251149bb369e7d"/>
+	</machine>
+	<machine name="appwizard456536_v1_3_398089">
+		<description>appwizard456536_v1_3_398089</description>
+		<rom name="appwizard456536_v1_3_398089.wgz" size="373731" crc="b579e192" md5="314a32a13367379f0392f18b2a382d02" sha1="3651ffab7675c7d9dec9057bdc9a88073955bc6b"/>
+	</machine>
+	<machine name="appwizard456765_v1_3_399752">
+		<description>appwizard456765_v1_3_399752</description>
+		<rom name="appwizard456765_v1_3_399752.wgz" size="357876" crc="6bad0ad2" md5="d85c8542439d469b12dd45c0cfed594c" sha1="d2d9dd8fcbd4a16e4a03f8df3de37ba2ca6b216e"/>
+	</machine>
+	<machine name="appwizard456891_v1_3_399133">
+		<description>appwizard456891_v1_3_399133</description>
+		<rom name="appwizard456891_v1_3_399133.wgz" size="274611" crc="328b20aa" md5="4e411b2e4fe13669089f4be053ce5233" sha1="5fadb5c56afa5daa81741f14effaddee7d607cc6"/>
+	</machine>
+	<machine name="appwizard456916_v1_3_399014">
+		<description>appwizard456916_v1_3_399014</description>
+		<rom name="appwizard456916_v1_3_399014.wgz" size="350816" crc="7001e602" md5="3e8c13a54fd9f13564530e1babc043ba" sha1="c1329659c18ec66aec3309154a2c37109eba3574"/>
+	</machine>
+	<machine name="appwizard457210_v1_3_399345">
+		<description>appwizard457210_v1_3_399345</description>
+		<rom name="appwizard457210_v1_3_399345.wgz" size="285416" crc="0e51b724" md5="c51bfc314f972d44f78dffabae9f59df" sha1="dbee603df938f04925832ec09979a6796c477a9e"/>
+	</machine>
+	<machine name="appwizard457253_v1_3_399334">
+		<description>appwizard457253_v1_3_399334</description>
+		<rom name="appwizard457253_v1_3_399334.wgz" size="285974" crc="fd00aed8" md5="7aa7a7f8a69611c00a2bcddc43326abc" sha1="b4604955785e194c12764d5ce8da276b82e8abb4"/>
+	</machine>
+	<machine name="appwizard457284_v1_3_399709">
+		<description>appwizard457284_v1_3_399709</description>
+		<rom name="appwizard457284_v1_3_399709.wgz" size="244390" crc="9a2eaded" md5="5ac63210b6c689ab0aa51d66120e2e98" sha1="613d2e96424cf501d03d8b39aae54f6134a58a99"/>
+	</machine>
+	<machine name="appwizard457310_v1_3_400629">
+		<description>appwizard457310_v1_3_400629</description>
+		<rom name="appwizard457310_v1_3_400629.wgz" size="245518" crc="d3222f1a" md5="833c5241cb97a6faabab344cd6419d49" sha1="ee1fb6420d7d63cb186af813ca9bb67ae8b012ac"/>
+	</machine>
+	<machine name="appwizard457999_v1_3_400116">
+		<description>appwizard457999_v1_3_400116</description>
+		<rom name="appwizard457999_v1_3_400116.wgz" size="313820" crc="a9c2d32a" md5="517aeb7a639c53f48837e2867b96d2a5" sha1="ae643d89d8a04c8aacbcc05c722ac9704541ef65"/>
+	</machine>
+	<machine name="appwizard458117_v1_3_400566">
+		<description>appwizard458117_v1_3_400566</description>
+		<rom name="appwizard458117_v1_3_400566.wgz" size="250426" crc="3ea3cbdd" md5="be2f3008faa7be2d29e475fa0cc0062d" sha1="6216ce5e8f13c6e4c94f5ccd3ca294c1b2357462"/>
+	</machine>
+	<machine name="appwizard458192_v1_3_400632">
+		<description>appwizard458192_v1_3_400632</description>
+		<rom name="appwizard458192_v1_3_400632.wgz" size="271405" crc="edc49bc1" md5="874fd94bbe11762077097933e1cbe8ba" sha1="17dbe5e1788dd5a538c24337f10752119c9a639a"/>
+	</machine>
+	<machine name="appwizard458343_v1_3_400706">
+		<description>appwizard458343_v1_3_400706</description>
+		<rom name="appwizard458343_v1_3_400706.wgz" size="263840" crc="16366cea" md5="95d9892a4a2e163e83b6522bedbd14e3" sha1="0e2b2df3805ebe2362c8e455d8af9effcbdb4ca0"/>
+	</machine>
+	<machine name="appwizard458402_v1_3_400805">
+		<description>appwizard458402_v1_3_400805</description>
+		<rom name="appwizard458402_v1_3_400805.wgz" size="325453" crc="ac997fb1" md5="6529a9a15cd40a38fb1b41ede1749999" sha1="f690cd4078df74719a2b5581b8a749ecfbd62b6b"/>
+	</machine>
+	<machine name="appwizard458414_v1_3_400666">
+		<description>appwizard458414_v1_3_400666</description>
+		<rom name="appwizard458414_v1_3_400666.wgz" size="288502" crc="080e4a1f" md5="e12411e11590ec5667446dd6ffc46bf3" sha1="c7582ac406cad273a248d4f0ebfe316629ee4806"/>
+	</machine>
+	<machine name="appwizard458544_v1_3_402326">
+		<description>appwizard458544_v1_3_402326</description>
+		<rom name="appwizard458544_v1_3_402326.wgz" size="337434" crc="21116159" md5="b27a4d7b715fa35b914d39494d42a8b4" sha1="60660ed757dd61625547c4fee322eb1e68a3ff1f"/>
+	</machine>
+	<machine name="appwizard458553_v1_3_401433">
+		<description>appwizard458553_v1_3_401433</description>
+		<rom name="appwizard458553_v1_3_401433.wgz" size="274581" crc="bd06838f" md5="a6e941900a1d1b24c21968f4bf15d38b" sha1="ed608e6f807b2abccb628e61bfb024947d33356a"/>
+	</machine>
+	<machine name="appwizard458610_v1_3_401494">
+		<description>appwizard458610_v1_3_401494</description>
+		<rom name="appwizard458610_v1_3_401494.wgz" size="284286" crc="b2ede80b" md5="4191e33eb7d68f2f5f4ad4812c09ccc7" sha1="e4145bdc55abde7b267f80228ed38c34d2cb5b8e"/>
+	</machine>
+	<machine name="appwizard459128_v1_3_402458">
+		<description>appwizard459128_v1_3_402458</description>
+		<rom name="appwizard459128_v1_3_402458.wgz" size="236565" crc="a944a8b6" md5="3e68d48f24f52f8dcb0788e1016d1548" sha1="170645294138305f548a6697c3487f80e07ec54b"/>
+	</machine>
+	<machine name="appwizard459153_v1_3_402509">
+		<description>appwizard459153_v1_3_402509</description>
+		<rom name="appwizard459153_v1_3_402509.wgz" size="331417" crc="2a679e56" md5="7c934e642a15d16cf90e923f8030eebd" sha1="e4088fec91a4f7992a086b0f44c953c9ad9abb70"/>
+	</machine>
+	<machine name="appwizard459173_v1_3_402537">
+		<description>appwizard459173_v1_3_402537</description>
+		<rom name="appwizard459173_v1_3_402537.wgz" size="242408" crc="2644def6" md5="d4c1de4cb5f584f521b21127ebfec06b" sha1="f40db8a49d128032c947d7cc191d306f13bc8fd1"/>
+	</machine>
+	<machine name="appwizard459181_v1_3_402561">
+		<description>appwizard459181_v1_3_402561</description>
+		<rom name="appwizard459181_v1_3_402561.wgz" size="240378" crc="f560e98d" md5="c9a1b47cac57a05d8d8ad88a1bb6195e" sha1="c90a82b9ba9865508a6a8c529fe45202fe266159"/>
+	</machine>
+	<machine name="appwizard459309_v1_3_403867">
+		<description>appwizard459309_v1_3_403867</description>
+		<rom name="appwizard459309_v1_3_403867.wgz" size="289478" crc="73b6c26b" md5="09ecb334d54b448808efcc487c8afe91" sha1="ea7506c167117ae700c20f498f9ff9eac29d96ed"/>
+	</machine>
+	<machine name="appwizard459353_v1_3_404008">
+		<description>appwizard459353_v1_3_404008</description>
+		<rom name="appwizard459353_v1_3_404008.wgz" size="327594" crc="d80fc4b4" md5="6c4d5193f418c6bb559f9428cfbdd71c" sha1="ed017afca53be586d96336a751ceaa06236a9e15"/>
+	</machine>
+	<machine name="appwizard459465_v1_3_408578">
+		<description>appwizard459465_v1_3_408578</description>
+		<rom name="appwizard459465_v1_3_408578.wgz" size="323999" crc="00b2a593" md5="9db0c32a7917ce8b6f6a32a1211bc41f" sha1="0739233ef6593b2e902cacf6aa75e62512f15173"/>
+	</machine>
+	<machine name="appwizard459931_v1_3_403691">
+		<description>appwizard459931_v1_3_403691</description>
+		<rom name="appwizard459931_v1_3_403691.wgz" size="332727" crc="b1766898" md5="defe9493a7627c14774658df6e29ed5b" sha1="5cc01cfb6a25572a2b73b41cd008ac4a7fc79d13"/>
+	</machine>
+	<machine name="appwizard459976_v1_3_404622">
+		<description>appwizard459976_v1_3_404622</description>
+		<rom name="appwizard459976_v1_3_404622.wgz" size="371800" crc="d2677818" md5="12850ee2a3ed8a222ec938a2a19f0739" sha1="e6923edaeef58b32a5e24db11677e0b05df00fa2"/>
+	</machine>
+	<machine name="appwizard460403_v1_3_404694">
+		<description>appwizard460403_v1_3_404694</description>
+		<rom name="appwizard460403_v1_3_404694.wgz" size="290008" crc="8c0768fd" md5="b9dd8811261d63b72470e091a03c2eb7" sha1="a20fabe2bcd13c648529acaedae2ddfc5ced9b46"/>
+	</machine>
+	<machine name="appwizard460637_v1_3_405243">
+		<description>appwizard460637_v1_3_405243</description>
+		<rom name="appwizard460637_v1_3_405243.wgz" size="367779" crc="a3e80e46" md5="1120bee0325c5158a714ee1de9b44931" sha1="4467aba018fa248739319e30dfb671d0435b87e1"/>
+	</machine>
+	<machine name="appwizard461412_v1_3_406873">
+		<description>appwizard461412_v1_3_406873</description>
+		<rom name="appwizard461412_v1_3_406873.wgz" size="376974" crc="fe9efa1b" md5="7480c4c300f98db7e61e970e8b682b6e" sha1="079cfdc65a696643008578e60c7e9077eee51543"/>
+	</machine>
+	<machine name="appwizard461538_v1_3_407420">
+		<description>appwizard461538_v1_3_407420</description>
+		<rom name="appwizard461538_v1_3_407420.wgz" size="357215" crc="79e27d5a" md5="5743deacae43a9c8c5ad46deedc135de" sha1="c96f18f80064686c7e3bfdbef0be63629171b19c"/>
+	</machine>
+	<machine name="appwizard461813_v1_3_409818">
+		<description>appwizard461813_v1_3_409818</description>
+		<rom name="appwizard461813_v1_3_409818.wgz" size="283828" crc="452c9206" md5="22bbaec82f9ebdb810ac6e40d8691cdf" sha1="910ad70843d1440711ec61ae61355e3a37ac21db"/>
+	</machine>
+	<machine name="appwizard462012_v1_3_407506">
+		<description>appwizard462012_v1_3_407506</description>
+		<rom name="appwizard462012_v1_3_407506.wgz" size="375526" crc="99903416" md5="e31e94490b7bf47661b964ec164e40d9" sha1="08a593b5cccf0187a038ac972b008bbaf866fd48"/>
+	</machine>
+	<machine name="appwizard462222_v1_3_408825">
+		<description>appwizard462222_v1_3_408825</description>
+		<rom name="appwizard462222_v1_3_408825.wgz" size="376540" crc="3ae90095" md5="2bb61aabb18a0523f418e4c8567059f2" sha1="031d5cd1a0bbcb8198bc27e797249cd72fad0ecc"/>
+	</machine>
+	<machine name="appwizard462495_v1_3_408889">
+		<description>appwizard462495_v1_3_408889</description>
+		<rom name="appwizard462495_v1_3_408889.wgz" size="246361" crc="865bb736" md5="6d86898c0dedcb70b2dca63239ba6f75" sha1="751ef199a2cfb0604b9732adad3477d67c40572d"/>
+	</machine>
+	<machine name="appwizard462791_v1_3_409012">
+		<description>appwizard462791_v1_3_409012</description>
+		<rom name="appwizard462791_v1_3_409012.wgz" size="336298" crc="0edd915c" md5="5574849772d3879716d4ea11885374fb" sha1="22b2210d75de78caf2cb11544f9de6ad237549d9"/>
+	</machine>
+	<machine name="appwizard462806_v1_3_409046">
+		<description>appwizard462806_v1_3_409046</description>
+		<rom name="appwizard462806_v1_3_409046.wgz" size="243244" crc="8f18794a" md5="ed76f7827b84fa9c052441a07f12f6e2" sha1="5782b3aeec65b74f0343cf1efb2c668321484b5b"/>
+	</machine>
+	<machine name="appwizard463025_v1_3_410172">
+		<description>appwizard463025_v1_3_410172</description>
+		<rom name="appwizard463025_v1_3_410172.wgz" size="359552" crc="b49010d5" md5="c4573d29d629bad8330bc464f9f3eec0" sha1="59a434f58d35e82a20f316a8973a8605d546814e"/>
+	</machine>
+	<machine name="appwizard463034_v1_3_410243">
+		<description>appwizard463034_v1_3_410243</description>
+		<rom name="appwizard463034_v1_3_410243.wgz" size="310133" crc="c4f93bf0" md5="2507d58b7cd94a9fc784fa2dc9ab5554" sha1="464b9e1374afa99654cf002558d62a1eca976545"/>
+	</machine>
+	<machine name="appwizard463339_v1_3_410384">
+		<description>appwizard463339_v1_3_410384</description>
+		<rom name="appwizard463339_v1_3_410384.wgz" size="366480" crc="c8ec47c5" md5="ae5f905361296b63e2f5f75d707e2acc" sha1="da592d90897d9f789bcc3b43ce2001878bfc6eae"/>
+	</machine>
+	<machine name="appwizard463411_v1_3_410386">
+		<description>appwizard463411_v1_3_410386</description>
+		<rom name="appwizard463411_v1_3_410386.wgz" size="316307" crc="4187fef4" md5="ba6ed4ad173cc3f878449fd9f22d50cf" sha1="530369acd1268e5a35891ba116bcbc05c2b6b8cc"/>
+	</machine>
+	<machine name="appwizard463439_v1_3_410730">
+		<description>appwizard463439_v1_3_410730</description>
+		<rom name="appwizard463439_v1_3_410730.wgz" size="331344" crc="baa6995d" md5="38764df848fadbcc2199bea7daaa5c7e" sha1="0030b239711425f0d9f98d85e3fc3d3e19b38406"/>
+	</machine>
+	<machine name="appwizard463703_v1_3_409858">
+		<description>appwizard463703_v1_3_409858</description>
+		<rom name="appwizard463703_v1_3_409858.wgz" size="335163" crc="ed35da08" md5="3088f225922f63a9a6cdceb73d2d14c9" sha1="8a7c77ac5cfa5dd1b8f1af053e6f067911fdc336"/>
+	</machine>
+	<machine name="appwizard463721_v1_3_412380">
+		<description>appwizard463721_v1_3_412380</description>
+		<rom name="appwizard463721_v1_3_412380.wgz" size="304998" crc="fbd12f63" md5="f995b4eb97fdb20b18055e0c07a18391" sha1="eb226ea410f9cb32fa9163f6780b83268b0e272d"/>
+	</machine>
+	<machine name="appwizard463771_v1_3_410405">
+		<description>appwizard463771_v1_3_410405</description>
+		<rom name="appwizard463771_v1_3_410405.wgz" size="364698" crc="d7a52c7a" md5="462a03af54755f21207573b08f8e502b" sha1="284c4d57b996c4eaf33dd08c71610a8e1c0cd968"/>
+	</machine>
+	<machine name="appwizard464018_v1_3_412390">
+		<description>appwizard464018_v1_3_412390</description>
+		<rom name="appwizard464018_v1_3_412390.wgz" size="298900" crc="0f23bb78" md5="c97d6903fbd91aa6fd246dadf1984a0b" sha1="2d5505085fc99cc77483cc8a17e1e464acd886a0"/>
+	</machine>
+	<machine name="appwizard464161_v1_3_411437">
+		<description>appwizard464161_v1_3_411437</description>
+		<rom name="appwizard464161_v1_3_411437.wgz" size="299244" crc="1b8acd48" md5="824832e08768ea708ec0796de0c6eec8" sha1="41759d706854ef4eba6d42d50b0471890af9d45e"/>
+	</machine>
+	<machine name="appwizard464249_v1_3_411841">
+		<description>appwizard464249_v1_3_411841</description>
+		<rom name="appwizard464249_v1_3_411841.wgz" size="274872" crc="1c5e7704" md5="d6695acd9f9b847e5dd37c868d62834e" sha1="8ff689faff06517756ee5b1c69552193565e8c77"/>
+	</machine>
+	<machine name="appwizard464330_v1_3_411569">
+		<description>appwizard464330_v1_3_411569</description>
+		<rom name="appwizard464330_v1_3_411569.wgz" size="241475" crc="3ea94135" md5="cacc7336793e30f020d9f8e1a3f9090f" sha1="49c2b5d3a83793b37cb5b001daac35ba00a04e17"/>
+	</machine>
+	<machine name="appwizard464531_v1_3_411732">
+		<description>appwizard464531_v1_3_411732</description>
+		<rom name="appwizard464531_v1_3_411732.wgz" size="374130" crc="bf94d774" md5="685a48b7e398094fb676114f3994880b" sha1="c3d179a40107093b5336513bd29cf77b8c849235"/>
+	</machine>
+	<machine name="appwizard464647_v1_3_412281">
+		<description>appwizard464647_v1_3_412281</description>
+		<rom name="appwizard464647_v1_3_412281.wgz" size="280569" crc="53136c2a" md5="9c62a8dee0a32fd38bd47dcbd4abfaf5" sha1="ca6095972a4ebf0878a5efcf01ea47301f075421"/>
+	</machine>
+	<machine name="appwizard464685_v1_3_412378">
+		<description>appwizard464685_v1_3_412378</description>
+		<rom name="appwizard464685_v1_3_412378.wgz" size="271556" crc="269af8bc" md5="a4c30d4482eb48c066e14a33419009de" sha1="ddc1b77ee9c10bab2f37a641d7be49376ced81ae"/>
+	</machine>
+	<machine name="appwizard465090_v1_3_413468">
+		<description>appwizard465090_v1_3_413468</description>
+		<rom name="appwizard465090_v1_3_413468.wgz" size="335559" crc="02b5f566" md5="fc575f6bb62ff932b00acedf422b206d" sha1="e2f9fe2078a62c05492bdedcf1f25b7caecf7e2d"/>
+	</machine>
+	<machine name="appwizard465120_v1_3_413234">
+		<description>appwizard465120_v1_3_413234</description>
+		<rom name="appwizard465120_v1_3_413234.wgz" size="369786" crc="6d398c3c" md5="65be0cfd80b4545cc7e8744227afd353" sha1="6f7198b52a88f83e30be41ffcc85370bfd51bea2"/>
+	</machine>
+	<machine name="appwizard465136_v1_3_413375">
+		<description>appwizard465136_v1_3_413375</description>
+		<rom name="appwizard465136_v1_3_413375.wgz" size="332281" crc="dffd5eb8" md5="685275629c6f6085941ca5fe3f880190" sha1="ead64aad27fa646d8b9e9bf9fbb89f7c890c538f"/>
+	</machine>
+	<machine name="appwizard465166_v1_3_413558">
+		<description>appwizard465166_v1_3_413558</description>
+		<rom name="appwizard465166_v1_3_413558.wgz" size="377160" crc="4a88c36b" md5="1a6a93f51d4f7356717cfb8ed6257cd6" sha1="cf8b7a67cf3f5ba11e5787e6a9ee3c27e9c4af54"/>
+	</machine>
+	<machine name="appwizard465175_v1_3_413437">
+		<description>appwizard465175_v1_3_413437</description>
+		<rom name="appwizard465175_v1_3_413437.wgz" size="369677" crc="07b9ff0f" md5="96d78f92549b44534a01ff97e087439a" sha1="cf3591e187b6449ee3023cb19eef6e34f9739883"/>
+	</machine>
+	<machine name="appwizard514845_v1_3_532335">
+		<description>appwizard514845_v1_3_532335</description>
+		<rom name="appwizard514845_v1_3_532335.wgz" size="313058" crc="98143bc6" md5="747d4ae2162dc9371cf822102e0ba775" sha1="026b160b566a9707b96474d6a0e2c82791f5df98"/>
+	</machine>
+	<machine name="appwizard519600_v1_3_539673">
+		<description>appwizard519600_v1_3_539673</description>
+		<rom name="appwizard519600_v1_3_539673.wgz" size="300781" crc="969a58d7" md5="6b3a11886a3e54dd3ead81dd9ea9d78c" sha1="5fc58d818f01b4b7e64aa85420ef90b733bbf775"/>
+	</machine>
+	<machine name="appwizard520578_v1_3_534201">
+		<description>appwizard520578_v1_3_534201</description>
+		<rom name="appwizard520578_v1_3_534201.wgz" size="315339" crc="70111883" md5="1e5e86bb61752e66b57f6da3464b43be" sha1="ed1eebd9be63ec4ad1eb3965bd4eb6751a37b322"/>
+	</machine>
+	<machine name="appwizard522361_v1_3_532908">
+		<description>appwizard522361_v1_3_532908</description>
+		<rom name="appwizard522361_v1_3_532908.wgz" size="267675" crc="3c8023ff" md5="3eceddde12b3f506dd2f90804fe2b958" sha1="8894cc663b296df281957518d7437bcdbdce9ebc"/>
+	</machine>
+	<machine name="appwizard522713_v1_3_532939">
+		<description>appwizard522713_v1_3_532939</description>
+		<rom name="appwizard522713_v1_3_532939.wgz" size="313456" crc="fe9f7219" md5="3ec6695c1781ccb482f14d7bad5ee0a4" sha1="c2ca52a139f6a28a46504918c76cd59d1d8a39a5"/>
+	</machine>
+	<machine name="appwizard522888_v1_3_539236">
+		<description>appwizard522888_v1_3_539236</description>
+		<rom name="appwizard522888_v1_3_539236.wgz" size="336661" crc="f7bde104" md5="8641c6d5f99d9f187c6a1353fab2ac2e" sha1="cb51ea7861a265dbf6fc8e1fb6a1a7b2b26fa6c9"/>
+	</machine>
+	<machine name="appwizard523631_v1_3_539281">
+		<description>appwizard523631_v1_3_539281</description>
+		<rom name="appwizard523631_v1_3_539281.wgz" size="279146" crc="d01d42be" md5="c7bea08ce924f36d36ad160e09693ce2" sha1="50213c8c2792e4b5fdb9bce2cf5dd0a9fea72d31"/>
+	</machine>
+	<machine name="appwizard523916_v1_3_540379">
+		<description>appwizard523916_v1_3_540379</description>
+		<rom name="appwizard523916_v1_3_540379.wgz" size="385031" crc="11e89d70" md5="c894d75353a99256da85314b79e03275" sha1="65435b0555d5b41a89cf4ff3112328f16ddb7372"/>
+	</machine>
+	<machine name="appwizard525901_v1_3_539971">
+		<description>appwizard525901_v1_3_539971</description>
+		<rom name="appwizard525901_v1_3_539971.wgz" size="269479" crc="30a1f7ae" md5="7ee79e2b7acad54237190e98414d3b4d" sha1="c6ed4961f45b7ea8554107d4b32ce94098c7b9b9"/>
+	</machine>
+	<machine name="appwizard526561_v1_3_540102">
+		<description>appwizard526561_v1_3_540102</description>
+		<rom name="appwizard526561_v1_3_540102.wgz" size="266752" crc="c25ca968" md5="7d8e73b2bc2846dfd8cbe906b87197d0" sha1="0f611cfdb0e5bde8ed5fa8f8f5f21f5daa4e4b72"/>
+	</machine>
+	<machine name="appwizard526641_v1_3_539728">
+		<description>appwizard526641_v1_3_539728</description>
+		<rom name="appwizard526641_v1_3_539728.wgz" size="253492" crc="53fd6223" md5="01e99127f1e58e3d24f1a9def593ad7e" sha1="a560a865443b51ffb409b221ca34acb20bba42d5"/>
+	</machine>
+	<machine name="appwizard527320_v1_3_541914">
+		<description>appwizard527320_v1_3_541914</description>
+		<rom name="appwizard527320_v1_3_541914.wgz" size="341344" crc="65e63671" md5="29c31663a9032e981102d38cbe44d219" sha1="b3262d1b0a8a248a1da6bb66a40ab06087a913e7"/>
+	</machine>
+	<machine name="appwizard527415_v1_3_549525">
+		<description>appwizard527415_v1_3_549525</description>
+		<rom name="appwizard527415_v1_3_549525.wgz" size="328498" crc="7ec84c06" md5="8974d0a3f86d818a90ea719999d13458" sha1="f413c88c73064931b875bf3004f2bb80cb1b9932"/>
+	</machine>
+	<machine name="appwizard527496_v1_3_541957">
+		<description>appwizard527496_v1_3_541957</description>
+		<rom name="appwizard527496_v1_3_541957.wgz" size="369562" crc="72a84692" md5="4928f85a180aacf82f26af074e216a7d" sha1="3eae59a2f0fd7246a97fab23a97738d5c151805e"/>
+	</machine>
+	<machine name="appwizard527754_v1_3_541917">
+		<description>appwizard527754_v1_3_541917</description>
+		<rom name="appwizard527754_v1_3_541917.wgz" size="259972" crc="6b51b11a" md5="dff0b48ffd5b4be46ee1f60412d1f93d" sha1="134131b5d794ce30ab3ec37ad7a417f6a8d9b118"/>
+	</machine>
+	<machine name="appwizard528857_v1_3_542978">
+		<description>appwizard528857_v1_3_542978</description>
+		<rom name="appwizard528857_v1_3_542978.wgz" size="316800" crc="fd0bd774" md5="031cd81dd8e5002698198a7c39da2936" sha1="e70c79de54669a5e8e258134aaa7709fea8f3f90"/>
+	</machine>
+	<machine name="appwizard530529_v1_3_546163">
+		<description>appwizard530529_v1_3_546163</description>
+		<rom name="appwizard530529_v1_3_546163.wgz" size="359528" crc="5490d144" md5="87c8a3f5deafc0011e5583667a5b628e" sha1="fd9c0cecf05e9d23b640370a9a43aa0578f9e85c"/>
+	</machine>
+	<machine name="appwizard531479_v1_3_547846">
+		<description>appwizard531479_v1_3_547846</description>
+		<rom name="appwizard531479_v1_3_547846.wgz" size="302949" crc="37934fdf" md5="3aeaac9b5f9c38927cf7d8a335d3a465" sha1="7944326c5cd360670f0e3cd25be9fa0b85c97442"/>
+	</machine>
+	<machine name="appwizard531754_v1_3_547907">
+		<description>appwizard531754_v1_3_547907</description>
+		<rom name="appwizard531754_v1_3_547907.wgz" size="290262" crc="68cb6ca3" md5="70a8362aa3163b4091c15c0c0b94ffac" sha1="fdaa4b8bad232e6a193c31096fdd2b9cae70dc58"/>
+	</machine>
+	<machine name="appwizard533340_v1_3_551340">
+		<description>appwizard533340_v1_3_551340</description>
+		<rom name="appwizard533340_v1_3_551340.wgz" size="265603" crc="4a7905b3" md5="ef0077683ae4940239615450ffb92da1" sha1="cdbe4c61d7509a67ef4d2515e5c46a26bd56c2a5"/>
+	</machine>
+	<machine name="appwizard533757_v1_3_551759">
+		<description>appwizard533757_v1_3_551759</description>
+		<rom name="appwizard533757_v1_3_551759.wgz" size="292666" crc="571a856b" md5="28e861335b4844f8240b9791ac3c1be0" sha1="c7eecf44927c276cb16823f24fb3df70b85eedd3"/>
+	</machine>
+	<machine name="appwizard533766_v1_3_551781">
+		<description>appwizard533766_v1_3_551781</description>
+		<rom name="appwizard533766_v1_3_551781.wgz" size="336161" crc="30fe0ce0" md5="369691ff04b3a0aa2ff2fb401c201f0e" sha1="57274a70f04397bf6e2417bf3be5beca61287094"/>
+	</machine>
+	<machine name="appwizard533779_v1_3_551787">
+		<description>appwizard533779_v1_3_551787</description>
+		<rom name="appwizard533779_v1_3_551787.wgz" size="345710" crc="1443ebe4" md5="812b72ad4c49a02037c9e5d2cacd1d4a" sha1="67954fb1a21cce2f77e0ef1163493da3f28e60a4"/>
+	</machine>
+	<machine name="appwizard534307_v1_3_554003">
+		<description>appwizard534307_v1_3_554003</description>
+		<rom name="appwizard534307_v1_3_554003.wgz" size="294639" crc="da41d451" md5="7b0b436513384fee9148265d1acd1a10" sha1="06238caa881069554028a8b2c463baea111f9a82"/>
+	</machine>
+	<machine name="appwizard534335_v1_3_552829">
+		<description>appwizard534335_v1_3_552829</description>
+		<rom name="appwizard534335_v1_3_552829.wgz" size="379822" crc="5292a56c" md5="00a2a5c5af511db878bebbe843b1e16e" sha1="7de5be15c7bba6c98e6b5d36d3f93685c4ad52d0"/>
+	</machine>
+	<machine name="appwizard535756_v1_3_555524">
+		<description>appwizard535756_v1_3_555524</description>
+		<rom name="appwizard535756_v1_3_555524.wgz" size="364704" crc="0007e595" md5="5af21e0986003787ebb150e8a49e3e3f" sha1="b9e709d1cf73d9e02280865261340757df9994cf"/>
+	</machine>
+	<machine name="appwizard536079_v1_3_557311">
+		<description>appwizard536079_v1_3_557311</description>
+		<rom name="appwizard536079_v1_3_557311.wgz" size="316985" crc="c3973c8e" md5="02f0af97020721989c279511c39a737e" sha1="61ee501aba5475d221cb0aa00712b3bbaf883311"/>
+	</machine>
+	<machine name="ARNBSymbianApp_402137">
+		<description>ARNBSymbianApp_402137</description>
+		<rom name="ARNBSymbianApp_402137.wgz" size="1860982" crc="5b0101dc" md5="f15ef7598c442925c69aa1f6063769df" sha1="8007db771950cb9c5b89b2b29ac1b83a2b649f85"/>
+	</machine>
+	<machine name="ArubaCloud_Symbian_2_382784.1">
+		<description>ArubaCloud_Symbian_2_382784.1</description>
+		<rom name="ArubaCloud_Symbian_2_382784.1.wgz" size="238810" crc="cdb7b690" md5="3701dadb3935a2f54b45707d9423a7ed" sha1="0ebc601c8296277ccd175978f8ff8dfab77e5f5d"/>
+	</machine>
+	<machine name="Awareness_593146">
+		<description>Awareness_593146</description>
+		<rom name="Awareness_593146.wgz" size="1564357" crc="ee952f19" md5="c752fccdbf7f4279d1f9e19439de2a1a" sha1="8819f79a4cc67310d6afd893e633a2ba1b68f332"/>
+	</machine>
+	<machine name="Baby_Dancing_550904">
+		<description>Baby_Dancing_550904</description>
+		<rom name="Baby_Dancing_550904.wgz" size="232048" crc="942d271e" md5="c8eebef61782dc106409ff3c117b2599" sha1="6d890c087159a73ffe740523823360f3fae81dee"/>
+	</machine>
+	<machine name="BBAR2011_532291">
+		<description>BBAR2011_532291</description>
+		<rom name="BBAR2011_532291.wgz" size="987669" crc="5e1c880e" md5="a46ad29a025f4931084767e7d688f224" sha1="98e03061be3a4e92ced9baaa4d07638184ce793e"/>
+	</machine>
+	<machine name="BBRA2011_532282">
+		<description>BBRA2011_532282</description>
+		<rom name="BBRA2011_532282.wgz" size="875102" crc="ce85b35f" md5="859576cacaa36aeb01c0e4f649605c4a" sha1="d63c13053f32850dd3950eaba3f69b00e50a52ac"/>
+	</machine>
+	<machine name="BeijingAir_462191">
+		<description>BeijingAir_462191</description>
+		<rom name="BeijingAir_462191.wgz" size="40020" crc="dde00fe6" md5="30b009ac1bac6f2f2967198d1eb9e2b7" sha1="258297b1ba98c8b9a803ee9fcbd57b7c853c8051"/>
+	</machine>
+	<machine name="Binary_Clock_401325">
+		<description>Binary_Clock_401325</description>
+		<rom name="Binary_Clock_401325.wgz" size="211204" crc="a94672ff" md5="8bf29f836170cb40ebac4b05f44790a4" sha1="2f9debc4fe2926bad33ef20526a7a650dba9e2ab"/>
+	</machine>
+	<machine name="bizCalendar_widget_1_377167">
+		<description>bizCalendar_widget_1_377167</description>
+		<rom name="bizCalendar_widget_1_377167.wgz" size="170612" crc="c0029310" md5="47ee626677a5dee7d06991ddca9d98fa" sha1="24318adcb80af40a4a56b393a864b5918036eab8"/>
+	</machine>
+	<machine name="bizCalendar_widget_2_377168">
+		<description>bizCalendar_widget_2_377168</description>
+		<rom name="bizCalendar_widget_2_377168.wgz" size="171042" crc="c04d2c43" md5="ace661494d0e73ae9449440e4f9ff278" sha1="f9ed0bd9c2d90e1a5f48f13c37cee8638c18c8ca"/>
+	</machine>
+	<machine name="Black_Cat_587325">
+		<description>Black_Cat_587325</description>
+		<rom name="Black_Cat_587325.wgz" size="156212" crc="dd840a55" md5="9d4f2be2cce5a5adcccdc165204be7ff" sha1="e7e5e089d6101fcd8bfebbc931a8c3e900235883"/>
+	</machine>
+	<machine name="BlockersSymbianFree_373988">
+		<description>BlockersSymbianFree_373988</description>
+		<rom name="BlockersSymbianFree_373988.wgz" size="122645" crc="f1f4580f" md5="43b703e66c7afed6f9093871b41294e1" sha1="300f437c5584c15f86404326b5c7f5d2b77b8538"/>
+	</machine>
+	<machine name="book_533367">
+		<description>book_533367</description>
+		<rom name="book_533367.wgz" size="129464" crc="2397f604" md5="b57d9aac48d684d5cd48fe5fa1af44d3" sha1="940f8db0bbcdeb8b15582ea2312afd37aef0ad39"/>
+	</machine>
+	<machine name="BR_Pipes_Free_1_07_389562">
+		<description>BR_Pipes_Free_1_07_389562</description>
+		<rom name="BR_Pipes_Free_1_07_389562.wgz" size="355725" crc="1089238b" md5="df4f5679d715eea10a26cc1e1bbc73f3" sha1="bfd678f4ec75d5850663c26182d1b0f8a79b8243"/>
+	</machine>
+	<machine name="BR_Ships_Free_1_03_400452">
+		<description>BR_Ships_Free_1_03_400452</description>
+		<rom name="BR_Ships_Free_1_03_400452.wgz" size="298546" crc="27838cb9" md5="6f3a45e5194b174dba8dd4ca84858812" sha1="74a12d957f3189d4a2801319016da7ab4a585c30"/>
+	</machine>
+	<machine name="brazil_638804">
+		<description>brazil_638804</description>
+		<rom name="brazil_638804.wgz" size="308652" crc="d381d8fe" md5="f6c389665d516c34384d83f1cff3506d" sha1="1c5ac071727d2f359a66789f06d485c4d0a924ce"/>
+	</machine>
+	<machine name="brazil_640237">
+		<description>brazil_640237</description>
+		<rom name="brazil_640237.wgz" size="218191" crc="e6628bdf" md5="0ba3f00f3e0e887f31f770b291c9b5e7" sha1="587afe0329d1ca746f8bccd976d7cd23b1c7238c"/>
+	</machine>
+	<machine name="breakDownTheWall_401347">
+		<description>breakDownTheWall_401347</description>
+		<rom name="breakDownTheWall_401347.wgz" size="53800" crc="976fcdf1" md5="5238665ffaa8f697d84d37b4bc5aa436" sha1="e7699d9d0db7594b4631f63c71209144835c1343"/>
+	</machine>
+	<machine name="brightkite_50917">
+		<description>brightkite_50917</description>
+		<rom name="brightkite_50917.wgz" size="282256" crc="2460ea0c" md5="e687de5dd667cf4ef38e4019f6d54a29" sha1="6b9cd848e6e37dc85974ace4357b6fad780489f9"/>
+	</machine>
+	<machine name="CARAIBES_FR_DEMO4_600464">
+		<description>CARAIBES_FR_DEMO4_600464</description>
+		<rom name="CARAIBES_FR_DEMO4_600464.wgz" size="476819" crc="d26ebf19" md5="14b44242acbde15a91bff376d59aa9a7" sha1="094dfc7bb7065a2a1a5d22f363b33690c03d146a"/>
+	</machine>
+	<machine name="CARAIBES_FR_V1_596183.5">
+		<description>CARAIBES_FR_V1_596183.5</description>
+		<rom name="CARAIBES_FR_V1_596183.5.wgz" size="90461" crc="9eaa8572" md5="2791972fb871187a16e406d4454c598a" sha1="7d9fbef9227dace8cff20364ce0ea72ff4b85a94"/>
+	</machine>
+	<machine name="carKeyFREE_575161">
+		<description>carKeyFREE_575161</description>
+		<rom name="carKeyFREE_575161.wgz" size="14331" crc="7bcfe8b0" md5="360ec698e2a8db0e47942010fddcf765" sha1="a372c44cff4e95d69eb152f45a020a5441815a3c"/>
+	</machine>
+	<machine name="CasualDressup271213_659217">
+		<description>CasualDressup271213_659217</description>
+		<rom name="CasualDressup271213_659217.wgz" size="4756258" crc="5c0b2089" md5="e54c4849098bd03e07bcf893f78c3a76" sha1="ba72e024cdbe0652a3b3962b521de0b9c1b66db3"/>
+	</machine>
+	<machine name="CatchTheSanta_393345">
+		<description>CatchTheSanta_393345</description>
+		<rom name="CatchTheSanta_393345.wgz" size="108824" crc="1f4d4283" md5="fd34e0d673669235a2f2a78d4e0a5d16" sha1="0bc87641a7aa9fdfc60e57fbfcea122373985375"/>
+	</machine>
+	<machine name="Celebrity_Plastic_379387">
+		<description>Celebrity_Plastic_379387</description>
+		<rom name="Celebrity_Plastic_379387.wgz" size="987657" crc="aea8b73d" md5="a65ca26bca36b27088e149df9c62d5c8" sha1="b361bd1ef45b2965577ef3e3f8f5f41ce4dd354a"/>
+	</machine>
+	<machine name="chessbless_631296">
+		<description>chessbless_631296</description>
+		<rom name="chessbless_631296.wgz" size="154042" crc="70e9fab4" md5="e52e12375e8956ae3ccf605abee90c76" sha1="a74d06ee54d4e6bcf94a4e183c61bd92d62c0786"/>
+	</machine>
+	<machine name="Chick_Kick_587326">
+		<description>Chick_Kick_587326</description>
+		<rom name="Chick_Kick_587326.wgz" size="17787" crc="b9090ae2" md5="0e5eb86b1bf6d6b49e4f31422e0c5d85" sha1="04800ec8dc46d5869b3a3fd2c5826a0c1f8115d9"/>
+	</machine>
+	<machine name="Cineman_73395">
+		<description>Cineman_73395</description>
+		<rom name="Cineman_73395.wgz" size="1671" crc="4c4d82f2" md5="30dcc32ff0fcfe1bf9565ddbf1285988" sha1="2ffc6f435e6c6675621780363691694c4865a991"/>
+	</machine>
+	<machine name="ClownClock_610065">
+		<description>ClownClock_610065</description>
+		<rom name="ClownClock_610065.wgz" size="83686" crc="7ed65103" md5="de46b4213b0b7b42def73207cc913b69" sha1="9d635275ee4368d9de15e10156d3b07176cd4dfa"/>
+	</machine>
+	<machine name="Color_Quiz_Demo_606009">
+		<description>Color_Quiz_Demo_606009</description>
+		<rom name="Color_Quiz_Demo_606009.wgz" size="303648" crc="12fb4f97" md5="7919a8555551ca5696170461db957915" sha1="e6aaabef73e5f95ba5eee41061489e346ad2f9de"/>
+	</machine>
+	<machine name="Connect412042013_652002">
+		<description>Connect412042013_652002</description>
+		<rom name="Connect412042013_652002.wgz" size="119014" crc="95c1018f" md5="172d2c24a41e0f943b7de2df0eeaf623" sha1="aeb294fba44d333acf407c0e1d6b6de6b51a916a"/>
+	</machine>
+	<machine name="CricBuzz1_409734.5">
+		<description>CricBuzz1_409734.5</description>
+		<rom name="CricBuzz1_409734.5.wgz" size="681882" crc="aed9ea60" md5="ec6220aedb86f61a0340cdc130736818" sha1="8623370c89c7c70527b48741028923b78162959f"/>
+	</machine>
+	<machine name="CricitchNokia_44771">
+		<description>CricitchNokia_44771</description>
+		<rom name="CricitchNokia_44771.wgz" size="3360811" crc="16c251da" md5="76857a6fc1d14c6c0187a883fcdede27" sha1="75ecb679c1a7726fe2240f85709f062f3d790077"/>
+	</machine>
+	<machine name="curedis_529648">
+		<description>curedis_529648</description>
+		<rom name="curedis_529648.wgz" size="2997461" crc="87216de7" md5="e2c1cc808a3a0400c62d3891f0dea6ab" sha1="12a803dcd1f44b7539d78d8fdeb7515091382f17"/>
+	</machine>
+	<machine name="currencyconverter_607221">
+		<description>currencyconverter_607221</description>
+		<rom name="currencyconverter_607221.wgz" size="262749" crc="0e4d2e4c" md5="d1b9e7ef4e8beeefd1ffca65ddda2ac5" sha1="f897da09130194855eebde45b67496ab655db6f6"/>
+	</machine>
+	<machine name="Dailymobile-1_529395.1_2006_-FINAL">
+		<description>Dailymobile-1_529395.1_2006_-FINAL</description>
+		<rom name="Dailymobile-1_529395.1_2006_-FINAL.wgz" size="299058" crc="eb55e318" md5="df684e3d736ad80f187c946a3b83921d" sha1="53795cff14d26a562ea818f610703d12ae46728d"/>
+	</machine>
+	<machine name="Dailymotion_49358">
+		<description>Dailymotion_49358</description>
+		<rom name="Dailymotion_49358.wgz" size="420337" crc="95c21037" md5="56c9595d3664320add546c224b5bfd1f" sha1="7dfe917c1e93b0bcba5b86605b8cd4d7092e9e9c"/>
+	</machine>
+	<machine name="Dancing_Skeleton_2_550906">
+		<description>Dancing_Skeleton_2_550906</description>
+		<rom name="Dancing_Skeleton_2_550906.wgz" size="1134398" crc="1a5f3d01" md5="1aff3ac7bd39a97a244eb0f13deda160" sha1="b697903b7b459de34f254edca801d312d507d001"/>
+	</machine>
+	<machine name="DateReminderWidget_608709">
+		<description>DateReminderWidget_608709</description>
+		<rom name="DateReminderWidget_608709.wgz" size="773452" crc="f6dae66c" md5="5563a3ad1e40b8334e0d140688f573a5" sha1="934a23715d1337420ca30bd77ada7721fe05e7b8"/>
+	</machine>
+	<machine name="defuseTheBombFREE_651513">
+		<description>defuseTheBombFREE_651513</description>
+		<rom name="defuseTheBombFREE_651513.wgz" size="61139" crc="4ce49aea" md5="5d366f30d106ecece73046a88a2ecc85" sha1="cf488cfe8049e763ce0391ab0c0df5f4b13d83d4"/>
+	</machine>
+	<machine name="Dict_548827.cc-1.1">
+		<description>Dict_548827.cc-1.1</description>
+		<rom name="Dict_548827.cc-1.1.wgz" size="69207" crc="74b5a636" md5="ea61d068c0b885e659e3e6905888e301" sha1="2f317e53b71a688b6ff074828168b9bce964604f"/>
+	</machine>
+	<machine name="DiseaseSense_537596">
+		<description>DiseaseSense_537596</description>
+		<rom name="DiseaseSense_537596.wgz" size="407045" crc="df0bb769" md5="844e0b8464d360fdc54d69f756ecc498" sha1="44d70c95e829b58c00fd674a2d3277aea5c152b2"/>
+	</machine>
+	<machine name="DistanceFinder_408248">
+		<description>DistanceFinder_408248</description>
+		<rom name="DistanceFinder_408248.wgz" size="16475" crc="cf123160" md5="148153913105b84d3de0fa5230c23417" sha1="56e6e4a815026736660980fc5a04167305bc4814"/>
+	</machine>
+	<machine name="Dog_Breeds_Quiz_Demo_606448">
+		<description>Dog_Breeds_Quiz_Demo_606448</description>
+		<rom name="Dog_Breeds_Quiz_Demo_606448.wgz" size="395731" crc="9de1c87b" md5="ab3b2758c7ca5f87a481020abd07cb67" sha1="36605297962ac25c5cf043442de1f2dc889bb07d"/>
+	</machine>
+	<machine name="dstar_launcher_3365">
+		<description>dstar_launcher_3365</description>
+		<rom name="dstar_launcher_3365.wgz" size="8266" crc="4fca0690" md5="967cf4f1ef2c099219c41e1a2e02202e" sha1="8b31b7c565b5bbd388ea7dc2eeb273acd368cbc5"/>
+	</machine>
+	<machine name="dStats_Check_373076">
+		<description>dStats_Check_373076</description>
+		<rom name="dStats_Check_373076.wgz" size="172024" crc="f8c047a9" md5="af84f1a71e8f8f54c6e24446d078090f" sha1="fa3468c3bed514cb6e2e632facee9174481dd26b"/>
+	</machine>
+	<machine name="dStats_Check_S60_366674">
+		<description>dStats_Check_S60_366674</description>
+		<rom name="dStats_Check_S60_366674.wgz" size="141376" crc="32b39b57" md5="6628f48f0e305e4363a057402a6f83e3" sha1="c7ac39811daa534d7bc6384c6b6c22599eccdd3c"/>
+	</machine>
+	<machine name="DutchRSS_48853">
+		<description>DutchRSS_48853</description>
+		<rom name="DutchRSS_48853.wgz" size="129224" crc="a68395e1" md5="9b951869e92dbec3eb7379e5d3fb7919" sha1="d51931ee3a4aec48d4af936f5e06d70def6b8b05"/>
+	</machine>
+	<machine name="DynamiClock2_631408">
+		<description>DynamiClock2_631408</description>
+		<rom name="DynamiClock2_631408.wgz" size="219762" crc="c44f1db1" md5="bdc08a569b8a112cf3e8490ed15ed34a" sha1="977262d6a5ae414b6675e77f3d719896de3f552a"/>
+	</machine>
+	<machine name="EasyCab_373894">
+		<description>EasyCab_373894</description>
+		<rom name="EasyCab_373894.wgz" size="842493" crc="2824fe36" md5="77da940f091159f8ab6087149f9a6538" sha1="b56676ca038a0b33ae165f32d6217f8ac18e87d4"/>
+	</machine>
+	<machine name="EasySalah_538047">
+		<description>EasySalah_538047</description>
+		<rom name="EasySalah_538047.wgz" size="3119493" crc="5d75faa6" md5="1aeff326fc7983d7479cd9e31fe29c51" sha1="bceaba9c4d4e3350bf4b93130f16163fb05411a8"/>
+	</machine>
+	<machine name="egypt_640239">
+		<description>egypt_640239</description>
+		<rom name="egypt_640239.wgz" size="125910" crc="0fc09954" md5="370b3b527d1ad447b97b61a1066fb9ce" sha1="e6aaabd01721d74b2dd71f0e9256faa45e299584"/>
+	</machine>
+	<machine name="EN_NS_CLOCK_WGZ_1_595503.1_RED">
+		<description>EN_NS_CLOCK_WGZ_1_595503.1_RED</description>
+		<rom name="EN_NS_CLOCK_WGZ_1_595503.1_RED.wgz" size="22913" crc="3e1b124d" md5="801b277985d564a57148bc4528aeb931" sha1="279d354b20b20c43790707bb30d5e90dc1aed61f"/>
+	</machine>
+	<machine name="EncyclopediaAustralis_374625">
+		<description>EncyclopediaAustralis_374625</description>
+		<rom name="EncyclopediaAustralis_374625.wgz" size="975981" crc="4356470a" md5="3ee94a7d97c6a081a24581929881db2c" sha1="eb8bce177c19d5e1c5d4b9fbd7c36599c8ea9723"/>
+	</machine>
+	<machine name="ENumbers_65636">
+		<description>ENumbers_65636</description>
+		<rom name="ENumbers_65636.wgz" size="1170656" crc="6d26fcf9" md5="1c62279db070f76d692f1f385fb900a6" sha1="6a10f655f540cd7642fc69973d2df4ab6b925b5a"/>
+	</machine>
+	<machine name="eros_widget_48353">
+		<description>eros_widget_48353</description>
+		<rom name="eros_widget_48353.wgz" size="258888" crc="d046640e" md5="09639f625a1906b1f119bcdd61b444ec" sha1="e11dd930ed6e30e99c1163681d1595eca93b62a1"/>
+	</machine>
+	<machine name="European_Union_Quiz_DEMO_614940">
+		<description>European_Union_Quiz_DEMO_614940</description>
+		<rom name="European_Union_Quiz_DEMO_614940.wgz" size="635200" crc="60b88313" md5="0b79c728cc724b24a608ff2f2669b2f9" sha1="88789ed8a9e4d240ee774bf2c67ebb5b47bf8325"/>
+	</machine>
+	<machine name="Facebook_freev1_542449.2.1">
+		<description>Facebook_freev1_542449.2.1</description>
+		<rom name="Facebook_freev1_542449.2.1.wgz" size="92146" crc="072ce990" md5="3b7d4581c780dc8ce8d3862ecbe779a2" sha1="2d9fa1d7413d51a97549b72aed3172b453390097"/>
+	</machine>
+	<machine name="Fido_puzzle_free_1_02_386870">
+		<description>Fido_puzzle_free_1_02_386870</description>
+		<rom name="Fido_puzzle_free_1_02_386870.wgz" size="1012966" crc="a07e3c0c" md5="43fba29f9d1d350ac01161cef7897cd5" sha1="512b2f5f3095898704bbdca7c4d1d83152663962"/>
+	</machine>
+	<machine name="First_Math_Lesson_Demo_606491">
+		<description>First_Math_Lesson_Demo_606491</description>
+		<rom name="First_Math_Lesson_Demo_606491.wgz" size="463461" crc="095b2edc" md5="70f75ee16af385e34e1c24b72d43eebc" sha1="70fcbea033a0b4d66829f9fd4243cd43df73e7e4"/>
+	</machine>
+	<machine name="FoodNetwork97-32_64928">
+		<description>FoodNetwork97-32_64928</description>
+		<rom name="FoodNetwork97-32_64928.wgz" size="358364" crc="0e080d0f" md5="1f7f32d586951a9e568cfc6e49f4097e" sha1="e001ac558eccb5f1b80cf42dd290a38e2085bf17"/>
+	</machine>
+	<machine name="footie_tribal_mwl_375515">
+		<description>footie_tribal_mwl_375515</description>
+		<rom name="footie_tribal_mwl_375515.wgz" size="57510" crc="1f6420f7" md5="b75773de6442956b2d14ec8e502a6905" sha1="660a69ddcbef8caa151147680e5726ce3238a0b2"/>
+	</machine>
+	<machine name="FreeMailboxMania_534680">
+		<description>FreeMailboxMania_534680</description>
+		<rom name="FreeMailboxMania_534680.wgz" size="855038" crc="25f26d5d" md5="b646fbacfe367d711bbd9a31d2552c0c" sha1="332351b443aea414b88d07ff5f6e2d99521f0063"/>
+	</machine>
+	<machine name="freeWiFi_605207">
+		<description>freeWiFi_605207</description>
+		<rom name="freeWiFi_605207.wgz" size="39853" crc="1aecca2c" md5="15870d64b872febe984a8817a581edd4" sha1="83309561815d6a9bb0a37e9dc7db3b13a23748d5"/>
+	</machine>
+	<machine name="FWTT051212_594587">
+		<description>FWTT051212_594587</description>
+		<rom name="FWTT051212_594587.wgz" size="79530" crc="64a359d2" md5="2de857bf6ddcbfd4c74ad38b4e6e4313" sha1="8f486f82b62f845cdc71bd9f2aaa4f55da378804"/>
+	</machine>
+	<machine name="FWTT090813_556761">
+		<description>FWTT090813_556761</description>
+		<rom name="FWTT090813_556761.wgz" size="65472" crc="04ffb3ad" md5="de227803b1e43bb4aba84c272279248b" sha1="0d1fd3ea835f3e5b467d10b52872e340a8609084"/>
+	</machine>
+	<machine name="FWTT251113_635732">
+		<description>FWTT251113_635732</description>
+		<rom name="FWTT251113_635732.wgz" size="71659" crc="f924d3c4" md5="1fefc57335596cf6794bf8e46340b203" sha1="43a42257040a423bb3ddcef86ffb1b1fbeace388"/>
+	</machine>
+	<machine name="FWTT271213_567445">
+		<description>FWTT271213_567445</description>
+		<rom name="FWTT271213_567445.wgz" size="71659" crc="2f2b0404" md5="cda256b96b7dfcc986d973768ea82a79" sha1="5f6e5397ddcf9a69c3ff09a4c0a56fa1f6a6329c"/>
+	</machine>
+	<machine name="FWTT271213_594715">
+		<description>FWTT271213_594715</description>
+		<rom name="FWTT271213_594715.wgz" size="80332" crc="947b65d0" md5="1084364aa07990fb2e47ca41de94681d" sha1="5793ca45f7d6d5616ec61538c19ac11ccb148e7e"/>
+	</machine>
+	<machine name="FWTT280313_567467">
+		<description>FWTT280313_567467</description>
+		<rom name="FWTT280313_567467.wgz" size="73356" crc="09b243a6" md5="09ef0e7d37c829457c18e245c785cc74" sha1="389d9cf6fdf7b6937f418a0d3c9cf5ae8a2ee947"/>
+	</machine>
+	<machine name="GameNeus_r4_75016">
+		<description>GameNeus_r4_75016</description>
+		<rom name="GameNeus_r4_75016.wgz" size="415435" crc="04fff4d1" md5="69d7a878b15cf218eda27af98a6c64be" sha1="49ddae715803498a6479b185057176a90c52132e"/>
+	</machine>
+	<machine name="GetitHotDeals_589210">
+		<description>GetitHotDeals_589210</description>
+		<rom name="GetitHotDeals_589210.wgz" size="925325" crc="c7377188" md5="4fb0b985070198aad1964a9f181f86ce" sha1="4285702819e4fc58ee304209c4f47a223d6af2b3"/>
+	</machine>
+	<machine name="ghana_631545">
+		<description>ghana_631545</description>
+		<rom name="ghana_631545.wgz" size="577149" crc="03ca2f60" md5="16509f613afb4d008d6afbb7ac14c9ed" sha1="9d3ca055d106ec94e31c03c51d4911b6b13d3a1c"/>
+	</machine>
+	<machine name="ghana_640241">
+		<description>ghana_640241</description>
+		<rom name="ghana_640241.wgz" size="106192" crc="aa258559" md5="d59671272adba167acbbd9c32b93b589" sha1="32e79cce362ea210f24c30bfe3afd0d17f690199"/>
+	</machine>
+	<machine name="Gift_Clock_600987.V3">
+		<description>Gift_Clock_600987.V3</description>
+		<rom name="Gift_Clock_600987.V3.wgz" size="46150" crc="14bd83ba" md5="45b09923c39e1839001a21128572a743" sha1="34e301d0cffbaaea7aa79ce89ceeb897590ebdb5"/>
+	</machine>
+	<machine name="goneIn60TouchesFREE_651550">
+		<description>goneIn60TouchesFREE_651550</description>
+		<rom name="goneIn60TouchesFREE_651550.wgz" size="69048" crc="19e7039d" md5="99d7acd92df29cf829ad6657e8342e28" sha1="278699092bc360483b9148ae6878c6c0b103764c"/>
+	</machine>
+	<machine name="GoodnightLibrary_369732">
+		<description>GoodnightLibrary_369732</description>
+		<rom name="GoodnightLibrary_369732.wgz" size="948973" crc="f85a1d52" md5="a73b3578948825d7fba8556971ac54fc" sha1="d607aea541b002c10907c77fd1085b82e21a8d08"/>
+	</machine>
+	<machine name="HDR_Photography-0-320_29704">
+		<description>HDR_Photography-0-320_29704</description>
+		<rom name="HDR_Photography-0-320_29704.wgz" size="697360" crc="6f516630" md5="025d9cdcb038ebb4a643fe6c0aca8715" sha1="b4cc411dc7cd7e0b2e443e95939149f6afc2a13b"/>
+	</machine>
+	<machine name="headlinetoday_377629">
+		<description>headlinetoday_377629</description>
+		<rom name="headlinetoday_377629.wgz" size="292306" crc="b5fe67d8" md5="56c2ca7f8ae729339bd2d6656bd2df0d" sha1="460b4ba3e1532bd5d7df31d5fe60d295f1a38eaa"/>
+	</machine>
+	<machine name="HealthTips_409762">
+		<description>HealthTips_409762</description>
+		<rom name="HealthTips_409762.wgz" size="402284" crc="1bc86cd0" md5="aa9b768aaedf8a570901841d50626061" sha1="46ba6da4390cfd3680ba21ed62ce93a326db4a40"/>
+	</machine>
+	<machine name="heiaheia1_433390">
+		<description>heiaheia1_433390</description>
+		<rom name="heiaheia1_433390.wgz" size="71332" crc="eddde237" md5="b288387dfe1fa0f3299a96ec5bc89809" sha1="cbc5d33b5d39a68c90fb1ff93ebd5972b02a7d06"/>
+	</machine>
+	<machine name="huh2_390192">
+		<description>huh2_390192</description>
+		<rom name="huh2_390192.wgz" size="52024" crc="c4ff7884" md5="3e0193ef747029cb82bfb8f687af508d" sha1="0dee51bb702e481682392f0a3e1bd1836cbfee12"/>
+	</machine>
+	<machine name="Humo_26767">
+		<description>Humo_26767</description>
+		<rom name="Humo_26767.wgz" size="26220" crc="2029dc9a" md5="93e60804d7145b3102b3106582715df7" sha1="ab0178e4c771c668198522d212eec9d2bc53a710"/>
+	</machine>
+	<machine name="india_638805">
+		<description>india_638805</description>
+		<rom name="india_638805.wgz" size="272494" crc="1b1278c2" md5="93be2a9e48e1cdf3fe1ac395a6819eee" sha1="7ffcc87b6cad0685a1076f8bebdaa9e654290456"/>
+	</machine>
+	<machine name="Info_Maicih_370718">
+		<description>Info_Maicih_370718</description>
+		<rom name="Info_Maicih_370718.wgz" size="41217" crc="07e2e9cb" md5="62dc1b341517819eb667f67eb685e220" sha1="1b604de5bd5776daa8c0206388208af73af19932"/>
+	</machine>
+	<machine name="InfoNokia_2011_08_31_v_01_04_00_74066">
+		<description>InfoNokia_2011_08_31_v_01_04_00_74066</description>
+		<rom name="InfoNokia_2011_08_31_v_01_04_00_74066.wgz" size="354948" crc="8114a1d9" md5="b54884b0bd56c283cfefbda36de4cac0" sha1="ef6cd49164e4e51245ac3e1e600e63ce733cf26a"/>
+	</machine>
+	<machine name="INHeadlines_r2_71150">
+		<description>INHeadlines_r2_71150</description>
+		<rom name="INHeadlines_r2_71150.wgz" size="266077" crc="4848ab4d" md5="fa756b562d57c6519dd5e0915357aeb6" sha1="c26c26921dbc2aefd3abe3047e42b6a9238af496"/>
+	</machine>
+	<machine name="insing_v_1_0_7_48211">
+		<description>insing_v_1_0_7_48211</description>
+		<rom name="insing_v_1_0_7_48211.wgz" size="406551" crc="55fb457f" md5="9b2a3d9de3b4fb4479ce161cd20bb7a5" sha1="e64f5004960e0ac1860b753c8f7fd5f51535150d"/>
+	</machine>
+	<machine name="InstaPhotos06022013_604913">
+		<description>InstaPhotos06022013_604913</description>
+		<rom name="InstaPhotos06022013_604913.wgz" size="367271" crc="c7f8a33b" md5="36a28e89677b6482284f845ec7463740" sha1="e59e6750dcd91166ab5898fc7bd80d99f184d86c"/>
+	</machine>
+	<machine name="inWords271213_595091">
+		<description>inWords271213_595091</description>
+		<rom name="inWords271213_595091.wgz" size="225356" crc="a7c07a35" md5="62c86ef518dae6ccef243bbc279a0862" sha1="93dfbd8a25b78c03d0abedb01c996a8d97168d4f"/>
+	</machine>
+	<machine name="ITNNews_6277">
+		<description>ITNNews_6277</description>
+		<rom name="ITNNews_6277.wgz" size="128785" crc="569bcafd" md5="39d15d65289b9112b184f1e7b463084f" sha1="65b3893c4d7a32218049affdf17c264239d0fbb6"/>
+	</machine>
+	<machine name="ivorycoast_640247">
+		<description>ivorycoast_640247</description>
+		<rom name="ivorycoast_640247.wgz" size="106693" crc="013974a9" md5="466920c6480f3e59d82a4621541e4552" sha1="997a4a506c3df3dcea5a3ef303e35f605f9dc263"/>
+	</machine>
+	<machine name="Jack_0_Lantern_570310">
+		<description>Jack_0_Lantern_570310</description>
+		<rom name="Jack_0_Lantern_570310.wgz" size="93530" crc="50950c31" md5="48f0fb71a55cfd4e693de225ca205727" sha1="10934c2efc8e454f2c469b3b3bd549fd2e3376a6"/>
+	</machine>
+	<machine name="jamaica_638741">
+		<description>jamaica_638741</description>
+		<rom name="jamaica_638741.wgz" size="358490" crc="11c6e55c" md5="7b2cb620b735a3432d13be4bd26894b3" sha1="659e132494d133d940347391848c476ee6a6c78f"/>
+	</machine>
+	<machine name="jeetmob_534781">
+		<description>jeetmob_534781</description>
+		<rom name="jeetmob_534781.wgz" size="2489" crc="5c2dd5c4" md5="e70c25b92de0d70aec47eb2aaa1c770c" sha1="ed4c169b2389d93c7ffe24fd0847e3bc75c74d8b"/>
+	</machine>
+	<machine name="juggle_11players_369794">
+		<description>juggle_11players_369794</description>
+		<rom name="juggle_11players_369794.wgz" size="596287" crc="3a42b032" md5="cd54f36ad4cb5a36219fc43eae4890b8" sha1="d0ac0cc4997d97fcaed11f2a713e3a32ac2a61d8"/>
+	</machine>
+	<machine name="KarachiSnob360_362699">
+		<description>KarachiSnob360_362699</description>
+		<rom name="KarachiSnob360_362699.wgz" size="244772" crc="ea6afb5a" md5="159f7027bdf778acc2b521787c6990a6" sha1="a382cc794f3ba16432cae3eac75b7a909364e5f8"/>
+	</machine>
+	<machine name="Karaoke_JingleBells_Touch_48692">
+		<description>Karaoke_JingleBells_Touch_48692</description>
+		<rom name="Karaoke_JingleBells_Touch_48692.wgz" size="265751" crc="2a1c1f22" md5="c14f7446c93643dbe65de67494e7f555" sha1="478e1e13a6f6c50acaa911745d12912ba1bc0dae"/>
+	</machine>
+	<machine name="Karaoke_Tannenbaum_Touch_49268">
+		<description>Karaoke_Tannenbaum_Touch_49268</description>
+		<rom name="Karaoke_Tannenbaum_Touch_49268.wgz" size="261509" crc="53eb3216" md5="eaaf2a7206a625657f8060097c11f04b" sha1="6275395e9fd83c045661b0ce4188c0cd1042bafe"/>
+	</machine>
+	<machine name="kenya_638742">
+		<description>kenya_638742</description>
+		<rom name="kenya_638742.wgz" size="363151" crc="b440873b" md5="ad3d495460e02d709577c576cc19df61" sha1="29ef5e267802ed530517dc49e37a68b1597fd93f"/>
+	</machine>
+	<machine name="kenya_640248">
+		<description>kenya_640248</description>
+		<rom name="kenya_640248.wgz" size="229831" crc="7a2a4c11" md5="197c58aaadc120d8a682e7ec57346f47" sha1="ac027dd4e6ebb731f477930eb95aa3f8cd2feb58"/>
+	</machine>
+	<machine name="Khaleej_ovi_43557">
+		<description>Khaleej_ovi_43557</description>
+		<rom name="Khaleej_ovi_43557.wgz" size="743407" crc="2753f370" md5="cc1dbd2d87f002bdfdfa66ad00e9d9dc" sha1="303029ab8bfaa4d1a64c0ef1f2b99e7aaa6ab1e8"/>
+	</machine>
+	<machine name="KidsAlphabet-Free_356675">
+		<description>KidsAlphabet-Free_356675</description>
+		<rom name="KidsAlphabet-Free_356675.wgz" size="131579" crc="bbf69e37" md5="30454b7ac7c59947cc3159e1dd99b738" sha1="0d1cb1438a41e1f7cb8fc0abb667a2343b738db0"/>
+	</machine>
+	<machine name="KidsFunPlayFree_547564">
+		<description>KidsFunPlayFree_547564</description>
+		<rom name="KidsFunPlayFree_547564.wgz" size="122819" crc="9e073f03" md5="d01170b9aff02492cffaab933b996781" sha1="6e39404ddc7202b541f9dcd0db8d2a6d75a94350"/>
+	</machine>
+	<machine name="Kindergarten_Quiz_Demo_606456">
+		<description>Kindergarten_Quiz_Demo_606456</description>
+		<rom name="Kindergarten_Quiz_Demo_606456.wgz" size="1271746" crc="be44a920" md5="81bbaa50a40d15b51473346246421623" sha1="d75ad3d09e2d80cd695dd36146fe938a43cc6ae0"/>
+	</machine>
+	<machine name="klikBCA_377382">
+		<description>klikBCA_377382</description>
+		<rom name="klikBCA_377382.wgz" size="11032" crc="5eaa2e0b" md5="ba7fb1f338bbc8a1ecb6939694efb6de" sha1="a44d9ba86d089e5e66b92c3e80aff13d06c4107b"/>
+	</machine>
+	<machine name="Korfball_382616">
+		<description>Korfball_382616</description>
+		<rom name="Korfball_382616.wgz" size="253228" crc="b6fb6362" md5="9a6d6450f81020a2e212846621e7d6a8" sha1="358b653ecde46fc5e9a5fe52fabeb2d6f9b043dd"/>
+	</machine>
+	<machine name="Krzyzyk_Advance_1_07_388964">
+		<description>Krzyzyk_Advance_1_07_388964</description>
+		<rom name="Krzyzyk_Advance_1_07_388964.wgz" size="278935" crc="c97a8952" md5="381aa0bbe7bc82b770894ef35eced66d" sha1="7505b373dcdc97ae10516907b00b419f2b6e7dc2"/>
+	</machine>
+	<machine name="KYP03122012_540529">
+		<description>KYP03122012_540529</description>
+		<rom name="KYP03122012_540529.wgz" size="840029" crc="cef6f4c9" md5="c1b0d25fa421f16a75fba8d75829565f" sha1="b8ec7b6342991f2990080d728d9d65f2d3e2002d"/>
+	</machine>
+	<machine name="Learn_C___592905">
+		<description>Learn_C___592905</description>
+		<rom name="Learn_C___592905.wgz" size="104197" crc="c101b472" md5="3450b4d45abdf0f286312029467f1d84" sha1="5f3abca029a8e765ac8df6ddeac155b5a2b4759e"/>
+	</machine>
+	<machine name="Learn_Setswana_633803">
+		<description>Learn_Setswana_633803</description>
+		<rom name="Learn_Setswana_633803.wgz" size="154279" crc="28af5145" md5="8232c9841eaade838b962988fecfe789" sha1="e0318662c0486da88d5f5388114da9d8787a9e28"/>
+	</machine>
+	<machine name="lieDetector_575338">
+		<description>lieDetector_575338</description>
+		<rom name="lieDetector_575338.wgz" size="497686" crc="ba118c4b" md5="c3c070a2a26097df07fbdf29295078a4" sha1="a68d94812e9abb7e5625f0b3f0778ee998ddb801"/>
+	</machine>
+	<machine name="LP33_Nokia_Widget_48867">
+		<description>LP33_Nokia_Widget_48867</description>
+		<rom name="LP33_Nokia_Widget_48867.wgz" size="103125" crc="774f54f2" md5="630417ad7984ebef0ae11d896af2d883" sha1="d2e55340d268da0926e1dae046d457618e547027"/>
+	</machine>
+	<machine name="Mademoiselle_a_Paris-0-320_48660">
+		<description>Mademoiselle_a_Paris-0-320_48660</description>
+		<rom name="Mademoiselle_a_Paris-0-320_48660.wgz" size="214512" crc="76349718" md5="f3bbd6f4fc5d6377e4143c1525c43176" sha1="a7855a31859cce888d3031260559a7a27f0529b4"/>
+	</machine>
+	<machine name="Maele_le_Diane_561747">
+		<description>Maele_le_Diane_561747</description>
+		<rom name="Maele_le_Diane_561747.wgz" size="230910" crc="5afeac07" md5="efdc8db97cac5968c66d9f720d7ed1f4" sha1="8e1a18e0810917d4587126038c73f0ecc7ae96d4"/>
+	</machine>
+	<machine name="MangaReader_393641">
+		<description>MangaReader_393641</description>
+		<rom name="MangaReader_393641.wgz" size="1817360" crc="78565b45" md5="6421fd842bd05aa747d6daa00c2ff72f" sha1="78ee0061621d33f5c278e97086715a2c7f9c8312"/>
+	</machine>
+	<machine name="Marbelo010413_651932">
+		<description>Marbelo010413_651932</description>
+		<rom name="Marbelo010413_651932.wgz" size="421293" crc="1200e33c" md5="1790d644daef4489f96f63c684dff55b" sha1="1370b540ad84c0b1cc127e9a97d2d5cf916727b7"/>
+	</machine>
+	<machine name="MemoryGame_44940">
+		<description>MemoryGame_44940</description>
+		<rom name="MemoryGame_44940.wgz" size="169680" crc="7b7496df" md5="a3da7cde80d2c1fb193c91e9c9a8efa6" sha1="907951d1d16b957148eec73d4e28ae3b2369c554"/>
+	</machine>
+	<machine name="MemoryGame_46066">
+		<description>MemoryGame_46066</description>
+		<rom name="MemoryGame_46066.wgz" size="158846" crc="05409c9f" md5="cfb5a63b712e1f2322d0cfdd7443bedf" sha1="6ea8ff209201320910cb8fc3ee0074a870534c7f"/>
+	</machine>
+	<machine name="mexico_638806">
+		<description>mexico_638806</description>
+		<rom name="mexico_638806.wgz" size="272137" crc="fcf907e4" md5="cd073e766ea00e3cc2773bbb6679d3d2" sha1="2ef6fcd2cc3789d19ae11231c4d681129b2d3cdd"/>
+	</machine>
+	<machine name="mexico_640250">
+		<description>mexico_640250</description>
+		<rom name="mexico_640250.wgz" size="166928" crc="a4ea853e" md5="222da3655db258140a5a15918f6f936b" sha1="ac164e3dbc36ede6b9c9c82687734c3ad8d08181"/>
+	</machine>
+	<machine name="MobiFlik_45554">
+		<description>MobiFlik_45554</description>
+		<rom name="MobiFlik_45554.wgz" size="131217" crc="9ea023b4" md5="0c26342dcca1df3ae4ff3260ea9cab55" sha1="ad7c80fb2e5be3e7dd286015a57d15aa0602bda2"/>
+	</machine>
+	<machine name="MobileGeek_r2_71712">
+		<description>MobileGeek_r2_71712</description>
+		<rom name="MobileGeek_r2_71712.wgz" size="328455" crc="dd98a4ea" md5="08f57ef63b0f9246cac56eb56a9d10e7" sha1="0837ae52378feab9e1e52d1ee254ee6b59451cf7"/>
+	</machine>
+	<machine name="MobiManager_585927">
+		<description>MobiManager_585927</description>
+		<rom name="MobiManager_585927.wgz" size="376447" crc="af77cf8e" md5="347e1380a8081a3823b19798b0c35fdc" sha1="994cb95031df30322d3f878d6857f00971a2a8cd"/>
+	</machine>
+	<machine name="Moon_567455">
+		<description>Moon_567455</description>
+		<rom name="Moon_567455.wgz" size="38605" crc="6191e981" md5="bfa3e8c54ad784ab0afba62564929ce8" sha1="885228f5a836a9833144bccc2e3f561d8902d910"/>
+	</machine>
+	<machine name="Moon_Life_410724">
+		<description>Moon_Life_410724</description>
+		<rom name="Moon_Life_410724.wgz" size="788171" crc="80af74d7" md5="0e9c84fcaa7ec79a24623be386d21c45" sha1="2ecef31facbcddb54f33bed9d367ce5e86ddb89e"/>
+	</machine>
+	<machine name="MoonCalcForSymbian3_624281">
+		<description>MoonCalcForSymbian3_624281</description>
+		<rom name="MoonCalcForSymbian3_624281.wgz" size="379286" crc="55b10edd" md5="76b0c2eda5a7109134d5d52b9c4bd123" sha1="2d4a4e609f8656f0ccb154e0b449fac1864dda15"/>
+	</machine>
+	<machine name="MoonTime_V1_606568">
+		<description>MoonTime_V1_606568</description>
+		<rom name="MoonTime_V1_606568.wgz" size="24309" crc="17b6e5c5" md5="a566194b7710f6394982c122abfa61bf" sha1="a9b62e27ad8def1c8ce2e7f6d1dd063c4da948da"/>
+	</machine>
+	<machine name="morrocco_640251">
+		<description>morrocco_640251</description>
+		<rom name="morrocco_640251.wgz" size="170262" crc="bf606269" md5="4622eea071403c1324b377628c26c96f" sha1="cfff1a82a6367d83108d93967c907050fe5f2d54"/>
+	</machine>
+	<machine name="MTVTop10_WRT_2011_09_28_v_01_04_00_76671">
+		<description>MTVTop10_WRT_2011_09_28_v_01_04_00_76671</description>
+		<rom name="MTVTop10_WRT_2011_09_28_v_01_04_00_76671.wgz" size="226424" crc="dda509cb" md5="93d3a0c915d140524acee5caa4f00609" sha1="9bbda093664422b025fc48a5990f0d0834b53fb3"/>
+	</machine>
+	<machine name="MuchMusicv043_427011">
+		<description>MuchMusicv043_427011</description>
+		<rom name="MuchMusicv043_427011.wgz" size="783163" crc="387f8ef9" md5="6409d5a6d71483fe8712a9d9cead479c" sha1="8b45944837b2760c4df2ef9d9e8bba0846b3343e"/>
+	</machine>
+	<machine name="Multiplication_Table_Quiz_Demo_606451">
+		<description>Multiplication_Table_Quiz_Demo_606451</description>
+		<rom name="Multiplication_Table_Quiz_Demo_606451.wgz" size="614464" crc="4b7cde6e" md5="e7cd68aa352047aecdeb59c826c70019" sha1="67bc051436df4ba482ae45e04117979d9dfa0677"/>
+	</machine>
+	<machine name="muy_ovi_adserver_v101_67503">
+		<description>muy_ovi_adserver_v101_67503</description>
+		<rom name="muy_ovi_adserver_v101_67503.wgz" size="203813" crc="53e44b20" md5="a3404e972332bb78cf99561dbb8a1ec5" sha1="01b3a9028dc4884a8596f9799bcfc2aab75cb81a"/>
+	</machine>
+	<machine name="Mx3_365087.ch">
+		<description>Mx3_365087.ch</description>
+		<rom name="Mx3_365087.ch.wgz" size="399834" crc="bc8c80d0" md5="d5e350f9b3e3daffa1a0c6fbbd29be84" sha1="5b9fb50508efe9b4a509575a7be0fb714b9b00bf"/>
+	</machine>
+	<machine name="MxConvertor071212_595137">
+		<description>MxConvertor071212_595137</description>
+		<rom name="MxConvertor071212_595137.wgz" size="122020" crc="06b1b7d7" md5="9829c58e6e3a341b1f3360e6ae455cde" sha1="8971b2bcd6db4cc544604091a81084fed77e6de2"/>
+	</machine>
+	<machine name="MxDates2nov_577386">
+		<description>MxDates2nov_577386</description>
+		<rom name="MxDates2nov_577386.wgz" size="916865" crc="45a2a696" md5="dbbf9fb6bffc990427544f21007af8f3" sha1="0e40e724c55a311a16d72e958807012c78764f97"/>
+	</machine>
+	<machine name="MxPlayCheckers251113_555262">
+		<description>MxPlayCheckers251113_555262</description>
+		<rom name="MxPlayCheckers251113_555262.wgz" size="1046257" crc="2f1f7d0f" md5="fe138060a4b6718b8389225b6c7b24b7" sha1="764d7eb6db7452eed52e42f726b1657943fd0303"/>
+	</machine>
+	<machine name="MxPlayTicTacToe020413_645856">
+		<description>MxPlayTicTacToe020413_645856</description>
+		<rom name="MxPlayTicTacToe020413_645856.wgz" size="335587" crc="b8c59295" md5="42fd74f811c9c526f2b551dfec3ad078" sha1="b8346a88a4549351899b76d4af9a70aeaa78716c"/>
+	</machine>
+	<machine name="MxStopWatchs60_562515">
+		<description>MxStopWatchs60_562515</description>
+		<rom name="MxStopWatchs60_562515.wgz" size="107446" crc="5da9f116" md5="6f90da978af8950e29ea35273443c323" sha1="7cd880d8e20d0dd8faaf21358df0e90d7b786583"/>
+	</machine>
+	<machine name="mxtv271213_613261">
+		<description>mxtv271213_613261</description>
+		<rom name="mxtv271213_613261.wgz" size="474606" crc="84e0bbf0" md5="eb8e65611ae1c519cf5750bed047995e" sha1="3d04edfb1e8793e9c502644d759ebd514d5d5dd7"/>
+	</machine>
+	<machine name="mxtv271213_641203">
+		<description>mxtv271213_641203</description>
+		<rom name="mxtv271213_641203.wgz" size="474606" crc="313fe2e9" md5="e2be36d3a21537c6dd8bfc3614ccc819" sha1="4012feb94756ebd9d4db0c3619c0e55b08544839"/>
+	</machine>
+	<machine name="MyDiviner2nd_360813">
+		<description>MyDiviner2nd_360813</description>
+		<rom name="MyDiviner2nd_360813.wgz" size="692601" crc="a676a237" md5="f43a2be992e1effb6ae303500947f516" sha1="b9afa3807090bc28175f3ade0b2c4747fcfc7a91"/>
+	</machine>
+	<machine name="MyGroupX_44930">
+		<description>MyGroupX_44930</description>
+		<rom name="MyGroupX_44930.wgz" size="120583" crc="b8903ead" md5="2cede0efbed22b3511199255605732cb" sha1="a2060f8cdc9e5f6b559d770cbcc8f82c1d084596"/>
+	</machine>
+	<machine name="MyHeadlines_r18_65897">
+		<description>MyHeadlines_r18_65897</description>
+		<rom name="MyHeadlines_r18_65897.wgz" size="265707" crc="a329f124" md5="4c5364b6dd7d27d3ba46daca4e7cdbac" sha1="5d484c0677ffb5b1c8a738488f62ed3a41addd4e"/>
+	</machine>
+	<machine name="mylnso_382437">
+		<description>mylnso_382437</description>
+		<rom name="mylnso_382437.wgz" size="978909" crc="23cacefc" md5="84be061e1d399b8e096cde9dab7f008e" sha1="dc02bf25513cf90e2432c1abf0c30c1582615813"/>
+	</machine>
+	<machine name="MyShoppingBuddy_44700">
+		<description>MyShoppingBuddy_44700</description>
+		<rom name="MyShoppingBuddy_44700.wgz" size="198564" crc="5c01ca15" md5="a479ada402ed182d2933b4a92f9a203f" sha1="7e6302c474bc11bdafd4470b4d3b00944c44fd7f"/>
+	</machine>
+	<machine name="N97Widget_72915">
+		<description>N97Widget_72915</description>
+		<rom name="N97Widget_72915.wgz" size="776251" crc="60d54bb3" md5="16eccd3d54fb0cc897ea15248468bcca" sha1="a32e55d222518537c31acb705e3ab70289533bca"/>
+	</machine>
+	<machine name="nHomeCalendar_553185">
+		<description>nHomeCalendar_553185</description>
+		<rom name="nHomeCalendar_553185.wgz" size="48373" crc="5f3caf4d" md5="c7404c3703f008387c32797b1deb689d" sha1="26ce42786e019c701ad41701c68a22d177598bd3"/>
+	</machine>
+	<machine name="nHomeCalendar_Black_554435">
+		<description>nHomeCalendar_Black_554435</description>
+		<rom name="nHomeCalendar_Black_554435.wgz" size="37308" crc="774623f1" md5="1cd53f1c0eee31207ffdaae921815b32" sha1="6c95b0c6ac70f623004b0643ae74cf32883d2472"/>
+	</machine>
+	<machine name="nHomeCalendar_Blue_554442">
+		<description>nHomeCalendar_Blue_554442</description>
+		<rom name="nHomeCalendar_Blue_554442.wgz" size="27209" crc="db6d5296" md5="da030ab9ce43f21da43014c6e8659ce0" sha1="02c92bfdff7eac5b87331b8d39a1442a894471af"/>
+	</machine>
+	<machine name="nHomeCalendar_Green_554439">
+		<description>nHomeCalendar_Green_554439</description>
+		<rom name="nHomeCalendar_Green_554439.wgz" size="27128" crc="f86271e5" md5="253ba3d0e746c5d85414c6cf558ff6fa" sha1="1d535f81cbc6e167c1dc7d2bf49fa1793a371d68"/>
+	</machine>
+	<machine name="nHomeCalendar_Red_554437">
+		<description>nHomeCalendar_Red_554437</description>
+		<rom name="nHomeCalendar_Red_554437.wgz" size="29243" crc="bbfcb766" md5="2834052f1c33775f87416101f2be404c" sha1="cd2618934b95612e742bc1406dd480da3a83a11d"/>
+	</machine>
+	<machine name="nigeria_638740">
+		<description>nigeria_638740</description>
+		<rom name="nigeria_638740.wgz" size="362379" crc="06b1c250" md5="9d44a8ac6d359eecd4f6607740f24eb2" sha1="3abc55809847d9f154387e6512edbbf66a4d16fe"/>
+	</machine>
+	<machine name="nigeria_640253">
+		<description>nigeria_640253</description>
+		<rom name="nigeria_640253.wgz" size="190340" crc="17d982df" md5="f8ce69491d3bda1a182a069f545a671c" sha1="a8e69d72b6d7ea8e1df3362a5d0ecae30c72dc6f"/>
+	</machine>
+	<machine name="NokyartN97_431166">
+		<description>NokyartN97_431166</description>
+		<rom name="NokyartN97_431166.wgz" size="5632" crc="ddce1aac" md5="21551b1777a2eca40e261a5866280eac" sha1="68e82c9a145bdb00d8d48a3911c195b11e218078"/>
+	</machine>
+	<machine name="NS_FLight_WGZ_1_560765.5">
+		<description>NS_FLight_WGZ_1_560765.5</description>
+		<rom name="NS_FLight_WGZ_1_560765.5.wgz" size="13266" crc="a9f10eed" md5="a35abfe7a5c690c335088cb04ad85777" sha1="32f748895aaeb6aa33eac017006247f555182b0a"/>
+	</machine>
+	<machine name="Number_Quiz_Demo_605990">
+		<description>Number_Quiz_Demo_605990</description>
+		<rom name="Number_Quiz_Demo_605990.wgz" size="563050" crc="ef8a2dad" md5="9e2db879841a8e59754c63d827e4ec0a" sha1="a260d7d35b2de37605471ae54214bcdbb932f09b"/>
+	</machine>
+	<machine name="NX_Calendar_WGZ_1_560009.2">
+		<description>NX_Calendar_WGZ_1_560009.2</description>
+		<rom name="NX_Calendar_WGZ_1_560009.2.wgz" size="27153" crc="0212c029" md5="b8cb011e8e952693c8e5504549109c92" sha1="93b68bb3772f50fb79fb017d9a59323e8609aac9"/>
+	</machine>
+	<machine name="NX_CLOCK_SNAKE_OR_EN_1_599406.2">
+		<description>NX_CLOCK_SNAKE_OR_EN_1_599406.2</description>
+		<rom name="NX_CLOCK_SNAKE_OR_EN_1_599406.2.wgz" size="23865" crc="04b8694e" md5="0cc511c5d86f10de816de05da20fc67b" sha1="02e30a87f693e9793206295516be8330c119c69c"/>
+	</machine>
+	<machine name="Observer_63584">
+		<description>Observer_63584</description>
+		<rom name="Observer_63584.wgz" size="204439" crc="767692f2" md5="2f8fe79f48c59707282794e3b2581762" sha1="1938a4254c598b277b154c1827b641722e6e0274"/>
+	</machine>
+	<machine name="OCW_VSEARCH_639413">
+		<description>OCW_VSEARCH_639413</description>
+		<rom name="OCW_VSEARCH_639413.wgz" size="12689" crc="efb60096" md5="1eabf4a4acf866eed4ac1d544cac0649" sha1="afe03d4b543d65173fea06703f733aff638c68ae"/>
+	</machine>
+	<machine name="Optical_Illusions_Collection_1-0-320_47323">
+		<description>Optical_Illusions_Collection_1-0-320_47323</description>
+		<rom name="Optical_Illusions_Collection_1-0-320_47323.wgz" size="292633" crc="79fe2af9" md5="727764ab9e08bee6300741621b1c46c2" sha1="f0ce340809119635497d3c4fe7958491462ec0ba"/>
+	</machine>
+	<machine name="Paw-ch_566065">
+		<description>Paw-ch_566065</description>
+		<rom name="Paw-ch_566065.wgz" size="89768" crc="973f0e5f" md5="738139d22c8521b7ca790a304098f4d6" sha1="3bbfc280b40066e837b95161e09dc2724092c804"/>
+	</machine>
+	<machine name="Pewfell153SymbianApp_396830">
+		<description>Pewfell153SymbianApp_396830</description>
+		<rom name="Pewfell153SymbianApp_396830.wgz" size="4096669" crc="67a01bf0" md5="07670efa081f2919cf2ed0ebe19fe9e1" sha1="aad82b219555d80e33e45ade95b17dba672b027c"/>
+	</machine>
+	<machine name="Pewfell15p2SymbianApp_396332">
+		<description>Pewfell15p2SymbianApp_396332</description>
+		<rom name="Pewfell15p2SymbianApp_396332.wgz" size="2354588" crc="ebf4543b" md5="2efd2236fd57b5cfab3d7be0cb977f19" sha1="64fc52489597b3c7e2cedd088c6a36c5bdd98219"/>
+	</machine>
+	<machine name="PgUpdater_384298">
+		<description>PgUpdater_384298</description>
+		<rom name="PgUpdater_384298.wgz" size="1033987" crc="a2222523" md5="5c450d7b59e450b3c4289204f1b348fa" sha1="f33f489c6ba32453ee6912a425c729cf4c3b3e07"/>
+	</machine>
+	<machine name="PhoneSpeak_404801">
+		<description>PhoneSpeak_404801</description>
+		<rom name="PhoneSpeak_404801.wgz" size="498144" crc="d65e3a1f" md5="99cbaeef0441837e798b3f44fe4a4873" sha1="3822ce8fb72947af398be1d5babb9c854de3c953"/>
+	</machine>
+	<machine name="poppingBaloonsFREE_651526">
+		<description>poppingBaloonsFREE_651526</description>
+		<rom name="poppingBaloonsFREE_651526.wgz" size="14586" crc="ade51eb7" md5="069560aad7b4783260a0f40062f56511" sha1="282e4ce43a17fa77107ed082f04bbf547ee055c5"/>
+	</machine>
+	<machine name="PregMum_569615">
+		<description>PregMum_569615</description>
+		<rom name="PregMum_569615.wgz" size="399934" crc="dbca469f" md5="cfa8cdf125a7582777d99b95982702ef" sha1="81120fcd08e086a23ca19c37166b921792b66f93"/>
+	</machine>
+	<machine name="Project_393632">
+		<description>Project_393632</description>
+		<rom name="Project_393632.wgz" size="4064573" crc="761e61e8" md5="5a3451f2b048618a5eaf18dd5e3742af" sha1="d6c4941152d426ecbf2399788a83a2997b37f8fe"/>
+	</machine>
+	<machine name="ProxiHomes_26751">
+		<description>ProxiHomes_26751</description>
+		<rom name="ProxiHomes_26751.wgz" size="564650" crc="20b043be" md5="8735cd523c2a1981059b929ad22e5dca" sha1="1bc5af582fe6358bcefadcc7ec13543c8e4eba97"/>
+	</machine>
+	<machine name="PT_412946">
+		<description>PT_412946</description>
+		<rom name="PT_412946.wgz" size="1409072" crc="9019279a" md5="898473722ac6f0b1c9d2dec0abaa4ebd" sha1="b9f9b7aef1c3cbca8bdec59967071bd23e9c32df"/>
+	</machine>
+	<machine name="pt_46786.sapo.mobile.nokiawrt.pond-1.1.1">
+		<description>pt_46786.sapo.mobile.nokiawrt.pond-1.1.1</description>
+		<rom name="pt_46786.sapo.mobile.nokiawrt.pond-1.1.1.wgz" size="372130" crc="80a9448c" md5="84ccd09219e4b7346457051582492454" sha1="eeefa1b16867e8dc9c84fd9c79a8b35e20401436"/>
+	</machine>
+	<machine name="Public_W50_2009-12-10_18-07-PROD-OVI_49212">
+		<description>Public_W50_2009-12-10_18-07-PROD-OVI_49212</description>
+		<rom name="Public_W50_2009-12-10_18-07-PROD-OVI_49212.wgz" size="151942" crc="353b2aaf" md5="426f118e443dbcb8418ba497d7143240" sha1="f53438e9c62e50fb304e100f24723edc95d0d8ac"/>
+	</machine>
+	<machine name="QuickL271213_638771">
+		<description>QuickL271213_638771</description>
+		<rom name="QuickL271213_638771.wgz" size="531287" crc="5c553758" md5="61e58f936ab12a80847eccbd87dd2d22" sha1="e53e06d8a9e6cd3a9d8bdddb7e11cfd6ea3b77c1"/>
+	</machine>
+	<machine name="quranic_529638">
+		<description>quranic_529638</description>
+		<rom name="quranic_529638.wgz" size="3545119" crc="75e40aea" md5="03ebbab467f49abdeb78f9601e2772b3" sha1="84a8adddd0c5e01d3a898c5600c65af8d1ed6fa4"/>
+	</machine>
+	<machine name="radiask_629601">
+		<description>radiask_629601</description>
+		<rom name="radiask_629601.wgz" size="447630" crc="5d0b596e" md5="cc7880e6428c216d1e3fd750e4d763b2" sha1="44e124ed796bdc477f0af38e2ff8512b1b94e9a3"/>
+	</machine>
+	<machine name="radioamericaApp_358342">
+		<description>radioamericaApp_358342</description>
+		<rom name="radioamericaApp_358342.wgz" size="857689" crc="7bb481ca" md5="6e64ec37965c174fc12b502e52b833d0" sha1="6c6224a5dd46abc133fcd88a3948af3a5ed21353"/>
+	</machine>
+	<machine name="RamGraph_370153">
+		<description>RamGraph_370153</description>
+		<rom name="RamGraph_370153.wgz" size="87345" crc="327eb95f" md5="e118768cb8da1b9bb952ded6bdfe42fd" sha1="016376a2e3fd1cef68ea7adfd05637d5382ce932"/>
+	</machine>
+	<machine name="Rediff_MoneyWiz_400228">
+		<description>Rediff_MoneyWiz_400228</description>
+		<rom name="Rediff_MoneyWiz_400228.wgz" size="769333" crc="6f1ed477" md5="d6d39714d4a0f0e702dc03f0daf87a88" sha1="d148ca1453dd5af8d49301ac38c32d9e58d74c6c"/>
+	</machine>
+	<machine name="Rolling_Penguin_587329">
+		<description>Rolling_Penguin_587329</description>
+		<rom name="Rolling_Penguin_587329.wgz" size="84413" crc="f1a24cca" md5="ff64e9de50c3083dc708888621717abb" sha1="0cb252fc78a4f3e399a6f6057a162506d3411489"/>
+	</machine>
+	<machine name="rtlWidget-S60-3rd_49767">
+		<description>rtlWidget-S60-3rd_49767</description>
+		<rom name="rtlWidget-S60-3rd_49767.wgz" size="209330" crc="67a8e33c" md5="9115264e33c1989cd8faf7cfd85d61d1" sha1="1ccdf0217fb274fffda87701b2ec30e48fa31f49"/>
+	</machine>
+	<machine name="S60MoonCalc_617396">
+		<description>S60MoonCalc_617396</description>
+		<rom name="S60MoonCalc_617396.wgz" size="375557" crc="bfd258c9" md5="89d8b0d5c7aa8b851ebbc9260eeb6222" sha1="466f920024ba7815fe8bec6fb2ebd45a73d4dcdb"/>
+	</machine>
+	<machine name="salmogren_615656">
+		<description>salmogren_615656</description>
+		<rom name="salmogren_615656.wgz" size="1718048" crc="d1ab50ed" md5="dc2633466a41a5cb49439af13a43d561" sha1="6c5a8ce102f58c454000d7f484d56e1b511b8618"/>
+	</machine>
+	<machine name="Second_Math_Lesson_Demo_606492">
+		<description>Second_Math_Lesson_Demo_606492</description>
+		<rom name="Second_Math_Lesson_Demo_606492.wgz" size="628055" crc="870a4ba9" md5="d152e3d11c1d20540f8bb6993a33f62c" sha1="9608101428c8c84d1e2575a0579a9545742c2a24"/>
+	</machine>
+	<machine name="SGHeadlines_r2_66944">
+		<description>SGHeadlines_r2_66944</description>
+		<rom name="SGHeadlines_r2_66944.wgz" size="263641" crc="b4fe7cc2" md5="b2ba83eef3d0aeaaf43a05141496bfb7" sha1="47e89ef7672080dd6873da957ce6c3f3c8f4f7ee"/>
+	</machine>
+	<machine name="sheCritiquese72_50261">
+		<description>sheCritiquese72_50261</description>
+		<rom name="sheCritiquese72_50261.wgz" size="599180" crc="e026a93a" md5="0cfd7b180bcfdd9788d7b14c1b6ce0b1" sha1="0043987ac0fa251340905165acf732a23d6c5717"/>
+	</machine>
+	<machine name="sierra-leone_638743">
+		<description>sierra-leone_638743</description>
+		<rom name="sierra-leone_638743.wgz" size="364635" crc="3e37d82d" md5="791194efdda9961d8c14b8e4f80d10ff" sha1="a348c173ebdf49daf32265d5509bf818003fef78"/>
+	</machine>
+	<machine name="sierraleone_640254">
+		<description>sierraleone_640254</description>
+		<rom name="sierraleone_640254.wgz" size="106961" crc="4409eacc" md5="2376ee8d1a17811a175f57542ce3fd54" sha1="7da5c3de8589279545a722c1df5a84a7e14552c9"/>
+	</machine>
+	<machine name="SingleLadiesDatingAdviceApp_2__388324">
+		<description>SingleLadiesDatingAdviceApp_2__388324</description>
+		<rom name="SingleLadiesDatingAdviceApp_2__388324.wgz" size="990657" crc="66de5391" md5="89e0bb45833eb6cb18b86167ef5d03e1" sha1="db81039f4f3b8b88d90c9f636b31ec2b7d393adc"/>
+	</machine>
+	<machine name="sm_test_07052013_659175">
+		<description>sm_test_07052013_659175</description>
+		<rom name="sm_test_07052013_659175.wgz" size="3186802" crc="42c69158" md5="193b518b775ed586b267bbd3d1c88c06" sha1="c0bc14d1152c1ba26bd48cf5178faa07d4148cb2"/>
+	</machine>
+	<machine name="Smart_Drive251113_645661">
+		<description>Smart_Drive251113_645661</description>
+		<rom name="Smart_Drive251113_645661.wgz" size="1216080" crc="b0953226" md5="e073e0177f5c67f0fd194bb4da1d86c4" sha1="faca502a9e9a672ba6ad52a7450899721cadc724"/>
+	</machine>
+	<machine name="smokeWheels_363293">
+		<description>smokeWheels_363293</description>
+		<rom name="smokeWheels_363293.wgz" size="114898" crc="60a17def" md5="5544fb47ae2e25c113e774297c09f625" sha1="161ba2d0831b2905e35e832c8f3d91fc6835727c"/>
+	</machine>
+	<machine name="SNOFree_368651">
+		<description>SNOFree_368651</description>
+		<rom name="SNOFree_368651.wgz" size="690931" crc="6eb842a8" md5="46cb68db2d6db51b3e63254a93635c3e" sha1="e744bc73a96c7595a45ff8686d085bb7ec8a572e"/>
+	</machine>
+	<machine name="SoBo271213_640050">
+		<description>SoBo271213_640050</description>
+		<rom name="SoBo271213_640050.wgz" size="540811" crc="4999e401" md5="23428b8e9d1caac6968e60b84cb65225" sha1="8990f311a9f66da99abc20011bbf0611a2df2744"/>
+	</machine>
+	<machine name="solonoble_377387">
+		<description>solonoble_377387</description>
+		<rom name="solonoble_377387.wgz" size="282221" crc="18706c1b" md5="b66b8b3ed0a4b9908e835c7269f6e798" sha1="9c2ae5a9977931f5fea9cf5e67ce110c65195049"/>
+	</machine>
+	<machine name="south-africa_638744">
+		<description>south-africa_638744</description>
+		<rom name="south-africa_638744.wgz" size="374356" crc="4fe1df53" md5="b2b93b005fb819bab5c589d8d71dc429" sha1="afe69cf02869b2965ef7da835d0d7adfd763bc9b"/>
+	</machine>
+	<machine name="Stone_Tic_Tac_1_04_381647">
+		<description>Stone_Tic_Tac_1_04_381647</description>
+		<rom name="Stone_Tic_Tac_1_04_381647.wgz" size="150710" crc="ccbdd51b" md5="38a07b214178b120ac491d87006c87ea" sha1="6e84b3bdac0bf0d473f6f4f1498791be4b5ba0b0"/>
+	</machine>
+	<machine name="Sulekha_Classifides_412508">
+		<description>Sulekha_Classifides_412508</description>
+		<rom name="Sulekha_Classifides_412508.wgz" size="124704" crc="a0fe709a" md5="effe88bd5d9f33e8af46ebcbcc5a5a95" sha1="2667229320f2238d4f1256265ca04ebbd4ddb728"/>
+	</machine>
+	<machine name="Sulekha_Genie_412522">
+		<description>Sulekha_Genie_412522</description>
+		<rom name="Sulekha_Genie_412522.wgz" size="125473" crc="012c8916" md5="91604a023ead84b32348b27e204c95cd" sha1="d7ab96635f6a34877cc94738d49dc80a0f3beadb"/>
+	</machine>
+	<machine name="Sulekha_Local_412660">
+		<description>Sulekha_Local_412660</description>
+		<rom name="Sulekha_Local_412660.wgz" size="88075" crc="daaa9264" md5="c323b667b0a0a388437ed563fd2ee2e3" sha1="eef0727ee06a2bcb17b6e61e657275a552639088"/>
+	</machine>
+	<machine name="Sulekha_Properties_412541">
+		<description>Sulekha_Properties_412541</description>
+		<rom name="Sulekha_Properties_412541.wgz" size="82654" crc="73479609" md5="b3f67c8887ffaf0d7354255c13ddd2ef" sha1="e5b718e1d2008db1d46ccb3b5a0517e03bf9d7f2"/>
+	</machine>
+	<machine name="Symbian_developers-quick-access1_528999.4_2904_">
+		<description>Symbian_developers-quick-access1_528999.4_2904_</description>
+		<rom name="Symbian_developers-quick-access1_528999.4_2904_.wgz" size="572464" crc="324543fa" md5="01e0ff8c8f22f8c5818d5bd42be8da27" sha1="1b9f3e835d5143a588fdd3b61f22d0da763b31ab"/>
+	</machine>
+	<machine name="SynamiClock_589982">
+		<description>SynamiClock_589982</description>
+		<rom name="SynamiClock_589982.wgz" size="420710" crc="02c5a6b5" md5="8f7bb60dba8979c6fb1daa1f90eb1f97" sha1="ccfcde71d927d30072515c17f91694bb611087ea"/>
+	</machine>
+	<machine name="TA_48183">
+		<description>TA_48183</description>
+		<rom name="TA_48183.wgz" size="365335" crc="5980ec4c" md5="b9cf4a005482c547d3362769c0c6593e" sha1="a45c287bee88f473826ead0749e5d21f18074857"/>
+	</machine>
+	<machine name="tanzania_638807">
+		<description>tanzania_638807</description>
+		<rom name="tanzania_638807.wgz" size="268163" crc="ce7099d5" md5="59edc5c6cd8e32124c5fc3dc111c70f1" sha1="4b2d671c8e6ba867af8166b94cc4b34dd5e7de1b"/>
+	</machine>
+	<machine name="tanzania_640255">
+		<description>tanzania_640255</description>
+		<rom name="tanzania_640255.wgz" size="376137" crc="875d01ef" md5="8897d7b53c5880860dc686386c78c23d" sha1="4451771ac8d9859aac0d0d39919a27d12c60c6ba"/>
+	</machine>
+	<machine name="taxiV1_1_19537">
+		<description>taxiV1_1_19537</description>
+		<rom name="taxiV1_1_19537.wgz" size="163559" crc="2a913359" md5="aa3ea6e15a4af082b5a45607f019513b" sha1="bda56df5c01f06a9046b7478e10a7bc8679d2b31"/>
+	</machine>
+	<machine name="Techlines_r3_68197">
+		<description>Techlines_r3_68197</description>
+		<rom name="Techlines_r3_68197.wgz" size="330270" crc="6714f06f" md5="0209ada0bf7e61fc38dc845b94151250" sha1="7e835d104fdb63e316441f2e911ec951e86d89b9"/>
+	</machine>
+	<machine name="TenPuzzles-FCE_392765">
+		<description>TenPuzzles-FCE_392765</description>
+		<rom name="TenPuzzles-FCE_392765.wgz" size="290883" crc="6dc5d3a1" md5="9086590d7ee08ca1b01dcbe223668d39" sha1="02c50f14ec5258bc72a707324e95de19753550ca"/>
+	</machine>
+	<machine name="terra_breakingnews_brasil_110449">
+		<description>terra_breakingnews_brasil_110449</description>
+		<rom name="terra_breakingnews_brasil_110449.wgz" size="96013" crc="0c4c7230" md5="1cc0f3fbc147ea3e2b87c73486e1e38c" sha1="2b17b1984919c2fcb5a57acfd44bfc80e42e0297"/>
+	</machine>
+	<machine name="thanoditranslator_615554">
+		<description>thanoditranslator_615554</description>
+		<rom name="thanoditranslator_615554.wgz" size="134661" crc="ff9bd68f" md5="40cba7856e09467325e83030f39020b6" sha1="6de3555e5a6b2b59b67509ca9a48637105ffe230"/>
+	</machine>
+	<machine name="THE_WORLD_WONDERS-0-320_28089">
+		<description>THE_WORLD_WONDERS-0-320_28089</description>
+		<rom name="THE_WORLD_WONDERS-0-320_28089.wgz" size="836775" crc="54605aff" md5="e1908077e5ed0160d8a45d6f7d14ae8c" sha1="e214197169db7acda4b7a8b98a0bca2c106bc6fa"/>
+	</machine>
+	<machine name="TheHindus3_393489">
+		<description>TheHindus3_393489</description>
+		<rom name="TheHindus3_393489.wgz" size="284309" crc="5a94d39b" md5="75f9638e46351321b5f6a48ba1063d34" sha1="8528bb472f50ab701aabd1b86152e542136270c8"/>
+	</machine>
+	<machine name="TheLookBook_386676">
+		<description>TheLookBook_386676</description>
+		<rom name="TheLookBook_386676.wgz" size="916367" crc="6ae490d8" md5="d9e8ffcd403650c69162400f2ebfe500" sha1="d9fe7d656a9a5018efed422331de578f7c4fb660"/>
+	</machine>
+	<machine name="tic-tac-toe_48186">
+		<description>tic-tac-toe_48186</description>
+		<rom name="tic-tac-toe_48186.wgz" size="342901" crc="36266267" md5="55af9b0fdca1b574c8b5455196bc2953" sha1="901ffbf68b8f0625da2c84ca647038783142094b"/>
+	</machine>
+	<machine name="TicTacToe_46065">
+		<description>TicTacToe_46065</description>
+		<rom name="TicTacToe_46065.wgz" size="126800" crc="31a2448c" md5="6ed29bc6c4b377d0d1a7cd347e3ca186" sha1="419813df9b8bd22688226a87cdff5171b9ad809a"/>
+	</machine>
+	<machine name="Time_Ratio_43461">
+		<description>Time_Ratio_43461</description>
+		<rom name="Time_Ratio_43461.wgz" size="76273" crc="93ba8f7e" md5="f8474c0af746ce174752e50503707485" sha1="d4a1abcbd36c30be8756911ac06bda7846bc5157"/>
+	</machine>
+	<machine name="Today_v1_12_43387">
+		<description>Today_v1_12_43387</description>
+		<rom name="Today_v1_12_43387.wgz" size="386049" crc="e7e23765" md5="526035a7d165a69577b91b178c65848b" sha1="a96c39ba7f1f1adcb02eba6bb9fc0fc06c367717"/>
+	</machine>
+	<machine name="Tracker_-_Nokia_691638">
+		<description>Tracker_-_Nokia_691638</description>
+		<rom name="Tracker_-_Nokia_691638.wgz" size="706143" crc="ed99f9f9" md5="6879317e4110ebd9bbb20b1bf9333b37" sha1="e0e04b87bf14aafdf42e4a726ce42fb372fa9381"/>
+	</machine>
+	<machine name="TrafalgarSquareV1_599429.1">
+		<description>TrafalgarSquareV1_599429.1</description>
+		<rom name="TrafalgarSquareV1_599429.1.wgz" size="99955" crc="13ee5917" md5="8c13a1a32ecfba03070f291191c4ee86" sha1="beba1e686a062af16e23bb04b56edd092d242ec2"/>
+	</machine>
+	<machine name="TrueReversiSymbian_377924">
+		<description>TrueReversiSymbian_377924</description>
+		<rom name="TrueReversiSymbian_377924.wgz" size="290926" crc="6ba27bf1" md5="b62ae0d87b0b7e730382018b4614ded9" sha1="e4e04e41debb2c212a6164efbf8961d56fd5e9a6"/>
+	</machine>
+	<machine name="truthlight_64531">
+		<description>truthlight_64531</description>
+		<rom name="truthlight_64531.wgz" size="47385" crc="4461060f" md5="199df64b5167b716cd26ac2fcef47bf7" sha1="21edb3e2a723699beeaa33783a98e182ee8844cd"/>
+	</machine>
+	<machine name="turkey_640256">
+		<description>turkey_640256</description>
+		<rom name="turkey_640256.wgz" size="111051" crc="b633f0d7" md5="3ada457412036458acb662416dfeafc9" sha1="2541d228cee8ba4a50570dd2b7d9a2ebd696001f"/>
+	</machine>
+	<machine name="twitmeal_387362">
+		<description>twitmeal_387362</description>
+		<rom name="twitmeal_387362.wgz" size="38016" crc="430fb85c" md5="1b3bd845ec986fc5db8548ac4436b667" sha1="e96eec39cdb462db4ca8c88f5592472ba884e98e"/>
+	</machine>
+	<machine name="ucasconnectapp_361237">
+		<description>ucasconnectapp_361237</description>
+		<rom name="ucasconnectapp_361237.wgz" size="526694" crc="3b5b2d94" md5="8249a40e7698cf840b3c2a641e9a3e86" sha1="35c628ddad5016ed67c2ef304832b0c92aaf9d7d"/>
+	</machine>
+	<machine name="uganda_638745">
+		<description>uganda_638745</description>
+		<rom name="uganda_638745.wgz" size="359467" crc="9dc8af48" md5="4e345912612868523fe6d611f0b29b04" sha1="fa39645c48e1eb67a920bfbdc8daeca4717bbfd9"/>
+	</machine>
+	<machine name="uganda_640258">
+		<description>uganda_640258</description>
+		<rom name="uganda_640258.wgz" size="122958" crc="afb65d15" md5="b20ac8f00d7bc7fc8a92ffeb90aae2c9" sha1="837128173b5cd42d80f5f1f7489ac8f8620ba282"/>
+	</machine>
+	<machine name="UKHeadlines_r6_67460">
+		<description>UKHeadlines_r6_67460</description>
+		<rom name="UKHeadlines_r6_67460.wgz" size="251203" crc="93a78571" md5="89c42622205da8c5cb4e8b3664b517c8" sha1="b732818cce9ea430e642529001193130850e1b74"/>
+	</machine>
+	<machine name="Unwanted2SymbianApp_396856">
+		<description>Unwanted2SymbianApp_396856</description>
+		<rom name="Unwanted2SymbianApp_396856.wgz" size="8587149" crc="bef6122b" md5="13f78e4ab3dcc4903d45ddb78954abb1" sha1="2609b8887c55dc6ebbba21c729673dae4c61c32b"/>
+	</machine>
+	<machine name="Unwanted3SymbianApp_396860">
+		<description>Unwanted3SymbianApp_396860</description>
+		<rom name="Unwanted3SymbianApp_396860.wgz" size="9957612" crc="a89dd8ec" md5="2a3260010de70b7b1906a00f5af8e979" sha1="64d7314091ea21dadbb249b2997511dcdee45e95"/>
+	</machine>
+	<machine name="Unwanted4SymbianApp_396863">
+		<description>Unwanted4SymbianApp_396863</description>
+		<rom name="Unwanted4SymbianApp_396863.wgz" size="13359162" crc="dcbf67dd" md5="e9200ef275c277d2a8395d626de9e58d" sha1="14786c687e0b1d92dceccaf2e6d016f8fc50e648"/>
+	</machine>
+	<machine name="UnwantedSymbianApp_396848">
+		<description>UnwantedSymbianApp_396848</description>
+		<rom name="UnwantedSymbianApp_396848.wgz" size="4262252" crc="8ced5aea" md5="815e1caf5b59b5d1e34772a265eaae00" sha1="a5caeb0d91e652533e87d392e93fe5d5e23ec6d1"/>
+	</machine>
+	<machine name="Upss_65584">
+		<description>Upss_65584</description>
+		<rom name="Upss_65584.wgz" size="824278" crc="c63715e8" md5="511546344503129fb005ebc524002226" sha1="8dd9c869f9a2545e279eb4780462b2498fc939b6"/>
+	</machine>
+	<machine name="Urdu_Rhymes_537578">
+		<description>Urdu_Rhymes_537578</description>
+		<rom name="Urdu_Rhymes_537578.wgz" size="214821" crc="6efb6cd4" md5="2656bc7197f17a264bf13a072c0fae30" sha1="7f75c0ad1422f34df547f76e62cd635d6500a49b"/>
+	</machine>
+	<machine name="vgNyheter_48584">
+		<description>vgNyheter_48584</description>
+		<rom name="vgNyheter_48584.wgz" size="31816" crc="824dd153" md5="6ad12f6336aae857bf93c254b3a69abb" sha1="13e42e809ab2f137a0ab21b2c8b32a73e857ac16"/>
+	</machine>
+	<machine name="vodafone_update_1_73364.0.2">
+		<description>vodafone_update_1_73364.0.2</description>
+		<rom name="vodafone_update_1_73364.0.2.wgz" size="351288" crc="4b1efde2" md5="c57b1a08be2b752c292ac72e0fd2c3bc" sha1="2e282065910fb43e068cf0e6674fde943d29505f"/>
+	</machine>
+	<machine name="W8_Launcher-_Demo_645728">
+		<description>W8_Launcher-_Demo_645728</description>
+		<rom name="W8_Launcher-_Demo_645728.wgz" size="334187" crc="912044e3" md5="9a4af7f76db3fc9451a4ca6d5fd81910" sha1="9c2ff5f3f05ac27783546ea88f363a5fe09a10b1"/>
+	</machine>
+	<machine name="W8_PremiumDemo_649768">
+		<description>W8_PremiumDemo_649768</description>
+		<rom name="W8_PremiumDemo_649768.wgz" size="958243" crc="48b80614" md5="02eea22e1a2c3339a25844f6536fedd1" sha1="9062cce0a5635f1bfbe5f48b763516f9abccfb0f"/>
+	</machine>
+	<machine name="Websearch0_531528.2.1">
+		<description>Websearch0_531528.2.1</description>
+		<rom name="Websearch0_531528.2.1.wgz" size="62122" crc="2b707fe4" md5="7f3c773087f3b579fe7ce2f69efdc4f1" sha1="6f056fa26105b0cd0ce7638ad5a8b8f2c2c394e4"/>
+	</machine>
+	<machine name="WebSearchv2_546441.1lite">
+		<description>WebSearchv2_546441.1lite</description>
+		<rom name="WebSearchv2_546441.1lite.wgz" size="63489" crc="35d559cd" md5="1f320bdcf6db6cb3aaed1e660789da78" sha1="faf71be5fa7469649c5215486b8d0c8f949ad62a"/>
+	</machine>
+	<machine name="WhiteKnight_404926">
+		<description>WhiteKnight_404926</description>
+		<rom name="WhiteKnight_404926.wgz" size="45883" crc="459e71ce" md5="6c2f9b52c6f69117b67931f61cc0d83d" sha1="808bdc49b7e9d938f82835aedf22a2227d1db231"/>
+	</machine>
+	<machine name="WhiteKnightFree_404852">
+		<description>WhiteKnightFree_404852</description>
+		<rom name="WhiteKnightFree_404852.wgz" size="45885" crc="81b447da" md5="2ae574a578bf6dd605b645e01923ea35" sha1="6b2f78ae7f1e796d40df9803c6451816b3264808"/>
+	</machine>
+	<machine name="widget_425095">
+		<description>widget_425095</description>
+		<rom name="widget_425095.wgz" size="4966" crc="34bbce70" md5="ff9c701982513c1918340a4743eaf485" sha1="73ac2b36b874551b7911573d47b5c8ac8fc48752"/>
+	</machine>
+	<machine name="widstock_en_44722">
+		<description>widstock_en_44722</description>
+		<rom name="widstock_en_44722.wgz" size="445911" crc="c4844728" md5="a90ebdac05dd5353fd00fb9376c9ca96" sha1="f16e0831e3db903630f3be6c93b09f199f1033bd"/>
+	</machine>
+	<machine name="Wikipedia271213_651738">
+		<description>Wikipedia271213_651738</description>
+		<rom name="Wikipedia271213_651738.wgz" size="432944" crc="16b9a828" md5="1bb9de8b936866d443713814288b6a89" sha1="098b8a6b00489dd2c11961049ad8e81e1f974e53"/>
+	</machine>
+	<machine name="Wikipedia_72400">
+		<description>Wikipedia_72400</description>
+		<rom name="Wikipedia_72400.wgz" size="221439" crc="9bb04879" md5="8728a98de0ee62dceaad00faf4fed39d" sha1="f5d126d1cec39c1589d5931bfc5907b6407a5f56"/>
+	</machine>
+	<machine name="Winter_Fun_602183">
+		<description>Winter_Fun_602183</description>
+		<rom name="Winter_Fun_602183.wgz" size="231165" crc="a9a8bb22" md5="ddd527d6abbb2203cf3467daf4354325" sha1="cfbd245ac80466d7d2738c66f1db1ca7d03e8ec1"/>
+	</machine>
+	<machine name="Wordbook_1_363444.0">
+		<description>Wordbook_1_363444.0</description>
+		<rom name="Wordbook_1_363444.0.wgz" size="274271" crc="f1406e7b" md5="d13bd260d14d43d5307a2db255eb5524" sha1="68cd1ec7b61a5c138671f8155aa24d8b38512426"/>
+	</machine>
+	<machine name="X_Factor_Winner_Joe-0-320_49742">
+		<description>X_Factor_Winner_Joe-0-320_49742</description>
+		<rom name="X_Factor_Winner_Joe-0-320_49742.wgz" size="351566" crc="21202097" md5="6df803721bcb5db50f7cbd67b98910e8" sha1="56c9fc1d75d3e61650f265bc5e0557329e9954af"/>
+	</machine>
+	<machine name="XLauncherdemo_649758">
+		<description>XLauncherdemo_649758</description>
+		<rom name="XLauncherdemo_649758.wgz" size="424132" crc="1e7bedc0" md5="de2a77f9cacb291a004af9c2a664c706" sha1="7a139122f4cdfe32e53d3b8441a1909cc55dc891"/>
+	</machine>
+	<machine name="Yasin_Sure_Arapca3_611347.5">
+		<description>Yasin_Sure_Arapca3_611347.5</description>
+		<rom name="Yasin_Sure_Arapca3_611347.5.wgz" size="1853887" crc="a1e2f920" md5="33d0da1d15af20bb1f6c544640241248" sha1="04dae7d41edd0455466298360ad9966e00e08403"/>
+	</machine>
+	<machine name="Your_Map_v5_548270">
+		<description>Your_Map_v5_548270</description>
+		<rom name="Your_Map_v5_548270.wgz" size="1124671" crc="8226d65c" md5="352b53b5a75ee71fe34ce03583469e22" sha1="d5c55caf95ea961c0bfb9dd7cfc1f938aa1beb0b"/>
+	</machine>
+	<machine name="YoutubeHD271213_638808">
+		<description>YoutubeHD271213_638808</description>
+		<rom name="YoutubeHD271213_638808.wgz" size="480656" crc="ee41cae4" md5="a275303e2406a77bae941772a83fa2f5" sha1="6b767479630bb691a8b9006ad4af2f6dee4cb4a1"/>
+	</machine>
+	<machine name="zambia_638746">
+		<description>zambia_638746</description>
+		<rom name="zambia_638746.wgz" size="384536" crc="9b38528d" md5="6ff474297448232ee688938ec30841ea" sha1="913da5e91bab33714a9351bc08cfdebdb42e28a8"/>
+	</machine>
+	<machine name="ZaraM_49818">
+		<description>ZaraM_49818</description>
+		<rom name="ZaraM_49818.wgz" size="7614" crc="406dcd18" md5="e08b89b6bc6a64d587d093fbc0ce2b0b" sha1="e80e71c77a36fc1af0176d8697de5ad77bd6795a"/>
+	</machine>
+	<machine name="zimbabwe_638747">
+		<description>zimbabwe_638747</description>
+		<rom name="zimbabwe_638747.wgz" size="395743" crc="c8c426ea" md5="477d81274020b24cf81baaedbcd90843" sha1="79695edd3b49bca5eae783562c875a07258ff6fb"/>
+	</machine>
+	<machine name="ZodiacChineseWidgetFree_624320">
+		<description>ZodiacChineseWidgetFree_624320</description>
+		<rom name="ZodiacChineseWidgetFree_624320.wgz" size="862238" crc="69c5ee7a" md5="62350e54b13820c4558aa5f6143cf327" sha1="8690a0e30e051b2cf985c68572742f30ad61128d"/>
+	</machine>
+	<machine name="ZodiacWesternWidgetFree_609500">
+		<description>ZodiacWesternWidgetFree_609500</description>
+		<rom name="ZodiacWesternWidgetFree_609500.wgz" size="847876" crc="f54ccc9e" md5="9fbeced0f9c5486ddd9a1586fee68b40" sha1="875b05c3ff9f9223b69e5a51c6252304fe5db369"/>
+	</machine>
+</datafile>

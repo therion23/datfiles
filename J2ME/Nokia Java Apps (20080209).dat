@@ -1,0 +1,2072 @@
+clrmamepro (
+	name "Nokia Java Apps"
+	description "Nokia Java Apps (20080209)"
+	category "Standard DatFile"
+	version 20080209
+	author Cable
+	comment "<insert comment>"
+)
+
+game (
+	name "[3510i] Mobilny Slownik (v 1.0) [Charismath Interactive] (unk) [!]"
+	description "[3510i] Mobilny Slownik (v 1.0) [Charismath Interactive] (unk) [!]"
+	year ""
+	manufacturer ""
+	rom ( name mSlowS30.jad size 157 crc 49996dad md5 2245853033aa58c133e7a8037a443b5f sha1 36e7263332bcbbb166186d414aa5de37a0049cb6 )
+	rom ( name mSlowS30.jar size 33500 crc ca591261 md5 868f5dff239b9292b693ed5292e81303 sha1 f3d9ee639286208ca70f4638f64d03e59482a273 )
+)
+
+game (
+	name "[6230] BMD Phone Tester (v 1.0) [BMD] [!]"
+	description "[6230] BMD Phone Tester (v 1.0) [BMD] [!]"
+	year ""
+	manufacturer ""
+	rom ( name BMDPhoneTester.jad size 364 crc a06681c3 md5 a168e0d05998ca6a2dd40025eb5d9554 sha1 c21ec592548ab185f4d2c1bd7bde31ac8d07e7fd )
+	rom ( name BMDPhoneTester.jar size 43652 crc e05685c5 md5 cf78972e7e5483f073d1fd9a85cd332a sha1 b5875947eb674b8f5890d2d447873e1b001fdbc7 )
+)
+
+game (
+	name "[6230] Calibrator 2 (v 1.0) [unknown] [!]"
+	description "[6230] Calibrator 2 (v 1.0) [unknown] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Calibrator2.jad size 345 crc 5bb08981 md5 9bab7898ed6e7cb23fa46a1aba6c77ca sha1 5e6e8758f8bec7ed18c97732978557096e49ac69 )
+	rom ( name Calibrator2.jar size 20895 crc fea42086 md5 13c8c2a054f3f0932756c62887b341ae sha1 360a76e230b3a19b246e1da0178b125bed8199a2 )
+)
+
+game (
+	name "[6230] Clock (v 0.2.23) [freej2me] [!]"
+	description "[6230] Clock (v 0.2.23) [freej2me] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Clock_large.jad size 370 crc a220f056 md5 9486851a3f8c3a0d3fe959276dc71ad2 sha1 766e0f621a54ee2ba4098f6fc98daa26cd5ebd83 )
+	rom ( name Clock_large.jar size 43783 crc f9a5b1b1 md5 e3eff76cc632917d1de8a3a99a7c09a4 sha1 a7adfb2232996d24ce4999318e8ee3b29846d68f )
+)
+
+game (
+	name "[6230] Global Prayer Digest (v 0.2) [FourteenFour] [!]"
+	description "[6230] Global Prayer Digest (v 0.2) [FourteenFour] [!]"
+	year ""
+	manufacturer ""
+	rom ( name gpd-0506.jad size 421 crc 1b7faca8 md5 a964b68c3c405391f74488e70e4a701a sha1 41ce513ba5d96a54a41d1d8d3cb18523961ae783 )
+	rom ( name gpd-0506.jar size 32493 crc eb8dde76 md5 c7b9ac23ececc12af5976eed147504ce sha1 e932f7c9b89768b34818e24f95ef29416694870e )
+)
+
+game (
+	name "[6230] Info Time Alarm Clock (v 1.2.25) [Infologic Services] [!]"
+	description "[6230] Info Time Alarm Clock (v 1.2.25) [Infologic Services] [!]"
+	year ""
+	manufacturer ""
+	rom ( name InfoTimeAlarmClock.jad size 459 crc 8c06496d md5 37486c37c053449123267ab3ed3988b6 sha1 39a0148592f3791af53c86d8fed51f34c8064ff8 )
+	rom ( name InfoTimeAlarmClock.jar size 58265 crc 8bf0d82d md5 8fb8837c02b716bde5dfda8f6f45630c sha1 c35ceae91705476dbadcab7abda3de10d94190f8 )
+)
+
+game (
+	name "[6230] MobiLuck (v 1.2.04) [Mobiluck SA] [!]"
+	description "[6230] MobiLuck (v 1.2.04) [Mobiluck SA] [!]"
+	year ""
+	manufacturer ""
+	rom ( name MobiLuck-1.2.04_cracked[byVbmot]NO_EXPIRE.jad size 620 crc 6af7e2b9 md5 561ebb123758f1775d92a70ff04ebed4 sha1 bb93bfb22a3ca570c6b765404fa7d259094d5332 )
+	rom ( name MobiLuck-1.2.04_cracked[byVbmot]NO_EXPIRE.jar size 124574 crc 50c4e77d md5 435e52706c1ebeb7eeb184f446707a10 sha1 6bade41b448d4f38ff929957c2d7ff7961a7d593 )
+)
+
+game (
+	name "[7200] Converter II (v 1.8) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	description "[7200] Converter II (v 1.8) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	year ""
+	manufacturer ""
+	rom ( name Cnv_en_nl-NL_fr_de_it_pt-PT_es-ES_tr-TR.jad size 223 crc 5c7bc840 md5 d12cd060344b092f2559055567a0cf8e sha1 b1081c1afbc514501b7a828872beae05f823e8b2 )
+	rom ( name Cnv_en_nl-NL_fr_de_it_pt-PT_es-ES_tr-TR.jar size 32630 crc a236e045 md5 e1a367fa93b002894027dd7b3466dbd0 sha1 268c34fa968bdd2f6a2e8d767a846c2d55d73a72 )
+)
+
+game (
+	name "[7210] Active Viewer demo (v 1.5.5) [Simeda GmbH] [!]"
+	description "[7210] Active Viewer demo (v 1.5.5) [Simeda GmbH] [!]"
+	year ""
+	manufacturer ""
+	rom ( name ActiveViewer-UserGuide.pdf size 464067 crc 931adb8d md5 23e84156852ef1a38b532558cc18fd1d sha1 9625f2f7fa8705fada18bbff117c846803f03123 )
+	rom ( name ActiveViewer.jad size 336 crc a0d6fac3 md5 0d2a7adfa894dece7e94f8e88c8dc890 sha1 5ebe40c4ca452a667fe19ce5c730261c7914c473 )
+	rom ( name ActiveViewer.jar size 29594 crc 290bf931 md5 a8920b8c39332c11039cdf66454276d1 sha1 6fce31e583043ca1d3a2a80b98a18fb766eb8111 )
+)
+
+game (
+	name "[7210] Advanced Password Wallet (v 1.20) [Advali] [!]"
+	description "[7210] Advanced Password Wallet (v 1.20) [Advali] [!]"
+	year ""
+	manufacturer ""
+	rom ( name apw40.jad size 308 crc 381df951 md5 f26af8e5cd284b1a39d0004a1e2e7ad8 sha1 aba216ebabceac962b9be866dcfb6f0e759e127c )
+	rom ( name apw40.jar size 63660 crc e612de16 md5 e4698b6136c5d54de18ce936eab16286 sha1 a377d929e07a1c09a8d362f1669725f604e69dba )
+)
+
+game (
+	name "[7210] Age Calc 2 (v 2.0) [Abdelbaset Rabayah] [!]"
+	description "[7210] Age Calc 2 (v 2.0) [Abdelbaset Rabayah] [!]"
+	year ""
+	manufacturer ""
+	rom ( name AgeCalc2.jad size 637 crc 7eb27a62 md5 73c2615f97b049ca542ce2df2ef5dfba sha1 6eced0e6a21b50ecdf2102b5f0ba6b9922c447fb )
+	rom ( name AgeCalc2.jar size 3676 crc ceb8fc2a md5 9c727fae873a79e1983b0d1d0ac2c2a4 sha1 ad9126926875aa75080e70ca007ff90d2ab0577a )
+)
+
+game (
+	name "[7210] Alarm Clock (v 1.5) [Spruce Technologies] [!]"
+	description "[7210] Alarm Clock (v 1.5) [Spruce Technologies] [!]"
+	year ""
+	manufacturer ""
+	rom ( name AlarmClock.jad size 313 crc 1cf79347 md5 203099aefeae129b10493eb443f6a3b2 sha1 c3e2516a6efe1cc403a955f951749a10c9504d94 )
+	rom ( name AlarmClock.jar size 17989 crc b4af1d86 md5 92a61014229bf3b82072f9b1b8a4be01 sha1 a658faa544abdff71c810c6c2682794945f13dd6 )
+)
+
+game (
+	name "[7210] Alarm Clock (v 1.6) [Spruce Technologies] [!]"
+	description "[7210] Alarm Clock (v 1.6) [Spruce Technologies] [!]"
+	year ""
+	manufacturer ""
+	rom ( name AlarmClock.jad size 313 crc 5673c727 md5 e4f9e7273a220bfabdb36f2fe24315b4 sha1 2df41720356abd66fb2b5a5a2939fc3dc472d080 )
+	rom ( name AlarmClock.jar size 18019 crc 80131f2f md5 b4215832d09681bcd6bcea7212413e2f sha1 233b87f4368e44cdd30eaff1990b6b8c76b9c0de )
+)
+
+game (
+	name "[7210] Amark (v 1.2) [Andrea Fasce] [!]"
+	description "[7210] Amark (v 1.2) [Andrea Fasce] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Amark.jad size 149 crc f5deea64 md5 8cfe18fd2cf72748e630af458ecb58d8 sha1 890bafe653a926549c44729cec8abfbd6e098a9b )
+	rom ( name Amark.jar size 54748 crc f3f4ae24 md5 2bcb30dd046bee08dc4797aa3cb3d7d5 sha1 94cf494e54d2c624c07a59f63cb81db930f4afc7 )
+)
+
+game (
+	name "[7210] Atomic Clock (v 1.0.2) [ZeroIndex] [!]"
+	description "[7210] Atomic Clock (v 1.0.2) [ZeroIndex] [!]"
+	year ""
+	manufacturer ""
+	rom ( name atomicclock.jad size 362 crc 493a0b03 md5 455b272a0aff7f53213bf7c5883a6dc4 sha1 6c4764c618f1fec9298c7dbe01b97425387f9d43 )
+	rom ( name atomicclock.jar size 11073 crc 3665d32b md5 67fca8e6d7226772b7664a55f88866b1 sha1 de3e4154d0e62af57493e07cf610c3eab42049ee )
+)
+
+game (
+	name "[7210] Baby Safe (v 1.0.0) [Motorola] [!]"
+	description "[7210] Baby Safe (v 1.0.0) [Motorola] [!]"
+	year ""
+	manufacturer ""
+	rom ( name BabySafe.jad size 288 crc 6deb276e md5 1b594e595cddd19d701465474f001df5 sha1 f6867f7b667eeeba96ad8b615a9b8ec674ceb6d1 )
+	rom ( name BabySafe.jar size 5344 crc eaab62ca md5 4e9af8f11e5fdf256843f35912d1c2e2 sha1 dc873f6fd92ba7c6a52763afb9af872ee4a6673d )
+)
+
+game (
+	name "[7210] Bible Dict (v 1.0) [Surerange] [!]"
+	description "[7210] Bible Dict (v 1.0) [Surerange] [!]"
+	year ""
+	manufacturer ""
+	rom ( name BibleDict.jad size 300 crc 5dd3aba3 md5 564169d8749b70fe029e27cf5eae0a71 sha1 64aaf275776cc7e0aed922a1cb420862dd423d5f )
+	rom ( name BibleDict.jar size 5326 crc 62354b17 md5 f8b971db1925fc5f0ad16c7c7b343708 sha1 62b82d7c19b9b7f51f2da2ba195769bcbdcc078f )
+)
+
+game (
+	name "[7210] Bio (v 1.0) [Ivan Rosales] [!]"
+	description "[7210] Bio (v 1.0) [Ivan Rosales] [!]"
+	year ""
+	manufacturer ""
+	rom ( name BioEn.jad size 273 crc 6de5ac68 md5 953e6a2daa678a828a6497795ecf5a69 sha1 18aa7a254a436fe261fd32454fcd4cc43b3c5613 )
+	rom ( name BioEn.jar size 15220 crc 0aa254ad md5 81cb2eeee66b70710b68bccc570461d6 sha1 f92b40c8780daad378dd8b3a38a3f3d9ecaa1a3a )
+)
+
+game (
+	name "[7210] Blue Chat (v 1.0) [benhui] [!]"
+	description "[7210] Blue Chat (v 1.0) [benhui] [!]"
+	year ""
+	manufacturer ""
+	rom ( name blue_chat-pmp3.jad size 230 crc 08a3eda0 md5 784a71e9498b1edbadb92b17fadd9266 sha1 8001c28c725bea1c7dd4cf667b85c212d961d9c6 )
+	rom ( name blue_chat-pmp3.jar size 22328 crc be25bd51 md5 3a25d9929a690858cc57d1e8754f8918 sha1 a01469871f9fb8eb12123ea73d3c1467bd1c84f0 )
+)
+
+game (
+	name "[7210] BMI (v 1.0) [Gsmdev] [!]"
+	description "[7210] BMI (v 1.0) [Gsmdev] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "BMI 1.jad" size 345 crc 18210205 md5 b05f903188b4ab1d6560d57b101bee39 sha1 43767b5c30a6fb7510c3d7b3a80073b97dc0bdb5 )
+	rom ( name "BMI 1.jar" size 5143 crc e03b72b9 md5 f63947ac31d1789b84faf69d672c8149 sha1 6e13984097349e22ffbee9b4e5cdd5000b016d6d )
+)
+
+game (
+	name "[7210] BMI (v 1.0.1) [EZKC] [!]"
+	description "[7210] BMI (v 1.0.1) [EZKC] [!]"
+	year ""
+	manufacturer ""
+	rom ( name BMI.jad size 399 crc bdd68682 md5 fadbbc59357457425bb64484b9d332f3 sha1 ffca0ff8d487cca1fc976c9a0d9d53e815b78b4d )
+	rom ( name BMI.jar size 39978 crc 04e0a79f md5 3f7b8873e69d53494bf4811c18ac5acd sha1 4ee80d85e6cbea44805c4adca3c577e3e1e79005 )
+)
+
+game (
+	name "[7210] Book Reader (v 1.2.0) [tequilacat] [!]"
+	description "[7210] Book Reader (v 1.2.0) [tequilacat] [!]"
+	year ""
+	manufacturer ""
+	rom ( name bookreader.jad size 337 crc e20b3b92 md5 5ca33cbab44de6a472234a1850872c9f sha1 964eac47ae530384dabe63a49cc432678a9d8795 )
+	rom ( name bookreader.jar size 21153 crc 6b37ad4c md5 87b495afcfcddf19bbe0d421e683f2ca sha1 b3c8f6d4e20cb3a082e89a475605926a9103b8a0 )
+)
+
+game (
+	name "[7210] Book Reader (v 1.5.5) [tequilacat] [!]"
+	description "[7210] Book Reader (v 1.5.5) [tequilacat] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "nokia bookreader.jad" size 357 crc b2bed1fd md5 6b65c09f3bc55587c8b2ea4c6cbdf02e sha1 b74f0927f9c66c3cbfd6ec8c16a3adc0433f6c8d )
+	rom ( name "nokia bookreader.jar" size 33617 crc bcc19f66 md5 fbaa2ce5162dc24009ccdd136d235ef8 sha1 775a3b3d5077c9dfde451fba544cd90e38cd8e10 )
+)
+
+game (
+	name "[7210] Bouncing Ball (v 1.0) [Csomos Tamas] [!]"
+	description "[7210] Bouncing Ball (v 1.0) [Csomos Tamas] [!]"
+	year ""
+	manufacturer ""
+	rom ( name ball.jad size 287 crc 321a2f8b md5 0c4541781514723627d1b0cccc0e9d98 sha1 6671f78f6f38a3758f584ed81d76745db0e6df81 )
+	rom ( name ball.jar size 4857 crc e848f400 md5 f8facdcc26e0ce6c547d62993eb89bfb sha1 7f8928f39cbd611b5db8bd9b49174f45a62a8fc5 )
+)
+
+game (
+	name "[7210] Calculator (v 1.0) [Surerange] [!]"
+	description "[7210] Calculator (v 1.0) [Surerange] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Calculator.jad size 318 crc 50c99ea5 md5 f918d38472fac767c52f18499af4cea1 sha1 122b6fa2058ad6e087107c4b20d4410976556977 )
+	rom ( name Calculator.jar size 5700 crc b5f671d5 md5 c3515fdbf2830788695efa1d9c6cf6c5 sha1 6069d31ebc96db9524b93ab13a77c60d0a366a59 )
+)
+
+game (
+	name "[7210] Calculator U.P. (v 0.3) [Spruce Technologies] [!]"
+	description "[7210] Calculator U.P. (v 0.3) [Spruce Technologies] [!]"
+	year ""
+	manufacturer ""
+	rom ( name calculatorup.jad size 199 crc 2c0470af md5 1d6aacc4288db11ea91703c60bf7416c sha1 e179a7f5afb6b88572df5c64084016364b4e4c26 )
+	rom ( name calculatorup.jar size 8074 crc 7f23b8d5 md5 709a939dd60d34006d9e7bc9cc56f7d5 sha1 23c73705d894cf590489b0f929e78079a50c0d31 )
+)
+
+game (
+	name "[7210] CellHtml (v 1.0) [JShape Software] [!]"
+	description "[7210] CellHtml (v 1.0) [JShape Software] [!]"
+	year ""
+	manufacturer ""
+	rom ( name CellHtml.jad size 274 crc b8f78fb3 md5 b2b7178e2fd678963f04554c67fa6dcd sha1 2ce30058b5b5d389eb116d15f78aeae7ef44154e )
+	rom ( name CellHtml.jar size 47688 crc ab71fd2d md5 7d5e932777d1ef39aa0619db55195af9 sha1 a33743291c3e6d62aa17ddbdc442e123171559f4 )
+)
+
+game (
+	name "[7210] Clock (v 1.0.0) [Siemens] [!]"
+	description "[7210] Clock (v 1.0.0) [Siemens] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Clock.jad size 290 crc 60093666 md5 9e467e29d1d13c0710aa362053547733 sha1 ef1f6a0dc8b21bc4ae4af2b3d624622953b2410e )
+	rom ( name Clock.jar size 2257 crc 27cf53d3 md5 efae46c5867b7214f2e63483e8bfe4fb sha1 821a13bf437c6f71503d2259082a4cb944f1c8e8 )
+)
+
+game (
+	name "[7210] Clock (v 1.0.0) [Siemens] [a] [!]"
+	description "[7210] Clock (v 1.0.0) [Siemens] [a] [!]"
+	year ""
+	manufacturer ""
+	rom ( name clock.jad size 288 crc 0360f3c3 md5 b2be51aaa4e2079589af5dd749d5c7d7 sha1 19c668e7632f7227bae4eed49ec899ea75be8349 )
+	rom ( name clock.jar size 2585 crc 1a731e3e md5 f69fc62af91199c5447de59e079d8636 sha1 119f1d1ce07b19cb80b39225011f1d9c723861db )
+)
+
+game (
+	name "[7210] Compass (v 1.0) [Andrew Parr] (S) [!]"
+	description "[7210] Compass (v 1.0) [Andrew Parr] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "compass (s).jad" size 325 crc 3153703d md5 8e3050ca8b8fc9a2c917ed0b0f9bee37 sha1 8191538a118cbfe4fd3caed20279eb891efc198d )
+	rom ( name "compass (s).jar" size 4315 crc 15071303 md5 ea00feefa21acae7cce00d377f70535c sha1 bb2609d50c868ef55937cea7f1eb95903ef708c4 )
+)
+
+game (
+	name "[7210] Compass (v 1.0) [Andrew Parr] [!]"
+	description "[7210] Compass (v 1.0) [Andrew Parr] [!]"
+	year ""
+	manufacturer ""
+	rom ( name compass.jad size 203 crc b007694a md5 3853e08ea1b9e475b6dd130fb422fcde sha1 d05570ce7e7a43c3d08b317e309161f66730790e )
+	rom ( name compass.jar size 5280 crc 42e3f38a md5 47439213ec5fe4b7a484753b8fa849e5 sha1 258f74252f3a5a3ad6f43828e17243486a01205d )
+)
+
+game (
+	name "[7210] Compass (v 3.0) [Data Peters] [!]"
+	description "[7210] Compass (v 3.0) [Data Peters] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Compass.jad size 363 crc b21582bb md5 7550a39577148f1c231dc587704dcb46 sha1 0b9057b7cbe4d234f5085ec23c7fe839aa35cb1c )
+	rom ( name Compass.jar size 60255 crc ab132273 md5 8c7aed9114cced09fd13484da176143e sha1 8c1438867786729f25769590394c0eb1519e98a0 )
+)
+
+game (
+	name "[7210] Converter (v 1.0) [Surerange] [!]"
+	description "[7210] Converter (v 1.0) [Surerange] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Converter.jad size 313 crc 62d6d21d md5 c4839788dd489d027e18e03437ac51df sha1 aecc4c46e5b5e979a4c8851d3def7b2439ba6e76 )
+	rom ( name Converter.jar size 7944 crc 37f5cdba md5 8e2d91b67ffafcbe8b3a5efcdba863c6 sha1 0188339bb425adcc647372e8ba5f00d669d72302 )
+)
+
+game (
+	name "[7210] Converter II (v 1.01) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	description "[7210] Converter II (v 1.01) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	year ""
+	manufacturer ""
+	rom ( name Converter.jad size 248 crc 00e5daae md5 0a63eb206698753a1f5a567dd4c52b1f sha1 f4235164067ac87eeac050ab66996a8f843d8d42 )
+	rom ( name Converter.jar size 32472 crc 6fe8d5d8 md5 154407d6c0b84c8029ddd6d294eb385f sha1 ecd6cd539888ceb7901f55ec869ecbc53ed654c1 )
+)
+
+game (
+	name "[7210] Converter II (v 1.6) [Nokia] (en-de-dk-fi-is-no-sv) [!]"
+	description "[7210] Converter II (v 1.6) [Nokia] (en-de-dk-fi-is-no-sv) [!]"
+	year ""
+	manufacturer ""
+	rom ( name Convertor.jad size 275 crc d147d96c md5 778cbb77a8982ce4a876ab2337882522 sha1 e6442a26ff0b2c055dc4e205d30369ae55749718 )
+	rom ( name Convertor.jar size 30609 crc 6b033c48 md5 f31b86992be51570c25751622988f6e2 sha1 222393423f6df44b6cf62d9a55c0746613fde4d3 )
+)
+
+game (
+	name "[7210] Converter II (v 1.6) [Nokia] [!]"
+	description "[7210] Converter II (v 1.6) [Nokia] [!]"
+	year ""
+	manufacturer ""
+	rom ( name ConverterII.jad size 250 crc d7a9a2e1 md5 b4d14212c4868d28704e647c55a3e533 sha1 c0bd5006cb8d51eaff8f0ff1c6cf637fa5120883 )
+	rom ( name ConverterII.jar size 22697 crc b1661d9c md5 b938a658c476ec085cbc4a1100fe7193 sha1 98b0dc5ae57bc30e4048c2f9cbcdd3f961e904e7 )
+)
+
+game (
+	name "[7210] Converter II (v 1.8) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	description "[7210] Converter II (v 1.8) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	year ""
+	manufacturer ""
+	rom ( name Cnv_en_nl-NL_fr_de_it_pt-PT_es-ES_tr-TR.jad size 317 crc af8d35c3 md5 4785cfa84789cdd8bb331d8916a82cc4 sha1 ae4af16676ea9cb43a2c3988c9a22b5f6eccc05e )
+	rom ( name Cnv_en_nl-NL_fr_de_it_pt-PT_es-ES_tr-TR.jar size 32671 crc a5b1df25 md5 ae4045ebc2fb2d1889f710aabf349759 sha1 6ae2903e197f2bc2bf75227d121aafb02a3bc0fa )
+)
+
+game (
+	name "[7210] Converter II (v 2.8) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	description "[7210] Converter II (v 2.8) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	year ""
+	manufacturer ""
+	rom ( name Cnv_en_de_es-ES_fr_it_tr-TR_nl-NL_pt-PT.jad size 317 crc f294008f md5 8f3376d82ce560d36ed4963d3740a71b sha1 260e84ed79ecd14b55b306cc2d2036c90f2f00b4 )
+	rom ( name Cnv_en_de_es-ES_fr_it_tr-TR_nl-NL_pt-PT.jar size 37122 crc 566b6067 md5 375a6734ff03c5aa81d6cd5e8593c9e3 sha1 31b39ab9d8d24a2fb4cdc8ee601c4515ccb9a3cb )
+)
+
+game (
+	name "[7210] Coolaz Horoscope (v 2.0.3) [Coolaz Technology] [!]"
+	description "[7210] Coolaz Horoscope (v 2.0.3) [Coolaz Technology] [!]"
+	year ""
+	manufacturer ""
+	rom ( name CoolazHoroscope.jad size 575 crc c026d3f0 md5 a1089bd03c8bc618d5f4fa9c772e7854 sha1 20cfc5dd6c4e211626ea9559b435c37c270bc6c6 )
+	rom ( name CoolazHoroscope.jar size 32080 crc 821e0ec6 md5 bdfcfe7e8817402030b63d81b6a06d30 sha1 f036c5bc2ec28eff7096cf29cf71e8e44866928d )
+)
+
+game (
+	name "[7210] Coolaz Weather (v 3.0.3) [Coolaz Technology] [!]"
+	description "[7210] Coolaz Weather (v 3.0.3) [Coolaz Technology] [!]"
+	year ""
+	manufacturer ""
+	rom ( name CoolazWeather.jad size 507 crc 8cadb51e md5 dacf5ec423f603a87970a62916edda0a sha1 ebc192e2063b53f61b9eaf7171191f5904d22583 )
+	rom ( name CoolazWeather.jar size 23775 crc 612d6004 md5 e56fc7924c8da5fe0755bb8769344429 sha1 d0e8395075ec279c0e79ae30fa5f254fb5655a5d )
+)
+
+game (
+	name "[7210] Cost Manager beta (v 1.1) [Jacado] [!]"
+	description "[7210] Cost Manager beta (v 1.1) [Jacado] [!]"
+	year ""
+	manufacturer ""
+	rom ( name costmanager.jad size 318 crc fa060bf8 md5 bf513133059a3deba6ecb53f8a729400 sha1 293c507d4c2c98efac43a5c73d408396c25f7688 )
+	rom ( name costmanager.jar size 15598 crc 8d9fac15 md5 80a72429a386b44612fe3f95b0bd7e59 sha1 20a4c81e7ff877292991440fa7abda9ded3dba20 )
+)
+
+game (
+	name "[7210] Currency Converter (v 1.0) [Surerange] [!]"
+	description "[7210] Currency Converter (v 1.0) [Surerange] [!]"
+	year ""
+	manufacturer ""
+	rom ( name CurrencyConverter.jad size 353 crc aa56f8b4 md5 f968bf29372845707c34a8d9d02eea48 sha1 01687aa3bacb1bfc6d5d83e3dc40dbc3292652c7 )
+	rom ( name CurrencyConverter.jar size 7993 crc 6286d931 md5 cc4f7de2aa596a2e46c0d57640dda919 sha1 c86129982e2a54c6c843681ba7da3b5ba38f695d )
+)
+
+game (
+	name "[7210] Cyberbog Java Calc V5 (v 1.0) [---] [!]"
+	description "[7210] Cyberbog Java Calc V5 (v 1.0) [---] [!]"
+	year ""
+	manufacturer ""
+	rom ( name cyberbog_java_calc_v5.jad size 268 crc d00df68a md5 fba7044be841dcc63eb24398a5bbaba1 sha1 5be787fe2feb02bbc8d60c965f170d5691371134 )
+	rom ( name cyberbog_java_calc_v5.jar size 53490 crc 97ca02cc md5 4712d72e8a9b1b383811a3393c606d3b sha1 28b0c2689eb276f575bf470153a4485f0fe75d1a )
+)
+
+game (
+	name "[7210] Date to Date beta (v 1.1) [Jacado] [!]"
+	description "[7210] Date to Date beta (v 1.1) [Jacado] [!]"
+	year ""
+	manufacturer ""
+	rom ( name datetodate.jad size 312 crc 3c6831fa md5 88fd5915ca94e466a87f7c522cd820b0 sha1 677062b84c238133319f21735b0611afeaa3c6f4 )
+	rom ( name datetodate.jar size 4606 crc 9d0e3774 md5 143c0811ca2f04a0ae0cd2f3f49914a7 sha1 60fc1cfcdc69710e9d9ecaa65aa53417617a69c5 )
+)
+
+game (
+	name "[7210] DeskNow (v 1.0.0) [Ventia Pty Limited] [!]"
+	description "[7210] DeskNow (v 1.0.0) [Ventia Pty Limited] [!]"
+	year ""
+	manufacturer ""
+	rom ( name desknowmobile.jad size 315 crc c7a08cab md5 c91117a6c26998d494bedefc682a2db3 sha1 639a392ccd27d32abfca3b7b06fdf0adcc35d7cb )
+	rom ( name desknowmobile.jar size 48242 crc d59e5b90 md5 5167c23066d80765f560c0927935f410 sha1 9c8a9817a1681f04950468414b6643e3d69234e6 )
+)
+
+game (
+	name "[7210] Disco Light (v 1.2) [5C] [!]"
+	description "[7210] Disco Light (v 1.2) [5C] [!]"
+	year ""
+	manufacturer ""
+	rom ( name DiscoLight.jad size 335 crc 7f12befc md5 8aa3d6b8ddac4b94da7c0b3f858014e8 sha1 4e6392e851c0944d97b7defd438b37486f8dce42 )
+	rom ( name DiscoLight.jar size 31891 crc dbb42f49 md5 847862e748ed0fbab2e8dc61b5389b95 sha1 9a345809d759c84a1c93a7a11891e5947dd676d5 )
+)
+
+game (
+	name "[7210] Dni2Nif (v 1.0) [epsilum] [!]"
+	description "[7210] Dni2Nif (v 1.0) [epsilum] [!]"
+	year ""
+	manufacturer ""
+	rom ( name dni2nif.jad size 219 crc 6ed33ae8 md5 a90207c98c9df0c4857f7b7acffe1773 sha1 458827ca34a8b4e7495629314f00c289104435c2 )
+	rom ( name dni2nif.jar size 2064 crc f3036953 md5 04fe8424c846efd02b51ee0ffc087bf9 sha1 306e546de03efb1a1a856638f89ec6f46be7c699 )
+)
+
+game (
+	name "[7210] DS Fire (v 1.0) [DS Effects] [!]"
+	description "[7210] DS Fire (v 1.0) [DS Effects] [!]"
+	year ""
+	manufacturer ""
+	rom ( name ds_fire.jad size 146 crc 6f393d80 md5 a3d432deb1c1c328b36ae6525df76baa sha1 803b6052e30956ca6cbd3e4a11fd4b5ff18b27fa )
+	rom ( name ds_fire.jar size 4643 crc 027a94e6 md5 9120999a2676a1f120c7487d5622aacd sha1 21ee4e242c1a9099803043d332c4de0bdf85913f )
+)
+
+game (
+	name "[7210] DS Lightning (v 1.0) [DS Effects-Kalo] [!]"
+	description "[7210] DS Lightning (v 1.0) [DS Effects-Kalo] [!]"
+	year ""
+	manufacturer ""
+	rom ( name ds-lightning.jad size 288 crc 2552f913 md5 e2854555638653c332563ef33a403947 sha1 f580b53484cd88a9a4f3f3f65282019fcd61b0ef )
+	rom ( name ds-lightning.jar size 8754 crc e9f7beae md5 7301b2217122a57355bc5c616d7ef494 sha1 0c74157d0fccb51a3e134a343979114f43a9a41b )
+)
+
+game (
+	name "[7210] DS Rain (v 1.0) [DS Effects-Kalo] [!]"
+	description "[7210] DS Rain (v 1.0) [DS Effects-Kalo] [!]"
+	year ""
+	manufacturer ""
+	rom ( name ds-rain.jad size 269 crc f5c3a7f8 md5 ed10432ed65de646f81687c3fe0976e2 sha1 1de54db0cb48b69335de35212eabea83d85177d8 )
+	rom ( name ds-rain.jar size 11657 crc 609d8ba6 md5 76cfd9986f6d33d13d5b2825cb963fd1 sha1 aa1235a03468e5fb08971af963a0dfe56861aad6 )
+)
+
+game (
+	name "[7210] DS Snow (v 1.0) [DS Effects] [!]"
+	description "[7210] DS Snow (v 1.0) [DS Effects] [!]"
+	year ""
+	manufacturer ""
+	rom ( name DS_Snow.jad size 321 crc fbde3388 md5 90871b15930131cbc1455fcc4d4524e7 sha1 f5a72a6edb9ac246f8203dfd1a984d867a2711bb )
+	rom ( name DS_Snow.jar size 10241 crc 4b323574 md5 13b5cf7942f5147901a68b8af7708397 sha1 516bcd8b3383472957e5b33bfcfab68a7f05253f )
+)
+
+game (
+	name "[7210] DS Stars (v 1.0) [DS Effects] [!]"
+	description "[7210] DS Stars (v 1.0) [DS Effects] [!]"
+	year ""
+	manufacturer ""
+	rom ( name DS_Stars.jad size 324 crc c6e852bb md5 14b563467f5ebff1437e57dd86ddd624 sha1 d6c0521012b4c7e28fd019a2a0dc3d8f4da654a7 )
+	rom ( name DS_Stars.jar size 4540 crc 255621e8 md5 13ed47b98105c40f369071b7155d1f0c sha1 9fa1adbee432369e082d786cb48e5814d1a876f5 )
+)
+
+game (
+	name "[7210] DS Stars 3D (v 1.0) [DS Effects] [!]"
+	description "[7210] DS Stars 3D (v 1.0) [DS Effects] [!]"
+	year ""
+	manufacturer ""
+	rom ( name DS_Stars3D.jad size 332 crc c1e73a5d md5 93ab49eb12ca6590e5b786206b6e3f14 sha1 46788dcee4c3f5c5e3a9c2dbc5b1f38db388c007 )
+	rom ( name DS_Stars3D.jar size 4556 crc 6878540f md5 525e719594922c5078986c45922c06ad sha1 e44aaa359b763092a22d46c689eab280813a3ff7 )
+)
+
+game (
+	name "[7210] Email Reader (v 1.0) [Surerange] [!]"
+	description "[7210] Email Reader (v 1.0) [Surerange] [!]"
+	year ""
+	manufacturer ""
+	rom ( name EmailReader.jad size 308 crc 7d79827f md5 806433654e0d02b6d00c8e7d46e122e2 sha1 9929cfe82982c4b717a2049b78bc0f5fc9f88e1c )
+	rom ( name EmailReader.jar size 6047 crc 06a623f5 md5 f1d1a9bcbe926c42bbb770fe64bae3dd sha1 096347da19c960bd475340bc5d2f92fcdfc61ee3 )
+)
+
+game (
+	name "[7210] Email Viewer (v 1.0.1) [Reqwireless Inc] [!]"
+	description "[7210] Email Viewer (v 1.0.1) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name EmailViewer.jad size 177 crc 2478cf76 md5 463ceb314cb50c23180a8efa215ffeed sha1 ce2247753af5e729f254b1c18a1ed3ccf8c638ca )
+	rom ( name EmailViewer.jar size 60243 crc 555a84c0 md5 6faf0dbeed01dadf11b620c04d2699c3 sha1 197a91d977edeadd8a231d6eff056fdbaa84a88b )
+)
+
+game (
+	name "[7210] Email Viewer (v 1.1.2) [Reqwireless Inc] [!]"
+	description "[7210] Email Viewer (v 1.1.2) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name EmailViewer.jad size 177 crc a92cf373 md5 25803cd6719af7778b8e1cb8f663a52b sha1 4eee1927deccadf56cab639db07d1906e9715480 )
+	rom ( name EmailViewer.jar size 56970 crc b40833bc md5 ab89fb3117cf7b08d46d764ee2b56434 sha1 b63cfff5859b4741a02d3d1be7735df781829dc0 )
+)
+
+game (
+	name "[7210] Email Viewer (v 1.2.1) [Reqwireless Inc] [!]"
+	description "[7210] Email Viewer (v 1.2.1) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name EmailViewer.jad size 191 crc f281205e md5 85c1d7322d511307d4d5aa076d79e73f sha1 ecbc47943adcb819ecf49e800fb148a9fbfc9d41 )
+	rom ( name EmailViewer.jar size 57477 crc b41d4cdd md5 d6c0fcc911f42a4a8a52f9345ed44be4 sha1 8c891c52fcef226f32359e592495cd739a3a93ea )
+)
+
+game (
+	name "[7210] Email Viewer (v 1.5) [Reqwireless Inc] [!]"
+	description "[7210] Email Viewer (v 1.5) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name EmailViewer.jad size 228 crc 636e5465 md5 c479891dd26f676264f5332679de146c sha1 53db09cb2c7db23ff4195030dee7a9cfd8b62e16 )
+	rom ( name EmailViewer.jar size 49542 crc 9d63ac46 md5 891205d35303b0b60026d95c06df8760 sha1 a1750fb6159272ee75d66734575b766f2ddd3d13 )
+)
+
+game (
+	name "[7210] Email Viewer (v 3.0) [Reqwireless Inc] [!]"
+	description "[7210] Email Viewer (v 3.0) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Email_Viewer_3[1].0.jad size 372 crc 27e60132 md5 750f5c0946a0bd8912eb26587aaf699c sha1 64ba5d0dd949c22bb2cc17c5ef419d1663ed18fc )
+	rom ( name Email_Viewer_3[1].0.jar size 57190 crc a254367e md5 b7614bf3a99146983216e022446eb594 sha1 5d3c3fb976966537dae94250f8b0cfe4ba5ba5d1 )
+)
+
+game (
+	name "[7210] Email Viewer trial (v 1.0.1) [Reqwireless Inc] [!]"
+	description "[7210] Email Viewer trial (v 1.0.1) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name EmailViewer.jad size 353 crc 77ea2abc md5 2ea6b5f7e1b86f306b79971a3c28dc36 sha1 88654833d1a5f0ff63f267322b935c0b39fb694d )
+	rom ( name EmailViewer.jar size 60260 crc 0d2b382d md5 7e96d569ae0db9321369c12c2a047898 sha1 99053f1eb477e31b1ca716c8eead2f6974e0c585 )
+)
+
+game (
+	name "[7210] Email Viewer trial (v 2.0) [Reqwireless Inc-Kalo] [!]"
+	description "[7210] Email Viewer trial (v 2.0) [Reqwireless Inc-Kalo] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "email viewer.jad" size 308 crc 6b55f2cf md5 a9f8bac9913974935e67f137bcb7fcab sha1 f6cebd2c5203ebcf5be30e502ffcded685e270f8 )
+	rom ( name "email viewer.jar" size 54007 crc e4243e25 md5 c27ca294fcb3d00c182de72d90ae3089 sha1 c3933e7f03caffc97335dea7c3c35f612e138c80 )
+)
+
+game (
+	name "[7210] Euro Calculator (v 0.7) [Spruce Technologies] [!]"
+	description "[7210] Euro Calculator (v 0.7) [Spruce Technologies] [!]"
+	year ""
+	manufacturer ""
+	rom ( name EuroCalculator.jad size 234 crc 17eb853a md5 f6ae91ab77e3bbef111ef4cdf9afffb2 sha1 6902720243a569cada3092957533463b1abe6728 )
+	rom ( name EuroCalculator.jar size 10786 crc d8703cb8 md5 b7c56fa717281428f69c4420be978b04 sha1 3e5862bae9be52bb859ce2888e30331843c6c5bd )
+)
+
+game (
+	name "[7210] EzSafe trial (v 1.0.0) [EaseMobile] [!]"
+	description "[7210] EzSafe trial (v 1.0.0) [EaseMobile] [!]"
+	year ""
+	manufacturer ""
+	rom ( name ezsafe.jad size 361 crc 67bf8084 md5 c5221164824eda656b6395660ba3bbd5 sha1 1890c53f3adb623dacbd0e8555734e6cbe245535 )
+	rom ( name ezsafe.jar size 19957 crc 9dbc8943 md5 cd789358a8566fe68dd8ec8c6e1bbbc6 sha1 86363de5a710bec8170ebe0b2965bcb589dd845b )
+)
+
+game (
+	name "[7210] First Aid Guide (v 1.0) [Saranjeet Raj] [!]"
+	description "[7210] First Aid Guide (v 1.0) [Saranjeet Raj] [!]"
+	year ""
+	manufacturer ""
+	rom ( name First_Aid_Guide.jad size 267 crc 8f69d029 md5 f1a072229c15523de470f3bdbd752f40 sha1 918765f59f31c03b5109e89d06c5b9419ed8685e )
+	rom ( name First_Aid_Guide.jar size 12620 crc 99db5755 md5 2d2e14c6171917d348836dcb9a1fc92e sha1 9031704a234cfa0dea9ce679d54c2aac4456e34e )
+)
+
+game (
+	name "[7210] Flashlight (v 1.0) [Fastcode] [!]"
+	description "[7210] Flashlight (v 1.0) [Fastcode] [!]"
+	year ""
+	manufacturer ""
+	rom ( name flashlight_s40_bay_rayden.jad size 579 crc 41ec0bc9 md5 e180fab1ff712237a2a9f94432515ca0 sha1 27987c3bb527c0b2cc23871a81206e04098101c9 )
+	rom ( name flashlight_s40_bay_rayden.jar size 10874 crc 0f0a9e05 md5 8e8712bbd9765192d9c17d19edcf8d90 sha1 a317bb5111ea5f294afc2f678c14eddf62a2eafb )
+)
+
+game (
+	name "[7210] Fractal (v 1.0) [epublica] [!]"
+	description "[7210] Fractal (v 1.0) [epublica] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Fractal.jad size 404 crc 563cc009 md5 484e6acdda5e231ae633ef62245ba371 sha1 469f67a6aa17eb5c52980a12a6296538c41d5eca )
+	rom ( name Fractal.jar size 4574 crc 35f0df9c md5 ad0847d01e731176bd398e82eaffa634 sha1 5011f2baeea42e17059b91d6e399d32fb741c5f0 )
+)
+
+game (
+	name "[7210] From Language to Language - Eng to Fre (v 2.0) [langtolang] [!]"
+	description "[7210] From Language to Language - Eng to Fre (v 2.0) [langtolang] [!]"
+	year ""
+	manufacturer ""
+	rom ( name LangToLangEnglis_fre[1][1]..jad size 350 crc c03e674a md5 00a5c49c89a50780136ba47077350c12 sha1 cf41fdcf20da755be43008df3bc95cb6c053ea13 )
+	rom ( name LangToLangEnglis_fre[1][1]..jar size 42188 crc 7ab3cb00 md5 d5f3c45b475d41fbf2a57b67fdde2163 sha1 aee7c5c67c0f03d2a949f4ad55d23b3e6db7d258 )
+)
+
+game (
+	name "[7210] From Language to Language - Eng to Ger (v 2.0) [langtolang] [!]"
+	description "[7210] From Language to Language - Eng to Ger (v 2.0) [langtolang] [!]"
+	year ""
+	manufacturer ""
+	rom ( name LangToLangEnglis_Ger[1][1]..jad size 350 crc 3088418a md5 16c82e67cc4cdbbaa3ddab17b44ea1a2 sha1 88846b5c46f571965746af484c61e3dbff1a2d18 )
+	rom ( name LangToLangEnglis_Ger[1][1]..jar size 42561 crc c74580a9 md5 a69e3cbab61c1d358a67f40a6635ef60 sha1 e9a24bdcea2c982d6771ee4e465acd90cf7d9ab6 )
+)
+
+game (
+	name "[7210] From Language to Language - Eng to Spa (v 2.0) [langtolang] [!]"
+	description "[7210] From Language to Language - Eng to Spa (v 2.0) [langtolang] [!]"
+	year ""
+	manufacturer ""
+	rom ( name LangToLangEnglis.jad size 339 crc a92ad7c4 md5 9f6e91c5a38bff9464349093b2e50b2a sha1 d6d5177662d7080e7d2550d16682b9fdb35bc134 )
+	rom ( name LangToLangEnglis.jar size 42573 crc e10b365d md5 39045bc647f9db25f625b26f797b40d1 sha1 7b85a49e5bcbcb27c2ccd322a86da747d413a59d )
+)
+
+game (
+	name "[7210] Fuel Consumption (v 1.0.0) [Omikron] [!]"
+	description "[7210] Fuel Consumption (v 1.0.0) [Omikron] [!]"
+	year ""
+	manufacturer ""
+	rom ( name fuel_consumption_en_MIDP1_1_0_0.jad size 468 crc b6524622 md5 fc80cf565813ff0146a652257dd04fe5 sha1 81c49396db224077ba1599bff1e32489e7eb8f06 )
+	rom ( name fuel_consumption_en_MIDP1_1_0_0.jar size 39506 crc 27144eee md5 8acff2e1e4876313442cbe28c30e98db sha1 46e6ad1bb996390df4aa19253e10282cfd14247b )
+)
+
+game (
+	name "[7210] Global Time (v 1.2.0) [Hashbang Pty Ltd] [!]"
+	description "[7210] Global Time (v 1.2.0) [Hashbang Pty Ltd] [!]"
+	year ""
+	manufacturer ""
+	rom ( name GlobalTime.jad size 334 crc 185ee9f4 md5 b57f6097c032a1880d6b6648a6262682 sha1 63d3ddd12553a19849f21eda4b892726210d79b7 )
+	rom ( name GlobalTime.jar size 26424 crc c5558621 md5 b527a9f8b33b290186a7bda5342112fa sha1 e86f0d00a8fbe5782ab77876d4e9b95cfa3be82a )
+)
+
+game (
+	name "[7210] Global Time (v 1.2.1) [Hashbang Pty Ltd] [!]"
+	description "[7210] Global Time (v 1.2.1) [Hashbang Pty Ltd] [!]"
+	year ""
+	manufacturer ""
+	rom ( name globaltime.jad size 319 crc ebce1c00 md5 1e1fa607e7fcebfe7f01835541b69eda sha1 f160f94df4b300b527eef7de9c0a130191707549 )
+	rom ( name globaltime.jar size 24322 crc 95122775 md5 da09a4038f9ec2d683c35148df9e989a sha1 c41ad2740a761377929e03a468b1188ffcff8356 )
+)
+
+game (
+	name "[7210] Google (v 1.0.0) [Wingfoot Software] [!]"
+	description "[7210] Google (v 1.0.0) [Wingfoot Software] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Google.jad size 349 crc 1e572a16 md5 4c2e955dd9055255a60fb24d5f34580d sha1 6ac3e6a8d42fbb55a7a278daebd0c9957ec52d67 )
+	rom ( name Google.jar size 43267 crc a2fddcac md5 aae4256b7ec93f3e36c413bdcdd0b5d5 sha1 d8dce170bcef832eebeb47d27172bb41be07cc75 )
+)
+
+game (
+	name "[7210] Grocery (v 1.0) [onDemand] [!]"
+	description "[7210] Grocery (v 1.0) [onDemand] [!]"
+	year ""
+	manufacturer ""
+	rom ( name grocery.jad size 301 crc 336aff52 md5 fc362a297900d117d1be91be46e93d6f sha1 bc1a1eb6de68b1e22aa87c26d5f27305d98d976c )
+	rom ( name grocery.jar size 7163 crc c2089442 md5 20c4f7b573eb62de9cb815d6994e7bf9 sha1 c71ff9a344583afd344eb514e7174098d0e8f693 )
+)
+
+game (
+	name "[7210] Image Viewer (v 1.0.0) [ibbi] [!]"
+	description "[7210] Image Viewer (v 1.0.0) [ibbi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name ImageViewer.jad size 275 crc 1dae1d5b md5 2861d7769f8d8760d2f4450765773947 sha1 1b4abf572279b62fa9eb16205579f12b17f786c0 )
+	rom ( name ImageViewer.jar size 2300 crc ff83df65 md5 5e027a15047fa4c843a2ab5eaed6f034 sha1 fa9622d4df5ed173ba8915ff3b49fc8f08d630bc )
+)
+
+game (
+	name "[7210] JpegView (v 1.0) [JShape Software] [!]"
+	description "[7210] JpegView (v 1.0) [JShape Software] [!]"
+	year ""
+	manufacturer ""
+	rom ( name JpegView.jad size 348 crc aff0dd54 md5 f80be95eeda25100c628d10921dd2abf sha1 91a80019321462183b8680170485fad4930a2e39 )
+	rom ( name JpegView.jar size 13539 crc 649eb8b3 md5 c9f4a516445d6f9477bdd95fef9d642f sha1 30db1445d3f5fab9a21c3b6fc0bc5f0ac8569ee5 )
+)
+
+game (
+	name "[7210] JvoCalc (v 1.0.0) [Jon van Ouwerkerk] [!]"
+	description "[7210] JvoCalc (v 1.0.0) [Jon van Ouwerkerk] [!]"
+	year ""
+	manufacturer ""
+	rom ( name jvocalc.jad size 274 crc 0488e448 md5 09d4cd068380e8ba1df1f5f39529570c sha1 1a2fb15eb812492bc90b53d96e633d3cafc16986 )
+	rom ( name jvocalc.jar size 38493 crc 2768aebd md5 952cf03104de748900ab8c3b7b54d385 sha1 3386143a0a85a68fad2e38b502c325d3d149cadf )
+)
+
+game (
+	name "[7210] Lottery Number Generator (v 1.0) [Transcendent Technology] [!]"
+	description "[7210] Lottery Number Generator (v 1.0) [Transcendent Technology] [!]"
+	year ""
+	manufacturer ""
+	rom ( name lotterynumber.jad size 488 crc fc7de9f4 md5 74a2d2e4e5260c0b7c91a29afffd2f36 sha1 163a42b278e081e3aee4aa1b158271cae6a4a800 )
+	rom ( name lotterynumber.jar size 9857 crc a64d6f92 md5 7f6ae402d970876d1359bfa3ccf9b68c sha1 b27d2d68786b0119333e1f2e99f37ef9b765047f )
+)
+
+game (
+	name "[7210] Lotto Numbers (v 1.1beta) [Jacado] [!]"
+	description "[7210] Lotto Numbers (v 1.1beta) [Jacado] [!]"
+	year ""
+	manufacturer ""
+	rom ( name lotonumbers.jad size 354 crc df68b23b md5 34439c2fa14a1f967147d013fc3ad3af sha1 d628c2d550fc6fbf22c379e618bb3f47f19a5968 )
+	rom ( name lotonumbers.jar size 7634 crc d4f7dad1 md5 4f7bc9da0687a7074fc47a561c8d038e sha1 1bf630ce327d9f0581fba37560e29daa325ece9f )
+)
+
+game (
+	name "[7210] Luna (v 1.0.0) [Ivan Rosales] [!]"
+	description "[7210] Luna (v 1.0.0) [Ivan Rosales] [!]"
+	year ""
+	manufacturer ""
+	rom ( name LunaEn.jad size 277 crc 3cc21c88 md5 72afccfa9516278570b28f96fdf9487a sha1 b075743901c88775b394f73f4bf9a9a5311a0aba )
+	rom ( name LunaEn.jar size 16279 crc 10494b12 md5 30b9f1be9c3d05b617eece8883602095 sha1 37e7dc075e4f675c4649488762005297b3662337 )
+)
+
+game (
+	name "[7210] Lunar Calendar (v 1.9) [Nokia] [!]"
+	description "[7210] Lunar Calendar (v 1.9) [Nokia] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "lunar calendar.jad" size 372 crc c82ff395 md5 7e5f3b594b5fbf6ecbb78c88b58e42fc sha1 5fb60017a821ab943c1e4c090a21f594283bd58b )
+	rom ( name "lunar calendar.jar" size 62775 crc a5e33dfe md5 1aee7a8aed83ad9f3af6be07ca62c3f0 sha1 8dd0e3a0b8d538cb7786f9387e455eb8811edfce )
+)
+
+game (
+	name "[7210] Mail4Me (v 1.0) [Sun Microsystems] [!]"
+	description "[7210] Mail4Me (v 1.0) [Sun Microsystems] [!]"
+	year ""
+	manufacturer ""
+	rom ( name mail4me.jad size 305 crc 7a3013c0 md5 c8bf53a0ed28d5039e6dd7a8b5ce9436 sha1 3fb2fbc041213b883585ffb1eef9603ed8a29a34 )
+	rom ( name mail4me.jar size 33455 crc 04e57e34 md5 8e60f61e4e8c7ba22d1e4b171633cf97 sha1 6e14eae3ca96232c55f583b2bce38b40a2c4102c )
+)
+
+game (
+	name "[7210] Mail4ME (v 1.13) [Sun Microsystems] [!]"
+	description "[7210] Mail4ME (v 1.13) [Sun Microsystems] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Mail4ME.jad size 294 crc 52b72ab1 md5 9b721a5d068ff6235b7162d3d1607d12 sha1 8e43696a1d3cc407bb18aed957391230847aefe3 )
+	rom ( name Mail4ME.jar size 28822 crc 58165940 md5 96f6a1c81205b1f5db566d26fb28b392 sha1 db6b6fbe08f8d9fc8786c7536529525c1faa8478 )
+)
+
+game (
+	name "[7210] Mail4ME (v 1.14) [Sun Microsystems] [!]"
+	description "[7210] Mail4ME (v 1.14) [Sun Microsystems] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Mail4ME.jad size 241 crc 11bb658c md5 2cf8cf59e21f692e835cd6fb92623278 sha1 0f108f2e7bf5987491b75ec0ffa930467a6b71fa )
+	rom ( name Mail4ME.jar size 31064 crc 6988d9c2 md5 c786ad57aa50de60b558d40d9a5974e4 sha1 1fa415c81ec5cf05d0e55c875954315dee129078 )
+)
+
+game (
+	name "[7210] MidScape (v 1.0) [javaxpert] [!]"
+	description "[7210] MidScape (v 1.0) [javaxpert] [!]"
+	year ""
+	manufacturer ""
+	rom ( name MIDSCAPE.jad size 354 crc 692ea5d1 md5 f4360fcaa70d874cd4a65152ba419ce7 sha1 3137648a3a06a737e3893464283f7d3b1835ba48 )
+	rom ( name MIDSCAPE.JAR size 13775 crc 8db2f75b md5 3e20b6c480f18c943fa2651886f5daae sha1 d8fcc6465e23254fb67e3dacb82aa52f9c595275 )
+)
+
+game (
+	name "[7210] Mjavaboy (v 0.012) [mjavaboy] [!]"
+	description "[7210] Mjavaboy (v 0.012) [mjavaboy] [!]"
+	year ""
+	manufacturer ""
+	rom ( name cut.bat size 42 crc 4f1e7fa2 md5 8bbdd708abbf2ee168f85a6ad4e45e9b sha1 9ad240e4e16f23524dca0e2e6abc60df095bda85 )
+	rom ( name mjavaboy.jad size 407 crc fd789fd0 md5 6e2a0635a795a6500f3f417aa01d6e56 sha1 2be552e93233e7f43b32335c8f4d7045a8b0f1b9 )
+	rom ( name mjavaboy.jar size 62556 crc 568674d8 md5 8456e98d16081f58b0aedd998594368a sha1 f41a1490151072e206606fe37ecad115bf43d8e0 )
+	rom ( name mjavaboy_sp.txt size 5941 crc c42b5555 md5 a2bfcd739a9bb3ae9a5022caa77d69f1 sha1 5fa645ee6ae073a2fb2818a1587b5a9205e68f87 )
+	rom ( name parterom.class size 1550 crc 6a0a5f9e md5 cf6fe1497ffdc04b99bf0cd6873ad9fd sha1 998b15027587791b8e7d239667d127ce50704dce )
+	rom ( name parterom.java size 817 crc cf6678f1 md5 7fa771ad4c8d7f6d091a47a64a1799b7 sha1 a7775cd2bd31f8e12a9dfb27e662aa650889184c )
+)
+
+game (
+	name "[7210] Mjavaboy (v 0.013) [mjavaboy] [!]"
+	description "[7210] Mjavaboy (v 0.013) [mjavaboy] [!]"
+	year ""
+	manufacturer ""
+	rom ( name cut.bat size 31 crc 87ddf717 md5 f3d321b8a58c9ae07080a1663cae3ed0 sha1 87873ec187cd42100d4a1a23a576567318c3d5b0 )
+	rom ( name mjavaboy.jad size 312 crc bc92d5d0 md5 e449c819318c23dda063603f6d72bb6b sha1 5160a6f257d612d5b80cb5086d2db6bd0e07f8c3 )
+	rom ( name mjavaboy.jar size 52969 crc 3060f708 md5 e23f253714683ec7172d847ab431d89b sha1 45cf954de692d4ac9e595eb3a45c36498cb5ac51 )
+	rom ( name mjavaboy_sp.txt size 6430 crc 6afcfbe8 md5 39a3f4a37907c5d5835579429a479016 sha1 85c3216e67343bdbd260bb979e1cc2ac01f5451a )
+	rom ( name panelayuda.class size 1285 crc f1f42f4e md5 73a2ae48e03569876ae61fe9e3604bc1 sha1 cb5ea72ab124524e081e780acfaed5a113fdc37d )
+	rom ( name parterom.class size 5933 crc bcc6357d md5 772b2156dadd0c9a5910cde316aa77f1 sha1 47eb2da9a2372d5d311e7cff5b50d4b760e1671e )
+	rom ( name parterom_jbutton1_actionadapter.class size 659 crc f7efb75e md5 1bb192e39314545d92a059f701682a56 sha1 38a3ed9a03bc601956d9d4e810c35f7e234faddc )
+	rom ( name parterom_jbutton2_actionadapter.class size 659 crc 35c0de25 md5 5c3b621e070ab6db53eefbf813eec5aa sha1 3d6531a5c9fb722e82987d00c624002afea19c42 )
+)
+
+game (
+	name "[7210] MMS Effects (v 1.0) [bquentin] [!]"
+	description "[7210] MMS Effects (v 1.0) [bquentin] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "MMS .Effects.v1.1.6670.JAVA.Retail-BiNPDA.jad" size 315 crc 180c1d12 md5 d0f630f292a5f32ba7fe1bf5cb7fbcfb sha1 108c6232ffc5fa44193cdd3525895d0e3a32f8d2 )
+	rom ( name "MMS .Effects.v1.1.6670.JAVA.Retail-BiNPDA.jar" size 38620 crc bde9b366 md5 7cbbbb034542dd1df9ad6ba40b19fc0f sha1 dd8be7e97447b2591220748bab1e8ccde3d4006e )
+)
+
+game (
+	name "[7210] Mobicq (v 0.1) [Manuel Linsmayer] [!]"
+	description "[7210] Mobicq (v 0.1) [Manuel Linsmayer] [!]"
+	year ""
+	manufacturer ""
+	rom ( name mobicq.jad size 449 crc 2cca6099 md5 8dec63a1a18fe383aa59945de562987e sha1 adaf5b5fc030f84e11a54b13ffb1ba87c88cfcf7 )
+	rom ( name mobicq.jar size 65502 crc 326e4c00 md5 a0ae477d0b800ae5b78854adf0b39ca6 sha1 54a999e2bac133d69f2f9d76d5c0944ff70e89c5 )
+)
+
+game (
+	name "[7210] Mobil Emule (v 0.1.0) [emule-project] [!]"
+	description "[7210] Mobil Emule (v 0.1.0) [emule-project] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "mobil emule.jad" size 4737 crc 98716d63 md5 f13629773337a7831672785babbb054e sha1 0d28b104acec02a0828b7b658ae70ffcbad75de0 )
+	rom ( name "mobil emule.jar" size 44819 crc 5a6ad1de md5 3af94e9a1cf6b20bff07104b1ce3b798 sha1 20b9ddd3c11fb6277883a77ab763300c7b602f13 )
+)
+
+game (
+	name "[7210] Mobile GMaps (v 1.05) [Cristian Streng] [!]"
+	description "[7210] Mobile GMaps (v 1.05) [Cristian Streng] [!]"
+	year ""
+	manufacturer ""
+	rom ( name mgmaps.jad size 554 crc f3af3b61 md5 049b4447f96881888e89af7376d9ec98 sha1 360a324261aad4578ab507d75a4c78dbf4de1d62 )
+	rom ( name mgmaps.jar size 31139 crc c2f53b9b md5 be7799d65acafbcf4f7b7a334c5bf0e2 sha1 eee830953e9625577c712ebbe7d4b540ce5108ce )
+)
+
+game (
+	name "[7210] Mobile Safe (v 1.2) [Widefield Computing Ltd] [!]"
+	description "[7210] Mobile Safe (v 1.2) [Widefield Computing Ltd] [!]"
+	year ""
+	manufacturer ""
+	rom ( name demomobileSafe.jad size 239 crc 1fccb57f md5 bd222517c254e340b8d5119826b9d802 sha1 0befd06b609e002d17a34917ad4e4e7df85118a9 )
+	rom ( name demomobileSafe.jar size 26098 crc 83fa4ea1 md5 4e2f7f40df8922009a75dab04b21b65e sha1 4fb79480669678252344af24569b493d3127000a )
+)
+
+game (
+	name "[7210] Mobile Safe (v 1.4) [Widefield Computing Ltd] [!]"
+	description "[7210] Mobile Safe (v 1.4) [Widefield Computing Ltd] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "mobile safe.jad" size 330 crc 869f8b76 md5 ae00c87b170d75639a0fcbe4d6d6ec21 sha1 8635cd99e8cfe7f9b3d544c6d01862695ef70491 )
+	rom ( name "mobile safe.jar" size 26397 crc e69fb879 md5 7f49b366b9f31e75d98aaceb62d902c0 sha1 b47e407bcd6d6654dfb02d1cc2b5988ae37bd504 )
+)
+
+game (
+	name "[7210] MobiSms (v 1.2.0) [Mobi Solutions-Kalo] [!]"
+	description "[7210] MobiSms (v 1.2.0) [Mobi Solutions-Kalo] [!]"
+	year ""
+	manufacturer ""
+	rom ( name mobisms.jad size 297 crc 1a58c7cd md5 0e31507766b06ee7a2f1067b59e5d122 sha1 f76d9bc7ef5d3227442197fab4951de2eebfc159 )
+	rom ( name mobisms.jar size 30386 crc 2a07999c md5 c6f870c02b58c5d0fd25f7322b696b23 sha1 41bea08945958083845bbdc4b447004656dff50a )
+)
+
+game (
+	name "[7210] MultiCalc (v 1.8) [Yeti] [!]"
+	description "[7210] MultiCalc (v 1.8) [Yeti] [!]"
+	year ""
+	manufacturer ""
+	rom ( name calc.jad size 765 crc 767def46 md5 f64bfb7509d27adc73977bde8bcf2e9e sha1 3ea69bb4ce831b7cc72d0599f6b12c84721c3234 )
+	rom ( name calc.jar size 61921 crc ebedb161 md5 3f610064cc30b0eb9b78d57be14ffca2 sha1 1567ecea11910200b9855ca98f436ec140010179 )
+)
+
+game (
+	name "[7210] Nokia ASIC6 (v 1.0) [gmx] [!]"
+	description "[7210] Nokia ASIC6 (v 1.0) [gmx] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "nokia asic6.jad" size 249 crc aa55a13f md5 f326121b0e3163e10c46fdb3acb4cd35 sha1 53805048a06393f18309e7a67d2aeb6a061024c2 )
+	rom ( name "nokia asic6.jar" size 7710 crc 53bc1a36 md5 ff7cf263e3178123d37e67807b13226e sha1 3407830af8195d621f9d7ec236ebd91074d0854c )
+)
+
+game (
+	name "[7210] Notepad (v 1.02) [BVSoft] [!]"
+	description "[7210] Notepad (v 1.02) [BVSoft] [!]"
+	year ""
+	manufacturer ""
+	rom ( name bvOffice.jad size 389 crc ec9ed299 md5 2e9043f1654e27814ab384c386c2a396 sha1 995181329b0ea0f9fbd4e52e50350707eb916a9b )
+	rom ( name bvOffice.jar size 22128 crc 2a1c5e78 md5 fba24233051e615d7bbf65df060b6b89 sha1 dd0a3be5193594928211422c60b6b7d15b042ed6 )
+)
+
+game (
+	name "[7210] Opera Mini (v 1.0) [Opera Software] (G) [!]"
+	description "[7210] Opera Mini (v 1.0) [Opera Software] (G) [!]"
+	year ""
+	manufacturer ""
+	rom ( name opera.software.opera.mini.v1.0.s30.java.retail-binpda.jad size 752 crc 4cdd7d1f md5 0f10e9aa83cb2f70cc86f0d778e541a3 sha1 845c49f1053189f1720983444b49eb2082f8a9b9 )
+	rom ( name opera.software.opera.mini.v1.0.s30.java.retail-binpda.jar size 59908 crc 40052bc6 md5 7af07681e333a2a6ccf5da8b8fff35ad sha1 e1a5eb35cd76b4024bc2a2d3d264a34ee44909b3 )
+)
+
+game (
+	name "[7210] Opera Mini (v 1.0) [Opera Software] [!]"
+	description "[7210] Opera Mini (v 1.0) [Opera Software] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Opera_Mini_low.jad size 575 crc 34a6bb3f md5 a5bc38adf185543a6497635e9ccd495d sha1 22e68f2eec90356e5cd017842fa466cf0c925bb8 )
+	rom ( name Opera_Mini_low.jar size 59867 crc b4844e64 md5 170cc412d786ed44d77001e823f08ffd sha1 12c6d15e33ad879dbbbef44ef9969692b429b7ff )
+)
+
+game (
+	name "[7210] Opera Mini (v 1.1) [Opera Software] [!]"
+	description "[7210] Opera Mini (v 1.1) [Opera Software] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Opera.Software.Opera.Mini.lofi.myopera.v.1.1.2292.S60.Java-illusion.jad size 652 crc 49bba3f8 md5 527b0dc5aa8bff0d10d7c0bba11820ca sha1 e3d78b95fff70f7a1f6c5ee674cdf88e82687552 )
+	rom ( name Opera.Software.Opera.Mini.lofi.myopera.v.1.1.2292.S60.Java-illusion.jar size 62800 crc a9a5d968 md5 4d5553d50dbe5c78d65b14129360c677 sha1 4f4a04e7496ae8c5ebb503bcd157a7ce8e0725ce )
+)
+
+game (
+	name "[7210] Passwords (v 1.0) [Sun Microsystems] [!]"
+	description "[7210] Passwords (v 1.0) [Sun Microsystems] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Passwords.jad size 226 crc 2d1df71f md5 7ef821c80d77f3577205bca3da876bd9 sha1 78b9c1a83af5109e6199c80d68000d1a14fd870e )
+	rom ( name Passwords.jar size 21444 crc d4dfa75c md5 6fc64a97685a8bff11c0a0d805eb4c61 sha1 f498da530d419deedfc87c108fbb9855d6ad6606 )
+)
+
+game (
+	name "[7210] Portfolio II (v 1.4) [Nokia] (7) [!]"
+	description "[7210] Portfolio II (v 1.4) [Nokia] (7) [!]"
+	year ""
+	manufacturer ""
+	rom ( name PortfolioII.jad size 465 crc 8a9389a5 md5 7bc31903268269078daa2c74063768fe sha1 9a1995e9231ad23394fd30a8e0abc44dc794bd9b )
+	rom ( name PortfolioII.jar size 22129 crc fce71f62 md5 842f9802829c3a7a1b2d49ed07a73541 sha1 0ce9fbd871bcc0165b6a6616c953d01d4c318c34 )
+)
+
+game (
+	name "[7210] Portofolio II (v 0.9) [Nokia] (7) [!]"
+	description "[7210] Portofolio II (v 0.9) [Nokia] (7) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "portofolio ii.jad" size 288 crc b433adbf md5 9efe187ba0d5952545c615e18b9b4071 sha1 a9d2543f98dc9d161c04c7adabc1914a27370cc0 )
+	rom ( name "portofolio ii.jar" size 22854 crc 91dacbcd md5 f73b16ef00c27587701814535a208507 sha1 09c89ccdded97aa98929a66e96ce9b0057fa8fa6 )
+)
+
+game (
+	name "[7210] Quick Quote (v 1.0) [Kalo] [!]"
+	description "[7210] Quick Quote (v 1.0) [Kalo] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "quick quote.jad" size 393 crc c22e390d md5 dc161f7ce4418f56e216bda2c93da75f sha1 98faf618ae8eebc77755a0c275feb1ca5dce89e6 )
+	rom ( name "quick quote.jar" size 6757 crc 3508cb28 md5 d5809a87ff33340aac1a5fda4b4a876c sha1 15f7f1d6a9bc2484758d4e9ad48dcccd0191038e )
+)
+
+game (
+	name "[7210] Radares 2004 (v 1.0) [Xavi] (S) [!]"
+	description "[7210] Radares 2004 (v 1.0) [Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name radares+2004.jad size 301 crc f1e36f72 md5 04f8b62082ad2a4bb1c96fb0c208e025 sha1 5c75687eee4a6052159066c1d32a24cf1faaf370 )
+	rom ( name radares+2004.jar size 21370 crc fd4a60c6 md5 e659e1cf2ced761dbcfb6c7adc99acd9 sha1 72c7264d5ece3b472d9017e379788fd4a369cdc0 )
+)
+
+game (
+	name "[7210] Sheet (v 1.0.0) [Siemens] [!]"
+	description "[7210] Sheet (v 1.0.0) [Siemens] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Sheet.jad size 296 crc 651fc235 md5 7948c03192893ba06df1120f795c5305 sha1 18ce0ac3b9b635dda104d18f52917e9ba4c01448 )
+	rom ( name Sheet.jar size 40540 crc ac45d96c md5 2958b9295461c88ee8346c68cef58436 sha1 0585ec684678dd413c617fcda4fb2dbd4680fe92 )
+)
+
+game (
+	name "[7210] Sms Send (v 2.0) [Vega-Kalo] [!]"
+	description "[7210] Sms Send (v 2.0) [Vega-Kalo] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "sms send.jad" size 364 crc fb02875c md5 2d96d7bfaced7f26b1ab35e77f59d8d4 sha1 3f5e2863dabeaf6ee91ef4000137eb152b3f36a4 )
+	rom ( name "sms send.jar" size 34354 crc d01f57e4 md5 d8165c36792cad27776e78cd37b9319d sha1 c9495519d1782df80deace27721ca20e3b3bd8fd )
+)
+
+game (
+	name "[7210] Translator (v 0.7) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	description "[7210] Translator (v 0.7) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	year ""
+	manufacturer ""
+	rom ( name Trs_en_de_es-ES_fr_it_tr-TR_nl-NL_pt-PT.jad size 303 crc 87b1f22e md5 57df1ae513ad655b182977d0b65674c1 sha1 0560b4a83f22b3a6e81a00c25fb92a2c7a02584c )
+	rom ( name Trs_en_de_es-ES_fr_it_tr-TR_nl-NL_pt-PT.jar size 63824 crc df6a2c8f md5 57e1c02c33200bd403a625f083b0eb1f sha1 cb76777102efe4e4f95a7f2010dfea9b206f9371 )
+)
+
+game (
+	name "[7210] Valentine (v 1.2.0) [Erik Wistrand] [!]"
+	description "[7210] Valentine (v 1.2.0) [Erik Wistrand] [!]"
+	year ""
+	manufacturer ""
+	rom ( name valentine.jad size 324 crc 63e3ae9d md5 556ba0322c932ea52df8bf6b55ef50b9 sha1 4f8e0a8ee7be817719f33593bf5b1d7e5523601d )
+	rom ( name valentine.jar size 23881 crc 015ac65c md5 b36f48969b4543bb22d9243a54f64ffa sha1 99b10c856be5466d9521f5e5761de9c8b5737b95 )
+)
+
+game (
+	name "[7210] Web Viewer (v 1.7.6) [Reqwireless Inc] [!]"
+	description "[7210] Web Viewer (v 1.7.6) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name WebViewer.jad size 169 crc 551bb0fd md5 27660dac540cc11f3eb1670114238d07 sha1 d4fa6e74669b0039ba4f63544f9ae92bc4d4c0fb )
+	rom ( name WebViewer.jar size 46544 crc 93bd89bc md5 1e29f348a32bc3a0a66fa2701eecf4b4 sha1 f04d86a4dc8c81aca58e3c81fa1a6f880e3a3f1b )
+)
+
+game (
+	name "[7210] Web Viewer (v 1.8.4) [Reqwireless Inc] [!]"
+	description "[7210] Web Viewer (v 1.8.4) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name WebViewer.jad size 231 crc 9c9630ca md5 010b4cbffd1723d79e902dcd4ab4ed1f sha1 dc6f89d2aea1912fe8141725916f5e4b8de5bfc5 )
+	rom ( name WebViewer.jar size 47149 crc 232d1d55 md5 3d2167a85cfe955506472a332814dc1a sha1 8b67ac97c7d89eb518dfac0e5b48c2af6c4a78b2 )
+)
+
+game (
+	name "[7210] Web Viewer (v 2.0) [Reqwireless Inc] [!]"
+	description "[7210] Web Viewer (v 2.0) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name WebViewer.jad size 190 crc 860534ee md5 f56c436bbc1316636ff90a4f739e219a sha1 3a715ce02c9e56200bf21229550f7803eb0077e2 )
+	rom ( name WebViewer.jar size 47594 crc b5e2f1ab md5 38dc7a7ea8aa6ac743c3ab0742484b9b sha1 61965265d2f4fae47374b2e245d7f6929eaf636e )
+)
+
+game (
+	name "[7210] Web Viewer (v 3.0) [Reqwireless Inc] [!]"
+	description "[7210] Web Viewer (v 3.0) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name WebViewer.jad size 227 crc 2e95b240 md5 e91b1ac350350f7c6a2720305bdc50a7 sha1 39ca3202cead315fe4a0dcf540a7d242daf405c4 )
+	rom ( name WebViewer.jar size 46575 crc b39ed5ca md5 899f28152c89a3af12810e9108e2c513 sha1 57763f38220d6aa21436baab321d91c0685b0e7a )
+)
+
+game (
+	name "[7210] Web Viewer trial (v 1.6) [Reqwireless Inc] [!]"
+	description "[7210] Web Viewer trial (v 1.6) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name WebViewer.jad size 343 crc 2071611d md5 a8d88eb4d1040279767e08cdc8be9a35 sha1 d611a0c014500c06900b8668dac1d350010cefe0 )
+	rom ( name WebViewer.jar size 47348 crc cbf710a1 md5 373d92bddb581d58f006ef0e9c28abce sha1 7557d13b6d475e0b4ff5ddc82986022c0bb79213 )
+)
+
+game (
+	name "[7210] Web Viewer trial (v 1.7) [Reqwireless Inc] [!]"
+	description "[7210] Web Viewer trial (v 1.7) [Reqwireless Inc] [!]"
+	year ""
+	manufacturer ""
+	rom ( name WebViewer.jad size 218 crc fb584bc8 md5 e3e9ba63d78ca20765ace69e9e38500c sha1 d85e7f4d5c3f1a482fd6815aa9da245f149f5c30 )
+	rom ( name WebViewer.jar size 47575 crc f03ceef7 md5 39ef9ff96bb71f9a4c6983cc267460a5 sha1 674ab05a6b8ce65febfd9142157bfef35bf1c0fc )
+)
+
+game (
+	name "[7210] World Clock (v 4.06) [Nokia] (3) [!]"
+	description "[7210] World Clock (v 4.06) [Nokia] (3) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "World Clock.jad" size 275 crc 0b274d6b md5 7bcf84c3811ad70cba831f8db5bb7215 sha1 e2da1811a64a59b9c08985a2e0146606e3a070f2 )
+	rom ( name "World Clock.jar" size 23708 crc 11c33556 md5 933eca86be48e1d40347738e1ec79728 sha1 9a17b3cb5c8aa5544920ce734603f5375b412a4e )
+)
+
+game (
+	name "[7210] World Clock (v 4.50) [Nokia] (3) [!]"
+	description "[7210] World Clock (v 4.50) [Nokia] (3) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "NokiaWorld clock.jad" size 337 crc 615d2405 md5 6e31e7fc6c308562d1c0cb770406fe0d sha1 1888762dc493013ed0a0918500fc3e7fdc3d817f )
+	rom ( name "NokiaWorld clock.jar" size 24044 crc 8cad200f md5 fe0938258bae602b0a07cd9a854f9144 sha1 685b6e2de7abe756aa4113bc111511c7b4fd96ed )
+)
+
+game (
+	name "[7210] World Clock II (v 1.12) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	description "[7210] World Clock II (v 1.12) [Nokia] (en-nl-fr-de-it-pt-es-tr) [!]"
+	year ""
+	manufacturer ""
+	rom ( name Wclk_en_de_es-ES_fr_it_tr-TR_nl-NL_pt-PT.jad size 331 crc c5994944 md5 8826047508609bea35b6e2f44647fe7b sha1 dbc51bacde11ab5afcef25e41c0c4ae0c850114d )
+	rom ( name Wclk_en_de_es-ES_fr_it_tr-TR_nl-NL_pt-PT.jar size 65894 crc 6ccec1b1 md5 38873eb8b930f340fc4789fc0b13e774 sha1 9d8ea14554aaf7144ee3f0d0d32390577999cc04 )
+)
+
+game (
+	name "[7210] World Clock II (v 1.8) [Nokia] [!]"
+	description "[7210] World Clock II (v 1.8) [Nokia] [!]"
+	year ""
+	manufacturer ""
+	rom ( name WorldClockII.jad size 264 crc 6fdfce62 md5 c3a58f64fb6b1079141608639475b14a sha1 bb61d06601ff85a565e3765333fe1aca9f2365d9 )
+	rom ( name WorldClockII.jar size 55036 crc 7fd99f45 md5 2cc9509a08aaa139145cfb5e98f765d3 sha1 a0af4f67461720ba70cea80553bd92f80ba59c97 )
+)
+
+game (
+	name "[7210] World Weather (v 3.0.1) [Coolaz Technology] [!]"
+	description "[7210] World Weather (v 3.0.1) [Coolaz Technology] [!]"
+	year ""
+	manufacturer ""
+	rom ( name WorldWeather.jad size 662 crc 8504725a md5 91a38e3b69c9b3c3a477da73e13b7180 sha1 39deff0aaedbee43719a688c4930c37782c22335 )
+	rom ( name WorldWeather.jar size 25423 crc 4990eaab md5 496ff44f5ef83f4edede920b67c6a3b9 sha1 8666f0cd3df058744b689409c75eb9473e1d6b7f )
+)
+
+game (
+	name "[7210] World Weather (v 3.0.3) [Coolaz Technology-Kalo] [!]"
+	description "[7210] World Weather (v 3.0.3) [Coolaz Technology-Kalo] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "world weather.jad" size 356 crc 5e8b5195 md5 e1af1160931996dc3bf5d1194a9e871c sha1 ee67fadbc7776cee9866741ddfa886178555928a )
+	rom ( name "world weather.jar" size 23736 crc 5ffe167e md5 b8232048bb5376b7a903a26c0c031af8 sha1 f6b9dd02b2bf3ca82e6f0a990650b1567c767f3c )
+)
+
+game (
+	name "[7650] Calc (v 2.08) [Roar Lauritzsen] [!]"
+	description "[7650] Calc (v 2.08) [Roar Lauritzsen] [!]"
+	year ""
+	manufacturer ""
+	rom ( name XCalc.jad size 528 crc e7b94ea6 md5 df8dcb65ed6ef7a0b472776a97466152 sha1 bc24834443b935756e582ded9fce8d5440d94d8f )
+	rom ( name XCalc.jar size 65262 crc 4f60d108 md5 68f61b99b90f547a7bdf01e502b197e2 sha1 73c81596a17dd72eda1d4920f8625e138fc5b486 )
+)
+
+game (
+	name "[7650] Calculo del NIF (v 1.0) [EAmobile-Xavi] (S) [!]"
+	description "[7650] Calculo del NIF (v 1.0) [EAmobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name NIF.jad size 159 crc 8c004dea md5 f558c1251070a82ad729e730ea8c9cf3 sha1 6b16b13909deb08469a809344c632105ca052884 )
+	rom ( name NIF.jar size 2409 crc bebff70f md5 9d4088b5a4f45a99d56f23958c36d37c sha1 fdcb13fd1162e305d96a5eedb5c0e073403e1ab5 )
+)
+
+game (
+	name "[7650] First Aid (v 1.0) [Dynamo Computing] [!]"
+	description "[7650] First Aid (v 1.0) [Dynamo Computing] [!]"
+	year ""
+	manufacturer ""
+	rom ( name FirstAid.jad size 296 crc adc5bd2e md5 a36555ee71df7dc02851e0e86918e44a sha1 26ddff3b6e3b2eaa8af3069fc458fb86c81eb1d7 )
+	rom ( name FirstAid.jar size 195475 crc 04a86999 md5 ab9ff0a18536c308ace4f30212df80bc sha1 99fa82bc951f8aac65d5411dcd384e7de5709926 )
+)
+
+game (
+	name "[7650] IMC - Calculo Masa Corporal (v 1.0) [EAMobile-Xavi] (S) [!]"
+	description "[7650] IMC - Calculo Masa Corporal (v 1.0) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name IMC.jad size 187 crc 48709580 md5 9f885153add60744dc604b144a633dd7 sha1 17111ee68f04121b06bee6b4da853c518b43feba )
+	rom ( name IMC.jar size 3607 crc 168b164c md5 79b6b5de172bb95d7dbae0ae15376bff sha1 9e8ba2431fdd054bdfb1c7b2a15f59f56a309b41 )
+)
+
+game (
+	name "[7650] Life Path (v 1.0.2) [mobizex] [!]"
+	description "[7650] Life Path (v 1.0.2) [mobizex] [!]"
+	year ""
+	manufacturer ""
+	rom ( name LPath_v102_XiMPDA.jad size 459 crc 14f0bfea md5 ec81f9493c07c4b1815c35a451ee2d91 sha1 5436d7530ff12161a8265e22d007bc9a910de441 )
+	rom ( name LPath_v102_XiMPDA.jar size 17602 crc 71292d74 md5 4be7e2c32b77c2f5811d3f95ecca50a7 sha1 7275dab0965e68c2c170e1344bc784e3cf50d0e0 )
+)
+
+game (
+	name "[7650] Linterna (v 1.0) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Linterna (v 1.0) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name Linterna.jad size 207 crc da1f3925 md5 6fde2023b793e76257c78064dfe8457a sha1 48d37a0ded08c8f8af439a98f5955186ff393e20 )
+	rom ( name Linterna.jar size 9512 crc 305dbc78 md5 0d4d49139c76176322c94bc2aca35354 sha1 65eee04ab3951b8cb84039937ab46d7ef6186177 )
+)
+
+game (
+	name "[7650] MicroSky (v 1.1.0) [MicroSkyExplorer] [!]"
+	description "[7650] MicroSky (v 1.1.0) [MicroSkyExplorer] [!]"
+	year ""
+	manufacturer ""
+	rom ( name MicroSky.jad size 387 crc 442f8a4d md5 c462dc66a96201627dc0bed8c4a32df6 sha1 74a7871e1eb573c5685a6b8b8d5b15173597d5f5 )
+	rom ( name MicroSky.jar size 26874 crc ccbbc6e3 md5 b58201ee01b56d2cc6d5746cb9764aad sha1 616c1f1068bc2c58a06ffdc7345db4e967ca9afc )
+)
+
+game (
+	name "[7650] Mobile Translator Aleman-Espanol (v 1.2) [EAMobile-Xavi] [!]"
+	description "[7650] Mobile Translator Aleman-Espanol (v 1.2) [EAMobile-Xavi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Mobile Translator Aleman Esp.jad" size 296 crc 27241281 md5 fb91220316fdac9ba54a71a3c0c42a8c sha1 10705b545f79bf6e3fb1621e95bc33b3c1b05764 )
+	rom ( name "Mobile Translator Aleman Esp.jar" size 367689 crc 8389b8a4 md5 9095b84ebdbe89fce98cb6738afed7d8 sha1 726b99778f2432a32b15d9b581ada2b99278acd5 )
+)
+
+game (
+	name "[7650] Mobile Translator Aleman-Espanol (v 1.2) [Xavi] [!]"
+	description "[7650] Mobile Translator Aleman-Espanol (v 1.2) [Xavi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Mobile Translator Aleman Esp.jad" size 405 crc a7b998e4 md5 ad5557b1dc105b24607af323fbcee5a2 sha1 656f3ebaa942d2004cc2a14cafa7529813bac4a9 )
+	rom ( name "Mobile Translator Aleman Esp.jar" size 367697 crc 2b291764 md5 6deb401ab8ec83bbec647c6bf6a06eff sha1 bc08319cefed58645f4baad10b7804ccb81e3374 )
+)
+
+game (
+	name "[7650] Mobile Translator English-French (v 1.2) [EAMobile-Xavi] [!]"
+	description "[7650] Mobile Translator English-French (v 1.2) [EAMobile-Xavi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Mobile Translator Ingles Frances.jad" size 307 crc 8a1b9757 md5 51c2c1bcc3ced99347969a73a81a9e93 sha1 707cdff139557fe5bdac8a7d010ba8782208d793 )
+	rom ( name "Mobile Translator Ingles Frances.jar" size 82857 crc 65e3a20a md5 50077f859f96928ed7e439042a262de0 sha1 fbda894b08e28e787f6f142d9cee1915d19779ae )
+)
+
+game (
+	name "[7650] Mobile Translator English-German (v 1.2) [EAMobile-Xavi] [!]"
+	description "[7650] Mobile Translator English-German (v 1.2) [EAMobile-Xavi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Mobile Translator Ingles Aleman.jad" size 307 crc 13758aab md5 1258f97e9f1711a25ee80ce03d746a41 sha1 ca1d230774aef87c0a59500ad9e3ba87c0da380f )
+	rom ( name "Mobile Translator Ingles Aleman.jar" size 188821 crc a4031c38 md5 2e987e4cb26420a7e8f74fc9f77adb35 sha1 0f063ebb790243d382f4e2d0b4de3685ccac0c09 )
+)
+
+game (
+	name "[7650] Mobile Translator English-Italian (v 1.2) [EAMobile-Xavi] [!]"
+	description "[7650] Mobile Translator English-Italian (v 1.2) [EAMobile-Xavi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Mobile Translator Ingles Italiano.jad" size 311 crc a210f139 md5 4d2ddb53e12ec95e42989f7ad19c1ed6 sha1 65ab002faf0d750ed8ee735b904578ee01e8da14 )
+	rom ( name "Mobile Translator Ingles Italiano.jar" size 115077 crc b24e0855 md5 c6746867b3428fba825775d6a4165770 sha1 d9bc5fb04aece0eb39bd4a7a6536cceba583a5f5 )
+)
+
+game (
+	name "[7650] Mobile Translator English-Portoguese (v 1.2) [EAmobile-Xavi] [!]"
+	description "[7650] Mobile Translator English-Portoguese (v 1.2) [EAmobile-Xavi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Mobile Translator Ingles Port.jad" size 312 crc 5eb6f371 md5 a3bb961c657168b481ca0836cd14a531 sha1 8d1e3d606518db276e6fd8bb6f089cffe51d99f5 )
+	rom ( name "Mobile Translator Ingles Port.jar" size 50132 crc a6db5c3a md5 22d770bd3836dafc6bbe02affe7f15f8 sha1 bf1e9f7d8162e47dc687cb4c549a682c0f76c6b9 )
+)
+
+game (
+	name "[7650] Mobile Translator Ingles-Espanol (v 1.2) [EAMobile-Xavi] [!]"
+	description "[7650] Mobile Translator Ingles-Espanol (v 1.2) [EAMobile-Xavi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Mobile Translator Ingles Esp.jad" size 296 crc 64bd8510 md5 ee552e4398499c9f4d0b0490672c112a sha1 499e075ff6c866042a00cd2a443273766d58e591 )
+	rom ( name "Mobile Translator Ingles Esp.jar" size 413496 crc 5232e0df md5 6f4c596034a1b1df995fb8eb6cd58ca5 sha1 1b45667476942b21d2c7b3d85798406e3ff05681 )
+)
+
+game (
+	name "[7650] Mobile Translator Ingles-Espanol (v 1.2) [Xavi] [!]"
+	description "[7650] Mobile Translator Ingles-Espanol (v 1.2) [Xavi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Mobile Translator Ingles Esp.jad" size 405 crc 2a3e7c31 md5 df73367009dad13a0dbc95acbbacd197 sha1 8e9d56473674a04cbdb1d5454ef7cf6f21b6dedd )
+	rom ( name "Mobile Translator Ingles Esp.jar" size 413505 crc 8d4c5f0d md5 0e623b2b32a79486828fcf9a26b7bda8 sha1 4f35c0cbb35f924c94ba5a23fad986b88abae319 )
+)
+
+game (
+	name "[7650] MobLight (v 1.0) [EAMobile-Xavi] (S) [!]"
+	description "[7650] MobLight (v 1.0) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name MobLight.jad size 241 crc 7ce5bcb3 md5 a4eb6d7830c490cc3c5122dedafbd31e sha1 bbd1ad37b521c15b0adbaa53dac2604f26ffbebb )
+	rom ( name MobLight.jar size 7999 crc 7daa5a3e md5 55eeefae8dd1c544c5504b63c58fff94 sha1 1810c0c83719683f62082329419c9f58f3d4d22f )
+)
+
+game (
+	name "[7650] Money Manager 2 (v 2.0.0) [8mobile] [!]"
+	description "[7650] Money Manager 2 (v 2.0.0) [8mobile] [!]"
+	year ""
+	manufacturer ""
+	rom ( name moneymanager2.jad size 412 crc e7bfd63e md5 23ef42c77fc152ad29123885bfadad1a sha1 2c40f54ef2b0c4f3d2837c1414a3d702433f95a5 )
+	rom ( name moneymanager2.jar size 83860 crc 72712aae md5 a59a6025300a2abc6b346c71586fe90b sha1 1197aa7833b302f08287ff5eb0915ac2764d27c2 )
+)
+
+game (
+	name "[7650] Ono (v 1.0) [FSK Productions] [!]"
+	description "[7650] Ono (v 1.0) [FSK Productions] [!]"
+	year ""
+	manufacturer ""
+	rom ( name ONO.jad size 341 crc dc5a62e3 md5 dc6e82b588365f56f80f2351ed4ca1ec sha1 5aa55c69720bbe28c86c1cffc61e6ae6db46ce78 )
+	rom ( name ONO.JAR size 166644 crc b9925081 md5 e0ce0ce3984b06bb9ad3624b15a2a227 sha1 e162dbf6b2fcf33eb6f2e23bcbe54210dd1445bd )
+)
+
+game (
+	name "[7650] Opera Mini (v 1.0) [Opera Software] [!]"
+	description "[7650] Opera Mini (v 1.0) [Opera Software] [!]"
+	year ""
+	manufacturer ""
+	rom ( name opera.jad size 542 crc 4a7e850d md5 10b50ba71f2d26167c133b9b46a27e42 sha1 d661318c9b932a839b5e16fda568d3be2f15339b )
+	rom ( name opera.jar size 101169 crc 47713ae0 md5 7a3d90fc79247abe8fd53a6372e46b18 sha1 6da8a4cb578173f1ddb0fdff00efd111d8c7f4af )
+)
+
+game (
+	name "[7650] Opera Mini (v 1.1) [Opera Software] [!]"
+	description "[7650] Opera Mini (v 1.1) [Opera Software] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Opera.Software.Opera.Mini.hifi.myopera.v.1.1.2292.S60.Java-illusion.jad size 628 crc bf87c414 md5 d763d0688fb8bbcb3443ebe49aec44df sha1 f7ee5ea50c144ac648b6b1d86ca33ce47ab4db54 )
+	rom ( name Opera.Software.Opera.Mini.hifi.myopera.v.1.1.2292.S60.Java-illusion.jar size 100498 crc b802bf04 md5 eb25138b4a0c4dcbc59e1780916cc199 sha1 fce862fe6a70dbd653f2ef332221cea9ff185f44 )
+)
+
+game (
+	name "[7650] Parked Aid (v 1.1) [Kasidit Yusuf] [!]"
+	description "[7650] Parked Aid (v 1.1) [Kasidit Yusuf] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Parked.Aid.v1.10.S60.JAVA.Retail-BiNPDA.jad size 530 crc 7d29597b md5 c718f08f71d87a7aa29b5a2c2eb1e728 sha1 592adcc267b72f0c38fe8da547f5f8c6e4ebc889 )
+	rom ( name Parked.Aid.v1.10.S60.JAVA.Retail-BiNPDA.jar size 13603 crc dd046218 md5 fcc8f7e68c2df350ace481feeaf1d762 sha1 e9e30fe3eb0036994be9cbb481c9582d3e161154 )
+)
+
+game (
+	name "[7650] Pneumatic Calculator (v 1.0) [EAmobile-Xavi] (S) [!]"
+	description "[7650] Pneumatic Calculator (v 1.0) [EAmobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name PneumaticCalculator.jad size 244 crc 2d6350ce md5 3cada10970e75074fd93920f93a0140b sha1 9c08a011f29d3201c4659f73c0286a3750d23d4a )
+	rom ( name PneumaticCalculator.jar size 3050 crc 203bdf6f md5 83be1e8f888523628ca20d98b473d964 sha1 f1bea6317bc8d0f414f16b5f3e4186d07376c4b7 )
+)
+
+game (
+	name "[7650] Radares 2005 (v 1.2) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Radares 2005 (v 1.2) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name Radares2005.jad size 254 crc 51a214e9 md5 0ab107ff543572462b8c00e4c2f29c04 sha1 9b45120a681cbfc3539655e2c461073f120c4a76 )
+	rom ( name Radares2005.jar size 30238 crc 33754d20 md5 bb0d9bd2f4880709c3f9c9752c4e8663 sha1 46b705021b5751576c0e8f31346a93ef209dc7bf )
+)
+
+game (
+	name "[7650] Reloj Cuco (v 1.0) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Reloj Cuco (v 1.0) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name RelojCuCu.jad size 248 crc 177624dd md5 63c03c6187caff4b5ae1adfc19683fdb sha1 967d4b2350e7fd56396a5ae8ab40518112a7b418 )
+	rom ( name RelojCuCu.jar size 11345 crc c08c1075 md5 d68746474a262e84d041301767baa636 sha1 342d60eef8a81d22347ee2a9b726e4d0610f39a1 )
+)
+
+game (
+	name "[7650] Res-Calculator (v 1.1) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Res-Calculator (v 1.1) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Res Calculator.jad" size 230 crc 877f4e81 md5 d7d33bd0543d18f9cee9827960b63e72 sha1 ee6c651d9f8432c9c8730aa655015d7db988ca86 )
+	rom ( name "Res Calculator.jar" size 9835 crc d939fbc0 md5 305100b9a402857e1da76f64a495d8f5 sha1 c553c34513c330837977fba87b6bd27f8dc70d3f )
+)
+
+game (
+	name "[7650] Sentry Opisanie (v 1.5.5) [Tequilacat] (unk) [!]"
+	description "[7650] Sentry Opisanie (v 1.5.5) [Tequilacat] (unk) [!]"
+	year ""
+	manufacturer ""
+	rom ( name SentryOpisanie.jad size 379 crc 25831179 md5 a1fd34928307499e92a4e3c316cef2b9 sha1 1f7635790899214eac05663c216d753ce80bd7ee )
+	rom ( name SentryOpisanie.jar size 18653 crc a9b4db86 md5 f86a38235aaf8c29a29f3a2f7fffd82d sha1 ce748ec4821d9736ee4412c9e9ae54ac1cb479be )
+)
+
+game (
+	name "[7650] Street Guide 2 - Callejero de Madrid (v 2.4) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Street Guide 2 - Callejero de Madrid (v 2.4) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide 2.jad" size 366 crc 6ccb33ef md5 2678c22552fe7a99ea276ce96550011a sha1 759dcccc4bb06ed6046623d5ed0b0d19a408d71b )
+	rom ( name "Street Guide 2.jar" size 619762 crc 51a0510b md5 65e05da1198be6deae75ac3978ed359d sha1 3df97ad1640c15dfc9fc7557f5ef6d331dbf2da5 )
+)
+
+game (
+	name "[7650] Street Guide 2 - Metro Barcelona (v 2.5.1) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Street Guide 2 - Metro Barcelona (v 2.5.1) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 317 crc 4b1980e3 md5 be4527eb2e0b7698b7ed7aad60ac40cc sha1 df214c9b46aaed45c230e90a34d35984dccb4a92 )
+	rom ( name "Street Guide.jar" size 171996 crc cef62578 md5 5e94c324b609578dfa1673d9b019d6c0 sha1 136ada2f0d4d223d0579bc7e5692c40c3b75fca8 )
+)
+
+game (
+	name "[7650] Street Guide 2 - Metro Buenos Aires (v 2.5.0) [EAmobile-Xavi] (S) [!]"
+	description "[7650] Street Guide 2 - Metro Buenos Aires (v 2.5.0) [EAmobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 369 crc 4d2a9cdd md5 cba4040bcfdb6294c250d7cb3b0fc58d sha1 6f3382a7b91e669fe50ac0da5af9908b1f9ba16f )
+	rom ( name "Street Guide.jar" size 81756 crc a65a8d63 md5 62fb6d70d041ba525db42ae5c537f903 sha1 d3204af0d272bf6bfb028136192fe08781a0831c )
+)
+
+game (
+	name "[7650] Street Guide 2 - Metro Madrid (alt) (v 2.4) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Street Guide 2 - Metro Madrid (alt) (v 2.4) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide 2.jad" size 354 crc 3d705c8f md5 601243c191a5eb6cd460a2e3af60204f sha1 d3517eb3b713d335417b4c2cb6159e85c118a95e )
+	rom ( name "Street Guide 2.jar" size 103111 crc 41e364d9 md5 bc252e382cc7a53300375b65050eecee sha1 cd1268838cf65cd6aa77c2ffea0ca1ca892c2608 )
+)
+
+game (
+	name "[7650] Street Guide 2 - Metro Madrid (v 2.4) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Street Guide 2 - Metro Madrid (v 2.4) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 350 crc a2a8374c md5 f43c40e06981d7552962a0fe55e3eeab sha1 fc97b87d1af707f19f0caf706e5c30e99e06ef9e )
+	rom ( name "Street Guide.jar" size 176386 crc 70007dc0 md5 445c79ee77a82ddb9f60d75cd163cadd sha1 8c8544a90703c1eff73352272c5270ef44f30702 )
+)
+
+game (
+	name "[7650] Street Guide 2 - Neuquen Calles (v 2.5.0) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Street Guide 2 - Neuquen Calles (v 2.5.0) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 362 crc af9b1995 md5 27d8cc7da93985d5f7e8c0de7ff20999 sha1 ee3028fb634204680ff460e41e565583e51e5b4b )
+	rom ( name "Street Guide.jar" size 154219 crc 24e8ec7f md5 dc75754f752109070b4ba5473381413a sha1 f59c6b63d060f6b2a7f228b74664c10799ffd2a7 )
+)
+
+game (
+	name "[7650] Street Guide 2 - Valladolid (v 2.5.1) [EAMobile-Xavi] (S) [!]"
+	description "[7650] Street Guide 2 - Valladolid (v 2.5.1) [EAMobile-Xavi] (S) [!]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 421 crc effa559d md5 96a47d7a6c0e1cb10a83d014ec2d905c sha1 d09503731658d07765880be0197265c2d62843f4 )
+	rom ( name "Street Guide.jar" size 1032583 crc ca70bb8d md5 57981ca0dccd7f1feb9428656afe6b0c sha1 84018410d111065f69e8973d358a1d89440de085 )
+)
+
+game (
+	name "[7650] WatchCam Mobile (v 1.1) [EAMobile-Xavi] [!]"
+	description "[7650] WatchCam Mobile (v 1.1) [EAMobile-Xavi] [!]"
+	year ""
+	manufacturer ""
+	rom ( name WatchCam.jad size 254 crc db633f17 md5 e1d95e6984f1307853a1a4998a333156 sha1 3533addab4f5466e690bee75f5965d71ec7154c3 )
+	rom ( name WatchCam.jar size 33627 crc de3e07bb md5 f3ddba4c347fc6729b017716ef2d223a sha1 2ea34509ad6e3dc22fc5db3b9b681b9e3f02bf5a )
+)
+
+game (
+	name "[ALL] BT Control (v 1.42) [Unteh] [!]"
+	description "[ALL] BT Control (v 1.42) [Unteh] [!]"
+	year ""
+	manufacturer ""
+	rom ( name BTControl.jad size 416 crc d25494f9 md5 11f68e05af6a7b99d8246c83055936a3 sha1 2d7eb04ac73606a1ceb49e047d9e6562ed94b1c3 )
+	rom ( name BTControl.jar size 56519 crc bf02d035 md5 9d0adf42302843f95e1398714cb38d31 sha1 42530ef1497a550949f5886ea7768bf90071ebdc )
+)
+
+game (
+	name "[ALL] Mini Excel (v 1.5) [Simprit] [!]"
+	description "[ALL] Mini Excel (v 1.5) [Simprit] [!]"
+	year ""
+	manufacturer ""
+	rom ( name Simprit.MiniExcel.v1.50.S60.Java.Retail-BiNPDA.jad size 419 crc 2a8b8b47 md5 deda7cf15a11709bd46cbb4994c4a116 sha1 f4fbbfcaf345e0d26069c8a4351cdb73ab074f94 )
+	rom ( name Simprit.MiniExcel.v1.50.S60.Java.Retail-BiNPDA.jar size 61982 crc 9095bc50 md5 ed36bdb9780685ee5b8a18d19b230300 sha1 4c75d650f6de4f7e82f81e104d0e9624a40e2d74 )
+)
+
+game (
+	name "[ALL] MobiWord (v 1.46) [Unteh] [!]"
+	description "[ALL] MobiWord (v 1.46) [Unteh] [!]"
+	year ""
+	manufacturer ""
+	rom ( name unteh.mobiword.v1.46.s60.java.retail-binpda.jad size 333 crc 358c00ce md5 2b5239738f01d28a18be14d3a7bd0126 sha1 17eaca9b3e7966c0deea8c9e7c3b2cfa4f55a502 )
+	rom ( name unteh.mobiword.v1.46.s60.java.retail-binpda.jar size 58663 crc 4781ca6b md5 95170ce29fcb868d3d7d4928d6a3800b sha1 06368bf4350fdc83b96551f1087071c27127e031 )
+)
+
+game (
+	name "[S60 - midp2] Alarma XMovil (v 1.0.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Alarma XMovil (v 1.0.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Alarma XMovil.jad" size 252 crc aca73c2d md5 775184f198f0759f4d8a6f716a0f3b35 sha1 dcb5511bc44fffc701a604d2e3cc1b9c71bfa16d )
+	rom ( name "Alarma XMovil.jar" size 23054 crc ecd657a3 md5 207cdfb1d664adf734db131863b67448 sha1 ccf65b9d6f72932f54a21b0000fa3fa08a6ba29c )
+)
+
+game (
+	name "[S60 - midp2] Alarma XMovil CE (v 1.0.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Alarma XMovil CE (v 1.0.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Alarma XMovil.jad" size 258 crc 9c8f6fe9 md5 e05669b5217d9af552e52ca0522000b3 sha1 240a52522fe7f533ec9cf0bf2335d8b0fde0b611 )
+	rom ( name "Alarma XMovil.jar" size 37903 crc 9fb778ea md5 b96f8b5c4d6e99b6658e5d70d6bc2ebb sha1 11fc3187c2ad8c9439f9b49d2b5ded80fd25b15d )
+)
+
+game (
+	name "[S60 - midp2] Alarma XMovil Chiquito (v 1.0.0) [EAmobile-Xavi]"
+	description "[S60 - midp2] Alarma XMovil Chiquito (v 1.0.0) [EAmobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Alarma XMovil.jad" size 270 crc 0c4b1d2b md5 d1cae69d40e2977b558a1e66e5c4c10f sha1 dc9d4eed8457e4f94e1496ee0aa5a6031e2d4ca9 )
+	rom ( name "Alarma XMovil.jar" size 29998 crc 4d6de95c md5 11f4265b6bb87ebfbb64a76eee14d9b1 sha1 e66354c68a87a610b22514a1f1d72a2276ef6862 )
+)
+
+game (
+	name "[S60 - midp2] Alarma XMovil Tech (v 1.0.1) [EAMobile-Xavi]"
+	description "[S60 - midp2] Alarma XMovil Tech (v 1.0.1) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Alarma XMovil.jad" size 262 crc b73d880a md5 740a26735e591dbccfb453fd5bc0e2e0 sha1 49cc14762d41d21c429827b397993df1825cf4c2 )
+	rom ( name "Alarma XMovil.jar" size 68917 crc 2cf0f92a md5 182289e1814fbd4ca2185cfe005dd443 sha1 34069415d55e0324716896f746528b625439018e )
+)
+
+game (
+	name "[S60 - midp2] File Lock (v 1.0) [ixalon]"
+	description "[S60 - midp2] File Lock (v 1.0) [ixalon]"
+	year ""
+	manufacturer ""
+	rom ( name FileLock.jad size 331 crc 4f4322c9 md5 fccf9ebb0439a9a210d29f24021f2f21 sha1 b139f6aecb121c9809cc41b80909df84302d7692 )
+	rom ( name FileLock.jar size 10583 crc 34fac3ce md5 33d1891f7e4b1c2e51009fed1333fc23 sha1 8442a75496b3d7e9bf3526a233f13ee99f5e3a6e )
+)
+
+game (
+	name "[S60 - midp2] File Protect (v 1.0) [ixalon]"
+	description "[S60 - midp2] File Protect (v 1.0) [ixalon]"
+	year ""
+	manufacturer ""
+	rom ( name File_Protect.jad size 1064 crc 6e411d82 md5 8c4a77b32c6e9ee974f5e5ea6ebeee2b sha1 a47ba1ee26cd95d73ea896c7777a72aa9cdbf1de )
+	rom ( name File_Protect.jar size 30702 crc c26ca0e0 md5 cdb2a457704c75e32be8540155066ef0 sha1 26cac57587bc8d97bacb9b318d277523c9081925 )
+)
+
+game (
+	name "[S60 - midp2] I-X Browser (v 1.1.1) [EAMobile-Xavi]"
+	description "[S60 - midp2] I-X Browser (v 1.1.1) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name I-XBrowser.jad size 244 crc ea70314b md5 69f177c3c0df20f507086e40415d9f1b sha1 09eb2b5abcafab0d3a847728d7ab2e61371c5638 )
+	rom ( name I-XBrowser.jar size 112144 crc 31223270 md5 e919030d523bce780e1da71ce3300f53 sha1 926cee79ac8095c161df9c9f84ca37d78643526a )
+)
+
+game (
+	name "[S60 - midp2] I-X Browser Alemania 2006 (v 1.1.1) [EAmobile-Xavi]"
+	description "[S60 - midp2] I-X Browser Alemania 2006 (v 1.1.1) [EAmobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name I-XBrowser.jad size 350 crc 275e4bd1 md5 75d1a8b606b5adc1be01f9b4773199d2 sha1 34645d712c5608c2f7db67b33642e45382300e52 )
+	rom ( name I-XBrowser.jar size 97189 crc dd541825 md5 dbb3f3c9f9ba0d509567dfcfb2c9bb89 sha1 32932bb31143c1bb78e89c7725c339f938e523f6 )
+)
+
+game (
+	name "[S60 - midp2] Mobile Color Recognizer (v 1.1) [EAmobile-Xavi]"
+	description "[S60 - midp2] Mobile Color Recognizer (v 1.1) [EAmobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Mobile Color Recognizer.jad" size 265 crc 7a76b0bf md5 8634a9dd6c52ad3bd66576ce20f3431a sha1 996d89b0ec4fd66fbda41ec1d50b8b97f46bb03e )
+	rom ( name "Mobile Color Recognizer.jar" size 172824 crc 87169262 md5 9a817c207938cf023317841dbe8ff3cc sha1 ce2097fa3c330b54a598e9d0ebc8daa0b7921b7a )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Buenos Aires City (v 2.5.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Buenos Aires City (v 2.5.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 361 crc 8c6eb0b7 md5 7b7a563be93813c3c5713eaf80137ef1 sha1 d975f9673bb55d5af726541af0ffc0006b1a83e3 )
+	rom ( name "Street Guide.jar" size 833780 crc 3118c05a md5 4f9ad22ef5283c0e236e58fd8b6261fa sha1 e062881b60c4ffa02adb94207a2a2f82f280e76d )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Callejero Alcala del Rio (v 2.5.1) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Callejero Alcala del Rio (v 2.5.1) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Alcala del Rio.jad" size 430 crc 91d3696c md5 47c4afae5dd3903668f8e692327c8bfb sha1 946bec8441011c99d637582f4a4357e8a837508b )
+	rom ( name "Alcala del Rio.jar" size 392307 crc 37cdab3e md5 1079f0f0b3b26b64365a99b92f5803e8 sha1 1d249faf62dbe4498667940e29de5e07e7fc4ef5 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Callejero Barcelona (v 2.4) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Callejero Barcelona (v 2.4) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide 2.jad" size 366 crc d08151ae md5 522a5237efbc39301d55d34fb2381cef sha1 41720258d1c7f22ff3cd73fa9a19324884c59fae )
+	rom ( name "Street Guide 2.jar" size 518160 crc 7c65bc93 md5 35f42838b3dadca40ac8eaaa112901b0 sha1 e406ef1ec68e012d63f04f7f9f0b8707b7c95b24 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Callejero Ciudad Real (v 2.5.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Callejero Ciudad Real (v 2.5.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Callejero CR.jad" size 353 crc 4907b8fe md5 a62f36c4d0fc7f399d583c46d51813f5 sha1 4846005ec60c2cc8a65f57e22815ccf34d6a4026 )
+	rom ( name "Callejero CR.jar" size 1167383 crc 607fad30 md5 3cb5b72ad1c49c12f4983e99004b8884 sha1 4aa89858872ea38ccb00949ea67a48499055f400 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Callejero de Madrid (v 2.4) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Callejero de Madrid (v 2.4) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide 2.jad" size 366 crc 9275ec79 md5 da3d2f720369a7116ff6c21486efd946 sha1 317e6d65e6b248e5aa22483998a1b04f870a7512 )
+	rom ( name "Street Guide 2.jar" size 619894 crc e43fc851 md5 c826fd2ca634bc92bf3ac8de38aa42d0 sha1 0dcb7b99d8c35607a2c3ffd5434bf1ea2aa99402 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Callejero de Sevilla (v 2.5.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Callejero de Sevilla (v 2.5.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 355 crc bfce7baf md5 a2ea9867e505cbd6be1062d89ea54add sha1 d7509c5dcc80eed716a42ca65349fa135d41cbff )
+	rom ( name "Street Guide.jar" size 407766 crc 5e842e68 md5 eed1f9c14043782d622a3507342b65c3 sha1 8b2bea7b665306a1bd8bc01a324ea09244029c77 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Callejero Gijon (v 2.5.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Callejero Gijon (v 2.5.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 358 crc 2cc2d5d4 md5 756925e5893d4043162ce17a8fa00fcd sha1 93902474815e0b5c7afd6baa51b1ecfc73a1e07b )
+	rom ( name "Street Guide.jar" size 306624 crc 5897de08 md5 8003b17d0cdab7b246b1a9e102732bde sha1 7013117f3761e177e869f214600b642892869690 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Callejero Valencia (v 2.4) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Callejero Valencia (v 2.4) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide 2.jad" size 355 crc 52ab71c3 md5 08594d16975b4eb72f287eda81765793 sha1 b9b2a36329e2eccc68e59204579c48a1feb1f83a )
+	rom ( name "Street Guide 2.jar" size 2545322 crc 79343702 md5 94674914c6e284949b6d6177484dc820 sha1 9411a2de23ecd6dd12520d6311b83a257e384f24 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Ciudad de Mejico (v 2.5.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Ciudad de Mejico (v 2.5.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 360 crc 0a62c7b6 md5 442de48b4ad51d749edead312765b9c0 sha1 91c1c48291b41a8f6ed288cf7d00292d3c79f917 )
+	rom ( name "Street Guide.jar" size 229828 crc f89bde9e md5 654840da97bb845a455c9a820a7057c8 sha1 2fc39eba220c348d645644f6ed3e3d2db99326b1 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Foto Aerea Ciudad Real (v 2.5.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Foto Aerea Ciudad Real (v 2.5.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Foto Aerea CR.jad" size 356 crc bd4f5495 md5 fa10766c8a57bc56e80639fd97bba8dc sha1 129eeef94df66313ba47e294ae233c280c0a19ed )
+	rom ( name "Foto Aerea CR.jar" size 1393229 crc 1b9d5f96 md5 116fdd4a6b14ae02f84ce73082823d67 sha1 736e85dd6dc5de660a90a59f3da469c0b6c7143f )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Metro Barcelona (v 2.5.1) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Metro Barcelona (v 2.5.1) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 317 crc 3dbdd586 md5 ad91d3970402f94fe509274ace8482dd sha1 aa9242a9cd26bdf1390d043fa7c77da30b015e8b )
+	rom ( name "Street Guide.jar" size 172131 crc 799499c1 md5 f30b4b887276018cf515f1ccaec14500 sha1 e6ae77edc4de924b8b47eca17b259b5bfc3ed401 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Metro Buenos Aires (v 2.5.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Metro Buenos Aires (v 2.5.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 369 crc 5cb011b7 md5 6d5a72ba8059711382508b832beaf5fa sha1 b7988fce6373dc359bebae0805a3bd7959870eb9 )
+	rom ( name "Street Guide.jar" size 81418 crc fed6a5e5 md5 f418a416f93f52c345b98da4fed616fb sha1 6caaee2b080aacc318001c4258e181c08e293aab )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Metro de Madrid (alt) (v 2.4) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Metro de Madrid (alt) (v 2.4) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 350 crc d88d79ab md5 77401ff35bee0b69762bd4f878d0ef06 sha1 d484a11713a5114adf4eb8d5cc8b451e44cb0114 )
+	rom ( name "Street Guide.jar" size 176980 crc 10083880 md5 3e74ee22440ed9b97653bae5e75eaaad sha1 132cc6c81ba72a59c030dfa42902ec608f083069 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Metro de Madrid (v 2.4) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Metro de Madrid (v 2.4) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide 2.jad" size 358 crc 317ca73c md5 69b831f89b52325f8e217d2a2b91a2f8 sha1 62b05f929518d4711bf7efd1959a3f528b52b6f0 )
+	rom ( name "Street Guide 2.jar" size 103235 crc 210e7fc7 md5 f327fd9b118000650980967714b7313b sha1 5bed546e9bf973530f885f8cfc17542d7952c1af )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Metro Milano (v 2.4) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Metro Milano (v 2.4) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Metro Milano.jad" size 349 crc ffd04871 md5 c923b5a6590f697688f0b76b3cb0f864 sha1 293db5c8303a8b67c789b9482f2a44789c5c8d9b )
+	rom ( name "Metro Milano.jar" size 34517 crc 96aad581 md5 e5b3b220714b0b75bb3d0d4b2810dd41 sha1 3b528bb9cc93f90242b4a0e44c00d7053d69cdc8 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Neuquen Calles (v 2.5.0) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Neuquen Calles (v 2.5.0) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 362 crc 7d0e70ef md5 9d365490b654d11c4f861922bf231f53 sha1 24406a226936744ea1740aa56b2f6bca00fc1886 )
+	rom ( name "Street Guide.jar" size 153881 crc 4fd54a2a md5 77be5408d6d0bf8d1650df81bfe919ab sha1 4515537868cd9e8d86f768e98d72c256ac812a51 )
+)
+
+game (
+	name "[S60 - midp2] Street Guide 2 - Valladolid (v 2.5.1) [EAMobile-Xavi]"
+	description "[S60 - midp2] Street Guide 2 - Valladolid (v 2.5.1) [EAMobile-Xavi]"
+	year ""
+	manufacturer ""
+	rom ( name "Street Guide.jad" size 412 crc ebac64f4 md5 485f70300c9a31f9f13d647a57311eb7 sha1 16cc196bd59f7e9edaaa78dbeb89b88cb9b36041 )
+	rom ( name "Street Guide.jar" size 4820881 crc a18f0158 md5 3559d7143fa08b7386359bb78957375a sha1 da359f782528c9af7cf0336a0dbc4e08a10a4fc8 )
+)
+
+game (
+	name "InfoStore (v 0.9.1) [Joachim Schaefer]"
+	description "InfoStore (v 0.9.1) [Joachim Schaefer]"
+	year ""
+	manufacturer ""
+	rom ( name InfoStore.jad size 239 crc 4b0261b2 md5 2cf39b0d6cbc7724eca8e804cbf2dc39 sha1 ce8745f222d862628a19b9745863bc5d8df0c688 )
+	rom ( name InfoStore.jar size 10531 crc 8911784b md5 43399be39c0c02ecd88290c7caebc54e sha1 c69235920c8cf48bb60f13931888804585d6f484 )
+)
+
+game (
+	name "InfoStore (v 0.9.2) [Joachim Schaefer]"
+	description "InfoStore (v 0.9.2) [Joachim Schaefer]"
+	year ""
+	manufacturer ""
+	rom ( name InfoStore.jad size 185 crc 86b0358b md5 dc96d60d0ac0bdecfe977cf8822c5f99 sha1 413503fb073c15d0a11caaa2ef0e89e373f1f0f6 )
+	rom ( name InfoStore.jar size 10542 crc 98a92e66 md5 348fcfc01cd88a5bbf6b02cd130be9a3 sha1 896f20f868c602d933589a253c0027f3b311669d )
+)
+
+game (
+	name "Internet Time (v 1.1) [JACADO]"
+	description "Internet Time (v 1.1) [JACADO]"
+	year ""
+	manufacturer ""
+	rom ( name InternetTime.jad size 233 crc dc78ed16 md5 bafe8ccc9e4a44369978016a6f42f886 sha1 fb75e5a1e8b6954772d2af1bdfc28f69466293ad )
+	rom ( name InternetTime.jar size 6002 crc f8fda6f8 md5 efe6da3660c0488aec73014be0f4494e sha1 a1dc844e79a41b7e5030438e110b69eca0193dda )
+)
+
+game (
+	name "Java Diet (v 1.0) [Sun Microsystems]"
+	description "Java Diet (v 1.0) [Sun Microsystems]"
+	year ""
+	manufacturer ""
+	rom ( name JavaDiet.jad size 220 crc d05395c7 md5 a1bba84a084d4e75dbb7cbb9c648dc61 sha1 ccfb665cbf514c430b49467f210328841055c895 )
+	rom ( name JavaDiet.jar size 16300 crc eb03c1f9 md5 5347dec4a36cc95ea71b7b2151fd9f04 sha1 c11e33c75f8117fc87d96ef36e115e324ab54ba3 )
+)
+
+game (
+	name "Java ME Test (v 1.0.2) [Dmytro Dogadaylo] 7210"
+	description "Java ME Test (v 1.0.2) [Dmytro Dogadaylo] 7210"
+	year ""
+	manufacturer ""
+	rom ( name JavaMETest.jad size 339 crc d2558484 md5 d302f5096beae9e3e1af45a2ea49d463 sha1 79fc23b71f25b5aa003d83074ce93b9c89111698 )
+	rom ( name JavaMETest.jar size 26010 crc e4159acd md5 25da1b92ab92551589be390427232730 sha1 5b396a81d0bfce132c8e7feee8aaeb83294872aa )
+)
+
+game (
+	name "JBrowser (v 1.0.4) [Jataayu Software]"
+	description "JBrowser (v 1.0.4) [Jataayu Software]"
+	year ""
+	manufacturer ""
+	rom ( name jBrowser.jad size 259 crc 63e840d5 md5 ec6f2f1f26abf8b8adfe1b95a49cdbd4 sha1 6d95b64bf4aa56940c20c0417ab3c49fa2aa1d3f )
+	rom ( name jBrowser.jar size 61117 crc 7b6c5a5b md5 e4632fcb734e4e6ba8dc53cb4942ac68 sha1 845971981c5c894db70d9620e6f576da97b84c4f )
+)
+
+game (
+	name "Language Dict (v 1.0) [Surerange] 7210"
+	description "Language Dict (v 1.0) [Surerange] 7210"
+	year ""
+	manufacturer ""
+	rom ( name LanguageDict.jad size 328 crc 9678b0e4 md5 bb2de89b856dfc9b560bf03cb49106dd sha1 94bf388ace6dc35539fa64a45083095e13cb0214 )
+	rom ( name LanguageDict.jar size 7397 crc 142829c0 md5 1e52b12451ffc0749ae58e05d660da65 sha1 93909b6d47efc5c40b7d19b2d0239bfcfdded20e )
+)
+
+game (
+	name "LGW510 (v 1.0) [Skynet] 7210"
+	description "LGW510 (v 1.0) [Skynet] 7210"
+	year ""
+	manufacturer ""
+	rom ( name Lgw510.jad size 310 crc ac0497fd md5 ddc90982cf643e8b979a4c3814f84835 sha1 b776911dd387329ba903e543e3950c4c41f84a50 )
+	rom ( name Lgw510.jar size 3682 crc f08f554d md5 fba24e132981773054773e312c2fe793 sha1 b9df4bfe40ca19d072120dd0d2a61dd2d7cf5da3 )
+)
+
+game (
+	name "Lotto Checker (v 1.2) [CumpChop]"
+	description "Lotto Checker (v 1.2) [CumpChop]"
+	year ""
+	manufacturer ""
+	rom ( name lottoChecker.jad size 404 crc 7c95177e md5 f96d4b998946e52309dca3fd284a538a sha1 0fb5c13b903106eb2d66ce8f55b34d52700f4ceb )
+	rom ( name lottoChecker.jar size 29219 crc 6b692116 md5 00ca72239745dc9f7a50ffee0400da56 sha1 6ad29f81bc1d6aede1ebf7e6447f85038c54cb4f )
+)
+
+game (
+	name "Mercury IM (v 1.0) [Andrew Parr]"
+	description "Mercury IM (v 1.0) [Andrew Parr]"
+	year ""
+	manufacturer ""
+	rom ( name "MercuryIM instructions.pdf" size 20512 crc 6b899afd md5 40e0be57cced31a4afa953472628bd24 sha1 8ca4bfd08fa3c740db0d8087a5517708cc13863f )
+	rom ( name MercuryIM.jad size 206 crc 3dff89b0 md5 d9b6b6317cf0a445e0e69590b2d16013 sha1 15984e1470c465c7024a3e43fcad96bb9c8855c4 )
+	rom ( name MercuryIM.jar size 35955 crc e96e67eb md5 2e42c6222fc5f1c8fc1a5ccaae6326a1 sha1 1b8dac5caf84fb8e62535c03244da00cba673eb7 )
+)
+
+game (
+	name "Micro Meteo (v 1.0) [Luca Cecchetti]"
+	description "Micro Meteo (v 1.0) [Luca Cecchetti]"
+	year ""
+	manufacturer ""
+	rom ( name MicroMeteo.jad size 448 crc 45a28492 md5 ec42e528355a28a12bcf228a6fee0b3e sha1 2789de97a92791dfde421c00c0032c14d68622dc )
+	rom ( name MicroMeteo.jar size 25396 crc 9f72f5aa md5 046e221b11266820752948352bbbb76f sha1 e5258f1743b344a56809e2fbdcd8425203032c1e )
+)
+
+game (
+	name "MicroCalc (v 0.4.8) [Wap Industrial]"
+	description "MicroCalc (v 0.4.8) [Wap Industrial]"
+	year ""
+	manufacturer ""
+	rom ( name microcalc.jad size 319 crc 14675a0b md5 981cc41a357edcad0fce5639d75b440f sha1 71f00792aa17b83a9c3c94aebdd30319517f938e )
+	rom ( name microcalc.jar size 27650 crc a9ced641 md5 19bca7574a5c7cc6ef5beb8675b682c1 sha1 956f8d89cfeb1d8d951b0e0e91acabed3777be09 )
+)
+
+game (
+	name "MicroCalc (v 0.7.7) [Wap Industrial]"
+	description "MicroCalc (v 0.7.7) [Wap Industrial]"
+	year ""
+	manufacturer ""
+	rom ( name microcalc.jad size 402 crc 549cbd8f md5 b6bf78f613e964b52fa4411b2bc8db44 sha1 ba9aa65764e8840497bfd48309042ab91e101e9f )
+	rom ( name microcalc.jar size 31983 crc 21c835ff md5 8f1fce641e5101580c316d2f918482c9 sha1 ec8e84eff810042328c801874ab937fe9b1b0223 )
+	rom ( name microcalc_manual.pdf size 122580 crc 54cc03d6 md5 80cf5467fe1f25ce7b9b56c77f1e9dfa sha1 1bccce5cedeec58ced2c6e1309843732f2cdd540 )
+	rom ( name microcalcsync.jad size 475 crc eb4527e1 md5 6cf3038612902fc82c7e0983553577ec sha1 8dca4937ea688fb9a2de62abd49379a7fb2acb03 )
+	rom ( name microcalcsync.jar size 41761 crc 29ecb77c md5 625599d054303a70a4ae33e3364604dc sha1 1544a81c9adcfe1dd585132bbaf24356c6ef3c4f )
+)
+
+game (
+	name "MicroCalc (v 0.8.0) [Wap Industrial]"
+	description "MicroCalc (v 0.8.0) [Wap Industrial]"
+	year ""
+	manufacturer ""
+	rom ( name microcalc.jad size 402 crc 837e4c62 md5 463352d80ea87a5e253cd3174c78e596 sha1 203424d64256ed9483a9ec451980d78cc627c795 )
+	rom ( name microcalc.jar size 32007 crc d3ff16e1 md5 23518769696a0e6c368bf3bfe6797136 sha1 4be1a39e9187b007e80c6b82c95daddfb597fdfc )
+	rom ( name microcalc_manual.pdf size 122580 crc 54cc03d6 md5 80cf5467fe1f25ce7b9b56c77f1e9dfa sha1 1bccce5cedeec58ced2c6e1309843732f2cdd540 )
+	rom ( name microcalcsync.jad size 475 crc 777de0cc md5 5a337695ec9365bbfd8d0ffe0583b621 sha1 86aae5937582c76d23519c710a4c99261b739f37 )
+	rom ( name microcalcsync.jar size 41780 crc 1b9a5ec3 md5 a9ae5ad100a9e7c6f9ceebc966c7cdf7 sha1 42e10aab72c32e0102470c36c94bebb201f5b4de )
+)
+
+game (
+	name "Mini Calculator (v 0.99) [RPNSoft] 7210"
+	description "Mini Calculator (v 0.99) [RPNSoft] 7210"
+	year ""
+	manufacturer ""
+	rom ( name RPNCalc.jad size 331 crc cead0469 md5 8b6199c056b04a4741b2f407d97a7b5d sha1 ce45c5ef91376cdd2f3f2c407786ff8a811b3508 )
+	rom ( name RPNCalc.jar size 9442 crc 276dedcb md5 e2e2e6baf81422e29c8e53a34adcd515 sha1 509fe8ce210afe9d036838cd261f4bc9cfcc167e )
+)
+
+game (
+	name "muTelnet (v 2.0.1) [Maxence Bernard]"
+	description "muTelnet (v 2.0.1) [Maxence Bernard]"
+	year ""
+	manufacturer ""
+	rom ( name mutelnet.jad size 321 crc c8270555 md5 81018c57faf93a4bc960f3bc45437741 sha1 45125a33ee5156a7a45c1056941ff573b5a37d86 )
+	rom ( name mutelnet.jar size 10003 crc e3b3e681 md5 3ed4dd104f7911fe9ddcd13f96607ab5 sha1 790b60f095e8623fd80b0d54ac21f6527c997a63 )
+)
+
+game (
+	name "My Car (v 1.0.0) [Mobizex]"
+	description "My Car (v 1.0.0) [Mobizex]"
+	year ""
+	manufacturer ""
+	rom ( name MCa6310s.jad size 286 crc bf8814c7 md5 cece733ffec469ab5eace53c6d931177 sha1 3e106aef5edecde70907bb9965a6e2cca7ba5e31 )
+	rom ( name MCa6310s.jar size 23271 crc acad6598 md5 44b5d10cd1b1153cdf765bf46b56f36e sha1 32e3b4f73942638180249e762c4f2d0cb0264180 )
+)
+
+game (
+	name "My Girls (v 0.9) [Joachim Schaefer] 7210"
+	description "My Girls (v 0.9) [Joachim Schaefer] 7210"
+	year ""
+	manufacturer ""
+	rom ( name MyGirls.jad size 228 crc 8fd4e274 md5 ae893a6ade30c6f4d94836054c9a5458 sha1 cec7d4438b6217330535a750c56bc586610663e9 )
+	rom ( name MyGirls.jar size 10303 crc 0c1cd96c md5 895bb61d1332989dadaa0c14cae41b4c sha1 e33cfbdfadd1e5c9ca91679e78de19ca97a0f1e1 )
+)
+
+game (
+	name "My Midlet Suite (v 1.0) [My Vendor]"
+	description "My Midlet Suite (v 1.0) [My Vendor]"
+	year ""
+	manufacturer ""
+	rom ( name uMessanger2.jad size 296 crc 8fd7ca34 md5 ed19ea8d6b28be1608b60bba50cd661b sha1 e1148b7848e2a3c2be8e9990f0cd8c11c9930fae )
+	rom ( name uMessanger2.jar size 48787 crc 6ce756a4 md5 835fb5b582ffb46fa7425204c7d7e356 sha1 16caf9c959b2a809f45586208a324e9409d36977 )
+)
+
+game (
+	name "Nokia Tester (v 1.0) [Spruce Technologies]"
+	description "Nokia Tester (v 1.0) [Spruce Technologies]"
+	year ""
+	manufacturer ""
+	rom ( name NokiaTester.jad size 305 crc b0e18551 md5 7f962e601a6e431c3bbd24a7b8de4d67 sha1 f07cbb8dcd61ccdebf2de0d70538be0ad22e9196 )
+	rom ( name NokiaTester.jar size 4228 crc 3c9c2b76 md5 bc34102db7896581fe485c45333d1b5a sha1 ba599cc8971b6e74ef5bf13200586e56896d77c9 )
+)
+
+game (
+	name "Nokia Tester (v 1.3) [Spruce Technologies]"
+	description "Nokia Tester (v 1.3) [Spruce Technologies]"
+	year ""
+	manufacturer ""
+	rom ( name NokiaTester.jad size 250 crc 63e3e7e4 md5 3fe122ea6800c005f1e013ef0cf4dd59 sha1 4811a13b37b3ae6bdf17dd46adf0737d10df288d )
+	rom ( name NokiaTester.jar size 5082 crc d5c284f9 md5 5c76c15a2c8cff8dfc89c2a623423045 sha1 048c855bcf31f4ee5cfac9b5e80942e931ca6817 )
+)
+
+game (
+	name "Notepad (v 4.0) [Motorola]"
+	description "Notepad (v 4.0) [Motorola]"
+	year ""
+	manufacturer ""
+	rom ( name notepad.jad size 171 crc d4e916f3 md5 413e2d7e807e128ec8b32b63c278ed6b sha1 5a76001c2168f9e7f23e83739a5167c06b5caba8 )
+	rom ( name notepad.jar size 29149 crc 8b51c186 md5 ab52e1fb30a99bce1e00fdc8518d6c7f sha1 4fbadf1d4cc943b6e0d07539506ea3074d12213f )
+)
+
+game (
+	name "Periodic Table (v 0.9.6) [Jacek Bansiak]"
+	description "Periodic Table (v 0.9.6) [Jacek Bansiak]"
+	year ""
+	manufacturer ""
+	rom ( name PeriodicTable.jad size 403 crc 4f334696 md5 20d271d08a77280099b8213a9a320529 sha1 033bf681c6ee9bfd19dae7ca1d66dfe6d754298c )
+	rom ( name PeriodicTable.jar size 17827 crc 4beadb5a md5 736d90bf804954d7f5421a2299df1954 sha1 c3f7f4fe8d365367188d6ec2a9e4632358d6bf66 )
+)
+
+game (
+	name "Periodic Table (v 1.0.0) [Markus Goldkamp]"
+	description "Periodic Table (v 1.0.0) [Markus Goldkamp]"
+	year ""
+	manufacturer ""
+	rom ( name periodicTable.jad size 247 crc 5c5277ee md5 fb7e5b61fb8694fe623f7179e0b4239d sha1 1704aa8e0585f98c9957847fe5ddd27f426d98b8 )
+	rom ( name periodicTable.jar size 18847 crc 802f2470 md5 c157ab052cddb8d396fc3980be7597f1 sha1 b5a20c045a6fc985bf7b0e6c670464a778d7b455 )
+)
+
+game (
+	name "Pocket (v 1.0.1) [Jon Eaves]"
+	description "Pocket (v 1.0.1) [Jon Eaves]"
+	year ""
+	manufacturer ""
+	rom ( name pocket.jad size 226 crc c39c2b8f md5 e0377edf0b9d1dc76f00e26372d41511 sha1 8f029cb6e0af2c28d55c85fb8478727c24a59760 )
+	rom ( name pocket.jar size 54305 crc 83a61574 md5 d6291fa84063738d5b6afd6703bd397d sha1 4cb8bd2fdb594d54a7f292ea1ca5716bfd3e5cbc )
+)
+
+game (
+	name "Post It (v 1.0.0) [Lorenzo Salvadori]"
+	description "Post It (v 1.0.0) [Lorenzo Salvadori]"
+	year ""
+	manufacturer ""
+	rom ( name PostIt.jad size 351 crc 1f98c4fd md5 77edc13bd4c6d17fafe1b81337424a78 sha1 dfe00dfbc55d4589a4bed3ad92418c0c28ceee2c )
+	rom ( name PostIt.jar size 11656 crc 4acc318e md5 d87daf49bfb30f728a0c436e264c47ea sha1 9c24d70f580b5d340ac244c47d1095fa56f0ae19 )
+)
+
+game (
+	name "Punch (v 1.0) [dallaway]"
+	description "Punch (v 1.0) [dallaway]"
+	year ""
+	manufacturer ""
+	rom ( name punch.jad size 416 crc 6c613098 md5 0378d5543fe513ee76e130e8c05fe0ce sha1 f1471a95ba83115133684c309bc565fd96936727 )
+	rom ( name punch.jar size 10274 crc 0cbf6269 md5 e7e760e9c248538ff0b4f8a356afdf22 sha1 d17b8e21e4441e8c2c89c6acc2e2ec3c275b5513 )
+)
+
+game (
+	name "QSM (v 1.0.0) [Softex]"
+	description "QSM (v 1.0.0) [Softex]"
+	year ""
+	manufacturer ""
+	rom ( name QSM.jad size 344 crc 908c0ecb md5 ba301987c3436ba2b0ff70263929ae55 sha1 d74726f7b13727304d16eb6e0df3689cfd3d197b )
+	rom ( name QSM.jar size 41985 crc dc4ce67d md5 f0635dd63e20e95469c9f4a826b83ef3 sha1 042ec23b3eae32573b39f354ccc521ebdaa76773 )
+)
+
+game (
+	name "Safe (v 1.0) [Thomas King]"
+	description "Safe (v 1.0) [Thomas King]"
+	year ""
+	manufacturer ""
+	rom ( name safe.jad size 206 crc 1e845b88 md5 94fa83aeb3a845174fb8bceb52ccb221 sha1 845b749a6b37da531b4fae3adba4c0417cb58ead )
+	rom ( name safe.jar size 23403 crc e81c5d9a md5 1231e804e5b7120720873b6b37fb24e1 sha1 99798ad554d834ab2c9f7891121f3b7d39278eaf )
+)
+
+game (
+	name "Send Fax (v 1.0) [Surerange]"
+	description "Send Fax (v 1.0) [Surerange]"
+	year ""
+	manufacturer ""
+	rom ( name SendFax.jad size 220 crc d35e7a18 md5 0c2b392f157100a0e05d7efca47e592c sha1 414591b1b2b19806cf1150242922f4af02835742 )
+	rom ( name SendFax.jar size 6161 crc e0c6279d md5 b114c6ff4d1749093bd9eabf5acfffbb sha1 63c4950ec7cdef2b7264266fac2b5715ba4491d3 )
+)
+
+game (
+	name "Sirius Email (v 2.1) [nubix software]"
+	description "Sirius Email (v 2.1) [nubix software]"
+	year ""
+	manufacturer ""
+	rom ( name "sirius manual.pdf" size 635898 crc b309417b md5 107150b7da4d92929d31d89284c70534 sha1 60db88111cbf1f13f8d22f388f74f8f354a06c2d )
+	rom ( name sirius.jad size 482 crc 806e1444 md5 b58f4b7252b6ba9685751d9b9ccb1971 sha1 10b7bcb270b110cf42e71524054fde4776184068 )
+	rom ( name sirius.jar size 27802 crc 8807cf1c md5 0924f714517e0dd49e70894ab5a15d92 sha1 ca4b759f5befd5446d6c3f31d96bf306f2a8f088 )
+)
+
+game (
+	name "Solun-u (v 1.0.1) [PieCafe]"
+	description "Solun-u (v 1.0.1) [PieCafe]"
+	year ""
+	manufacturer ""
+	rom ( name "uSolun readme.txt" size 3515 crc 8f8da1f4 md5 5b70139750382e90116d6ad40ef65d03 sha1 f2745c79acecb192953753c559b692577622f7c9 )
+	rom ( name uSolun.jad size 214 crc da05050c md5 a550ce5c09c8f7a76c040dd629f10dc8 sha1 421c6824518f89d17b61fa0d3c03dc985fe72269 )
+	rom ( name uSolun.jar size 49215 crc 4aca369f md5 b55a9367d33bb53ba3c22dc02c938301 sha1 a3850c3933eacc827aaa68bba98116341dace30a )
+)
+
+game (
+	name "Spell (v 1.0) [Surerange] 7210"
+	description "Spell (v 1.0) [Surerange] 7210"
+	year ""
+	manufacturer ""
+	rom ( name Spell.jad size 214 crc 5fbf3cf0 md5 fdf6ed760821b22f0091ddca1b543223 sha1 a10eb25fe25bfc7bc2ac62a01b984bca0612777f )
+	rom ( name Spell.jar size 5313 crc 1dcebe33 md5 5c8ae60f1f322851961c8725f4625661 sha1 fa5b25ecc5daf16f73624d01636b4636dc8f5fe6 )
+)
+
+game (
+	name "Spruce Biorhythm (v 1.0.3) [Spruce Technologies] 7210"
+	description "Spruce Biorhythm (v 1.0.3) [Spruce Technologies] 7210"
+	year ""
+	manufacturer ""
+	rom ( name SpruceBiorhythm.jad size 317 crc d25da480 md5 1d70ece8a521db664e3381d805fc6957 sha1 4cd67b01c051a94c050748a5eac6566e6e1a3896 )
+	rom ( name SpruceBiorhythm.jar size 7731 crc ddc019ce md5 018b6c12a271fa204df11e2a7b09d832 sha1 f1d4ce2e6e0412ae8595bbf091a64485ae486d76 )
+)
+
+game (
+	name "Spruce HTTP Getter (v 1.0) [Spruce Technologies]"
+	description "Spruce HTTP Getter (v 1.0) [Spruce Technologies]"
+	year ""
+	manufacturer ""
+	rom ( name spHTTPgetter.jad size 308 crc 19d63640 md5 803417f20857ff6e21144abfd8983fe5 sha1 b68b0fcaed9aefd6c0276943e7be876fb7c852b7 )
+	rom ( name spHTTPgetter.jar size 8051 crc 60ede406 md5 8424450ab62dd77b308b3099fb26478e sha1 e6f534204c74df85862c90d851e7509bc6381136 )
+)
+
+game (
+	name "Spruce Notes (v 1.1) [Spruce Technologies]"
+	description "Spruce Notes (v 1.1) [Spruce Technologies]"
+	year ""
+	manufacturer ""
+	rom ( name SpruceNotes.jad size 188 crc e78e3c4e md5 f5bc9faad53cc165715182b9620d522d sha1 af52c44fcfb009c5fb9220ff88d8b261337f5220 )
+	rom ( name SpruceNotes.jar size 9140 crc d36183d2 md5 5963860615e94538c60a44f92fce2caf sha1 b156be36d1e8a8b7a8c5f7067db7a15c90a68dea )
+)
+
+game (
+	name "SugarPoint (v 1.0) [Iternum GmbH]"
+	description "SugarPoint (v 1.0) [Iternum GmbH]"
+	year ""
+	manufacturer ""
+	rom ( name midpsugar.jad size 2056 crc 6d73e4f5 md5 12ba0b8a35972b438e924972c8000b0b sha1 59626416b94bac3b536173404592c7078efb0972 )
+	rom ( name midpsugar.jar size 61419 crc 6bc9c502 md5 3f0605b159c737ba03d4980e0f3a34d4 sha1 ac2dfd09dededa8ce91aa1d10afec98935effc89 )
+)
+
+game (
+	name "Thesaurus (v 1.0) [Surerange] 7210"
+	description "Thesaurus (v 1.0) [Surerange] 7210"
+	year ""
+	manufacturer ""
+	rom ( name Thesaurus.jad size 300 crc 3ce6caf0 md5 3f968d44855a799effae77c77819b7ca sha1 aaf30e80d22ec7852ddcb16f2fc6e73b0a55b6bf )
+	rom ( name Thesaurus.jar size 5316 crc 4dc6b2ec md5 dc22e8ec23e45aba94ab29d45a3e8ba6 sha1 5d93e0f14b0c4274ebea62cb3fc03ef505b15419 )
+)
+
+game (
+	name "ToDoList (v 1.0) [Michael Morrison]"
+	description "ToDoList (v 1.0) [Michael Morrison]"
+	year ""
+	manufacturer ""
+	rom ( name ToDoList.jad size 247 crc 11eaaeaa md5 19f41e8e866f2baa7e5fa7999fcc5583 sha1 62024e9a31a6afd0acb3496760db27feff586e24 )
+	rom ( name ToDoList.jar size 5193 crc 2a77f3dd md5 eac12887697d801678b2445f7efdb774 sha1 65e193d90e99a302ebaf0687b0d02f908074fe2f )
+)
+
+game (
+	name "Translator (v 0.0.1) [Bradley Meehan] 7210"
+	description "Translator (v 0.0.1) [Bradley Meehan] 7210"
+	year ""
+	manufacturer ""
+	rom ( name Translator.jad size 354 crc b56a8dd2 md5 83d96504b01453d725f679cd5d0cfe2a sha1 8a7189c225334cfe294ede40d4705a1adb9afbab )
+	rom ( name Translator.jar size 43664 crc bfa78a40 md5 c0098d4a061e4959b0845ca2ff504c31 sha1 02d5747a148c33fe597ed7eae2e05afb30a5114b )
+)
+
+game (
+	name "Translator (v 1.0) [Surerange] 7210"
+	description "Translator (v 1.0) [Surerange] 7210"
+	year ""
+	manufacturer ""
+	rom ( name Translator.jad size 318 crc 0b798b49 md5 029b18016333c328646e8d058f84044d sha1 05646c500714a1d46a7f7499a6d39b4c143d867d )
+	rom ( name Translator.jar size 7403 crc bf02d20d md5 b8c7181cf54086634630ce9b0cb1d169 sha1 c19280186b831cb7b30c688da96a035f1d74b7fe )
+)
+
+game (
+	name "UE Mail 17 (v 1.1.7) [Intesys]"
+	description "UE Mail 17 (v 1.1.7) [Intesys]"
+	year ""
+	manufacturer ""
+	rom ( name UEMail17.jad size 298 crc 21023b33 md5 eb8c4efc39c256f89d4b22cb6488f7b3 sha1 e53689d5c57dfa73e0a42fe1bf2cd7dc47ec63a7 )
+	rom ( name UEMail17.jar size 163545 crc 428b3c36 md5 20ff496e9e1e40e808fe9ff65245caec sha1 93cb8a2468b8b09b0b8d924d8f4962c81c172696 )
+)
+
+game (
+	name "Virca (v 0.7) [VidarHolen]"
+	description "Virca (v 0.7) [VidarHolen]"
+	year ""
+	manufacturer ""
+	rom ( name Virca.jad size 229 crc 9481109e md5 f593055566f6cdb8adede7334252dea3 sha1 b960cddb3384f85cdff99b6739c7d28503e245ee )
+	rom ( name Virca.jar size 15315 crc 1b1787a6 md5 f8c430f8527f64492b61dee02be354eb sha1 4652f019366cacbc41d70848b02979912379174f )
+)
+

@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Uzebox</name>
+		<description>Uzebox</description>
+		<category>Standard DatFile</category>
+		<version>2025-01-24</version>
+		<date>2025-01-24</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>https://uzebox.org/wiki/</url>
+		<comment>Complete remake of libretro DAT</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="2048">
+		<description>2048</description>
+		<rom name="2048.hex" size="95156" crc="07843da1" md5="7a6df7233952cf4e00bcc1b3f68aa244" sha1="1c009889eb3e4e3d26f6cbbd654900d0a06e3232"/>
+		<rom name="2048.uze" size="34336" crc="aa284cda" md5="6696dad0719df3341b14e4c371286a4a" sha1="f78f8bd532e021c7c71e0306593d40b98591ee97"/>
+	</machine>
+	<machine name="3D Demo">
+		<description>3D Demo</description>
+		<rom name="3d-demo.uze" size="17834" crc="318f0b89" md5="3f9ffd0a30c2f40991345b5b65fdf9ba" sha1="8902b920593b285c5ff114d44b23fada282ec15b"/>
+	</machine>
+	<machine name="65536-in-1">
+		<description>65536-in-1</description>
+		<rom name="A_65536in1.uze" size="61486" crc="b00fa6e8" md5="b2cf0fc4934c642deaec67a4a17baedc" sha1="e9b2d3394e44220eee60be42131524f2e8776edd"/>
+	</machine>
+	<machine name="Adventures Of Lolo">
+		<description>Adventures Of Lolo</description>
+		<rom name="lolo-wip.uze" size="56038" crc="4b9f7b31" md5="23d48c81ca21659a47651fd5bc6463c3" sha1="f02cb815e80342dfd6b98c1c6dd6909e25ef0477"/>
+		<rom name="Oldlolo.hex" size="180955" crc="c74a0bd0" md5="03af2262bf20fa5dbaf3455eb4a07520" sha1="f06bb8eab3dcbfb4155a7b4aad917e87cf3d8ee0"/>
+	</machine>
+	<machine name="Air Hockey">
+		<description>Air Hockey</description>
+		<rom name="AirHockey.hex" size="74043" crc="c9c554bc" md5="890f8fd54859ce207d5b826ae56cf7bd" sha1="e01769f03a97880b3c4d91e9045018ec341105a5"/>
+	</machine>
+	<machine name="Air Hockey [a]">
+		<description>Air Hockey [a]</description>
+		<rom name="AirHockey.hex" size="72955" crc="56ab7852" md5="5e18aef815518b557bfd88d0bd0685d3" sha1="d07e600bc114685d8d9ecfca9e462fa077531a24"/>
+		<rom name="Airhocky.uze" size="26440" crc="325da98c" md5="e7a75e702f6a99e35228242723218e40" sha1="3919828f468b5ef2a1e69b0cac4dddf6c406928a"/>
+	</machine>
+	<machine name="Algorithmic Music Demo">
+		<description>Algorithmic Music Demo</description>
+		<rom name="ALGMUSIC.UZE" size="9126" crc="3612a260" md5="6f345716fb73c6d0db2cad8442ff1777" sha1="0b42cf7df6a8cbaba6ea6f0e4367294064bf98d1"/>
+	</machine>
+	<machine name="Alter Ego">
+		<description>Alter Ego</description>
+		<rom name="ae.uze" size="61496" crc="a3099833" md5="234bc85bddf914b28f662323540afd89" sha1="31cb1d188be883e03cc138e586b3fdf0f464c91a"/>
+		<rom name="aedat.bin" size="75424" crc="4105d22e" md5="f37738f8c643a693b6fd73491eb496a5" sha1="7a2e9f02bad087f5d93d78a2b86114b40196378f"/>
+	</machine>
+	<machine name="Arkanoid">
+		<description>Arkanoid</description>
+		<rom name="arkanoid.uze" size="61532" crc="7337a284" md5="8b5dd4a4a4968e22f8bbb4bb4c13bfd4" sha1="5be8dfc68054d2d68ac5973fccf2e26870c9883a"/>
+	</machine>
+	<machine name="Arkanoid [a]">
+		<description>Arkanoid [a]</description>
+		<rom name="Arkanoid.hex" size="168412" crc="680b26f8" md5="b9bd5e2c5be22a1ac815e51179a3d2bd" sha1="22facd755e122248f38a3a099ddd59143424a51e"/>
+		<rom name="Arkanoid.uze" size="56930" crc="97ccc896" md5="011a0f5880c4c2baf6c5bfbac6b28129" sha1="1be68a8c99a54e48066e4d3518ad9a7c9b30d806"/>
+	</machine>
+	<machine name="Arkanoid2">
+		<description>Arkanoid2</description>
+		<rom name="Arkanoid2.hex" size="168412" crc="680b26f8" md5="b9bd5e2c5be22a1ac815e51179a3d2bd" sha1="22facd755e122248f38a3a099ddd59143424a51e"/>
+		<rom name="Arkanoid2.uze" size="60382" crc="cd5ee2e2" md5="13d40cd2418bf6deba705d17c19d0ce3" sha1="8c9557ac37640d8d06d4ac6296cfc68205329f86"/>
+	</machine>
+	<machine name="Asteroids">
+		<description>Asteroids</description>
+		<rom name="asteroids.1.uze" size="27282" crc="5ec4346c" md5="c5fc4517fea1183e3b22c364800a9fef" sha1="9549aef1611ac8cd446ac85e1cd859d9d6291cac"/>
+		<rom name="asteroids.uze" size="27282" crc="2b6a1fea" md5="0ebb53fa2dca861d89134c2953b36844" sha1="55f90fdbaae873b70b4f0f76b937e72eb1aa127a"/>
+	</machine>
+	<machine name="Astrostack">
+		<description>Astrostack</description>
+		<rom name="Astrostack.uze" size="44014" crc="9ef71f0c" md5="c9e36000b25509e491d25efcc3ea83b8" sha1="28a40a0baf6b5a7ac7705552230f8dcf309b08ea"/>
+	</machine>
+	<machine name="Atomix">
+		<description>Atomix</description>
+		<rom name="atomix.uze" size="51796" crc="188f9166" md5="6647d3e2b796c6daac112ea94c74edc0" sha1="f0f1bd1c68758a9d308d00497a43354236694f8e"/>
+	</machine>
+	<machine name="Atomix [a]">
+		<description>Atomix [a]</description>
+		<rom name="Atomix.hex" size="162137" crc="d49c9f37" md5="571c49f50c8a8ed0de6a0feaf5e24c0e" sha1="1e104b891da6bf532997f7f80da3464f1ee66bf6"/>
+		<rom name="Atomix.uze" size="58148" crc="d2ba9751" md5="0361bd8008d583670210627eda1fe482" sha1="0c05c7c9d2f1355d70d6ff95b84addbb336f992b"/>
+	</machine>
+	<machine name="B. C. Dash">
+		<description>B. C. Dash</description>
+		<rom name="bc-dash.uze" size="60918" crc="699f925f" md5="a5168f771b38d1e3a379076e7b7a04c0" sha1="08ac36e36dcd1f93f5fbf5048ab635b840a45fb8"/>
+		<rom name="Bcdash.hex" size="169913" crc="7e291097" md5="d9d848460365eff2d156e522068f049b" sha1="83351d0995fffeaa4c77036b3a2f4a3142635376"/>
+	</machine>
+	<machine name="Babylon Tower">
+		<description>Babylon Tower</description>
+		<rom name="BABTOWER.hex" size="89216" crc="91bbeac0" md5="0e68243de5b292e1cf38627a89288536" sha1="27b868a1f98094e6e945f9c0a833715dc6ec47c2"/>
+		<rom name="BABTOWER.UZE" size="32224" crc="ae9b4c69" md5="169256735e017c1fb8632168c4450b07" sha1="665deffac28933f77d7b4e7c057fef0fd9e6b065"/>
+	</machine>
+	<machine name="Back To Nature">
+		<description>Back To Nature</description>
+		<rom name="BackToNature.uze" size="37042" crc="7827c0be" md5="7abf1bcbfbd8d45f78dc451f8d0942db" sha1="4760e239cd9006c0cd3a74b59856c33391363f6c"/>
+	</machine>
+	<machine name="Bitmap Demo">
+		<description>Bitmap Demo</description>
+		<rom name="bitmap-demo.uze" size="12430" crc="3d974195" md5="09c78043dbeb7004f510cae92b52d5c0" sha1="8678b55d78fa123d868be838c02e3b87f71c3379"/>
+		<rom name="BitmapDemo.hex" size="37372" crc="33d2c15f" md5="1f4ab5dd1417922d97ee7a442fee4fe0" sha1="e52a3f0955ef998c57c6de282fff230386f818d7"/>
+	</machine>
+	<machine name="Bitmap Demo [a]">
+		<description>Bitmap Demo [a]</description>
+		<rom name="BitmapDemo.uze" size="13790" crc="f74b3b86" md5="ef34271758aebc3c2cef09effa20b703" sha1="d56a6a81db1f2f0be1e02550be971d16e50eb52f"/>
+	</machine>
+	<machine name="Block Boy">
+		<description>Block Boy</description>
+		<rom name="BLOCKBOY.UZE" size="57850" crc="bd149832" md5="b9007a301f54c39191d574958d973801" sha1="b85bc95c39d9b5aa643ba9e58d05163e9d07b444"/>
+	</machine>
+	<machine name="Bomber">
+		<description>Bomber</description>
+		<rom name="bomber.hex" size="68381" crc="c1b6fc84" md5="67023d07fe3bcce64dd606bb779ef87a" sha1="4b473fdc777f81676e53013cc626e9aa2c1a3b86"/>
+		<rom name="bomber.uze" size="24816" crc="349841f8" md5="181b1d7e3a4f349bc708c0ba27aa3ab6" sha1="3444c3ab6a25a044aec967b9440f337f866e2af2"/>
+	</machine>
+	<machine name="Bomberman II">
+		<description>Bomberman II</description>
+		<rom name="Bomberman2-wip.hex" size="110767" crc="effeb0a2" md5="76402d1e6a09a313ea7aec3f85bf7438" sha1="779cf12c9bff45ade573bd812350b72d6a46a612"/>
+		<rom name="Bomberman2-wip.uze" size="39886" crc="95a64cbc" md5="bc5db79ab05d67c550ef8b491a7ef8aa" sha1="d64b59c3e73029a084bd6cb130411e07cb491c72"/>
+	</machine>
+	<machine name="Boulderdash">
+		<description>Boulderdash</description>
+		<rom name="Boulderdash.hex" size="167712" crc="68a9899d" md5="1e8b486dd3ddd3808cadfab34fb1f10f" sha1="416e6b082be2fa5257c97ddda685cce9868fd41b"/>
+		<rom name="boulderdash.uze" size="60136" crc="9c7538e5" md5="efad4c80dcbcbc49ef6e5f6cd1828eb4" sha1="bf20501ab532b09c9bcfe12347740865d5f8659c"/>
+	</machine>
+	<machine name="Broken Screen Demo">
+		<description>Broken Screen Demo</description>
+		<rom name="brokenscreen.hex" size="108864" crc="3ac7b821" md5="9e805b8980e498190aebd1088c37999a" sha1="706f1799fa4763d37cc6221acf2080c9230a5547"/>
+		<rom name="brokenscreen.uze" size="39214" crc="400a636a" md5="204f24d8695eab9be06b12decbf54b92" sha1="a1750f2aa48be10aea59d78fbdac8864dc8acb6e"/>
+	</machine>
+	<machine name="Buddha">
+		<description>Buddha</description>
+		<rom name="BUDDHA.hex" size="158299" crc="12d2643e" md5="e726ac6c69e761d72817b13f88807e1a" sha1="53da1bc34ae55d64f9d1f3dd899fb6ea345a781b"/>
+		<rom name="buddha.uze" size="56788" crc="b95a4721" md5="a565c78a031652adabf652c2da4706cc" sha1="5717968da0095a36305f062d486a1b3621780f7f"/>
+	</machine>
+	<machine name="Bugz">
+		<description>Bugz</description>
+		<rom name="bugz.hex" size="161977" crc="9e82b801" md5="3c390e66724d01d27a6338ffa9f3b78b" sha1="8b9d2fdefffc41bb13c9ff742f89953afd5309ab"/>
+		<rom name="bugz.uze" size="58094" crc="22c1bbe4" md5="b62117e7c6448e266ce9f7f8d46def5a" sha1="d8789a9b671340c57713cf434a4b92d8e0865862"/>
+	</machine>
+	<machine name="Calculator Demo">
+		<description>Calculator Demo</description>
+		<rom name="Calc.uze" size="27568" crc="82d3ec40" md5="0b4991dc5c73ec25bb291f17267584e1" sha1="a58b12921efabf403d13eca9e6c41dc9ca30015a"/>
+		<rom name="Calculator.hex" size="76121" crc="6c12b50c" md5="3ecf3060c76e449aa7bde6d4fdd64156" sha1="d9e7aebacea9788e1562ce3338badfbb8b00b7bd"/>
+	</machine>
+	<machine name="Candle Burner">
+		<description>Candle Burner</description>
+		<rom name="candle-burner.hex" size="136257" crc="1cfdb529" md5="8aeddd13c36dc93f72b220667d574610" sha1="645d967439e4cc611cebae2e2f7d0832bb26e56d"/>
+		<rom name="candle-burner.uze" size="48956" crc="8fdb8ca1" md5="8c1657a7bdbb0589f8f9fddfb7950e2d" sha1="a0e1b9ef327b17941d29731a858279de4fef8cb5"/>
+	</machine>
+	<machine name="Castlevania">
+		<description>Castlevania</description>
+		<rom name="castlevania-wip.uze" size="46980" crc="6196f640" md5="1bbbe2489ed30335dc47ee53f7ee4750" sha1="081ab180e9e5a9de3e08cb81daecf8e7ad1caac5"/>
+	</machine>
+	<machine name="Chess for Uzebox">
+		<description>Chess for Uzebox</description>
+		<rom name="chess4uzebox.uze" size="49144" crc="da7c2573" md5="634d63814903990762acf6de7b85afb7" sha1="4657040ea1546b443e8fd04bc069e59dd1ce3e04"/>
+	</machine>
+	<machine name="Chess for Uzebox [a]">
+		<description>Chess for Uzebox [a]</description>
+		<rom name="Chess4uzebox.hex" size="133619" crc="af2bb694" md5="05371f160b9174d142367aead9fc325b" sha1="8c961790aa462dab7cdd60c807cbff221f822fe7"/>
+		<rom name="Chess4uzebox.uze" size="48010" crc="c137fc3c" md5="573592c9c5d96f42f6860db20cf4a645" sha1="869b45c36055af41c41cde3656795030cb199cc9"/>
+	</machine>
+	<machine name="Chickens in Choppers">
+		<description>Chickens in Choppers</description>
+		<rom name="cchopper.hex" size="142228" crc="c0c31798" md5="042821758d0ae02991429874480c713e" sha1="6477293c7651a45720a1d811b262a81bc332a865"/>
+		<rom name="CCHOPPER.LVL" size="13312" crc="bc7b2e49" md5="e91a55506863c9f7584a50c4b0010f4c" sha1="24b67bdfa8c95be83d0b4b480ec151b734cf3e43"/>
+		<rom name="cchopper.uze" size="61952" crc="dbbaa9ea" md5="d781bdc469c322270bb7b6f177435e8a" sha1="e9ae022e3a1daa3f51b80f5373ca03435995f233"/>
+	</machine>
+	<machine name="Chuckie Egg">
+		<description>Chuckie Egg</description>
+		<rom name="chuckie-egg.uze" size="51192" crc="1af4aae5" md5="699b4d5966c4de632b109e8342c080b4" sha1="f5d62f8e2ca9fcb40eaee0260f34a8207c362c83"/>
+		<rom name="ChuckieEgg.hex" size="142570" crc="440dbf28" md5="27478aed6be52b14597bbeac2615e2f2" sha1="8a21cd4a4bd2ab81e43e8f54ca95974a1dae2266"/>
+	</machine>
+	<machine name="Circuit Puzzle">
+		<description>Circuit Puzzle</description>
+		<rom name="Circuit Puzzle.hex" size="168064" crc="3084b7bf" md5="242c4d71bf87736f2d6b57604429255e" sha1="0b01c92ed9050678ab93aced80ecea53d2fcb29b"/>
+		<rom name="Circuit Puzzle.uze" size="60260" crc="64ccda9e" md5="3554678c7668db469c667d3588268146" sha1="afcf69ed5925c93d2c04887b95f476ff1dfe1a72"/>
+	</machine>
+	<machine name="Clay's Uzebox Demo">
+		<description>Clay's Uzebox Demo</description>
+		<rom name="Clay_dmo.uze" size="36868" crc="d69bbea8" md5="41f2d03cd4969c6a59d2e2c4c1d5f9c5" sha1="a2f87d9524a0b1597f6dd910622a79068a55efef"/>
+		<rom name="claydemo.hex" size="102287" crc="b9e58b9d" md5="117b4a241a857ae9fc67e0114e8179eb" sha1="ebd8d1945efc9068e0354cd9e1e6ea55a0b25f32"/>
+	</machine>
+	<machine name="Color Bar Test">
+		<description>Color Bar Test</description>
+		<rom name="Color Bar Test.uze" size="21572" crc="254e79b2" md5="0fb9a435bad4f056db9b6939cd57ec42" sha1="64b0cdeb6fa08990ab763cdacc58c73e3c5bbca2"/>
+	</machine>
+	<machine name="Columns">
+		<description>Columns</description>
+		<rom name="Columns.hex" size="168596" crc="f8cd65a8" md5="c7f81b8d47f63cf017307353e86fb866" sha1="57b321d88498340758832c6b94750ca553253b35"/>
+		<rom name="columns.uze" size="60448" crc="c5f779a1" md5="99666b7c93aca68c5522c2e7b412f98b" sha1="012af991a5b5fa9e71049d084bbae5a8c30dd6b5"/>
+	</machine>
+	<machine name="Controller Tester">
+		<description>Controller Tester</description>
+		<rom name="controller-tester.uze" size="15750" crc="b7e26c94" md5="2e88dbfdcf6ec1d14649f51d244a50eb" sha1="8d8ca674e5d9e975fed92c4a36c6c5c01e469199"/>
+	</machine>
+	<machine name="Controller Tester 2">
+		<description>Controller Tester 2</description>
+		<rom name="CRLTEST2.UZE" size="16628" crc="e6118c54" md5="a0375688e308bbbd3e5ee67689e0cfc6" sha1="4e8992d26a9f842cfd4869eb249e125dc74f22ea"/>
+	</machine>
+	<machine name="Controller Tester [a]">
+		<description>Controller Tester [a]</description>
+		<rom name="ControllerTester.hex" size="43255" crc="6d82769a" md5="084938d8e993cf85aab389f1783d5070" sha1="543989d0b6b41168ab59d96741d990d8a1238e30"/>
+		<rom name="ControllerTester.uze" size="15880" crc="0c4bea23" md5="9f01258e4a16d4bd6ef32611f3433203" sha1="daf422045d48e99c152217fb8f671034d1ec51b6"/>
+	</machine>
+	<machine name="Conway's Game of Life">
+		<description>Conway's Game of Life</description>
+		<rom name="gameoflife.hex" size="71911" crc="94229dfa" md5="d580ac9a1404d091659e0030d75907cb" sha1="76e4ee4c5b16ae1b30a4bbc025e638adf2a158ee"/>
+		<rom name="gameoflife.uze" size="26074" crc="fbf7fef7" md5="68d2d1eec76343e1e56cb5c8b75e992a" sha1="8270555d15ba8cd4f63c01e171af0196e4d8463d"/>
+	</machine>
+	<machine name="Corrida Nebososa">
+		<description>Corrida Nebososa</description>
+		<rom name="corrida-nebososa.uze" size="59280" crc="15b66921" md5="426eab8a833454561beacea899a741b9" sha1="6a4cc3f264695fa471dfc6817126cdcd08629e1c"/>
+	</machine>
+	<machine name="Corrida Nebososa 2">
+		<description>Corrida Nebososa 2</description>
+		<rom name="Cn2.hex" size="164129" crc="b1bf637e" md5="b114da8bd3026bda9f0f251435d3c912" sha1="daefededf2154dee130687b2b214fa2308e4357b"/>
+		<rom name="Cn2.uze" size="58948" crc="9dcb15bc" md5="47c002023275d20ab127df295b91c5bd" sha1="65cc3679fbe99d28f768aee1df78adf491905772"/>
+	</machine>
+	<machine name="Daleks">
+		<description>Daleks</description>
+		<rom name="daleks.hex" size="114089" crc="5a4df5f7" md5="48a0551f827ae006abd55c5c9fd1c2fc" sha1="3c2fa51b1ad06207de6de1b91a7056201c345f4f"/>
+	</machine>
+	<machine name="Das Boot">
+		<description>Das Boot</description>
+		<rom name="DasBoot.hex" size="166391" crc="032933cc" md5="86091ef76e47a2ed3176ceb567347175" sha1="b170d46fcc8f339a0e81dd9c82e384df14ded4b3"/>
+		<rom name="Dasboot.uze" size="59664" crc="25aaf911" md5="ec3e685bfe63a62aee21697277cc640f" sha1="d646da9a50d75569fc691813a77ecb23b1909031"/>
+	</machine>
+	<machine name="Donkey Kong">
+		<description>Donkey Kong</description>
+		<rom name="donkey-kong.hex" size="172372" crc="1eead042" md5="04b959670487224c75c6d1669265d3f1" sha1="6daba4d2cb1a670d3adba647a74a32ddc084ad24"/>
+		<rom name="donkey-kong.uze" size="61786" crc="95640d0b" md5="ce76ea0de5aea02136fa42334c97d173" sha1="68d17036f1ea13330e598b49e57a1e4df926e2c3"/>
+	</machine>
+	<machine name="Dr. Mario">
+		<description>Dr. Mario</description>
+		<rom name="dr-mario.uze" size="57002" crc="a1c42d8e" md5="c2bb91ecf5b60f80137736347f760ec7" sha1="c65d086a3eae7846a57469a704d77c190e75dec9"/>
+	</machine>
+	<machine name="Dr. Mario [a]">
+		<description>Dr. Mario [a]</description>
+		<rom name="DrMario.hex" size="149483" crc="b75d4237" md5="a7917428ad83736a6829490cde52d810" sha1="5a4585e82f19193511e72f436001d70744536673"/>
+		<rom name="DrMario.uze" size="53654" crc="2524aa70" md5="a28ff30f3dc084e58b9a96dd002711d7" sha1="e989eddcbc015caef19fd330ed54bbdca1f7f538"/>
+	</machine>
+	<machine name="Dungeon Slash Demo">
+		<description>Dungeon Slash Demo</description>
+		<rom name="dungeon-slash-demo.uze" size="18026" crc="fda659ad" md5="40f973f9b81ce0bb74cdf22479427d2c" sha1="4966d5216c34449856ab8569261532215005b494"/>
+		<rom name="Dungeon_Slash.hex" size="49276" crc="7085914e" md5="ed36182d0f9a12a934814be2291a30ae" sha1="1bb4d82f1ed517c054ca83caaa974fb8d248ea71"/>
+	</machine>
+	<machine name="Emuze">
+		<description>Emuze</description>
+		<rom name="eeprom.bin" size="2048" crc="d5254ace" md5="cc76c12743eb65b33145e2387c60038f" sha1="34749b0f66b412dc67eacfdec366f490ff7820ca"/>
+		<rom name="eeprom.hex" size="5773" crc="a5de1dc4" md5="190042e5dbcebbf86935e567be591cd5" sha1="db8ead800b1336650511f4c731caf30be62dc961"/>
+		<rom name="emuze.hex" size="83812" crc="7c41ba53" md5="6eadeb9c5b7aa8f223566821d2dd3e1e" sha1="90f9d984f4b1caebf6d0d3cbb321cd9d1e2e232a"/>
+		<rom name="emuze.uze" size="30302" crc="630f3ce0" md5="f0a814d4d798abd17434f37de7e5e9dc" sha1="2280123cf6e195907c0cf1b2c1145df4a511e579"/>
+	</machine>
+	<machine name="Escape From Dungeon 2">
+		<description>Escape From Dungeon 2</description>
+		<rom name="EscapeFromDungeon.uze" size="24754" crc="31bdd1e2" md5="0db715d22f194511d8409500308d3828" sha1="ae96e81b6489542c05ead8eabac4a1cc39ce637e"/>
+	</machine>
+	<machine name="ESD Attack">
+		<description>ESD Attack</description>
+		<rom name="esd-attack.uze" size="56226" crc="8d8c0a92" md5="c1a2768d3bfdd75eade1dc8113939a43" sha1="846483aaa252dbdf79a767008b56f3e390877d61"/>
+		<rom name="ESD_Attack.hex" size="156720" crc="b4cfe6b8" md5="37e8c93083dfd5ab861ba37f7dbe43a1" sha1="179d80d7752aeb631dc2d01a0d930a0073bfec76"/>
+	</machine>
+	<machine name="Fifteen Puzzle">
+		<description>Fifteen Puzzle</description>
+		<rom name="fifteen-puzzles.uze" size="30588" crc="9a71d81a" md5="6d237af17d952e9bf43afab8c2f627d9" sha1="195b12b1a4304d3f10eafe7e96185355192ff998"/>
+	</machine>
+	<machine name="Final Blood">
+		<description>Final Blood</description>
+		<rom name="FinalBlood.hex" size="129082" crc="a3054497" md5="710993df18c6783d1e61ba60cacf906c" sha1="56a4b13eb08876d1ad0182dabb4d78c56af70725"/>
+		<rom name="FinalBlood.uze" size="46398" crc="561c298c" md5="77c8c33ebedab4381ea7914fafdb97f0" sha1="dc96dac4fecdf36b484b0a853d0e58cf0d3fe153"/>
+	</machine>
+	<machine name="Fireman Rescue">
+		<description>Fireman Rescue</description>
+		<rom name="FiremanRescue.hex" size="99959" crc="411ca957" md5="0f8ba7d663f24f1243df47eaf6861bb8" sha1="f6c3b6a6fd5422d45bb1a4050ad6bd7d9be9e2f8"/>
+		<rom name="FiremanRescue.uze" size="30436" crc="69c2b2fe" md5="bc56a4264e5de20a18c83d4363a969b4" sha1="2bcd57fa2aedea3ac26e1daf5a61a5a9380c42fa"/>
+	</machine>
+	<machine name="Flight of a Dragon">
+		<description>Flight of a Dragon</description>
+		<rom name="C_foad.uze" size="61837" crc="6fe58f32" md5="f12fd4f9a525750658b5ef3709880318" sha1="d47305a93fab91d9a02d475efc3f7486ba4b7371"/>
+	</machine>
+	<machine name="Flight of a Dragon (Demo)">
+		<description>Flight of a Dragon (Demo)</description>
+		<rom name="Foaddemo.hex" size="163466" crc="5e2847d1" md5="c7152ea5d96d8d14adb8f9e60ee56041" sha1="2490c2ab08809defa7c5f957e8172996ebe97f3c"/>
+		<rom name="UCC2014_A_foaddemo.uze" size="60580" crc="bd15f7f7" md5="1982f8f00c59e280b5fa0da63efbfd51" sha1="bf21d274d27bd2ddb3eef0f7a81b51fe50445af2"/>
+	</machine>
+	<machine name="Flight of a Dragon (JAMMA)">
+		<description>Flight of a Dragon (JAMMA)</description>
+		<rom name="Foadjam.hex" size="172433" crc="cea1296b" md5="6d845f25d8df49169eaf03100af6be1f" sha1="edea5edee0c80c67db2ed56f5558b9e313195a11"/>
+		<rom name="Foadjam.uze" size="61918" crc="7585464c" md5="cd86914da608e4cb6fba9c7466105c2a" sha1="a1368d283c7c51e4f7782248bd75460f9b90e5c8"/>
+	</machine>
+	<machine name="Flight of a Dragon (RC2)">
+		<description>Flight of a Dragon (RC2)</description>
+		<rom name="Foad.hex" size="172666" crc="2d767806" md5="d47e5895d4b15c1d6797a092b0b8fa15" sha1="3e8a128f0dcdb4618747d2b0fe44d9f4a2e5c9c4"/>
+		<rom name="Foad.uze" size="61898" crc="0adcc085" md5="c9504f9b25d4bb89ae68925e1d27bf0d" sha1="9ac79a0ba4e3f895d00ce2bb97f728bd0a074fb7"/>
+	</machine>
+	<machine name="Football">
+		<description>Football</description>
+		<rom name="Football.hex" size="102929" crc="dcc624b6" md5="a6397272b6cc29352493c2f6d916ded7" sha1="ae3865479da0c0acc0e0a0a93aaa0701b9993110"/>
+		<rom name="Football.uze" size="37098" crc="82975b1c" md5="fc72989c73cb05615a34bf305a4ec1d8" sha1="0a05069fb9a10ca6fb77ab0ae6b5eb4f59a76711"/>
+	</machine>
+	<machine name="Frog Feast">
+		<description>Frog Feast</description>
+		<rom name="FRGFEAST.hex" size="171664" crc="a732426d" md5="a4e316b84dde04ce43665637bfcac640" sha1="7d58a59b14853387e0a77892d71e420579f1e114"/>
+		<rom name="FRGFEAST.UZE" size="61540" crc="3e889000" md5="8680e6d9eb3ec06580fa220eef21ef14" sha1="ea42bd460c7b139abf7e8c411bf92be5d242c6a5"/>
+	</machine>
+	<machine name="Frogger">
+		<description>Frogger</description>
+		<rom name="frogger.uze" size="50988" crc="38cc8788" md5="d5a490a1c9e1cf14cc6807a2367f4bdb" sha1="ed210cddf5560fc7381b567abd38b4e957b2ab62"/>
+	</machine>
+	<machine name="G-Force">
+		<description>G-Force</description>
+		<rom name="g-force.hex" size="69445" crc="574d0b73" md5="52b4f70ffb7215a119c0fff128144014" sha1="916d3ad80cfb0c639e87dad6fb75f21990fe17ec"/>
+		<rom name="g-force.uze" size="25192" crc="21f894e4" md5="aaa44ee1a07305ce3c36432528946b84" sha1="a77c72b26a5812f59e6f1a2ee2ca73c09919be52"/>
+	</machine>
+	<machine name="Ghosty Ghost">
+		<description>Ghosty Ghost</description>
+		<rom name="GGHOST.HEX" size="145810" crc="870c79fd" md5="fb8c5f044c622df6b5b11fa97292cb1d" sha1="069c8a1196e6cc4faef8997d87293af0b69c80d7"/>
+	</machine>
+	<machine name="Ghosty Ghost [a]">
+		<description>Ghosty Ghost [a]</description>
+		<rom name="Gghost.hex" size="132097" crc="ef645560" md5="a4f32600b203fabcad61752ef6330f89" sha1="3a028f06bc9b187cfe2fd01896f36d4ca406d3a9"/>
+		<rom name="Gghost.uze" size="47470" crc="5d6840b1" md5="3d7203fcac915dff266b5d43afd596bf" sha1="be00a460cd2c591fc27ca84db5585652a816f7ee"/>
+	</machine>
+	<machine name="Gorillas">
+		<description>Gorillas</description>
+		<rom name="gorillas.hex" size="155820" crc="3eb57347" md5="e482c3f9bf594e76b68a7501cef6e1bc" sha1="fb6131b333dd5444734d47bbb393652548c1bbb3"/>
+		<rom name="gorillas.uze" size="55906" crc="56c7b9a6" md5="18dba6d29e7f47b466033a724433f1e0" sha1="6f35693532a4043d18e20963ee2089b12e6e8bee"/>
+	</machine>
+	<machine name="Halloween '08 Demo">
+		<description>Halloween '08 Demo</description>
+		<rom name="halloween2008.hex" size="181736" crc="1d7c1065" md5="7398b44ea572194d73e6d782785d30fc" sha1="6875f74aee000e26c58c6b74b166fc8f6634ab31"/>
+	</machine>
+	<machine name="Hammurabi">
+		<description>Hammurabi</description>
+		<rom name="Hammurabi.hex" size="136233" crc="a8dc86db" md5="ab44e9a77df5c574f6da731d08caba31" sha1="b08c4feae09253ddb877851dc8b7d5f35beff9c1"/>
+		<rom name="Hammurabi.uze" size="48940" crc="452caa08" md5="ca79b27f12f38609d0e63d921d907e3a" sha1="13ac8e365e81bd105980088f3cfe7d849737feeb"/>
+	</machine>
+	<machine name="Happy Easter">
+		<description>Happy Easter</description>
+		<rom name="easter.hex" size="140344" crc="c0d7ef9e" md5="0c17c96dfb67ed53c35d960d8a88cb31" sha1="8b211f64146d068eb485b7a616b903ef291d2f3c"/>
+		<rom name="easter.uze" size="50404" crc="9eeb807e" md5="24641bee976d06dd5bc7c354b349338c" sha1="5cacc6b45b2073e18f4fb1a3a8b8141ed309feb8"/>
+	</machine>
+	<machine name="Hattrick">
+		<description>Hattrick</description>
+		<rom name="Hattrick.hex" size="141481" crc="11bc3025" md5="1a286f088a57b04c5107ad38f45ab409" sha1="94db2ff44772401c5f3f68d76f9b966abc8d2657"/>
+		<rom name="Hattrick.uze" size="50810" crc="a0bdb6d6" md5="96ff11f4374e3ad2dfb56edbbb3f9a44" sha1="277daa23364d2acda0ba3ed46f38323b26e0f99e"/>
+	</machine>
+	<machine name="Holey Moley">
+		<description>Holey Moley</description>
+		<rom name="Ellipsis-HoleyMoleyr.hex" size="167397" crc="b8b0caec" md5="fca520f4b2a5809246a574ce08ceb240" sha1="5df03bc76432811069fe847c189a4757b0619f8b"/>
+		<rom name="holeymoley.uze" size="60024" crc="70dc4acf" md5="86b1f07ae58560f9e3e927165064420a" sha1="9ce3d421548ce8f17dfbf879e1c3dfee345b3476"/>
+	</machine>
+	<machine name="Hypergunners">
+		<description>Hypergunners</description>
+		<rom name="Hypergunners.hex" size="74448" crc="ce6b420a" md5="130e4565ce39584ccbd40264091a158a" sha1="1e779db0602a8c3badcdb897e2f95c2ef272a034"/>
+		<rom name="Hypergunners.uze" size="23974" crc="325300c0" md5="3f6b743046ef46c4cd8f0fad629b22c6" sha1="c8070bf89121574632f41aa8bed18f702e505806"/>
+	</machine>
+	<machine name="HyperGunners Classic">
+		<description>HyperGunners Classic</description>
+		<rom name="HyperGunners Classic.uze" size="40160" crc="628a7485" md5="c66f403a4a11ba6ca9e8624a44b83415" sha1="179fdbde39dfaf9766b5195faf1e6a3b4c508156"/>
+	</machine>
+	<machine name="Iros">
+		<description>Iros</description>
+		<rom name="IROS.UZE" size="59800" crc="1be5c6a9" md5="53c346b5c6d43e10803315724c97380b" sha1="c64e42ca2ab8023255a90134a5425f8fdf8a02b2"/>
+	</machine>
+	<machine name="Iros (Godmode)">
+		<description>Iros (Godmode)</description>
+		<rom name="IROSGM.UZE" size="59630" crc="ca3ce6f7" md5="1048dd537871d5f041510ffaba94c465" sha1="486f555ff6ff8907cad4e1c1db725200239640b1"/>
+	</machine>
+	<machine name="Joyrider">
+		<description>Joyrider</description>
+		<rom name="joyrider.uze" size="59310" crc="18820af6" md5="7f353ceb0bb15f87917355cf62a3c909" sha1="602c649b52dc784e1db0df2f023c4820f9dcf63d"/>
+	</machine>
+	<machine name="Kismet">
+		<description>Kismet</description>
+		<rom name="kismet.uze" size="36544" crc="d1a2dd99" md5="18cc44eeb7076f3533e5e1518b83c01c" sha1="8232f4383f6b47c0220ad518eb6282b9feeff499"/>
+	</machine>
+	<machine name="Kismet [a]">
+		<description>Kismet [a]</description>
+		<rom name="Kismet.hex" size="101366" crc="d5e2ba2f" md5="4a1af0a0be6c879cf4f7ecebdb380384" sha1="470152dd3abad6cffef1e06339c25728d4b0445d"/>
+		<rom name="Kismet.uze" size="36544" crc="6072d101" md5="c9747b9b0df4fa60cbd4ef2ecd721afd" sha1="353a51e27310166a0818bfdb8b12b10610b742d7"/>
+	</machine>
+	<machine name="Lander">
+		<description>Lander</description>
+		<rom name="Lander.hex" size="134286" crc="484e8dec" md5="702f7f01eba935a3e2c28fccd9a27f24" sha1="fe8f141768a496da00e8524e88ad3da6163ab996"/>
+		<rom name="lander.uze" size="48246" crc="53d00c16" md5="187bc5fd6d073047cf0f06df8d5465bc" sha1="607ee737870fb13820771532d1b5b0a4c31c6cb3"/>
+	</machine>
+	<machine name="Laser Puzzle">
+		<description>Laser Puzzle</description>
+		<rom name="laser.hex" size="171312" crc="10ab1baa" md5="1de53c45044d8c5059a5f93fff68e0ea" sha1="74e4c8a3ba360c7a8808b7404e949a03da82a613"/>
+		<rom name="laser.uze" size="61416" crc="5a4f63f9" md5="03119f51f7eeb5cd603dfd2393bfd456" sha1="e7901c367858a81ffc66b4ed0719d6fd140fd4d4"/>
+	</machine>
+	<machine name="Laser Puzzle II">
+		<description>Laser Puzzle II</description>
+		<rom name="laser2.hex" size="170048" crc="4e979926" md5="ba117f15079ff41ada1269460cb0973c" sha1="ce5a127bc34304a0ea2eb9643cff249322829f24"/>
+		<rom name="laser2.uze" size="60966" crc="f439fb48" md5="bc5538a7f15fc556dc1c91df1fe42a16" sha1="bac2351b5ea008e5eca6d36bd0d9383408a65161"/>
+	</machine>
+	<machine name="Legend Of Zelda I">
+		<description>Legend Of Zelda I</description>
+		<rom name="ow.bin" size="90368" crc="8794d283" md5="470b115f4ac0571dd5b63d63121838b6" sha1="c8465492d47b87054965d159e14ea1814a18952b"/>
+		<rom name="SDcard_tests.uze" size="43440" crc="82ff5ffb" md5="cea66446f4e12726bf4cf0cb89086ef6" sha1="dd3ef425dbeb12d4f590377f1440c8c9020c2595"/>
+	</machine>
+	<machine name="Link's Awakening (2011 Demo)">
+		<description>Link's Awakening (2011 Demo)</description>
+		<rom name="ZeldaLinksAwakening.uze" size="25472" crc="5e4894b7" md5="5212841b63639a8ba45bee7102cc49de" sha1="4d997b0d3bd0ffa342bc9e4112075837ab23984d"/>
+	</machine>
+	<machine name="Lode Runner">
+		<description>Lode Runner</description>
+		<rom name="LODERUNR.hex" size="172531" crc="1290f131" md5="34a38bb4f65fdb83eed72aa2803b41a0" sha1="dd8b219f116c6417373550767b9e7d4fe819c3d1"/>
+		<rom name="LODERUNR.UZE" size="61850" crc="70d4ad9b" md5="35fb64d5145d939738b30f4806d315ee" sha1="48a41eda6c6d94804c6e55fb92ac43af595c2911"/>
+	</machine>
+	<machine name="Lode Runner V2">
+		<description>Lode Runner V2</description>
+		<rom name="loderunner-v2.uze" size="61850" crc="23adf8bf" md5="45041f95b21c274153d029bff191d09c" sha1="e512facfc8272636c9c3d3a565bc50084a6b2785"/>
+	</machine>
+	<machine name="Maze">
+		<description>Maze</description>
+		<rom name="maze.uze" size="16300" crc="3c3ab5cd" md5="a373ff9cada59f57cafba6bb31a0164f" sha1="9277443c511ced81ccd3c67429da6c294f7f0c54"/>
+	</machine>
+	<machine name="Maze [a]">
+		<description>Maze [a]</description>
+		<rom name="Maze.hex" size="36410" crc="a51d8c7f" md5="d76d877c689363c7be3e67e55241ede2" sha1="fe644ccd519b78cd1b761fb671a86e6b44aac8eb"/>
+		<rom name="Maze.uze" size="13452" crc="caa3812d" md5="c13bc90a91659c7913e79931d15eb2af" sha1="0da73f4150877dc0fc7dfec1b7fff9969a7ca933"/>
+	</machine>
+	<machine name="Mega Bomber">
+		<description>Mega Bomber</description>
+		<rom name="Mega-bomber-wip.hex" size="182239" crc="8bc7521f" md5="9da417ad3bf821544e4d3385abfeebda" sha1="45626ff4cab5fa9a4e139ec1c8e24e405133ac76"/>
+		<rom name="mega-bomber-wip.uze" size="57808" crc="d83f7e85" md5="cee8c9f2505e18f4165180739ea60d7a" sha1="a69f71516c1434c9aae09f833068ed2244936414"/>
+	</machine>
+	<machine name="MegaSokoban">
+		<description>MegaSokoban</description>
+		<rom name="mega-sokoban.uze" size="53348" crc="1ee05045" md5="fd44ff2316a2c20b328896b1d29db155" sha1="4008a83332723b0ee5a114b00f0912b3dc8874b2"/>
+	</machine>
+	<machine name="MegaSokoban [a]">
+		<description>MegaSokoban [a]</description>
+		<rom name="MegaSokoban.hex" size="147728" crc="7230605d" md5="c9625246b134c08347d2c9adba40b7a7" sha1="69fb1f2b509e71e5ecc77736a638c4dc21e35f39"/>
+		<rom name="MegaSokoban.uze" size="53030" crc="980304dc" md5="f2b7be0bf03db4b1c1e0fed810cabd32" sha1="fc3fe75211b4bab81d3b053bc96c4d4b389096fb"/>
+	</machine>
+	<machine name="Megatris">
+		<description>Megatris</description>
+		<rom name="megatris.uze" size="61826" crc="5b99b6bd" md5="f6fef0b53e59041a54dcdfd456a6fdcf" sha1="f9516f993cbc61fe47fed00ee6acbd810c01855f"/>
+	</machine>
+	<machine name="Megatris [a]">
+		<description>Megatris [a]</description>
+		<rom name="Megatris.hex" size="166869" crc="5faab0d0" md5="4d8325129f7eca15f83cd96386876e8b" sha1="09a60e39f6afe09acbb11f17633d33aabcd37cb8"/>
+		<rom name="Megatris.uze" size="59838" crc="063d89a6" md5="e1c5055ad930d1776f21e14fdacc9ebb" sha1="6495cafa284f9a0a269a173dcf7d851c8d593df8"/>
+		<rom name="Megatris_Arcade.hex" size="167528" crc="5d179723" md5="e0b5df610d0482a952cf5187d6717b8a" sha1="6fc42b3f598cb6eea8cb3eb3e5c7ad4cd92f8efa"/>
+	</machine>
+	<machine name="Melli's Retro Land">
+		<description>Melli's Retro Land</description>
+		<rom name="Grobian99-Mellis Retro Land.hex" size="151165" crc="452ee971" md5="2ad7fc8241934aba8eba10bded301731" sha1="6361ac768749e7e3f8ea632906c9d1b9f4fa15d0"/>
+		<rom name="mellis-retro-land.uze" size="54248" crc="ca5e722b" md5="f19b6ac97f30b488a74463cc453f8d4d" sha1="e786cdb85b249993f3f07804d34da9f07bbc2b18"/>
+	</machine>
+	<machine name="Memory">
+		<description>Memory</description>
+		<rom name="memory.hex" size="139109" crc="58cd9fa4" md5="5dd5b5b16063889667f6559368787f7f" sha1="623a660adab156ab9f4a97057e2bcb762aa06f59"/>
+		<rom name="memory.uze" size="49962" crc="e30cc84b" md5="ed1885fd571cfa271e17016221fc8f34" sha1="89bf709ce2fb504f9027a5ef242e17cc1f38e93a"/>
+	</machine>
+	<machine name="Mode 13 Demo">
+		<description>Mode 13 Demo</description>
+		<rom name="Mode13Demo.hex" size="49268" crc="27681e0e" md5="ce83a7d0bce89f268c10a11130a1ec2e" sha1="1de576167cbd815e2bc0bdc29ca9b32c9ffa38e4"/>
+	</machine>
+	<machine name="Mode 45 Demo">
+		<description>Mode 45 Demo</description>
+		<rom name="M45demo.uze" size="20936" crc="b49ea53d" md5="1bb2d41bc5305b22b1170e5755724c97" sha1="24942546c91b97cb344f32b611ac639062fd33b9"/>
+	</machine>
+	<machine name="Mode 9 Demo">
+		<description>Mode 9 Demo</description>
+		<rom name="mode9.hex" size="80457" crc="2bf90338" md5="1080246eb64fbe78b372d7ad153283fa" sha1="0f8b58f7e0ba8914a771d5b796bc3e42275f9065"/>
+	</machine>
+	<machine name="Moon Patrol">
+		<description>Moon Patrol</description>
+		<rom name="moon-patrol-wip.uze" size="45454" crc="ecc85206" md5="af603ac510f02c3f665cc1f6ed9a4bd1" sha1="8e66995136b248816ac0c6e8167c8d0fd55c6f62"/>
+		<rom name="MP_wip4.hex" size="126427" crc="584e1b10" md5="e876623e7e72c3ec4f454d7da23f8deb" sha1="d3fb2633be6004f3e62b23ca49e0dcfaef33bf7d"/>
+	</machine>
+	<machine name="Music Demo">
+		<description>Music Demo</description>
+		<rom name="music-demo.hex" size="117161" crc="1001c641" md5="c8f95e8323032591ad25fb70d1b36ba3" sha1="7af6ef2f5df869a84b0d78ad13425aead9799568"/>
+		<rom name="music-demo.uze" size="42160" crc="ea50fc35" md5="ef4dd8d215f20ae7df15205802cc8cf8" sha1="6a1d42a74862fce9efc70b15373603864d86f65e"/>
+	</machine>
+	<machine name="Music Demo [a]">
+		<description>Music Demo [a]</description>
+		<rom name="Music Demo.uze" size="40120" crc="f4833f9b" md5="4ffef3cced8455c4a65182ca97edbb45" sha1="afe726d34d5f7aa1d31ab7ab051edb9b3a6d07aa"/>
+	</machine>
+	<machine name="Ninja Beatdown">
+		<description>Ninja Beatdown</description>
+		<rom name="ninjabeatdown.hex" size="115676" crc="559ba0bd" md5="eab6915e5e2ed537ec7c8897c2f05f78" sha1="ec93c00e4d2744308f60df90f2ca5c1598fb730c"/>
+	</machine>
+	<machine name="Outpost">
+		<description>Outpost</description>
+		<rom name="Outpost.uze" size="61952" crc="854835c6" md5="68000697c1e930ee26f0f1a7c601fdb1" sha1="5043aae2a31850e8508c8c36d9effe5ece0eeebf"/>
+	</machine>
+	<machine name="Pac-Man">
+		<description>Pac-Man</description>
+		<rom name="pacman.hex" size="176058" crc="bcdc3841" md5="3be2a4e661c2baba65a62bdf8a13e2b8" sha1="4d52c38146364f5731040e86e2f2617d14d426b4"/>
+	</machine>
+	<machine name="Pac-Man Lite">
+		<description>Pac-Man Lite</description>
+		<rom name="pacman-lite.uze" size="57070" crc="714761cf" md5="c8cd8a9834cda41f85128b382b109f4f" sha1="42160de090a2c91825b032c7e13ef218dcbe2205"/>
+	</machine>
+	<machine name="Pengo">
+		<description>Pengo</description>
+		<rom name="pengo.uze" size="60614" crc="782864ce" md5="ff90daea12936ee9f90eeeef2ba60e48" sha1="015f640d9a6ba1c97061cab4803067f043259fe4"/>
+		<rom name="PengoUze.hex" size="169058" crc="5c14af29" md5="5af58217aba46baa79914c099376b986" sha1="116eb21108138f2ed0386cef1357ce6fdcecd07e"/>
+	</machine>
+	<machine name="Pentago">
+		<description>Pentago</description>
+		<rom name="pentago.uze" size="42358" crc="2d785102" md5="81d5506cc0be7806c865ce327118834e" sha1="7b59edd69b9c8803264ec74ffe4491ac09941106"/>
+	</machine>
+	<machine name="Pill Dropper Arcade">
+		<description>Pill Dropper Arcade</description>
+		<rom name="PillDropper.hex" size="170674" crc="3ca837e3" md5="afe0dcaf2a00f488e50a0aa8a56abf8d" sha1="2f064fb0753f2c37efe15104e5202af5d06da45c"/>
+	</machine>
+	<machine name="Pipes">
+		<description>Pipes</description>
+		<rom name="pipes.hex" size="158041" crc="4f14f9dc" md5="692389b8182ae8809fe1d98a4fb3c013" sha1="c042625228880e41dcab8a7c8b24381b2263f071"/>
+		<rom name="pipes.uze" size="56698" crc="4493359f" md5="1cd58b25f4b857a1a53c629dc7c626d9" sha1="188376ccd9add08d3c336769f57d57e7d92bf8be"/>
+	</machine>
+	<machine name="Pong">
+		<description>Pong</description>
+		<rom name="Pong.hex" size="64732" crc="78a345e2" md5="d427866b06a5dec93ec3fd56824d59d1" sha1="8ffa5af543bf7a4fa21e5eb585931df903151c29"/>
+		<rom name="pong.uze" size="20400" crc="e3002a39" md5="88bc1c292b04a594eabc62dd9a074052" sha1="3c2e03ed068cfd3d9410b90184d7de81a38ad30c"/>
+	</machine>
+	<machine name="Race">
+		<description>Race</description>
+		<rom name="race.hex" size="93875" crc="bea73829" md5="36fdaa70a662ba79736a51c82286bec8" sha1="b34aeccaab1dfd1dec2a770357d819eb051692dd"/>
+		<rom name="Race.uze" size="33884" crc="3efbba39" md5="6638e387ce724e8e6961e6d1d0dddbe9" sha1="512a75ed73ec74fadba3cd400e90e6180de0ea56"/>
+	</machine>
+	<machine name="RedBull Demo">
+		<description>RedBull Demo</description>
+		<rom name="REDBULL.HEX" size="184333" crc="87dc0171" md5="e4e070d58e829980a8529dd4a6e726d2" sha1="b8f100a15ac80bf2a1b6d444362e7a57639358db"/>
+		<rom name="Redbull.uze" size="61952" crc="74768f0c" md5="330856c1661b8e1d53bf27962feabbfc" sha1="1c38df2a41e49e8b30c6745338f91d70fe63fbdc"/>
+	</machine>
+	<machine name="Reels of Fortune">
+		<description>Reels of Fortune</description>
+		<rom name="Reels.hex" size="158381" crc="c01d15ea" md5="399d713cb055e1238968aa94c76f40e8" sha1="864a909ce5b823d832c34b6b0ddb5a0cc9cef04d"/>
+		<rom name="Reels.uze" size="56816" crc="25eb092a" md5="d7aa7d8e9e33c7221dabee40cfecaded" sha1="58290a44b0259ff07307502945114db74e0b0846"/>
+	</machine>
+	<machine name="Roguze">
+		<description>Roguze</description>
+		<rom name="A_roguze.uze" size="47858" crc="693709f6" md5="51695d09e935c2ca92ba93a53adc2e5c" sha1="25330eb0258dd6e65b94b387a5c275eef4f9143c"/>
+		<rom name="ROGUZE.HEX" size="133185" crc="ab09a449" md5="c9ff82da772aea4cc9b0d746c03904d1" sha1="a753dbd90290310994c6a90c98bcc18653f1d08a"/>
+	</machine>
+	<machine name="Ruby Crush">
+		<description>Ruby Crush</description>
+		<rom name="ruby-crush.uze" size="62240" crc="70d90751" md5="1460130b37b9c4a9cd9240ab454fe82f" sha1="befecbe6d852bdb57a6c47eb2afb90f1b109264f"/>
+	</machine>
+	<machine name="SharpGunner Gallery">
+		<description>SharpGunner Gallery</description>
+		<rom name="Sharpgunner-gallery.uze" size="40900" crc="f55dae7e" md5="eea51f0218370d3c03e2e4d76c6991fd" sha1="742d6e2becd2e05cdd1166c41c2c471c201ba6d0"/>
+	</machine>
+	<machine name="Simon">
+		<description>Simon</description>
+		<rom name="simon.hex" size="113827" crc="48b6ef89" md5="60042f73e580c736bf2f4c531de23921" sha1="b46b73bd1c850b34dcd89c4012d6ef6a83de8a9b"/>
+		<rom name="simon.uze" size="40974" crc="5d50b15d" md5="964e7e186c8b54bcba068a68928fc391" sha1="8b975121d155b23da38418fe8cf2db7cceebdfad"/>
+	</machine>
+	<machine name="Snake (Bytesquid)">
+		<description>Snake (Bytesquid)</description>
+		<rom name="Snake.hex" size="53318" crc="f2becb81" md5="49ed80a01a73fe569ff2241ed3c03f6c" sha1="2fa57b7cd0004654a58e35af2543255d1a98f8bb"/>
+		<rom name="Snake.uze" size="19462" crc="f7792e84" md5="391be3f5c01fb319773fe88872c19ca3" sha1="0ccf4274a7b37987813690be45bf43badb1ef4f4"/>
+	</machine>
+	<machine name="Snakes">
+		<description>Snakes</description>
+		<rom name="Snakes.hex" size="72296" crc="8e68c214" md5="cc14f055b34d09ef7ac83bf0ba771f10" sha1="f83b355a4debed5c86da942f6a47c97e64789abd"/>
+		<rom name="snakes.uze" size="26208" crc="2d2c21a1" md5="f98c48f7f157dbb683f41cb4303d11b0" sha1="a3c2f1c184295570c3388131b89ac93c31b0735d"/>
+	</machine>
+	<machine name="Sokoban">
+		<description>Sokoban</description>
+		<rom name="sokoban.uze" size="47978" crc="075f03a1" md5="8b66c13e0a4cb712b892f7dc3f2e8636" sha1="d19f57ff3ce7e57720d68773fa91073d20473595"/>
+		<rom name="SokobanBeta.hex" size="133516" crc="93ee2766" md5="f75ad0b4e7dc7d840cb9a486a1f08300" sha1="de9292572703d8265b748604ae46e65a98293677"/>
+	</machine>
+	<machine name="Sokoban World Episode 1">
+		<description>Sokoban World Episode 1</description>
+		<rom name="sokoban-world.uze" size="61890" crc="092a4b27" md5="ac982cd2d7c9dc7a6cf3f0c3118a56ae" sha1="9647e50f703c660b4e442a1d52bcf7e6cd2e8413"/>
+		<rom name="SokoWorld.hex" size="172650" crc="f5782e8f" md5="50685b4381bee07c4aa80ef05068d136" sha1="e9661b6b6f8134bf293c075c9459a4676125607c"/>
+	</machine>
+	<machine name="Sokoban World Episode 2">
+		<description>Sokoban World Episode 2</description>
+		<rom name="SOKOWRL2.HEX" size="172085" crc="b1f94322" md5="ae47a8f524b0380c99f12cca8a7a9ec3" sha1="bea63338fb12bf68a0d4ec472f1478a1284986a9"/>
+	</machine>
+	<machine name="Solitaire">
+		<description>Solitaire</description>
+		<rom name="SOLITAIR.UZE" size="61208" crc="96afc25f" md5="96d62386036c99f054e6e0506b2385c1" sha1="1737eb7f27cfb0b5f1b4c6c00d9b5d2c531dd00a"/>
+	</machine>
+	<machine name="Sonic">
+		<description>Sonic</description>
+		<rom name="sonic.hex" size="100613" crc="0e3cc090" md5="53ed2be47874bffa4e4857ca75a3f95d" sha1="887746cf4ae2b08648a3ef397706e2ba8917aed0"/>
+		<rom name="Sonic.uze" size="36278" crc="6b417650" md5="acdc950e1fd1bdb79878d99506f19636" sha1="4a63a385dd4ec6ddb739f85a576cf9790a467920"/>
+	</machine>
+	<machine name="Space Age">
+		<description>Space Age</description>
+		<rom name="space-age.uze" size="57606" crc="d13436bb" md5="c7aff8b3e124b02b124e320ebedbbbd6" sha1="c374f1ead254583d6cbb2617253e854c0e47b144"/>
+	</machine>
+	<machine name="Space Invaders">
+		<description>Space Invaders</description>
+		<rom name="space-invaders.uze" size="41138" crc="0d7e4b4a" md5="3f8ee1de7481b0d34da51a07c96786fa" sha1="28be1566b0ec77979217ac9a99a6bdb5d3f2c140"/>
+		<rom name="SpaceInvaders.hex" size="113990" crc="3e3a5095" md5="b868d6cc3c78d095f98bb8b33263ced1" sha1="32b15b0c84f44abe7bdc953e494a0ce5cfc274ad"/>
+	</machine>
+	<machine name="Sprite Engine V1 demo">
+		<description>Sprite Engine V1 demo</description>
+		<rom name="Sprdemo1.uze" size="39642" crc="ac9318ae" md5="96bb59ef5dd389e912523436a5b8084d" sha1="cceb94698d5dfdff9fea430cce3d20885f88a7a0"/>
+		<rom name="spriteEngineDemo.hex" size="110071" crc="f4ba54ae" md5="578483c9e4fbf26c090b7890d5f34b8f" sha1="bb6035e66c86b937e49349929b5ef5737e493f63"/>
+	</machine>
+	<machine name="Sprite Engine V2 demo">
+		<description>Sprite Engine V2 demo</description>
+		<rom name="SpriteDemo.hex" size="182624" crc="39570b1d" md5="a2ec6c496c4616f831ea15a736156785" sha1="0d9b318945a5fffc5e4ae66b183818f8c851c222"/>
+	</machine>
+	<machine name="Square 232x200 Image Viewer">
+		<description>Square 232x200 Image Viewer</description>
+		<rom name="IMGVDEM1.UZE" size="16384" crc="d5e70820" md5="f5c05837de2c6f6082480395ec52597f" sha1="6be14f100876e82f7b95843f083735eae7649e67"/>
+		<rom name="IMGVDEM2.UZE" size="17408" crc="22198ed8" md5="6df2e4e85f4ed72edd5f10184cd1784c" sha1="8bf1e2649a74430f3c621fa7b4639e13392dcd44"/>
+	</machine>
+	<machine name="Starduino">
+		<description>Starduino</description>
+		<rom name="STRDUINO.HEX" size="118740" crc="0450c2c4" md5="7193055154face4ebfd59ad0f8d488ec" sha1="52fc1f99b0aa336ebcf6655845576605e5855147"/>
+		<rom name="STRDUINO.UZE" size="42722" crc="5aa46f67" md5="fdd680c44043f2ef7005732e9d351497" sha1="9a1c702f2077c5f2bf57e01421c588ce8b33271e"/>
+	</machine>
+	<machine name="Stormforce">
+		<description>Stormforce</description>
+		<rom name="STMFORCE.HEX" size="122226" crc="36174696" md5="d8d052fc8530f6bb54ff17b35e81da8b" sha1="09e687f2201c3a0a86d09198bdd31ec9f553696b"/>
+		<rom name="STMFORCE.UZE" size="44028" crc="47eb5de6" md5="160facb0da473fc4e0684b709c0561c7" sha1="9a5a07b90e2df8231d5325e7b4529ccf32d0c271"/>
+	</machine>
+	<machine name="SubMarine">
+		<description>SubMarine</description>
+		<rom name="submarine.uze" size="43378" crc="ecabc24f" md5="7d5f5e31b9cc81846bbfa1f1c2c1d5d8" sha1="08e428269bb1642328d0733773500ed28209f075"/>
+	</machine>
+	<machine name="Super Mario Demo">
+		<description>Super Mario Demo</description>
+		<rom name="super-mario-demo.uze" size="56612" crc="85e2288e" md5="c49f8c62ad03c85dcf24eb5dcf170127" sha1="de638666c426cb34198b39aa0bc1abac63c02d03"/>
+		<rom name="SuperMarioDemo.hex" size="78035" crc="625dc567" md5="5987f9dfb1ac04d590ec30a8cab0fff9" sha1="08db138396a19546a938076eb6e1abf9ccecfd1e"/>
+	</machine>
+	<machine name="Super Mario Land">
+		<description>Super Mario Land</description>
+		<rom name="Super Mario Land.uze" size="28822" crc="432776d8" md5="7eb24e245fb97f90e98554a94fe5d6d7" sha1="19717ee6fac745eacc3a9cdb50bf33d12c426c97"/>
+	</machine>
+	<machine name="Tank Fu">
+		<description>Tank Fu</description>
+		<rom name="TANKFU.UZE" size="60816" crc="bc02043a" md5="1fb4f6eea75eecfb234fab9282859f64" sha1="1b41214fa90b2b35acdb2f4ed07c4d40d8ac804a"/>
+	</machine>
+	<machine name="Tetris">
+		<description>Tetris</description>
+		<rom name="Tetris.uze" size="60920" crc="f8793419" md5="057901ec79b964fa5a75965f4d48a5d4" sha1="a84bf294001b07957bf4a41cf5e3ea3a37b6f2ed"/>
+	</machine>
+	<machine name="The Matrix Screen Saver">
+		<description>The Matrix Screen Saver</description>
+		<rom name="matrix.hex" size="49330" crc="1b9543a7" md5="b327b0c5a1ab95011cd46678fec78711" sha1="9d2b193713eb2d570d89f695d6132563e43c05ed"/>
+		<rom name="Matrixss.uze" size="18040" crc="309bedc2" md5="daed34b62c1b3e4c42073ac1f9502160" sha1="f58ed21bbaad2d1a1e3db6a8c3cea9db510130ff"/>
+	</machine>
+	<machine name="Toorum's Quest">
+		<description>Toorum's Quest</description>
+		<rom name="_HISCORE.DAT" size="0" crc="-"/>
+		<rom name="TOORUMSQ.DAT" size="163840" crc="12118147" md5="251741def9769c8903a63e7dce7a57bb" sha1="0d765dc51a250e6f05bbb2e0efd262cd436d4ecf"/>
+		<rom name="TOORUMSQ.UZE" size="59880" crc="1256cb47" md5="216c98e1e412a3daf33a027b5e1f432b" sha1="51131172a29be31d84be92fdd7d27fb98c4fa46f"/>
+	</machine>
+	<machine name="Tron">
+		<description>Tron</description>
+		<rom name="tron.uze" size="18836" crc="6827df50" md5="46d6242b30190ab7dd9ca62561218242" sha1="294b070ffa7ac524b5e7401e4e046a36bd5edf5d"/>
+	</machine>
+	<machine name="Tron Legacy Demo">
+		<description>Tron Legacy Demo</description>
+		<rom name="tron-music-demo.hex" size="111417" crc="b86cccb0" md5="dd798837c46a07204bd3a157e5496ef7" sha1="d62c8a66f9e095b05364c3b31e0b0cc6c7df510b"/>
+	</machine>
+	<machine name="Tron Legacy Demo (Bitmap)">
+		<description>Tron Legacy Demo (Bitmap)</description>
+		<rom name="tron-bmp.hex" size="85243" crc="8e0483cc" md5="0e108b2dec2c7057f8cd7c01c93354f5" sha1="e801cc5b45f6f5bb3a1f98449fd52a1c6b2b3202"/>
+	</machine>
+	<machine name="U-Type">
+		<description>U-Type</description>
+		<rom name="U-Type.hex" size="155014" crc="cdd89228" md5="03b1a715382c7b5bf3114950a4a93592" sha1="79eb4b81709c6abdbe297f90463a26c5efe327b0"/>
+		<rom name="U-Type.uze" size="55620" crc="52412622" md5="dad54363f9978d55d275cd293e06b91d" sha1="190f79993dadf8a98af7c1875b4e35a01be05907"/>
+	</machine>
+	<machine name="Uze Feud">
+		<description>Uze Feud</description>
+		<rom name="uze-feud.uze" size="57686" crc="fe89a22e" md5="62a119bf1045df5bc8a2ebdf603fd2d6" sha1="905b38274619685bff86a5b1dbea57e1623dc540"/>
+	</machine>
+	<machine name="Uze Mario">
+		<description>Uze Mario</description>
+		<rom name="mapA.umm" size="6249" crc="860506d8" md5="6f2d584c443e3eced11ad68beebdaaf6" sha1="ee632b884cde0cd0995ce8110cbbf82de4012154"/>
+		<rom name="mapB.umm" size="72820" crc="8926e687" md5="9fbb2817ce740fb2b2d8c0a53dab3cfe" sha1="3295e827f9b43863d7f1063d1f1a915afa29ec8c"/>
+		<rom name="mapC.umm" size="93812" crc="6c866584" md5="939b6b778bb3a124bed9ee78d6f4479b" sha1="a8a02b6054aa68430a8a6f3b4398884e2338383e"/>
+		<rom name="mario.uze" size="61134" crc="d2b19074" md5="ed4ae88c587bf306ac3c93e23adba9fb" sha1="8c09bda3900245c0f33506296a2285dd48757dd7"/>
+	</machine>
+	<machine name="Uze Snakes">
+		<description>Uze Snakes</description>
+		<rom name="uze-snakes.uze" size="53296" crc="1b9a8389" md5="6333a47d3698b662bd389d8c6d195ddd" sha1="c0cde68a0bf0da915a841f4d0c567fed8083689e"/>
+	</machine>
+	<machine name="Uze Wars">
+		<description>Uze Wars</description>
+		<rom name="Stache-UzeWars.hex" size="82017" crc="2edf7ecf" md5="d99319c80c97493c2d5e9a1d2d786416" sha1="67c7bb7fcf21ffeb84996a1a51a039fe24a8a294"/>
+		<rom name="Stache-UzeWars.uze" size="26288" crc="41098bcb" md5="fb26129eb0326246860b46122447c02a" sha1="080bb11626dc2642fda33040c5b621142f85cc9a"/>
+	</machine>
+	<machine name="Uze-a-Move">
+		<description>Uze-a-Move</description>
+		<rom name="UZEAMOVE.UZE" size="61170" crc="bbdb749d" md5="5277371b0d04535b79842f7038ecea40" sha1="97cda8afdb084b1c783b3ac5b22d3b1951d8b429"/>
+	</machine>
+	<machine name="Uze8">
+		<description>Uze8</description>
+		<rom name="Brix.ch8" size="280" crc="aaa44d0b" md5="d677c1b9de941484d718799aebafebf3" sha1="f13766c14aeb02ad8d4d103cb5eadd282d20cddc"/>
+		<rom name="Cave.ch8" size="882" crc="3bc80ce8" md5="bea7fdce1ef1733f9298dbbe2257cb9c" sha1="5c82520906073287a3ef781746c67207ca084d93"/>
+		<rom name="uze8.hex" size="87146" crc="da78840f" md5="9ffcd25f3ccee2ebdfa2f95cd6d04a83" sha1="d9bbf74bac880591aac672087ea6ced6ef8f2107"/>
+		<rom name="uze8.uze" size="31488" crc="ecaba7df" md5="536628faf11cdb6619b65c11023140c6" sha1="bb0ae447daa4122e2f03953b288f778f77f8e720"/>
+	</machine>
+	<machine name="Uzeamp">
+		<description>Uzeamp</description>
+		<rom name="LEDZEP2.wav" size="2277710" crc="37ef5eb7" md5="4d473d8c1447d224c58ea3905d889e7b" sha1="d0850c41e8e204be115eb7c06f04eb1c3cc36e2f"/>
+		<rom name="uzeamp.uze" size="35818" crc="0e13de63" md5="7c177dbdf809e79fec8129313dce447c" sha1="2fa91b674f35110d7e828b06f8d983ef66706b45"/>
+	</machine>
+	<machine name="UzeBeats">
+		<description>UzeBeats</description>
+		<rom name="Schepers_cp-Uzebeats.hex" size="32418" crc="89e16d82" md5="2e0ff5faa904d9cde7539d7b1e3adc68" sha1="f51cda577d0870675619696c95f2a973c4e73302"/>
+		<rom name="Schepers_cp-UzeBeats.uze" size="12028" crc="2a0d141f" md5="d4e9879d3366194f485bfac4583bb397" sha1="2832b5c0aaa05544ccb80b867f92e50a5ad611a8"/>
+	</machine>
+	<machine name="Uzebox Tactics">
+		<description>Uzebox Tactics</description>
+		<rom name="UzeboxTactics.hex" size="134547" crc="887baf33" md5="802bcf39f69f0827ce1240ee27ac2865" sha1="cbc0909cd50346c5c79578558b570b83d1fb0810"/>
+		<rom name="UzeboxTactics.uze" size="48344" crc="ef31e9c3" md5="2d9fbe400d590077083cf6390ba49f38" sha1="9748d9438174c1cb28dfbd2557404692de7ba3a7"/>
+	</machine>
+	<machine name="Uzecast Demo">
+		<description>Uzecast Demo</description>
+		<rom name="Uzecast-3.hex" size="161335" crc="f0fcb9ec" md5="c34ab783de0397b78d592e94dedd2137" sha1="429cbb6c917f83834ace7006ed2e08523ed0d648"/>
+		<rom name="Uzecast1.hex" size="43909" crc="1fdd378e" md5="5f011b633a0436c600b1683b4cd847c8" sha1="7cb86be4ed65b7c643023a0e379ff7354338135b"/>
+		<rom name="Uzecast2.hex" size="127793" crc="b75d55aa" md5="175502b6127cd79627c58f9cf88aee0e" sha1="2f8c153be461e226c0a5aa0d3ff465066103458f"/>
+		<rom name="Uzecast2.uze" size="45942" crc="e2efe49e" md5="db0001013e1a5701d503081bf4841c64" sha1="4c17a5efa92b9d699bbda45e247473d8040c6645"/>
+	</machine>
+	<machine name="Uzekickers">
+		<description>Uzekickers</description>
+		<rom name="Uzekickers.hex" size="134645" crc="387c678d" md5="c28dd8a802861ca3522dc823f9a41d77" sha1="c66481b6b58da437e1045e3a8bd88c3c4159c292"/>
+		<rom name="Uzekickers.uze" size="48380" crc="ef6d2831" md5="e7322725351cfe0b65cbf24a6410e27d" sha1="abe3c4eca5f062bca489ddf5df1cafd9f17abca4"/>
+	</machine>
+	<machine name="Uzepede">
+		<description>Uzepede</description>
+		<rom name="uzepede.uze" size="18812" crc="2a012d52" md5="f2949e991f5304d714c4aa1df8640025" sha1="d3f247cfb3aa686f41ee7388be54b96fb3c227d2"/>
+	</machine>
+	<machine name="Uzesweeper">
+		<description>Uzesweeper</description>
+		<rom name="uzesweeper.hex" size="131986" crc="1d2dde69" md5="a78170e748de6d631a899cee7882201a" sha1="b2e08ea7d1718320fc4e3bb0852ecb210d5165d7"/>
+		<rom name="uzesweeper.uze" size="47434" crc="1d11e5e4" md5="04289f56bf870a9c75a9bf7e995dd684" sha1="9eef8249194129385c8d90b9b279768288483a91"/>
+	</machine>
+	<machine name="Uzetherm">
+		<description>Uzetherm</description>
+		<rom name="00.eng" size="8784" crc="71fc71b8" md5="6b949bfcf1330b41f81110679ebca468" sha1="f17b8464dec28708e0b29ad6d56b0001ef38c911"/>
+		<rom name="00.ger" size="9252" crc="8c19b97c" md5="90ac2e918e7be7cf9ed9b19caf01bb6f" sha1="e703228cf31e140a9b8bcfd55c4b689f9542afe3"/>
+		<rom name="01.eng" size="8988" crc="0bbf65c1" md5="a4c266931fb72ff464dab9d45282790f" sha1="565ba012e85c3a331576cd892b777cea06252ece"/>
+		<rom name="01.ger" size="9606" crc="ad0a1fec" md5="ba94fdb82284ca552742f7c2fcf48e7c" sha1="9a696132078fb72a976b5bb139f70d9c1df55484"/>
+		<rom name="02.eng" size="9400" crc="88fc9a47" md5="1bce767426add395cb01bfbccf2dc7e2" sha1="edbe8621f1f66899e9752dbdc3dc0cffb6abad86"/>
+		<rom name="02.ger" size="8988" crc="a2f48687" md5="c025afb825e4cdd84065d37a4b200d22" sha1="f2fcc01ab4a2e42251cedd215a27d6c713ae8df3"/>
+		<rom name="03.eng" size="10736" crc="0c1fa385" md5="3c3de4ba18cc65a5bfa6467400a43b20" sha1="4143d62a4f2ce530902b8b0a45bcfcb2c850d254"/>
+		<rom name="03.ger" size="9708" crc="284f1535" md5="aa47a3147a18e10fd2f8ebced32af2e6" sha1="2fc82e809e09e5142c430719a9bb8c0c4420b7c1"/>
+		<rom name="04.eng" size="10428" crc="acce4acf" md5="373833e4d74508218dc6800d2d3fe864" sha1="ab5b1e6960c7602c4e5a75c267eade6db7881599"/>
+		<rom name="04.ger" size="10530" crc="45748cdc" md5="a4ff357bde536506328f68422064af0c" sha1="12b72d04cd238c90ae23e5800241478e2999083f"/>
+		<rom name="05.eng" size="12896" crc="df10030e" md5="95251d3e73fa78071af7a8660e1ebca0" sha1="2a1b733f40b70351218671e3797f94aae830e444"/>
+		<rom name="05.ger" size="10634" crc="a7b88d8f" md5="20ddf664a016ba2199c66a85aacc479b" sha1="d52d98bca8bc01d01dffa33fc195084e9f406cd6"/>
+		<rom name="06.eng" size="9914" crc="b3af6657" md5="165b9b58393992b5b0aa3ecb94d00398" sha1="3f86fd28ad4d3fd9aa34cd9a0c1e7b1be98938ab"/>
+		<rom name="06.ger" size="10840" crc="2993b42d" md5="540e5839c535caa5e0222c19e45df0fd" sha1="7d13ea4aefd00ae1fe626105980ac654ce0e50ca"/>
+		<rom name="07.eng" size="9400" crc="9cc4c7ce" md5="5586c73fae66263c1d3e7fcc46a5b365" sha1="a519b08446b96a91d65ce27b1a90db55ac1bab66"/>
+		<rom name="07.ger" size="8268" crc="1792524c" md5="a28f39c7c4d622805d7c62a073203631" sha1="0590c7f69e7db6349f5a2f57cd3db7aecd3a294c"/>
+		<rom name="08.eng" size="7960" crc="fae0908d" md5="a50f99823097937884166492e6539408" sha1="2267cfec76878ccd87fa44ddc7233cfe68b9e04e"/>
+		<rom name="08.ger" size="10736" crc="52fdce96" md5="f9c462f365e0b08a7ae3b505eb9bcb63" sha1="9602d8a5f7c2e3e513fc7e34db31f43b68eefba8"/>
+		<rom name="09.eng" size="10634" crc="171f655a" md5="5862c159067de1bd5606bf03181139f9" sha1="c26b74fe21525b48b4321a34aec8cbd66e80a5fa"/>
+		<rom name="09.ger" size="9708" crc="e20aa151" md5="9e43eedabed718ab8ad7b50606215fbd" sha1="8c45a6ef7c0f89c19f6597511811e52b93c64a96"/>
+		<rom name="10.eng" size="8680" crc="116b7d61" md5="ba8a565dcedb9222d51bea3273ce849a" sha1="9eccb388a59607c13d44f65b55cacbdee32bba98"/>
+		<rom name="10.ger" size="9502" crc="5ff4993c" md5="65b34c6c9e58dcc5c2255378c2383226" sha1="dcfbdbdfd7010a58dd11c3f12849d22e04d2bbea"/>
+		<rom name="11.eng" size="9296" crc="c863ab4d" md5="0c55f9285b3dc7c196e7fbafc1e5cee3" sha1="731600e43b8ceb61997c9adfe0468322fee38189"/>
+		<rom name="11.ger" size="9686" crc="f500537f" md5="72525f4d58acee0e826db7f39e1e009b" sha1="fbc30f76cded659577112e95e79067b8c7502a01"/>
+		<rom name="12.eng" size="11046" crc="47010176" md5="64f52af5fdd12e1e5f5e475f8297cefe" sha1="b9e43b6472e9efcacd69f0cd0c8da25188aa71ea"/>
+		<rom name="12.ger" size="9810" crc="28da6de6" md5="705e76325892ebc72b1d905390eb7d6e" sha1="db710f52ef5be4091bb86ab7f1077ca1c31c5d5e"/>
+		<rom name="13.eng" size="13616" crc="3d3208f2" md5="6ab08af4f5354c99d3acd54181d81bdd" sha1="f1e92dd501bc3586dbc8d964c9443d25a2fbaf6c"/>
+		<rom name="13.ger" size="13512" crc="ae82a5f1" md5="310b36f792b5463bffe8859fed92852d" sha1="322955ef711b2bf7a318103dc0ae205a4836919d"/>
+		<rom name="14.eng" size="13204" crc="cc4c0fa2" md5="936fffc9a70d448a71a542d35336cfc8" sha1="5a326dfa6acfc2806478ead3deda53a057d12cfa"/>
+		<rom name="14.ger" size="12358" crc="d79a68d8" md5="6c9e48c309568b2d8d44af0babac5144" sha1="04fd44aaa219566df2fb1681c60acea563b575fc"/>
+		<rom name="15.eng" size="8064" crc="f18063cf" md5="c269c9ac16b1336a03531fadfd205ec1" sha1="48e750ec849ff4d3a2051404e1d2af78ee8b7e83"/>
+		<rom name="15.ger" size="12214" crc="1df63ca0" md5="d77fbb5ffb94e28fbf824322749a53da" sha1="fcaf063148653ea5ce8970af0b5d8a003173511a"/>
+		<rom name="16.eng" size="8782" crc="44120563" md5="24b015d62500bd36477adf7d33510554" sha1="95ff6b0fd6e255679a545dac70e9d246870c6b17"/>
+		<rom name="16.ger" size="14334" crc="fecedf84" md5="7304113941cc4db14b8e5e6d98509889" sha1="9fca54bfdda62e70a1ccb2b36a523f5bf9520197"/>
+		<rom name="17.eng" size="8988" crc="7cbcd7de" md5="efcf38872d5293527a9e6471fe009a28" sha1="54ec7bdcc450e879684b2deb672cce814343b07b"/>
+		<rom name="17.ger" size="11318" crc="3e8b1d46" md5="f7be9ddb87df6ffcafc7308e20e768a5" sha1="6540b918271746ce99a5488c16b822110c940239"/>
+		<rom name="18.eng" size="7904" crc="e3eda9a2" md5="0286831ea14fea4a54c9b778426afb6a" sha1="5a04913d7c80dca981669676da7ff173731771e0"/>
+		<rom name="18.ger" size="10642" crc="0518f5dd" md5="300d565caa305f7b45718caccea5fca6" sha1="0f760b4f0fe8ec49fb85edeefd619c6d525c9930"/>
+		<rom name="19.eng" size="7864" crc="70f2397a" md5="ac3fc234da8bf42f072245d9f4ff38cc" sha1="1438189147d06efcc5ea0cca08cc513779228ddb"/>
+		<rom name="19.ger" size="11950" crc="a914f630" md5="e4c223595629956996befbd1fc9a5f99" sha1="f2ecf4ed9dc8795b01fb553c68c871ff08454a32"/>
+		<rom name="20.eng" size="9300" crc="9e678534" md5="3833df54759f83c33bddfea284bd91da" sha1="1b8601cad30d1031dab1a2b8f960167993cd259d"/>
+		<rom name="20.ger" size="11126" crc="02f8f83d" md5="7ebe561822480a95c7ef7095f8ebc2b9" sha1="8562906fefb5d803a0c8b9b65601e92fb5d975fb"/>
+		<rom name="21.eng" size="9838" crc="9d20a3a4" md5="d579b0da04a02174986e5575d81b029c" sha1="76e45b58bd0760b1b173a0713dbf0890304ef15f"/>
+		<rom name="21.ger" size="11560" crc="9a79006d" md5="3d7cbaec9568faf896bdeafcff21bc9e" sha1="2c39ab0d5efa9b67536a31d450be43ba3c90abd6"/>
+		<rom name="22.eng" size="7390" crc="85926d17" md5="d546fc9c269f910a5e70dbda1677a901" sha1="6e8321a23b8edfd15cd7a2c716e777d6c9dc45be"/>
+		<rom name="22.ger" size="9942" crc="8ce2f110" md5="48aea746469fd4bfc0aa4b6c816e6a4c" sha1="a78c4619601b5e23e473c1d8ea4434e9cc2c5d1d"/>
+		<rom name="23.eng" size="9860" crc="9de054ee" md5="f8effde6912d61697558440345a3f48a" sha1="ef82b5e24219a4769b3889c5effd5389987c5812"/>
+		<rom name="23.ger" size="11810" crc="45ce045f" md5="63717c28db71814eae439ad155ea35e1" sha1="1901d6abf73166e895fcae0005c2b9313ff738b6"/>
+		<rom name="24.eng" size="11868" crc="e23c6692" md5="9b8cf4f1cf607f912433cb3d743a7175" sha1="e6a6b9e0772f69d091aa2a1b4b42c3e3992d6026"/>
+		<rom name="24.ger" size="10736" crc="20461e19" md5="fc48ad090bf5aeac1c729cecd9ffabd9" sha1="0be4b0d0c8417baf63f535c3794a2577ad551df2"/>
+		<rom name="25.eng" size="9194" crc="ee36c3e7" md5="6cd2435f98d3e543db95d353ba5fd7ac" sha1="ebd1c82631e764af5544082f2c3f9f13a9591c5f"/>
+		<rom name="25.ger" size="8886" crc="f34cc1b4" md5="19c5d4445360920eff27615126dc56f4" sha1="da0ebeb1bc72612653d09ea3b1dd6b1656785766"/>
+		<rom name="26.eng" size="9708" crc="e1fa3e44" md5="f542c4e552d515e527c40baf392ccffd" sha1="7a8e9f86f54803e2a2babf016af2b60fd0d7c368"/>
+		<rom name="26.ger" size="7858" crc="eee5a18b" md5="1fabf019774142f97988abf3097aca24" sha1="1af12192e36cb84750a9094119da99480f96ef79"/>
+		<rom name="27.eng" size="12382" crc="556d58ad" md5="c26883edc2b9ff54377564bebc66660d" sha1="0997315cbce9165a3b1ad43565becbeff7362d47"/>
+		<rom name="27.ger" size="13614" crc="c8b44008" md5="d29c74a41941b97ca841a061bded9b21" sha1="7930a8f77327e644924812db5e5fe8c9a373c5b4"/>
+		<rom name="28.eng" size="11970" crc="23874f36" md5="f546c9d9e2572c67c3e00a4b331841fe" sha1="73836bf51b226b234cffe7f2d25cece603631778"/>
+		<rom name="28.ger" size="14334" crc="67cc79ca" md5="c34f928e5ba5c97da18d3becb431409a" sha1="1ecbe54443fc588141398b3b8aeba106f200335c"/>
+		<rom name="29.ger" size="6316" crc="1786293e" md5="0edbb4d05063c9b84158bf18d4de68f2" sha1="2038bedd23da4b65d9d20f829b0a4cb81e737e54"/>
+		<rom name="Uzetherm.hex" size="98597" crc="ea33de88" md5="50b1e973afb07ffef17eb4c87ac31d76" sha1="ff5a856ee6df66e9b9976c82e7115f5c9329c94b"/>
+		<rom name="Uzetherm.uze" size="35556" crc="98b048cf" md5="eba7fc63725b67705b40865f6de63a20" sha1="e5394057a8f378c5eac02bb1ad8b6b84751fc48f"/>
+	</machine>
+	<machine name="Vector Demo">
+		<description>Vector Demo</description>
+		<rom name="vector-demo.uze" size="14218" crc="6cd88d88" md5="5b1a41c00c57f0478eaeae1312e6ed8a" sha1="660037f535021a3f687c2b42d8a9a680b8c513c6"/>
+	</machine>
+	<machine name="Vector Demo [a]">
+		<description>Vector Demo [a]</description>
+		<rom name="VectorDemo.hex" size="37597" crc="db523422" md5="50090b0b1270bfe34de5a02388e97cea" sha1="6a01e4c8d9ed1ac6e8eb7db39f223d8845eabd6e"/>
+		<rom name="VectorDemo.uze" size="13870" crc="009303cd" md5="afad74942fafe6730e8b0e7da2cd62b9" sha1="c533ded16b492b9c86cc4db302dc05ca0df34e3b"/>
+	</machine>
+	<machine name="Vector Game">
+		<description>Vector Game</description>
+		<rom name="Vectgame.hex" size="75332" crc="2d2e854b" md5="43f7d6f91bdb62e95b657a58735201bc" sha1="7dd4db1c55ee5aad5b9307c18b0d26aa1d81c1dc"/>
+		<rom name="Vectgame.uze" size="27282" crc="31f1f59e" md5="cdf22579626b520b2a1936d63d1e0fd5" sha1="3156763afb72c1f5eefe96f3e7c8da0f13336190"/>
+	</machine>
+	<machine name="Videopoker">
+		<description>Videopoker</description>
+		<rom name="videopoker.hex" size="121669" crc="e2706a1f" md5="17ccdff14ae98f55550b924ead0b643f" sha1="916b905dcf04cb8fb0fca7d2f0476d557cc23368"/>
+		<rom name="videopoker.uze" size="43726" crc="e23468b0" md5="a2e0777b5c97f8bf7ab4b05aaa936623" sha1="c942b78ed449c26a0f255e34119d3e4f2ec367c5"/>
+	</machine>
+	<machine name="Void Fighter">
+		<description>Void Fighter</description>
+		<rom name="VOIDFGHT.UZE" size="50214" crc="55fef896" md5="874586adb895fa890cf9256b662a469a" sha1="8106a971088ccfaf5f14addb5bd5e3de7d15f504"/>
+	</machine>
+	<machine name="Wall Street">
+		<description>Wall Street</description>
+		<rom name="Wallstreet.uze" size="55394" crc="52df41ba" md5="71dadb1c8320700d121cc27ed47b4740" sha1="65cf78f8c6bdd3285cb6aa91de0c343751cdb255"/>
+	</machine>
+	<machine name="Whack-a-Mole">
+		<description>Whack-a-Mole</description>
+		<rom name="whack-a-mole.uze" size="39834" crc="37602c48" md5="bc3d65f33c297e6a5fa3250521ddb403" sha1="f2dc1e3c72f42f3b25b685106a017a07b2041df1"/>
+	</machine>
+	<machine name="Whack-a-Mole [a]">
+		<description>Whack-a-Mole [a]</description>
+		<rom name="Whack-a-Mole.hex" size="112092" crc="9a70159b" md5="077b259968f4b4c3ae10ee1ebc2c4ca5" sha1="a81ef20f57041941803513319124e178ccfac6aa"/>
+		<rom name="Whack-a-Mole.uze" size="40360" crc="0c381987" md5="46c206e259d89324c0f2925f7922219a" sha1="210d484bdf17f871a36768690efc6e132dbd429f"/>
+	</machine>
+	<machine name="Windows 8 for Uzebox">
+		<description>Windows 8 for Uzebox</description>
+		<rom name="Win8.uze" size="49698" crc="c599f21b" md5="60c284271e5e43f0807194edb5af9f31" sha1="15fde84c49c0704c384bb38c11910c3c3e9aa942"/>
+	</machine>
+	<machine name="Würgertime">
+		<description>Würgertime</description>
+		<rom name="wurgertime-wip.hex" size="158176" crc="ecd016f8" md5="dd2301db6eff15a702dbb05d2d3be9a7" sha1="9bdb4a5391a4325c08b8b1cad4a51ef90c6a68e1"/>
+		<rom name="wurgertime-wip.uze" size="49604" crc="b8a1802b" md5="a360cf71b54ff5256e9c7b22d113bd8e" sha1="736afa9bcef7ab247b8909b2dc6c697508d61ead"/>
+	</machine>
+	<machine name="XMBurner for Uzebox">
+		<description>XMBurner for Uzebox</description>
+		<rom name="Uzeburn.hex" size="169008" crc="fd15f45a" md5="466dc9e1a5c237230462c906f4c2c9fb" sha1="6a58564ff40d3adccd88e0022bb0e27205a5b770"/>
+		<rom name="Uzeburn.uze" size="61952" crc="9941d6d3" md5="896b944f58d7d83df065c87e32085699" sha1="0334a1ad8abe0e6ddb843c1760001e577de3056c"/>
+	</machine>
+	<machine name="XOR">
+		<description>XOR</description>
+		<rom name="XOR.hex" size="166849" crc="54694742" md5="556e115b209ca9a7d7d0fe7cbc063ddd" sha1="7298a22a0b12e7650707fe5a6bac33c7b4dec3d3"/>
+		<rom name="xor.uze" size="59828" crc="e68afe7f" md5="bb2a4ded1128b57d81d3cd687b028103" sha1="db4f0a245965a6ae481e072226c9d19ed5babd0c"/>
+	</machine>
+	<machine name="Zombienator">
+		<description>Zombienator</description>
+		<rom name="zombienator.uze" size="52064" crc="9e66d1ec" md5="8d12a6c4fa7b628e95dec986952dc1c4" sha1="3e33c30f25766cf4f8eee46b2fdea332866296e0"/>
+	</machine>
+	<machine name="Zombienator [a]">
+		<description>Zombienator [a]</description>
+		<rom name="Zombienator.hex" size="136764" crc="eb4f377a" md5="8f7ad292da9bb4a8350758883c80e2e6" sha1="828f3eb5ced85f2707720ceb1a407c0f3aa5ae88"/>
+		<rom name="Zombienator.uze" size="49134" crc="ae3dcee7" md5="931e4c2e417a305aaabb1d11551c25d9" sha1="05d70e6650f395ea07354be8cf67458e709e3718"/>
+	</machine>
+	<machine name="Zooming Secretary">
+		<description>Zooming Secretary</description>
+		<rom name="ZoomingSecretary.uze" size="61286" crc="cae7eac3" md5="62c760da542257ea1f1ca53e19c227b1" sha1="9c0e37c357578dfab092c0f79a09a8756b557fb0"/>
+	</machine>
+</datafile>

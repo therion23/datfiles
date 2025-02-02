@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>I-Mode - Non-Working Appli</name>
+		<description>Keitai Wiki's I-Mode collection</description>
+		<category>Standard DatFile</category>
+		<version>2025-01-21</version>
+		<date>2025-01-21</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>https://keitaiwiki.com/wiki/KeitaiWiki</url>
+		<comment>Collection by Keitai Wiki</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Emulator Issue">
+		<description>Emulator Issue</description>
+		<rom name="Avatar Bowling\N-02A Version\Bowling.jam" size="378" crc="aab75840" md5="3a48c176163263069e36f3853c46bd46" sha1="bf060b805975cc2e674122a0b44d7ce937cf62d9"/>
+		<rom name="Avatar Bowling\N-02A Version\Bowling.jar" size="875067" crc="880800b8" md5="271b1755675f5d4aba788ac5a1b2de83" sha1="6479da1afbf198331cd75cf56aff2afc472bab55"/>
+		<rom name="Avatar Bowling\N-02A Version\Bowling.sp" size="70720" crc="79b39722" md5="23a5f17a2f59be3543ff598d8427e5e5" sha1="2f59ec17f6552e0b2f85d154b52d3c5dabd8e46d"/>
+		<rom name="Avatar Bowling\N-02A Version\readme.txt" size="44" crc="fe7af342" md5="4ed87d15887d6edf6d4f192c19f8942b" sha1="3f2f2b4f7a1b7399a919ecbbca7f2aa4e9b11d82"/>
+		<rom name="Avatar Bowling\N906imyu Version\readme.txt" size="25" crc="12711644" md5="03fb06cbafa21638dbce9bb9ba215c31" sha1="4b9cd3bb697a0230d3ac6d4794e9a0c459ef90d9"/>
+		<rom name="Avatar Bowling\N906imyu Version\xfapp.jam" size="401" crc="db1c3ad4" md5="08c9a68e37e75569623cefe3d4a671c0" sha1="d4cb391b5d0d5716d0e4aa1290e54952a0f1f1f0"/>
+		<rom name="Avatar Bowling\N906imyu Version\xfapp.jar" size="874735" crc="3d6f6a1a" md5="11a31ab6cdc3dcf1b1619bbc8fc67928" sha1="495a9ea869c2aa5542fdbda32472dd49b122f6fb"/>
+		<rom name="Avatar Bowling\N906imyu Version\xfapp.sp" size="70720" crc="100f619f" md5="e434be3bd3661c9c50a8683eb77dce2e" sha1="ba642feffb908e373745959ee5f1bd70bd0b6690"/>
+		<rom name="Dokodemo Chocobo\D504i Version\MChoco.jam" size="267" crc="1bc1a40e" md5="3f4f85a20cb004df5773e31f4645e342" sha1="f668b559caf86a763b1831e7470e57e0006b9300"/>
+		<rom name="Dokodemo Chocobo\D504i Version\MChoco.jar" size="30365" crc="8b2e6c18" md5="4511ca5490bfc1bffa13c4477935bec1" sha1="15d153decf299f77cbcfabbc7315a2f2c7c2d9de"/>
+		<rom name="Dokodemo Chocobo\D504i Version\MChoco.scr" size="102400" crc="8030fda7" md5="9635fd4245a1c71325035f904f5a0c8c" sha1="01be4ed41746ee9560d222b362b649580d28c15c"/>
+		<rom name="Dokodemo Chocobo\D504i Version\MChoco.sp" size="102464" crc="5ebb2d25" md5="a65c368d877e73c7f4fe8773d7bfa92f" sha1="2a52d5827e73c54506a4d1f6c8cbda7a15b266e4"/>
+		<rom name="Dokodemo Chocobo\D505i Version\chocobo21.jam" size="385" crc="2782d9c7" md5="13afef2a2f56e19d28ca4e919b856937" sha1="5501bfa9ae0a9b428745859935c5507185a0b8a6"/>
+		<rom name="Dokodemo Chocobo\D505i Version\chocobo21.sp" size="204864" crc="a122b345" md5="fd1460aaabf3041e7d150ffbabecb790" sha1="28827fc21475188c2fff0d4c683be0f4e681e224"/>
+		<rom name="Dokodemo Chocobo\D505i Version\chocobo210.scr" size="201728" crc="e8a9e280" md5="41ec9f07e92a916c523c33162cb54ba0" sha1="7cb8d50000d2cef38b9e891c46f569fcbbf332ab"/>
+		<rom name="Dokodemo Chocobo\D505i Version\chocobo211.scr" size="3072" crc="f759d415" md5="7c1de1195c5b2abf9d7e690a67d84a58" sha1="3e6457d3e85e967c60a56759dfcf0a7d95691dad"/>
+		<rom name="Dokodemo Chocobo\D505iS Version\chocobo21.jam" size="386" crc="2d4f2175" md5="69c23dfe0718ebbcc1d7b617c4902d03" sha1="61aea3db19169b22c1ff9b07946960d76d31063e"/>
+		<rom name="Dokodemo Chocobo\D505iS Version\chocobo21.jar" size="30717" crc="c3e2b75d" md5="56c305b17eee57cfc0beb8220816d0e9" sha1="cb8f8c0a86fb5d5bfb631c370aa9befbfb9a28cd"/>
+		<rom name="Dokodemo Chocobo\D505iS Version\chocobo21.sp" size="184535" crc="accb91ae" md5="da1ec8aa85726ab35ac65ef21abbb9cd" sha1="22a5e3a27c7e6777c467190b492bd6d00c95e963"/>
+		<rom name="Dokodemo Chocobo\D505iS Version\chocobo210.scr" size="181399" crc="e926bd92" md5="1fb77c931ca8746fbaa34487ad56ec5f" sha1="17fbcd27bb0fa3c2e892b1c6109c33e4b879aa16"/>
+		<rom name="Dokodemo Chocobo\D505iS Version\chocobo211.scr" size="3072" crc="f759d415" md5="7c1de1195c5b2abf9d7e690a67d84a58" sha1="3e6457d3e85e967c60a56759dfcf0a7d95691dad"/>
+		<rom name="Dokodemo Chocobo\readme.txt" size="83" crc="776f930a" md5="251d413074897d99dce31ee7eaa68564" sha1="903408d990eac4d60c6ede14ccbe4ba0ddc1ef47"/>
+		<rom name="Galaxy Shooting II\gst_P900i.jam" size="476" crc="55638cb5" md5="f9f574618ace8f8936deb514bfa552d1" sha1="f2979a6449b2f457284e2ba4171b427b0c2c1006"/>
+		<rom name="Galaxy Shooting II\gst_P900i.jar" size="28021" crc="9dfda7f3" md5="dc73da9aa9d879c94a3eaa03e1dd2abb" sha1="3090d338508b111de12ed76c2079669abb4de0d6"/>
+		<rom name="Galaxy Shooting II\gst_P900i.sp" size="204864" crc="e5f04963" md5="bd7f36031d67432dbe061f5aa9a8ccf9" sha1="5f2d1328bb06b2f4416f1fa4a1263972158ec72c"/>
+		<rom name="Galaxy Shooting II\readme.txt" size="23" crc="fe818487" md5="0234a875a33bc0b710aadbf99528d6cd" sha1="853b72730ff4bdbb7851085d8ce820761cdc590d"/>
+		<rom name="Mobile Brain Stretching Easy Version\braintraining_f884i.jam" size="346" crc="9a178527" md5="2e0df6d419c0d54b8af80c5057dd072e" sha1="6b5d3594f2250e79879064b852da9494cd1b0513"/>
+		<rom name="Mobile Brain Stretching Easy Version\braintraining_f884i.jar" size="766252" crc="8d61dc42" md5="b6ff95fe2c33af267fbe67edaa4138d9" sha1="ae16c30e73221b4d7ec7c73601ee10bcbfee7a31"/>
+		<rom name="Mobile Brain Stretching Easy Version\braintraining_f884i.sp" size="30784" crc="92906187" md5="2797b94f8f79d48bc2f8079864bdc14b" sha1="289fb2138af582b5614bcb1ab67422deddd2a714"/>
+		<rom name="Mobile Brain Stretching Easy Version\readme.txt" size="73" crc="c8276759" md5="046dc7c4337eece8d4ace3c905532174" sha1="53e7d038ed003c1fd58811f2a4562bb9bca5ffe2"/>
+		<rom name="My Kisekae Creator for SH\KisekaeCreator.jam" size="462" crc="e334272b" md5="4505b652887cd27efe503af094c27068" sha1="b2ed6beb34f7735e4eb59e9619330b6cdc1fd9ce"/>
+		<rom name="My Kisekae Creator for SH\KisekaeCreator.jar" size="276214" crc="cbd30002" md5="90475a73285cabbb2e0cd0bd94e10657" sha1="a1eabf850f72f21064de919879a8c01480b4921f"/>
+		<rom name="My Kisekae Creator for SH\KisekaeCreator.sp" size="200" crc="c971a876" md5="fbaf48ec981a5eecdb57b929fdd426e8" sha1="c45d01b195decd87a0bf097784fba6734005b8ea"/>
+		<rom name="My Kisekae Creator for SH\readme.txt" size="42" crc="cde6096c" md5="7f630f4b659e5a44e6153d57de58aee3" sha1="5915dfa58b402ec40b386c4d42872380989ac021"/>
+		<rom name="N Golf 3D\N901iS Version\golf3d.jam" size="215" crc="04472835" md5="6dfaacd596562fc8a550bfa6cb8afc3f" sha1="4098c86dc2912c331f109bf742da269cb8bf0512"/>
+		<rom name="N Golf 3D\N901iS Version\golf3d.jar" size="102282" crc="fd01c6ec" md5="f8afc0fa61fa193ba02185c0e5f56171" sha1="c02e0f90f504be03dd22de12e94ae1497aa61664"/>
+		<rom name="N Golf 3D\N901iS Version\golf3d.sp" size="409664" crc="6b7d95a2" md5="5b82ab8036b7630b558d817fc08c1933" sha1="eea6bd57f7f40eb9b97434f3708a0e000b2d9fc4"/>
+		<rom name="PACMANIA\pacmania_N906i.jam" size="372" crc="c3a92c13" md5="29ffc808e870652412d80ceb05abb179" sha1="6e8252ba0b12450dd8b8670eb6d1db0b7fb481fe"/>
+		<rom name="PACMANIA\pacmania_N906i.jar" size="684842" crc="52b12272" md5="6934dbe43f948c0224ba41455967f196" sha1="f2ac2e0b9cdfc9cebc43e3231a72d964d7cedbaa"/>
+		<rom name="PACMANIA\pacmania_N906i.sp" size="160" crc="a1be965f" md5="514969ccec623ffe9c8959327de197d2" sha1="d62c7a5361d163048a8ac2c5d5c5dd6860d53a11"/>
+		<rom name="PACMANIA\readme.txt" size="25" crc="12711644" md5="03fb06cbafa21638dbce9bb9ba215c31" sha1="4b9cd3bb697a0230d3ac6d4794e9a0c459ef90d9"/>
+		<rom name="Power Pro MEGA-X Trial Version\pawa7.jam" size="472" crc="c497ab0b" md5="c412c56f6b8ea0d6f709d773efcac7b1" sha1="4a0b67ad4deef8cc22bfafc7bfb39af774fab60b"/>
+		<rom name="Power Pro MEGA-X Trial Version\pawa7.jar" size="225451" crc="854d3ef2" md5="7ee29ca51af25623b7fe5fc8473a9440" sha1="a5ea75e4340e5da274cdeba422c44cc5b51814cb"/>
+		<rom name="Power Pro MEGA-X Trial Version\pawa7.sp" size="769088" crc="1abdeddf" md5="d8beccc3509e5420b0069ab8574a3f04" sha1="013ad36bdc8f990ddc7236008d2d428aaca782ee"/>
+		<rom name="Power Pro MEGA-X Trial Version\readme.txt" size="51" crc="34065b43" md5="da6fe987563fa061fac1b9f8d901f4bf" sha1="d78d62a536b5b8cd98aa4c93f3441c6b48de04cf"/>
+		<rom name="The Sealed Goddess\iSLOT017.jam" size="284" crc="0684d774" md5="825ed353288d653b28e44f15b47f8883" sha1="71359ba4215842f599db218e5db6146b7fc67148"/>
+		<rom name="The Sealed Goddess\iSLOT017.jar" size="822377" crc="24826809" md5="05010b6678e6173cc5bbcc775cc4302b" sha1="1c21473b4adf670eb0f93a5e940b8c4dea36f432"/>
+		<rom name="The Sealed Goddess\iSLOT017.sp" size="150128" crc="6d447428" md5="99ccaa10cfefe3a64ea8118956aa8727" sha1="29f21ac0426497abd58db1309173f98a5df300e8"/>
+		<rom name="The Sealed Goddess\readme.txt" size="61" crc="48e2c4cf" md5="1ccfe979fe4c8185fe0de4f9f6a94c6a" sha1="448444d66cbcc16dc2c95f368504ee579bd0dd92"/>
+		<rom name="TOBAL M\N-01A Version\TobalMHorizontal.jam" size="441" crc="71ca3783" md5="a2a0143bbdbfbb2e4f020cd7c0ef82a6" sha1="7b0b0e4bfa7eebf1b8ca945ce87fd4196f77aaa1"/>
+		<rom name="TOBAL M\N-01A Version\TobalMHorizontal.jar" size="915688" crc="3c81a9be" md5="aed16caccfa9a66bef189529c3d77a8d" sha1="19e161fc74d2808a38120051beae4c8f6b041dc7"/>
+		<rom name="TOBAL M\N-01A Version\TobalMHorizontal.sp" size="106464" crc="59445839" md5="a4077db5f4164ae27e5954ecae921087" sha1="493cdcf98b2d92a03b593d56af9587095b1c14f9"/>
+		<rom name="TOBAL M\N-02A Version\Tobal.jam" size="443" crc="c81ce6df" md5="ea705b0a40b37078c19f6646966b17e6" sha1="0283e8a73e91c8dabe6ba0226cbc202643d84b38"/>
+		<rom name="TOBAL M\N-02A Version\Tobal.jar" size="915688" crc="cad43de1" md5="0b34fb941c2bff515743728956499e82" sha1="d19beb544ff487e967561fbef8578ec18051536c"/>
+		<rom name="TOBAL M\N-02A Version\Tobal.sp" size="106464" crc="2c3e4b0e" md5="2c7935f000b050e7435e608df5f26672" sha1="73a512bc38533d3cd69a71abe6bb4b582396ba50"/>
+		<rom name="Touch de Bowling Party\readme.txt" size="41" crc="32d6e13c" md5="b550f7dbe0f6dfb7f7d45c2d5d49fc2b" sha1="f0c58649a0d45126163a48bb9b60343eeafa8081"/>
+		<rom name="Touch de Bowling Party\sh_touch_de_bowling_party.jam" size="697" crc="dd18042e" md5="e54926be9e3712a95edb5a06213146d5" sha1="3860f8b38816c22e29155d5d5deb70ebba0cbd94"/>
+		<rom name="Touch de Bowling Party\sh_touch_de_bowling_party.jar" size="834524" crc="dced8982" md5="32a6f7e2952b23bfcf1724b8d129f438" sha1="6783adb20c0cedbf4fd277bf969b5f1035e78a38"/>
+		<rom name="Touch de Bowling Party\sh_touch_de_bowling_party.sp" size="12288" crc="c7f7aa5d" md5="9daf8a8e389f42fb5c1e462acb548f0b" sha1="761069a72ba0552e3954d0e7ef092139ca8f4a5c"/>
+	</machine>
+	<machine name="No Emulator Issue">
+		<description>No Emulator Issue</description>
+		<rom name="[M7] Areddin\arredin.jam" size="423" crc="08320b4c" md5="2a6721ac3eca401f166fd427ed7aa8a7" sha1="fe778f7e20e263204b2701657debbfae0d2e489b"/>
+		<rom name="[M7] Areddin\arredin.jar" size="296647" crc="180ae89f" md5="6ff8e9719f858f9a38545fcddf09768f" sha1="e89e8e5db67d0dfdabafa21824c7b3adf70ac23c"/>
+		<rom name="[M7] Areddin\arredin.sp" size="4160" crc="f8275dc2" md5="cc7f7003e98d2026ca58e26726660d8f" sha1="1974176ba933321c31d3156c6195ab010921018c"/>
+		<rom name="[M7] CR Nakamori Akina Utahime Densetsu\M7_Nakamori.jam" size="467" crc="e201f04c" md5="991a5b464f511dc13d74c8f5bb70fcc6" sha1="828f7268805c3d34d4239be041b0804a58fc0897"/>
+		<rom name="[M7] CR Nakamori Akina Utahime Densetsu\M7_Nakamori.jar" size="207498" crc="dce695d4" md5="89ec08550134700c6faaac79ec11e658" sha1="3858c5438eaffc5c2b21e535a97027c87bafb911"/>
+		<rom name="[M7] CR Nakamori Akina Utahime Densetsu\M7_Nakamori.sp" size="819264" crc="43fd76d9" md5="de5862052d754d90ddf1ee7e08f3c6a5" sha1="ad035884c63329ea6a521563264053c404500bc0"/>
+		<rom name="[M7] CR Tensai Bakabon\M7_eicon_bak.jam" size="440" crc="7900e409" md5="b4e49d7ed57d672b41bcfe8e4516b0ba" sha1="8caf82c2f3b5526a85b6833ecad4e98ae3cc40ed"/>
+		<rom name="[M7] CR Tensai Bakabon\M7_eicon_bak.jar" size="165344" crc="dac5282f" md5="6dd4cc6cb8d3812e2c16f3a2bee9ac41" sha1="4820c941dad76e881a5ed3eec6e9ea3d2870273b"/>
+		<rom name="[M7] CR Tensai Bakabon\M7_eicon_bak.sp" size="819264" crc="6b910fbf" md5="7bea105678b0ad49651c6831a3f0ac43" sha1="28bac258f2ed3b228442392607c0b7cf1c1b3971"/>
+		<rom name="[M7] CRF Aquarion\M7_CRFAquarion.jam" size="487" crc="0ec026fb" md5="c43e6f15fb34c25091d5b9092bfb673f" sha1="badbc47dd18c4523737eb952a42de12245a329ef"/>
+		<rom name="[M7] CRF Aquarion\M7_CRFAquarion.jar" size="866309" crc="01124bdd" md5="cd655681989f1603b0304d079f9caeac" sha1="5de499f02d7fb1e3e4b1a73ed29ed7b770975e10"/>
+		<rom name="[M7] CRF Aquarion\M7_CRFAquarion.sp" size="192" crc="15fea890" md5="51980e5f48a8700ccaeb253f053c8b68" sha1="91508c1bff03b5d3d63e9c3a7a09882ebd64ad8b"/>
+		<rom name="[M7] Daruma Cat\daromaneko.jam" size="432" crc="0a9364f8" md5="b8e1c8d9687d5ae83eb0815dc61801d9" sha1="3db5deb91ec9840c9558616be40760d1874a27bc"/>
+		<rom name="[M7] Daruma Cat\daromaneko.jar" size="755492" crc="6304e37f" md5="3e92132283c6cd050ab54952ec6779a6" sha1="81a7bed6a096a16df1dc73136a7034e809fe8090"/>
+		<rom name="[M7] Daruma Cat\daromaneko.sp" size="128" crc="56e00f29" md5="2e48747140823b7124142568dab1c8ee" sha1="e9245d958af5d1d2c196da8f5076dcc9e4ae317e"/>
+		<rom name="[M7] Fujiko 2 MX\fujiko2mx.jam" size="412" crc="7cda6162" md5="72caaf1f17ee0ebbd1e913580732cacb" sha1="0f7a7d25b4453732d62e5d9632cb0637f449d342"/>
+		<rom name="[M7] Fujiko 2 MX\fujiko2mx.jar" size="293319" crc="fcbea4cb" md5="9219f275c8fa606dc3cb4dbf88e33f6e" sha1="2b72a0964a31e0f443e40f6bf53d3fb7cc1a4b56"/>
+		<rom name="[M7] Fujiko 2 MX\fujiko2mx.sp" size="403520" crc="9831a17f" md5="4c0d7ed0674a78b3b7ab0ef5b8cb938c" sha1="02e7cefeaccececb40fed0a2bd9ea83195c0af51"/>
+		<rom name="[M7] Go Go Juggler V\M7_GoGoJugglerV.jam" size="451" crc="134b2ded" md5="ffa54db39c0d09886b3517891c3268b2" sha1="014beb0832a31dcecdc05d19c352b18ded73ad37"/>
+		<rom name="[M7] Go Go Juggler V\M7_GoGoJugglerV.jar" size="299414" crc="9bb63c9f" md5="0f36ff88e41d4dcb380adc7cbc636b51" sha1="70f709e9da036b28649a53b556ba68cbb13ebce9"/>
+		<rom name="[M7] Go Go Juggler V\M7_GoGoJugglerV.sp" size="102464" crc="371eca13" md5="55cf7daf408d716a5f4b482f9dac1039" sha1="facc0e89709aa9951156d49f1d66d0c1e7f2e58e"/>
+		<rom name="[M7] Hello Santa Machine Gun\M7_HelloSanta.jam" size="387" crc="f9e069e5" md5="fe67c82640e074104470638fb590735d" sha1="565ba2f80dac155e0b711977ed250ab82a043df3"/>
+		<rom name="[M7] Hello Santa Machine Gun\M7_HelloSanta.jar" size="256972" crc="ad0618b9" md5="204c1f7a6ef9a8dedeb1d56aa4e94caf" sha1="632c29c3d3f4f508c2ade92a4a00bf09402466d0"/>
+		<rom name="[M7] Hello Santa Machine Gun\M7_HelloSanta.sp" size="358464" crc="d3180f9a" md5="5a6600389849b78ba54be023b1696d44" sha1="c342ccc6a8030c32bdf4edb90f1f05729ce65a70"/>
+		<rom name="[M7] JUGGLER V\juggler.jam" size="425" crc="8fb805d2" md5="eba31a782b535ec1ac3d2f459a93b474" sha1="b62f15b47c762a84a9df1c8ffa697aee45b18047"/>
+		<rom name="[M7] JUGGLER V\juggler.jar" size="319643" crc="0ba11f8a" md5="4c7bba8c86cf742538cc3d11b3b8dfde" sha1="9f49b38016d63daf6aaf7963daa805c7229a327e"/>
+		<rom name="[M7] JUGGLER V\juggler.sp" size="1088" crc="e7261485" md5="ecf8818cbe8629ddadbd2a32bed37ace" sha1="9454ff7f6b16d8eff23aa84c7612c987bb852ce7"/>
+		<rom name="[M7] King Pulsar\KingPulsar.jam" size="377" crc="d434dcf3" md5="bbe06585bb386a0cdd3d6a10c91b51e6" sha1="f6b87411c616ae3896d75095fec533774a351433"/>
+		<rom name="[M7] King Pulsar\KingPulsar.jar" size="432093" crc="b33bf331" md5="fece4500ef16514aaf06c40b67d1dff3" sha1="593a96cb0f349fd30bf321bcf6cff4aa611f2a34"/>
+		<rom name="[M7] King Pulsar\KingPulsar.sp" size="128" crc="300468df" md5="aab268e4386f760d1af381726bd6abcb" sha1="db7e9d00a8722f910b8639ec050cb0a0d73face8"/>
+		<rom name="[M7] Mahjong Monogatari\M7_MajongMonogatari.jam" size="405" crc="d52a2361" md5="58adf586f1f01b7281db871245d2db2c" sha1="2f8399e712a745323e766b053139f343e32a128a"/>
+		<rom name="[M7] Mahjong Monogatari\M7_MajongMonogatari.jar" size="996652" crc="1867a2ff" md5="03704c28611ad7c7e45a8495058bf312" sha1="31f1a09f69791ce73052daf139a13f431552b50c"/>
+		<rom name="[M7] Mahjong Monogatari\M7_MajongMonogatari.sp" size="174" crc="293bd24b" md5="e37a1e8fc7673d15e674f7df8805957f" sha1="acd28c1617ce3420750bc6487e5901db01694ca8"/>
+		<rom name="[M7] Nangoku Sodachi\M7_Nangoku.jam" size="551" crc="b724b3ac" md5="374724c1013c20e65af29b338930936b" sha1="473a04c8b64c31457088fb28ad8082c108bf3685"/>
+		<rom name="[M7] Nangoku Sodachi\M7_Nangoku.jar" size="215588" crc="8a1ace84" md5="2e05c59da12e37260cbec9f9423656d2" sha1="5c83667dc1ca1fcf6f9f75416bde78a0d792db54"/>
+		<rom name="[M7] Nangoku Sodachi\M7_Nangoku.sp" size="781480" crc="e14e0dca" md5="3042d3843fe6382fefb00814df0c5872" sha1="ac16020b3909ab369110762297d6e23edce4bc04"/>
+		<rom name="[M7] Raised In The South\RaisedintheSouth.jam" size="533" crc="3f6355a2" md5="f1ae7ff72baac1ff72ffe46d7bbcf2a2" sha1="2f6f8982024c37f9d26e669531a1152550ad5090"/>
+		<rom name="[M7] Raised In The South\RaisedintheSouth.jar" size="211539" crc="6475a4db" md5="de66c7c798ca0a53c7b37b6d84a747ce" sha1="3f6947decd1f6db3a93a95e0d8cdb98becdff947"/>
+		<rom name="[M7] Raised In The South\RaisedintheSouth.sp" size="781480" crc="7512ec36" md5="6eb85af685c94a095f10915e992b32eb" sha1="48dd84e0504680ce6520a90036b2f67f548723d2"/>
+		<rom name="[M7] Shaka Rush G\M7_ShakaRushG.jam" size="475" crc="f9c9a25a" md5="de2e907be1928ca89baf283eac02510c" sha1="65c2111305ac390afeba938ccf46917c90dbcddc"/>
+		<rom name="[M7] Shaka Rush G\M7_ShakaRushG.jar" size="237259" crc="54b400d9" md5="e6f6b7c9514b3e1d998e05a236078f2c" sha1="20f9417a43ec0bbe1c347c8ba7d26ebb4058ada3"/>
+		<rom name="[M7] Shaka Rush G\M7_ShakaRushG.sp" size="800164" crc="1bc4fd2a" md5="989ac6ece4a288aab08f52f186ac3e88" sha1="8b79b1f6ee903c4f0a9391140352aeb33d29e621"/>
+		<rom name="[M7] Sky Love 2\skylove2.jam" size="401" crc="79848a5b" md5="9537b2fb3176aeb080dcac62bf427c10" sha1="defd0f94d678a02e0c66838b4477ff4bfd1cf6bf"/>
+		<rom name="[M7] Sky Love 2\skylove2.jar" size="211513" crc="e6272098" md5="243510fe91d519699dea444c44124188" sha1="c41fc18497db650179be93fe32864ce09cf53e4b"/>
+		<rom name="[M7] Sky Love 2\skylove2.sp" size="837127" crc="b9ae7ace" md5="8feb7416de26f400872566a4acd9fe58" sha1="57538d7e2110b6c8c20dc235ae40e546c3201409"/>
+		<rom name="[M7] Yoshimune\yoshimune.jam" size="443" crc="07bf9abf" md5="07861c36fa1793709f9b8a4cd0a8e20a" sha1="c58c3d3e7cd69cd76a5a14b765b97dc5a7830748"/>
+		<rom name="[M7] Yoshimune\yoshimune.jar" size="861767" crc="79bd131e" md5="01ad69138927ef1182fa3776aa01c472" sha1="e94218574c9b3bea84ef94e0f059035cda497859"/>
+		<rom name="[M7] Yoshimune\yoshimune.sp" size="180128" crc="1fa340ed" md5="9c6bc5162ef09ca61fb37bdccc1fd840" sha1="674761c0540b97871dfc92e945993d7772653b0d"/>
+		<rom name="Ace Attorney 4\SH-01B\GSaiban4P.jam" size="391" crc="bcb3e003" md5="c5b28af9c9c391d63be2790571f30497" sha1="59bae60eb846e00e77001123430ad61b693a4597"/>
+		<rom name="Ace Attorney 4\SH-01B\GSaiban4P.jar" size="1497458" crc="c71a9f9a" md5="dbe9916351390d7fc40eb30249ec91d1" sha1="c19300d185e5dc0d37e9e9d1e82770030da0f110"/>
+		<rom name="Ace Attorney 4\SH-01B\GSaiban4P.sp" size="10064" crc="db924a4f" md5="38a5a54baa8b371439ff8e2b5a6e9e81" sha1="465e32f16f1f4f3ed9a650e3e46b9aafe95172c9"/>
+		<rom name="Ace Attorney 4\SH-01B\readme.txt" size="33" crc="89e9e13b" md5="0e7bfa5483b0e0cc40efe0e101663d09" sha1="4319e684d5c78247d42fc52913f101bfef496bd9"/>
+		<rom name="Adlib Prince\AdLibBB_900.jam" size="335" crc="422d2551" md5="11a7407fa200f00d3b19f06c8be7fbc7" sha1="d66460e6fee73ced9d62b453559a62912fb740a1"/>
+		<rom name="Adlib Prince\AdLibBB_900.sp" size="409664" crc="aa62c4b7" md5="0828926489ea0ef047298fd101bffd4b" sha1="6bc15a7eaa7eb13720ea5b7e6cfee108c7f1e2c9"/>
+		<rom name="Adlib Prince\AdLibBB_900_patched.jar" size="90941" crc="e9c07932" md5="ff42b668ac3ef714213019b9809174c9" sha1="c77acfa2c7265b86d67e76347ab1aa63735dd36d"/>
+		<rom name="AIR FIGHTER'S\airfighter505.jam" size="204" crc="8429d469" md5="637b224d95fc23e08e35f64a3d918bfe" sha1="a92d1b6d4226c53d4b65ea10c0b950c5be1f92d5"/>
+		<rom name="AIR FIGHTER'S\airfighter505.jar" size="22788" crc="4b002078" md5="0a75a64298f43ac50762b010add87f84" sha1="efe17e85c9ddf350d8d96f1f2b387fbe872e9814"/>
+		<rom name="AIR FIGHTER'S\airfighter505.sp" size="102464" crc="947355e3" md5="19fb1a6208e0568d85aab55872bc7dac" sha1="a60b8cf53a8a9bfd916015e077fd80eed92ddc81"/>
+		<rom name="AIR FIGHTER'S\readme.txt" size="53" crc="0a8f8d18" md5="0e961c7ac26ca3abc10d2aa7fdb99900" sha1="1eed556bb40708b4dbed36ea487d7e821610803d"/>
+		<rom name="Awasete Dore\29_unoad9.jam" size="240" crc="8ed1220e" md5="3f7f9229999dae8451481e3846d04eda" sha1="adde1a757230fea740579c4b1fe494becb180fa0"/>
+		<rom name="Awasete Dore\29_unoad9.jar" size="27253" crc="25a7d163" md5="1c862990905ebff55603dfc12f70188e" sha1="4b574d532e15f2f2d20fcce52c8c729286fe33c6"/>
+		<rom name="Awasete Dore\29_unoad9.sp" size="28962" crc="867146d0" md5="956930a7375b6a5ec7f847141621e70b" sha1="fdbae44986f7e6f6d781e8b39dffc7f95984e860"/>
+		<rom name="Awasete Dore\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Barabara Panel\36_unobp9.jam" size="240" crc="9f10e424" md5="e1096aeef4af6f290d88286c1f5a388d" sha1="bcb69eba33f6283fe465ae5de1919df7a0a90c7e"/>
+		<rom name="Barabara Panel\36_unobp9.jar" size="28438" crc="67f4f78e" md5="8b9cbd2ad751056b1d08f8dbe2615f0f" sha1="e2e7c8bb88a4e5417719c1c042e859151288dd6f"/>
+		<rom name="Barabara Panel\36_unobp9.sp" size="22206" crc="2c2b8d26" md5="d50c9e92dcc27b06ba20e04ad450a343" sha1="f59a0e8ebc3f645118db9dcfc4a307fa88e03a0b"/>
+		<rom name="Barabara Panel\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Blackjack Moba Casino\bj.jam" size="367" crc="5236450f" md5="723c28393dbfbdac5427242a25b042b7" sha1="8aafed0456337dc2332f835bbf37aeddc61bfb00"/>
+		<rom name="Blackjack Moba Casino\bj.jar" size="75887" crc="73b24945" md5="64778ba6042b67f35ddf1ef18d31af08" sha1="af34dd4516063147011aac5c481298a83e3eb26e"/>
+		<rom name="Blackjack Moba Casino\bj.sp" size="512064" crc="5a0326c5" md5="9e3bfe190d5fa6a79f7f72ced2d2581b" sha1="f10758a0a26e05378eada0bc40a5ecdf13145b20"/>
+		<rom name="Blackjack Moba Casino\readme.txt" size="13" crc="de00d0ec" md5="6cb9d91afdf2dc0b7a696815471133fd" sha1="1d471b85ce6815fc8713f1f034f1eac3ee47d92e"/>
+		<rom name="Book of Twin Demons\kamigari.jam" size="244" crc="a484ba9d" md5="8078e6574368514e6ceaf1714c68c3d8" sha1="a4a6453a58b6c172602164e73bd0489a4146bb8c"/>
+		<rom name="Book of Twin Demons\kamigari.jar" size="100044" crc="9bf7f31a" md5="18d843de65ff062f51b9005f8f7e80ed" sha1="343a789981c2285cc550984a2089228f0a459af6"/>
+		<rom name="Book of Twin Demons\kamigari.sp" size="409664" crc="d45c2251" md5="64136904e5f202a84a0808048ebc2124" sha1="944644b363fd7d99c30eb0f38d178394523e5b76"/>
+		<rom name="Book of Twin Demons\readme.txt" size="7" crc="608487bc" md5="91e02cd2b8621d0c05197f645668c5c4" sha1="c112e88173d4d3c5c1409a17bee4837673523991"/>
+		<rom name="Brain Training with Kanji\readme.txt" size="16" crc="6886ef0a" md5="27222c1ad54c19de192267a7c3dddc06" sha1="8e7f8e468088ebdd0789a69804efdc04257dde7f"/>
+		<rom name="Brain Training with Kanji\YomiMatch.jam" size="200" crc="12563343" md5="6dd85f3c438d0b1e1fcbb1a8e1afe178" sha1="102cd085ab0edfbf9cde307901cc2a6cd0fbfca5"/>
+		<rom name="Brain Training with Kanji\YomiMatch.jar" size="21898" crc="eeef6102" md5="6e08c5651cdd56cd151a05b0df2b553d" sha1="6cfcc95ac69a5cbcd8c542d66d2319ed95711048"/>
+		<rom name="Brain Training with Kanji\YomiMatch.sp" size="2264" crc="5c682188" md5="442adc7ea226345817a0a380d03370cb" sha1="a8c944275431e18a90ac05ff902106a4da652ab9"/>
+		<rom name="Chocotto Land Mobile\00087.jam" size="386" crc="aa098af9" md5="3a4b149f1cda1a4d7ce4a5025b03d949" sha1="3ccced22302b8fcf7babe4c3aa79046563a104f4"/>
+		<rom name="Chocotto Land Mobile\00087.jar" size="324944" crc="0d86657f" md5="2e29312abc2092eca6c27513c20b0586" sha1="ee904fd23b193299a8b8138a2928bbde0fce7719"/>
+		<rom name="Chocotto Land Mobile\00087.sp" size="401064" crc="e1e8c25b" md5="bbd2c73ff05503772d667fc618410b8e" sha1="c944a66edfae615e61b48d9ac4433cbb582c8f3e"/>
+		<rom name="Code of Celestia\3400.jam" size="328" crc="52f4b810" md5="8dba83a37a54ed045ef8415fe3a33c09" sha1="1ec04dbb62eb753db6cce7f44e2f51457f057ebe"/>
+		<rom name="Code of Celestia\3400.jar" size="95617" crc="deca9193" md5="801e61d2da49804b2b7a6e1a3cb443a9" sha1="e982147f0bb2bd7748bf5377b831c99f19b0302a"/>
+		<rom name="Code of Celestia\3400.sp" size="409664" crc="bb430529" md5="197506985f775f7e008e51682b6f9cf2" sha1="37425854202b803cea0287c0f9e182f078c4ce4a"/>
+		<rom name="Countmania\32_unocm9.jam" size="240" crc="3f5f907d" md5="9e47956ef97641cf9d75b25b23cefdbe" sha1="7dbc2df5ba8097781dbc27dc4073e4e63e7241ec"/>
+		<rom name="Countmania\32_unocm9.jar" size="29843" crc="1e6cf7f3" md5="28b4b828a3471e4eccd10c452a1a1252" sha1="1a8c56552cdb7edecdbd504695739dab31c6afc9"/>
+		<rom name="Countmania\32_unocm9.sp" size="20942" crc="1d7d87b9" md5="7edb7ea736c0ead403378b6e4a054247" sha1="9751abdf37995232faf3fe107af7210d00da93ba"/>
+		<rom name="Countmania\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="CR Hana no Keiji\data.jam" size="428" crc="c2264dfd" md5="11431b2ba9e40d37c08ac28ec725189a" sha1="fabf228ff5fa4b46cf4160a93076ca074869ced4"/>
+		<rom name="CR Hana no Keiji\data.jar" size="981518" crc="8331a9b6" md5="b3fecfed9c635c3de9e2eb871db3cd4f" sha1="7510071879d7604b9cde6132ec04f351789de89c"/>
+		<rom name="CR Hana no Keiji\data.sp" size="1024" crc="7e91ada9" md5="e50b8f53c23bef08746a6643f9dd7eb8" sha1="48c5fd8d711b4d3908b18e744297c3818f860bc4"/>
+		<rom name="Culdcept Mobile\CuldM.jam" size="317" crc="f3265dd1" md5="b5be87d23ce2b9f825c42f279c2d8b87" sha1="b13d81124aa3d23b2bab0d497e6339b9feae7c2e"/>
+		<rom name="Culdcept Mobile\CuldM.jar" size="224810" crc="93281d81" md5="25c7a92546feac2637875e5c443de267" sha1="f66de3d5c6b3c46b078f0edb398c2d6ffce0af97"/>
+		<rom name="Culdcept Mobile\CuldM.sp" size="803203" crc="fec3b086" md5="0f2451168cb40d2dc66cb0790af61aaf" sha1="5d301b214f9ce973e45d00750fb77a4221601a53"/>
+		<rom name="Culdcept Mobile\readme.txt" size="7" crc="608487bc" md5="91e02cd2b8621d0c05197f645668c5c4" sha1="c112e88173d4d3c5c1409a17bee4837673523991"/>
+		<rom name="Decome Emoji Pocket\DecoPocket_P703i.jam" size="400" crc="b2edd09a" md5="c677cc18bd5a21b49437cb3872d37a50" sha1="643620fc12238732d49bfaf1b8ddc9f90378741d"/>
+		<rom name="Decome Emoji Pocket\DecoPocket_P703i.jar" size="30709" crc="f5834912" md5="6d1e68253b77c08b686d77a4961731a9" sha1="cad035d79e6a655cf586bd21eba203c19ac2c9f2"/>
+		<rom name="Decome Emoji Pocket\DecoPocket_P703i.sp" size="204180" crc="d266fae4" md5="27123062766159f9f66a8440f8b4fd6c" sha1="301a662485b2c17b5bc498ee9cb7e00e10835968"/>
+		<rom name="Decome Emoji Pocket\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Dice Daisuki\39_unodi9.jam" size="240" crc="3ac93f61" md5="6a11c7237de8499a40ee2b9258fd2171" sha1="47f53eaf86ea21b79f89840acf048fd2593f61c0"/>
+		<rom name="Dice Daisuki\39_unodi9.jar" size="27724" crc="ff124a5c" md5="b6c7f58a92d876fbe3f87cd766f9f448" sha1="d5e0d5758689b2884e0547802aaf348b64d08787"/>
+		<rom name="Dice Daisuki\39_unodi9.sp" size="30064" crc="bf3690b0" md5="580f5ee98d718a20b714cdb9e55b0657" sha1="5f4f9d55562d466e377bae9f0e7ce68d9133ce17"/>
+		<rom name="Dice Daisuki\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Dochi ga Ooi\37_unodo9.jam" size="242" crc="a8e1cbbb" md5="1ae9cabc856ab197e69f34f54b5759e6" sha1="d133893fd6447c5eae009e1480de550fd48ab501"/>
+		<rom name="Dochi ga Ooi\37_unodo9.jar" size="27633" crc="f8d0033b" md5="5d781126b0cea00e95b2f2ad878b53cc" sha1="bb56406cd843c08c34efcd73cedb8c3043fe9ea3"/>
+		<rom name="Dochi ga Ooi\37_unodo9.sp" size="25713" crc="7190262c" md5="cfef423375980e147816e53690496b9f" sha1="ac6ac5af36efc47260fe7db66ca14a0d099aa276"/>
+		<rom name="Dochi ga Ooi\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Double Man Consecutive Three-Person Mahjong\sanma.jam" size="199" crc="b3655c97" md5="45121ea293d4ef5927789d4113890106" sha1="9315106037f5561dec691d1ff40a7f62bc48885d"/>
+		<rom name="Double Man Consecutive Three-Person Mahjong\sanma.jar" size="30686" crc="303fa82d" md5="9938f1ed1956be492280b73c1fdef649" sha1="4ff2d531af874c68cb2ef847cf34c3d90c574342"/>
+		<rom name="Double Man Consecutive Three-Person Mahjong\sanma.sp" size="204864" crc="ea280313" md5="7680dc605fe27923437ea10f47deaf7a" sha1="d1c76115a347ec988d0e27e1fbad8ef8a98cbfdb"/>
+		<rom name="DQM Wanted\dqmw.jam" size="318" crc="2db79fde" md5="1a6650d03dd7b386f48aa92564ef8a55" sha1="f5bdf468c7487b28c56ee451bb64e94720e3dfbe"/>
+		<rom name="DQM Wanted\dqmw.jar" size="331513" crc="fca4920d" md5="ba77e472af8aab980282b1886018ccd9" sha1="78dc63e5ff0cffa31dda3c18983d4334e671e488"/>
+		<rom name="DQM Wanted\dqmw.sp" size="655424" crc="949df9d4" md5="198de91968c75828698903735c291bbc" sha1="c3a596ac2b73688cc84ad188ddefe3d74fc791a8"/>
+		<rom name="DQM Wanted\dqmw_1.jam" size="305" crc="9a312876" md5="61f052bef1ff544643b5ed9f66883d0b" sha1="943bdc1d1aa0053935388e15c73bb062d79f6c60"/>
+		<rom name="DQM Wanted\dqmw_1.jar" size="356105" crc="2573f13e" md5="163f24831947ce92e9af4aafc49b9bd5" sha1="d0b5582b0d9456a3d787e22bd8087a7bf28537c0"/>
+		<rom name="DQM Wanted\dqmw_1.sp" size="655424" crc="2486bdf3" md5="3ca1951ed0cf1222f8f08c90ff1f2539" sha1="594de73e56af84060dd7b59f343a24fe6e2230d9"/>
+		<rom name="DQM Wanted\readme.txt" size="33" crc="a499da13" md5="13ae8dcca086bf3d574b43692acd612f" sha1="8a04ef9f088bfdd8525903dd050ddc89e40ef9ad"/>
+		<rom name="Dragon Ball Wars\dbw.jam" size="298" crc="6805731a" md5="b928c82097455d68368a134a46c1b5b0" sha1="f6b519ecf744deb6473006732e68d5c424eb3763"/>
+		<rom name="Dragon Ball Wars\dbw.jar" size="457145" crc="af4b5d7c" md5="f69385f2f409e0a068a16fbd05ae2ea5" sha1="51fb23d70831ff2b0585d00f24a3a8f0619078a2"/>
+		<rom name="Dragon Ball Wars\dbw.sp" size="10305" crc="845c1b73" md5="f7b5630a832ff51edce9f086ebe8e588" sha1="27930f942a4299460cbc6265febbcaf4a8643d34"/>
+		<rom name="Dragon Ball Wars\readme.txt" size="30" crc="8ea55794" md5="49122a6745740aee1ccf864b0d24df0b" sha1="5b48e7ce5f33c7d24ad76812f92928c5c8d12263"/>
+		<rom name="Dragon Quest Monsters\D900DQM_City.jam" size="243" crc="a87c2d2d" md5="0fc5c27164f9ffd7fa6efdd83b7d0e2a" sha1="8b360a17df8308400671938e996b45fd2373045a"/>
+		<rom name="Dragon Quest Monsters\D900DQM_City.jar" size="38426" crc="fe260527" md5="fe8bf36824041d85d0ed91fb58c8c808" sha1="58341223176b550f4bbfadf2c667a3dc4cc20075"/>
+		<rom name="Dragon Quest Monsters\D900DQM_City.sp" size="160064" crc="085fb1e4" md5="69b3c5902df577a23c0fb74bad916a95" sha1="48e91274ffb390a6116e0ea948e0c609e9354c48"/>
+		<rom name="Dragon Quest Monsters\FOMA3DQM_Fight.jam" size="221" crc="6dd7e63a" md5="ce08ac51333eb5cb19867e72e5827a90" sha1="674949e947e0bf2c90dd8836556ad855de702845"/>
+		<rom name="Dragon Quest Monsters\FOMA3DQM_Fight.jar" size="12083" crc="278f4863" md5="a8b716a17a841cf9bb4a2a7707a9dfd8" sha1="017271f0b2dc24fd8471c4da667370d5cf7462b4"/>
+		<rom name="Dragon Quest Monsters\FOMA3DQM_Fight.sp" size="11304" crc="9756be7e" md5="1845f61c2175b7619b425e4d70533c58" sha1="761f059f93291c97e73e3ecd53f86b80596c05e0"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\F-04B\dqfd2\bin\dqfd2.jam" size="395" crc="d6ecc592" md5="8e7b3ea335100ba43c60074a3abd2d67" sha1="9890c5c8a05141403e6944a6e73584e3850776e4"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\F-04B\dqfd2\bin\dqfd2.jar" size="235344" crc="56f83ec9" md5="cded91b55dc74dac6749a6a0da98eba9" sha1="40b74de77b27905a4c725efe33f8a452daa40212"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\F-04B\dqfd2\sp\dqfd2.sp" size="727104" crc="5886eb52" md5="6abe5a67701ee6bfd667e93a74a19af7" sha1="d428f2087be6e795bac655ee01ae555e619ab866"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\F-04B\dqfd2_sub\bin\dqfd2_sub.jam" size="397" crc="fb7911a0" md5="eaf00a4ba47c7f55acd54e9283c2943d" sha1="4e15f5397c2b3d494c4e30a7dfe2cec70b68cb88"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\F-04B\dqfd2_sub\bin\dqfd2_sub.jar" size="209854" crc="23055b36" md5="42256b1977b0a93c37bd9590a91720cf" sha1="1d374dfcb2337a93ca5e32cf250a3bb61e7152f5"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\F-04B\dqfd2_sub\sp\dqfd2_sub.sp" size="737344" crc="701e08ee" md5="2090f74cab1f6d321c6acb9f1d1a20d5" sha1="1994232e5a17e243ae72fbcfb9c0d1bc527cb80d"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\P-01B\dqfd2.jam" size="355" crc="0e71ce67" md5="9e17ab88841ad65b4d9e17465a19e7ba" sha1="d2564ea0d64a0780df88338758ccbab226837248"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\P-01B\dqfd2.jar" size="235344" crc="56f83ec9" md5="cded91b55dc74dac6749a6a0da98eba9" sha1="40b74de77b27905a4c725efe33f8a452daa40212"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\P-01B\dqfd2.sp" size="727104" crc="21ec95a0" md5="aea10675dab35e46c9398a9102abbdde" sha1="0c703646e22e459302defc4602b91caf91e2a2ad"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\P-01B\dqfd2_sub.jam" size="357" crc="0560054d" md5="7c494336b8b3792b50fb010a999ef0b2" sha1="62460e1a4d18edbdf8189c4010c3aa1bd340b1ae"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\P-01B\dqfd2_sub.jar" size="209854" crc="23055b36" md5="42256b1977b0a93c37bd9590a91720cf" sha1="1d374dfcb2337a93ca5e32cf250a3bb61e7152f5"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\P-01B\dqfd2_sub.sp" size="737344" crc="f8804ad7" md5="e5d474ef52c89d9c3346e6d19da93b3b" sha1="63bc22d5cf80b9fabf82322c4bc801dc5c5b7eff"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\readme.txt" size="114" crc="5f156541" md5="13c936a99adb7b1f492a407bc2d143ed" sha1="5771ebf44cce1c09304baffcfe6dc0bd10ec3a5e"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-01B\02000021-dqfd2_sub.jam" size="397" crc="5ff0e4e4" md5="9e7aed12e9c8db695ac3eb686783ca2d" sha1="886f43e1f0a112c1397843af47308d9416076b27"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-01B\02000021-dqfd2_sub.jar" size="203822" crc="33b05bdf" md5="d4cd8c40fbfde8b35240692fbfa9ca13" sha1="ad3dba317aa54ce3f3e736caf356af3eeca53e69"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-01B\02000021-dqfd2_sub.sp" size="737344" crc="b694fc4b" md5="b09629e2ad8697c9a1eeb96285c4bb93" sha1="efc7fc38f56fcf0ba7c175551361e90c7764ff5c"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-01B\02000022-dqfd2.jam" size="395" crc="765d1e20" md5="e0cb2dfc88630d037e682ede17b3e95f" sha1="3a77d5d06032167149944618ef2d93735fe6a9f4"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-01B\02000022-dqfd2.jar" size="229214" crc="a181fad2" md5="834c1429e6da33ad2c6e765943800c65" sha1="5dbb3334300d0d605c616e0e0c63d8b4906c4a55"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-01B\02000022-dqfd2.sp" size="727104" crc="c6f147f7" md5="4ffdbfed37f467f414f2fa2cc1438289" sha1="175d5efb506cd0525a71de3f788d1075a0d5fe61"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-02A\dqfd2.jam" size="355" crc="81a0d6bd" md5="868b645d6454d30daba77202f38a19d3" sha1="951d7627b62ac28c9283b8ef8bad1d379373e107"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-02A\dqfd2.jar" size="234592" crc="c3a12b44" md5="eca3096aa67536fc4958b3bdb56b1f3e" sha1="60a8a135b767565b924d7d2b94eb291689deea04"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-02A\dqfd2.sp" size="727104" crc="ca48b94a" md5="b0445738ff7048b14ffc37102d49321c" sha1="37575f5de334bcc52e387ec67589542867d77e0b"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-02A\dqfd2_sub.jam" size="412" crc="b91a2915" md5="0649fd53b8ff462daf42ea22ed19f594" sha1="a397c0540e88ce344b012bcb4eb8371332287244"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-02A\dqfd2_sub.jar" size="203822" crc="33b05bdf" md5="d4cd8c40fbfde8b35240692fbfa9ca13" sha1="ad3dba317aa54ce3f3e736caf356af3eeca53e69"/>
+		<rom name="Dragon Quest More Mysterious Dungeon MOBILE\SH-02A\dqfd2_sub.sp" size="737344" crc="b694fc4b" md5="b09629e2ad8697c9a1eeb96285c4bb93" sha1="efc7fc38f56fcf0ba7c175551361e90c7764ff5c"/>
+		<rom name="Final Fantasy 7 Before Crisis Extra\bcextra.jam" size="463" crc="d8110d22" md5="999e39a2cc91c27d2fe2878cae270abf" sha1="eab6789a526e040c95295ec1181130903f239c7f"/>
+		<rom name="Final Fantasy 7 Before Crisis Extra\bcextra.jar" size="73939" crc="14fa09f2" md5="63f7fb8e9eb979c1c80b604e8983ddd4" sha1="f635ab4db9fccf9936d39150acdce7ad9955b3e8"/>
+		<rom name="Final Fantasy 7 Before Crisis Extra\bcextra.sp" size="409664" crc="b5015fff" md5="96cb6eb60206ab238a0f7729b279a2c6" sha1="705769ac99b1c8dba7cb078876c9b477f11c6f17"/>
+		<rom name="Final Fantasy 7 Before Crisis Extra\readme.txt" size="119" crc="eeca59a4" md5="c4bd8a6d380590e3320026cb9345ad56" sha1="3c5a38dfb89e18dcd31a4bfa81316a882361ba36"/>
+		<rom name="Final Fantasy 7 Before Crisis Gold Saucer\bcgoldsaucer.jam" size="471" crc="792b2623" md5="1c10e2a91889c8b4e0075a0533715fab" sha1="bd02a407c00bdaf85f224bef62504d9d8ad427ee"/>
+		<rom name="Final Fantasy 7 Before Crisis Gold Saucer\bcgoldsaucer.jar" size="72867" crc="0f461829" md5="8794b410d12e0c04cb22df9e30c6a349" sha1="d471b4f50339983bf2ca544628cc80e4db1efc02"/>
+		<rom name="Final Fantasy 7 Before Crisis Gold Saucer\bcgoldsaucer.sp" size="409664" crc="1dbc9ff6" md5="2d1547e79b46918b9dddecf387ae3a9b" sha1="cfb0e18f9f1e0fc011821fc910762a95d4ab708a"/>
+		<rom name="Final Fantasy 7 Before Crisis Gold Saucer\readme.txt" size="119" crc="eeca59a4" md5="c4bd8a6d380590e3320026cb9345ad56" sha1="3c5a38dfb89e18dcd31a4bfa81316a882361ba36"/>
+		<rom name="Final Fantasy 7 Before Crisis\bcff7.jam" size="511" crc="bfa85e7b" md5="51f244955ebb3407443fc8f9d12d718f" sha1="296b78002d02edf7a9e3692ceecb08eef28b72d4"/>
+		<rom name="Final Fantasy 7 Before Crisis\bcff7.jar" size="98400" crc="c8749898" md5="945f4e52ef3ac7067414e39845255681" sha1="10fed6af3675c4fafc2413e51e1447b9691d160b"/>
+		<rom name="Final Fantasy 7 Before Crisis\bcff7.sp" size="409664" crc="26242d35" md5="33595d4f2ac142a2651be602dbddc779" sha1="bb2e58b319a41b8b1983d3cb198ae6e938e503f6"/>
+		<rom name="Final Fantasy 7 Before Crisis\readme.txt" size="119" crc="eeca59a4" md5="c4bd8a6d380590e3320026cb9345ad56" sha1="3c5a38dfb89e18dcd31a4bfa81316a882361ba36"/>
+		<rom name="Final Fantasy 7 Dirge of Cerberus -Lost Episode-\DC-FF7-LE-networkremoved.jar" size="867884" crc="c3e91b10" md5="1fcae68609d9ce8b84d7497ec39d296b" sha1="f1769d9c7158f3c42a892c60c7f1665703c2f931"/>
+		<rom name="Final Fantasy 7 Dirge of Cerberus -Lost Episode-\DC-FF7-LE.jam" size="629" crc="dbb902f8" md5="e08d447ff4f1d996d2afb39eea4db0e3" sha1="b50667822dca0fcad4d00f92c020d53e570724f5"/>
+		<rom name="Final Fantasy 7 Dirge of Cerberus -Lost Episode-\DC-FF7-LE.jar" size="867368" crc="afdecf1c" md5="a59959ac9929f2a5004fc4d26cc7a998" sha1="240ed55a7b4c310f3ef5eca472e40df0df5a55d6"/>
+		<rom name="Final Fantasy 7 Dirge of Cerberus -Lost Episode-\DC-FF7-LE.sp" size="2418" crc="9552a9c1" md5="60254be347b86ffef9d43e13028a5914" sha1="841f52b2389b8a59af5beda6cc5f9629e9cd7c46"/>
+		<rom name="Final Fantasy 7 Dirge of Cerberus -Lost Episode-\readme.txt" size="119" crc="eeca59a4" md5="c4bd8a6d380590e3320026cb9345ad56" sha1="3c5a38dfb89e18dcd31a4bfa81316a882361ba36"/>
+		<rom name="Fist of the North Star SE DX (903 Compatible Version)\fistSESDX_doja35_sh900.jam" size="469" crc="d6c91f58" md5="3492d0c66e8c61d38932002a38c2a2c3" sha1="0f6c43844cc3e274d79b65da74ede0a19f55fc68"/>
+		<rom name="Fist of the North Star SE DX (903 Compatible Version)\fistSESDX_doja35_sh900.jar" size="55052" crc="5da27af9" md5="3db1f9664baa8b7655347e1057504c90" sha1="8372316378583edf81ef87645236b4a944220cce"/>
+		<rom name="Fist of the North Star SE DX (903 Compatible Version)\fistSESDX_doja35_sh900.sp" size="921600" crc="c97662bc" md5="6483cf3bbc7dc5d02e49b4014a9acdfb" sha1="d84c7f34fab3cdd4b6dd97ec16fc30bb1529d7db"/>
+		<rom name="Flyhight Frontier\flyhightfrontier.jam" size="640" crc="2e2f76b6" md5="27a562495bcd56e8e22083340d11056f" sha1="daa0a51c7bd792bfb13bba3dec64b7723ce3a5e5"/>
+		<rom name="Flyhight Frontier\flyhightfrontier.jar" size="883571" crc="eb285c37" md5="11366674da1705a389d06a7cf137c342" sha1="313eb50b11f601af78ba847aa45fbbc63b5665ca"/>
+		<rom name="Flyhight Frontier\flyhightfrontier.sp" size="192192" crc="38a9aa15" md5="a69a9d25a9db0f544082a280fc25363d" sha1="f9ca8e02a82fcc6cf8b22e21cbfb7c66212f6d52"/>
+		<rom name="Flyhight Frontier\readme.txt" size="69" crc="7f3515a3" md5="83699a8472b971ed27933f91addb807e" sha1="4ee75f369881169e57da54b1cd28d5ed0498735f"/>
+		<rom name="Giant Pulsar XG\GKP_XG_SH905.jam" size="459" crc="6f7757d2" md5="30c64146c4b99beb443cc5073f60436d" sha1="219170c15ed4138af3a0b85deb8f4ea34fead6b9"/>
+		<rom name="Giant Pulsar XG\GKP_XG_SH905.jar" size="101175" crc="afd1686c" md5="689d68e39a21af8bcd4123bb0de7972e" sha1="37a53eb3b24881c64c0e0e83c98d3ddee7169cd5"/>
+		<rom name="Giant Pulsar XG\GKP_XG_SH905.sp" size="861248" crc="1f6860b7" md5="cc6cf035d86ab6df43cfcba83ac2bccb" sha1="ad5bfe0bf41033c2f662fc5da5a7c3ef8032d422"/>
+		<rom name="Go! Inachu Table Tennis Club!\Inachu.jam" size="242" crc="f9af3986" md5="51d710d15668581f5cf345f7553b4e36" sha1="41f48c9812aa582751c4e153e22ae2235a70bc22"/>
+		<rom name="Go! Inachu Table Tennis Club!\Inachu.jar" size="28925" crc="9a1bdd17" md5="6b109a4bb2d98794d4b078b38b907700" sha1="357f29fe4f6fa2c2e467183d3afc92607791d0b5"/>
+		<rom name="Go! Inachu Table Tennis Club!\Inachu.sp" size="204864" crc="2b11c594" md5="08a2f020e7aeb9309223b7b0dd8c7714" sha1="bfaabe13374d19ef9d83bffbee03607a9b87ea01"/>
+		<rom name="Go! Inachu Table Tennis Club!\readme.txt" size="21" crc="ca249662" md5="2335b7e6c7d32f0b88ef4f9c25f93194" sha1="f1deb74153713f924cc6850befc340495f9c46b0"/>
+		<rom name="Gomokunarabe\3820.jam" size="413" crc="a015e515" md5="9b2cac1a0e3280a6f19eb00fc187779d" sha1="eb20f8ef64654d539d3ed6ebe48d07bf194587d9"/>
+		<rom name="Gomokunarabe\3820.jar" size="84462" crc="066a58f6" md5="8a496568b1ba50f3e5a35f161fc782d1" sha1="e092c2bc5e76f361c54ef488b417bae2d8d7e94f"/>
+		<rom name="Gomokunarabe\3820.sp" size="409664" crc="984dd4da" md5="8c3b5b1854d843052c213df99f84e788" sha1="8e79fbfd348612145f5a646d900f51e57765e44f"/>
+		<rom name="Gomu Inu no Tamago\gomuta_903.jam" size="498" crc="5d415b52" md5="6db954e738c4c98a537da348716e4883" sha1="ab032847b756155fca432072c1abd63bcb452b96"/>
+		<rom name="Gomu Inu no Tamago\gomuta_903.jar" size="228126" crc="629e3ea7" md5="ce3dcd9228cc7fd417166d89d4135105" sha1="43bc4671fe343ed9a7505dc13fcdb6103ca6e774"/>
+		<rom name="Gomu Inu no Tamago\gomuta_903.sp" size="803945" crc="8384387b" md5="8667ec5ebba29b32f5cd508f40661910" sha1="39aca1987a9ebe3062ae1f164c01f75599da6eea"/>
+		<rom name="Gundam Zion\main505SH\bin\main505SH.jam" size="357" crc="a4687e29" md5="a308e7e4f1f738527d81f1ab9d380ca7" sha1="a9d80c3b1a709e355202dbbee6ee5a01811c694b"/>
+		<rom name="Gundam Zion\main505SH\bin\main505SH.JAR" size="30701" crc="31eb6dcd" md5="6f8b179ac9f1d9b263745ffae1191db2" sha1="1eb618bb7924e56ad5be7f02c078a6a5b9d8245a"/>
+		<rom name="Gundam Zion\main505SH\main505SH.SP" size="116800" crc="6883bc8d" md5="9e4b3c04f962463e26483c6de14b378c" sha1="c5839a6742873e0700aab95c75c90a0603db3468"/>
+		<rom name="Gundam Zion\main505SH\sp\main505SH.sp" size="116800" crc="6883bc8d" md5="9e4b3c04f962463e26483c6de14b378c" sha1="c5839a6742873e0700aab95c75c90a0603db3468"/>
+		<rom name="Gyun to Number\33_unogn9.jam" size="242" crc="77dc1b9c" md5="835e5a5e8c46917d333a940e1b9e6300" sha1="ca6bbe0c5c59db9ea5e7abdabdff9e521d1fd85d"/>
+		<rom name="Gyun to Number\33_unogn9.jar" size="27026" crc="6d1a6f48" md5="cfae2fc1eca7ddf349b32a3fcda182b1" sha1="b481dd0308aa88e53ad84a63e221cac8e6a0667b"/>
+		<rom name="Gyun to Number\33_unogn9.sp" size="20748" crc="e0de80be" md5="f5afcea37b1ae24d43e971aadcfc44a5" sha1="ec0772479fa9abeb274f56e50ff3f0a783fed884"/>
+		<rom name="Gyun to Number\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Hana no Keiji (Battle)\data.jam" size="490" crc="48e3161a" md5="361851cc11588e42a9c3828cbec6437f" sha1="f5aa59baba6e0e6befc56e2d0e07e8f2084f0531"/>
+		<rom name="Hana no Keiji (Battle)\data.jar" size="80146" crc="3d062d2c" md5="02f83c4c2c5c68805ff9d0f3e8b7f6d4" sha1="af5b1d36198937853e3be7f18a417347ad072056"/>
+		<rom name="Hana no Keiji (Battle)\data.sp" size="409600" crc="6ce976a8" md5="1f20ca14b0427c8efdea774b2c725ffd" sha1="5eb1a3c5e93b975be49af5297f1d4d6eca46198d"/>
+		<rom name="Hana no Keiji (Normal)\data.jam" size="490" crc="9cc7b0c9" md5="14642be026fc4a866a62083f9546b82a" sha1="c844ff5619840a6dc23c7d4f76f0beba15235d7e"/>
+		<rom name="Hana no Keiji (Normal)\data.jar" size="76837" crc="13cc2c75" md5="fa32b79883c97a7078606425533b8f68" sha1="321aa040075f54829de261a0b51c87e5dfd7b2a4"/>
+		<rom name="Hana no Keiji (Normal)\data.sp" size="409600" crc="7d545d9b" md5="02957ed69f5b6221f219ada305ee52c1" sha1="300026cc3b3a30a786387cec3f98b3709279719a"/>
+		<rom name="He's a Millionare!\ExRich_505.jam" size="251" crc="461a4d2d" md5="a6846fa362c35bc0bd58df1a0813e95a" sha1="160d84ad84d4f52fb7af9f2aee615984e84fa7eb"/>
+		<rom name="He's a Millionare!\ExRich_505.jar" size="27959" crc="a6913d6b" md5="c9a71c1d82dc1230591c2d168d72e709" sha1="269cea57ec83b01c6ba365eddf9bdd6ed7c8a7d9"/>
+		<rom name="He's a Millionare!\ExRich_505.sp" size="41024" crc="23be28ab" md5="66f34bd1ebdef87132ff6fb5de587a04" sha1="6f94e9a8780952025557505ac40dbd87f85cd939"/>
+		<rom name="He's a Millionare!\readme.txt" size="14" crc="e7bfa7dd" md5="9b7c3223fe16e4df4de851bb043551e6" sha1="7d97b30cc9d767bb5710380b80289b076a1f47c1"/>
+		<rom name="Hitofude GAMES\3811.jam" size="418" crc="b517fd2f" md5="7ae3bf899877f1e7de50b63ab029c1ca" sha1="73310735b95e301ae5448eeb935ca2e5248812e4"/>
+		<rom name="Hitofude GAMES\3811.jar" size="92759" crc="6b8c6c65" md5="739d4396bdfcfed989e890f461822d54" sha1="559bd07d09ba40297bd89efb2d12b2aa7ebc72c4"/>
+		<rom name="Hitofude GAMES\3811.sp" size="261184" crc="756d9ca4" md5="b02dcb8cbf7b1839867ff4692261bea8" sha1="715d0aa209cd7d4073459f8f2367131791f744b1"/>
+		<rom name="Huusen\Huusen.jam" size="343" crc="8480b5fc" md5="2662ef561e5675725a94d392fc76ce91" sha1="28e30e54998711487c86b67e99ba13370be92701"/>
+		<rom name="Huusen\Huusen.jar" size="29913" crc="1bead4fb" md5="34d3664c37a78f30e8e1da5cc7b3e63f" sha1="dde7e8852e8dab36c8f882cb8cd4740c03b72c1e"/>
+		<rom name="Huusen\Huusen.sp" size="102464" crc="a418f523" md5="ea4eac1918f1f5bcf519bc645f5fa011" sha1="cb3945a190472e66881974cc6cfb2a4b621da948"/>
+		<rom name="Huusen\readme.txt" size="7" crc="608487bc" md5="91e02cd2b8621d0c05197f645668c5c4" sha1="c112e88173d4d3c5c1409a17bee4837673523991"/>
+		<rom name="Iruna Senki 3D Lite\iru_prein.jam" size="584" crc="8e30aeb6" md5="d1c2e411421712ec669023ea1550f246" sha1="1d2c62f2f51b2f7420f97f5c63ccfdcc9c84b266"/>
+		<rom name="Iruna Senki 3D Lite\iru_prein.jar" size="1395234" crc="77dc1d80" md5="41abf7c6591c4be390c583a504faff60" sha1="7d12ada3d8d5ec11de60058e3797107cac6c0a93"/>
+		<rom name="Iruna Senki 3D Lite\iru_prein.sp" size="532692" crc="94ecb791" md5="e4d485fad5fd2e284e260795b26294fc" sha1="5448b66fb948282f4c9c7b58e8dcfabc12a1d525"/>
+		<rom name="Iruna Senki 3D Lite\readme.txt" size="57" crc="81ab425c" md5="46edabb29ba724a2efcf5c562c48ce97" sha1="d8d318df1a7554c6977041762207aa6ec9bac564"/>
+		<rom name="Iruna Senki DX Land\irunadx.jam" size="558" crc="f9e0c7f0" md5="12d7b867ae7bbe2b08471d7d2e20a92f" sha1="366690a53fc712059f667ede39d97b57bc7dd0cf"/>
+		<rom name="Iruna Senki DX Land\irunadx.jar" size="949213" crc="fe13e7c9" md5="9225ab93065ed742d21f4e39363f4641" sha1="5ed9faa80a6a5873681760be53d298c9a5f188bc"/>
+		<rom name="Iruna Senki DX Land\irunadx.sp" size="33614" crc="1ba2ed51" md5="883ba9e5f7d514072294d974d69cf4bc" sha1="f21b3f5cd0bbc8b664a50928fb6659e16168854f"/>
+		<rom name="Iruna Senki DX Land\readme.txt" size="11" crc="52684634" md5="4042ca0d975296d9604b47994c987545" sha1="0e16c863d405729266e7185bfd221c02b2490fb2"/>
+		<rom name="Iruna Senki DX\irunadx.jam" size="552" crc="dec2b849" md5="1fea16e47c1443406d8afa2c348179ae" sha1="4275958c910679d22d0ba58f3780179fb95866f8"/>
+		<rom name="Iruna Senki DX\irunadx.jar" size="975420" crc="a5a7a1ab" md5="d33fdebb193beff75d6b3768cfdbb796" sha1="0844889e55e116540127814dd0a544c5337a509e"/>
+		<rom name="Iruna Senki DX\irunadx.sp" size="28964" crc="4a8ba66f" md5="64221e1d94f56eed0912565a805926b7" sha1="e22c31431b4f2193dddb594e985b20e8eaf6840a"/>
+		<rom name="Iruna Senki DX\readme.txt" size="11" crc="52684634" md5="4042ca0d975296d9604b47994c987545" sha1="0e16c863d405729266e7185bfd221c02b2490fb2"/>
+		<rom name="Iruna Senki S\IRUNA_STAR.jam" size="691" crc="6721c4c1" md5="9a08654b82f010d332b1889dc942f7e1" sha1="a935758de78d372608dff43a4ef4cd8eaa9feebc"/>
+		<rom name="Iruna Senki S\IRUNA_STAR.jar" size="1552128" crc="f157e621" md5="69179a692cbe34d985126f379b3ffb83" sha1="f49a2c75670de6927974c7a85db6b86ec7389fff"/>
+		<rom name="Iruna Senki S\IRUNA_STAR_MINI.jar" size="16628" crc="a189c8f2" md5="24952491e04591c9cee91b9f59ce81bc" sha1="2f9680b93fb2a3a7a9035eae0ccf2181738e509c"/>
+		<rom name="Iruna Senki S\readme.txt" size="54" crc="eb76cff1" md5="324ec50a98f204b5dfba4eedd2550f6f" sha1="fbf3efafb00af52fccfb128e7d6f287b67caf141"/>
+		<rom name="Jannavi 4-Player Mahjong Online SPHS\Jannavi_HS_mbga.jam" size="574" crc="a3386189" md5="5e996fd06c26c4d02d9dfc61b547a859" sha1="394df779f48b6f0fa8e112f3114d6a7a443278b1"/>
+		<rom name="Jannavi 4-Player Mahjong Online SPHS\Jannavi_HS_mbga.jar" size="354126" crc="ce5631df" md5="ac5a601f642dfa591377de1ea4af9609" sha1="a88e5a8a507b4a369f79a975ff437d746a424ff4"/>
+		<rom name="Jannavi 4-Player Mahjong Online SPHS\Jannavi_HS_mbga.sp" size="1603136" crc="c3ea16f5" md5="6e3c3450d33ca60b4a5ed891595470bf" sha1="b691dfbb8474ce0067fafba543cacc6d1ae6ae51"/>
+		<rom name="Jig Browser\jigb9_doja2.jam" size="549" crc="a7205cc2" md5="819ec3affe3692c1d0f032b481b0b70a" sha1="f1deb09f2503b9291d30b67159a65f440ad5eb07"/>
+		<rom name="Jig Browser\jigb9_doja2.jar" size="515068" crc="5fe368ae" md5="f632862bf3552838b269c54056dd09ab" sha1="df6cea560c289fafbb2bce80d5c8ddeb3d10b5aa"/>
+		<rom name="Jig Browser\jigb9_doja2.sp" size="512064" crc="48c94220" md5="fa716d84031be320a1492f067e7f3877" sha1="d5196e22d0fb6e652bc57f10c92c32ad91fd7a06"/>
+		<rom name="Jig Browser\readme.txt" size="93" crc="ae36050a" md5="65f825996c93cefd5f7856207adfab4d" sha1="db1c8842606b752a035d96f8388c8cbe02be4a42"/>
+		<rom name="Junjo Yoshi\38_unojy9.jam" size="242" crc="97913e4c" md5="42f2b054a9bd1c3d4d2ae3d5aced356c" sha1="ebc9630617b1a27a721a1554972aeb4a4517014e"/>
+		<rom name="Junjo Yoshi\38_unojy9.jar" size="28514" crc="4a159fb4" md5="a46dcce3b8253daceca72991d0fe8666" sha1="43b09f5840eeab818ba25ef5d4f99ac295fcf80e"/>
+		<rom name="Junjo Yoshi\38_unojy9.sp" size="40064" crc="c3054326" md5="e184abbc35778ed2fe2ec1642df5439c" sha1="1b0ed2bf65a68e0b74ebc88817975adadb1e5df0"/>
+		<rom name="Junjo Yoshi\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Karada Tune - ShokuFit\readme.txt" size="67" crc="6345bf84" md5="54c2ff405bcef993399b5bd2ef9048d0" sha1="c8f8e0808dc412453fd1947280d68a57212b1138"/>
+		<rom name="Karada Tune - ShokuFit\weap00.jam" size="407" crc="fb89e2e5" md5="fcf37ccb3698ed0a097ca6e5bf3f14f1" sha1="e4b368f2e25904b9b04c25daa4048e218371d11f"/>
+		<rom name="Karada Tune - ShokuFit\weap00.jar" size="777942" crc="5e79d793" md5="498ef449f79fd135207668d278226330" sha1="e5cc532b171e2d6f53a79edadc266e7058c04e02"/>
+		<rom name="Karada Tune - ShokuFit\weap00.sdf" size="312" crc="dbd08c9d" md5="0ae84f7318e98c8757045b301e88df39" sha1="2f5f778ac22c20b6dc9accac8b25d29473082602"/>
+		<rom name="Karada Tune - ShokuFit\weap00.sp" size="112704" crc="9674c86b" md5="0323cafb718406c06c0f5155373247bb" sha1="9a4e626e940a2a0044271f1a7e7153a3eeab2d3b"/>
+		<rom name="Karada Tune - ShokuFit\weap01.jam" size="399" crc="bf2710d2" md5="33b7337945f572f19cc325054ee1d81f" sha1="14b94cb25b3a17d971a0eb909d4339d28f011bae"/>
+		<rom name="Karada Tune - ShokuFit\weap01.jar" size="300526" crc="f0541a92" md5="2a8fc56ce19f5d199c37c499008a172c" sha1="a219975d295763dc926da2995f776ec44faad1a2"/>
+		<rom name="Karada Tune - ShokuFit\weap01.sp" size="204800" crc="d5374f3f" md5="c522c1db31cc1f90b5d21992fd30e2ab" sha1="e125b3b7525bd2a65d9bc7591f6cfedaf57a034a"/>
+		<rom name="Keitai Brain Stretching Thorough Diagnosis (supervised by Professor Ryuta Kawashima) for GREE\b_tettei01_Gree.jam" size="501" crc="1fed5a8b" md5="0a22c3ec92e47fe5973fb0164d8f8bc6" sha1="94fd1bf0ccb1f121f3b37f5f6b1ca18ff77c27b9"/>
+		<rom name="Keitai Brain Stretching Thorough Diagnosis (supervised by Professor Ryuta Kawashima) for GREE\b_tettei01_Gree.jar" size="556319" crc="ee20e7e4" md5="b61fd9041a3388174902926fc188408d" sha1="f7b7e8f1de4569afb30c0aaa4f3ec791318d1449"/>
+		<rom name="Keitai Brain Stretching Thorough Diagnosis (supervised by Professor Ryuta Kawashima) for GREE\b_tettei01_Gree.sp" size="1264" crc="36ce702c" md5="c1de046c576cc036cb4a9837a4fc4085" sha1="934605398e001872365391348df754e0e8a11c50"/>
+		<rom name="King Pulser Remake\kinpul_renew_N506.jam" size="275" crc="a63146d9" md5="a1bfb6aa32aa9f829728319ec90c3d93" sha1="67dcccbd8935bf55bc28ea8e114fed4fce2b4c23"/>
+		<rom name="King Pulser Remake\kinpul_renew_N506.jar" size="30591" crc="89e61250" md5="31782aeed827622e2389470e33df1554" sha1="f64ad96a6137ddcc9640c060ca31f3ed9afdcdd8"/>
+		<rom name="King Pulser Remake\kinpul_renew_N506.sp" size="204864" crc="2348458f" md5="674c408525859275c68a497bf19c6441" sha1="dc519b29f55e3ab8120759e698e47af1dcb40097"/>
+		<rom name="Kingdom Hearts Avatar Kingdom\KHAvatar.jam" size="631" crc="273b675f" md5="2b2512f050a7643c8ba74286a8b406c2" sha1="5bbc38b668c79883f546468bfab29b4c7e9f50fe"/>
+		<rom name="Kingdom Hearts Avatar Kingdom\KHAvatar.jar" size="260807" crc="99586b1e" md5="20542b383248c5a82e3360936daf9cab" sha1="e99032eb38f5b556582eef36a713997085e1e825"/>
+		<rom name="Kingdom Hearts Avatar Kingdom\KHAvatar.sp" size="532544" crc="80e8dba6" md5="f0728db22f86a1395fcf30a2c642bc17" sha1="87eb73253f855d93645f03c298f8c0f397ba6f57"/>
+		<rom name="Kingdom Hearts Avatar Kingdom\readme.txt" size="119" crc="eeca59a4" md5="c4bd8a6d380590e3320026cb9345ad56" sha1="3c5a38dfb89e18dcd31a4bfa81316a882361ba36"/>
+		<rom name="Kingdom Hearts Coded\khcoded.jam" size="722" crc="0d9b0505" md5="3b5f203da4b50eadfaf7df718ec440d1" sha1="9bc572e01c584d803e63268a747dbbb052bdd055"/>
+		<rom name="Kingdom Hearts Coded\khcoded.jar" size="666779" crc="1e46f84f" md5="9f42c7191dd25e2b4e5b9e0abcb9a704" sha1="b1a3d65d852736feadd50772f1677dac5cec244e"/>
+		<rom name="Kingdom Hearts Coded\khcoded.sp" size="5184" crc="b03dab32" md5="9a9202490ab93917b27391742be21e4a" sha1="8773baf0be9354d766dced9c24ff236e705ea0cb"/>
+		<rom name="Kingdom Hearts Coded\readme.txt" size="39" crc="0e11ff42" md5="b3eb8fe2e955010fdf23bfc115aaaf53" sha1="0c24e3e41680c3291c4b859f912288c954f80d7a"/>
+		<rom name="Kurabette Check\31_unokc9.jam" size="242" crc="30994fae" md5="49e48be66cf0ac086c50c000e1afa39e" sha1="19fab6c441e6ecc914947e8a223b12cdd2216c7e"/>
+		<rom name="Kurabette Check\31_unokc9.jar" size="28324" crc="7c45e42e" md5="373264e6ef31864237e2ddb560eede8b" sha1="3e2d6f02a30612bf4c5648b4b5468c0ee2aba452"/>
+		<rom name="Kurabette Check\31_unokc9.sp" size="29064" crc="c3bcbc56" md5="49ba52c616868275a2ccaaba28e6a5f3" sha1="0f653ace969b9f53f40042c521965bda12dde32b"/>
+		<rom name="Kurabette Check\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Kurukuru Card\34_unokk9.jam" size="240" crc="a501af44" md5="2bca190adf3fe19637035a10e6aba905" sha1="221e1d9a19d19f4cfcdb3cae5e7079f87b885f5b"/>
+		<rom name="Kurukuru Card\34_unokk9.jar" size="28374" crc="947dc64b" md5="a1f925ceb7b27217d166d81eb0f1d1ad" sha1="5b968835a0cb45605dbf5f8ee5cf42ff8da1ceff"/>
+		<rom name="Kurukuru Card\34_unokk9.sp" size="24225" crc="89140e40" md5="fee753d5f72b585906081738b8c9b2ac" sha1="d459fe24edf5dd9dfdde3810488f0a292d133bc4"/>
+		<rom name="Kurukuru Card\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Kurukuru Photo Feel\PhotoPhoneBook.jam" size="337" crc="69b2e09b" md5="ae3fb5f2b1c80847e7005c44d81e158a" sha1="7df296845e664f85e830a9f50d1acc3aaa0f2448"/>
+		<rom name="Kurukuru Photo Feel\PhotoPhoneBook.jar" size="30357" crc="a500aa86" md5="3da54e95a5f7f984c4e21d01f7d3635e" sha1="7c4c77deb39deac95c7e2deff9b95c1d6f97ddc1"/>
+		<rom name="Kurukuru Photo Feel\PhotoPhoneBook.sp" size="204864" crc="2b8385a5" md5="c795cf4a87887156b397891e0c2c34a5" sha1="ef3f14f36944b1ed158a584f5a2cfa79be0f24f0"/>
+		<rom name="Machiko's Balance Sheet\readme.txt" size="15" crc="7bee4325" md5="4b6ab7f52ff27f2f97e4106a85192a73" sha1="dfd88ad3265f40cf2b8729b9f6a08d08f845b9f6"/>
+		<rom name="Machiko's Balance Sheet\shushii.jam" size="270" crc="c1dc51e1" md5="c845479ee92add3bd77bc39355dee0b9" sha1="42fc30bd35d54d31df04e2e52be799a4eac76165"/>
+		<rom name="Machiko's Balance Sheet\shushii.jar" size="59532" crc="2e6401b1" md5="fc43c1cc32c22019f32487904f192be0" sha1="0b42c8238e3d9dd91e16a9e332d733b2b67dfcf7"/>
+		<rom name="Machiko's Balance Sheet\shushii.sp" size="408300" crc="15170e26" md5="1928342ee356e767b44b57891155c6d2" sha1="a4c337939d32e286013420414d9406b5885d74bc"/>
+		<rom name="Magical ☆ Character Place\NumPre.jam" size="369" crc="1b8673af" md5="8f12a13619b1a0d34a784480b53ba395" sha1="d7c9a50ced7fb8fb3ba14455a49855baf0ea1501"/>
+		<rom name="Magical ☆ Character Place\NumPre.jar" size="23259" crc="1a32a551" md5="78c0c3dab552570be26781d9ff0b1932" sha1="d8d26759abbcf71728ad51d475cbd69a620dd9e7"/>
+		<rom name="Magical ☆ Character Place\NumPre.sp" size="128064" crc="49498332" md5="f9376d1c8f276725294701994eb0b498" sha1="a4dded5d3452726bb0e6551309ea2b7607371ee8"/>
+		<rom name="Mahjong Tile Capture\3800.jam" size="300" crc="e5e9f77b" md5="0cd55987db85307948de89a5c4d688bc" sha1="23e217d807bd2063eaf827808c21bcd4e3f2cb32"/>
+		<rom name="Mahjong Tile Capture\3800.jar" size="91693" crc="afb3e548" md5="ed0347dbefbec6203e5b12cad2d2e796" sha1="b21f8b9514312ab2912df9c54be75b58ca9d6f59"/>
+		<rom name="Mahjong Tile Capture\3800.sp" size="409664" crc="126eb710" md5="9513c1d0759de8fd1b33971cab2cc957" sha1="183afa7c4a5fa4a6d7df09993f0c37db73e1cdbf"/>
+		<rom name="Masamune\iSLOT020.jam" size="277" crc="b058a45b" md5="d333830cae51cf4dbf317f1bbf6c3c9b" sha1="6feac95f231c62451d17e44e8428cfe31da98867"/>
+		<rom name="Masamune\iSLOT020.jar" size="888390" crc="84629f24" md5="389cadade3d8a847187622e790316ef1" sha1="51ef7c3b5c57b99de29f12e61a98b5454c973fcb"/>
+		<rom name="Masamune\iSLOT020.sp" size="130128" crc="1c8ad1a5" md5="7976a190f28f930bec37da56d05296fc" sha1="861f147f36ab069445c46f39680fb78008476421"/>
+		<rom name="Memory GAMES\3817.jam" size="416" crc="6315589c" md5="9f3eb51929c51b331695b657eb2ea222" sha1="33a367677bff7a3287714702dc8b11ebba6a5374"/>
+		<rom name="Memory GAMES\3817.jar" size="88006" crc="f5f338fe" md5="d32b23eae48469dc7a59b9c877cf6608" sha1="274248d3629452daf8f741159652c31c49a7378e"/>
+		<rom name="Memory GAMES\3817.sp" size="409664" crc="de2a1438" md5="9fdac616c4577ea5678cd3ea5437966f" sha1="e0b58d6704593bf3de7008439233799e52c9591f"/>
+		<rom name="Moba Darts\3114.jam" size="371" crc="e0a649b5" md5="ef6833acc35a9172385a3f34fa832da4" sha1="7f9ad8aabf0d733f2ae51e7764961cece01bea4d"/>
+		<rom name="Moba Darts\3114.jar" size="101775" crc="4b93803c" md5="bbba89cd5f37a2fa6550dced9652f365" sha1="527355319d7f7fd4dd83a5226375f1080170809c"/>
+		<rom name="Moba Darts\3114.sp" size="409664" crc="de309ff4" md5="386c50310e3198d32382b02ce404972a" sha1="425f38842b6251fea3fc302ea9921043d7d22653"/>
+		<rom name="Moba Gome\3107.jam" size="359" crc="bc71e4fb" md5="ef053ab5001e63cb2a470b3bedf407e2" sha1="776cd68ba1648347240ecd66358298ce6887ca43"/>
+		<rom name="Moba Gome\3107.jar" size="63925" crc="9a998d5c" md5="5a45d6484ca0438216ae7fda21558810" sha1="c3675f625695e06718b3ae0d3f9d8cab9240253a"/>
+		<rom name="Moba Gome\3107.sp" size="277649" crc="0272fb12" md5="be7593a8cfda21fa16c935ddbb44acaa" sha1="ca2fef7dbef40f6f0115e199db69e135cd59e3de"/>
+		<rom name="Moba Gome\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Moba Hanafuda\3106.jam" size="359" crc="ff189863" md5="559a57c7fc60a39eec0fdf237d311f70" sha1="2b39ba1bf548d50bcc4d034fe49a3fd3adafa1bc"/>
+		<rom name="Moba Hanafuda\3106.jar" size="74746" crc="e9753ea8" md5="311c342d0e9c2e578c73a5c12e4b070a" sha1="3babccaa35288667336b8bb640e5c213aa931ef0"/>
+		<rom name="Moba Hanafuda\3106.sp" size="270295" crc="0120455a" md5="aa01d0975f25dbeec0034d752875fcac" sha1="987a3b4caeee8db435bc2750c4e3bc37b89274f3"/>
+		<rom name="Moba Mahjong\1005.jam" size="344" crc="b18c5428" md5="50ab3244437003e09d6b2f5f8037d4ad" sha1="e1d3bcfdaddfd3698eaf4394c3cc72e845d5e760"/>
+		<rom name="Moba Mahjong\1005.jar" size="94794" crc="284a6b87" md5="ee986e6cc216fb83da2d2150e070e8dd" sha1="56aee1554f8ffe9fc558ea672905b24462089210"/>
+		<rom name="Moba Mahjong\1005.sp" size="256064" crc="5bf9d2ae" md5="5bd71e470a16cb4cbb5ebe69b2afb491" sha1="e4a64f6457a3939da498006df09ead7e2d721554"/>
+		<rom name="Moba Millionare\1002.jam" size="346" crc="b105c097" md5="455c826f90ad967670e0cc4276a9e67d" sha1="118b3b9a2b1a90c4820c4266ab323353de221d5b"/>
+		<rom name="Moba Millionare\1002.jar" size="58918" crc="23798da2" md5="55e0a69e8a422285f91704ee76a4d84e" sha1="3eeadbba688142402e17b871aa7bf2f6b058eb9f"/>
+		<rom name="Moba Millionare\1002.sp" size="153664" crc="9e69e373" md5="8d3ccff94ff11ba55635e69c1fbc6443" sha1="6beb62a9606ca8b2811ce191b1d21cd9bea687e6"/>
+		<rom name="Moba Rally\1003.jam" size="346" crc="7a9d70e0" md5="ab38e2400eea7ba806edd0461f8909ee" sha1="062bc03e76b7df6fce10a9b85ad2de498c56118d"/>
+		<rom name="Moba Rally\1003.jar" size="24798" crc="708ed2b0" md5="f2812c9c3c823a2b7e3529547e934ecc" sha1="104b99752cdb54e90d13007a6542641dba0a4e70"/>
+		<rom name="Moba Rally\1003.sp" size="204864" crc="fa807f0f" md5="3071663c70ed251ede904828677686e8" sha1="6fd57d309b3d4de5ada1616a7e7a1794d89b043f"/>
+		<rom name="Moba Reversi\1001.jam" size="348" crc="f0a09d8f" md5="ae3c5e0b84c5904eb74ad5b11f45c919" sha1="4d5cdc2e59e99c5f14dddeb666c35836154f020f"/>
+		<rom name="Moba Reversi\1001.jar" size="30390" crc="d0bdc2bf" md5="5143e9225e23922e204d53d3efcf6f5c" sha1="f452ad3d9ef2a366a4832e48b352f01adfb7c31d"/>
+		<rom name="Moba Reversi\1001.sp" size="102464" crc="90fd3ab6" md5="5787a1faf37a86f3e32d9e9b88b34797" sha1="62ebe0f4610fba727081b38edfc7b252b5d7b78f"/>
+		<rom name="Moba Shogi\1006.jam" size="344" crc="6279c0af" md5="d76e1d98d945a885161bdd9567357df0" sha1="6c6f079b0ab5705fbce68e173b68ca33fdadf3da"/>
+		<rom name="Moba Shogi\1006.jar" size="49627" crc="508d37bd" md5="53add2de555a3b4d30035be3147a6eab" sha1="dd7286c74e516370ec0914ad97c6ddbd10b5d54c"/>
+		<rom name="Moba Shogi\1006.sp" size="204800" crc="0a70fc72" md5="944c2f7322aae096fbdc41c3ea64a3fa" sha1="5941947416dca0702691045c98d59f88a8d5e830"/>
+		<rom name="Moba UFO\3108.jam" size="373" crc="48ce239a" md5="3145d3949e2ee76043f4d0cdee4b33fe" sha1="3bea5f61b29b95771d87ef68329f7e971c1c61f7"/>
+		<rom name="Moba UFO\3108.jar" size="96688" crc="72a103a0" md5="6e7a31367d590ed8b23f232b5a3ea01f" sha1="64bf921395196817555d7ee1b76c38567ed021d6"/>
+		<rom name="Moba UFO\3108.sp" size="325472" crc="de78f3f7" md5="bc707e5b52415aeeb844f0b74cb2dfb8" sha1="4006829b05b6bb972dec76e438be8a325be22f70"/>
+		<rom name="Mobasoritia\3113.jam" size="328" crc="9c954c17" md5="aa9d1ddfd8ad425fac60725262803139" sha1="d2b8c83f35262d38571da7356840ba2f858d86f2"/>
+		<rom name="Mobasoritia\3113.jar" size="73619" crc="2ba08f2b" md5="88f40437830e9a92bbf7628b0b13eed9" sha1="68ae07558e3e8a1f80695dca8b5f701e7429a1ce"/>
+		<rom name="Mobasoritia\3113.sp" size="256128" crc="1e0af673" md5="942d0239e3680185407c3b0ad3f631b9" sha1="52d64fb9d7cb4a7bae93ac183deb8f8c58e65ece"/>
+		<rom name="Mobasoritia\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Mobile Four Player Mahjong 2\Majan42.jam" size="209" crc="ef9ee68f" md5="74e5965619e67af42a17a8f9f1119d19" sha1="676233915873e29d79fc4633a4b1c1453070214b"/>
+		<rom name="Mobile Four Player Mahjong 2\Majan42.jar" size="38000" crc="afe33732" md5="4e344c4256642fcd4ecaff5fad779f2e" sha1="d55bf00e97ece9d51cd0c142be5d6ece7afc4938"/>
+		<rom name="Mobile Four Player Mahjong 2\Majan42.sp" size="38122" crc="217d0107" md5="9e8d6c1d6039d60f3303a3fd1a416702" sha1="34ca9afb897a6699f45ce0736987662cba94f74e"/>
+		<rom name="Mobile Four Player Mahjong 2\readme.txt" size="16" crc="6886ef0a" md5="27222c1ad54c19de192267a7c3dddc06" sha1="8e7f8e468088ebdd0789a69804efdc04257dde7f"/>
+		<rom name="Mobile Spy Open and Closed Monitoring\spy.jam" size="262" crc="2c6538d5" md5="a11289c0400210c64ccfd2616b7cf4e0" sha1="d3649798af16e236fcb5796b3ce3db24a56ca195"/>
+		<rom name="Mobile Spy Open and Closed Monitoring\spy.jar" size="9901" crc="4afe5eae" md5="b43ff089db538375ea1f22312ea3d1b7" sha1="9d38b1bc2c5625b5871dead4bd6d5d2a92fda3a9"/>
+		<rom name="Mobile Spy Open and Closed Monitoring\spy.sp" size="9073" crc="54c8c0ab" md5="25961ccbdc121403afefa2076f5b83fd" sha1="a0dbe2079d2b8b503a1b99bfa511bae3c71838c6"/>
+		<rom name="Mojimoji Sagashi\27_unoms9.jam" size="241" crc="95297cb7" md5="26cd60b73abd8e7cc9be817c069bbb68" sha1="a0cb4ae2bfdb9bc905b1871d1575d06b2c557182"/>
+		<rom name="Mojimoji Sagashi\27_unoms9.jar" size="28025" crc="daf6f58f" md5="3d89a39a78ab3a4338e9a52694646f5a" sha1="8dcaa9833b928cf3307c6553f39c48e09fe91bc4"/>
+		<rom name="Mojimoji Sagashi\27_unoms9.sp" size="15953" crc="547df399" md5="9c5599c6cbc095d87ac05fa7be6439be" sha1="7fa8a07beac950bc098681b8d770c3db83b69039"/>
+		<rom name="Mojimoji Sagashi\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Mojipittan for Mobage Town\2020.jam" size="473" crc="3e22e006" md5="261eb79741b87b3a1a03ea0e0838aabc" sha1="2e977dc4b3281a36fba25cb1dfe2243fcb50ea74"/>
+		<rom name="Mojipittan for Mobage Town\2020.jar" size="30501" crc="9c0d61f7" md5="e7c27dcc1833de25afd9b1cfdcf920b2" sha1="430b3acdbb3c9f45b2812352b7ec24b64c8237c2"/>
+		<rom name="Mojipittan for Mobage Town\2020.sp" size="204864" crc="470fd9dc" md5="22306648798d7ed89f6708d32fd8d5e7" sha1="ce940f4b030e2df3fb310c1857ff6f00851a0da0"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\mworld_on_prein.jam" size="513" crc="5a68b322" md5="77b4588661a954bf3f8e821f8375d448" sha1="8ed916d29f742bac06997af4c20ee1febfd2ac4d"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\mworld_on_prein.jar" size="199134" crc="9870f86f" md5="bb80b0e0bb766e2f903df601df6e5cbc" sha1="58eb2944fed13139c9de5bb4ecf66db94e3d11b2"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\mworld_on_prein.sdf" size="380" crc="821fbc94" md5="9dca3e3f413c6659e13fb9e7a722a310" sha1="0911777236d4c7486ca678a9c6b942ab64ce7a01"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\mworld_on_prein.sp" size="512064" crc="e7efff8f" md5="51c150b8dda16b49cc90675139e715da" sha1="037dad12f163bddd9a3dadb7fbb7814657a2d4c3"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\P-01B Version\mworld_on_prein.jam" size="530" crc="f44b3f82" md5="ee263d3d674a2eb1a58f02c54a0740ac" sha1="c5f20b5a10b390c78798a49d6d4797144d8bf4c9"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\P-01B Version\mworld_on_prein.jar" size="199134" crc="9870f86f" md5="bb80b0e0bb766e2f903df601df6e5cbc" sha1="58eb2944fed13139c9de5bb4ecf66db94e3d11b2"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\P-01B Version\mworld_on_prein.sp" size="512064" crc="e77fbcf9" md5="7543863d420c8596b641b8802eba627c" sha1="4582b15e54d098fb53440e4b790f9a8cb8518d7a"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\readme.txt" size="18" crc="6fba939b" md5="6aa013a2af2951e1d97d33a727cbb085" sha1="0fe30ac7ed37672bcae88f206dd83ad6c9737992"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\SH-02A Version\mworld_on_prein.jam" size="530" crc="5534b89b" md5="a0cd32ebab34aaffeb9b349e978e8fa8" sha1="17ac28c049052786089e26518d5d0d3136ead5ef"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\SH-02A Version\mworld_on_prein.jar" size="199134" crc="9870f86f" md5="bb80b0e0bb766e2f903df601df6e5cbc" sha1="58eb2944fed13139c9de5bb4ecf66db94e3d11b2"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\SH-02A Version\mworld_on_prein.sdf" size="380" crc="821fbc94" md5="9dca3e3f413c6659e13fb9e7a722a310" sha1="0911777236d4c7486ca678a9c6b942ab64ce7a01"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\SH-02A Version\mworld_on_prein.sp" size="512064" crc="adb26ef7" md5="1934b7752207095dc63724599890a798" sha1="5b98128181d146455119ffd5482e9f877b347ead"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\SH-07B Version\mworld_on_prein.jam" size="518" crc="5c919bb4" md5="bee84c69255f2bba28c15dea9a94cc04" sha1="e40ad4e72596423ecbfd20d1c4dbd3336fa3a2c5"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\SH-07B Version\mworld_on_prein.jar" size="157405" crc="6841de0d" md5="1b7405bf02a2b9000439182a5d0b4787" sha1="9ab36e8a1bbe0f08247a83bc8776a93da8983b58"/>
+		<rom name="Momotaro Railway WORLD Long-Distance Battle Version\SH-07B Version\mworld_on_prein.sp" size="512000" crc="80479017" md5="9d704d1a0b06436e92d3f4aca5e9f6ed" sha1="f76014b0bb85068e35017bbb8660a0bd62d952a0"/>
+		<rom name="My Sky DX\myskyBonus_F.jam" size="395" crc="5fb22bd3" md5="4913491fac64bf6234385c6355966a77" sha1="e81ca602453cee130edf20df8debb69d4ad19a70"/>
+		<rom name="My Sky DX\myskyBonus_F.jar" size="35366" crc="e0e668e1" md5="99e776d508943281befaff989f72bf07" sha1="ae1fa2d5fc4035cade78ab81382427e7d8e76bf4"/>
+		<rom name="My Sky DX\myskyBonus_F.sp" size="409664" crc="0a0e45c6" md5="15eb12d24e6f63c64b1523421d959fde" sha1="a117f2cb24d37d1f10cd90e59f90d88508286595"/>
+		<rom name="My Sky DX\myskyNormal_F.jam" size="394" crc="01fd3a1a" md5="ab890cb8ab754d82c807ec934eefa42c" sha1="a3b6f434615acc13b252c02d666d3b03fb23e5cd"/>
+		<rom name="My Sky DX\myskyNormal_F.jar" size="93381" crc="201caaac" md5="94cc26656b376b169bfe72e593c7cd78" sha1="1d162fb5a9280987fa15d73c4cfbe9fdcacb0ea6"/>
+		<rom name="My Sky DX\myskyNormal_F.sp" size="409664" crc="d8ec0359" md5="d17e4c95bade9c6e8bc747c1b157ee00" sha1="48950cb44ab2146bc21b3a86a1570228b5273e31"/>
+		<rom name="My Sky DX\readme.txt" size="39" crc="1607d2d0" md5="7c6381e7de383d7adf9a2bdaffe9fb04" sha1="6c9e35a336e496baff809471c46a0a3fc018a789"/>
+		<rom name="Naniwa Mobile Road Extra Edition\trial4.jam" size="308" crc="be9b042a" md5="8b88475c8d04c5620820a9bebae374b1" sha1="2eeeb96778cd2625d0dd29ac683b58284751f528"/>
+		<rom name="Naniwa Mobile Road Extra Edition\trial4.jar" size="27406" crc="4fda4f71" md5="65b5e1686d8046853c78dbe66c440559" sha1="b069173cae13c498e60b58fd14d26c463858f452"/>
+		<rom name="Naniwa Mobile Road Extra Edition\trial4.sp" size="200064" crc="17247a09" md5="fdcf1cff8d97d9e376e672a790bd2ddb" sha1="9424990d4e2bd43b6fc12a16bb31bef4f79137ad"/>
+		<rom name="Ninja Spirit\gos_All.jam" size="259" crc="7dc68e27" md5="1b1a19c022c88f3f0d2a91716a8aca6f" sha1="f951f0e49e41d9d3ece93d1112249a0471f627d7"/>
+		<rom name="Ninja Spirit\gos_All.jar" size="803529" crc="89b1282b" md5="ae407d2cae1475000c3b82a811f6bbaf" sha1="b53347d629ba7416e5627465c7165a9a8d8e67fc"/>
+		<rom name="Ninja Spirit\gos_All.sp" size="225344" crc="3d956c98" md5="d217c2f11a76a0bd00c2e68efabd8509" sha1="29ca8912d9483f903a74e25d0e42aa8aa633b586"/>
+		<rom name="Ninja Spirit\readme.txt" size="15" crc="7bee4325" md5="4b6ab7f52ff27f2f97e4106a85192a73" sha1="dfd88ad3265f40cf2b8729b9f6a08d08f845b9f6"/>
+		<rom name="Nouveau Riche Farm\Noen.jam" size="221" crc="1550f245" md5="cf5abe25b53cc1108003722004dba2cd" sha1="a2cfeb40b6f467bf715925d51f23de3b9d17b2e1"/>
+		<rom name="Nouveau Riche Farm\Noen.jar" size="79563" crc="9ac759e2" md5="a66a38d3a0e476c6b147dbe23e2bb6cb" sha1="2f8223816e47f014cc439972da8f176ec889db7b"/>
+		<rom name="Nouveau Riche Farm\Noen.sp" size="44980" crc="4bdf3cc8" md5="ee5c6f03e7e072fdd9422cfe388a6a81" sha1="e1ec7af8aec4c51e5806bc6ff541088dfe82486a"/>
+		<rom name="Nouveau Riche Farm\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Obachan and Fire\ObaFire.jam" size="230" crc="8ab6ad60" md5="5eaeffdbc0ddaa0c54712a2672d46f41" sha1="4425343c45b78df181becedc943360b4e7803893"/>
+		<rom name="Obachan and Fire\ObaFire.jar" size="72416" crc="fdbd9ef9" md5="7dae334e002cfe4b28bb42cc45df09a0" sha1="b5a113ee0201e12aff46c7d3e6f782a8699cc606"/>
+		<rom name="Obachan and Fire\ObaFire.sp" size="64032" crc="46febaca" md5="b3b77918ad04339fc8655680ece7c05a" sha1="f0475dcd869bfe1c6e26dcf40cd7b8ef364fb3a2"/>
+		<rom name="Obachan and Fire\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Obachan and Star\ObaStar.jam" size="210" crc="f7148c79" md5="5caeb2710297ea8be65a3c953adb931b" sha1="fdc1c4af3fc1f2e60b2df224314af309a5a91283"/>
+		<rom name="Obachan and Star\ObaStar.jar" size="63121" crc="2145076b" md5="a8db6d45a9f82eb04902ed5abbeb0905" sha1="fd4e5fadf24baecfe04cc59282f06de152f9457d"/>
+		<rom name="Obachan and Star\ObaStar.sp" size="27714" crc="29bc84f7" md5="a7959f51086c8f5b71118f6245740e3e" sha1="b75df5ed4c7559e995b55758619f896cb039d4d2"/>
+		<rom name="Obachan and Star\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Osu! Bancho HG\iSLOT001.jam" size="365" crc="8057efdd" md5="4e3a850ef38ea2cc10dec704183b997c" sha1="854ef92a7147bdbe51d721bb3b55e485b5c45afa"/>
+		<rom name="Osu! Bancho HG\iSLOT001.jar" size="772466" crc="aa462b69" md5="2aafd69d21f1a1ddd4587879807e0652" sha1="517c8d2de87316c303572508f761a9f59f7cbd8e"/>
+		<rom name="Osu! Bancho HG\iSLOT001.sp" size="229472" crc="26d349d5" md5="2a827807a4cc7b01d46495371b89eaf9" sha1="f8929de5728b74d4fafab7255b28586a3b1a9cc8"/>
+		<rom name="Pachislot Fist of the North Star (2011)\13020650_slot_doja50_n905.jam" size="494" crc="28e2e00c" md5="33c4d297b5b24126ef93faf10ea458df" sha1="e59efd67a48b5e562b494150cf3dd8adee4c539f"/>
+		<rom name="Pachislot Fist of the North Star (2011)\13020650_slot_doja50_n905.jar" size="1005724" crc="27440ff3" md5="3f4c25d83f3aa4cc86d13ee520c519f5" sha1="81e215a08b65c891088232c9d1a68541d5cdcae0"/>
+		<rom name="Pachislot Fist of the North Star (2011)\readme.txt" size="31" crc="99d63e9c" md5="f6614db7a39ca1d087379a7428e2b478" sha1="4460dbcfbe7b709499869df556a6bac0d3ed761c"/>
+		<rom name="Pachislot Fist of the North Star [Super DX App]\hokutofvSDX_doja50_n905.jam" size="510" crc="3db05e16" md5="1cd6c345bc60ba717ff9d5982db2520b" sha1="183b9546ab0403adbcc61b28899a31f0edccf9ff"/>
+		<rom name="Pachislot Fist of the North Star [Super DX App]\hokutofvSDX_doja50_n905.jar" size="97540" crc="2b9b9534" md5="fd44e4f9517550df37d43aa0522c9136" sha1="e799712b618cfa2c54c7f5ed0885974c06a77859"/>
+		<rom name="Pachislot Fist of the North Star [Super DX App]\hokutofvSDX_doja50_n905.sp" size="901184" crc="6b068284" md5="ac59c37c2766d146a948c6fbfdd15b77" sha1="14cb35112b59ffff8871f74448721bb346c6a617"/>
+		<rom name="Pachislot Fist of the North Star [Super DX App]\readme.txt" size="31" crc="99d63e9c" md5="f6614db7a39ca1d087379a7428e2b478" sha1="4460dbcfbe7b709499869df556a6bac0d3ed761c"/>
+		<rom name="Pachislot Fist of the North Star\hokutoSDX_doja50_n905.jam" size="476" crc="fbe2ff19" md5="33c07cff731947b563620e3ea34c756c" sha1="2c30057984ee24bfe2a92d0c020bf32cf3b77faa"/>
+		<rom name="Pachislot Fist of the North Star\hokutoSDX_doja50_n905.jar" size="91695" crc="208f60ae" md5="226a632bc507f74e9f96504d04954a15" sha1="7757ab66dd870609e763e5a0133deb57d4fd906a"/>
+		<rom name="Pachislot Fist of the North Star\hokutoSDX_doja50_n905.sp" size="901184" crc="c2d4dac0" md5="fe2c32166fd9324b8c5fd55ab9ddab2f" sha1="685a8efa1b7d064912f4d8d6f3d004ea10b0cc1a"/>
+		<rom name="Pachislot Fist of the North Star\readme.txt" size="31" crc="99d63e9c" md5="f6614db7a39ca1d087379a7428e2b478" sha1="4460dbcfbe7b709499869df556a6bac0d3ed761c"/>
+		<rom name="Pachislot Keylock\3003.jam" size="357" crc="cf7387af" md5="90086181c9e53664b5cf2d8e58720f7e" sha1="1c4f38916cdea725ac4aaad78d9be95ea76880cd"/>
+		<rom name="Pachislot Keylock\3003.jar" size="30671" crc="21450d80" md5="9cd35c47c421cee0b8ad5905a854890d" sha1="30fd84466c1160fa4de841b158cccbe0062a3b71"/>
+		<rom name="Pachislot Keylock\3003.sp" size="204864" crc="b5773b46" md5="26f35da01996220d43aa417d62a78d08" sha1="44d6e1ce493732f14efdb85e7615ae39ee634da0"/>
+		<rom name="Pachislot Umi Monogatari DX\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Pachislot Umi Monogatari DX\slotUmi_P900.jam" size="313" crc="d5292226" md5="c1c9d0fd25ca945ac0365e2495c8ff27" sha1="fcc8a59e9af418c28a8ec66e7587db182a528dd9"/>
+		<rom name="Pachislot Umi Monogatari DX\slotUmi_P900.jar" size="101905" crc="0040da93" md5="cd2df6395acd757be5fc8e11818cf04f" sha1="c0219d7f1e403ee6661ab392888d1be97eecef01"/>
+		<rom name="Pachislot Umi Monogatari DX\slotUmi_P900.sp" size="409664" crc="e1ae97c9" md5="8a84f441371cc780a473cbeed87d3749" sha1="c0a23c9e6914bee3986f9de6a89fc5b49bddf085"/>
+		<rom name="Pitatto Glass\35_unopg9.jam" size="240" crc="aa66842c" md5="f616bd802549f1b60f63b2df0125995d" sha1="55dc8ebf6246155f9aacb0a329f20426f1f04080"/>
+		<rom name="Pitatto Glass\35_unopg9.jar" size="30227" crc="1f5698b6" md5="90e45f9168c2175a5e0fa4438e3ebab6" sha1="7330fce8dce3b3af1f63a58f4820d29d543e88b0"/>
+		<rom name="Pitatto Glass\35_unopg9.sp" size="22434" crc="da0c5cb8" md5="0b49787e7c557858601dff8fb9f538c7" sha1="3374b431ee96355ae2fef6949bce4a5844a03c74"/>
+		<rom name="Pitatto Glass\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Prize Puzzle Pacross\PAX.jam" size="284" crc="af705eda" md5="a3ed0d32f2763a828260e19244beb2d4" sha1="9ffc5fedb09fca84c99900bea8b08efd2b0238ca"/>
+		<rom name="Prize Puzzle Pacross\PAX.jar" size="27059" crc="956d12ec" md5="fd869d611730277772133144bec78f57" sha1="d120d37d9cabe571d0c856eda69e11643dd6ec19"/>
+		<rom name="Prize Puzzle Pacross\PAX.sp" size="168000" crc="af200417" md5="2e4621039d601e7a41e049293c96e25d" sha1="a461144afab6f00ffe097a8667f4de666a5fb4c6"/>
+		<rom name="Promotion de Melody!\mcdemo505.jam" size="324" crc="1b52f7fe" md5="a107f0d3c6f0b5ba20e80270eb2aa122" sha1="efe7242ecece34398b05700e6149022a73699e04"/>
+		<rom name="Promotion de Melody!\mcdemo505.jar" size="30468" crc="703fb1c1" md5="4145b07727f345d2762bf1d4a64133e4" sha1="c58cae734a7d9da4cac8ff12b91ce91426b9293e"/>
+		<rom name="Promotion de Melody!\mcdemo505.sp" size="204864" crc="e4f15fb7" md5="d86adbcbb10e0940c80882212d337075" sha1="045516528421d6a0619fcb1c5e89a5c5cb527449"/>
+		<rom name="Promotion de Melody!\readme.txt" size="13" crc="bb9ee1ae" md5="7e3da884ce337c8fd7fd9ddecdbd0f84" sha1="7369d6a6c9134d37284ef3051e4ab0a62501ad1d"/>
+		<rom name="Puyo Puyo Fever DX for GREE\feverdx.jam" size="416" crc="519acc60" md5="7d00a0c1f2aae28f56137f81d965b62d" sha1="ad643c31fc5dfbfa6a6ae0e677d5caf74e5826fa"/>
+		<rom name="Puyo Puyo Fever DX for GREE\feverdx.jar" size="432014" crc="56556e91" md5="7fb7ea2db0850fce64c501c482c29496" sha1="170c7794bca381e5df3191334b55aa849cd46733"/>
+		<rom name="Puyo Puyo Fever DX for GREE\feverdx.sp" size="327744" crc="f6cb9c30" md5="271f23d99ee9e1523c9405939ada3cfe" sha1="853728990cb2b74f3a4f3245ce161a42fd5bd585"/>
+		<rom name="Puyo Puyo~n &amp; Columns\P905i Version\P905ipuyo_col1.jam" size="419" crc="63713a78" md5="562b89b9f530e7af48d2778ec43eb908" sha1="15b51be89ed07ba18bd10160ef36f8c5539e5618"/>
+		<rom name="Puyo Puyo~n &amp; Columns\P905i Version\P905ipuyo_col1.jar" size="990551" crc="f53c9cb1" md5="19f2b58e2bcaf51b3f702aa3ede0df2d" sha1="765656f914d911eaf62e06ac5cc7ed70aedb8ede"/>
+		<rom name="Puyo Puyo~n &amp; Columns\P905i Version\P905ipuyo_col1.sp" size="2112" crc="cb47e0a8" md5="5dbd21263cdd444547499c636830994f" sha1="17a4edf8200c4e8012554917e125f6e914d24215"/>
+		<rom name="Puyo Puyo~n &amp; Columns\P905i Version\P905ipuyo_col2.jam" size="419" crc="cf17e6dc" md5="df268360caa05e790048f3d7f9008fdb" sha1="40cfe19a19e91cf9c6e4692ca43a1e8e9808a3dd"/>
+		<rom name="Puyo Puyo~n &amp; Columns\P905i Version\P905ipuyo_col2.jar" size="761238" crc="152676fb" md5="edfe849f3fa5ebeb1413d958b865b88e" sha1="60d9523e567af0ce71430945498be03acccb8547"/>
+		<rom name="Puyo Puyo~n &amp; Columns\P905i Version\P905ipuyo_col2.sp" size="2112" crc="cb47e0a8" md5="5dbd21263cdd444547499c636830994f" sha1="17a4edf8200c4e8012554917e125f6e914d24215"/>
+		<rom name="Puyo Puyo~n &amp; Columns\readme.txt" size="130" crc="f7134dc5" md5="47d56fe4267431bba50e6a0e4366547f" sha1="7b730452d7f4138ae4209a9e2a04627f81c27e19"/>
+		<rom name="Quiz Magic Academy Mobile 3 for Mobage\QMA3_fu.jam" size="563" crc="ae06a5ee" md5="7a5ae41ff86aef50b56a4e90dcbf70c5" sha1="249b32a50a5a31ab3bf256e7564c8aeeda830a74"/>
+		<rom name="Quiz Magic Academy Mobile 3 for Mobage\QMA3_fu.jar" size="519332" crc="cf7cf69b" md5="fe01ebad472d304bcf987d45b5859eac" sha1="728a7b211be3f76e20ade9a7b63951fcec83a127"/>
+		<rom name="Quiz Magic Academy Mobile 3 for Mobage\QMA3_fu.sp" size="512064" crc="05496377" md5="dcac02c2f08ba3d26a2d369b8684995b" sha1="d14392f9ce78d77a3ca02dd9470ffd4321bf5006"/>
+		<rom name="Quiz Magic Academy Mobile 3 for Mobage\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Reversi\3823.jam" size="413" crc="5fb90251" md5="bc4c6a7daf8b385c7a9dba9b035aef5d" sha1="80266d6877dd0ccd362e7749d41d47a4048611e8"/>
+		<rom name="Reversi\3823.jar" size="98249" crc="fe4608a1" md5="d9ec5d093baf6a08e4cb28a326617aec" sha1="a2bd3ca8b7d7faa8f4be207875a41c0a937d9961"/>
+		<rom name="Reversi\3823.sp" size="409664" crc="b24814d5" md5="37029d070fcfd2560aebf795550b8844" sha1="d22d02039c886cb550494d30e6bf5c9ffbf8c208"/>
+		<rom name="Right Brain Ability Check Course A\40_unoa19.jam" size="238" crc="e299250a" md5="dfa7cbd822a8a7a1be0437a417a8b3aa" sha1="6dcb2d9c9e6afcbda3b065fa626e9e64013c2982"/>
+		<rom name="Right Brain Ability Check Course A\40_unoa19.jar" size="28000" crc="19e427fb" md5="0dbc4a92e8d0cbdaf27e1b36dd8dd8eb" sha1="263debd2ceb2f33b6af4ca70abe3150c7725d88f"/>
+		<rom name="Right Brain Ability Check Course A\40_unoa19.sp" size="55064" crc="a7767405" md5="f342036b713a77dd71ed909d63592461" sha1="5244fef2658a8c8d0230f2a5f29fbbd294b9e0f6"/>
+		<rom name="Right Brain Ability Check Course A\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Right Brain Ability Check Course B\41_unob19.jam" size="238" crc="23c8ba6f" md5="60428849ccdfec3a23a2b0eb678ac563" sha1="127a2b3c4d8e2b4890514779bc6d0033abd00ffe"/>
+		<rom name="Right Brain Ability Check Course B\41_unob19.jar" size="31355" crc="004f6fd1" md5="0a47545151d279ac8ff09e6c2b311108" sha1="85b8b074f6c2c2560e6b48c371a9dfe8f84ba213"/>
+		<rom name="Right Brain Ability Check Course B\41_unob19.sp" size="45064" crc="f5fa23d8" md5="8b28f18edd20ff6a613ed8c112be05ce" sha1="c2c5b848414e69d4da79b02a143dbcf676d3d836"/>
+		<rom name="Right Brain Ability Check Course B\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Right Brain Ability Couple Course A\42_unoa29.jam" size="239" crc="ee2dd93e" md5="f2466a8419dd1c6c776bc4ab3b634789" sha1="5553b310ff8815727d79cfa096873d92dc3ea662"/>
+		<rom name="Right Brain Ability Couple Course A\42_unoa29.jar" size="28928" crc="fc4db065" md5="64bcc5150b0a2e7ea9130d8567055ad4" sha1="8537f400f593b053cd32791575e0a284845c531a"/>
+		<rom name="Right Brain Ability Couple Course A\42_unoa29.sp" size="55064" crc="e166768d" md5="1ea0b551d8f1e50625bd87a32cf80e86" sha1="16a2098f481eb351a2656dcb319edf2ec156a977"/>
+		<rom name="Right Brain Ability Couple Course A\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Right Brain Ability Couple Course B\43_unob29.jam" size="239" crc="54822a33" md5="83a31f2ea189996fb741045128a61353" sha1="b6089962e793bc9b971302db3bb0f5ae8a6f83cc"/>
+		<rom name="Right Brain Ability Couple Course B\43_unob29.jar" size="32057" crc="a2cf626c" md5="165c4daeb82371e44e5ad5f73a492b7a" sha1="f2b3b2f18ecc044265e91774cdccc7d8a8c30e49"/>
+		<rom name="Right Brain Ability Couple Course B\43_unob29.sp" size="50064" crc="a2813dc3" md5="e70a8ec6cc157d89b9b5b8cd6ed474a8" sha1="0622d02c890072e898aa03906a68c39a12adb237"/>
+		<rom name="Right Brain Ability Couple Course B\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Rokkaku Paint\30_unorp9.jam" size="242" crc="f9347665" md5="2e68dcddaebad3dff0680a7b994f2daa" sha1="e81877db348a793493f90c29f09a503f21336302"/>
+		<rom name="Rokkaku Paint\30_unorp9.jar" size="27996" crc="0fb128f7" md5="d0b6621f1fbff971a1c34dee8aa8b5d9" sha1="2ba5ed062ce538c73dffcae1bfc5f4bfbe4fae2a"/>
+		<rom name="Rokkaku Paint\30_unorp9.sp" size="21892" crc="69652ce0" md5="ce7d74383058a307eac08604313fa12d" sha1="969c939fe852453d917532675af359cff5f3f960"/>
+		<rom name="Rokkaku Paint\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Seven Nights of Illusion\NA_I.jam" size="242" crc="0f9c2176" md5="f65d18179686d37173200d605ffe6323" sha1="c8dea2ca2577ddba00be17ff55cf557ee83f518b"/>
+		<rom name="Seven Nights of Illusion\NA_I.jar" size="30581" crc="f386057c" md5="8ff20328b1a7c486fb0e78028916a612" sha1="7910f6dbcc440ac03e8a5c6fc11d47063d025281"/>
+		<rom name="Seven Nights of Illusion\NA_I.sp" size="200064" crc="d52ec34d" md5="24c809a654e1c670892dee5f6a38bc68" sha1="12d06e30d1999481a86f9d5bb86f9133bbcdb265"/>
+		<rom name="Seven Nights of Illusion\readme.txt" size="27" crc="85e5d898" md5="074969ee2e33843811a25cd821189eb0" sha1="7d7deb7fca0a40535eb296cc74c5141da9d9ff31"/>
+		<rom name="Shake II BB+RB Normal\bronx_normalBB.jam" size="233" crc="17a97a38" md5="50a793d8d17fa3a87c5e477d98c935a4" sha1="e9f04a6715a6b1a90eb9546da5557e27a9967648"/>
+		<rom name="Shake II BB+RB Normal\bronx_normalBB.jar" size="99453" crc="0d0b3123" md5="372abecbdd70eaf7013ba1976f98b9c8" sha1="be66c471997726d7318b1a17259bb7cc07b9ee9b"/>
+		<rom name="Shake II BB+RB Normal\bronx_normalBB.sp" size="409664" crc="27f0b04b" md5="0a30de0ab0254264ac26fbc23bbe98c0" sha1="9c82630e1befec3ebc355847fc0d9c02888904e5"/>
+		<rom name="Shake II Nadja Normal\bronx_normalN.jam" size="233" crc="0d449016" md5="ba84103d2704e26bff9626f8b41d6e6b" sha1="2d68f24ef2d13442a174b282d5f2c719ca736c1d"/>
+		<rom name="Shake II Nadja Normal\bronx_normalN.jar" size="101026" crc="60d7342b" md5="a48010e29cf050cecbf72e6801185a65" sha1="0aaa84d360cac99d406ff83a14c4b8952f18eab1"/>
+		<rom name="Shake II Nadja Normal\bronx_normalN.sp" size="409664" crc="012ead42" md5="873506e99c1afb1f1bf6ccf029612d63" sha1="fe7da7975a085035d909c8bd3f4764b5e7aafd01"/>
+		<rom name="Slot Osomatsu-kun\osomatsu.jam" size="373" crc="7ed711f1" md5="794d0908b5dfaf0fabc4ab1f68147993" sha1="addb4140b18e6b3f07ab03a294a763d89966b7a4"/>
+		<rom name="Slot Osomatsu-kun\osomatsu.jar" size="35562" crc="4bac0273" md5="1c53658ed590471a0ade459502e92e67" sha1="a254ef856dcd8bed65ead2726640c885ff4ce986"/>
+		<rom name="Slot Osomatsu-kun\osomatsu.sp" size="409664" crc="f0a31d36" md5="247c51c43f8c0805a7a1f8d3e0543d49" sha1="0cb4fa793017c859316e748618e63b5a16e679c3"/>
+		<rom name="Sparrow Dragon God\Jongryujin.jam" size="319" crc="cf2e2fd0" md5="38bae33f7aeab002e04630cb10b7c7ed" sha1="faf533eca6eda4f48a600d54282841040bfb3e4a"/>
+		<rom name="Sparrow Dragon God\Jongryujin.jar" size="980121" crc="cc907691" md5="8e6a0f44fa483d28036a17c362617fb7" sha1="5e9ea56e3e173ff33a9ea5e2af6acc1042a2fec0"/>
+		<rom name="Sparrow Dragon God\Jongryujin.sp" size="20480" crc="b3c1877e" md5="d5659c316a05f9d38dbe9358f5369a19" sha1="20a10f1ca9bc61f33ef5a3d5b9c53582cf6905d8"/>
+		<rom name="Spike N1\readme.txt" size="14" crc="e7bfa7dd" md5="9b7c3223fe16e4df4de851bb043551e6" sha1="7d97b30cc9d767bb5710380b80289b076a1f47c1"/>
+		<rom name="Spike N1\volley_505.jam" size="251" crc="8ae15fdb" md5="3cf9f9842f9527d3a8d7abbef6b84bcc" sha1="9ad139c61616dd450f4e73b066480f3b0339a505"/>
+		<rom name="Spike N1\volley_505.jar" size="29731" crc="b7af078b" md5="facfef891ca83189128d4dda24d41762" sha1="740ed654464adbe0e7eae863815578d1ca1951c0"/>
+		<rom name="Spike N1\volley_505.sp" size="204864" crc="f644901b" md5="2db81b92fb9f74c31729631c16df85ec" sha1="c9869b47106950a017e48bd8840560d4280fd4af"/>
+		<rom name="Stairway Heaven\readme.txt" size="47" crc="9857453d" md5="4108ec15ace328c3ed30785dae0d7a81" sha1="f2ebc29baffdce7d81fe4920b94113affabe5779"/>
+		<rom name="Stairway Heaven\stairwayheaven.jam" size="359" crc="25350347" md5="23158cec2417ee3ca89843eaf5f4e19d" sha1="2edae7322d74ee38a82f0e38a40efa572708b30d"/>
+		<rom name="Stairway Heaven\stairwayheaven.jar" size="82229" crc="203d88ea" md5="8c872ba12389e75b06528ce97fc38de9" sha1="9c051b3ef15066e0c996eab5da59b5815031e67f"/>
+		<rom name="Stairway Heaven\stairwayheaven.sp" size="890064" crc="c3a65690" md5="77a7043c7a62c33b401bf692a356846e" sha1="f5c5475b52537ac41790ae774e3be02b5b290ce6"/>
+		<rom name="Super Sea SAE Hawaii\HawaiModeSae_900.jam" size="324" crc="1d2bed6a" md5="bd41e45e380f361296baa756ff7a3f97" sha1="e17e661a902531453aba53393aee69f4ef8e3e78"/>
+		<rom name="Super Sea SAE Hawaii\HawaiModeSae_900.jar" size="96669" crc="be3cb795" md5="292e73627f19cde531f7612abd4c6729" sha1="c762f0dafd8d5c6859c2dd895fa96d0a29759271"/>
+		<rom name="Super Sea SAE Hawaii\HawaiModeSae_900_patched.jar" size="98677" crc="3c07c95c" md5="e8cffe9bb185c29d1578ab3624f384c0" sha1="35bc8ed7ad136218a7e476868abd581d4ea39dc4"/>
+		<rom name="Taisen Daifugo\millionaire100k.jam" size="381" crc="7df372cb" md5="c2b5b8a81d3d184851aa1e0e9ad7ceb9" sha1="f20082099836db7b87a39f5b7650c9bec103c456"/>
+		<rom name="Taisen Daifugo\millionaire100k.jar" size="44537" crc="23a3ce14" md5="b96831a47ff88f0e06e0035341f116ef" sha1="46637e26255d35ab23f429f023465641d327bea4"/>
+		<rom name="Taisen Daifugo\millionaire100k.sp" size="204864" crc="982761fc" md5="22662bf2ba66117dc47133549f62e8d5" sha1="94f6d679483c531993677af4205531fb75cfea5d"/>
+		<rom name="Taisen Daifugo\readme.txt" size="47" crc="9857453d" md5="4108ec15ace328c3ed30785dae0d7a81" sha1="f2ebc29baffdce7d81fe4920b94113affabe5779"/>
+		<rom name="Tetris Mobage League\tetlg_mbga_903.jam" size="486" crc="e394536a" md5="43d245fac87624f85740aa17e27a51f2" sha1="c25bfeee4aa8058dbd56ad5b7c9d99d866048ff7"/>
+		<rom name="Tetris Mobage League\tetlg_mbga_903.jar" size="165745" crc="9be54da3" md5="68753f900f093af8decf535146195af8" sha1="64bde483d89fb11e6b1797553035b0779a5b7904"/>
+		<rom name="Tetris Mobage League\tetlg_mbga_903.sp" size="572332" crc="dbd182f7" md5="148fd497c217bf535212d237acf2841d" sha1="1b29bb9500825ec0289ec0ef4a447196ec2f8289"/>
+		<rom name="THE Crossword 6\DW30f.jam" size="483" crc="ac6c2995" md5="c900f4dc8b26250d0f9bb6f22413b24e" sha1="8ddfe4ac6dea72506f7786bbeaf4b504b162e406"/>
+		<rom name="THE Crossword 6\DW30f.jar" size="73303" crc="30595636" md5="9db1ac8cba7e147747d63c006baafe13" sha1="a745a9320895353487c8a6c94d7c1e3d4eadecf4"/>
+		<rom name="THE Crossword 6\DW30f.sp" size="409664" crc="323688ed" md5="57945409e0695b8df6ec3a0836310e48" sha1="b71ee86db90b0b3f05b37ac07416c4ffa5b895ce"/>
+		<rom name="The Doll Princess of Marl Kingdom\marl.jam" size="267" crc="c3e8425c" md5="2b7b4e529a521d0ecde7b4233fa2fe02" sha1="e793522471633cf8fa897657cb6df92bd418dc99"/>
+		<rom name="The Doll Princess of Marl Kingdom\marl.jar" size="100982" crc="113ea5a3" md5="020ecdbb9232b57cbf1b4e0ee18bd44f" sha1="afd487a1303846cd51081e43dcd8975915a48d3d"/>
+		<rom name="The Doll Princess of Marl Kingdom\marl.sp" size="409664" crc="5aa0a624" md5="a69808b04e442d096edf621848083793" sha1="b00da354f33a699a0730c5f876f02ec24899ac82"/>
+		<rom name="The Doll Princess of Marl Kingdom\readme.txt" size="60" crc="78808832" md5="3e10d062677e64df4c26f28d8578ad6c" sha1="ac748de853dd3c4d5e6ca02dbdfa62852d7e62a5"/>
+		<rom name="THE Escape Ninja\AVDN.jam" size="590" crc="e85f959e" md5="0d0ec2538efe4852301a5c59a4cca878" sha1="875fe6fb3b5fecdf10932709ca698f63e3164c90"/>
+		<rom name="THE Escape Ninja\AVDN.jar" size="593596" crc="e6034da7" md5="0d4a0864c44f82875a204cdd74bf8457" sha1="1436d23a4a4384fabbb3468a71e62addb5b6cdb1"/>
+		<rom name="THE Escape Ninja\AVDN.sp" size="55064" crc="8fe8dc46" md5="a4b2ee59ec323c0b5f21c4f9ad0ff90d" sha1="93489d46f9a621442f8fe5660a5095f841aaeb06"/>
+		<rom name="THE Female Announcer\CLJA.jam" size="470" crc="770e9029" md5="afa20d03919be49a9622788672498a45" sha1="422fa345a6229029612aee4fb21b72e8c2c75b52"/>
+		<rom name="THE Female Announcer\CLJA.jar" size="29653" crc="ba41d2b4" md5="1a0c45aae0c566d3dc2753a4b771cd83" sha1="25c349ce059fb901f63cecf583cd11515b45f1e4"/>
+		<rom name="THE Female Announcer\CLJA.sp" size="225888" crc="000f6a50" md5="9919cdd38def5679b2f7cfe8522441c8" sha1="7e03e1925881adc2832f5c0c49e74a434396e430"/>
+		<rom name="THE Tsundere Beautiful Girl\SOTB.jam" size="653" crc="0a2c3bdd" md5="a714e215b5db67cfa2ebd696535b70f3" sha1="069af71075ba7574ac5a52ae35fee60f4e0b1b72"/>
+		<rom name="THE Tsundere Beautiful Girl\SOTB.jar" size="21955" crc="9ae17b4d" md5="37afdf58393f5f8829ce03ccf3fb1574" sha1="72e6ed7e26066e01e5a9161fbdc309e22e7e1e5f"/>
+		<rom name="THE Tsundere Beautiful Girl\SOTB.sp" size="370952" crc="34bef874" md5="58bbd909cf0b29e6ecb1b23b74ab24ce" sha1="6e5565573a695535fb756758f71e4fcac07751c3"/>
+		<rom name="The Two Insect Princesses, Part 2\mushi2A.jam" size="364" crc="2b72b0ec" md5="40a9220a020d2d158948e82f344f4b5c" sha1="ccace19dacb862d3cdafb8f2a6fbdc8a0097e2a5"/>
+		<rom name="The Two Insect Princesses, Part 2\mushi2A.jar" size="106730" crc="d5213f0c" md5="11be6fc2fa639900e94267c917684af1" sha1="674fe2d854fba5dc088e4b587e0cde35ad20b3dd"/>
+		<rom name="The Two Insect Princesses, Part 2\mushi2A.sp" size="409664" crc="0e58e917" md5="5188880ec87af336f0fc6148583453f2" sha1="caf1b5ae75ac9e3f8c4f41c2b4a97e52e86b49b2"/>
+		<rom name="The Two Insect Princesses, Part 2\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Touch Shiro\28_unots9.jam" size="242" crc="400f2572" md5="90099723f96103b5018dded9a030b176" sha1="2e2da3867e8197b01ea7d99bc1757f32b692be25"/>
+		<rom name="Touch Shiro\28_unots9.jar" size="30207" crc="5a763adb" md5="8914d0ddb41c02ea900165702fb8c645" sha1="aa41fdee2f92dd3d71ab399f1f0fe7d426e2134f"/>
+		<rom name="Touch Shiro\28_unots9.sp" size="17064" crc="65b313e0" md5="d5bfd0115f665f25cf5333f46acd24b8" sha1="8c65dbfbfec11d9c9a5224bb7aa9da27bb0c7b3b"/>
+		<rom name="Touch Shiro\readme.txt" size="32" crc="3e2f91f8" md5="51d89fe619e55521f81c984abe932a69" sha1="250f73b210ec24dee5d7a6ca90b128db5b4da774"/>
+		<rom name="Two-Player Mahjong\3812.jam" size="418" crc="e1054134" md5="ae96be4ae0efb82c4cbbc818fb87d054" sha1="ed49f6cd1f33a0dfad449ba13560a9126f8a8c39"/>
+		<rom name="Two-Player Mahjong\3812.jar" size="109205" crc="97135345" md5="ce79da19edec63059bc02114794e03f1" sha1="32d8dce8e4848f09d9f9240cb10de52ecf5b897e"/>
+		<rom name="Two-Player Mahjong\3812.sp" size="409664" crc="0a7e801f" md5="2049325c6bc0427baedfcef9010eda13" sha1="e4619a33aa30ff74bab9e30a6b7966375f0b4e45"/>
+		<rom name="Typing Games\3818.jam" size="421" crc="a519a04a" md5="9d6da8d345de21e7eacd743d14a18219" sha1="0a451babb65d7f7f21ed6d5f078b5692f133ecf8"/>
+		<rom name="Typing Games\3818.jar" size="94058" crc="7d5e27aa" md5="084aff85e392e2902b57219d764615a8" sha1="6dd3415b7b855ec9b22fdaa5078c04164627f94c"/>
+		<rom name="Typing Games\3818.sp" size="409664" crc="21e77cd7" md5="6896c56a3750361b38c5b4509e804388" sha1="0ac1bf5f9159df45c9e2f4ddfb0899b6b6aeffbd"/>
+		<rom name="Ultraman\readme.txt" size="23" crc="32c62e19" md5="e4ca447bb4fc74d3cc0c0a8fc7542683" sha1="199a37c956feca92f2b3c1ec3703310821e7d290"/>
+		<rom name="Ultraman\ultraman.jam" size="530" crc="a9ad5b44" md5="b1a7f20f556e8692370e9987eca01c08" sha1="5c990d8cc7bed441666af15a8f861bbe8af0fa25"/>
+		<rom name="Ultraman\ultraman.jar" size="286839" crc="f9627459" md5="d14692fdedd04f81c001bd7530e18b73" sha1="f738738cb4e65f356293e462199ccd191683abcb"/>
+		<rom name="Ultraman\ultraman.sp" size="700164" crc="2c26cd83" md5="9bdceb1b489eb7e6af2514ef4bb11ad3" sha1="c79e5a02bf10d76244630be86fd428a523fd9725"/>
+		<rom name="Wai Wai Billiards\3104.jam" size="368" crc="1a6df3df" md5="710e166209fc93332edd12f58ece339f" sha1="10896851045ef4db1e137e308b9648ef5d10f3c7"/>
+		<rom name="Wai Wai Billiards\3104.jar" size="57069" crc="c300bf15" md5="ddd2cbb71eac516e40596e348d492fcd" sha1="3e64a2ffa39b981a185a81d2924e39181c018749"/>
+		<rom name="Wai Wai Billiards\3104.sp" size="204800" crc="e87f3822" md5="6902dbb6da5aaafd78be18d4c75beef8" sha1="09c6538ea706c907312eabbc8a26df892118cd15"/>
+		<rom name="Wai Wai Billiards\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="With Kururu♪3D\dun3d.jam" size="348" crc="4ca677dd" md5="32df167ae12aa9ec6c4e44bf63a5b13c" sha1="3aafac1dfd1cb77fdaad3b5ac8b6a0de5e672283"/>
+		<rom name="With Kururu♪3D\dun3d.jar" size="101491" crc="b0e2b21f" md5="6364f5ddb45f239e647de00bd8e673f9" sha1="476546ab194f006e8309cded13de470ba025e716"/>
+		<rom name="With Kururu♪3D\dun3d.sp" size="408654" crc="e0815d2f" md5="9f30dba9407ab401fcb124ee463c93ab" sha1="6032247c0af00c91daa56e046749bfe3a002516d"/>
+		<rom name="With Kururu♪3D\readme.txt" size="60" crc="78808832" md5="3e10d062677e64df4c26f28d8578ad6c" sha1="ac748de853dd3c4d5e6ca02dbdfa62852d7e62a5"/>
+		<rom name="Yu-Gi-Oh! Auto Duel\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Yu-Gi-Oh! Auto Duel\YoDuel.jam" size="462" crc="8382395b" md5="4124efdf9ac35d208a1b9d1116a01904" sha1="12f0804ce21a7ea0e621adc704e8242d208b2d91"/>
+		<rom name="Yu-Gi-Oh! Auto Duel\YoDuel.jar" size="546156" crc="a04e5652" md5="28b90274620a577e74ed407b87301a4e" sha1="9c91a495659e502df158bbf951f5911d87ef6aac"/>
+		<rom name="Yu-Gi-Oh! Auto Duel\YoDuel.sp" size="229440" crc="c4129c0d" md5="2f8cb75b2954605323d7cfc871bd4ef5" sha1="f770f6b95c5d9459803de4f98ab434fd0a420fa3"/>
+		<rom name="Yu-Gi-Oh! Card Test\readme.txt" size="13" crc="08e0aa5b" md5="d8596293ed390aa8442ac6c8e1d76fc9" sha1="04929125b6987828c21b1ab27677017da76439af"/>
+		<rom name="Yu-Gi-Oh! Card Test\YoExam.jam" size="565" crc="bcb54f1f" md5="74f4aa7d04b2ec06b2d8b6240b0b8bfc" sha1="3986efaf01402d29e44d712d8b300e07f4a8f2e3"/>
+		<rom name="Yu-Gi-Oh! Card Test\YoExam.jar" size="889391" crc="293ceec2" md5="94cc2de4b4b3131b67b232f7d3bb4605" sha1="a26bee68369b74dcb09cd9602282fa3f9b9df201"/>
+		<rom name="Yu-Gi-Oh! Card Test\YoExam.sp" size="41024" crc="f060a61f" md5="71d715a9605f67cd0e5b11aab813498a" sha1="16e160569966f3225ed92dc8aeefed5a479497ef"/>
+	</machine>
+</datafile>
