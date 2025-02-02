@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Nokia Ovi Store Panic Grab - Flash Lite</name>
+		<description>Nokia Ovi Store Panic Grab - Flash Lite</description>
+		<category>Standard DatFile</category>
+		<version>2015-03-10</version>
+		<date>2015-03-10</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>https://archive.org/details/2015_ovi_store_panic</url>
+		<comment>Collection by Sketch the Cow</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="bollywoodtwitts_76877">
+		<description>bollywoodtwitts_76877</description>
+		<rom name="bollywoodtwitts_76877.nfl" size="121148" crc="d65ae627" md5="f6cb151adf43005d0cde60f5cd4905ee" sha1="deb379fdf1bff36c4215a5bbdf6ff87cb5302694"/>
+	</machine>
+	<machine name="crashdown_66054">
+		<description>crashdown_66054</description>
+		<rom name="crashdown_66054.nfl" size="144318" crc="28152592" md5="064ce9332e4b7438748d548d2d89fc5a" sha1="5d01b4171c6bcec0acc7adbb04c414145c43ea75"/>
+	</machine>
+	<machine name="CrazyHorse_385284">
+		<description>CrazyHorse_385284</description>
+		<rom name="CrazyHorse_385284.nfl" size="26439" crc="0a0afaa8" md5="5642ab4121a54cbe2484b18187db2fa4" sha1="1ac828fcb20bf4b7c4d927127cc83aa1ea6ba4ee"/>
+	</machine>
+	<machine name="crickettwitts_74871">
+		<description>crickettwitts_74871</description>
+		<rom name="crickettwitts_74871.nfl" size="63437" crc="9ad5a28e" md5="e3c90522e718f92966dac975f8d54f62" sha1="e1adac47c6fd33481d220664f63890c1d321a3ae"/>
+	</machine>
+	<machine name="cristmas_402958">
+		<description>cristmas_402958</description>
+		<rom name="cristmas_402958.nfl" size="61233" crc="9f74bdd2" md5="8717df57279d670b3c0e6312b1be00ed" sha1="44d5826d5d3d28a6a87a6530da411c0cf2662c3f"/>
+	</machine>
+	<machine name="Deep_Days_411769">
+		<description>Deep_Days_411769</description>
+		<rom name="Deep_Days_411769.nfl" size="32194" crc="e1abc5ad" md5="2f0fe9815195199a98d9841d4631c08d" sha1="4b872de6b481bc0c9f058805531fdfd791e0f7dc"/>
+	</machine>
+	<machine name="DigitalClockBybMBS_538322">
+		<description>DigitalClockBybMBS_538322</description>
+		<rom name="DigitalClockBybMBS_538322.nfl" size="23955" crc="0d0c1dcd" md5="1debf734c6f53d95bfea50ee78c1280f" sha1="3f8960bd21fdb52f40db46812e8eda0c83315804"/>
+	</machine>
+	<machine name="DominoClock_385282">
+		<description>DominoClock_385282</description>
+		<rom name="DominoClock_385282.nfl" size="29423" crc="b2e17154" md5="3ed67ce32047799fa102460475cd3c93" sha1="541df7266dc3b572ed645a73536167165a360898"/>
+	</machine>
+	<machine name="dotf_73232">
+		<description>dotf_73232</description>
+		<rom name="dotf_73232.nfl" size="289666" crc="14defc29" md5="a36ef64ec8fe6b8fa3b0debbfd1d6080" sha1="83be2f1d896c39b3da1e9b244af88922de53c354"/>
+	</machine>
+	<machine name="Dua_64594">
+		<description>Dua_64594</description>
+		<rom name="Dua_64594.nfl" size="16684" crc="a4a0f99e" md5="836f2e035fb175f6c7f511b8a4d310e3" sha1="c34640cb2e70e2d787278aec4b3e4818ff3fd664"/>
+	</machine>
+	<machine name="Magical_Makeover_537980">
+		<description>Magical_Makeover_537980</description>
+		<rom name="Magical_Makeover_537980.nfl" size="803061" crc="6483213a" md5="de2c68a069a236b5ba99994e63ce7b28" sha1="c0d0f6a75bc053cbac72cf0a82872e282fecadc9"/>
+	</machine>
+	<machine name="minutesoccer_50514">
+		<description>minutesoccer_50514</description>
+		<rom name="minutesoccer_50514.nfl" size="36359" crc="d67e9db0" md5="0597b004f6f22be55b13a74317bbc5fe" sha1="57559ac08314ed43e6487021d4b10f970a6f5c44"/>
+	</machine>
+	<machine name="MobileSpeakerTestApp_384954">
+		<description>MobileSpeakerTestApp_384954</description>
+		<rom name="MobileSpeakerTestApp_384954.nfl" size="283213" crc="5de3bb22" md5="5c12fd4010b703cab60428baa3957bf5" sha1="e20acb76c6ba12b9b5abbda80134eda73357f96f"/>
+	</machine>
+	<machine name="Ninja_540445">
+		<description>Ninja_540445</description>
+		<rom name="Ninja_540445.nfl" size="274861" crc="83103f12" md5="3130d036e4bd362568b61404fb5d767b" sha1="ae01be05c27ebc0699b34e9a6daa113b65f86e37"/>
+	</machine>
+	<machine name="ownskin_104154">
+		<description>ownskin_104154</description>
+		<rom name="ownskin_104154.nfl" size="876278" crc="e826d0f6" md5="c972d21d8091319975c2aa6e1c8bc4a3" sha1="fcb7834efb1c6bf4a42fefcb90cdff5aad16ab9c"/>
+	</machine>
+	<machine name="ownskin_165659">
+		<description>ownskin_165659</description>
+		<rom name="ownskin_165659.nfl" size="75139" crc="9299a95c" md5="086976e70158c5ba31d9aaac554e56af" sha1="964a7ae477cc33c0d8cba9c3f1fb4db462d9bfac"/>
+	</machine>
+	<machine name="ownskin_30273">
+		<description>ownskin_30273</description>
+		<rom name="ownskin_30273.nfl" size="59398" crc="74d11483" md5="27c726f12add99ab67923808649c72a6" sha1="068c32ec7eff94c76c6b983e2794625e6c4709fe"/>
+	</machine>
+	<machine name="ownskin_48214">
+		<description>ownskin_48214</description>
+		<rom name="ownskin_48214.nfl" size="52514" crc="4c3cd4d8" md5="6fa111d92a827952bd616582b14f8b10" sha1="2c8ad57252ac52b006d7e57e414076e0a18b35a1"/>
+	</machine>
+	<machine name="ownskin_48223">
+		<description>ownskin_48223</description>
+		<rom name="ownskin_48223.nfl" size="68983" crc="d4075b5e" md5="bc3e848ca5cf76996d2c81e476c419fb" sha1="1ae29dddd82d0856cc4c9a7fd258b2721d3baffd"/>
+	</machine>
+	<machine name="ownskin_48229">
+		<description>ownskin_48229</description>
+		<rom name="ownskin_48229.nfl" size="60367" crc="4f069878" md5="c1945d81763ae94c60e944292dc4d819" sha1="fb871f58e81436eab8309ab024fbc589ea8b1328"/>
+	</machine>
+	<machine name="ownskin_48548">
+		<description>ownskin_48548</description>
+		<rom name="ownskin_48548.nfl" size="314372" crc="4223723a" md5="ff11ead89cd4e08dbf803d84fd243e2d" sha1="9fad46bb381b2ebed3263a6352180de1f3d2eede"/>
+	</machine>
+	<machine name="ownskin_49059">
+		<description>ownskin_49059</description>
+		<rom name="ownskin_49059.nfl" size="67525" crc="215c5218" md5="86bb498d95f7da64eafcdd48b3ca83ee" sha1="b34ce109eccdb178591f91f4bc0767d062dca8af"/>
+	</machine>
+	<machine name="ownskin_UBXWNXYD_191804">
+		<description>ownskin_UBXWNXYD_191804</description>
+		<rom name="ownskin_UBXWNXYD_191804.nfl" size="74954" crc="625536b6" md5="b567cdfb7f9164714167e5beae6684e7" sha1="b2ab1f2b1c31e338cfddec0f603a0f72d1186ebe"/>
+	</machine>
+	<machine name="ownskin_VONIQPPK_49973">
+		<description>ownskin_VONIQPPK_49973</description>
+		<rom name="ownskin_VONIQPPK_49973.nfl" size="42414" crc="c757c352" md5="b2db7e24efbf01d4424c65f33a5617c3" sha1="bd87b83fb6e9a96ef2d6d789bccce33b4ee4aedf"/>
+	</machine>
+	<machine name="ownskin_WDOSVAYO_49645">
+		<description>ownskin_WDOSVAYO_49645</description>
+		<rom name="ownskin_WDOSVAYO_49645.nfl" size="73290" crc="dde113cf" md5="69d4753b11f5246222b132191e24dcf7" sha1="8e71e6eae9c0cb6d3fe4c82214c2d02c551aeced"/>
+	</machine>
+	<machine name="ownskin_WIZVKICE_195733">
+		<description>ownskin_WIZVKICE_195733</description>
+		<rom name="ownskin_WIZVKICE_195733.nfl" size="620481" crc="0246b83a" md5="0101ff7c469e7a1151c52b0b8a29c5a6" sha1="7c0b6d97d9a2f07d026951d93d1e3e466e227238"/>
+	</machine>
+	<machine name="ownskin_YTCDIZZH_195731">
+		<description>ownskin_YTCDIZZH_195731</description>
+		<rom name="ownskin_YTCDIZZH_195731.nfl" size="49312" crc="e88d9be7" md5="de2233aad3d6543ef302679ea8bb8d8c" sha1="3cd2b1c7f2c9101bbb02cf0d0811f7b8fd22d911"/>
+	</machine>
+	<machine name="Puztroyzka_550933">
+		<description>Puztroyzka_550933</description>
+		<rom name="Puztroyzka_550933.nfl" size="252279" crc="acd4469a" md5="50a12a860f086855441367e980af1438" sha1="cdcb7ca27ffb73ad73542be198d6f43a092925f2"/>
+	</machine>
+	<machine name="ReverseClock_385287">
+		<description>ReverseClock_385287</description>
+		<rom name="ReverseClock_385287.nfl" size="15828" crc="45c6ef05" md5="0bb8deb15ae19c7e56c7eae7f17536fa" sha1="bfecee34ed9e7485570113ec09c7d119193059f6"/>
+	</machine>
+	<machine name="Slap_Your_Neighbour_530793">
+		<description>Slap_Your_Neighbour_530793</description>
+		<rom name="Slap_Your_Neighbour_530793.nfl" size="432410" crc="c39efe95" md5="dd21481a49b5e2e6aeb8f761c79190a5" sha1="b6df5f67ee9502d172d5d45fe61d7872ee78cc6b"/>
+	</machine>
+	<machine name="slot1_47184">
+		<description>slot1_47184</description>
+		<rom name="slot1_47184.nfl" size="51228" crc="34d9d8a5" md5="d8c67a329b23529de0408b9148148b36" sha1="f86a80c319887cc4a99d77d82d7be63ea8b7b2ed"/>
+	</machine>
+	<machine name="SmileyBreakDemo_401194">
+		<description>SmileyBreakDemo_401194</description>
+		<rom name="SmileyBreakDemo_401194.nfl" size="572023" crc="e95a17ef" md5="8a2c50d3410a0c67e752661fd7e70e0f" sha1="fa047dd2c6259da2c1b7d7192cbcb8ddad4500cc"/>
+	</machine>
+	<machine name="trg_73233">
+		<description>trg_73233</description>
+		<rom name="trg_73233.nfl" size="359314" crc="e28db196" md5="16e2c1013fe9408d3ffdeb017686ebb6" sha1="cff488b33ae2738a88082a2044fd5ec8500d1580"/>
+	</machine>
+	<machine name="Wild_Finger_Charming_540465">
+		<description>Wild_Finger_Charming_540465</description>
+		<rom name="Wild_Finger_Charming_540465.nfl" size="143353" crc="e149dbf3" md5="3313613aa6762b3707c908e1aff72676" sha1="c0591a6f338f2da7e4860c2fcefb9c54bea5c7fd"/>
+	</machine>
+</datafile>
