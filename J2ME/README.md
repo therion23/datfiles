@@ -22,4 +22,5 @@ Origin: [https://keitaiwiki.com/wiki/KeitaiWiki]
 Origin: [http://www.romphonix.org/dumbphone-repo/predefrepo%20(Preloaded%20content)/]
 * dir2dat of the predefrepo, i.e. preinstalled contents on handsets. 17'226 titles.
 
+Note that romphonix is down at the time of writing. Their MEGA repository is still up - have fun with Google.
   
