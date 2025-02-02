@@ -1,3 +1,7 @@
+# NOTICE
+
+These DATs are in **no way** TOSEC grade. They are meant for the purpose of getting rid of duplicates.
+
 # Contents
 
 * J2ME - Quite a few .dat's to make J2ME collecting easier.
