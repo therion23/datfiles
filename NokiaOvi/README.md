@@ -1,5 +1,5 @@
 ## Nokia Ovi Store Panic Grab
-Origin: [https://archive.org/details/2015_ovi_store_panic] and [https://archive.org/details/2015_ovi_store_panic]
+Origin: [Part 1](https://archive.org/details/2015_ovi_store_panic) and [Part 2](https://archive.org/details/2015_ovi_store_panic)
 
 The above deathgrab, decoded with [WARCAT](https://github.com/chfoo/warcat) (the Python version, since it is three times faster than the later rust version), all .dm files stripped of ASCII headers and footers, and sorted into categories.
 
