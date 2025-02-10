@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu - FM Towns - Extras</name>
+		<description>Fujitsu - FM Towns - Extras (Neo Kobe)</description>
+		<category>Standard DatFile</category>
+		<version>2016-02-25</version>
+		<date>2025-02-10</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="[Miscellaneous] [advertising]">
+		<description>[Miscellaneous] [advertising]</description>
+		<rom name="[Miscellaneous] (application catalog 1996-09 vol. 29 cover).jpg" size="292650" crc="49bf0d1e" md5="28d46cdad270a664049f78bb4a427947" sha1="aea03282be6e40079fadab6baf6f3bb4e7fbc969"/>
+		<rom name="[Miscellaneous] (Applications &amp; Peripherals).jpg" size="21864" crc="4cf57640" md5="5e834c3a0c749fabc018294e2d4f1c2e" sha1="d150619ac8a5ae58ff450e80095feea6debcc33e"/>
+		<rom name="[Miscellaneous] (Comptiq 1990-12 back cover).jpg" size="166169" crc="15707484" md5="a133477ef7e31ce22eb3686a96ba8c13" sha1="488c33d1ade03441ca2d15b7bb4f92e019d52abe"/>
+		<rom name="[Miscellaneous] (early model spec sheet).jpg" size="633515" crc="aa1925b8" md5="1a0798c590db918efa726ecc8d9036e5" sha1="d06dd1a50043cc2af4964549d3415ed4349a5667"/>
+		<rom name="[Miscellaneous] (FM Towns - Rie Miyazawa).jpg" size="71058" crc="403ae831" md5="60afa7267a0f40e1586439416d000b67" sha1="6efa30c740125b7c58e725092a0b81c3af052adf"/>
+		<rom name="[Miscellaneous] (FM Towns - Yoko Minamino).jpg" size="99385" crc="49890fbd" md5="65e2d77f9a8ae044bef7da5d7c864e35" sha1="0ee3d7fd491ef320a53fc4d34c5b5839c10fce0b"/>
+		<rom name="[Miscellaneous] (FM Towns II CX UX).pdf" size="550994" crc="988ce9fd" md5="a959b73ab564ff7dcd3bce9579465502" sha1="1c0e845c19f6a2f9c718ab409e9dcc25c7b2df8d"/>
+		<rom name="[Miscellaneous] (FM Towns II Fresh FT FS HC).jpg" size="57621" crc="0a0b72a1" md5="e98d5871d8559546040713b57f72440d" sha1="97342745947a78654ec66cf78c312b9f582b428d"/>
+		<rom name="[Miscellaneous] (FM Towns II Fresh-E Fresh-T).pdf" size="740351" crc="c41e3300" md5="4519aeeb44a359c8bdb30fc8a5d2144d" sha1="24e60cf203cb5473821bdb4f36476f2206417e3f"/>
+		<rom name="[Miscellaneous] (FM Towns II HR HG UR UG).pdf" size="236556" crc="ffe4f2bb" md5="958e21e78cf3cef74cec76653ec5f3aa" sha1="115d37c64b9ca4e7d0e35e311c024c6afd5cd876"/>
+		<rom name="[Miscellaneous] (FM Towns II MX MA ME UR).pdf" size="436117" crc="db5e0b99" md5="0d0cc636faf8dea854f096a64a7c1c0e" sha1="807c35b0e16c53432c690393605df0ec8bc8335b"/>
+		<rom name="[Miscellaneous] (FM Towns II SE).jpg" size="62383" crc="51835804" md5="aff6d49c83dbe972949df9f8ef792611" sha1="6bc46f7fbc2b78f51736c97ed8fbddd23b4653b7"/>
+		<rom name="[Miscellaneous] (FM Towns II SN).pdf" size="369477" crc="8015ee67" md5="e49a42396efb34a64e0ad55adc560e2c" sha1="06797e9f9251fffc74dd122a7ca9a8869ca821e5"/>
+		<rom name="[Miscellaneous] (FMV-Towns H).jpg" size="76629" crc="2b614e38" md5="75aac89ec7c79d0614cd94837d1572b9" sha1="0f92496c0987a6e7fb743e8f20872c8f652d77e2"/>
+		<rom name="[Miscellaneous] (model lineup 1991-11).jpg" size="301308" crc="47d54d21" md5="0651396ae38170bd5baa35a9986d1e94" sha1="0816b1fada502a039e3ea9f22630eb17431857be"/>
+		<rom name="[Miscellaneous] (model lineup 1995-02).jpg" size="307085" crc="b8655aa2" md5="b03111d501740b6c1278eebc0a509fed" sha1="c0bb32cbb791b5a7dc572161b0fc0607b7b2d09f"/>
+	</machine>
+	<machine name="[Miscellaneous] [guide]">
+		<description>[Miscellaneous] [guide]</description>
+		<rom name="[Miscellaneous] (Neo Kobe guide to the FM Towns).txt" size="4228" crc="3377adb7" md5="e34605b57d9824142b96853bf2a93d2f" sha1="830369d71f7f7c0f4b0c8e6a967e46e8b4b7a4d9"/>
+	</machine>
+	<machine name="[Miscellaneous] [other]">
+		<description>[Miscellaneous] [other]</description>
+		<rom name="[Miscellaneous] (Alice Soft freeware notice).txt" size="561" crc="ea15ed8f" md5="0e7876524e6a062881e20d056a8f7ec7" sha1="5bef87c3547457d657923398d6b866f823000d13"/>
+		<rom name="[Miscellaneous] (BIOS rom dump readme).txt" size="210" crc="2b7ea1c0" md5="f1037fe1d3773520d58896c4e7feea8a" sha1="9929609cdb14bb02c7e4118ccfe1b04ca493280d"/>
+		<rom name="[Miscellaneous] (early model keyboard).jpg" size="4840638" crc="64749c77" md5="778f8d9315631046d4d8fb1a944c81ef" sha1="037925f71e38e45b37fc231f1e46766e92e1db21"/>
+		<rom name="[Miscellaneous] (late model keyboard).jpg" size="1498028" crc="36b5bf32" md5="ea22eb93de5171ed6b0a10c06a0f56a4" sha1="8c91fefd347c98b6018a24b1258d3f44ad1e9cf3"/>
+		<rom name="[Miscellaneous] (thumbshift keyboard).jpg" size="167988" crc="ae37bc5d" md5="e90b64d83cb970462a084c3dd5a5bf50" sha1="1d69d07f17ae4fbf73cc4754206fe54cf1ebcfd1"/>
+	</machine>
+	<machine name="Abel [extras]">
+		<description>Abel [extras]</description>
+		<rom name="Abel (operation manual).pdf" size="21678132" crc="e584b7cc" md5="1be48fac1ad654bc941b07a6bfd3f9d6" sha1="34e554741e588a15d0729d1530babfd7d2e351aa"/>
+		<rom name="Abel (package front).jpg" size="1476684" crc="b2518ef1" md5="f8ba2cd8b9a8883e47e15bb56c999348" sha1="6e8daf6c0563e25a6dd2aa0d2c8bf63e5d752520"/>
+		<rom name="Abel (package rear).jpg" size="1677123" crc="b6aa7d54" md5="f2d20b0b684fc5a3a11ede52a4a7c410" sha1="478fd16a46810388bd9de3d20bd67019426b40d5"/>
+	</machine>
+	<machine name="Aeternam [extras]">
+		<description>Aeternam [extras]</description>
+		<rom name="Aeternam (CD label).jpg" size="156489" crc="96b960b5" md5="26098a5b7f2a4c0a4fb8c1ce6ce7feff" sha1="130210fc6abba8e786e53ac0e8c3c5e06ba414fe"/>
+		<rom name="Aeternam (manual cover).jpg" size="207524" crc="a51bb1c6" md5="8c165cd778d8de85d031cb54b8e0eaa6" sha1="6fe9f1b7addac0ded5a63fd45f2787e06669aa1f"/>
+		<rom name="Aeternam (manual pg. 16-17).jpg" size="251459" crc="622ba006" md5="be8ce773a1b75e3059745ded39364f1b" sha1="a230f7d09f595f43d8a9484330a0b3d14f4b1b68"/>
+		<rom name="Aeternam (map).jpg" size="324150" crc="e37f3731" md5="d6dd20610017ab907841b9eee3de234d" sha1="1ae677113d79faae14b61c936adfc6e27bef04bb"/>
+		<rom name="Aeternam (solution cover).jpg" size="308316" crc="91ed7f2b" md5="f3886c255db8a67b82da5e2835783e57" sha1="81e75e285947f1eeab672a9bf507358437f6069c"/>
+		<rom name="Aeternam (solution pg. 09-10).jpg" size="276335" crc="0cbb402e" md5="8ebe7cf293c8659370ba72741261d136" sha1="4c53669cbc5b065c70cc755baaaba588dc3e25ba"/>
+	</machine>
+	<machine name="After Burner III [extras]">
+		<description>After Burner III [extras]</description>
+		<rom name="After Burner III (CD label).jpg" size="158281" crc="e227fafb" md5="cea686cc5c90a3c92119df5b9bd7e551" sha1="d663079d0a15e93f5424fae638a10773be6359d5"/>
+		<rom name="After Burner III (manual cover).jpg" size="151483" crc="1d6420bd" md5="80ca746ff3006c971ee2910bcd25e598" sha1="48d7a4250f5d03f8b9101319a029dbca11c15716"/>
+		<rom name="After Burner III (manual pg. 1-2).jpg" size="200615" crc="d212b2d8" md5="135378f600175b416118f09027b9f353" sha1="686ca866e8dc0c37933fc9375288bfc5e260e8d4"/>
+		<rom name="After Burner III (manual pg. 11-12).jpg" size="209100" crc="abc2455c" md5="55437ecae4364116092e3ec8c7f247bb" sha1="a6b8859c794273db04d619db61a05e3ff569cb3e"/>
+	</machine>
+	<machine name="AIII Map Construction [extras]">
+		<description>AIII Map Construction [extras]</description>
+		<rom name="AIII Map Construction (construction manual).pdf" size="2243062" crc="4e75ee66" md5="32e476bb8f73d94570de0d833367b126" sha1="c694173ea98c831659335e4c4b274640fc0bc591"/>
+	</machine>
+	<machine name="Air Raider [extras]">
+		<description>Air Raider [extras]</description>
+		<rom name="Air Raider (readme).txt" size="30912" crc="8e8c0136" md5="18b7ee109b3fc2b3a26954cb155dba2b" sha1="2a3e2c4d6219a6c4b5a4e51117f3201eaa694cf7"/>
+	</machine>
+	<machine name="Alice no Yakata CD 2 [extras]">
+		<description>Alice no Yakata CD 2 [extras]</description>
+		<rom name="Alice no Yakata CD 2 (manual).pdf" size="7254149" crc="bce2f314" md5="3ef1f8d01e6487fd588aad5a50122e38" sha1="9f30a3b20de514acc805b708910b3f6555372fa5"/>
+	</machine>
+	<machine name="Alice no Yakata III [extras]">
+		<description>Alice no Yakata III [extras]</description>
+		<rom name="Alice no Yakata III (readme).txt" size="295" crc="01c4ecfa" md5="429cce11d28535b59986c1ae951c139f" sha1="f1410d23d5461ebad5fb5c471c247c1a8887a0a0"/>
+	</machine>
+	<machine name="All Bishoujo Extra [extras]">
+		<description>All Bishoujo Extra [extras]</description>
+		<rom name="All Bishoujo Extra (manual).pdf" size="1209091" crc="819494e6" md5="0ae87e164a9cacf85b80a4128d4c34f7" sha1="82116d0ed4b82e44ab0b55a0e265655c6b0c3f2c"/>
+	</machine>
+	<machine name="Alltynex [extras]">
+		<description>Alltynex [extras]</description>
+		<rom name="Alltynex (readme).txt" size="353" crc="53cfb834" md5="d4bce4590beb7ea570365a437d965579" sha1="a4e5b678bbaf8d2d301d9669b6ebd59a9fa92670"/>
+	</machine>
+	<machine name="Alone in the Dark 2 [extras]">
+		<description>Alone in the Dark 2 [extras]</description>
+		<rom name="Alone in the Dark 2 (Mystery Examiner En).pdf" size="3308664" crc="10096bc2" md5="98723a33bd799a253d8c00a5df7c9fc7" sha1="44f332b18c0816642d9c5a92f3ebc23c1276bf1f"/>
+		<rom name="Alone in the Dark 2 (Mystery Examiner Jp).pdf" size="342426" crc="076cbc7d" md5="b1cdccf1ff6e6d913ecf0d2d8adec9a7" sha1="1578beb947a031accbc087692a8bc6058bd494fb"/>
+	</machine>
+	<machine name="Alshark [extras]">
+		<description>Alshark [extras]</description>
+		<rom name="Alshark (CD label).jpg" size="348852" crc="7c66699b" md5="a93caf09709e56345310db1b3ba55c5a" sha1="e904bd33d1bd1df23f9687a26a50b59132f1c407"/>
+	</machine>
+	<machine name="Asuka 120% Burning Fest. Excellent [extras]">
+		<description>Asuka 120% Burning Fest. Excellent [extras]</description>
+		<rom name="Asuka 120% Burning Fest. Excellent (readme).txt" size="61" crc="c6ed77bb" md5="adc673c0a86e0493e4882f1a6e36873b" sha1="1d9a15fc2686d210178679cf55c99eb958aab041"/>
+	</machine>
+	<machine name="Ayumi-chan Monogatari Jissha-ban [extras]">
+		<description>Ayumi-chan Monogatari Jissha-ban [extras]</description>
+		<rom name="Ayumi-chan Monogatari Jissha-ban (manual).pdf" size="6688482" crc="ae8794eb" md5="c936051fd957de65923539c60104ab37" sha1="9ee44769187fb3c4006bcc28db8d63cb7a1a3f07"/>
+	</machine>
+	<machine name="Bacta 1&amp;2 + Voice [extras]">
+		<description>Bacta 1&amp;2 + Voice [extras]</description>
+		<rom name="Bacta 1&amp;2 + Voice (manual).pdf" size="1202676" crc="9aba6ba4" md5="aee6ce6fc224bf81bd3a88f9c063a3e2" sha1="1c8f738ee6892659f14a7c91ca0d501f1518fbe8"/>
+	</machine>
+	<machine name="Ballade for Maria [extras]">
+		<description>Ballade for Maria [extras]</description>
+		<rom name="Ballade for Maria (manual).pdf" size="9775441" crc="b9d3478b" md5="54e5fb0ce98907b20789d15fe311bb82" sha1="25e2bacc0a4dfa1b131804a403137848bb2834cc"/>
+	</machine>
+	<machine name="Band-kun [extras]">
+		<description>Band-kun [extras]</description>
+		<rom name="Band-kun (manual).pdf" size="7528586" crc="f371a90e" md5="1ded25bbd0a3da96dc61f7086615138f" sha1="cfb80abc9014e255667a0563a95bd1eba64264bd"/>
+	</machine>
+	<machine name="Bible Master [extras]">
+		<description>Bible Master [extras]</description>
+		<rom name="Bible Master (CD label).jpg" size="164924" crc="bd9b0697" md5="f2aa680d3b0b9f5be23fab31e4b9eeac" sha1="6a84d92127913fd49b3a138d64dc57d714043e53"/>
+		<rom name="Bible Master (FD label).jpg" size="122570" crc="f30535e2" md5="b7bf5a2a9d8b3d60472927400b3b073a" sha1="4a71162268d09de46d74a1f40a543e618b752718"/>
+		<rom name="Bible Master (manual).pdf" size="16165005" crc="74c6e6ad" md5="91803b62412c9548040747501538e93a" sha1="75f8cbfb19046a8f8421af17ecad0c099416827e"/>
+		<rom name="Bible Master (map).jpg" size="3669379" crc="1ae2c7f5" md5="2f0a65f0f23ab26c389a07b812f6328d" sha1="705ca8dae21225c81aac9fef6c008fc8585ec02f"/>
+		<rom name="Bible Master (package front).jpg" size="2404085" crc="4007c132" md5="0c315fa1e76586ec8bce70cf895a94bc" sha1="e26fe00bc04a87c0469810f6ef73d3bd646e7721"/>
+		<rom name="Bible Master (package rear).jpg" size="2737638" crc="72185afe" md5="b81308aa0ab695683dcafbab3841c519" sha1="7f6ccb5a71ee6717e528e7b6704fbee8c7449649"/>
+		<rom name="Bible Master (package spine).jpg" size="539520" crc="218da413" md5="225393d5b1b7caa0e8a4af079c11a81b" sha1="c406e585188519022d816ae43aa64dab5493f52b"/>
+	</machine>
+	<machine name="Birdy World [extras]">
+		<description>Birdy World [extras]</description>
+		<rom name="Birdy World (manual).pdf" size="3250265" crc="0f7a66fa" md5="a65335ae38f2069cfd165408f5d093b2" sha1="69d179f99d40ba3ffcdfdd8d92f90603e098750d"/>
+	</machine>
+	<machine name="Bomberman - Panic Bomber [extras]">
+		<description>Bomberman - Panic Bomber [extras]</description>
+		<rom name="Bomberman - Panic Bomber (CD label).jpg" size="1180491" crc="09d33db7" md5="db0d98efa15d8aaaddd1a6301bffcf0b" sha1="7b1a0c65f6a1a84a2df473f927baea3e7248bbe1"/>
+		<rom name="Bomberman - Panic Bomber (readme).txt" size="41" crc="82692caa" md5="307dafe583ce092825dd7204b8fa5373" sha1="8177a52ee0ad655ee964111032c74bf80c52517c"/>
+	</machine>
+	<machine name="Brandish [extras]">
+		<description>Brandish [extras]</description>
+		<rom name="Brandish (FD case).jpg" size="186330" crc="aee04735" md5="fdb0eb4b3be685082f84f6a00e650863" sha1="ed0ad4c625d48f0238ce9486c58f30482dc3e6df"/>
+		<rom name="Brandish (FD).jpg" size="327011" crc="0d1501d5" md5="c0e40176b05897464c37a98df189e1c1" sha1="18e7bf37371b24965b4b4456fcfd926512573ef6"/>
+		<rom name="Brandish (manual).pdf" size="8483741" crc="16bc0c56" md5="15a93f1324e0fdffb9aed7a7407558c9" sha1="025ba227a4edbe6ae9bad97704047ff829ae6d15"/>
+		<rom name="Brandish (package front).jpg" size="1908483" crc="3cd48cdb" md5="610a4428bf9b5174cac805b262845030" sha1="5e890cbb58a83e931f4ee94fb1d486f77cc20915"/>
+		<rom name="Brandish (package rear).jpg" size="1622715" crc="17e63911" md5="2d1fc6a813fe0e671d9cabe7713c82bb" sha1="7d0f950aca0c9e20ffc855dd310064fc408f22e4"/>
+		<rom name="Brandish (package spine).jpg" size="442759" crc="1416003b" md5="cb966241811b15959783adec5df97b98" sha1="2092da9eaac0ba0583a9767f310ee6d9715a3f8e"/>
+	</machine>
+	<machine name="Branmarker [extras]">
+		<description>Branmarker [extras]</description>
+		<rom name="Branmarker (manual).pdf" size="6600958" crc="86c150f5" md5="d42f23347526bc42e6d458027bb6cc5a" sha1="2c284e16c668975ff221ec133e4f22824621ffbb"/>
+	</machine>
+	<machine name="Cal Towns [extras]">
+		<description>Cal Towns [extras]</description>
+		<rom name="Cal Towns (Cal II manual).pdf" size="5253629" crc="ad715694" md5="33dd9f5d17633d1f42d76e0641724caf" sha1="4026b06a8b410889dd76ca064ebe1fe5e1b54f0d"/>
+		<rom name="Cal Towns (Cal manual).pdf" size="3620116" crc="24c5d096" md5="f887176a0c6005a190f17230b6aeb46f" sha1="7534e487260d1c538e2555aac71b0b5b7e8c9963"/>
+		<rom name="Cal Towns (manual readme).txt" size="47" crc="570c36c1" md5="98cdc8ac24a9a3e5cc78502d1d8366a4" sha1="f3b8ca553fe1eb40b9d4feacb00f905f9755f988"/>
+	</machine>
+	<machine name="Classic Road [extras]">
+		<description>Classic Road [extras]</description>
+		<rom name="Classic Road (CD label).jpg" size="451826" crc="66da61f6" md5="171bc3bba21e1c8498102f1ec13fb7ce" sha1="d53997875702601b7151e4cf7175722def90eb90"/>
+		<rom name="Classic Road (FD label).jpg" size="270411" crc="32d5e94d" md5="e31c257d19bf757536e6bf82126fe3da" sha1="80ec276bb6e605c99206821402d59a64fa5c0345"/>
+		<rom name="Classic Road (manual).pdf" size="40947428" crc="4dfb8fc3" md5="7fa707277edbb58e8eba2373b3f7e080" sha1="9e1be7e068984000afc2acbbae214ae2337b86b8"/>
+	</machine>
+	<machine name="Crystal Rinal [extras]">
+		<description>Crystal Rinal [extras]</description>
+		<rom name="Crystal Rinal (CD label).jpg" size="676915" crc="64e5d917" md5="7326b060a45d74519ff00982855397d2" sha1="74bd6b23da67ffda5fabdfa689f3e450ee09954f"/>
+		<rom name="Crystal Rinal (Club D.O. form front).jpg" size="2180032" crc="8707ced9" md5="defdbb60f2103741639dc29051a2e0cf" sha1="e3bc35648c6ccb406275334050fbfed1e5e7b918"/>
+		<rom name="Crystal Rinal (Club D.O. form rear).jpg" size="1885206" crc="4d3d8a0d" md5="33f9641c1c59326006127d4fb2650888" sha1="986b69ba9c761dfcb3e6dfa2e259567bb6bca235"/>
+		<rom name="Crystal Rinal (FD label).jpg" size="167132" crc="f420454a" md5="13091e78d098f8532b9eb66d23de93b3" sha1="6fe82297b228e665d367c0cce52169d14bdde64d"/>
+		<rom name="Crystal Rinal (manual).pdf" size="30717777" crc="a83150d9" md5="459d2c1160083e2b1ed83ed087942899" sha1="3b10f6748093cd75cd254200126bdef5673d309e"/>
+		<rom name="Crystal Rinal (package front).jpg" size="2190552" crc="08519215" md5="5701a64eff99eea0a28eb366d2ef826f" sha1="4f5046e35d7231150ce3cb4bf7b8d9d02ae40550"/>
+		<rom name="Crystal Rinal (package rear).jpg" size="2604119" crc="4fcbb46f" md5="c1ce1a3fcaf7959d75785e5f1914bd00" sha1="709c9ddf032048cc1e47850ddade5786ce503021"/>
+		<rom name="Crystal Rinal (signed print form).jpg" size="820548" crc="1e24b8e3" md5="506eeb9e9c4fe119e7d008e64cb0f933" sha1="beff9c9c7c4261e10c0650d62c4ca96a50b775c2"/>
+	</machine>
+	<machine name="Custom Mate 2 &amp; Itsuka dokoka de [extras]">
+		<description>Custom Mate 2 &amp; Itsuka dokoka de [extras]</description>
+		<rom name="Custom Mate 2 &amp; Itsuka dokoka de (Custom Mate 2 manual).pdf" size="5753895" crc="c692ad4d" md5="9d63db0d129006c4c82356ac9294b67a" sha1="059aff4c4b1fb9ff2e36645076259d7b3ae3e58e"/>
+	</machine>
+	<machine name="Cybercity [extras]">
+		<description>Cybercity [extras]</description>
+		<rom name="Cybercity (photo 1).jpg" size="69408" crc="4f252242" md5="e224ac79b9d5da680baa8135ea365948" sha1="141b785b57652c83909076979c7feef074285a62"/>
+		<rom name="Cybercity (photo 2).jpg" size="92631" crc="b3a4d63d" md5="259cc6da1e1a3b809870389630bcf8fd" sha1="f14a3753d2262a652caf0b0bbdd331fbaea3b1c5"/>
+		<rom name="Cybercity (readme).txt" size="38" crc="6d45100a" md5="aeda09f9f44a78b99158d85d05c3e3a8" sha1="5c3d11734c2c96e1892461140c2edf799e43ef8b"/>
+	</machine>
+	<machine name="D.P.S - Dream Program System [extras]">
+		<description>D.P.S - Dream Program System [extras]</description>
+		<rom name="D.P.S - Dream Program System (manual).pdf" size="7148344" crc="5c712f33" md5="bf82ddb6f1a2a4960525d9ce589cba6b" sha1="6f9d8f6c64da1a39cd113def721f9a7e30fd587b"/>
+	</machine>
+	<machine name="Desire [extras]">
+		<description>Desire [extras]</description>
+		<rom name="Desire (manual).pdf" size="2810150" crc="424b35d9" md5="dcac33e4d4c22fb3db9334d78bf7d580" sha1="c2b52772bc9d7dbb63cf805c63c3aac16656e78f"/>
+	</machine>
+	<machine name="Dinosaur [extras]">
+		<description>Dinosaur [extras]</description>
+		<rom name="Dinosaur (encyclopedia).pdf" size="11487017" crc="06065bef" md5="7fcf402031ead3d515ca7071368d8903" sha1="2084619e0fb32d69dcab9d2cc542abc5a2f23f14"/>
+		<rom name="Dinosaur (maps).pdf" size="2506973" crc="50d53717" md5="97aa4aae58df7548bc34d36148ef3a12" sha1="45ea02ad4b2caa51c1ab1f221b58a40dcd773d50"/>
+	</machine>
+	<machine name="Drakkhen [extras]">
+		<description>Drakkhen [extras]</description>
+		<rom name="Drakkhen (manual).pdf" size="5544782" crc="a6618b96" md5="7587190a27a89ca204351cc5b609bc00" sha1="672ff04501d9f98c5e19a1f5a858e1ca202b473d"/>
+	</machine>
+	<machine name="Dream Program System SG [extras]">
+		<description>Dream Program System SG [extras]</description>
+		<rom name="Dream Program System SG (manual).pdf" size="6775624" crc="3c629345" md5="8f09de1f82a6dc97615859f08a4f2108" sha1="0b1be32d53a97dfdc8793ed04b8819ce46e372b2"/>
+		<rom name="Dream Program System SG (Set 3 Data 3 manual).pdf" size="5538624" crc="766661e5" md5="ea5d2984ecea67b83c8e33d74b40d039" sha1="2fbad55d2809ae8e8b22c27e07b04019b25e0a9a"/>
+	</machine>
+	<machine name="Dream Program System SG Set 3 [extras]">
+		<description>Dream Program System SG Set 3 [extras]</description>
+		<rom name="Dream Program System SG Set 3 (data 3 manual).pdf" size="5538624" crc="5ebaa98d" md5="50f2eb372622d76a393434206e45d00f" sha1="f9625854ec53b417b6e5442292db11ae6a935a9e"/>
+	</machine>
+	<machine name="Dungeon Master [extras]">
+		<description>Dungeon Master [extras]</description>
+		<rom name="Dungeon Master (case rear).jpg" size="187054" crc="ba0c3f9c" md5="b55239a6547c4bb2f3e5472aaa44fd89" sha1="0fe964f4d895e9681b8f9038684acaf0dedb861a"/>
+		<rom name="Dungeon Master (CD label).jpg" size="220861" crc="80ab022e" md5="d8d8e16b030c11419f2a234c3bc15fb7" sha1="d9e13ad078a60a3fe5bef57bdfd893b984993b0c"/>
+		<rom name="Dungeon Master (operation manual cover).jpg" size="239279" crc="99e68fc6" md5="fd164c643a109dc375dd7d27789f1937" sha1="70c726fe6f204205e4dacc57340c0212a1b46f05"/>
+		<rom name="Dungeon Master (story manual cover).jpg" size="242637" crc="a4d63c4a" md5="e6813670e071ae7ac39f99ae64ad4260" sha1="103da94573d5c10880a3919c97d654382f733897"/>
+	</machine>
+	<machine name="Emerald Dragon [extras]">
+		<description>Emerald Dragon [extras]</description>
+		<rom name="Emerald Dragon (manual).pdf" size="19592348" crc="d134224c" md5="9301eb55604a5da33c44c2ba10acd41c" sha1="3dd7862fe8cdb7f9efd63f644f5a7d8ee5cc4a0f"/>
+	</machine>
+	<machine name="Eye of the Beholder II [extras]">
+		<description>Eye of the Beholder II [extras]</description>
+		<rom name="Eye of the Beholder II (Rule Book).pdf" size="15622927" crc="224ed451" md5="eb73b446bda629dfe0d4ef031adc5a33" sha1="f7d885d102fa244a13379d74448341e800c64167"/>
+	</machine>
+	<machine name="Fractal Engine Demo [extras]">
+		<description>Fractal Engine Demo [extras]</description>
+		<rom name="Fractal Engine Demo (case insert inner).jpg" size="329163" crc="acc29287" md5="a3ff6243f1eeba8eec7c202b7c924249" sha1="35af0d3a036509ded92fcb2998b62933de1e7f72"/>
+		<rom name="Fractal Engine Demo (case insert outer).jpg" size="184385" crc="c0d311d0" md5="bbef68b70c2c86e5c9885b91d50b914e" sha1="220278d5e93d4bc906e5838f67f5e26cac8d294e"/>
+		<rom name="Fractal Engine Demo (case rear).jpg" size="215186" crc="6c1cbee8" md5="ab191c4f772da5e016eeaf6fbb8e64a9" sha1="4f760e16a6d32e622f331a022f429082a62fd4e7"/>
+		<rom name="Fractal Engine Demo (CD label).jpg" size="94553" crc="6e87da4f" md5="a74276fcbe919af4f36ed8af643f1737" sha1="17161679b0375a647b6572cdab07d36c4a0bd94a"/>
+	</machine>
+	<machine name="Free Software Collection 5 [extras]">
+		<description>Free Software Collection 5 [extras]</description>
+		<rom name="Free Software Collection 5 (CD label).jpg" size="600427" crc="d4ecdc6c" md5="193aeecf5fcfecb584ac4a6710ee7927" sha1="b4dfde8d256cca3d6965f2c32c37e5262c3ca7ce"/>
+		<rom name="Free Software Collection 5 (manual).pdf" size="4296728" crc="dd7c4ec3" md5="f0af97e88ae5435ed4a8c6184ab82c45" sha1="b5035f4e64545a73600d88d1a23d5e1c10b423c7"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #08 [extras]">
+		<description>Futoppara FD Heisei #08 [extras]</description>
+		<rom name="Futoppara FD Heisei #08 (FD label).jpg" size="27336" crc="810d6435" md5="2d2a73df563f1d4df0a8ec69afd9b1f5" sha1="e608fa46b4dded1ace1b371df8fa6d6cc92ce58e"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #10 [extras]">
+		<description>Futoppara FD Heisei #10 [extras]</description>
+		<rom name="Futoppara FD Heisei #10 (FD label).jpg" size="27257" crc="9d19a053" md5="af9f993d5c83bd77d262660681898dea" sha1="53ec6f2e500ff375e000a0da1ec1d960ff6ae2aa"/>
+	</machine>
+	<machine name="Genocide Square [extras]">
+		<description>Genocide Square [extras]</description>
+		<rom name="Genocide Square (hints).jpg" size="297609" crc="aabf8001" md5="560ebf9c018cd77d2d07443a0e56ff40" sha1="5ebf6e55041b8b4a03d17aa972e20a6c9da0ec5a"/>
+	</machine>
+	<machine name="Gunship - The Helicopter Simulation [extras]">
+		<description>Gunship - The Helicopter Simulation [extras]</description>
+		<rom name="Gunship - The Helicopter Simulation (copy protection answers).pdf" size="1380398" crc="1071731a" md5="1da577b612841396f1bf9c70a54ed464" sha1="4e89f6d3865260c481b032bb690f7629266ca00e"/>
+		<rom name="Gunship - The Helicopter Simulation (manual).pdf" size="19633072" crc="8cf2b332" md5="d1eb942bab35c3a0d522860bccd9f9a7" sha1="a81865fb5228562a3714145520ad018c2decada6"/>
+	</machine>
+	<machine name="Hana no Kioku [extras]">
+		<description>Hana no Kioku [extras]</description>
+		<rom name="Hana no Kioku (CD label).jpg" size="1549716" crc="333cdd82" md5="372b7691d0ba426d274d792a6d3cb847" sha1="525cfc4885f051a2141202bc0d72e64554c6578c"/>
+		<rom name="Hana no Kioku (manual).pdf" size="6438646" crc="27ace06d" md5="7d64fea4e94484dc38c9b97127e48246" sha1="b4ebc3382685d9da49bd804745040a0c552929f6"/>
+		<rom name="Hana no Kioku (package).pdf" size="18805867" crc="b4dc5466" md5="5ef91f83c39be8e7fa7e16a3bff28623" sha1="289d6cc87e704ae7b0cb4510009e75cbee1bb1c0"/>
+	</machine>
+	<machine name="Hoshi no Suna Monogatari 3 [extras]">
+		<description>Hoshi no Suna Monogatari 3 [extras]</description>
+		<rom name="Hoshi no Suna Monogatari 3 (manual).pdf" size="7221389" crc="002f58c7" md5="8a73148ebe75a00828450148e77de955" sha1="0e419921f5f108d365a2826fa9d6a5198599eaff"/>
+	</machine>
+	<machine name="Hyper Address [extras]">
+		<description>Hyper Address [extras]</description>
+		<rom name="Hyper Address (CD case front).jpg" size="207720" crc="2c7f0e46" md5="cdb7f947cc3d99fe2d0d950b1dea5501" sha1="e680c76f6c8c8226ec7eac0cc20616c3b500cc39"/>
+		<rom name="Hyper Address (CD case rear).jpg" size="228508" crc="975e700d" md5="ecaf2d09d2f049c436a9a930bee2fafa" sha1="4a29c26d7db7e50fdd9f014630b1f1dde7d78238"/>
+		<rom name="Hyper Address (CD).jpg" size="146325" crc="0c148337" md5="27c5f09d6dc7833ef1d1a89f49a23670" sha1="9d5c380b9e6261cdf4ea4cc15e91beb017a7a12c"/>
+		<rom name="Hyper Address (FD).jpg" size="95848" crc="8c178a2e" md5="c7a900e7b77335568ce1415be179dba8" sha1="9359531a71cdc0c16bda8f03d73daad2f052f3cf"/>
+	</machine>
+	<machine name="Idol Project [extras]">
+		<description>Idol Project [extras]</description>
+		<rom name="Idol Project (character book).pdf" size="9892539" crc="2d4ac861" md5="0f3be933068df6023e1d0b3772b106f5" sha1="c8ddc0577d3d893254cb796ebe2f09f07df9521c"/>
+	</machine>
+	<machine name="Indiana Jones and the Last Crusade [extras]">
+		<description>Indiana Jones and the Last Crusade [extras]</description>
+		<rom name="Indiana Jones and the Last Crusade (magazine feature).jpg" size="296269" crc="79d8d5b6" md5="3f77112973b4b7d01c74ab9c4768e60a" sha1="81f20f38de32e396fba192ddb97bb34e4f9e7ec5"/>
+	</machine>
+	<machine name="Infestation [extras]">
+		<description>Infestation [extras]</description>
+		<rom name="Infestation (cover art).jpg" size="90568" crc="63283846" md5="65850b652909edb339b5d6d182842735" sha1="7630627614bc784a3d5232c56f5189af204f57ac"/>
+		<rom name="Infestation (package).jpg" size="6388530" crc="46e966b8" md5="35259974b50edacc83fc00f6e442b66f" sha1="a321fc7c510ce0538253f7451423fb30517531ab"/>
+		<rom name="Infestation (readme).txt" size="68" crc="dc72a663" md5="00ef4aae70045965f7a4bbd03657b4b7" sha1="55fb7d92fc407daf23347475a735096e1808d85f"/>
+	</machine>
+	<machine name="Jan Jaka Jan [extras]">
+		<description>Jan Jaka Jan [extras]</description>
+		<rom name="Jan Jaka Jan (addendum &amp; changes).jpg" size="211634" crc="f37bc247" md5="68ae50c75c5b86c0ca0a8f1b8c78de30" sha1="867f4b44a5cf7e44195f7225f4eeb4113410a983"/>
+		<rom name="Jan Jaka Jan (manual).pdf" size="2001782" crc="034b467d" md5="3e51d04307821cb2d4440c634a6d782d" sha1="7df86f19c5bd5d74ee329a5975525193d4e9b223"/>
+		<rom name="Jan Jaka Jan (user support form).jpg" size="369432" crc="0f8fec7e" md5="5b160cbb205df3c5e2746fa541caaf0f" sha1="95993c35b232241f80bf41c3e371b00f75afeb1c"/>
+	</machine>
+	<machine name="Jinmon Yuugi [extras]">
+		<description>Jinmon Yuugi [extras]</description>
+		<rom name="Jinmon Yuugi (CD case insert).pdf" size="521345" crc="302f0a11" md5="6fd1d72ef589a1508cd6609aa0bef526" sha1="b6d4b1fa64fab72411fd2a505e2b59049c39e086"/>
+		<rom name="Jinmon Yuugi (CD case rear).jpg" size="841516" crc="cdaa17af" md5="caba592a6a96b83e050d212e360835f2" sha1="0c6723a66f6f0029aa51c9feb92dbab660a6ee8b"/>
+		<rom name="Jinmon Yuugi (manual).pdf" size="6781431" crc="21c97f50" md5="d72706267dfe73b9793e2cf9829a1ecd" sha1="e508aa752eb87363c7aa841c5634b87b4315f360"/>
+	</machine>
+	<machine name="Kiwame [extras]">
+		<description>Kiwame [extras]</description>
+		<rom name="Kiwame (case inner).jpg" size="156940" crc="9ede31cc" md5="91be9956320225057280f923992a10e2" sha1="4b24e7571b1e048265a51ca0682300a4fe2b6b33"/>
+		<rom name="Kiwame (case outer).jpg" size="166064" crc="3167b242" md5="9b33704ecc98f86bb316d6dee6737710" sha1="a705ca9c06bb05242eefcd534adfea6e7c9df044"/>
+		<rom name="Kiwame (CD case exterior).jpg" size="174863" crc="4581fa6e" md5="e4c9774316916e9a3d546ac649af38e2" sha1="3e470873c9a5e017f90a4d7d7f423478bd532442"/>
+		<rom name="Kiwame (CD case interior).jpg" size="161586" crc="c24e816e" md5="45442f6bb8c6d4c7bea3b0e839dfb977" sha1="5b286daebe04e032c673d92f9409251e32e18990"/>
+		<rom name="Kiwame (Jouseki Shuu manual).pdf" size="640612" crc="68176236" md5="a5ec682d592f2b3da7ea1a3d155c99b2" sha1="f8a4a88a0ae1e2a61ff57ea90815643fbd2f9d51"/>
+		<rom name="Kiwame (manual).pdf" size="1272540" crc="968637db" md5="3e0f8d38d670e370470fd6c62fde4876" sha1="2bd159718cd28077913c26b19115d2dd33967bf7"/>
+	</machine>
+	<machine name="Koko wa Rakuensou 2 [extras]">
+		<description>Koko wa Rakuensou 2 [extras]</description>
+		<rom name="Koko wa Rakuensou 2 (CD label).jpg" size="2727162" crc="43bd9e0f" md5="f95173aa4ddd6ba96f13e0becdde2c79" sha1="9853791145dc6d7af601eb9216c5fd6f202d2333"/>
+		<rom name="Koko wa Rakuensou 2 (CD).jpg" size="384475" crc="2b11397c" md5="d86af43c9aa42ebffabec62a53697a9e" sha1="64a2f8b37b81fe280f6b11f8764e91c877403e8c"/>
+		<rom name="Koko wa Rakuensou 2 (manual).pdf" size="10256041" crc="0b8a1aeb" md5="8a8166bdb81024f1aa3480ff0bc116ef" sha1="a6ead71e91875b819aa968f803cbfae75874954c"/>
+		<rom name="Koko wa Rakuensou 2 (package).pdf" size="30122724" crc="40558b8e" md5="36b05b3757655c239f8d3774c9f32415" sha1="fed3ea1520af86631e08127b80726632f3f8751d"/>
+	</machine>
+	<machine name="Koko wa Rakuensou [extras]">
+		<description>Koko wa Rakuensou [extras]</description>
+		<rom name="Koko wa Rakuensou (CD label).jpg" size="586892" crc="335a2bb2" md5="4a8974b996073fcdcf86fd03701f801a" sha1="0d035ec14a7b08d73790259902cf781f0227694e"/>
+		<rom name="Koko wa Rakuensou (characters).jpg" size="1477208" crc="6b4959f0" md5="ce399025a6e19b5b7ee3f59628030848" sha1="98a8ec4872cd40e2c67335301e5b6d423193ebc6"/>
+		<rom name="Koko wa Rakuensou (controls).jpg" size="1753011" crc="a75471f9" md5="1840b13d525671e58972bce3ae796a8d" sha1="2536759d266f744c37c6f4c7bc458b5d3833b6c0"/>
+		<rom name="Koko wa Rakuensou (manual).pdf" size="4371457" crc="f0f851c0" md5="9f7b9f33083224579e9018ec5b8fa2df" sha1="c76fd36ea230293e13aa0b3357942659e91e01df"/>
+		<rom name="Koko wa Rakuensou (package front).jpg" size="1109779" crc="402c9eba" md5="0c8ac2e49f9642724cc00fceda887988" sha1="596adf84b97ec976713f9202d0824fff1aa253cf"/>
+		<rom name="Koko wa Rakuensou (package rear).jpg" size="1085000" crc="4c8972e4" md5="07c86e901b8aa18a20c45b62364fea2e" sha1="8ccf23dbffc8fe547341e368cfeb1416365d22dd"/>
+	</machine>
+	<machine name="Last Armageddon CD Special [extras]">
+		<description>Last Armageddon CD Special [extras]</description>
+		<rom name="Last Armageddon CD Special (Apros version Disc A label).jpg" size="181225" crc="b4345793" md5="9634dc95395acb18ba78577deabe56ff" sha1="1f6e18fe232604e42847333285f21e809bd4de89"/>
+		<rom name="Last Armageddon CD Special (Apros version Disc B label).jpg" size="92962" crc="1bb16224" md5="4a6a8ff4fc59f809e038f93701326cab" sha1="8b83326323bd158ba6667c00810d8e1c4fac00ac"/>
+		<rom name="Last Armageddon CD Special (Apros version Disc C label).jpg" size="109783" crc="2945d5a9" md5="97404934702176ace78999448bce18c9" sha1="e0e696b2169537500eed74ff05004b795b49c535"/>
+		<rom name="Last Armageddon CD Special (Apros version manual cover).jpg" size="123189" crc="d9ee7785" md5="ab669a35a2076c2ed99968271146fd2f" sha1="a228c7b7ff51acab0e2eff13fe1f300a420cced8"/>
+		<rom name="Last Armageddon CD Special (Apros version package).jpg" size="322343" crc="0f3df03f" md5="ab148ef71b64f385cf11d7e8110b0ede" sha1="e4f108536dcdb0ee22d092f837985b3eb0731854"/>
+		<rom name="Last Armageddon CD Special (Comptiq special).pdf" size="876018" crc="7b1a9c46" md5="b0577c240f5cd72835383d30e8733140" sha1="b83b1b868b4c2f8897e50f6e03f05f3f57623388"/>
+		<rom name="Last Armageddon CD Special (Meifu Madou).pdf" size="15334895" crc="5e6921de" md5="0f90665f2f04dca8a1909d48aa939347" sha1="d5c5fe8837985c5a557aaa449a1ff6ade05dd9f6"/>
+		<rom name="Last Armageddon CD Special (writing).jpg" size="196221" crc="c78e7bd2" md5="3d34d9eb8deb9e921be2e15fbefad4ba" sha1="bbeb0cd621c40ba31eb110e2458c249e208de5c8"/>
+	</machine>
+	<machine name="Legends of Valour [extras]">
+		<description>Legends of Valour [extras]</description>
+		<rom name="Legends of Valour (map).pdf" size="2386229" crc="9d66110c" md5="e8d54b703f37b13c99500ca8d181a9fb" sha1="bcf445d8393b5895433228a6615d139a442d284b"/>
+		<rom name="Legends of Valour (reference manual).pdf" size="13931605" crc="d9e703fd" md5="623929d1668b3dc0767f9b6dfb8c9181" sha1="f85eaae8b68260b93a213fe698c350b831f1e111"/>
+	</machine>
+	<machine name="Lemmings 2 - The Tribes [extras]">
+		<description>Lemmings 2 - The Tribes [extras]</description>
+		<rom name="Lemmings 2 - The Tribes (readme).txt" size="36" crc="6cc23790" md5="4f3dcb5d5daff3b962b3fee7514cd569" sha1="c2e67a9b89736aadb56c7f9d5a1e96fff333fc5c"/>
+	</machine>
+	<machine name="Lesser Mern [extras]">
+		<description>Lesser Mern [extras]</description>
+		<rom name="Lesser Mern (CD).jpg" size="218038" crc="805d417b" md5="6917366bbe8bd669b2ca9acf6aeda35a" sha1="fac226007002f8b9f51cbc94a724c5a0c4d4ec74"/>
+		<rom name="Lesser Mern (game manual).pdf" size="13017456" crc="aab7292c" md5="c1099713b99f5c41fc3583c2f5d03e7e" sha1="dba3a408dae662510d2993bc8d0c050382ce0ccb"/>
+		<rom name="Lesser Mern (install method).jpg" size="241489" crc="b8c3800b" md5="4371dd2c637deb2c32fd3730526d722b" sha1="980ffd062fa9864016b3f7d8156d67e9dacd09c0"/>
+		<rom name="Lesser Mern (package front).jpg" size="1550175" crc="75637585" md5="c96824844e422088c7368a490a109bfb" sha1="8d2465ec43cdba401e4c5a4b0d31d7c592057f90"/>
+		<rom name="Lesser Mern (package rear).jpg" size="2232405" crc="79592fc5" md5="32120d9f4c9063980e25a465b1da53da" sha1="6fadc764c47fa4c1aade67199f2abb14b75bf1f1"/>
+		<rom name="Lesser Mern (reference manual).pdf" size="3586849" crc="49e42a51" md5="ee1285a80bbfaf6087de175f4d629588" sha1="ffe88bc46cd09b555899742e250eaef02ac65108"/>
+		<rom name="Lesser Mern (warning).jpg" size="94542" crc="6cdc6dea" md5="23c5c96065fbf5146d4fa9bef6dd85f5" sha1="959efffacb0146f230c190da0c9d9017abdf6f94"/>
+	</machine>
+	<machine name="Libble Rabble [extras]">
+		<description>Libble Rabble [extras]</description>
+		<rom name="Libble Rabble (bashishi markers).jpg" size="290550" crc="e5c11f8e" md5="d717fa4f2bf2a076e6db941175c2ac3b" sha1="0c5563a69a98690b88db5650213476d5422b7e72"/>
+		<rom name="Libble Rabble (CD label).jpg" size="302743" crc="57751b80" md5="eb243ce492c24f23b7b3020eb28c0add" sha1="6c1af44df17cceb70b4deacf89f45fcee98d65c2"/>
+		<rom name="Libble Rabble (manual).pdf" size="8568113" crc="10ef0818" md5="b69b87ba9c7647fe15c2a5fc664dd61f" sha1="2b6048cdc6e63fd0258bba77641ff5a8b14f08a9"/>
+	</machine>
+	<machine name="Life &amp; Death [extras]">
+		<description>Life &amp; Death [extras]</description>
+		<rom name="Life &amp; Death (CD label).jpg" size="165520" crc="8ea3651c" md5="556a4ab5f165ebf2bd87021a27407080" sha1="4b69786e2a9808cf4e81ef44a7cc888d9ef306c1"/>
+		<rom name="Life &amp; Death (manual cover).jpg" size="131372" crc="c8693fcf" md5="f7986f64db5d34a157da5bcc8522e2b4" sha1="868c35c1429e10e6124bfa5c5e76622fb97d16a9"/>
+		<rom name="Life &amp; Death (startup manual cover).jpg" size="136968" crc="d252faea" md5="93bc42050739de8a81d4ab63198084a0" sha1="201db228a46aedfad9d7c84ba3d6991608c5f98c"/>
+	</machine>
+	<machine name="Lipstick Adventure 3 [extras]">
+		<description>Lipstick Adventure 3 [extras]</description>
+		<rom name="Lipstick Adventure 3 (manual).pdf" size="3194925" crc="30404c6b" md5="810595dac135d3cf9bd8bf7ea34a6d2e" sha1="e9f088aa63bc64e8d37dfec7af02c60d6f30cac6"/>
+	</machine>
+	<machine name="Mahjong Fantasia - The 2nd Stage [extras]">
+		<description>Mahjong Fantasia - The 2nd Stage [extras]</description>
+		<rom name="Mahjong Fantasia - The 2nd Stage (manual).pdf" size="9871132" crc="f5fe11bd" md5="b0867953bf8f27d4ffe18850e9cb0abb" sha1="a9783a3132b37165ad56e2475c5dc5c4af3da153"/>
+	</machine>
+	<machine name="Mahjong Fantasia [extras]">
+		<description>Mahjong Fantasia [extras]</description>
+		<rom name="Mahjong Fantasia (manual).pdf" size="4287147" crc="51f1604f" md5="53b1d31ae491948c8f8eb5d593e81492" sha1="81e150fdde1b3641fa7571753079c7a765436180"/>
+	</machine>
+	<machine name="Mahjong Yuuenchi [extras]">
+		<description>Mahjong Yuuenchi [extras]</description>
+		<rom name="Mahjong Yuuenchi (manual).pdf" size="2991307" crc="79219557" md5="a3e63d927c6fdde96a81e3cb48b0ed2e" sha1="0bb42a83db9e941d7a2ec6df93b509f886606d73"/>
+	</machine>
+	<machine name="Menzoberranzan [extras]">
+		<description>Menzoberranzan [extras]</description>
+		<rom name="Menzoberranzan (readme En).txt" size="309" crc="96c0d39e" md5="ac7e5ecba533d46834087ed3be615406" sha1="e06795322386f82f299e5427c5be154f9ff60576"/>
+		<rom name="Menzoberranzan (readme Jp).txt" size="235" crc="b0d8bc2f" md5="de07fc2cbda402e7608a1a6b162eee2c" sha1="d4ad8ea3dfbaa03a7fb49b62609c5e2698e072dc"/>
+	</machine>
+	<machine name="Monkey Island 2 - LeChuck's Revenge [extras]">
+		<description>Monkey Island 2 - LeChuck's Revenge [extras]</description>
+		<rom name="Monkey Island 2 - LeChuck's Revenge (case rear).jpg" size="197032" crc="ae5ad2cd" md5="fbd3146f91b7a107ff67b6162d301b28" sha1="24d951d7a9135f1b5a9ed610374ed71cec15e2bc"/>
+		<rom name="Monkey Island 2 - LeChuck's Revenge (CD label).jpg" size="155508" crc="6c039065" md5="295af13decb19d908515e4ec2e23650f" sha1="d78b08a77d7afab4bdec6539ebd4045c7acb7b9c"/>
+		<rom name="Monkey Island 2 - LeChuck's Revenge (hint book cover).jpg" size="200203" crc="a557f737" md5="57774921a2a676767605ed85e37b8ab5" sha1="563fb866ff5fbd89cec1ad5c74af6fda9411cc56"/>
+		<rom name="Monkey Island 2 - LeChuck's Revenge (manual cover).jpg" size="206722" crc="cfb725d5" md5="64315e015161f4e51b38896d440ceaa0" sha1="a8c77505670399e2f69a304f9f23f907406bbdc6"/>
+		<rom name="Monkey Island 2 - LeChuck's Revenge (user disk readme).txt" size="160" crc="3ce49480" md5="24586679613aa2752c7324217897090b" sha1="bf22dca02665e7bd14cffa01eef03d4574f6fae9"/>
+	</machine>
+	<machine name="Ms. Detective File #2 [extras]">
+		<description>Ms. Detective File #2 [extras]</description>
+		<rom name="Ms. Detective File #2 (manual).pdf" size="4619851" crc="86417443" md5="45e92623e9568a6b7c3a96973900e35f" sha1="cabc20e20477cf2203b94e1822a867c527aa26bd"/>
+	</machine>
+	<machine name="Mujintou Monogatari [extras]">
+		<description>Mujintou Monogatari [extras]</description>
+		<rom name="Mujintou Monogatari (CD label).jpg" size="1085733" crc="d06f9434" md5="cc0c7ab247593190de9c8a3e84dbd75e" sha1="0a24a2c5c44598f49e48ed2a060e6296eb362b8f"/>
+		<rom name="Mujintou Monogatari (manual).pdf" size="17851365" crc="6d216d40" md5="0d81eabf30b1f3eaabb9e8a6029ec824" sha1="bcee1e8299410bc2db75e8fd088e33b6e6bbeb69"/>
+	</machine>
+	<machine name="Murder Club DX [extras]">
+		<description>Murder Club DX [extras]</description>
+		<rom name="Murder Club DX (addendum).jpg" size="497028" crc="72c56afe" md5="cc16db3faa5447c92db14f909e65ae33" sha1="6673d79a0c82b90e7f60f12eacd7e61a15fc90d7"/>
+		<rom name="Murder Club DX (CD label).jpg" size="221022" crc="0e377634" md5="11edc222b67e44fe247045b1a771fec5" sha1="ad38854c346d723e855fc04cd4a6563008468fc0"/>
+		<rom name="Murder Club DX (partial manual).pdf" size="14155388" crc="ed85166b" md5="1a492b442a1950501c28bde8d3f44811" sha1="4d9a1f6618d3d48a6860b5f8ad75bbf89cc97c14"/>
+		<rom name="Murder Club DX (readme).txt" size="471" crc="d18f9e91" md5="5ee9f1d393b427e746b880159ab7abba" sha1="a0f85cb7e663fbfee6012d7a5742f18770ead237"/>
+	</machine>
+	<machine name="My Fair Lady CAN II - Elementary [extras]">
+		<description>My Fair Lady CAN II - Elementary [extras]</description>
+		<rom name="My Fair Lady CAN II - Elementary (CD label).jpg" size="154096" crc="ce70d1f4" md5="e2718971ef2c61048ee3c94b7b41280d" sha1="b39de9f0a211b3e562d1b3d710162e146b51edf0"/>
+		<rom name="My Fair Lady CAN II - Elementary (FD label).jpg" size="105348" crc="47bbd9d4" md5="15ff6adef3d2bf3327a84fda621a4597" sha1="57f1e9af559e1636cecbe96882a3c9a4c2e254e9"/>
+		<rom name="My Fair Lady CAN II - Elementary (guidebook).pdf" size="1530681" crc="ce71ed39" md5="9e393a7f6764be5cdd2d73105a12e3d8" sha1="1b3277974eaee64e6ca106412e097c38cac98a61"/>
+		<rom name="My Fair Lady CAN II - Elementary (jewel case).jpg" size="279257" crc="e49926fb" md5="68ddd39c46d115b88ba9e98437a77a47" sha1="9e5e881e819fbb9d5354ae7e5511a7312551fb82"/>
+		<rom name="My Fair Lady CAN II - Elementary (package front).jpg" size="1899492" crc="fa9f1312" md5="2e792d623a451e391eea076482413972" sha1="f37c7d23bf889fc54e055e471611aa48cf4675b6"/>
+		<rom name="My Fair Lady CAN II - Elementary (package rear).jpg" size="2041195" crc="f14b2fe3" md5="968b295bdcf1726b26e95f0a0e326cb4" sha1="b70a2b216e184b6d702fa8caeb91ab8cdf9436c5"/>
+		<rom name="My Fair Lady CAN II - Elementary (survey card front).jpg" size="154813" crc="445e3b34" md5="4bf98e3e0cca5a389086e8a66049cac5" sha1="c437629689d3c1a6ac93f7188ffc534b970665c5"/>
+		<rom name="My Fair Lady CAN II - Elementary (survey card rear).jpg" size="132544" crc="5c9872b2" md5="d5e57aaef348d749ad5982e08a008929" sha1="0299f2c07332740c33b14dd96813545dde26627b"/>
+		<rom name="My Fair Lady CAN II - Elementary (textbook).pdf" size="14687956" crc="9002963b" md5="2ca8b9a42109af9b5474b40b2fdbc308" sha1="df93c9fe9c5a7f03bbc3840de25ae0eb2040f03f"/>
+	</machine>
+	<machine name="Niko^2 [extras]">
+		<description>Niko^2 [extras]</description>
+		<rom name="Niko^2 (manual).pdf" size="2126014" crc="830508cf" md5="50df26b428945ce8d8a5b0da76cf09a1" sha1="b6d74fdd124f4f33ff3e17c3553175bc0ed15925"/>
+	</machine>
+	<machine name="Nobunaga no Yabou - Haou-den [extras]">
+		<description>Nobunaga no Yabou - Haou-den [extras]</description>
+		<rom name="Nobunaga no Yabou - Haou-den (CD label).jpg" size="208292" crc="a7f13725" md5="472cac2b726a5396abd0d56f1af4898d" sha1="e58d952c93f27513eecb88f710b844a9f57591b1"/>
+		<rom name="Nobunaga no Yabou - Haou-den (FD label).jpg" size="194239" crc="1f477838" md5="68349077309efb2c7a236e7e2ff22193" sha1="b02a1925c817853741e265d0cef7f615b5aecbc5"/>
+	</machine>
+	<machine name="Nobunaga no Yabou - Tenshouki [extras]">
+		<description>Nobunaga no Yabou - Tenshouki [extras]</description>
+		<rom name="Nobunaga no Yabou - Tenshouki (manual).pdf" size="13132334" crc="f75edb50" md5="2e0f53b46825e9c10de9fe9f8427a343" sha1="57e23c875802a24d316abdea8646168e776d1f6d"/>
+		<rom name="Nobunaga no Yabou - Tenshouki (map).jpg" size="1144347" crc="f87c0154" md5="71f0c02ca25d95f0c5acd4d8ea81215a" sha1="66fa2b037a0775257d474b213f1544a34013786e"/>
+	</machine>
+	<machine name="Okiraku Towns Gear [extras]">
+		<description>Okiraku Towns Gear [extras]</description>
+		<rom name="Okiraku Towns Gear (errata).jpg" size="257003" crc="8efff818" md5="7e03b93fa435f4cb1313b48efcec041d" sha1="94f12f40a46daf2bca3997efa8127b371880c09a"/>
+	</machine>
+	<machine name="Planet Attacker [extras]">
+		<description>Planet Attacker [extras]</description>
+		<rom name="Planet Attacker (readme).txt" size="9848" crc="3ac13eab" md5="5f006f73a0a7dc5252acd0985f76c0a2" sha1="c0e2a53302bdd53c4a15870e8a440dcf66f7fd8d"/>
+		<rom name="Planet Attacker (USAF readme).txt" size="2416" crc="c9c97364" md5="4eaf7dff6af975148c8d5d07af042b08" sha1="6852027c229511e0408edc88ba86d0dc31d2bdbd"/>
+	</machine>
+	<machine name="Populous &amp; The Promised Lands [extras]">
+		<description>Populous &amp; The Promised Lands [extras]</description>
+		<rom name="Populous &amp; The Promised Lands (CD label).jpg" size="127417" crc="3ed7d720" md5="56d244faa46fbf1ee4ba5a02f941a8a3" sha1="929cc44cebe312aed6367de7c9bdbc58ab14d878"/>
+		<rom name="Populous &amp; The Promised Lands (controls).jpg" size="258912" crc="7e9a5c9e" md5="03d1f2dc57ebb8bd243c9f68dba3c102" sha1="03c1ed8e319508c1d83c3595cc2792e00da881cc"/>
+		<rom name="Populous &amp; The Promised Lands (interface).jpg" size="340296" crc="f628e1dc" md5="9829cbac6b5c73a4d28396830dd5c744" sha1="cecca2c06d4469358f833467bc972f08ef81984e"/>
+		<rom name="Populous &amp; The Promised Lands (manual cover).jpg" size="175540" crc="e62fb74b" md5="260a12c9c7bbd60384fefbbdd92f1659" sha1="25d4059952d1dfd4a837948a5684230efbbd999d"/>
+		<rom name="Populous &amp; The Promised Lands (manual).pdf" size="1258398" crc="73ff1778" md5="eece9027c5c8f5387ca6516824d348ec" sha1="9ebe6b87f63bcb3c59d43ab9ba24dffb8dc87815"/>
+		<rom name="Populous &amp; The Promised Lands (user's manual cover).jpg" size="269829" crc="84e27a26" md5="b1c6d20d8bb4cca39acfaa432d0bd8c8" sha1="7bfd3eb64788ffaee46d739f665cfcb8bf503f73"/>
+		<rom name="Populous &amp; The Promised Lands (user's manual pg. 13-14).jpg" size="212206" crc="96a1f883" md5="0e17f0f334a130bf5776b4076927f24e" sha1="fd3810c337d9e27e903b2281d3f6b8bf02a37477"/>
+		<rom name="Populous &amp; The Promised Lands (world guide).jpg" size="366738" crc="53136315" md5="dc95e06ed0d96e5052719ebe986a32b4" sha1="4cc00946a97344b23de4f99bda961fa39298eb37"/>
+	</machine>
+	<machine name="Populous II Expert [extras]">
+		<description>Populous II Expert [extras]</description>
+		<rom name="Populous II Expert (addendum).pdf" size="46710" crc="1ff1d2d6" md5="d78080d9d06469e10533fc888295f53f" sha1="1e79e9b04a4a1f703c109b6a17b44b52c6eda7d8"/>
+		<rom name="Populous II Expert (art book).pdf" size="7721965" crc="6d829b5c" md5="6010b0c9995b2c5e683c5d1b87a76ceb" sha1="d0f09438c7228097f77cb4e419fd46126bbbce30"/>
+		<rom name="Populous II Expert (command summary card).pdf" size="122469" crc="584faebe" md5="9f3c0c9a1d87d886b5f75184f4ab38d4" sha1="1812e7bc0e8274ee0c8de20eb8e1bf78edf7544e"/>
+		<rom name="Populous II Expert (manual).pdf" size="11052502" crc="bc7d95b1" md5="d2fca3f615bb9bf5a6c180c1db21be80" sha1="d80d394443c17d0aea1444dfaa43e739d6d1d40d"/>
+	</machine>
+	<machine name="Power Dolls 2 [extras]">
+		<description>Power Dolls 2 [extras]</description>
+		<rom name="Power Dolls 2 (data book).pdf" size="6104983" crc="64885e55" md5="6e7ca2ca5a8c402e7c41f8b5ee248863" sha1="ac6c6f8a5e1ce9381dcdc90d0d55ca3f7106eded"/>
+		<rom name="Power Dolls 2 (user's manual).pdf" size="4526532" crc="f1e370ae" md5="763b4223431cbaedf87885ce81020e88" sha1="505e45584287f26b7a734038e52e2d9476170018"/>
+	</machine>
+	<machine name="Power Dolls [extras]">
+		<description>Power Dolls [extras]</description>
+		<rom name="Power Dolls (manual).pdf" size="13272872" crc="260c5da2" md5="ad5567996b5c235be70b1ac1de95d874" sha1="04265b7b2e89188c2ebaeccf1b0476d52d11b153"/>
+	</machine>
+	<machine name="Powermonger [extras]">
+		<description>Powermonger [extras]</description>
+		<rom name="Powermonger (addendum).pdf" size="1524676" crc="3e2a342b" md5="9631b3e4fcb6ded165085a159509b8de" sha1="e6903af87c955dbc4b78a1efd60fd7c2ff7ce1a3"/>
+		<rom name="Powermonger (CD label).jpg" size="258000" crc="06f44e15" md5="1addc90fa1bdb165e99890e9cef702a5" sha1="7a28a07175e54e9cd86a9a8aa58615757fb65257"/>
+		<rom name="Powermonger (command manual).pdf" size="7269741" crc="c630f48f" md5="abee044f72b5b38c4178ff75621a2378" sha1="d27411a1044ca0a264b887d02a00de461bdc9719"/>
+		<rom name="Powermonger (package front).jpg" size="2635415" crc="e63c2d81" md5="50cac6929bef0b49ccd5f74bbabcdb21" sha1="0961e273c22c4ff31408797ac759b909ac43c4d7"/>
+		<rom name="Powermonger (package rear).jpg" size="2230197" crc="d563265e" md5="82fdc401b8d99a3bdb8b048d66cdb280" sha1="9e0365ca3afc4f14c91bf09cbc3278f3d52c3964"/>
+		<rom name="Powermonger (starting manual).pdf" size="9124796" crc="ceb94aaa" md5="0b52d5ae52e8c029ffaf286bcbe430ec" sha1="3b0c72cee359b46efbd8e5ceebb6120be421209a"/>
+	</machine>
+	<machine name="Premium 2 [extras]">
+		<description>Premium 2 [extras]</description>
+		<rom name="Premium 2 (manual).pdf" size="1565579" crc="01c53de8" md5="1deaa7b04a9d45a64548dde89279bad3" sha1="7fb51997003cfa5537f239236336619439524283"/>
+	</machine>
+	<machine name="Prince of Persia 2 [extras]">
+		<description>Prince of Persia 2 [extras]</description>
+		<rom name="Prince of Persia 2 (readme).txt" size="33" crc="c6b5096f" md5="70526b5a53728c8e052143de723b0ae4" sha1="1aefcad4caf442f7a0449eef7352afbf201b9501"/>
+	</machine>
+	<machine name="Princess Maker 2 [extras]">
+		<description>Princess Maker 2 [extras]</description>
+		<rom name="Princess Maker 2 (CD label).jpg" size="289370" crc="0f29eae4" md5="bcc866b27aa83b189eeb1aab803228a6" sha1="cc61af6c3451573f4a75a5344b176bf2ba151057"/>
+		<rom name="Princess Maker 2 (FD labels).jpg" size="334559" crc="265548a7" md5="a20404f3311ac7998f686d39e4f9cb34" sha1="e42b9de66a6ce63db3b08c9dd405521b5f9449b0"/>
+		<rom name="Princess Maker 2 (guide book).pdf" size="47436450" crc="233c660f" md5="6e9f9f9d84e83aee060e841047962dd1" sha1="36dd9c1bba67132311c7d45d4c05fe47f6cf3dda"/>
+		<rom name="Princess Maker 2 (Kosodate File).pdf" size="29701199" crc="d10ec6dd" md5="fc7d9f4c3d20ff98e0a97cf81d2c948a" sha1="bcdbd6373244f8110d90579096d218a0a335400b"/>
+		<rom name="Princess Maker 2 (operator's manual).pdf" size="21141423" crc="6d53d87f" md5="9a4a206298180f879bfe07b4bf73710a" sha1="a0aa0a3e5d116aeafb8b132be6df27cccdab227a"/>
+		<rom name="Princess Maker 2 (quick reference).pdf" size="5653441" crc="b6255f60" md5="37ed66c1c3c3145bdc1e6a03fe14b40f" sha1="78a20a4849c86e95899d3223de60d09aff0a54f7"/>
+		<rom name="Princess Maker 2 (user support guidance).pdf" size="2852352" crc="213f5baa" md5="8d4af9bdb3643b3fd59baba6af6c14b8" sha1="7ac1c323b039e624e18a9f18fd632bd88f27e75a"/>
+	</machine>
+	<machine name="Psychic Detective Series Vol. 3 - Aya [extras]">
+		<description>Psychic Detective Series Vol. 3 - Aya [extras]</description>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Comptiq feature pg. 1).jpg" size="301844" crc="60bb9176" md5="fb4affa1f804da4d3b6831943ee92dc4" sha1="ad41e9da8041a27002a6f1dbced038a62245a096"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (Comptiq feature pg. 2).jpg" size="306850" crc="5faab2b8" md5="773f449fb04c5a16875d4efc1ecd09ac" sha1="4b599b49e5095a367069e9affad49493863f27ca"/>
+		<rom name="Psychic Detective Series Vol. 3 - Aya (manual).pdf" size="6551117" crc="e4193e64" md5="7161e253357d5971a378706e5efe397a" sha1="e95f394ab6025c2c2d486d7fae4c5fe17b4e3c6a"/>
+	</machine>
+	<machine name="Psychic Detective Series Vol. 4 - Orgel [extras]">
+		<description>Psychic Detective Series Vol. 4 - Orgel [extras]</description>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel (Technopolis feature).jpg" size="246562" crc="ca477643" md5="0c6e353ef4cbe8b258bd1104d312a9f2" sha1="4d933c3974744920eb97ab3de935212e097fc2d4"/>
+	</machine>
+	<machine name="Psychic Detective Series Vol. 5 - Nightmare [extras]">
+		<description>Psychic Detective Series Vol. 5 - Nightmare [extras]</description>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (LOGiN feature).pdf" size="1876037" crc="24832f51" md5="82aa4843cdacfca089488527379b2e7f" sha1="8fea46f00423644c0460cfe711098873cea64036"/>
+	</machine>
+	<machine name="Puyo Puyo [extras]">
+		<description>Puyo Puyo [extras]</description>
+		<rom name="Puyo Puyo (CD label).jpg" size="422549" crc="42712c5b" md5="1913803ac9b5b6b62577859716f72ea4" sha1="579a611be2d2c609cff5ba9ea1d6b8bffb606df5"/>
+		<rom name="Puyo Puyo (manual).pdf" size="6837223" crc="3787a60a" md5="0a2d564043a6cbe86e216b5ff1221388" sha1="edf725acf5122145528c347ad5e38ff5d8bcf019"/>
+		<rom name="Puyo Puyo (package rear).jpg" size="302314" crc="71e22f7a" md5="a516ce8e55ff2c19ad9ab5dc51b1869d" sha1="4b4845f72a20b77adfb8d2971f6381a7f7b3e222"/>
+	</machine>
+	<machine name="Puzznic [extras]">
+		<description>Puzznic [extras]</description>
+		<rom name="Puzznic (manual).pdf" size="4194811" crc="b73ad76d" md5="046d00f032cef7b5270ba8f095b6f6a9" sha1="686721e7d80a2c5e76267d831763561db918351f"/>
+		<rom name="Puzznic (readme 2).txt" size="24" crc="067d807c" md5="27afa631e87f22e689c2f2550c3bc2e0" sha1="f265d64427d2c1c9d159b47097ede113cb987967"/>
+		<rom name="Puzznic (readme).txt" size="2118" crc="a0fbbd19" md5="848505e0af8dd7992a177265a1d558d8" sha1="a94405cca802dc550ce12cc12ab5c1096d66ce18"/>
+	</machine>
+	<machine name="Rainbow Islands Extra [extras]">
+		<description>Rainbow Islands Extra [extras]</description>
+		<rom name="Rainbow Islands Extra (readme).txt" size="363" crc="6d172bac" md5="13d158b6f179d5667422d2e0a4cb085c" sha1="b3cfe982e00d481ce67a23922b4eff74f93540df"/>
+	</machine>
+	<machine name="Rance - Hikari o Motomete [extras]">
+		<description>Rance - Hikari o Motomete [extras]</description>
+		<rom name="Rance - Hikari o Motomete (manual).pdf" size="7787873" crc="3d4eb972" md5="94982b18ebc41091c66a753fe41e7737" sha1="3f4a7a73b3069734fc68b689234cab6f50d652be"/>
+	</machine>
+	<machine name="Rance 2 - Hangyaku no Shoujotachi [extras]">
+		<description>Rance 2 - Hangyaku no Shoujotachi [extras]</description>
+		<rom name="Rance 2 - Hangyaku no Shoujotachi (manual 2).pdf" size="1697321" crc="d4d29277" md5="d0af92d72d4eb8a1f85896a783742739" sha1="f4c57297a85c041b9e99eed83be94743d3615f8e"/>
+		<rom name="Rance 2 - Hangyaku no Shoujotachi (manual).pdf" size="8138006" crc="62b3275f" md5="7ad60730bd21aa052e8a49346935541b" sha1="5826df4d9832f2a75d82c72a7ced21c1fb26293d"/>
+	</machine>
+	<machine name="Rance III [extras]">
+		<description>Rance III [extras]</description>
+		<rom name="Rance III (manual).pdf" size="10405283" crc="8c902979" md5="c05ec6a76ce1c69e06854e17872fc11b" sha1="4ff7a79dcefef240a2dba7931be52d020d6749ce"/>
+	</machine>
+	<machine name="Record of Lodoss War - Haiiro no Majo [extras]">
+		<description>Record of Lodoss War - Haiiro no Majo [extras]</description>
+		<rom name="Record of Lodoss War - Haiiro no Majo (Comptiq ura manual).pdf" size="2104607" crc="84e316f7" md5="9254a939d4d0f5650cd3d5b336d9438a" sha1="7fc9b5d785e4b08ee8720a94fc0afc431db96262"/>
+		<rom name="Record of Lodoss War - Haiiro no Majo (map).pdf" size="171219" crc="01f885d8" md5="4d5f9c09fe9e46aab97a768686b5dbdb" sha1="afef3ef1158e334aeafb0df0a2505a19b89003e3"/>
+		<rom name="Record of Lodoss War - Haiiro no Majo (playing manual).pdf" size="2476409" crc="806a2029" md5="1b21c9241bf981487eef3191b6ff1b98" sha1="414ae7fa30871949970c8e4aad9ec57dbc1c1b0e"/>
+		<rom name="Record of Lodoss War - Haiiro no Majo (spellbook).pdf" size="2298067" crc="e0a28cbd" md5="f2e3dc409526978ea2516f0165aeac6d" sha1="d062d75cdbdcf078e0fa61b2ca8663701aa4ad6a"/>
+	</machine>
+	<machine name="Record of Lodoss War II [extras]">
+		<description>Record of Lodoss War II [extras]</description>
+		<rom name="Record of Lodoss War II (Comptiq kanzen file).pdf" size="2828578" crc="f16074a8" md5="e84e96d13b95b60ea7a2c33bb51fcaa3" sha1="449fb771b6939520641b2cf1e1049d5bfeaa8060"/>
+		<rom name="Record of Lodoss War II (Comptiq special feature).pdf" size="2914859" crc="58b2df28" md5="d18a66e67b69e2a013fd2675dfd8a7e2" sha1="a6c279a99135d72838a116b2067d0b54f9e1b1cb"/>
+	</machine>
+	<machine name="Shisetsu Sangokushi [extras]">
+		<description>Shisetsu Sangokushi [extras]</description>
+		<rom name="Shisetsu Sangokushi (addendum).pdf" size="29170" crc="98088b53" md5="2481a4649e14c6b42ba0cd1dedccf9f7" sha1="73a11d8f58519265e70b83f8128c74531134ba70"/>
+		<rom name="Shisetsu Sangokushi (controls).pdf" size="821240" crc="9061afe5" md5="4d7928388c95d47043308511dc09cf09" sha1="24365b7033ad2e00f3bef1df07e28d17d70165e4"/>
+		<rom name="Shisetsu Sangokushi (main manual).pdf" size="1559506" crc="70c18719" md5="aafbfc916f05dcc94ede3feed0a6db45" sha1="f8b3b7ea2aa837bf5b8b345ef56c3610c0c9669d"/>
+		<rom name="Shisetsu Sangokushi (military rank list).pdf" size="671653" crc="9d36d9c7" md5="a3788eab576d8de6c3b8699e023e3d10" sha1="4442d3a357d57612a7a49af51ad74254fbd4b98e"/>
+	</machine>
+	<machine name="SimCity [extras]">
+		<description>SimCity [extras]</description>
+		<rom name="SimCity (manual).pdf" size="4484274" crc="6b50bb6b" md5="b4036e2b1a2866ebb4106a476c55d610" sha1="e17451de856e26aaa41985c23b8461fb3136dbfe"/>
+		<rom name="SimCity (reference).pdf" size="300195" crc="bf4e6484" md5="ea2dcac628cf260731619d4120429bd1" sha1="64c232e210814f9aac120d8cec12d11e8ca6379e"/>
+		<rom name="SimCity (terrain editor manual).pdf" size="1993650" crc="f96d8319" md5="db47d26a0e9a14eccef0f81d4540f47a" sha1="0dafc2b019eeba0988229d6597840ed13f7c61d3"/>
+	</machine>
+	<machine name="Soft de Hard na Monogatari [extras]">
+		<description>Soft de Hard na Monogatari [extras]</description>
+		<rom name="Soft de Hard na Monogatari (FD labels).jpg" size="150295" crc="4c674c1d" md5="2efad6ea69aa1de0b0fed7e480bff1af" sha1="c98f0998771980d588310a5bf2afa7c4b62d84ae"/>
+	</machine>
+	<machine name="Sotsugyou '93 - Graduation [extras]">
+		<description>Sotsugyou '93 - Graduation [extras]</description>
+		<rom name="Sotsugyou '93 - Graduation (CD label).jpg" size="321956" crc="165851ad" md5="d4f6eb4320378e6385c3d5d69896344e" sha1="51b505f62e8bda0200a24e1d9b4a90a27eb93acd"/>
+		<rom name="Sotsugyou '93 - Graduation (FD label).jpg" size="256814" crc="214bcc11" md5="84a9d7fecbd5a536cbf7ceaee0668033" sha1="4090003a25ce70aa9d8de2cf6bdd74fe96f9b274"/>
+		<rom name="Sotsugyou '93 - Graduation (readme).txt" size="70" crc="72705ecd" md5="2f71691a76ad827df725446c32764d44" sha1="09ea82197653ad5937626a6f482c14698512b016"/>
+	</machine>
+	<machine name="Space Hulk [extras]">
+		<description>Space Hulk [extras]</description>
+		<rom name="Space Hulk (manual).pdf" size="4770135" crc="9c79ec0e" md5="f49ddf5d381cf7cf5be265a7d3df1e33" sha1="324b7b520935c81773fc5689f093037d6eb68f2d"/>
+		<rom name="Space Hulk (user support sheet).pdf" size="882455" crc="0606c884" md5="8354dabec8ac4f62160c1a0489ebb291" sha1="055ece6e6ee01851e0f146133b6ec72da685010b"/>
+	</machine>
+	<machine name="Space Rogue [extras]">
+		<description>Space Rogue [extras]</description>
+		<rom name="Space Rogue (manual).pdf" size="9076933" crc="dbddbb57" md5="fd1afff2e8a69b288560eb0ddc681b35" sha1="b9c4f62e027b3034ec62bfa7f59fa4e037564f62"/>
+	</machine>
+	<machine name="Strike Commander [extras]">
+		<description>Strike Commander [extras]</description>
+		<rom name="Strike Commander (CD label).jpg" size="380516" crc="879e4c84" md5="42dda72ee69bf653d976376bd318ad97" sha1="1cfac9cf83deb00fc3b869df9b9433620a9e41cd"/>
+		<rom name="Strike Commander (errata).pdf" size="429736" crc="3aff1681" md5="a08e194bef503b6ff11b4e39dd24995a" sha1="ed8dbdaac32df74bb9414d4ebdb25f941e8a7b66"/>
+		<rom name="Strike Commander (install guide cover).jpg" size="181702" crc="3f2391e9" md5="8f130e9b6a27d7850bccd3bd2009aba3" sha1="ee820acebc4754d72f2f58c3a2c9e7205ab58aaf"/>
+		<rom name="Strike Commander (player's guide cover).jpg" size="222179" crc="8fc86a8a" md5="9f4f9af4cd152f3ddaa22a64e00641bf" sha1="88541c693f32fd3afa80b539ab33f8374645bdd5"/>
+		<rom name="Strike Commander (player's guide).pdf" size="13043829" crc="c83688f8" md5="65909f04f58e09ae3ab2b2080e210a97" sha1="3121378804cd3de25ca08742d8db7160fd5b7c82"/>
+		<rom name="Strike Commander (Sudden Death cover).jpg" size="197487" crc="c94153d1" md5="cfb99b844c334c694e412095e9caad9f" sha1="e633ed6ef00df99661191526a18a97cd5441c6ee"/>
+		<rom name="Strike Commander (Sudden Death).pdf" size="11825472" crc="fef6e2e2" md5="b74d63b3fdb62d645d9a41bf8fb6595d" sha1="5a8171ffcc4dedad13019a35a349e7f57ad94b30"/>
+	</machine>
+	<machine name="Strike Commander Plus [extras]">
+		<description>Strike Commander Plus [extras]</description>
+		<rom name="Strike Commander Plus (manual).pdf" size="2973179" crc="382142e7" md5="c575c873b4f47956d0880af0f1fdaa0b" sha1="c410abe239a7501a77a49d5aeaf10bcd3cce24d9"/>
+	</machine>
+	<machine name="Super D.P.S. [extras]">
+		<description>Super D.P.S. [extras]</description>
+		<rom name="Super D.P.S. (manual).pdf" size="8075652" crc="4329c695" md5="a02c28544956432a87463f70514ee868" sha1="adf1e5342550152c4a62efb89a17ab9e35e6303c"/>
+	</machine>
+	<machine name="Super Real Mahjong PII &amp; PIII [extras]">
+		<description>Super Real Mahjong PII &amp; PIII [extras]</description>
+		<rom name="Super Real Mahjong PII &amp; PIII (manual).pdf" size="7391138" crc="3ceb3839" md5="d3af22b8e68e90e64f39a4a38eb1e7e7" sha1="b197ec65274f6fef5ae5279748228bcb9b4f5473"/>
+	</machine>
+	<machine name="Super Real Mahjong PIV [extras]">
+		<description>Super Real Mahjong PIV [extras]</description>
+		<rom name="Super Real Mahjong PIV (CD label).jpg" size="381462" crc="ea459faf" md5="77f862235da2afc35543be03071836ea" sha1="0aa354b510665fcbb2160dad6b5a46c3b19cd0fc"/>
+		<rom name="Super Real Mahjong PIV (FD label).jpg" size="232678" crc="9ce0558c" md5="a67d93befce296486eba7ab36016626b" sha1="db08bed8bfa025008634c0265fb0eec89ace4818"/>
+		<rom name="Super Real Mahjong PIV (manual).pdf" size="4794808" crc="8b0d2069" md5="ef1e33171f2fc5f35661b7e29688347c" sha1="5dbf469eb5308b2d75a81536cb3452f551df808b"/>
+		<rom name="Super Real Mahjong PIV (secrets).txt" size="323" crc="1f591a23" md5="328d206e96dd6acf3f0b7118fed3f933" sha1="f825070b33eb47aced457c67f2eb977b5709b527"/>
+	</machine>
+	<machine name="Suzaku [extras]">
+		<description>Suzaku [extras]</description>
+		<rom name="Suzaku (manual).pdf" size="2767122" crc="e9ff9508" md5="a5fa65afcf0213e0dfe7d5faf2031627" sha1="d5656562201157945d28a8f758fb3f913d39dfb4"/>
+	</machine>
+	<machine name="Sword Edge [extras]">
+		<description>Sword Edge [extras]</description>
+		<rom name="Sword Edge (readme).txt" size="4052" crc="3aaff89e" md5="808e0f90dfc7fd79a5f97452474b767a" sha1="4f7089f00854af5f4a8e51bf897865a0a4a6edd0"/>
+	</machine>
+	<machine name="Syndicate [extras]">
+		<description>Syndicate [extras]</description>
+		<rom name="Syndicate (player's guide).pdf" size="6454547" crc="dbf2c14a" md5="451aa610eea4e4bc3a51c356fe3c9350" sha1="c84ba4a51008172a138f34dea5b6e65207a707d5"/>
+	</machine>
+	<machine name="Tactical Air Wing [extras]">
+		<description>Tactical Air Wing [extras]</description>
+		<rom name="Tactical Air Wing (readme).txt" size="18683" crc="71cbf5f6" md5="20ec268de62cce346ec6ee337d5844ce" sha1="8cbc885b1340ddb9c81d0dfb075c03f0b9e575d2"/>
+	</machine>
+	<machine name="Taikou Risshinden [extras]">
+		<description>Taikou Risshinden [extras]</description>
+		<rom name="Taikou Risshinden (CD label).jpg" size="235946" crc="5edc1a5a" md5="9f30d48970dec5ebadb5bcd2eacaefda" sha1="9d6bde57e3072bffdebbb2e974ba7b9268ed9f72"/>
+		<rom name="Taikou Risshinden (errata).jpg" size="800077" crc="8a1626b9" md5="baeac64787f74a7443786e2404fa8089" sha1="7edb37c35e0f7eadf9c3ab247ee2967b9249a4fc"/>
+		<rom name="Taikou Risshinden (FD label).jpg" size="363458" crc="5ca466ff" md5="7c205988dd236471e2bb6a1d43b6459f" sha1="0b00475c425587f34e6225d0b1f21f32cda7d94f"/>
+		<rom name="Taikou Risshinden (readme).txt" size="28" crc="ce7b0feb" md5="12259433458567b8245c805840ce7eed" sha1="43afafefeb10c9befba681ace39c478812133b37"/>
+		<rom name="Taikou Risshinden (startup manual).pdf" size="9841666" crc="39b0d3aa" md5="8df2d2616a86e472b1f4e607a5492851" sha1="138ad4333314e3e87b45cd8c5f7318183438f548"/>
+	</machine>
+	<machine name="Tania [extras]">
+		<description>Tania [extras]</description>
+		<rom name="Tania (manual).pdf" size="1106578" crc="77d906c4" md5="847a3110988010886a4acb67d622ca78" sha1="71d67a39d5b09feca52095f6470eac1ef7fca5b4"/>
+	</machine>
+	<machine name="Tanjou - Debut [extras]">
+		<description>Tanjou - Debut [extras]</description>
+		<rom name="Tanjou - Debut (CD label).jpg" size="115603" crc="6df2a86c" md5="cfdb7b603dd817d2276d5555cf3f6982" sha1="62dc3d126f0f01ac739ad614d04880bf4ed77ba3"/>
+		<rom name="Tanjou - Debut (CD).jpg" size="112392" crc="f06a5f02" md5="1bef737d9dec2680d25b47fbd673c8c7" sha1="ab1ce21708baa7e84dc900ca291576301152b935"/>
+		<rom name="Tanjou - Debut (FD back).jpg" size="54387" crc="7e200ce2" md5="00277742a6b130fc6adefdde65ae8526" sha1="ac83c9afd2594086453587e963b657d057165bbf"/>
+		<rom name="Tanjou - Debut (FD front).jpg" size="73926" crc="d917877b" md5="bf3d49aad6a26197c1938e6da632f3e8" sha1="b8390b5408963dbac7ed092ff4ca68eec2cff988"/>
+		<rom name="Tanjou - Debut (FD).jpg" size="70930" crc="1406b92c" md5="cf32daf480c6a2c5b23268c978465c3b" sha1="338d1afda4588a567ed06a32133b2547146bdbda"/>
+		<rom name="Tanjou - Debut (manual).pdf" size="4035505" crc="c6e44747" md5="62c203b833025fe1f2dd47e6c738c22a" sha1="2683de91f4fb688115b61db2c58e1fed2462d9ee"/>
+		<rom name="Tanjou - Debut (package front).jpg" size="1389421" crc="c12131b6" md5="e0bbdf3d0b555efc60abb2a21c44456c" sha1="c494ef1defe3e8ffa0486e0c0877311a0578ad31"/>
+		<rom name="Tanjou - Debut (package rear).jpg" size="1503034" crc="cf84421c" md5="dda5ff1eec4e60129149542d460aa1a2" sha1="bd8e58766daafa0176243ab2665ed9ee6fa4b26f"/>
+		<rom name="Tanjou - Debut (warranty front).jpg" size="169182" crc="64d4eb5f" md5="c6e854cbb62a5e230516715e11743faf" sha1="d9815b2bcd4bada7848607918d18735f2a4832c9"/>
+		<rom name="Tanjou - Debut (warranty rear).jpg" size="165176" crc="48221aca" md5="d363db734128432c5901dbbe5d328bb6" sha1="3d9f617e62ce3cb92c8c4c4306ff792b92d13405"/>
+	</machine>
+	<machine name="Tatsujin Oh [extras]">
+		<description>Tatsujin Oh [extras]</description>
+		<rom name="Tatsujin Oh (CD label).jpg" size="309749" crc="d698fe6a" md5="5aca527faa8b5963bc4ccb8c1373c493" sha1="4cfe6a3385825b92aa0e148cfaed63d2d8297e84"/>
+		<rom name="Tatsujin Oh (manual).pdf" size="4030395" crc="33fff79e" md5="d4acf8c4ea920995d2f0fb59de4705c8" sha1="de0f34cfa9aab763f6cf0f303be7ffeef9ed381b"/>
+	</machine>
+	<machine name="Tenka Gomen [extras]">
+		<description>Tenka Gomen [extras]</description>
+		<rom name="Tenka Gomen (CD label).jpg" size="445376" crc="40889e9c" md5="972767d5283f57ed74a8b9ae7ff1a60a" sha1="9a0136f2825cdae99c4af72c9d756562cd60bf71"/>
+		<rom name="Tenka Gomen (data book).pdf" size="17295263" crc="fe17576d" md5="582efbfbb709222aaead8a8c2b98861d" sha1="8ce54b9044f0b77e637e0b2715a6d05250cfc005"/>
+		<rom name="Tenka Gomen (FD label).jpg" size="308123" crc="c6694d7f" md5="c171084463c240595ca9530a0897d4c6" sha1="8ce144dbce5c6efcc302d98d0bf56f61d60f03dc"/>
+		<rom name="Tenka Gomen (FM Towns reference manual).pdf" size="5902760" crc="edc5a15b" md5="f9fd65739fe496d55baf66b6e4e88776" sha1="8f0b550bbbc711282d2ad9004795c30c36d1b4dc"/>
+		<rom name="Tenka Gomen (game manual).pdf" size="52182795" crc="7c28ce7e" md5="33b161bbab48dcef931ac682dbcc95e0" sha1="2cd01f71c6087cf3b3769d457d08f63a05ca7230"/>
+		<rom name="Tenka Gomen (manual).pdf" size="7570733" crc="006bf57b" md5="f9f6257bccf12485705f066c9b68155c" sha1="d8500548998af7eb3ed4c3d1bf5ab924a8c2c6de"/>
+		<rom name="Tenka Gomen (readme).txt" size="194" crc="e3774aea" md5="01455fc93d65c71a49139b5b4bbbbedf" sha1="e4a067be08eecb611ef50d3f04af776e2aa9f27a"/>
+	</machine>
+	<machine name="The 4th Unit 4 - Zero [extras]">
+		<description>The 4th Unit 4 - Zero [extras]</description>
+		<rom name="The 4th Unit 4 - Zero (manual).pdf" size="7209066" crc="94a0a383" md5="0845a8bad2722a57e3d69a1fa87eab93" sha1="2910f9a57df43eb84e39490b49cc55ef46cc3718"/>
+	</machine>
+	<machine name="The Horde [extras]">
+		<description>The Horde [extras]</description>
+		<rom name="The Horde (manual).pdf" size="6650595" crc="409563fe" md5="db606b9ccab50bb6fef53bfcdbec5cb4" sha1="bf3af7edf29da79c8b4b51fa1d56dcb2d0aec977"/>
+		<rom name="The Horde (photos).pdf" size="1055787" crc="6d662ce8" md5="9cdea689337aeb72db97efa365c63fd7" sha1="fa098faba17038dd7589af126dba176ef936a42b"/>
+		<rom name="The Horde (readme).txt" size="86" crc="906c36f9" md5="1f28943987208d640b2aa2b3e0d82755" sha1="2853e599909c276c47af26626bfacbb781debade"/>
+	</machine>
+	<machine name="The Legend of Kyrandia 2 [extras]">
+		<description>The Legend of Kyrandia 2 [extras]</description>
+		<rom name="The Legend of Kyrandia 2 (manual).pdf" size="2991355" crc="1b11b978" md5="f39f7eb8e361ec60538cddf214588c85" sha1="aa99f69c00c85464c16b3dcc3d98779fa807a333"/>
+	</machine>
+	<machine name="The Queen Of Duellist [extras]">
+		<description>The Queen Of Duellist [extras]</description>
+		<rom name="The Queen Of Duellist (manual).pdf" size="2544163" crc="9491f476" md5="43ee54fedb0197f8aeae86f619490c55" sha1="60b44c6eac4442e9699b2065d0f9821e7087b167"/>
+	</machine>
+	<machine name="Tiny Steps - Cal Gaiden [extras]">
+		<description>Tiny Steps - Cal Gaiden [extras]</description>
+		<rom name="Tiny Steps - Cal Gaiden (manual).pdf" size="6516904" crc="279a3a34" md5="7318705edc540354aabf91700459cd51" sha1="6a563c5209b351891f5f2f6ba83e812a1b35a83e"/>
+	</machine>
+	<machine name="Tokio [extras]">
+		<description>Tokio [extras]</description>
+		<rom name="Tokio (CD case).jpg" size="319882" crc="918b1e5b" md5="4edd70d26369dbc4e085081eadb82295" sha1="740facab1603df441b598da21959343bd99c3e11"/>
+		<rom name="Tokio (CD label).jpg" size="143066" crc="46ba8cd3" md5="5ec5242618ec83b05fb8d7e788560607" sha1="475d2bdcb43daf27dc7ba357397d3faae095b0dc"/>
+		<rom name="Tokio (Daikichi).pdf" size="5971833" crc="a7816efb" md5="da3b5f6b0cb3c8517323c475804fd433" sha1="de137dbb617ea378a6c605eb7c7ab5d7eca89599"/>
+		<rom name="Tokio (FD front).jpg" size="102315" crc="e625b2ed" md5="4a848880815c499678b9a1a2712c72f7" sha1="2380be47d6f1f0dd79f6a32e3d89e2dc1b36d723"/>
+		<rom name="Tokio (FD rear).jpg" size="98298" crc="d4a3ff91" md5="6d38ef7919a384c6a6df9a32819f1e80" sha1="f25d23947d6f268f1dac6662c0dc83e7217ac944"/>
+		<rom name="Tokio (flyer front).jpg" size="598669" crc="aca15031" md5="2f2211699134d5956414344d5ede520b" sha1="f3070e940681ce1dc67e2ccd9459c1970d635738"/>
+		<rom name="Tokio (flyer rear).jpg" size="629092" crc="90e64d0b" md5="801736003e2a5fc0a89caac93e4500ef" sha1="c6c5d93886d9d1db8bb588cb13997164748211ae"/>
+		<rom name="Tokio (package front).jpg" size="2056857" crc="db6d9f61" md5="f345c719c9f4d17dbf98df521455ccd1" sha1="dd39ca4b0b4d37c7c0bc13c4fb714ed1a8a56c85"/>
+		<rom name="Tokio (package rear).jpg" size="2078836" crc="a0be11dc" md5="5fea104d9a1993c46a14cb0a8b28d6b0" sha1="57eef4d666663afdec857545611c5103cd98d5bb"/>
+		<rom name="Tokio (package spine).jpg" size="506163" crc="b485b7d7" md5="f6ec1e13c1e965c13720d3fb1d894391" sha1="4ceef3a35a5c6e3dc36a189a7db68c108fe951cc"/>
+		<rom name="Tokio (pamphlet).jpg" size="1239708" crc="99e670c1" md5="12b7725237e6804cf87e9130a0c03296" sha1="fb034491ad7bee37248db173469357a9e43fc1a3"/>
+		<rom name="Tokio (reference manual).pdf" size="3488745" crc="7f780542" md5="6ec18cde973f73969415af9614b9d1a8" sha1="829211880a272866e66b978b9635af624d343515"/>
+		<rom name="Tokio (stickers).jpg" size="400531" crc="5030dc40" md5="f6b79f024ae2d965ed67ca03e0038dfb" sha1="5291f648c0b1a3ee73d20836469cbb910bbf7e2d"/>
+	</machine>
+	<machine name="Toushin Toshi [extras]">
+		<description>Toushin Toshi [extras]</description>
+		<rom name="Toushin Toshi (manual).pdf" size="711349" crc="7126bb8e" md5="fa38c8cfcdd9efd263f946abb3e360d9" sha1="7c92a6c939b181a9b0867a48cc9e7aab019a90a5"/>
+	</machine>
+	<machine name="Tunnels and Trolls [extras]">
+		<description>Tunnels and Trolls [extras]</description>
+		<rom name="Tunnels and Trolls (CD label).jpg" size="99234" crc="0e1cc866" md5="9f43fd5bf0a4bde3cc4f87a9f39fdfa8" sha1="660ef98b42f72049d0759027b92082cdfc9f7de0"/>
+		<rom name="Tunnels and Trolls (magic list).jpg" size="203629" crc="db3348ab" md5="fb52bdbf07017dbf7b355ffbb93445ae" sha1="9fc8228f047992043bbddb6c981a7a9518e2beef"/>
+		<rom name="Tunnels and Trolls (map).jpg" size="200918" crc="0215f532" md5="b1dfcb13225af6a7aa84c7cae6f909a0" sha1="bf6d607d31775fb11598bb437769baec11134947"/>
+		<rom name="Tunnels and Trolls (mapping sheet).jpg" size="66968" crc="62d8595d" md5="25bfb7725e84630b294dc6f76b5c631c" sha1="abf742df476a101474a21a1577197575d878a0ba"/>
+		<rom name="Tunnels and Trolls (package).jpg" size="293484" crc="b9583c7c" md5="2f059253acac5abd29549df0a4c98d03" sha1="0fa30548536f995d92e4bffa6a2a1be3d3a0e2cc"/>
+		<rom name="Tunnels and Trolls (startup instructions).jpg" size="179763" crc="65d962d4" md5="491856ff41bd83c1a6cbe0eed66a071c" sha1="02592a7626394e874b79a08bef81c1edd90339da"/>
+	</machine>
+	<machine name="Ultima IV - Quest of the Avatar [extras]">
+		<description>Ultima IV - Quest of the Avatar [extras]</description>
+		<rom name="Ultima IV - Quest of the Avatar (Majutsu no Sho).pdf" size="12891716" crc="54fd6b33" md5="f2338a0dcaa66af3d94fbb4fa2468476" sha1="7c800b81f932432ef236201298113e9b63532033"/>
+		<rom name="Ultima IV - Quest of the Avatar (Rekishi no Sho).pdf" size="8392402" crc="2c7dd740" md5="2a90974c9826bd3aa488bf8ae22c7996" sha1="c893c9beba8fda0b557009eec690cdfbd98e2e9b"/>
+	</machine>
+	<machine name="Ultima Trilogy I-II-III [extras]">
+		<description>Ultima Trilogy I-II-III [extras]</description>
+		<rom name="Ultima Trilogy I-II-III (manual).pdf" size="30921072" crc="23be4b26" md5="4ca735ac44fc4a1b8c054320a5b04f8a" sha1="47883cdd26e2520be0c55ce630781c385e403fe2"/>
+	</machine>
+	<machine name="Urgent Mission [extras]">
+		<description>Urgent Mission [extras]</description>
+		<rom name="Urgent Mission (manual).pdf" size="3101957" crc="92816760" md5="6a768de49ba111503a3cda5efeb79eca" sha1="dc074cc4e0979f053e99e79aaae6faee390ebd53"/>
+	</machine>
+	<machine name="Vain Dream [extras]">
+		<description>Vain Dream [extras]</description>
+		<rom name="Vain Dream (map).jpg" size="230125" crc="437c8bdc" md5="f54ccc4c716a0f32074f6a68de18ca0d" sha1="4f0c75310530524b0a7881060aa1a48a8e8c3c85"/>
+		<rom name="Vain Dream (partial manual).pdf" size="4896405" crc="3d669995" md5="e82905d3e9a777199da003f5f6f4dbcd" sha1="0159a8283337fb29f139b37d645c2a6447f2089c"/>
+	</machine>
+	<machine name="Virtuacall 2 [extras]">
+		<description>Virtuacall 2 [extras]</description>
+		<rom name="Virtuacall 2 (guide book).pdf" size="13283269" crc="f0f98f79" md5="bef9858da691bb777554137ad9c6571f" sha1="17eea543139d275b40f0f9107de2315032be9739"/>
+	</machine>
+	<machine name="Virtuacall [extras]">
+		<description>Virtuacall [extras]</description>
+		<rom name="Virtuacall (CD label).jpg" size="211163" crc="66f99899" md5="858f4cd982ba17e80a0de88643cae79b" sha1="931ed0bb176be5ac243220e7b19008e22eff81c7"/>
+		<rom name="Virtuacall (FD label).jpg" size="124552" crc="7cda2ac7" md5="7b5b2e12d6baad725e666ec9900676eb" sha1="5225654cef4f51f967a83190c24ee64bd133810a"/>
+		<rom name="Virtuacall (flyer 1).jpg" size="4432327" crc="532de09d" md5="cc811fbd18aea653b1b8d7d21f6b5573" sha1="35c9c7e4a467dde47a99f0726f98f3c3a766c93c"/>
+		<rom name="Virtuacall (flyer 2).jpg" size="6277222" crc="a40361d7" md5="2873570f1433f8f14b5f389df5f3d094" sha1="3255c10f09360934aaeb4237486262ce6c537afe"/>
+		<rom name="Virtuacall (mail order 1).jpg" size="2277897" crc="5b164912" md5="758a68d40e6192e187142575746440fc" sha1="0ad23a24b3fd5a9131e43df6d8310ebaf75c5c05"/>
+		<rom name="Virtuacall (mail order 2).jpg" size="2283349" crc="f19cc1bf" md5="033a3192cb5285ec808e17b914a9f8cf" sha1="06e7039938be6b35d2f4060aae09be3332ce08d8"/>
+		<rom name="Virtuacall (mail order 3).jpg" size="2527264" crc="29f97298" md5="65b9bd307cf019bd88c8428ce81747c4" sha1="c9db00406ce51d71f96974d5d2bd7f7eafe3b5d6"/>
+		<rom name="Virtuacall (mail order 4).jpg" size="706894" crc="8e496af5" md5="e94fdabad64335f74071c9d95b239b8f" sha1="c20df75a2ba0617010ccf0853fdbd7c3e6390cbf"/>
+		<rom name="Virtuacall (manual).pdf" size="11110546" crc="c593383d" md5="02cf2b12f3c60b4e1006579accf749fd" sha1="29eb2a4550d4df3d17f52a8a51bd1fc5292b91e3"/>
+		<rom name="Virtuacall (package front).jpg" size="2004141" crc="4e7d42d9" md5="f948e8dc57440e46fe0c15d2ed53456c" sha1="fb3e30496870e27317313beee5479cb05cf6b9bf"/>
+		<rom name="Virtuacall (package rear).jpg" size="2251017" crc="4672b049" md5="97f9c758d5e4a8ded5b379454605f1ac" sha1="1fec990f936954254585175450ef53d934d7a8ca"/>
+		<rom name="Virtuacall (reg card back).jpg" size="528258" crc="278ff6d1" md5="1ed5c284a528c8bfa73c9d04414d8957" sha1="5821535c6ffa3337e917ffb893004254d14f1e17"/>
+		<rom name="Virtuacall (reg card front).jpg" size="391839" crc="f310dec3" md5="cdfdd788b0ee309dde8a40aebadad86d" sha1="8c59bc1b2c1a477a03ab02899820a9f0f57bc57c"/>
+	</machine>
+	<machine name="VZ Editor 1.6 with ATOK 7 [extras]">
+		<description>VZ Editor 1.6 with ATOK 7 [extras]</description>
+		<rom name="VZ Editor 1.6 with ATOK 7 (readme).txt" size="36" crc="5e7657cd" md5="858f2de497e929cad2c60319a2f3f176" sha1="6e010f89ccbe057aed340d22cdcd8614033e3ec1"/>
+	</machine>
+	<machine name="Wrestle Angels 3 [extras]">
+		<description>Wrestle Angels 3 [extras]</description>
+		<rom name="Wrestle Angels 3 (CD label).jpg" size="371613" crc="32fb84fd" md5="0fa4c0b20bf54239374cf3a075a115d6" sha1="80a0dc23a40b96e1e7fc8c647f861f4cece33144"/>
+		<rom name="Wrestle Angels 3 (FD label).jpg" size="300028" crc="ea536a85" md5="a78bb7e6c2efdf58be4ae5259d8b74a8" sha1="d25accffbaa15a727d3785e7f88803d036903b5b"/>
+		<rom name="Wrestle Angels 3 (flyer).pdf" size="713048" crc="7060f549" md5="d8280b79477c2e45c87343bcf8de03fc" sha1="79625a3bfbb0566189e8a4bd8a102e956ff00437"/>
+		<rom name="Wrestle Angels 3 (magazine).pdf" size="19528452" crc="63c2f148" md5="66cf3312fb41f504e24aa5d6ddd41950" sha1="618cf245d052374305e2af834f35104c32ac2c5b"/>
+		<rom name="Wrestle Angels 3 (manual).pdf" size="20095347" crc="5467f6d0" md5="d407a5213066c3a9cfe02eef81fcbd78" sha1="ca63c1935bb250fc88c79136694c39988ce07610"/>
+		<rom name="Wrestle Angels 3 (readme).txt" size="182" crc="ae756f02" md5="1d31f84a811f2638404fa72f52eb71da" sha1="90d84ca86274cbc4d352eab08fff968c87548092"/>
+	</machine>
+	<machine name="Wrestle Angels Special [extras]">
+		<description>Wrestle Angels Special [extras]</description>
+		<rom name="Wrestle Angels Special (manual).pdf" size="9280043" crc="c1b02291" md5="5cbe71abba80c73d1723c30b2d17669b" sha1="b8aa55569ee88f4bc49d6b031bb5bebd49b92cdc"/>
+	</machine>
+	<machine name="Youjuu Senki - A.D. 2048 [extras]">
+		<description>Youjuu Senki - A.D. 2048 [extras]</description>
+		<rom name="Youjuu Senki - A.D. 2048 (manual).pdf" size="5581108" crc="fc02f14c" md5="f35c9023ac20164e12dcab087c97383b" sha1="0e2812080e75f9891e23c7855a916627ab7ff49e"/>
+	</machine>
+	<machine name="Zatsuon Ryouiki [extras]">
+		<description>Zatsuon Ryouiki [extras]</description>
+		<rom name="Zatsuon Ryouiki (walkthrough).pdf" size="1267845" crc="36bbc37f" md5="e586e3b764a646ef98548e86552bab2f" sha1="21cbd1efd25027018d0a73535c17e0a603f2c890"/>
+	</machine>
+	<machine name="Zoku Youjuu Senki [extras]">
+		<description>Zoku Youjuu Senki [extras]</description>
+		<rom name="Zoku Youjuu Senki (manual).pdf" size="2337809" crc="6ffbb49c" md5="756345e52dfb13126c3838d8765e48d1" sha1="aaa788acf49658212ae8a6a0376a3ce56976ea85"/>
+	</machine>
+</datafile>
