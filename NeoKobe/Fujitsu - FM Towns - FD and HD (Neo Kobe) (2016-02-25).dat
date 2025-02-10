@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu - FM Towns - FD and HD</name>
+		<description>Fujitsu - FM Towns - FD and HD (Neo Kobe)</description>
+		<category>Standard DatFile</category>
+		<version>2016-02-25</version>
+		<date>2025-02-10</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="38-man Kilo no Kokuu [FD]">
+		<description>38-man Kilo no Kokuu [FD]</description>
+		<rom name="38-man Kilo no Kokuu (Utility disk).hdm" size="1261568" crc="43a7b57f" md5="e5417a0839d4612a63b1beca8ee9b7d1" sha1="1477b8a9297d91a069132d74ec9ed1b67828c2fd"/>
+	</machine>
+	<machine name="3x3 Eyes - Sanjiyan Henjou [User]">
+		<description>3x3 Eyes - Sanjiyan Henjou [User]</description>
+		<rom name="3x3 Eyes - Sanjiyan Henjou (User disk).bin" size="1265664" crc="0b9bc090" md5="9b3e6ecaf01daba2599cc29679e5da93" sha1="81ca8870e02a524b70803194a942ad9abd5c1fff"/>
+	</machine>
+	<machine name="4D Tennis [User]">
+		<description>4D Tennis [User]</description>
+		<rom name="4D Tennis (User disk).bin" size="1265664" crc="6bce47e4" md5="bec9ba8759693f1a1ee0c836cd02c515" sha1="e2bb8827364daa9193e0a260c11d8a777d7d110f"/>
+	</machine>
+	<machine name="A Ressha de Ikou IV [FD]">
+		<description>A Ressha de Ikou IV [FD]</description>
+		<rom name="A Ressha de Ikou IV (System disk).hdm" size="1261568" crc="469ff718" md5="2557d4ea30fc96d574a2d931d6bf4951" sha1="f9667e06ae1948350bee029e98903216d1cda98f"/>
+	</machine>
+	<machine name="Abunai Tengu Densetsu [FD]">
+		<description>Abunai Tengu Densetsu [FD]</description>
+		<rom name="Abunai Tengu Densetsu (Disk A).hdm" size="1261568" crc="f2f5c92d" md5="242da430f7f60fc4231bf07deea4d056" sha1="e2639b4746e228d786eceb00de98d64a5cea6cba"/>
+		<rom name="Abunai Tengu Densetsu (Disk B).hdm" size="1261568" crc="fd289b9f" md5="dbc013814509f20efbca521b3c5e2214" sha1="5454ed981f260f41c3d8f8707a0990c23fc03dc6"/>
+		<rom name="Abunai Tengu Densetsu (Disk C).hdm" size="1261568" crc="4271f241" md5="bdb3377477eae159a8a0b17527f4b767" sha1="a6cf43f58681d06151ec8acbbd02fd98df44ed7b"/>
+	</machine>
+	<machine name="After Burner 2 Again [FD] [req After Burner]">
+		<description>After Burner 2 Again [FD] [req After Burner]</description>
+		<rom name="After Burner 2 Again.hdm" size="1261568" crc="59135c6d" md5="f902c894495b66866eecb12c32b42348" sha1="0d76f0e628ac61e56a5cb69f6252e4e8088410be"/>
+	</machine>
+	<machine name="Air Raider [FD]">
+		<description>Air Raider [FD]</description>
+		<rom name="Air Raider.hdm" size="1261568" crc="b59eb70b" md5="2cf775ac1c8328d50c5a72e7c559abc7" sha1="464b0be803d03dbe514514242b0fa83bfcabf2e0"/>
+	</machine>
+	<machine name="Alice no Yakata CD [User] [freeware release]">
+		<description>Alice no Yakata CD [User] [freeware release]</description>
+		<rom name="Alice no Yakata CD (User disk).hdm" size="1261568" crc="9e320df6" md5="9e4b20fd987d846a4641afd27b04002a" sha1="8b9c75bba75e4ea81913ec3fa6443c79f7b47702"/>
+	</machine>
+	<machine name="Alltynex [HD]">
+		<description>Alltynex [HD]</description>
+		<rom name="Alltynex.h0" size="26214400" crc="0c16caee" md5="87527376b66a8e895d25b33c4c41e2a6" sha1="2b7e184fae07c643909a407642fd4d7c1d97ef91"/>
+		<rom name="cmos.dat" size="8192" crc="02ff2383" md5="5bd4ab1c658012347999ee12858591ca" sha1="eb12c9b9ac46a4af9b1c1d2a50d3e6e9ded9c482"/>
+	</machine>
+	<machine name="Alshark [User]">
+		<description>Alshark [User]</description>
+		<rom name="Alshark (User disk).hdm" size="1261568" crc="4411a16f" md5="b0b721baa3fc0cc54f300e34fc81791a" sha1="69bb2ccb74b4761efe0864019a17a25b7f6027ce"/>
+	</machine>
+	<machine name="Ambivalenz [Boot]">
+		<description>Ambivalenz [Boot]</description>
+		<rom name="Ambivalenz (Boot disk).hdm" size="1261568" crc="7f3d6d6e" md5="0701d0ac2f42495754eca2befc3385c8" sha1="61c23afc9dc3b3ceaf2c28d6ab571d9bc83720fa"/>
+	</machine>
+	<machine name="Angel [FD]">
+		<description>Angel [FD]</description>
+		<rom name="Angel (Save disk).hdm" size="1261568" crc="8ea3389b" md5="7d726344424562e65dae8fc57d11242b" sha1="60792d763d3cac54d19b04673b1f1811cf19b9a8"/>
+	</machine>
+	<machine name="Angel Halo [Boot]">
+		<description>Angel Halo [Boot]</description>
+		<rom name="Angel Halo (Boot disk).hdm" size="1261568" crc="396c3f83" md5="ae1d732f38a931bea9ff66aaf6df809d" sha1="a2e99a2f4229f1b03d63471811089a665b2a6de0"/>
+	</machine>
+	<machine name="Aoki Ookami to Shiroki Mejika - Genchou Hishi [FD]">
+		<description>Aoki Ookami to Shiroki Mejika - Genchou Hishi [FD]</description>
+		<rom name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (System disk).hdm" size="1261568" crc="fd062028" md5="f778769ed574db07565e9602223278d5" sha1="8153620634e8ae88ca07394c74bafc5f44729e68"/>
+	</machine>
+	<machine name="Aska Towns [User]">
+		<description>Aska Towns [User]</description>
+		<rom name="Aska Towns (User disk).hdm" size="1261568" crc="29b4a1a0" md5="1f97125026691a20079b6d50e9b31cee" sha1="1ff486adf403072f9b9764907fae0430dd53487e"/>
+	</machine>
+	<machine name="Asuka 120% Burning Fest. [FD]">
+		<description>Asuka 120% Burning Fest. [FD]</description>
+		<rom name="Asuka 120% Burning Fest. (Disk A).hdm" size="1261568" crc="46a5074d" md5="7d84abe95f571ba2438e18ece6364ab0" sha1="8efb863ea0878f9236082f7d7935f494c4522899"/>
+		<rom name="Asuka 120% Burning Fest. (Disk B).hdm" size="1261568" crc="2a448e8f" md5="263601eb39f63b0c94f39df2fc7b5e02" sha1="3b57fd0a2fecec56a3362884de0770ec4538f5eb"/>
+		<rom name="Asuka 120% Burning Fest. (Disk C).hdm" size="1261568" crc="ac9a582e" md5="9a4289cdc7f43d1ffe0ec0bd0f28d1fc" sha1="726b05d573e0776006cee6aa8c71009b1e66b5cc"/>
+	</machine>
+	<machine name="Asuka 120% Burning Fest. Excellent [FD]">
+		<description>Asuka 120% Burning Fest. Excellent [FD]</description>
+		<rom name="Asuka 120% Burning Fest. Excellent (Boot disk).hdm" size="1261568" crc="12c7d6e2" md5="53a2617ddda1c45c319f5b7f31e45cb9" sha1="0eb696be9666300d76863ae08882485eb69725d4"/>
+	</machine>
+	<machine name="Ayumi-chan Monogatari [FD]">
+		<description>Ayumi-chan Monogatari [FD]</description>
+		<rom name="Ayumi-chan Monogatari.hdm" size="1261568" crc="9bf209ba" md5="06ab8adbdca950ed5d895db1f49ffe46" sha1="cc2be00834492b0ccf5b25a1b0a5ceb810a2e330"/>
+	</machine>
+	<machine name="Ballade for Maria [User]">
+		<description>Ballade for Maria [User]</description>
+		<rom name="Ballade for Maria (User disk).hdm" size="1261568" crc="200678ab" md5="07b1c7851ba64ef4d0ad6bc6e39a1268" sha1="c658fd357318eb5f1522c88ea333f70bda75a72a"/>
+	</machine>
+	<machine name="Bible Master [FD]">
+		<description>Bible Master [FD]</description>
+		<rom name="Bible Master (System disk).hdm" size="1261568" crc="f264d93e" md5="0a265ed034a42043348a99ae93f79b51" sha1="b7939c12ab503fcddb1ad828e7c546cf21987b0c"/>
+	</machine>
+	<machine name="Bliss Collection #01 - Whips Ct. 1 [FD]">
+		<description>Bliss Collection #01 - Whips Ct. 1 [FD]</description>
+		<rom name="Bliss Collection #01 - Whips Ct. 1.hdm" size="1261568" crc="40f6e006" md5="44e64c216192080573a4facc46fec803" sha1="5792731e65d92832e58f9c92e25ee49c402cfaa8"/>
+	</machine>
+	<machine name="Bliss Collection #02 - Vips [FD]">
+		<description>Bliss Collection #02 - Vips [FD]</description>
+		<rom name="Bliss Collection #02 - Vips.hdm" size="1261568" crc="5a046d38" md5="eea8fd0794dba986dbab4bdaf8a118de" sha1="5a7591b4aeff03a2b0d6a0995423647e0be8921b"/>
+	</machine>
+	<machine name="Bliss Collection #02 - Vips [FD] [Set 1]">
+		<description>Bliss Collection #02 - Vips [FD] [Set 1]</description>
+		<rom name="Bliss Collection #02 - Vips [Set 1].hdm" size="1261568" crc="addf99cb" md5="600ecf8eb9e452acb69bd2caf3dfe103" sha1="93f46d54cc8736bb0a547f2a8851648486d2901a"/>
+	</machine>
+	<machine name="Bliss Collection #03 - Whips Ct. 2 Pro [FD]">
+		<description>Bliss Collection #03 - Whips Ct. 2 Pro [FD]</description>
+		<rom name="Bliss Collection #03 - Whips Ct. 2 Pro.hdm" size="1261568" crc="2537528d" md5="0862a1353673371fa3ce1bda442aac6c" sha1="15463f7961f658e1f69781946545edf23719b4b5"/>
+	</machine>
+	<machine name="Bliss Collection #07 - Whips Ct. 4 [FD]">
+		<description>Bliss Collection #07 - Whips Ct. 4 [FD]</description>
+		<rom name="Bliss Collection #07 - Whips Ct. 4.hdm" size="1261568" crc="a4e41cca" md5="735e956c456bae73a6e374edd4d9efe4" sha1="cd3738b5e40c510813a1506653fbb74d9907efba"/>
+	</machine>
+	<machine name="Brandish [FD]">
+		<description>Brandish [FD]</description>
+		<rom name="Brandish (Disk 1).hdm" size="1261568" crc="d41db5b4" md5="de8d0f63c00b303bf1d593349b3cf1c8" sha1="c64aa555bd2beb0b32458cab8d38803acaf982dd"/>
+		<rom name="Brandish (Disk 2).hdm" size="1261568" crc="85f4c5fc" md5="9cafda0041f8844f7ae7f80b3012d978" sha1="f50824579ea4a142be1fbce6a59b8712576a2e6e"/>
+		<rom name="Brandish (Disk 3).hdm" size="1261568" crc="711d5e6d" md5="207abbc49a2f3f8c186e736edda363a7" sha1="0315531f8f7aec540163e4dda7d4cab0fe4894fe"/>
+	</machine>
+	<machine name="Brandish [User]">
+		<description>Brandish [User]</description>
+		<rom name="Brandish (User disk).hdm" size="1261568" crc="365a9c06" md5="5eceb4822e1dca7ee08ce76adb6bb507" sha1="46fd5a6c66945d36225c94ed473e0188e4923416"/>
+	</machine>
+	<machine name="Columns [FD]">
+		<description>Columns [FD]</description>
+		<rom name="Columns.hdm" size="1261568" crc="4ad9c624" md5="4bb9624838e5d5dbd95b92626ee0732b" sha1="8fc4fc56767c94864e8aceb2ae77a23cf5781e74"/>
+	</machine>
+	<machine name="Custom Mate 2 &amp; Itsuka dokoka de [FD]">
+		<description>Custom Mate 2 &amp; Itsuka dokoka de [FD]</description>
+		<rom name="Custom Mate 2 &amp; Itsuka dokoka de (Save disk).hdm" size="1261568" crc="aead04fb" md5="39276709d8b81ae5c369771f6afd4048" sha1="70197de9a7a138209b7e726063b5bca8f6534575"/>
+	</machine>
+	<machine name="Cybercity [Boot]">
+		<description>Cybercity [Boot]</description>
+		<rom name="Cybercity (Boot disk).hdm" size="1261568" crc="384203a7" md5="b9dd28f9945d2cff697d2aab279abd3a" sha1="8e332eae5055a911c87dd2038f550ec614c30111"/>
+	</machine>
+	<machine name="D.P.S - Dream Program System [FD]">
+		<description>D.P.S - Dream Program System [FD]</description>
+		<rom name="D.P.S - Dream Program System (Disk 1).hdm" size="1261568" crc="26a600e3" md5="709b9a13ebbcf5d2ab13743b64645005" sha1="0a4d4966aa19540445d032e93d7b2ca22979720f"/>
+		<rom name="D.P.S - Dream Program System (Disk 2).hdm" size="1261568" crc="1ba383fb" md5="57b52cb4147e34a54e9396017432eb24" sha1="591d14189e9ccda81eff8fa756e2f50718ed0f85"/>
+	</machine>
+	<machine name="Daikoukai Jidai 2 [FD]">
+		<description>Daikoukai Jidai 2 [FD]</description>
+		<rom name="Daikoukai Jidai 2 (Save disk).hdm" size="1261568" crc="53f2a3fb" md5="207abff6d7ec96f926b6e44efa25c741" sha1="5523e3ecd3748461a208b4b9e4778bf3e98e831f"/>
+	</machine>
+	<machine name="Daikoukai Jidai [FD]">
+		<description>Daikoukai Jidai [FD]</description>
+		<rom name="Daikoukai Jidai (Save disk).hdm" size="1261568" crc="a70bd7c7" md5="b7e1c0e0450a3c95b9054fa63a84765f" sha1="887b11e25a7f07644245b3764b62bab6e14839bd"/>
+	</machine>
+	<machine name="Daisenryaku III '90 [FD]">
+		<description>Daisenryaku III '90 [FD]</description>
+		<rom name="Daisenryaku III '90 (Game disk).hdm" size="1261568" crc="d6fae63a" md5="128b8f6f267716569559b41d6297745d" sha1="b55b1e005c22bf68ef523e81695146e6b7180376"/>
+		<rom name="Daisenryaku III '90 (User disk).hdm" size="1261568" crc="c22d8527" md5="90e575ba13b9d30190fb640db56fb486" sha1="c882faedadefabeb43fcd3088bff21777197a8ff"/>
+	</machine>
+	<machine name="Dalk [Boot] [freeware release]">
+		<description>Dalk [Boot] [freeware release]</description>
+		<rom name="Dalk (Boot disk).hdm" size="1261568" crc="64570ac2" md5="304ec2dea63c7668b17d4c625933dd42" sha1="c3b288ed90f57c218b3cfd9f7d962fd61063e88a"/>
+	</machine>
+	<machine name="Deep [Boot]">
+		<description>Deep [Boot]</description>
+		<rom name="Deep (Boot disk).hdm" size="1261568" crc="31dd276f" md5="46d8047aea88ca6b837e952210fba9a1" sha1="2e06321ed8faeaf450623311c4b69e34a1ae3539"/>
+	</machine>
+	<machine name="Dengeki Nurse [FD]">
+		<description>Dengeki Nurse [FD]</description>
+		<rom name="Dengeki Nurse (Save disk).hdm" size="1056768" crc="bb250555" md5="aa9bc565d9f3988f5e2cbcc30e2a27e8" sha1="84f8951b3d399639efad9528ecb02a7e64c09405"/>
+	</machine>
+	<machine name="Dinosaur [FD]">
+		<description>Dinosaur [FD]</description>
+		<rom name="Dinosaur (Disk 1 - Program).hdm" size="1261568" crc="2f652873" md5="079d68043245f0bb66dbc7cbc0327191" sha1="190dc1a07c1b4ac1ccc96295e8b178c15eaf89b1"/>
+		<rom name="Dinosaur (Disk 2 - Scenario 1).hdm" size="1261568" crc="e230629d" md5="8d62329266519f0ea1d709af043cffb4" sha1="a2d0f382a49bb8b9c71d0cd23c7ec9f7b13f823b"/>
+		<rom name="Dinosaur (Disk 3 - Scenario 2).hdm" size="1261568" crc="6a449cdc" md5="33fac0405d460b31722a5bf514fc7403" sha1="792c40cd43ab723b4832995e55ef1367a6e462ae"/>
+	</machine>
+	<machine name="Doushite Ii ka Wakaranai - Ayanami Rei Kannou Shashin-shuu [FD]">
+		<description>Doushite Ii ka Wakaranai - Ayanami Rei Kannou Shashin-shuu [FD]</description>
+		<rom name="Doushite Ii ka Wakaranai - Ayanami Rei Kannou Shashin-shuu.hdm" size="1261568" crc="f5377bd7" md5="440367c8e0a2556ec4caeaf88e1029c2" sha1="4139aa0eab2998fe206423fdd721cd1a0a8f0484"/>
+	</machine>
+	<machine name="Dr. STOP! [FD] [freeware release]">
+		<description>Dr. STOP! [FD] [freeware release]</description>
+		<rom name="Dr. STOP! (Disk A).hdm" size="1261568" crc="622bc757" md5="1e08e71e3bb63e2322519502a7fc7ee7" sha1="7b0e12a71c8b531ac355d733239d72a4223a5bd6"/>
+		<rom name="Dr. STOP! (Disk B).hdm" size="1261568" crc="faf6169c" md5="3203278dc8160b2d01206c8233558a22" sha1="c1cf3ecbcda6da2e581b0b00f481abef33c0c626"/>
+	</machine>
+	<machine name="Dream Program System SG [FD]">
+		<description>Dream Program System SG [FD]</description>
+		<rom name="Dream Program System SG (Disk 1 - System).hdm" size="1261568" crc="525e09d5" md5="f1c15ca3fce26c5126cf01443846a20c" sha1="a3f06b510030f1a1885c24eb7c3ae3b61678d0c4"/>
+		<rom name="Dream Program System SG (Disk 2 - Kateikyoushi wa Suteki na Oshigoto).hdm" size="1261568" crc="030bbe44" md5="df39282bd3fd3f894c522d7eaef8ca60" sha1="7fe3bd38370c67fbd80c9b069299abcf914c45ab"/>
+		<rom name="Dream Program System SG (Disk 3 - Fahnen Fliegen).hdm" size="1261568" crc="ee47af10" md5="99c83437ae845707bad655e931f24935" sha1="3db3f994df5701ec2811c4f628ca7552845a07ab"/>
+		<rom name="Dream Program System SG (Disk 4 - Nobunaga no Inbou).hdm" size="1261568" crc="a96f5768" md5="28ede746d014f03be1b16bd732f2dfab" sha1="3b84125f81d610ba218a2df9aab163d044ee84d4"/>
+	</machine>
+	<machine name="Dream Program System SG Set 2 [FD]">
+		<description>Dream Program System SG Set 2 [FD]</description>
+		<rom name="Dream Program System SG Set 2 (Disk 1 - System).hdm" size="1261568" crc="9133028a" md5="c46744eb4f5079de59602c2e44707163" sha1="a344c08dfe37f8da333eee2f2f85a538ffa00e62"/>
+		<rom name="Dream Program System SG Set 2 (Disk 2 - Antique House).hdm" size="1261568" crc="b8d09260" md5="7b593dd7e22cc9fdce7e2b04b0b227a5" sha1="d4067d8c87e3fe6f66396145edeb64fdcbe22842"/>
+		<rom name="Dream Program System SG Set 2 (Disk 3 - Akai Yoru).hdm" size="1261568" crc="d1bdb2bf" md5="03190e19f175efb692591b41adac38ba" sha1="ea58a504414d0824ddd9adc23ca504a974573f26"/>
+		<rom name="Dream Program System SG Set 2 (Disk 4 - Ikenai Naika Kenshin Futatabi).hdm" size="1261568" crc="10250dff" md5="1bf1f2d15210b2414c09a4efb0cc9e8e" sha1="550696eb596e0c3ffbb670d2fd003faf664866d5"/>
+	</machine>
+	<machine name="Dream Program System SG Set 3 [FD]">
+		<description>Dream Program System SG Set 3 [FD]</description>
+		<rom name="Dream Program System SG Set 3 (Disk 1 - System).hdm" size="1261568" crc="9133028a" md5="c46744eb4f5079de59602c2e44707163" sha1="a344c08dfe37f8da333eee2f2f85a538ffa00e62"/>
+		<rom name="Dream Program System SG Set 3 (Disk 2 - Sotsugyou).hdm" size="1261568" crc="6a9aad37" md5="49dabcfe6fc294aba7220e2c8400b558" sha1="4447e8d1ef989d5927f85014b5598d9687f2f0c5"/>
+		<rom name="Dream Program System SG Set 3 (Disk 3 - Rabbit P4P).hdm" size="1261568" crc="eeadc748" md5="be7648583b6fffac83c0bf40fdb0fdbf" sha1="80fd11fefde38b4abcbce95dbe2042d5016c8c06"/>
+		<rom name="Dream Program System SG Set 3 (Disk 4 - Shinkonsan Monogatari).hdm" size="1261568" crc="868fe008" md5="447eec7c21cf34dad5392812a56959c8" sha1="0f3a452e4614cf5f1c72ee5a31fa678b3f059a84"/>
+	</machine>
+	<machine name="Emerald Dragon [FD]">
+		<description>Emerald Dragon [FD]</description>
+		<rom name="Emerald Dragon (System disk).hdm" size="1261568" crc="35b0d7c1" md5="13bb4790559517804e0b0210e2e245da" sha1="55689ee69dc51816b2e2529c67ff9b14380571d5"/>
+	</machine>
+	<machine name="Exgmaze [FD]">
+		<description>Exgmaze [FD]</description>
+		<rom name="Exgmaze.hdm" size="1261568" crc="91549a87" md5="c9414bff04e54111cf605752ba55e6aa" sha1="513f70b6b45b0d90491f05c80bcd0af012017299"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #02 [FD]">
+		<description>Futoppara FD Heisei #02 [FD]</description>
+		<rom name="Futoppara FD Heisei #02.hdm" size="1261568" crc="cca4f1ae" md5="1c22b04870160d5729b876cc8cad3493" sha1="7d73d7e2f6174f09273c7b38218294ce32380fb9"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #03 [FD]">
+		<description>Futoppara FD Heisei #03 [FD]</description>
+		<rom name="Futoppara FD Heisei #03.hdm" size="1261568" crc="1009e7c2" md5="02e9c3dede2f1f08eb9cccb176d9192e" sha1="2f3af3115de077a0a69dc045085851d9001814a8"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #04 [FD]">
+		<description>Futoppara FD Heisei #04 [FD]</description>
+		<rom name="Futoppara FD Heisei #04.hdm" size="1261568" crc="75ceb8be" md5="0e8103179db8e61b7afb74c7589f39e0" sha1="0650754491576875b02e07b573c4a5a06e275ba5"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #05 [FD]">
+		<description>Futoppara FD Heisei #05 [FD]</description>
+		<rom name="Futoppara FD Heisei #05.hdm" size="1261568" crc="bb41215a" md5="e8df026078dbe1fe67ebe424be3e7feb" sha1="655f955ad7ee44dc1035c238f8e17b91a34b6bc6"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #06 [FD]">
+		<description>Futoppara FD Heisei #06 [FD]</description>
+		<rom name="Futoppara FD Heisei #06.hdm" size="1261568" crc="14bdb0d5" md5="6463ebe5093daf218e82c2000c2bd359" sha1="d6f32df1be6fa3aaa54ec3209af84d4a430ff5cb"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #07 [FD]">
+		<description>Futoppara FD Heisei #07 [FD]</description>
+		<rom name="Futoppara FD Heisei #07.hdm" size="1261568" crc="91d8bc3f" md5="7d5a86eaa82f35ce71361d0b7d3fb822" sha1="54eef9754dec15b4ede6a4f16fe2c15eb101255c"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #08 [FD]">
+		<description>Futoppara FD Heisei #08 [FD]</description>
+		<rom name="Futoppara FD Heisei #08.hdm" size="1261568" crc="f8061488" md5="ce25b4b7da6358617c47f6e8921de250" sha1="fbe9fa3a916b38154ddae4576993855354120ee6"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #09 [FD]">
+		<description>Futoppara FD Heisei #09 [FD]</description>
+		<rom name="Futoppara FD Heisei #09.hdm" size="1261568" crc="8d917956" md5="7068fa22f498ac3438df3601b2d2a150" sha1="10560f07227a6ce945b27deac9a86df96fef0edd"/>
+	</machine>
+	<machine name="Futoppara FD Heisei #10 [FD]">
+		<description>Futoppara FD Heisei #10 [FD]</description>
+		<rom name="Futoppara FD Heisei #10.hdm" size="1261568" crc="ae02ab66" md5="eac00ea1de0d6d7aa337e061a2cd7814" sha1="39a2921484d1f6b141fe43af046003593b07cf0d"/>
+	</machine>
+	<machine name="Game Technopolis Super Collection 1 [User]">
+		<description>Game Technopolis Super Collection 1 [User]</description>
+		<rom name="Game Technopolis Super Collection 1 (Save disk).hdm" size="1261568" crc="eeadb18f" md5="d6afb5a78d8ab671eb1e4f5e5e300db8" sha1="e89077e90e775e33e91565a4f136d5a82473093b"/>
+	</machine>
+	<machine name="Game Technopolis Super Collection 2 [User]">
+		<description>Game Technopolis Super Collection 2 [User]</description>
+		<rom name="Game Technopolis Super Collection 2 (Save disk).hdm" size="1261568" crc="7cbe0c47" md5="afc08df240b0bdb7824d9a968e09d37d" sha1="a90f82dc61ed373eb794af309df03b443a8dac24"/>
+	</machine>
+	<machine name="Goh II Towns Special [FD]">
+		<description>Goh II Towns Special [FD]</description>
+		<rom name="Goh II Towns Special (System disk).hdm" size="1261568" crc="b694cf42" md5="3a425e43a421bbe8c7f411eb9b695447" sha1="a9084609cd53c81263c05f1310946cbd5a561059"/>
+	</machine>
+	<machine name="Gunship - The Helicopter Simulation [User]">
+		<description>Gunship - The Helicopter Simulation [User]</description>
+		<rom name="Gunship - The Helicopter Simulation (User disk).hdm" size="1261568" crc="d69e30bc" md5="322f4b97e001794053dfb1917f032343" sha1="501f88a44040e1663313eb2e57a55e9af10a8f7c"/>
+	</machine>
+	<machine name="Hanafuda de Pon! [Boot]">
+		<description>Hanafuda de Pon! [Boot]</description>
+		<rom name="Hanafuda de Pon! (Boot disk).hdm" size="1261568" crc="cad3cfe6" md5="90cf1f34c8c57ae1015c392c6fa6faae" sha1="3d4eb251057b7a82cabb683114731013ced571ad"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 01 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 01 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 01 (Disk 1).hdm" size="1261568" crc="bcacfc71" md5="f1b7256d44f1c8eca86fec4395d4ace1" sha1="ff4f4cd0846d0fdab5d60d163d8d4a91b06ca8cb"/>
+		<rom name="Houma Hunter Lime Vol. 01 (Disk 2).hdm" size="1261568" crc="d29bb913" md5="e76072e3f2ba13ec24a598d6f6832f7e" sha1="27ed3acf34e5eecb6295386db3a111ce3acf0e53"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 02 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 02 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 02 (Disk 1).hdm" size="1261568" crc="fde9b8e5" md5="7f289f72624d466513cc700b0d680cef" sha1="08274b1e0912d7a03194279a814be4421ab79e75"/>
+		<rom name="Houma Hunter Lime Vol. 02 (Disk 2).hdm" size="1261568" crc="17c31391" md5="c3dcafbba24ebf2f2d66f4a02048004d" sha1="d2584da1ac2e01e30256f5341f35e21513130cc1"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 03 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 03 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 03 (Disk 1).hdm" size="1261568" crc="ab3d77d0" md5="a6d4260e33f99347c2bf0e5a4334892e" sha1="14ca7e31131d411408e4c532ae0a9c77d28160f8"/>
+		<rom name="Houma Hunter Lime Vol. 03 (Disk 2).hdm" size="1261568" crc="10b66445" md5="f06ad545711516cc7557f292b6637504" sha1="447ff2266a281c7352bf0439e7fe16e49e6fb254"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 04 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 04 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 04 (Disk 1).hdm" size="1261568" crc="cd83229e" md5="4770af75ad506dd0b83ed5e8f688db01" sha1="3a52b0cee6a15de47c322157997cb7176abdee98"/>
+		<rom name="Houma Hunter Lime Vol. 04 (Disk 2).hdm" size="1261568" crc="2a56cba4" md5="91e421951f5d5462234e423ef83a7904" sha1="3a81e2ac38d8b610f64f90b7f93c01da5ca80f46"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 05 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 05 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 05 (Disk 1).hdm" size="1261568" crc="87c29800" md5="306db7f5b4aaf4fb60ad18968b5c4973" sha1="3872d0b64d9973c78cd482d6bfdd489002b483d6"/>
+		<rom name="Houma Hunter Lime Vol. 05 (Disk 2).hdm" size="1261568" crc="2064f50f" md5="3f8949ea4356a5f0eab48a49d42cc54e" sha1="14bee84e524ac603c94bcca791dafe3cb2c3719e"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 06 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 06 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 06 (Disk 1).hdm" size="1261568" crc="8bfd3e9b" md5="c8d86fc53bf80f40dfdc2b7dbab3bd51" sha1="aa626bb3356839cf7071ce8d8d8cc09c9951b220"/>
+		<rom name="Houma Hunter Lime Vol. 06 (Disk 2).hdm" size="1261568" crc="9c669e28" md5="33bfbdb740ed1bf66bf2408498082207" sha1="a917938337a10b5ab73418ecc1bcddd55cd87d04"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 07 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 07 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 07 (Disk 1).hdm" size="1261568" crc="ed76de63" md5="839b13e46c226f694f8ae47050b42b2f" sha1="af2d6bcd4373245bfd7a66ac0f4c7c61a5942f9d"/>
+		<rom name="Houma Hunter Lime Vol. 07 (Disk 2).hdm" size="1261568" crc="cd174cc7" md5="0dcf1e5d84686b2f0eed9b1f01d44f01" sha1="a866fb6c898f2488113232c9d179aeb2545d504d"/>
+		<rom name="Houma Hunter Lime Vol. 07 (Disk 3).hdm" size="1261568" crc="076aa899" md5="bdd61b9291aa6dbe4cbbed9300e73758" sha1="2a4e91e20ea87657edc18ff61d6274b8aa056e54"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 08 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 08 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 08 (Disk 1).hdm" size="1261568" crc="f8954bcb" md5="d8b0d3ffdd81e4f1ba33c6321c0b3e3c" sha1="796336813e695c6073e334c2fc7aae7f1fa6fe6a"/>
+		<rom name="Houma Hunter Lime Vol. 08 (Disk 2).hdm" size="1261568" crc="550bbff0" md5="71f794603113f61096eeb74f7739db54" sha1="636b8d763757e43f0225765ae05a3ded263f20cd"/>
+		<rom name="Houma Hunter Lime Vol. 08 (Disk 3).hdm" size="1261568" crc="d17cdd8c" md5="359d4037bc67d1fe79e502aeea590de7" sha1="e6c7542dcaa407d3e4e507702fe1a068f79e5b0b"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 09 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 09 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 09 (Disk 1).hdm" size="1261568" crc="92e7dd6c" md5="d31f1dde82914de580dd2b9fe009a4e3" sha1="815405e0a58ee2105e86472281757ca4b5826f3d"/>
+		<rom name="Houma Hunter Lime Vol. 09 (Disk 2).hdm" size="1261568" crc="a0bf31d3" md5="2551880d3e3c639ad17636e8ae9d188c" sha1="24ec5c3103080a7191c5027d16533944c33d6cce"/>
+		<rom name="Houma Hunter Lime Vol. 09 (Disk 3).hdm" size="1261568" crc="65c7c667" md5="ac85d3e1f5ed34e15f36cc6b39ed38a6" sha1="45269774f1f6cb977262f57d03bf3c20d3b71024"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 10 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 10 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 10 (Disk 1).hdm" size="1261568" crc="be436f73" md5="e3583e5bc02b275842d5a9aa58b86134" sha1="2d9f8a0b90d59c48a25ac3c18cf753e87aae22ce"/>
+		<rom name="Houma Hunter Lime Vol. 10 (Disk 2).hdm" size="1261568" crc="e9cf9de2" md5="b3cad5349e1fc40236dc4894e7347a5f" sha1="6c1dcc4d40b9d9f55f9953eeb36d0375d00e2ccd"/>
+		<rom name="Houma Hunter Lime Vol. 10 (Disk 3).hdm" size="1261568" crc="d675e169" md5="4be0f7453ad8ffb5a67d5f9df46016a2" sha1="44bc603ba6293bda6fcdcf4afcd526cd21f7adc7"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 11 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 11 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 11 (Disk 1).hdm" size="1261568" crc="11c06a95" md5="6b4a58a2ac8097b2b1e6e2ed609e2e8b" sha1="97a260b2d26215518d180a2ac6959f6032049909"/>
+		<rom name="Houma Hunter Lime Vol. 11 (Disk 2).hdm" size="1261568" crc="9a339a06" md5="15dede5f06dd4a8f39aca55330b7eb9d" sha1="04ddab9becb7d337d58123f1db41f61ce370a1e8"/>
+		<rom name="Houma Hunter Lime Vol. 11 (Disk 3).hdm" size="1261568" crc="94f78df9" md5="6b3be06512186a65aba5a66eb12d3b98" sha1="6a318d7b3766b7cc97dbcd53208a4fe17bdc2951"/>
+	</machine>
+	<machine name="Houma Hunter Lime Vol. 12 [FD] [req OS]">
+		<description>Houma Hunter Lime Vol. 12 [FD] [req OS]</description>
+		<rom name="Houma Hunter Lime Vol. 12 (Disk 1).hdm" size="1261568" crc="1e8f5e4e" md5="784f10c6b94d5990b91fbf075484932a" sha1="13a081f80bd8d18dd1454c5ffeffb0430382e82d"/>
+		<rom name="Houma Hunter Lime Vol. 12 (Disk 2).hdm" size="1261568" crc="c2c125e6" md5="6f045972454507be39c1cda3962277c2" sha1="62ea776500763d4ca79c76a0ad5c7f7d39e51660"/>
+		<rom name="Houma Hunter Lime Vol. 12 (Disk 3).hdm" size="1261568" crc="8e85a5ad" md5="731a3c495bc84ea835570e9e88a032c1" sha1="7e11e491786fef1ef71e0d29f2539003f40053c7"/>
+		<rom name="Houma Hunter Lime Vol. 12 (Disk 4).hdm" size="1261568" crc="21a00337" md5="6fda0d840592deed67bc41671eb5e01d" sha1="fa8b7dc24933fe52cf3bfe0e3bccdcb92d6a56e1"/>
+	</machine>
+	<machine name="Hyper Address [FD]">
+		<description>Hyper Address [FD]</description>
+		<rom name="Hyper Address (System disk).hdm" size="1261568" crc="9f587fde" md5="8b2b612efcdb08df88d62d935c4063b1" sha1="4344771e7f36b8a3461c9d69ea8cb6057fab19f4"/>
+	</machine>
+	<machine name="Idol Project [FD]">
+		<description>Idol Project [FD]</description>
+		<rom name="Idol Project (System disk).hdm" size="1261568" crc="59d7e80e" md5="9344d5278c19199eb9749d2686f9bd68" sha1="91c06dc48b2b25bae7050066e115694729efd861"/>
+	</machine>
+	<machine name="Indiana Jones and the Fate of Atlantis [User]">
+		<description>Indiana Jones and the Fate of Atlantis [User]</description>
+		<rom name="Indiana Jones and the Fate of Atlantis (User disk).hdm" size="1261568" crc="fa26da14" md5="f6ffec8ce5083c68e3c8ae6a8b214c93" sha1="815ee736eefb33601baba181dfcde81876563f3a"/>
+	</machine>
+	<machine name="Irium [FD]">
+		<description>Irium [FD]</description>
+		<rom name="Irium (Disk 1 - System).hdm" size="1261568" crc="7d6b858f" md5="230db2dfbed73e22167a1171a67d12f1" sha1="1670641115935a85164a58f58cdeb2b4514652a2"/>
+		<rom name="Irium (Disk 2 - A).hdm" size="1261568" crc="0d11cb39" md5="65d9dad511550ed9641ccd88e647f8e5" sha1="0ef37fb4abd4cd473ba6518d3dfce40aaefeba05"/>
+		<rom name="Irium (Disk 3 - B).hdm" size="1261568" crc="193a7e6d" md5="0ab0e06fc26bd5a78a034d5b2e6d6435" sha1="895d7c1ff30b64612ac18aedb3b1d67f79738322"/>
+		<rom name="Irium (Disk 4 - C).hdm" size="1261568" crc="c7032ea8" md5="8978b8e8e59ced7b220c22411d82f1ee" sha1="35c8158074c8024dd65217727161c6f920f9ef06"/>
+		<rom name="Irium (Disk 5 - D).hdm" size="1261568" crc="7485ce43" md5="d57f4190aaa7d1a7a887d97908faee16" sha1="c16a5acf65b732676496b9fd89e337609283cb12"/>
+	</machine>
+	<machine name="Jinmon Yuugi [Boot] [missing CD]">
+		<description>Jinmon Yuugi [Boot] [missing CD]</description>
+		<rom name="Jinmon Yuugi (Boot disk).hdm" size="1261568" crc="f500eeae" md5="be828b3e180890a3429dd2ff06cbd9ed" sha1="63f57e5d0a2bdbfb9557334d996ef48ab0733679"/>
+	</machine>
+	<machine name="Kawarazaki-ke no Ichizoku [FD] [req OS]">
+		<description>Kawarazaki-ke no Ichizoku [FD] [req OS]</description>
+		<rom name="Kawarazaki-ke no Ichizoku (Disk A).hdm" size="1261568" crc="8e5377bb" md5="1e82d530d68b18d9d56aea0dd96c55b2" sha1="1b977a5dbc3bae53f995cce516be29eef231267d"/>
+		<rom name="Kawarazaki-ke no Ichizoku (Disk B).hdm" size="1261568" crc="28cc3fe4" md5="dd069732d3237a195c44a8ce79aee2c6" sha1="402e71d702b3af458110e602c3109e82bc26afb0"/>
+		<rom name="Kawarazaki-ke no Ichizoku (Disk C).hdm" size="1261568" crc="e7647e74" md5="833c11ce280e4c8ad711e665eb51d502" sha1="49053fc637a6d704fc766c3428741fafc6e06e5a"/>
+		<rom name="Kawarazaki-ke no Ichizoku (Disk D).hdm" size="1261568" crc="12a2bc4b" md5="f54c4dcd579e3763050a98476d5cc375" sha1="57eec756df31ea4e4a2aaf822a7a7200004fcd4a"/>
+		<rom name="Kawarazaki-ke no Ichizoku (Disk E).hdm" size="1261568" crc="7999334a" md5="f3cca58321053c9fba802f353fc06f53" sha1="c4e1abf0be91e679867709319fb876f6c6789aa4"/>
+	</machine>
+	<machine name="KISS - KISekae Set system [FD]">
+		<description>KISS - KISekae Set system [FD]</description>
+		<rom name="KISS - KISekae Set system.hdm" size="1261568" crc="642554e6" md5="bb48546ced9c61462e1c89dca4987143" sha1="a462109795fa23e677cc7bdb6c5885a52cc92303"/>
+	</machine>
+	<machine name="Kiwame II [FD]">
+		<description>Kiwame II [FD]</description>
+		<rom name="Kiwame II.hdm" size="1261568" crc="13de2571" md5="5c41913570d6c83cc37bfdcd4059f7be" sha1="f8d2b10e47f4c09987b15aedb9d1ed3aa6be3a3b"/>
+	</machine>
+	<machine name="Last Armageddon CD Special [User]">
+		<description>Last Armageddon CD Special [User]</description>
+		<rom name="Last Armageddon CD Special (Save disk).hdm" size="1261568" crc="6a834a6b" md5="f270f74aafd663383dbfa716ce77bebe" sha1="f05362fd6b88087658b13730c37a9728dc0a19a4"/>
+	</machine>
+	<machine name="Lemmings 2 - The Tribes [User]">
+		<description>Lemmings 2 - The Tribes [User]</description>
+		<rom name="Lemmings 2 - The Tribes (User disk) [Alt 1].hdm" size="1261568" crc="1ea33a50" md5="fd1a37264aac27b6825d80448f434425" sha1="22de20f7987217219ea4a337ef0df6d284dcb126"/>
+		<rom name="Lemmings 2 - The Tribes (User disk).hdm" size="1261568" crc="8cadd099" md5="6a88624217c1de5f9d2bfd4864580f4d" sha1="0dad2029df60bf62b38c5cc489b2f98df1d6f292"/>
+	</machine>
+	<machine name="Lettuce Cooking [FD]">
+		<description>Lettuce Cooking [FD]</description>
+		<rom name="Lettuce Cooking.bin" size="1281280" crc="0644e504" md5="c1ea8ac0bb0ee3a3508271a884ba3f58" sha1="808144356f94b03a495a5824ecd47255a5475b47"/>
+	</machine>
+	<machine name="Lunatic Dawn II [User]">
+		<description>Lunatic Dawn II [User]</description>
+		<rom name="Lunatic Dawn II (User disk).hdm" size="1261568" crc="11d95883" md5="c71ef34ab34eb59ffcb3a4d2a8a12bc7" sha1="d973bcaa7d3cc9dee18161bff08e88cd01a45cae"/>
+	</machine>
+	<machine name="Mad Paradox (En) [User]">
+		<description>Mad Paradox (En) [User]</description>
+		<rom name="Mad Paradox (En) (User disk).hdm" size="1261568" crc="8259b93e" md5="2da2f42f0b415142fa1767ed5889bd12" sha1="6f232aff7673c55ad1ccd00a16631fa4a20990fb"/>
+	</machine>
+	<machine name="Marine Philt [FD]">
+		<description>Marine Philt [FD]</description>
+		<rom name="Marine Philt (Save disk).hdm" size="1261568" crc="a46fa571" md5="deb93cfbf7fd99f5b30a4053598eaa93" sha1="efbc3c53e3dce3fd65f8f0198802514a68973473"/>
+	</machine>
+	<machine name="Might and Magic - World of Xeen [FD] [req MMIV+MMV]">
+		<description>Might and Magic - World of Xeen [FD] [req MMIV+MMV]</description>
+		<rom name="Might and Magic - World of Xeen (Install disk).hdm" size="1261568" crc="42475067" md5="5a02ce22b7d8a6037442b14419c34e14" sha1="f4a7c497b185f707ed2bf7077801adfcd20b5278"/>
+	</machine>
+	<machine name="Might and Magic IV - Clouds of Xeen [User]">
+		<description>Might and Magic IV - Clouds of Xeen [User]</description>
+		<rom name="Might and Magic IV - Clouds of Xeen (User disk).hdm" size="1261568" crc="2073e16a" md5="943c8b2e1e36a088236951a5667dc3e0" sha1="ee5228312eca2373896a3f1fdd8e3c0d75e06d76"/>
+	</machine>
+	<machine name="Might and Magic V - Darkside of Xeen [Boot]">
+		<description>Might and Magic V - Darkside of Xeen [Boot]</description>
+		<rom name="Might and Magic V - Darkside of Xeen (Boot disk).hdm" size="1261568" crc="a77cfc1a" md5="b920f26406f35b2ee30f7e2a61b9df34" sha1="88d8f10712764ad0e7f419afc1bcbd19be3c2f60"/>
+	</machine>
+	<machine name="Monkey Island 2 - LeChuck's Revenge [User]">
+		<description>Monkey Island 2 - LeChuck's Revenge [User]</description>
+		<rom name="Monkey Island 2 - LeChuck's Revenge (User disk).hdm" size="1261568" crc="d45589cf" md5="9e448e5b6e5f589dabe2bca5b932489f" sha1="9104fd15e673532e25a05a89907b14974433a109"/>
+	</machine>
+	<machine name="Mujintou Monogatari [User]">
+		<description>Mujintou Monogatari [User]</description>
+		<rom name="Mujintou Monogatari (User disk).hdm" size="1261568" crc="e215e725" md5="5190de8a431c6c896840a34d0d8eeccd" sha1="ca1ae52b64e90a82764385712acea7cfd5472616"/>
+	</machine>
+	<machine name="Murder Club DX [User]">
+		<description>Murder Club DX [User]</description>
+		<rom name="Murder Club DX (User disk).hdm" size="1261568" crc="21c7541d" md5="01700664e9f3dec5881886b52aa89987" sha1="fe65af7c615244bfdea809b119b8978dc6144d5f"/>
+	</machine>
+	<machine name="Music Pro-Towns [FD]">
+		<description>Music Pro-Towns [FD]</description>
+		<rom name="Music Pro-Towns.hdm" size="1261568" crc="f5f61d98" md5="2ece6bf7019f6aba90c4d4df06eee7f3" sha1="2abb5e9042d8aae0480b551568ac2f8053126209"/>
+	</machine>
+	<machine name="My Fair Lady CAN II - Elementary [FD]">
+		<description>My Fair Lady CAN II - Elementary [FD]</description>
+		<rom name="My Fair Lady CAN II - Elementary.hdm" size="1261568" crc="b31c882e" md5="7f39d6465bcdd81a47a7579fda3dd0e2" sha1="d9d647b8f6ca45019f655c3cb31ae0dae37f4f01"/>
+	</machine>
+	<machine name="Nobunaga no Yabou - Haou-den [FD]">
+		<description>Nobunaga no Yabou - Haou-den [FD]</description>
+		<rom name="Nobunaga no Yabou - Haou-den.hdm" size="1261568" crc="d426a880" md5="fd83051bbe7d39501a7483a7386273d3" sha1="4194c61909c37fdf83daae77dcd84ad996237b0c"/>
+	</machine>
+	<machine name="Planet Attacker [FD]">
+		<description>Planet Attacker [FD]</description>
+		<rom name="Planet Attacker.hdm" size="1261568" crc="5f61b43e" md5="2a323c7f593a2105dc80cf0bafa8d744" sha1="0f809ea7a3f5ac74e6940260026b429f2365a417"/>
+	</machine>
+	<machine name="Power Dolls [FD]">
+		<description>Power Dolls [FD]</description>
+		<rom name="Power Dolls (System disk).hdm" size="1261568" crc="5f6c44c7" md5="4c78c0f0fb66921bdfd31a16f87698c6" sha1="721dd113dc6bedfb2d212e3a4de15260c41805f7"/>
+		<rom name="Power Dolls (User disk).hdm" size="1261568" crc="7b90b036" md5="a6ddc5e4ec3abc6e8e486dc9a8403762" sha1="8cc2d7cdf2ffde4133cddd039f6620ba17b1e553"/>
+	</machine>
+	<machine name="Powermonger (En) [Boot]">
+		<description>Powermonger (En) [Boot]</description>
+		<rom name="Powermonger (En) (Boot disk).hdm" size="1261568" crc="32bceed4" md5="51a5d5aa868bd90b431f0192d713b546" sha1="2bd713c50f4d8cd35d275c70f56acaff76ae5831"/>
+	</machine>
+	<machine name="Powermonger (Jp) [Boot]">
+		<description>Powermonger (Jp) [Boot]</description>
+		<rom name="Powermonger (Jp) (Boot disk).hdm" size="1261568" crc="46834f28" md5="95d66c521e599a9c5aabf11a0bd29753" sha1="024edfc7b49f83d9b8054a0685fd7adbf79114af"/>
+	</machine>
+	<machine name="Premium 2 [FD]">
+		<description>Premium 2 [FD]</description>
+		<rom name="Premium 2 (Disk 1).hdm" size="1261568" crc="1fef893a" md5="4cc21447d740892f5de86f0fd4e9d878" sha1="907617847040a74ef6d92a33e9430e46d500076e"/>
+		<rom name="Premium 2 (Disk 2).hdm" size="1261568" crc="5d645e54" md5="1c6fe74c5ceca3a81be8f9250037ee2e" sha1="dd9c4c649d273b7dd0730806837bdc3c953d3272"/>
+		<rom name="Premium 2 (Disk 3).hdm" size="1261568" crc="26d67acd" md5="2b0fc65e2927b65ee95515aa1027d455" sha1="70289de0b14909480769216904707116cafbcbcb"/>
+		<rom name="Premium 2 (Disk 4).hdm" size="1261568" crc="5723ce84" md5="07e69ccfef87ea929dcbd10ddb96a5ad" sha1="5948e0ba82688fe321be6b49402722768996c63e"/>
+	</machine>
+	<machine name="Prince of Persia 2 [User]">
+		<description>Prince of Persia 2 [User]</description>
+		<rom name="Prince of Persia 2 (User disk).hdm" size="1261568" crc="6289f8ca" md5="8a0ff10361b4626e233d528308a671d8" sha1="b236de34adddf3e0647e8ac04b1dfcdb4f778fba"/>
+	</machine>
+	<machine name="Pro Student G [Boot]">
+		<description>Pro Student G [Boot]</description>
+		<rom name="Pro Student G (Boot disk).hdm" size="1261568" crc="a068feeb" md5="e02df6aad5f8b6285cbfff4a0142be51" sha1="fa5e5b185cc452e9fa252eac61eb6f8a133cc080"/>
+	</machine>
+	<machine name="Provvidenza [User]">
+		<description>Provvidenza [User]</description>
+		<rom name="Provvidenza (User disk).hdm" size="1261568" crc="86a32aa9" md5="c571b6dd68b0919c70f2563ce6678739" sha1="886cd6d3e5fefe5aa410f645b485ff3dc371b1b1"/>
+	</machine>
+	<machine name="Psychic Detective Series Final - Solitude Gekan [FD]">
+		<description>Psychic Detective Series Final - Solitude Gekan [FD]</description>
+		<rom name="Psychic Detective Series Final - Solitude Gekan.hdm" size="1261568" crc="1e6f92b3" md5="acd81d55301308af0942e5282be23f86" sha1="a0c3e96599e546c0c212091f52d42adbb2dbbb5b"/>
+	</machine>
+	<machine name="Psychic Detective Series Final - Solitude Joukan [FD]">
+		<description>Psychic Detective Series Final - Solitude Joukan [FD]</description>
+		<rom name="Psychic Detective Series Final - Solitude Joukan.hdm" size="1261568" crc="9dd1bf09" md5="f8238f1472d43e653f3e9c444fd4bf12" sha1="36f9557b45a606f54cebb180f88e37207a854e37"/>
+	</machine>
+	<machine name="Psychic Detective Series Vol. 1 - Invitation [User]">
+		<description>Psychic Detective Series Vol. 1 - Invitation [User]</description>
+		<rom name="Psychic Detective Series Vol. 1 - Invitation (User disk).hdm" size="1261568" crc="28ab8703" md5="9ce9305b2a1aab5fca738114d86ae2b1" sha1="2cb7ef63e27f1debbfedc6e6b37c5667dedf753d"/>
+	</machine>
+	<machine name="Psychic Detective Series Vol. 4 - Orgel [FD]">
+		<description>Psychic Detective Series Vol. 4 - Orgel [FD]</description>
+		<rom name="Psychic Detective Series Vol. 4 - Orgel.hdm" size="1261568" crc="81a557bf" md5="8e24460444faa6b52e1e8e373a339c1a" sha1="e32d7a6b60a2265a7035a05f8272ac7938cf82bf"/>
+	</machine>
+	<machine name="Psychic Detective Series Vol. 5 - Nightmare [FD]">
+		<description>Psychic Detective Series Vol. 5 - Nightmare [FD]</description>
+		<rom name="Psychic Detective Series Vol. 5 - Nightmare (System disk).hdm" size="1261568" crc="10de4174" md5="61af8a041551460ebc2f07c2ef50c37a" sha1="9222ef4d56b96879dc26bcd99d4b61777556aeee"/>
+	</machine>
+	<machine name="Rance - Hikari o Motomete [FD]">
+		<description>Rance - Hikari o Motomete [FD]</description>
+		<rom name="Rance - Hikari o Motomete (Disk 1).hdm" size="1261568" crc="fc54292a" md5="a908fdb210a9d4ecd2f8ce2ebc33cdd8" sha1="a6dde9bfc776bdaa703be54a5fe68cee3c5a3b13"/>
+		<rom name="Rance - Hikari o Motomete (Disk 2).hdm" size="1261568" crc="775b7c12" md5="42949d3f8787e41c181e7e22b2d31b35" sha1="f5f5487207b156459cce136a09ca4f3e92309046"/>
+		<rom name="Rance - Hikari o Motomete (Disk 3).hdm" size="1261568" crc="38e84c46" md5="a9eb3ed6e82afcefa91e31d1989a2015" sha1="2ade9200c6aed67b6e895e144226d36ca3376145"/>
+		<rom name="Rance - Hikari o Motomete (Disk 4).hdm" size="1261568" crc="ec2cb963" md5="2f9a5b800fdfbbf612da32c9d63ea8d2" sha1="eb23dd3f8ba77c3922651eb7e32f09a73d7bf717"/>
+	</machine>
+	<machine name="Rance 2 - Hangyaku no Shoujotachi [FD]">
+		<description>Rance 2 - Hangyaku no Shoujotachi [FD]</description>
+		<rom name="Rance 2 - Hangyaku no Shoujotachi (Disk A).hdm" size="1261568" crc="8d06cd43" md5="e5da3abe08ebb76956e0839e35afd742" sha1="1c8dcee98e01e5ec34bd3b2caabf90fccf800011"/>
+		<rom name="Rance 2 - Hangyaku no Shoujotachi (Disk B).hdm" size="1261568" crc="116f4cd2" md5="bf28535d54fe3b5d004a432e2644d3eb" sha1="5d1acf08309a3c33b2578d1d608d73122c2029d0"/>
+		<rom name="Rance 2 - Hangyaku no Shoujotachi (Disk C).hdm" size="1261568" crc="18c701c0" md5="2027e9e6b6b825fa9c706f51b189873a" sha1="5379383e7acebc189712e3cb4cfc8a5dfda37f4c"/>
+		<rom name="Rance 2 - Hangyaku no Shoujotachi (Disk D).hdm" size="1261568" crc="4657f014" md5="315919881b90345fafcadad2f29c7100" sha1="ff5ae040d04383a8c5f19cc2d665877056f4fed0"/>
+		<rom name="Rance 2 - Hangyaku no Shoujotachi (Disk E).hdm" size="1261568" crc="446c28e8" md5="456529847940a31054c482a7c0728a1c" sha1="cdcb1c27b7a6dcaa091176e0522a28daa188b222"/>
+		<rom name="Rance 2 - Hangyaku no Shoujotachi (Disk F).hdm" size="1261568" crc="c5b0b6bd" md5="f4ab1aeb1e8e3e73f77db861cfe5fad9" sha1="76eec3eec751007c690e36045b6bcf390acb99c7"/>
+	</machine>
+	<machine name="Rance IV [Boot]">
+		<description>Rance IV [Boot]</description>
+		<rom name="Rance IV (Boot disk).hdm" size="1261568" crc="45c0e9e5" md5="bdbd00f89b52b7cb194859814e2d4a26" sha1="0c905ca63b159a886c429944d1c09b01feaf73d3"/>
+	</machine>
+	<machine name="Realtime Kaigi Simulator [FD]">
+		<description>Realtime Kaigi Simulator [FD]</description>
+		<rom name="Realtime Kaigi Simulator.hdm" size="1261568" crc="489cce66" md5="346d9f0446bbc3417a451afa0a6c64bc" sha1="ce9c9cd28fc9f07e3a790cb31faff83243737231"/>
+	</machine>
+	<machine name="Record of Lodoss War - Haiiro no Majo [FD]">
+		<description>Record of Lodoss War - Haiiro no Majo [FD]</description>
+		<rom name="Record of Lodoss War - Haiiro no Majo (System disk).hdm" size="1261568" crc="4303f8cc" md5="8e969e25af894bb5afe8fca5036bd430" sha1="e5d6580d4b56d8b25a401f566dd07157866de128"/>
+		<rom name="Record of Lodoss War - Haiiro no Majo (User disk).hdm" size="1261568" crc="05abf0b1" md5="2ebb7285c6f69d5bed793bb143bb50a8" sha1="cc76e1c2135706ae8f5cfb5e2cc896a2081b5bf2"/>
+	</machine>
+	<machine name="Reira [FD]">
+		<description>Reira [FD]</description>
+		<rom name="Reira (Disk A) [Alt 1].hdm" size="1261568" crc="d82d5732" md5="705c3ec400bae4215fab2a3a34d43857" sha1="ac51e1ee6be9afa79f984a9ddcd5109347d31c35"/>
+		<rom name="Reira (Disk A).hdm" size="1261568" crc="7ca28bcc" md5="719c4316edab9bb91f138e270a8e224b" sha1="bcbd502d3aca183f00211dd91b34b9c6a8a53419"/>
+		<rom name="Reira (Disk B).hdm" size="1261568" crc="3d66ddc6" md5="5d16e9dec90c303640e547996ea729f9" sha1="05d1d20dd5c535dfe653e6afd23e0e256c3639ec"/>
+		<rom name="Reira (Disk C).hdm" size="1261568" crc="03fa528c" md5="c7908354d99f5ef7571db61c156b9276" sha1="635043a3490b03ee0ef06d901e774ae46f14963c"/>
+		<rom name="Reira (Disk D).hdm" size="1261568" crc="d26f5aef" md5="f624a38d70163a67858cfcde974d0743" sha1="9d59989831b58ed6098b517b29f45514932c8580"/>
+		<rom name="Reira (Disk E).hdm" size="1261568" crc="9008a977" md5="d4009ac8de62aad7e21d1441a6ce67a6" sha1="32cf426ce9f15489c92dd1effc58da5380ea6f16"/>
+		<rom name="Reira (Disk F).hdm" size="1261568" crc="fa05a62c" md5="f26b30744899b9afe68dbcc9a830c392" sha1="1990124f647a164b18380b1686094ef29ee100e2"/>
+	</machine>
+	<machine name="Samurai Spirits [Boot]">
+		<description>Samurai Spirits [Boot]</description>
+		<rom name="Samurai Spirits (Boot disk).bin" size="1281280" crc="2f1793ac" md5="2d019563982f8551fafd88f749887dbc" sha1="bd0f7f5f3fc4b0bd58d04812449cae853b58b5a8"/>
+	</machine>
+	<machine name="Scholar Movie Magazine [Boot]">
+		<description>Scholar Movie Magazine [Boot]</description>
+		<rom name="Scholar Movie Magazine (Boot disk).hdm" size="1261568" crc="6351e1a6" md5="4204ed81643bf5fae6f592ff43f6be08" sha1="57e30fa44927653d88d30da0df3236852c669394"/>
+	</machine>
+	<machine name="Schwarzschild [FD]">
+		<description>Schwarzschild [FD]</description>
+		<rom name="Schwarzschild (Game disk).hdm" size="1261568" crc="6a3658a7" md5="b17b66d93ff3e0cd84df1c979975e7fa" sha1="e70e032a9ffe0f1454366a0d15fb2fb0ef224117"/>
+	</machine>
+	<machine name="Shogi Seiten [FD]">
+		<description>Shogi Seiten [FD]</description>
+		<rom name="Shogi Seiten (Disk 1 - System).hdm" size="1261568" crc="3b19e6db" md5="c84a610d8d1fc0923656c7ac6d25efe1" sha1="2a5cf638bddee29e06171f98eb3a981f3d5784b0"/>
+		<rom name="Shogi Seiten (Disk 2 - Data).hdm" size="1261568" crc="b496bcb9" md5="5513c3448bd917605c22c0fba2ee0cf6" sha1="4bf4a0fe3d90d62dd14ecfd442063cd511967f9a"/>
+		<rom name="Shogi Seiten (User disk).hdm" size="1261568" crc="1d010eba" md5="b295f835b90b069f240c1cc5d634aac8" sha1="7e07385ff880096ee1e6923ff2dc4c3f75b30eca"/>
+	</machine>
+	<machine name="Soreyuke Nanpa-kun [FD]">
+		<description>Soreyuke Nanpa-kun [FD]</description>
+		<rom name="Soreyuke Nanpa-kun (Disk A).hdm" size="1261568" crc="26d312fd" md5="573f4eafa6caa3c5807db474cc8629a8" sha1="aaccaf41db22c44da1f637b11110d8dbf3f7c9cc"/>
+		<rom name="Soreyuke Nanpa-kun (Disk B).hdm" size="1261568" crc="36f63243" md5="0b05b2455e3731d2e6f8872aaa2b7436" sha1="a55c8075fc0430a5288224c36b0719fe33ce329e"/>
+		<rom name="Soreyuke Nanpa-kun (Disk C).hdm" size="1261568" crc="c60eb344" md5="c4ca80f9838fe8b8ab7caee4c36ea5c4" sha1="c88788f4156f88d80e368ee12dc486e32544ce52"/>
+	</machine>
+	<machine name="Sotsugyou '93 - Graduation [FD]">
+		<description>Sotsugyou '93 - Graduation [FD]</description>
+		<rom name="Sotsugyou '93 - Graduation (Play disk).hdm" size="1261568" crc="fb4ac4d8" md5="b4cb3119ad71ea9b5cb4df96515f2ac6" sha1="9ac7edfd20421df85d8fd469f45c3805a307023b"/>
+	</machine>
+	<machine name="Sotsugyou '93 - Graduation [User]">
+		<description>Sotsugyou '93 - Graduation [User]</description>
+		<rom name="Sotsugyou '93 - Graduation (User disk).hdm" size="1261568" crc="7fd6c788" md5="37223b000c7327255eb6c47df94ca081" sha1="3709f921e7ebeaa9c69ed658beb704606fe89f54"/>
+	</machine>
+	<machine name="Space Rogue [User]">
+		<description>Space Rogue [User]</description>
+		<rom name="Space Rogue (User disk).hdm" size="1261568" crc="96595408" md5="bacb0a840bb280328fecc12558de0156" sha1="c8b78a1fcd9f32bd37c2557104c3c976e241be41"/>
+	</machine>
+	<machine name="Star Cruiser 2 [User]">
+		<description>Star Cruiser 2 [User]</description>
+		<rom name="Star Cruiser 2 (User disk).hdm" size="1261568" crc="7d3863c4" md5="aa35eddd9d61890f14c2805de2f96043" sha1="2327aa7adb0209306dfd3c3945fcb115730175cd"/>
+	</machine>
+	<machine name="Strike Commander Plus [HD]">
+		<description>Strike Commander Plus [HD]</description>
+		<rom name="cmos.dat" size="8192" crc="4d7c7442" md5="4bfafe311a0f788f6b69e8002de19110" sha1="ed740e893c1fcede87e37fb6f8c71c9123d0c684"/>
+		<rom name="Strike Commander Plus.h0" size="104857600" crc="c07afad3" md5="a48372a09cc2879853cae28a28151298" sha1="7bde8ac6c7e3ee329da05b07a6cb05a6da8d51a0"/>
+	</machine>
+	<machine name="Super D.P.S. [FD] [freeware release]">
+		<description>Super D.P.S. [FD] [freeware release]</description>
+		<rom name="Super D.P.S. (Disk 1 - System).hdm" size="1261568" crc="af618979" md5="fd55219f63bf839b44b8780fdb9fdcb3" sha1="bfaf62b06e25f92a731a76208ab8bf69d6ac965a"/>
+		<rom name="Super D.P.S. (Disk 2 - Maria to Kanpan A).hdm" size="1261568" crc="5c762738" md5="cc7a129b922497b5e552973961301db5" sha1="f09d00215967e015258e7bde7fb22094927d0a17"/>
+		<rom name="Super D.P.S. (Disk 3 - Kaizoku Kagyou A).hdm" size="1261568" crc="2728576a" md5="364d7b45b9c3ecde1086fa8cba6c85c8" sha1="406741790efc9106a7b51df07035d49d78015db2"/>
+		<rom name="Super D.P.S. (Disk 4 - Kaizoku Kagyou B).hdm" size="1261568" crc="dc71038d" md5="88f21577cb86e03e5b8d987a9694250d" sha1="245001245db86d8631c74c2e4378c0e7b0de97c3"/>
+		<rom name="Super D.P.S. (Disk 5 - Toono No Mori A).hdm" size="1261568" crc="4fcf0a92" md5="5258989a925126a2cb52fd1e11d4d572" sha1="d5c6ef8c599c9f418e273e7493ae28aa9808f5cd"/>
+		<rom name="Super D.P.S. (Disk 6 - Toono No Mori B).hdm" size="1261568" crc="78ae11c6" md5="5cca5be1dc2740a1db4783b6891c64db" sha1="8410d7c8932eb94178d821d93afd6ce3f03b0c00"/>
+	</machine>
+	<machine name="Super Odyssey [User]">
+		<description>Super Odyssey [User]</description>
+		<rom name="Super Odyssey (User disk).hdm" size="1261568" crc="4056a72a" md5="bb981cb1576a8b56f40616982edfcc42" sha1="03968571b61044b7b4b6671560babf3e3c8d582a"/>
+	</machine>
+	<machine name="Sword Edge [FD]">
+		<description>Sword Edge [FD]</description>
+		<rom name="Sword Edge (map editor).hdm" size="1261568" crc="36ddef97" md5="78a9fd7be5741108ebe0909bc4972ddb" sha1="2cd272d7df959c4210931b2743a01e3ff9050df4"/>
+		<rom name="Sword Edge (sprite editor).hdm" size="1261568" crc="72947abc" md5="1b34c3421548275752ad41789048b5aa" sha1="c5bd8ae472dc54712f9c4094e203dcb908d777ac"/>
+		<rom name="Sword Edge.hdm" size="1261568" crc="4d6c28b7" md5="3715273d37b95f553bd323eae0825d15" sha1="a1634b970a22ea6f1b800f7ca55ab762b83f121d"/>
+	</machine>
+	<machine name="Tactical Air Wing [FD]">
+		<description>Tactical Air Wing [FD]</description>
+		<rom name="Tactical Air Wing.hdm" size="1261568" crc="eef1aa60" md5="cdaa74bee75d9eddf1cf8e3362211832" sha1="d94798c490464ebf73803900ee5eec80b55939f8"/>
+	</machine>
+	<machine name="Taikou Risshinden [FD]">
+		<description>Taikou Risshinden [FD]</description>
+		<rom name="Taikou Risshinden.hdm" size="1261568" crc="99e2f286" md5="853d42ad726d1f435b2184a2113275c7" sha1="6ad267d832f2bc9847d4b6e33a12db4f9937bc80"/>
+	</machine>
+	<machine name="Tanjou - Debut [FD]">
+		<description>Tanjou - Debut [FD]</description>
+		<rom name="Tanjou - Debut (Key disk).hdm" size="1261568" crc="d731671d" md5="15afc32d6dd4abad9f170d422292b741" sha1="7da7523a000aee0e4a3ee7cd73ee78109f54ea85"/>
+	</machine>
+	<machine name="Tenka Gomen [FD]">
+		<description>Tenka Gomen [FD]</description>
+		<rom name="Tenka Gomen (System disk).hdm" size="1261568" crc="ed6a772a" md5="eeae87d32e6e61038929f07537a04628" sha1="b67203849d45824fcb6afac6610621ca95b23966"/>
+	</machine>
+	<machine name="The 4th Unit 5 - D-Again [User]">
+		<description>The 4th Unit 5 - D-Again [User]</description>
+		<rom name="The 4th Unit 5 - D-Again (Game disk).hdm" size="1261568" crc="4e272405" md5="74596b54b6f395d04d18624037c63d28" sha1="0ad011311d313f95b61114170528cfbcc6308eeb"/>
+	</machine>
+	<machine name="The 4th Unit 7 - Wyatt [Boot]">
+		<description>The 4th Unit 7 - Wyatt [Boot]</description>
+		<rom name="The 4th Unit 7 - Wyatt (Boot disk).hdm" size="1261568" crc="a516f2c4" md5="0a919e4dda88f922ace49080cb46159a" sha1="f5ae3995c8a8358b88bb716bb9c88ee8d4083d1d"/>
+	</machine>
+	<machine name="The Atlas 2 [FD]">
+		<description>The Atlas 2 [FD]</description>
+		<rom name="The Atlas 2 (System disk).hdm" size="1261568" crc="e28a55a2" md5="f3e13fb43742464fd1c67b52c9b6ec48" sha1="7c0826908907f6e271048d479df37056c3b55a06"/>
+	</machine>
+	<machine name="The Legend of Kyrandia 2 [User]">
+		<description>The Legend of Kyrandia 2 [User]</description>
+		<rom name="The Legend of Kyrandia 2 (User disk).hdm" size="1261568" crc="a881e4ad" md5="e706615851cea078708fcc93c0a6309a" sha1="98dbd435fb8c2a8bdd90887cba572c98df0c114c"/>
+	</machine>
+	<machine name="The Legend of Kyrandia [User]">
+		<description>The Legend of Kyrandia [User]</description>
+		<rom name="The Legend of Kyrandia (User disk).hdm" size="1261568" crc="da0241b6" md5="4b788b318abc38f91bcd1be1edc49fd7" sha1="12e125595d6a87496cf891bba1f67034d110b9e8"/>
+	</machine>
+	<machine name="The Queen Of Duellist [User]">
+		<description>The Queen Of Duellist [User]</description>
+		<rom name="The Queen Of Duellist (User disk).hdm" size="1261568" crc="4be69833" md5="8089da7caacfcb51a56659562d98d741" sha1="b41753c9994b71a4c6634807fe437b465defde5a"/>
+	</machine>
+	<machine name="Tokio [FD]">
+		<description>Tokio [FD]</description>
+		<rom name="Tokio (System disk).hdm" size="1261568" crc="664f6038" md5="4dfb50fbc142d7c0e8f4f138aaf32af5" sha1="d2ceb4c0488cf252edf8eb912d707270c886747e"/>
+	</machine>
+	<machine name="Toushin Toshi [FD]">
+		<description>Toushin Toshi [FD]</description>
+		<rom name="Toushin Toshi (Disk 1).hdm" size="1261568" crc="a003c2f4" md5="8a0ec70cfdbd0698163507cef4af3c5c" sha1="cc0f908542051f011d9f620ed9cb9632c60a46f1"/>
+		<rom name="Toushin Toshi (Disk 2) [Alt 1].hdm" size="1261568" crc="e7881beb" md5="67593e0374b5ce14b07b0c5df48d015b" sha1="438bce9cb6ffd117642269344e3ba719519c94bf"/>
+		<rom name="Toushin Toshi (Disk 2).hdm" size="1261568" crc="092e59ef" md5="fafa16a31a6e232c1628918b94d2f177" sha1="509adda6a0260e2da433af8305f6c360175fd5e2"/>
+		<rom name="Toushin Toshi (Disk 3).hdm" size="1261568" crc="ff4377b2" md5="b48bfbeca3b41541fec97a2e59734d41" sha1="0ea45b4a9cf6be8bcabe394c46fab6fb96497d4f"/>
+		<rom name="Toushin Toshi (Disk 4).hdm" size="1261568" crc="37d5d673" md5="8491b7d50cbf8dd01cf5c6937bcbbdb8" sha1="9297cc507996bd48c533e51ac1a7a6ecdeddfc90"/>
+		<rom name="Toushin Toshi (Disk 5).hdm" size="1261568" crc="e7511be5" md5="1d67f0d8ee8b3e7850e964c1da385b0e" sha1="efda6d406431ac838acc50d18a0aa05d63782bd5"/>
+		<rom name="Toushin Toshi (Disk 6).hdm" size="1261568" crc="d4d0f12e" md5="34e8c65f291366deda9687adebceaff6" sha1="d0d09ff3f5215797672bcb6d78b1d11a04588f1f"/>
+		<rom name="Toushin Toshi (Disk 7).hdm" size="1261568" crc="32cc36a0" md5="0d5ed9143a8782c22c5d6c4817564893" sha1="db3a14ac9f389f8ba75d775023d8c7d297b7f2f3"/>
+	</machine>
+	<machine name="Uchuu Kaitou Funny Bee [Boot]">
+		<description>Uchuu Kaitou Funny Bee [Boot]</description>
+		<rom name="Uchuu Kaitou Funny Bee (Boot disk).hdm" size="1261568" crc="4bcc3120" md5="05511d54750f262d9ef6fde002618520" sha1="f721efe9534554a1a9e4e2201b8f7c4102987b29"/>
+	</machine>
+	<machine name="Ultima Trilogy I-II-III [User]">
+		<description>Ultima Trilogy I-II-III [User]</description>
+		<rom name="Ultima Trilogy I-II-III (User disk) [Alt 1].hdm" size="1261568" crc="9f05ba4b" md5="3347fe550830d90a920b6ded28210693" sha1="9ee183f38a6a14e79aa4e5e4c7b9a2400f8a38dd"/>
+		<rom name="Ultima Trilogy I-II-III (User disk).hdm" size="1261568" crc="dd501019" md5="5ae4dc119f990adde82a2b91c0b7feef" sha1="d8dd8ab3add1f1718b2f11ff2ee4063ebe107349"/>
+	</machine>
+	<machine name="Ultima Underworld [User]">
+		<description>Ultima Underworld [User]</description>
+		<rom name="Ultima Underworld (User disk).hdm" size="1261568" crc="44893097" md5="817d430fc94a457105e531edde6c8b9e" sha1="bbe67a901c3f55b06f7bcc25fe5daff2181550e5"/>
+	</machine>
+	<machine name="Ultima VI - The False Prophet [User]">
+		<description>Ultima VI - The False Prophet [User]</description>
+		<rom name="Ultima VI - The False Prophet (User disk).hdm" size="1261568" crc="b16b2a32" md5="80c3a536cde6d1ca9318dee6da7d7ace" sha1="1ae04d7945c34e7f40f8d276fceddb740b33624c"/>
+	</machine>
+	<machine name="Ushinawareta Rakuen [FD] [req OS]">
+		<description>Ushinawareta Rakuen [FD] [req OS]</description>
+		<rom name="Ushinawareta Rakuen (Disk A).hdm" size="1261568" crc="43a4ab96" md5="fe048464d37ccf6392747455d7988ac2" sha1="49848270471a59cbeeb9aaa0fbfee7512f06b448"/>
+		<rom name="Ushinawareta Rakuen (Disk B).hdm" size="1261568" crc="2cd5aac5" md5="b4e211974741a8e7b6dfbd9fdc8e1055" sha1="f42b32087061aa4f0bfa87f712f263744233424c"/>
+		<rom name="Ushinawareta Rakuen (Disk C).hdm" size="1261568" crc="45b0d218" md5="fd17cda26acee1a50032ad6e745b4861" sha1="787c8709d5173d4c63b8acc50b646ec06e64be26"/>
+		<rom name="Ushinawareta Rakuen (Disk D).hdm" size="1261568" crc="af3eb06d" md5="608cbe8e7428fec9b668594d0ad0f7e8" sha1="a4e9a37f5ae6a61eae587f4cbe0f6c0cf62e185b"/>
+		<rom name="Ushinawareta Rakuen (Disk E).hdm" size="1261568" crc="1481c370" md5="1e1313c1ed8104721337b39e494a6ddb" sha1="95676fc68d7e402fd9e463a5ad9d82490ac544a8"/>
+	</machine>
+	<machine name="Uwaki na Anata [Boot]">
+		<description>Uwaki na Anata [Boot]</description>
+		<rom name="Uwaki na Anata (Boot disk).hdm" size="1261568" crc="27b0fc8b" md5="700cf0e940aec084b6475f844553ea94" sha1="4010114d203a210175b59e3d4dc46df0cf805f03"/>
+	</machine>
+	<machine name="Vain Dream [FD]">
+		<description>Vain Dream [FD]</description>
+		<rom name="Vain Dream (System disk).hdm" size="1261568" crc="193225c1" md5="cd51181c2de485fe4d4ed1be6b3e1a7b" sha1="2d3ee819482517b3b9d5d5c6e3877f2def4fbc20"/>
+	</machine>
+	<machine name="Vain Dream II [FD]">
+		<description>Vain Dream II [FD]</description>
+		<rom name="Vain Dream II (System disk).hdm" size="1261568" crc="a95283e8" md5="60ae4a17e220f9e2d8a853e22f2e0bac" sha1="a61fd855e256c7216a8d8d5b7f72dcaed319e727"/>
+	</machine>
+	<machine name="Virtuacall 2 [Boot] [bad - missing CD]">
+		<description>Virtuacall 2 [Boot] [bad - missing CD]</description>
+		<rom name="Virtuacall 2 (Boot disk).hdm" size="1261568" crc="f141bc5a" md5="4f9af942c932a654dcbe2846cc666e1d" sha1="3b7b27920752328bb6bbc4a1865f021cf13053a1"/>
+	</machine>
+	<machine name="Virtuacall [FD]">
+		<description>Virtuacall [FD]</description>
+		<rom name="Virtuacall (Disk A) [Alt 1].hdm" size="1261568" crc="0ecdcff9" md5="0c29d1f5ba5af9a9691bb4d9056b4a8d" sha1="c36be7e424fecd61c83c50258e8a8b4b02ad551f"/>
+		<rom name="Virtuacall (Disk A) [Alt 2].hdm" size="1261568" crc="0c5f36a9" md5="916982e4447d4db4b7d086915291f60c" sha1="5f452d3b6582942cbbb37f97631ddf63a88e580c"/>
+		<rom name="Virtuacall (Disk A).hdm" size="1261568" crc="ebdfc4b9" md5="164a5548ac9a63c00db56917212fd708" sha1="b4240a3b28093c832a38be17cf72495f4f094f88"/>
+	</machine>
+	<machine name="VZ Editor 1.6 with ATOK 7 [FD]">
+		<description>VZ Editor 1.6 with ATOK 7 [FD]</description>
+		<rom name="VZ Editor 1.6 with ATOK 7.bin" size="1281280" crc="514f8e0b" md5="f9ce8b3041911b9b2e1396031b0c9f93" sha1="cc1a7fa78e6fb3c44d1c3c17dd00e863a80a191f"/>
+	</machine>
+	<machine name="Wing Commander II and Special Operations [HD]">
+		<description>Wing Commander II and Special Operations [HD]</description>
+		<rom name="cmos.dat" size="8192" crc="3f75437f" md5="f7d74735d0f324d1c528f5139f6d318c" sha1="59fce4b0644fadf7e13a4e9cb41930646b025435"/>
+		<rom name="Wing Commander II and Special Operations.h0" size="52428800" crc="06c056e7" md5="14454081f19ac0416a03e5a2475fe34f" sha1="3e5054a00514ef6f07a2339c5764958c33f1f234"/>
+	</machine>
+	<machine name="Wizardry V - Heart of the Maelstrom [User]">
+		<description>Wizardry V - Heart of the Maelstrom [User]</description>
+		<rom name="Wizardry V - Heart of the Maelstrom (User disk).d88" size="1089776" crc="0cd772c2" md5="ba522a6705f9810f2fc9ea8cf6082020" sha1="149e7bc2ab3537444f71b565330e1ecea911dafa"/>
+	</machine>
+	<machine name="Wizardry VI - Bane of the Cosmic Forge [User]">
+		<description>Wizardry VI - Bane of the Cosmic Forge [User]</description>
+		<rom name="Wizardry VI - Bane of the Cosmic Forge (User disk).hdm" size="1261568" crc="0092a1da" md5="16fe295296c54007f58351f6636589b6" sha1="557e3bedbd8c3f546ac30fe9d8ce9fd386eda90e"/>
+	</machine>
+	<machine name="Wrestle Angels 2 [FD]">
+		<description>Wrestle Angels 2 [FD]</description>
+		<rom name="Wrestle Angels 2 (Disk A) [Alt 1].hdm" size="1261568" crc="5cacfdb6" md5="71173e2d06ecd816ff22c719d2ad1a49" sha1="b44ff4b32a5181196a1375924c577f5b92f06dd5"/>
+		<rom name="Wrestle Angels 2 (Disk A).hdm" size="1261568" crc="81f2f905" md5="49e4c579ddba0fc0bf436da3a2b6b79a" sha1="e56a00bf56422f7964ed50e43753ab9e55a7ff56"/>
+		<rom name="Wrestle Angels 2 (Disk B) [Alt 1].hdm" size="1261568" crc="21f596e8" md5="f722b7e96b5011ea87ad69139342d7d1" sha1="2983f111dea21e5a3655db204b921e3d647d7602"/>
+		<rom name="Wrestle Angels 2 (Disk B).hdm" size="1261568" crc="9876b409" md5="7cce19afd764968c1ca00faaca98e565" sha1="d1cbdadfdcd26d05b15943ace576c39df721052b"/>
+		<rom name="Wrestle Angels 2 (Disk C) [Alt 1].hdm" size="1261568" crc="36f4fbe1" md5="ba25fdecef3cfc3cc3caa21d7cf0b20b" sha1="4d384118a9167c51eafa0cccbc1f01f5c2cef21e"/>
+		<rom name="Wrestle Angels 2 (Disk C).hdm" size="1261568" crc="4b238566" md5="9cac6aa6d26b2e842a3fdbd660f1ad13" sha1="0acfd1dc58f4e9416399b3b17572ba582d6efe9b"/>
+		<rom name="Wrestle Angels 2 (Disk D).hdm" size="1261568" crc="a4f395a6" md5="09e70e1ee9318e342922e5d108992b45" sha1="b994961a2e400880bcc5924a53c9c48820eadf7a"/>
+		<rom name="Wrestle Angels 2 (Disk E).hdm" size="1261568" crc="ab3474d9" md5="79312dd4a3c43a30ed6b707c249383cf" sha1="ea36d0bd3bbfdf057e9487be6a2ed761c3b66e9e"/>
+	</machine>
+	<machine name="Wrestle Angels 3 [User]">
+		<description>Wrestle Angels 3 [User]</description>
+		<rom name="Wrestle Angels 3 (Save disk) [Alt 1].hdm" size="1261568" crc="2c20ad84" md5="329eae89e2b913e6d2aca46ffa1b1cf7" sha1="dcfb0b2da665aa4bd1630003c6a1b719c11b6dce"/>
+		<rom name="Wrestle Angels 3 (Save disk).hdm" size="1261568" crc="c29e2e9c" md5="8140fabd87f169f42de3891347f53f2e" sha1="1f4d99366200b8938cc3a1868bc2540a20720740"/>
+	</machine>
+	<machine name="Wrestle Angels [FD]">
+		<description>Wrestle Angels [FD]</description>
+		<rom name="Wrestle Angels (Disk A).hdm" size="1261568" crc="cc6b4a9b" md5="24f405ec5187da9d506b52a462ef5d82" sha1="7964cc098f71d191ad23c98e4ebc3645c7b51289"/>
+		<rom name="Wrestle Angels (Disk B).hdm" size="1261568" crc="3dde7236" md5="7af745baf5b4f7a4e20b896d00e66a2d" sha1="a46d733f53dd4bd23fc298e06ce6352e316447cb"/>
+		<rom name="Wrestle Angels (Disk C).hdm" size="1261568" crc="286d5d85" md5="39a93db2f5bb2281db1a2b6212556c44" sha1="c6dfc2a5bd021f7e7d41ba281a4eec17e56a899c"/>
+		<rom name="Wrestle Angels (Disk D).hdm" size="1261568" crc="44414c9e" md5="f04abbe3b7ae4ceee45c8bf624ecf84d" sha1="94fc30387a7b83acaa51cf20feb2e5e28b703350"/>
+	</machine>
+	<machine name="Wrestle Angels Special [User]">
+		<description>Wrestle Angels Special [User]</description>
+		<rom name="Wrestle Angels Special (User disk).hdm" size="1261568" crc="7df5c0a6" md5="81a48a0c8c99e73af2846769e55ddb82" sha1="09c2ecaba12aabc2b2cf8f4527f491ccd257faac"/>
+	</machine>
+	<machine name="Yami no Ketsuzoku Special [User]">
+		<description>Yami no Ketsuzoku Special [User]</description>
+		<rom name="Yami no Ketsuzoku Special (User disk).hdm" size="1261568" crc="62e6f35a" md5="6dfe3c0f6a82fe5129d83eb4c5782f8b" sha1="ee1e86547bac53e5e9dc7a010bc60f3b511965b6"/>
+	</machine>
+	<machine name="Youjuu Senki - A.D. 2048 [User]">
+		<description>Youjuu Senki - A.D. 2048 [User]</description>
+		<rom name="Youjuu Senki - A.D. 2048 (User disk).hdm" size="1261568" crc="45fbfb5a" md5="0df90d57cf97f827a7097459b18e00ec" sha1="c0affb8477e925e0d5e7b55082c37bbbf1be16b2"/>
+	</machine>
+	<machine name="Yuuwaku [User]">
+		<description>Yuuwaku [User]</description>
+		<rom name="Yuuwaku (User disk).hdm" size="1261568" crc="985a282d" md5="aec25b5590b16316862173a02153d012" sha1="fbdbf25410b554156becc935fbf34ea103870c42"/>
+	</machine>
+	<machine name="Zan 2 Towns Special [User]">
+		<description>Zan 2 Towns Special [User]</description>
+		<rom name="Zan 2 Towns Special (User disk).hdm" size="1261568" crc="863e02e3" md5="a0c5989d2e08540dbef9ded45e73a225" sha1="28622691fd1a431055f4c586cfe585e0920a6153"/>
+	</machine>
+</datafile>
