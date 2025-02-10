@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu - FM Towns - Operating Systems</name>
+		<description>Fujitsu - FM Towns - Operating Systems (Neo Kobe)</description>
+		<category>Standard DatFile</category>
+		<version>2016-02-25</version>
+		<date>2025-02-10</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="[OS] Blank disk (MS-DOS formatted) [FD]">
+		<description>[OS] Blank disk (MS-DOS formatted) [FD]</description>
+		<rom name="[OS] Blank disk (MS-DOS formatted).hdm" size="1261568" crc="51c5461f" md5="994ac9f3cb37d5ce8cdc72a31e0d75cc" sha1="31548881ebfd4eb50281b3086709e5ff02a72ddd"/>
+	</machine>
+	<machine name="[OS] Blank disk (unformatted) [FD]">
+		<description>[OS] Blank disk (unformatted) [FD]</description>
+		<rom name="[OS] Blank disk (unformatted).hdm" size="1261568" crc="de12b6c2" md5="f61f30c3fb8035001b52b74514387d4f" sha1="461dfde5d3760ebdee933daacf564ecd7d83c4fa"/>
+	</machine>
+	<machine name="[OS] F-BASIC386 v1.1 L20 [CD] [redump.org]">
+		<description>[OS] F-BASIC386 v1.1 L20 [CD] [redump.org]</description>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 01).bin" size="55389600" crc="661d4cfb" md5="6f315cbfc150531153418fb1c04ccd87" sha1="614dfc9829ff5896d611f24a6f0cc6a912c9e7eb"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 02).bin" size="41729184" crc="17f838e9" md5="37587292eff74f97bdc295f882c063c3" sha1="faef4319da96fe3ea061b19e7c5a79a56604d090"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 03).bin" size="14765856" crc="f5a2bfbc" md5="c53dbf855254215e233729147bc60154" sha1="feec18ce8a1250704f2c9e8c66671568b50655a4"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 04).bin" size="24049200" crc="23d46b62" md5="a50508fa5f8be36f17fc7174ea31390a" sha1="f3fc81272c05f6473d0dc9e00bc3da35658b0fd6"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 05).bin" size="37213344" crc="67350f17" md5="c3d2ce283d63045b7f8b893fcfea3dd7" sha1="00b992141bd49aeaa6cf52d5fdc479c9be3906ea"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 06).bin" size="8968176" crc="00282ec8" md5="97035e082b36aff473ef5ef792a7b2ae" sha1="43bec43cd44be78a014becc94ac2c33126eb0f6b"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 07).bin" size="5374320" crc="a4d5c277" md5="6ee92d840a6215399a7c6ce30bff2016" sha1="620ad28f7e21abd38cb9af378d892330ad6cd7a7"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 08).bin" size="5002704" crc="e688b514" md5="07610396e7c74549fa2e5f600f67537d" sha1="068af1d56da66a8ee8b3adfdcd8f4c5902d790a3"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 09).bin" size="9360960" crc="e966f3ec" md5="6cf9f48d10f79a7fcfe9a14c790ab6dc" sha1="4245e9492a0a2660380b11dfa458c06b4041b2a3"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 10).bin" size="4675776" crc="c90f1de0" md5="86038fe14fc6f3d96e002be7b595c25d" sha1="139630c7a5aaf478110cd77bd1d4e5c218bc68fb"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20 (Track 11).bin" size="16793280" crc="65bb0664" md5="35095a5624d792cba978a9e41bb78818" sha1="85a7e637bf3385266c1bf4cc80f3972b41369d17"/>
+		<rom name="[OS] F-BASIC386 v1.1 L20.cue" size="1291" crc="67fe8479" md5="cc5d6441f561700903e87da3d6fc5e92" sha1="cbfa86fc1dd6550ac48265ee437188d7e9ebb983"/>
+	</machine>
+	<machine name="[OS] F-BASIC386 v2.1 L10 [CD]">
+		<description>[OS] F-BASIC386 v2.1 L10 [CD]</description>
+		<rom name="[OS] F-BASIC386 v2.1 L10.ccd" size="3071" crc="64bd4d99" md5="3e9a0ba89adc420d3fa8970355bcb244" sha1="2c76405c25dff4e953d8c606621133052aea1672"/>
+		<rom name="[OS] F-BASIC386 v2.1 L10.cue" size="560" crc="cddd018e" md5="361f96b744c9631bf917cc037fd1124d" sha1="9ca85c05b3c4924e7ad27ecdbc08d2e00a5217e1"/>
+		<rom name="[OS] F-BASIC386 v2.1 L10.img" size="488628000" crc="0b7a6c2a" md5="866323c178a882c666ea2ea8aa2fb6ea" sha1="8f0124c6b2d00be0a5f340960e7e408130bba993"/>
+		<rom name="[OS] F-BASIC386 v2.1 L10.sub" size="19944000" crc="1f33b8a9" md5="230cadc066eb59651e3304ce03a9282b" sha1="fc5a64a01b80fedd4f5e39e3102cf38946b47a45"/>
+	</machine>
+	<machine name="[OS] F-BASIC386 v2.1 L20a [BIN]">
+		<description>[OS] F-BASIC386 v2.1 L20a [BIN]</description>
+		<rom name="[OS] F-BASIC386 v2.1 L20a.icm" size="16777216" crc="7c740c3b" md5="731658517ebb6b887513ffe043148a40" sha1="a85c76c235a1dfedc5e291070a9da3f582ef1c69"/>
+	</machine>
+	<machine name="[OS] GNU for Towns Release 2 [CD]">
+		<description>[OS] GNU for Towns Release 2 [CD]</description>
+		<rom name="[OS] GNU for Towns Release 2.ccd" size="960" crc="7f29e47b" md5="7f653815099210074f9b85c2707aed25" sha1="3ce894acb64c62a3168f89fe45f8534eb3c2fed3"/>
+		<rom name="[OS] GNU for Towns Release 2.cue" size="131" crc="151e64da" md5="6064e35ab1ce924349330fac56288aea" sha1="f7a346b0b46235cd7c747dff65fd8cd9fb3bb653"/>
+		<rom name="[OS] GNU for Towns Release 2.img" size="470106000" crc="9beda416" md5="474ad22b89529fc7fe271cd61a3e5e5d" sha1="a3458a0d05379789605d67478ed5a0b781c98608"/>
+		<rom name="[OS] GNU for Towns Release 2.sub" size="19188000" crc="ca4100f7" md5="6b428778f5ec2d7a5651cd73aabcab9a" sha1="865d399ce89aac843219d272ce094d9654265862"/>
+	</machine>
+	<machine name="[OS] Linux + JE3 [CD]">
+		<description>[OS] Linux + JE3 [CD]</description>
+		<rom name="[OS] Linux + JE3.mdf" size="760707360" crc="2c93db2b" md5="5ea5d8e45f43c7c7f1e71278f97726fc" sha1="992b0e991a6bde293edf059e529ee2321ab6469b"/>
+		<rom name="[OS] Linux + JE3.mds" size="486" crc="9f8751b3" md5="5dbc82bff65780ce6396586d9383bd87" sha1="bea414de9da5a391b5256855d1ec4beee60e677d"/>
+	</machine>
+	<machine name="[OS] Linux + JE4 1995-12 [CD 1]">
+		<description>[OS] Linux + JE4 1995-12 [CD 1]</description>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 1).ccd" size="772" crc="e683c1d6" md5="dfd5bf7c533d59f17a94ad5fa30c4cae" sha1="ee1ee6058d7142db90e8cd589ea0e99c2fea5008"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 1).cue" size="97" crc="7a4e430d" md5="e3456632e27649c6280b67f56774695d" sha1="07ae5837929038f79dfe589f03d264fb88c1f631"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 1).img" size="577110240" crc="cb8e970c" md5="7c922aaaffcb2b89fc829e4eea9bac69" sha1="8598c7f6c5493c27a2a9b9dcacce04eafcea266d"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 1).sub" size="23555520" crc="08f228a2" md5="d66dfc440dbf44dcbce1d6c65aca7f39" sha1="3c3805ed5ad7567b2c812c30534d3f5906b7c017"/>
+	</machine>
+	<machine name="[OS] Linux + JE4 1995-12 [CD 2]">
+		<description>[OS] Linux + JE4 1995-12 [CD 2]</description>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 2).ccd" size="772" crc="d0c4f348" md5="da2a0ed3fdb04240de94c10d9fe3077b" sha1="ecf9a17f635112709cff2243b3311508b4b376ed"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 2).cue" size="97" crc="fe4bd6dd" md5="2df879846ee687c7ed43fbcff964ae5a" sha1="93a497c59463ba022523475d4f9b228570086bbf"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 2).img" size="621911136" crc="4b4045cc" md5="0a71220dc481a4b909ce3a0da5e17a74" sha1="b88837ead4cdafff6830de34e10cc85994d6957a"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 2).sub" size="25384128" crc="b2994c95" md5="8d00c7672b145895f986bedaaca3af5f" sha1="7f53ee98031a618a7a06f5f4ba3d51857a6f41a7"/>
+	</machine>
+	<machine name="[OS] Linux + JE4 1995-12 [CD 3]">
+		<description>[OS] Linux + JE4 1995-12 [CD 3]</description>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 3).ccd" size="772" crc="477cf66e" md5="923c2460f4a38927b05b04f1eefc1c07" sha1="cbfe790b5e67fe104bd787f5a654270f75e5ce9b"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 3).cue" size="97" crc="34985852" md5="75b2030f41814f82d66915404186dde3" sha1="019d58702b954623ff7832e46aebf4d43c38e134"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 3).img" size="631723680" crc="5c9440f4" md5="7f241e4262f3139c057238aa073f6b7c" sha1="8ee8a9cebe00a45c908bba88ef453e3d426d6260"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 3).sub" size="25784640" crc="f72decf8" md5="318b11e99254b8a35bc01d4139252306" sha1="3643d7b5a5715be304b06930e76ccd8d96bab1be"/>
+	</machine>
+	<machine name="[OS] Linux + JE4 1995-12 [extras]">
+		<description>[OS] Linux + JE4 1995-12 [extras]</description>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 1 label).jpg" size="885710" crc="4b10a394" md5="66a325d9d65b67de8eb1089ff37e7298" sha1="4d0063b8de62783d53eec010b7a7c28d337b14ae"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 2 label).jpg" size="897438" crc="72c358ba" md5="c6e40efee5a71d69a1341a32f1113700" sha1="26f8445477b63f3d98ad5ed2e4d796ad5798b539"/>
+		<rom name="[OS] Linux + JE4 1995-12 (Disc 3 label).jpg" size="858092" crc="b479790e" md5="7cdfc61856d9973216cf289381ff652a" sha1="9c7df6d6a4284e847fb44ddb278a0005b29e57f4"/>
+		<rom name="[OS] Linux + JE4 1995-12 (manual).pdf" size="13876163" crc="f0b68d2d" md5="f095437e34654de63d15cddccd7578e1" sha1="731e8148cbe393b037914542351f0b25aa55e167"/>
+		<rom name="[OS] Linux + JE4 1995-12 (package front).jpg" size="2638868" crc="bb09ebdd" md5="40a40ce4215a2ec660b1267cfd556281" sha1="bff74f34c402e94f590f30d3aa88b6acf27b1cb1"/>
+		<rom name="[OS] Linux + JE4 1995-12 (package rear).jpg" size="3464834" crc="3accc19b" md5="1ec7650e5d5042fd5ae0bff4049ceab1" sha1="c9d3d065fdad1712e0a3103ef650693e4690607e"/>
+		<rom name="[OS] Linux + JE4 1995-12 (stickers).jpg" size="674034" crc="01edf0e0" md5="60c8f10bef086c5153cb1fbaecf2a27c" sha1="83df30f6fadf23df27b5c4d6c61b726964acff8f"/>
+		<rom name="[OS] Linux + JE4 1995-12 (survey card front).jpg" size="244573" crc="9fbf3e3a" md5="8cce719ede1ace17305e53ffa949b18a" sha1="083fe018170907ca98a6e45beee6cc031458c447"/>
+		<rom name="[OS] Linux + JE4 1995-12 (survey card rear).jpg" size="353915" crc="ce48e577" md5="c532f0acfa673b7de1d303a954b258bb" sha1="81837fcdd474f7a67ecace97604c2121f72b14ba"/>
+	</machine>
+	<machine name="[OS] MS-DOS 3.1 L24 [FD]">
+		<description>[OS] MS-DOS 3.1 L24 [FD]</description>
+		<rom name="[OS] MS-DOS 3.1 L24 (Disk 1 - System).hdm" size="1261568" crc="c9a3378f" md5="688c2b25b1ff19bd1fad944b4b99b6e8" sha1="2c423f85ceea732b41cc195b065ada9e1f09b67c"/>
+		<rom name="[OS] MS-DOS 3.1 L24 (Disk 2 - Utility).hdm" size="1261568" crc="c6f4c86c" md5="e748c5b479bb7a91e50c5f6ba418e12b" sha1="86e64a6744e2c7d1d5d4e3159ebd1885c691b33b"/>
+	</machine>
+	<machine name="[OS] MS-DOS 6.2 L10 (boot disk) [FD]">
+		<description>[OS] MS-DOS 6.2 L10 (boot disk) [FD]</description>
+		<rom name="[OS] MS-DOS 6.2 L10 (boot disk).hdm" size="1261568" crc="16a72ad3" md5="3e1011208d107df1c496bb0e5ed7eb32" sha1="995b709506811697eceddcbd1812ca809d7230e8"/>
+	</machine>
+	<machine name="[OS] MS-DOS 6.2 L10 [FD]">
+		<description>[OS] MS-DOS 6.2 L10 [FD]</description>
+		<rom name="[OS] MS-DOS 6.2 L10 (Startup) [bad - missing data].hdm" size="1261568" crc="e7eec864" md5="2d09adafaa3e3da39d733744f77599bf" sha1="22a98bcb36566487a0253657de1a00e44e459b6a"/>
+		<rom name="[OS] MS-DOS 6.2 L10 (Utility 1).hdm" size="1261568" crc="189b0d6f" md5="10358c3f63326ab2dfb4749e8eb69f55" sha1="b8a04dbda831a7bacf782135510b6fc70faa01f3"/>
+		<rom name="[OS] MS-DOS 6.2 L10 (Utility 2).hdm" size="1261568" crc="eb9fdbb1" md5="f2913d6376c6af3c50aa1284a9260c11" sha1="5afa97f3061ab3394c6a38b0b8d233113dbd3d06"/>
+		<rom name="[OS] MS-DOS 6.2 L10 (Utility 3).hdm" size="1261568" crc="80be3828" md5="fd83042508a25854a6d7427fc0798583" sha1="61a484f0cd085da7f6911e98e39295730d202055"/>
+		<rom name="[OS] MS-DOS 6.2 L10 (Utility 4).hdm" size="1261568" crc="4016cf1a" md5="6758a5994f359e386d700a23ba916fe1" sha1="870f7b747c3612c8f915da4f32fd86d8868d9d38"/>
+	</machine>
+	<machine name="[OS] MS-DOS 6.2 L10 [HD]">
+		<description>[OS] MS-DOS 6.2 L10 [HD]</description>
+		<rom name="[OS] MS-DOS 6.2 L10.h1" size="41943040" crc="582840e9" md5="d269b33f2ca572b2436899895dea1f47" sha1="de6c14fd466b64377254b3d1a925391dbaaeb938"/>
+	</machine>
+	<machine name="[OS] Towns System Software v1.1 L10 [CD]">
+		<description>[OS] Towns System Software v1.1 L10 [CD]</description>
+		<rom name="[OS] Towns System Software v1.1 L10.bin" size="409732480" crc="441b8037" md5="27b652315867a62624698f7ba1614c95" sha1="ae188a5d94430e0d8820b10e1e265c426124b90d"/>
+		<rom name="[OS] Towns System Software v1.1 L10.cue" size="1123" crc="9d95bc5c" md5="484399d6987f4ce9f5db0485b588b1b3" sha1="0a5ce0ee30ed7bc8f5d0192ee9c5c3ae3d2ea71b"/>
+	</machine>
+	<machine name="[OS] Towns System Software v1.1 L20 [CD]">
+		<description>[OS] Towns System Software v1.1 L20 [CD]</description>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 01).iso" size="91852800" crc="df89936d" md5="bec998d0ead73d1656aa721918adac44" sha1="12e6611faa3e5a154719c29bf50252f4e63337ac"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 02).flac" size="1505788" crc="a6a7e47d" md5="db8008a55f09afc59a4c295fbc326a00" sha1="2e3a95c7c931a24b9dd3795f28c2c72b963dd71d"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 03).flac" size="3360024" crc="8d99f4fd" md5="15f71c09283e2ba255d5632df65a6e36" sha1="827d3521140359bba53cf2d4e87cf81dfa88b25d"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 04).flac" size="1669920" crc="489312df" md5="71c84bd1bdc4c23956a9bceb7d1716e5" sha1="c81f95c1103a8f21faea65ff0cda7b7691d0c9c5"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 05).flac" size="1226450" crc="49c27e14" md5="51218b25353f5f6e1b3d04f826359f11" sha1="8baf6b8a796cc5c55e873c224dcb2a16110dee4d"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 06).flac" size="1078022" crc="08735aee" md5="0e4bd98a008f276e425714b33adc3ba6" sha1="01e1de9cf9ed24d715227069a3f73e26669f76e9"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 07).flac" size="1685763" crc="2addf478" md5="19cb1dba11cd81e4656b67147e1ecb97" sha1="5aee6f7621f0a83d2f08a39e5eab6e4d8763364a"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 08).flac" size="1105345" crc="9409f5d6" md5="aa3885e0a27536bd3849192ec663756b" sha1="7d7c4b1cccd9fa54414291542abff94bff69d8ee"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 09).flac" size="1771088" crc="d2634ba4" md5="18cd1e0f8cfc6c29631cf740730d1003" sha1="0edd96b8bb638777eae9fd855b73923dfebdf94f"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 10).flac" size="1418108" crc="db9d4110" md5="67ebb7c145ff1046dd595a1624c5ca4e" sha1="635390b051df58173405632e1f20bbaed0f8005a"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 11).flac" size="879921" crc="03c2767d" md5="9a5bd24c2a038f8ecc3b86cb3ee38b64" sha1="bef10c3e1a6a2802c7b973640d976baa177f0a6b"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 12).flac" size="24237627" crc="0e918027" md5="057d6d51a1eafbaf35767a169706d379" sha1="86114f286e80be8c846dc1e52660431eea44d852"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 13).flac" size="15883237" crc="85a72c48" md5="e56e87c6c818aa911afa327f2b8191a1" sha1="cc367cdf7d15689c0c9e3496e68d330597c866c5"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 14).flac" size="12972809" crc="c748d472" md5="8e639948e14692d89716e6f2ebb34452" sha1="ad42488497f21fb4cc67a4b425e636802fcf1175"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 15).flac" size="24612858" crc="0dfcaff0" md5="5fecb468d66c4c8a80529cfe5ec4b23d" sha1="e40f5c6881149eb4ef38a681957c242c7f844ecb"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 16).flac" size="16700375" crc="dbd455b6" md5="971310301d6a14047460800bba9c252f" sha1="9d9393de314ce1ac9a94effc52534515ebd23812"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 17).flac" size="13151621" crc="5d453280" md5="cce9088c4a3983050c15d520389a4fb6" sha1="62da596a7b4083e0ae928ad428fbda7b82e631f5"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 18).flac" size="23660421" crc="9c4410c4" md5="393a05f61be8cfe07c2ddfd3a1d89319" sha1="101fec0beae2ffb212b6213c1b23ead77c5d657f"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 19).flac" size="17276740" crc="587aa624" md5="6fa8740c43a85da40ee03b51900e0afc" sha1="b377b31f32eacb70625829d7efce17d97e8a633f"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 20).flac" size="11842761" crc="3b28fd61" md5="8740dc16c2c2bb66f7074d0cf8ce2afb" sha1="2fbc646587b7747fc2ba09c8171e871073013895"/>
+		<rom name="[OS] Towns System Software v1.1 L20 (Track 21).flac" size="22070145" crc="92478ec5" md5="360dc88435f2e660177896e189e198b3" sha1="db34f45878c1e9d8c632caf04280b4c51ef138f9"/>
+		<rom name="[OS] Towns System Software v1.1 L20.cue" size="2696" crc="980832a2" md5="0ea736a969b221a9932e64b5aa543e19" sha1="7aad2063115f5b73d8a81623db868f2b9674f0c8"/>
+	</machine>
+	<machine name="[OS] Towns System Software v1.1 L20 [extras]">
+		<description>[OS] Towns System Software v1.1 L20 [extras]</description>
+		<rom name="[OS] Towns System Software v1.1 L20 (package).png" size="1340806" crc="ff15fc2f" md5="f1558c1095b973345cc04f4cb45b8e9d" sha1="14f8ca63c8532df1872844fe5ca6566c7a15bd40"/>
+	</machine>
+	<machine name="[OS] Towns System Software v1.1 L20 [HD]">
+		<description>[OS] Towns System Software v1.1 L20 [HD]</description>
+		<rom name="[OS] Towns System Software v1.1 L20.h0" size="838860800" crc="ee890df1" md5="a75eb7ba533003806d020a002a644e27" sha1="d0990005ef9ee91098a1cff8b3d1b5b12f5e2b31"/>
+	</machine>
+	<machine name="[OS] Towns System Software v1.1 L20 English [extras]">
+		<description>[OS] Towns System Software v1.1 L20 English [extras]</description>
+		<rom name="[OS] Towns System Software v1.1 L20 English (CD).jpg" size="234326" crc="a1d4479e" md5="484bf2dd79d1c99ac504a04e93aba5fe" sha1="562cfe965f12cea1c800b569e5cd39592ce64dff"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (FD).jpg" size="128874" crc="d3ef5f2b" md5="ed47a998a5fdfa29bfe3a199954b3fe3" sha1="47a970452b3a0cced6cc69ab5b2f06d02043dd29"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (full set).jpg" size="279900" crc="e30aa2f1" md5="4c6939b0a60b75db8080bf6f7dcfcaf8" sha1="d97e787b70ea9f75f8de2f500783340f1a581016"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (letter).jpg" size="1491561" crc="f2a85985" md5="6bbe61e4c87b90d4887c9501255d4e96" sha1="1a53c12819a542be3c1f5c019c7f20d3e66cf1b1"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (package 1).jpg" size="173541" crc="429b6a67" md5="619ca4e3af573aa32f89098dd06cf07a" sha1="3a7afb579193cee8c3f7d770ba1585b36e75172c"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (package 2).jpg" size="132883" crc="ceede028" md5="208ec12cf1dd95031e75517df238e8e1" sha1="da9a63ad14c51643401ca8fe1ec6b8435953189a"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (package 3).jpg" size="174073" crc="58549d06" md5="de52739638ec274e858d10827997a25d" sha1="b3a7bd2c9f98d54e776b7614aafb794da77d33bf"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (package 4).jpg" size="249377" crc="ad3a2ce6" md5="a14023f2138951483b4ecb21ca06c50f" sha1="3865d03a4f6a2d010caf2d250b0c965db97b1930"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (readme).txt" size="4629" crc="3b82d526" md5="5e07fab7618771df77ff46d585279b75" sha1="5bec956a0ac70e403679902780fc354d9c720237"/>
+	</machine>
+	<machine name="[OS] Towns System Software v1.1 L20 English [FD]">
+		<description>[OS] Towns System Software v1.1 L20 English [FD]</description>
+		<rom name="[OS] Towns System Software v1.1 L20 English (Boot disk).hdm" size="1261568" crc="77aeeba6" md5="8c6e5877fb04c07c0dab58f1634148cb" sha1="c8a298e57eddda9cd9205ab1a8c62c4683ceaac2"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (Disk 1).hdm" size="1261568" crc="e3eef6f7" md5="27f063e24eea9d6002a48f11f363d011" sha1="bd834b0c6cdb3b7effffb5f9aa78e0f3820a2a9d"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (Disk 2).hdm" size="1261568" crc="843fb912" md5="a3a50d92b367b69ff7bd5d6657a87110" sha1="d5fae04613c2b94b0fa52eb42682aefcae722a2d"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (Disk 3).hdm" size="1261568" crc="f3759ed3" md5="9e0db5e08efbe725424e102b521a378d" sha1="1a0e3a57164cae8d7fe1e1f42a81a2ccf2f48270"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (Disk 4).hdm" size="1261568" crc="e5a85b66" md5="04ce43c9dae65d4c35c89b16b2a3955e" sha1="9c5b2cd9c757e20b90bdcd966b1ce231a7a351b1"/>
+		<rom name="alts\[OS] Towns System Software v1.1 L20 English (Disk 2) [Alt 1].hdm" size="1261568" crc="a420a122" md5="0aa52520270d546cadd0004790594264" sha1="5b42db0578f9ff0b8b19e34f0eea1057dfe30e92"/>
+	</machine>
+	<machine name="[OS] Towns System Software v1.1 L20 English [HD]">
+		<description>[OS] Towns System Software v1.1 L20 English [HD]</description>
+		<rom name="[OS] Towns System Software v1.1 L20 English (patched with disks 1-2-3-4).h0" size="838860800" crc="9572d409" md5="1a90cb5def6150b4b3130068d35a52b5" sha1="b8ecce0d2ace65046201578c2666bbd03f334a93"/>
+		<rom name="[OS] Towns System Software v1.1 L20 English (patched with disks 1-3-4).h0" size="838860800" crc="8f2faf8a" md5="146ad82f840331b8041a92fa697d7420" sha1="bc05dea1010f387cec6b156500bbf13afe3b3976"/>
+	</machine>
+	<machine name="[OS] Towns System Software v1.1 L30 (boot disk) [FD]">
+		<description>[OS] Towns System Software v1.1 L30 (boot disk) [FD]</description>
+		<rom name="[OS] Towns System Software v1.1 L30 (boot disk).hdm" size="1261568" crc="24cc27ab" md5="7392c7f0b9d91e58a8e219ca4ef094a8" sha1="f643beb4bdaf79ba842852dbd4dfb30d218fc5a9"/>
+	</machine>
+	<machine name="[OS] Towns System Software v1.1 L30 [CD]">
+		<description>[OS] Towns System Software v1.1 L30 [CD]</description>
+		<rom name="[OS] Towns System Software v1.1 L30.bin" size="632782080" crc="180685d9" md5="5791d123e612884cd2895385eab38dc5" sha1="b551aa849f671094fe92607bd7a6b214edc9edf5"/>
+		<rom name="[OS] Towns System Software v1.1 L30.cue" size="659" crc="91bc4e4b" md5="c48a5d9f5eb82346158d6b66b11d7a95" sha1="ff1f8c7b7171c9af21d0a73c2d522974daaac9dd"/>
+	</machine>
+	<machine name="[OS] Towns System Software v2.1 L10A [CD] [redump.org]">
+		<description>[OS] Towns System Software v2.1 L10A [CD] [redump.org]</description>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 01).bin" size="317167200" crc="12b38388" md5="2d41467dec7c1658c2b3e7ff7c679a94" sha1="a7736100098611839fcb8199eae41dd7213ddcaf"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 02).bin" size="11799984" crc="47372237" md5="56d9bcd61bf16436ddabb7787ca4c98d" sha1="5b643250e4a8abf3671fd38715557f161c4d620f"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 03).bin" size="8885856" crc="28cd028e" md5="33835e8cfb8c44a2773fd8d3ca6b101d" sha1="8a848d850d3b122dc3f0f15efb3b888cfc197c02"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 04).bin" size="11301360" crc="d53228f5" md5="fc9f6232bea7527ebbc55cb5a4cb3490" sha1="a208cf49fb3a8ca38d2fd4d51256edfab470b85a"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 05).bin" size="11136720" crc="f9d2a991" md5="c08f4efb0658135da924a0f6fae758c5" sha1="d9e0bb8657978c05fcce4f1d9020e07f397fb44b"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 06).bin" size="94449264" crc="cf75e950" md5="7015819e9351aadd1e0da1e52d70c114" sha1="91d9e93d9886027b9c66bb86d810ad012a27b0dd"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 07).bin" size="22955520" crc="cbc73605" md5="69dcd22c5da1dcbc50ed0ee07e6fe6f1" sha1="440e07218bc63c136e0d8446ebeda19b52547e98"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 08).bin" size="116435760" crc="46115cb5" md5="40f276372dea75bfa194987b472c1b63" sha1="ea482c6088166b956a1596c4b91beeaa0849e519"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 09).bin" size="11578896" crc="71242193" md5="b1a365b6676a0648ef94387134d35af2" sha1="d043dcd84d6c2e6a48ce14807825ec5456a5e736"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 10).bin" size="10595760" crc="49237f87" md5="da2653137a382652a51475249ba8c382" sha1="67343b528937a0d940165d5f84737797fd6667dc"/>
+		<rom name="[OS] Towns System Software v2.1 L10A (Track 11).bin" size="11054400" crc="02411027" md5="293504637f75729b9eca8f29fdce418d" sha1="3f68418b53d65396f588902ade208bf27b471d76"/>
+		<rom name="[OS] Towns System Software v2.1 L10A.cue" size="1423" crc="e7397a9f" md5="a3e7e287aba45d23b7ee6b39690542c5" sha1="5d248df6c9e8046c1ddf83e8e2849ad45243f8a1"/>
+	</machine>
+	<machine name="[OS] Towns System Software v2.1 L51 [CD]">
+		<description>[OS] Towns System Software v2.1 L51 [CD]</description>
+		<rom name="[OS] Towns System Software v2.1 L51.ccd" size="2294" crc="6ad5818a" md5="1186b2ac886128880586708fb7619c5c" sha1="2743a87d3d86f019c4b748bf8b83e93c25604aa3"/>
+		<rom name="[OS] Towns System Software v2.1 L51.cue" size="411" crc="be52ece2" md5="d107ca268142a817c0c9ab0067278644" sha1="f3951729651f65e8c0b629d780995d261096bba1"/>
+		<rom name="[OS] Towns System Software v2.1 L51.img" size="593767104" crc="b05c859d" md5="5e7f81a354d82b69c450f00ad6744c82" sha1="5c954b6567d5e579866afa69ff3521fe42cfb5b1"/>
+		<rom name="[OS] Towns System Software v2.1 L51.sub" size="24235392" crc="5f06885b" md5="7747fad896501e50c172eebda8c0766c" sha1="56ee6cfa222595ce149a634fb3bada003e4870fa"/>
+	</machine>
+	<machine name="[OS] Towns System Software v2.1 L51 [FD]">
+		<description>[OS] Towns System Software v2.1 L51 [FD]</description>
+		<rom name="[OS] Towns System Software v2.1 L51.hdm" size="1261568" crc="0fc9176c" md5="9466f9cee76289587156d1898c72b5a8" sha1="7d96f648912102b69e1a0329aeebf386a78ece75"/>
+	</machine>
+	<machine name="[OS] Towns System Software v2.1 L51 [FD] [Set 1]">
+		<description>[OS] Towns System Software v2.1 L51 [FD] [Set 1]</description>
+		<rom name="[OS] Towns System Software v2.1 L51 [Set 1].hdm" size="1261568" crc="a5bff98a" md5="a65e2ca828d4b343a0220bde0343d2df" sha1="6c5d2cb94fd7d7bb31e6d55ee8700403569e5831"/>
+	</machine>
+	<machine name="[OS] Towns System Software v2.1 L51 [HD] [300MB]">
+		<description>[OS] Towns System Software v2.1 L51 [HD] [300MB]</description>
+		<rom name="[OS] Towns System Software v2.1 L51 [300MB].h0" size="314572800" crc="a223a8c6" md5="ceae12a88d368e5b2a8c2b94127828d6" sha1="dcfd2263600477bc50d2e8f690a883359ec9c637"/>
+		<rom name="cmos.dat" size="8192" crc="09dd1af8" md5="86ba723ab413ce1b84df2a1650584191" sha1="9d4f3b5e2b2095fe0e432002ea8832f154cd96d7"/>
+	</machine>
+	<machine name="[OS] Towns System Software v2.1 L51 [HD] [640MB]">
+		<description>[OS] Towns System Software v2.1 L51 [HD] [640MB]</description>
+		<rom name="[OS] Towns System Software v2.1 L51 [640MB].h0" size="671088640" crc="38cc1c0c" md5="a27dbd489c34986b85d1f4de487b7f20" sha1="13d85a438c75d58d7bf96584edcb9da266e43f35"/>
+	</machine>
+	<machine name="[OS] Windows 3.1 L11 [CD] [redump.org]">
+		<description>[OS] Windows 3.1 L11 [CD] [redump.org]</description>
+		<rom name="[OS] Windows 3.1 L11 (Track 1).bin" size="210974400" crc="f1c0baee" md5="8705e3393989396162f3a783f82ea38d" sha1="b6b3a75c06dda9f2c7df10703b2640871db84d34"/>
+		<rom name="[OS] Windows 3.1 L11 (Track 2).bin" size="24296160" crc="84ca1c64" md5="a9697de9d633de946ba286c35ab53963" sha1="a5a76ce4664e31a431f0ede7fb595f68f91ea70e"/>
+		<rom name="[OS] Windows 3.1 L11 (Track 3).bin" size="33280800" crc="c715fa2a" md5="02bce69fd1beab8b5e3cb11c583f6b3d" sha1="d1f949e98d6721569224f487662b4be4379930d1"/>
+		<rom name="[OS] Windows 3.1 L11 (Track 4).bin" size="31203984" crc="ddc80416" md5="f99637fa3490d1047fddc975629e8353" sha1="e416686251a310ca37ab28d71422aa0a4b8aad5c"/>
+		<rom name="[OS] Windows 3.1 L11 (Track 5).bin" size="33687696" crc="6dc2adb0" md5="44bfd720f1899716eaa86cb04f3a5ea9" sha1="f15fbaa51ef779119ea20c2559b2942e0d660bea"/>
+		<rom name="[OS] Windows 3.1 L11 (Track 6).bin" size="24484320" crc="6003c48f" md5="64a2f33664aceec7f8188c907cc98360" sha1="06cf72ab1a8a97967cf505ebf63ababeb253f64d"/>
+		<rom name="[OS] Windows 3.1 L11 (Track 7).bin" size="66366384" crc="14c119e5" md5="ab983a7c47d13f222cb320799dda1799" sha1="f5fc90b31f35f2fff7fe2a71f66359baecb047dc"/>
+		<rom name="[OS] Windows 3.1 L11 (Track 8).bin" size="41049456" crc="7ac70a73" md5="0689216716f45af6f0f113f1d08abd19" sha1="a51becc2bb7686925441a2538f238aa151807006"/>
+		<rom name="[OS] Windows 3.1 L11.cue" size="894" crc="ab55a50e" md5="0a59943547f6afa6de614ebeec4993d8" sha1="3abf8be459bea341e253641bd230091fa6b2d02d"/>
+	</machine>
+	<machine name="[OS] Windows 95 [CD]">
+		<description>[OS] Windows 95 [CD]</description>
+		<rom name="[OS] Windows 95.bin" size="313792080" crc="31bba6de" md5="dafef01ee17bb2529e7c91ac52acb12e" sha1="97ec04fe48112e8964708d135a47da2a1f0bb528"/>
+		<rom name="[OS] Windows 95.cue" size="81" crc="b016d01a" md5="45963e145e53847f414ed0662e4fdf19" sha1="003db6f266b5a600bbdac108b93d31370a4f2672"/>
+	</machine>
+	<machine name="[OS] Windows 95 Driver Disc [CD] [b]">
+		<description>[OS] Windows 95 Driver Disc [CD] [b]</description>
+		<rom name="[OS] Windows 95 Driver Disc.iso" size="72810496" crc="c3c15997" md5="0767f6dbe74c42c336360c6cb9b71caa" sha1="861c7f4fd93c0f06b2883d0e969475cb53feee08"/>
+		<rom name="[OS] Windows 95 Driver Disc.mds" size="4314" crc="8482804e" md5="2c7f108565b59e60a13739ac9b689d2f" sha1="f6046f7570922a64d8f84712bdd5726bcbd747a1"/>
+	</machine>
+</datafile>
