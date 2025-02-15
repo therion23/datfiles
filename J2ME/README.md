@@ -11,7 +11,7 @@ Origin: https://bluemaxima.org/kahvibreak
 * Simple dir2dat of the brilliant Kahvibreak. 7'291 titles.
 ## (Non)GoodJ2ME
 Origin: https://rutracker.org/forum/viewtopic.php?t=6495176 and https://rutracker.org/forum/viewtopic.php?t=6495177
-* Simple dir2dat of two torrents. They contain 121'365 titles, out of which 70'656 are not found in JARchive.
+* Simple dir2dat of two torrents. They contain 121'365 titles, out of which about half are not found in JARchive. If you already have JARchive V7, you can use the V7DIFF versions of these.
 ## Nokia Java Apps/Games
 Origin: Unknown
 * Dirt old (February 2008) DATs containing 16'162 titles. However, this includes .jad files.
