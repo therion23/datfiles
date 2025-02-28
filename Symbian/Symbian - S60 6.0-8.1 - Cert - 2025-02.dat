@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Symbian S60 6.0-8.1 - With certificates - 2025-02</name>
+		<description>Symbian S60 software (with certificates) for s60v1 and S60v2</description>
+		<category>Standard DatFile</category>
+		<version>2025-02-28</version>
+		<date>2025-02-28</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Symbian - 'In My Head' @ Gods' of CHAOS v00.00 (2007) [BD7D]">
+		<description>Symbian - 'In My Head' @ Gods' of CHAOS v00.00 (2007) [BD7D]</description>
+		<rom name="Symbian - 'In My Head' @ Gods' of CHAOS v00.00 (2007) [BD7D].sis" size="1820746" crc="531700c7" md5="02b5593c380647c73c2e7b6f9175b331" sha1="ca7922344cb8404d2d50f78e9658be80153d591d"/>
+	</machine>
+	<machine name="Symbian - _cat_nseries v00.00 (2006) [78F5]">
+		<description>Symbian - _cat_nseries v00.00 (2006) [78F5]</description>
+		<rom name="Symbian - _cat_nseries v00.00 (2006) [78F5].sis" size="695340" crc="9c8d4e99" md5="20e7308996bb0c2b6bff959b9ec6d160" sha1="47736723c09b1681cf33375e6731da28cd201dbe"/>
+	</machine>
+	<machine name="Symbian - AACПлеер v01.01 (2005) [DA99]">
+		<description>Symbian - AACПлеер v01.01 (2005) [DA99]</description>
+		<rom name="Symbian - AACПлеер v01.01 (2005) [DA99].sis" size="422543" crc="6add8df6" md5="5e0965cd32899941f2f9743dbadef9af" sha1="e3f2fe9ec05030b7c06b63026e84ee7923af6111"/>
+	</machine>
+	<machine name="Symbian - AcGsmTrckr v01.14 (2005) [98AB]">
+		<description>Symbian - AcGsmTrckr v01.14 (2005) [98AB]</description>
+		<rom name="Symbian - AcGsmTrckr v01.14 (2005) [98AB].sis" size="45085" crc="cf2f2a6a" md5="6bfc4dc6d95bed87807486bed3c3ef98" sha1="1600b9d55a644285da3e8e48e7268c5ac1939662"/>
+	</machine>
+	<machine name="Symbian - AcGsmTrckr2 v02.20 (2007) [632E]">
+		<description>Symbian - AcGsmTrckr2 v02.20 (2007) [632E]</description>
+		<rom name="Symbian - AcGsmTrckr2 v02.20 (2007) [632E].sis" size="60115" crc="6046f1ea" md5="e65ba97f930a41465457157d3ceb16df" sha1="ecb534866c17f72351b68e5e98e1538161838517"/>
+	</machine>
+	<machine name="Symbian - Acronymic v01.00 (2005) [8F56]">
+		<description>Symbian - Acronymic v01.00 (2005) [8F56]</description>
+		<rom name="Symbian - Acronymic v01.00 (2005) [8F56].sis" size="487143" crc="a5d616ef" md5="55db82e9b54230a7ed3e8909383fc348" sha1="f92ba53af722d9a5489d04c6b8a55e8d888f0e6a"/>
+	</machine>
+	<machine name="Symbian - ADnota album v02.31 (2005) [A3BA]">
+		<description>Symbian - ADnota album v02.31 (2005) [A3BA]</description>
+		<rom name="Symbian - ADnota album v02.31 (2005) [A3BA].sis" size="243968" crc="7fd5b848" md5="25d795412edd526a0bc2d94622b5cc0c" sha1="f91cd52800deee8c636f785b3fc363834479c225"/>
+	</machine>
+	<machine name="Symbian - albireocam v01.02 (2005) [9688]">
+		<description>Symbian - albireocam v01.02 (2005) [9688]</description>
+		<rom name="Symbian - albireocam v01.02 (2005) [9688].sis" size="38893" crc="e43cb773" md5="7096930e7559051955fd94526589f420" sha1="86468e12d2d70f8ff5efa57a54f9b3fc41e3e48c"/>
+	</machine>
+	<machine name="Symbian - Alien_yellow_Nseries v00.00 (2006) [E371]">
+		<description>Symbian - Alien_yellow_Nseries v00.00 (2006) [E371]</description>
+		<rom name="Symbian - Alien_yellow_Nseries v00.00 (2006) [E371].sis" size="232092" crc="36295922" md5="6f4292687e865b2e09164f7948193288" sha1="cade9adf1392071289fafc9526159de0bd9a6c71"/>
+	</machine>
+	<machine name="Symbian - Anti-Virus v02.10 (2005) [33EA]">
+		<description>Symbian - Anti-Virus v02.10 (2005) [33EA]</description>
+		<rom name="Symbian - Anti-Virus v02.10 (2005) [33EA].sis" size="693190" crc="2b242362" md5="80013dd0942123588bc6c9c85e0ee8d3" sha1="34bf7e515bffdcb7b32e14e71fe2ff49c8c3f597"/>
+	</machine>
+	<machine name="Symbian - Anti-Virus v02.10 (2005) [AD84]">
+		<description>Symbian - Anti-Virus v02.10 (2005) [AD84]</description>
+		<rom name="Symbian - Anti-Virus v02.10 (2005) [AD84].sis" size="721393" crc="69802599" md5="557f983570cbb42ca9be9ac72ffb0e7d" sha1="c699b9f84f5ee17572e028bb1203177eb17fdb69"/>
+	</machine>
+	<machine name="Symbian - AppMan - Applikations Manager v01.04 (2004) [D3F5]">
+		<description>Symbian - AppMan - Applikations Manager v01.04 (2004) [D3F5]</description>
+		<rom name="Symbian - AppMan - Applikations Manager v01.04 (2004) [D3F5].sis" size="46722" crc="a16a3e5c" md5="e05a206f428fff122c5512b83e1d3653" sha1="0238605ff7d8416b517e6986aa4d3f9252c8e889"/>
+	</machine>
+	<machine name="Symbian - AquaAddiction@skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [07C5]">
+		<description>Symbian - AquaAddiction@skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [07C5]</description>
+		<rom name="Symbian - AquaAddiction@skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [07C5].sis" size="1071538" crc="cc98bbb5" md5="87820b35ffa55ae57fec76ef21a26cb8" sha1="70cf0b0c8dd1f97902d0be08a37c08a075b5ad3b"/>
+	</machine>
+	<machine name="Symbian - AquaLung@Chaos'Inc_ 2rd_Edition_FP3 v00.00 (2007) [8985]">
+		<description>Symbian - AquaLung@Chaos'Inc_ 2rd_Edition_FP3 v00.00 (2007) [8985]</description>
+		<rom name="Symbian - AquaLung@Chaos'Inc_ 2rd_Edition_FP3 v00.00 (2007) [8985].sis" size="1375172" crc="cd15ba6f" md5="40101a59fefc58230ec0d2e400a5429a" sha1="3aac8207cd5fb1c213cd23fd65ca83a95738d1c4"/>
+	</machine>
+	<machine name="Symbian - aquarium by alfa v00.00 (2006) [112F]">
+		<description>Symbian - aquarium by alfa v00.00 (2006) [112F]</description>
+		<rom name="Symbian - aquarium by alfa v00.00 (2006) [112F].sis" size="1777329" crc="cd69b144" md5="353dfdc8f2a0234e851f6bbd6173bb4d" sha1="7af5aeafb82e6ce9fe3e8790958a2922b752473c"/>
+	</machine>
+	<machine name="Symbian - Argus - RemoteSurveillance v02.01 (2005) [A433]">
+		<description>Symbian - Argus - RemoteSurveillance v02.01 (2005) [A433]</description>
+		<rom name="Symbian - Argus - RemoteSurveillance v02.01 (2005) [A433].sis" size="18408" crc="1735db64" md5="5a47bc661d65230537e534aabe3e1da4" sha1="5ba579eb0ff8543cfecd65f70b09bec3e761d2bc"/>
+	</machine>
+	<machine name="Symbian - August_rain_Nseries v00.00 (2006) [6647]">
+		<description>Symbian - August_rain_Nseries v00.00 (2006) [6647]</description>
+		<rom name="Symbian - August_rain_Nseries v00.00 (2006) [6647].sis" size="1056562" crc="de0e5830" md5="d5e711fb3b3de10887db58abee405288" sha1="b193b9401b142c3746469339b008ed78ac8df90d"/>
+	</machine>
+	<machine name="Symbian - badboy2_b5mwoS7E v00.00 (2006) [D302]">
+		<description>Symbian - badboy2_b5mwoS7E v00.00 (2006) [D302]</description>
+		<rom name="Symbian - badboy2_b5mwoS7E v00.00 (2006) [D302].sis" size="52364" crc="d7e5f65f" md5="ff797534ed9d32e587dc8c8078f9a955" sha1="0ce776633b718b538f25140c2c39f5d27cf0d315"/>
+	</machine>
+	<machine name="Symbian - Black&amp;RedV2_DHS - 2NDFP3 v00.00 (2009) [4F6E]">
+		<description>Symbian - Black&amp;RedV2_DHS - 2NDFP3 v00.00 (2009) [4F6E]</description>
+		<rom name="Symbian - Black&amp;RedV2_DHS - 2NDFP3 v00.00 (2009) [4F6E].sis" size="691309" crc="d0840f55" md5="28a3369791970f02d4eb7661ebefb1c9" sha1="ad4450beb6a95cd4c215fb559db38989314bd63d"/>
+	</machine>
+	<machine name="Symbian - BlackV2_DHS v00.00 (2009) [E2F9]">
+		<description>Symbian - BlackV2_DHS v00.00 (2009) [E2F9]</description>
+		<rom name="Symbian - BlackV2_DHS v00.00 (2009) [E2F9].sis" size="561756" crc="3f3291be" md5="6bf406019244c5a8e0d0eb9aa89043b2" sha1="4c1a193a85d7472f3b0a111f9493a5deb9137c53"/>
+	</machine>
+	<machine name="Symbian - Blue_theme_Nseries v00.00 (2006) [B6C8]">
+		<description>Symbian - Blue_theme_Nseries v00.00 (2006) [B6C8]</description>
+		<rom name="Symbian - Blue_theme_Nseries v00.00 (2006) [B6C8].sis" size="6375" crc="aebc568d" md5="65637f75404e551fa607d4491dec285e" sha1="10b7f54fd3152b056a2532eac7258f0b05e0c290"/>
+	</machine>
+	<machine name="Symbian - Call recorder v01.03 (2005) [6EC9]">
+		<description>Symbian - Call recorder v01.03 (2005) [6EC9]</description>
+		<rom name="Symbian - Call recorder v01.03 (2005) [6EC9].sis" size="79789" crc="c0417f12" md5="ed74456b89799dc2935ac0091d4f1857" sha1="b5fc7874abcdd34cb6e94686a2f7865b387a4b20"/>
+	</machine>
+	<machine name="Symbian - CallFlash v03.07 (2004) [E5B7]">
+		<description>Symbian - CallFlash v03.07 (2004) [E5B7]</description>
+		<rom name="Symbian - CallFlash v03.07 (2004) [E5B7].sis" size="174171" crc="cbae9909" md5="00a5fba604a39c2178b270c4f20cc01a" sha1="07e63cbd14bea0b87e41fe58b5e9ba8a74f57171"/>
+	</machine>
+	<machine name="Symbian - Caress_ÇHÆØ§@2nd_Edition_FP3_Ishtiaq_Saddam v00.00 (2007) [069D]">
+		<description>Symbian - Caress_ÇHÆØ§@2nd_Edition_FP3_Ishtiaq_Saddam v00.00 (2007) [069D]</description>
+		<rom name="Symbian - Caress_ÇHÆØ§@2nd_Edition_FP3_Ishtiaq_Saddam v00.00 (2007) [069D].sis" size="1439113" crc="69b48831" md5="2ac4c24d6c7640d5ca06f7e631d06fbf" sha1="529cc875caed91e2a10ba28f765ab85afbfbccb4"/>
+	</machine>
+	<machine name="Symbian - Cat_power_Nseries v00.00 (2006) [C07A]">
+		<description>Symbian - Cat_power_Nseries v00.00 (2006) [C07A]</description>
+		<rom name="Symbian - Cat_power_Nseries v00.00 (2006) [C07A].sis" size="114259" crc="d5840a0f" md5="9a319332bbd087fcb2af39b73c1c27b6" sha1="7565a566a36819daf4b48352b880ac40972dd62a"/>
+	</machine>
+	<machine name="Symbian - Certificate installation v01.00 (2004) [E8DD]">
+		<description>Symbian - Certificate installation v01.00 (2004) [E8DD]</description>
+		<rom name="Symbian - Certificate installation v01.00 (2004) [E8DD].sis" size="13033" crc="2a49d791" md5="37b9783f91afe6ac7cfc605d7682bf40" sha1="a0b8713218d7fab43f5200c8954b41c3c9e3d2a8"/>
+	</machine>
+	<machine name="Symbian - Challenge 100 Level v01.00 (2004) [79A1]">
+		<description>Symbian - Challenge 100 Level v01.00 (2004) [79A1]</description>
+		<rom name="Symbian - Challenge 100 Level v01.00 (2004) [79A1].sis" size="124654" crc="b201c8ef" md5="bcd2734cf7e0d02d39e02028166fcab5" sha1="e4b4781cf7b948faa54b0264b12b725cd551a462"/>
+	</machine>
+	<machine name="Symbian - Clarity_N70 v00.00 (2007) [223A]">
+		<description>Symbian - Clarity_N70 v00.00 (2007) [223A]</description>
+		<rom name="Symbian - Clarity_N70 v00.00 (2007) [223A].sis" size="171744" crc="0b6ef718" md5="dd13fa73b48c9464cfc9e1a7568aa049" sha1="590cc9419cbba4f49cb6e14ba4d8fc73ef00fb76"/>
+	</machine>
+	<machine name="Symbian - Cute Puppy v00.00 (2008) [B703]">
+		<description>Symbian - Cute Puppy v00.00 (2008) [B703]</description>
+		<rom name="Symbian - Cute Puppy v00.00 (2008) [B703].sis" size="55902" crc="7061bc48" md5="25ca24457eeea5983980ad1d9f079343" sha1="4ad4c3750fa7515bb9a69f342893107d6458421b"/>
+	</machine>
+	<machine name="Symbian - Dark_aurora_Nseries v00.00 (2006) [27D0]">
+		<description>Symbian - Dark_aurora_Nseries v00.00 (2006) [27D0]</description>
+		<rom name="Symbian - Dark_aurora_Nseries v00.00 (2006) [27D0].sis" size="466404" crc="ad4fdf22" md5="f680b35170c1ea3fa5d6e9a0b41d6046" sha1="7a7cd7085e55f33b547579d119b228ae6215826f"/>
+	</machine>
+	<machine name="Symbian - Diamonds v01.06 (2004) [D1D0]">
+		<description>Symbian - Diamonds v01.06 (2004) [D1D0]</description>
+		<rom name="Symbian - Diamonds v01.06 (2004) [D1D0].sis" size="299856" crc="528f0ca9" md5="e007217bfe951876e1c835df209214a6" sha1="68344dde97bef23036fa13a11a34618ce85b9e32"/>
+	</machine>
+	<machine name="Symbian - Digital_garden_Nseries v00.00 (2006) [DD30]">
+		<description>Symbian - Digital_garden_Nseries v00.00 (2006) [DD30]</description>
+		<rom name="Symbian - Digital_garden_Nseries v00.00 (2006) [DD30].sis" size="552277" crc="82ffa569" md5="62c7eb7586c9a9183ceed1398cef90d1" sha1="03dec7e8a987d47fe3b6de41266991558475553d"/>
+	</machine>
+	<machine name="Symbian - DocumentsToGo v02.00 (2005) [B66D]">
+		<description>Symbian - DocumentsToGo v02.00 (2005) [B66D]</description>
+		<rom name="Symbian - DocumentsToGo v02.00 (2005) [B66D].sis" size="1873784" crc="0ad25a56" md5="301b7ccc67d87a603c29e8868709b02c" sha1="75dd2cdf124a963c791ce4600b0da5dd15f34c59"/>
+	</machine>
+	<machine name="Symbian - DVDPlayer v01.22 (2005) [EE37]">
+		<description>Symbian - DVDPlayer v01.22 (2005) [EE37]</description>
+		<rom name="Symbian - DVDPlayer v01.22 (2005) [EE37].sis" size="227803" crc="94724217" md5="75024695d7e86d86ac01cb3cce674177" sha1="cac066416c219b2d4c0baffdc5c28253e5836662"/>
+	</machine>
+	<machine name="Symbian - E-Mail Küldő v01.23 (2005) [DD17]">
+		<description>Symbian - E-Mail Küldő v01.23 (2005) [DD17]</description>
+		<rom name="Symbian - E-Mail Küldő v01.23 (2005) [DD17].sis" size="21481" crc="8716569e" md5="e30c09247d761a571a4b2d2e5122e134" sha1="cf4c9fc078bfec30c24f259b3d0751979d9fa404"/>
+	</machine>
+	<machine name="Symbian - English Short v01.00 (2005) [1CB6]">
+		<description>Symbian - English Short v01.00 (2005) [1CB6]</description>
+		<rom name="Symbian - English Short v01.00 (2005) [1CB6].sis" size="570280" crc="594197e1" md5="f4a04b5ea5ae23d361608c756af080a7" sha1="e3f08e5a4fc3b88be27ded68fe383e43026ad638"/>
+	</machine>
+	<machine name="Symbian - Feeling_colorful_Nseries v00.00 (2006) [4FA4]">
+		<description>Symbian - Feeling_colorful_Nseries v00.00 (2006) [4FA4]</description>
+		<rom name="Symbian - Feeling_colorful_Nseries v00.00 (2006) [4FA4].sis" size="460002" crc="2a73a6be" md5="3d47ecb8d42618247ce71fd8e690f76a" sha1="859e63a75f638e344a78d2257f138c3d0a696dd8"/>
+	</machine>
+	<machine name="Symbian - Finanz v01.13 (2006) [EA28]">
+		<description>Symbian - Finanz v01.13 (2006) [EA28]</description>
+		<rom name="Symbian - Finanz v01.13 (2006) [EA28].sis" size="134127" crc="6a5a0212" md5="e57231e9cf5ec3aa1a2951960f342545" sha1="aa9779b6863b285df807408247c10e8d8b894802"/>
+	</machine>
+	<machine name="Symbian - Floofs v01.05 (2004) [8159]">
+		<description>Symbian - Floofs v01.05 (2004) [8159]</description>
+		<rom name="Symbian - Floofs v01.05 (2004) [8159].sis" size="79329" crc="237f2eac" md5="67b47904c2f5a6a7204d444b2e3b7830" sha1="1ab14550d9cf91125dc24037766e207dada4c721"/>
+	</machine>
+	<machine name="Symbian - Future_Funk_V2_@CHAOS_Inc._for_3rd Edition v00.00 (2007) [64B8]">
+		<description>Symbian - Future_Funk_V2_@CHAOS_Inc._for_3rd Edition v00.00 (2007) [64B8]</description>
+		<rom name="Symbian - Future_Funk_V2_@CHAOS_Inc._for_3rd Edition v00.00 (2007) [64B8].sis" size="2440607" crc="b6c1d75e" md5="d51a2ed0ae7f22f05f2a100b73713c8f" sha1="4f31f06c445cf93e86e130883b4c0db81951ac0c"/>
+	</machine>
+	<machine name="Symbian - Gold v00.00 (2007) [EA0F]">
+		<description>Symbian - Gold v00.00 (2007) [EA0F]</description>
+		<rom name="Symbian - Gold v00.00 (2007) [EA0F].sis" size="1169048" crc="5a089cae" md5="fe235a18b18a52a8d42df2a5c9cbd165" sha1="9610ff98bd822975cca2cb83de972ae0eb185079"/>
+	</machine>
+	<machine name="Symbian - Grace@skinned.tk_Chaos_2ndEition_FP3 v00.00 (2007) [628D]">
+		<description>Symbian - Grace@skinned.tk_Chaos_2ndEition_FP3 v00.00 (2007) [628D]</description>
+		<rom name="Symbian - Grace@skinned.tk_Chaos_2ndEition_FP3 v00.00 (2007) [628D].sis" size="619677" crc="3c4f2bc9" md5="ba59276eb249f08702b132180108bb95" sha1="8bcaa9449afc3dc23ad1b193e39035d4b7c83cc2"/>
+	</machine>
+	<machine name="Symbian - Green - dhanusaud - DI v00.00 (2009) [1BBB]">
+		<description>Symbian - Green - dhanusaud - DI v00.00 (2009) [1BBB]</description>
+		<rom name="Symbian - Green - dhanusaud - DI v00.00 (2009) [1BBB].sis" size="44096" crc="75a17314" md5="775d54717b20d8c3c82f26042d1ed4bf" sha1="4f5525d2bd2f86fa9860d5a5c582c17e05cba393"/>
+	</machine>
+	<machine name="Symbian - Greenaddiction@skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [67BE]">
+		<description>Symbian - Greenaddiction@skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [67BE]</description>
+		<rom name="Symbian - Greenaddiction@skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [67BE].sis" size="1101264" crc="c00b96db" md5="c0ab601b8fd5054d02022712c9f4e241" sha1="61ac50df70b3e634b2927920becb20a065cf6189"/>
+	</machine>
+	<machine name="Symbian - iDesk v01.33 (2005) [7A99]">
+		<description>Symbian - iDesk v01.33 (2005) [7A99]</description>
+		<rom name="Symbian - iDesk v01.33 (2005) [7A99].sis" size="208155" crc="e92dd623" md5="2d149bdd979407bb5f3c08d2ca21c6d3" sha1="d4eaaedd731581d500b7e6ca2bf4f5fbaa131ab0"/>
+	</machine>
+	<machine name="Symbian - IM+ Bluetooth for Series60 v.2 v01.06 (2005) [0BF9]">
+		<description>Symbian - IM+ Bluetooth for Series60 v.2 v01.06 (2005) [0BF9]</description>
+		<rom name="Symbian - IM+ Bluetooth for Series60 v.2 v01.06 (2005) [0BF9].sis" size="198530" crc="f53cec26" md5="c01fbb4978328528f18e8c4a84294709" sha1="4e26b3cfae5e3e3b094ff2facad2e15079baeb65"/>
+	</machine>
+	<machine name="Symbian - In_bloom_Nseries v00.00 (2006) [AC11]">
+		<description>Symbian - In_bloom_Nseries v00.00 (2006) [AC11]</description>
+		<rom name="Symbian - In_bloom_Nseries v00.00 (2006) [AC11].sis" size="352036" crc="fed0726a" md5="692ff576434b4069133435fa5eccac76" sha1="02f5ccebab3fff8e96683f426aa1595a2b851fae"/>
+	</machine>
+	<machine name="Symbian - InBloom@Skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [2015]">
+		<description>Symbian - InBloom@Skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [2015]</description>
+		<rom name="Symbian - InBloom@Skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [2015].sis" size="983152" crc="cf06b62d" md5="e7d48574ae601813b19ef95cb6623dab" sha1="6f90332f399ada990276bb7a16b7e67879af1172"/>
+	</machine>
+	<machine name="Symbian - Kiss n Rose v00.00 (2007) [E0DF]">
+		<description>Symbian - Kiss n Rose v00.00 (2007) [E0DF]</description>
+		<rom name="Symbian - Kiss n Rose v00.00 (2007) [E0DF].sis" size="613038" crc="fc08c91a" md5="661aa2100d9cf39da4866942b2b171b9" sha1="e0bc57be8d3143276d1de270bde535f4d941ed36"/>
+	</machine>
+	<machine name="Symbian - Launcher v01.07 (2005) [FBB3]">
+		<description>Symbian - Launcher v01.07 (2005) [FBB3]</description>
+		<rom name="Symbian - Launcher v01.07 (2005) [FBB3].sis" size="84057" crc="61cf489a" md5="2bd92704b16a5f6458312d019439f9cf" sha1="31e5a5a89412f970768d840c9b6bcebe004e3cc2"/>
+	</machine>
+	<machine name="Symbian - LesPaul@skinned.co.nr_Chaos@2ndEdition_FP3 v00.00 (2007) [5645]">
+		<description>Symbian - LesPaul@skinned.co.nr_Chaos@2ndEdition_FP3 v00.00 (2007) [5645]</description>
+		<rom name="Symbian - LesPaul@skinned.co.nr_Chaos@2ndEdition_FP3 v00.00 (2007) [5645].sis" size="1454054" crc="29a56289" md5="07ca2dc14644f9d138f1dc9d4f56852e" sha1="69b4ad6db59fd787e577d538c5631a44fb33a0cd"/>
+	</machine>
+	<machine name="Symbian - Lifeblog v01.51 (2005) [15B6]">
+		<description>Symbian - Lifeblog v01.51 (2005) [15B6]</description>
+		<rom name="Symbian - Lifeblog v01.51 (2005) [15B6].sis" size="507100" crc="e17d699b" md5="b70bb861b8860a61da85e0a8e0e4b3ca" sha1="b2b72d0812b7f87337c12c01ca1e3a55d8e0800c"/>
+	</machine>
+	<machine name="Symbian - Lumisoft v01.85 (2004) [D984]">
+		<description>Symbian - Lumisoft v01.85 (2004) [D984]</description>
+		<rom name="Symbian - Lumisoft v01.85 (2004) [D984].sis" size="368918" crc="089f3738" md5="36a055af5360ae7f0d515ea8450361a5" sha1="c7c066a749aaaff4ef1b01aee5d79393096405c6"/>
+	</machine>
+	<machine name="Symbian - Majesticlion v00.00 (2009) [AFD9]">
+		<description>Symbian - Majesticlion v00.00 (2009) [AFD9]</description>
+		<rom name="Symbian - Majesticlion v00.00 (2009) [AFD9].sis" size="530990" crc="9b44f8af" md5="274c293c7279ffbced45e2d6cbda9a14" sha1="5d135c6baeb3373df53e288793ac4909d03a7530"/>
+	</machine>
+	<machine name="Symbian - Mandala v01.00 (2005) [C460]">
+		<description>Symbian - Mandala v01.00 (2005) [C460]</description>
+		<rom name="Symbian - Mandala v01.00 (2005) [C460].sis" size="609370" crc="e5ede688" md5="ba7339bc8220fe9a19253670de940229" sha1="82a80dae5e6b3531e109e8829c8126464768609f"/>
+	</machine>
+	<machine name="Symbian - Mandrakelinux_Nseries v00.00 (2006) [EADE]">
+		<description>Symbian - Mandrakelinux_Nseries v00.00 (2006) [EADE]</description>
+		<rom name="Symbian - Mandrakelinux_Nseries v00.00 (2006) [EADE].sis" size="287370" crc="fe9748cf" md5="c008848fa14d300c3f6591f9d3fe5b03" sha1="4b77215b4e7027a2a95a853017fbe1c5c0d1d1a6"/>
+	</machine>
+	<machine name="Symbian - MO-Call v02.05 (2008) [E267]">
+		<description>Symbian - MO-Call v02.05 (2008) [E267]</description>
+		<rom name="Symbian - MO-Call v02.05 (2008) [E267].sis" size="52815" crc="f28d35cc" md5="6860d9ff39fa77f8d1d1e06d328e2f5f" sha1="0b31af3eeb95eaf1b70e289f642968e97f99dc65"/>
+	</machine>
+	<machine name="Symbian - MO-Call v02.05 (2008) [E440]">
+		<description>Symbian - MO-Call v02.05 (2008) [E440]</description>
+		<rom name="Symbian - MO-Call v02.05 (2008) [E440].sis" size="56156" crc="d270d920" md5="80482cd405aa3a655ee4ac76fc7b063e" sha1="b88b9e289a9b37f8cc25c57fe00e0516ba5fb30b"/>
+	</machine>
+	<machine name="Symbian - MOBILE ASSIST v03.00 (2007) [C8AA]">
+		<description>Symbian - MOBILE ASSIST v03.00 (2007) [C8AA]</description>
+		<rom name="Symbian - MOBILE ASSIST v03.00 (2007) [C8AA].sis" size="303411" crc="18e0b6bc" md5="52ebac17bd14b84567a80a0d3fec5a33" sha1="95b19ca28bae6d0fbe9d2536157af2e5cc9c4666"/>
+	</machine>
+	<machine name="Symbian - Mobile Security v02.30 (2006) [E656]">
+		<description>Symbian - Mobile Security v02.30 (2006) [E656]</description>
+		<rom name="Symbian - Mobile Security v02.30 (2006) [E656].sis" size="423634" crc="70d72a1e" md5="8dc07f94fb1c9aac34595055e389cfa2" sha1="c6c6ba4de5bdee3f278d570b0e05a5659e6bdc28"/>
+	</machine>
+	<machine name="Symbian - Mobipaq.com Stopwatch v01.04 (2004) [1736]">
+		<description>Symbian - Mobipaq.com Stopwatch v01.04 (2004) [1736]</description>
+		<rom name="Symbian - Mobipaq.com Stopwatch v01.04 (2004) [1736].sis" size="35347" crc="62d4eeb7" md5="81e268ec5895b27b0e9b6889ed0490b2" sha1="704a7eefac2da3858de204286c48616484031868"/>
+	</machine>
+	<machine name="Symbian - Mobipocket Reader v04.08 (2005) [467F]">
+		<description>Symbian - Mobipocket Reader v04.08 (2005) [467F]</description>
+		<rom name="Symbian - Mobipocket Reader v04.08 (2005) [467F].sis" size="597270" crc="3a90663a" md5="9894da7a69d9b3980adec389f78ea602" sha1="8a43a34c070261b7dc4926a0c9938d03d43e2222"/>
+	</machine>
+	<machine name="Symbian - Mocha VNC v01.03 (2005) [2F08]">
+		<description>Symbian - Mocha VNC v01.03 (2005) [2F08]</description>
+		<rom name="Symbian - Mocha VNC v01.03 (2005) [2F08].sis" size="64096" crc="53c4a2fc" md5="38b7f79230601ab1e96d5d34a474d994" sha1="4170af1d4b211a34b7589da2a9aa52e1ed4f897d"/>
+	</machine>
+	<machine name="Symbian - MotoRacer(Demo) v01.09 (2003) [4846]">
+		<description>Symbian - MotoRacer(Demo) v01.09 (2003) [4846]</description>
+		<rom name="Symbian - MotoRacer(Demo) v01.09 (2003) [4846].sis" size="771073" crc="5a986f2e" md5="8aba2ede4b7aa111a9e63e373f49a663" sha1="ee5126c3eed4dc475f9273622c75df00d9fc59b3"/>
+	</machine>
+	<machine name="Symbian - Mp3Player v02.40 (2008) [9072]">
+		<description>Symbian - Mp3Player v02.40 (2008) [9072]</description>
+		<rom name="Symbian - Mp3Player v02.40 (2008) [9072].sis" size="85358" crc="1e86dab5" md5="20c2b6bec1c9a48342947a5296d7be38" sha1="dddfb467c1fc7ce7cbbcb1fc6ffe547167a025cf"/>
+	</machine>
+	<machine name="Symbian - Mp3Плеер v03.41 (2005) [019B]">
+		<description>Symbian - Mp3Плеер v03.41 (2005) [019B]</description>
+		<rom name="Symbian - Mp3Плеер v03.41 (2005) [019B].sis" size="395539" crc="db9e91a2" md5="af128c7836908e9f01a86c67b95019bf" sha1="59ea0530ecfe280462c6165bb085e4a7cfa7bd99"/>
+	</machine>
+	<machine name="Symbian - Mullticolour s60v2 v00.00 (2009) [34A3]">
+		<description>Symbian - Mullticolour s60v2 v00.00 (2009) [34A3]</description>
+		<rom name="Symbian - Mullticolour s60v2 v00.00 (2009) [34A3].sis" size="359996" crc="5a641873" md5="89bbc1065d5d9e144c3ea4e97e940c0e" sha1="d813e3d4308db323cc82f92a04a504478f427310"/>
+	</machine>
+	<machine name="Symbian - NameLess_Pk1_ilvanno v00.00 (2006) [1981]">
+		<description>Symbian - NameLess_Pk1_ilvanno v00.00 (2006) [1981]</description>
+		<rom name="Symbian - NameLess_Pk1_ilvanno v00.00 (2006) [1981].sis" size="439809" crc="d84651b3" md5="846b42aeafbc8d8b85501cc65de40faf" sha1="7cb908da97b52cb5ceab54d010c62f32e4ce2f79"/>
+	</machine>
+	<machine name="Symbian - NCR-lettertype v02.00 (2001) [7EC9]">
+		<description>Symbian - NCR-lettertype v02.00 (2001) [7EC9]</description>
+		<rom name="Symbian - NCR-lettertype v02.00 (2001) [7EC9].sis" size="430201" crc="5b934236" md5="701dddf4be085847968b8ffb8a81e6d8" sha1="e4f261b755f746a217e575f401ff612faeaad5f1"/>
+	</machine>
+	<machine name="Symbian - NetFront v3.2 v01.00 (2004) [7C04]">
+		<description>Symbian - NetFront v3.2 v01.00 (2004) [7C04]</description>
+		<rom name="Symbian - NetFront v3.2 v01.00 (2004) [7C04].sis" size="2374633" crc="07dad43c" md5="6c08208ffb03ee3596d9c714b841cf41" sha1="cec1e38aecae92eed96c5f926caf4efa290809fe"/>
+	</machine>
+	<machine name="Symbian - Night_blue_Nseries v00.00 (2006) [43A9]">
+		<description>Symbian - Night_blue_Nseries v00.00 (2006) [43A9]</description>
+		<rom name="Symbian - Night_blue_Nseries v00.00 (2006) [43A9].sis" size="33472" crc="6a001abb" md5="ae942bcac4621e5dc3ad76e1c8fcb5fa" sha1="e4c98972f7511795652516bfa7cbdea6b8a06ca7"/>
+	</machine>
+	<machine name="Symbian - Nile_by_babi_Nseries v00.00 (2006) [06D1]">
+		<description>Symbian - Nile_by_babi_Nseries v00.00 (2006) [06D1]</description>
+		<rom name="Symbian - Nile_by_babi_Nseries v00.00 (2006) [06D1].sis" size="429195" crc="578626cd" md5="62943c46941a4f270649e6472cf34df1" sha1="032715be0361d6ec93ead0251e89171849fbb0b8"/>
+	</machine>
+	<machine name="Symbian - Nokia Neon Noise v00.00 (2008) [B6C0]">
+		<description>Symbian - Nokia Neon Noise v00.00 (2008) [B6C0]</description>
+		<rom name="Symbian - Nokia Neon Noise v00.00 (2008) [B6C0].sis" size="175224" crc="4e359103" md5="543adf95b180300039157011acfb6cd4" sha1="f202a8c2e63a3c517f4a99e7e5a95446e78bab6b"/>
+	</machine>
+	<machine name="Symbian - NSeries by Dhanusaud_Touch v00.00 (2009) [4B80]">
+		<description>Symbian - NSeries by Dhanusaud_Touch v00.00 (2009) [4B80]</description>
+		<rom name="Symbian - NSeries by Dhanusaud_Touch v00.00 (2009) [4B80].sis" size="290291" crc="b932087a" md5="0a2f42d27f4e4f1020fdb28219e824f6" sha1="e4643bac17439a2217d3e692b830394aaadc4b8b"/>
+	</machine>
+	<machine name="Symbian - NTM-lettertype v02.00 (2001) [C4E5]">
+		<description>Symbian - NTM-lettertype v02.00 (2001) [C4E5]</description>
+		<rom name="Symbian - NTM-lettertype v02.00 (2001) [C4E5].sis" size="416016" crc="201e006c" md5="4a166288f1397615ea0bdaccc6ee4189" sha1="27463aa50d170f6f67fa3b8f6cf389cf0b4f89f8"/>
+	</machine>
+	<machine name="Symbian - Opera v08.00 (2005) [DF13]">
+		<description>Symbian - Opera v08.00 (2005) [DF13]</description>
+		<rom name="Symbian - Opera v08.00 (2005) [DF13].sis" size="1523826" crc="5f7b635b" md5="fa933bcf5fb5b703927ebd3eba1ef77d" sha1="6ac9d13361a18f6f4327f44187a662857f53a730"/>
+	</machine>
+	<machine name="Symbian - OutBank v02.11 (2007) [A235]">
+		<description>Symbian - OutBank v02.11 (2007) [A235]</description>
+		<rom name="Symbian - OutBank v02.11 (2007) [A235].sis" size="480916" crc="7655dc85" md5="3ea9cbdd466b5b783c9ab9f536692e80" sha1="07b3712a7ce18641fe2a6c246d256f465c2635df"/>
+	</machine>
+	<machine name="Symbian - OutBank v02.11 (2007) [C507]">
+		<description>Symbian - OutBank v02.11 (2007) [C507]</description>
+		<rom name="Symbian - OutBank v02.11 (2007) [C507].sis" size="557496" crc="060536c0" md5="93cd10bee9c8ee224fa1fd4fe75d3475" sha1="dceb9930084f3dcb5c49d658b1515495b2753fb0"/>
+	</machine>
+	<machine name="Symbian - Pdf+ (Demo) v01.67 (2007) [2366]">
+		<description>Symbian - Pdf+ (Demo) v01.67 (2007) [2366]</description>
+		<rom name="Symbian - Pdf+ (Demo) v01.67 (2007) [2366].sis" size="827586" crc="cad76dc4" md5="a1a8083f7a34813293b5d93aaa33a689" sha1="5f5cf6173d4ef896628ca625e832e52bbab501c5"/>
+	</machine>
+	<machine name="Symbian - Pdf+ (Demo) v01.67 (2007) [748F]">
+		<description>Symbian - Pdf+ (Demo) v01.67 (2007) [748F]</description>
+		<rom name="Symbian - Pdf+ (Demo) v01.67 (2007) [748F].sis" size="827594" crc="72bd3f3c" md5="4eb787f8a15b5e21b874b61e0fbcbe72" sha1="809b2dabe7104ca79352ebc34c72ac7ccc74f976"/>
+	</machine>
+	<machine name="Symbian - Posh-Red-3rdV1n2-ChaosInc v00.00 (2008) [CDC4]">
+		<description>Symbian - Posh-Red-3rdV1n2-ChaosInc v00.00 (2008) [CDC4]</description>
+		<rom name="Symbian - Posh-Red-3rdV1n2-ChaosInc v00.00 (2008) [CDC4].sis" size="832481" crc="525bf220" md5="50c4e85a93f1f1708f8816bf038f6c31" sha1="a878ca0ee9c8eac3c84e38ba25b9965189c5ffdd"/>
+	</machine>
+	<machine name="Symbian - PowerLock v01.06 (2005) [09E9]">
+		<description>Symbian - PowerLock v01.06 (2005) [09E9]</description>
+		<rom name="Symbian - PowerLock v01.06 (2005) [09E9].sis" size="137481" crc="fe5af5d2" md5="1490dbbfe8526b14a3f4ccc663d5b7df" sha1="3dab2d4dcda6b0016d682e8aa445da1e8b1fdbeb"/>
+	</machine>
+	<machine name="Symbian - Puma Glassy S60v2 v00.00 (2009) [09A0]">
+		<description>Symbian - Puma Glassy S60v2 v00.00 (2009) [09A0]</description>
+		<rom name="Symbian - Puma Glassy S60v2 v00.00 (2009) [09A0].sis" size="205966" crc="2ab00f00" md5="095d4412a8eafe8a3ef295e8c1d54127" sha1="f147573f3af132f2a3afe4ee8aab8141f40dab9b"/>
+	</machine>
+	<machine name="Symbian - PuTTY v01.05 (2010) [9977]">
+		<description>Symbian - PuTTY v01.05 (2010) [9977]</description>
+		<rom name="Symbian - PuTTY v01.05 (2010) [9977].sis" size="208104" crc="8ece78f6" md5="319246a339e2a134aa9afcfcd51b467f" sha1="d794cde42e5dce27ef8e61465a16b6c18dc47d83"/>
+	</machine>
+	<machine name="Symbian - PW0501_action1 v00.00 (2004) [29F9]">
+		<description>Symbian - PW0501_action1 v00.00 (2004) [29F9]</description>
+		<rom name="Symbian - PW0501_action1 v00.00 (2004) [29F9].sis" size="152607" crc="620107e2" md5="4b9e34392998b1fef4620d4dc1c08b1c" sha1="754ba536938448c96acb46c3411a02de275eb532"/>
+	</machine>
+	<machine name="Symbian - Quickoffice v03.00 (2006) [8223]">
+		<description>Symbian - Quickoffice v03.00 (2006) [8223]</description>
+		<rom name="Symbian - Quickoffice v03.00 (2006) [8223].sis" size="1528047" crc="e3d91c9c" md5="3cc50ce1b1130d26b326fb301764330a" sha1="5b280c30cb76466aff4488ad9000b89fb165d29e"/>
+	</machine>
+	<machine name="Symbian - Rainbow_flower_Nseries v00.00 (2006) [B685]">
+		<description>Symbian - Rainbow_flower_Nseries v00.00 (2006) [B685]</description>
+		<rom name="Symbian - Rainbow_flower_Nseries v00.00 (2006) [B685].sis" size="125652" crc="c4ca8b1d" md5="69a72d560794f449bf0a23a70b0b7ed4" sha1="0978badd491c7a39098f59ef65318cdc753f854e"/>
+	</machine>
+	<machine name="Symbian - Red Skull By Daniel v00.00 (2011) [E457]">
+		<description>Symbian - Red Skull By Daniel v00.00 (2011) [E457]</description>
+		<rom name="Symbian - Red Skull By Daniel v00.00 (2011) [E457].sis" size="474989" crc="e94963d4" md5="5d0ce4f3fc34a79fe442a9228d55edc1" sha1="d881591e5b4a383e5fc5bc1287c249251392d266"/>
+	</machine>
+	<machine name="Symbian - Redhite-2ndv3-ChaosInc v00.00 (2008) [BA2D]">
+		<description>Symbian - Redhite-2ndv3-ChaosInc v00.00 (2008) [BA2D]</description>
+		<rom name="Symbian - Redhite-2ndv3-ChaosInc v00.00 (2008) [BA2D].sis" size="785681" crc="5509b274" md5="7b150bd131855dbb74c194da992d0a85" sha1="09da764e450283f400c968596f200e6bbe07f0a7"/>
+	</machine>
+	<machine name="Symbian - Redshift Commander v01.03 (2002) [757E]">
+		<description>Symbian - Redshift Commander v01.03 (2002) [757E]</description>
+		<rom name="Symbian - Redshift Commander v01.03 (2002) [757E].sis" size="64760" crc="9feb7315" md5="2b5be8e7afaae026ae1caeae70fb38d4" sha1="98c46c6fea4dac8f6e16290cfd894cf68e966475"/>
+	</machine>
+	<machine name="Symbian - Reflections_by_Chaos@2nd_Edition_FP_3 v00.00 (2007) [B635]">
+		<description>Symbian - Reflections_by_Chaos@2nd_Edition_FP_3 v00.00 (2007) [B635]</description>
+		<rom name="Symbian - Reflections_by_Chaos@2nd_Edition_FP_3 v00.00 (2007) [B635].sis" size="1531635" crc="f44f72f5" md5="477971d3b905231a03c3056b1afa92dc" sha1="8e68e3aae1f2bf547fdc5c8f0545f580d51cd15e"/>
+	</machine>
+	<machine name="Symbian - Relax_akd v00.00 (2007) [310B]">
+		<description>Symbian - Relax_akd v00.00 (2007) [310B]</description>
+		<rom name="Symbian - Relax_akd v00.00 (2007) [310B].sis" size="612853" crc="b5eb75ac" md5="e8bb6fe9f9744ee15a3bfbe6c9c4cb52" sha1="1c91d3e28bf86b77206a6b8ac687455264501d99"/>
+	</machine>
+	<machine name="Symbian - Revolvers@skinned.co.nr@Chaos_2ndEditionV3 v00.00 (2007) [ECC6]">
+		<description>Symbian - Revolvers@skinned.co.nr@Chaos_2ndEditionV3 v00.00 (2007) [ECC6]</description>
+		<rom name="Symbian - Revolvers@skinned.co.nr@Chaos_2ndEditionV3 v00.00 (2007) [ECC6].sis" size="1047899" crc="095ccfc3" md5="ee11faf980595a1fcf605134c1b3f988" sha1="a763cbf45da9cb3c080758d76f56cfd40b5b147a"/>
+	</machine>
+	<machine name="Symbian - RMRNotes v01.40 (2002) [06DF]">
+		<description>Symbian - RMRNotes v01.40 (2002) [06DF]</description>
+		<rom name="Symbian - RMRNotes v01.40 (2002) [06DF].sis" size="109170" crc="ee227e05" md5="4c4c109c7441cf7d17dd98648ce0a335" sha1="61fea239c139b97223b3d98177739909100a1b68"/>
+	</machine>
+	<machine name="Symbian - RoadSyncInstaller v01.00 (2005) [D755]">
+		<description>Symbian - RoadSyncInstaller v01.00 (2005) [D755]</description>
+		<rom name="Symbian - RoadSyncInstaller v01.00 (2005) [D755].sis" size="469876" crc="3d4ab689" md5="140cf071b9aca87fb214bcd420305dca" sha1="8b3ac413d0f5b31eb0f6479cd9e7891405889acd"/>
+	</machine>
+	<machine name="Symbian - RoadSyncInstaller v02.00 (2006) [36BB]">
+		<description>Symbian - RoadSyncInstaller v02.00 (2006) [36BB]</description>
+		<rom name="Symbian - RoadSyncInstaller v02.00 (2006) [36BB].sis" size="535374" crc="161f6fa6" md5="e32bf87a8877a652384689ccc506109a" sha1="c0600adace3a8b0434091f437c4e1ec3f9f5d041"/>
+	</machine>
+	<machine name="Symbian - RoadSyncInstaller v02.00 (2007) [BF23]">
+		<description>Symbian - RoadSyncInstaller v02.00 (2007) [BF23]</description>
+		<rom name="Symbian - RoadSyncInstaller v02.00 (2007) [BF23].sis" size="600181" crc="1c8844fc" md5="b34d099adaa23e94f7d9ae1dd2379c0c" sha1="ac0d37f6d5b1e52a56ee8f43043e133953722631"/>
+	</machine>
+	<machine name="Symbian - RU New Style 2 OS7 v00.00 (2006) [6D19]">
+		<description>Symbian - RU New Style 2 OS7 v00.00 (2006) [6D19]</description>
+		<rom name="Symbian - RU New Style 2 OS7 v00.00 (2006) [6D19].sis" size="269291" crc="b0820839" md5="3ab802d8cc4dfb25c8111694c4a46eda" sha1="81a84859b0e96143d0b55b7498d5911f39307cae"/>
+	</machine>
+	<machine name="Symbian - S80Bible v00.98 (2006) [8604]">
+		<description>Symbian - S80Bible v00.98 (2006) [8604]</description>
+		<rom name="Symbian - S80Bible v00.98 (2006) [8604].sis" size="66517" crc="98526867" md5="cf0bf3200bd51c1b1cd1a566df4db31e" sha1="65ef8cabf93eebad62d3a0e139f476f93e057aa3"/>
+	</machine>
+	<machine name="Symbian - S80Bible v00.98 (2006) [E2E6]">
+		<description>Symbian - S80Bible v00.98 (2006) [E2E6]</description>
+		<rom name="Symbian - S80Bible v00.98 (2006) [E2E6].sis" size="63934" crc="22cb2b4f" md5="987c4320e85c4d338ccc018cf2d54c53" sha1="0ad7d37f038a7d5611278bd5be14bf0aeb6b8c41"/>
+	</machine>
+	<machine name="Symbian - Samurai_Nseries v00.00 (2007) [0FF9]">
+		<description>Symbian - Samurai_Nseries v00.00 (2007) [0FF9]</description>
+		<rom name="Symbian - Samurai_Nseries v00.00 (2007) [0FF9].sis" size="1145339" crc="a5200efa" md5="a0c415b4e9f8c28bc06e97b51b9de2a9" sha1="0ea97eb7e519f58a826a3f2cdc4f8d78e986aa11"/>
+	</machine>
+	<machine name="Symbian - Scratt_Nseries v00.00 (2006) [1858]">
+		<description>Symbian - Scratt_Nseries v00.00 (2006) [1858]</description>
+		<rom name="Symbian - Scratt_Nseries v00.00 (2006) [1858].sis" size="497836" crc="583492ef" md5="fa8ccd976560a881b0418babebbd17c0" sha1="bbe273f5da59b56943b90fb75443593436d7b457"/>
+	</machine>
+	<machine name="Symbian - ScreenShareS60 v01.00 (2006) [B109]">
+		<description>Symbian - ScreenShareS60 v01.00 (2006) [B109]</description>
+		<rom name="Symbian - ScreenShareS60 v01.00 (2006) [B109].sis" size="74399" crc="dd2160e7" md5="b7664e3227e4f98b6106e499a22ebe5c" sha1="bc9eecd8756345ddc405c49241ba89fc38f5da75"/>
+	</machine>
+	<machine name="Symbian - Seraphim_angel_nseries v00.00 (2006) [D3F9]">
+		<description>Symbian - Seraphim_angel_nseries v00.00 (2006) [D3F9]</description>
+		<rom name="Symbian - Seraphim_angel_nseries v00.00 (2006) [D3F9].sis" size="491616" crc="d5e6fe46" md5="5b03940e4dc51f09ece001a00c6f3fbb" sha1="6497fd698220b19242b0ae1565c5bab9d44fbe31"/>
+	</machine>
+	<machine name="Symbian - Shoes.Inc.@Skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [9CE9]">
+		<description>Symbian - Shoes.Inc.@Skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [9CE9]</description>
+		<rom name="Symbian - Shoes.Inc.@Skinned.co.nr@Chaos@2ndEditionFP3 v00.00 (2007) [9CE9].sis" size="1551174" crc="1979c52f" md5="5b94a9a082f1f24620555c1515ebb615" sha1="973a3c07e1720c44b7419e747dbb0b16a49a1e3a"/>
+	</machine>
+	<machine name="Symbian - SideCalc v08.12 (2006) [6C2A]">
+		<description>Symbian - SideCalc v08.12 (2006) [6C2A]</description>
+		<rom name="Symbian - SideCalc v08.12 (2006) [6C2A].sis" size="69718" crc="3e0e2506" md5="4e82e794ea17cf0dc1fd6211f243bf0c" sha1="a33e63516106d3baee6cb2db54b90737046347ab"/>
+	</machine>
+	<machine name="Symbian - SnowFlake_Matalo v00.00 (2007) [125F]">
+		<description>Symbian - SnowFlake_Matalo v00.00 (2007) [125F]</description>
+		<rom name="Symbian - SnowFlake_Matalo v00.00 (2007) [125F].sis" size="599240" crc="9f5ba3d7" md5="e4de115c1fa4c4e79939ae0e12945f3d" sha1="5bbb997b185d32d129fee62d7653c01ae4aa7561"/>
+	</machine>
+	<machine name="Symbian - SONIC_Nseries v00.00 (2006) [BC5A]">
+		<description>Symbian - SONIC_Nseries v00.00 (2006) [BC5A]</description>
+		<rom name="Symbian - SONIC_Nseries v00.00 (2006) [BC5A].sis" size="654447" crc="72cebb9b" md5="1f777e6deb0542ca85d0e9b6fdceb594" sha1="cb7d4bc57e52a796934a9b1c1a3f10fb6cdbeadd"/>
+	</machine>
+	<machine name="Symbian - spiderman v00.00 (2007) [E399]">
+		<description>Symbian - spiderman v00.00 (2007) [E399]</description>
+		<rom name="Symbian - spiderman v00.00 (2007) [E399].sis" size="1495520" crc="8c618152" md5="66467cc79ef2fcb5d888b484fd26fe20" sha1="579cc81279e6a96cfa057e1116907eb4ccdcd0e3"/>
+	</machine>
+	<machine name="Symbian - SpriteBackup v01.00 (2004) [8F91]">
+		<description>Symbian - SpriteBackup v01.00 (2004) [8F91]</description>
+		<rom name="Symbian - SpriteBackup v01.00 (2004) [8F91].sis" size="51858" crc="3391bb9b" md5="bf24d68ca6adc51c1abdf2a4221b59bf" sha1="57d5ecdd58d19836792cc78f92375a2375a46f96"/>
+	</machine>
+	<machine name="Symbian - Summer_Rain_2006_Theme_by_KrisnaBP v00.00 (2006) [5931]">
+		<description>Symbian - Summer_Rain_2006_Theme_by_KrisnaBP v00.00 (2006) [5931]</description>
+		<rom name="Symbian - Summer_Rain_2006_Theme_by_KrisnaBP v00.00 (2006) [5931].sis" size="547601" crc="90c4c6fa" md5="f66892a8fb02b7e31789549647de76f2" sha1="57fafc4aad813f9c471ebfeb53caaa5d45bcdfc4"/>
+	</machine>
+	<machine name="Symbian - Super_Mario_Nseries v00.00 (2006) [5134]">
+		<description>Symbian - Super_Mario_Nseries v00.00 (2006) [5134]</description>
+		<rom name="Symbian - Super_Mario_Nseries v00.00 (2006) [5134].sis" size="1209726" crc="14ee090c" md5="3892d3973c46c918ae9237e3e9e612c8" sha1="88fa1df79977edb7a35bdbd30e6cf75fbbdd2c33"/>
+	</machine>
+	<machine name="Symbian - Symbian60_DS_2NDFP3 v00.00 (2008) [8C18]">
+		<description>Symbian - Symbian60_DS_2NDFP3 v00.00 (2008) [8C18]</description>
+		<rom name="Symbian - Symbian60_DS_2NDFP3 v00.00 (2008) [8C18].sis" size="455038" crc="c1a12a69" md5="3a4c0d3f1675ba6b671114425a5f7494" sha1="d61f0f564c2b273c215b2abce873f9e96339cfae"/>
+	</machine>
+	<machine name="Symbian - TaskMaster v01.01 (2004) [D857]">
+		<description>Symbian - TaskMaster v01.01 (2004) [D857]</description>
+		<rom name="Symbian - TaskMaster v01.01 (2004) [D857].sis" size="16750" crc="25324b06" md5="dc56aacacf37db8c8a4a5581828eb727" sha1="6fe9f8d0ca904b74780b5bb0985abfdd24aaace3"/>
+	</machine>
+	<machine name="Symbian - TibiaME v02.13 (2012) [DF5B]">
+		<description>Symbian - TibiaME v02.13 (2012) [DF5B]</description>
+		<rom name="Symbian - TibiaME v02.13 (2012) [DF5B].sis" size="703295" crc="369468ce" md5="37109a0303580f33a354288528f23e53" sha1="5ea92c546b67266821e2caf05823bf75a5b9841c"/>
+	</machine>
+	<machine name="Symbian - Tiny_tux_by_babi_Nseries v00.00 (2006) [A514]">
+		<description>Symbian - Tiny_tux_by_babi_Nseries v00.00 (2006) [A514]</description>
+		<rom name="Symbian - Tiny_tux_by_babi_Nseries v00.00 (2006) [A514].sis" size="268208" crc="a49c325a" md5="c990b53e2f3a4238acebd639444d18e9" sha1="941e431a23be2ecc5f2077e7c2b31acb5e67d550"/>
+	</machine>
+	<machine name="Symbian - Tom And Jerry By Daniel v00.00 (2010) [942E]">
+		<description>Symbian - Tom And Jerry By Daniel v00.00 (2010) [942E]</description>
+		<rom name="Symbian - Tom And Jerry By Daniel v00.00 (2010) [942E].sis" size="102338" crc="050e0832" md5="7d33121c8742263dd126b72431140c76" sha1="5e547d4b601283e09c3731049df2809bed36ec50"/>
+	</machine>
+	<machine name="Symbian - Tux_3d_Nseries v00.00 (2006) [D13B]">
+		<description>Symbian - Tux_3d_Nseries v00.00 (2006) [D13B]</description>
+		<rom name="Symbian - Tux_3d_Nseries v00.00 (2006) [D13B].sis" size="576161" crc="1b5919e2" md5="8bf394fdfcf61db94f627a2adf8a834c" sha1="27222c155b904316f0f8c99caa18c4866a528092"/>
+	</machine>
+	<machine name="Symbian - Tux_adam_Nseries v00.00 (2006) [87C8]">
+		<description>Symbian - Tux_adam_Nseries v00.00 (2006) [87C8]</description>
+		<rom name="Symbian - Tux_adam_Nseries v00.00 (2006) [87C8].sis" size="324601" crc="13ffe63e" md5="4b04d7366e8f6684511d7953b902c91c" sha1="224b272f6462d0c024cdc5b43686a079f3dea914"/>
+	</machine>
+	<machine name="Symbian - Tux_army_black_Nseries v00.00 (2006) [47E1]">
+		<description>Symbian - Tux_army_black_Nseries v00.00 (2006) [47E1]</description>
+		<rom name="Symbian - Tux_army_black_Nseries v00.00 (2006) [47E1].sis" size="126547" crc="1a2e7c00" md5="fda76a672cc14d062e875620effd9f70" sha1="5a0062f140650b5eed6a550117934e9a2070e4e3"/>
+	</machine>
+	<machine name="Symbian - UpCode v03.50 (2008) [8A61]">
+		<description>Symbian - UpCode v03.50 (2008) [8A61]</description>
+		<rom name="Symbian - UpCode v03.50 (2008) [8A61].sis" size="84263" crc="8b756aab" md5="a661d458fa83228910460226dbdac84f" sha1="d3b1d9fd2f8d10281256ff1d4e8cf99e835a18af"/>
+	</machine>
+	<machine name="Symbian - vista_black_theme_by_yuksel v00.00 (2008) [F9F9]">
+		<description>Symbian - vista_black_theme_by_yuksel v00.00 (2008) [F9F9]</description>
+		<rom name="Symbian - vista_black_theme_by_yuksel v00.00 (2008) [F9F9].sis" size="435728" crc="19414535" md5="0ae7d08f3a4ba8206085e054e601ef95" sha1="bc4bf4003e2573290f86b930183b3086df61ef03"/>
+	</machine>
+	<machine name="Symbian - Vistaqua_Nseries v00.00 (2006) [737A]">
+		<description>Symbian - Vistaqua_Nseries v00.00 (2006) [737A]</description>
+		<rom name="Symbian - Vistaqua_Nseries v00.00 (2006) [737A].sis" size="330841" crc="9625add0" md5="3606033de75d2f33bce66152a977e57f" sha1="298417f1b463c9a733e4acc926c301b03076e5a0"/>
+	</machine>
+	<machine name="Symbian - VRGooseHunter v01.01 (2004) [3CA3]">
+		<description>Symbian - VRGooseHunter v01.01 (2004) [3CA3]</description>
+		<rom name="Symbian - VRGooseHunter v01.01 (2004) [3CA3].sis" size="124212" crc="5812e7e3" md5="7e86aa834e0fc17da3ffb96c13919ba6" sha1="77bff98135dd57562b385d221d777fb01aedd428"/>
+	</machine>
+	<machine name="Symbian - WatchTones v01.03 (2005) [D6E6]">
+		<description>Symbian - WatchTones v01.03 (2005) [D6E6]</description>
+		<rom name="Symbian - WatchTones v01.03 (2005) [D6E6].sis" size="586281" crc="57eccd74" md5="24faf67c778b474085f36dd2c2009965" sha1="047a1aed8b582ed6c5f16a4005fd42c9c9b55e8a"/>
+	</machine>
+	<machine name="Symbian - Wayfinder 6 part 1 v06.50 (2006) [02BA]">
+		<description>Symbian - Wayfinder 6 part 1 v06.50 (2006) [02BA]</description>
+		<rom name="Symbian - Wayfinder 6 part 1 v06.50 (2006) [02BA].sis" size="101994" crc="c55f9ad3" md5="2ea7bde48306b936a519bbe96b3b628c" sha1="134a33fdb1290afec0ee4016211cfee90b49f637"/>
+	</machine>
+	<machine name="Symbian - Windows 7 v00.00 (2011) [062E]">
+		<description>Symbian - Windows 7 v00.00 (2011) [062E]</description>
+		<rom name="Symbian - Windows 7 v00.00 (2011) [062E].sis" size="690352" crc="30bb1bbd" md5="b848ad6cb744539b07edab41bab3fd8b" sha1="0a7149565405f09ba97c629f7249f9c1815592f9"/>
+	</machine>
+	<machine name="Symbian - WorldMate v01.05 (2009) [EC4A]">
+		<description>Symbian - WorldMate v01.05 (2009) [EC4A]</description>
+		<rom name="Symbian - WorldMate v01.05 (2009) [EC4A].sis" size="562620" crc="36e9ab1f" md5="61aa665d43662525c10245dda86080bd" sha1="314499fea9c7d6be4d42ce68fb6322a69169bd01"/>
+	</machine>
+	<machine name="Symbian - WorldMate v02.20 (2005) [0DDE]">
+		<description>Symbian - WorldMate v02.20 (2005) [0DDE]</description>
+		<rom name="Symbian - WorldMate v02.20 (2005) [0DDE].sis" size="421952" crc="00ab16e1" md5="0d08c8d417b800542c88ef8f6e949525" sha1="f2c3f779e5cccd49a598089429314dbecc109466"/>
+	</machine>
+	<machine name="Symbian - Xpress Music Player v00.00 (2010) [6F74]">
+		<description>Symbian - Xpress Music Player v00.00 (2010) [6F74]</description>
+		<rom name="Symbian - Xpress Music Player v00.00 (2010) [6F74].sis" size="108010" crc="17c44b33" md5="812d8d162d01702a7ec4816cafb33582" sha1="4865832353ba13d66d6aaea433b88d61e7f04856"/>
+	</machine>
+	<machine name="Symbian - Yahoo! v01.00 (2011) [A0B6]">
+		<description>Symbian - Yahoo! v01.00 (2011) [A0B6]</description>
+		<rom name="Symbian - Yahoo! v01.00 (2011) [A0B6].sis" size="119624" crc="e9fdd30a" md5="9fed4e307487dc0291f8a34e916ad068" sha1="6d1f7a98a05694c65f9f0ffcba21dc83bc908b2d"/>
+	</machine>
+	<machine name="Symbian - You&amp;WhoseArmy@Skinned.co.nr@Chaos_2ndEdition_FP3 v00.00 (2007) [EB8D]">
+		<description>Symbian - You&amp;WhoseArmy@Skinned.co.nr@Chaos_2ndEdition_FP3 v00.00 (2007) [EB8D]</description>
+		<rom name="Symbian - You&amp;WhoseArmy@Skinned.co.nr@Chaos_2ndEdition_FP3 v00.00 (2007) [EB8D].sis" size="820665" crc="a9a5c25f" md5="1468f7bfc940e81f1979c135c16f01f8" sha1="a5e56d975648915fcaa1b1a54c9620e51bc8c280"/>
+	</machine>
+	<machine name="Symbian - yueyu_56SeTY1v v00.00 (2007) [E53E]">
+		<description>Symbian - yueyu_56SeTY1v v00.00 (2007) [E53E]</description>
+		<rom name="Symbian - yueyu_56SeTY1v v00.00 (2007) [E53E].sis" size="215485" crc="002f264c" md5="5bcaacad603709626cff06f36ec2649d" sha1="f3a508c0f3199bddff0212dc880538b76536a655"/>
+	</machine>
+	<machine name="Symbian - Zi Finnish v01.04 (2006) [5184]">
+		<description>Symbian - Zi Finnish v01.04 (2006) [5184]</description>
+		<rom name="Symbian - Zi Finnish v01.04 (2006) [5184].sis" size="88734" crc="b42a677c" md5="71785429af3b9ac8735089b1bac25bca" sha1="9c48ec6b09bb68529285dd614172e150798bdd74"/>
+	</machine>
+	<machine name="Symbian - Zi Italian v01.04 (2006) [6B78]">
+		<description>Symbian - Zi Italian v01.04 (2006) [6B78]</description>
+		<rom name="Symbian - Zi Italian v01.04 (2006) [6B78].sis" size="93489" crc="81860b69" md5="eac70018cd90f90cec1da042664d7f91" sha1="5a954a1ec93eeb537329b80f2df20edbe01dba5e"/>
+	</machine>
+	<machine name="Symbian - Zi Norwegian v01.04 (2006) [8C97]">
+		<description>Symbian - Zi Norwegian v01.04 (2006) [8C97]</description>
+		<rom name="Symbian - Zi Norwegian v01.04 (2006) [8C97].sis" size="105030" crc="7e6c84fb" md5="3bc855c9c1e138c921be2dbe70ad0660" sha1="ff74faf95da8f9b34c38ba0ef81e34c15928e947"/>
+	</machine>
+	<machine name="Symbian - 恶夜demo v01.02 (2003) [367F]">
+		<description>Symbian - 恶夜demo v01.02 (2003) [367F]</description>
+		<rom name="Symbian - 恶夜demo v01.02 (2003) [367F].sis" size="403251" crc="3b43091a" md5="cc5c25ca921caddcdf27463aaf1fbd58" sha1="83878b34215182a972362b6dfbcf7cc00c7b8cd8"/>
+	</machine>
+	<machine name="Symbian - 深海垂钓 v00.09 (2002) [BB83]">
+		<description>Symbian - 深海垂钓 v00.09 (2002) [BB83]</description>
+		<rom name="Symbian - 深海垂钓 v00.09 (2002) [BB83].sis" size="911595" crc="8ff7d01d" md5="b7371837816d05960edd1c4cdd8845f5" sha1="dceb7ccdee9571c298421f83c3822d1c800c68b5"/>
+	</machine>
+</datafile>
