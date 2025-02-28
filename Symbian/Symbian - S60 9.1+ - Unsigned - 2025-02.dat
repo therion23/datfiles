@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Symbian S60 9.1+ - Unsigned - 2025-02</name>
+		<description>Symbian S60 software (unsigned) for s60v3 onwards</description>
+		<category>Standard DatFile</category>
+		<version>2025-02-28</version>
+		<date>2025-02-28</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name=" Vista Experience Ultimate Black BY MARYUS1010 v1.0.0 (2009-02-20)( Vista Experience Ultimate Black For 5800XM)[S60v5][{THEME}]">
+		<description> Vista Experience Ultimate Black BY MARYUS1010 v1.0.0 (2009-02-20)( Vista Experience Ultimate Black For 5800XM)[S60v5][{THEME}]</description>
+		<rom name=" Vista Experience Ultimate Black BY MARYUS1010 v1.0.0 (2009-02-20)( Vista Experience Ultimate Black For 5800XM)[S60v5][{THEME}].sis" size="3916636" crc="61b1f79e" md5="182c3e2f00b6ac7bfcfc44b5eacd93af" sha1="605ccdc1524dcabcab4134c4e90d007051916756"/>
+	</machine>
+	<machine name="3uni2_by v1.0.0 (2011-03-04)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>3uni2_by v1.0.0 (2011-03-04)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="3uni2_by v1.0.0 (2011-03-04)(Unknown Vendor)[S60v5][{THEME}].sis" size="2560400" crc="d7eb7b96" md5="3f3d19adb90d4fa9f3f2bf5372ff16a6" sha1="ccd3fb4f80e21eec7308d83007841143662b0677"/>
+	</machine>
+	<machine name="5800 skull v1.0.0 (2009-10-12)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>5800 skull v1.0.0 (2009-10-12)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="5800 skull v1.0.0 (2009-10-12)(Unknown Vendor)[S60v3][{THEME}].sis" size="188808" crc="913ae325" md5="89542c16e32f569fcbac7d4ee334e32f" sha1="f677fb753ad559c0e7de172072ada3a5a66d3dd5"/>
+	</machine>
+	<machine name="5CLocker v2.1.7 (2011-11-09)(AceMobile)[S60v3][S60v5][]">
+		<description>5CLocker v2.1.7 (2011-11-09)(AceMobile)[S60v3][S60v5][]</description>
+		<rom name="5CLocker v2.1.7 (2011-11-09)(AceMobile)[S60v3][S60v5][].sis" size="168716" crc="c74ba7ff" md5="47e54227c93c3d1995654032d71dde66" sha1="d47533deca40769c6472cc07f551e37cb91bc48e"/>
+	</machine>
+	<machine name="Aanex iMac v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Aanex iMac v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Aanex iMac v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="1404380" crc="78db40f5" md5="c06e180027512be05ebcd4ea153366aa" sha1="a4999e3b98ca3c0af8cb4490e05de68c42e4cc45"/>
+	</machine>
+	<machine name="Aanex iPhone v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Aanex iPhone v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Aanex iPhone v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="1400988" crc="203e6d5d" md5="f59901693db0fe6578caab14c71ccbcb" sha1="7e5772eed6e1bfccc20a30174a2da70d41a3ff37"/>
+	</machine>
+	<machine name="Aanex Lite v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Aanex Lite v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Aanex Lite v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="177840" crc="d0efee46" md5="fef9ab1ecf716857db53445cd99f29d0" sha1="ff2723f8f307aee4031528d5f81cbbd2b89578c8"/>
+	</machine>
+	<machine name="Aanex Steel v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Aanex Steel v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Aanex Steel v1.0.0 (2009-12-16)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="1719996" crc="810d6057" md5="d5ae97d8fe5f212fac2f2a01dc51cd1b" sha1="7ee754740afc445d6494161ca2ddad7877bdf495"/>
+	</machine>
+	<machine name="Abstract By wana7262 v1.0.0 (2009-10-01)(Wana7262)[S60v3][{THEME}]">
+		<description>Abstract By wana7262 v1.0.0 (2009-10-01)(Wana7262)[S60v3][{THEME}]</description>
+		<rom name="Abstract By wana7262 v1.0.0 (2009-10-01)(Wana7262)[S60v3][{THEME}].sis" size="1807656" crc="b3e4dcb8" md5="eba7d52d1254c958127f0dfa1993670b" sha1="ecbfb0e97a8a945b6d2fc459993d67820cab2cb2"/>
+	</machine>
+	<machine name="abstract v1.0.0 (2010-09-15)(Eddy)[S60v3][{THEME}]">
+		<description>abstract v1.0.0 (2010-09-15)(Eddy)[S60v3][{THEME}]</description>
+		<rom name="abstract v1.0.0 (2010-09-15)(Eddy)[S60v3][{THEME}].sis" size="401280" crc="e2cc0bb4" md5="c36c136dcc6a443ebfc665a5ae36358f" sha1="4acb2979b5e019989ba24a74e48d4020cebfe6ef"/>
+	</machine>
+	<machine name="abstract v1.0.0 (2011-12-17)(Unknown Vendor)[Belle][{THEME}]">
+		<description>abstract v1.0.0 (2011-12-17)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="abstract v1.0.0 (2011-12-17)(Unknown Vendor)[Belle][{THEME}].sis" size="1463836" crc="01185a50" md5="f21b620b49d6a7743b7863e8605955f6" sha1="1e38ddfc2be09d2286d93d67b74f8201f75219fe"/>
+	</machine>
+	<machine name="Abstract v1.0.0 (2013-06-14)(Unknown Vendor)[Belle][{THEME}]">
+		<description>Abstract v1.0.0 (2013-06-14)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="Abstract v1.0.0 (2013-06-14)(Unknown Vendor)[Belle][{THEME}].sis" size="743108" crc="6828a9a2" md5="429dda465295180dc37d746a5bd60e25" sha1="853eee0507ec1fd4519e3efe7efd950fd2511e65"/>
+	</machine>
+	<machine name="ABT_AnotherBlackTheme_IlBusted&amp;Sgura v1.0.0 (2010-03-06)(www.sgurathemes.it - - www.styletechblog.blogspot.com)[S60v3][{THEME}]">
+		<description>ABT_AnotherBlackTheme_IlBusted&amp;Sgura v1.0.0 (2010-03-06)(www.sgurathemes.it - - www.styletechblog.blogspot.com)[S60v3][{THEME}]</description>
+		<rom name="ABT_AnotherBlackTheme_IlBusted&amp;Sgura v1.0.0 (2010-03-06)(www.sgurathemes.it - - www.styletechblog.blogspot.com)[S60v3][{THEME}].sis" size="1217420" crc="deb92ef6" md5="a1a18b863e6a573cf9db39e250fbdac4" sha1="20033af74f3854a17649da6b089f7a581687c1ab"/>
+	</machine>
+	<machine name="Aeon - Design - s60v5 v1.0.0 (2009-12-01)(Pizero Design)[S60v3][S60v5][{THEME}]">
+		<description>Aeon - Design - s60v5 v1.0.0 (2009-12-01)(Pizero Design)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Aeon - Design - s60v5 v1.0.0 (2009-12-01)(Pizero Design)[S60v3][S60v5][{THEME}].sis" size="2520896" crc="999a9bd3" md5="2af780ae2b42b06120153fa5d3452432" sha1="cf3a6995c306678770606b1e8531c91a26a92d15"/>
+	</machine>
+	<machine name="Akatske naruto v1.0.0 (2010-08-11)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Akatske naruto v1.0.0 (2010-08-11)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Akatske naruto v1.0.0 (2010-08-11)(Unknown Vendor)[S60v3][{THEME}].sis" size="311072" crc="21fd1126" md5="48b191094a1cd37dc1b84dbdb90c729e" sha1="5c1470305713d9d19a4d6ade38f8397d8579bd2b"/>
+	</machine>
+	<machine name="Android by sreejith v1.0.0 (2010-11-22)(Zedge)[S60v3][S60v5][{THEME}]">
+		<description>Android by sreejith v1.0.0 (2010-11-22)(Zedge)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Android by sreejith v1.0.0 (2010-11-22)(Zedge)[S60v3][S60v5][{THEME}].sis" size="342612" crc="36f88937" md5="9e349c541d76b9af4ee16b041dc9ad7d" sha1="d490c7268251ec1d47fcf7f79ab0c0d8d617fd91"/>
+	</machine>
+	<machine name="Angry Birds by yans visit to yansthemes.wordpress.com for downloading another themes.. thanks ) v1.0.0 (2011-02-28)(yans themes)[S60v5][{THEME}]">
+		<description>Angry Birds by yans visit to yansthemes.wordpress.com for downloading another themes.. thanks ) v1.0.0 (2011-02-28)(yans themes)[S60v5][{THEME}]</description>
+		<rom name="Angry Birds by yans visit to yansthemes.wordpress.com for downloading another themes.. thanks ) v1.0.0 (2011-02-28)(yans themes)[S60v5][{THEME}].sis" size="2973752" crc="79fb23e5" md5="381eae0d14137543e5f6c0c7b74708c2" sha1="8d75c4bb17fdb69455fb2642c04171aee35b8832"/>
+	</machine>
+	<machine name="Anna Metro v2 v1.0.0 (2011-07-26)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Anna Metro v2 v1.0.0 (2011-07-26)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Anna Metro v2 v1.0.0 (2011-07-26)(Unknown Vendor)[S60v5][{THEME}].sis" size="406272" crc="9d0c5387" md5="55c9d28f071b59982b2c9eb93999c0d2" sha1="a69cadec733e523c4f8b5f82617eb8af98e7c310"/>
+	</machine>
+	<machine name="Anna Metro White v2 v1.0.0 (2011-07-27)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Anna Metro White v2 v1.0.0 (2011-07-27)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Anna Metro White v2 v1.0.0 (2011-07-27)(Unknown Vendor)[S60v5][{THEME}].sis" size="404272" crc="2bd626b9" md5="ba1e5ed657286c24980f169b90eeb931" sha1="8467d689b8fa51b41c9dc5c76899d5a150db3890"/>
+	</machine>
+	<machine name="Antigua v6.0.0 (2010-01-14)(FernyStyle)[NoDevice][{THEME}]">
+		<description>Antigua v6.0.0 (2010-01-14)(FernyStyle)[NoDevice][{THEME}]</description>
+		<rom name="Antigua v6.0.0 (2010-01-14)(FernyStyle)[NoDevice][{THEME}].sis" size="228432" crc="e48233e7" md5="649dcd9607f979dbc63f68f06cff500b" sha1="700fc88c8a163a532cf35e619a9dfe8281f6ffef"/>
+	</machine>
+	<machine name="Apple by Prathamesh v1.0.0 (2010-04-08)(olek21)[S60v3][S60v5][{THEME}]">
+		<description>Apple by Prathamesh v1.0.0 (2010-04-08)(olek21)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Apple by Prathamesh v1.0.0 (2010-04-08)(olek21)[S60v3][S60v5][{THEME}].sis" size="1973692" crc="547500af" md5="90e51de29bd942df102f0fa121a4636a" sha1="f4227bf8c6388f40a3ea4038b993538d7e1e87d4"/>
+	</machine>
+	<machine name="Apple v1.0.0 (2013-06-12)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Apple v1.0.0 (2013-06-12)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Apple v1.0.0 (2013-06-12)(Unknown Vendor)[S^3][{THEME}].sis" size="2643880" crc="25dcd3d9" md5="2a958282ad6f864435c3ac2c237a25b7" sha1="c154f5187797ebb15364408a13cff0ab9674e1a0"/>
+	</machine>
+	<machine name="apple-logo v1.0.0 (2013-07-19)(Unknown Vendor)[Belle][{THEME}]">
+		<description>apple-logo v1.0.0 (2013-07-19)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="apple-logo v1.0.0 (2013-07-19)(Unknown Vendor)[Belle][{THEME}].sis" size="403220" crc="664f4e57" md5="f937bf3448e22e5c9538ea948e6be6b9" sha1="a8edc0983e5808d1ec237d86fbd99a92041f0500"/>
+	</machine>
+	<machine name="AstonMartin02 v1.0.0 (2009-03-02)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>AstonMartin02 v1.0.0 (2009-03-02)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="AstonMartin02 v1.0.0 (2009-03-02)(Unknown Vendor)[S60v3][{THEME}].sis" size="2028764" crc="9732e756" md5="5a330767ca8b2e927af3e6623d643777" sha1="b89772b90c1a73868f0a5b80ffdb0f05c36f1611"/>
+	</machine>
+	<machine name="Audi v1.0.0 (2009-09-01)(omairdj)[S60v3][{THEME}]">
+		<description>Audi v1.0.0 (2009-09-01)(omairdj)[S60v3][{THEME}]</description>
+		<rom name="Audi v1.0.0 (2009-09-01)(omairdj)[S60v3][{THEME}].sis" size="185004" crc="4265be86" md5="40fe87c860d76b5b80268090324131b3" sha1="967cd7d0a75836dd46c4a442a7ba7c0fd0bcd08f"/>
+	</machine>
+	<machine name="Aurora_ovi_FGshah v1.0.0 (2011-09-21)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Aurora_ovi_FGshah v1.0.0 (2011-09-21)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Aurora_ovi_FGshah v1.0.0 (2011-09-21)(Unknown Vendor)[S^3][{THEME}].sis" size="1708636" crc="e4383c27" md5="a0fa5c4b3eece1fd26d8b2d4d74fc9f1" sha1="3b710a2c5228fd89d2a504908be7136fbb9a347f"/>
+	</machine>
+	<machine name="autumn love v1.0.0 (2011-03-21)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>autumn love v1.0.0 (2011-03-21)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="autumn love v1.0.0 (2011-03-21)(Unknown Vendor)[S60v5][{THEME}].sis" size="396224" crc="d6649549" md5="fd3ace7c1e30d0ab6692341c06555c56" sha1="d0a713e1067ac319dab2f688022df51ce9c210cc"/>
+	</machine>
+	<machine name="bart v1.0.0 (2008-04-01)(Vendor)[NoDevice][]">
+		<description>bart v1.0.0 (2008-04-01)(Vendor)[NoDevice][]</description>
+		<rom name="bart v1.0.0 (2008-04-01)(Vendor)[NoDevice][].sis" size="184648" crc="4e6b326d" md5="8c9696c1be071eba0ae2e13a96a52de5" sha1="621de0274cdc2e20ff05b43f450e50bf54b164c8"/>
+	</machine>
+	<machine name="Behemoth - Black Heart v10.0.1 (2012-06-07)(Black Heart Studios)[S60v3][S60v5][{THEME}]">
+		<description>Behemoth - Black Heart v10.0.1 (2012-06-07)(Black Heart Studios)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Behemoth - Black Heart v10.0.1 (2012-06-07)(Black Heart Studios)[S60v3][S60v5][{THEME}].sis" size="1345364" crc="af5048ee" md5="e677b4cc12e74e084c7c30057302ebd8" sha1="ee49c6e5b4daf777d88c92092fa5c9a97bf87807"/>
+	</machine>
+	<machine name="Behemoth v2 - Black Heart v10.0.2 (2012-06-07)(Black Heart Studios)[S60v3][S60v5][{THEME}]">
+		<description>Behemoth v2 - Black Heart v10.0.2 (2012-06-07)(Black Heart Studios)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Behemoth v2 - Black Heart v10.0.2 (2012-06-07)(Black Heart Studios)[S60v3][S60v5][{THEME}].sis" size="1529188" crc="adb295a3" md5="b2eea732b68be005d1827d2daa451d15" sha1="670faddb7ebd45c91702f432d19f32ede4a802ed"/>
+	</machine>
+	<machine name="Best Theme 1002 v1.0.0 (2014-02-11)(Unknown Vendor)[S60v3FP2][{THEME}]">
+		<description>Best Theme 1002 v1.0.0 (2014-02-11)(Unknown Vendor)[S60v3FP2][{THEME}]</description>
+		<rom name="Best Theme 1002 v1.0.0 (2014-02-11)(Unknown Vendor)[S60v3FP2][{THEME}].sis" size="298572" crc="ac24c085" md5="38047a0354db3ac8ebbef12b2f20266c" sha1="3d8ee5d3a2b4b5f8ca148700aa68917569ad568a"/>
+	</machine>
+	<machine name="best top v1.0.0 (2010-07-16)(Eddy)[S60v3][{THEME}]">
+		<description>best top v1.0.0 (2010-07-16)(Eddy)[S60v3][{THEME}]</description>
+		<rom name="best top v1.0.0 (2010-07-16)(Eddy)[S60v3][{THEME}].sis" size="155988" crc="bb234361" md5="417261f9ad1893729165cc4de6a9f6d9" sha1="ee431aa2b04634621146f9b0a8f916d2b4a6db5a"/>
+	</machine>
+	<machine name="best v1.0.0 (2010-07-13)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>best v1.0.0 (2010-07-13)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="best v1.0.0 (2010-07-13)(Unknown Vendor)[S60v3][{THEME}].sis" size="166956" crc="f08c1b1e" md5="8e871366ba9de48a4b1bfa9e4e522b5a" sha1="7c5536dfb3d547c9c0d92ea5264122c31c6ba0c5"/>
+	</machine>
+	<machine name="Black (Rose)_ FGshah v1.0.0 (2011-09-06)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Black (Rose)_ FGshah v1.0.0 (2011-09-06)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Black (Rose)_ FGshah v1.0.0 (2011-09-06)(Unknown Vendor)[S^3][{THEME}].sis" size="1404008" crc="3b45f83f" md5="bcaa1db14f20ea1f454ca1ca127b0538" sha1="d277f2d672924db58d073e36e2ec8e989cefa0c8"/>
+	</machine>
+	<machine name="Black Leather_Belle_FGshah v1.0.0 (2012-01-14)(Unknown Vendor)[Belle][{THEME}]">
+		<description>Black Leather_Belle_FGshah v1.0.0 (2012-01-14)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="Black Leather_Belle_FGshah v1.0.0 (2012-01-14)(Unknown Vendor)[Belle][{THEME}].sis" size="2211308" crc="99b5c6f4" md5="dda952c7bfc9cd3fbf40e56b2d26375f" sha1="770ca0260185ad551230a93589c8d8010ec5e9b7"/>
+	</machine>
+	<machine name="Black Leather_FGshah v1.0.0 (2012-01-14)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Black Leather_FGshah v1.0.0 (2012-01-14)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Black Leather_FGshah v1.0.0 (2012-01-14)(Unknown Vendor)[S^3][{THEME}].sis" size="2462232" crc="37185d92" md5="3673abfcc8ba538a659ba5d7bf4aa6be" sha1="0e85077bbe4e336de6ad09b6f802fa7580e5e02c"/>
+	</machine>
+	<machine name="Black v9 - Black Heart v9.0.1 (2012-03-30)(Black Heart Studios)[S60v3][S60v5][{THEME}]">
+		<description>Black v9 - Black Heart v9.0.1 (2012-03-30)(Black Heart Studios)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Black v9 - Black Heart v9.0.1 (2012-03-30)(Black Heart Studios)[S60v3][S60v5][{THEME}].sis" size="1214920" crc="0652da1b" md5="7e80c5a37ebf1ec71619ecea2a39f6b8" sha1="323408ef98824c0e74a4ed80b209135f41e61c8a"/>
+	</machine>
+	<machine name="Black&amp;Gold_by NaHiD v1.0.0 (2011-07-20)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Black&amp;Gold_by NaHiD v1.0.0 (2011-07-20)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Black&amp;Gold_by NaHiD v1.0.0 (2011-07-20)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="2717512" crc="5ac22f83" md5="11cf0a660801b3859f92f3a0fc3eada6" sha1="c80d21202eef5240043ce16ffa8be37699a4af82"/>
+	</machine>
+	<machine name="BlackGreen v1.0.0 (2011-04-04)(Автор Panatta)[S60v5][{THEME}]">
+		<description>BlackGreen v1.0.0 (2011-04-04)(Автор Panatta)[S60v5][{THEME}]</description>
+		<rom name="BlackGreen v1.0.0 (2011-04-04)(Автор Panatta)[S60v5][{THEME}].sis" size="4074920" crc="31e51e4d" md5="59d63a61569b18f8335f90d9174faf09" sha1="970cc0f2a62ef44b06ea8359abc24f7406d37486"/>
+	</machine>
+	<machine name="Blank v3 v1.0.0 (2010-12-16)(TaAndoor Developer©)[S60v3FP1][S60v3FP2][S60v5][S^3][{THEME}]">
+		<description>Blank v3 v1.0.0 (2010-12-16)(TaAndoor Developer©)[S60v3FP1][S60v3FP2][S60v5][S^3][{THEME}]</description>
+		<rom name="Blank v3 v1.0.0 (2010-12-16)(TaAndoor Developer©)[S60v3FP1][S60v3FP2][S60v5][S^3][{THEME}].sis" size="100256" crc="afe47013" md5="a3c026b167cc83321377ac447f7d4035" sha1="39c98c2fbcd9a4788e899b57b90c3fca7741a695"/>
+	</machine>
+	<machine name="Bleeped v1.0.0 (2011-04-02)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Bleeped v1.0.0 (2011-04-02)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Bleeped v1.0.0 (2011-04-02)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="993880" crc="0a519204" md5="c7f8b727ab4b57e93427669810b7d073" sha1="8d24657ce016badb0261c702c0ad945178f4a8cd"/>
+	</machine>
+	<machine name="Blue bub By GRK v1.0.0 (2010-03-31)(GRK)[S60v3][S60v5][{THEME}]">
+		<description>Blue bub By GRK v1.0.0 (2010-03-31)(GRK)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Blue bub By GRK v1.0.0 (2010-03-31)(GRK)[S60v3][S60v5][{THEME}].sis" size="2148980" crc="edac0da8" md5="336598e00cea711750f7d857fce16f3c" sha1="d4d47cbe20841b15df01a0f738f144dd990b9720"/>
+	</machine>
+	<machine name="BMW 5800 v1.0.0 (2010-05-07)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>BMW 5800 v1.0.0 (2010-05-07)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="BMW 5800 v1.0.0 (2010-05-07)(Unknown Vendor)[S60v3][{THEME}].sis" size="1356376" crc="ea0895f1" md5="cc72b1bcf33fa97dc3c81557598e53a6" sha1="fd122d6d1649eb052de3c159071a9456baa0a58d"/>
+	</machine>
+	<machine name="Bollywood Cool Star v8.2.0 (2012-05-14)(Vendor)[S60v3][]">
+		<description>Bollywood Cool Star v8.2.0 (2012-05-14)(Vendor)[S60v3][]</description>
+		<rom name="Bollywood Cool Star v8.2.0 (2012-05-14)(Vendor)[S60v3][].sis" size="1533252" crc="06bf7f60" md5="259ce9e7a23cd726d118984e5e279bfa" sha1="4cb6253cbfd6822175204b19b0bb84814ecc584f"/>
+	</machine>
+	<machine name="Bollywood Hangama v8.2.0 (2012-05-14)(Vendor)[S60v3][]">
+		<description>Bollywood Hangama v8.2.0 (2012-05-14)(Vendor)[S60v3][]</description>
+		<rom name="Bollywood Hangama v8.2.0 (2012-05-14)(Vendor)[S60v3][].sis" size="1533248" crc="f16c69ff" md5="f892487572dd93fbe7fa3ca06574ca9d" sha1="0a2892a40be4b5aa950dce9de258aaf46c57bdbc"/>
+	</machine>
+	<machine name="Bon By Mcmxc v1.0.0 (2011-02-27)(Nokia)[S60v3][S60v5][{THEME}]">
+		<description>Bon By Mcmxc v1.0.0 (2011-02-27)(Nokia)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Bon By Mcmxc v1.0.0 (2011-02-27)(Nokia)[S60v3][S60v5][{THEME}].sis" size="2436556" crc="9396d967" md5="b8c83ca19e8709b1d84f74a67b127cda" sha1="d2ce053603045ece7651d271f6975ff671161e5e"/>
+	</machine>
+	<machine name="Bonus v1.0.0 (2011-03-05)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Bonus v1.0.0 (2011-03-05)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Bonus v1.0.0 (2011-03-05)(Unknown Vendor)[S60v5][{THEME}].sis" size="1845220" crc="8ef69296" md5="9fc24476f2d77fe638267b65e044d61b" sha1="2939aded7f5b9b87cdb69795d6b0448a99d787cd"/>
+	</machine>
+	<machine name="bright_by sevimlibra v1.0.0 (2011-07-06)(sevimlibrad)[S60v3][S60v5][{THEME}]">
+		<description>bright_by sevimlibra v1.0.0 (2011-07-06)(sevimlibrad)[S60v3][S60v5][{THEME}]</description>
+		<rom name="bright_by sevimlibra v1.0.0 (2011-07-06)(sevimlibrad)[S60v3][S60v5][{THEME}].sis" size="2847224" crc="4831fcc6" md5="981f7ee6697008f46efbf7628d8c976c" sha1="3f5cc3594362346f3dc5ce7c2393d5ffc8da268f"/>
+	</machine>
+	<machine name="Bubble Madness Demo v1.0.0 (2007-11-20)(Vendor Name)[UIQ 3][]">
+		<description>Bubble Madness Demo v1.0.0 (2007-11-20)(Vendor Name)[UIQ 3][]</description>
+		<rom name="Bubble Madness Demo v1.0.0 (2007-11-20)(Vendor Name)[UIQ 3][].sis" size="839212" crc="88830740" md5="014f55b92594f8eb6e879bd16764df72" sha1="ea55e8abacabcb3bab5b3f1961e3dabf6fc731cc"/>
+	</machine>
+	<machine name="buble - by riajss v1.0.0 (2011-12-27)(riajs2010)[S^3][{THEME}]">
+		<description>buble - by riajss v1.0.0 (2011-12-27)(riajs2010)[S^3][{THEME}]</description>
+		<rom name="buble - by riajss v1.0.0 (2011-12-27)(riajs2010)[S^3][{THEME}].sis" size="1936012" crc="7bbb3938" md5="eb071e4f0961c53bd350ed866a2a9dff" sha1="8d1a8fbc7aec987501e52690ca2499c48e505fc4"/>
+	</machine>
+	<machine name="business fp1 by kof v1.0.0 (2010-10-16)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>business fp1 by kof v1.0.0 (2010-10-16)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="business fp1 by kof v1.0.0 (2010-10-16)(Unknown Vendor)[S60v3][{THEME}].sis" size="699948" crc="c8ea335e" md5="aac8028177b9b7495358ec80b9ef6e04" sha1="b66dfbeca627a84eb397cb617d9c5d7abcfc7aae"/>
+	</machine>
+	<machine name="CarbonOrange_S^3 v1.0.0 (2010-10-17)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>CarbonOrange_S^3 v1.0.0 (2010-10-17)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="CarbonOrange_S^3 v1.0.0 (2010-10-17)(Unknown Vendor)[S60v5][{THEME}].sis" size="1632424" crc="c1563e50" md5="334d4ac98ccf68fde4db187b06ed65ed" sha1="5b26098779ea81a769a1d7460739d26943ee9639"/>
+	</machine>
+	<machine name="City by K2877 v1.0.0 (2009-10-17)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>City by K2877 v1.0.0 (2009-10-17)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="City by K2877 v1.0.0 (2009-10-17)(Unknown Vendor)[S60v3][{THEME}].sis" size="141916" crc="655cf9d9" md5="8422539d1d40865f03ffc52e164beb97" sha1="0287c4205fe45fec90d0c5d170796d9065a5fca2"/>
+	</machine>
+	<machine name="Clarity_S^1_ v1.0.0 (2011-05-01)(Atlantis®)[S60v5][{THEME}]">
+		<description>Clarity_S^1_ v1.0.0 (2011-05-01)(Atlantis®)[S60v5][{THEME}]</description>
+		<rom name="Clarity_S^1_ v1.0.0 (2011-05-01)(Atlantis®)[S60v5][{THEME}].sis" size="1655288" crc="887acd86" md5="30afabd27f8164f228d812c2d338312b" sha1="65c8b9d508dd731fc17a8ba281a6ffbe5997efca"/>
+	</machine>
+	<machine name="ClockSS v0.4.0 (2006-11-14)(Space Software Studio)[NoDevice][]">
+		<description>ClockSS v0.4.0 (2006-11-14)(Space Software Studio)[NoDevice][]</description>
+		<rom name="ClockSS v0.4.0 (2006-11-14)(Space Software Studio)[NoDevice][].sis" size="20924" crc="5b41482e" md5="a187937de6ce3539ae342394fa6cba33" sha1="d05f1502adc4db39ef71fd8b2ec59b722afa8564"/>
+	</machine>
+	<machine name="CodeShadow (T) v1.0.0 (2011-07-22)(2010-2011)[S60v3][S60v5][S^3][{THEME}]">
+		<description>CodeShadow (T) v1.0.0 (2011-07-22)(2010-2011)[S60v3][S60v5][S^3][{THEME}]</description>
+		<rom name="CodeShadow (T) v1.0.0 (2011-07-22)(2010-2011)[S60v3][S60v5][S^3][{THEME}].sis" size="128800" crc="ca7d3f78" md5="e65dce08f5ff40a532885edf13745d40" sha1="c7551f5d386d97cbe8f68d0d6d50794bd97e520d"/>
+	</machine>
+	<machine name="Coffee by Arya v1.0.0 (2011-09-03)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Coffee by Arya v1.0.0 (2011-09-03)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Coffee by Arya v1.0.0 (2011-09-03)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="498200" crc="8ba775c0" md5="13262c25203eca9e19f5678c53960b7e" sha1="8ed357c26a0b0289fb88ccdec5d068a797e6dcc6"/>
+	</machine>
+	<machine name="Colors Abstract v1.0.0 (2011-11-19)(Unknown Vendor)[S60v5][{THEME}{FLASH}]">
+		<description>Colors Abstract v1.0.0 (2011-11-19)(Unknown Vendor)[S60v5][{THEME}{FLASH}]</description>
+		<rom name="Colors Abstract v1.0.0 (2011-11-19)(Unknown Vendor)[S60v5][{THEME}{FLASH}].sis" size="2381052" crc="5d63ab54" md5="5def026ff18365c1b4a39e190e5aa890" sha1="f5afd45db0d617b00bdfc58723ce686df9228c88"/>
+	</machine>
+	<machine name="Con sus esposas v4.0.0 (2010-02-18)(FernyStyle)[NoDevice][{THEME}]">
+		<description>Con sus esposas v4.0.0 (2010-02-18)(FernyStyle)[NoDevice][{THEME}]</description>
+		<rom name="Con sus esposas v4.0.0 (2010-02-18)(FernyStyle)[NoDevice][{THEME}].sis" size="172672" crc="1c5880d6" md5="0d1d631c569557e6c6bf8d85ea44bb78" sha1="318f9124e38903c1875546ca17ff77e4a904318b"/>
+	</machine>
+	<machine name="dark glow v1.0.0 (2011-05-28)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>dark glow v1.0.0 (2011-05-28)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="dark glow v1.0.0 (2011-05-28)(Unknown Vendor)[S60v5][{THEME}].sis" size="436136" crc="ee8ed0db" md5="25de80809d572f10d054f88a8c8eee87" sha1="be675192c6f6ab3db6af3b6213f540bddff0c904"/>
+	</machine>
+	<machine name="Dark Ice_Ovi_FGshah v1.0.0 (2011-09-13)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Dark Ice_Ovi_FGshah v1.0.0 (2011-09-13)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Dark Ice_Ovi_FGshah v1.0.0 (2011-09-13)(Unknown Vendor)[S^3][{THEME}].sis" size="1361728" crc="facf2ba9" md5="5dc0894288ab3c80d6b9d90ead7bf2f7" sha1="30bfa52b0a3be74236d22b577388526faad2a594"/>
+	</machine>
+	<machine name="Deepika_Padukone_4 v1.0.0 (2011-03-05)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Deepika_Padukone_4 v1.0.0 (2011-03-05)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Deepika_Padukone_4 v1.0.0 (2011-03-05)(Unknown Vendor)[S60v3][{THEME}].sis" size="884260" crc="8dca66c4" md5="b2f4e8c264474f61eb6ebe6f7e59805a" sha1="55a40d681e96d312254ee1899e9c6806328487d7"/>
+	</machine>
+	<machine name="Digital v1.0.0 (2010-04-29)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Digital v1.0.0 (2010-04-29)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Digital v1.0.0 (2010-04-29)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="599024" crc="4836e6a6" md5="43073ea9801b521b8f60b6dc9ec1e51b" sha1="54a01e28af4de87f0f430190d2ebe75a610478d4"/>
+	</machine>
+	<machine name="disable icons home v1.0.0 (2009-11-04)(disable icons home)[S60v5][]">
+		<description>disable icons home v1.0.0 (2009-11-04)(disable icons home)[S60v5][]</description>
+		<rom name="disable icons home v1.0.0 (2009-11-04)(disable icons home)[S60v5][].sis" size="211528" crc="2591c201" md5="1ff9de33d7bd0517230410b64e1a42d1" sha1="e18e8460677182692b43d2390659f70193219052"/>
+	</machine>
+	<machine name="Dodgin Diamond II v0.2.4 (2007-09-11)(AnotherGuest)[NoDevice][]">
+		<description>Dodgin Diamond II v0.2.4 (2007-09-11)(AnotherGuest)[NoDevice][]</description>
+		<rom name="Dodgin Diamond II v0.2.4 (2007-09-11)(AnotherGuest)[NoDevice][].sis" size="477724" crc="44cd64fe" md5="24705ac503a62a3d169fb0d6034902fd" sha1="c38919aaf728e3c302b5180fdc0a049fcd3ecb55"/>
+	</machine>
+	<machine name="DOME v1.0.0 (2010-06-12)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>DOME v1.0.0 (2010-06-12)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="DOME v1.0.0 (2010-06-12)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="1491700" crc="d7b17a0a" md5="cbe5cb8b5833a51a6e658499c64343e0" sha1="56acc4e08d259c74da6c4ed8aa0eb53d702680fc"/>
+	</machine>
+	<machine name="Dots Heart By Mcmxc v1.0.0 (2010-06-30)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Dots Heart By Mcmxc v1.0.0 (2010-06-30)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Dots Heart By Mcmxc v1.0.0 (2010-06-30)(Unknown Vendor)[S60v3][{THEME}].sis" size="92104" crc="fa00898e" md5="1ca8b485fdce130b46fd838e1324bb11" sha1="9d750e033de8805fb0ae47336cea2b1a16480660"/>
+	</machine>
+	<machine name="Dragon_V2_[T] v1.0.0 (2011-08-12)(Juslie)[S60v5][{THEME}]">
+		<description>Dragon_V2_[T] v1.0.0 (2011-08-12)(Juslie)[S60v5][{THEME}]</description>
+		<rom name="Dragon_V2_[T] v1.0.0 (2011-08-12)(Juslie)[S60v5][{THEME}].sis" size="3031508" crc="a481f697" md5="f66f9f674adf6ccac1978f2ee70031fa" sha1="1e485f1299c1ea6d27a87c401cf443e05de5c01e"/>
+	</machine>
+	<machine name="Elegant Black by Blacky v1.0.0 (2011-05-29)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Elegant Black by Blacky v1.0.0 (2011-05-29)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Elegant Black by Blacky v1.0.0 (2011-05-29)(Unknown Vendor)[S60v5][{THEME}].sis" size="1492776" crc="2c567cae" md5="c44e6bbf9c025f251eeec2dd4482313e" sha1="196437cc70f333aad16eca94a89aabd589118924"/>
+	</machine>
+	<machine name="Empty v0.1.0 (2011-04-26)(Unique Vendor name)[S60v3][]">
+		<description>Empty v0.1.0 (2011-04-26)(Unique Vendor name)[S60v3][]</description>
+		<rom name="Empty v0.1.0 (2011-04-26)(Unique Vendor name)[S60v3][].sis" size="1296" crc="6acac68c" md5="88e989daa571b28fb43603299cbb3951" sha1="73ade5330978b5bab1c3f257805e127f025861b5"/>
+	</machine>
+	<machine name="FANTASY_5TH_IND190 v1.0.0 (2010-10-24)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>FANTASY_5TH_IND190 v1.0.0 (2010-10-24)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="FANTASY_5TH_IND190 v1.0.0 (2010-10-24)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="2801724" crc="fcb5133e" md5="61c5ff2b2bbf0bdea7fa7f345a964f37" sha1="30f7b53efd1739f74b562687f766d75b69b05e2a"/>
+	</machine>
+	<machine name="fgf v1.0.0 (2010-09-14)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>fgf v1.0.0 (2010-09-14)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="fgf v1.0.0 (2010-09-14)(Unknown Vendor)[S60v3][{THEME}].sis" size="247984" crc="0b248425" md5="b1f3dd19cc63814c0a49b35962c47805" sha1="aaf56cd349fbba2fa6344e92f01d06c41fb6cf42"/>
+	</machine>
+	<machine name="fgfg v1.0.0 (2010-10-01)(eddy)[S60v3][{THEME}]">
+		<description>fgfg v1.0.0 (2010-10-01)(eddy)[S60v3][{THEME}]</description>
+		<rom name="fgfg v1.0.0 (2010-10-01)(eddy)[S60v3][{THEME}].sis" size="499528" crc="b33ddb54" md5="46a772b6715256986faf276dc748896d" sha1="2c5504c916cdc26d0b27b5f29586b923eec61e35"/>
+	</machine>
+	<machine name="fgfg v1.0.0 (2010-10-27)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>fgfg v1.0.0 (2010-10-27)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="fgfg v1.0.0 (2010-10-27)(Unknown Vendor)[S60v3][{THEME}].sis" size="513628" crc="5c78b5f0" md5="e0a5b7ec021b789e9e9e810a3328b92c" sha1="d1225a64da7552db8c73ac0910be11d08084e4a8"/>
+	</machine>
+	<machine name="Final v2.0.0 (2010-08-17)(Aatif Bilal)[S60v3][S60v5][]">
+		<description>Final v2.0.0 (2010-08-17)(Aatif Bilal)[S60v3][S60v5][]</description>
+		<rom name="Final v2.0.0 (2010-08-17)(Aatif Bilal)[S60v3][S60v5][].sis" size="1726812" crc="20f9e4ac" md5="d44977dc4aab775fae9f3d8b6cbf5c39" sha1="35f469d87cfcc94869825d5e94c0fe5b3c43db88"/>
+	</machine>
+	<machine name="Fine by winlog v1.0.0 (2011-04-20)(winlog)[S60v5][{THEME}]">
+		<description>Fine by winlog v1.0.0 (2011-04-20)(winlog)[S60v5][{THEME}]</description>
+		<rom name="Fine by winlog v1.0.0 (2011-04-20)(winlog)[S60v5][{THEME}].sis" size="2561916" crc="6fc85237" md5="87ab6088907ec87cd7882cd13c28d1b8" sha1="c97aa7788f073f81ecb544b0b5987c8b288c6265"/>
+	</machine>
+	<machine name="FireStorm v1.7 v1.0.0 (2009-08-25)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>FireStorm v1.7 v1.0.0 (2009-08-25)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="FireStorm v1.7 v1.0.0 (2009-08-25)(Unknown Vendor)[S60v3][{THEME}].sis" size="1009148" crc="6a32dd44" md5="c8c4f4a13326ed3779967baaf67d6c59" sha1="d7942f5a6daf327bdb36bd09601c9535bf2c190e"/>
+	</machine>
+	<machine name="Flight v1.1.0 (2008-06-18)(Wenym)[S60v3][]">
+		<description>Flight v1.1.0 (2008-06-18)(Wenym)[S60v3][]</description>
+		<rom name="Flight v1.1.0 (2008-06-18)(Wenym)[S60v3][].sis" size="1463256" crc="82242088" md5="584ec8d3c1d6fa2e278e045de8d9c169" sha1="bbe01d397c33a4766accccf97161b583c2993489"/>
+	</machine>
+	<machine name="FlipOfLife v0.4.1 (2008-06-18)(JimmPoo)[S60v3][{PyS60 v1.4.5}]">
+		<description>FlipOfLife v0.4.1 (2008-06-18)(JimmPoo)[S60v3][{PyS60 v1.4.5}]</description>
+		<rom name="FlipOfLife v0.4.1 (2008-06-18)(JimmPoo)[S60v3][{PyS60 v1.4.5}].sis" size="3296900" crc="7c246093" md5="1feeef16f88be04ee141783863d8ebb8" sha1="3b3e27423547688e05747db892a4276c5c8c6706"/>
+	</machine>
+	<machine name="Flower v1.0.0 (2010-03-17)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Flower v1.0.0 (2010-03-17)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Flower v1.0.0 (2010-03-17)(Unknown Vendor)[S60v3][{THEME}].sis" size="188648" crc="1dc971f8" md5="190e00c8cabd6093aed72012cf085bf0" sha1="7a2a48cf001e958c82d1948fe7879d12aacb7501"/>
+	</machine>
+	<machine name="Flower_ovi_FGshah v1.0.0 (2011-11-14)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Flower_ovi_FGshah v1.0.0 (2011-11-14)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Flower_ovi_FGshah v1.0.0 (2011-11-14)(Unknown Vendor)[S^3][{THEME}].sis" size="1766956" crc="f63001a7" md5="2a17adbb0d229e7bd4889bdb622eacb2" sha1="7fef47960eb00978eb65533514edbf9195016a35"/>
+	</machine>
+	<machine name="FourSquare v1.0.0 (2010-08-06)(ThinkChange)[S60v5][]">
+		<description>FourSquare v1.0.0 (2010-08-06)(ThinkChange)[S60v5][]</description>
+		<rom name="FourSquare v1.0.0 (2010-08-06)(ThinkChange)[S60v5][].sis" size="778492" crc="da26ec9f" md5="b5f3b918963824c8ee7cc4deffb25769" sha1="27024dcd1efb8a96443fea6d235865fcc195bbe0"/>
+	</machine>
+	<machine name="Freefalls_FGshah v1.0.0 (2011-09-05)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Freefalls_FGshah v1.0.0 (2011-09-05)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Freefalls_FGshah v1.0.0 (2011-09-05)(Unknown Vendor)[S^3][{THEME}].sis" size="1498620" crc="db460745" md5="5fc619a0840946dd790771f077642d46" sha1="6e1fdc1e41cfaecd4dd53ebb5697949be4fbd343"/>
+	</machine>
+	<machine name="Friends Forever By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Friends Forever By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Friends Forever By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}].sis" size="600448" crc="179304df" md5="1fd7ea28174076046031b15b921535d4" sha1="ab114749279e99083469298c882029ba3c7b5f92"/>
+	</machine>
+	<machine name="Frozen Bubble v0.94.1 (2007-08-28)(AnotherGuest)[NoDevice][]">
+		<description>Frozen Bubble v0.94.1 (2007-08-28)(AnotherGuest)[NoDevice][]</description>
+		<rom name="Frozen Bubble v0.94.1 (2007-08-28)(AnotherGuest)[NoDevice][].sis" size="1583356" crc="2d05fd47" md5="50111439dbf899d01ef594eb46c8582a" sha1="b58439be03af9fce75f79d452268c9e8cccb4860"/>
+	</machine>
+	<machine name="Gaara [T] by Jus v1.0.0 (2011-06-22)(Dhanusaud Symbian Arts)[S60v5][{THEME}]">
+		<description>Gaara [T] by Jus v1.0.0 (2011-06-22)(Dhanusaud Symbian Arts)[S60v5][{THEME}]</description>
+		<rom name="Gaara [T] by Jus v1.0.0 (2011-06-22)(Dhanusaud Symbian Arts)[S60v5][{THEME}].sis" size="944356" crc="cea7fe66" md5="aaa320893c383a6206b11aca18bbe0a6" sha1="6056e271cd41e1d9f8f05e0fb24f3d6a057ba1e6"/>
+	</machine>
+	<machine name="Game By Mcmxc v1.0.0 (2010-07-14)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Game By Mcmxc v1.0.0 (2010-07-14)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Game By Mcmxc v1.0.0 (2010-07-14)(Unknown Vendor)[S60v3][{THEME}].sis" size="111644" crc="19845907" md5="6b6ed7482049a300b5dc2faa87ad90e6" sha1="238a11a86d7ba2736af86625105ddec4224b3409"/>
+	</machine>
+	<machine name="Gamer By Mcmxc v1.0.0 (2010-06-24)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Gamer By Mcmxc v1.0.0 (2010-06-24)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Gamer By Mcmxc v1.0.0 (2010-06-24)(Unknown Vendor)[S60v3][{THEME}].sis" size="239124" crc="0614778e" md5="4856aa2db821d9adb5a7309a850e2d28" sha1="8ea5b9825387d8189b6b4fbd4d49c3dbd846f138"/>
+	</machine>
+	<machine name="Gangster By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Gangster By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Gangster By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}].sis" size="111148" crc="9465a540" md5="b983f3e1eced2d83116852c272024440" sha1="e0a711399653229a4241e718d2d67f66ff5f5d06"/>
+	</machine>
+	<machine name="ganpati v1.0.0 (2010-09-20)(eddy)[S60v3][{THEME}]">
+		<description>ganpati v1.0.0 (2010-09-20)(eddy)[S60v3][{THEME}]</description>
+		<rom name="ganpati v1.0.0 (2010-09-20)(eddy)[S60v3][{THEME}].sis" size="695144" crc="5dc69384" md5="29d96854b70dcb264f2cf49aaf99b105" sha1="71de1e3f255e337c61b61ccfad9e854d9ce4fff8"/>
+	</machine>
+	<machine name="ganpati v1.0.0 (2010-09-22)(eddy)[S60v3][{THEME}]">
+		<description>ganpati v1.0.0 (2010-09-22)(eddy)[S60v3][{THEME}]</description>
+		<rom name="ganpati v1.0.0 (2010-09-22)(eddy)[S60v3][{THEME}].sis" size="693280" crc="5f12f923" md5="7a1b0ca4878cdaf486203ba90047f48b" sha1="18fa0acef5d789ad3e3747511b83dce57aff1c27"/>
+	</machine>
+	<machine name="ganpati v1.0.0 (2010-09-24)(eddy)[S60v3][{THEME}]">
+		<description>ganpati v1.0.0 (2010-09-24)(eddy)[S60v3][{THEME}]</description>
+		<rom name="ganpati v1.0.0 (2010-09-24)(eddy)[S60v3][{THEME}].sis" size="611544" crc="fcf228e2" md5="8e10d8c51bf7f40590e3e2ed921546b1" sha1="448d0ac115b91de757579bf85ca6c4500cc9d323"/>
+	</machine>
+	<machine name="garah v1.0.0 (2010-09-17)(eddy)[S60v3][{THEME}]">
+		<description>garah v1.0.0 (2010-09-17)(eddy)[S60v3][{THEME}]</description>
+		<rom name="garah v1.0.0 (2010-09-17)(eddy)[S60v3][{THEME}].sis" size="775368" crc="bda30faa" md5="6db03357af362a2bc60216fdb0593dfa" sha1="2aa7df469959c0c4a597eeb16f1bded954d5f1e5"/>
+	</machine>
+	<machine name="garah v1.0.0 (2010-09-17)(Eddy)[S60v3][{THEME}]_1">
+		<description>garah v1.0.0 (2010-09-17)(Eddy)[S60v3][{THEME}]_1</description>
+		<rom name="garah v1.0.0 (2010-09-17)(Eddy)[S60v3][{THEME}]_1.sis" size="621280" crc="16d73174" md5="52a51f481060ac5d480627eb7a2162c3" sha1="560270cc4bcd2994557e80e96b85ff75d1d5da26"/>
+	</machine>
+	<machine name="garah v1.0.0 (2010-09-17)(Edson Strike)[S60v3][{THEME}]">
+		<description>garah v1.0.0 (2010-09-17)(Edson Strike)[S60v3][{THEME}]</description>
+		<rom name="garah v1.0.0 (2010-09-17)(Edson Strike)[S60v3][{THEME}].sis" size="642044" crc="d9737239" md5="c89d10179621cf8693844b2fa28d13fc" sha1="6e30c44a678c4f4485be7dea258f836127ed2e74"/>
+	</machine>
+	<machine name="garah v1.0.0 (2010-09-18)(eddy)[S60v3][{THEME}]">
+		<description>garah v1.0.0 (2010-09-18)(eddy)[S60v3][{THEME}]</description>
+		<rom name="garah v1.0.0 (2010-09-18)(eddy)[S60v3][{THEME}].sis" size="384244" crc="e609b530" md5="66ad159f02a3d69714402e2dbf43f405" sha1="e80b41af6b4498a362e5a74d625d117d32f3596a"/>
+	</machine>
+	<machine name="GGPod v1.1.0 (2009-11-29)(Vendor Name)[S60v3][]">
+		<description>GGPod v1.1.0 (2009-11-29)(Vendor Name)[S60v3][]</description>
+		<rom name="GGPod v1.1.0 (2009-11-29)(Vendor Name)[S60v3][].sis" size="2887584" crc="a245c594" md5="67ff951f608758e845b2a69cc7394f14" sha1="213f474e7e0b7fb6c22ed265078f70d335f376cc"/>
+	</machine>
+	<machine name="GLBenchmark v1.1.0 (2007-01-31)(Kishonti Informatics LP)[NoDevice][]">
+		<description>GLBenchmark v1.1.0 (2007-01-31)(Kishonti Informatics LP)[NoDevice][]</description>
+		<rom name="GLBenchmark v1.1.0 (2007-01-31)(Kishonti Informatics LP)[NoDevice][].sis" size="2126156" crc="4c294c90" md5="c02b3bd6e2d95c7386021133da856b00" sha1="3e2dafef729c57ecfeeca112b712d4ad98160c79"/>
+	</machine>
+	<machine name="gold52-sscob v1.0.0 (2009-07-28)(Unknown Vendor)[S60v3][{THEME}{FLASH}]">
+		<description>gold52-sscob v1.0.0 (2009-07-28)(Unknown Vendor)[S60v3][{THEME}{FLASH}]</description>
+		<rom name="gold52-sscob v1.0.0 (2009-07-28)(Unknown Vendor)[S60v3][{THEME}{FLASH}].sis" size="1565692" crc="51d30caf" md5="8215600a95c6b490dbb31d5f69a1c6e1" sha1="c7c95ed2c0dc6965be8c4e86ea6ba96cfc4469c9"/>
+	</machine>
+	<machine name="Got It All By Mcmxc v1.0.0 (2010-06-25)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Got It All By Mcmxc v1.0.0 (2010-06-25)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Got It All By Mcmxc v1.0.0 (2010-06-25)(Unknown Vendor)[S60v3][{THEME}].sis" size="536236" crc="ba56838e" md5="438f252f2ff9fec7817f9aeb48244eed" sha1="77c98971d6fe7303372d0b1e9ef27326757bc2d0"/>
+	</machine>
+	<machine name="Green By yao (ip) v1.0.0 (2010-04-29)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Green By yao (ip) v1.0.0 (2010-04-29)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Green By yao (ip) v1.0.0 (2010-04-29)(Unknown Vendor)[S60v3][{THEME}].sis" size="719980" crc="255a6b29" md5="1cf6455c20dbdb2c369d7886117b9dda" sha1="ece12b9ac6bf5a4f81c98b53c858eda0a116182d"/>
+	</machine>
+	<machine name="Green_ovi_FGshah v1.0.0 (2011-10-01)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Green_ovi_FGshah v1.0.0 (2011-10-01)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Green_ovi_FGshah v1.0.0 (2011-10-01)(Unknown Vendor)[S^3][{THEME}].sis" size="1865772" crc="8ddf8abb" md5="a0683d9fc557d04a4ea137b224a44e3e" sha1="a192d4aa9ee2f8b9e67b70a0e4a0f88e7a128ff7"/>
+	</machine>
+	<machine name="Gron By Mcmxc v1.0.0 (2011-02-27)(Nokia)[S60v3][S60v5][{THEME}]">
+		<description>Gron By Mcmxc v1.0.0 (2011-02-27)(Nokia)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Gron By Mcmxc v1.0.0 (2011-02-27)(Nokia)[S60v3][S60v5][{THEME}].sis" size="2626060" crc="07a29860" md5="dee218fe8b08942aa9879faa674a1fa3" sha1="ab21aaf52dc58c0d6e06a589529282592c1f576a"/>
+	</machine>
+	<machine name="Groove v1.0.0 (2011-05-04)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Groove v1.0.0 (2011-05-04)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Groove v1.0.0 (2011-05-04)(Unknown Vendor)[S60v5][{THEME}].sis" size="2396640" crc="f7fa2926" md5="72829ef9e3e5dd3cbdbb91ed100923d5" sha1="7b1c34e7578c5dff66a9df71a5a35d7acf9607ad"/>
+	</machine>
+	<machine name="Hatake kaka v1.0.0 (2010-09-14)(Unknown Vendor)[S60v3][{THEME}{FLASH}]">
+		<description>Hatake kaka v1.0.0 (2010-09-14)(Unknown Vendor)[S60v3][{THEME}{FLASH}]</description>
+		<rom name="Hatake kaka v1.0.0 (2010-09-14)(Unknown Vendor)[S60v3][{THEME}{FLASH}].sis" size="980552" crc="0bf9c069" md5="f858cbb136741df894a0c5342c94b17e" sha1="6fc3020f75a66e749e89ea0f77ebcf3ff35335b3"/>
+	</machine>
+	<machine name="HD Special3 v8.2.0 (2012-05-14)(Vendor)[S60v3][]">
+		<description>HD Special3 v8.2.0 (2012-05-14)(Vendor)[S60v3][]</description>
+		<rom name="HD Special3 v8.2.0 (2012-05-14)(Vendor)[S60v3][].sis" size="1533244" crc="18f21571" md5="fd5aaadb5e98d2d5db1ad0e3e9a999ef" sha1="980b34f5f658637b84a26ac0192257350d1ad18f"/>
+	</machine>
+	<machine name="HDRPhotoCamera - DSPDA™ v2.2.7 (2011-04-26)(Intellsys - DSPDA™)[S60v5][S^3][]">
+		<description>HDRPhotoCamera - DSPDA™ v2.2.7 (2011-04-26)(Intellsys - DSPDA™)[S60v5][S^3][]</description>
+		<rom name="HDRPhotoCamera - DSPDA™ v2.2.7 (2011-04-26)(Intellsys - DSPDA™)[S60v5][S^3][].sis" size="361312" crc="60aa4880" md5="1059181b40c5da7c88c7a9457719ab8b" sha1="addf5cccdc195f9b1d1b716fd91e0fb6f8b01b10"/>
+	</machine>
+	<machine name="Heart By Mcmxc v1.0.0 (2010-09-22)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Heart By Mcmxc v1.0.0 (2010-09-22)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Heart By Mcmxc v1.0.0 (2010-09-22)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="217944" crc="0d1df0cc" md5="96bdbc58ef6e2247ffbcd37ace5b6051" sha1="215d624e1036bea4c66900526b92566458e45ec3"/>
+	</machine>
+	<machine name="Hidden in Mind By Mcmxc v1.0.0 (2010-10-12)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Hidden in Mind By Mcmxc v1.0.0 (2010-10-12)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Hidden in Mind By Mcmxc v1.0.0 (2010-10-12)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="437128" crc="0d86cf53" md5="5908c18a10c43caa2b18640a97e311e9" sha1="9fca4054e6f53fb20640e4be3452d7b4bf990374"/>
+	</machine>
+	<machine name="Highway Nights v1.0.0 (2013-07-19)(Unknown Vendor)[Belle][{THEME}]">
+		<description>Highway Nights v1.0.0 (2013-07-19)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="Highway Nights v1.0.0 (2013-07-19)(Unknown Vendor)[Belle][{THEME}].sis" size="421772" crc="c38fc047" md5="7cb2404d551d4791d9cf827828442505" sha1="7fd2459e3088cd262a2f794a79407e4d7d8e03be"/>
+	</machine>
+	<machine name="HITMAN is BACK!! v1.0.0 (2009-09-26)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>HITMAN is BACK!! v1.0.0 (2009-09-26)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="HITMAN is BACK!! v1.0.0 (2009-09-26)(Unknown Vendor)[S60v3][{THEME}].sis" size="960560" crc="e0e31098" md5="f7ca28390e0217816bedda3d83029c7f" sha1="eb7704f076d64834ad8399c5f527f1aa35f57434"/>
+	</machine>
+	<machine name="Home Orange agg. v2.57 by PaxITIS v2.57.1 (2010-05-08)(PaxITIS)[S60v5][]">
+		<description>Home Orange agg. v2.57 by PaxITIS v2.57.1 (2010-05-08)(PaxITIS)[S60v5][]</description>
+		<rom name="Home Orange agg. v2.57 by PaxITIS v2.57.1 (2010-05-08)(PaxITIS)[S60v5][].sis" size="939124" crc="06a1fd91" md5="293e1accff64a71a3c4eab58823e4be5" sha1="19aa54f2d8c2dc3422ae280a772c68f628dd3054"/>
+	</machine>
+	<machine name="Honeycomb-Blue v1.0.0 (2011-04-04)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Honeycomb-Blue v1.0.0 (2011-04-04)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Honeycomb-Blue v1.0.0 (2011-04-04)(Unknown Vendor)[S60v5][{THEME}].sis" size="1399032" crc="736b0da8" md5="848e380869b521dc2d0734317739813e" sha1="b15b2cd74dd2b1606057f11b1f7fca4566d70774"/>
+	</machine>
+	<machine name="htc by kof v1.0.0 (2010-08-28)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>htc by kof v1.0.0 (2010-08-28)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="htc by kof v1.0.0 (2010-08-28)(Unknown Vendor)[S60v3][{THEME}].sis" size="1863476" crc="d1ab6243" md5="7ac7eca9566937b945f3f41278466b57" sha1="6f9bcefd2d4049560159521c5c6e4a1d6c1c0096"/>
+	</machine>
+	<machine name="hyper_glow__ v1.0.0 (2011-06-23)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>hyper_glow__ v1.0.0 (2011-06-23)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="hyper_glow__ v1.0.0 (2011-06-23)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="2104680" crc="9a0f16a3" md5="fc7779461982749cc110a57c1a1054c1" sha1="6d989e33fe65ede44c012085cbec07be2d23c7e2"/>
+	</machine>
+	<machine name="I Love You By Mcmxc v1.0.0 (2010-09-18)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>I Love You By Mcmxc v1.0.0 (2010-09-18)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="I Love You By Mcmxc v1.0.0 (2010-09-18)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="1368596" crc="d45a654d" md5="66a99f857aadfbeeae6865be6587e463" sha1="526a672e11e37e1128fc4d4becb4f7f4a03a1b85"/>
+	</machine>
+	<machine name="I love You v1.0.0 (2009-10-10)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>I love You v1.0.0 (2009-10-10)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="I love You v1.0.0 (2009-10-10)(Unknown Vendor)[S60v3][{THEME}].sis" size="1594856" crc="6079903f" md5="f253c70d01ff8f6b50c424df2d6c4803" sha1="b401c7eca7f4ed402b3fe45e8add0e8076154d0d"/>
+	</machine>
+	<machine name="iAndroid v1.0.0 (2011-04-27)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>iAndroid v1.0.0 (2011-04-27)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="iAndroid v1.0.0 (2011-04-27)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="983448" crc="7ed34892" md5="9f87fa351b4ed9ad8d604631efea7672" sha1="2007d09990ddd8ed7096440fe4fc572ad46867bf"/>
+	</machine>
+	<machine name="iBelle Black - Rugge v1.0.0 (2012-05-05)(Zulfi™)[Belle][{THEME}]">
+		<description>iBelle Black - Rugge v1.0.0 (2012-05-05)(Zulfi™)[Belle][{THEME}]</description>
+		<rom name="iBelle Black - Rugge v1.0.0 (2012-05-05)(Zulfi™)[Belle][{THEME}].sis" size="1974428" crc="99772955" md5="0df397c9f580646a1afcda555a57b91c" sha1="ce5cdf134a64b5684cb38a27a3f247a4a6506006"/>
+	</machine>
+	<machine name="IceBloxx v1.0.0 (2007-09-09)(SomeOne)[NoDevice][]">
+		<description>IceBloxx v1.0.0 (2007-09-09)(SomeOne)[NoDevice][]</description>
+		<rom name="IceBloxx v1.0.0 (2007-09-09)(SomeOne)[NoDevice][].sis" size="97220" crc="9039ecec" md5="313c4fccd3c78ffe1578b13599d4fa36" sha1="57a9851f8bc047ac803039c714e5c91ca7a570ad"/>
+	</machine>
+	<machine name="iMenu v1.0.0 (2009-07-06)(Sreejith)[S60v3][S60v5][{THEME}]">
+		<description>iMenu v1.0.0 (2009-07-06)(Sreejith)[S60v3][S60v5][{THEME}]</description>
+		<rom name="iMenu v1.0.0 (2009-07-06)(Sreejith)[S60v3][S60v5][{THEME}].sis" size="1668704" crc="5a04870a" md5="0a9775fe4b0ab9faf51719dd01a957b3" sha1="4d8bb5025a37656bda945fae0481ccaae7468d96"/>
+	</machine>
+	<machine name="Inclinometer v0.90.3 (2010-01-13)(JukkaSilvennoinen)[S60v3][]">
+		<description>Inclinometer v0.90.3 (2010-01-13)(JukkaSilvennoinen)[S60v3][]</description>
+		<rom name="Inclinometer v0.90.3 (2010-01-13)(JukkaSilvennoinen)[S60v3][].sis" size="36628" crc="1caba5f5" md5="6ba5e05d8a68bf540b109d8f9d4b6574" sha1="ee9fe905c6c2dd661a865565542fad5502c2afd2"/>
+	</machine>
+	<machine name="Innocent v1.0.0 (2011-05-01)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Innocent v1.0.0 (2011-05-01)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Innocent v1.0.0 (2011-05-01)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="2698240" crc="1671411a" md5="954eab7e3c2034daa512afb4ea103908" sha1="978327a3cbbb19a53b7d268ada6a95bb178bd61b"/>
+	</machine>
+	<machine name="iPad v1.2 by ishaque v1.0.0 (2010-04-24)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>iPad v1.2 by ishaque v1.0.0 (2010-04-24)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="iPad v1.2 by ishaque v1.0.0 (2010-04-24)(Unknown Vendor)[S60v3][{THEME}].sis" size="1154104" crc="a7a38092" md5="ffdb56583e460d1c4da478938990d934" sha1="579e2b4c2269daa46be175686302a77fa7dcea69"/>
+	</machine>
+	<machine name="ISA by Teyri v1.0.0 (2010-03-02)()[S60v5][{THEME}]">
+		<description>ISA by Teyri v1.0.0 (2010-03-02)()[S60v5][{THEME}]</description>
+		<rom name="ISA by Teyri v1.0.0 (2010-03-02)()[S60v5][{THEME}].sis" size="906372" crc="1dbc77aa" md5="9989b755d936772f0428ee942035891a" sha1="054cb9bc15167245b8b99a4bb62aadd92daf7bc8"/>
+	</machine>
+	<machine name="iSample1 v1.0.0 (2012-04-28)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>iSample1 v1.0.0 (2012-04-28)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="iSample1 v1.0.0 (2012-04-28)(Unknown Vendor)[S60v3][{THEME}].sis" size="3482392" crc="2daf2e31" md5="dcfb6a1d96da0e3a14e7d6bb9959aa25" sha1="947330b9f8d8036085af99016ed5bd3139498787"/>
+	</machine>
+	<machine name="iSlide Fix v4.0.6 (2010-10-24)(Syafda iSlide Monfajri)[S60v5][S60v3FP2][{THEME}]">
+		<description>iSlide Fix v4.0.6 (2010-10-24)(Syafda iSlide Monfajri)[S60v5][S60v3FP2][{THEME}]</description>
+		<rom name="iSlide Fix v4.0.6 (2010-10-24)(Syafda iSlide Monfajri)[S60v5][S60v3FP2][{THEME}].sis" size="2032612" crc="53184489" md5="8be69bbc5835864df29a227f3d6dc603" sha1="4939c4a032d858cbc377492465a7bd24d0be9a44"/>
+	</machine>
+	<machine name="Itachi by Jus (T) v1.0.0 (2011-05-01)(NovaG)[S60v5][{THEME}]">
+		<description>Itachi by Jus (T) v1.0.0 (2011-05-01)(NovaG)[S60v5][{THEME}]</description>
+		<rom name="Itachi by Jus (T) v1.0.0 (2011-05-01)(NovaG)[S60v5][{THEME}].sis" size="1467612" crc="e00b2e00" md5="c2baaecdd43dd9b2629aae51ec6e58a0" sha1="cb239d1de48f7cabb9b8c8e821cf28a89419b923"/>
+	</machine>
+	<machine name="iWhite OS4 by Ntv_79 v1.0.0 (2010-05-11)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>iWhite OS4 by Ntv_79 v1.0.0 (2010-05-11)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="iWhite OS4 by Ntv_79 v1.0.0 (2010-05-11)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="4570008" crc="96b3e4d9" md5="7ea0263f24639e4f6a9e936d52032e10" sha1="35bec844737edc5799e8715c093b911782aecf29"/>
+	</machine>
+	<machine name="iWhite OS4 by Ntv_79 v1.0.0 (2010-05-11)(Unknown Vendor)[S60v3][S60v5][{THEME}]_1">
+		<description>iWhite OS4 by Ntv_79 v1.0.0 (2010-05-11)(Unknown Vendor)[S60v3][S60v5][{THEME}]_1</description>
+		<rom name="iWhite OS4 by Ntv_79 v1.0.0 (2010-05-11)(Unknown Vendor)[S60v3][S60v5][{THEME}]_1.sis" size="4569984" crc="a88c5c73" md5="746f09bd115235e1a7c95181e90c4bb0" sha1="17ef9c84db41d8e53a2f6cbc99280f2c3cac695e"/>
+	</machine>
+	<machine name="Jack Daniels v1.0.0 (2009-05-23)(Free)[S60v3][{THEME}{FLASH}]">
+		<description>Jack Daniels v1.0.0 (2009-05-23)(Free)[S60v3][{THEME}{FLASH}]</description>
+		<rom name="Jack Daniels v1.0.0 (2009-05-23)(Free)[S60v3][{THEME}{FLASH}].sis" size="1683720" crc="f4994f9a" md5="d662920291e0a5378b376635486dd806" sha1="b548df2ee22c9cfdea0e8016bc9186fd2c369d91"/>
+	</machine>
+	<machine name="Java VM Args Modifier v1.0.0 (2008-06-20)(Shinovon)[S60v3][]">
+		<description>Java VM Args Modifier v1.0.0 (2008-06-20)(Shinovon)[S60v3][]</description>
+		<rom name="Java VM Args Modifier v1.0.0 (2008-06-20)(Shinovon)[S60v3][].sis" size="3956" crc="cf6607e5" md5="f828f4e196fc16bb99abedbd0d024d39" sha1="e46eabaa0268ff52037224f4677f274b420155e7"/>
+	</machine>
+	<machine name="Java VM Args Modifier v1.0.0 (2008-06-20)(Shinovon)[S60v5][S60v3FP2][]">
+		<description>Java VM Args Modifier v1.0.0 (2008-06-20)(Shinovon)[S60v5][S60v3FP2][]</description>
+		<rom name="Java VM Args Modifier v1.0.0 (2008-06-20)(Shinovon)[S60v5][S60v3FP2][].sis" size="3948" crc="e1ffdc18" md5="6b4dd616af8f76aead4fcd0121c0705b" sha1="3a477c19414fd06b5b5b9d1ff001cd7885d8d42f"/>
+	</machine>
+	<machine name="Jelly Bean v1.0.0 (2013-01-14)(suCKs69)[S60v5][{THEME}]">
+		<description>Jelly Bean v1.0.0 (2013-01-14)(suCKs69)[S60v5][{THEME}]</description>
+		<rom name="Jelly Bean v1.0.0 (2013-01-14)(suCKs69)[S60v5][{THEME}].sis" size="2932484" crc="54b35b49" md5="61a24dd0f318e5dc90150e4b8c6988c9" sha1="3179e66f27a0858e72d688718edd2788b20aa566"/>
+	</machine>
+	<machine name="Jingmask v1.0.0 (2013-03-31)(Unknown Vendor)[Belle][{THEME}]">
+		<description>Jingmask v1.0.0 (2013-03-31)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="Jingmask v1.0.0 (2013-03-31)(Unknown Vendor)[Belle][{THEME}].sis" size="1892448" crc="e963c7b6" md5="3bd1601d7f7b3ada768c4a192cce31a5" sha1="2199690628ff49079c1a9eae91a3eeefe0ce9472"/>
+	</machine>
+	<machine name="John Cena by yans v1.0.0 (2011-05-10)(yans themes)[S60v5][{THEME}]">
+		<description>John Cena by yans v1.0.0 (2011-05-10)(yans themes)[S60v5][{THEME}]</description>
+		<rom name="John Cena by yans v1.0.0 (2011-05-10)(yans themes)[S60v5][{THEME}].sis" size="2520916" crc="4f48e367" md5="1d5bb2d82400fd2addf162a75b5fec42" sha1="edafbd8289af6e562add732691006070efb538ef"/>
+	</machine>
+	<machine name="k v1.0.0 (2010-08-14)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>k v1.0.0 (2010-08-14)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="k v1.0.0 (2010-08-14)(Unknown Vendor)[S60v3][{THEME}].sis" size="147132" crc="f2e2ce53" md5="f553998d536476f5d6144138966cff7a" sha1="7420d3d28c8b35edd6d8b8b16b066f367f7f378e"/>
+	</machine>
+	<machine name="KING OF KINGS v2.0.64 (2010-09-17)(KING OF KINGS)[S60v3][]">
+		<description>KING OF KINGS v2.0.64 (2010-09-17)(KING OF KINGS)[S60v3][]</description>
+		<rom name="KING OF KINGS v2.0.64 (2010-09-17)(KING OF KINGS)[S60v3][].sis" size="501576" crc="48daff44" md5="1d4254d7148d1214f70630d8c5781af5" sha1="08f0bbdafcb296c7169f4232911ab92434a1103e"/>
+	</machine>
+	<machine name="kk v1.0.0 (2008-09-22)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>kk v1.0.0 (2008-09-22)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="kk v1.0.0 (2008-09-22)(Unknown Vendor)[S60v3][{THEME}].sis" size="377664" crc="ff43411a" md5="432dd951f82862e90fd4d743ad12ba68" sha1="410ccdabbd9f71a291424face9035171f6cdeae5"/>
+	</machine>
+	<machine name="kucimis In the memory of shadow v1.0.0 (2010-04-01)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>kucimis In the memory of shadow v1.0.0 (2010-04-01)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="kucimis In the memory of shadow v1.0.0 (2010-04-01)(Unknown Vendor)[S60v3][{THEME}].sis" size="1851112" crc="378ec85b" md5="1f7a06aab7955513f272e78d92610588" sha1="fe75ef73572c0c5eb3dbff9c0f2ee3dcedb06d49"/>
+	</machine>
+	<machine name="Landscape By wana7262 v1.0.0 (2009-11-09)(wana7262)[S60v3][{THEME}]">
+		<description>Landscape By wana7262 v1.0.0 (2009-11-09)(wana7262)[S60v3][{THEME}]</description>
+		<rom name="Landscape By wana7262 v1.0.0 (2009-11-09)(wana7262)[S60v3][{THEME}].sis" size="1205944" crc="cdfd022e" md5="5658c87e77a9b4f6b206eb10364a3e08" sha1="caa30b4ca1e174922d05776d14b5222364fbe726"/>
+	</machine>
+	<machine name="LinsPirat by tintinboss v1.0.0 (2012-01-07)(FGshah 2011)[S60v3][S60v5][S^3][{THEME}]">
+		<description>LinsPirat by tintinboss v1.0.0 (2012-01-07)(FGshah 2011)[S60v3][S60v5][S^3][{THEME}]</description>
+		<rom name="LinsPirat by tintinboss v1.0.0 (2012-01-07)(FGshah 2011)[S60v3][S60v5][S^3][{THEME}].sis" size="2255468" crc="15e45046" md5="dcadf776e26c55ff15bbe8f04a9f7813" sha1="d104f973d005923c2b635e872e2bfcac0a0b340e"/>
+	</machine>
+	<machine name="Lips Under Zip-HD v8.2.0 (2012-05-14)(Vendor)[S60v3][]">
+		<description>Lips Under Zip-HD v8.2.0 (2012-05-14)(Vendor)[S60v3][]</description>
+		<rom name="Lips Under Zip-HD v8.2.0 (2012-05-14)(Vendor)[S60v3][].sis" size="1533236" crc="b58f3b4c" md5="05f9dccd0f6f2852806b8ad4d8e56792" sha1="d711d4a8c5655b6a546374efff11b3cac053175f"/>
+	</machine>
+	<machine name="Liquorice v1.0.0 (2010-07-24)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Liquorice v1.0.0 (2010-07-24)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Liquorice v1.0.0 (2010-07-24)(Unknown Vendor)[S60v3][{THEME}].sis" size="1386820" crc="6ea905ad" md5="2f6d51c5125c4c26c8adf0be16629017" sha1="ea5e3e72d294cd63a3426b8defce12a709560f44"/>
+	</machine>
+	<machine name="liver pool v1.0.0 (2010-04-26)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>liver pool v1.0.0 (2010-04-26)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="liver pool v1.0.0 (2010-04-26)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="977484" crc="1b34def8" md5="25018df494383cf83ba293102c094769" sha1="eb3fabcd5cf3bc61d08dfe0bcc812d2ae4f9fa18"/>
+	</machine>
+	<machine name="Lock Eye Remote Surveillance v1.1.334 (2006-05-11)(Gate2info.Net Technologies Pvt Ltd.)[S60v3][].sisx">
+		<description>Lock Eye Remote Surveillance v1.1.334 (2006-05-11)(Gate2info.Net Technologies Pvt Ltd.)[S60v3][].sisx</description>
+		<rom name="Lock Eye Remote Surveillance v1.1.334 (2006-05-11)(Gate2info.Net Technologies Pvt Ltd.)[S60v3][].sisx" size="60792" crc="16a3f1c6" md5="6f0ac774919d22ba94ac910319416f3c" sha1="27507761b1fd3b9991a99e2c4a8977cdb2f8c6c5"/>
+	</machine>
+	<machine name="Lock Screen AngryBirds Ed v0.19.4668 (2012-07-18)(Txus)[S60v3][S60v5][S^3][]">
+		<description>Lock Screen AngryBirds Ed v0.19.4668 (2012-07-18)(Txus)[S60v3][S60v5][S^3][]</description>
+		<rom name="Lock Screen AngryBirds Ed v0.19.4668 (2012-07-18)(Txus)[S60v3][S60v5][S^3][].sis" size="849480" crc="3f84be23" md5="4fbffc53d579608171ed5065ab7debf6" sha1="97ced56e2a8455dc9aca475c1480c770ef7ee53b"/>
+	</machine>
+	<machine name="Lord Of Rings By Sajjad v1.0.0 (2010-01-14)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Lord Of Rings By Sajjad v1.0.0 (2010-01-14)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Lord Of Rings By Sajjad v1.0.0 (2010-01-14)(Unknown Vendor)[S60v3][{THEME}].sis" size="697728" crc="cc4a1991" md5="9dace2eab40f2cf7fee5a00d8c26bbe8" sha1="1f9ad30c303e3df7d31cb041c69558f9e2168f32"/>
+	</machine>
+	<machine name="Lumia 800 Colorful Hub edited by kehm_16 v1.0.0 (2011-08-13)(kehm_16)[S60v5][{THEME}]">
+		<description>Lumia 800 Colorful Hub edited by kehm_16 v1.0.0 (2011-08-13)(kehm_16)[S60v5][{THEME}]</description>
+		<rom name="Lumia 800 Colorful Hub edited by kehm_16 v1.0.0 (2011-08-13)(kehm_16)[S60v5][{THEME}].sis" size="1313820" crc="a240903a" md5="efc50f70574251726897c47f534991c6" sha1="904e2ce93a0ef0150629e146ebdd967fca3b2b96"/>
+	</machine>
+	<machine name="Lumia N8 Mini v1.0.0 (2012-09-13)(Unknown Vendor)[Belle][{THEME}]">
+		<description>Lumia N8 Mini v1.0.0 (2012-09-13)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="Lumia N8 Mini v1.0.0 (2012-09-13)(Unknown Vendor)[Belle][{THEME}].sis" size="479232" crc="baf5d445" md5="ae02c83826fd17400a52b07e1b75282c" sha1="52101e631a2e541f04678cb7fbffed7b37a82b52"/>
+	</machine>
+	<machine name="Magic By Mcmxc v1.0.0 (2011-02-10)(Mcmxc)[S60v5][{THEME}]">
+		<description>Magic By Mcmxc v1.0.0 (2011-02-10)(Mcmxc)[S60v5][{THEME}]</description>
+		<rom name="Magic By Mcmxc v1.0.0 (2011-02-10)(Mcmxc)[S60v5][{THEME}].sis" size="1517108" crc="3053ed92" md5="8c1cdffa7800073e4f0ac037141c23a4" sha1="401965d5225e31909bd506d7c3d81ad9821ffe9e"/>
+	</machine>
+	<machine name="maizi,BY,CC v1.0.0 (2010-06-02)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>maizi,BY,CC v1.0.0 (2010-06-02)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="maizi,BY,CC v1.0.0 (2010-06-02)(Unknown Vendor)[S60v3][{THEME}].sis" size="1094964" crc="9b9cf2ce" md5="824c8750af52495ecac68a1821afd21e" sha1="65c30702cac0ce0db4cb8bceb6219d6612f0e737"/>
+	</machine>
+	<machine name="Manchester United v1.0.0 (2009-10-16)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Manchester United v1.0.0 (2009-10-16)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Manchester United v1.0.0 (2009-10-16)(Unknown Vendor)[S60v3][{THEME}].sis" size="686860" crc="1cf1fa61" md5="ded072ec4a4fbb6cae78fdb9ee71226a" sha1="16f401ca3984af8ecbbdd8a94cb49011f370b0d6"/>
+	</machine>
+	<machine name="Maurin v1.0.0 (2010-10-01)(Panji Dify Akbar)[S60v3][S60v5][{THEME}]">
+		<description>Maurin v1.0.0 (2010-10-01)(Panji Dify Akbar)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Maurin v1.0.0 (2010-10-01)(Panji Dify Akbar)[S60v3][S60v5][{THEME}].sis" size="1727084" crc="6ac35845" md5="cd5e80ebd11b7b756f9fca71dd2e2f68" sha1="42fb97a22eb6aa405fab105c9bde785d834b92b5"/>
+	</machine>
+	<machine name="mConnection v0.1.0 (2008-04-04)(Mobile-Inform.com)[S60v3][]">
+		<description>mConnection v0.1.0 (2008-04-04)(Mobile-Inform.com)[S60v3][]</description>
+		<rom name="mConnection v0.1.0 (2008-04-04)(Mobile-Inform.com)[S60v3][].sis" size="29664" crc="22e461d1" md5="6440e0aea1d68df1d1e2de8a49cdd8d6" sha1="ab90407aae82f303ba13123a9deeae453834d00c"/>
+	</machine>
+	<machine name="MediaMap v1.1.0 (2008-03-31)(AcroDesign Technologies)[UIQ 3][]">
+		<description>MediaMap v1.1.0 (2008-03-31)(AcroDesign Technologies)[UIQ 3][]</description>
+		<rom name="MediaMap v1.1.0 (2008-03-31)(AcroDesign Technologies)[UIQ 3][].sis" size="192404" crc="37026073" md5="312c8fcb508df3bdfede253521b8de9f" sha1="c709eab171a080a142f986ced270dce2ba23570b"/>
+	</machine>
+	<machine name="Messi v1.0.0 (2010-06-12)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Messi v1.0.0 (2010-06-12)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Messi v1.0.0 (2010-06-12)(Unknown Vendor)[S60v3][{THEME}].sis" size="648644" crc="51927db2" md5="345024c2e92d506c46900a5d01c52264" sha1="a185b402f0e17384999742f28b6b5c339113a5a0"/>
+	</machine>
+	<machine name="Metal Green v1.0.0 (2011-03-29)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Metal Green v1.0.0 (2011-03-29)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Metal Green v1.0.0 (2011-03-29)(Unknown Vendor)[S60v5][{THEME}].sis" size="2797796" crc="c7b89fa7" md5="96100d899490a5526f9c8bd0657fb12a" sha1="c26dba777234de2650f37ec8c41f871d8f82f827"/>
+	</machine>
+	<machine name="mickey mous v1.0.0 (2012-05-06)(Unknown Vendor)[Belle][{THEME}]">
+		<description>mickey mous v1.0.0 (2012-05-06)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="mickey mous v1.0.0 (2012-05-06)(Unknown Vendor)[Belle][{THEME}].sis" size="837856" crc="66757312" md5="35d6d660a5dc6d08f7343525545c64f6" sha1="fb667094bdf8c7fcd317b12ed0901fbe2806793d"/>
+	</machine>
+	<machine name="Miss You By Mcmxc v1.0.0 (2010-07-10)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Miss You By Mcmxc v1.0.0 (2010-07-10)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Miss You By Mcmxc v1.0.0 (2010-07-10)(Unknown Vendor)[S60v3][{THEME}].sis" size="135528" crc="19b81d4d" md5="88880c948f6925d435b75fac0a5d89a7" sha1="b2911a9ad242e0a39020e96cd201347610bd66c4"/>
+	</machine>
+	<machine name="Miss You By Mcmxc v1.0.0 (2010-08-30)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Miss You By Mcmxc v1.0.0 (2010-08-30)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Miss You By Mcmxc v1.0.0 (2010-08-30)(Unknown Vendor)[S60v3][{THEME}].sis" size="531292" crc="d321511c" md5="8f1bc3cc50e555c2dbe889718870d5b6" sha1="704476c84aa955ccf594996325de288aa2cfd47f"/>
+	</machine>
+	<machine name="Monster Cookie by Danut v1.0.0 (2010-07-21)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Monster Cookie by Danut v1.0.0 (2010-07-21)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Monster Cookie by Danut v1.0.0 (2010-07-21)(Unknown Vendor)[S60v3][{THEME}].sis" size="383348" crc="d2101f9e" md5="766400d591b114f50a30e7515c539073" sha1="2afb9f8379255f41b2b9d5e87d53dab4bf2d88b7"/>
+	</machine>
+	<machine name="MusicPlayerRemote v1.0.0 (2010-07-20)(Vendor)[S60v3][{PyS60 v1.4.5}]">
+		<description>MusicPlayerRemote v1.0.0 (2010-07-20)(Vendor)[S60v3][{PyS60 v1.4.5}]</description>
+		<rom name="MusicPlayerRemote v1.0.0 (2010-07-20)(Vendor)[S60v3][{PyS60 v1.4.5}].sis" size="14612" crc="53bc804c" md5="ecdef1cc00b61b3709802f4d65ab8b07" sha1="076f591c30522239129e0f271e76cd76a2d9c385"/>
+	</machine>
+	<machine name="My_life v1.0.0 (2011-01-26)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>My_life v1.0.0 (2011-01-26)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="My_life v1.0.0 (2011-01-26)(Unknown Vendor)[S60v5][{THEME}].sis" size="1534648" crc="5a7952d6" md5="04e149a5af3be4589b520a7a375629c0" sha1="a2fb01e2b63af3ceeed4565b3c83946f4f1f8045"/>
+	</machine>
+	<machine name="N-Desk v2.6.88 (2011-07-17)(Anderson)[S60v5][]">
+		<description>N-Desk v2.6.88 (2011-07-17)(Anderson)[S60v5][]</description>
+		<rom name="N-Desk v2.6.88 (2011-07-17)(Anderson)[S60v5][].sis" size="1510484" crc="d1123c91" md5="fe3f94e0e7992911cd22c06365afd81d" sha1="d7be8311a4eb3199e8fe58996c0f91141365f4dc"/>
+	</machine>
+	<machine name="Napoleonix v1.20.212 (2007-02-12)(Inscenic)[NoDevice][]">
+		<description>Napoleonix v1.20.212 (2007-02-12)(Inscenic)[NoDevice][]</description>
+		<rom name="Napoleonix v1.20.212 (2007-02-12)(Inscenic)[NoDevice][].sis" size="2113104" crc="c0fed8f2" md5="1118768569e7dcb8a880ee37c64180c1" sha1="fe8340d599a4ab3a7df5ad745c0bc70176ca2989"/>
+	</machine>
+	<machine name="Naruto Power v1.0.0 (2010-09-14)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Naruto Power v1.0.0 (2010-09-14)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Naruto Power v1.0.0 (2010-09-14)(Unknown Vendor)[S60v3][{THEME}].sis" size="226436" crc="4e7ff9dd" md5="a295676faf220c23372a458ce58381fd" sha1="cc7f947e9a8f5046fde0901250eeab17de8e834e"/>
+	</machine>
+	<machine name="Naruto unleashed v1.0.0 (2010-05-04)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Naruto unleashed v1.0.0 (2010-05-04)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Naruto unleashed v1.0.0 (2010-05-04)(Unknown Vendor)[S60v3][{THEME}].sis" size="1593588" crc="5da6e595" md5="ae3790a97085b3eb356a0f4146baab00" sha1="4cdee98b6d2c2783d3dbc1d5a9299406c41ad388"/>
+	</machine>
+	<machine name="Nature 3th [Symbian Anna Icon] by yans v1.0.0 (2011-04-28)(yans themes)[S60v5][{THEME}]">
+		<description>Nature 3th [Symbian Anna Icon] by yans v1.0.0 (2011-04-28)(yans themes)[S60v5][{THEME}]</description>
+		<rom name="Nature 3th [Symbian Anna Icon] by yans v1.0.0 (2011-04-28)(yans themes)[S60v5][{THEME}].sis" size="1834056" crc="eb983370" md5="3923fd8376237af3c7627408cc9a58d0" sha1="e42978b1f77cbff41ce3f59fb25f827ef9bc8759"/>
+	</machine>
+	<machine name="Nature 5th by yans v1.0.0 (2010-05-05)(yans themes)[S60v5][{THEME}]">
+		<description>Nature 5th by yans v1.0.0 (2010-05-05)(yans themes)[S60v5][{THEME}]</description>
+		<rom name="Nature 5th by yans v1.0.0 (2010-05-05)(yans themes)[S60v5][{THEME}].sis" size="3608256" crc="de92779a" md5="e2244829afa2ae1b09b12fc469a9b743" sha1="9e76d333a1659d3d53f31ab19430202d4b862fc9"/>
+	</machine>
+	<machine name="Nature V2.0 HD by yans v1.0.0 (2011-03-14)(yans themes)[S60v3][S60v5][{THEME}]">
+		<description>Nature V2.0 HD by yans v1.0.0 (2011-03-14)(yans themes)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Nature V2.0 HD by yans v1.0.0 (2011-03-14)(yans themes)[S60v3][S60v5][{THEME}].sis" size="3127092" crc="c960a93b" md5="fd5a8185c0eb6523b03f1c0f8b9760cd" sha1="d8248aa1f17ca616c735bd022ca0f0b52723ca18"/>
+	</machine>
+	<machine name="Navy_nokia v1.0.0 (2009-10-14)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Navy_nokia v1.0.0 (2009-10-14)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Navy_nokia v1.0.0 (2009-10-14)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="1788448" crc="043e02e2" md5="2b74bc6b934f9225f2120b58706c25d7" sha1="0442832df583517dd41171344bfc15243d989bc2"/>
+	</machine>
+	<machine name="Nemo Turtle v1.0.0 (2009-10-15)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Nemo Turtle v1.0.0 (2009-10-15)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Nemo Turtle v1.0.0 (2009-10-15)(Unknown Vendor)[S60v3][{THEME}].sis" size="329360" crc="509a606d" md5="b24d6bc157e8e003037fe0f93a244a76" sha1="7557d4a795fadb2aa60e34cb9bfb4bd08d571971"/>
+	</machine>
+	<machine name="neon girl v1.0.0 (2010-05-30)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>neon girl v1.0.0 (2010-05-30)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="neon girl v1.0.0 (2010-05-30)(Unknown Vendor)[S60v3][{THEME}].sis" size="735868" crc="b5d34420" md5="90bc8c4b3404a8dfa872d14e52873f42" sha1="ff77adbb687956171473a1d14d28077d0a6be252"/>
+	</machine>
+	<machine name="NewAgeFP1testbySky v1.0.0 (2010-09-25)(Eddy)[S60v3][{THEME}]">
+		<description>NewAgeFP1testbySky v1.0.0 (2010-09-25)(Eddy)[S60v3][{THEME}]</description>
+		<rom name="NewAgeFP1testbySky v1.0.0 (2010-09-25)(Eddy)[S60v3][{THEME}].sis" size="547648" crc="73cd3ea9" md5="0ff724e184e56a322afaa3842a80d8c4" sha1="50dffa6da0850631723c8fcefc30defd83d4a514"/>
+	</machine>
+	<machine name="Ninja v1.0.0 (2010-07-18)(Unknown Vendor)[S60v3][{THEME}{FLASH}]">
+		<description>Ninja v1.0.0 (2010-07-18)(Unknown Vendor)[S60v3][{THEME}{FLASH}]</description>
+		<rom name="Ninja v1.0.0 (2010-07-18)(Unknown Vendor)[S60v3][{THEME}{FLASH}].sis" size="925032" crc="f73f01f4" md5="6ed1fc7eb5931c271e85b983e89467ad" sha1="c1abc5e61a4c7c6340d34f5a9e9b5f214d998565"/>
+	</machine>
+	<machine name="Nokia 5800 By Mcmxc Zedger v1.0.0 (2001-12-31)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Nokia 5800 By Mcmxc Zedger v1.0.0 (2001-12-31)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Nokia 5800 By Mcmxc Zedger v1.0.0 (2001-12-31)(Unknown Vendor)[S60v3][{THEME}].sis" size="246056" crc="5f0bb90b" md5="27b22a60da818fa5dace6e4881dd194b" sha1="f104c153fa6311744cbcd7311d4d8c75af15de0a"/>
+	</machine>
+	<machine name="Nokia Black Pro (N8Orange) S^3 (by RBn) v1.0.0 (2011-04-24)(RBn)[S60v5][{THEME}]">
+		<description>Nokia Black Pro (N8Orange) S^3 (by RBn) v1.0.0 (2011-04-24)(RBn)[S60v5][{THEME}]</description>
+		<rom name="Nokia Black Pro (N8Orange) S^3 (by RBn) v1.0.0 (2011-04-24)(RBn)[S60v5][{THEME}].sis" size="519032" crc="507c745d" md5="6298394ff1dc75414c2a895086e9c1d0" sha1="2d0020a513960db813c2ff3c97d269bcbb1720af"/>
+	</machine>
+	<machine name="Nokia By Mcmxc v1.0.0 (2010-10-12)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Nokia By Mcmxc v1.0.0 (2010-10-12)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Nokia By Mcmxc v1.0.0 (2010-10-12)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="107920" crc="906245f8" md5="785bddfdb139def2d24803f8b121ff00" sha1="7bb07ab16c926fc6a66302e8945186b4f7990a88"/>
+	</machine>
+	<machine name="Nokia HTC By M.R.A. (N8) v1.0.0 (2010-10-01)(M.R.A.)[S60v3][S60v5][{THEME}]">
+		<description>Nokia HTC By M.R.A. (N8) v1.0.0 (2010-10-01)(M.R.A.)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Nokia HTC By M.R.A. (N8) v1.0.0 (2010-10-01)(M.R.A.)[S60v3][S60v5][{THEME}].sis" size="2209428" crc="dd12add5" md5="6558ca59a1af38e8b6bd29dabbe11bd1" sha1="10049fe01cbc7ea5feb0115bfc41a179bd3ef10f"/>
+	</machine>
+	<machine name="Nokia Htc v1.0.0 (2010-10-01)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Nokia Htc v1.0.0 (2010-10-01)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Nokia Htc v1.0.0 (2010-10-01)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="549400" crc="19429bc9" md5="9c6d9cbaef6f77d855d8fa2f9fe5c7d8" sha1="e736ed1dd4c67cf764108629f56a8fa1a7fef6d9"/>
+	</machine>
+	<machine name="Nokia Pro S^3 (by RBn) v1.0.0 (2011-04-24)(RBn)[S60v5][{THEME}]">
+		<description>Nokia Pro S^3 (by RBn) v1.0.0 (2011-04-24)(RBn)[S60v5][{THEME}]</description>
+		<rom name="Nokia Pro S^3 (by RBn) v1.0.0 (2011-04-24)(RBn)[S60v5][{THEME}].sis" size="1225780" crc="3019b2f1" md5="1853be44478171fcd46f524afa6b6968" sha1="2e4aebc17ccf582ba3aee8105e63e883a6488f53"/>
+	</machine>
+	<machine name="nokia v1.0.0 (2010-05-07)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>nokia v1.0.0 (2010-05-07)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="nokia v1.0.0 (2010-05-07)(Unknown Vendor)[S60v3][{THEME}].sis" size="2184484" crc="a19e12cd" md5="15c82cb9e93d3512241ff0cfb5b8594d" sha1="63845ba8fdc1c41daaedff05437fc05d53878d83"/>
+	</machine>
+	<machine name="nolesvotes v1.0.0 (2011-03-10)(FernyStyle)[NoDevice][{THEME}]">
+		<description>nolesvotes v1.0.0 (2011-03-10)(FernyStyle)[NoDevice][{THEME}]</description>
+		<rom name="nolesvotes v1.0.0 (2011-03-10)(FernyStyle)[NoDevice][{THEME}].sis" size="256292" crc="46bea9ff" md5="dab405775dafbb31042843ff7e94fd85" sha1="945225443d34de4b0b5b8769a0f23745ae81b528"/>
+	</machine>
+	<machine name="NSeries 1 N82 v1.0.0 (2008-03-28)(3G365)[S60v3][{THEME}]">
+		<description>NSeries 1 N82 v1.0.0 (2008-03-28)(3G365)[S60v3][{THEME}]</description>
+		<rom name="NSeries 1 N82 v1.0.0 (2008-03-28)(3G365)[S60v3][{THEME}].sis" size="195124" crc="214e7f11" md5="b0a215b7875fec220e29f41334db41ee" sha1="64311cce114d491e8431b6f506f947813f2d0d74"/>
+	</machine>
+	<machine name="Onslaught 2 - Black Heart v2.50.1 (2012-10-29)(Black Heart Studios)[Belle][{THEME}]">
+		<description>Onslaught 2 - Black Heart v2.50.1 (2012-10-29)(Black Heart Studios)[Belle][{THEME}]</description>
+		<rom name="Onslaught 2 - Black Heart v2.50.1 (2012-10-29)(Black Heart Studios)[Belle][{THEME}].sis" size="2858940" crc="b3a02a19" md5="ddc9bbe0ce1c4a49c680eaaa75d34066" sha1="09755fb6942495497733dae5fd9c94f22b447b19"/>
+	</machine>
+	<machine name="Open Transport Tycoon Deluxe v0.4.7 (2006-12-22)(SomeOne)[NoDevice][]">
+		<description>Open Transport Tycoon Deluxe v0.4.7 (2006-12-22)(SomeOne)[NoDevice][]</description>
+		<rom name="Open Transport Tycoon Deluxe v0.4.7 (2006-12-22)(SomeOne)[NoDevice][].sis" size="699256" crc="b7ccabe0" md5="abeb56abd8e9113370a3a5a6e08153fb" sha1="a3795b6884bdfbf70818506b00c51b627ce076a4"/>
+	</machine>
+	<machine name="Orbits yellow By Mcmxc v1.0.0 (2010-03-28)(Unknown Vendor)[NoDevice][{THEME}]">
+		<description>Orbits yellow By Mcmxc v1.0.0 (2010-03-28)(Unknown Vendor)[NoDevice][{THEME}]</description>
+		<rom name="Orbits yellow By Mcmxc v1.0.0 (2010-03-28)(Unknown Vendor)[NoDevice][{THEME}].sis" size="268044" crc="efe5b8ba" md5="658622f24dae9d6ef74336cfa3a15869" sha1="7569231f969baee693977223b65b4705574d7d28"/>
+	</machine>
+	<machine name="Oron By Mcmxc v1.0.0 (2011-02-27)(nokia)[S60v3][S60v5][{THEME}]">
+		<description>Oron By Mcmxc v1.0.0 (2011-02-27)(nokia)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Oron By Mcmxc v1.0.0 (2011-02-27)(nokia)[S60v3][S60v5][{THEME}].sis" size="2549052" crc="dddc9963" md5="587da5d4da6d1ae9dad46e015312d627" sha1="d49c2f5328f4a75cc73ff92895b7e488b119cef5"/>
+	</machine>
+	<machine name="Pensamientos v0.0.0 (2010-02-23)(FernyStyle)[NoDevice][{THEME}]">
+		<description>Pensamientos v0.0.0 (2010-02-23)(FernyStyle)[NoDevice][{THEME}]</description>
+		<rom name="Pensamientos v0.0.0 (2010-02-23)(FernyStyle)[NoDevice][{THEME}].sis" size="232100" crc="cdbd76da" md5="4cd60e33a28558b5f56bfce838cff379" sha1="8a1367a63372ee72607f40d2693073a2b80413e5"/>
+	</machine>
+	<machine name="Pieces By Mcmxc v1.0.0 (2010-03-28)(Unknown Vendor)[NoDevice][{THEME}]">
+		<description>Pieces By Mcmxc v1.0.0 (2010-03-28)(Unknown Vendor)[NoDevice][{THEME}]</description>
+		<rom name="Pieces By Mcmxc v1.0.0 (2010-03-28)(Unknown Vendor)[NoDevice][{THEME}].sis" size="243812" crc="90a82b17" md5="66678b1c26dd5ac2ea0e6de7d30d3913" sha1="40a9156b2cdd29490e9111303c8e2327f488ae59"/>
+	</machine>
+	<machine name="PiedPRO_5th_IND190 v1.0.0 (2011-11-18)(Unknown Vendor)[S60v3][S60v5][S^3][{THEME}]">
+		<description>PiedPRO_5th_IND190 v1.0.0 (2011-11-18)(Unknown Vendor)[S60v3][S60v5][S^3][{THEME}]</description>
+		<rom name="PiedPRO_5th_IND190 v1.0.0 (2011-11-18)(Unknown Vendor)[S60v3][S60v5][S^3][{THEME}].sis" size="2166520" crc="7fe6a230" md5="f574f1922bbafb19eb185c59c2f137c8" sha1="19263d8a8384878eb71ddc3c327250407023201b"/>
+	</machine>
+	<machine name="Pigler Java API v1.0.0 (2023-08-15)(nnproject)[Belle][]">
+		<description>Pigler Java API v1.0.0 (2023-08-15)(nnproject)[Belle][]</description>
+		<rom name="Pigler Java API v1.0.0 (2023-08-15)(nnproject)[Belle][].sis" size="10976" crc="e5e59cd5" md5="4c197adecd158f78000604e13828043e" sha1="73612d6acc26838add24f438cb8c32db61bb807a"/>
+	</machine>
+	<machine name="Ping v1.0.0 (2008-09-02)(Vendor)[S60v3][]">
+		<description>Ping v1.0.0 (2008-09-02)(Vendor)[S60v3][]</description>
+		<rom name="Ping v1.0.0 (2008-09-02)(Vendor)[S60v3][].sis" size="29672" crc="2996c46c" md5="fe14f12db62306641f08055f94a0d99f" sha1="46d66360b444f823db6c1e68f5dd4829d2ae508b"/>
+	</machine>
+	<machine name="Pink flower v1.0.0 (2010-07-07)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Pink flower v1.0.0 (2010-07-07)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Pink flower v1.0.0 (2010-07-07)(Unknown Vendor)[S60v3][{THEME}].sis" size="1483316" crc="b809a161" md5="e9b0d52684f3fcc9d31c0fa2aafd08ae" sha1="d783f5bde6716200b709242cf96816db3d21bdef"/>
+	</machine>
+	<machine name="pink flowers by plussa v1.0.0 (2010-03-14)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>pink flowers by plussa v1.0.0 (2010-03-14)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="pink flowers by plussa v1.0.0 (2010-03-14)(Unknown Vendor)[S60v3][{THEME}].sis" size="2383504" crc="2daa6b8b" md5="795b3a02aa557739fb0e263cf3ead1e9" sha1="71694b6e1388c686cb524bad801cd0da5dbcc47c"/>
+	</machine>
+	<machine name="Pink Love By Mcmxc v1.0.0 (2010-07-11)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Pink Love By Mcmxc v1.0.0 (2010-07-11)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Pink Love By Mcmxc v1.0.0 (2010-07-11)(Unknown Vendor)[S60v3][{THEME}].sis" size="1243816" crc="019ff079" md5="f2e3947042e229147445f7fe4cbc90af" sha1="e22e063fde95d56e2fa7fc008656621b1d2637e3"/>
+	</machine>
+	<machine name="Pink Nokia By Mcmxc v1.0.0 (2010-06-25)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Pink Nokia By Mcmxc v1.0.0 (2010-06-25)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Pink Nokia By Mcmxc v1.0.0 (2010-06-25)(Unknown Vendor)[S60v3][{THEME}].sis" size="1429120" crc="b9207aa2" md5="3cc8a44ad2637fa2e17c1b16eac201e8" sha1="cadc7f020d20dfe3fdbe83515902b134cc56482e"/>
+	</machine>
+	<machine name="Pink Nokia By Mcmxc v1.0.0 (2010-07-11)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Pink Nokia By Mcmxc v1.0.0 (2010-07-11)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Pink Nokia By Mcmxc v1.0.0 (2010-07-11)(Unknown Vendor)[S60v3][{THEME}].sis" size="1483664" crc="07a0d89f" md5="732e807080e4171b7c6f763f971a641c" sha1="4156f025a96a05b72cc75a817bb0debf2badb504"/>
+	</machine>
+	<machine name="piPOIAlert v1.0.0 (2010-08-15)(pip)[S60v3][]">
+		<description>piPOIAlert v1.0.0 (2010-08-15)(pip)[S60v3][]</description>
+		<rom name="piPOIAlert v1.0.0 (2010-08-15)(pip)[S60v3][].sis" size="34572" crc="d9deea7f" md5="cc66efd08d77b36586895fdc334b5353" sha1="b68546cfd3538b777446926c84f08a6ccab5c37c"/>
+	</machine>
+	<machine name="Pop_Icon_S3_IND190 v1.0.0 (2011-06-19)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Pop_Icon_S3_IND190 v1.0.0 (2011-06-19)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Pop_Icon_S3_IND190 v1.0.0 (2011-06-19)(Unknown Vendor)[S60v5][{THEME}].sis" size="2222220" crc="166a3829" md5="ff880c8083cedbe6a257fcad3db4c975" sha1="36182fd35644ea00bc791611ba0b59d66fd31f0f"/>
+	</machine>
+	<machine name="Pop_Icon_S3_IND190 v1.0.0 (2011-06-19)(Unknown Vendor)[S60v5][{THEME}]_1">
+		<description>Pop_Icon_S3_IND190 v1.0.0 (2011-06-19)(Unknown Vendor)[S60v5][{THEME}]_1</description>
+		<rom name="Pop_Icon_S3_IND190 v1.0.0 (2011-06-19)(Unknown Vendor)[S60v5][{THEME}]_1.sis" size="1915076" crc="ccd3abca" md5="2d1e61316b5f85c7f3153ca95894a08d" sha1="4e5ba8f8ad8bc4673b5b9d93f7cb2cf889e35f3e"/>
+	</machine>
+	<machine name="Pop_Icon_S3_IND190 v1.0.0 (2011-06-19)(Unknown Vendor)[S60v5][{THEME}]_2">
+		<description>Pop_Icon_S3_IND190 v1.0.0 (2011-06-19)(Unknown Vendor)[S60v5][{THEME}]_2</description>
+		<rom name="Pop_Icon_S3_IND190 v1.0.0 (2011-06-19)(Unknown Vendor)[S60v5][{THEME}]_2.sis" size="2183516" crc="a9bffe2f" md5="ff013185f6930bfb72262a98c9768243" sha1="0e06fd376bbfb856ace7acaa6f41d70a190f8d5c"/>
+	</machine>
+	<machine name="Porshe v1.0.0 (2010-09-15)(Eddy)[S60v3][{THEME}]">
+		<description>Porshe v1.0.0 (2010-09-15)(Eddy)[S60v3][{THEME}]</description>
+		<rom name="Porshe v1.0.0 (2010-09-15)(Eddy)[S60v3][{THEME}].sis" size="407728" crc="bc498a1f" md5="4b5ae01a29fabd27b1d433f2aa2331eb" sha1="5c1be3cb51a327466443ec13726debde85248702"/>
+	</machine>
+	<machine name="Porshe v1.0.0 (2010-09-15)(Eddy)[S60v3][{THEME}]_1">
+		<description>Porshe v1.0.0 (2010-09-15)(Eddy)[S60v3][{THEME}]_1</description>
+		<rom name="Porshe v1.0.0 (2010-09-15)(Eddy)[S60v3][{THEME}]_1.sis" size="452608" crc="3fda19e8" md5="21a7a4776ddc5745050be3688361560f" sha1="490cc07f119e043a26138e6397ad6bd104231a0e"/>
+	</machine>
+	<machine name="Pro Edition v1.0.0 (2011-04-04)(AttisX)[S^3][{THEME}]">
+		<description>Pro Edition v1.0.0 (2011-04-04)(AttisX)[S^3][{THEME}]</description>
+		<rom name="Pro Edition v1.0.0 (2011-04-04)(AttisX)[S^3][{THEME}].sis" size="1120604" crc="5e8605d6" md5="eb0c37e7a8186342fd0ac18bd5330537" sha1="a11c56900887bd55e25484b63f163a6a458d343a"/>
+	</machine>
+	<machine name="Purple Gum v1.0.0 (2011-04-03)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Purple Gum v1.0.0 (2011-04-03)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Purple Gum v1.0.0 (2011-04-03)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="2584492" crc="2386b108" md5="05ef2d76fe4451284a1b708e3195d63d" sha1="cee89975d591e0858e6a271df01816ce24738940"/>
+	</machine>
+	<machine name="PythonCommunity v1.0.0 (2009-05-10)(Pys60 Community)[S60v3][{PyS60 v1.4.5}]">
+		<description>PythonCommunity v1.0.0 (2009-05-10)(Pys60 Community)[S60v3][{PyS60 v1.4.5}]</description>
+		<rom name="PythonCommunity v1.0.0 (2009-05-10)(Pys60 Community)[S60v3][{PyS60 v1.4.5}].sis" size="1080248" crc="c6739eb7" md5="9a7e46133efaeedff22dfa428de4deb6" sha1="30ea54b01808d08b3048481e3a4c3632fb386e9f"/>
+	</machine>
+	<machine name="Quick Launch v1.5.0 (2012-04-23)(Alexander Fokin)[S60v5][S^3][Belle][]">
+		<description>Quick Launch v1.5.0 (2012-04-23)(Alexander Fokin)[S60v5][S^3][Belle][]</description>
+		<rom name="Quick Launch v1.5.0 (2012-04-23)(Alexander Fokin)[S60v5][S^3][Belle][].sis" size="47980" crc="5f43f53a" md5="7ec3ced963ed0962897517855a92cd70" sha1="4ca07a7e3f6d74a72a91aae9090482a0828e296e"/>
+	</machine>
+	<machine name="RBn Premium Theme S^3 (Def Icons) v1.0.0 (2011-04-25)(RBn)[S60v5][{THEME}]">
+		<description>RBn Premium Theme S^3 (Def Icons) v1.0.0 (2011-04-25)(RBn)[S60v5][{THEME}]</description>
+		<rom name="RBn Premium Theme S^3 (Def Icons) v1.0.0 (2011-04-25)(RBn)[S60v5][{THEME}].sis" size="1776012" crc="88effa6c" md5="aa0e1a90e11c198df067d2ee51b18e61" sha1="16a061f6932094366a0d4c136b5307a3e1acc10f"/>
+	</machine>
+	<machine name="RBn Premium Theme S^3 (Eric Icons) v1.0.0 (2011-04-25)(RBn)[S60v5][{THEME}]">
+		<description>RBn Premium Theme S^3 (Eric Icons) v1.0.0 (2011-04-25)(RBn)[S60v5][{THEME}]</description>
+		<rom name="RBn Premium Theme S^3 (Eric Icons) v1.0.0 (2011-04-25)(RBn)[S60v5][{THEME}].sis" size="3141176" crc="a009f07e" md5="ef2632d4f963be7c2511e67a2cdb8379" sha1="0c1bb212d99d99d834e0269796da89218612608e"/>
+	</machine>
+	<machine name="Real Madrid v1.0.0 (2009-10-16)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Real Madrid v1.0.0 (2009-10-16)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Real Madrid v1.0.0 (2009-10-16)(Unknown Vendor)[S60v3][{THEME}].sis" size="477272" crc="33751e1d" md5="99641400d23b6961568a80632cba5611" sha1="df14bc9a7509fcbddecf83920c2acd9b59534331"/>
+	</machine>
+	<machine name="Red Anna_ovi_FGshah v1.0.0 (2011-09-29)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Red Anna_ovi_FGshah v1.0.0 (2011-09-29)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Red Anna_ovi_FGshah v1.0.0 (2011-09-29)(Unknown Vendor)[S^3][{THEME}].sis" size="1854700" crc="d19c607f" md5="4034cfad39bc4a8b7c2aaffa863ee4a5" sha1="2fb3c76b06769c611ae7788a9baac50e82502c48"/>
+	</machine>
+	<machine name="Red_Effect v1.0.0 (2011-03-10)(Shilca)[S60v5][{THEME}]">
+		<description>Red_Effect v1.0.0 (2011-03-10)(Shilca)[S60v5][{THEME}]</description>
+		<rom name="Red_Effect v1.0.0 (2011-03-10)(Shilca)[S60v5][{THEME}].sis" size="701472" crc="f9abbdbf" md5="f570f7e08a338d1ac356659a56cf7d3a" sha1="81df63603f875cb2f2b6851b78a0a3e2cbaaa6ef"/>
+	</machine>
+	<machine name="Redside v1.0.0 (2009-06-28)(Meinhard Meintjes)[S60v3][{THEME}]">
+		<description>Redside v1.0.0 (2009-06-28)(Meinhard Meintjes)[S60v3][{THEME}]</description>
+		<rom name="Redside v1.0.0 (2009-06-28)(Meinhard Meintjes)[S60v3][{THEME}].sis" size="132056" crc="ea08e6b8" md5="2a7117bf336d9e78263205ed2fa371f5" sha1="9c503b77e212e0c79e1c56c5be9f07fd432f1eb2"/>
+	</machine>
+	<machine name="RedWayByK2877 v1.0.0 (2009-04-09)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>RedWayByK2877 v1.0.0 (2009-04-09)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="RedWayByK2877 v1.0.0 (2009-04-09)(Unknown Vendor)[S60v3][{THEME}].sis" size="423808" crc="f885a1ed" md5="690918f782b628a93f0822a299d32a05" sha1="5e611b1e15b5ff52d444be472dc29d1065fa064b"/>
+	</machine>
+	<machine name="Retro Gold_ovi_FGshah v1.0.0 (2011-09-22)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Retro Gold_ovi_FGshah v1.0.0 (2011-09-22)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Retro Gold_ovi_FGshah v1.0.0 (2011-09-22)(Unknown Vendor)[S^3][{THEME}].sis" size="1496920" crc="a8518ff4" md5="bfd9f93264cb8f76315a8d1041b2b3f2" sha1="8e317fe4ff56ea7e8c1bb421ae26d3befdf62eeb"/>
+	</machine>
+	<machine name="Ronaldo v1.0.0 (2010-12-19)(Unknown Vendor)[S60v3][{THEME}{FLASH}]">
+		<description>Ronaldo v1.0.0 (2010-12-19)(Unknown Vendor)[S60v3][{THEME}{FLASH}]</description>
+		<rom name="Ronaldo v1.0.0 (2010-12-19)(Unknown Vendor)[S60v3][{THEME}{FLASH}].sis" size="1913216" crc="7200bce3" md5="e2ff2ff663d8738708d739f7cddf83cc" sha1="d3cccc5f92668cee076d5baea7b7c14a9f2ca90d"/>
+	</machine>
+	<machine name="rubia v1.0.0 (2011-09-03)(FernyStyle)[S60v3][{THEME}]">
+		<description>rubia v1.0.0 (2011-09-03)(FernyStyle)[S60v3][{THEME}]</description>
+		<rom name="rubia v1.0.0 (2011-09-03)(FernyStyle)[S60v3][{THEME}].sis" size="383384" crc="a1083fd7" md5="c214a438c6dedc0faf8bf3286d2ef10a" sha1="a98ea09905421c310873fba5731c9614263078ac"/>
+	</machine>
+	<machine name="S60 by kaifiki v1.0.0 (2009-07-11)(Kaifiki)[S60v3][{THEME}]">
+		<description>S60 by kaifiki v1.0.0 (2009-07-11)(Kaifiki)[S60v3][{THEME}]</description>
+		<rom name="S60 by kaifiki v1.0.0 (2009-07-11)(Kaifiki)[S60v3][{THEME}].sis" size="554040" crc="9777e57d" md5="7ed1e1a84d31f547a70c32d3fe2d2f14" sha1="113c4055b773b5da417daace48f61d5a4001e078"/>
+	</machine>
+	<machine name="S60CHN Rebuild v1.0.0 (2009-12-17)(TaAndoor Developer©)[S60v5][{THEME}]">
+		<description>S60CHN Rebuild v1.0.0 (2009-12-17)(TaAndoor Developer©)[S60v5][{THEME}]</description>
+		<rom name="S60CHN Rebuild v1.0.0 (2009-12-17)(TaAndoor Developer©)[S60v5][{THEME}].sis" size="140972" crc="8e8c7ba8" md5="5d322535fb32451b101719f269ed920c" sha1="ebcc64fc11fbcaa91352aadec26890eb51258c0d"/>
+	</machine>
+	<machine name="Sacrifice v1.0.0 (2011-12-11)(Mujdin Jakupi)[S60v3][S^4][S^3][{THEME}]">
+		<description>Sacrifice v1.0.0 (2011-12-11)(Mujdin Jakupi)[S60v3][S^4][S^3][{THEME}]</description>
+		<rom name="Sacrifice v1.0.0 (2011-12-11)(Mujdin Jakupi)[S60v3][S^4][S^3][{THEME}].sis" size="2119252" crc="08ed208d" md5="fe5a721d61cdc5fe33e11effae376f2b" sha1="208a1ad36c0f817def2afe05462efafc41e44def"/>
+	</machine>
+	<machine name="Sasuke_Uchiha DI [T] by Jus v1.40.0 (2011-06-15)(Drigz)[S60v3][S60v5][S^3][{THEME}]">
+		<description>Sasuke_Uchiha DI [T] by Jus v1.40.0 (2011-06-15)(Drigz)[S60v3][S60v5][S^3][{THEME}]</description>
+		<rom name="Sasuke_Uchiha DI [T] by Jus v1.40.0 (2011-06-15)(Drigz)[S60v3][S60v5][S^3][{THEME}].sis" size="2891260" crc="73f06622" md5="d0348c037d9f54cfc38d359bfa6bb8bc" sha1="021c049d10ed5c59bee09b8bb52ea3a229653899"/>
+	</machine>
+	<machine name="Se7en R by nca v1.0.0 (2009-07-15)(Nca)[S60v5][{THEME}]">
+		<description>Se7en R by nca v1.0.0 (2009-07-15)(Nca)[S60v5][{THEME}]</description>
+		<rom name="Se7en R by nca v1.0.0 (2009-07-15)(Nca)[S60v5][{THEME}].sis" size="1793488" crc="6607cc08" md5="00ad641eb63513ccee6bd2f5ba201f5b" sha1="c4229fb6cfc467506195eb52e9bae78f2d43e1f6"/>
+	</machine>
+	<machine name="seashore v1.0.0 (2010-07-01)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>seashore v1.0.0 (2010-07-01)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="seashore v1.0.0 (2010-07-01)(Unknown Vendor)[S60v3][{THEME}].sis" size="1127956" crc="6e2e9177" md5="a720e38ed2ae3fc60c4cffd46a56e9e2" sha1="d89ab70584bbe9c2b2c6dc28cd2ad0b26e84a0cd"/>
+	</machine>
+	<machine name="Sebastian Abreu v1.0.0 (2009-10-11)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Sebastian Abreu v1.0.0 (2009-10-11)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Sebastian Abreu v1.0.0 (2009-10-11)(Unknown Vendor)[S60v3][{THEME}].sis" size="615300" crc="9b906c94" md5="c9d960721bc9e40badea7465b38530e3" sha1="322d505137e6d6d99e4c4ba3f4e2c942d07a7329"/>
+	</machine>
+	<machine name="seven v1.0.0 (2009-12-24)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>seven v1.0.0 (2009-12-24)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="seven v1.0.0 (2009-12-24)(Unknown Vendor)[S60v3][{THEME}].sis" size="1056380" crc="9c157e77" md5="fb51f527de554a5708f17978a5b3b257" sha1="788b21304bcf10df564d87f2cc5d765c53273a46"/>
+	</machine>
+	<machine name="Shadow Touch v1.0.0 (2009-09-09)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Shadow Touch v1.0.0 (2009-09-09)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Shadow Touch v1.0.0 (2009-09-09)(Unknown Vendor)[S60v3][{THEME}].sis" size="1338568" crc="c10cf5c9" md5="35bef3e970fa1ac33ed93cd8b6f6040d" sha1="5002b27c323e954b540488c65ba060e1d1555fdb"/>
+	</machine>
+	<machine name="simple lily v1.0.0 (2011-05-29)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>simple lily v1.0.0 (2011-05-29)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="simple lily v1.0.0 (2011-05-29)(Unknown Vendor)[S60v5][{THEME}].sis" size="203144" crc="6df838d0" md5="56a84fb4e25299df3972a41de4a8b5a2" sha1="3822d9da14e9786b6d4cab5676f727aa4b4ff555"/>
+	</machine>
+	<machine name="SipPhone v1.0.1 (2008-06-11)(Vendor)[S60v3][]">
+		<description>SipPhone v1.0.1 (2008-06-11)(Vendor)[S60v3][]</description>
+		<rom name="SipPhone v1.0.1 (2008-06-11)(Vendor)[S60v3][].sis" size="192380" crc="358130f9" md5="deb6c683614a1337d7d16787a3a1c5d5" sha1="f1251e8cebf1c0732e6237f6ce887314b028adad"/>
+	</machine>
+	<machine name="SmartCoexist v1.1.2 v1.1.2 (2010-01-12)(Перевод Garant)[S60v3][{PyS60 v1.4.5}]">
+		<description>SmartCoexist v1.1.2 v1.1.2 (2010-01-12)(Перевод Garant)[S60v3][{PyS60 v1.4.5}]</description>
+		<rom name="SmartCoexist v1.1.2 v1.1.2 (2010-01-12)(Перевод Garant)[S60v3][{PyS60 v1.4.5}].sis" size="93132" crc="a66d7fbe" md5="b830ca33d59e59a45deecebf67ec1927" sha1="e92c9683c4290873eeae5b776a16e3b9ec3a85f8"/>
+	</machine>
+	<machine name="SMSBackUp v0.7.0 (2009-01-11)(wap.aapig.com)[S60v3][]">
+		<description>SMSBackUp v0.7.0 (2009-01-11)(wap.aapig.com)[S60v3][]</description>
+		<rom name="SMSBackUp v0.7.0 (2009-01-11)(wap.aapig.com)[S60v3][].sis" size="26980" crc="b2e76202" md5="1eb2f59e115ac0c5e842a9ac9a0db1a1" sha1="faa76feb230fc948a6ee133b91341650a2dbe7e0"/>
+	</machine>
+	<machine name="SoftSymphony Reversi FE 2006 v1.0.181 (2006-07-17)(SoftSymphony)[NoDevice][]">
+		<description>SoftSymphony Reversi FE 2006 v1.0.181 (2006-07-17)(SoftSymphony)[NoDevice][]</description>
+		<rom name="SoftSymphony Reversi FE 2006 v1.0.181 (2006-07-17)(SoftSymphony)[NoDevice][].sis" size="59140" crc="8a9b449e" md5="4e3fa560f3c635e0e90c25caabe0caed" sha1="2dc70c22931fb6859045564a8f244e90f1e9764c"/>
+	</machine>
+	<machine name="Solitude_2 FP2_ipaper by ianyumi.sis v1.0.0 (2009-11-10)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Solitude_2 FP2_ipaper by ianyumi.sis v1.0.0 (2009-11-10)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Solitude_2 FP2_ipaper by ianyumi.sis v1.0.0 (2009-11-10)(Unknown Vendor)[S60v3][{THEME}].sis" size="1258652" crc="2fe44840" md5="9b7bcf776c54be0b50ee3bb24628c4bf" sha1="a3ebd1cc55a0e5b0937971ef4688f4d84bea9aed"/>
+	</machine>
+	<machine name="Space_Sunset v1.0.0 (2010-09-22)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Space_Sunset v1.0.0 (2010-09-22)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Space_Sunset v1.0.0 (2010-09-22)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="1758936" crc="18a5dffe" md5="b3f97076d30fde38aec8bb8c62c8868d" sha1="4b49fe854f1a97d7a07086c4ad49ad22ed97ddbe"/>
+	</machine>
+	<machine name="Special 3D Clock v8.2.0 (2012-05-14)(Vendor)[S60v3][]">
+		<description>Special 3D Clock v8.2.0 (2012-05-14)(Vendor)[S60v3][]</description>
+		<rom name="Special 3D Clock v8.2.0 (2012-05-14)(Vendor)[S60v3][].sis" size="1533248" crc="6aa872c9" md5="25c24900e6f38ff731af7d03c13df8f7" sha1="edba2b713624818faf251e46ff0a8e7c0541caec"/>
+	</machine>
+	<machine name="spiderman v1.0.0 (2009-09-27)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>spiderman v1.0.0 (2009-09-27)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="spiderman v1.0.0 (2009-09-27)(Unknown Vendor)[S60v3][{THEME}].sis" size="617908" crc="f1d2df3f" md5="46cf56ae7a7826cace10373ee7265eca" sha1="7045c8d49fd89230de7e00ed6a3f26dc43cf7566"/>
+	</machine>
+	<machine name="Springv5 v1.0.0 (2011-04-07)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Springv5 v1.0.0 (2011-04-07)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Springv5 v1.0.0 (2011-04-07)(Unknown Vendor)[S60v5][{THEME}].sis" size="1159960" crc="e8ff8cb0" md5="af80dfe3e434a9bf2f4db63cf591b9a7" sha1="3b7c4903d6158c6529624cbe752239a41333e4a4"/>
+	</machine>
+	<machine name="squraa_5th v1.0.0 (2011-01-19)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>squraa_5th v1.0.0 (2011-01-19)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="squraa_5th v1.0.0 (2011-01-19)(Unknown Vendor)[S60v3][{THEME}].sis" size="2988352" crc="ab369840" md5="8f952f956433a9a21ae655506dfbb7d4" sha1="af7d227ed6f7ee7d10284aa1a41ae355df45dddb"/>
+	</machine>
+	<machine name="Sree Krishna by SK v1.0.0 (2011-02-19)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Sree Krishna by SK v1.0.0 (2011-02-19)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Sree Krishna by SK v1.0.0 (2011-02-19)(Unknown Vendor)[S60v3][{THEME}].sis" size="111020" crc="b2dba9b7" md5="345fe4cadf8cd229d375cf224ef465ce" sha1="32b0343e5d2baf0738f173d16bd7116912cb2a7d"/>
+	</machine>
+	<machine name="SSX3 v1.0.0 (2010-03-22)(Polarbit-visit www.megawrz.com)[S60v5][]">
+		<description>SSX3 v1.0.0 (2010-03-22)(Polarbit-visit www.megawrz.com)[S60v5][]</description>
+		<rom name="SSX3 v1.0.0 (2010-03-22)(Polarbit-visit www.megawrz.com)[S60v5][].sis" size="36481424" crc="bccff067" md5="8b26b80f91944226aec5e6250e400be3" sha1="f3d77ac67b6f54c73d90b9cad8657fafded123c3"/>
+	</machine>
+	<machine name="STPuzzles v0.92.0 (2007-04-04)(FiendSoft)[NoDevice][]">
+		<description>STPuzzles v0.92.0 (2007-04-04)(FiendSoft)[NoDevice][]</description>
+		<rom name="STPuzzles v0.92.0 (2007-04-04)(FiendSoft)[NoDevice][].sis" size="354512" crc="779f6a04" md5="a2fbc94119321efd2d2e16d0764492a6" sha1="f980c5c30853f055fb0436ac6e560c1cd22ea350"/>
+	</machine>
+	<machine name="STRIKE_IND190 v1.0.0 (2010-10-18)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>STRIKE_IND190 v1.0.0 (2010-10-18)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="STRIKE_IND190 v1.0.0 (2010-10-18)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="2631608" crc="b185caed" md5="f51d1853760c09f25933e5f5def06781" sha1="95b5dfc26a2dd94f544a9803201d9672eefb2f8a"/>
+	</machine>
+	<machine name="Stripes Colors v1.0.0 (2010-07-27)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Stripes Colors v1.0.0 (2010-07-27)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Stripes Colors v1.0.0 (2010-07-27)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="1204028" crc="0d4d0896" md5="49662eb7946b630fd91672bbcb46cb39" sha1="6c79a5d0907e5e2a6e5f3fdc414208452db8c699"/>
+	</machine>
+	<machine name="sunflower v1.0.0 (2011-12-25)(Unknown Vendor)[Belle][{THEME}]">
+		<description>sunflower v1.0.0 (2011-12-25)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="sunflower v1.0.0 (2011-12-25)(Unknown Vendor)[Belle][{THEME}].sis" size="1511296" crc="5511df6a" md5="4ac9f84531b9b02627165db0d9d718b5" sha1="440202e50d690eb8bc8b5e821354726cb730f39b"/>
+	</machine>
+	<machine name="SuperScreenshot v1.3.0 (2009-04-08)(www.opda.com.cn)[S60v3][]">
+		<description>SuperScreenshot v1.3.0 (2009-04-08)(www.opda.com.cn)[S60v3][]</description>
+		<rom name="SuperScreenshot v1.3.0 (2009-04-08)(www.opda.com.cn)[S60v3][].sis" size="49128" crc="295ec6e9" md5="527d4353391ed33b79d75fc88af33d8e" sha1="84ab241beca1654a0e4527c8a73fee78d62fcc80"/>
+	</machine>
+	<machine name="Swim v0.50.0 (2009-12-22)(Bergamot Project)[S60v3][S60v5][]">
+		<description>Swim v0.50.0 (2009-12-22)(Bergamot Project)[S60v3][S60v5][]</description>
+		<rom name="Swim v0.50.0 (2009-12-22)(Bergamot Project)[S60v3][S60v5][].sis" size="46356" crc="70608b8b" md5="766c8f0316482548dafd9dbd646fb1fb" sha1="33860354481c4d4f7940bcfed1454059fabbaca9"/>
+	</machine>
+	<machine name="Symbian - Anna v1.0.0 (2011-07-02)(Sachin)[S60v3][S60v5][S^3][{THEME}]">
+		<description>Symbian - Anna v1.0.0 (2011-07-02)(Sachin)[S60v3][S60v5][S^3][{THEME}]</description>
+		<rom name="Symbian - Anna v1.0.0 (2011-07-02)(Sachin)[S60v3][S60v5][S^3][{THEME}].sis" size="1338548" crc="622561ef" md5="0017136f56ae3156eaa230abcc5cf299" sha1="1a3af022edcd12d21cb8bba65a30e63acba492e2"/>
+	</machine>
+	<machine name="Symbian Bell [T] v1.0.0 (2011-08-07)(daeva112 Dani )[S60v5][{THEME}]">
+		<description>Symbian Bell [T] v1.0.0 (2011-08-07)(daeva112 Dani )[S60v5][{THEME}]</description>
+		<rom name="Symbian Bell [T] v1.0.0 (2011-08-07)(daeva112 Dani )[S60v5][{THEME}].sis" size="2939088" crc="dfa44304" md5="9dd2409f22b2a0b3cab4bb4b148ed787" sha1="7405dcc0bc7d9b3bbd3e643b0541589b0af4979f"/>
+	</machine>
+	<machine name="Symbian^3 Hacked_5th v1.0.0 (2010-10-01)(Akbaruz)[S60v3][S60v5][{THEME}]">
+		<description>Symbian^3 Hacked_5th v1.0.0 (2010-10-01)(Akbaruz)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Symbian^3 Hacked_5th v1.0.0 (2010-10-01)(Akbaruz)[S60v3][S60v5][{THEME}].sis" size="460084" crc="73dd439b" md5="ff373b8540975ab77d77c7498ea5cf8b" sha1="d125090289d942f1b17e700a50780319468db8ef"/>
+	</machine>
+	<machine name="Synthesis v1.0.0 (2010-01-13)(life)[S60v3][{PyS60 v1.4.5}]">
+		<description>Synthesis v1.0.0 (2010-01-13)(life)[S60v3][{PyS60 v1.4.5}]</description>
+		<rom name="Synthesis v1.0.0 (2010-01-13)(life)[S60v3][{PyS60 v1.4.5}].sis" size="11020" crc="57bc083b" md5="687ed7a43fe61170244220c8a9697bdc" sha1="9722e315b0c61cea4e7d8745f5879835801405ad"/>
+	</machine>
+	<machine name="T-Fileman v1.0.0 (2011-06-02)(Kenvast Software Inc.- FoXPDA)[S60v5][]">
+		<description>T-Fileman v1.0.0 (2011-06-02)(Kenvast Software Inc.- FoXPDA)[S60v5][]</description>
+		<rom name="T-Fileman v1.0.0 (2011-06-02)(Kenvast Software Inc.- FoXPDA)[S60v5][].sis" size="137168" crc="7b9d7cdd" md5="bac522e155bc0247a852101e0621dece" sha1="fb519302569dd8e1bcfac692ede1bd4070d89bd8"/>
+	</machine>
+	<machine name="T9 Nav Beta v0.5.8 (2008-07-18)(Nuance)[S60v3][{FLASH}].sisx">
+		<description>T9 Nav Beta v0.5.8 (2008-07-18)(Nuance)[S60v3][{FLASH}].sisx</description>
+		<rom name="T9 Nav Beta v0.5.8 (2008-07-18)(Nuance)[S60v3][{FLASH}].sisx" size="512664" crc="65130041" md5="ebf1c683cf9450e1c516c2e3bf2a5136" sha1="963c6a0c6e29e5ebe7c4cff973385cf95d0f04c8"/>
+	</machine>
+	<machine name="tamanna v1.0.0 (2013-07-19)(Unknown Vendor)[Belle][{THEME}]">
+		<description>tamanna v1.0.0 (2013-07-19)(Unknown Vendor)[Belle][{THEME}]</description>
+		<rom name="tamanna v1.0.0 (2013-07-19)(Unknown Vendor)[Belle][{THEME}].sis" size="1052440" crc="fe378a60" md5="3c9db5e41d9eca2fd8ad862029548ad2" sha1="46acc7bcb2c1562c67500033d40834bbd4054c41"/>
+	</machine>
+	<machine name="tehkLight Colors v1.0.0 (2010-01-18)(Tehkseven Studios)[S60v3][S60v5][{THEME}]">
+		<description>tehkLight Colors v1.0.0 (2010-01-18)(Tehkseven Studios)[S60v3][S60v5][{THEME}]</description>
+		<rom name="tehkLight Colors v1.0.0 (2010-01-18)(Tehkseven Studios)[S60v3][S60v5][{THEME}].sis" size="1018508" crc="9c0b7395" md5="fb7deb46af825838e899e56bc299a33c" sha1="f37c193e9a1c014bc568133f933f94f1d555fca5"/>
+	</machine>
+	<machine name="tehkLightPink v1.0.0 (2010-01-12)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>tehkLightPink v1.0.0 (2010-01-12)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="tehkLightPink v1.0.0 (2010-01-12)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="78312" crc="d0e94394" md5="403e2efc27b80c889b7b54f03bffaa10" sha1="d34dc856fe9ec50865d12e7d832b757d79c559f9"/>
+	</machine>
+	<machine name="Tema Nokia v0.0.0 (2009-11-14)(nokialino.it)[S60v3][{THEME}]">
+		<description>Tema Nokia v0.0.0 (2009-11-14)(nokialino.it)[S60v3][{THEME}]</description>
+		<rom name="Tema Nokia v0.0.0 (2009-11-14)(nokialino.it)[S60v3][{THEME}].sis" size="30568" crc="2f159735" md5="033ab169585104c63020c6da5a5b3d4d" sha1="a4d8f98db094cebd1bdd223da68d1ede92452546"/>
+	</machine>
+	<machine name="The Blue Bubble v1.0.0 (2011-01-25)(AJ23 Symbian Arts)[S60v3][S60v5][{THEME}]">
+		<description>The Blue Bubble v1.0.0 (2011-01-25)(AJ23 Symbian Arts)[S60v3][S60v5][{THEME}]</description>
+		<rom name="The Blue Bubble v1.0.0 (2011-01-25)(AJ23 Symbian Arts)[S60v3][S60v5][{THEME}].sis" size="2396860" crc="bdc1acdc" md5="40a1a2775b3f2bd6bdfa4d23712295df" sha1="727a61195feb6bc4ed97e5c06d918dc1958beee8"/>
+	</machine>
+	<machine name="The Cell By Mcmxc v1.0.0 (2010-05-31)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>The Cell By Mcmxc v1.0.0 (2010-05-31)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="The Cell By Mcmxc v1.0.0 (2010-05-31)(Unknown Vendor)[S60v3][{THEME}].sis" size="536804" crc="0c60d3db" md5="aa6d3916513d99fc2cd570c1d1c78c9d" sha1="98808126786a6aa1d53a7f4496c4f7453383a500"/>
+	</machine>
+	<machine name="The End By Mcmxc v1.0.0 (2010-06-24)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>The End By Mcmxc v1.0.0 (2010-06-24)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="The End By Mcmxc v1.0.0 (2010-06-24)(Unknown Vendor)[S60v3][{THEME}].sis" size="134652" crc="8f7d1f25" md5="a19cce78e3c34923d87f93d453873139" sha1="06e932d57f69869a2abd6606d6fe799618a82b57"/>
+	</machine>
+	<machine name="Theme in Rain v8.2.0 (2012-05-14)(Vendor)[S60v3][]">
+		<description>Theme in Rain v8.2.0 (2012-05-14)(Vendor)[S60v3][]</description>
+		<rom name="Theme in Rain v8.2.0 (2012-05-14)(Vendor)[S60v3][].sis" size="1533232" crc="407f58a4" md5="068f17e9e78b544bff5eddf40447eb0c" sha1="fd06f3de730e2d5f395b659079ce519de814e83c"/>
+	</machine>
+	<machine name="Time by Abi v1.0.0 (2010-04-18)(by Abi)[S60v3][S60v5][{THEME}]">
+		<description>Time by Abi v1.0.0 (2010-04-18)(by Abi)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Time by Abi v1.0.0 (2010-04-18)(by Abi)[S60v3][S60v5][{THEME}].sis" size="1230260" crc="cf1c2aa9" md5="da17c823b1a60ca3fc27645c2406d4b9" sha1="2c6dade238a1874efbd9d52df90f37ad14ff8afb"/>
+	</machine>
+	<machine name="top v1.0.0 (2010-07-17)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>top v1.0.0 (2010-07-17)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="top v1.0.0 (2010-07-17)(Unknown Vendor)[S60v3][{THEME}].sis" size="261700" crc="3bdf87d0" md5="19c94246bbe9a79d63620199f3db97f6" sha1="27fe365a8de9a5849f2f981517a3098bda69025b"/>
+	</machine>
+	<machine name="Touch Screen By Mcmxc v1.0.0 (2010-07-05)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Touch Screen By Mcmxc v1.0.0 (2010-07-05)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Touch Screen By Mcmxc v1.0.0 (2010-07-05)(Unknown Vendor)[S60v3][{THEME}].sis" size="128904" crc="afcb2d5e" md5="53eb90b6435aaec04626f2a32891107c" sha1="c4285779ce3872be31dc373fe39f8db205169d95"/>
+	</machine>
+	<machine name="Touch Screen By Mcmxc Zedger v1.0.0 (2001-12-31)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Touch Screen By Mcmxc Zedger v1.0.0 (2001-12-31)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Touch Screen By Mcmxc Zedger v1.0.0 (2001-12-31)(Unknown Vendor)[S60v3][{THEME}].sis" size="127660" crc="6b490bf0" md5="767409109a5542c6f2fba811d6c3a259" sha1="4eb83e39c425c5f70890aedb6a5b59e3fe609ff9"/>
+	</machine>
+	<machine name="TouchCalc v0.91.0 (2008-01-15)(Dreamshare)[NoDevice][]">
+		<description>TouchCalc v0.91.0 (2008-01-15)(Dreamshare)[NoDevice][]</description>
+		<rom name="TouchCalc v0.91.0 (2008-01-15)(Dreamshare)[NoDevice][].sis" size="26340" crc="944e3887" md5="bd406f6f3247c87aa7ff84890ebe0b63" sha1="02c39cda7d096fd508a44aa50e1126eb11b00ade"/>
+	</machine>
+	<machine name="Train By Sajjad v1.0.0 (2010-01-07)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Train By Sajjad v1.0.0 (2010-01-07)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Train By Sajjad v1.0.0 (2010-01-07)(Unknown Vendor)[S60v3][{THEME}].sis" size="1303564" crc="d8912929" md5="899b73a912c807b1b493ac53fa85f726" sha1="59c2ba4c61c18ccb8a07ec67e130bc48250df6cf"/>
+	</machine>
+	<machine name="Transparent Gray&amp;Black&amp;Red v1.0.0 (2010-01-19)(..eve.. - dotsis member)[S60v5][{THEME}]">
+		<description>Transparent Gray&amp;Black&amp;Red v1.0.0 (2010-01-19)(..eve.. - dotsis member)[S60v5][{THEME}]</description>
+		<rom name="Transparent Gray&amp;Black&amp;Red v1.0.0 (2010-01-19)(..eve.. - dotsis member)[S60v5][{THEME}].sis" size="286664" crc="c1702a48" md5="998e4bb4d4fd5598b0b70128b605c7cd" sha1="2db5cc9cbf34a1c04346a042f1277113b028c26f"/>
+	</machine>
+	<machine name="TTGPSLogger v0.4.37 (2009-07-06)(TTINPUT)[S60v3][S60v5][]">
+		<description>TTGPSLogger v0.4.37 (2009-07-06)(TTINPUT)[S60v3][S60v5][]</description>
+		<rom name="TTGPSLogger v0.4.37 (2009-07-06)(TTINPUT)[S60v3][S60v5][].sis" size="44720" crc="1943b70e" md5="a93e5f75267c176ae600dcc92d4dbce5" sha1="6c23e75ca99d0be269a980c93255827b9f448c13"/>
+	</machine>
+	<machine name="TTGPSLogger v0.5.4 (2012-11-27)(TTINPUT)[S60v3][S60v5][]">
+		<description>TTGPSLogger v0.5.4 (2012-11-27)(TTINPUT)[S60v3][S60v5][]</description>
+		<rom name="TTGPSLogger v0.5.4 (2012-11-27)(TTINPUT)[S60v3][S60v5][].sis" size="40536" crc="f24dbc1c" md5="2c5d0c0170f66fed6b8542d961e28231" sha1="90dcd2de8b691d9942405bbad75ab072f027feba"/>
+	</machine>
+	<machine name="UC Browser Bang Bang v8.2.0 (2012-05-14)(Vendor)[S60v3][]">
+		<description>UC Browser Bang Bang v8.2.0 (2012-05-14)(Vendor)[S60v3][]</description>
+		<rom name="UC Browser Bang Bang v8.2.0 (2012-05-14)(Vendor)[S60v3][].sis" size="1533236" crc="8667ab46" md5="3f19f385aecce06c495658410e0b6679" sha1="d446ef84ada1d1df7a351d58ff742d46c9bb352f"/>
+	</machine>
+	<machine name="UC Browser MindBlowing Theme v8.2.0 (2012-05-14)(Vendor)[S60v3][]">
+		<description>UC Browser MindBlowing Theme v8.2.0 (2012-05-14)(Vendor)[S60v3][]</description>
+		<rom name="UC Browser MindBlowing Theme v8.2.0 (2012-05-14)(Vendor)[S60v3][].sis" size="1533240" crc="e33afb74" md5="2a4c0d2337fedee6365280326dc9e2f0" sha1="e0d2911840fd1f2247401b644840e970bf693d0c"/>
+	</machine>
+	<machine name="udesign_n900_new v1.0.5 (2010-01-02)(Seyd)[S60v3][{THEME}]">
+		<description>udesign_n900_new v1.0.5 (2010-01-02)(Seyd)[S60v3][{THEME}]</description>
+		<rom name="udesign_n900_new v1.0.5 (2010-01-02)(Seyd)[S60v3][{THEME}].sis" size="809472" crc="cb73234c" md5="adc65e6a9453f483099cf68e59808ff2" sha1="2cdf15a62380698b11b310a7a89c19f1dc10a6ae"/>
+	</machine>
+	<machine name="Vector Lines [Anna Icon] by yans v1.0.0 (2011-04-28)(yans themes)[S60v5][{THEME}]">
+		<description>Vector Lines [Anna Icon] by yans v1.0.0 (2011-04-28)(yans themes)[S60v5][{THEME}]</description>
+		<rom name="Vector Lines [Anna Icon] by yans v1.0.0 (2011-04-28)(yans themes)[S60v5][{THEME}].sis" size="2682792" crc="8e82e788" md5="3a532bc27b65484bbfefed5b82c256f3" sha1="e980dda422115b87e3130a851841a69088aef771"/>
+	</machine>
+	<machine name="Violet_ovi_FGshah v1.0.0 (2011-09-17)(Unknown Vendor)[S^3][{THEME}]">
+		<description>Violet_ovi_FGshah v1.0.0 (2011-09-17)(Unknown Vendor)[S^3][{THEME}]</description>
+		<rom name="Violet_ovi_FGshah v1.0.0 (2011-09-17)(Unknown Vendor)[S^3][{THEME}].sis" size="1513272" crc="cfc36bb9" md5="7ad47fcc08b24daaa94eea80c50cc299" sha1="e49b6b1331f9bdbcc77d5cd9fbcc442c533cd755"/>
+	</machine>
+	<machine name="vista iconsv2 v1.0.0 (2010-06-01)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>vista iconsv2 v1.0.0 (2010-06-01)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="vista iconsv2 v1.0.0 (2010-06-01)(Unknown Vendor)[S60v3][{THEME}].sis" size="1252900" crc="c4b454ca" md5="ebd56b83b44998ecd6620475f9573caa" sha1="e25fd6a8f0e066111211d883cac4e96abb20e3d0"/>
+	</machine>
+	<machine name="Vivaz v1.0.0 (2010-07-29)(Unknown Vendor)[S60v5][{THEME}]">
+		<description>Vivaz v1.0.0 (2010-07-29)(Unknown Vendor)[S60v5][{THEME}]</description>
+		<rom name="Vivaz v1.0.0 (2010-07-29)(Unknown Vendor)[S60v5][{THEME}].sis" size="333720" crc="d493c95e" md5="4ad1872a4f306d23054034a778204855" sha1="eda3d0180425f233bd93d936c2330a9e326b50d4"/>
+	</machine>
+	<machine name="VOA Installer v1.0.0 (2013-12-20)(Voice of America)[S^3][S^4][]">
+		<description>VOA Installer v1.0.0 (2013-12-20)(Voice of America)[S^3][S^4][]</description>
+		<rom name="VOA Installer v1.0.0 (2013-12-20)(Voice of America)[S^3][S^4][].sis" size="1428828" crc="123c4dfe" md5="c45f7dfc3f4a1206acc22d6a1c32fdd1" sha1="b522baec677fe8bad8c448491e0522249ed7fede"/>
+	</machine>
+	<machine name="VoIP v1.0.0 (2010-04-04)(Vendor)[S60v3FP1][S60v3FP2][S60v5][]">
+		<description>VoIP v1.0.0 (2010-04-04)(Vendor)[S60v3FP1][S60v3FP2][S60v5][]</description>
+		<rom name="VoIP v1.0.0 (2010-04-04)(Vendor)[S60v3FP1][S60v3FP2][S60v5][].sis" size="713012" crc="20fde1ac" md5="16dcc9832517e4b10b342a441fd039d4" sha1="d09615ef3b63e12b69d7760cb0031eb0e3230abf"/>
+	</machine>
+	<machine name="Wall-E By Sajjad v1.0.0 (2010-01-14)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Wall-E By Sajjad v1.0.0 (2010-01-14)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Wall-E By Sajjad v1.0.0 (2010-01-14)(Unknown Vendor)[S60v3][{THEME}].sis" size="758984" crc="a5d2bff7" md5="c2313c4d2d267f752bc5afd6c45e441a" sha1="cbe10fb0d570a3aec550e967626c7e83a65c3ccf"/>
+	</machine>
+	<machine name="Water By Mcmxc v1.0.0 (2010-10-27)(Unknown Vendor)[S60v3][S60v5][{THEME}]">
+		<description>Water By Mcmxc v1.0.0 (2010-10-27)(Unknown Vendor)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Water By Mcmxc v1.0.0 (2010-10-27)(Unknown Vendor)[S60v3][S60v5][{THEME}].sis" size="186528" crc="622fd169" md5="0e730916e18866f9de1d447a32aacb35" sha1="8ec7a993bfd87cbd1c5d5222842cb0f54a67c7f0"/>
+	</machine>
+	<machine name="wet Screen By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>wet Screen By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="wet Screen By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}].sis" size="333004" crc="58617ba5" md5="c5872888eeee69d16cce316e8421fe56" sha1="42dba97193117aabb70eb9a4784b9e1215c0bf5d"/>
+	</machine>
+	<machine name="White Tiger v1.0.0 (2011-07-12)(Saby)[S60v5][{THEME}]">
+		<description>White Tiger v1.0.0 (2011-07-12)(Saby)[S60v5][{THEME}]</description>
+		<rom name="White Tiger v1.0.0 (2011-07-12)(Saby)[S60v5][{THEME}].sis" size="1633544" crc="e4775bb2" md5="8251aaa1517703598f2c8268f66cb2a7" sha1="01e8d371e5e8fdc692bf27a1fd38efdb3920e62b"/>
+	</machine>
+	<machine name="Widgetizer v1.3.0 (2010-06-24)(Vendor)[NoDevice][]">
+		<description>Widgetizer v1.3.0 (2010-06-24)(Vendor)[NoDevice][]</description>
+		<rom name="Widgetizer v1.3.0 (2010-06-24)(Vendor)[NoDevice][].sis" size="116272" crc="8228696e" md5="fa63f63cec3aa3c426efbc79d9c0dadc" sha1="7340d49c0ae26798bd968c1dfa35d24fc16e8b11"/>
+	</machine>
+	<machine name="Windows 7 Black by Mario v1.0.1 (2010-03-27)(Mr.Lee)[NoDevice][{THEME}]">
+		<description>Windows 7 Black by Mario v1.0.1 (2010-03-27)(Mr.Lee)[NoDevice][{THEME}]</description>
+		<rom name="Windows 7 Black by Mario v1.0.1 (2010-03-27)(Mr.Lee)[NoDevice][{THEME}].sis" size="1975720" crc="c08ef393" md5="6b86ebda84b60f8f42326a25c40b50fd" sha1="b3488856257afd9939ed1089cb1bc1aab95ec49b"/>
+	</machine>
+	<machine name="Windows 7 BLU v1.0.0 (2010-03-28)(CHO)[S60v5][{THEME}]">
+		<description>Windows 7 BLU v1.0.0 (2010-03-28)(CHO)[S60v5][{THEME}]</description>
+		<rom name="Windows 7 BLU v1.0.0 (2010-03-28)(CHO)[S60v5][{THEME}].sis" size="1516068" crc="5ab884fc" md5="e0e03e62ecc3526301111cc720acc7d0" sha1="0f3bfc4d7ee0de3aebabd9e2379b633292a9ba23"/>
+	</machine>
+	<machine name="Windows Vista HD by yans v1.0.0 (2009-12-06)(yans themes)[S60v3][S60v5][{THEME}]">
+		<description>Windows Vista HD by yans v1.0.0 (2009-12-06)(yans themes)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Windows Vista HD by yans v1.0.0 (2009-12-06)(yans themes)[S60v3][S60v5][{THEME}].sis" size="2465788" crc="f66e7717" md5="3f027cbc23cb38390d2875ac5b26a36d" sha1="af31ac4a4da7144700f6ff21872e86531d97f802"/>
+	</machine>
+	<machine name="Windows7 by YASU v1.0.0 (2010-01-20)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Windows7 by YASU v1.0.0 (2010-01-20)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Windows7 by YASU v1.0.0 (2010-01-20)(Unknown Vendor)[S60v3][{THEME}].sis" size="1096428" crc="b8e87037" md5="d9164f5559b08f1e552f85297358ccd5" sha1="8725d302272cae059dc0e5a227701b883c27e4ef"/>
+	</machine>
+	<machine name="WoodIce v0.0.0 (2013-02-13)(Unknown Vendor)[NoDevice][{THEME}]">
+		<description>WoodIce v0.0.0 (2013-02-13)(Unknown Vendor)[NoDevice][{THEME}]</description>
+		<rom name="WoodIce v0.0.0 (2013-02-13)(Unknown Vendor)[NoDevice][{THEME}].sis" size="271232" crc="077b767a" md5="34ae63c1e4d7eb7bf88ef46931b1fc49" sha1="931b5aa981f4c717e3d5a0377f5e7f4bd8a20335"/>
+	</machine>
+	<machine name="WP7 Merto Black &amp; White v2.0.0 (2011-06-24)(Frederico Jose Jacome de Brito Santos)[S60v5][{THEME}]">
+		<description>WP7 Merto Black &amp; White v2.0.0 (2011-06-24)(Frederico Jose Jacome de Brito Santos)[S60v5][{THEME}]</description>
+		<rom name="WP7 Merto Black &amp; White v2.0.0 (2011-06-24)(Frederico Jose Jacome de Brito Santos)[S60v5][{THEME}].sis" size="2563292" crc="ed67b790" md5="73ceb1f41e63df719b0d2bbef6d76bd3" sha1="11f9e64c649c653b7c956b7d9c289a6bca20a985"/>
+	</machine>
+	<machine name="WP7 Rev by tall v1.0.0 (2011-08-13)(Update by tall)[S60v5][{THEME}]">
+		<description>WP7 Rev by tall v1.0.0 (2011-08-13)(Update by tall)[S60v5][{THEME}]</description>
+		<rom name="WP7 Rev by tall v1.0.0 (2011-08-13)(Update by tall)[S60v5][{THEME}].sis" size="785888" crc="f462db66" md5="64dc6cb1aa38cebb589e08930d325a40" sha1="5b859fcf7d589970c05eb9c844c8afe5403853c9"/>
+	</machine>
+	<machine name="WP8 Apollo Pro v1.0.0 (2011-06-24)(Ace_hp7)[S60v5][{THEME}]">
+		<description>WP8 Apollo Pro v1.0.0 (2011-06-24)(Ace_hp7)[S60v5][{THEME}]</description>
+		<rom name="WP8 Apollo Pro v1.0.0 (2011-06-24)(Ace_hp7)[S60v5][{THEME}].sis" size="710376" crc="88e77af0" md5="7621c7cf32a092813d527f6f361f8dcb" sha1="a37126931c8307ce79ca36c70b92a08e550e69ba"/>
+	</machine>
+	<machine name="Y-Ban v1.0.0 (2010-07-21)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Y-Ban v1.0.0 (2010-07-21)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Y-Ban v1.0.0 (2010-07-21)(Unknown Vendor)[S60v3][{THEME}].sis" size="428824" crc="a84ee1ea" md5="7246c3e15c6ee42ed099b6fd9d44c486" sha1="3a05b289e5bea1c8ac22736b55ebb906f8e42617"/>
+	</machine>
+	<machine name="Yeon By Mcmxc v1.0.0 (2011-02-27)(nokia)[S60v3][S60v5][{THEME}]">
+		<description>Yeon By Mcmxc v1.0.0 (2011-02-27)(nokia)[S60v3][S60v5][{THEME}]</description>
+		<rom name="Yeon By Mcmxc v1.0.0 (2011-02-27)(nokia)[S60v3][S60v5][{THEME}].sis" size="2652556" crc="de92cbea" md5="4f2ee296ed60d32925769fe8f04a1411" sha1="d56ccaa95550f6f95a3114ca0ace3c482ce4c5ec"/>
+	</machine>
+	<machine name="Zedge Gangster By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>Zedge Gangster By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="Zedge Gangster By Mcmxc v1.0.0 (2010-06-29)(Unknown Vendor)[S60v3][{THEME}].sis" size="108232" crc="fcb2c3c1" md5="1ad195372920998c8bfa4936904dc50b" sha1="2c75864ea0098764ccf531b2436ec05e95fa9b1d"/>
+	</machine>
+	<machine name="ί₮₳₨™ ᵬᶅᵾᵫᵝ №₂▪① V2.1 v2.0.1 (2010-08-27)(ί₮₳₨™ ᵬᶅᵾᵫᵝ №₂▪① iTars s)[S60v5][{THEME}]">
+		<description>ί₮₳₨™ ᵬᶅᵾᵫᵝ №₂▪① V2.1 v2.0.1 (2010-08-27)(ί₮₳₨™ ᵬᶅᵾᵫᵝ №₂▪① iTars s)[S60v5][{THEME}]</description>
+		<rom name="ί₮₳₨™ ᵬᶅᵾᵫᵝ №₂▪① V2.1 v2.0.1 (2010-08-27)(ί₮₳₨™ ᵬᶅᵾᵫᵝ №₂▪① iTars s)[S60v5][{THEME}].sis" size="915180" crc="883448e5" md5="68a945412423d91c8bf980d4529068be" sha1="8be454ed0cb36c1ad0eb5f7c91a71544a2047461"/>
+	</machine>
+	<machine name="夕阳无限好 by 44256318 v1.0.0 (2009-10-05)(Unknown Vendor)[S60v3][{THEME}]">
+		<description>夕阳无限好 by 44256318 v1.0.0 (2009-10-05)(Unknown Vendor)[S60v3][{THEME}]</description>
+		<rom name="夕阳无限好 by 44256318 v1.0.0 (2009-10-05)(Unknown Vendor)[S60v3][{THEME}].sis" size="862032" crc="67d6cc1e" md5="02a9ce57420819902629f9a6fb353508" sha1="13003cbfcf7ff05542e1035f7c1a760c87803888"/>
+	</machine>
+	<machine name="黑宙金星_DH v1.0.0 (2009-01-19)(www.du-he.com)[S60v3][{THEME}]">
+		<description>黑宙金星_DH v1.0.0 (2009-01-19)(www.du-he.com)[S60v3][{THEME}]</description>
+		<rom name="黑宙金星_DH v1.0.0 (2009-01-19)(www.du-he.com)[S60v3][{THEME}].sis" size="861836" crc="f9b11cf9" md5="c97b7e2f9c25f4a680e543b81ccb38ff" sha1="606b9bf3bf5f07444077d7867bc93b31a88d67ce"/>
+	</machine>
+</datafile>
