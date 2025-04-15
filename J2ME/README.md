@@ -1,14 +1,17 @@
 ## The "New" J2ME software archive
 Origin: https://archive.org/details/96x65pixels_j2me
-* "JARchive V7" - 562'018 titles. The full JARchive V7 (surprise!), however, split in two, due to Github's 100MB file limit.
+* "JARchive V8" - 594'840 titles. The full JARchive V8 (surprise!), however, split in four, due to Github's 100MB file limit (coming soon!). The .7z file contains the single dat.
 * "JARchive V1 Lite" - 214'056 titles. Should be noted that this is the exact same contents as libretro's "Mobile - J2ME" database.
 * "JARchive Lite V1 - V7DIFF" - 1'655 titles. The files in V1 Lite not found in V7, so if you want to save disk space, grab V7 and this, and skip V1 Lite.
 
 Origin: Other
-* "JARchive V7 - Addendum 1 - Unfiltered" - 231'100 titles. What i have hoarded from various site grabs. Any filtering in reJARchiver was disabled. Roll your own.
+* "JARchive V7 - Addendum 1 - Unfiltered" - 231'110 titles. What i have hoarded from various site grabs. Any filtering in reJARchiver was disabled. Roll your own.
+
+Older versions:
+* "JARchive V7" - 562'018 titles. The full JARchive V7 (surprise!), however, split in four, due to Github's 100MB file limit. The .7z file contains the single dat.
 ## Kahvibreak
 Origin: https://bluemaxima.org/kahvibreak
-* Simple dir2dat of the brilliant Kahvibreak. 7'291 titles.
+* Simple dir2dat of the brilliant Kahvibreak, version 1.6. 7'291 titles.
 ## (Non)GoodJ2ME
 Origin: https://rutracker.org/forum/viewtopic.php?t=6495176 and https://rutracker.org/forum/viewtopic.php?t=6495177
 * Simple dir2dat of two torrents. They contain 121'365 titles, out of which about half are not found in JARchive. If you already have JARchive V7, you can use the V7DIFF versions of these.
