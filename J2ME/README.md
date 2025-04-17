@@ -5,7 +5,7 @@ Origin: https://archive.org/details/96x65pixels_j2me
 * "JARchive Lite V1 - V8DIFF" - 2'697 titles. The files in V1 Lite not found in V8, so if you want to save disk space, use V8 and this, and skip V1 Lite.
 
 Origin: Other
-* "JARchive V7 - Addendum 1 - Unfiltered" - 231'110 titles. What i have hoarded from various site grabs. Any filtering in reJARchiver was disabled. Roll your own.
+* "JARchive V8 - Addendum 1 - Unfiltered" - 230'039 titles. What i have hoarded from various site grabs. Any filtering in reJARchiver was disabled. Roll your own.
 
 Older versions can be found in subfolders.
 ## Kahvibreak
