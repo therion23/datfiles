@@ -8,6 +8,9 @@ Origin: Other
 * "JARchive V10 - Addendum 1 - Unfiltered" - 230'039 titles. What i have hoarded from various site grabs. Any filtering in reJARchiver was disabled. Roll your own. This is now also found in releases
 
 Older diff's can be found in subfolders.
+## Freeshop
+Origin: https://archive.org/details/96x65pixels_j2me/stuff
+* A collection i picked up, sorted neatly into device folders. The English and Russian sections have been merged. 54'942 titles, but expect lots of duplicates.
 ## Kahvibreak
 Origin: https://bluemaxima.org/kahvibreak
 * Simple dir2dat of the brilliant Kahvibreak, version 1.6. 7'291 titles.
