@@ -10,7 +10,7 @@ Origin: Other
 Older diff's can be found in subfolders.
 ## Freeshop
 Origin: https://archive.org/details/96x65pixels_j2me/stuff
-* A collection i picked up, sorted neatly into device folders. The English and Russian sections have been merged. 54'942 titles, but expect lots of duplicates.
+* A collection i picked up, sorted neatly into device folders. The English and Russian sections have been kept separate. 40'629 plus 42'907 files, but expect lots of duplicates, both across languages and devices.
 ## Kahvibreak
 Origin: https://bluemaxima.org/kahvibreak
 * Simple dir2dat of the brilliant Kahvibreak, version 1.6. 7'291 titles.
