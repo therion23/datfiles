@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>JARchive V10 Rollback</name>
+		<description>The &quot;New&quot; J2ME software archive, rollback to V9</description>
+		<category>Standard DatFile</category>
+		<version>10</version>
+		<date>2025-06-18</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url>https://archive.org/details/96x65pixels_j2me</url>
+		<comment>Collection by 2s_mobile and others</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="3D Coaster Rush This games is downloaded by www.download-ngage-games.blogspot">
+		<description>3D Coaster Rush This games is downloaded by www.download-ngage-games.blogspot</description>
+		<rom name="3D Coaster Rush This games is downloaded by www.download-ngage-games.blogspot.com (Digital ChocolateThis games is downloaded by www.download-ngage-games.blogspot.com) (1.0.0) (CLDC-1.1, MIDP-2.0) (DCloop3d) (7298E469).jar" size="280551" crc="7298e469" md5="1b08795695a9a1a2b30175619920139a" sha1="29ab1f9b872aa8d327c698ab5add03d6cf7de9f3"/>
+	</machine>
+	<machine name="3D_Double_Masti">
+		<description>3D_Double_Masti</description>
+		<rom name="3D_Double_Masti (Rendered Ideas) (1.0.0) (CLDC-1.1, MIDP-2.0) (_1.com.renderedideas.platform.GameMIDlet, _2.com.renderedideas.platform.GameMIDlet, _3.com.renderedideas.platform.GameMIDlet) (1051342C).jar" size="2177619" crc="1051342c" md5="a9f56367984a7ceffe5ea2ad161be4fd" sha1="0716b52dd51bf65765d3af736634e3115fd305cc"/>
+	</machine>
+	<machine name="3in1 MixFunPAck">
+		<description>3in1 MixFunPAck</description>
+		<rom name="3in1 MixFunPAck (Rendered Ideas) (1.0.0) (CLDC-1.1, MIDP-2.0) (_1.com.renderedideas.platform.GameMIDlet, _2.com.renderedideas.platform.GameMIDlet, _3.com.renderedideas.platform.GameMIDlet) (59EBD963).jar" size="1874843" crc="59ebd963" md5="beb86d4827dfa35255816c78941a02d2" sha1="1bff96fc3418f7e0a81dc96fb8170e74ffbd0535"/>
+		<rom name="3in1 MixFunPAck (Rendered Ideas) (1.0.0) (CLDC-1.1, MIDP-2.0) (_1.com.renderedideas.platform.GameMIDlet, _2.com.renderedideas.platform.GameMIDlet, _3.com.renderedideas.platform.GameMIDlet) (A3DCA0C8).jar" size="2010877" crc="a3dca0c8" md5="4a8c2ed8e6f22843e567b6e60166d861" sha1="70e8478954eed72e7ef40d549a96737b4d0afe74"/>
+		<rom name="3in1 MixFunPAck (Rendered Ideas) (1.0.0) (CLDC-1.1, MIDP-2.0) (_1.com.renderedideas.platform.GameMIDlet, _2.com.renderedideas.platform.GameMIDlet, _3.com.renderedideas.platform.GameMIDlet) (B7A1A384).jar" size="2843472" crc="b7a1a384" md5="46029ad42de38abfc26e0bd15b17863e" sha1="0c3830c5d4cca04e3c4f54bb4bf32b426e0298b6"/>
+		<rom name="3in1 MixFunPAck (Rendered Ideas) (1.0.0) (CLDC-1.1, MIDP-2.0) (_1.com.renderedideas.platform.GameMIDlet, _2.com.renderedideas.platform.GameMIDlet, _3.com.renderedideas.platform.GameMIDlet) (CD69E19B).jar" size="1883041" crc="cd69e19b" md5="b6e95f85c84e9deaeb34db992b545a44" sha1="841b201df5bc61a4c5af0835ff863ef7cb4d2c40"/>
+	</machine>
+	<machine name="3in1 MyPets3D">
+		<description>3in1 MyPets3D</description>
+		<rom name="3in1 MyPets3D (Rendered Ideas) (1.0.0) (CLDC-1.1, MIDP-2.0) (_1.com.renderedideas.platform.GameMIDlet, _2.com.renderedideas.platform.GameMIDlet, _3.com.renderedideas.platform.GameMIDlet) (06FC83AD).jar" size="2021277" crc="06fc83ad" md5="4a6b809d57f1891188a6997c7ee6aa67" sha1="d8db19a7cd56d4751530b697b242651cb49ca787"/>
+		<rom name="3in1 MyPets3D (Rendered Ideas) (1.0.0) (CLDC-1.1, MIDP-2.0) (_1.com.renderedideas.platform.GameMIDlet, _2.com.renderedideas.platform.GameMIDlet, _3.com.renderedideas.platform.GameMIDlet) (1FF282CF).jar" size="3025825" crc="1ff282cf" md5="b8775bd5d543ca7212a32a39deab42c9" sha1="5bc4f7a2293ab149c603296d5ec1c60b04cb9283"/>
+		<rom name="3in1 MyPets3D (Rendered Ideas) (1.0.0) (CLDC-1.1, MIDP-2.0) (_1.com.renderedideas.platform.GameMIDlet, _2.com.renderedideas.platform.GameMIDlet, _3.com.renderedideas.platform.GameMIDlet) (20D5EE82).jar" size="1968462" crc="20d5ee82" md5="0e44fe8446e2f86a756bad32980b2d17" sha1="f16295202b41825a34660de1d480bb36489adcd1"/>
+		<rom name="3in1 MyPets3D (Rendered Ideas) (1.0.0) (CLDC-1.1, MIDP-2.0) (_1.com.renderedideas.platform.GameMIDlet, _2.com.renderedideas.platform.GameMIDlet, _3.com.renderedideas.platform.GameMIDlet) (DF8B0EB9).jar" size="1879058" crc="df8b0eb9" md5="f18f0e85c0dc86fc25aca77686b4e076" sha1="f959979bb923173690cbf51127cc30076b8c904f"/>
+	</machine>
+	<machine name="AMCrack">
+		<description>AMCrack</description>
+		<rom name="AMCrack (sor) (1.0) (CLDC-1.1, MIDP-2.0) (com.sor.MIDUI) (1CE67D43).jar" size="67444" crc="1ce67d43" md5="160a15b16e76f328b57fffc1a4867144" sha1="c49bc5fbadfa9dcb1638a9831e0ff90300c41efd"/>
+	</machine>
+	<machine name="AviatorCalc">
+		<description>AviatorCalc</description>
+		<rom name="AviatorCalc (www.aviatorcalc.com) (3.60) (CLDC-1.1, MIDP-2.0) (AircraftData.AircraftData, AirportData.AirportData, FlightPlanning.FlightPlanning, Navigation.Navigation, WeightBalance.WeightBal, Airmet.GetAirmet, Locator.Locator) (E93AF8D5).jar" size="340126" crc="e93af8d5" md5="7d365e11676cacc8ef4981140cb38a74" sha1="b1547c5ba3b919973137bbdc82ff6835fe2ecee1"/>
+	</machine>
+	<machine name="BoxworldG">
+		<description>BoxworldG</description>
+		<rom name="BoxworldG (cloud factory) (1.02) (CLDC-1.0, MIDP-1.0) (BoxG.Boxworld) (839A2C43).jar" size="22081" crc="839a2c43" md5="f67c08b371599b57f72233bfe74aba6b" sha1="14e917ad54682deaf99e98b9d985824aa9fac31e"/>
+	</machine>
+	<machine name="Bruce Lee-Iron Fist 3D by Kowciu">
+		<description>Bruce Lee-Iron Fist 3D by Kowciu</description>
+		<rom name="Bruce Lee-Iron Fist 3D by Kowciu (Indiagames Ltd.) (1.1.3) (CLDC-1.1, MIDP-2.0) (app.Mobile3DevMIDlet) (562F7F5C).jar" size="401145" crc="562f7f5c" md5="314e38ef53ca04b62b4cf78b67b6d9a4" sha1="42858a16026777584a9ccd96e53347bf96ddea14"/>
+	</machine>
+	<machine name="Cake Mania 2-Kowal">
+		<description>Cake Mania 2-Kowal</description>
+		<rom name="Cake Mania 2-Kowal (Vivendi Games) (1.0.13) (CLDC-1.0, MIDP-2.0) (zz) (FA670AD6).jar" size="533016" crc="fa670ad6" md5="76f9aa42961ba97876f262a48a3b1628" sha1="909d6b9b691040aab0ac3b13df464a33ebcff7bc"/>
+	</machine>
+	<machine name="Cops L.A Police">
+		<description>Cops L.A Police</description>
+		<rom name="Cops L.A Police (Gameloft SA) (1.1.1) (CLDC-1.1, MIDP-2.0) (GloftCOPS) (F79C9D37).jar" size="1108022" crc="f79c9d37" md5="fd42a7456180cb487464e2c6af6bcef4" sha1="0b062c7ed1ff94a08fcf9a41c1ccef887d5595be"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.1.2) (CLDC-1.0, MIDP-2.0) (GloftCOPS) (915BA9DA).jar" size="116075" crc="915ba9da" md5="3827dccebf13d5d1e334f5f2087c7c2a" sha1="12c8ebf8bb7407089380f7f26387b1e84f249059"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.2.1) (CLDC-1.1, MIDP-2.0) (GloftCOPS) (15E12E80).jar" size="977552" crc="15e12e80" md5="e6233ae3418035d1f76fb6e4b6ce9274" sha1="1e4bad0c16b1656e914d1d454a0288b397994b93"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.2.1) (CLDC-1.1, MIDP-2.0) (GloftCOPS) (9E03FBFA).jar" size="668382" crc="9e03fbfa" md5="cb0a91bd320beccd326f2bafea45d74d" sha1="36c2c6dc400f6b03fca5933f7595cfaf8e6cd5ff"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.2.3) (CLDC-1.1, MIDP-2.0) (GloftCOPS) (1D185D0C).jar" size="573697" crc="1d185d0c" md5="12fe2a378eea606fcfaad9960ad77fe6" sha1="aeaa5350d9764d412d88d949c3c6b870adc47424"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.2.3) (CLDC-1.1, MIDP-2.0) (GloftCOPS) (8613E61E).jar" size="564776" crc="8613e61e" md5="4902d9c0460fb92e6875516e86864bb3" sha1="79f368e7aa82d4d3d1e13b03abf8ecccb2ed2089"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.2.3) (CLDC-1.1, MIDP-2.0) (GloftCOPS) (CEEE8B2E).jar" size="1082402" crc="ceee8b2e" md5="b611db001b716a3798c665adc4208b8d" sha1="037cf8339ca7363046452a1959773081ba01572b"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.2.4) (CLDC-1.0, MIDP-2.0) (GloftCOPS) (1155429B).jar" size="315199" crc="1155429b" md5="80775a03413de72177ee145517e8b696" sha1="2ad53eed3311de0b21b1867110037e9065deb503"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.2.4) (CLDC-1.1, MIDP-2.0) (GloftCOPS) (D9028204).jar" size="569907" crc="d9028204" md5="794e750432f98aa803af0368e34a546f" sha1="6d97fd71218bf68c1a5ddb261567cbb23b8d33c0"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.2.5) (CLDC-1.0, MIDP-2.0) (GloftCOPS) (521B7D49).jar" size="309623" crc="521b7d49" md5="f97d9546e6bce0e2640963fa37c14b29" sha1="fee62dce34007c4b5e385ceb09bdaa9abb7ecb54"/>
+		<rom name="Cops L.A Police (Gameloft SA) (1.2.6) (CLDC-1.0, MIDP-2.0) (GloftCOPS) (537DD86D).jar" size="297149" crc="537dd86d" md5="a1a2d53e1ed7114b519226dde71f150c" sha1="22b20de8a3617aa7134753240720efaed77f8368"/>
+	</machine>
+	<machine name="CroWeather">
+		<description>CroWeather</description>
+		<rom name="CroWeather (Meteorological and Hydrological Service  &amp; Faculty of Electrical Engineering and Computing) (1.0.2) (CLDC-1.0, MIDP-1.0) (ActualData, Forecast, PicToday, PicTomorrow, About) (39C9BFF4).jar" size="15272" crc="39c9bff4" md5="2050aa78156a9e53367cfe5a0ba04984" sha1="865809bb617a187ecfa5fe7f2d52e5ebc87788ef"/>
+		<rom name="CroWeather (Meteorological and Hydrological Service  &amp; Faculty of Electrical Engineering and Computing) (1.0.3) (CLDC-1.0, MIDP-1.0) (ActualData, Forecast, PicToday, PicTomorrow, About) (96576C5A).jar" size="17566" crc="96576c5a" md5="1c5c34d941a1b73c7677ac9833286c26" sha1="983180b26cb9315a99a4230bed5bc58bae0de8a3"/>
+	</machine>
+	<machine name="CubasisMobile">
+		<description>CubasisMobile</description>
+		<rom name="CubasisMobile (Steinberg Media Technolgies AG) (1.0) (CLDC-1.0, MIDP-1.0) (app.CubasisMobile) (114F82A9).jar" size="91212" crc="114f82a9" md5="efebabf3854285d94d3b9295a9cfff27" sha1="29d40a3029daea286c263000addd4c400ff83f33"/>
+	</machine>
+	<machine name="Dakar 2008 by Kowal">
+		<description>Dakar 2008 by Kowal</description>
+		<rom name="Dakar 2008 by Kowal (Electronic Arts) (1.0.1) (CLDC-1.0, MIDP-1.0) (CTmidlet) (23F0FE71).jar" size="419490" crc="23f0fe71" md5="fbb5ad2c5625db801d97e7dcbdacc9a7" sha1="e21054c4050404447f4f7a59f74fafae7e19b69c"/>
+	</machine>
+	<machine name="DARE-Kowal">
+		<description>DARE-Kowal</description>
+		<rom name="DARE-Kowal (GAS Studio) (1.2) (CLDC-1.1, MIDP-2.0) (dare.mobile.Midlet) (831DD9A3).jar" size="849924" crc="831dd9a3" md5="f35ec2b4d96bcd9bb2127043fd064cf6" sha1="2ce63ce27527c3784f71be1a5e2ceefb1a58f53f"/>
+	</machine>
+	<machine name="Demo3D">
+		<description>Demo3D</description>
+		<rom name="Demo3D (Superscape Ltd.) (1.0) (CLDC-1.1, MIDP-2.0) (com.superscape.m3g.wtksamples.life3d.Life3D, com.superscape.m3g.wtksamples.pogoroo.PogoRooMIDlet, com.superscape.m3g.wtksamples.retainedmode.RetainedModeMidlet) (A525F394).jar" size="95110" crc="a525f394" md5="49b40a0f117fac5eafc91da85d4489a2" sha1="2fdf3a8fdd39358c6997f9f4d31d6876face603a"/>
+	</machine>
+	<machine name="dessy">
+		<description>dessy</description>
+		<rom name="dessy (Helsinki Institute for Information Technology) (1.0) (CLDC-1.1, MIDP-2.0) (fc.dessy.client.DessyClientMidlet, fc.dessy.client.experiment.BloomSearchExperiment, fc.dessy.client.experiment.InternetVsRemoteSyncExperiment) (097C192D).jar" size="1878924" crc="097c192d" md5="8c14663d20e425b7c33cb283bad3b8d4" sha1="49a9cdc4660cdbfae3333dbd454408265d4e2d88"/>
+	</machine>
+	<machine name="DfM_EngAraCesDanDutFinFraDeuGreHebHunChiItaJapKorLatNorPolPorRusEspSwaSweTur_Wiktionary">
+		<description>DfM_EngAraCesDanDutFinFraDeuGreHebHunChiItaJapKorLatNorPolPorRusEspSwaSweTur_Wiktionary</description>
+		<rom name="DfM_EngAraCesDanDutFinFraDeuGreHebHunChiItaJapKorLatNorPolPorRusEspSwaSweTur_Wiktionary (Gert Nuber and Contributors) (3.5.0) (CLDC-1.1, MIDP-2.0) (de.kugihan.dictionaryformids.hmi_java_me.DictionaryForMIDs) (91F1E2AD).jar" size="3603737" crc="91f1e2ad" md5="287db3021325ea5875bfdfe1448b9be8" sha1="0dc020a9ad9164b678fb66664d949f4816676b4f"/>
+	</machine>
+	<machine name="DreamIsland by Kowal">
+		<description>DreamIsland by Kowal</description>
+		<rom name="DreamIsland by Kowal (CWA) (1.0.0) (CLDC-1.0, MIDP-1.0) (GameMIDlet) (AF89B3DA).jar" size="231686" crc="af89b3da" md5="b1bb203153f1d7c47b0f461a99204549" sha1="a6b9e4fcd61d78fa3b5c272f298b1c548ed20767"/>
+	</machine>
+	<machine name="DUMMY The Hulk">
+		<description>DUMMY The Hulk</description>
+		<rom name="DUMMY The Hulk (Reserved) (1.1.4) (CLDC-1.0, MIDP-1.0) (GameMidlet) (3CB860C3).jar" size="68416" crc="3cb860c3" md5="c60adc87c885b741c87d0cd71f3b25e8" sha1="1c4047bbd2d185d9250a13a0fd8726cfd4577345"/>
+	</machine>
+	<machine name="ESCAPE">
+		<description>ESCAPE</description>
+		<rom name="Escape (acotel.com) (1.0) (CLDC-1.0, MIDP-1.0) (Escape) (9F22C78C).jar" size="31619" crc="9f22c78c" md5="cda4f0bb98d7c105433088f1561856c0" sha1="7e81288f37a7df687d710b3a0cc583a6a3c3b83e"/>
+	</machine>
+	<machine name="eXtreme Games">
+		<description>eXtreme Games</description>
+		<rom name="eXtreme Games (www.elkware.com) (1.0.1LG1) (CLDC-1.0, MIDP-1.0) (a.a.a.a.a.a.b) (B88BB8EA).jar" size="188248" crc="b88bb8ea" md5="9423fec53cc56a68e39f37fbd7ecc347" sha1="6873c1c9798596c2df4779c6142c515983bb0934"/>
+	</machine>
+	<machine name="Felix-HustlerBlackjack">
+		<description>Felix-HustlerBlackjack</description>
+		<rom name="Felix-HustlerBlackjack (Hustler Mobile) (1.00) (CLDC-1.0, MIDP-1.0) (sbj.Blackjack) (967982EE).jar" size="126833" crc="967982ee" md5="1345a209f74901f1b5c1e9ff07796856" sha1="27cbee73d9f287d2ebe6e66b98b4bc4bf9b3970e"/>
+	</machine>
+	<machine name="FIFA 2005">
+		<description>FIFA 2005</description>
+		<rom name="Fifa 2005 (www.vstuff.co.uk) (0.4.6) (CLDC-1.0, MIDP-1.0) (FIFA2005) (4945A371).jar" size="120850" crc="4945a371" md5="1f94f84b8008adb22704dca9a944ef4c" sha1="7df94a9d38d232e3c37be0e6f72628bd3ddacb6d"/>
+	</machine>
+	<machine name="Find me!">
+		<description>Find me!</description>
+		<rom name="Find me! (Roman Savchyn) (1.1.2) (CLDC-1.0, MIDP-2.1) (com.nokia.maps.example.sharing.SharingMIDlet, com.nokia.maps.example.location.LocationMIDlet, com.nokia.maps.example.search.SearchMIDlet, com.romsav.about.HelloWorldMIDlet) (A14A7DA7).jar" size="597991" crc="a14a7da7" md5="7fdd105c25f8ae0c1cfd247fe518dab2" sha1="19fee4dc35afcb0d6e49972bc2a5e11117dee43d"/>
+	</machine>
+	<machine name="FredTheFrog by Kowal">
+		<description>FredTheFrog by Kowal</description>
+		<rom name="FredTheFrog by Kowal (SNAPGAMES) (1.0) (CLDC-1.1, MIDP-2.0) (FredTheFrog) (23C5DBA1).jar" size="110164" crc="23c5dba1" md5="d5afa8f3b24b9b79eee81adc20f040de" sha1="08b4be97c118e0597c2ba8eb62260f048d5b7606"/>
+	</machine>
+	<machine name="Ghosts n Goblins [terjef]">
+		<description>Ghosts n Goblins [terjef]</description>
+		<rom name="Ghosts n Goblins [terjef] (giu) (1.0.2) (CLDC-1.0, MIDP-1.0) (ghostsnGoblins) (3CD940FF).jar" size="200131" crc="3cd940ff" md5="932bba63f8d1e1577ce2a7d043c5f6a0" sha1="e7213c16ac57857b7d4a377d022c1c8e0fb721e4"/>
+	</machine>
+	<machine name="Go To Hell">
+		<description>Go To Hell</description>
+		<rom name="Go To Hell (Morpheme Ltd.) (5.0) (CLDC-1.0, MIDP-1.0) (GoToHell) (CA9881DB).jar" size="117497" crc="ca9881db" md5="f903c1ec05085fcc5f44e60496c5f8fb" sha1="c1603f601196a93df9bc3a29e332d42fb61595e7"/>
+	</machine>
+	<machine name="GoogleTranslateMobileApplication">
+		<description>GoogleTranslateMobileApplication</description>
+		<rom name="GoogleTranslateMobileApplication (Jinath Sanjitha) (2.0) (CLDC-1.1, MIDP-2.0) (test.GoogleTranslateJavaMESample1, test.GoogleTranslateJavaMESample2, test.GoogleTranslateJavaMEInteractiveSample) (C710C8AD).jar" size="27163" crc="c710c8ad" md5="d04b3004da075e9f2941bbfdf8e2392e" sha1="779f907c5bceddc4d23f5ac81027aa0c1ad38120"/>
+	</machine>
+	<machine name="HackPack">
+		<description>HackPack</description>
+		<rom name="HackPack (Alexandros Georgiou) (1.0) (CLDC-1.0, MIDP-1.0) (decoders.Base64, decoders.NS4, decoders.Lanman, decoders.ScrSav, decoders.WSFTP, decoders.CheckPOP, decoders.JustPOP3, decoders.Watchdog, decoders.TweakIt) (5FC83A8E).jar" size="9109" crc="5fc83a8e" md5="bdcf31318e6cf71d615d7bbcf08f1a09" sha1="9aa4c91dfcc0aa75d455a8a7921814cf41a9f8b1"/>
+		<rom name="HackPack (Alexandros Georgiou) (1.0) (CLDC-1.0, MIDP-1.0) (decoders.Base64, decoders.NS4, decoders.Lanman, decoders.ScrSav, decoders.WSFTP, decoders.CheckPOP, decoders.JustPOP3, decoders.Watchdog, decoders.TweakIt) (CE5ED75C).jar" size="9108" crc="ce5ed75c" md5="5837967b0cf5e7ad1e18f3f28c06711e" sha1="04c2cbd36225f7b415aaf3e93c131bf2009cbbbc"/>
+	</machine>
+	<machine name="Health &amp; Beauty Glossary">
+		<description>Health &amp; Beauty Glossary</description>
+		<rom name="Health &amp; Beauty Glossary (FTechdb) (1.0) (CLDC-1.0, MIDP-2.0) (sm) (9A449DBA).jar" size="117158" crc="9a449dba" md5="f8aaacd92138f3fbec04fd34de46c522" sha1="14c54c2758b12891d3efb36075daf2c1aa524082"/>
+	</machine>
+	<machine name="Kung Fu Panda by Kowal">
+		<description>Kung Fu Panda by Kowal</description>
+		<rom name="Kung Fu Panda by Kowal (Electronic ArtsBiNPDA) (4.5.78) (CLDC-1.1, MIDP-2.0) (com.ea.kungfupanda.MonkeyApp) (16485FE4).jar" size="523040" crc="16485fe4" md5="1e42fcf5186aaace708de705468bf9a8" sha1="0e9afc2671046b44d9d547ee79d38a5b152987d4"/>
+	</machine>
+	<machine name="MatchPoint_Tennis -Kowal">
+		<description>MatchPoint_Tennis -Kowal</description>
+		<rom name="MatchPoint_Tennis -Kowal (Fugumobile) (1.0) (CLDC-1.1, MIDP-2.0) (Tennis_N240_320) (DBC784FE).jar" size="304654" crc="dbc784fe" md5="d8e557a4ef4870a15f953c0616414718" sha1="7680bee254d7292bd8d942b63aaa7a130c014787"/>
+	</machine>
+	<machine name="MetalSlug">
+		<description>MetalSlug</description>
+		<rom name="MetalSlug (v525 Tutto Gratis) (0.3.5) (CLDC-1.0, MIDP-1.0) (GameMIDlet) (B9AF7420).jar" size="123335" crc="b9af7420" md5="a3107c700a86e381630aae3ddd96b92e" sha1="0dc9bc33d1240236d6f1e8ec1881b333cdaae9d4"/>
+	</machine>
+	<machine name="MicroMachines">
+		<description>MicroMachines</description>
+		<rom name="MicroMachines (www.vstuff.co.uk) (1.0.35) (CLDC-1.0, MIDP-1.0) (com.carbello.micromachines.MicroMachines) (1A8B257F).jar" size="107188" crc="1a8b257f" md5="f494314505e30a0fe145c4ca580ed636" sha1="2e8a39c1333b722c9c53739342f15aa142ae3429"/>
+	</machine>
+	<machine name="Milionario">
+		<description>Milionario</description>
+		<rom name="Milionario (Celador) (1.0.0) (CLDC-1.0, MIDP-1.0) (b) (6CEB6A19).jar" size="107478" crc="6ceb6a19" md5="8e1fddfb464a582ff446d3915c9648b5" sha1="5eebf31c56483794b900cc14a2dce42f6c0b70cb"/>
+	</machine>
+	<machine name="miniMap">
+		<description>miniMap</description>
+		<rom name="miniMap (Sun Microsystems) (1.0) (CLDC-1.0, MIDP-1.0) (com.scharlemann.minimap.MiniMap, com.scharlemann.minimap.xmlparser.MiniMapParser, com.scharlemann.minimap.xmlparser.test.MiniMapParserTest) (25710829).jar" size="196536" crc="25710829" md5="90d14172d47e568f9478268d8c4c8025" sha1="cd272b29025a523f53514c65631295f21b0d0bf5"/>
+	</machine>
+	<machine name="MMAPI demos">
+		<description>MMAPI demos</description>
+		<rom name="MMAPI demos (Sun Microsystems, Inc.) (1.0.3) (CLDC-1.0, MIDP-2.0) (example.mmademo.SimpleTones, example.mmademo.SimplePlayer, example.mmademo.VideoTest, example.mmademo.PausingAudioTest) (ED71BE9C).jar" size="912098" crc="ed71be9c" md5="14380cb9e28edfa66892ed9d4feb897c" sha1="acf58244513e4b11cceb2b8b4af1a7eb61703ee2"/>
+	</machine>
+	<machine name="MobileGameSamples">
+		<description>MobileGameSamples</description>
+		<rom name="MobileGameSamples (Vendor) (1.0) (CLDC-1.0, MIDP-1.0) (it.denzosoft.mobile.simpleGame.SimpleMIDlet, it.denzosoft.mobile.racing.RacingMidlet, it.denzosoft.mobile.commando.CommandoMIDlet, it.denzosoft.mobile.deviceInfo.DeviceInfoMidlet) (C3BB5040).jar" size="80115" crc="c3bb5040" md5="064d4ef39321e5be7e47dc46bb0f56ce" sha1="b7e0d3a0c61f2e7ef94721e979920bbffdb5e3b4"/>
+	</machine>
+	<machine name="MobileMule">
+		<description>MobileMule</description>
+		<rom name="MobileMule (emule-project.net) (0.1.0) (CLDC-1.0, MIDP-1.0) (MobileMule.MobileMain) (E195053C).jar" size="44685" crc="e195053c" md5="3fb20b74b43716c7817ddec31cee0f09" sha1="dca30b433a942f8c8a2243c4f9394deac42ea812"/>
+	</machine>
+	<machine name="Moto GP 08 by Kowal">
+		<description>Moto GP 08 by Kowal</description>
+		<rom name="Moto GP 08 by Kowal (I-play) (1.1.4) (CLDC-1.0, MIDP-2.0) (com.iplay.motogp.M) (499687EE).jar" size="501715" crc="499687ee" md5="b7ec958d0ec798cee88160e88d027b07" sha1="2f111e3b21f8975c61ef78cb90d00d14558b8068"/>
+	</machine>
+	<machine name="MotoRace">
+		<description>MotoRace</description>
+		<rom name="MotoRace (Acotel) (1.0) (CLDC-1.0, MIDP-1.0) (MotoRace) (5F410DE4).jar" size="36032" crc="5f410de4" md5="46eae9050ccf16b74659e7b06483455f" sha1="37c8bbf84a90523384639bb1edbe43625f948e38"/>
+	</machine>
+	<machine name="MuLine">
+		<description>MuLine</description>
+		<rom name="MuLine (MuForge) (0.1) (CLDC-1.0, MIDP-2.0) (org.muforge.musound.muline.test.AudioPlayerChainTest, org.muforge.musound.muline.test.DataSourceTest, org.muforge.musound.muline.test.MidpOutputAudioLineTest) (B2C8A645).jar" size="69668" crc="b2c8a645" md5="5c400bf840f05bf5708a978e23dcb4a4" sha1="cf63b686eeec136491bab8d46ea7ea7ac9adcb17"/>
+		<rom name="MuLine (MuForge) (0.1) (CLDC-1.0, MIDP-2.0) (org.muforge.musound.muline.test.AudioPlayerChainTest, org.muforge.musound.muline.test.DataSourceTest, org.muforge.musound.muline.test.MidpOutputAudioLineTest) (CA32B50D).jar" size="11839" crc="ca32b50d" md5="d6a0a5777c4f19ea97f8558358080b7b" sha1="fc9e2cb075d98eb55377ca8fe4b33dde2fa1db07"/>
+	</machine>
+	<machine name="MyMobile">
+		<description>MyMobile</description>
+		<rom name="MyMobile (Rusoft Mobility Solutions) (1.0) (CLDC-1.0, MIDP-2.0) (client.Inbox, client.SendaTextMeesage, client.RoomChat, client.JobSearch, client.CricketRealTime, client.TonezClub, client.Lifeline, client.RegisterMe) (F12F3FC7).jar" size="111188" crc="f12f3fc7" md5="1046ce6d838ed98ec5799d15d769fdf2" sha1="7f67b466a984804019ac6675146e6675534ac90b"/>
+	</machine>
+	<machine name="Oware">
+		<description>Oware</description>
+		<rom name="Oware (Irving Bunton Jr) (0.1.4) (CLDC-1.0, MIDP-2.0) (net.sf.yinlight.boardgame.oware.midlet.OwareMIDlet, net.eiroca.j2me.reversi.midlet.Reversi, net.eiroca.j2me.minesweeper.MineSweeper) (7082BCC3).jar" size="228304" crc="7082bcc3" md5="e2780a62ee6b5b5e0331b7a6972b4294" sha1="58dfb44054077fb5b158daec045c0cd84694bc25"/>
+	</machine>
+	<machine name="Pang New Version">
+		<description>Pang New Version</description>
+		<rom name="Pang New Version (1.0.0) (CLDC-1.0, MIDP-1.0) (pang.MainClass) (77BF71B5).jar" size="114946" crc="77bf71b5" md5="efbf36ec35e3c7c4e27c16405bf23034" sha1="1342d19e6e551f9ee53ac7f37a303671c7330f59"/>
+	</machine>
+	<machine name="PingPongChampionship-Kowal">
+		<description>PingPongChampionship-Kowal</description>
+		<rom name="PingPongChampionship-Kowal (Fugumobile) (1.0) (CLDC-1.0, MIDP-1.0) (Table_Tennis_N240_320) (86375228).jar" size="274655" crc="86375228" md5="17495cc158c69b7dca7bd98810655ac8" sha1="4cfcf84dba0f8a43554c05f6a7116c9a14b6b274"/>
+	</machine>
+	<machine name="PokerMangaMikumi">
+		<description>PokerMangaMikumi</description>
+		<rom name="PokerMangaMikumi (Acotel) (1.0) (CLDC-1.0, MIDP-1.0) (PokerMangaMikumi) (764CEE9E).jar" size="47182" crc="764cee9e" md5="b9a53de0d96a1202a37fadbf7336fb4c" sha1="eab6054906bfaa30bf7fc837b41ca3d6b78a0106"/>
+	</machine>
+	<machine name="Pool Challenge">
+		<description>Pool Challenge</description>
+		<rom name="Pool Challenge (Blue Sphere Games Ltd.) (1.0.0) (CLDC-1.0, MIDP-1.0) (PoolChallenge) (D53FB951).jar" size="61403" crc="d53fb951" md5="4ff699e37ece97a172b826c67cc273ce" sha1="8c47d74ad8e68e5e98f7146f63fe715960422e68"/>
+	</machine>
+	<machine name="Principe Caspian by Kowal">
+		<description>Principe Caspian by Kowal</description>
+		<rom name="Principe Caspian by Kowal (Living Mobile) (1.0.0) (CLDC-1.0, MIDP-1.0) (GMIDlet) (B98620FE).jar" size="619822" crc="b98620fe" md5="9e14396f5c12fc240f53329e163b5689" sha1="e7c3a63cea207e595f44ea0b1b0436c7b1523bd8"/>
+	</machine>
+	<machine name="Prison Break-Kowal">
+		<description>Prison Break-Kowal</description>
+		<rom name="Prison Break-Kowal (VGM) (0.6.5) (CLDC-1.0, MIDP-1.0) (M) (7B924E0E).jar" size="469741" crc="7b924e0e" md5="e83d65868e872e0b23b54dd993682de5" sha1="3cbd123ed053b8b839ad9745d0e83865172fc242"/>
+	</machine>
+	<machine name="Race Driver Grid by Kowal">
+		<description>Race Driver Grid by Kowal</description>
+		<rom name="Race Driver Grid by Kowal (Glu Mobile Ltd) (1.0.4) (CLDC-1.0, MIDP-2.0) (MainMidlet) (84B46DBB).jar" size="969822" crc="84b46dbb" md5="fc18dc7a3850ef68a8e0cf95c74a6766" sha1="ed68afd5d384326550bcd1772c4013db5d38a691"/>
+	</machine>
+	<machine name="Rome Throne Of Destiny - Kowal">
+		<description>Rome Throne Of Destiny - Kowal</description>
+		<rom name="Rome Throne Of Destiny - Kowal (funmobile) (1.0.0) (CLDC-1.0, MIDP-2.0) (GameMidlet) (99DB7BF3).jar" size="238400" crc="99db7bf3" md5="4f112cbce62bfd2c884479de7e69f1e8" sha1="9a153a2923f96e7c12b7392e37f527c8adee6f58"/>
+	</machine>
+	<machine name="Sacred">
+		<description>Sacred</description>
+		<rom name="Sacred (www.elkware.com) (1.3.5) (CLDC-1.0, MIDP-2.0) (z) (AF861B1A).jar" size="180658" crc="af861b1a" md5="2424bcc81ef6ada97da9860964f8923e" sha1="0eef3324d8209849653c92fab3b39f81749a7df6"/>
+	</machine>
+	<machine name="Scacchi">
+		<description>Scacchi</description>
+		<rom name="Scacchi (acotel.com) (1.0.1) (CLDC-1.0, MIDP-1.0) (ChessMIDlet) (F6FEFCBB).jar" size="38802" crc="f6fefcbb" md5="9764d4379744f2515f2027198b42454d" sha1="9645826201f75d134ba7aae70027510170d64a7d"/>
+	</machine>
+	<machine name="SMS 2">
+		<description>SMS 2</description>
+		<rom name="SMS 2.0 (OZ Communications, Inc.) (4.4.28) (CLDC-1.0, MIDP-2.0) (com.oz.mobile.libraries.application.MobileClient, com.oz.mobile.imtest.util.ViewRms, com.oz.mobile.imtest.TestEngine, com.oz.mobile.imtest.TestStore) (A9BEC4F7).jar" size="165040" crc="a9bec4f7" md5="520ee3571c65248a3dba0ff2b6675875" sha1="86c4fe48d570320ca117417545bfce1c930772a3"/>
+	</machine>
+	<machine name="Soccer Unlimited">
+		<description>Soccer Unlimited</description>
+		<rom name="Soccer Unlimited (www.vstuff.co.uk) (1.0.3) (CLDC-1.0, MIDP-1.0) (b) (EF73C335).jar" size="77895" crc="ef73c335" md5="09a1bee5747f3a8b863bc46373d9e1b6" sha1="e496cb8b58510b104cd98e7c21a2bc4a74c59f9f"/>
+	</machine>
+	<machine name="StripPoker">
+		<description>StripPoker</description>
+		<rom name="StripPoker (Media X) (1.1) (CLDC-1.0, MIDP-1.0) (GMIDlet) (8A35E055).jar" size="96665" crc="8a35e055" md5="11d37e432931bb05424b39b499532e3b" sha1="d74661b0417420874d50a0e215fcfb4e84ea09de"/>
+	</machine>
+	<machine name="SunSamples - Games">
+		<description>SunSamples - Games</description>
+		<rom name="SunSamples - Games (Sun Microsystems, Inc.) (1.0.3) (CLDC-1.0, MIDP-1.0) (example.tilepuzzle.TilePuzzle, example.wormgame.WormMain, example.pushpuzzle.PushPuzzle, example.teatimer.TeaTimer) (AADCE21C).jar" size="34327" crc="aadce21c" md5="cf21bdc018e50e9f3542c57e475022e3" sha1="85d32172adfc4cb2b48e9c5d5e710e63ba14cc23"/>
+	</machine>
+	<machine name="Super Candy Catchup">
+		<description>Super Candy Catchup</description>
+		<rom name="Super Candy Catchup (Codeglue) (1.0) (CLDC-1.0, MIDP-2.0) (com.codeglue.supercandycatchup.SuperCandyCatchupMidlet) (C15C4A5E).jar" size="75660" crc="c15c4a5e" md5="030531af6eeac05b23b9c3dfd11452b4" sha1="fd8f1b66839ebe0b17514c3437dd32ebf64a08af"/>
+	</machine>
+	<machine name="Tactics Soccer">
+		<description>Tactics Soccer</description>
+		<rom name="Tactics Soccer (Microforum) (1.0) (CLDC-1.0, MIDP-1.0) (Tactics_Soccer.MainPRG) (7C155205).jar" size="171543" crc="7c155205" md5="4a5d38175d5512c0b4b44418514fb848" sha1="5a97e28a49a5ded72c0bd31e475ee88be6b28284"/>
+	</machine>
+	<machine name="The Bourne Conspiracy-Kowal">
+		<description>The Bourne Conspiracy-Kowal</description>
+		<rom name="The Bourne Conspiracy-Kowal (VGM) (0.3.8) (CLDC-1.0, MIDP-1.0) (BC) (312C37A4).jar" size="472658" crc="312c37a4" md5="1985641fd5340a7a8f526fc0026cbe27" sha1="4ca98074e2d05350ced2e453a59c9f7ae91b0c35"/>
+	</machine>
+	<machine name="Top Spin Tennis">
+		<description>Top Spin Tennis</description>
+		<rom name="Top Spin Tennis (makabe) (1.0.7) (CLDC-1.0, MIDP-1.0) (Tennis) (5B461E45).jar" size="98622" crc="5b461e45" md5="7d43281c646883cc26a67a8859161bf3" sha1="cd36cb5a3d130ee482518c6c7055da021a867f88"/>
+	</machine>
+	<machine name="Toy Story Mania by Kowal">
+		<description>Toy Story Mania by Kowal</description>
+		<rom name="Toy Story Mania by Kowal (Living Mobile) (1.0.1) (CLDC-1.0, MIDP-2.0) (GameMIDlet) (476528F9).jar" size="406900" crc="476528f9" md5="3c9a91fcc4ee43291a0cf9122b15b37d" sha1="2b8c1cb6c94b1839a6ad4588f285a0a7149b4ebc"/>
+	</machine>
+	<machine name="ttf_midlet_example Midlet Suite">
+		<description>ttf_midlet_example Midlet Suite</description>
+		<rom name="ttf_midlet_example Midlet Suite (Midlet Suite Vendor) (1.2.0) (CLDC-1.0, MIDP-1.0) (ntr.tt.example.midlet.TestMidlet, ntr.tt.example.midlet.TestMidletOutline, ntr.tt.example.midlet.TestMidletMathFormula) (783B41A5).jar" size="412366" crc="783b41a5" md5="28c629ccf8e4b2a0ec85c8c232b539cf" sha1="8554ba11c52a7226c2a98d4f10f133b2b5fd0415"/>
+	</machine>
+	<machine name="WappoGame">
+		<description>WappoGame</description>
+		<rom name="WappoGame (www.softex-india.com) (1.0LG1) (CLDC-1.0, MIDP-1.0) (WappoGame) (41E2FC38).jar" size="57480" crc="41e2fc38" md5="915b6d2f94d459fdb982ef660a79c126" sha1="7e7e7d8482f47b2e563fa4cbcbcb763c1f7ba807"/>
+	</machine>
+	<machine name="Winamp">
+		<description>Winamp</description>
+		<rom name="Winamp (Knyzhov Dmitry) (0.9.5) (CLDC-1.0, MIDP-2.0MIDlet-Touch-Support TrueUseNativeTextButtons falseReverseSoftkeys trueUseNativeCommands falseLGE-MIDlet-TargetLCD-Height 400LGE-MIDlet-TargetLCD-Width 240) (KDPlayer) (F5FCE509).jar" size="204970" crc="f5fce509" md5="268f3320670b48dbf9e9d24534601a1e" sha1="ae5bf3412a40ea70410baecae8d0ee16af60f451"/>
+	</machine>
+	<machine name="xe4xb8xadxe4xb8x96xe7xbaxaaxe5x85xa8xe9x9dxa2xe6x88x98xe4xbax89 xe5xaex9exe6x97xb6xe6x88x98xe7x95xa5xe7x89x88">
+		<description>xe4xb8xadxe4xb8x96xe7xbaxaaxe5x85xa8xe9x9dxa2xe6x88x98xe4xbax89 xe5xaex9exe6x97xb6xe6x88x98xe7x95xa5xe7x89x88</description>
+		<rom name="xe4xb8xadxe4xb8x96xe7xbaxaaxe5x85xa8xe9x9dxa2xe6x88x98xe4xbax89 xe5xaex9exe6x97xb6xe6x88x98xe7x95xa5xe7x89x88 (xe5x8cx97xe4xbaxacxe6x8ex8cxe5x85xa8xe9x80x9a) (1.0.0) (CLDC-1.0, MIDP-1.0) (core.MIDlet) (143E0108).jar" size="259888" crc="143e0108" md5="5f23aeff07f50a9d6407951e3048c8a9" sha1="e09e2f183ddf69acd1fb0288912b0eaa5a6e97d2"/>
+		<rom name="xe4xb8xadxe4xb8x96xe7xbaxaaxe5x85xa8xe9x9dxa2xe6x88x98xe4xbax89 xe5xaex9exe6x97xb6xe6x88x98xe7x95xa5xe7x89x88 (xe5x8cx97xe4xbaxacxe6x8ex8cxe5x85xa8xe9x80x9a) (1.0.0) (CLDC-1.0, MIDP-1.0) (core.MIDlet) (DACC336E).jar" size="229834" crc="dacc336e" md5="077b8684afe6fcd4a80b0769ae295d8b" sha1="136d1b1b4528af0ae78b0e64baa22db34ba203c0"/>
+	</machine>
+	<machine name="xe4xbcxa0xe5xa5x87xe4xb8x96xe7x95x8cxefxbcx8dxe6xa8xaaxe7xa9xbaxe5x87xbaxe4xb8x96">
+		<description>xe4xbcxa0xe5xa5x87xe4xb8x96xe7x95x8cxefxbcx8dxe6xa8xaaxe7xa9xbaxe5x87xbaxe4xb8x96</description>
+		<rom name="xe4xbcxa0xe5xa5x87xe4xb8x96xe7x95x8cxefxbcx8dxe6xa8xaaxe7xa9xbaxe5x87xbaxe4xb8x96 (xe5x8cx97xe4xbaxacxe6x95xb0xe4xbdx8dxe7xbaxa2xe5x85xacxe5x8fxb8) (1.0.3) (CLDC-1.0, MIDP-1.0) (GameAppBase) (3C96A20B).jar" size="58733" crc="3c96a20b" md5="028247426efdc291bbe01a52a20f0fcc" sha1="3454b79e151207d1ca067e98c10b616ec41c7851"/>
+	</machine>
+	<machine name="xe5xa4xa7xe8x88xaaxe6xb5xb7-xe8xbfxb7xe5xa4xb1xe7x9ax84xe5xaex9dxe8x97x8f">
+		<description>xe5xa4xa7xe8x88xaaxe6xb5xb7-xe8xbfxb7xe5xa4xb1xe7x9ax84xe5xaex9dxe8x97x8f</description>
+		<rom name="xe5xa4xa7xe8x88xaaxe6xb5xb7-xe8xbfxb7xe5xa4xb1xe7x9ax84xe5xaex9dxe8x97x8f (xe4xbaxbaxe6xb0x91xe7xbdx91xe8x82xa1xe4xbbxbdxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.0, MIDP-2.0) (main.MyMid) (13821D52).jar" size="443788" crc="13821d52" md5="dcce5757c39ceb19087b22f7aabe1c20" sha1="c888d2ca0c05439856a9800331bee442ba4bd8d9"/>
+		<rom name="xe5xa4xa7xe8x88xaaxe6xb5xb7-xe8xbfxb7xe5xa4xb1xe7x9ax84xe5xaex9dxe8x97x8f (xe4xbaxbaxe6xb0x91xe7xbdx91xe8x82xa1xe4xbbxbdxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.0, MIDP-2.0) (main.MyMid) (327F277E).jar" size="299778" crc="327f277e" md5="f59c488fc4b7e2e2bbd27f4335510904" sha1="a9acef8b8d6a1856095fd1a045c8c0f758646c24"/>
+		<rom name="xe5xa4xa7xe8x88xaaxe6xb5xb7-xe8xbfxb7xe5xa4xb1xe7x9ax84xe5xaex9dxe8x97x8f (xe4xbaxbaxe6xb0x91xe7xbdx91xe8x82xa1xe4xbbxbdxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.0, MIDP-2.0) (main.MyMid) (57DF5EE1).jar" size="391159" crc="57df5ee1" md5="7fd3cb3672985a0a287b77172aaf0a31" sha1="be38d07507e8cf96f4f6e4a764f08b1a25ea9aa2"/>
+		<rom name="xe5xa4xa7xe8x88xaaxe6xb5xb7-xe8xbfxb7xe5xa4xb1xe7x9ax84xe5xaex9dxe8x97x8f (xe4xbaxbaxe6xb0x91xe7xbdx91xe8x82xa1xe4xbbxbdxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.0, MIDP-2.0) (main.MyMid) (96495C8D).jar" size="299211" crc="96495c8d" md5="21d129fe903a5ac33d7f5d472b2edaa8" sha1="4878b8fff6ed43e9f6f50e8c6562b221dbe0e9df"/>
+		<rom name="xe5xa4xa7xe8x88xaaxe6xb5xb7-xe8xbfxb7xe5xa4xb1xe7x9ax84xe5xaex9dxe8x97x8f (xe4xbaxbaxe6xb0x91xe7xbdx91xe8x82xa1xe4xbbxbdxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.0, MIDP-2.0) (main.MyMid) (BF0FAC2F).jar" size="299812" crc="bf0fac2f" md5="7d50c6931053b721bb0b996c3855662f" sha1="3f2f8b3004556a80e81783bf921e13998bd8a576"/>
+		<rom name="xe5xa4xa7xe8x88xaaxe6xb5xb7-xe8xbfxb7xe5xa4xb1xe7x9ax84xe5xaex9dxe8x97x8f (xe4xbaxbaxe6xb0x91xe7xbdx91xe8x82xa1xe4xbbxbdxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.0, MIDP-2.0) (main.MyMid) (C629F4D9).jar" size="108858" crc="c629f4d9" md5="c87451479159a139c976ad83c6881eec" sha1="bddf4794a7e0fcf085bf275401eafc76f0f10df8"/>
+		<rom name="xe5xa4xa7xe8x88xaaxe6xb5xb7-xe8xbfxb7xe5xa4xb1xe7x9ax84xe5xaex9dxe8x97x8f (xe4xbaxbaxe6xb0x91xe7xbdx91xe8x82xa1xe4xbbxbdxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.0, MIDP-2.0) (main.MyMid) (D5719582).jar" size="526552" crc="d5719582" md5="393695a748dfd1f5d3c61c9bc1eb457c" sha1="ae89c7c9147776fa47ce57d6871a9971779e799f"/>
+	</machine>
+	<machine name="xe5xa4xa7xe8xafx9dxe5x85xabxe6x88x92">
+		<description>xe5xa4xa7xe8xafx9dxe5x85xabxe6x88x92</description>
+		<rom name="xe5xa4xa7xe8xafx9dxe5x85xabxe6x88x92 (xe6xb7xb1xe5x9cxb3xe5xb8x82xe6x95xb0xe5xadx97xe9xb1xbcxe7xa7xbbxe5x8axa8xe5xa8xb1xe4xb9x90xe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0) (CLDC-1.0, MIDP-1.0) (LoaderMIDlet) (68AD9D04).jar" size="58161" crc="68ad9d04" md5="a503f4b93ddcb586cd56760b0c8a91b5" sha1="11526ece06751a561e7befe26f06fa45709f41aa"/>
+	</machine>
+	<machine name="xe5xa4xa9xe5x9cxb0-xe6x97xa0xe9x97xb4xe5x9cxb0xe7x8bxb1">
+		<description>xe5xa4xa9xe5x9cxb0-xe6x97xa0xe9x97xb4xe5x9cxb0xe7x8bxb1</description>
+		<rom name="xe5xa4xa9xe5x9cxb0-xe6x97xa0xe9x97xb4xe5x9cxb0xe7x8bxb1 (xe5x8cx97xe4xbaxacxe5xa4xa9xe5x9cxb0xe4xbax92xe5x8axa8xe4xbfxa1xe6x81xafxe6x8ax80xe6x9cxafxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0) (CLDC-1.0, MIDP-1.0) (Jump) (EAF14777).jar" size="48027" crc="eaf14777" md5="a324690653c926ad6c530efb4bd9d3d9" sha1="c3d53e4ae33374985af3d4b2a97f074c7f58316a"/>
+	</machine>
+	<machine name="xe5xa4xa9xe5x9fx9fOnlinexe6xb5x8bxe8xafx95xe7x89">
+		<description>xe5xa4xa9xe5x9fx9fOnlinexe6xb5x8bxe8xafx95xe7x89</description>
+		<rom name="xe5xa4xa9xe5x9fx9fOnlinexe6xb5x8bxe8xafx95xe7x89 (xe5x8cx97xe4xbaxacxe9xbcx8exe8xaexafxe4xbax92xe5x8axa8xe7xa7x91xe6x8ax80xe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.4.1) (CLDC-1.0, MIDP-2.0) (game.MainMIDlet) (286CD01F).jar" size="557540" crc="286cd01f" md5="fd24e2edf4bf0a3eb93ded3243bbfb00" sha1="240c1d409134799c393ddc38d1d5c65953270238"/>
+	</machine>
+	<machine name="xe5xa4xa9xe6x89x8dxe7xa5x9exe6x8exa2">
+		<description>xe5xa4xa9xe6x89x8dxe7xa5x9exe6x8exa2</description>
+		<rom name="xe5xa4xa9xe6x89x8dxe7xa5x9exe6x8exa2 (xe6x88x90xe9x83xbdxe8x81x94xe5x90x88xe4xbcx97xe5xbfx97xe8xbdxafxe4xbbxb6xe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0) (CLDC-1.0, MIDP-1.0) (avg_40.MIDlet1) (4CDDC61B).jar" size="64319" crc="4cddc61b" md5="8eb868b0c423ae4c1a482bc2511fd3ec" sha1="8485326a5dbc6afaaff5735a89c26602d4723278"/>
+	</machine>
+	<machine name="xe6x97x8bxe8xbdxacxe7x9ax84xe7xbaxa2xe7x8exabxe7x91xb0xe4xb8x8b">
+		<description>xe6x97x8bxe8xbdxacxe7x9ax84xe7xbaxa2xe7x8exabxe7x91xb0xe4xb8x8b</description>
+		<rom name="xe6x97x8bxe8xbdxacxe7x9ax84xe7xbaxa2xe7x8exabxe7x91xb0xe4xb8x8b (xe4xb8x8axe6xb5xb7xe9x9bxaaxe9xb2xa4xe9xb1xbcxe8xaexa1xe7xaex97xe6x9cxbaxe7xa7x91xe6x8ax80xe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0) (CLDC-1.0, MIDP-1.0) (rose.CMidlet) (BE0BCAC1).jar" size="63742" crc="be0bcac1" md5="9717ff7e8618124a3c5f28ac2e9081c4" sha1="ede21b700afeffff068ccb082277541ea43bed82"/>
+	</machine>
+	<machine name="xe6xa2xa6xe5xb9xbbxe5x9bxbdxe5xbaxa6xe4xb9x8bxe5xb9xb3xe5x8ex9fxe4xbfx9dxe5x8dxabxe6x88x98">
+		<description>xe6xa2xa6xe5xb9xbbxe5x9bxbdxe5xbaxa6xe4xb9x8bxe5xb9xb3xe5x8ex9fxe4xbfx9dxe5x8dxabxe6x88x98</description>
+		<rom name="xe6xa2xa6xe5xb9xbbxe5x9bxbdxe5xbaxa6xe4xb9x8bxe5xb9xb3xe5x8ex9fxe4xbfx9dxe5x8dxabxe6x88x98 (xe5x8cx97xe4xbaxacxe6x95xb0xe4xbdx8dxe7xbaxa2xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.0, MIDP-1.0) (MLand.MLand) (AC1DC199).jar" size="61613" crc="ac1dc199" md5="e3f16afbe12e458bb75dc7e6b2d47ef5" sha1="ad15fdc6b2e910e3fa062c039edcfc62d4b38e31"/>
+	</machine>
+	<machine name="xe6xb0xb8xe6x81x92xe4xb9x8bxe6x98x9f2xe5xa4x8dxe6xb4xbbxe9x82xaaxe7xa5x9e">
+		<description>xe6xb0xb8xe6x81x92xe4xb9x8bxe6x98x9f2xe5xa4x8dxe6xb4xbbxe9x82xaaxe7xa5x9e</description>
+		<rom name="xe6xb0xb8xe6x81x92xe4xb9x8bxe6x98x9f2xe5xa4x8dxe6xb4xbbxe9x82xaaxe7xa5x9e (xe6x95xb0xe5xadx97xe9xb1xbcxe7xa7xbbxe5x8axa8xe5xa8xb1xe4xb9x90) (1.0.1) (CLDC-1.0, MIDP-1.0) (rpg2d_m.RPG2D_M) (8727AEAE).jar" size="58736" crc="8727aeae" md5="24a742af2c638ce8638bdc3fa4dae239" sha1="ae46cbf9dbd077d50bbc60a12d799e6d9bf3b842"/>
+	</machine>
+	<machine name="xe7x8cx9bxe7x8bx97xe6x97xa5xe5xbfx97">
+		<description>xe7x8cx9bxe7x8bx97xe6x97xa5xe5xbfx97</description>
+		<rom name="xe7x8cx9bxe7x8bx97xe6x97xa5xe5xbfx97 (xe6xb7xb1xe5x9cxb3xe5xb8x82xe6x95xb0xe5xadx97xe9xb1xbcxe7xa7xbbxe5x8axa8xe5xa8xb1xe4xb9x90xe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0) (CLDC-1.0, MIDP-1.0) (PetDog) (90EF8FE8).jar" size="54226" crc="90ef8fe8" md5="ec63edb67b576aaa4d68e61da31267e9" sha1="84b5428a10d4da9bcc5da1351f1d2de2b6172e2a"/>
+	</machine>
+	<machine name="xe7x96xafxe7x8bx82xe5x8cxbbxe9x99xa2">
+		<description>xe7x96xafxe7x8bx82xe5x8cxbbxe9x99xa2</description>
+		<rom name="xe7x96xafxe7x8bx82xe5x8cxbbxe9x99xa2 (xe6xb7xb1xe5x9cxb3xe5xb8x82xe6x95xb0xe5xadx97xe9xb1xbcxe7xa7xbbxe5x8axa8xe5xa8xb1xe4xb9x90xe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0) (CLDC-1.0, MIDP-1.0) (GameMidlet) (FD4E8B19).jar" size="53926" crc="fd4e8b19" md5="35ce77c741718bc7188f750e2f74f6f7" sha1="e0554bbfca45144332318e47c2a3d37797670c2c"/>
+	</machine>
+	<machine name="xe7xa9xbaxe8xa2xadxe6x9fx8fxe6x9ex97">
+		<description>xe7xa9xbaxe8xa2xadxe6x9fx8fxe6x9ex97</description>
+		<rom name="xe7xa9xbaxe8xa2xadxe6x9fx8fxe6x9ex97 (xe5x8cx97xe4xbaxacxe6x8dxb7xe9x80x9axe5x8dx8exe5xa3xb0xe8xafxadxe9x9fxb3xe6x8ax80xe6x9cxafxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.1.0) (CLDC-1.0, MIDP-1.0) (Strike) (C47778F4).jar" size="57753" crc="c47778f4" md5="401454887946411f624dab98760cbf62" sha1="31f6fb09909658515f91ee218fefd3ee9cc56f5e"/>
+	</machine>
+	<machine name="xe7xafxaexe7x90x83xe9x83xa8xe8x90xbd(xe6xadxa3xe7x89x88)">
+		<description>xe7xafxaexe7x90x83xe9x83xa8xe8x90xbd(xe6xadxa3xe7x89x88)</description>
+		<rom name="xe7xafxaexe7x90x83xe9x83xa8xe8x90xbd(xe6xadxa3xe7x89x88) (TOM.COM xe4xbax92xe8x81x94xe7xbdx91xe5x9cxa8xe7xbaxbfxe9x9bx86xe5x9bxa2) (1.0.0) (CLDC-1.1, MIDP-2.0) (com.slg.j2me.game.GameApp) (2959360B).jar" size="303837" crc="2959360b" md5="d665e9c9f3fafeb1956d997a0fa446ff" sha1="7c03154cfeb377a8411bb943b82eaecaa0dbd0d5"/>
+		<rom name="xe7xafxaexe7x90x83xe9x83xa8xe8x90xbd(xe6xadxa3xe7x89x88) (TOM.COM xe4xbax92xe8x81x94xe7xbdx91xe5x9cxa8xe7xbaxbfxe9x9bx86xe5x9bxa2) (1.0.0) (CLDC-1.1, MIDP-2.0) (com.slg.j2me.game.GameApp) (D5278EBC).jar" size="303936" crc="d5278ebc" md5="d3bc56c97f18e3ec6c5eefa157a98a6b" sha1="239e9fce80f75b6f53989cbf67ed09341d1838a8"/>
+	</machine>
+	<machine name="xe8x8dxa3xe8x80x80xe4xb9x8bxe5x89x91">
+		<description>xe8x8dxa3xe8x80x80xe4xb9x8bxe5x89x91</description>
+		<rom name="xe8x8dxa3xe8x80x80xe4xb9x8bxe5x89x91 (xe5x8cx97xe4xbaxacxe5x8axa8xe5x8ax9bxe5x88x9bxe6x83xb3xe7xa7x91xe6x8ax80xe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0) (CLDC-1.0, MIDP-1.0) (wwsStart) (85B2128E).jar" size="97086" crc="85b2128e" md5="9471f90dbaaf6edc54f9bc6d4d6791a0" sha1="617f625553f7e297144e4df55124233968fc07c1"/>
+	</machine>
+	<machine name="xe8xafxbbxe7xa9xbaxe6xb0x94">
+		<description>xe8xafxbbxe7xa9xbaxe6xb0x94</description>
+		<rom name="xe8xafxbbxe7xa9xbaxe6xb0x94 (xe5xb9xbfxe5xb7x9exe4xb8x9cxe8x99xb9xe7xa7xbbxe5x8axa8xe4xbcxa0xe5xaax92xe6x8ax80xe6x9cxafxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.1, MIDP-2.0) (main.KukiYomi_MIDP20_X) (47ED2431).jar" size="374550" crc="47ed2431" md5="a76bd452954defef3d1656c29f468589" sha1="12bc7ea706f0ac444aedc4dedf10509ca78cad06"/>
+		<rom name="xe8xafxbbxe7xa9xbaxe6xb0x94 (xe5xb9xbfxe5xb7x9exe4xb8x9cxe8x99xb9xe7xa7xbbxe5x8axa8xe4xbcxa0xe5xaax92xe6x8ax80xe6x9cxafxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.1, MIDP-2.0) (main.KukiYomi_MIDP20_X) (E442ACB7).jar" size="374533" crc="e442acb7" md5="95196dd79fd309eb2f3330e1b2115a48" sha1="03b5ea2e8432cc4800e7bd43800683147adcef7a"/>
+	</machine>
+	<machine name="xe8xafxbbxe7xa9xbaxe6xb0x942">
+		<description>xe8xafxbbxe7xa9xbaxe6xb0x942</description>
+		<rom name="xe8xafxbbxe7xa9xbaxe6xb0x942 (xe5xb9xbfxe5xb7x9exe4xb8x9cxe8x99xb9xe7xa7xbbxe5x8axa8xe4xbcxa0xe5xaax92xe6x8ax80xe6x9cxafxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.1, MIDP-2.0) (main.KukiYomi_MIDP20_X) (47BBE200).jar" size="391349" crc="47bbe200" md5="fd4efd2ed6177958bad061dc6914f548" sha1="7310fca32897131cbbec3a2c8093d7d04eed11f9"/>
+		<rom name="xe8xafxbbxe7xa9xbaxe6xb0x942 (xe5xb9xbfxe5xb7x9exe4xb8x9cxe8x99xb9xe7xa7xbbxe5x8axa8xe4xbcxa0xe5xaax92xe6x8ax80xe6x9cxafxe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0.0) (CLDC-1.1, MIDP-2.0) (main.KukiYomi_MIDP20_X) (4A2058C5).jar" size="391301" crc="4a2058c5" md5="0d715f739b50eb374d4d0e198acd89af" sha1="085a9a44df9663d611641e1166c24fcd02186fe7"/>
+	</machine>
+	<machine name="xe9xadx94xe5xb9xbbxe4xb9x8bxe6x97x852">
+		<description>xe9xadx94xe5xb9xbbxe4xb9x8bxe6x97x852</description>
+		<rom name="xe9xadx94xe5xb9xbbxe4xb9x8bxe6x97x852 (xe6x88x90xe9x83xbdxe4xbcx97xe5xbfx97xe6x95xb0xe5xadx97xe6x95xb0xe6x8dxaexe6x9cx89xe9x99x90xe5x85xacxe5x8fxb8) (1.0) (CLDC-1.0, MIDP-1.0) (rpg.GameMIDlet) (A330ED72).jar" size="63666" crc="a330ed72" md5="c49dcc9d3e3bf7f636579b0cf9940839" sha1="4092b727c2899e8ce6e47ba7702bf275f9af506f"/>
+	</machine>
+	<machine name="xefxbdxb6xefxbex97xefxbdxb0xefxbex9bxefxbdxbcxefxbex9exefxbdxafxefxbdxb8xefxbex8axefxbex9fxefxbex97xefxbex80xefxbex9exefxbdxb2xefxbdxbd">
+		<description>xefxbdxb6xefxbex97xefxbdxb0xefxbex9bxefxbdxbcxefxbex9exefxbdxafxefxbdxb8xefxbex8axefxbex9fxefxbex97xefxbex80xefxbex9exefxbdxb2xefxbdxbd</description>
+		<rom name="xefxbdxb6xefxbex97xefxbdxb0xefxbex9bxefxbdxbcxefxbex9exefxbdxafxefxbdxb8xefxbex8axefxbex9fxefxbex97xefxbex80xefxbex9exefxbdxb2xefxbdxbd (xefxbdxbcxefxbdxacxefxbdxb0xefxbex8cxefxbex9f(xe6xa0xaa)) (1.0.5) (CLDC-1.0, MIDP-1.0) (ColorLogic) (B5AE9D3C).jar" size="42726" crc="b5ae9d3c" md5="8e33319bd32db473da1ce89db0b1fe08" sha1="940ae06fe58c382fc4c30a022d08ef65d3210ca7"/>
+	</machine>
+	<machine name="Zanichelli-Inglese">
+		<description>Zanichelli-Inglese</description>
+		<rom name="Zanichelli-Inglese (Zanichelli) (1.0) (CLDC-1.0, MIDP-1.0) (dizionario) (1AC77E6E).jar" size="89324" crc="1ac77e6e" md5="3a5e8ba2a95f39c770b6c86e8cec390d" sha1="065baa8e8ac47dfec0ee43e09a6a5eea3e872d07"/>
+	</machine>
+</datafile>
