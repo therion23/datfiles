@@ -1,8 +1,8 @@
 ## The "New" J2ME software archive
 Origin: https://archive.org/details/96x65pixels_j2me
 * "JARchive V10" - 602'678 titles. The full JARchive V10 (surprise!). This has now been moved to releases due to its size.
-* "JARchive V1 Lite" - 214'056 titles. Should be noted that this is the exact same contents as libretro's "Mobile - J2ME" database.
-* "JARchive Lite V1 - V10DIFF" - 2'697 titles. The files in V1 Lite not found in V8, so if you want to save disk space, use V8 and this, and skip V1 Lite.
+* "JARchive V2 Lite" - 215'476 titles. Should be noted that this is the exact same contents as libretro's "Mobile - J2ME" database.
+* "JARchive Lite V2 - V10DIFF" - 3'580 titles. The files in V1 Lite not found in V8, so if you want to save disk space, use V8 and this, and skip V1 Lite.
 
 Origin: Other
 * "JARchive V10 - Addendum 1 - Unfiltered" - 230'039 titles. What i have hoarded from various site grabs. Any filtering in reJARchiver was disabled. Roll your own. This is now also found in releases
