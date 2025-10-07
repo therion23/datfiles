@@ -3,11 +3,12 @@ Origin: Various
 * Really old .sis files from before EPOC changed name to Symbian. They most likely only run on Psion and a few Ericsson devices. All files have been tested for valid header and content checksums.
 ## Symbian v6.0-v8.1b (S60v1 and S60v2)
 Origin: Various
-* Includes files for S80, S90 and UIQ based devices. All files have been tested for valid header and content checksums. Note that since .sis files in this format have no timestamp as such, the year has been taken from the certificate timestamps, and thus only present in files with certificates.
-## Symbian v9.1+ (S60v3 and onwards)
+* Includes files for S80, S90 and UIQ based devices. All files have been tested for valid header and content checksums. Note that since .sis files in this format have no timestamp as such, the years have been taken from the certificate timestamps, and thus only present in files with certificates.
+## Symbian v9.1+ (S60v3 onwards)
 Origin: Various
 * Includes files for ^3, ^4, Anna and Belle devices. All files have been renamed with a slightly customized version of [Symbian SIS Renamer](https://github.com/NuruDashdamir/symbian-sis-renamer/), which is known to be rather buggy. It has rejected quite a few valid files for me, so i am working on a new tool to do the job properly. Until then, this is what you get.
+* Themes have been separated from "the rest". There are so many of them, and i have absolutely no personal interest in them, so they might get wiped altogether in the future.
 
-Please note that the 2025-10 versions supersede the earlier accumulative ones. Nothing has been removed. The S60v3+ DATs will get the same treatment when i have enough to justify an update.
+Please note that the 2025-10 versions supersede the earlier accumulative ones. Nothing has been removed. Also, scanning for malware would be a good idea, at least if you intend to run any of these on real devices.
 
-Also, scanning for malware would be a good idea, at least if you intend to run any of these on real devices.
+Finally, none of these should be considered "collection grade", although EPOC32 and S60v1-v2 are getting there (my v1v2 renamer has a known codepage bug which affects less than a handful of the files). S60v3+ should only be used for validation, not collection.
