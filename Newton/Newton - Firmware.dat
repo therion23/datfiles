@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Newton - Firmware</name>
+		<description>Newton firmware files for Apple and other devices</description>
+		<category>Standard DatFile</category>
+		<version>2025-10-21</version>
+		<date>2025-10-21</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://newtonfaq.com/archives/20031101/newton-faq-nos.html</homepage>
+		<url>https://archive.org/download/AppleNewtonROMs</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Apple eMate 300 (717006)">
+		<description>Apple eMate 300 (717006)</description>
+		<rom name="Apple eMate 300 (717006).rom" size="8388608" crc="782ea604" md5="169d1383e3fb399098780035f4b4cf14" sha1="dcc42e45a6914c7a771819856a1fa05892fe0519"/>
+	</machine>
+	<machine name="Apple eMate 300 - K Diags 1.4.3">
+		<description>Apple eMate 300 - K Diags 1.4.3</description>
+		<rom name="Apple eMate 300 - K Diags 1.4.3.bin" size="1048576" crc="c50deb89" md5="03d23765f9cb446a5790c27c16daadd4" sha1="efd9dfd629e0a597b219d016270a17ccb49b3803"/>
+	</machine>
+	<machine name="Apple MessagePad 100 v1.3">
+		<description>Apple MessagePad 100 v1.3</description>
+		<rom name="Apple MessagePad 100 v1.3.rom" size="4194303" crc="aac2bcbf" md5="3f303a4b3e20c6c70983234ffecdd2d7" sha1="f658fcca3ddfa7b44341538292559d16eb51f8c1"/>
+	</machine>
+	<machine name="Apple MessagePad 110 803AS.00 (2.0a6)">
+		<description>Apple MessagePad 110 803AS.00 (2.0a6)</description>
+		<rom name="Apple MessagePad 110 803AS.00 (2.0a6).rom" size="16777216" crc="b0887fec" md5="9b4469680eb4000f3a5e225f0854836d" sha1="67fbbd6ccac8650fa3a63cd96de9ec0678cdc52b"/>
+	</machine>
+	<machine name="Apple MessagePad 110 v1.2">
+		<description>Apple MessagePad 110 v1.2</description>
+		<rom name="Apple MessagePad 110 v1.2.rom" size="4194304" crc="291aac40" md5="8867812c0d3cd26412a43768606199ef" sha1="517094fc26702b82d558d0c9d677a91de25d0b7f"/>
+	</machine>
+	<machine name="Apple MessagePad 120 v1.3 (444217)">
+		<description>Apple MessagePad 120 v1.3 (444217)</description>
+		<rom name="Apple MessagePad 120 v1.3 (444217).rom" size="4194304" crc="d8a34419" md5="080a008f88677ed96e2e91c9c8ab9990" sha1="deda5023dbcb0c11bd6384e444a800c4a271312c"/>
+	</machine>
+	<machine name="Apple MessagePad 130 v2.x (525314)">
+		<description>Apple MessagePad 130 v2.x (525314)</description>
+		<rom name="Apple MessagePad 130 v2.x (525314).rom" size="8388608" crc="88ac9c6c" md5="4907c5e5e4ec7a960a8a24d70167e9ca" sha1="44e33b72328974ed0ac41a13fe0e56bf97d15be3"/>
+	</machine>
+	<machine name="Apple MessagePad 2000 (717006)">
+		<description>Apple MessagePad 2000 (717006)</description>
+		<rom name="Apple MessagePad 2000 (717006).rom" size="8388608" crc="9001b0f8" md5="f4cb358b79877b361d6c5b7851bc7298" sha1="06751fa69b791febae7267e0486aa15eea933a53"/>
+	</machine>
+	<machine name="Apple MessagePad 2100 (717006)">
+		<description>Apple MessagePad 2100 (717006)</description>
+		<rom name="Apple MessagePad 2100 (717006).rom" size="8388608" crc="81d5efc6" md5="57123126d56ba445549a0c58632713bd" sha1="82a191652b2689ce0e254ee11c6f43c84b5185cc"/>
+	</machine>
+	<machine name="Apple MessagePad (OMP) v1.00">
+		<description>Apple MessagePad H1000 (OMP v1) v1.00</description>
+		<rom name="Apple MessagePad H1000 (OMP v1) v1.00.rom" size="4194304" crc="bab51f17" md5="d2485621f0ff7fecb27f8df274eb2ccf" sha1="5e754fe7db01ec3c331ff4d71b2dc4565eafce98"/>
+	</machine>
+	<machine name="Apple Newton ARMistice J1.image">
+		<description>Apple Newton ARMistice J1.image</description>
+		<rom name="Apple Newton ARMistice J1.image" size="4169208" crc="61b624ff" md5="14ea96a32bcf779f541da4a4bb536ef6" sha1="6541476f7542d7035716c3e6031a951dd62c585f"/>
+	</machine>
+	<machine name="Apple Newton Notepad v1.0b1">
+		<description>Apple Newton Notepad v1.0b1</description>
+		<rom name="Apple Newton Notepad v1.0b1.rom" size="4194304" crc="9fec5b35" md5="04d4c392e1e05edb203d93d007328547" sha1="87ae4afe72814117f9100b67c6fda7010463a0f8"/>
+	</machine>
+	<machine name="Motorola Marco v1.3 (444347)">
+		<description>Motorola Marco v1.3 (444347)</description>
+		<rom name="Motorola Marco v1.3 (444347).rom" size="4194304" crc="ad79abc5" md5="3795978cf24760d15ca10ef1d3797fe5" sha1="5c4731008ac402b8f0be37158482b61b36e247cc"/>
+	</machine>
+	<machine name="Sharp ExpertPad PI-7000 v1.10">
+		<description>Sharp ExpertPad PI-7000 v1.10</description>
+		<rom name="Sharp ExpertPad PI-7000 v1.10.rom" size="4194304" crc="0a2e0d96" md5="f23ca3057e077f9d89ab7a5547fb8f22" sha1="1e8e4c74ca19eee120b2647b267e2c467b668f1f"/>
+	</machine>
+	<machine name="Siemens NotePhone v1.1">
+		<description>Siemens NotePhone v1.1</description>
+		<rom name="Siemens NotePhone v1.1.rom" size="4194304" crc="45ce022a" md5="0a5ff02a6ab679e0e27a3874a0a7095f" sha1="3c7ca9ca6f97bb29ef13efee8620885ad833cab9"/>
+	</machine>
+</datafile>

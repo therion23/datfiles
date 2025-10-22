@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Newton - System Updates</name>
+		<description>Newton system updates for Apple devices</description>
+		<category>Standard DatFile</category>
+		<version>2025-10-21</version>
+		<date>2025-10-21</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>http://www.unna.org/unna/apple/software/SystemPatches/english/</homepage>
+		<url>https://40hz.org/downloads/</url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Apple eMate 300 - Y2010 Patch (732000)">
+		<description>Apple eMate 300 - Y2010 Patch (732000)</description>
+		<rom name="Patch 732000.pkg" size="55408" crc="f5034eca" md5="6cbfdcfd2e3577679088c24a65ece9b7" sha1="d5640a5184bafadea776ddce3ad6eb7b25af786b"/>
+		<rom name="README.txt" size="1592" crc="cdb1d3d2" md5="c68f363b968ff1ebb8b086782c017b6d" sha1="1e4188a49e7266ab90882f57ebf490aa5df885ee"/>
+		<rom name="Y2010 Diagnostic.pkg" size="8356" crc="1fd20b4b" md5="56888f0f3f9a0f3c2a2bb26d3a7550d6" sha1="23f7548dd64970303bcf355566feedd4dcc99983"/>
+	</machine>
+	<machine name="Apple eMate 300 - Y2010 Patch (73J186)">
+		<description>Apple eMate 300 - Y2010 Patch (73J186)</description>
+		<rom name="Patch 73J186.pkg" size="56144" crc="90370c7a" md5="a728705e6f3d1a9f36b43d01e304df1e" sha1="4ab0d0750d65a6d44e90bdb6132911000b7e23ce"/>
+		<rom name="Patch_eMate.sit" size="226425" crc="d02775ff" md5="9aa7dd2b45e638e57865a06cac0d52e9" sha1="7659004fc19635402045949c52a758dea72a6f0b"/>
+		<rom name="RExPatch.pkg" size="11636" crc="267ff5a4" md5="2092773eb3d5a9bd0d411337ee540ca4" sha1="ad00db8af04f7b90e8335e04c0b6503768387be1"/>
+		<rom name="ROMPatch.pkg" size="40620" crc="0390e619" md5="d927f8da4bb5ccb315ded55ccf0a3115" sha1="c5b4e6a8d8c3732e9f42f6658a0e9933aafee533"/>
+	</machine>
+	<machine name="Apple eMate 300 v2.1 (737246)">
+		<description>Apple eMate 300 v2.1 (737246)</description>
+		<rom name="Apple eMate 300 v2.1 (737246).pkg" size="49796" crc="213e41a9" md5="599a7008754501cc07f74317520acc73" sha1="3e9d33d7d83e0aee9b8cd5bb7b50cf3adfe5d78b"/>
+		<rom name="EMATE7~1.TXT" size="2311" crc="aed8944a" md5="1776a14ebeba7970ae45442edc16ddc4" sha1="e8698f331276f3780ebcdc404034f9f87f5f6fed"/>
+		<rom name="FONTWIDT.PKG" size="15588" crc="03845a2d" md5="1f09e972460dc21044e928616d7c13df" sha1="3d671d0ce81ac8d518a21aee292c342369fe15c3"/>
+		<rom name="LICENSE.TXT" size="5853" crc="ff62d4d9" md5="2bdfc3a14bc22513633819e99b797b11" sha1="0767f65b87cb94cf9828bc1000faf17f24b003a1"/>
+	</machine>
+	<machine name="Apple MessagePad (OMP) (stock ROM 1.00) v1.05">
+		<description>Apple MessagePad (OMP) (stock ROM 1.00) v1.05</description>
+		<rom name="Apple MessagePad (OMP) (stock ROM 1.00) v1.05.pkg" size="33916" crc="bfba022f" md5="090d634b58146ddf14506fa16f360c77" sha1="bf2691ec96e9ca06f72d3c209d72d0b4888d1da5"/>
+	</machine>
+	<machine name="Apple MessagePad (OMP) (stock ROM 1.10) v1.11">
+		<description>Apple MessagePad (OMP) (stock ROM 1.10) v1.11</description>
+		<rom name="Apple MessagePad (OMP) (stock ROM 1.10) v1.11.pkg" size="18152" crc="ae9c0876" md5="8dd08c74acafbfc85f7c699d66e4a2fd" sha1="643a05df597ef6a3e563d6534b901b61bc859f5f"/>
+	</machine>
+	<machine name="Apple MessagePad 100 v1.3 (English) (415333)">
+		<description>Apple MessagePad 100 v1.3 (English) (415333)</description>
+		<rom name="Apple MessagePad 100 v1.3 (415333).pkg" size="21336" crc="83716def" md5="47004b94e231cac88ea247a42e91b2ac" sha1="1b6187f16bb91ab44b8a691eddc06fc38df161bd"/>
+		<rom name="instruct.wri" size="4224" crc="fbb25a57" md5="98700d1a400ad20b0d75e309556137d7" sha1="a92b8ed41b6b7edce8bb622b2d4d888309ca8a12"/>
+		<rom name="readme.wri" size="4480" crc="bdae3a72" md5="ba5c2f340796a0d41edc5fb5aa780929" sha1="f1b40e58a4ebd189e3b6e8cc086a91da85008650"/>
+	</machine>
+	<machine name="Apple MessagePad 110 v1.3 (English) (345333)">
+		<description>Apple MessagePad 110 v1.3 (English) (345333)</description>
+		<rom name="Apple MessagePad 110 v1.3 (345333).pkg" size="33664" crc="80c1b05c" md5="b4f8a1f4058f5bd11e9e6678d18b3fad" sha1="b7a6ee462354a6370fb6785d3285f323dc61398c"/>
+		<rom name="INSTRUCT.WRI" size="4224" crc="1dd0e5cd" md5="6e0f3c7855b7761cf788bbb9d21d8284" sha1="c504918dc5874d39baa713a873f477f3b077a6aa"/>
+		<rom name="LICENSE.TXT" size="5800" crc="a1137937" md5="0851861023cd4cacde9e9e3ed4b862d3" sha1="c291871cde13a61f9e316c9f9df761f044fa3307"/>
+		<rom name="README.WRI" size="4480" crc="b51102b2" md5="c2893b2ed101d2439448f3bc705377e2" sha1="125b87c89adf2fe936dc943658fc7d25709d3430"/>
+	</machine>
+	<machine name="Apple MessagePad 120 v1.3 (English) (445333)">
+		<description>Apple MessagePad 120 v1.3 (English) (445333)</description>
+		<rom name="Apple MessagePad 120 v1.3 (445333).pkg" size="17248" crc="8f34db7d" md5="118818f100a04f334bbfd541d47e4dbc" sha1="b3abf79e70089c9b609d92a5c26e428ea929ed74"/>
+		<rom name="INSTRUCT.WRI" size="4224" crc="30cecfc8" md5="24a105d1691b48ae524d0dc76588b300" sha1="6f446e1278688cec5b794859b214e3f67d6689ac"/>
+		<rom name="LICENSE.TXT" size="5800" crc="a1137937" md5="0851861023cd4cacde9e9e3ed4b862d3" sha1="c291871cde13a61f9e316c9f9df761f044fa3307"/>
+		<rom name="README.WRI" size="4352" crc="52da3358" md5="57d086616d905cbd583aaf85522a7ccc" sha1="dcb8ab4c964a1f5432ce44abd037948bba36022b"/>
+	</machine>
+	<machine name="Apple MessagePad 120 v2.0 (English) (516263)">
+		<description>Apple MessagePad 120 v2.0 (English) (516263)</description>
+		<rom name="Apple MessagePad 120 v2.0 (516263).pkg" size="36616" crc="861f3e46" md5="86f4794e9e2b1a9fe51ff78902398a8a" sha1="31d8969d7ad4479535443ac64e078d4be5a9fa9e"/>
+		<rom name="INSTALL.TXT" size="2296" crc="71d8d098" md5="932129cbc65401590a997eb32e135fb3" sha1="34fa32b28f9822237f2757ae7b891c426145e039"/>
+		<rom name="LICENSE.TXT" size="5853" crc="ff62d4d9" md5="2bdfc3a14bc22513633819e99b797b11" sha1="0767f65b87cb94cf9828bc1000faf17f24b003a1"/>
+		<rom name="README.TXT" size="1404" crc="7e03ff6a" md5="707dc133d56e6307c1d1f9b3bb374e51" sha1="3ec087b704b6d7dbadb245803685489b105bf242"/>
+	</machine>
+	<machine name="Apple MessagePad 130 v2.0 (English) (526205)">
+		<description>Apple MessagePad 130 v2.0 (English) (526205)</description>
+		<rom name="Apple MessagePad 130 v2.0 (526205).pkg" size="36616" crc="bde7b739" md5="c2cb9da2bc5660890983f8bc9fcef03e" sha1="ef878114908c52591a511db07ef919370c8951ff"/>
+		<rom name="instruct.txt" size="2689" crc="e4351958" md5="c8183f9642f9413684fedce52246e37f" sha1="9aaf48879fd33eb96ed6abf78b57c5c662f89f21"/>
+		<rom name="readme.txt" size="1857" crc="1298e2e8" md5="66463157a128bbf921bd97740b85cf27" sha1="1ba9d5de355d9d00844ec18f68308d74187eee42"/>
+	</machine>
+	<machine name="Apple MessagePad 2000 &amp; 2100 (English) (710031)">
+		<description>Apple MessagePad 2000 &amp; 2100 (English) (710031)</description>
+		<rom name="Apple MessagePad 2000 &amp; 2100 (710031).pkg" size="49812" crc="e64a034d" md5="c0b8072f31bde87b3b423c5c971e1b28" sha1="fdd049d196cfc9a06a8af7a45213a7d70198ef67"/>
+		<rom name="Apple MessagePad 2000 &amp; 2100 (710031).txt" size="995" crc="5dc58472" md5="84223df926322961f25c62093cf965f0" sha1="4f0f29ff3a796848feb8cbf2d1b9cc80d2f03ab2"/>
+	</machine>
+	<machine name="Apple MessagePad 2000 &amp; 2100 (English) (717260)">
+		<description>Apple MessagePad 2000 &amp; 2100 (English) (717260)</description>
+		<rom name="Apple MessagePad 2000 &amp; 2100 (717260).pkg" size="49812" crc="90c5d96b" md5="b7f319b1de6d4e1d566aeb7addf162e4" sha1="faf67ef28d3302680d9bb73f64b4aeb43c790a90"/>
+		<rom name="Apple MessagePad 2000 &amp; 2100 (717260).txt" size="2682" crc="b3f0978f" md5="2f10f2ca9676783990cc8a1a128421b1" sha1="9eaa84570cc5f855a1be54e934ec98426dcd29da"/>
+	</machine>
+	<machine name="Apple MessagePad 2000 &amp; 2100 (German) - Y2010 Patch (742000)">
+		<description>Apple MessagePad 2000 &amp; 2100 (German) - Y2010 Patch (742000)</description>
+		<rom name="Patch 742000.pkg" size="42080" crc="00110ffc" md5="32d760ba35179df99f6378a200ae34e8" sha1="17cc965c54705ec563b3edef8ce803a9f33f2c6a"/>
+		<rom name="README.txt" size="1618" crc="ea3953a6" md5="48891ae64bfb4104d34c1797138b121f" sha1="3f48445d19f306ede3579c918374d425114b42e4"/>
+		<rom name="Y2010 Diagnostic.pkg" size="8356" crc="1fd20b4b" md5="56888f0f3f9a0f3c2a2bb26d3a7550d6" sha1="23f7548dd64970303bcf355566feedd4dcc99983"/>
+	</machine>
+	<machine name="Apple MessagePad 2000 &amp; 2100 (German) - Y2010 Patch (74J185)">
+		<description>Apple MessagePad 2000 &amp; 2100 (German) - Y2010 Patch (74J185)</description>
+		<rom name="mp747260.pkg" size="33368" crc="6712500e" md5="65cf90818904e1bff34e085e22b548a7" sha1="3c7780117663cb438e5f0b951279356fdd5c8bbc"/>
+		<rom name="Patch 74J185.pkg" size="43864" crc="c169ef3f" md5="47e04887c1db0aa9a9d9625c00213aef" sha1="d5ab38bb586feaa426d4ae22dc08c4c567157730"/>
+		<rom name="Patch_D.sit" size="102105" crc="9717416e" md5="df18120d5d467b02c3c194959278085d" sha1="db0eaef6a1ef01d919b280f50a27d7b006ac8fd2"/>
+		<rom name="RExPatch.pkg" size="11644" crc="0789590a" md5="763841e800e07980fb83d720edfc9763" sha1="be1f0c978c7f75086bdabec31149df94519bb305"/>
+		<rom name="ROMPatch.pkg" size="28340" crc="3571d747" md5="a63e65267a94999958a96abcc65708bc" sha1="38b49ead29dcdc7ba6c33a03925dfd1dbfc704cb"/>
+	</machine>
+	<machine name="Apple MessagePad 2000 &amp; 2100 (English) - Y2010 Patch (711000)">
+		<description>Apple MessagePad 2000 &amp; 2100 (English) - Y2010 Patch (711000)</description>
+		<rom name="Patch.pkg" size="60184" crc="de1cc329" md5="2a4cb22c8c0b8bddc5dfe72501091689" sha1="e178a4d7606e679d2a9556359c2e530d419eb3d7"/>
+		<rom name="Patch.sit" size="154262" crc="c6e92d4e" md5="6acbb78fc0881038b94e5fc764e08429" sha1="e2a6145041a6ae71a6cb615e59a77ee6f56e1faf"/>
+		<rom name="README.txt" size="1881" crc="f93f9b14" md5="e0270e19910707046ca97cea0bd809c8" sha1="6334628ce77e2ab9d67d9dde0a2637ed665abee4"/>
+		<rom name="RExPatch.pkg" size="11576" crc="9e5ddd47" md5="3479a1f3baee86d9fdae9191573cfd5f" sha1="b642ad363426f53c2e522e46ff257a4d56bcee52"/>
+		<rom name="ROMPatch.pkg" size="44656" crc="1f68bbd7" md5="7cae9ace0376ddd5ec77c97a96fb3104" sha1="d7ca8182bf372898d75e1eb311a4700912424899"/>
+	</machine>
+	<machine name="Apple MessagePad 2000 &amp; 2100 (English) - Y2010 Patch (712000)">
+		<description>Apple MessagePad 2000 &amp; 2100 (English) - Y2010 Patch (712000)</description>
+		<rom name="Patch.pkg" size="60184" crc="f9f46984" md5="c5925e5e966bce39886a10642a1feafa" sha1="4bd4d8efd01097afc89c3a2d6675f089e68d9599"/>
+		<rom name="README.txt" size="1649" crc="e7f0fd80" md5="084c0c4f9adb1b1bad2ac3b9f20529d5" sha1="79fbe5f1fc62e5f439aed07f66e501f9385ba964"/>
+		<rom name="Y2010 Diagnostic.pkg" size="8356" crc="1fd20b4b" md5="56888f0f3f9a0f3c2a2bb26d3a7550d6" sha1="23f7548dd64970303bcf355566feedd4dcc99983"/>
+	</machine>
+	<machine name="Apple MessagePad 2000 &amp; 2100 (English) - Y2010 Patch (71J059)">
+		<description>Apple MessagePad 2000 &amp; 2100 (English) - Y2010 Patch (71J059)</description>
+		<rom name="717260 Install Override.pkg" size="51872" crc="83b43f8b" md5="341983dc038c78c51897f3194cd980a9" sha1="dbf7d763dde44bc103c474baf532729ffb2405bb"/>
+		<rom name="Patch.pkg" size="60184" crc="b13116da" md5="2cbe42e064880108973f4de5c3fdf970" sha1="c0849efc9601e628facf16129180082c04f5136b"/>
+		<rom name="Patch.sit" size="155436" crc="f08c97be" md5="b61425c4fe6640c2bea4221451f27c1b" sha1="35d495d89ff53dfe16a901dc4bb0c53a6ef987e9"/>
+		<rom name="README.txt" size="2135" crc="1c2e7eae" md5="b3279735a02a8b84f2203842e0a5ba71" sha1="d574522448b1b948bef4a69d6b680b1ffd2cf00a"/>
+		<rom name="Y2010 Diagnostic.pkg" size="8508" crc="151d20b0" md5="63388d17721da6fd4d1b1081076c249a" sha1="b5b87357843d554caf3534ea7348eeec33ead132"/>
+	</machine>
+	<machine name="Patch Remover v0">
+		<description>Patch Remover v0</description>
+		<rom name="Patch Remover.pkg" size="28596" crc="d9ef8abe" md5="ee25a799a6377ab9677468460bc5aefb" sha1="eba15686168f0b9038f5ec7c97200850011b6ff8"/>
+		<rom name="PatchRemover.sit" size="30418" crc="56d46943" md5="5f756e360a2f08257282965fe95fe732" sha1="741a4d396bbbd601d2b0af8affe6ca43c1c6d457"/>
+		<rom name="README.txt" size="184" crc="296cfc3e" md5="39724fd42621d4f0d2e527fb5f39a939" sha1="4dbcda4b5067477f600a1d5dcf8bdcdbf4782959"/>
+		<rom name="RExPatch.pkg" size="7996" crc="827925e2" md5="e3712f47a267ae94042060050fc9d1c9" sha1="cdb1bce7bf23b5c220615bfc8d54a5af228c50e6"/>
+		<rom name="ROMPatch.pkg" size="12092" crc="1d4cd9c4" md5="66806429e2d002c23838df575c3c02f8" sha1="499a8eca5b1e921154b7e1284334a80b57bfdcce"/>
+	</machine>
+	<machine name="Y2010 Diagnostic v1.0">
+		<description>Y2010 Diagnostic v1.0</description>
+		<rom name="Y2010 Diagnostic.pkg" size="8356" crc="1fd20b4b" md5="56888f0f3f9a0f3c2a2bb26d3a7550d6" sha1="23f7548dd64970303bcf355566feedd4dcc99983"/>
+		<rom name="Y2010_Diagnostic.sit" size="7534" crc="98d85d02" md5="a312f0665730b6e7ae9444c79292c72b" sha1="0cfbcfa854193f6fe4f61028d6218a2e5692a3b3"/>
+	</machine>
+</datafile>
