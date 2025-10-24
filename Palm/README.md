@@ -50,7 +50,7 @@ When THAT is done with, i will clean up what i have made so far, and push those 
 | Palm - Firmware (addendum) | | 20251010 | 20251022 |
 | Palm - SDKs | | 20251010 | |
 | Palm - Software - CD Images | | 20251010 | 20251023 |
-| --- | ---- | ----- | ------- |
+| | | | |
 | ASCII - Timeslip Palm Magazine | | 20251011 | |
 | Handheld Computing Magazine | | 20251012 | |
 | Posse Press - Team Palmtops Cover Discs | | 20251011 | |
@@ -61,4 +61,6 @@ When THAT is done with, i will clean up what i have made so far, and push those 
 # CDROM's incorporated
 - Absolutely none (yet)
 
+# Site dumps incorporated
+- Absolutely none (yet)
 
