@@ -44,19 +44,20 @@ When THAT is done with, i will clean up what i have made so far, and push those 
 
 | Set | Tag | Added | Updated | Note |
 | --- | --- | ----- | ------- | ---- |
-| Palm - Device Software - CD Images | | 20251010 | |
-| Palm - Device Software - Other | | 20251010 | |
-| Palm - Emulators & Simulators | | 20251011 | |
-| Palm - Firmware (addendum) | | 20251010 | 20251022 |
-| Palm - SDKs | | 20251010 | |
-| Palm - Software - CD Images | | 20251010 | 20251023 |
+| Palm - Development - CD Images | Cleaning | 20251024 | 20251024 |
+| Palm - Development - SDKs | Sorting | 20251010 | 20251024 |
+| Palm - Device Software - CD Images | Cleaning | 20251010 | 20251024 |
+| Palm - Device Software - Other | Sorting | 20251010 | |
+| Palm - Emulators & Simulators | Sorting | 20251011 | |
+| Palm - Firmware (addendum) | Sorting | 20251010 | 20251022 |
+| Palm - Software - CD Images | Sorting | 20251010 | 20251024 | A perpetual mess
 | | | | |
-| ASCII - Timeslip Palm Magazine | | 20251011 | |
-| Handheld Computing Magazine | | 20251012 | |
-| Posse Press - Team Palmtops Cover Discs | | 20251011 | |
-| Palm Pulp Magazine | | 20251012 | |
-| Various - OkDoKeY Medical Library | | 20251011 | |
-| Palm - Documentation - Development | | 20251022 | |
+| ASCII - Timeslip Palm Magazine | Cleaning | 20251011 | |
+| Handheld Computing Magazine | Cleaning | 20251012 | |
+| Posse Press - Team Palmtops Cover Discs | Cleaning | 20251011 | |
+| Palm Pulp Magazine | Cleaning | 20251012 | |
+| Various - OkDoKeY Medical Library | Cleaning | 20251011 | |
+| Palm - Development - Documentation | Cleaning | 20251022 | 20251024 |
 
 # CDROM's incorporated
 - Absolutely none (yet)
