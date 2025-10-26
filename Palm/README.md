@@ -14,7 +14,7 @@ So i started brainstorming and writing tools that could give me some sort of ove
 Now, the Rubicon has been crossed. No way out but forward go.
 
 # Inclusions and exclusions
-Whatever is in the Redump collection will not be included here. First of all they do a mighty fine job, second, it is easily available, and most of all, i am not interested in disc images - their contents, however ..
+Whatever is in the Redump collection will not be included here, except for device software. First of all they do a mighty fine job, second, it is easily available, and most of all, i am not interested in disc images - their contents, however ..
 
 Whatever is in the no-intro collection might or might not be included here. For now, not. First two reasons above also apply here.
 
@@ -44,20 +44,24 @@ When THAT is done with, i will clean up what i have made so far, and push those 
 
 | Set | Tag | Added | Updated | Note |
 | --- | --- | ----- | ------- | ---- |
-| Palm - Development - CD Images | Cleaning | 20251024 | 20251024 |
-| Palm - Development - SDKs | Sorting | 20251010 | 20251024 |
+| Palm - Apps & Games - Miscellaneous | Sorting | 20251025 | 20251025 |
+| Palm - Apps & Games - Serials, Cracks & Keygens | Sorting | 20251025 | 20251026 |
+| Palm - Apps & Games - Unsorted | Sorting | 20251025 | 20251026 |
+| Palm - Development - CD Images | Sorting | 20251025 | 20251026 |
+| Palm - Development - Other | Sorting | 20251025 | 20251026 |
+| Palm - Development - SDKs | Sorting | 20251010 | 20251026 |
 | Palm - Device Software - CD Images | Cleaning | 20251010 | 20251024 |
-| Palm - Device Software - Other | Sorting | 20251010 | |
-| Palm - Emulators & Simulators | Sorting | 20251011 | |
+| Palm - Device Software - Other | Sorting | 20251010 | 20251026 |
+| Palm - Emulators & Simulators | Sorting | 20251011 | 20251025 |
 | Palm - Firmware (addendum) | Sorting | 20251010 | 20251022 |
 | Palm - Software - CD Images | Sorting | 20251010 | 20251024 | A perpetual mess
 | | | | |
-| ASCII - Timeslip Palm Magazine | Cleaning | 20251011 | |
-| Handheld Computing Magazine | Cleaning | 20251012 | |
-| Posse Press - Team Palmtops Cover Discs | Cleaning | 20251011 | |
-| Palm Pulp Magazine | Cleaning | 20251012 | |
-| Various - OkDoKeY Medical Library | Cleaning | 20251011 | |
+| Magazines - ASCII - Timeslip Palm Magazine | Cleaning | 20251011 | |
+| Magazines - Handheld Computing Magazine | Cleaning | 20251012 | |
+| Magazines - Posse Press - Team Palmtops Cover Discs | Cleaning | 20251011 | |
+| Magazines - Palm Pulp Magazine | Cleaning | 20251012 | |
 | Palm - Development - Documentation | Cleaning | 20251022 | 20251024 |
+| Palm - OkDoKeY Medical Library | Cleaning | 20251011 | |
 
 # CDROM's incorporated
 - Absolutely none (yet)
