@@ -50,16 +50,16 @@ When THAT is done with, i will clean up what i have made so far, and push those 
 | Palm - Development - CD Images | Sorting | 20251025 | 20251026 |
 | Palm - Development - Other | Sorting | 20251025 | 20251026 |
 | Palm - Development - SDKs | Sorting | 20251010 | 20251026 |
-| Palm - Device Software - CD Images | Cleaning | 20251010 | 20251024 |
+| Palm - Device Software - CD Images | Cleaning | 20251010 | 20251026 |
 | Palm - Device Software - Other | Sorting | 20251010 | 20251026 |
-| Palm - Emulators & Simulators | Sorting | 20251011 | 20251025 |
-| Palm - Firmware (addendum) | Sorting | 20251010 | 20251022 |
-| Palm - Software - CD Images | Sorting | 20251010 | 20251024 | A perpetual mess
+| Palm - Emulators & Simulators | Sorting | 20251011 | 20251026 |
+| Palm - Firmware (merged) | Sorting | 20251010 | 20251026 |
+| Palm - Software - CD Images | Sorting | 20251010 | 20251026 | A perpetual mess
 | | | | |
-| Magazines - ASCII - Timeslip Palm Magazine | Cleaning | 20251011 | |
-| Magazines - Handheld Computing Magazine | Cleaning | 20251012 | |
-| Magazines - Posse Press - Team Palmtops Cover Discs | Cleaning | 20251011 | |
-| Magazines - Palm Pulp Magazine | Cleaning | 20251012 | |
+| Magazines - ASCII - Timeslip Palm Magazine | Cleaning | 20251011 | 20251026 |
+| Magazines - Handheld Computing Magazine | Cleaning | 20251012 | 20251026 |
+| Magazines - Posse Press - Team Palmtops Cover Discs | Cleaning | 20251011 | 20251026 |
+| Magazines - Palm Pulp Magazine | Cleaning | 20251012 | 20251026 |
 | Palm - Development - Documentation | Cleaning | 20251022 | 20251024 |
 | Palm - OkDoKeY Medical Library | Cleaning | 20251011 | |
 
