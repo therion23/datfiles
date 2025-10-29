@@ -181,7 +181,9 @@ Begin
       WriteLn('  (s)trings, string(l)ists, (t)raps or (x) for everything');
       WriteLn;
       WriteLn('Example : pHist i QuickBits.prc');
+{$IFDEF SQLITE}
       WriteLn('Notes   : Uppercase the command to log to SQL (experimental)');
+{$ENDIF}
     End;
     2: WriteLn('Open error');
     3: WriteLn('Read error');
