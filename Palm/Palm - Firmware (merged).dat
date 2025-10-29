@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Palm - Firmware (merged)</name>
+		<description>Palm - Firmware (merged)</description>
+		<category>Standard DatFile</category>
+		<version>20251029</version>
+		<date>2025-10-29</date>
+		<author>Newpain (original work), t23 (additions and updates)</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Sony CLIÉ PEG-N600c-N610c v4.0 (2001)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-N600c-N610c v4.0 (2001)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-N600c-N610c v4.0 (2001)(Sony, Palm)(US).bin" size="3538944" crc="515800db" md5="2af2b9bcf0697452f4f8dbb2c25ec1d6" sha1="f0ec308b79a76713f003f7136b1f0d265b1918d2"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N700c-N710c v3.5.2 (2000-08-01)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-N700c-N710c v3.5.2 (2000-08-01)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-N700c-N710c v3.5.2 (2000-08-01)(Sony, Palm)(US).bin" size="3407872" crc="3f0feac8" md5="39f72d2928bd5ce42916e57435bf859f" sha1="d32c779d8cd2c0db6edd56a4a9a9156619b21660"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N700c-N710c v3.5.2 (2000-08-01)(Sony, Palm)(JP)">
+		<description>Sony CLIÉ PEG-N700c-N710c v3.5.2 (2000-08-01)(Sony, Palm)(JP)</description>
+		<rom name="Sony CLIÉ PEG-N700c-N710c v3.5.2 (2000-08-01)(Sony, Palm)(JP).bin" size="6291456" crc="6d1447c7" md5="3771d63e3b732cad92ba812a0fdbb44a" sha1="5c32bb9db9c6196e230b4a8c5cc0cf460b979b36"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NR70 v4.1 (2002)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-NR70 v4.1 (2002)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-NR70 v4.1 (2002)(Sony, Palm)(US).bin" size="8388608" crc="2dc1cf91" md5="7d2bf7a3ba24afb72a823467a19bff0f" sha1="b8edefcf3c78139417bcdb1eb649d5392629d2f0"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S300 v3.5.1 (1999-12-11)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-S300 v3.5.1 (1999-12-11)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-S300 v3.5.1 (1999-12-11)(Sony, Palm).bin" size="1638400" crc="361ba712" md5="f08ef88f7a2b2c11b1aa29ba5ed21a0f" sha1="f51478bc1c28c01b903aa59b6080c96cd5cc4bb9"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S320 v4.0S (2001)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-S320 v4.0S (2001)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-S320 v4.0S (2001)(Sony, Palm).bin" size="2949120" crc="17198e8f" md5="2bbea5ef635173a5ad03e71b03424202" sha1="250bbd9ab494bdf1ad081fe97367a8397d4834e8"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T400 v4.1 (2001)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-T400 v4.1 (2001)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-T400 v4.1 (2001)(Sony, Palm)(US).bin" size="3276800" crc="58311be9" md5="08a7ebecdcf0dcb4fa49742529bd52a8" sha1="ef305c459ab75ee6907349f45d3558d6b650957c"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T600 v4.1 (2001)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-T600 v4.1 (2001)(Sony, Palm)(US)</description>
+		<rom name="Palm OS v4.1 (2001)(Sony, Palm)(US)[PEG-T600].bin" size="3538944" crc="d5c49b36" md5="cc8fe4ea378b18b8c323a66f7e525591" sha1="f003d434f385c8aa8875de6b74941aa0c6c42c07"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T675C v4.1 (2002)(Sony, Palm)(EU)(M3)[YSX1230]">
+		<description>Sony CLIÉ PEG-T675C v4.1 (2002)(Sony, Palm)(EU)(M3)[YSX1230]</description>
+		<rom name="Sony CLIÉ PEG-T675C v4.1 (2002)(Sony, Palm)(EU)(M3)[YSX1230].bin" size="8388608" crc="9df443ee" md5="67e885e40d9598152f0a78119bf41001" sha1="7dec98ebe97c25382fae97405936bebd89798bf1"/>
+	</machine>
+	<machine name="HandEra 330 v3.5.2 (1999-12-11)(HandEra, Palm)">
+		<description>HandEra 330 v3.5.2 (1999-12-11)(HandEra, Palm)</description>
+		<rom name="HandEra 330 v3.5.2 (1999-12-11)(HandEra, Palm).bin" size="2097152" crc="506e3340" md5="b558c6cf560136c5f0dc66320a9073b1" sha1="08d81f4b1d64838c96235c339ad5909c1792b445"/>
+	</machine>
+	<machine name="HandEra 330 v3.5.3 (2001-07-16)(HandEra, Palm)">
+		<description>HandEra 330 v3.5.3 (2001-07-16)(HandEra, Palm)</description>
+		<rom name="HandEra 330 v3.5.3 (2001-07-16)(HandEra, Palm).bin" size="2064384" crc="fab125a9" md5="b59eccf5075667400699704cf19beedc" sha1="31aa243b982039b5926606ec8f0bb2e497e40eec"/>
+	</machine>
+	<machine name="HandEra 330 v4.1 build 402 (2002-04-02)(HandEra, Palm)">
+		<description>HandEra 330 v4.1 build 402 (2002-04-02)(HandEra, Palm)</description>
+		<rom name="HandEra 330 v4.1 build 402 (2002-04-02)(HandEra, Palm).bin" size="2064384" crc="95511273" md5="e35cec57f1ba76a04ad2763fa7564883" sha1="a5192870a9e5c7149fe2b7ab98ad3f09d51cc53a"/>
+	</machine>
+	<machine name="HandEra 330 v4.1 build 410 (2002-04-10)(HandEra, Palm)">
+		<description>HandEra 330 v4.1 build 410 (2002-04-10)(HandEra, Palm)</description>
+		<rom name="HandEra 330 v4.1 build 410 (2002-04-10)(HandEra, Palm).bin" size="2064384" crc="97b466e4" md5="7b24ab5af6dc5248092925ed23919d2a" sha1="8360263711bb6855e7a4cafee2adf2def86099f1"/>
+	</machine>
+	<machine name="HandEra 330 v4.1 build 521 (2002-05-21)(HandEra, Palm)">
+		<description>HandEra 330 v4.1 build 521 (2002-05-21)(HandEra, Palm)</description>
+		<rom name="HandEra 330 v4.1 build 521 (2002-05-21)(HandEra, Palm).bin" size="2064384" crc="af38060e" md5="8d307925ef3bb520b47124e2ecd4f8ee" sha1="a95236b3395e0a772a90a24d2e377dcd63d9397a"/>
+	</machine>
+	<machine name="HandEra 330 v4.1 build 522 (2002-05-22)(HandEra, Palm)">
+		<description>HandEra 330 v4.1 build 522 (2002-05-22)(HandEra, Palm)</description>
+		<rom name="HandEra 330 v4.1 build 522 (2002-05-22)(HandEra, Palm).bin" size="2064384" crc="ba0f1635" md5="4c6a7d8554b3c092c9b9547dca725133" sha1="640f0dbc33a5dc83fde495105a90f7b7ae64ca53"/>
+	</machine>
+	<machine name="HandEra 330 v4.1 build 920 (2002-09-20)(HandEra, Palm)">
+		<description>HandEra 330 v4.1 build 920 (2002-09-20)(HandEra, Palm)</description>
+		<rom name="HandEra 330 v4.1 build 920 (2002-09-20)(HandEra, Palm).bin" size="2064384" crc="369d4199" md5="32dd7c484cf10f55c24f6a7dd4138685" sha1="10d22a3faf936eef2381675dbe2474bd21ca9b15"/>
+	</machine>
+	<machine name="Handspring Visor Prism v3.5.2H1 (2000-01-27)(Handspring, Palm)(US)">
+		<description>Handspring Visor Prism v3.5.2H1 (2000-01-27)(Handspring, Palm)(US)</description>
+		<rom name="Handspring Visor Prism v3.5.2H1 (2000-01-27)(Handspring, Palm)(US).bin" size="16777216" crc="9560001a" md5="abb24ecf89f994c32af27739e6b66cb3" sha1="97c3caba24bc226040309194eecf76079249b66e"/>
+	</machine>
+	<machine name="Handspring Visor Platinum v3.5.2H1 (2000-01-27)(Handspring, Palm)(US)">
+		<description>Handspring Visor Platinum v3.5.2H1 (2000-01-27)(Handspring, Palm)(US)</description>
+		<rom name="Handspring Visor Platinum v3.5.2H1 (2000-01-27)(Handspring, Palm)(US).bin" size="16777216" crc="4a9b303b" md5="e8b112614cb54cbb8b18f9facac6c00a" sha1="f635c513ab4fa333d783c3d8fe7a0539a056ea0a"/>
+	</machine>
+	<machine name="Handspring Visor Edge v3.5.2H1 (2000-01-27)(Handspring, Palm)(US)">
+		<description>Handspring Visor Edge v3.5.2H1 (2000-01-27)(Handspring, Palm)(US)</description>
+		<rom name="Handspring Visor Edge v3.5.2H1 (2000-01-27)(Handspring, Palm)(US).bin" size="2097152" crc="c9e55271" md5="cefc8a6e604773dc61d7fbe1aad8ee14" sha1="749e9142f4480114c5e0d7f21ea354df7273ac5b"/>
+	</machine>
+	<machine name="Handspring Visor Edge v3.5.2H2 (2000-06-20)(Handspring, Palm)(US)">
+		<description>Handspring Visor Edge v3.5.2H2 (2000-06-20)(Handspring, Palm)(US)</description>
+		<rom name="Handspring Visor Edge v3.5.2H2 (2000-06-20)(Handspring, Palm)(US).bin" size="16777216" crc="bbd8befe" md5="af50425ce0a00dba18619ba53d39d8ef" sha1="014a3ba8f88bab1faad6bd0b8feabdcf8fe5de90"/>
+	</machine>
+	<machine name="Handspring Visor Neo &amp; Pro v3.5.2H3 (2000-06-20)(Handspring, Palm)(US)">
+		<description>Handspring Visor Neo &amp; Pro v3.5.2H3 (2000-06-20)(Handspring, Palm)(US)</description>
+		<rom name="Handspring Visor Neo &amp; Pro v3.5.2H3 (2000-06-20)(Handspring, Palm)(US).bin" size="16777216" crc="67f7958b" md5="7202da33064f7a534c33f60d68ef1c9a" sha1="3278b6ec1e3a44febe27c62415e54fb31b021096"/>
+	</machine>
+	<machine name="Handspring Visor Deluxe v3.1 (1998-12-03)(Handspring, Palm)(US)">
+		<description>Handspring Visor Deluxe v3.1 (1998-12-03)(Handspring, Palm)(US)</description>
+		<rom name="Handspring Visor Deluxe v3.1 (1998-12-03)(Handspring, Palm)(US).bin" size="2097152" crc="b47295a8" md5="c6be76a7303a321f8b0aec5824d0b6f7" sha1="d305e2ae719818960fc2c47d51ea5d54186525f5"/>
+	</machine>
+	<machine name="Handspring Visor Solo v3.1.H2 (1998-12-03)(Handspring, Palm)(US)">
+		<description>Handspring Visor Solo v3.1.H2 (1998-12-03)(Handspring, Palm)(US)</description>
+		<rom name="Handspring Visor Solo v3.1.H2 (1998-12-03)(Handspring, Palm)(US).bin" size="2097152" crc="93cded38" md5="abbdfb646697ba1795d165ea0a7bbc05" sha1="0988559dcb1ba5c518b89657243c1e8675b69be8"/>
+	</machine>
+	<machine name="Palm I705 v4.1 (2001-10-19)(Palm)[DVT2]">
+		<description>Palm I705 v4.1 (2001-10-19)(Palm)[DVT2]</description>
+		<rom name="Palm I705 v4.1 (2001-10-19)(Palm)[DVT2].bin" size="8388608" crc="13d11d56" md5="f0845e5a21418774e2e28f89204ecd95" sha1="8d2caae8ef2035b07b04a378926606d69cf014d0"/>
+	</machine>
+	<machine name="Palm I705 v4.1 (2001-11-05)(Palm)">
+		<description>Palm I705 v4.1 (2001-11-05)(Palm)</description>
+		<rom name="Palm I705 v4.1 (2001-11-05)(Palm).bin" size="16777216" crc="f12b94d1" md5="d2c706702e3c3213abd84d2d64511403" sha1="a46d758c97e45dde20c9c9f2624338ce9f7b30c6"/>
+	</machine>
+	<machine name="Palm I705 v4.1 (2001-11-05)(Palm)[almost final blue DVT]">
+		<description>Palm I705 v4.1 (2001-11-05)(Palm)[almost final blue DVT]</description>
+		<rom name="Palm I705 v4.1 (2001-11-05)(Palm)[almost final blue DVT].bin" size="4194304" crc="348f3ba7" md5="f9718b6911f06bc71e0b85b452a7b69b" sha1="0db40566aa6d7b7303d181764ef1f26b455e682e"/>
+	</machine>
+	<machine name="Palm I705 v4.1 (2001-11-05)(Palm)[Older, Small]">
+		<description>Palm I705 v4.1 (2001-11-05)(Palm)[Older, Small]</description>
+		<rom name="Palm I705 v4.1 (2001-11-05)(Palm)[Older, Small].bin" size="4194304" crc="205d5e29" md5="35308d3db25aee670b371b8ff7ffddbb" sha1="935f1e1fb1ef2d117b5caeacbea01dd963e2a4b7"/>
+	</machine>
+	<machine name="Palm I710 v4.1 (2002-12-06)(Palm)(EU)(M5)">
+		<description>Palm I710 v4.1 (2002-12-06)(Palm)(EU)(M5)</description>
+		<rom name="Palm I710 v4.1 (2002-12-06)(Palm)(EU)(M5).bin" size="8126464" crc="3810f7ee" md5="8dc6bb9ac3254f26f1f89d061c3eca32" sha1="a007bd0f54b51e125b29b4ccb70a13237d0773ac"/>
+	</machine>
+	<machine name="Palm I710 v4.1 (2002-12-06)(Palm)(US)">
+		<description>Palm I710 v4.1 (2002-12-06)(Palm)(US)</description>
+		<rom name="Palm I710 v4.1 (2002-12-06)(Palm)(US).bin" size="6225920" crc="642eb1ec" md5="932d006522813464e512ceafd374b9dc" sha1="5730b6f02d67b6f76836c773688990005abcc2cb"/>
+	</machine>
+	<machine name="Palm III v3.0 (1998-03-05)(Palm)">
+		<description>Palm III v3.0 (1998-03-05)(Palm)</description>
+		<rom name="Palm III v3.0 (1998-03-05)(Palm).bin" size="2097152" crc="cacb51f8" md5="17cd9dac0c22daa4054b067220a9da73" sha1="ad13b445926c38a41e74800878e0397e0c5ccd11"/>
+	</machine>
+	<machine name="Palm III v3.0 (1998-03-05)(Palm)[dbg]">
+		<description>Palm III v3.0 (1998-03-05)(Palm)[dbg]</description>
+		<rom name="Palm III v3.0 (1998-03-05)(Palm)[dbg].bin" size="2097152" crc="4deda226" md5="6922ae48d2e94722a574572dbd8d5e65" sha1="1c67d6fee2b6a4acd51cda6ef3490305730357ad"/>
+	</machine>
+	<machine name="Palm III v3.0 (1998-03-05)(Palm)[a]">
+		<description>Palm III v3.0 (1998-03-05)(Palm)[a]</description>
+		<rom name="Palm III v3.0 (1998-03-05)(Palm)[a].bin" size="2097152" crc="6f461f3d" md5="c4f2f5c8130b7f3bd41db6c4a376a2f7" sha1="7fbf592b4dc8c222be510f6cfda21d48ebe22413"/>
+	</machine>
+	<machine name="Palm III v3.0 (1998-04-22)(Palm)(De)">
+		<description>Palm III v3.0 (1998-04-22)(Palm)(De)</description>
+		<rom name="Palm III v3.0 (1998-04-22)(Palm)(De).bin" size="2097152" crc="b991d6c3" md5="2868a0af1a887d6b525d77e0595f3089" sha1="73e7539517b0d931e9fa99d6f6914ad46fb857b4"/>
+	</machine>
+	<machine name="Palm III v3.0 (1998-06-08)(Palm)[Module]">
+		<description>Palm III v3.0 (1998-06-08)(Palm)[Module]</description>
+		<rom name="Palm III v3.0 (1998-06-08)(Palm)[Module].bin" size="1572864" crc="0ee278e0" md5="798c5d525bf5d1c7c7fc53b92f919507" sha1="06a0f4930e756175f2e27d646c9519b520d1d119"/>
+	</machine>
+	<machine name="Palm III v3.0 (1998-06-30)(Palm)(Fr)">
+		<description>Palm III v3.0 (1998-06-30)(Palm)(Fr)</description>
+		<rom name="Palm III v3.0 (1998-06-30)(Palm)(Fr).bin" size="2097152" crc="a2a9ff6c" md5="e9fc09eece4c5a389a3e37f98289a902" sha1="7cb119f896017e76e4680510bee96207d9d28e44"/>
+	</machine>
+	<machine name="Palm III v3.0 (1998-09-17)(Palm)(Es)">
+		<description>Palm III v3.0 (1998-09-17)(Palm)(Es)</description>
+		<rom name="Palm III v3.0 (1998-09-17)(Palm)(Es).bin" size="2097152" crc="63a595be" md5="027ac9f9457fc4e68e477cd1a330d26e" sha1="f6e03a2fedf0cbe6228613f50f8e8717e797877d"/>
+	</machine>
+	<machine name="Palm III v3.1 (1998-12-22)(Palm)[In-Store Demo]">
+		<description>Palm III v3.1 (1998-12-22)(Palm)[In-Store Demo]</description>
+		<rom name="Palm III v3.1 (1998-12-22)(Palm)[In-Store Demo].bin" size="2097152" crc="ce2809e9" md5="97789ceef44b731a4d6ce3a61f5faaad" sha1="23cd5e69ed1d541c3260f21cbd65d7d7c7aa0782"/>
+	</machine>
+	<machine name="Palm III v3.3 (1999-08-20)(Palm)">
+		<description>Palm III v3.3 (1999-08-20)(Palm)</description>
+		<rom name="Palm III v3.3 (1999-08-20)(Palm).bin" size="1343488" crc="467ff0de" md5="32dda9f6c519f4b4d88b445f457609de" sha1="8b1e4f407eb4bea50943cf97b1fb2fcb491a6883"/>
+	</machine>
+	<machine name="Palm III v3.3 (1999-08-20)(Palm)[dbg]">
+		<description>Palm III v3.3 (1999-08-20)(Palm)[dbg]</description>
+		<rom name="Palm III v3.3 (1999-08-20)(Palm)[dbg].bin" size="1343488" crc="32a76aab" md5="d8ca6c6b50a0e1dd6063e285a7613fd2" sha1="e7932c27b605e59389e2b27ab96aba53f70e8f29"/>
+	</machine>
+	<machine name="Palm III v3.3 (1999-09-15)(Palm)(De)">
+		<description>Palm III v3.3 (1999-09-15)(Palm)(De)</description>
+		<rom name="Palm III v3.3 (1999-09-15)(Palm)(De).bin" size="2097152" crc="a5a99c45" md5="ae9ef72c6a8e6f7be127f6e457ab9777" sha1="209b0154942dab80b56d5e6e68fa20b9eb75f5fe"/>
+	</machine>
+	<machine name="Palm III v3.3 (1999-09-15)(Palm)(Fr)">
+		<description>Palm III v3.3 (1999-09-15)(Palm)(Fr)</description>
+		<rom name="Palm III v3.3 (1999-09-15)(Palm)(Fr).bin" size="2097152" crc="d7894f5f" md5="80689921f2dc753f6cc586ecce597b6d" sha1="c7c90df814d4f97958194e0bc28c595e967a4529"/>
+	</machine>
+	<machine name="Palm III v3.5.0 (1999-12-11)(Palm)(US)[non-EZ]">
+		<description>Palm III v3.5.0 (1999-12-11)(Palm)(US)[non-EZ]</description>
+		<rom name="Palm III v3.5.0 (1999-12-11)(Palm)(US)[non-EZ].bin" size="1572864" crc="edb269d8" md5="234930423944e0f5e6d6d5eabc944cad" sha1="14124f704982e612843274c4955e030e4a478564"/>
+	</machine>
+	<machine name="Palm III v3.5.0 (1999-12-11)(Palm)(US)[non-EZ-dbg]">
+		<description>Palm III v3.5.0 (1999-12-11)(Palm)(US)[non-EZ-dbg]</description>
+		<rom name="Palm III v3.5.0 (1999-12-11)(Palm)(US)[non-EZ-dbg].bin" size="1572864" crc="50961ee6" md5="10f1379e75a429cfb5fbeeda74524734" sha1="84e9f33578e2fa9d2353e6c44e4bb4a02495502a"/>
+	</machine>
+	<machine name="Palm III v3.5.1b0 (1998-03-05)(Palm)(beta)">
+		<description>Palm III v3.5.1b0 (1998-03-05)(Palm)(beta)</description>
+		<rom name="Palm III v3.5.1b0 (1998-03-05)(Palm)(beta).bin" size="2097152" crc="70b71a0e" md5="06766c4c7d02afc2cace94972b2e74a9" sha1="69a5ea7cee3cca310be81756c463363f1e64255c"/>
+	</machine>
+	<machine name="Palm III v4.1 (2001)(Palm)">
+		<description>Palm III v4.1 (2001)(Palm)</description>
+		<rom name="Palm III v4.1 (2001)(Palm).bin" size="1736704" crc="a3e7124c" md5="bb0ad4045f5d94b479304e22c98aa99c" sha1="59221b9d54b5fcf4d77629d80d94219ab8c78189"/>
+	</machine>
+	<machine name="Palm IIIc v3.5 (1999-12-11)(Palm)(Zh)">
+		<description>Palm IIIc v3.5 (1999-12-11)(Palm)(Zh)</description>
+		<rom name="Palm IIIc v3.5 (1999-12-11)(Palm)(Zh).bin" size="2097152" crc="a9779f3a" md5="48bd71149557ac9507fdc2316482d426" sha1="1541102cd5234665233072afe8f0e052134a5334"/>
+	</machine>
+	<machine name="Palm IIIc v3.5.0 (1999-12-11)(Palm)(US)">
+		<description>Palm IIIc v3.5.0 (1999-12-11)(Palm)(US)</description>
+		<rom name="Palm IIIc v3.5.0 (1999-12-11)(Palm)(US).bin" size="1572864" crc="70bedb7e" md5="d755664c94558c8629cd0339c8d24878" sha1="e7e0cff4e087ce1debc23ead1b5ba2ed3aacca66"/>
+	</machine>
+	<machine name="Palm IIIc v3.5.0 (1999-12-11)(Palm)(US)[dbg]">
+		<description>Palm IIIc v3.5.0 (1999-12-11)(Palm)(US)[dbg]</description>
+		<rom name="Palm IIIc v3.5.0 (1999-12-11)(Palm)(US)[dbg].bin" size="1572864" crc="38a191e2" md5="045d0947d0d13c013efa3c0c3b527575" sha1="539c100884de48108e24ee72fb82bed7d93e95bc"/>
+	</machine>
+	<machine name="Palm IIIc v3.5b (1999-11-04)(Palm)(beta)">
+		<description>Palm IIIc v3.5b (1999-11-04)(Palm)(beta)</description>
+		<rom name="Palm IIIc v3.5b (1999-11-04)(Palm)(beta).bin" size="2097152" crc="d58521a4" md5="31dde87357f1c9a9977ede8aa933df3a" sha1="508742ea1e078737666abd4283cf5e6985401c9e"/>
+	</machine>
+	<machine name="Palm IIIc v4.0 (2001-01-29)(Palm)(EU)(M5)">
+		<description>Palm IIIc v4.0 (2001-01-29)(Palm)(EU)(M5)</description>
+		<rom name="Palm IIIc v4.0 (2001-01-29)(Palm)(EU)(M5).bin" size="2457600" crc="695f379e" md5="339ca011fa7aa1f89aed8aa14b047d79" sha1="2c9f085b0368f501477afa70f75e65e5a82c7af7"/>
+	</machine>
+	<machine name="Palm IIIc v4.0 (2001-02-23)(Palm)">
+		<description>Palm IIIc v4.0 (2001-02-23)(Palm)</description>
+		<rom name="Palm IIIc v4.0 (2001-02-23)(Palm).bin" size="2097152" crc="6b2a5ad2" md5="678779d06f01e8c83250ee8fd49e2298" sha1="54321dcaedcc80de57a819cfd599d8d1b2e26eeb"/>
+	</machine>
+	<machine name="Palm IIIc v4.1 (2001)(Palm)">
+		<description>Palm IIIc v4.1 (2001)(Palm)</description>
+		<rom name="Palm IIIc v4.1 (2001)(Palm).bin" size="1736704" crc="203b141f" md5="b0189a292c7831fed638ac6ddb8bdb14" sha1="403e1c97275b7272386aa16cda8917b1e3f28318"/>
+	</machine>
+	<machine name="Palm M105 v3.5.1 (2000-06-06)(Palm)">
+		<description>Palm M105 v3.5.1 (2000-06-06)(Palm)</description>
+		<rom name="Palm M105 v3.5.1 (2000-06-06)(Palm).bin" size="2097152" crc="ae8dda60" md5="d5eaa0eb27e1ae35b33f04dd7b762ad6" sha1="c46248d6f05cb2f4337985610cedfbdc12ac47cf"/>
+	</machine>
+	<machine name="Palm M105 v3.5.1 (2000-07-20)(Palm)(EU)(M5)">
+		<description>Palm M105 v3.5.1 (2000-07-20)(Palm)(EU)(M5)</description>
+		<rom name="Palm M105 v3.5.1 (2000-07-20)(Palm)(EU)(M5).bin" size="2097152" crc="b5be1e70" md5="f40aeb1622e6fa5838385f5b9e5247ad" sha1="d59cf23514f7e879629e8c1082661abdeafc64c9"/>
+	</machine>
+	<machine name="Palm M125 v4.0.1 (2001-05-29)(Palm)(EU)(M5)">
+		<description>Palm M125 v4.0.1 (2001-05-29)(Palm)(EU)(M5)</description>
+		<rom name="Palm M125 v4.0.1 (2001-05-29)(Palm)(EU)(M5).bin" size="3145728" crc="448d7448" md5="b3333c2f6f3a2302b31b7ad333217cd4" sha1="ce54fb0e13fc428b8d52df9b08ad9aa73a95b072"/>
+	</machine>
+	<machine name="Palm m130 v4.1 (2001-12-27)(Palm)(EU)(M6)">
+		<description>Palm m130 v4.1 (2001-12-27)(Palm)(EU)(M6)</description>
+		<rom name="Palm m130 v4.1 (2001-12-27)(Palm)(EU)(M6).bin" size="4194304" crc="58046b7e" md5="93a2ad6b4a38c7e8d08acd9f65338984" sha1="986057010d62d5881fba4dede2aba0d4d5008b16"/>
+	</machine>
+	<machine name="Palm m500 v4.1 (2001-11-06)(Palm)">
+		<description>Palm m500 v4.1 (2001-11-06)(Palm)</description>
+		<rom name="Palm m500 v4.1 (2001-11-06)(Palm).bin" size="2424832" crc="9373d120" md5="dc8f0f8a6ffed58764065a7abe468ce4" sha1="fff93f9db124abe1f0b7521b40df517ee0d92daf"/>
+	</machine>
+	<machine name="Palm m505 v4.0 (2001-02-26)(Palm)(US)">
+		<description>Palm m505 v4.0 (2001-02-26)(Palm)(US)</description>
+		<rom name="Palm m505 v4.0 (2001-02-26)(Palm)(US).bin" size="2359296" crc="9261a5aa" md5="abed11421f47bbf3f654af618e0c6a8a" sha1="a368b40751dd017163c9c1a615d6f3506b7dcbdf"/>
+	</machine>
+	<machine name="Palm m505 v4.1 (2001-06-12)(Palm)(US)">
+		<description>Palm m505 v4.1 (2001-06-12)(Palm)(US)</description>
+		<rom name="Palm m505 v4.1 (2001-06-12)(Palm)(US).bin" size="4194304" crc="d248202a" md5="f129fd33cf9e489e41c58050c33e04c1" sha1="65e1bd08b244c589b4cd10fe573e0376aba90e5f"/>
+	</machine>
+	<machine name="Palm m515 v4.1 (2002-05-10)(Palm)(EU)(M5)">
+		<description>Palm m515 v4.1 (2002-05-10)(Palm)(EU)(M5)</description>
+		<rom name="Palm m515 v4.1 (2002-05-10)(Palm)(EU)(M5).bin" size="4194304" crc="6e143436" md5="412557a221933a8be12622de7a21320a" sha1="a0767ea26cc493a3f687525d173903fef89f1acb"/>
+	</machine>
+	<machine name="Palm Pilot Personal v2.0 (1997-01-28)(Palm)">
+		<description>Palm Pilot Personal v2.0 (1997-01-28)(Palm)</description>
+		<rom name="Palm Pilot Personal v2.0 (1997-01-28)(Palm).bin" size="1048576" crc="40ea8baa" md5="126a0d20629d69c438118fb25645dfe6" sha1="8e26e213de42da1317c375fb1f394bb945b9d178"/>
+	</machine>
+	<machine name="Palm Pilot Professional v2.0 (1997-02-18)(Palm)">
+		<description>Palm Pilot Professional v2.0 (1997-02-18)(Palm)</description>
+		<rom name="Palm Pilot Professional v2.0 (1997-02-18)(Palm).bin" size="1048576" crc="baa5b36a" md5="eeb3ffc62e719adcc7000aebc87ae84e" sha1="535bd9548365d300f85f514f318460443a021476"/>
+	</machine>
+	<machine name="Palm Pilot Professional v2.0.2 (1998-04-29)(Palm)[dbg]">
+		<description>Palm Pilot Professional v2.0.2 (1998-04-29)(Palm)[dbg]</description>
+		<rom name="Palm Pilot Professional v2.0.2 (1998-04-29)(Palm)[dbg].bin" size="1048576" crc="0d1d3a3b" md5="7b0dd278fb23bb7f8c29bc8e127615b1" sha1="f18a80baa306d4d46b490589ee9a2a5091f6081c"/>
+	</machine>
+	<machine name="Palm V v3.1 (1998-12-03)(Palm)(US)">
+		<description>Palm V v3.1 (1998-12-03)(Palm)(US)</description>
+		<rom name="Palm V v3.1 (1998-12-03)(Palm)(US).bin" size="1212416" crc="5a64ef2b" md5="1022a3ecca4e18e212956a4f5cb79fb4" sha1="08ef3498cbcb7b067cc5d82da7d4108c876d0f87"/>
+	</machine>
+	<machine name="Palm V v3.1 (1998-12-03)(Palm)(US)[dbg]">
+		<description>Palm V v3.1 (1998-12-03)(Palm)(US)[dbg]</description>
+		<rom name="Palm V v3.1 (1998-12-03)(Palm)(US)[dbg].bin" size="1212416" crc="edcbf628" md5="04ee75c88d6f586ce25ad6ae12ede4ea" sha1="4833ba55e14c72bc55071ddb493cfa6a9ba4d424"/>
+	</machine>
+	<machine name="Palm V v3.1 (1998-12-10)(Palm)(US)">
+		<description>Palm V v3.1 (1998-12-10)(Palm)(US)</description>
+		<rom name="Palm V v3.1 (1998-12-10)(Palm)(US).bin" size="2097152" crc="4656b2ae" md5="c575ebb95f736e389d9c29ad919b4753" sha1="ec66a93441fbccfd8e0c946baa5d79c478c83e85"/>
+	</machine>
+	<machine name="Palm V v3.1 (1998-12-18)(Palm)(De)">
+		<description>Palm V v3.1 (1998-12-18)(Palm)(De)</description>
+		<rom name="Palm V v3.1 (1998-12-18)(Palm)(De).bin" size="2097152" crc="a9631dcf" md5="a31deb3122176b6d16c17f7a791ee00b" sha1="63b44d4d3fc2f2196c96d3b9b95da526df0fac77"/>
+	</machine>
+	<machine name="Palm V v3.1 (1998-12-18)(Palm)(Es)">
+		<description>Palm V v3.1 (1998-12-18)(Palm)(Es)</description>
+		<rom name="Palm V v3.1 (1998-12-18)(Palm)(Es).bin" size="2097152" crc="cc46ca1f" md5="c7bfc33e03221b78873837ac28a2371e" sha1="93bc78ca84d34916d7e122b745adec1068230fcd"/>
+	</machine>
+	<machine name="Palm V v3.1 (1998-12-18)(Palm)(Fr)">
+		<description>Palm V v3.1 (1998-12-18)(Palm)(Fr)</description>
+		<rom name="Palm V v3.1 (1998-12-18)(Palm)(Fr).bin" size="2097152" crc="0d933a1c" md5="af883d156e5fcb7b178098693949f62f" sha1="d0454f1159705d0886f8a68e1b8a5e96d2ca48f6"/>
+	</machine>
+	<machine name="Palm V v3.1 (1998-12-21)(Palm)(Jp)">
+		<description>Palm V v3.1 (1998-12-21)(Palm)(Jp)</description>
+		<rom name="Palm V v3.1 (1998-12-21)(Palm)(Jp).bin" size="2097152" crc="c786db12" md5="acc2911865c2beea7244e1f431ea6bba" sha1="4975ff2af76892370c5d4d7d6fa87a84480e79d6"/>
+	</machine>
+	<machine name="Palm V v3.3 (1999-08-20)(Palm)(US)">
+		<description>Palm V v3.3 (1999-08-20)(Palm)(US)</description>
+		<rom name="Palm V v3.3 (1999-08-20)(Palm)(US).bin" size="1277952" crc="dc560ed1" md5="6b347dada1c8b6bbc7546cc0f7281990" sha1="17f2d6177ba1372e4c007dde57215e278d44c293"/>
+	</machine>
+	<machine name="Palm V v3.3 (1999-10-05)(Palm)(US)">
+		<description>Palm V v3.3 (1999-10-05)(Palm)(US)</description>
+		<rom name="Palm V v3.3 (1999-10-05)(Palm)(US).bin" size="1572864" crc="161db07d" md5="8855a4484762374018623eafb8209ec7" sha1="575b4a283f62c0cc8b844076004ab297c6919f2e"/>
+	</machine>
+	<machine name="Palm V v3.3 (1999-10-06)(Palm)(US)[dbg]">
+		<description>Palm V v3.3 (1999-10-06)(Palm)(US)[dbg]</description>
+		<rom name="Palm V v3.3 (1999-10-06)(Palm)(US)[dbg].bin" size="1343488" crc="30da34a1" md5="be0593f087aa334800f3293161229d4e" sha1="5354ce17d6d35709976b6263a306cfdd8e3214e7"/>
+	</machine>
+	<machine name="Palm V v3.5.0 (1999-12-11)(Palm)(US)[EZ]">
+		<description>Palm V v3.5.0 (1999-12-11)(Palm)(US)[EZ]</description>
+		<rom name="Palm V v3.5.0 (1999-12-11)(Palm)(US)[EZ].bin" size="1540096" crc="b9fdb1ce" md5="784eca0f1dd9b39306a2cfad4fd5ba3a" sha1="7964effcd899847ea56d184ef6299d17b295a3ab"/>
+	</machine>
+	<machine name="Palm V v3.5.0 (1999-12-11)(Palm)(US)[EZ-dbg]">
+		<description>Palm V v3.5.0 (1999-12-11)(Palm)(US)[EZ-dbg]</description>
+		<rom name="Palm V v3.5.0 (1999-12-11)(Palm)(US)[EZ-dbg].bin" size="1540096" crc="4c700386" md5="a231816c4c5e9af0d7dad3462b0b5501" sha1="9e7914efe35f6d19f210c7991cf618c5c7dea358"/>
+	</machine>
+	<machine name="Palm V v4.0 (2001-01-29)(Palm)(US)">
+		<description>Palm V v4.0 (2001-01-29)(Palm)(US)</description>
+		<rom name="Palm V v4.0 (2001-01-29)(Palm)(US).bin" size="1671168" crc="cfbdef34" md5="2111005b555a4d381f714a1494ac6c37" sha1="0438c03dd717406061baa5261f4e86e19f7ac9ba"/>
+	</machine>
+	<machine name="Palm V v4.0 (2001-02-23)(Palm)(US)">
+		<description>Palm V v4.0 (2001-02-23)(Palm)(US)</description>
+		<rom name="Palm V v4.0 (2001-02-23)(Palm)(US).bin" size="2097152" crc="488e4638" md5="a4866f4605decc42d1d3f40271fb8f0b" sha1="10a10fc8617743ebd5df19c1e99ca040ac1da4f5"/>
+	</machine>
+	<machine name="Palm IIIx &amp; V v4.1 (2001)(Palm)">
+		<description>Palm IIIx &amp; V v4.1 (2001)(Palm)</description>
+		<rom name="Palm IIIx &amp; V v4.1 (2001)(Palm).bin" size="1736704" crc="6c692321" md5="f905a1cb1029eb808960f01d4c8acd76" sha1="7c069154265c35cae8f226bb5e00a5204993048f"/>
+	</machine>
+	<machine name="Palm V v4.1 (2001-06-12)(Palm)(US)">
+		<description>Palm V v4.1 (2001-06-12)(Palm)(US)</description>
+		<rom name="Palm V v4.1 (2001-06-12)(Palm)(US).bin" size="2097152" crc="e59f4dff" md5="e56adbdffb6420725b0dc5b6fa95b36c" sha1="5e3000db318eeb8cd1f4d9729d0c9ebca560fa4a"/>
+	</machine>
+	<machine name="Palm VII v3.5.0 (2000-03-07)(Palm)(US)[dr2-en-wc]">
+		<description>Palm VII v3.5.0 (2000-03-07)(Palm)(US)[dr2-en-wc]</description>
+		<rom name="Palm VII v3.5.0 (2000-03-07)(Palm)(US)[dr2-en-wc].bin" size="2031616" crc="3394974b" md5="95dbd1d5f16c4afbd86a3184092d0ead" sha1="d207857b2151b6a17b2ae48858e932516840ddda"/>
+	</machine>
+	<machine name="Palm VIIx v3.5.0 (2000-01-28)(Palm)(US)[octopus DVT]">
+		<description>Palm VIIx v3.5.0 (2000-01-28)(Palm)(US)[octopus DVT]</description>
+		<rom name="Palm VIIx v3.5.0 (2000-01-28)(Palm)(US)[octopus DVT].bin" size="2097152" crc="fdd5af43" md5="9e3c843bebdd07243a213fa51807d747" sha1="a03434d496dd95c4ac1cb9eb9ff4b4ed0c67b08c"/>
+	</machine>
+	<machine name="Palm VIIx v3.5.0 (2000-11-08)(Palm)(US)">
+		<description>Palm VIIx v3.5.0 (2000-11-08)(Palm)(US)</description>
+		<rom name="Palm VIIx v3.5.0 (2000-11-08)(Palm)(US).bin" size="2097152" crc="ff8c053d" md5="6d8c087f997be2d09d01acac462b428d" sha1="035ec32c95a35fcec1a3d5372704140b01c2da8b"/>
+	</machine>
+	<machine name="TRGpro v3.5.2 (1999-12-18)(Palm - TRG)">
+		<description>TRGpro v3.5.2 (1999-12-18)(Palm - TRG)</description>
+		<rom name="TRGpro v3.5.2 (1999-12-18)(Palm - TRG).bin" size="2389428" crc="8f2b3a62" md5="5c10ee39569acf0c49921aeb61d16f40" sha1="218856344c52806f84c86aa272e25526e3d1a44b"/>
+	</machine>
+	<machine name="Aceeca PDA32 v5.4 (2004)(ACEECA)[NAND]">
+		<description>Aceeca PDA32 v5.4 (2004)(ACEECA)[NAND]</description>
+		<rom name="Aceeca PDA32 v5.4 (2004)(ACEECA)[NAND].bin" size="138412032" crc="db1bbd48" md5="70130320775212862025a0cec4b029a2" sha1="9af3748397707b75f211ed424acdadd47b98ba03"/>
+	</machine>
+	<machine name="Acer s11 (2001)(Acer, Palm)(M5)">
+		<description>Acer s11 (2001)(Acer, Palm)(M5)</description>
+		<rom name="Acer s11 (2001)(Acer, Palm)(M5).rom" size="8388608" crc="b15ca29b" md5="dafc83afa4395a875b2382b114a0e317" sha1="b4bce6558d0934efbdaf1898ffffcb68c4d7181a"/>
+	</machine>
+	<machine name="Acer s11 (2001)(Acer, Palm)">
+		<description>Acer s11 (2001)(Acer, Palm)</description>
+		<rom name="Acer s11 (2001)(Acer, Palm).rom" size="3145728" crc="00c4700d" md5="09073c4b98530f0d80ba29cc08df87f5" sha1="8612b2b3e313d218597e9c9db405153ff78395a7"/>
+	</machine>
+	<machine name="AlphaSmart Dana v1.2.0 (2003)(AlphaSmart, Palm)[8MB]">
+		<description>AlphaSmart Dana v1.2.0 (2003)(AlphaSmart, Palm)[8MB]</description>
+		<rom name="AlphaSmart Dana v1.2.0 (2003)(AlphaSmart, Palm)[8MB].rom" size="3866624" crc="f2ad1c64" md5="a54f0a8f518383a4561f93e0e0aa53ed" sha1="e775d7c9de6063ee5101b2cb5dd308f93cd84fa6"/>
+	</machine>
+	<machine name="AlphaSmart Dana v1.5.0 (2003)(AlphaSmart, Palm)">
+		<description>AlphaSmart Dana v1.5.0 (2003)(AlphaSmart, Palm)</description>
+		<rom name="AlphaSmart Dana v1.5.0 (2003)(AlphaSmart, Palm).rom" size="6291456" crc="5e6409bd" md5="890c3d2d43db5e6a63e43d9bb0eda20c" sha1="101f9189f83b5139324e3a98d0f9a09a3d3018a4"/>
+	</machine>
+	<machine name="AlphaSmart Dana v1.5.0 (2003)(AlphaSmart, Palm)[a]">
+		<description>AlphaSmart Dana v1.5.0 (2003)(AlphaSmart, Palm)[a]</description>
+		<rom name="AlphaSmart Dana v1.5.0 (2003)(AlphaSmart, Palm)[a].rom" size="6094848" crc="7d6c9a38" md5="082f4b2e906e5a7abc12fc40c0fdfdd1" sha1="f24d37ece30d09ff344038997f38478f7ac76022"/>
+	</machine>
+	<machine name="Fossil Wrist PDA (200x)(Fossil Group)">
+		<description>Fossil Wrist PDA (200x)(Fossil Group)</description>
+		<rom name="Fossil Wrist PDA (200x)(Fossil Group).bin" size="4194304" crc="7df2b49a" md5="55bd1517247403f37f56d353f00f1796" sha1="4bb4c04211b429ab6480f8c72ab1c523594772eb"/>
+	</machine>
+	<machine name="GSPDA Xplore M28 H (2004-06-20)[zcn2_D_zcn2_C_gsRl]">
+		<description>GSPDA Xplore M28 H (2004-06-20)[zcn2_D_zcn2_C_gsRl]</description>
+		<rom name="GSPDA Xplore M28 H (2004-06-20)[zcn2_D_zcn2_C_gsRl].smart.bin" size="14680064" crc="32c0639c" md5="72baf6b16bb6c9e7dfb3e4d221c86989" sha1="21508c2c0f9cca78d763c404880a518a6a91b048"/>
+	</machine>
+	<machine name="HandEra 330 4.1 (2002-09-20)(TRG, Palm)">
+		<description>HandEra 330 4.1 (2002-09-20)(TRG, Palm)</description>
+		<rom name="HandEra 330 4.1 (2002-09-20)(TRG, Palm).rom" size="2074112" crc="b302ed53" md5="34d5876728f82ea054137ad8610ea266" sha1="ee16dcff5067238618037fea8b628df4f3a229fd"/>
+	</machine>
+	<machine name="HandEra 330 4.2.7 (2001)(TRG, Palm)">
+		<description>HandEra 330 4.2.7 (2001)(TRG, Palm)</description>
+		<rom name="HandEra 330 4.2.7 (2001)(TRG, Palm).rom" size="2097152" crc="d65a3c7c" md5="a1b5a195a5f11308682ae33ab05a746f" sha1="37a9ece6571792cfd9bf85792089a8050a0acfdc"/>
+	</machine>
+	<machine name="HandEra 330c (2002-04-22)(TRG, Palm)">
+		<description>HandEra 330c (2002-04-22)(TRG, Palm)</description>
+		<rom name="HandEra 330c (2002-04-22)(TRG, Palm).bin" size="8388608" crc="ccb77b81" md5="742ea0b497f2e6a0519c3767bcaa8a47" sha1="ba7dc77fdd378c7eb8ec6315f1e3ce1fc751118b"/>
+	</machine>
+	<machine name="Handspring Visor Prism (2000-06-20)(Handspring, Palm)(Jp)[4MB]">
+		<description>Handspring Visor Prism (2000-06-20)(Handspring, Palm)(Jp)[4MB]</description>
+		<rom name="Handspring Visor Prism (2000-06-20)(Handspring, Palm)(Jp)[4MB].bin" size="4194304" crc="6814b196" md5="92752c019934a995a533c8cc86be6262" sha1="8731955a0725574d6c7490387b913535e47deeb7"/>
+	</machine>
+	<machine name="Kyocera 6035 (2001-11-21)(Kyocera, Palm)">
+		<description>Kyocera 6035 (2001-11-21)(Kyocera, Palm)</description>
+		<rom name="Kyocera 6035 (2001-11-21)(Kyocera, Palm).bin" size="4194304" crc="2834a15e" md5="0d3ecbd2c934373bac13b73f6fff6af4" sha1="1e9a5ba1810932653fd71f165e7001af45eb5dc0"/>
+	</machine>
+	<machine name="Kyocera 7135 (2002-11-25)(Kyocera, Palm)">
+		<description>Kyocera 7135 (2002-11-25)(Kyocera, Palm)</description>
+		<rom name="Kyocera 7135 (2002-11-25)(Kyocera, Palm).bin" size="8388608" crc="ac8a2372" md5="d2428f3f30254abdf27007465d6414fe" sha1="85e1a16c22c54414948a36681646494fd77b553b"/>
+	</machine>
+	<machine name="Legend P168 rev 137 (199x)(Legend, Palm)">
+		<description>Legend P168 rev 137 (199x)(Legend, Palm)</description>
+		<rom name="Legend P168 rev 137 (199x)(Legend, Palm).bin" size="8388608" crc="fb8085df" md5="3cd1aa32f5481137ed3b3fd30f9650b5" sha1="4d1e4da744517421418222c45ac001918a9a7105"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N700C (2000-08-01)(Sony, Palm)(Jp)">
+		<description>Sony CLIÉ PEG-N700C (2000-08-01)(Sony, Palm)(Jp)</description>
+		<rom name="Sony CLIÉ PEG-N700C (2000-08-01)(Sony, Palm)(Jp).rom" size="6291456" crc="6d1447c7" md5="3771d63e3b732cad92ba812a0fdbb44a" sha1="5c32bb9db9c6196e230b4a8c5cc0cf460b979b36"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N710C (2000-08-01)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-N710C (2000-08-01)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-N710C (2000-08-01)(Sony, Palm).rom" size="3407872" crc="3f0feac8" md5="39f72d2928bd5ce42916e57435bf859f" sha1="d32c779d8cd2c0db6edd56a4a9a9156619b21660"/>
+	</machine>
+	<machine name="Palm III 3.3 (1998-30-06)(Palm)(Fr)">
+		<description>Palm III 3.3 (1998-30-06)(Palm)(Fr)</description>
+		<rom name="Palm III 3.3 (1998-30-06)(Palm)(Fr).bin" size="2097152" crc="8a67d7f5" md5="d0a41402edb3fb48ccc8ad54665d5c3f" sha1="42e9af1bbb0bafae971d73fd9f9f5b966cccd54b"/>
+	</machine>
+	<machine name="Palm m520 (2001-06-28)(Palm)[patched]">
+		<description>Palm m520 (2001-06-28)(Palm)[patched]</description>
+		<rom name="Palm m520 (2001-06-28)(Palm)[patched].bin" size="3145728" crc="7df51634" md5="16e73b6f4299f185984b40382a9596c0" sha1="d2ed5fc84eb1a0352e4d71ccb81a1f51fdd5a0eb"/>
+	</machine>
+	<machine name="Palm m520 (2001-06-28)(Palm)[stock]">
+		<description>Palm m520 (2001-06-28)(Palm)[stock]</description>
+		<rom name="Palm m520 (2001-06-28)(Palm)[stock].bin" size="4194304" crc="b2ee541c" md5="72020f2690ddf3ced6cd4dd53cbd1cdb" sha1="7ba4567ab39d21ef33fd8375a674c941fe87da65"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N700C (2000-08-01)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-N700C (2000-08-01)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-N700C (2000-08-01)(Sony, Palm).rom" size="3407872" crc="3f0feac8" md5="39f72d2928bd5ce42916e57435bf859f" sha1="d32c779d8cd2c0db6edd56a4a9a9156619b21660"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N600C (2001)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-N600C (2001)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-N600C (2001)(Sony, Palm).rom" size="3538944" crc="515800db" md5="2af2b9bcf0697452f4f8dbb2c25ec1d6" sha1="f0ec308b79a76713f003f7136b1f0d265b1918d2"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S320 (2001)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-S320 (2001)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-S320 (2001)(Sony, Palm).rom" size="2949120" crc="17198e8f" md5="2bbea5ef635173a5ad03e71b03424202" sha1="250bbd9ab494bdf1ad081fe97367a8397d4834e8"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S360 (2001)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-S360 (2001)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-S360 (2001)(Sony, Palm).rom" size="2916352" crc="3f125138" md5="cf8d563146f39fe6e112b5e5c99d116c" sha1="2487b23b3e0b3371d04b8e1ba8ba10fb7965b53e"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T400 (2001)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-T400 (2001)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-T400 (2001)(Sony, Palm).rom" size="3276800" crc="58311be9" md5="08a7ebecdcf0dcb4fa49742529bd52a8" sha1="ef305c459ab75ee6907349f45d3558d6b650957c"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T400C (2001)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-T400C (2001)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-T400C (2001)(Sony, Palm).rom" size="3276800" crc="58311be9" md5="08a7ebecdcf0dcb4fa49742529bd52a8" sha1="ef305c459ab75ee6907349f45d3558d6b650957c"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T600C (2001)(Sony, Palm)">
+		<description>Sony CLIÉ PEG-T600C (2001)(Sony, Palm)</description>
+		<rom name="Sony CLIÉ PEG-T600C (2001)(Sony, Palm).rom" size="3538944" crc="d5c49b36" md5="cc8fe4ea378b18b8c323a66f7e525591" sha1="f003d434f385c8aa8875de6b74941aa0c6c42c07"/>
+	</machine>
+	<machine name="Palm Tungsten C v5.2.1 (2003)(Palm)[NOR]">
+		<description>Palm Tungsten C v5.2.1 (2003)(Palm)[NOR]</description>
+		<rom name="Palm Tungsten C v5.2.1 (2003)(Palm)[NOR].bin" size="9764864" crc="65b26173" md5="cab4155e0c215aa096443e77d8cb8671" sha1="e2399bd8a17dc39b31658d15b80e37013b612ed6"/>
+	</machine>
+	<machine name="Palm Tungsten E v5.2.1 (2003-08-25)(Palm)[fastboot][NOR]">
+		<description>Palm Tungsten E v5.2.1 (2003-08-25)(Palm)[fastboot][NOR]</description>
+		<rom name="Palm Tungsten E v5.2.1 (2003-08-25)(Palm)[fastboot][NOR].bin" size="3997696" crc="eec7fa50" md5="0167c6f6072d573a60177a754998aeb2" sha1="b03ce6a6bd4d6bbd39e0300d4284df46def21f34"/>
+	</machine>
+	<machine name="Palm Tungsten E v5.2.1 (2003-08-25)(Palm)[NOR]">
+		<description>Palm Tungsten E v5.2.1 (2003-08-25)(Palm)[NOR]</description>
+		<rom name="Palm Tungsten E v5.2.1 (2003-08-25)(Palm)[NOR].bin" size="3997696" crc="efaa30c2" md5="8c0251f0795afc52db1be7cc4be11f0a" sha1="854bf8ffdd55d6067db3d7a009b57b222e90a4db"/>
+	</machine>
+	<machine name="Palm Tungsten E2 v5.2.1 (2004)(Palm)[NAND]">
+		<description>Palm Tungsten E2 v5.2.1 (2004)(Palm)[NAND]</description>
+		<rom name="Palm Tungsten E2 v5.2.1 (2004)(Palm)[NAND].bin" size="34603008" crc="d5814688" md5="342209abc6a9262424551ede372aee66" sha1="a38b04fd9e5f5476bbbefa820c6ef7f4d5369726"/>
+	</machine>
+	<machine name="Palm Tungsten E2 v5.2.1 (2004)(Palm)[NOR]">
+		<description>Palm Tungsten E2 v5.2.1 (2004)(Palm)[NOR]</description>
+		<rom name="Palm Tungsten E2 v5.2.1 (2004)(Palm)[NOR].bin" size="8388608" crc="b2aa66d2" md5="2a9faf69b43ba590cfb9ba78e4eef11c" sha1="8ac17d4a06981c29818e0448254d7b7d7ede1a82"/>
+	</machine>
+	<machine name="Palm Tungsten T3 Cobalt v6.1.0r21 (2004-10-27)(Palm)[NOR]">
+		<description>Palm Tungsten T3 Cobalt v6.1.0r21 (2004-10-27)(Palm)[NOR]</description>
+		<rom name="Palm Tungsten T3 Cobalt v6.1.0r21 (2004-10-27)(Palm)[NOR].bin" size="16777216" crc="25314c62" md5="c2fae3ff41cc4f94be0fdaed1523ea99" sha1="858c62e21d3a42d2e70641d001a46ad44e923614"/>
+	</machine>
+	<machine name="Palm Tungsten T3 Garnet v5.2.1 (2003-10-31)[fastboot][NOR]">
+		<description>Palm Tungsten T3 Garnet v5.2.1 (2003-10-31)[fastboot][NOR]</description>
+		<rom name="Palm Tungsten T3 Garnet v5.2.1 (2003-10-31)[fastboot][NOR].bin" size="16777216" crc="923e9792" md5="41cc08d52795ec8a070c954a46027891" sha1="541a05ad40f848c547a1129ac3c972e31ca73d6a"/>
+	</machine>
+	<machine name="Palm Tungsten T3 Garnet v5.2.1 (2003-10-31)[NOR]">
+		<description>Palm Tungsten T3 Garnet v5.2.1 (2003-10-31)[NOR]</description>
+		<rom name="Palm Tungsten T3 Garnet v5.2.1 (2003-10-31)[NOR].bin" size="16777216" crc="443752f6" md5="a46861541c63b20aba7bf172b0d853e1" sha1="3d4fc4a7c0b86342cab5a7f53b0b77737b48a0d2"/>
+	</machine>
+	<machine name="Palm Tungsten TX v5.4.9 (2005)(Palm)[NAND]">
+		<description>Palm Tungsten TX v5.4.9 (2005)(Palm)[NAND]</description>
+		<rom name="Palm Tungsten TX v5.4.9 (2005)(Palm)[NAND].bin" size="138412032" crc="29858d64" md5="0062af9a9cbfd50dce66a9a880a1735d" sha1="ddedb2705ce89c71b6d39c816f22acaf5ebcfb97"/>
+	</machine>
+	<machine name="Palm Tungsten TX v5.4.9 (2005)(Palm)[NOR]">
+		<description>Palm Tungsten TX v5.4.9 (2005)(Palm)[NOR]</description>
+		<rom name="Palm Tungsten TX v5.4.9 (2005)(Palm)[NOR].bin" size="16777216" crc="017b912a" md5="85b048a692aa317763a7077ea72da6cb" sha1="90eee7845b6a4d723d1ee3acaa33a2d9a4395ece"/>
+	</machine>
+	<machine name="Palm Z22 (2005)(Palm)[NAND]">
+		<description>Palm Z22 (2005)(Palm)[NAND]</description>
+		<rom name="Palm Z22 (2005)(Palm)[NAND].bin" size="34603008" crc="e9c25457" md5="e42ba81dd4eaacf8bbaaad960e8626c9" sha1="7f1c38b2ac8f8f49c361d281726fb28e1e48117f"/>
+	</machine>
+	<machine name="Palm Zire 31 (2004-03-23)(Palm)[NOR]">
+		<description>Palm Zire 31 (2004-03-23)(Palm)[NOR]</description>
+		<rom name="Palm Zire 31 (2004-03-23)(Palm)[NOR].bin" size="3997696" crc="c67f9416" md5="cb6e1928b299a6475fc872ebbbafce6c" sha1="6c37a7c0c6977e5f7647a3c5d22824663b275aba"/>
+	</machine>
+	<machine name="Palm Zire XYZ (2003-03-31)[fastboot][NOR]">
+		<description>Palm Zire XYZ (2003-03-31)[fastboot][NOR]</description>
+		<rom name="Palm Zire XYZ (2003-03-31)[fastboot][NOR].bin" size="3473408" crc="f05eaccc" md5="5735177324b7260dc10f996e6b5a853d" sha1="9124b55cfde67b2104cc012ec41ea89d8af2042f"/>
+	</machine>
+	<machine name="Palm Zire XYZ (2003-03-31)[NOR]">
+		<description>Palm Zire XYZ (2003-03-31)[NOR]</description>
+		<rom name="Palm Zire XYZ (2003-03-31)[NOR].bin" size="3473408" crc="eb09a944" md5="c05ce28cfd111f9104c5c7c4cd81ccf3" sha1="399be8692ad4dd1064dbb64d55af8cf4c2770e9a"/>
+	</machine>
+	<machine name="Palm Zire 21 (2003-07-28)[NOR]">
+		<description>Palm Zire 21 (2003-07-28)[NOR]</description>
+		<rom name="Palm Zire 21 (2003-07-28)[NOR].bin" size="3213440" crc="70eaccd3" md5="6eabc2c9300723befe1b47260d1df360" sha1="3f610cf1c5f1ecb87dfd97cab58e82fede8bcf3d"/>
+	</machine>
+	<machine name="Palm Zire 71 (2003-03-25)[NAND]">
+		<description>Palm Zire 71 (2003-03-25)[NAND]</description>
+		<rom name="Palm Zire 71 (2003-03-25)[NAND].bin" size="4194304" crc="eab92fc3" md5="7d1fa4c24e18d5445606b6fe02c3cbb9" sha1="8f334bb314fb470cadfc96f17c84bf5ab007e761"/>
+	</machine>
+	<machine name="Palm Zire 72 (2004-03-26)[fastboot][NOR]">
+		<description>Palm Zire 72 (2004-03-26)[fastboot][NOR]</description>
+		<rom name="Palm Zire 72 (2004-03-26)[fastboot][NOR].bin" size="14942208" crc="51349574" md5="1de2638f448e9a59f8ee110ffb246254" sha1="0f96cf0dd7f67a69055ba83bc291b590284b4463"/>
+	</machine>
+	<machine name="Palm Zire 72 (2004-03-26)[NOR]">
+		<description>Palm Zire 72 (2004-03-26)[NOR]</description>
+		<rom name="Palm Zire 72 (2004-03-26)[NOR].bin" size="14942208" crc="14b47a15" md5="0f3e0bf04ceaa5ad73a1768b7d9ede98" sha1="94d0f8dffb5e7e4ffc90aafe97d7f43bd700ca8d"/>
+	</machine>
+	<machine name="Palm OS v3.00 (-)(Palm)[2MB Devices]">
+		<description>Palm OS v3.00 (-)(Palm)[2MB Devices]</description>
+		<rom name="Palm OS v3.00 (-)(Palm)[2MB Devices].exe" size="1486336" crc="1ab05e8a" md5="da0f8fe2ea83fb1b22cb278f402feaf2" sha1="4f636ce6e1dfed481cd284ec6e573c7ab4a5f7ac"/>
+	</machine>
+	<machine name="Palm OS v3.00 (-)(Palm)[Palm III]">
+		<description>Palm OS v3.00 (-)(Palm)[Palm III]</description>
+		<rom name="Palm OS v3.00 (-)(Palm)[Palm III].exe" size="1424896" crc="0c389b25" md5="edf46ed0a7314e168924e7cd579d081c" sha1="d8a7c31c3bfeab4204cb6ef0fc02bc4b157a33dc"/>
+	</machine>
+	<machine name="Qualcomm pdQ1900 v3.0.2 (1999)(Qualcomm)">
+		<description>Qualcomm pdQ1900 v3.0.2 (1999)(Qualcomm)</description>
+		<rom name="Qualcomm pdQ1900 v3.0.2 (1999)(Qualcomm).bin" size="2097152" crc="0fc91164" md5="31dfb2f9536c9d97f9e3124cc5d08c74" sha1="e68c1806b157984cfae114f09e547b05b6917412"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S300 (-)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-S300 (-)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-S300 (-)(Sony, Palm)(US).rom" size="1638400" crc="361ba712" md5="f08ef88f7a2b2c11b1aa29ba5ed21a0f" sha1="f51478bc1c28c01b903aa59b6080c96cd5cc4bb9"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N710C 4.1 (-)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-N710C 4.1 (-)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-N710C 4.1 (-)(Sony, Palm)(US).bin" size="8388608" crc="0c170179" md5="10e7d879cd1b8ffd47e45c2d9bf0d296" sha1="c6e9afeb0327bd9a6b5d2fe5f5a27519aab844d3"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NR70v (-)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-NR70v (-)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-NR70v (-)(Sony, Palm)(US).bin" size="8388608" crc="5f0ab3a5" md5="1e6256c8724bccb3cf1a05dfd579cc6a" sha1="ee012316eb1cad0429decc39eefa779f2c24d9a5"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S360 (-)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-S360 (-)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-S360 (-)(Sony, Palm)(US).rom" size="2916352" crc="3f125138" md5="cf8d563146f39fe6e112b5e5c99d116c" sha1="2487b23b3e0b3371d04b8e1ba8ba10fb7965b53e"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-SJ22 (-)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-SJ22 (-)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-SJ22 (-)(Sony, Palm)(US).bin" size="8388608" crc="bfb4c44c" md5="aff67a9f279e1e2697a05b8b452e4d0f" sha1="6d7fc19f01dacceda141d6782092f1adf993bcea"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-SJ33 (-)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-SJ33 (-)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-SJ33 (-)(Sony, Palm)(US).bin" size="8388608" crc="1ca946f7" md5="58f838a3795829313c5c351377dc0b88" sha1="9eb399a2cbe3edcc2ad927f0c5548ebdb891ae41"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T625C (-)(Sony, Palm)(US)">
+		<description>Sony CLIÉ PEG-T625C (-)(Sony, Palm)(US)</description>
+		<rom name="Sony CLIÉ PEG-T625C (-)(Sony, Palm)(US).bin" size="8388608" crc="0fcc9a02" md5="e7d27b519a377af34df0aed14171c4d8" sha1="25d0f960b37988d023243eb4c0cdaeccff936391"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T675C (-)(Sony, Palm)(US)[M5]">
+		<description>Sony CLIÉ PEG-T675C (-)(Sony, Palm)(US)[M5]</description>
+		<rom name="Sony CLIÉ PEG-T675C (-)(Sony, Palm)(US)[M5].bin" size="8388608" crc="72381437" md5="b7511697010946ef429da784e3095dba" sha1="a2c213da059411d8ef70d4311b0cec142da68327"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-TG50 (-)(Sony, Palm)(US)[NOR]">
+		<description>Sony CLIÉ PEG-TG50 (-)(Sony, Palm)(US)[NOR]</description>
+		<rom name="Sony CLIÉ PEG-TG50 (-)(Sony, Palm)(US)[NOR].bin" size="13041664" crc="9facea7d" md5="4fcdb4d5f12c04a4969088a9ed839f41" sha1="f794b8850aacb9e4707d0b8ae885b396b34fbad9"/>
+	</machine>
+	<machine name="Symbol SPT1500 v4.1 (1999-07-19)(Symbol, Palm)[nopim][noft]">
+		<description>Symbol SPT1500 v4.1 (1999-07-19)(Symbol, Palm)[nopim][noft]</description>
+		<rom name="Symbol SPT1500 v4.1 (1999-07-19)(Symbol, Palm)[nopim][noft].rom" size="2097152" crc="4ba19190" md5="d66d20fa74d44876e202c6ad1e8cd8f2" sha1="d713c1390b82eb4e5fbb39aa10433757c5c49e02"/>
+	</machine>
+	<machine name="Symbol SPT1500 v4.1 (1999-07-19)(Symbol, Palm)[pim]">
+		<description>Symbol SPT1500 v4.1 (1999-07-19)(Symbol, Palm)[pim]</description>
+		<rom name="Symbol SPT1500 v4.1 (1999-07-19)(Symbol, Palm)[pim].rom" size="2097152" crc="29e50eaf" md5="fbe9be41ea40084bdba142f78455df51" sha1="3e920887bdf74f8f83935977b02f22d5217723eb"/>
+	</machine>
+	<machine name="Symbol SPT1500 v4.1 (1999-07-19)(Symbol, Palm)[pim][noft]">
+		<description>Symbol SPT1500 v4.1 (1999-07-19)(Symbol, Palm)[pim][noft]</description>
+		<rom name="Symbol SPT1500 v4.1 (1999-07-19)(Symbol, Palm)[pim][noft].rom" size="2097152" crc="4b44f284" md5="fb9323e0bcc3674e5cf35549b1ac6ed4" sha1="4412e946444706628b94d2303b02580817e1d370"/>
+	</machine>
+	<machine name="Symbol SPT1700 v1.03 (1999-12-15)(Symbol, Palm)[pim]">
+		<description>Symbol SPT1700 v1.03 (1999-12-15)(Symbol, Palm)[pim]</description>
+		<rom name="Symbol SPT1700 v1.03 (1999-12-15)(Symbol, Palm)[pim]" size="2097152" crc="9df4ee50" md5="142e7f8427ef2bb9ed63362888593f5d" sha1="243a19796f15219cbd73e116f7dfb236b3d238cd"/>
+	</machine>
+	<machine name="Symbol SPT1700 v1.03 (1999-12-15)(Symbol, Palm)[nopim]">
+		<description>Symbol SPT1700 v1.03 (1999-12-15)(Symbol, Palm)[nopim]</description>
+		<rom name="Symbol SPT1700 v1.03 (1999-12-15)(Symbol, Palm)[nopim].rom" size="2097152" crc="8ea7e652" md5="95029394755d17f22ae1dc03ebf5ce92" sha1="2a4b5d6a426e627b3cb82c47109cfe2497eba29a"/>
+	</machine>
+	<machine name="Symbol SPT1740 v1.03 (1999-12-15)(Symbol, Palm)[pim]">
+		<description>Symbol SPT1740 v1.03 (1999-12-15)(Symbol, Palm)[pim]</description>
+		<rom name="Symbol SPT1740 v1.03 (1999-12-15)(Symbol, Palm)[pim].rom" size="2097152" crc="c29f341c" md5="0e5d18c60050cc597f43ca6dda84f979" sha1="b56d7f8a0c15b1105972e24ed52c846b5e27b195"/>
+	</machine>
+	<machine name="Symbol SPT1740 v1.03 (1999-12-15)(Symbol, Palm)[pim][noft]">
+		<description>Symbol SPT1740 v1.03 (1999-12-15)(Symbol, Palm)[pim][noft]</description>
+		<rom name="Symbol SPT1740 v1.03 (1999-12-15)(Symbol, Palm)[pim][noft].rom" size="2097152" crc="b2d49d5c" md5="d862e5b4307a305231a4c3bbfaa2549d" sha1="c133dc021b6797cdb93b666c5b315b00b5bb0917"/>
+	</machine>
+	<machine name="ECS EPD30 Penbex v2.46H1 (2001)(Penbex Data Systems)">
+		<description>ECS EPD30 Penbex v2.46H1 (2001)(Penbex Data Systems)</description>
+		<rom name="ECS EPD30 Penbex v2.46H1 (2001)(Penbex Data Systems).bin" size="2097152" crc="2a40eb57" md5="8855f982bf0f0276d793e42e1011681e" sha1="0643fd38b1919454088ad503610ffbd3d5581cef"/>
+	</machine>
+</datafile>
