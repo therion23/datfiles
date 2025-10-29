@@ -9,6 +9,7 @@ A big thank you to the following:
 - John Doe (T-En maintainer)
 - rygar997
 - Newpain
+
 And of course the whole PalmDB community, especially scienceapps and musashi for supplying fodder for these DATs
 
 # Preface
