@@ -2,7 +2,7 @@
 Origin: Everywhere
 
 # tl;dr
-No DATs are available yet. They will be pushed as they reach collection grade.
+The first DAT has been published and submitted to TOSEC. The rest will be pushed as they reach collection grade.
 
 # First things first
 A big thank you to the following:
