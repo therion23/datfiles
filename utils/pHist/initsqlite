@@ -1,0 +1,2 @@
+#!/bin/bash
+sqlite3 pHist.sqlite3 < pHist.schema
