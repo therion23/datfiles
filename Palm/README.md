@@ -4,6 +4,13 @@ Origin: Everywhere
 # tl;dr
 No DATs are available yet. They will be pushed as they reach collection grade.
 
+# First things first
+A big thank you to the following:
+- John Doe (T-En maintainer)
+- rygar997
+- Newpain
+And of course the whole PalmDB community, especially scienceapps and musashi for supplying fodder for these DATs
+
 # Preface
 I got my first Palm in 1998, and have been collecting software for the platform ever since. As it is right now, i have this "unsorted" folder amounting to around 900'000 files, and it is about time that gets properly catalogue'd.
 
@@ -53,8 +60,9 @@ When THAT is done with, i will clean up what i have made so far, and push those 
 | Palm - Device Software - CD Images | Cleaning | 20251010 | 20251026 |
 | Palm - Device Software - Other | Sorting | 20251010 | 20251026 |
 | Palm - Emulators & Simulators | Sorting | 20251011 | 20251026 |
-| Palm - Firmware (merged) | Sorting | 20251010 | 20251026 |
+| Palm - Firmware (merged) | TOSEC | 20251010 | 20251026 |
 | Palm - Software - CD Images | Sorting | 20251010 | 20251026 | A perpetual mess
+| Palm - Software - CD Images - Extracted | Sorting | 20251026 | 20251026 | A perpetual mess too
 | | | | |
 | Magazines - ASCII - Timeslip Palm Magazine | Cleaning | 20251011 | 20251026 |
 | Magazines - Handheld Computing Magazine | Cleaning | 20251012 | 20251026 |
