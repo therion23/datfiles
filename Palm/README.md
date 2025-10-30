@@ -5,7 +5,7 @@ Origin: Everywhere
 The first DAT has been published and submitted to TOSEC. The rest will be pushed as they reach collection grade.
 
 # First things first
-A big thank you to the following:
+A big thank you to the following (in no order whatsoever):
 - John Doe (T-En maintainer)
 - rygar997
 - Newpain
