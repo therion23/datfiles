@@ -452,6 +452,7 @@ Begin
   End;
 
 // Totally forgot what this and the next are
+// Scratch that, i know what the second is for
 
   For i := 1 to pNumRecords do If pResTable[i].pResName = 'taic' Then Begin
     pCategory := '';
