@@ -6,8 +6,8 @@
 		<name>Psion EPOC32 v2-v5</name>
 		<description>Psion (pre Symbian) EPOC32 Software</description>
 		<category>Standard DatFile</category>
-		<version>2025-10-01</version>
-		<date>2025-10-01</date>
+		<version>2025-10-31</version>
+		<date>2025-10-31</date>
 		<author>t23</author>
 		<email></email>
 		<homepage></homepage>
@@ -6862,5 +6862,1625 @@
 	<machine name="EPOC - Zoom v01.00 [F03A]">
 		<description>EPOC - Zoom v01.00 [F03A]</description>
 		<rom name="EPOC - Zoom v01.00 [F03A].sis" size="18100" crc="266e0f32" md5="ba04442d7429ef8ca51289b95931de92" sha1="2d6b17bbcef7aabb19727e15b361e3a60b2b2b67"/>
+	</machine>
+	<machine name="EPOC - 3T File Manager v05.07 [96E9]">
+		<description>EPOC - 3T File Manager v05.07 [96E9]</description>
+		<rom name="EPOC - 3T File Manager v05.07 [96E9].sis" size="17635" crc="d23b1a4f" md5="af0738eaf910235a587f4897b081d182" sha1="06f442e61d404c097bd50c55ded70c504df993b9"/>
+	</machine>
+	<machine name="EPOC - 5Account v03.00 [990B]">
+		<description>EPOC - 5Account v03.00 [990B]</description>
+		<rom name="EPOC - 5Account v03.00 [990B].sis" size="312468" crc="1539f6f5" md5="19bf8b09a4f8a8c3a2a2df1285b40351" sha1="01ecf8b561dded3f830c68f7b1b9497078c31980"/>
+	</machine>
+	<machine name="EPOC - 5Time v03.20 [B8D4]">
+		<description>EPOC - 5Time v03.20 [B8D4]</description>
+		<rom name="EPOC - 5Time v03.20 [B8D4].sis" size="444639" crc="d0e08f0f" md5="7a2c6101081c9f0146c266ba957a2137" sha1="823e586d702a79d253472bc3bf4adcf41b1faefa"/>
+	</machine>
+	<machine name="EPOC - 5Xpense v03.90 [37B9]">
+		<description>EPOC - 5Xpense v03.90 [37B9]</description>
+		<rom name="EPOC - 5Xpense v03.90 [37B9].sis" size="147388" crc="4c7fb694" md5="dde3cbbc0453e1d18b45ec479f2b701b" sha1="f0c4129bd696d9341878182fa3c5d585fcb4339f"/>
+	</machine>
+	<machine name="EPOC - abp5 v05.08 [339C]">
+		<description>EPOC - abp5 v05.08 [339C]</description>
+		<rom name="EPOC - abp5 v05.08 [339C].sis" size="354658" crc="f33574ed" md5="1eece8ab902cd839508ee325918981e9" sha1="30101fafb5dd456d31a61f2d63b6c616e97b41c6"/>
+	</machine>
+	<machine name="EPOC - abp5 v05.10 [EB24]">
+		<description>EPOC - abp5 v05.10 [EB24]</description>
+		<rom name="EPOC - abp5 v05.10 [EB24].sis" size="317163" crc="e8caf9b2" md5="2958e5e5c6368543fe8fa1a6eb8ddc44" sha1="6974f6af518fcec83bb4ee8d46af4b2fae7cb4de"/>
+	</machine>
+	<machine name="EPOC - access_help v01.00 [9D9B]">
+		<description>EPOC - access_help v01.00 [9D9B]</description>
+		<rom name="EPOC - access_help v01.00 [9D9B].sis" size="104846" crc="7c7e59a4" md5="4e5f5c01a7713840e0b085800409d2d0" sha1="884c7366254b4fc8b8ac1ec9d266c09f8444a4ac"/>
+	</machine>
+	<machine name="EPOC - Adder! (Beta Release) v00.23 [AC95]">
+		<description>EPOC - Adder! (Beta Release) v00.23 [AC95]</description>
+		<rom name="EPOC - Adder! (Beta Release) v00.23 [AC95].sis" size="140123" crc="f05c8691" md5="da40cc31c43786e562a6722f4ef380b7" sha1="95958a27bd564eada7823e492e399e21d2c045dd"/>
+	</machine>
+	<machine name="EPOC - AgendaWriter v02.01 [BB14]">
+		<description>EPOC - AgendaWriter v02.01 [BB14]</description>
+		<rom name="EPOC - AgendaWriter v02.01 [BB14].sis" size="23776" crc="9ba9b68c" md5="b5ee7e636f5b8e371042eea9cc1c321b" sha1="e36ceac48b9f5f2f026b4c519cffa3ce737db2d0"/>
+	</machine>
+	<machine name="EPOC - AGeneDB Beta Version v01.07 [E131]">
+		<description>EPOC - AGeneDB Beta Version v01.07 [E131]</description>
+		<rom name="EPOC - AGeneDB Beta Version v01.07 [E131].sis" size="133468" crc="4a4f8f9c" md5="ac3c684e1788b825265a66abdd03b764" sha1="29be7bc7bb0e558f289f3e937326e57637cb4f18"/>
+	</machine>
+	<machine name="EPOC - AgnDump v01.00 [FA00]">
+		<description>EPOC - AgnDump v01.00 [FA00]</description>
+		<rom name="EPOC - AgnDump v01.00 [FA00].sis" size="43640" crc="b69fcbf9" md5="59daa594f222b3fce9238b12da8b2add" sha1="4bc252990b516f65a61405e1e725b42cc8b0aa90"/>
+	</machine>
+	<machine name="EPOC - almanac v01.00 [DB1A]">
+		<description>EPOC - almanac v01.00 [DB1A]</description>
+		<rom name="EPOC - almanac v01.00 [DB1A].sis" size="170747" crc="84e7d627" md5="215f96a490bb0f43c34e5566b1e56710" sha1="d91c5d841b1219ffb2f3e11c234ea3dda2950a20"/>
+	</machine>
+	<machine name="EPOC - AlterNet v02.00 [1FD9]">
+		<description>EPOC - AlterNet v02.00 [1FD9]</description>
+		<rom name="EPOC - AlterNet v02.00 [1FD9].sis" size="146094" crc="8b175396" md5="8e0d1f2afac989e0a9e2cb135e662fb3" sha1="02b9469aa52cde99af147b316827b26e3eb97c17"/>
+	</machine>
+	<machine name="EPOC - Art Cabinet v02.05 [BEC1]">
+		<description>EPOC - Art Cabinet v02.05 [BEC1]</description>
+		<rom name="EPOC - Art Cabinet v02.05 [BEC1].sis" size="44561" crc="f151035f" md5="a86ce9910e2f9f791df458f229ced62e" sha1="e6b4511f80928c13894b08117b79c8419af53026"/>
+	</machine>
+	<machine name="EPOC - Art Cabinet v02.07 [954D]">
+		<description>EPOC - Art Cabinet v02.07 [954D]</description>
+		<rom name="EPOC - Art Cabinet v02.07 [954D].sis" size="118673" crc="cb549afd" md5="60c0e8ae4613b1a85eee5a32ee7fd339" sha1="5ec24d108ae069e64cd572cfde0d5caba883c2b7"/>
+	</machine>
+	<machine name="EPOC - Assistant v01.54 [9350]">
+		<description>EPOC - Assistant v01.54 [9350]</description>
+		<rom name="EPOC - Assistant v01.54 [9350].sis" size="753761" crc="f1d412fd" md5="c8812b96163724b85bf006c06edbdda9" sha1="8b5c99848090b8abdb222a7c6e8ba3373b839bb0"/>
+	</machine>
+	<machine name="EPOC - Auto StartUp v01.00 [6E1A]">
+		<description>EPOC - Auto StartUp v01.00 [6E1A]</description>
+		<rom name="EPOC - Auto StartUp v01.00 [6E1A].sis" size="16545" crc="50afb2c1" md5="c180d1f5dd48d11735c73a0dafbf0ece" sha1="57b0880b507e62e10e0cbc66b0890b2520d2bfb1"/>
+	</machine>
+	<machine name="EPOC - Backlite+ (Build 107) v02.20 [1048]">
+		<description>EPOC - Backlite+ (Build 107) v02.20 [1048]</description>
+		<rom name="EPOC - Backlite+ (Build 107) v02.20 [1048].sis" size="180656" crc="1c5fe8ce" md5="6b8621b171b75a4c907a38e7f96d55cd" sha1="17c8d5385c22dfdc0bff12680c494049481e1dee"/>
+	</machine>
+	<machine name="EPOC - Backtime v01.00 [1780]">
+		<description>EPOC - Backtime v01.00 [1780]</description>
+		<rom name="EPOC - Backtime v01.00 [1780].sis" size="5993" crc="62eb9542" md5="e4aa216a211c2a401dca10732b6b43ef" sha1="9a125295ee4066780aa2d15fdec3dca3698d07ca"/>
+	</machine>
+	<machine name="EPOC - Bank v05.00 [BD75]">
+		<description>EPOC - Bank v05.00 [BD75]</description>
+		<rom name="EPOC - Bank v05.00 [BD75].sis" size="46713" crc="eb9931cd" md5="c8c4659d987c3235ae0226bbaedb34b1" sha1="ac1e9ac73b0a5477c5bd2e929e13c16d0efae710"/>
+	</machine>
+	<machine name="EPOC - BankPlus v01.80 [CBC6]">
+		<description>EPOC - BankPlus v01.80 [CBC6]</description>
+		<rom name="EPOC - BankPlus v01.80 [CBC6].sis" size="139269" crc="448de3d4" md5="a2ed932275c1aa25a4d4165737e51e32" sha1="508c779d899663e8c48c56454da5948d05cb89ac"/>
+	</machine>
+	<machine name="EPOC - BatGauge v02.08 [A0BE]">
+		<description>EPOC - BatGauge v02.08 [A0BE]</description>
+		<rom name="EPOC - BatGauge v02.08 [A0BE].sis" size="84697" crc="fbaee94b" md5="00c508b2d0f83fc829a48bb590e7cc16" sha1="dbdaaab97b5c1dd4180eca82d4f86e453fcf1b1a"/>
+	</machine>
+	<machine name="EPOC - Battery v01.20 [0736]">
+		<description>EPOC - Battery v01.20 [0736]</description>
+		<rom name="EPOC - Battery v01.20 [0736].sis" size="277062" crc="52564648" md5="49ce077e251c33907dadef28edbd5dbb" sha1="5d16629e38711ba226fe4551a383595c013b64d8"/>
+	</machine>
+	<machine name="EPOC - BigTime (Female voices) v05.08 [01DE]">
+		<description>EPOC - BigTime (Female voices) v05.08 [01DE]</description>
+		<rom name="EPOC - BigTime (Female voices) v05.08 [01DE].sis" size="174523" crc="38821230" md5="1c0ad257e9b733e0f155a7d243c81af4" sha1="ab9b8497b774a6b268ea59a4577ca88feac2a9a1"/>
+	</machine>
+	<machine name="EPOC - BigTime (Male voices) v05.08 [9D41]">
+		<description>EPOC - BigTime (Male voices) v05.08 [9D41]</description>
+		<rom name="EPOC - BigTime (Male voices) v05.08 [9D41].sis" size="176768" crc="5cedb2db" md5="a663dc80a02f66d376b6d4571608b20a" sha1="28f294cd7ec930897cfd3bf5da6a7eb52b79f464"/>
+	</machine>
+	<machine name="EPOC - Biorythmes v01.00 [E713]">
+		<description>EPOC - Biorythmes v01.00 [E713]</description>
+		<rom name="EPOC - Biorythmes v01.00 [E713].sis" size="24517" crc="86f7d489" md5="9b43d32ce71f3f05b13b3c3b1dd5b708" sha1="2129c3751a661b9d25699640de7aeaec116bf76d"/>
+	</machine>
+	<machine name="EPOC - BodyMass _Huub Linthorst v01.00 [BF52]">
+		<description>EPOC - BodyMass _Huub Linthorst v01.00 [BF52]</description>
+		<rom name="EPOC - BodyMass _Huub Linthorst v01.00 [BF52].sis" size="13702" crc="2819e174" md5="3bda266a547fdd5ae2ebe5838b13bb45" sha1="661f704eed7260497315260f08186bd83d105e54"/>
+	</machine>
+	<machine name="EPOC - Book Cabinet v02.05 [E28C]">
+		<description>EPOC - Book Cabinet v02.05 [E28C]</description>
+		<rom name="EPOC - Book Cabinet v02.05 [E28C].sis" size="57605" crc="bc73c35e" md5="510f7996c58bafa5686acd15e67a2983" sha1="94f60b22d5e17357c98d18b5feac6870cd1d5279"/>
+	</machine>
+	<machine name="EPOC - Book Collection v02.07 [7134]">
+		<description>EPOC - Book Collection v02.07 [7134]</description>
+		<rom name="EPOC - Book Collection v02.07 [7134].sis" size="127631" crc="12717d9c" md5="82cba2ab212dfcde15b28fc92dd923dd" sha1="f8c90194d51ad775c0629a34c670fcb632ba7c3d"/>
+	</machine>
+	<machine name="EPOC - BusFin v05.05 [E43C]">
+		<description>EPOC - BusFin v05.05 [E43C]</description>
+		<rom name="EPOC - BusFin v05.05 [E43C].sis" size="1464" crc="5b7e8f4e" md5="14931a2ef735f2d0eed3e4e40d66c21f" sha1="d342a674f6dacb75ae3cbc3f99d7df36de6c7629"/>
+	</machine>
+	<machine name="EPOC - c2f v01.00 [ABCC]">
+		<description>EPOC - c2f v01.00 [ABCC]</description>
+		<rom name="EPOC - c2f v01.00 [ABCC].sis" size="8299" crc="8b0d7940" md5="9eec146acbe3e041d2325001117d9d01" sha1="25da85d141c7f416a6a31d001adc7c0b9c9a7d24"/>
+	</machine>
+	<machine name="EPOC - CatchMe v01.00 [41BE]">
+		<description>EPOC - CatchMe v01.00 [41BE]</description>
+		<rom name="EPOC - CatchMe v01.00 [41BE].sis" size="23099" crc="66c31445" md5="ea41e71dcb598b065c68cfff3951cfa8" sha1="dd89d74d07cf188b92cf3f16928f298bc849f427"/>
+	</machine>
+	<machine name="EPOC - CF PlugIn for Start5 v01.00 [739B]">
+		<description>EPOC - CF PlugIn for Start5 v01.00 [739B]</description>
+		<rom name="EPOC - CF PlugIn for Start5 v01.00 [739B].sis" size="1371" crc="4b997255" md5="4751fa95c986774ecdd80e00c312e5bb" sha1="2de52a692cf7675dfd1a5de64d68186b46239e44"/>
+	</machine>
+	<machine name="EPOC - ChemTools v03.00 [4CDB]">
+		<description>EPOC - ChemTools v03.00 [4CDB]</description>
+		<rom name="EPOC - ChemTools v03.00 [4CDB].sis" size="392453" crc="254b99d7" md5="ba30f5f56f78087f5a46e270863af1d9" sha1="283a6a5a32860132c16b2fd47c5ff2e7e2a4cf7c"/>
+	</machine>
+	<machine name="EPOC - CixEd v02.90 [7BB1]">
+		<description>EPOC - CixEd v02.90 [7BB1]</description>
+		<rom name="EPOC - CixEd v02.90 [7BB1].sis" size="194654" crc="ffb3ce5b" md5="e983547fedb60a3fbff6a1e84edd8aff" sha1="d9619c9c31c282c0aba4c5eb0771566dbc4e31fb"/>
+	</machine>
+	<machine name="EPOC - Clipboard v00.12 [EA00]">
+		<description>EPOC - Clipboard v00.12 [EA00]</description>
+		<rom name="EPOC - Clipboard v00.12 [EA00].sis" size="37250" crc="0b1bf2ba" md5="5a0d137b850a5ddb5dd1c901fa6b77b7" sha1="d45bdff499f7e23a22f4a5d8d96a51418fc65a0a"/>
+	</machine>
+	<machine name="EPOC - Clock5 v01.73 [4DE8]">
+		<description>EPOC - Clock5 v01.73 [4DE8]</description>
+		<rom name="EPOC - Clock5 v01.73 [4DE8].sis" size="195079" crc="a7ad0fc1" md5="8db4da0813c7ebc57ecf7bc3f759c2e6" sha1="45489a249ae45c4e09eaa138a933f32141654430"/>
+	</machine>
+	<machine name="EPOC - Clock5 v01.73 [8E8A]">
+		<description>EPOC - Clock5 v01.73 [8E8A]</description>
+		<rom name="EPOC - Clock5 v01.73 [8E8A].sis" size="184599" crc="007e3898" md5="d5d53a03008cd52e35d12463ed5b1c22" sha1="2af1d32aa59f3cd729d6749d4c5d281aa9f1cf40"/>
+	</machine>
+	<machine name="EPOC - Clock5 v01.73 [F06E]">
+		<description>EPOC - Clock5 v01.73 [F06E]</description>
+		<rom name="EPOC - Clock5 v01.73 [F06E].sis" size="178367" crc="2fe0eae1" md5="102252ddd5e1ae7232f2e2c2300ea400" sha1="fa6c868d21c1eaf910ad7fc5e4116bc5c49fcc67"/>
+	</machine>
+	<machine name="EPOC - Clock5 v01.81 [0D7B]">
+		<description>EPOC - Clock5 v01.81 [0D7B]</description>
+		<rom name="EPOC - Clock5 v01.81 [0D7B].sis" size="448139" crc="4a5c45ae" md5="7b37ac2855565d8f1de1b56900f22d94" sha1="f8a1217a50be91cfda3841f3f13cb4afca85ad98"/>
+	</machine>
+	<machine name="EPOC - Clock5 v01.81 [6E71]">
+		<description>EPOC - Clock5 v01.81 [6E71]</description>
+		<rom name="EPOC - Clock5 v01.81 [6E71].sis" size="361530" crc="7a54d9cf" md5="9998600648a3dd253f763dcdcf34ce53" sha1="d6e8ce34d0b922f524d5330836c0d268392bb702"/>
+	</machine>
+	<machine name="EPOC - Clock5 v01.81 [9FAC]">
+		<description>EPOC - Clock5 v01.81 [9FAC]</description>
+		<rom name="EPOC - Clock5 v01.81 [9FAC].sis" size="363691" crc="20cae4eb" md5="bdfa0f22dbe9c5a8851d53cfa25e6e21" sha1="0c8ea3e99939c80c6e0a8c4242c72312cbd5d9a1"/>
+	</machine>
+	<machine name="EPOC - Clock5 v01.81 [D467]">
+		<description>EPOC - Clock5 v01.81 [D467]</description>
+		<rom name="EPOC - Clock5 v01.81 [D467].sis" size="392209" crc="e7ac4c76" md5="735967a84c90d0cabbe1311d9c38a4a7" sha1="49249ddf935dcb514001bc67197f9c663e9a605d"/>
+	</machine>
+	<machine name="EPOC - ClockP v05.01 [56E9]">
+		<description>EPOC - ClockP v05.01 [56E9]</description>
+		<rom name="EPOC - ClockP v05.01 [56E9].sis" size="76062" crc="ca8588fe" md5="e8fb7013797b0bca01417cdf3a7fefb4" sha1="3b2b9e391f201e3a5e79cd9cd29d0bf0a56e65ae"/>
+	</machine>
+	<machine name="EPOC - CodeSafe _Huub Linthorst v07.29 [9FDF]">
+		<description>EPOC - CodeSafe _Huub Linthorst v07.29 [9FDF]</description>
+		<rom name="EPOC - CodeSafe _Huub Linthorst v07.29 [9FDF].sis" size="152417" crc="b57081b4" md5="ae501eca936b3be0a4c0274596ebbbd4" sha1="db76784b50860ae7d2810408dd793153632c9455"/>
+	</machine>
+	<machine name="EPOC - CodesPostaux v01.20 [5E27]">
+		<description>EPOC - CodesPostaux v01.20 [5E27]</description>
+		<rom name="EPOC - CodesPostaux v01.20 [5E27].sis" size="1015739" crc="f3fea375" md5="88cafba9eafac147872a04156f10c127" sha1="1738199146dc4a41ccfe3ca69c1efe809bea4141"/>
+	</machine>
+	<machine name="EPOC - CoDriver v01.10 [E6CB]">
+		<description>EPOC - CoDriver v01.10 [E6CB]</description>
+		<rom name="EPOC - CoDriver v01.10 [E6CB].sis" size="389217" crc="6cd59e12" md5="69c87160096506ec377f467d6177e380" sha1="48743bcc02b54f53a26ba1eed4aca9748714a57e"/>
+	</machine>
+	<machine name="EPOC - Collins English-French Demo v00.50 [3A47]">
+		<description>EPOC - Collins English-French Demo v00.50 [3A47]</description>
+		<rom name="EPOC - Collins English-French Demo v00.50 [3A47].sis" size="314180" crc="7d4f084a" md5="b9c2c8d28676d712feda053bb26da9d4" sha1="78a1a05dce317305584adeff19a9eca64c903c44"/>
+	</machine>
+	<machine name="EPOC - Collins English-German Demo v00.50 [6A98]">
+		<description>EPOC - Collins English-German Demo v00.50 [6A98]</description>
+		<rom name="EPOC - Collins English-German Demo v00.50 [6A98].sis" size="341836" crc="56db3010" md5="e0619d9f5a8c754ebfe6d9b64f0cdde4" sha1="c172c068da2a7810ac742f20fbe638ff07da2b28"/>
+	</machine>
+	<machine name="EPOC - Collins English-Italian Demo v00.50 [B71D]">
+		<description>EPOC - Collins English-Italian Demo v00.50 [B71D]</description>
+		<rom name="EPOC - Collins English-Italian Demo v00.50 [B71D].sis" size="266404" crc="caccc100" md5="85f5dfc843c119d13592a05fe73fc91b" sha1="fb36189a99746f9c9580e63e5cc9fcd01d741c7e"/>
+	</machine>
+	<machine name="EPOC - Collins English-Spanish Demo v00.50 [6B22]">
+		<description>EPOC - Collins English-Spanish Demo v00.50 [6B22]</description>
+		<rom name="EPOC - Collins English-Spanish Demo v00.50 [6B22].sis" size="296358" crc="167e9957" md5="049089b9f0532dae3b5d6ebb60749aa8" sha1="745574432660de4b3b0ffaf46f2e07597dc0b14a"/>
+	</machine>
+	<machine name="EPOC - Collins French-German Demo v00.50 [8124]">
+		<description>EPOC - Collins French-German Demo v00.50 [8124]</description>
+		<rom name="EPOC - Collins French-German Demo v00.50 [8124].sis" size="375773" crc="3ce66c96" md5="cd7e0053b545a812d1cf6232f5435ef6" sha1="c92d5b76339ee58d3452feacb1f7fbdc2b04a66d"/>
+	</machine>
+	<machine name="EPOC - Comp_basic v01.00 [2D32]">
+		<description>EPOC - Comp_basic v01.00 [2D32]</description>
+		<rom name="EPOC - Comp_basic v01.00 [2D32].sis" size="66499" crc="59f3d647" md5="379e5961b69b7948983ec6a845a3f336" sha1="0ea615fac0b54a5ee17f6ee68883aa57ee1bdb87"/>
+	</machine>
+	<machine name="EPOC - Compact v01.01 [5537]">
+		<description>EPOC - Compact v01.01 [5537]</description>
+		<rom name="EPOC - Compact v01.01 [5537].sis" size="60384" crc="34ed53ca" md5="0c8a4c62e2fda6845737431fe88b6528" sha1="aa3f0c485450005b1d7cef465c03bd0fdd4d63d0"/>
+	</machine>
+	<machine name="EPOC - Compactor v01.01 [A3D1]">
+		<description>EPOC - Compactor v01.01 [A3D1]</description>
+		<rom name="EPOC - Compactor v01.01 [A3D1].sis" size="29656" crc="2fa2f43c" md5="c57a4a45f49879a1bd14f76676e4564d" sha1="5961d658fff40c2f53291bd88a0d6cbf301d9775"/>
+	</machine>
+	<machine name="EPOC - Company Manager v02.05 [0F66]">
+		<description>EPOC - Company Manager v02.05 [0F66]</description>
+		<rom name="EPOC - Company Manager v02.05 [0F66].sis" size="125915" crc="81139d34" md5="c1e02d16d2d9cb6d056c54a8b4b522f8" sha1="c8008a4583b7b3b7fe180c5163ab3a38bf66180b"/>
+	</machine>
+	<machine name="EPOC - Contact Manager v04.00 [AE59]">
+		<description>EPOC - Contact Manager v04.00 [AE59]</description>
+		<rom name="EPOC - Contact Manager v04.00 [AE59].sis" size="354609" crc="3716d513" md5="3e9a55686ce140e4a4e30865e501cc38" sha1="491a9ea72ccf1fe16d03b9587ce2d960b58f9be8"/>
+	</machine>
+	<machine name="EPOC - ContactLoader v02.30 [584C]">
+		<description>EPOC - ContactLoader v02.30 [584C]</description>
+		<rom name="EPOC - ContactLoader v02.30 [584C].sis" size="41710" crc="aeb2cef9" md5="5f93a56b6fa40f21843d493eeb5954e3" sha1="91bddb0ed4d5e3873284d61c65d878737befdfa3"/>
+	</machine>
+	<machine name="EPOC - Convert5 Pro - PAYE for UK v04.00 [00F0]">
+		<description>EPOC - Convert5 Pro - PAYE for UK v04.00 [00F0]</description>
+		<rom name="EPOC - Convert5 Pro - PAYE for UK v04.00 [00F0].sis" size="47579" crc="e3a05ac2" md5="24955515dcd1b4a793da8d25ae9eaced" sha1="d5a50fe587e788dbac6f7ae2888232d5c8ab40dc"/>
+	</machine>
+	<machine name="EPOC - Convert5 Pro v03.50 [FAA4]">
+		<description>EPOC - Convert5 Pro v03.50 [FAA4]</description>
+		<rom name="EPOC - Convert5 Pro v03.50 [FAA4].sis" size="228128" crc="c5194ca5" md5="ee9a453ac8077874f2dbc1257d083385" sha1="9089b54f73e1b598b6c4848fe402489bafd94161"/>
+	</machine>
+	<machine name="EPOC - Converter v02.46 [032D]">
+		<description>EPOC - Converter v02.46 [032D]</description>
+		<rom name="EPOC - Converter v02.46 [032D].sis" size="101656" crc="c06b960c" md5="8db4246214a5be8247484720343ff775" sha1="4af7337f0f66e32d93b3023a1af60b0c2ef75920"/>
+	</machine>
+	<machine name="EPOC - Cricket Statistics v01.10 [1325]">
+		<description>EPOC - Cricket Statistics v01.10 [1325]</description>
+		<rom name="EPOC - Cricket Statistics v01.10 [1325].sis" size="41528" crc="537e3b26" md5="14e84c8c95698c8733dae04a8d619a54" sha1="5df55369bbdc5d1cae6403056701ff0efa7b5e12"/>
+	</machine>
+	<machine name="EPOC - CrOsborne Countdown Timer v05.00 [F005]">
+		<description>EPOC - CrOsborne Countdown Timer v05.00 [F005]</description>
+		<rom name="EPOC - CrOsborne Countdown Timer v05.00 [F005].sis" size="18142" crc="be54b84f" md5="d7e9011f535fbf9c776a117ff1217ef8" sha1="4a0afe738c2e67a45dd2db9789a9c7b34baa6e51"/>
+	</machine>
+	<machine name="EPOC - CrOsborne Currency Exchange v05.00 [4E05]">
+		<description>EPOC - CrOsborne Currency Exchange v05.00 [4E05]</description>
+		<rom name="EPOC - CrOsborne Currency Exchange v05.00 [4E05].sis" size="64088" crc="37c03b82" md5="6ad2ff79bcb1f40d72cb1f5ad06ec669" sha1="6ae9691a9922e48396c448334fcdcd0ccb2ee942"/>
+	</machine>
+	<machine name="EPOC - CrOsborne Time Calculator v05.00 [118F]">
+		<description>EPOC - CrOsborne Time Calculator v05.00 [118F]</description>
+		<rom name="EPOC - CrOsborne Time Calculator v05.00 [118F].sis" size="26397" crc="130f07fc" md5="2b94969998b9c7b7f7f4baf3db9cb167" sha1="72216ccc319a4d9a46efa8052d42f569a2318048"/>
+	</machine>
+	<machine name="EPOC - Crossword Pro _ FatCatz v01.21 [78C7]">
+		<description>EPOC - Crossword Pro _ FatCatz v01.21 [78C7]</description>
+		<rom name="EPOC - Crossword Pro _ FatCatz v01.21 [78C7].sis" size="171874" crc="6fcbcf0c" md5="56095dbef74506c85b7c75cef60fb677" sha1="d8a25d45038c14d1011dd66ad4e758afb9fb2344"/>
+	</machine>
+	<machine name="EPOC - Crypto (Patch for Catalan) v01.17 [E15D]">
+		<description>EPOC - Crypto (Patch for Catalan) v01.17 [E15D]</description>
+		<rom name="EPOC - Crypto (Patch for Catalan) v01.17 [E15D].sis" size="3059" crc="5fbb4627" md5="1bf88aa0fef2141357e6f6dc919bc0da" sha1="2edf71d40626da7e6020ccbfb21f6b44695069b7"/>
+	</machine>
+	<machine name="EPOC - Crypto (Patch for Czech) v01.17 [61A3]">
+		<description>EPOC - Crypto (Patch for Czech) v01.17 [61A3]</description>
+		<rom name="EPOC - Crypto (Patch for Czech) v01.17 [61A3].sis" size="2841" crc="3bf4d89e" md5="80fa27dda9a22294392bdddf39e34553" sha1="5e7008243363d43000066f558e51481c583586ae"/>
+	</machine>
+	<machine name="EPOC - Crypto v01.14 [432A]">
+		<description>EPOC - Crypto v01.14 [432A]</description>
+		<rom name="EPOC - Crypto v01.14 [432A].sis" size="155403" crc="c94cb5b5" md5="7ed4c387acb48043f25bbe8e09c29323" sha1="e193275c966f120e1722ceaf863b01cdc1aba9fa"/>
+	</machine>
+	<machine name="EPOC - Crypto v01.14 [5EA9]">
+		<description>EPOC - Crypto v01.14 [5EA9]</description>
+		<rom name="EPOC - Crypto v01.14 [5EA9].sis" size="179776" crc="1092aed5" md5="0091cd659ef3615cc5265f836b559f1e" sha1="c52acff7a994217dc1bd3a4bdd523f73230c9f6c"/>
+	</machine>
+	<machine name="EPOC - Crypto v01.17 [DA43]">
+		<description>EPOC - Crypto v01.17 [DA43]</description>
+		<rom name="EPOC - Crypto v01.17 [DA43].sis" size="264242" crc="51563a57" md5="936dc565da8ac616e5dd7b509fc525ce" sha1="eddd7db2e4afde8cbce09d1930b4fe2b39e51e34"/>
+	</machine>
+	<machine name="EPOC - Crypto v01.17 [E856]">
+		<description>EPOC - Crypto v01.17 [E856]</description>
+		<rom name="EPOC - Crypto v01.17 [E856].sis" size="288615" crc="11e76abb" md5="1de9c2f8da9c22f84380fb155beed4be" sha1="16ad794e6d0ad99d8b87b844370d5c4f14286b08"/>
+	</machine>
+	<machine name="EPOC - Dark Horizon v01.01 [E76F]">
+		<description>EPOC - Dark Horizon v01.01 [E76F]</description>
+		<rom name="EPOC - Dark Horizon v01.01 [E76F].sis" size="850380" crc="0fd90e53" md5="b99e5e7812144484cd99710a5c485469" sha1="ea34116a09c09d72dfbc4542a566ea2b33aa6e39"/>
+	</machine>
+	<machine name="EPOC - Day Count v01.01 [69C2]">
+		<description>EPOC - Day Count v01.01 [69C2]</description>
+		<rom name="EPOC - Day Count v01.01 [69C2].sis" size="63495" crc="a54fbcd1" md5="ff489f0b8661fd64c5d14f859e2e916d" sha1="82041c098cfd72c9d83e468ef2690822a32a5ed0"/>
+	</machine>
+	<machine name="EPOC - Day Count v01.01 [C16D]">
+		<description>EPOC - Day Count v01.01 [C16D]</description>
+		<rom name="EPOC - Day Count v01.01 [C16D].sis" size="46806" crc="8a9bc086" md5="9c621f2820e1a86e0eff0d0d88cac967" sha1="3b18171ddc8cfb19832f49ab0053ca336c025a7a"/>
+	</machine>
+	<machine name="EPOC - Day Count v04.00 [D031]">
+		<description>EPOC - Day Count v04.00 [D031]</description>
+		<rom name="EPOC - Day Count v04.00 [D031].sis" size="78040" crc="0a373ae6" md5="92f2772e998d4ecd3d18a2f95595bb78" sha1="e1d9cac54991fdb016293d8c08ba4ec15040db63"/>
+	</machine>
+	<machine name="EPOC - dcalc v02.00 [0FDA]">
+		<description>EPOC - dcalc v02.00 [0FDA]</description>
+		<rom name="EPOC - dcalc v02.00 [0FDA].sis" size="219585" crc="90266d5e" md5="8bd6a52a56e2c4f1ebf98854d6660b51" sha1="dcc42a5029c0e0eeac3c64211f135606c07e05f1"/>
+	</machine>
+	<machine name="EPOC - DCLFuel v01.40 [C683]">
+		<description>EPOC - DCLFuel v01.40 [C683]</description>
+		<rom name="EPOC - DCLFuel v01.40 [C683].sis" size="56211" crc="e67eb878" md5="6b9a28cf9b1148694d1cce3189829a53" sha1="33179138f4fc585c3a1df3e096fff71d356f8d46"/>
+	</machine>
+	<machine name="EPOC - DCP Deutsch v04.10 [7173]">
+		<description>EPOC - DCP Deutsch v04.10 [7173]</description>
+		<rom name="EPOC - DCP Deutsch v04.10 [7173].sis" size="143444" crc="69bbf9db" md5="19147033bd9fea2e93baa010d6df76cd" sha1="74814fe8ce4d2ed3dd6dc5c2fdc1bc9c0482604f"/>
+	</machine>
+	<machine name="EPOC - DCP v03.00 [A2EB]">
+		<description>EPOC - DCP v03.00 [A2EB]</description>
+		<rom name="EPOC - DCP v03.00 [A2EB].sis" size="157220" crc="b49100a4" md5="f4cc9cf62578b3e4f08505a4e303475f" sha1="d85e7e8237ee990d06db744cf869bb185b551971"/>
+	</machine>
+	<machine name="EPOC - DCP v03.00 [AF0C]">
+		<description>EPOC - DCP v03.00 [AF0C]</description>
+		<rom name="EPOC - DCP v03.00 [AF0C].sis" size="139430" crc="133b3d2a" md5="0bd23e16c6a9fa16a0f24d6dd5226b37" sha1="06a0b9d0d4c61694160f0160ed6589b70f08d58a"/>
+	</machine>
+	<machine name="EPOC - DCP v06.02 [6119]">
+		<description>EPOC - DCP v06.02 [6119]</description>
+		<rom name="EPOC - DCP v06.02 [6119].sis" size="490539" crc="2c14da09" md5="2645670fc6276bdc4e83f55d8cb292ff" sha1="dfbbbff5d106d5ce4f553d9938d1b984ff68d822"/>
+	</machine>
+	<machine name="EPOC - DCP v06.02 [D2CE]">
+		<description>EPOC - DCP v06.02 [D2CE]</description>
+		<rom name="EPOC - DCP v06.02 [D2CE].sis" size="496899" crc="49313543" md5="b3e2a8773ba3058f5c2f551c9a30997b" sha1="cda100ce1bafe4db6180d148a18e95c56de06f4a"/>
+	</machine>
+	<machine name="EPOC - deVender additional sounds v01.00 [DD5D]">
+		<description>EPOC - deVender additional sounds v01.00 [DD5D]</description>
+		<rom name="EPOC - deVender additional sounds v01.00 [DD5D].sis" size="83558" crc="7944ff51" md5="9fd8d395e57877706b70d383c1278c15" sha1="905f51185186a1890cdb45366725ee665d21b3b7"/>
+	</machine>
+	<machine name="EPOC - deVender v01.04 [8B4C]">
+		<description>EPOC - deVender v01.04 [8B4C]</description>
+		<rom name="EPOC - deVender v01.04 [8B4C].sis" size="133011" crc="198d13f6" md5="28b9804ac1f17e48fd11107eb6e00ff3" sha1="c2f5176806d7fab6e6e2e50835e94cecf3f46b24"/>
+	</machine>
+	<machine name="EPOC - deVender v01.06 [3CA8]">
+		<description>EPOC - deVender v01.06 [3CA8]</description>
+		<rom name="EPOC - deVender v01.06 [3CA8].sis" size="133808" crc="b167307b" md5="cfc6565fb01cf47d7cca2ca9b8f364ca" sha1="3e49297cfc19f6bb34f71d33333c2ed23083f265"/>
+	</machine>
+	<machine name="EPOC - DiabetesManager v02.00 [7699]">
+		<description>EPOC - DiabetesManager v02.00 [7699]</description>
+		<rom name="EPOC - DiabetesManager v02.00 [7699].sis" size="323532" crc="dbc7661b" md5="6a6d3209c2e6e3ef11649a32e37bd3e6" sha1="955ae46c721054ff84d6f5eac7b92468137888c5"/>
+	</machine>
+	<machine name="EPOC - DiabetesManager v02.01 [3F77]">
+		<description>EPOC - DiabetesManager v02.01 [3F77]</description>
+		<rom name="EPOC - DiabetesManager v02.01 [3F77].sis" size="337615" crc="93a77c1b" md5="3c87120358675609060384012cc32bc4" sha1="64d99ff6cd2320454e4d713347dd96ad5cde5ecf"/>
+	</machine>
+	<machine name="EPOC - DiabetesManager v02.01 [75DB]">
+		<description>EPOC - DiabetesManager v02.01 [75DB]</description>
+		<rom name="EPOC - DiabetesManager v02.01 [75DB].sis" size="337615" crc="8b2e0909" md5="486244f677f30f36f2e1e9822de08106" sha1="39a0789967162f82329528da9edf77d4aa6a5d04"/>
+	</machine>
+	<machine name="EPOC - Dialler v01.00 [1610]">
+		<description>EPOC - Dialler v01.00 [1610]</description>
+		<rom name="EPOC - Dialler v01.00 [1610].sis" size="89403" crc="7c35787f" md5="f11dc3ba8bcc90867df234966fdedf54" sha1="6ac91eac6b319cf92222bd66fabb88476bdff775"/>
+	</machine>
+	<machine name="EPOC - Draw5 Vector drawing package v01.01 [994A]">
+		<description>EPOC - Draw5 Vector drawing package v01.01 [994A]</description>
+		<rom name="EPOC - Draw5 Vector drawing package v01.01 [994A].sis" size="156502" crc="8f9c831a" md5="f0f91289d932bf0012e80f130a0635c8" sha1="10676ee2bc5a171cf3df79520f13ccc16de2f26e"/>
+	</machine>
+	<machine name="EPOC - easymbm v01.00 [B015]">
+		<description>EPOC - easymbm v01.00 [B015]</description>
+		<rom name="EPOC - easymbm v01.00 [B015].sis" size="122891" crc="0fa1784d" md5="8ee5bd52de2fc78faba6906faed0342a" sha1="c92388cea55cf02e52112e8db8db94d33d7dc889"/>
+	</machine>
+	<machine name="EPOC - eGuitar 1.0 v01.00 [0DA6]">
+		<description>EPOC - eGuitar 1.0 v01.00 [0DA6]</description>
+		<rom name="EPOC - eGuitar 1.0 v01.00 [0DA6].sis" size="160704" crc="7174e4bd" md5="0eb1260871ea15ba2ff58863c6e64e58" sha1="03c032995047ff5e5fac11aa04afee108727ac0d"/>
+	</machine>
+	<machine name="EPOC - Encrypt-it! v02.10 [2CB0]">
+		<description>EPOC - Encrypt-it! v02.10 [2CB0]</description>
+		<rom name="EPOC - Encrypt-it! v02.10 [2CB0].sis" size="320899" crc="f77568ca" md5="1b1113f9da9f27e859c0bf4290a45f61" sha1="ee24bff0faf62cd78818d4eb06c58b9571bfb66a"/>
+	</machine>
+	<machine name="EPOC - EpocBaby v01.00 [AF18]">
+		<description>EPOC - EpocBaby v01.00 [AF18]</description>
+		<rom name="EPOC - EpocBaby v01.00 [AF18].sis" size="410108" crc="8f946735" md5="67340e844e454fbdfb5a392bb2bbe587" sha1="b054797e69598af2c6dade5708995b7f9cc93e47"/>
+	</machine>
+	<machine name="EPOC - EPOCInfo v01.00 [CD6E]">
+		<description>EPOC - EPOCInfo v01.00 [CD6E]</description>
+		<rom name="EPOC - EPOCInfo v01.00 [CD6E].sis" size="6475" crc="8436ad4d" md5="b006fc13be253ef51b0953b84d76da96" sha1="10c0f55f33265d8661df66db0bfca77aff730e66"/>
+	</machine>
+	<machine name="EPOC - ERubik v01.00 [B176]">
+		<description>EPOC - ERubik v01.00 [B176]</description>
+		<rom name="EPOC - ERubik v01.00 [B176].sis" size="20990" crc="71965b8c" md5="81c190706b48adb4f9c501759f6f2726" sha1="44f0ca43dae3e040eef006013c98ab87878d609b"/>
+	</machine>
+	<machine name="EPOC - ETools v01.00 [6111]">
+		<description>EPOC - ETools v01.00 [6111]</description>
+		<rom name="EPOC - ETools v01.00 [6111].sis" size="388532" crc="aad6a6de" md5="bf15e28a75905fa9883903eb23dc64b3" sha1="d7ae5554a8aa173cba0626e43b7d092c84a5e585"/>
+	</machine>
+	<machine name="EPOC - Euro v02.00 [8434]">
+		<description>EPOC - Euro v02.00 [8434]</description>
+		<rom name="EPOC - Euro v02.00 [8434].sis" size="5550" crc="eeca3c92" md5="842f52fa3c195febd4864292cf11ce80" sha1="c32d2b5e46ac0ae53e113aa99c898a6c6e764a7d"/>
+	</machine>
+	<machine name="EPOC - Euro v02.00 [AC8B]">
+		<description>EPOC - Euro v02.00 [AC8B]</description>
+		<rom name="EPOC - Euro v02.00 [AC8B].sis" size="5477" crc="c655bc5f" md5="a6e4f57b882798616efff0c2b9505ffd" sha1="1f95c40f375dc2c15e4a19e11307ac548a3ce227"/>
+	</machine>
+	<machine name="EPOC - Euro v02.00 [AF86]">
+		<description>EPOC - Euro v02.00 [AF86]</description>
+		<rom name="EPOC - Euro v02.00 [AF86].sis" size="5499" crc="24c86d19" md5="936976bd4ff0f594c64c9eae7dda853a" sha1="14156d90802842bc10d956cf410fca7742ca6895"/>
+	</machine>
+	<machine name="EPOC - Euro11 v01.04 [49DB]">
+		<description>EPOC - Euro11 v01.04 [49DB]</description>
+		<rom name="EPOC - Euro11 v01.04 [49DB].sis" size="5374" crc="45d51b46" md5="6f0c693401cebbe698f4cce2773f5221" sha1="e377bf71731bde0ca04aaf72b2dbd387203e999e"/>
+	</machine>
+	<machine name="EPOC - ExtraBars v01.20 [C013]">
+		<description>EPOC - ExtraBars v01.20 [C013]</description>
+		<rom name="EPOC - ExtraBars v01.20 [C013].sis" size="220173" crc="7dbaff51" md5="347fdcbdcffa20e0b76785747cba34c3" sha1="76827996f8540e264f1c4715a3798023e66df993"/>
+	</machine>
+	<machine name="EPOC - Facilities Manager v05.22 [923D]">
+		<description>EPOC - Facilities Manager v05.22 [923D]</description>
+		<rom name="EPOC - Facilities Manager v05.22 [923D].sis" size="172556" crc="2e86c902" md5="a3770303eba047801e440a543a360d9e" sha1="3c5db2e70a2b757bbaa23fd409de472a448b096d"/>
+	</machine>
+	<machine name="EPOC - Fancy Galaxy v01.00 [B352]">
+		<description>EPOC - Fancy Galaxy v01.00 [B352]</description>
+		<rom name="EPOC - Fancy Galaxy v01.00 [B352].sis" size="190033" crc="ca17eae7" md5="5c93f1d5864b98c866aa9784f022f14c" sha1="a53ffed3c18a95dfcb38d9b5aad079f7d1201d78"/>
+	</machine>
+	<machine name="EPOC - FatCatz Crossword v01.02 [63EE]">
+		<description>EPOC - FatCatz Crossword v01.02 [63EE]</description>
+		<rom name="EPOC - FatCatz Crossword v01.02 [63EE].sis" size="147948" crc="e3b09a13" md5="f842d4ff2b5e16411e35aff7dd70428d" sha1="42976e14bb0afb905b69b4bf16e6e16e23f0f319"/>
+	</machine>
+	<machine name="EPOC - Feiertagssoftware v02.01 [9F17]">
+		<description>EPOC - Feiertagssoftware v02.01 [9F17]</description>
+		<rom name="EPOC - Feiertagssoftware v02.01 [9F17].sis" size="24301" crc="d993f429" md5="ebf3f1875b45885b73244ea838128356" sha1="c0c6cfc78b69a85fcce740b44a7dc0d951f376f6"/>
+	</machine>
+	<machine name="EPOC - Fetes v01.02 [8CBD]">
+		<description>EPOC - Fetes v01.02 [8CBD]</description>
+		<rom name="EPOC - Fetes v01.02 [8CBD].sis" size="92393" crc="51dc83d0" md5="542bf00c9b01b3010dd295ec410185e7" sha1="481cca6b92920b7edacb2a33c30a1a8403db4bfa"/>
+	</machine>
+	<machine name="EPOC - FileLink v02.01 [EC1C]">
+		<description>EPOC - FileLink v02.01 [EC1C]</description>
+		<rom name="EPOC - FileLink v02.01 [EC1C].sis" size="23529" crc="a88d8a4c" md5="c4053613d12e7c7832d269beb1a4b2cf" sha1="4b9510a5079f1a0eac7ed8853112b070db5571d0"/>
+	</machine>
+	<machine name="EPOC - FileLink v02.10 [ECB3]">
+		<description>EPOC - FileLink v02.10 [ECB3]</description>
+		<rom name="EPOC - FileLink v02.10 [ECB3].sis" size="24021" crc="803f5c33" md5="80fecd1fc2eb7b0edf95d9b6de1cc313" sha1="b6e1a2574778c59b0ec6b6ce6831c104de76f8d0"/>
+	</machine>
+	<machine name="EPOC - Filmcalc - The Filmcalculator version 5.20 v01.00 [0A27]">
+		<description>EPOC - Filmcalc - The Filmcalculator version 5.20 v01.00 [0A27]</description>
+		<rom name="EPOC - Filmcalc - The Filmcalculator version 5.20 v01.00 [0A27].sis" size="262018" crc="1dd0cb0f" md5="30dfb47674097078001c6d948a5b2758" sha1="ea13104c6fad51fe5019be8c36f54484f3066b16"/>
+	</machine>
+	<machine name="EPOC - FindIt v04.00 [4D87]">
+		<description>EPOC - FindIt v04.00 [4D87]</description>
+		<rom name="EPOC - FindIt v04.00 [4D87].sis" size="87262" crc="946411ca" md5="e1ee6a7980309bf2729115b4397c81ae" sha1="bfd2816614939f33bee8b82adc8b4db501c935af"/>
+	</machine>
+	<machine name="EPOC - FivePlay v01.04 [11A2]">
+		<description>EPOC - FivePlay v01.04 [11A2]</description>
+		<rom name="EPOC - FivePlay v01.04 [11A2].sis" size="40273" crc="7f45b395" md5="c60742b5b90b7ec3436b79f8067a66d1" sha1="483e5a80ee67e5abbe40f7d45072cf26b330230b"/>
+	</machine>
+	<machine name="EPOC - FlashBack v01.00 [C1D5]">
+		<description>EPOC - FlashBack v01.00 [C1D5]</description>
+		<rom name="EPOC - FlashBack v01.00 [C1D5].sis" size="192707" crc="7a5c74b9" md5="f5d44d5afe3cd85050a84e3b9a0a10cf" sha1="b9928f921eaa2254f2001341478def2f665baebf"/>
+	</machine>
+	<machine name="EPOC - Flight Demo v00.10 [EE1C]">
+		<description>EPOC - Flight Demo v00.10 [EE1C]</description>
+		<rom name="EPOC - Flight Demo v00.10 [EE1C].sis" size="1043819" crc="31456391" md5="96bcabe182eea32421585b032b1278bf" sha1="e840c8f14f6ce0a2fda0ac51109a05784e5c37f0"/>
+	</machine>
+	<machine name="EPOC - flyTERM Terminal Emulation v01.07 [9447]">
+		<description>EPOC - flyTERM Terminal Emulation v01.07 [9447]</description>
+		<rom name="EPOC - flyTERM Terminal Emulation v01.07 [9447].sis" size="190457" crc="9a6209f9" md5="01ddc5a6edbbefd367f31f649e974c08" sha1="7b789649c56668db792f6cc1860106262702fc4b"/>
+	</machine>
+	<machine name="EPOC - flyTERM Terminal Emulation v01.20 [E671]">
+		<description>EPOC - flyTERM Terminal Emulation v01.20 [E671]</description>
+		<rom name="EPOC - flyTERM Terminal Emulation v01.20 [E671].sis" size="195005" crc="2a89e1a2" md5="bf5f796a554a3e09087605fdf05a5f72" sha1="edb132b2b4edacb31a960b89a83e5ee17cb14510"/>
+	</machine>
+	<machine name="EPOC - flyTERM Terminal Emulation v02.03 [1415]">
+		<description>EPOC - flyTERM Terminal Emulation v02.03 [1415]</description>
+		<rom name="EPOC - flyTERM Terminal Emulation v02.03 [1415].sis" size="111339" crc="c87b433c" md5="b7c0c78ab992e99f0a7ab57cf0aa4623" sha1="3122a7aa7c53b67004fa5fe2284eac3d8b390d2d"/>
+	</machine>
+	<machine name="EPOC - Garden v01.10 [B86F]">
+		<description>EPOC - Garden v01.10 [B86F]</description>
+		<rom name="EPOC - Garden v01.10 [B86F].sis" size="20535" crc="d572484a" md5="3f5535d72f5d0b2214ffccb3befd099a" sha1="21e1c934d678eb4a8ae39b841536d156c426c26c"/>
+	</machine>
+	<machine name="EPOC - GarPsi5 v01.02 [51AE]">
+		<description>EPOC - GarPsi5 v01.02 [51AE]</description>
+		<rom name="EPOC - GarPsi5 v01.02 [51AE].sis" size="202821" crc="a8603d3d" md5="09f45291a4043baa717a47bcbeebec6a" sha1="8cb7b83b3141b534d14fc3a86c64b03226db7359"/>
+	</machine>
+	<machine name="EPOC - Gen5 v02.01 [2587]">
+		<description>EPOC - Gen5 v02.01 [2587]</description>
+		<rom name="EPOC - Gen5 v02.01 [2587].sis" size="153085" crc="b64cac6c" md5="4c5a2a6e6286c1f5f654f382787c25b4" sha1="7efd9eaf6079907c101af421fdc81ab240b3f0f0"/>
+	</machine>
+	<machine name="EPOC - Ghost In The Machine v01.00 [C262]">
+		<description>EPOC - Ghost In The Machine v01.00 [C262]</description>
+		<rom name="EPOC - Ghost In The Machine v01.00 [C262].sis" size="2642" crc="8aab75d7" md5="5bfc4e1fbe1f62574d592c78bfd95a6c" sha1="867a59280e80a0c6afa4cebcb60f7737b1bcd1f6"/>
+	</machine>
+	<machine name="EPOC - Gibberish v01.00 [7223]">
+		<description>EPOC - Gibberish v01.00 [7223]</description>
+		<rom name="EPOC - Gibberish v01.00 [7223].sis" size="39774" crc="4ba8eab3" md5="7a9ca1fd72590d1a7349677a912072e2" sha1="f345994f8ae148cac5751d7ed9b2f22587f429e1"/>
+	</machine>
+	<machine name="EPOC - Gibberish v01.00 [9DD6]">
+		<description>EPOC - Gibberish v01.00 [9DD6]</description>
+		<rom name="EPOC - Gibberish v01.00 [9DD6].sis" size="38444" crc="de27a34a" md5="39810791861873e0c79e0ad13b9e1df6" sha1="65dc982294c3871713ed4945964375f9bd70511e"/>
+	</machine>
+	<machine name="EPOC - goby v01.00 [C7F9]">
+		<description>EPOC - goby v01.00 [C7F9]</description>
+		<rom name="EPOC - goby v01.00 [C7F9].sis" size="132986" crc="cb33449e" md5="ad56f9f89f5e92472259305e437116b3" sha1="1f43d28a09cfe13ec05581330cbcc92dd3e80bae"/>
+	</machine>
+	<machine name="EPOC - Grabber v02.00 [113D]">
+		<description>EPOC - Grabber v02.00 [113D]</description>
+		<rom name="EPOC - Grabber v02.00 [113D].sis" size="72515" crc="7f401c4b" md5="830ec6846a770ccec545c9a6b38c5708" sha1="6ba2d20fb2781d4d306f9288de89b0edf1dec0ce"/>
+	</machine>
+	<machine name="EPOC - Guitar v05.20 [FB1F]">
+		<description>EPOC - Guitar v05.20 [FB1F]</description>
+		<rom name="EPOC - Guitar v05.20 [FB1F].sis" size="13530" crc="a707c749" md5="95101ea00770038a881aad64dee104ac" sha1="ceff3ff6371161a2ee233c0f2edeee43723a54fa"/>
+	</machine>
+	<machine name="EPOC - HartMath CAS v00.05 [F602]">
+		<description>EPOC - HartMath CAS v00.05 [F602]</description>
+		<rom name="EPOC - HartMath CAS v00.05 [F602].sis" size="358314" crc="705bdf8f" md5="adcb269d4d5b28324b4ef1e329727e8a" sha1="acdd856d675d5ddb781819e37ae3fdc05ea72af8"/>
+	</machine>
+	<machine name="EPOC - Hermes v00.05 [AABC]">
+		<description>EPOC - Hermes v00.05 [AABC]</description>
+		<rom name="EPOC - Hermes v00.05 [AABC].sis" size="205850" crc="8d235925" md5="ffbaf8ca232ab659d67533d87c23c934" sha1="1330d2eeaa4073b9f2577385d8e8624c1d7e4a21"/>
+	</machine>
+	<machine name="EPOC - HexEditor v02.60 [A5EF]">
+		<description>EPOC - HexEditor v02.60 [A5EF]</description>
+		<rom name="EPOC - HexEditor v02.60 [A5EF].sis" size="134453" crc="5d2191e7" md5="fb73b558fa1ab63a9f8bfb55d124d31a" sha1="7955aeba5471a8ccd57851ccd13970539c287585"/>
+	</machine>
+	<machine name="EPOC - HH2 v01.00 [CA69]">
+		<description>EPOC - HH2 v01.00 [CA69]</description>
+		<rom name="EPOC - HH2 v01.00 [CA69].sis" size="229091" crc="753a715a" md5="8858011721647a396b5fe5bb078874fb" sha1="2aff2c06dab50a3cf6d47ae05ca6591c63d4d763"/>
+	</machine>
+	<machine name="EPOC - Home Cabinet v02.05 [F769]">
+		<description>EPOC - Home Cabinet v02.05 [F769]</description>
+		<rom name="EPOC - Home Cabinet v02.05 [F769].sis" size="60239" crc="e39af5e2" md5="fb6be3e5563f4a4733ff022b58575706" sha1="1013b1cd5d7a8323efba70906ab031b677a15cef"/>
+	</machine>
+	<machine name="EPOC - Home Collection v02.07 [72C5]">
+		<description>EPOC - Home Collection v02.07 [72C5]</description>
+		<rom name="EPOC - Home Collection v02.07 [72C5].sis" size="121740" crc="1aa06239" md5="e451630bdefb232608a090d08e162059" sha1="a6fa1df72a91337c803294b4939a29d97520e562"/>
+	</machine>
+	<machine name="EPOC - HTMLEdit v02.30 [28E6]">
+		<description>EPOC - HTMLEdit v02.30 [28E6]</description>
+		<rom name="EPOC - HTMLEdit v02.30 [28E6].sis" size="148923" crc="f04bd2b5" md5="16dd6cbbbdd37606f4907ac0b68a8482" sha1="6cb2ddc15e28f1c80895d908ee0069396391a0bf"/>
+	</machine>
+	<machine name="EPOC - I Ching v01.00 [7ABE]">
+		<description>EPOC - I Ching v01.00 [7ABE]</description>
+		<rom name="EPOC - I Ching v01.00 [7ABE].sis" size="93745" crc="cfae9650" md5="e51d661be20d03992fa59d48f854a5ba" sha1="10c7d060686f135b0df7c6b4cd5a3e3bfa97e975"/>
+	</machine>
+	<machine name="EPOC - Imperium v01.05 [3510]">
+		<description>EPOC - Imperium v01.05 [3510]</description>
+		<rom name="EPOC - Imperium v01.05 [3510].sis" size="586327" crc="5dbe3622" md5="4bf6d00e53a2e39fa0b3c5c0c8c0924d" sha1="02e54c65698ebf3e305f52d3554bc774f6dedf90"/>
+	</machine>
+	<machine name="EPOC - Internet Service Provider (Deutschland) v01.00 [B5D4]">
+		<description>EPOC - Internet Service Provider (Deutschland) v01.00 [B5D4]</description>
+		<rom name="EPOC - Internet Service Provider (Deutschland) v01.00 [B5D4].sis" size="1613" crc="f1b224bc" md5="bbbd685c23748b51fc48398d26f85802" sha1="0d02561edd3650c9423bd8d096dee01dba0ace8d"/>
+	</machine>
+	<machine name="EPOC - IrChat v01.00 [077D]">
+		<description>EPOC - IrChat v01.00 [077D]</description>
+		<rom name="EPOC - IrChat v01.00 [077D].sis" size="24781" crc="dbd1341b" md5="319fb29c4e71e2ea514eed8c4e045943" sha1="c490a3f5ca88b6e2023a5a9635e2f5de7bb66c75"/>
+	</machine>
+	<machine name="EPOC - it_help v01.00 [8683]">
+		<description>EPOC - it_help v01.00 [8683]</description>
+		<rom name="EPOC - it_help v01.00 [8683].sis" size="40899" crc="d11e454f" md5="da6ff3fc05c314da13ccbd8d80506f1a" sha1="ef6ce32d26535587c3a154dab4855b76fee92cdd"/>
+	</machine>
+	<machine name="EPOC - ITIL's Tourmate v01.00 [016E]">
+		<description>EPOC - ITIL's Tourmate v01.00 [016E]</description>
+		<rom name="EPOC - ITIL's Tourmate v01.00 [016E].sis" size="502508" crc="d791751b" md5="ef6f8dc998715047f2e2f00a31a63547" sha1="7fbd36f454b49558c672f3a04b767297dabb1d53"/>
+	</machine>
+	<machine name="EPOC - ITIL's Tourmate v01.00 [3343]">
+		<description>EPOC - ITIL's Tourmate v01.00 [3343]</description>
+		<rom name="EPOC - ITIL's Tourmate v01.00 [3343].sis" size="489449" crc="3ea8b75d" md5="66a7c3780fd9afccf8ffeee1f235fbe1" sha1="44d40f429915e6ead3251e27666fd4b0ad944999"/>
+	</machine>
+	<machine name="EPOC - ITIL's Tourmate v01.00 [3836]">
+		<description>EPOC - ITIL's Tourmate v01.00 [3836]</description>
+		<rom name="EPOC - ITIL's Tourmate v01.00 [3836].sis" size="497313" crc="ab90b685" md5="dcbff50454c85ff2c02b1a49664ea0bb" sha1="0f8d7699a72be2ba3b62d03215c16ca55d224d06"/>
+	</machine>
+	<machine name="EPOC - ITIL's Tourmate v01.00 [4CCA]">
+		<description>EPOC - ITIL's Tourmate v01.00 [4CCA]</description>
+		<rom name="EPOC - ITIL's Tourmate v01.00 [4CCA].sis" size="489578" crc="8b3778a6" md5="b73b871d75a87a64bdd9896aab8576ef" sha1="48e0438bafbef8ab778d2633c5f56dde7fa65ec3"/>
+	</machine>
+	<machine name="EPOC - ITIL's Tourmate v01.00 [9FD9]">
+		<description>EPOC - ITIL's Tourmate v01.00 [9FD9]</description>
+		<rom name="EPOC - ITIL's Tourmate v01.00 [9FD9].sis" size="533607" crc="36ba84d4" md5="f5fa7ee6b3cdbf3eefadd06c008e55da" sha1="c59e050a433468eef322cfc46387688663aceead"/>
+	</machine>
+	<machine name="EPOC - ITIL's Tourmate v01.00 [D322]">
+		<description>EPOC - ITIL's Tourmate v01.00 [D322]</description>
+		<rom name="EPOC - ITIL's Tourmate v01.00 [D322].sis" size="485357" crc="a0fe10bd" md5="98447d11c10f63d4f1a86076e2c8b13b" sha1="91c20bdaf7ac6dee72ec17330784f9dbd1211374"/>
+	</machine>
+	<machine name="EPOC - JB5Hol application v03.00 [7E01]">
+		<description>EPOC - JB5Hol application v03.00 [7E01]</description>
+		<rom name="EPOC - JB5Hol application v03.00 [7E01].sis" size="24303" crc="f072a871" md5="e12a2c55ca661177bf3b46a67b9c9254" sha1="52466778c52d004b163e94d74e6afcfd5b05d73e"/>
+	</machine>
+	<machine name="EPOC - JB5StopGo application v01.01 [F74F]">
+		<description>EPOC - JB5StopGo application v01.01 [F74F]</description>
+		<rom name="EPOC - JB5StopGo application v01.01 [F74F].sis" size="18754" crc="b8d67573" md5="ca1f0330ea7f44650e5135907e44c27b" sha1="429bcbbc24c94bb157f4bd25833102773126dfc5"/>
+	</machine>
+	<machine name="EPOC - JB5Utils application v01.01 [6E7D]">
+		<description>EPOC - JB5Utils application v01.01 [6E7D]</description>
+		<rom name="EPOC - JB5Utils application v01.01 [6E7D].sis" size="43264" crc="fef9abd7" md5="904a6831c6c1148170d25a18ea9cdcfd" sha1="83c0e95c671b146e827613ede3682320db00cdc0"/>
+	</machine>
+	<machine name="EPOC - JotPad v03.00 [C5A6]">
+		<description>EPOC - JotPad v03.00 [C5A6]</description>
+		<rom name="EPOC - JotPad v03.00 [C5A6].sis" size="102477" crc="bee17d07" md5="c2fbf92686a083611b09fcd3080eb73e" sha1="22f0a4c1d508f72fbdf489e4a75acb0689b41093"/>
+	</machine>
+	<machine name="EPOC - jS Solutions WinEPOC v02.50 [7FED]">
+		<description>EPOC - jS Solutions WinEPOC v02.50 [7FED]</description>
+		<rom name="EPOC - jS Solutions WinEPOC v02.50 [7FED].sis" size="755034" crc="b7de76c0" md5="19f371a26acd54f6eb20f1a6b83943d3" sha1="d7d1f478c70482a93b9cc98bd9dc2402141f6b26"/>
+	</machine>
+	<machine name="EPOC - Julian v01.06 [8921]">
+		<description>EPOC - Julian v01.06 [8921]</description>
+		<rom name="EPOC - Julian v01.06 [8921].sis" size="7935" crc="a743b87f" md5="c1cfd72d89e097bb1ab044ddb48205b8" sha1="1609f29e7641ae58fbd34369b8c718ae324993c4"/>
+	</machine>
+	<machine name="EPOC - Jumpy! v03.02 [6C1D]">
+		<description>EPOC - Jumpy! v03.02 [6C1D]</description>
+		<rom name="EPOC - Jumpy! v03.02 [6C1D].sis" size="192874" crc="7dfa09e4" md5="babe1b8e0d0dc78b345462bbdacb2015" sha1="7b013cd0a7273240615e4ef12a2765ee32258132"/>
+	</machine>
+	<machine name="EPOC - Just What I Need (JWIN) v02.10 [E71D]">
+		<description>EPOC - Just What I Need (JWIN) v02.10 [E71D]</description>
+		<rom name="EPOC - Just What I Need (JWIN) v02.10 [E71D].sis" size="521029" crc="f0468942" md5="2ad59bb1ca03c7d8d8ab65c80d848c11" sha1="b1de14dd92f2de9333d37d2e029813b1496ecce3"/>
+	</machine>
+	<machine name="EPOC - JWIN voor EPOC v02.10 [286E]">
+		<description>EPOC - JWIN voor EPOC v02.10 [286E]</description>
+		<rom name="EPOC - JWIN voor EPOC v02.10 [286E].sis" size="392253" crc="04f945f9" md5="8a32451ff6c4d8af8586705319e066c8" sha1="80e825bdd6d4efc0000bfc6913d1119b8c761bf0"/>
+	</machine>
+	<machine name="EPOC - KeyboardClick v01.02 [EA61]">
+		<description>EPOC - KeyboardClick v01.02 [EA61]</description>
+		<rom name="EPOC - KeyboardClick v01.02 [EA61].sis" size="13887" crc="20aade5a" md5="76556c508fedaa909c7493159fb47b86" sha1="d2ceb019bd313be7733084980b98f7ad0325600c"/>
+	</machine>
+	<machine name="EPOC - KmBuch5 v01.11 [E36A]">
+		<description>EPOC - KmBuch5 v01.11 [E36A]</description>
+		<rom name="EPOC - KmBuch5 v01.11 [E36A].sis" size="134078" crc="b337e89f" md5="59dab053cd41b90f375296ddd40ee454" sha1="b1aeef45169b372510b3984c7a5793499714011c"/>
+	</machine>
+	<machine name="EPOC - Lifeguide v01.01 [AD2F]">
+		<description>EPOC - Lifeguide v01.01 [AD2F]</description>
+		<rom name="EPOC - Lifeguide v01.01 [AD2F].sis" size="44088" crc="f1d380cb" md5="a7732fe04b1111fde91cdf7c0bb72f9b" sha1="6380331f56dbc1cb0d7612ba2d72289c04afe293"/>
+	</machine>
+	<machine name="EPOC - Lifeguide v01.02 [07E0]">
+		<description>EPOC - Lifeguide v01.02 [07E0]</description>
+		<rom name="EPOC - Lifeguide v01.02 [07E0].sis" size="48295" crc="83bd137a" md5="b61051722373a41bb8b6cc17ff109f92" sha1="ce28f34d7aa127aef4133704a4449de47b0de203"/>
+	</machine>
+	<machine name="EPOC - LIFEPLAN v01.04 [D7FE]">
+		<description>EPOC - LIFEPLAN v01.04 [D7FE]</description>
+		<rom name="EPOC - LIFEPLAN v01.04 [D7FE].sis" size="208003" crc="f87583d1" md5="ebbff603c8a859bbb191df227687dbc8" sha1="5832059019d35f12f19df4048f62211f4caaf236"/>
+	</machine>
+	<machine name="EPOC - Lights In The Sky v01.00 [EC38]">
+		<description>EPOC - Lights In The Sky v01.00 [EC38]</description>
+		<rom name="EPOC - Lights In The Sky v01.00 [EC38].sis" size="2200" crc="9e67a2e4" md5="96f2dd2e113b2ff54001e81d148d3f5d" sha1="e00e415264085d6df4fbfe61c48eb148c511e0c0"/>
+	</machine>
+	<machine name="EPOC - Link PlugIn for Start5 v01.00 [ADF5]">
+		<description>EPOC - Link PlugIn for Start5 v01.00 [ADF5]</description>
+		<rom name="EPOC - Link PlugIn for Start5 v01.00 [ADF5].sis" size="1629" crc="553b75d5" md5="f43b94e0fbe1697a46b4257a58c889a9" sha1="6f3c35d3125099cab9e45bb96ed0212abc2ee7df"/>
+	</machine>
+	<machine name="EPOC - Locations 1.10 v01.10 [F700]">
+		<description>EPOC - Locations 1.10 v01.10 [F700]</description>
+		<rom name="EPOC - Locations 1.10 v01.10 [F700].sis" size="18101" crc="852bb0b8" md5="7b23a6138fc6da2e2819cc1682eebdf6" sha1="36a2d963cfab191029925a7de71d59eef2722ac4"/>
+	</machine>
+	<machine name="EPOC - Logbook v01.00 [31A7]">
+		<description>EPOC - Logbook v01.00 [31A7]</description>
+		<rom name="EPOC - Logbook v01.00 [31A7].sis" size="282649" crc="66cf4068" md5="d7f4923d506686be41cbc5b699d7e340" sha1="3b0a218702e35f2b0420e4aac0fbea9ba59f56be"/>
+	</machine>
+	<machine name="EPOC - Logit v01.00 [6B7E]">
+		<description>EPOC - Logit v01.00 [6B7E]</description>
+		<rom name="EPOC - Logit v01.00 [6B7E].sis" size="301593" crc="17953e08" md5="123b42689a88dfc87ff62bfa4b03aca4" sha1="68be6429171c5a52462633a48dc2ea492618540d"/>
+	</machine>
+	<machine name="EPOC - Logit v01.00 [747A]">
+		<description>EPOC - Logit v01.00 [747A]</description>
+		<rom name="EPOC - Logit v01.00 [747A].sis" size="314893" crc="edb8a83e" md5="1ed1d636f1420ec38f78bd4d27ff892b" sha1="ac51e7440f8bf07df2e7d87c9ee1978ce77366d4"/>
+	</machine>
+	<machine name="EPOC - Lostin3d v01.10 [3AAF]">
+		<description>EPOC - Lostin3d v01.10 [3AAF]</description>
+		<rom name="EPOC - Lostin3d v01.10 [3AAF].sis" size="36800" crc="8507c4df" md5="415758e37ee99c716261864b7ef70892" sha1="7e76c37b166c9d6cdc767ffec40a453db2fe4d94"/>
+	</machine>
+	<machine name="EPOC - Losung v01.25 [606A]">
+		<description>EPOC - Losung v01.25 [606A]</description>
+		<rom name="EPOC - Losung v01.25 [606A].sis" size="268302" crc="9f19d6ab" md5="77d6f5fb6defe81764a506b84cfc202f" sha1="fd373164a6dc3b00278467fdcb7cfb70f77fd368"/>
+	</machine>
+	<machine name="EPOC - Macro5 Library v02.37 [4DDC]">
+		<description>EPOC - Macro5 Library v02.37 [4DDC]</description>
+		<rom name="EPOC - Macro5 Library v02.37 [4DDC].sis" size="16209" crc="79e6fff7" md5="cc3a3d708996a9180708e1ddcbc416f9" sha1="cbdc94010132c04494d57ff96926bf6e2479c68f"/>
+	</machine>
+	<machine name="EPOC - MagicKeys _ FatCatz v02.03 [7922]">
+		<description>EPOC - MagicKeys _ FatCatz v02.03 [7922]</description>
+		<rom name="EPOC - MagicKeys _ FatCatz v02.03 [7922].sis" size="244337" crc="62d6e994" md5="780fc1443a799139884e19b2c4364193" sha1="362d88fd6d96081834d50a13bb92d63dc9c26a0e"/>
+	</machine>
+	<machine name="EPOC - MahJongg v01.02 [372B]">
+		<description>EPOC - MahJongg v01.02 [372B]</description>
+		<rom name="EPOC - MahJongg v01.02 [372B].sis" size="161737" crc="03ca0629" md5="ceec6a8ca329484c3b3d6745784511c2" sha1="8cf9c0a4a2b33fa4397959496b4e840f6a42a4a9"/>
+	</machine>
+	<machine name="EPOC - MahJongg v01.20 [8BDE]">
+		<description>EPOC - MahJongg v01.20 [8BDE]</description>
+		<rom name="EPOC - MahJongg v01.20 [8BDE].sis" size="127302" crc="24211a78" md5="35f1e7eab2d5b2c4efef3b88ec48b2a5" sha1="e054f5f0b4075e8efda642a1f02007fd5944c860"/>
+	</machine>
+	<machine name="EPOC - Mail PlugIn for Start5 v01.00 [D761]">
+		<description>EPOC - Mail PlugIn for Start5 v01.00 [D761]</description>
+		<rom name="EPOC - Mail PlugIn for Start5 v01.00 [D761].sis" size="1708" crc="795a48a4" md5="d30d64ef466db0eb2c97ac5276e82f40" sha1="b4f62c836c7b1d9c89545428532a2f9adf411266"/>
+	</machine>
+	<machine name="EPOC - MakePKG v01.00 [AD29]">
+		<description>EPOC - MakePKG v01.00 [AD29]</description>
+		<rom name="EPOC - MakePKG v01.00 [AD29].sis" size="34474" crc="57d9e902" md5="6d988084f68d1c57f9aae60577319978" sha1="418e18eb65d3da0cd781cdcf725b3f966606da01"/>
+	</machine>
+	<machine name="EPOC - Mancala v01.21 [0DCE]">
+		<description>EPOC - Mancala v01.21 [0DCE]</description>
+		<rom name="EPOC - Mancala v01.21 [0DCE].sis" size="40717" crc="d93b8fce" md5="4657ad0ea4a487464a0a7539c602f194" sha1="47e2e51f5ce33edbd064f48f3e2b73635d868add"/>
+	</machine>
+	<machine name="EPOC - MapperGB v06.00 [5D3F]">
+		<description>EPOC - MapperGB v06.00 [5D3F]</description>
+		<rom name="EPOC - MapperGB v06.00 [5D3F].sis" size="721093" crc="faa54dbc" md5="770645a575a01786376ab62afc7abf9e" sha1="c02f851beadc95d0ecd82eaa0c0d25870b2bdc07"/>
+	</machine>
+	<machine name="EPOC - MapperGB v06.20 [962A]">
+		<description>EPOC - MapperGB v06.20 [962A]</description>
+		<rom name="EPOC - MapperGB v06.20 [962A].sis" size="698731" crc="ea4ab06e" md5="388388f6c3e6f6700491663f8226bf68" sha1="472eee5a7a995179baefed219fdcb63a36675c02"/>
+	</machine>
+	<machine name="EPOC - MapperIR v02.20 [2AB6]">
+		<description>EPOC - MapperIR v02.20 [2AB6]</description>
+		<rom name="EPOC - MapperIR v02.20 [2AB6].sis" size="244913" crc="1062599a" md5="bd2d74ea5932ebd48ef735a94c037556" sha1="c7477947eaf83304c3f2c30546d8999d61770c9a"/>
+	</machine>
+	<machine name="EPOC - MapperLO v03.10 [CA00]">
+		<description>EPOC - MapperLO v03.10 [CA00]</description>
+		<rom name="EPOC - MapperLO v03.10 [CA00].sis" size="301317" crc="037044a2" md5="1234cedbbe363484d6d9003e7e810b52" sha1="b67d29f005177cf42024793b2f39f1336a00c117"/>
+	</machine>
+	<machine name="EPOC - Marker v01.00 [5326]">
+		<description>EPOC - Marker v01.00 [5326]</description>
+		<rom name="EPOC - Marker v01.00 [5326].sis" size="37229" crc="5d404181" md5="c7f760172feff4fac6032d08a9c5275f" sha1="c14e0d52cf752a88e40dbdc5d73e05f329ab447f"/>
+	</machine>
+	<machine name="EPOC - MathsHelp v05.00 [8B30]">
+		<description>EPOC - MathsHelp v05.00 [8B30]</description>
+		<rom name="EPOC - MathsHelp v05.00 [8B30].sis" size="6665" crc="14af8466" md5="c236539e9ee5a6803404a0479b619fd9" sha1="5e1dbf7f77c2673e99c624fd9d9839d9195dbc8a"/>
+	</machine>
+	<machine name="EPOC - MBM Viewer v01.01 [B977]">
+		<description>EPOC - MBM Viewer v01.01 [B977]</description>
+		<rom name="EPOC - MBM Viewer v01.01 [B977].sis" size="2783" crc="c6b90f21" md5="22b11ed9250347192fad22a707c3d592" sha1="28f801d5ef993fb2029c569cdfba65e391328482"/>
+	</machine>
+	<machine name="EPOC - MbmUtils v01.02 [FE23]">
+		<description>EPOC - MbmUtils v01.02 [FE23]</description>
+		<rom name="EPOC - MbmUtils v01.02 [FE23].sis" size="220910" crc="fa8e2af1" md5="35cefa7d56824aba0cc5670f9277e8b3" sha1="340d8c7e7ec92afa72906cfb5a2308e1230ac97d"/>
+	</machine>
+	<machine name="EPOC - MCI v01.00 [C3DB]">
+		<description>EPOC - MCI v01.00 [C3DB]</description>
+		<rom name="EPOC - MCI v01.00 [C3DB].sis" size="4060" crc="86e4bb51" md5="09d323b4a222ff2c007f97066cfa3e05" sha1="980619290c19fba5cb6b7dbfdbbdc7cb97940a46"/>
+	</machine>
+	<machine name="EPOC - Mentor v05.119 [D8A4]">
+		<description>EPOC - Mentor v05.119 [D8A4]</description>
+		<rom name="EPOC - Mentor v05.119 [D8A4].sis" size="397663" crc="8d6a62e5" md5="a682a975b78152876c723d83e2f5407f" sha1="2c4d8257dc7e5d55656199ce4338cd81e76b3277"/>
+	</machine>
+	<machine name="EPOC - Mentor v05.59 [B9E4]">
+		<description>EPOC - Mentor v05.59 [B9E4]</description>
+		<rom name="EPOC - Mentor v05.59 [B9E4].sis" size="234852" crc="949f4cef" md5="160f927f6ef928d88996755b25f3ea34" sha1="369d9b84d29b5637e12db50b23b60d395b21ce3f"/>
+	</machine>
+	<machine name="EPOC - Menus5 v01.40 [EA00]">
+		<description>EPOC - Menus5 v01.40 [EA00]</description>
+		<rom name="EPOC - Menus5 v01.40 [EA00].sis" size="261051" crc="277bd332" md5="e22692b0e4bafa139d5af9e57a601f98" sha1="5a77a7c615c457e62e4dc61f5bd056a5ad61f4cd"/>
+	</machine>
+	<machine name="EPOC - Menus5 v02.20 [3B6D]">
+		<description>EPOC - Menus5 v02.20 [3B6D]</description>
+		<rom name="EPOC - Menus5 v02.20 [3B6D].sis" size="493736" crc="3d7f82e6" md5="ed7f8c6e906632236e48c8f8bfe9dd62" sha1="3cf3234b41e72a29124e86ed0a7ed26b988b2f1e"/>
+	</machine>
+	<machine name="EPOC - Menus5 v02.40 [7F63]">
+		<description>EPOC - Menus5 v02.40 [7F63]</description>
+		<rom name="EPOC - Menus5 v02.40 [7F63].sis" size="402358" crc="517d3048" md5="cd8b145a0d80cf4215585df80d5d3413" sha1="db8045fc23cc50059987f5a7bac6a3d6b714c3e2"/>
+	</machine>
+	<machine name="EPOC - Merchants ! (5mx) ALPHA TESTVERSION  v00.85 [B909]">
+		<description>EPOC - Merchants ! (5mx) ALPHA TESTVERSION  v00.85 [B909]</description>
+		<rom name="EPOC - Merchants ! (5mx) ALPHA TESTVERSION  v00.85 [B909].sis" size="1892021" crc="7d0a21e7" md5="d8d2e9598d27b067c10dbc2e8dd86f9b" sha1="8f14748a3abbfe4747a848c10d74bc816b2744ac"/>
+	</machine>
+	<machine name="EPOC - Merchants ! (S5) ALPHA TESTVERSION  v00.85 [386E]">
+		<description>EPOC - Merchants ! (S5) ALPHA TESTVERSION  v00.85 [386E]</description>
+		<rom name="EPOC - Merchants ! (S5) ALPHA TESTVERSION  v00.85 [386E].sis" size="1619956" crc="0feb4b25" md5="c71ca09afb211af73741f509992520c2" sha1="db231194c0fa7cda74f0c238ad50bbacdb0b1b22"/>
+	</machine>
+	<machine name="EPOC - Metro v03.06 [7619]">
+		<description>EPOC - Metro v03.06 [7619]</description>
+		<rom name="EPOC - Metro v03.06 [7619].sis" size="1337184" crc="9f7ae045" md5="c6995f80b81ea768d1b1e9d92e03b27d" sha1="e7540004ab58ed411bb02aeb26f1c588d612ed92"/>
+	</machine>
+	<machine name="EPOC - MfolderLite v01.15 [576D]">
+		<description>EPOC - MfolderLite v01.15 [576D]</description>
+		<rom name="EPOC - MfolderLite v01.15 [576D].sis" size="69029" crc="308d16d0" md5="12772534a003e20b5d62d055c31d15c6" sha1="1f7bb704c451009054d08829e2be8ce57b17fb91"/>
+	</machine>
+	<machine name="EPOC - MikeDRally v01.00 [288D]">
+		<description>EPOC - MikeDRally v01.00 [288D]</description>
+		<rom name="EPOC - MikeDRally v01.00 [288D].sis" size="107139" crc="c1d4e15d" md5="467fc93475f1d0f461d299394e5eff95" sha1="b2bbab01b6a7c45463c0a5992581cd00ce57a51d"/>
+	</machine>
+	<machine name="EPOC - MindTools v01.11 [BF5A]">
+		<description>EPOC - MindTools v01.11 [BF5A]</description>
+		<rom name="EPOC - MindTools v01.11 [BF5A].sis" size="291560" crc="3977dd8a" md5="3653d190270f4a3871a8a625b59070a6" sha1="8516f9784d0128cbb9d41a91c9ce968e11a4cdf9"/>
+	</machine>
+	<machine name="EPOC - MiniCalc v05.08 [EB99]">
+		<description>EPOC - MiniCalc v05.08 [EB99]</description>
+		<rom name="EPOC - MiniCalc v05.08 [EB99].sis" size="50713" crc="789980da" md5="2806cb7fb6b7d9299816ac297b245a87" sha1="d99d0860bc647cc009e8c87a275add5fd3ca4a74"/>
+	</machine>
+	<machine name="EPOC - MMM Sticker v04.28 [4B6D]">
+		<description>EPOC - MMM Sticker v04.28 [4B6D]</description>
+		<rom name="EPOC - MMM Sticker v04.28 [4B6D].sis" size="132650" crc="73579541" md5="ef08747eec0a992215970974c0a3b1a0" sha1="36ba42966e283e6f1b740e7858bd1060804b2f92"/>
+	</machine>
+	<machine name="EPOC - MMU v05.00 [BD9D]">
+		<description>EPOC - MMU v05.00 [BD9D]</description>
+		<rom name="EPOC - MMU v05.00 [BD9D].sis" size="2910" crc="81bacaa2" md5="5004b0beb962fd5da9c399bba17b5624" sha1="88259ceb465fd11b5ea58a3ab74913bc9d02a346"/>
+	</machine>
+	<machine name="EPOC - Music Cabinet v02.05 [86E4]">
+		<description>EPOC - Music Cabinet v02.05 [86E4]</description>
+		<rom name="EPOC - Music Cabinet v02.05 [86E4].sis" size="70661" crc="8e974393" md5="c6eee713ad369deda338d8d8882b94da" sha1="71fd677248415fffad2ee666b1e6702cb363bb87"/>
+	</machine>
+	<machine name="EPOC - Music Cabinet v02.07 [F137]">
+		<description>EPOC - Music Cabinet v02.07 [F137]</description>
+		<rom name="EPOC - Music Cabinet v02.07 [F137].sis" size="121534" crc="4e4e33ba" md5="0d0f0f987b40c355d2c0974274d8d940" sha1="1eabcec957142a2338e974a2d258aaf51d7a013f"/>
+	</machine>
+	<machine name="EPOC - Music OPX _ RMR Software v01.00 [A15E]">
+		<description>EPOC - Music OPX _ RMR Software v01.00 [A15E]</description>
+		<rom name="EPOC - Music OPX _ RMR Software v01.00 [A15E].sis" size="2435" crc="b155ecbe" md5="5ab09c993e1d498187487a6eaba50390" sha1="aa8f0486b2abbc3fbf04f9da2359bcbebb9ce55e"/>
+	</machine>
+	<machine name="EPOC - MZDictionary v01.00 [F7BF]">
+		<description>EPOC - MZDictionary v01.00 [F7BF]</description>
+		<rom name="EPOC - MZDictionary v01.00 [F7BF].sis" size="22114" crc="18686d44" md5="922fbf1ec3f3753bc3d4d9e1037c1695" sha1="0b2e13eed5f6382613f8bc423c126b3faab7a9d1"/>
+	</machine>
+	<machine name="EPOC - nCalc v01.20 [C644]">
+		<description>EPOC - nCalc v01.20 [C644]</description>
+		<rom name="EPOC - nCalc v01.20 [C644].sis" size="23398" crc="0f74c995" md5="9c62b5b3eb55b61770ed5c97f67dca6e" sha1="bb23e038c924bac436369b4d1028b9f997e538d6"/>
+	</machine>
+	<machine name="EPOC - NEUON - nSISUtil v01.40 [2302]">
+		<description>EPOC - NEUON - nSISUtil v01.40 [2302]</description>
+		<rom name="EPOC - NEUON - nSISUtil v01.40 [2302].sis" size="460851" crc="fae81409" md5="20da1ea84c666564c561c5ffd48e8e99" sha1="ec177e59bd038710082753c501f606e85689ba89"/>
+	</machine>
+	<machine name="EPOC - NEUON - PacMan Normal v02.00 [F6A0]">
+		<description>EPOC - NEUON - PacMan Normal v02.00 [F6A0]</description>
+		<rom name="EPOC - NEUON - PacMan Normal v02.00 [F6A0].sis" size="331535" crc="9afe0863" md5="060ed1279f5fdfc8d615bdf85ff9ee97" sha1="84548d01cfe3f432d7c268854f12ffd37f1d29f9"/>
+	</machine>
+	<machine name="EPOC - NEUON - ThesLink v03.00 [4A12]">
+		<description>EPOC - NEUON - ThesLink v03.00 [4A12]</description>
+		<rom name="EPOC - NEUON - ThesLink v03.00 [4A12].sis" size="45431" crc="c844127f" md5="9bdf5d44b6512f6000fb2c8fb61af760" sha1="099a7598c10356ee330b60f72ebcabb95afbd7d3"/>
+	</machine>
+	<machine name="EPOC - nICQ v01.10 [9E35]">
+		<description>EPOC - nICQ v01.10 [9E35]</description>
+		<rom name="EPOC - nICQ v01.10 [9E35].sis" size="184005" crc="fbfda99b" md5="5aa6debdaae774f16155a45a761e63f4" sha1="b0c960b94b6f467f3d232e289cd50e2cf15130e6"/>
+	</machine>
+	<machine name="EPOC - nICQ v01.11 [0A03]">
+		<description>EPOC - nICQ v01.11 [0A03]</description>
+		<rom name="EPOC - nICQ v01.11 [0A03].sis" size="218624" crc="a96af3a2" md5="f26bd7eeb7813c8422e25d76afb38d8f" sha1="0b057989f31fc20ae9843ea02f6c54dd7f4cc27c"/>
+	</machine>
+	<machine name="EPOC - No Mans Land v01.00 [FB36]">
+		<description>EPOC - No Mans Land v01.00 [FB36]</description>
+		<rom name="EPOC - No Mans Land v01.00 [FB36].sis" size="594548" crc="c4d72cab" md5="15848b46d976fa6ba7b26a3975c61acb" sha1="ca95438739d23f2c5dd85ed81d42d5a7a7c41f54"/>
+	</machine>
+	<machine name="EPOC - NodeMap v01.04 [FB86]">
+		<description>EPOC - NodeMap v01.04 [FB86]</description>
+		<rom name="EPOC - NodeMap v01.04 [FB86].sis" size="313871" crc="c7d1f96d" md5="262c2f3366be6dc30f5bd7ac36ae7e56" sha1="864233da3e7b3160a9bad4565023334596e1086e"/>
+	</machine>
+	<machine name="EPOC - Note-It v01.00 [05B6]">
+		<description>EPOC - Note-It v01.00 [05B6]</description>
+		<rom name="EPOC - Note-It v01.00 [05B6].sis" size="52184" crc="9f4af6d3" md5="b00155b68b57acfabe9cbe8d19857031" sha1="48f3cd3bae7e6a87416f98706e9c50a86ef79861"/>
+	</machine>
+	<machine name="EPOC - Ocean v03.02 [6869]">
+		<description>EPOC - Ocean v03.02 [6869]</description>
+		<rom name="EPOC - Ocean v03.02 [6869].sis" size="100433" crc="fb78432d" md5="6e8744294bd1c24899e74a248f1b2d9f" sha1="fdbc4951ee1ac8fa732137d4238a6d499b9cedaa"/>
+	</machine>
+	<machine name="EPOC - Ocean v03.04 [B115]">
+		<description>EPOC - Ocean v03.04 [B115]</description>
+		<rom name="EPOC - Ocean v03.04 [B115].sis" size="100131" crc="fdff5675" md5="b1cf426312180221f004e38883006698" sha1="15f44a4eee97ab2387fdeca131e25b5556613e55"/>
+	</machine>
+	<machine name="EPOC - Ocean v03.04 [B9D6]">
+		<description>EPOC - Ocean v03.04 [B9D6]</description>
+		<rom name="EPOC - Ocean v03.04 [B9D6].sis" size="100500" crc="c5f359c8" md5="e865667c92183f99c5dabbdb4f2de59d" sha1="10ed2e22a60916f0ccf6318b11d3d8161ab65b46"/>
+	</machine>
+	<machine name="EPOC - Odyssey 2000 Pro Demo v04.00 [9B34]">
+		<description>EPOC - Odyssey 2000 Pro Demo v04.00 [9B34]</description>
+		<rom name="EPOC - Odyssey 2000 Pro Demo v04.00 [9B34].sis" size="1079850" crc="a5654aa2" md5="ace5348ebb3e3f10dd1ed17f14de5acf" sha1="282a784675aea97f981efa93359e0cd9ad9800da"/>
+	</machine>
+	<machine name="EPOC - Odyssey DEMO v03.07 [43D7]">
+		<description>EPOC - Odyssey DEMO v03.07 [43D7]</description>
+		<rom name="EPOC - Odyssey DEMO v03.07 [43D7].sis" size="226520" crc="d9c0ca69" md5="cc5da35098d62866a6dda77a924714e1" sha1="285dce90b8658e884fdbf5a0ba30443fd9df3871"/>
+	</machine>
+	<machine name="EPOC - Odyssey DEMO v03.07 [D036]">
+		<description>EPOC - Odyssey DEMO v03.07 [D036]</description>
+		<rom name="EPOC - Odyssey DEMO v03.07 [D036].sis" size="447510" crc="c6f2bd1c" md5="f349616e3a5f5c4370e7eb1a2504203b" sha1="e749aa776c5fa6d4cb8fcbc7d1f96836a2289021"/>
+	</machine>
+	<machine name="EPOC - Oedipus v01.00 [0271]">
+		<description>EPOC - Oedipus v01.00 [0271]</description>
+		<rom name="EPOC - Oedipus v01.00 [0271].sis" size="47221" crc="7683002f" md5="90e5d5e9de2cca57da095bab3c66e194" sha1="2ceeafecbf85800dbe71630b1f14c28b319f833d"/>
+	</machine>
+	<machine name="EPOC - OneMBM v00.90 [F41D]">
+		<description>EPOC - OneMBM v00.90 [F41D]</description>
+		<rom name="EPOC - OneMBM v00.90 [F41D].sis" size="18226" crc="66ee108c" md5="86da256ec37ab05528c1aab98c446164" sha1="970977d49def4622b8de94f42c72a921dec62b5f"/>
+	</machine>
+	<machine name="EPOC - open command for Shell5 v01.00 [AE65]">
+		<description>EPOC - open command for Shell5 v01.00 [AE65]</description>
+		<rom name="EPOC - open command for Shell5 v01.00 [AE65].sis" size="31467" crc="fc12d204" md5="5a4977b9bc69e251f1f601c313023a7a" sha1="0fa0d8eb7ce1ad12870a87bc5c4007c53bde71ff"/>
+	</machine>
+	<machine name="EPOC - OPLPlus v01.12 [DF69]">
+		<description>EPOC - OPLPlus v01.12 [DF69]</description>
+		<rom name="EPOC - OPLPlus v01.12 [DF69].sis" size="968867" crc="7f39c53a" md5="391bde89c2650da610b1c0fb5b8328da" sha1="29a225d51ddd52166afcd66e49d316c959f58e71"/>
+	</machine>
+	<machine name="EPOC - Orangutan v01.00 [390C]">
+		<description>EPOC - Orangutan v01.00 [390C]</description>
+		<rom name="EPOC - Orangutan v01.00 [390C].sis" size="183634" crc="1650db7d" md5="f9d9d96544d0fa57dd9086235e59cb40" sha1="038fe172bacea9f91d185d4e3bcca61db362f3b7"/>
+	</machine>
+	<machine name="EPOC - Pad v02.01 [5670]">
+		<description>EPOC - Pad v02.01 [5670]</description>
+		<rom name="EPOC - Pad v02.01 [5670].sis" size="7663" crc="e3b78a99" md5="f0c3245f940aeb15d69adf6fab1f3d3a" sha1="2c7d3cbc34b00fb20cd3f94acb76ff71027139a1"/>
+	</machine>
+	<machine name="EPOC - paddle v01.00 [F0D7]">
+		<description>EPOC - paddle v01.00 [F0D7]</description>
+		<rom name="EPOC - paddle v01.00 [F0D7].sis" size="22092" crc="bd048ac0" md5="09a4d9ad78f8e6045d0976da2151cf84" sha1="3187c0f8cc93362b1ef7442b7e42cce2f6fbd7aa"/>
+	</machine>
+	<machine name="EPOC - Palmscape v01.00 [8B5B]">
+		<description>EPOC - Palmscape v01.00 [8B5B]</description>
+		<rom name="EPOC - Palmscape v01.00 [8B5B].sis" size="56053" crc="ccb32458" md5="99516f80c048ae514597a16245f5e353" sha1="249f82a90049a4ecfb3a615a0c9817dc4d135e12"/>
+	</machine>
+	<machine name="EPOC - Palmtop Upgrade Utility v06.10 [5B1D]">
+		<description>EPOC - Palmtop Upgrade Utility v06.10 [5B1D]</description>
+		<rom name="EPOC - Palmtop Upgrade Utility v06.10 [5B1D].sis" size="239490" crc="82853d74" md5="e8c4a71356d5a6d0c4355e9be4f14fdd" sha1="10dc8e35dac7e6b987300c342ea4a785d9d92386"/>
+	</machine>
+	<machine name="EPOC - Palmtop Upgrade Utility v06.10 [64E0]">
+		<description>EPOC - Palmtop Upgrade Utility v06.10 [64E0]</description>
+		<rom name="EPOC - Palmtop Upgrade Utility v06.10 [64E0].sis" size="293534" crc="ac5f3c6f" md5="a7196bc5895a4a524bb114527f21e1f3" sha1="606efef93bb0625fb2556ac7a6d02473b03c7496"/>
+	</machine>
+	<machine name="EPOC - Palmtop Upgrade Utility v06.70 [E585]">
+		<description>EPOC - Palmtop Upgrade Utility v06.70 [E585]</description>
+		<rom name="EPOC - Palmtop Upgrade Utility v06.70 [E585].sis" size="292379" crc="114f39a1" md5="a2792d721d5299f9357f1b82cb9437a8" sha1="b1bdd346824fc5fc723d4d61ebad72d30429d682"/>
+	</machine>
+	<machine name="EPOC - Palmtop Upgrade Utility v06.80 [120E]">
+		<description>EPOC - Palmtop Upgrade Utility v06.80 [120E]</description>
+		<rom name="EPOC - Palmtop Upgrade Utility v06.80 [120E].sis" size="292379" crc="9c9fe1e9" md5="aa5b57bb2deb31e6efc05807288e196a" sha1="d2795522a87cce8113f9e502bf5cabefcda4f691"/>
+	</machine>
+	<machine name="EPOC - Palmtop Upgrade Utility v06.80 [4089]">
+		<description>EPOC - Palmtop Upgrade Utility v06.80 [4089]</description>
+		<rom name="EPOC - Palmtop Upgrade Utility v06.80 [4089].sis" size="278114" crc="4eefa92c" md5="7e972d56b5594757fb4526b90c3e710a" sha1="cfba4e2b1fc95d4853aef0ba39d30ea710303f9e"/>
+	</machine>
+	<machine name="EPOC - Palmtop Upgrade Utility v06.80 [F9FF]">
+		<description>EPOC - Palmtop Upgrade Utility v06.80 [F9FF]</description>
+		<rom name="EPOC - Palmtop Upgrade Utility v06.80 [F9FF].sis" size="238335" crc="725fb86a" md5="0f1ccf43ef6f3ad80b9324421b8bac15" sha1="368bb6508e4f1b2ae4985a89232c952b6780acbc"/>
+	</machine>
+	<machine name="EPOC - Paques v01.02 [684A]">
+		<description>EPOC - Paques v01.02 [684A]</description>
+		<rom name="EPOC - Paques v01.02 [684A].sis" size="46513" crc="28eaf94c" md5="2cd4dcb2e595367ed4501040b61a6ea6" sha1="cda03d805a026e414bfb7a6545508a566b0efea9"/>
+	</machine>
+	<machine name="EPOC - PDELib v01.00 [2313]">
+		<description>EPOC - PDELib v01.00 [2313]</description>
+		<rom name="EPOC - PDELib v01.00 [2313].sis" size="17021" crc="6e880182" md5="22171e280e4b2bbcb616504572176aeb" sha1="ed55191fa009937c53053842292b31b6f24ffd32"/>
+	</machine>
+	<machine name="EPOC - PhoneMan v02.24 [67A3]">
+		<description>EPOC - PhoneMan v02.24 [67A3]</description>
+		<rom name="EPOC - PhoneMan v02.24 [67A3].sis" size="356627" crc="3fcb1fed" md5="3acfeb82f0007d4daa4347a73a46f3d5" sha1="bffe39b5b0bbb3b0caaa0035f31019f3c5a6cd1b"/>
+	</machine>
+	<machine name="EPOC - PhoneMan v02.24 [C4AC]">
+		<description>EPOC - PhoneMan v02.24 [C4AC]</description>
+		<rom name="EPOC - PhoneMan v02.24 [C4AC].sis" size="380831" crc="1224680e" md5="6304d63234ab07523f8708c652605472" sha1="f3fddd028487772fe5c8a1345c474c1d87f41e11"/>
+	</machine>
+	<machine name="EPOC - PhoneMan v02.47 [0C56]">
+		<description>EPOC - PhoneMan v02.47 [0C56]</description>
+		<rom name="EPOC - PhoneMan v02.47 [0C56].sis" size="527426" crc="499df591" md5="9ee582dee3eab3f6458eb477bca388bd" sha1="d005347a2dc5a5ee88404bce24e9c38e79ad1600"/>
+	</machine>
+	<machine name="EPOC - Photopal v02.20 [3FB8]">
+		<description>EPOC - Photopal v02.20 [3FB8]</description>
+		<rom name="EPOC - Photopal v02.20 [3FB8].sis" size="162054" crc="91d98e2c" md5="0539078946ee62a4318886301a18a637" sha1="c15d7ac75c2d84abd34e73503e6f7a1578d77f87"/>
+	</machine>
+	<machine name="EPOC - Piano v02.05 [59AD]">
+		<description>EPOC - Piano v02.05 [59AD]</description>
+		<rom name="EPOC - Piano v02.05 [59AD].sis" size="56882" crc="b14393f5" md5="c8b2bac8b60fe5d47c6b3e2981e5aa4b" sha1="bd99126743968f6af6206dafcd3da302579fbb95"/>
+	</machine>
+	<machine name="EPOC - Piano v02.70 [1E6E]">
+		<description>EPOC - Piano v02.70 [1E6E]</description>
+		<rom name="EPOC - Piano v02.70 [1E6E].sis" size="47932" crc="508acc6b" md5="b042119f5e46d4081244779e23bf0b8a" sha1="e9d48b23b4a91aa76ba6a2d6503f09e260048860"/>
+	</machine>
+	<machine name="EPOC - Pipeline v01.10 [9564]">
+		<description>EPOC - Pipeline v01.10 [9564]</description>
+		<rom name="EPOC - Pipeline v01.10 [9564].sis" size="493448" crc="1f3bc934" md5="ff7c0a498ffcaab97a14c3cde2ce3774" sha1="fda012a54a8a6ee47b7c6888de325d40be48532a"/>
+	</machine>
+	<machine name="EPOC - PktBank v02.00 [4DE6]">
+		<description>EPOC - PktBank v02.00 [4DE6]</description>
+		<rom name="EPOC - PktBank v02.00 [4DE6].sis" size="101520" crc="efa390b1" md5="54f70fbf399ed4a6ee5f21d34f9e3cf7" sha1="041f3901295fe90255cea82f646fe07864cdd10c"/>
+	</machine>
+	<machine name="EPOC - Plan5 v05.70 [301D]">
+		<description>EPOC - Plan5 v05.70 [301D]</description>
+		<rom name="EPOC - Plan5 v05.70 [301D].sis" size="441797" crc="14ba5387" md5="2c9cf1f9f8b65df14f8cea58060dcb7f" sha1="551584f702f0a038db4964e161ee0d1d1c80b649"/>
+	</machine>
+	<machine name="EPOC - Plan5 v05.90 [1543]">
+		<description>EPOC - Plan5 v05.90 [1543]</description>
+		<rom name="EPOC - Plan5 v05.90 [1543].sis" size="834796" crc="682087b4" md5="146b3074ea06b7ad5b05626a0784c974" sha1="2f5aa67c008278285aef5c14571e021577f3ccd6"/>
+	</machine>
+	<machine name="EPOC - Pontoon v05.00 [DF80]">
+		<description>EPOC - Pontoon v05.00 [DF80]</description>
+		<rom name="EPOC - Pontoon v05.00 [DF80].sis" size="64377" crc="c17791ac" md5="3b231d2ac79af7727da9a22b1e236437" sha1="a622f9e7a5f0978bc0aa203634e7a8345962403a"/>
+	</machine>
+	<machine name="EPOC - Porfolio v05.07 [E488]">
+		<description>EPOC - Porfolio v05.07 [E488]</description>
+		<rom name="EPOC - Porfolio v05.07 [E488].sis" size="286665" crc="6f1f24e5" md5="4d2a46fea0b9d8a06245fe7f84b9bebe" sha1="4180acf551770b1f739af80142304feed88ef431"/>
+	</machine>
+	<machine name="EPOC - Porfolio v05.08 [A691]">
+		<description>EPOC - Porfolio v05.08 [A691]</description>
+		<rom name="EPOC - Porfolio v05.08 [A691].sis" size="294684" crc="6cf60c05" md5="d2a750c9504a7f03157c0c9006537526" sha1="66ad7da5ba153a52950549f40487aa5c4d0f4c62"/>
+	</machine>
+	<machine name="EPOC - Porfolio v05.13 [AE66]">
+		<description>EPOC - Porfolio v05.13 [AE66]</description>
+		<rom name="EPOC - Porfolio v05.13 [AE66].sis" size="404857" crc="ba6a42ed" md5="ca6a8745dae6935e3f67e8c7248c91fb" sha1="a4e79260b4ab640b714f7ef4941f7a00f82a16ca"/>
+	</machine>
+	<machine name="EPOC - Positioning System v01.60 [32C4]">
+		<description>EPOC - Positioning System v01.60 [32C4]</description>
+		<rom name="EPOC - Positioning System v01.60 [32C4].sis" size="117720" crc="fcff9087" md5="910a8a546a60b317a60738d512a7d664" sha1="a45e23d0272fe8a8b94fbf079b47db9a2a44d4bc"/>
+	</machine>
+	<machine name="EPOC - Power PlugIn for Start5 v01.10 [907E]">
+		<description>EPOC - Power PlugIn for Start5 v01.10 [907E]</description>
+		<rom name="EPOC - Power PlugIn for Start5 v01.10 [907E].sis" size="3432" crc="5fc76277" md5="fa1ad9c903573b720958a356c0dd9012" sha1="fce960b69b10e9b4bb5f3e9dfdc907024ed8e26d"/>
+	</machine>
+	<machine name="EPOC - power_help v01.00 [C322]">
+		<description>EPOC - power_help v01.00 [C322]</description>
+		<rom name="EPOC - power_help v01.00 [C322].sis" size="51642" crc="94f07113" md5="ea9d3482a4495239e9781e60b197055c" sha1="74e82cc20775adf1d8274dfd88678dd56bc052a5"/>
+	</machine>
+	<machine name="EPOC - Procyon R Aux v01.00 [11BD]">
+		<description>EPOC - Procyon R Aux v01.00 [11BD]</description>
+		<rom name="EPOC - Procyon R Aux v01.00 [11BD].sis" size="724462" crc="3f778db6" md5="7e2d59dfe1a1e8c41e9d857c7871ba7d" sha1="e080964f253fbf8945e45e392320b220cbd58b74"/>
+	</machine>
+	<machine name="EPOC - Procyon R v01.03 [DCD2]">
+		<description>EPOC - Procyon R v01.03 [DCD2]</description>
+		<rom name="EPOC - Procyon R v01.03 [DCD2].sis" size="713993" crc="bbd04212" md5="69422ec9c1dd19939f27f30a2e4272da" sha1="a7a90ddb91904121616df118f08fa6a6de6a5eea"/>
+	</machine>
+	<machine name="EPOC - Procyon R v01.04 [0820]">
+		<description>EPOC - Procyon R v01.04 [0820]</description>
+		<rom name="EPOC - Procyon R v01.04 [0820].sis" size="713983" crc="f1096ea6" md5="bdc1d7fcf4052af068ecf4c0b3af5c5d" sha1="32a28e7b502b84c578b325da0fb23e22e0b3d3e3"/>
+	</machine>
+	<machine name="EPOC - Procyon R v01.06 [36C0]">
+		<description>EPOC - Procyon R v01.06 [36C0]</description>
+		<rom name="EPOC - Procyon R v01.06 [36C0].sis" size="713766" crc="c97a448a" md5="27bb689d0aae90481f846ff54a1b722b" sha1="745d0608a83ab143365fe242c03240b5b2058ef7"/>
+	</machine>
+	<machine name="EPOC - Procyon X Aux v01.00 [392C]">
+		<description>EPOC - Procyon X Aux v01.00 [392C]</description>
+		<rom name="EPOC - Procyon X Aux v01.00 [392C].sis" size="944106" crc="e16384a8" md5="d554f6b7f53e881bd59587ec0e73d6b1" sha1="2c7bf7a5696c0958227a7ab68ec0c82c3a798133"/>
+	</machine>
+	<machine name="EPOC - Procyon X V.1.10 v01.00 [8BD7]">
+		<description>EPOC - Procyon X V.1.10 v01.00 [8BD7]</description>
+		<rom name="EPOC - Procyon X V.1.10 v01.00 [8BD7].sis" size="889031" crc="13dea77a" md5="7180ed32c837ebf31bd0243cd85fffd7" sha1="3af3a25976c3ed709674c55d5f88c0e613a2d8c0"/>
+	</machine>
+	<machine name="EPOC - Procyon X V.1.11 v01.00 [1BD8]">
+		<description>EPOC - Procyon X V.1.11 v01.00 [1BD8]</description>
+		<rom name="EPOC - Procyon X V.1.11 v01.00 [1BD8].sis" size="901048" crc="bd215141" md5="2e5fc7f389e057ab5f015242eecab23d" sha1="a84cc9328f6853b3e192ecff5c2c37e063bb8380"/>
+	</machine>
+	<machine name="EPOC - Procyon X V.1.12 v00.00 [66A6]">
+		<description>EPOC - Procyon X V.1.12 v00.00 [66A6]</description>
+		<rom name="EPOC - Procyon X V.1.12 v00.00 [66A6].sis" size="919918" crc="c2f0e857" md5="d48433f30d529a2831c1c2cc0730f20d" sha1="bff2a1843cd3a4a83096efbead4bb2b6ce76a31f"/>
+	</machine>
+	<machine name="EPOC - Procyon X V.1.12 v00.00 [EA6D]">
+		<description>EPOC - Procyon X V.1.12 v00.00 [EA6D]</description>
+		<rom name="EPOC - Procyon X V.1.12 v00.00 [EA6D].sis" size="891129" crc="50b78d6e" md5="01b641201479036113c57558b1267540" sha1="957dd51b320247c038b5b2db1a5c4a2b90bd9c3e"/>
+	</machine>
+	<machine name="EPOC - Procyon X V.1.13 v00.00 [0757]">
+		<description>EPOC - Procyon X V.1.13 v00.00 [0757]</description>
+		<rom name="EPOC - Procyon X V.1.13 v00.00 [0757].sis" size="911056" crc="9dfb0937" md5="ea5884b2ca41401af1c623315c0c4629" sha1="eae414b465feebb7362d9276b48285691fade50e"/>
+	</machine>
+	<machine name="EPOC - Procyon X V.1.14 v01.15 [AE4B]">
+		<description>EPOC - Procyon X V.1.14 v01.15 [AE4B]</description>
+		<rom name="EPOC - Procyon X V.1.14 v01.15 [AE4B].sis" size="909187" crc="5e67bfca" md5="f6bf7c60b7f518c8df80582983ef4000" sha1="7c524bb88ce926e3a24f6131c321f98c1a279654"/>
+	</machine>
+	<machine name="EPOC - Procyon X V.1.14 v01.16 [FE46]">
+		<description>EPOC - Procyon X V.1.14 v01.16 [FE46]</description>
+		<rom name="EPOC - Procyon X V.1.14 v01.16 [FE46].sis" size="908479" crc="f437202c" md5="4c180cd9d03b9e7657f9cffb15c84bde" sha1="bdd1634bb549267956b94b39321be661ea446d41"/>
+	</machine>
+	<machine name="EPOC - Procyon XL Aux v01.00 [30FA]">
+		<description>EPOC - Procyon XL Aux v01.00 [30FA]</description>
+		<rom name="EPOC - Procyon XL Aux v01.00 [30FA].sis" size="952608" crc="807472ff" md5="66fe85797c2a97e6fc4db234b9413614" sha1="dfe9d9301025df3abf885492efcc7e8979fbb900"/>
+	</machine>
+	<machine name="EPOC - Procyon XL V. v01.02 [53C7]">
+		<description>EPOC - Procyon XL V. v01.02 [53C7]</description>
+		<rom name="EPOC - Procyon XL V. v01.02 [53C7].sis" size="995324" crc="894391ac" md5="d4e002ded22c720dc2c029bfb5974a90" sha1="7a15f9a148ee51f1da387af3dcb6629d81db97af"/>
+	</machine>
+	<machine name="EPOC - Procyon XL V. v01.04 [D45B]">
+		<description>EPOC - Procyon XL V. v01.04 [D45B]</description>
+		<rom name="EPOC - Procyon XL V. v01.04 [D45B].sis" size="1000098" crc="cbe0e3cc" md5="cecd282755585515262835f9aa438249" sha1="de17d31ee8484b10c20fc9e934a1710dd6304724"/>
+	</machine>
+	<machine name="EPOC - Procyon XL V. v01.05 [647F]">
+		<description>EPOC - Procyon XL V. v01.05 [647F]</description>
+		<rom name="EPOC - Procyon XL V. v01.05 [647F].sis" size="995370" crc="2d584953" md5="40da91eb06824ee8cb8af139643f9e76" sha1="71a29e5acc50681a00854cf3c1d53e8aabac93ff"/>
+	</machine>
+	<machine name="EPOC - Procyon XL V.1.00 v00.00 [244D]">
+		<description>EPOC - Procyon XL V.1.00 v00.00 [244D]</description>
+		<rom name="EPOC - Procyon XL V.1.00 v00.00 [244D].sis" size="901144" crc="22c634d8" md5="5686c2d89c80b17ae331df6ef9484aea" sha1="7d109c5042dabe748d85041c30a239c0bd5964e2"/>
+	</machine>
+	<machine name="EPOC - PsiBall v02.21 [885A]">
+		<description>EPOC - PsiBall v02.21 [885A]</description>
+		<rom name="EPOC - PsiBall v02.21 [885A].sis" size="272783" crc="c64ad155" md5="2842126ee4405577c21be0c955dda93c" sha1="1b32e467a128a36e3499297871e892c8a2fb837c"/>
+	</machine>
+	<machine name="EPOC - PsiBlocks v02.02 [B49B]">
+		<description>EPOC - PsiBlocks v02.02 [B49B]</description>
+		<rom name="EPOC - PsiBlocks v02.02 [B49B].sis" size="174676" crc="95fe217a" md5="c6c5bf05f977ec016d7cb401606b96b7" sha1="b1df89854d5ce6b4ccffaa82561ee6d43a19771b"/>
+	</machine>
+	<machine name="EPOC - PsiCallSave v01.20 [F72E]">
+		<description>EPOC - PsiCallSave v01.20 [F72E]</description>
+		<rom name="EPOC - PsiCallSave v01.20 [F72E].sis" size="96285" crc="5f9de735" md5="6b96a86f4e2b57b6ce38d5211c65cfa8" sha1="a73f00827aa604329028f4b87d6d5ca46348aa4a"/>
+	</machine>
+	<machine name="EPOC - PsiCards v01.92 [F333]">
+		<description>EPOC - PsiCards v01.92 [F333]</description>
+		<rom name="EPOC - PsiCards v01.92 [F333].sis" size="1020366" crc="e651ccae" md5="3861c37b625760676c3a0432f0a9f4f9" sha1="bc059027f17ea86a7a474650b6b2de08fbd78dee"/>
+	</machine>
+	<machine name="EPOC - Psion Soccer Manager v02.00 [E319]">
+		<description>EPOC - Psion Soccer Manager v02.00 [E319]</description>
+		<rom name="EPOC - Psion Soccer Manager v02.00 [E319].sis" size="515153" crc="77bb0a16" md5="2765a2650917576dfa821aeab2588601" sha1="37cad307b3ebedd66e60747fa592de48e19d2d6f"/>
+	</machine>
+	<machine name="EPOC - Psiontest v01.00 [8A1F]">
+		<description>EPOC - Psiontest v01.00 [8A1F]</description>
+		<rom name="EPOC - Psiontest v01.00 [8A1F].sis" size="5615" crc="f0c6a472" md5="62ac944b67c1d539fc66457f8afb3071" sha1="afdb372bc9b31e62c97bee67152cccb4b3d3bc63"/>
+	</machine>
+	<machine name="EPOC - PsiShop v01.10 [3652]">
+		<description>EPOC - PsiShop v01.10 [3652]</description>
+		<rom name="EPOC - PsiShop v01.10 [3652].sis" size="361038" crc="cf39767e" md5="09b8acbb4e97d1f1d04cc1870f2ee4a1" sha1="fa8d05bc00f9f9a4fa6727508cc70a765fe38bb4"/>
+	</machine>
+	<machine name="EPOC - PsLight5 v01.12 [C6E0]">
+		<description>EPOC - PsLight5 v01.12 [C6E0]</description>
+		<rom name="EPOC - PsLight5 v01.12 [C6E0].sis" size="44172" crc="f25604e4" md5="707c02908bd2048cf2acc0962b18a1de" sha1="2275b71c8aaa7ab9ac1f0eaead3b8f2aa8cd5d28"/>
+	</machine>
+	<machine name="EPOC - PSStat v01.10 [41D7]">
+		<description>EPOC - PSStat v01.10 [41D7]</description>
+		<rom name="EPOC - PSStat v01.10 [41D7].sis" size="150411" crc="24c76c70" md5="52a0db017b66389654b61c891ede43c9" sha1="94f8b04cdfaae08760cc86e336401ca045f6b9ec"/>
+	</machine>
+	<machine name="EPOC - PSStat v01.20 [31F6]">
+		<description>EPOC - PSStat v01.20 [31F6]</description>
+		<rom name="EPOC - PSStat v01.20 [31F6].sis" size="151148" crc="801636b6" md5="9e07a61dd6f25a00efa48450df9aa71f" sha1="f0fe9dba9749e6842ca6a6c6a0505fe96dc4a834"/>
+	</machine>
+	<machine name="EPOC - PUpdater v01.02 [688A]">
+		<description>EPOC - PUpdater v01.02 [688A]</description>
+		<rom name="EPOC - PUpdater v01.02 [688A].sis" size="315052" crc="a048874c" md5="42a3216c3665e125dda0ad84c080261b" sha1="9ce1ede45c5438ae2c9425d8800d7b5034239db6"/>
+	</machine>
+	<machine name="EPOC - Push v00.00 [59D5]">
+		<description>EPOC - Push v00.00 [59D5]</description>
+		<rom name="EPOC - Push v00.00 [59D5].sis" size="4271" crc="c66b0c6d" md5="dec36ad51bddcd134615194aa2005f41" sha1="8d7d0976219edcb5aee6fd2950968e1097dc8dce"/>
+	</machine>
+	<machine name="EPOC - Pythia Utilities v02.05 [0207]">
+		<description>EPOC - Pythia Utilities v02.05 [0207]</description>
+		<rom name="EPOC - Pythia Utilities v02.05 [0207].sis" size="46804" crc="efcdc1db" md5="caf22347fdee254af7b340e3101d5bf1" sha1="26edb1e399c5b49206fe78f93179e9c27dec7120"/>
+	</machine>
+	<machine name="EPOC - Pythia Utilities v02.05 [2F86]">
+		<description>EPOC - Pythia Utilities v02.05 [2F86]</description>
+		<rom name="EPOC - Pythia Utilities v02.05 [2F86].sis" size="46719" crc="0003c73d" md5="2916c2261a49c72d7b1f5244bb0f4f17" sha1="80944e0c859616381bc113005766651f2a2ee884"/>
+	</machine>
+	<machine name="EPOC - Qcite v01.01 [322F]">
+		<description>EPOC - Qcite v01.01 [322F]</description>
+		<rom name="EPOC - Qcite v01.01 [322F].sis" size="111391" crc="25f91616" md5="65172423869b5d2f3aba434b8542a4e1" sha1="9647ab24839f271c76b7a7fb99ca98f98f84c1fc"/>
+	</machine>
+	<machine name="EPOC - QuickNote v01.16 [2EF9]">
+		<description>EPOC - QuickNote v01.16 [2EF9]</description>
+		<rom name="EPOC - QuickNote v01.16 [2EF9].sis" size="68520" crc="78603cc6" md5="32f2e5331b8e15cf0ed694e03f595e52" sha1="8d1a95060c5bc96fc50d40cd4efed7cb2e260341"/>
+	</machine>
+	<machine name="EPOC - QuickP English v03.30 [04BB]">
+		<description>EPOC - QuickP English v03.30 [04BB]</description>
+		<rom name="EPOC - QuickP English v03.30 [04BB].sis" size="232167" crc="a0d38fd4" md5="e86409ac9ee6acbe6fe95a168b161ce4" sha1="fe7a43b06d51c278c87d56259301d7746f9bf73e"/>
+	</machine>
+	<machine name="EPOC - Quiklist v01.60 [B0A8]">
+		<description>EPOC - Quiklist v01.60 [B0A8]</description>
+		<rom name="EPOC - Quiklist v01.60 [B0A8].sis" size="54770" crc="68284f8a" md5="feaa705db6d549b43cf49eb648218a68" sha1="9e9fa6a75f5f348a163bb3c360d9e02316e4fb32"/>
+	</machine>
+	<machine name="EPOC - RealMaps v05.09 [12C4]">
+		<description>EPOC - RealMaps v05.09 [12C4]</description>
+		<rom name="EPOC - RealMaps v05.09 [12C4].sis" size="452444" crc="d539f03f" md5="5432ad4f5951ace6578240350fa8137b" sha1="b9c53e01097c35beb1787b4764fe54c40f515684"/>
+	</machine>
+	<machine name="EPOC - Recycle Bin Demo v02.00 [F2A5]">
+		<description>EPOC - Recycle Bin Demo v02.00 [F2A5]</description>
+		<rom name="EPOC - Recycle Bin Demo v02.00 [F2A5].sis" size="157359" crc="031770d2" md5="315d2ab74153280d57e22c50de1606be" sha1="ecbf3b00866e77dcbce040bd4a83098b21eb15db"/>
+	</machine>
+	<machine name="EPOC - Reminder v01.50 [373A]">
+		<description>EPOC - Reminder v01.50 [373A]</description>
+		<rom name="EPOC - Reminder v01.50 [373A].sis" size="67777" crc="c65bb99b" md5="346dba168b0de5ed01c23b9a9f435900" sha1="17ae091ae5d4d202d1f9e52fe74d6bc78a7aee78"/>
+	</machine>
+	<machine name="EPOC - RMR Crossword v01.30 [5B35]">
+		<description>EPOC - RMR Crossword v01.30 [5B35]</description>
+		<rom name="EPOC - RMR Crossword v01.30 [5B35].sis" size="178286" crc="f1c726e2" md5="8b78907545f5db368ab9342607642291" sha1="2e9ab8a90fb00db38cf24bf61c40eb27a66eab44"/>
+	</machine>
+	<machine name="EPOC - RMR Software Alarm OPX v02.00 [A49A]">
+		<description>EPOC - RMR Software Alarm OPX v02.00 [A49A]</description>
+		<rom name="EPOC - RMR Software Alarm OPX v02.00 [A49A].sis" size="5388" crc="b62e8cc1" md5="be9abc6f74f364807b7320c2ed3e4e4e" sha1="8376742e022a7e650f053073e3def4b5ad082343"/>
+	</machine>
+	<machine name="EPOC - RMR Software Message OPX v02.00 [9740]">
+		<description>EPOC - RMR Software Message OPX v02.00 [9740]</description>
+		<rom name="EPOC - RMR Software Message OPX v02.00 [9740].sis" size="5455" crc="6dd39542" md5="8646740521ef3dd11cfbc9bb92b2c5ad" sha1="708d168bed6ab6f8fdce60baec339750e439f6e0"/>
+	</machine>
+	<machine name="EPOC - RMR Solitaire v02.00 [8B88]">
+		<description>EPOC - RMR Solitaire v02.00 [8B88]</description>
+		<rom name="EPOC - RMR Solitaire v02.00 [8B88].sis" size="104317" crc="7828f057" md5="6643c30cb50086e0af6002d0735c59b2" sha1="d140218c4ce2da5064786ca7b0ff793f65de0929"/>
+	</machine>
+	<machine name="EPOC - RMR Solitaire v02.10 [39C0]">
+		<description>EPOC - RMR Solitaire v02.10 [39C0]</description>
+		<rom name="EPOC - RMR Solitaire v02.10 [39C0].sis" size="104317" crc="5f023ba7" md5="8fe3f7ea69243257753a5daa7124958c" sha1="2a35f6db50ba83e0e7d71207daae4197c8a4e98b"/>
+	</machine>
+	<machine name="EPOC - RMRBank - Personal Accounts v03.10 [708E]">
+		<description>EPOC - RMRBank - Personal Accounts v03.10 [708E]</description>
+		<rom name="EPOC - RMRBank - Personal Accounts v03.10 [708E].sis" size="1116138" crc="ef29e554" md5="466c153ec182ab7cedcacb7f9f5d4c51" sha1="56c7646fd4bb52b8d84eefbcef7404683fe9c861"/>
+	</machine>
+	<machine name="EPOC - RMRCar - Company Car Manager v02.30 [279F]">
+		<description>EPOC - RMRCar - Company Car Manager v02.30 [279F]</description>
+		<rom name="EPOC - RMRCar - Company Car Manager v02.30 [279F].sis" size="247292" crc="a42fd9ce" md5="6d96ddb220e4dfbc42bea7ed21f78136" sha1="830dc79b51623d1f9ce70f6de98c7c217d66498f"/>
+	</machine>
+	<machine name="EPOC - RMRDiet - Sample data files v01.00 [33C0]">
+		<description>EPOC - RMRDiet - Sample data files v01.00 [33C0]</description>
+		<rom name="EPOC - RMRDiet - Sample data files v01.00 [33C0].sis" size="10502" crc="e7114cdb" md5="8622345f6256f8a3d97abc8adfef0ce3" sha1="36d808f8f69e0046edb8ca5e2b447161a5201126"/>
+	</machine>
+	<machine name="EPOC - RMRDiet v02.00 [EE39]">
+		<description>EPOC - RMRDiet v02.00 [EE39]</description>
+		<rom name="EPOC - RMRDiet v02.00 [EE39].sis" size="125834" crc="e83f1e9a" md5="3455a64d1ce2f6fc331eb062af7673b6" sha1="fb7cf1eccdbb0c791e1015535d898dc1e7e82cc4"/>
+	</machine>
+	<machine name="EPOC - RMRFile - File Manager for EPOC v02.01 [3883]">
+		<description>EPOC - RMRFile - File Manager for EPOC v02.01 [3883]</description>
+		<rom name="EPOC - RMRFile - File Manager for EPOC v02.01 [3883].sis" size="414909" crc="9a38865c" md5="de2733d3e247fb2a432d30e29332e1d5" sha1="fd5fda22e78fff284ba0739c6cdfa01a6c13f22e"/>
+	</machine>
+	<machine name="EPOC - RMRG v02.00 [59C4]">
+		<description>EPOC - RMRG v02.00 [59C4]</description>
+		<rom name="EPOC - RMRG v02.00 [59C4].sis" size="86223" crc="18781d63" md5="35ef5361f662b5a87cfb8227212da913" sha1="736d10f8720630bb1e8e51d4d01b26eb3c40922e"/>
+	</machine>
+	<machine name="EPOC - RMRG v02.10 [0020]">
+		<description>EPOC - RMRG v02.10 [0020]</description>
+		<rom name="EPOC - RMRG v02.10 [0020].sis" size="86223" crc="7a4bf7fd" md5="435c7b4292e1305982b9a297cfc0660d" sha1="c3ea0e3c3317ac3629ff0067f17e3d30bdba21cf"/>
+	</machine>
+	<machine name="EPOC - RMRGolf - Golf Card Game v02.30 [D7F9]">
+		<description>EPOC - RMRGolf - Golf Card Game v02.30 [D7F9]</description>
+		<rom name="EPOC - RMRGolf - Golf Card Game v02.30 [D7F9].sis" size="139355" crc="044e0cff" md5="5745effcff516079769d9eccb928dfec" sha1="50d7e251651971c2501d846aaa8f6a807efc3b2d"/>
+	</machine>
+	<machine name="EPOC - RMRGolf v02.10 [79B0]">
+		<description>EPOC - RMRGolf v02.10 [79B0]</description>
+		<rom name="EPOC - RMRGolf v02.10 [79B0].sis" size="90832" crc="c7611992" md5="b074c7f5628e5e50eb2437a9a3db023c" sha1="78a652ed1db118c276bae32b8c7f3f311ccdeb4f"/>
+	</machine>
+	<machine name="EPOC - RMRReverse - Othello Game v01.10 [89E0]">
+		<description>EPOC - RMRReverse - Othello Game v01.10 [89E0]</description>
+		<rom name="EPOC - RMRReverse - Othello Game v01.10 [89E0].sis" size="245346" crc="d8fa0fa7" md5="35636416428fbb118bc9f2d7fa3054b6" sha1="f23078e0b9c36eb07d626336892e39b34b5e2a19"/>
+	</machine>
+	<machine name="EPOC - RMRShop - Shopping List v01.10 [C88B]">
+		<description>EPOC - RMRShop - Shopping List v01.10 [C88B]</description>
+		<rom name="EPOC - RMRShop - Shopping List v01.10 [C88B].sis" size="234251" crc="b1b5ab87" md5="bfc187f4c2d4b30ce89afb1996f18aa3" sha1="35d021557978ebdf75a968786e34be4e24732395"/>
+	</machine>
+	<machine name="EPOC - RMRTask - Extended ToDo Manager v02.01 [0265]">
+		<description>EPOC - RMRTask - Extended ToDo Manager v02.01 [0265]</description>
+		<rom name="EPOC - RMRTask - Extended ToDo Manager v02.01 [0265].sis" size="278884" crc="a158027e" md5="c3a40551a984aa16535d0b5d3d28d2ab" sha1="ac4110f59241c98c7b98271b2ade20fe5979aca2"/>
+	</machine>
+	<machine name="EPOC - RMRTask - Extended ToDo Manager v02.20 [8C25]">
+		<description>EPOC - RMRTask - Extended ToDo Manager v02.20 [8C25]</description>
+		<rom name="EPOC - RMRTask - Extended ToDo Manager v02.20 [8C25].sis" size="443080" crc="a37737c0" md5="2f051c300ffbfc65fe8e39622685748d" sha1="15b3b0eab92645419fd9d4b4c066a926fc264e53"/>
+	</machine>
+	<machine name="EPOC - RMRTester - Revision_Study Aid v01.00 [ECC8]">
+		<description>EPOC - RMRTester - Revision_Study Aid v01.00 [ECC8]</description>
+		<rom name="EPOC - RMRTester - Revision_Study Aid v01.00 [ECC8].sis" size="61149" crc="95d03a09" md5="9e2086fac260be23ced1f628c04dec8c" sha1="4920946f3ced44c835645f3ffae12da267bfb777"/>
+	</machine>
+	<machine name="EPOC - Route Planner Demo v01.00 [7D18]">
+		<description>EPOC - Route Planner Demo v01.00 [7D18]</description>
+		<rom name="EPOC - Route Planner Demo v01.00 [7D18].sis" size="497937" crc="aaec5a4b" md5="b5e85ba5c943461305ab69aa3bd83dfe" sha1="86e4d37606ee095f5d1b1d0e91832f83d0a0c375"/>
+	</machine>
+	<machine name="EPOC - RPGDice v01.03 [096D]">
+		<description>EPOC - RPGDice v01.03 [096D]</description>
+		<rom name="EPOC - RPGDice v01.03 [096D].sis" size="35839" crc="4a7ede1e" md5="b4decdf314339d5858e0b581480dc070" sha1="99acd3bf061dc0f8f45b2735716ca8b7e049c6a9"/>
+	</machine>
+	<machine name="EPOC - RPNcalc v01.66 [6E5A]">
+		<description>EPOC - RPNcalc v01.66 [6E5A]</description>
+		<rom name="EPOC - RPNcalc v01.66 [6E5A].sis" size="130590" crc="2a5dc674" md5="a47d6449a5365303be0880e9d3432ed4" sha1="da3b7c997baf30a60258cdd42b29ced42ce285ba"/>
+	</machine>
+	<machine name="EPOC - RSC Creator v01.00 [4407]">
+		<description>EPOC - RSC Creator v01.00 [4407]</description>
+		<rom name="EPOC - RSC Creator v01.00 [4407].sis" size="9068" crc="b43aac1c" md5="891c62796452dc02b9f0f619073b435a" sha1="d9760b726ae4d62c68e936ada90ecab54038fd48"/>
+	</machine>
+	<machine name="EPOC - RSC Special v01.00 [DB14]">
+		<description>EPOC - RSC Special v01.00 [DB14]</description>
+		<rom name="EPOC - RSC Special v01.00 [DB14].sis" size="11241" crc="361024a2" md5="5566ed45b48258d6e993062ac31f60f0" sha1="82d7713ddd43610b2a9aa40222135d04fcff885b"/>
+	</machine>
+	<machine name="EPOC - S5Dive Beispiel-Logbuch v01.00 [C1F7]">
+		<description>EPOC - S5Dive Beispiel-Logbuch v01.00 [C1F7]</description>
+		<rom name="EPOC - S5Dive Beispiel-Logbuch v01.00 [C1F7].sis" size="96921" crc="ab556e91" md5="b437526fb59409ba3f186e003a52098f" sha1="5030848bdbe24eaf0f5e01b591bb66258d8a376f"/>
+	</machine>
+	<machine name="EPOC - S5Dive Datenbank Dateien v01.00 [94A7]">
+		<description>EPOC - S5Dive Datenbank Dateien v01.00 [94A7]</description>
+		<rom name="EPOC - S5Dive Datenbank Dateien v01.00 [94A7].sis" size="121950" crc="877686ee" md5="59b7e8643aef7adbc4f03c1b54d25fbc" sha1="763149f46739a1473d95a0a9b8c897a1e376d658"/>
+	</machine>
+	<machine name="EPOC - S5DIVE, est un carnet de plongee v01.70 [2C5E]">
+		<description>EPOC - S5DIVE, est un carnet de plongee v01.70 [2C5E]</description>
+		<rom name="EPOC - S5DIVE, est un carnet de plongee v01.70 [2C5E].sis" size="1253692" crc="f693eb95" md5="6443b49080be50d9361430af1692333f" sha1="f0c5dcf6ad580ce75775b8feedef7eee98ca7f34"/>
+	</machine>
+	<machine name="EPOC - SAME Series 5 installation v01.00 [9749]">
+		<description>EPOC - SAME Series 5 installation v01.00 [9749]</description>
+		<rom name="EPOC - SAME Series 5 installation v01.00 [9749].sis" size="28908" crc="cdd6de50" md5="46fb71821cdad52275e38b18b0112392" sha1="82fc4a58be9dfe1a9dcf5466f3233949874a2dde"/>
+	</machine>
+	<machine name="EPOC - SBUtilities v01.04 [E568]">
+		<description>EPOC - SBUtilities v01.04 [E568]</description>
+		<rom name="EPOC - SBUtilities v01.04 [E568].sis" size="9810" crc="d54e7588" md5="66ef219171916f84a40a637cd45da082" sha1="96047213010949f28b9d21a770a77e1ae893924b"/>
+	</machine>
+	<machine name="EPOC - ScataLog v00.60 [094C]">
+		<description>EPOC - ScataLog v00.60 [094C]</description>
+		<rom name="EPOC - ScataLog v00.60 [094C].sis" size="344756" crc="9dd693e1" md5="9fb15e892c58df0cdf19255c68aea6d1" sha1="48ccfe1311832be7c534ffd05c6bfe6e85c6f505"/>
+	</machine>
+	<machine name="EPOC - ScataLog v00.70 [197D]">
+		<description>EPOC - ScataLog v00.70 [197D]</description>
+		<rom name="EPOC - ScataLog v00.70 [197D].sis" size="350408" crc="f8509df9" md5="2e5b308cfce5b533e0a90fa81e09c4e3" sha1="fe10542c4bb331956ece121629d03218ce4b8964"/>
+	</machine>
+	<machine name="EPOC - Scribble v01.50 [16A3]">
+		<description>EPOC - Scribble v01.50 [16A3]</description>
+		<rom name="EPOC - Scribble v01.50 [16A3].sis" size="123837" crc="51524f96" md5="e42ed808eb8b77218cdf2e3ccccb8738" sha1="c42215000b636ba80cbb66ffb47867dc3c33dd15"/>
+	</machine>
+	<machine name="EPOC - SerialChat v01.00 [154E]">
+		<description>EPOC - SerialChat v01.00 [154E]</description>
+		<rom name="EPOC - SerialChat v01.00 [154E].sis" size="13921" crc="5517c613" md5="00f096595a0a37d49e683397c9ce34e6" sha1="6235ea6afdd59bb3bc7a899ff3c66f0d69c364bd"/>
+	</machine>
+	<machine name="EPOC - SerialTerminal v01.00 [BD87]">
+		<description>EPOC - SerialTerminal v01.00 [BD87]</description>
+		<rom name="EPOC - SerialTerminal v01.00 [BD87].sis" size="10969" crc="46450e0c" md5="3507fba5564b493d992e90a522287862" sha1="a3a114f7ca27b7178c09e935568c551826bbc33c"/>
+	</machine>
+	<machine name="EPOC - ShopCL v01.00 [4DAD]">
+		<description>EPOC - ShopCL v01.00 [4DAD]</description>
+		<rom name="EPOC - ShopCL v01.00 [4DAD].sis" size="142216" crc="b524c7a0" md5="1e9fcfc493cd81447e61ed2aa933724e" sha1="59fdbeb0ae1d5099d186907c751cb593336a242e"/>
+	</machine>
+	<machine name="EPOC - ShopCL v01.00 [C2CD]">
+		<description>EPOC - ShopCL v01.00 [C2CD]</description>
+		<rom name="EPOC - ShopCL v01.00 [C2CD].sis" size="142214" crc="f07bc716" md5="6ebfdd84148dc9d8c8f4183438086beb" sha1="b3566749b81b25a87f1633b1af90791a5197793f"/>
+	</machine>
+	<machine name="EPOC - Shortcut (Build 106) v01.60 [F06F]">
+		<description>EPOC - Shortcut (Build 106) v01.60 [F06F]</description>
+		<rom name="EPOC - Shortcut (Build 106) v01.60 [F06F].sis" size="14431" crc="90eccb14" md5="33c0f6485f39da5ea2ccde180e89d9aa" sha1="89ca991008bf36cef252766197f52044de5a1e9a"/>
+	</machine>
+	<machine name="EPOC - Sicherungsmodul f_r Tools v01.00 [E802]">
+		<description>EPOC - Sicherungsmodul f_r Tools v01.00 [E802]</description>
+		<rom name="EPOC - Sicherungsmodul f_r Tools v01.00 [E802].sis" size="13783" crc="c3774914" md5="478cba5c11abeffda02a869a9e5ca259" sha1="88c386faeb0e04514716e482e425e0484921a851"/>
+	</machine>
+	<machine name="EPOC - Sierra7 Flight Planning Demo v07.09 [018A]">
+		<description>EPOC - Sierra7 Flight Planning Demo v07.09 [018A]</description>
+		<rom name="EPOC - Sierra7 Flight Planning Demo v07.09 [018A].sis" size="365739" crc="00a6a04f" md5="ff68a08d787172a608edf1e3801756a0" sha1="ecbc7703ef8b4d606a96ccf64b9316209477b879"/>
+	</machine>
+	<machine name="EPOC - Sierra7 Flight Planning Demo v07.09 [5B77]">
+		<description>EPOC - Sierra7 Flight Planning Demo v07.09 [5B77]</description>
+		<rom name="EPOC - Sierra7 Flight Planning Demo v07.09 [5B77].sis" size="369540" crc="9d3e89bc" md5="9bcdac13ed0bec12bbc8d5cef5f73a56" sha1="d0bfcd3e2c110abd25bea4648f4c13d1fe9b4ec7"/>
+	</machine>
+	<machine name="EPOC - Simon v01.14 [7B7A]">
+		<description>EPOC - Simon v01.14 [7B7A]</description>
+		<rom name="EPOC - Simon v01.14 [7B7A].sis" size="67460" crc="df5de0ed" md5="ff37d7ebb717beac710e20fd8fa54854" sha1="306163e8aee7a31ada5223c6bccb22988d3a2424"/>
+	</machine>
+	<machine name="EPOC - Simon v01.14 [E699]">
+		<description>EPOC - Simon v01.14 [E699]</description>
+		<rom name="EPOC - Simon v01.14 [E699].sis" size="55980" crc="48ef1fdf" md5="527c6ae7292156e96dcc9a78820dfc1a" sha1="6a598f5a1898ff1c818f07a0756e34c0555729e1"/>
+	</machine>
+	<machine name="EPOC - SkiRun Beta 1 v00.01 [67F6]">
+		<description>EPOC - SkiRun Beta 1 v00.01 [67F6]</description>
+		<rom name="EPOC - SkiRun Beta 1 v00.01 [67F6].sis" size="78870" crc="77f1900e" md5="eba5e7e7d11e6c9b104a0ef9ee359014" sha1="a40c3cea543dbaea0234d36d6ca5a734ebbc415d"/>
+	</machine>
+	<machine name="EPOC - Sleeper v01.00 [A756]">
+		<description>EPOC - Sleeper v01.00 [A756]</description>
+		<rom name="EPOC - Sleeper v01.00 [A756].sis" size="30507" crc="978000a8" md5="75eaa4e13db3880660aade2e17a4fd3e" sha1="7673cea503818bdedf980b4445390367e50092c2"/>
+	</machine>
+	<machine name="EPOC - Smuggers v01.30 [01C3]">
+		<description>EPOC - Smuggers v01.30 [01C3]</description>
+		<rom name="EPOC - Smuggers v01.30 [01C3].sis" size="314162" crc="f90cb0f7" md5="1ffcc683987acdbea20ea5cd0d184f07" sha1="5f28343ff876d6ca3821b5502733c31c762153f7"/>
+	</machine>
+	<machine name="EPOC - Smuggers v01.30 [0D94]">
+		<description>EPOC - Smuggers v01.30 [0D94]</description>
+		<rom name="EPOC - Smuggers v01.30 [0D94].sis" size="341633" crc="cc36bb5c" md5="7af4a855a1b08ede57c0ff53b2304f54" sha1="6d99d492614bdba3444748070bc35004099f597e"/>
+	</machine>
+	<machine name="EPOC - Snake v01.01 [BD4A]">
+		<description>EPOC - Snake v01.01 [BD4A]</description>
+		<rom name="EPOC - Snake v01.01 [BD4A].sis" size="31407" crc="97bfd066" md5="7dce4b924b6ba87903ae3643f1a3f02b" sha1="df682e5d251c884262e1f4f084f37d3096d04edb"/>
+	</machine>
+	<machine name="EPOC - Sokoban v01.00 [3E95]">
+		<description>EPOC - Sokoban v01.00 [3E95]</description>
+		<rom name="EPOC - Sokoban v01.00 [3E95].sis" size="28464" crc="f26e8ed0" md5="e6ea78c83c08845d982f4268608d3bfe" sha1="de830ce23e1e194533365ca3778a1237f64b4819"/>
+	</machine>
+	<machine name="EPOC - Sokoboxx v01.09 [BF4F]">
+		<description>EPOC - Sokoboxx v01.09 [BF4F]</description>
+		<rom name="EPOC - Sokoboxx v01.09 [BF4F].sis" size="201550" crc="8133a84c" md5="be933299e831c97d21245aff7fbc6cd6" sha1="f2aab9ae8468055b4247e0697163fa3acf0fc3a5"/>
+	</machine>
+	<machine name="EPOC - Solun - The Pocket Planetarium v04.30 [6EAD]">
+		<description>EPOC - Solun - The Pocket Planetarium v04.30 [6EAD]</description>
+		<rom name="EPOC - Solun - The Pocket Planetarium v04.30 [6EAD].sis" size="377772" crc="08186cac" md5="bba9e4a4c0ced530d7ed420a8299478a" sha1="94bceb17a2d138ee058186646b05b946cdec5649"/>
+	</machine>
+	<machine name="EPOC - Spectrum Emulator v03.01 [87D7]">
+		<description>EPOC - Spectrum Emulator v03.01 [87D7]</description>
+		<rom name="EPOC - Spectrum Emulator v03.01 [87D7].sis" size="176500" crc="da11b285" md5="435a8c52ca57f71830e152bff5eeee65" sha1="9277214c199c6f4720c0e9dcb1763e9d068da9d3"/>
+	</machine>
+	<machine name="EPOC - Spectrum HATE v01.00 [54FA]">
+		<description>EPOC - Spectrum HATE v01.00 [54FA]</description>
+		<rom name="EPOC - Spectrum HATE v01.00 [54FA].sis" size="49331" crc="c03d567d" md5="5d35ccce1523031b0f0f209a67589b6b" sha1="87b13e701a114b8cc4f26caa3004eafa67c418d0"/>
+	</machine>
+	<machine name="EPOC - Speed Patch (PsiTris) v01.00 [6B0E]">
+		<description>EPOC - Speed Patch (PsiTris) v01.00 [6B0E]</description>
+		<rom name="EPOC - Speed Patch (PsiTris) v01.00 [6B0E].sis" size="13944" crc="a5a44ab7" md5="6b55436d49dad67f4aa9ba07083b9857" sha1="943722c559341e6da9c400699b50fdc08521a393"/>
+	</machine>
+	<machine name="EPOC - Spell OPX _ RMR Software v02.00 [CC0A]">
+		<description>EPOC - Spell OPX _ RMR Software v02.00 [CC0A]</description>
+		<rom name="EPOC - Spell OPX _ RMR Software v02.00 [CC0A].sis" size="3755" crc="c3e7d5f4" md5="9e738a50b9ece5612adc4940863f5cbc" sha1="cbcc28a0024aebfb4d8ab0b64c789bebd8d1eeb5"/>
+	</machine>
+	<machine name="EPOC - Spell OPX _ RMR Software v02.01 [489C]">
+		<description>EPOC - Spell OPX _ RMR Software v02.01 [489C]</description>
+		<rom name="EPOC - Spell OPX _ RMR Software v02.01 [489C].sis" size="3887" crc="b4db5a06" md5="b44a4ace18710088b9b06368cc9af32b" sha1="7cb2cf67e93b986e4d77404f36bd07ee46f1e27a"/>
+	</machine>
+	<machine name="EPOC - Splitter v01.02 [E4E9]">
+		<description>EPOC - Splitter v01.02 [E4E9]</description>
+		<rom name="EPOC - Splitter v01.02 [E4E9].sis" size="17295" crc="e4a57bff" md5="e6426db4ec17ad5d4c1840b04627241f" sha1="80b6e9b7015991b6eefc5fad68c26dd2d2372369"/>
+	</machine>
+	<machine name="EPOC - Standard NMXs v01.60 [0C06]">
+		<description>EPOC - Standard NMXs v01.60 [0C06]</description>
+		<rom name="EPOC - Standard NMXs v01.60 [0C06].sis" size="41018" crc="be7d5985" md5="a775da6e3b1d66f7dbe8131013d679ca" sha1="b89eb1d1b1c7cba55770d378a212d3959db10a50"/>
+	</machine>
+	<machine name="EPOC - Start5 Beta 3 v02.00 [EC43]">
+		<description>EPOC - Start5 Beta 3 v02.00 [EC43]</description>
+		<rom name="EPOC - Start5 Beta 3 v02.00 [EC43].sis" size="86876" crc="ad9f81d9" md5="4e3228b36f97883e341b36b7e9ae4256" sha1="427e8732adf4cd8e66874aaefc2af811b8fe45d6"/>
+	</machine>
+	<machine name="EPOC - Start5 PlugIn Development Kit v01.00 [257B]">
+		<description>EPOC - Start5 PlugIn Development Kit v01.00 [257B]</description>
+		<rom name="EPOC - Start5 PlugIn Development Kit v01.00 [257B].sis" size="19399" crc="637230b8" md5="5a218f948df4dcf1a979570f48ace622" sha1="559a5a1aea63ae5d968c6cad645061604d3d37dc"/>
+	</machine>
+	<machine name="EPOC - StartUp v02.02 [0990]">
+		<description>EPOC - StartUp v02.02 [0990]</description>
+		<rom name="EPOC - StartUp v02.02 [0990].sis" size="118131" crc="aeda83be" md5="6a8f6e7cbf98124ef489594d56415a91" sha1="bd8862d4b3d8cfb13a95007faef3aaa5cf30e7f6"/>
+	</machine>
+	<machine name="EPOC - StationeryPad v01.10 [0837]">
+		<description>EPOC - StationeryPad v01.10 [0837]</description>
+		<rom name="EPOC - StationeryPad v01.10 [0837].sis" size="21375" crc="69b05d7b" md5="2ba3fb2644c9617f629893f834d3a29e" sha1="7d3b8984a15b4fcfead9475e43c48d74ce65329a"/>
+	</machine>
+	<machine name="EPOC - Stickies v01.21 [D2AF]">
+		<description>EPOC - Stickies v01.21 [D2AF]</description>
+		<rom name="EPOC - Stickies v01.21 [D2AF].sis" size="94926" crc="40daeccf" md5="054301826d6613144125131e09ed4763" sha1="5c989b0c310a86b60ebc2ba3254e5e1637650624"/>
+	</machine>
+	<machine name="EPOC - StopWatch v05.00 [AE8B]">
+		<description>EPOC - StopWatch v05.00 [AE8B]</description>
+		<rom name="EPOC - StopWatch v05.00 [AE8B].sis" size="3978" crc="c89bd2fc" md5="38caf55ac078370818a299666e75df32" sha1="edc65b1cfd10c27c5bd2fed9df390ce115d20eb5"/>
+	</machine>
+	<machine name="EPOC - Street Planner Demo v01.00 [4955]">
+		<description>EPOC - Street Planner Demo v01.00 [4955]</description>
+		<rom name="EPOC - Street Planner Demo v01.00 [4955].sis" size="550722" crc="0ecdcece" md5="bc99d975ac29c2203a2ecd81d2b3fb46" sha1="d8f5c4380e0be2a0e5d5ba08e75f36a16f2d13d1"/>
+	</machine>
+	<machine name="EPOC - Street Planner Demo v01.00 [B89A]">
+		<description>EPOC - Street Planner Demo v01.00 [B89A]</description>
+		<rom name="EPOC - Street Planner Demo v01.00 [B89A].sis" size="550722" crc="d4f29dff" md5="e4662c4265ca630c047079cb1edaabee" sha1="8ea343eb5a4c35cc091f4e2d51e4b192168cb446"/>
+	</machine>
+	<machine name="EPOC - Symbian DevNet AWT Package v01.00 [5034]">
+		<description>EPOC - Symbian DevNet AWT Package v01.00 [5034]</description>
+		<rom name="EPOC - Symbian DevNet AWT Package v01.00 [5034].sis" size="12403" crc="ac8410de" md5="f4afed6bffb0abe93f00a4c210dd51e8" sha1="9e0a2dc0b78c74d8e744f0df3c7f202fabab3b57"/>
+	</machine>
+	<machine name="EPOC - Symbian DevNet Java Utilities v01.00 [D480]">
+		<description>EPOC - Symbian DevNet Java Utilities v01.00 [D480]</description>
+		<rom name="EPOC - Symbian DevNet Java Utilities v01.00 [D480].sis" size="13961" crc="8470b1fc" md5="83d99797c32b3f0bf615b44429cf6070" sha1="7bc064acde03c0689c7399ce506c93e6d4bd0cdd"/>
+	</machine>
+	<machine name="EPOC - SymBiont v01.03 [27AC]">
+		<description>EPOC - SymBiont v01.03 [27AC]</description>
+		<rom name="EPOC - SymBiont v01.03 [27AC].sis" size="34511" crc="c04f57b0" md5="11761ad97dd4959d70457ee45b65b7e4" sha1="c12dff6f76d15e1672bd1efaf934596e7639977c"/>
+	</machine>
+	<machine name="EPOC - SysBack voor EPOC v02.03 [ECC5]">
+		<description>EPOC - SysBack voor EPOC v02.03 [ECC5]</description>
+		<rom name="EPOC - SysBack voor EPOC v02.03 [ECC5].sis" size="47369" crc="44dd8849" md5="1053ffbaf141dde676dedc159a483778" sha1="5f4fa63b058867357cd9abf89ddeb74e13590622"/>
+	</machine>
+	<machine name="EPOC - SYSRAM1 system.opx patch v01.00 [B9E7]">
+		<description>EPOC - SYSRAM1 system.opx patch v01.00 [B9E7]</description>
+		<rom name="EPOC - SYSRAM1 system.opx patch v01.00 [B9E7].sis" size="5475" crc="e40a7680" md5="09ff388479d5f87f1bdda5175ae5f2de" sha1="ff5d9244487394f044c45fcf91f8edceddafd40b"/>
+	</machine>
+	<machine name="EPOC - SysRam1.opx v01.00 [A7F8]">
+		<description>EPOC - SysRam1.opx v01.00 [A7F8]</description>
+		<rom name="EPOC - SysRam1.opx v01.00 [A7F8].sis" size="5464" crc="ad279fff" md5="14d0d1af58137f8aa84edc39aa68f04f" sha1="80dcadf2d1b81c45e6ff7c16a1b5c87409f27d8a"/>
+	</machine>
+	<machine name="EPOC - Tarot v02.23 [BF82]">
+		<description>EPOC - Tarot v02.23 [BF82]</description>
+		<rom name="EPOC - Tarot v02.23 [BF82].sis" size="76500" crc="164028e9" md5="28c31fd3beac08f3832d1173672edb69" sha1="e4b548ba98c66e16364eb11aeb4a545382122308"/>
+	</machine>
+	<machine name="EPOC - Tarot v03.30 [B6DB]">
+		<description>EPOC - Tarot v03.30 [B6DB]</description>
+		<rom name="EPOC - Tarot v03.30 [B6DB].sis" size="162434" crc="2e607fce" md5="bcd984b13d16eddce21746a3b39a16ea" sha1="173ec7b1d79b97df58f6001c18427de58312416a"/>
+	</machine>
+	<machine name="EPOC - TaskBar v00.92 [D8CB]">
+		<description>EPOC - TaskBar v00.92 [D8CB]</description>
+		<rom name="EPOC - TaskBar v00.92 [D8CB].sis" size="13203" crc="a4082fb1" md5="34630c61d1920344f1a4121b5db0e418" sha1="5cf145107cd346f6be04eb6a3d7973e27e10f78c"/>
+	</machine>
+	<machine name="EPOC - Temper5 v00.50 [2C3F]">
+		<description>EPOC - Temper5 v00.50 [2C3F]</description>
+		<rom name="EPOC - Temper5 v00.50 [2C3F].sis" size="36525" crc="0a4b967b" md5="4aede24d15685eabb156e8df094e2049" sha1="5d6163668068f334f127d2897d47e398d484e0f2"/>
+	</machine>
+	<machine name="EPOC - Tester 2.44 v02.44 [1D7C]">
+		<description>EPOC - Tester 2.44 v02.44 [1D7C]</description>
+		<rom name="EPOC - Tester 2.44 v02.44 [1D7C].sis" size="44967" crc="0fc10288" md5="e72ee14b368c572dafbed30b21ec978f" sha1="0b7ce1a8aa927db0424a52c33db43e9b99f1c04b"/>
+	</machine>
+	<machine name="EPOC - TestMe v05.10 [4B61]">
+		<description>EPOC - TestMe v05.10 [4B61]</description>
+		<rom name="EPOC - TestMe v05.10 [4B61].sis" size="199532" crc="9af1d044" md5="2977317ead88a6f425fa4b45f7c30045" sha1="4637072b7b7b59cc06d69adeb121c354dbf21d81"/>
+	</machine>
+	<machine name="EPOC - TestMe v05.22 [F5B9]">
+		<description>EPOC - TestMe v05.22 [F5B9]</description>
+		<rom name="EPOC - TestMe v05.22 [F5B9].sis" size="248274" crc="068ecb1d" md5="e3110a35281ae94c955abca14fea2c3a" sha1="0babf38fe52980e37b27c1cb3fe3799ca169ea79"/>
+	</machine>
+	<machine name="EPOC - The Yo-yo Encyclopedia v01.00 [8CF6]">
+		<description>EPOC - The Yo-yo Encyclopedia v01.00 [8CF6]</description>
+		<rom name="EPOC - The Yo-yo Encyclopedia v01.00 [8CF6].sis" size="226506" crc="070cb7ab" md5="bd9ec92d3c012ce94c8d2802ec392d41" sha1="5d77a9396378331349652adb1d51fd43cf0bb514"/>
+	</machine>
+	<machine name="EPOC - Tile Fall v01.40 [7880]">
+		<description>EPOC - Tile Fall v01.40 [7880]</description>
+		<rom name="EPOC - Tile Fall v01.40 [7880].sis" size="369144" crc="b2139602" md5="21976fcea5c8ba6f452bed4e2a16e7cb" sha1="106afa870ff5b9c72db9ddd157da6f34a54b64ad"/>
+	</machine>
+	<machine name="EPOC - Time v08.00 [C56F]">
+		<description>EPOC - Time v08.00 [C56F]</description>
+		<rom name="EPOC - Time v08.00 [C56F].sis" size="3836" crc="d0c1bda4" md5="a60c1a8194afacfedb4d0e243d2a67d6" sha1="4a2dc116f153516fd5faf5c6d963314f1dcce7ae"/>
+	</machine>
+	<machine name="EPOC - TimeLog v03.24 [50A8]">
+		<description>EPOC - TimeLog v03.24 [50A8]</description>
+		<rom name="EPOC - TimeLog v03.24 [50A8].sis" size="284881" crc="cc24582d" md5="a82068d8bd2a2722d9bcc860c470f0ab" sha1="14067f776bfcf4ecda3f8be61b3f83262c98b926"/>
+	</machine>
+	<machine name="EPOC - TimeLog v03.25 [B034]">
+		<description>EPOC - TimeLog v03.25 [B034]</description>
+		<rom name="EPOC - TimeLog v03.25 [B034].sis" size="295578" crc="7a5e529a" md5="c03e8364612aed4fa2d488f907d43b10" sha1="d0207e3d21a2a633819206c7284abbd48bcd334b"/>
+	</machine>
+	<machine name="EPOC - Tips32 Development Kit v01.01 [23D4]">
+		<description>EPOC - Tips32 Development Kit v01.01 [23D4]</description>
+		<rom name="EPOC - Tips32 Development Kit v01.01 [23D4].sis" size="33884" crc="dbe8865c" md5="888949ec0d05fefc9fd527d74da75369" sha1="498feb6ed5dc39b8f95740fb4f36be650117267c"/>
+	</machine>
+	<machine name="EPOC - Tips32 Environment v01.01 [23ED]">
+		<description>EPOC - Tips32 Environment v01.01 [23ED]</description>
+		<rom name="EPOC - Tips32 Environment v01.01 [23ED].sis" size="6280" crc="43c2cf55" md5="0dec7f57b031946767bf3f80702bb6c2" sha1="1bc97c4778fbfce6e5618c6f25cc47de8a527cd3"/>
+	</machine>
+	<machine name="EPOC - Today v01.03 [AD24]">
+		<description>EPOC - Today v01.03 [AD24]</description>
+		<rom name="EPOC - Today v01.03 [AD24].sis" size="8668" crc="0dc24604" md5="a3f52fc03e588af3dfb2a2a7fd0e3851" sha1="e5ebe136638176a3da7887925ceaaf19657781a7"/>
+	</machine>
+	<machine name="EPOC - Today v02.00 [5D72]">
+		<description>EPOC - Today v02.00 [5D72]</description>
+		<rom name="EPOC - Today v02.00 [5D72].sis" size="8668" crc="28a49690" md5="0460d69457ae55dabcf9404b009d55bb" sha1="c82487f4dbcf4bf3918dfbdfa26fe845afbf0b5b"/>
+	</machine>
+	<machine name="EPOC - TomeRaider v01.32 [54FA]">
+		<description>EPOC - TomeRaider v01.32 [54FA]</description>
+		<rom name="EPOC - TomeRaider v01.32 [54FA].sis" size="78574" crc="0fc9482a" md5="2b8879019afa078f94f3c07933b4d1cb" sha1="b0ff2c3a780d182b4057269f53d3cca0044b7c98"/>
+	</machine>
+	<machine name="EPOC - Tools v01.00 [8A3B]">
+		<description>EPOC - Tools v01.00 [8A3B]</description>
+		<rom name="EPOC - Tools v01.00 [8A3B].sis" size="79393" crc="281f66f6" md5="d91c9868a46762c9ce31aca228bc0259" sha1="9fb248b4a9324e8ddfd9ea6d2e7ae78886239b71"/>
+	</machine>
+	<machine name="EPOC - Trip+ v01.20 [1BE7]">
+		<description>EPOC - Trip+ v01.20 [1BE7]</description>
+		<rom name="EPOC - Trip+ v01.20 [1BE7].sis" size="138935" crc="72ec6684" md5="64e661b277c26bd2007a70ee3c56ede5" sha1="b35ed61f9aa02906b6371aaeb023766a0ee06791"/>
+	</machine>
+	<machine name="EPOC - Trip+ v01.20 [3904]">
+		<description>EPOC - Trip+ v01.20 [3904]</description>
+		<rom name="EPOC - Trip+ v01.20 [3904].sis" size="142770" crc="ed26c35d" md5="20c4095eafd09b301f703fe84a5ae022" sha1="5f99945931eeb0034c1fee1b9da9e6c02c48f3c3"/>
+	</machine>
+	<machine name="EPOC - TTrack v01.10 [1639]">
+		<description>EPOC - TTrack v01.10 [1639]</description>
+		<rom name="EPOC - TTrack v01.10 [1639].sis" size="72184" crc="e11ee342" md5="e46780b157487666c541931f83cef014" sha1="3a4cfbf21d91ceed82e3c839daade63cd6686a5b"/>
+	</machine>
+	<machine name="EPOC - TTrack v01.10 [8F21]">
+		<description>EPOC - TTrack v01.10 [8F21]</description>
+		<rom name="EPOC - TTrack v01.10 [8F21].sis" size="71102" crc="14d1be71" md5="1d22aba40d0537744f0d52e684c9c229" sha1="6e4279cd753dbc9360544f7e0d0e52f7c8c5aa98"/>
+	</machine>
+	<machine name="EPOC - UIDChanger v01.00 [69BD]">
+		<description>EPOC - UIDChanger v01.00 [69BD]</description>
+		<rom name="EPOC - UIDChanger v01.00 [69BD].sis" size="18651" crc="9f287ded" md5="4c3bd46a2f40ba392bafadb8222ad21a" sha1="6ca1eaed36c8e7c33af8e3afdbe7468063dfe0cf"/>
+	</machine>
+	<machine name="EPOC - UK Internet service providers v01.10 [869A]">
+		<description>EPOC - UK Internet service providers v01.10 [869A]</description>
+		<rom name="EPOC - UK Internet service providers v01.10 [869A].sis" size="2792" crc="4a62e90f" md5="72ad2c5d31f59af17aa031b42198926f" sha1="bb4e05838116a59dadd22b9d7e4ae2cc43cca1d1"/>
+	</machine>
+	<machine name="EPOC - UK Pocket Directory v02.60 [737C]">
+		<description>EPOC - UK Pocket Directory v02.60 [737C]</description>
+		<rom name="EPOC - UK Pocket Directory v02.60 [737C].sis" size="503870" crc="e6f911a6" md5="ed1e6330d1f77f0bb482e95887200698" sha1="d02c297b9babd9efd98dac426c2b303852dcd60b"/>
+	</machine>
+	<machine name="EPOC - Updated Printer Drivers v01.00 [5905]">
+		<description>EPOC - Updated Printer Drivers v01.00 [5905]</description>
+		<rom name="EPOC - Updated Printer Drivers v01.00 [5905].sis" size="36126" crc="9acb0ea8" md5="0e65dd6b4674410895208736dd1bc5b9" sha1="db8a6cd8ce2f4d1986dfd56f7d7325aed052626b"/>
+	</machine>
+	<machine name="EPOC - US Internet service providers v01.10 [4FE4]">
+		<description>EPOC - US Internet service providers v01.10 [4FE4]</description>
+		<rom name="EPOC - US Internet service providers v01.10 [4FE4].sis" size="1781" crc="c6824791" md5="1a3a65c691d701801702c5ec817587b6" sha1="6c923521dc91fb994c990e5b25223865d4108aa2"/>
+	</machine>
+	<machine name="EPOC - Utilities v05.34 [4019]">
+		<description>EPOC - Utilities v05.34 [4019]</description>
+		<rom name="EPOC - Utilities v05.34 [4019].sis" size="448875" crc="cda26d01" md5="4fa36baead2fed1d0348efe64356b45b" sha1="50a4761345bf4ac0b6f908c595d85dede0e37749"/>
+	</machine>
+	<machine name="EPOC - VacTrac5 - Vacation_leave Tracker v02.20 [AC74]">
+		<description>EPOC - VacTrac5 - Vacation_leave Tracker v02.20 [AC74]</description>
+		<rom name="EPOC - VacTrac5 - Vacation_leave Tracker v02.20 [AC74].sis" size="218759" crc="d9fdf413" md5="e48acb058c6d231e97623c40ccea5afe" sha1="491d326395044f5867a9fb9f8580e36b4e9b3653"/>
+	</machine>
+	<machine name="EPOC - VacTrac5 v02.10 [389A]">
+		<description>EPOC - VacTrac5 v02.10 [389A]</description>
+		<rom name="EPOC - VacTrac5 v02.10 [389A].sis" size="182095" crc="59578629" md5="b7eeb714a54c5fdfec1b26e36be68077" sha1="fc029320cf7da6aa8f0ca404af58c4139d083ae0"/>
+	</machine>
+	<machine name="EPOC - vc_help v01.00 [2362]">
+		<description>EPOC - vc_help v01.00 [2362]</description>
+		<rom name="EPOC - vc_help v01.00 [2362].sis" size="510205" crc="170ea770" md5="36065c503aeae0bf60c5ca9a1126e3db" sha1="3947145bf7a6286b68b94065674fc971adddc1b3"/>
+	</machine>
+	<machine name="EPOC - Video Cabinet v02.05 [A5C7]">
+		<description>EPOC - Video Cabinet v02.05 [A5C7]</description>
+		<rom name="EPOC - Video Cabinet v02.05 [A5C7].sis" size="87897" crc="8fb59544" md5="86f2bcefdcdeda0dbb8f097bda9edc2b" sha1="a44a34d0a8e0d6cd861b0882b4aea4ce402e1c18"/>
+	</machine>
+	<machine name="EPOC - Video Cabinet v02.07 [59BE]">
+		<description>EPOC - Video Cabinet v02.07 [59BE]</description>
+		<rom name="EPOC - Video Cabinet v02.07 [59BE].sis" size="143140" crc="c086ab14" md5="79a810622ed19415f25aeae0fcf85d2b" sha1="a4430ff6566f666fc03571435d0e82493a8a532d"/>
+	</machine>
+	<machine name="EPOC - VINS Series 5 v2.5 installation v02.05 [A4D8]">
+		<description>EPOC - VINS Series 5 v2.5 installation v02.05 [A4D8]</description>
+		<rom name="EPOC - VINS Series 5 v2.5 installation v02.05 [A4D8].sis" size="528093" crc="beb32582" md5="aaa47d6af5d3f1fc41c96b6aadf58e87" sha1="52ea4ba20c55df334eeaef359575b08e03aa19e5"/>
+	</machine>
+	<machine name="EPOC - VocabTutor v05.30 [A94A]">
+		<description>EPOC - VocabTutor v05.30 [A94A]</description>
+		<rom name="EPOC - VocabTutor v05.30 [A94A].sis" size="36147" crc="80a9f134" md5="09aec81d4ade2755cfcf279322798681" sha1="9a1adb9fa625f1ee2389a5bde5c13a6e3e86fd22"/>
+	</machine>
+	<machine name="EPOC - VoiceMan5 v01.12 [42DB]">
+		<description>EPOC - VoiceMan5 v01.12 [42DB]</description>
+		<rom name="EPOC - VoiceMan5 v01.12 [42DB].sis" size="46901" crc="cfd79ef6" md5="e15e346f00ab89963411b5813b9d0871" sha1="b36b90e0c9b41e40dafa2ffbee9fe2cc3a6661c7"/>
+	</machine>
+	<machine name="EPOC - WardFive v03.06 [DAED]">
+		<description>EPOC - WardFive v03.06 [DAED]</description>
+		<rom name="EPOC - WardFive v03.06 [DAED].sis" size="277282" crc="312935c8" md5="ecc6bc708563c88752d4e8bbfdc8e63b" sha1="c231a9804e59b1ea76455054d22274b4a5e3c1db"/>
+	</machine>
+	<machine name="EPOC - WardFive v03.12 [2164]">
+		<description>EPOC - WardFive v03.12 [2164]</description>
+		<rom name="EPOC - WardFive v03.12 [2164].sis" size="284218" crc="de99f73e" md5="17f5f3ad4ce8aaede683058b0981b008" sha1="871c0c3d46b3ce635435a6da88778cbeec693a85"/>
+	</machine>
+	<machine name="EPOC - WigglyWorm v01.00 [45F0]">
+		<description>EPOC - WigglyWorm v01.00 [45F0]</description>
+		<rom name="EPOC - WigglyWorm v01.00 [45F0].sis" size="5705" crc="c829983b" md5="3895a172b649e4de43904e2b1d46cddf" sha1="6693f1035e4851be224ef7c09c883b202cca6da0"/>
+	</machine>
+	<machine name="EPOC - WigglyWorm v01.00 [59F7]">
+		<description>EPOC - WigglyWorm v01.00 [59F7]</description>
+		<rom name="EPOC - WigglyWorm v01.00 [59F7].sis" size="4775" crc="0edddf38" md5="5770c5b26f9aaacd28ba5ac8ab136ae0" sha1="7c772968eceea11f35198dc9c76ab21241a44aed"/>
+	</machine>
+	<machine name="EPOC - WinCE v01.00 [EC28]">
+		<description>EPOC - WinCE v01.00 [EC28]</description>
+		<rom name="EPOC - WinCE v01.00 [EC28].sis" size="11345" crc="77d1d802" md5="3b13c061ad32ebc6c897b0273bd3bbfd" sha1="9d83d3600461bc01e867dbf79d2e0daa22786121"/>
+	</machine>
+	<machine name="EPOC - Wine Cabinet v02.05 [AD22]">
+		<description>EPOC - Wine Cabinet v02.05 [AD22]</description>
+		<rom name="EPOC - Wine Cabinet v02.05 [AD22].sis" size="117963" crc="ca3d0e7c" md5="84f188a1f6649fb21f3812b6c9fdc09b" sha1="0868f7bb0a4c9ce5b647eec501d5883d55d5b54d"/>
+	</machine>
+	<machine name="EPOC - Wine Collection v02.07 [5641]">
+		<description>EPOC - Wine Collection v02.07 [5641]</description>
+		<rom name="EPOC - Wine Collection v02.07 [5641].sis" size="193867" crc="11fa0fdb" md5="b71a2c25942f74b16ef1f595190661ba" sha1="5d205129b49172632e70da8524cfe60b926250a3"/>
+	</machine>
+	<machine name="EPOC - WinMail v01.04 [26C3]">
+		<description>EPOC - WinMail v01.04 [26C3]</description>
+		<rom name="EPOC - WinMail v01.04 [26C3].sis" size="5160" crc="fdaf1e5c" md5="803be762e37d1916554e970452f91bd9" sha1="c71ee48c1d9ad2607fd5f2f7fa96e749639db427"/>
+	</machine>
+	<machine name="EPOC - WorldTime v01.28 [89C9]">
+		<description>EPOC - WorldTime v01.28 [89C9]</description>
+		<rom name="EPOC - WorldTime v01.28 [89C9].sis" size="327581" crc="33047a8b" md5="f2b9297e8dbb6818a42b3bb651e2a622" sha1="2dc5660c2e9cdf460f4a3c3673ce5891f172aed9"/>
+	</machine>
+	<machine name="EPOC - XTM PC_XT Emulator v01.00 [971A]">
+		<description>EPOC - XTM PC_XT Emulator v01.00 [971A]</description>
+		<rom name="EPOC - XTM PC_XT Emulator v01.00 [971A].sis" size="177163" crc="54bbd605" md5="df86fdc92218c897c36af259f3a9719a" sha1="7585cb00494019751447c03287b148e34913a371"/>
+	</machine>
+	<machine name="EPOC - Zheroes beta v00.90 [8C93]">
+		<description>EPOC - Zheroes beta v00.90 [8C93]</description>
+		<rom name="EPOC - Zheroes beta v00.90 [8C93].sis" size="304758" crc="f62e47b8" md5="b163aae4106bc29570c973aa1810d90b" sha1="9b39c528ba09ced8a49a677d9347725fdfa30dec"/>
 	</machine>
 </datafile>
