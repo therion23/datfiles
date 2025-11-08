@@ -50,30 +50,6 @@ When THAT is done with, i will clean up what i have made so far, and push those 
 | Collecting | The DAT is good enough for me, TNC naming is needed, but contents will only be added to or moved, not removed |
 | TOSEC | The DAT has been submitted to them fine folks over at TOSEC, i.e. the end of that road |
 
-# The story so far:
-
-| Set | Tag | Added | Updated | Note |
-| --- | --- | ----- | ------- | ---- |
-| Palm - Apps & Games - Miscellaneous | Sorting | 20251025 | 20251025 |
-| Palm - Apps & Games - Serials, Cracks & Keygens | Sorting | 20251025 | 20251026 |
-| Palm - Apps & Games - Unsorted | Sorting | 20251025 | 20251026 |
-| Palm - Development - CD Images | Sorting | 20251025 | 20251026 |
-| Palm - Development - Other | Sorting | 20251025 | 20251026 |
-| Palm - Development - SDKs | Sorting | 20251010 | 20251026 |
-| Palm - Device Software - CD Images | Cleaning | 20251010 | 20251026 |
-| Palm - Device Software - Other | Sorting | 20251010 | 20251026 |
-| Palm - Emulators & Simulators | Sorting | 20251011 | 20251026 |
-| Palm - Firmware (merged) | TOSEC | 20251010 | 20251029 |
-| Palm - Software - CD Images | Sorting | 20251010 | 20251026 | A perpetual mess
-| Palm - Software - CD Images - Extracted | Sorting | 20251026 | 20251026 | A perpetual mess too
-| | | | |
-| Magazines - ASCII - Timeslip Palm Magazine | Cleaning | 20251011 | 20251026 |
-| Magazines - Handheld Computing Magazine | Cleaning | 20251012 | 20251026 |
-| Magazines - Posse Press - Team Palmtops Cover Discs | Cleaning | 20251011 | 20251026 |
-| Magazines - Palm Pulp Magazine | Cleaning | 20251012 | 20251026 |
-| Palm - Development - Documentation | Cleaning | 20251022 | 20251024 |
-| Palm - OkDoKeY Medical Library | Cleaning | 20251011 | |
-
 # CDROM's incorporated
 - Absolutely none (yet)
 
