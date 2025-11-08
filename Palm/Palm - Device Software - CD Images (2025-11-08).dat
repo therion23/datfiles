@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Palm - Device Software - CD Images</name>
+		<description>Palm - Device Software - CD Images</description>
+		<category>Standard DatFile</category>
+		<version>20251026</version>
+		<date>2025-10-26</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Handspring 1999 (Hybrid)">
+		<description>Handspring 1999 (Hybrid)</description>
+		<rom name="Handspring 1999.iso" size="37283840" crc="a7f12263" md5="715407c84e8fc54198f07fabe647ae32" sha1="71186e53ffa0c738906dc37366334a632d392a8d"/>
+	</machine>
+	<machine name="Handspring 2000">
+		<description>Handspring 2000</description>
+		<rom name="Handspring 2000.iso" size="19292160" crc="c0c7764b" md5="35bed4cadd40d15dda14942957ca924f" sha1="aa010b01d10f8f56bb8e9c7b6afe6e49bb2b1013"/>
+	</machine>
+	<machine name="IBM WorkPad v3">
+		<description>IBM WorkPad v3</description>
+		<rom name="IBM WorkPad v3.iso" size="62511104" crc="d2c2406b" md5="cab94f1dd60b277f6b6cb293a433b1ee" sha1="fcfc1d1831ebb047440d98bd05cc86ebc550d390"/>
+	</machine>
+	<machine name="IBM WorkPad v3 - Bonus Pack (Hybrid)">
+		<description>IBM WorkPad v3 - Bonus Pack (Hybrid)</description>
+		<rom name="IBM WorkPad v3 - Bonus Pack (Hybrid).iso" size="12931072" crc="665cab99" md5="17f6311dd010bacd68d384097af493de" sha1="d287d4847b03863184768996838cb03f8003494e"/>
+	</machine>
+	<machine name="Palm Bluetooth (Hybrid)">
+		<description>PalmBluetooth (Hybrid)</description>
+		<rom name="PalmBluetooth (Hybrid).iso" size="87556096" crc="d42ce776" md5="141b02d85ce4a10aa76e9b9a6464b075" sha1="848e3a0945d868da56e85bb29e3fd495790898d4"/>
+	</machine>
+	<machine name="Palm III">
+		<description>Palm III</description>
+		<rom name="Palm III.iso" size="12460032" crc="d60a7e91" md5="93af1b2814c7782617a2168bff6bf1a7" sha1="606d56740055ea6acac7912f26fe145a108144c0"/>
+	</machine>
+	<machine name="Palm III - Connected Organizer (USA)">
+		<description>Palm III - Connected Organizer (USA)</description>
+		<rom name="Palm III - Connected Organizer (USA).bin" size="14620032" crc="db7901a5" md5="ad104b2ec94d8981642f2e5bc640913f" sha1="37682c228fb8e7c2a6a3a3772059a0a648d0cf87"/>
+		<rom name="Palm III - Connected Organizer (USA).cue" size="125" crc="a360ff27" md5="86efe8ace34d2c7d345a6fc0b3e192fd" sha1="852ca575258d0a190eabbd939ca4fcc554641346"/>
+	</machine>
+	<machine name="Palm IIIx">
+		<description>Palm IIIx</description>
+		<rom name="Palm IIIx.iso" size="21526528" crc="9630b83f" md5="28632233d8535f8c9866235af319f836" sha1="e12246810bb729e7670e49c2885aa5d221689b0b"/>
+	</machine>
+	<machine name="Palm IIIxe">
+		<description>Palm IIIxe</description>
+		<rom name="Palm IIIxe.iso" size="111425536" crc="7ebb1dda" md5="44a1ce7f6e6271d9fd83012e64a6ecc2" sha1="0d60f64a60473850ffbc1d24018cddf08357f515"/>
+	</machine>
+	<machine name="Palm Lifedrive (Hybrid)">
+		<description>Palm Lifedrive (Hybrid)</description>
+		<rom name="Palm Lifedrive.iso" size="363933696" crc="d6c1c80a" md5="95e39f36a97700ec3cf889c65a810150" sha1="0a9ad4c2e7b3502a0c56a3a5a83b2335454c96ae"/>
+	</machine>
+	<machine name="Palm m100">
+		<description>Palm m100</description>
+		<rom name="Palm m100.iso" size="28901376" crc="c2c18333" md5="baa1c133a09b43501b217647b3f0aa78" sha1="8765842126fc83866851c1fe9319ecc12acceec1"/>
+	</machine>
+	<machine name="Palm m105 (Hybrid)">
+		<description>Palm m105 (Hybrid)</description>
+		<rom name="Palm m105 (Hybrid).iso" size="276025344" crc="60c5179b" md5="0e9d95bc735ede18b2cf2ea19d974cb8" sha1="bddaa8328835357680d9583b2b63f7d83a902c96"/>
+	</machine>
+	<machine name="Palm m125">
+		<description>Palm m125</description>
+		<rom name="Palm m125.iso" size="194101248" crc="1539446b" md5="48bc1c60a593ad6146d3bdf66cbce094" sha1="2aabcad3ed67f8cacafb07f1a97f39b92d2f03bf"/>
+	</machine>
+	<machine name="Palm m125 - Bonus Software">
+		<description>Palm m125 - Bonus Software</description>
+		<rom name="Palm m125 - Bonus Software.iso" size="429359104" crc="69ab6b86" md5="d587640bf890cecd2cf18c1e65bbf772" sha1="aedf95f1a59cbd2d4b80bab24a2d8408f800e819"/>
+	</machine>
+	<machine name="Palm m130 (Hybrid)">
+		<description>Palm m130 (Hybrid)</description>
+		<rom name="Palm m130 (Hybrid).iso" size="56647680" crc="a99b33d9" md5="d543871c61bd7c08aa77f13cd2acb9a2" sha1="91b1d5afcda2dfe40460204ba869f7b252977dfb"/>
+	</machine>
+	<machine name="Palm m130 - Bonus Software (Hybrid)">
+		<description>Palm m130 - Bonus Software (Hybrid)</description>
+		<rom name="Palm m130 - Bonus Software (Hybrid).iso" size="112685056" crc="a101ce6c" md5="0ec1c9ea19457164f350ca57464d5438" sha1="7a381a7f85fdcbf9858058738ab0e6ae1e41df2f"/>
+	</machine>
+	<machine name="Palm m500 (Feb 2001) (Multilingual)">
+		<description>Palm m500 (Feb 2001) (Multilingual)</description>
+		<rom name="Palm m500 (Feb 2001).iso" size="497963008" crc="6d3f161b" md5="d1c6538b3f1494964b7655c2f753e5dd" sha1="92421bc463d9322a291954fd8e7934c5d8a7cdb8"/>
+	</machine>
+	<machine name="Palm m500 (Nov 2001) (Multilingual)">
+		<description>Palm m500 (Nov 2001) (Multilingual)</description>
+		<rom name="Palm m500 (Nov 2001).iso" size="472657920" crc="f43a4a1f" md5="031f2457f6a4f6a388aed50cb9d50878" sha1="8ba2d12130c83de8eae2a6509e6db4f6f76d1f30"/>
+	</machine>
+	<machine name="Palm m500 - Mobile Connectivity Software (Apr 2001)">
+		<description>Palm m500 - Mobile Connectivity Software (Apr 2001)</description>
+		<rom name="Palm m500 - Mobile Connectivity Software.iso" size="20774912" crc="ee4cb188" md5="20f1dfcf279a0ff26af5a53d9d9383b1" sha1="99c0d83cb8de39d0f0f1505d36c7b677b50e019a"/>
+	</machine>
+	<machine name="Palm m500 - Mobile Connectivity Software (Mar 2001) (Multilingual)">
+		<description>Palm m500 - Mobile Connectivity Software (Mar 2001) (Multilingual)</description>
+		<rom name="Palm m500 - Mobile Connectivity Software (Multilingual).iso" size="86913024" crc="e052977e" md5="f664e14fc6a8beabc3d9df3ba143cc16" sha1="b6facbe1914e7358b56def2dabef16b8d2d2df49"/>
+	</machine>
+	<machine name="Palm m500 Series (Windows)">
+		<description>Palm m500 Series (Windows)</description>
+		<rom name="Palm m500 Series (Windows).iso" size="163522560" crc="5b808bfe" md5="81cc64d2b564c4c0700b58d7222244d6" sha1="d82a451974de7a55cf1be74964176882299e9a79"/>
+	</machine>
+	<machine name="Palm OS Upgrade 4.1 (Hybrid)">
+		<description>Palm OS Upgrade 4.1 (Hybrid)</description>
+		<rom name="Palm OS Upgrade 4.1 (Hybrid).iso" size="524388352" crc="f2220921" md5="7df4bbec09660a4b0e94644cb8c21278" sha1="195d3767663a46a4a4bb05d2aaa072e53b66c6e3"/>
+	</machine>
+	<machine name="Palm Palmone Wifi Card (Hybrid)">
+		<description>Palm Palmone Wifi Card (Hybrid)</description>
+		<rom name="Palm Palmone Wifi Card.iso" size="359110656" crc="1e09d19b" md5="04c77cc3a46342ff8cbcba3ead797a0a" sha1="c3075ac206fa18bd0ba3a1b5c41a82c44b4fd21d"/>
+	</machine>
+	<machine name="Palm Treo 680 (Cingular) (Hybrid)">
+		<description>Palm Treo 680 (Cingular) (Hybrid)</description>
+		<rom name="Palm Treo 680 Cingular.iso" size="248303616" crc="26cb7208" md5="f8b41920a18dd68d6c42e169449e3a1a" sha1="fab6efbca3068e99deeb0e2a672525b1dc9fde9c"/>
+	</machine>
+	<machine name="Palm Tungsten Desktop Software (Hybrid)">
+		<description>Palm Tungsten Desktop Software (Hybrid)</description>
+		<rom name="Palm Tungsten Desktop Software - WinMac.bin" size="78227520" crc="e48bccf8" md5="51615867d5ce7ed0c82977715e17293d" sha1="0855faa50bb4b65d67b21d72cef4cddd4e9ac6c6"/>
+		<rom name="Palm Tungsten Desktop Software - WinMac.cue" size="105" crc="211d30fd" md5="32a29dc3e1e7e426c33332fc95354abb" sha1="ac26413e9021c9e08112c5cd1390d04891d8ef80"/>
+	</machine>
+	<machine name="Palm Tungsten E2 (Hybrid)">
+		<description>Palm Tungsten E2 (Hybrid)</description>
+		<rom name="Palm Tungsten E2.iso" size="355577856" crc="6d42b350" md5="d913bd4d12c8c71004fad0d6bd177bcd" sha1="694abeab4614b65d32443eb02bf0c07ced09edc4"/>
+	</machine>
+	<machine name="Palm Tungsten T3 (Hybrid)">
+		<description>Palm Tungsten T3 (Hybrid)</description>
+		<rom name="Palm Tungsten T3.iso" size="254208000" crc="267f6d4f" md5="74760b4dc27795da5a4ae3340dd866fa" sha1="ac34ab40e09051a83d9335e997e5a65df3e66168"/>
+	</machine>
+	<machine name="Palm Tungsten TX (2005) (Hybrid)">
+		<description>Palm Tungsten TX (2005) (Hybrid)</description>
+		<rom name="Palm Tungsten TX (2005) (Hybrid).iso" size="660531200" crc="f0f1c9fa" md5="94e5df7a02171b0259b4923aa046dfa7" sha1="82231e33e257909941082f9342359ad52aaef179"/>
+	</machine>
+	<machine name="Palm Tungsten W (Hybrid)">
+		<description>Palm Tungsten W (Hybrid)</description>
+		<rom name="Palm Tungsten W (Hybrid).iso" size="456890368" crc="1e8cdfc9" md5="ab88f0f194442ecde746329609d54ce9" sha1="189adfdbff03238a7ea320035a04b2ec932057d1"/>
+	</machine>
+	<machine name="Palm Tungsten W - Essentials (Hybrid)">
+		<description>Palm Tungsten W - Essentials (Hybrid)</description>
+		<rom name="Palm Tungsten W - Essentials (Hybrid).iso" size="387930112" crc="e427906f" md5="b215de65e52b1cb37e69b2615afc83ba" sha1="2ee320b34dc1d9a8244d37dd3b1d385dbb3d400f"/>
+	</machine>
+	<machine name="Palm Tungsten X (Multilingual)">
+		<description>Palm Tungsten X (Multilingual)</description>
+		<rom name="Palm Tungsten X.iso" size="460472320" crc="11b01cbf" md5="4a3c1469375443f21b141d1ea380a766" sha1="243f371fef085a93f9f5cc84c047bfb162901653"/>
+	</machine>
+	<machine name="Palm Universal Wireless Keyboard (Hybrid)">
+		<description>Palm Universal Wireless Keyboard (Hybrid)</description>
+		<rom name="Palm Universal Wireless Keyboard.iso" size="417777664" crc="3d9360ac" md5="dd63a7d045365957c35bd47911795625" sha1="756677fe6a615c324c164dced16712c5b72ddf28"/>
+	</machine>
+	<machine name="Palm VII">
+		<description>Palm VII</description>
+		<rom name="Palm VII.iso" size="26005504" crc="ffeb617e" md5="3a6b18559700c2a383fcf5e34f9781be" sha1="7d5f3435d394b86b12ebbb3792b59892af11c52f"/>
+	</machine>
+	<machine name="Palm Vx">
+		<description>Palm Vx</description>
+		<rom name="Palm Vx.iso" size="22605824" crc="8fb987e3" md5="3bec3f6dc98648fb1a7a563ac6412a05" sha1="ecd82d3a65f45779e7c0fc05c6a67afc875c6d40"/>
+	</machine>
+	<machine name="Palm Vx 3.1">
+		<description>Palm Vx 3</description>
+		<rom name="Palm Vx 3.1.iso" size="48447488" crc="aca4eb66" md5="3b11e26eeefaa0f9085c58003f2a6b88" sha1="e488041649fa50281725b739b0713b3390222146"/>
+	</machine>
+	<machine name="Palm Vx 3.0.1">
+		<description>Palm Vx 3.0</description>
+		<rom name="Palm Vx 3.0.1.iso" size="30013440" crc="0bbc4229" md5="d35ca5cf242ce00480e66dc057d7e0d6" sha1="23fad192b01a99300de0d9e852b16a336dc875cd"/>
+	</machine>
+	<machine name="Palm Zire (Hybrid)">
+		<description>Palm Zire (Hybrid)</description>
+		<rom name="Palm Zire.iso" size="80758784" crc="d98426ee" md5="82a44ca50d9f124b5b774f0a18b079e7" sha1="fa0f5d09265d7362f341f4c8f987f612736e2ab4"/>
+	</machine>
+	<machine name="Palm Zire 31 (Hybrid)">
+		<description>400-10045-00 (Hybrid)</description>
+		<rom name="400-10045-00 (Hybrid).iso" size="154814464" crc="ee97046a" md5="070468e922ddea96a3143cf4dfda1de0" sha1="2b271dd2445db9b7e11e48e150bd4d8cfb9b882e"/>
+	</machine>
+	<machine name="Palm Zire 72 (EN, ZH)">
+		<description>Palm Zire 72 (EN, ZH)</description>
+		<rom name="Palm Zire 72.iso" size="384139264" crc="a531fa04" md5="62f358ec8f0dec695199036ff37e39cc" sha1="3ced6798cad81a2130ad383d555303e1749a8bc8"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NX70V v1.0 CD1 (EN)">
+		<description>Sony CLIÉ PEG-NX70V v1.0 CD1 (EN)</description>
+		<rom name="CLIE_CD1_PEGNX70V_EN_v1.0.iso" size="310302720" crc="4296b3bc" md5="94c8cac722cf5a5e1f2e6f8ed0b8ff9a" sha1="99bc72637944abb6ae73e0414769c0082b5b3276"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NX70V v1.0 CD2 (DE, FR)">
+		<description>Sony CLIÉ PEG-NX70V v1.0 CD2 (DE, FR)</description>
+		<rom name="CLIE_CD2_PEGNX70V_FRGR_v1.0.iso" size="614125568" crc="03a75751" md5="b7cf8d1da264f3748b3cec7619d6f34f" sha1="1f040167be7752c97b3b802b6358644e711c2d31"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-GC10 Game Controller v1.1">
+		<description>Sony CLIÉ PEGA-GC10 Game Controller v1.1</description>
+		<rom name="CLIE_GameController_PEGAGC10_v1.1.iso" size="28901376" crc="cc47306b" md5="1f4f0ba43dfdedd7540f3fc4024c0fc0" sha1="1fc4fcb3a11bd5670237f7802d854923dd35158d"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-WL110 Wireless Adapter v1.0">
+		<description>Sony CLIÉ PEGA-WL110 Wireless Adapter v1.0</description>
+		<rom name="CLIE_WirelessLAN_PEGAWL110_v1.0.iso" size="67436544" crc="f6620e3c" md5="6002ebf7a8465725d2657deded96a028" sha1="b30153fbff3adf501705339434ce62f6feb602ed"/>
+	</machine>
+	<machine name="Tapwave Zodiac">
+		<description>Tapwave Zodiac</description>
+		<rom name="Tapwave Zodiac.iso" size="58552320" crc="1bec106e" md5="6ceb287ddebf72251c00be6c2b2ea646" sha1="0a2cd3ec66121c597a5c4aea35722d495e732905"/>
+	</machine>
+	<machine name="Tapwave Zodiac - Desktop and Bonus Software">
+		<description>Tapwave Zodiac - Desktop and Bonus Software</description>
+		<rom name="Tapwave Zodiac - Desktop and Bonus Software.iso" size="58220544" crc="0108176f" md5="1281088bdc1f277c31174c09067c7f6a" sha1="939c51f71569f550ff06d71408421ebe5527a99e"/>
+	</machine>
+	<machine name="TRG PRO Software Disk">
+		<description>TRG PRO Software Disk</description>
+		<rom name="TRG PRO Software Disk.iso" size="57808896" crc="38db7512" md5="333d68f54a133e9f0bdd12f72d1b4ac5" sha1="100f366fe49798298254762f216667544f7b8d0e"/>
+	</machine>
+	<machine name="Alphasmart Dana (Hybrid)">
+		<description>Alphasmart Dana (Hybrid)</description>
+		<rom name="Alphasmart Dana (Hybrid).iso" size="183058432" crc="30190f19" md5="caafd397638454c60de6e2a76cd64f66" sha1="b91875881515012aee77ef1074bda9dd4a13c98b"/>
+	</machine>
+	<machine name="Handspring 2001 (Hybrid)">
+		<description>Handspring 2001 (Hybrid)</description>
+		<rom name="Handspring 2001 (Hybrid).iso" size="443619328" crc="8e0be33c" md5="5f7899d3cf18d89ee5a0088243b95d2b" sha1="00077411e511d61a44fdd9efd7516a9173d3fa2f"/>
+	</machine>
+	<machine name="Handspring Treo 90 (Hybrid)">
+		<description>Handspring Treo 90 (Hybrid)</description>
+		<rom name="Handspring Treo 90 (Hybrid).iso" size="71956480" crc="08f0a55b" md5="730d35a7f72eb8702441bc38a34e5ded" sha1="6688f4e93e44d089ca55a2804b2ee0d9c964c798"/>
+	</machine>
+	<machine name="Handspring Visor Edge (Hybrid)">
+		<description>Handspring Visor Edge (Hybrid)</description>
+		<rom name="Handspring Visor Edge (Hybrid).iso" size="95135744" crc="e330c833" md5="a6d06e3625ac484165b0fe497e598892" sha1="776de505fc7b900ef5e3817939a2af0ddb098ee4"/>
+	</machine>
+	<machine name="InnoGear MiniJam (Hybrid)">
+		<description>InnoGear MiniJam (Hybrid)</description>
+		<rom name="InnoGear MiniJam (Hybrid).iso" size="178001920" crc="0ff2dfb4" md5="d8dff6df9a425c63796dfc17bbc7f995" sha1="4e6dae822dbabc0fb958efc96f711bb4fdaa1c69"/>
+	</machine>
+	<machine name="Kodak PalmPix">
+		<description>Kodak PalmPix</description>
+		<rom name="Kodak PalmPix.iso" size="110833664" crc="c7faeb7c" md5="d7b0ac1dd853fd57c5f79f3a33da476f" sha1="fd75238a7fbf359cc897e6e4577edd49c53ef5c6"/>
+	</machine>
+	<machine name="Palm 3245WW Wireless Keyboard Driver (Hybrid)">
+		<description>Palm 3245WW Wireless Keyboard Driver (Hybrid)</description>
+		<rom name="Palm 3245WW Wireless Keyboard Driver (Hybrid).iso" size="429373440" crc="aacc8c73" md5="eccf1446b4e70f9cc380d17b1a5d637a" sha1="390e0c4ec76b9046afae8e5dacf876b7eb522a77"/>
+	</machine>
+	<machine name="Palm Centro (Multilingual) (Hybrid)">
+		<description>Palm Centro (Multilingual) (Hybrid)</description>
+		<rom name="Palm Centro (Multilingual) (Hybrid).iso" size="340733952" crc="acfcf60c" md5="6c09b82760d1822a2652174088150f15" sha1="9d8e2de624b03f99acf6d3cd7b1747ab9da2922b"/>
+	</machine>
+	<machine name="Palm Centro Smart CD (Sprint) (Hybrid)">
+		<description>Palm Centro Smart CD (Sprint) (Hybrid)</description>
+		<rom name="Palm Centro Smart CD (Sprint) (Hybrid).iso" size="161366016" crc="1609ca09" md5="498496cda2ba6dfe3f5badaffc6c4d77" sha1="a675fae86ba7a1d8ca1b9fdad7b8d0c9451af2bd"/>
+	</machine>
+	<machine name="Palm IIIc">
+		<description>Palm IIIc</description>
+		<rom name="Palm IIIc.iso" size="23492608" crc="19011427" md5="ce3a88a4b8b0a5263fb1a1bd6012adb3" sha1="d2083ca2a89c56460a991e0132a6d182b191864d"/>
+	</machine>
+	<machine name="Palm m500 Series (Dec 2001) (Hybrid)">
+		<description>Palm m500 Series (Dec 2001) (Hybrid)</description>
+		<rom name="Palm m500 Series (Dec 2001) (Hybrid).iso" size="473200640" crc="59da7c37" md5="6d9ab31cf3e790652a108ec9ad05a1ed" sha1="d371cc069ba556d78caf6ad8210ed68a4a4385a3"/>
+	</machine>
+	<machine name="Palm m500 Series Installation CD (Hybrid)">
+		<description>Palm m500 Series Installation CD (Hybrid)</description>
+		<rom name="Palm m500 Series Handhelds - Palm Installation CD for Windows &amp; Mac (USA).bin" size="68887728" crc="09941171" md5="d371e89060d37dfecfaddf07be3d1ef4" sha1="cd976bdfa00b0db837150b50620ce88ec9c40b8b"/>
+		<rom name="Palm m500 Series Handhelds - Palm Installation CD for Windows &amp; Mac (USA).cue" size="162" crc="6f918d46" md5="09debce88407f6b6b0850171565de67f" sha1="06cbb4c6aa540edd40c611cd652e369a89e71c50"/>
+	</machine>
+	<machine name="Palm Treo 650">
+		<description>Palm Treo 650</description>
+		<rom name="Palm Treo 650.iso" size="691580928" crc="036d5cdd" md5="5d60b4e8f798c093e1e0e492b115b816" sha1="96d1f6fc7ffa30fcc70e4ab9e275826525004435"/>
+	</machine>
+	<machine name="Palm Treo 755p (Hybrid)">
+		<description>Palm Treo 755p (Hybrid)</description>
+		<rom name="Palm Treo 755p (Hybrid).iso" size="123793408" crc="01bad916" md5="bb866a0c818cce591fd5de749968370f" sha1="f00408fc09558751f498ff10c8d5537cf74ce693"/>
+	</machine>
+	<machine name="Palm Tungsten E (Mac)">
+		<description>Palm Tungsten E (Mac)</description>
+		<rom name="Palm Tungsten E (Mac).iso" size="639918080" crc="a90f7132" md5="c7a4f7fb14f5bc51488472f6fd6087a4" sha1="f0e7de0fae189afce6c36908ec522f6175ffdd1d"/>
+	</machine>
+	<machine name="Palm Tungsten E (Windows)">
+		<description>Palm Tungsten E (Windows)</description>
+		<rom name="Palm Tungsten E (Windows).iso" size="623302656" crc="728a1913" md5="714d8768256ad90bdcb529865b8cfca1" sha1="47c5e90bac19374ecbf87fe8f366c8828d0a19f1"/>
+	</machine>
+	<machine name="Palm Tungsten T Desktop Software (Hybrid)">
+		<description>Palm Tungsten T Desktop Software (Hybrid)</description>
+		<rom name="Palm Tungsten T Software Installation (USA) (Disc 1) (Desktop Software).bin" size="78227520" crc="e48bccf8" md5="51615867d5ce7ed0c82977715e17293d" sha1="0855faa50bb4b65d67b21d72cef4cddd4e9ac6c6"/>
+		<rom name="Palm Tungsten T Software Installation (USA) (Disc 1) (Desktop Software).cue" size="137" crc="bb5778a2" md5="dee734853a80f96086c10c0f43266a11" sha1="60671435233dc841d8bb93ab1a06a733e84331b2"/>
+	</machine>
+	<machine name="Palm Tungsten T Software Essentials (Hybrid)">
+		<description>Palm Tungsten T Software Essentials (Hybrid)</description>
+		<rom name="Palm Tungsten T Software Installation (USA) (Disc 2) (Software Essentials).bin" size="117407136" crc="970d34a8" md5="453a3a53612a3403c85a0cb7091082a1" sha1="f3c4921943a140d0b618c8109e378984aa32f2f6"/>
+		<rom name="Palm Tungsten T Software Installation (USA) (Disc 2) (Software Essentials).cue" size="140" crc="638417bd" md5="a25b6b71aed7c23b45d19586c5de85a0" sha1="139536115bca5bdfb494601b0763a0563d620c43"/>
+	</machine>
+	<machine name="Palm Tungsten T5 (Mac)">
+		<description>Palm Tungsten T5 (Mac)</description>
+		<rom name="Palm Tungsten T5 (Mac).iso" size="183234560" crc="36f51bf0" md5="3619db28d702ed1e8c71756ee8bf67b1" sha1="726c6fdc00914e01c048819df94ecbe03e04ff16"/>
+	</machine>
+	<machine name="Palm Tungsten T5 (Windows)">
+		<description>Palm Tungsten T5 (Windows)</description>
+		<rom name="Palm Tungsten T5 (Windows).iso" size="654090240" crc="a33d0e54" md5="5c970bb1e96f9788257f9305388bd254" sha1="6a2183c91edd53f96562c8c9ff3f472d5e19bcb8"/>
+	</machine>
+	<machine name="Palm VIIx">
+		<description>Palm VIIx</description>
+		<rom name="Palm VIIx.iso" size="21067776" crc="3cd5cba7" md5="912e875cedc994ddfc558fa85510cc7e" sha1="7dc54e2929bd519e08053890e55fff1f787608a1"/>
+	</machine>
+	<machine name="Palm Z22 (Hybrid)">
+		<description>Palm Z22 (Hybrid)</description>
+		<rom name="Palm Z22 (Hybrid).iso" size="607836160" crc="eb837e73" md5="24bee32d5f346bfd5c36990a0f208fef" sha1="5e3f55394c6c308767e39224dd2b4ce4f3a547f6"/>
+	</machine>
+	<machine name="Palm Zire 21 (Hybrid)">
+		<description>Palm Zire 21 (Hybrid)</description>
+		<rom name="Palm Zire 21 Installation CD for Windows and Mac (400-5788A)(742-5788A)(Palm)(2003).bin" size="100900800" crc="bc4c31e6" md5="0248a24e4c7639224eea0ed39f5c25a3" sha1="644b9b812057b0a65516be5535ffa1ac57cb1e6a"/>
+		<rom name="Palm Zire 21 Installation CD for Windows and Mac (400-5788A)(742-5788A)(Palm)(2003).cue" size="415" crc="936a3ece" md5="dec7a06d62b7f7108512a60bd0c8d904" sha1="f840ad2186a26822610a568c63afa3a961c56548"/>
+	</machine>
+	<machine name="Palm Zire 72 (Mac)">
+		<description>Palm Zire 72 (Mac)</description>
+		<rom name="Palm Zire 72 (Mac).iso" size="501630976" crc="1f23ba36" md5="5bd301b496b7aecb96c2428ee6207c51" sha1="25d10ac67ca599c035895df17557e6d2a2f12b6f"/>
+	</machine>
+	<machine name="PalmModem Connectivity Kit">
+		<description>PalmModem Connectivity Kit</description>
+		<rom name="PalmModem Connectivity Kit.iso" size="12554240" crc="a13a17ea" md5="d0e84dac4c0561470b02d9d382bf69a3" sha1="21080b3e6b3b9d9afc7b8a298186f3d5844be0fe"/>
+	</machine>
+	<machine name="Panasonic PalmCam Software SD2.0 (Hybrid)">
+		<description>Panasonic PalmCam Software SD2.0 (Hybrid)</description>
+		<rom name="Panasonic PalmCam Software SD2.0 (Hybrid).iso" size="563007488" crc="bd2ad94b" md5="4b2d7cbcc7d178145d433c9c84f8b544" sha1="bf34bdef1479b29ce25f6ba24871e2e3d1922acf"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NR70V-E">
+		<description>Sony CLIÉ PEG-NR70V-E</description>
+		<rom name="Sony CLIÉ PEG-NR70V-E.iso" size="597354496" crc="4b9a7f23" md5="09f9d11ae8126dc2bca65c1a67461862" sha1="955730d28e4e382b12c129ee4d0e0078e104445d"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NR70V-U &amp; NR70-U">
+		<description>Sony CLIÉ PEG-NR70V-U &amp; NR70-U</description>
+		<rom name="Sony CLIÉ PEG-NR70V-U &amp; NR70-U.iso" size="262406144" crc="5b96d4fd" md5="e03bc104610b5a92c642c36b4e44b66c" sha1="5753b1e49a38334c9bc379ab0319b08ad73ff5e2"/>
+	</machine>
+	<machine name="Supra KEY 505">
+		<description>Supra KEY 505</description>
+		<rom name="Supra KEY 505.iso" size="36263936" crc="4f81622f" md5="7d8e700d881647b5111eb4b8f5e1cf0c" sha1="c14e5045fd484f8c0b9dd7628b79c8ee845bb031"/>
+	</machine>
+	<machine name="Palm Zire 71 Essentials (Hybrid)">
+		<description>Palm Zire 71 Essentials (Hybrid)</description>
+		<rom name="Essentials.bin" size="72879072" crc="7410679f" md5="8c4f3bc0d019d7fdeda820203981f5b2" sha1="f8769d971d545b615f9baa394684d9b54abc07ab"/>
+		<rom name="Essentials.cue" size="76" crc="c65f058a" md5="351547a01564c9f4e7ea53fe37a2e8c4" sha1="f025c89dd0033573751d84f7b6c39065f85dc9d0"/>
+	</machine>
+	<machine name="Palm OS Upgrade 4.1 (Hybrid)">
+		<description>Palm OS Upgrade 4.1 (Hybrid)</description>
+		<rom name="Palm OS Upgrade 4.1 (Hybrid).iso" size="524388352" crc="f2220921" md5="7df4bbec09660a4b0e94644cb8c21278" sha1="195d3767663a46a4a4bb05d2aaa072e53b66c6e3"/>
+	</machine>
+	<machine name="Palm Vx (Japanese) (Mac)">
+		<description>Palm Vx (Japanese) (Mac)</description>
+		<rom name="Palm Vx (Japanese) (Mac).iso" size="24956928" crc="a5617d82" md5="f393b3b0df4e9263e527ca646524e615" sha1="5cc8ce3a7ac5a0e9d5538f5f0eb954512b9584d5"/>
+	</machine>
+	<machine name="Palm Vx (Japanese) (Windows)">
+		<description>Palm Vx (Japanese) (Windows)</description>
+		<rom name="Palm Vx (Japanese) (Windows).iso" size="22347776" crc="ce01aba8" md5="942a95e23dabf3bf6cb2edf643324992" sha1="b48092d7d4ccda2e677e269e1d0eb90607d0131f"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-TH55 (Japanese)">
+		<description>Sony CLIÉ PEG-TH55 (Japanese)</description>
+		<rom name="Sony CLIÉ PEG-TH55 (Japanese).iso" size="253145088" crc="f25f9559" md5="e2f418d8557f47d010c0b4839819067e" sha1="c68f90b565bfde682a7c6610adf3cbd4d80e1620"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-TJ37 (Japanese)">
+		<description>Sony CLIÉ PEG-TJ37 (Japanese)</description>
+		<rom name="Sony CLIÉ PEG-TJ37 (Japanese).iso" size="131604480" crc="4fc349f0" md5="7d5ba5bcceaf48e821687237263729af" sha1="0a4d1b7a964d4bcb9d3f4cf4dfac6c959cdf8830"/>
+	</machine>
+	<machine name="Palm Portable Keyboard">
+		<description>Palm Portable Keyboard</description>
+		<rom name="Palm Portable Keyboard.iso" size="30015488" crc="36416d8d" md5="847f5e47639d10ccf69d8c841ccef895" sha1="a17c7a42f3b352c510b3457748a5cb6f3d4018fc"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-SJ22">
+		<description>Sony CLIÉ PEG-SJ22</description>
+		<rom name="Sony CLIÉ PEG-SJ22.iso" size="134772736" crc="53435945" md5="5cd3c92ac9004bc6fa1129c608e22ebc" sha1="d58db7ad81899451610f6f32bd2d7bf11a556f3b"/>
+	</machine>
+	<machine name="3Com PalmConnect USB Kit (Hybrid)">
+		<description>3Com PalmConnect USB Kit (Hybrid)</description>
+		<rom name="3Com PalmConnect USB Kit (Hybrid).iso" size="80484352" crc="0324bf7e" md5="3b53c7321cc632db845c773580fb657a" sha1="bbc8cb8b001b43964f3e4f7c093751d5af14b758"/>
+	</machine>
+	<machine name="Palm Treo 650 (Mac)">
+		<description>Palm Treo 650 (Mac)</description>
+		<rom name="Palm Treo 650 (Mac).iso" size="206508032" crc="14e68186" md5="7415a27baf937b834748ffcdbd8165ed" sha1="7d4bf10e0c0c6784969974af4bf9cfc35c6b8a7a"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N610C">
+		<description>Sony CLIÉ PEG-N610C</description>
+		<rom name="Sony CLIÉ PEG-N610C.iso" size="82067456" crc="acb6906f" md5="357eb0313ee71033800ad031048cbc3f" sha1="e82adb44559db8827958da5d2b5bd6221fe4f33e"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N710C">
+		<description>Sony CLIÉ PEG-N710C</description>
+		<rom name="Sony CLIÉ PEG-N710C.iso" size="183398400" crc="77d267e2" md5="7e3d4586a5f9d91e5dd383345090583c" sha1="f0e604e64a34a0071323db4716c802a8f79b9618"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N760C">
+		<description>Sony CLIÉ PEG-N760C</description>
+		<rom name="Sony CLIÉ PEG-N760C.iso" size="176424960" crc="72b41b15" md5="a40679ee21df704879f7a6291f35c054" sha1="fe95ad2144225a1141ebfcf83ed1fd5b9200b1e0"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-N770CE">
+		<description>Sony CLIÉ PEG-N770CE</description>
+		<rom name="Sony CLIÉ PEG-N770CE.iso" size="493586432" crc="82688719" md5="4c36bce26b4ced1468fdafa6a7f17a9a" sha1="7b7416b2de13548af102a35c46f73ff94abbe3ee"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NX60 &amp; NX70V">
+		<description>Sony CLIÉ PEG-NX60 &amp; NX70V</description>
+		<rom name="Sony CLIÉ PEG-NX60 &amp; NX70V.iso" size="358983680" crc="9a9dadbb" md5="a7d7f49b2f31ae6e3bb0fbdadd204b2a" sha1="ac0fcd538f9c66183d0d41b26adb491e92cb9b42"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NX73, NX73V, NX80, NX80V">
+		<description>Sony CLIÉ PEG-NX73, NX73V, NX80, NX80V</description>
+		<rom name="Sony CLIÉ PEG-NX73, NX73V, NX80, NX80V.iso" size="381132800" crc="e0edbdc4" md5="77d2f3fc4275bf4fee8d55527d6dd11e" sha1="4b8628f33114e67eb6bc7ed148c5b9df2d5c767a"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NX73V &amp; NX80">
+		<description>Sony CLIÉ PEG-NX73V &amp; NX80</description>
+		<rom name="Sony CLIÉ PEG-NX73V &amp; NX80.iso" size="381132800" crc="e0edbdc4" md5="77d2f3fc4275bf4fee8d55527d6dd11e" sha1="4b8628f33114e67eb6bc7ed148c5b9df2d5c767a"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NZ90 (Maybe bad)">
+		<description>Sony CLIÉ PEG-NZ90 (Maybe bad)</description>
+		<rom name="Sony CLIÉ PEG-NZ90 (Maybe bad).iso" size="340912128" crc="240a1e72" md5="f3db7eac9a6c881ad88ec3099da65a09" sha1="18bc62bc685b38a0cd370c1babfda54e59b50d22"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-NZ90 JP (Maybe bad)">
+		<description>Sony CLIÉ PEG-NZ90 JP (Maybe bad)</description>
+		<rom name="Sony CLIÉ PEG-NZ90 JP (Maybe bad).iso" size="472236032" crc="8306e328" md5="d153a85ae33a5e44a9f337b17e69992b" sha1="3d6543787520d05928c9afb1d9e49940e5c6e430"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S300">
+		<description>Sony CLIÉ PEG-S300</description>
+		<rom name="Sony CLIÉ PEG-S300.iso" size="60272640" crc="4c9bbe3f" md5="b44215c1d1d050a1f3d3881e85f3e74b" sha1="3797436c2423af16c440f5ff22303379681d2ceb"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S300 &amp; S500C (JP)">
+		<description>Sony CLIÉ PEG-S300 &amp; S500C (JP)</description>
+		<rom name="Sony CLIÉ PEG-S300 &amp; S500C (JP).iso" size="104933376" crc="cd856d76" md5="a4324e4498a2defd926ad5d84ca34cb6" sha1="8405b289c5225c9b4d9ceb40f840165b59d7b12a"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S320">
+		<description>Sony CLIÉ PEG-S320</description>
+		<rom name="Sony CLIÉ PEG-S320.iso" size="79499264" crc="4c3b2139" md5="4731dd77af7856a26dcb320746b22268" sha1="5779f9a0856589f03e7bc462373b910478f5bfbc"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-S360">
+		<description>Sony CLIÉ PEG-S360</description>
+		<rom name="Sony CLIÉ PEG-S360.iso" size="98795520" crc="eb91770b" md5="9eb8afb2e5769dda665b295fd61e3d69" sha1="2b7d7f187a93ffb9599e3dcbe69cae69e861779b"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-SJ33">
+		<description>Sony CLIÉ PEG-SJ33</description>
+		<rom name="Sony CLIÉ PEG-SJ33.iso" size="279351296" crc="fcc3f117" md5="b269920e7fb843725fefaef5662dbe2a" sha1="71240631667c0fdc88cfac58fc7d5f6e665dba96"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-SL10, SJ20, SJ30">
+		<description>Sony CLIÉ PEG-SL10, SJ20, SJ30</description>
+		<rom name="Sony CLIÉ PEG-SL10, SJ20, SJ30.iso" size="118519808" crc="7c194919" md5="c506baadbce4c6d5f1eb814336577d06" sha1="a7fc864e18fabb777dace7135bd138eec1e38685"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T415 &amp; T615">
+		<description>Sony CLIÉ PEG-T415 &amp; T615</description>
+		<rom name="Sony CLIÉ PEG-T415 &amp; T615.iso" size="143130624" crc="67099c03" md5="0f102621e1823880b800ae05fc445cb6" sha1="94c2c4d0024a31a06c0ab2e29692f4d8b7ea09d1"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T425 &amp; T625 (Maybe bad)">
+		<description>Sony CLIÉ PEG-T425 &amp; T625 (Maybe bad)</description>
+		<rom name="Sony CLIÉ PEG-T425 &amp; T625 (Maybe bad).iso" size="271794176" crc="68f354c5" md5="773924cfe612f5fd49cbe6f67c7d5c24" sha1="286f462b3b8339d4d0cc43bd1819430224fdf665"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-T665">
+		<description>Sony CLIÉ PEG-T665</description>
+		<rom name="Sony CLIÉ PEG-T665.iso" size="236433408" crc="a6f13c3a" md5="15c36c40e699ed400e04202c7be863de" sha1="5609cb23360d119ea7e7ddd46ae922d808cfeb40"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-TG50">
+		<description>Sony CLIÉ PEG-TG50</description>
+		<rom name="Sony CLIÉ PEG-TG50.iso" size="389269504" crc="34547f60" md5="ad0c2decd6a1a290f3ed9d08e0472b24" sha1="b6d99e3184f6ee3831c2b4c3e84f0bedd50f350b"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-TH55">
+		<description>Sony CLIÉ PEG-TH55</description>
+		<rom name="Sony CLIÉ PEG-TH55.iso" size="292700160" crc="5c66bb2c" md5="f0580eb4349e12292a0ecf61590f3937" sha1="667c13b2971a645164377ff5c9727e9d54a1ef3e"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-TJ25 &amp; TJ35 (EN)">
+		<description>Sony CLIÉ PEG-TJ25 &amp; TJ35 (EN)</description>
+		<rom name="Sony CLIÉ PEG-TJ25 &amp; TJ35 (EN).iso" size="126322688" crc="9f4006dc" md5="cb79f2375d4bce69ccde9954b3d76ed2" sha1="453787c9626c24edb48def6618835b0fa96fbdd3"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-TJ25 &amp; TJ35 (EN, IT, SP)">
+		<description>Sony CLIÉ PEG-TJ25 &amp; TJ35 (EN, IT, SP)</description>
+		<rom name="Sony CLIÉ PEG-TJ25 &amp; TJ35 (EN, IT, SP).iso" size="334092288" crc="f0be4504" md5="3694a7cbd9579ac42ecafd8fca3b6d31" sha1="213a2268586cec9d775e66f5543086aab6e8fef7"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-TJ27">
+		<description>Sony CLIÉ PEG-TJ27</description>
+		<rom name="Sony CLIÉ PEG-TJ27.iso" size="139036672" crc="87b46513" md5="f980a5d512bf9b175092e95f2d230f46" sha1="484e41783ccf37e8237d8e2f6e001451f1fd0309"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-TJ37">
+		<description>Sony CLIÉ PEG-TJ37</description>
+		<rom name="Sony CLIÉ PEG-TJ37.iso" size="177602560" crc="7b76b4ef" md5="dc8873aab07c7c809a8feea685723c30" sha1="577fc06c31ccdc96eb9cd34c40ce1d7e02b6549c"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-UX40 &amp; UX50">
+		<description>Sony CLIÉ PEG-UX40 &amp; UX50</description>
+		<rom name="Sony CLIÉ PEG-UX40 &amp; UX50.iso" size="516931584" crc="aff1798f" md5="982eef28e083d251d99e9f4e16fc0de9" sha1="e4c9c4149c722fe28323aa637b291abd2b7dafb4"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-VZ90">
+		<description>Sony CLIÉ PEG-VZ90</description>
+		<rom name="Sony CLIÉ PEG-VZ90.iso" size="281593856" crc="98281f1a" md5="959ef8f508f1a8261020812241063cdf" sha1="684938ce15682d3fbb4878661c6c09b770184a62"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-KB100 Keyboard">
+		<description>Sony CLIÉ PEGA-KB100 Keyboard</description>
+		<rom name="Sony CLIÉ PEGA-KB100 Keyboard.iso" size="85360640" crc="c43383d5" md5="33d937903fb56eef562c24095f28a8f5" sha1="0c643083e0b577f242bdeea46021498d3f4da672"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-SA10 Audio Adapter">
+		<description>Sony CLIÉ PEGA-SA10 Audio Adapter</description>
+		<rom name="Sony CLIÉ PEGA-SA10 Audio Adapter.iso" size="30394368" crc="1c347eb3" md5="2f26499c43abe9c522200cdc5f485663" sha1="cc92ce4423678e61936985260e03b6705c2d0d4f"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-SA500 Audio Adapter (Hybrid)">
+		<description>Sony CLIÉ PEGA-SA500 Audio Adapter (Hybrid)</description>
+		<rom name="Sony CLIÉ PEGA-SA500 Audio Adapter (Hybrid).iso" size="60162048" crc="6e06c657" md5="39a21894da0b9ddaa7ee18e0075d3129" sha1="ce3ad33feaed81775865da423833e0a222b5004b"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-VR100 Video Recorder">
+		<description>Sony CLIÉ PEGA-VR100 Video Recorder</description>
+		<rom name="Sony CLIÉ PEGA-VR100 Video Recorder.iso" size="16334848" crc="8a785c63" md5="16daa93b50193c9605a833884486c21b" sha1="2374d07ea39d6894358d61c7bcfca92f4a89e50a"/>
+	</machine>
+	<machine name="Abacus PDA Watch">
+		<description>Abacus PDA Watch</description>
+		<rom name="Abacus PDA Watch.iso" size="125872128" crc="e37fb87d" md5="9fea3ad0a16c6cbefa5ad639e2650045" sha1="0c973c18d5469a7f7ce1c6007aff27f0d16b4c3c"/>
+	</machine>
+	<machine name="Acer S50 &amp; S60">
+		<description>Acer S50 &amp; S60</description>
+		<rom name="Acer S50 &amp; S60.iso" size="274950144" crc="bd76acda" md5="769864c2dc8099497f4c6f082bb59a9c" sha1="c313b56216597fd02d57d1e4fe59a45e7828895b"/>
+	</machine>
+	<machine name="Garmin iQue 3600">
+		<description>Garmin iQue 3600</description>
+		<rom name="Garmin iQue 3600.iso" size="253962240" crc="05fdf6bf" md5="99832712549b6e5725e51f1c6634396c" sha1="10a1f866e4b01d67364caf263badb5e8814dcc43"/>
+	</machine>
+	<machine name="GoType! (Hybrid)">
+		<description>GoType! (Hybrid)</description>
+		<rom name="GoType! (Hybrid).iso" size="47618048" crc="20b0eef5" md5="3f11776389d7902ace0d6c2f3632f88b" sha1="441de527d7359f770269a0ee68589a9ee3641333"/>
+	</machine>
+	<machine name="Group Sense G18 - Quelle Universum">
+		<description>Group Sense G18 - Quelle Universum</description>
+		<rom name="Group Sense G18 - Quelle Universum.iso" size="141172736" crc="779b423e" md5="ecb9d7a6511b76345ea769faa31ef590" sha1="739fe793f58a6eef7baa4680333427b0560584d4"/>
+	</machine>
+	<machine name="Group Sense Zircon G88">
+		<description>Group Sense Zircon G88</description>
+		<rom name="Group Sense Zircon G88.iso" size="86591488" crc="b762cda7" md5="8f4a47a1422328e91ae591041709f930" sha1="bb2f150653be7c65fc1d640068815936f71dd5a3"/>
+	</machine>
+	<machine name="Handspring Treo 180, 180g, 270">
+		<description>Handspring Treo 180, 180g, 270</description>
+		<rom name="Handspring Treo 180, 180g, 270.iso" size="291074048" crc="268aca3e" md5="b19b17dce0298968da8c3dc56cdadb8b" sha1="c76f8e49182601a4c2862b8bcb7a34c09b543416"/>
+	</machine>
+	<machine name="Handspring Treo 600">
+		<description>Handspring Treo 600</description>
+		<rom name="Handspring Treo 600.iso" size="290226176" crc="69c31139" md5="22e757688aeeca2abe09f7a0425c0d52" sha1="414ad63f581547c6972d0a674af2ca10f0156ff1"/>
+	</machine>
+	<machine name="IBM Workpad Bonus Pack">
+		<description>IBM Workpad Bonus Pack</description>
+		<rom name="IBM Workpad Ecrinote Portfolio.iso" size="25493504" crc="9c5e9a5c" md5="c5ff51b7b2d39f86c3c32cdde473b28c" sha1="a41688572cfa429ca1959ed005a54237debd155b"/>
+		<rom name="IBM Workpad IBM Desktop.iso" size="31246336" crc="4d7202a0" md5="ed5cfe77fa2f86b30394b49ee6733a95" sha1="e49bbf26e5d7c3f46f774780d51c67eadc1caa2b"/>
+		<rom name="IBM Workpad IBM Software.iso" size="3960832" crc="c5a2f31e" md5="453d1824bb5079cf19e66d8b70b880b8" sha1="93b9f5bdf52ec47b75909bb77dde7fce541d055c"/>
+		<rom name="IBM Workpad Internet Software.iso" size="5693440" crc="9ec39e2e" md5="6dc5dae7a12d618fa3f27928395cb7e1" sha1="9bf7639f5726df46757c0ad052303163832f76bc"/>
+	</machine>
+	<machine name="IBM Workpad C3">
+		<description>IBM Workpad C3</description>
+		<rom name="IBM Workpad C3.iso" size="51742720" crc="3342e752" md5="b3a5a5c59674c35b511192d66a139b99" sha1="06f1ca4e16fa8868c7f476159e8c4b73100d6cad"/>
+	</machine>
+	<machine name="Palm Centro (AT&amp;T)">
+		<description>Palm Centro (AT&amp;T)</description>
+		<rom name="Palm Centro (AT&amp;T).iso" size="113430528" crc="1c9c580e" md5="6545f067e31df396c5b5653dc2f19369" sha1="e54e92c3c62a56924bb188debe7cfb616730379f"/>
+	</machine>
+	<machine name="Palm Pilot">
+		<description>Palm Pilot</description>
+		<rom name="Palm Pilot.iso" size="8812544" crc="ea7cef7f" md5="d7a1ab1a0baad3c8498db9ed34b21ccd" sha1="18f53fbf3d9f05c3e2a159b824b8b67a08f87f37"/>
+	</machine>
+	<machine name="Palm Pilot Personal">
+		<description>Palm Pilot Personal</description>
+		<rom name="Palm Pilot Personal.iso" size="26615808" crc="57497694" md5="0ea90ef1a7459222c267a05f52499088" sha1="eacce9ef2613d728759bb578cc92c7f3dd5f3c94"/>
+	</machine>
+	<machine name="Palm Treo 680 Getting Started">
+		<description>Palm Treo 680 Getting Started</description>
+		<rom name="Palm Treo 680 Getting Started.iso" size="496201728" crc="91b1576e" md5="2b39e4985504df0e7b96c975e3b70c57" sha1="a719a2a11c57b14772b9515bf4ee2e5738c913ce"/>
+	</machine>
+	<machine name="Palm Treo 700wx">
+		<description>Palm Treo 700wx</description>
+		<rom name="Palm Treo 700wx.iso" size="256159744" crc="c29f123d" md5="d94ea3ffc620ebaea0b7e5b9d3142a12" sha1="46f411efddcc8c7cd652627a6a9a93e706404fb4"/>
+	</machine>
+	<machine name="Palm Treo 750">
+		<description>Palm Treo 750</description>
+		<rom name="Palm Treo 750.iso" size="189321216" crc="3eb37348" md5="29d5a8adf5903bf1cc41fc66bf0b79c0" sha1="7c4fb77a8c36b6901da006dfa73fe09610c71bc9"/>
+	</machine>
+	<machine name="Palm Tungsten C">
+		<description>Palm Tungsten C</description>
+		<rom name="Palm Tungsten C.iso" size="656132096" crc="c0f3a3d4" md5="fb65aba4c0fb7c0586242168535e841a" sha1="e9e651313f37c1e3167278f73f18d92421676d96"/>
+	</machine>
+	<machine name="Palm Tungsten C Essentials">
+		<description>Palm Tungsten C Essentials</description>
+		<rom name="Palm Tungsten C Essentials.iso" size="276142080" crc="10fd0ff2" md5="a51ce5b68d9eceb7dc6f1717f4d17579" sha1="73517aa281868c16b03ebae63a98ebb40166c37e"/>
+	</machine>
+	<machine name="Palm Tungsten E2 (Mac)">
+		<description>Palm Tungsten E2 (Mac)</description>
+		<rom name="Palm Tungsten E2 (Mac).iso" size="312330240" crc="40392e45" md5="4095b6bbef737a9b8ebca35e229e5ab0" sha1="91ad7ada9438225cd61d0eaeaf5e193165d3e3f6"/>
+	</machine>
+	<machine name="Palm Tungsten E2 (Windows)">
+		<description>Palm Tungsten E2 (Windows)</description>
+		<rom name="Palm Tungsten E2 (Windows).iso" size="686678016" crc="e76ecc8f" md5="ba1f76dfd2f8878aeb699a865a64ba73" sha1="08d2c4beedcfa75e52b67a69b99a097aa7264cad"/>
+	</machine>
+	<machine name="Palm Tungsten T2">
+		<description>Palm Tungsten T2</description>
+		<rom name="Palm Tungsten T2.iso" size="59791360" crc="d5627761" md5="dcdfb8ebf411fd41008fdd9161755a7c" sha1="e99f4512dba1ab50cd52b99e2cdbbbbc82d026bb"/>
+	</machine>
+	<machine name="Palm Tungsten T2 Essentials">
+		<description>Palm Tungsten T2 Essentials</description>
+		<rom name="Palm Tungsten T2 Essentials.iso" size="27101184" crc="8a05644c" md5="abfb112d9a47ea5e7a472ed0759c35d4" sha1="a990731136b79a796340d4d0933da8d6b2ae2003"/>
+	</machine>
+	<machine name="Palm Zire 71 (Hybrid)">
+		<description>Palm Zire 71 (Hybrid)</description>
+		<rom name="Palm Zire 71 (Hybrid).iso" size="630499328" crc="b33ea7bd" md5="2569f6ab99bfdbfbe19623d6c415e41d" sha1="1e48c1678d16e2f8a14290e74b2d9eb363d81920"/>
+	</machine>
+	<machine name="PalmOS Pocketop Keyboard">
+		<description>PalmOS Pocketop Keyboard</description>
+		<rom name="PalmOS Pocketop Keyboard.iso" size="4427776" crc="6825e910" md5="559acfc2ae317aa7de78672dbdb0eed4" sha1="d86b2fb2cf14b0b811d5623c7bd1ac1813d67e12"/>
+	</machine>
+	<machine name="SocketScan 108L v6.0">
+		<description>SocketScan 108L v6.0</description>
+		<rom name="SocketScan 108L v6.0.iso" size="23810048" crc="662c04d7" md5="5aa37a628226729613718ec093961261" sha1="8cc8752e0222f39e39ad08839df8bdaa1af2434d"/>
+	</machine>
+	<machine name="Sony CLIÉ PEG-SL10-SJ20-SJ30 [a]">
+		<description>Sony CLIÉ PEG-SL10-SJ20-SJ30 [a]</description>
+		<rom name="Sony CLIÉ PEG-SL10-SJ20-SJ30 [a].iso" size="118212608" crc="4fa29d8b" md5="5ce71dec6c7056b94e78b6d4879136cb" sha1="224777e07741fd0e46a8124c74bf32e548e14146"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-KB20">
+		<description>Sony CLIÉ PEGA-KB20</description>
+		<rom name="Sony CLIÉ PEGA-KB20.iso" size="20854784" crc="b5b6a8fe" md5="0e7532deb48ffc4c71f1da4bab478eab" sha1="a45d6ae42557c288952cafb4c748add0f4c5bc3f"/>
+	</machine>
+	<machine name="Stowaway Infrared Wireless Keyboard">
+		<description>Stowaway Infrared Wireless Keyboard</description>
+		<rom name="Stowaway Infrared Wireless Keyboard.iso" size="11192320" crc="f24a11bd" md5="a00ad5da09cf58454de3d423d62ad135" sha1="fc1c2efc3adfc204ae79e3ff0dcd770a9d05ec96"/>
+	</machine>
+	<machine name="Stowaway Portable Keyboard">
+		<description>Stowaway Portable Keyboard</description>
+		<rom name="Stowaway Portable Keyboard.iso" size="12318720" crc="d8e3a8ef" md5="bbe14f306030ed02d35fa70caf9cd84c" sha1="3971239c881249de755a51d9f50270e475a46ac4"/>
+	</machine>
+	<machine name="Targus ThumbPad Software for Palm m50x">
+		<description>Targus ThumbPad Software for Palm m50x</description>
+		<rom name="Targus ThumbPad Software for Palm m50x.iso" size="1228800" crc="48b5eb8e" md5="61a6d7f65618eec87a390620c6e2d961" sha1="e633aef22607ea6b19e29f582eff3793c9f9c861"/>
+	</machine>
+	<machine name="TDK blue5">
+		<description>TDK blue5</description>
+		<rom name="TDK blue5.iso" size="16717824" crc="5d6f9857" md5="506a0ec48002063f0c2ec44747e17bc2" sha1="406ed45dfcccac60f43bcdf5179f4f099fe11f83"/>
+	</machine>
+	<machine name="eyemodule (Springboard)">
+		<description>eyemodule (Springboard)</description>
+		<rom name="eyecontact.prc" size="96638" crc="8e65e295" md5="4d14d03f123a5e377c441ffab4255205" sha1="2dd4d6f4f8afe6441310f47d8e10778bd6cec10a"/>
+		<rom name="eyecontactvb12.exe" size="84480" crc="0607b106" md5="5e1d4bbc1494085e7e91d3d629f0d4eb" sha1="11b26542c55fcda0e9d848819083da02557353ee"/>
+		<rom name="eyemodule.iso" size="21174272" crc="d42e6acf" md5="e1258056fd4a1bfa17597f65fe8b5a20" sha1="347b5ccac1ca4bc5eec9dd3d933a05bf5ad9a178"/>
+		<rom name="eyemodule35.prc" size="49574" crc="492e057d" md5="58eba10dedcbf0d7ee85548f8a2800b4" sha1="a470a1c2aa89d56d50f1833279c08341e1c66e0e"/>
+		<rom name="eyemodule_Installer_1.0.3.hqx" size="1441001" crc="b8bd858b" md5="091d5b31ef0414b5d8cc0e79aa71ae99" sha1="7ee6a541ccc61eb3850a06cb1c596254053593c1"/>
+		<rom name="EyemoduleUpdater.exe" size="141312" crc="2c858e93" md5="9da219c09588e7055d55e437532a8c56" sha1="2e73abd71ec74ef929a535b5ef4c8e437b6d651b"/>
+	</machine>
+	<machine name="Handspring Modem Connection Pack v1.0 (Hybrid)">
+		<description>Handspring Modem Connection Pack v1.0 (Hybrid)</description>
+		<rom name="Connection Pack (Hybrid).iso" size="8171520" crc="0e75d646" md5="2ccdbfeaa6aa5415445a5d813481ffee" sha1="081a014cbda038283d29b1fafb73a16c506bd1f5"/>
+	</machine>
+	<machine name="Palm m500 Bonus Software (UDF)">
+		<description>Palm m500 Bonus Software (UDF)</description>
+		<rom name="Palm m500 Bonus Software (UDF).iso" size="97775616" crc="84b6d7ad" md5="3966d378aab3008249513aafe4a2ece9" sha1="0786ad82b45476e831c5730c4e43568f98822226"/>
+	</machine>
+	<machine name="Palm m500 Series Mobile Connectivity Software (Hybrid)">
+		<description>Palm m500 Series Mobile Connectivity Software (Hybrid)</description>
+		<rom name="Palm m500 Series Mobile Connectivity Software (Hybrid).iso" size="144689152" crc="426e8e09" md5="2c01ece7b0f45f69e0ee5e71dc9a30f6" sha1="4b3c7493176a7e0cf4fd4f8d23c20ed94c15d7c1"/>
+	</machine>
+	<machine name="Palm m515 Bonus Software">
+		<description>Palm m515 Bonus Software</description>
+		<rom name="Palm m515 Bonus Software.iso" size="84783104" crc="707d5f42" md5="78e8f3d59bdfe1429692166e405e3d2c" sha1="bef2f631bf2700790cf5591ed1f1efb3cb1d18e4"/>
+	</machine>
+	<machine name="Palm m515 Desktop Software">
+		<description>Palm m515 Desktop Software</description>
+		<rom name="Palm m515 Desktop Software.iso" size="39071744" crc="d66129b2" md5="14f09892d49dc8fdd2d22210d7649f39" sha1="ce7371c504c8bc99922955c8fde72163e30db5f4"/>
+	</machine>
+	<machine name="Palm PalmModem Connectivity Kit (Hybrid)">
+		<description>Palm PalmModem Connectivity Kit (Hybrid)</description>
+		<rom name="Palm PalmModem Connectivity Kit (Hybrid).iso" size="15796224" crc="097eb87b" md5="44703ff5839c70818fdbcf301c160e52" sha1="77286f41df5dd8fdb4b4723a2d05dfeb8e7b8ebe"/>
+	</machine>
+	<machine name="Palm Portable Keyboard v1.2">
+		<description>Palm Portable Keyboard v1.2</description>
+		<rom name="Palm Portable Keyboard v1.2.iso" size="6258688" crc="3c5343e1" md5="f8f3ca88020f783dab16fcf2210bea1c" sha1="6d4a4ab0db6e555848cf55cf04b0fac60389f31d"/>
+	</machine>
+	<machine name="Palm Portable Keyboard v1.5">
+		<description>Palm Portable Keyboard v1.5</description>
+		<rom name="Palm Portable Keyboard v1.5.iso" size="16896000" crc="c546f071" md5="7fa480860fa9f67d81c50214ffc781ce" sha1="86d1913d11afeea22de7213aaa137d237f5508d0"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-CC5">
+		<description>Sony CLIÉ PEGA-CC5</description>
+		<rom name="Sony CLIÉ PEGA-CC5.iso" size="26775552" crc="1358ec10" md5="173ae0083d2e05104fe7939e04a2e870" sha1="85ba45b65fcae702c21c98be92d38b5a21a39347"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-MSB1">
+		<description>Sony CLIÉ PEGA-MSB1</description>
+		<rom name="Sony CLIÉ PEGA-MSB1.iso" size="13213696" crc="b7716b79" md5="41706cc6921a04065c94da08d5998dd2" sha1="40bc4680fb3895b1a64be6413c5dff207e7c61a7"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-MSB1 (EN, DE, FR)">
+		<description>Sony CLIÉ PEGA-MSB1 (EN, DE, FR)</description>
+		<rom name="Sony CLIÉ PEGA-MSB1 (EN, DE, FR).iso" size="42180608" crc="61b881dd" md5="5275161523c44acf852eefff24e59e57" sha1="04a406535baa021d2448500edb592c9c0981f5ae"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-MSC1">
+		<description>Sony CLIÉ PEGA-MSC1</description>
+		<rom name="Sony CLIÉ PEGA-MSC1.iso" size="15880192" crc="759fb391" md5="79b565be33bf98e416f78b127f827820" sha1="3f748b91013026adce75012888daebab2b3e8684"/>
+	</machine>
+	<machine name="Sony CLIÉ PEGA-WL100 Wireless Adapter">
+		<description>Sony CLIÉ PEGA-WL100 Wireless Adapter</description>
+		<rom name="Sony_Clie_WLAN_PEGA-WL100.iso" size="25511936" crc="6e91263c" md5="35adee609517535c850cc53caaf4d5ee" sha1="de4a44091d984bb721e9614faa4dd04629bc4dfa"/>
+	</machine>
+	<machine name="Total Recall (Springboard)">
+		<description>Total Recall (Springboard)</description>
+		<rom name="Total Recall (Springboard).iso" size="25100288" crc="239476d5" md5="5a7fcfb2468888bdd87427a0cccf8358" sha1="fbc06ba797ef32d49ed11c2d2c378932383268b3"/>
+	</machine>
+</datafile>

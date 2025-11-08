@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Palm - OkDoKeY Medical Library 1-12</name>
+		<description>Palm - OkDoKeY Medical Library 1-12</description>
+		<category>Standard DatFile</category>
+		<version>20251011</version>
+		<date>2025-10-11</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Adelman - Manual of Allergy and Immunology, Diagnosis and Therapy">
+		<description>Adelman - Manual of Allergy and Immunology, Diagnosis and Therapy</description>
+		<rom name="Adelman - Manual of Allergy and Immunology, Diagnosis and Therapy.pdb" size="4199745" crc="9860f654" md5="4ca470f5ffbfa3fbf1ea526a3c48c63d" sha1="71756b02275f319da096be841c87fd2cca761edf"/>
+	</machine>
+	<machine name="Adelman - Manual of Allergy and Immunology Diagnosis and Therapy 4th Edition- No Images">
+		<description>Adelman - Manual of Allergy and Immunology Diagnosis and Therapy 4th Edition- No Images</description>
+		<rom name="Adelman - Manual of Allergy and Immunology Diagnosis and Therapy 4th Edition- No Images.pdb" size="762360" crc="9875d626" md5="52615c1982363534bf187e1c5832b9c1" sha1="e8ac5cb6ae7eb7a6821d227b0c2b42eea217fbb4"/>
+	</machine>
+	<machine name="Allen - Moss and Adams' Heart Disease in Infants, Children, ">
+		<description>Allen - Moss and Adams' Heart Disease in Infants, Children, </description>
+		<rom name="Allen - Moss and Adams' Heart Disease in Infants, Children, .pdb" size="35109184" crc="94502e21" md5="e52ccabcc8a7bdf1b1b29cbfe89dd327" sha1="c25a9f8299df483a4f5c1769392a5c8fab08cd77"/>
+	</machine>
+	<machine name="Allen - Moss and Adams' Heart Disease in Infants, Children, and Adolescents Including the Fetus and Young Adult 6th Edition- No Images">
+		<description>Allen - Moss and Adams' Heart Disease in Infants, Children, and Adolescents Including the Fetus and Young Adult 6th Edition- No Images</description>
+		<rom name="Allen - Moss and Adams' Heart Disease in Infants, Children, and Adolescents Including the Fetus and Young Adult 6th Edition- No Images.pdb" size="2965713" crc="2c77bc39" md5="6621aa53c95fd1866d85215ce2bbb7ba" sha1="bb4d2807a9a0ee0deeb95359eb85e36250b5e05a"/>
+	</machine>
+	<machine name="Armitage - High-Dose Cancer Therapy Pharmacology, Hematopoie">
+		<description>Armitage - High-Dose Cancer Therapy Pharmacology, Hematopoie</description>
+		<rom name="Armitage - High-Dose Cancer Therapy Pharmacology, Hematopoie.pdb" size="7685000" crc="5cdd1708" md5="c463703d414b23018adbfbd397a214d4" sha1="e1cd89abfdf10981c5dc6d33c96fb242a0b3d740"/>
+	</machine>
+	<machine name="Armitage - High-Dose Cancer Therapy Pharmacology, Hematopoietins, Stem Cells 2nd Edition - No Images">
+		<description>Armitage - High-Dose Cancer Therapy Pharmacology, Hematopoietins, Stem Cells 2nd Edition - No Images</description>
+		<rom name="Armitage - High-Dose Cancer Therapy Pharmacology, Hematopoietins, Stem Cells 2nd Edition - No Images.pdb" size="1752722" crc="4d9e6e52" md5="303ac7171e425a93ddeec91a401980c8" sha1="2c8ee5eb37a705aa670c153183fcd2fbd5fab1de"/>
+	</machine>
+	<machine name="Auerbach - Wilderness Medicine 4th Edition">
+		<description>Auerbach - Wilderness Medicine 4th Edition</description>
+		<rom name="Auerbach - Wilderness Medicine 4th Edition.pdb" size="64901960" crc="8d52df24" md5="77ed7e7d54ba734ec1c9bfb5e14afc57" sha1="31768c8acc477b369ee18727f973481d75cb1bde"/>
+	</machine>
+	<machine name="Auerbach - Wilderness Medicine 4th Edition - Big Images">
+		<description>Auerbach - Wilderness Medicine 4th Edition - Big Images</description>
+		<rom name="Auerbach - Wilderness Medicine 4th Edition - Big Images.pdb" size="149084765" crc="986f0564" md5="e1d7297bf4d57e718dbc9a1feec9869a" sha1="ee141a3baa00bc12a6995b24b289faa56ebaf219"/>
+	</machine>
+	<machine name="Auerbach - Wilderness Medicine 4th Edition - No Images">
+		<description>Auerbach - Wilderness Medicine 4th Edition - No Images</description>
+		<rom name="Auerbach - Wilderness Medicine 4th Edition - No Images.pdb" size="5203433" crc="4b52c9b5" md5="a5050ebace4f10624d820184862fb82f" sha1="de1f27f17a786e97d67a1a42fe5d7ec20ae5fb9f"/>
+	</machine>
+	<machine name="Austen - Samter's Immunologic Diseases 6th Edition">
+		<description>Austen - Samter's Immunologic Diseases 6th Edition</description>
+		<rom name="Austen - Samter's Immunologic Diseases 6th Edition.pdb" size="20949568" crc="4352858a" md5="3a807b9a04688ba7fd39ca1e030c857a" sha1="19251180e50d4178c4c057085cbbcc12f463b52e"/>
+	</machine>
+	<machine name="Austen - Samter's Immunologic Diseases 6th Edition - No Images">
+		<description>Austen - Samter's Immunologic Diseases 6th Edition - No Images</description>
+		<rom name="Austen - Samter's Immunologic Diseases 6th Edition - No Images.pdb" size="4820823" crc="d2c148cf" md5="5b00d1fbbabaef29dd6fb4bfeb6579cf" sha1="d0670b64fcf53276fcd2dff28f2791464d9d332a"/>
+	</machine>
+	<machine name="Bailey Surgical Textbook">
+		<description>Bailey Surgical Textbook</description>
+		<rom name="Bailey Surgical Textbook.pdb" size="2270158" crc="a183c5e6" md5="6a36bd5cf1ec04d78d37e2f812143ba2" sha1="97991279a258c10391d63c511aed7437ac587e2a"/>
+	</machine>
+	<machine name="Ballantyne - The Massachusetts General Hospital Handbook of Pain Management">
+		<description>Ballantyne - The Massachusetts General Hospital Handbook of Pain Management</description>
+		<rom name="Ballantyne - The Massachusetts General Hospital Handbook of Pain Management.pdb" size="3274041" crc="6ba898d7" md5="75137e774ec6f9c47eb438e842d39a37" sha1="606f5d5626935a6a538045ed3d816cacd9e24a39"/>
+	</machine>
+	<machine name="Ballantyne - The Massachusetts General Hospital Handbook of Pain Management 2nd Edition - No Images">
+		<description>Ballantyne - The Massachusetts General Hospital Handbook of Pain Management 2nd Edition - No Images</description>
+		<rom name="Ballantyne - The Massachusetts General Hospital Handbook of Pain Management 2nd Edition - No Images.pdb" size="660886" crc="dfff82c3" md5="ca2e93e7d321bc596f3edd5cd4d1f60d" sha1="4d6ce63b80f54345fd878f3efc4547f84b369d2a"/>
+	</machine>
+	<machine name="Barash - Clinical Anesthesia 4th Edition">
+		<description>Barash - Clinical Anesthesia 4th Edition</description>
+		<rom name="Barash - Clinical Anesthesia 4th Edition.pdb" size="29450342" crc="11523774" md5="41941d9d5061a6140070eff1d19dea49" sha1="8aff76ebcd15c53054891607a5c58d5c310d97cd"/>
+	</machine>
+	<machine name="Barash - Clinical Anesthesia 4th Edition - No Images">
+		<description>Barash - Clinical Anesthesia 4th Edition - No Images</description>
+		<rom name="Barash - Clinical Anesthesia 4th Edition - No Images.pdb" size="4575090" crc="f34fbba1" md5="a9521f515b39956abc0b95e1500c6c35" sha1="a4e19ca801a5eadf73b7d8930bac44c502327b8d"/>
+	</machine>
+	<machine name="Baum - Baum's Textbook of Pulmonary Diseases 7th Edition">
+		<description>Baum - Baum's Textbook of Pulmonary Diseases 7th Edition</description>
+		<rom name="Baum - Baum's Textbook of Pulmonary Diseases 7th Edition.pdb" size="30483025" crc="23b3af24" md5="1ade6ca963ba0b1a0c39966683cbc72d" sha1="95b22cd7d8b9d4e2515cab5c7148c14d5daf5f84"/>
+	</machine>
+	<machine name="Baum - Baum's Textbook of Pulmonary Diseases 7th Edition - No Images">
+		<description>Baum - Baum's Textbook of Pulmonary Diseases 7th Edition - No Images</description>
+		<rom name="Baum - Baum's Textbook of Pulmonary Diseases 7th Edition - No Images.pdb" size="3203941" crc="43973a7b" md5="3cbbcdb87cdfa77888e44f278a75a3c4" sha1="c0d55dfb3fe596ec7133b2e91e6a8a5210c87f00"/>
+	</machine>
+	<machine name="Becker - Principles and Practice of Endocrinology and Metabo">
+		<description>Becker - Principles and Practice of Endocrinology and Metabo</description>
+		<rom name="Becker - Principles and Practice of Endocrinology and Metabo.pdb" size="50965951" crc="8431d904" md5="55f16960628fec73ffc9a6ce84820e81" sha1="a1f33c55507cf21b01d30097a16337ad88013ac2"/>
+	</machine>
+	<machine name="Becker - Principles and Practice of Endocrinology and Metabolism 3rd Edition - No Images">
+		<description>Becker - Principles and Practice of Endocrinology and Metabolism 3rd Edition - No Images</description>
+		<rom name="Becker - Principles and Practice of Endocrinology and Metabolism 3rd Edition - No Images.pdb" size="7291975" crc="cd071e31" md5="f555f87b41ec7976e68404f9265b8c9a" sha1="eb37f8a2a4c436f7f9f903412a35b9650a75c321"/>
+	</machine>
+	<machine name="Behrman - Nelson Textbook of Pediatrics 17th Edition">
+		<description>Behrman - Nelson Textbook of Pediatrics 17th Edition</description>
+		<rom name="Behrman - Nelson Textbook of Pediatrics 17th Edition.pdb" size="64598886" crc="d7a5caf0" md5="96808979e9df8681a6f66e4a335f92ad" sha1="6e19059bbd678dbac63fdc13152ecefa2dcaaffb"/>
+	</machine>
+	<machine name="Behrman - Nelson Textbook of Pediatrics 17th Edition - No Images">
+		<description>Behrman - Nelson Textbook of Pediatrics 17th Edition - No Images</description>
+		<rom name="Behrman - Nelson Textbook of Pediatrics 17th Edition - No Images.pdb" size="8724774" crc="ca410711" md5="09b6fc0b379f71d13d903f3b15e8356c" sha1="769924bf2b2ed8b8b3107dc9365d740a25635306"/>
+	</machine>
+	<machine name="Benner &amp; Rector - Benner &amp; Rector's the Kidney 7th Edition">
+		<description>Benner &amp; Rector - Benner &amp; Rector's the Kidney 7th Edition</description>
+		<rom name="Benner &amp; Rector - Benner &amp; Rector's the Kidney 7th Edition.pdb" size="62362491" crc="b0046b02" md5="34378dd5201ae1128db6702cd1a04f55" sha1="84e475eea029978b8fd3201821a12606877fd7d3"/>
+	</machine>
+	<machine name="Benner &amp; Rector - Benner &amp; Rector's the Kidney 7th Edition - Big ">
+		<description>Benner &amp; Rector - Benner &amp; Rector's the Kidney 7th Edition - Big </description>
+		<rom name="Benner &amp; Rector - Benner &amp; Rector's the Kidney 7th Edition - Big .pdb" size="157581764" crc="db6588f7" md5="a02ada0d7c462c80b7fa7b30485b3eeb" sha1="178b2b4eb04b5321ac4e1a6438f9712702fc8506"/>
+	</machine>
+	<machine name="Benner &amp; Rector - Benner &amp; Rector's the Kidney 7th Edition - No Images">
+		<description>Benner &amp; Rector - Benner &amp; Rector's the Kidney 7th Edition - No Images</description>
+		<rom name="Benner &amp; Rector - Benner &amp; Rector's the Kidney 7th Edition - No Images.pdb" size="10468633" crc="2f97a2a2" md5="7fa6b21b8577102027aa1e33403f421c" sha1="d98080b4a38bad10c17ad470e52fc7c4346ecb9c"/>
+	</machine>
+	<machine name="Berek Practical Gynecologic Oncology 3rd Edition">
+		<description>Berek Practical Gynecologic Oncology 3rd Edition</description>
+		<rom name="Berek Practical Gynecologic Oncology 3rd Edition.pdb" size="12158607" crc="58e8d258" md5="c96c418656684f75ca30e878114470f1" sha1="81c4b36e0df3337b9bc22dae6d4420abd962706a"/>
+	</machine>
+	<machine name="Berger - Principles and Practice of Palliative Care and Support">
+		<description>Berger - Principles and Practice of Palliative Care and Support</description>
+		<rom name="Berger - Principles and Practice of Palliative Care and Support.pdb" size="12520511" crc="fec08980" md5="edd45502197c8715ba35c3cfa0162cfb" sha1="e477bb05f4891bf5ac3a4974d473b448a4bbec57"/>
+	</machine>
+	<machine name="Berger - Principles and Practice of Palliative Care and Supportive Oncology 2nd Edition - No Images">
+		<description>Berger - Principles and Practice of Palliative Care and Supportive Oncology 2nd Edition - No Images</description>
+		<rom name="Berger - Principles and Practice of Palliative Care and Supportive Oncology 2nd Edition - No Images.pdb" size="2857931" crc="2b828a21" md5="c799681a0171bdc4e51ae55a15963233" sha1="2ea488f6b78c4afb850d47e886f8a46da448b6a3"/>
+	</machine>
+	<machine name="Beutler - Williams Hematology 6th Edition">
+		<description>Beutler - Williams Hematology 6th Edition</description>
+		<rom name="Beutler - Williams Hematology 6th Edition.pdb" size="34657408" crc="944860de" md5="f7c7c4d3d7f5bbe502db168b88e5573f" sha1="392096e89d99f1e6bc4366996794f9b160641923"/>
+	</machine>
+	<machine name="Beutler - Williams Hematology 6th Edition - No Images">
+		<description>Beutler - Williams Hematology 6th Edition - No Images</description>
+		<rom name="Beutler - Williams Hematology 6th Edition - No Images.pdb" size="6502045" crc="7e046c25" md5="94bc456964ebce1e568e10a2e573eed4" sha1="87d2fd8312a05605ea9363156ddfb04c1cafb32d"/>
+	</machine>
+	<machine name="Braunwald - Harrison's Manual of Medicine 15th Edition">
+		<description>Braunwald - Harrison's Manual of Medicine 15th Edition</description>
+		<rom name="Braunwald - Harrison's Manual of Medicine 15th Edition.pdb" size="9548324" crc="3c1bd6b0" md5="710679de2f72da74e2c02c748a7fbfb5" sha1="d2ea1573b112febae799ff9bbd5028cd0d5a9a20"/>
+	</machine>
+	<machine name="Braunwald - Harrison's Manual of Medicine 15th Edition - No Images">
+		<description>Braunwald - Harrison's Manual of Medicine 15th Edition - No Images</description>
+		<rom name="Braunwald - Harrison's Manual of Medicine 15th Edition - No Images.pdb" size="1098921" crc="e1d07175" md5="637447f2e5c49176183b32f63be793cf" sha1="af9e13e2e3fb70d2046e2e5bba98587e9ce2631a"/>
+	</machine>
+	<machine name="Braunwald - Heart Disease - A Textbook of Cardiovascular Medicine">
+		<description>Braunwald - Heart Disease - A Textbook of Cardiovascular Medicine</description>
+		<rom name="Braunwald - Heart Disease - A Textbook of Cardiovascular Medicine.pdb" size="7758094" crc="1ade3421" md5="8fa3359db5335142f261110c6a3527a3" sha1="4b78661952951ad8b0d06232e1f65f0cac0359af"/>
+	</machine>
+	<machine name="Braverman - Werner and Ingbar's the Thyroid A Fundamental and Clinical Text">
+		<description>Braverman - Werner and Ingbar's the Thyroid A Fundamental and Clinical Text</description>
+		<rom name="Braverman - Werner and Ingbar's the Thyroid A Fundamental and Clinical Text.pdb" size="16005079" crc="ce4b1c89" md5="15c1420310c5f5599babb9cd3707fd47" sha1="976958b51cc32942d095bbdc25a2622d892633b5"/>
+	</machine>
+	<machine name="Briggs - Drugs in Pregnacy and Lactation 6th Edition">
+		<description>Briggs - Drugs in Pregnacy and Lactation 6th Edition</description>
+		<rom name="Briggs - Drugs in Pregnacy and Lactation 6th Edition.pdb" size="2977941" crc="d83e0690" md5="57e813005b66a392eda006b958c159b2" sha1="80e2d8cab6cd1f3d9cb2f2cfe8e0fbaf7ffa9ff5"/>
+	</machine>
+	<machine name="Buttaravoli and stair - Common Simple Emergencies">
+		<description>Buttaravoli and stair - Common Simple Emergencies</description>
+		<rom name="Buttaravoli and stair - Common Simple Emergencies.pdb" size="521232" crc="c80337b5" md5="452e52d1a05b6a58f374d3d9df040581" sha1="0b983e6ccd398619b34ad2d27c2d0912b0fd22c8"/>
+	</machine>
+	<machine name="Byron - Head and Neck Surgery - Otolaryngology 3rd Edition">
+		<description>Byron - Head and Neck Surgery - Otolaryngology 3rd Edition</description>
+		<rom name="Byron - Head and Neck Surgery - Otolaryngology 3rd Edition.pdb" size="77392971" crc="4521b913" md5="79863c2c8980fb5fd0b4dd78854136d4" sha1="94cc95e1d7e68c6c2e8273c4b572d3e72ce3b4e6"/>
+	</machine>
+	<machine name="Byron - Head and Neck Surgery - Otolaryngology 3rd Edition - No Images">
+		<description>Byron - Head and Neck Surgery - Otolaryngology 3rd Edition - No Images</description>
+		<rom name="Byron - Head and Neck Surgery - Otolaryngology 3rd Edition - No Images.pdb" size="4666298" crc="104e710c" md5="a1f846db795e9f0d3361802d27032a99" sha1="0c980e773934b64182d4e5683ad8f6daefa39e6b"/>
+	</machine>
+	<machine name="Cancer">
+		<description>Cancer</description>
+		<rom name="Cancer.pdb" size="2432728" crc="808fce0b" md5="5c04a8334868cdac815763bb82bc1979" sha1="084fc7c84a2013c9a039c2b599cc3470b0d4c683"/>
+	</machine>
+	<machine name="Cannon - Critical Pathways in Cardiology 2001">
+		<description>Cannon - Critical Pathways in Cardiology 2001</description>
+		<rom name="Cannon - Critical Pathways in Cardiology 2001.pdb" size="4877498" crc="b766e237" md5="1f3d1e00b95758ec2b4a9ee5859aaa39" sha1="23524ae1b5a5318d7409381f797b878495290967"/>
+	</machine>
+	<machine name="Cannon - Critical Pathways in Cardiology 2001 - No Images">
+		<description>Cannon - Critical Pathways in Cardiology 2001 - No Images</description>
+		<rom name="Cannon - Critical Pathways in Cardiology 2001 - No Images.pdb" size="422765" crc="956beaa8" md5="b64dcd1399a20dc30e708f0dfb2404ae" sha1="98272395eaa63d17bb517ddd213f44043aa3cfe7"/>
+	</machine>
+	<machine name="Carpenter - Pediatric and Adolescent Gynecology 2nd Edition">
+		<description>Carpenter - Pediatric and Adolescent Gynecology 2nd Edition</description>
+		<rom name="Carpenter - Pediatric and Adolescent Gynecology 2nd Edition.pdb" size="10423212" crc="a1a0e2da" md5="862cabb64bebc390588c86b3410b7d6d" sha1="14924a766c8a5505891edeea6b91561fbb777a01"/>
+	</machine>
+	<machine name="Cecil Textbook of Medicine">
+		<description>Cecil Textbook of Medicine</description>
+		<rom name="Cecil Textbook of Medicine.pdb" size="8556704" crc="c6b4f0fd" md5="09ddb539bc195ff9e5d4364a720e0081" sha1="7d8b8d84418235872b79fe4954992155366c7712"/>
+	</machine>
+	<machine name="Chabner - Cancer Chemotherapy and Biotherapy Principles and ">
+		<description>Chabner - Cancer Chemotherapy and Biotherapy Principles and </description>
+		<rom name="Chabner - Cancer Chemotherapy and Biotherapy Principles and .pdb" size="10080836" crc="fb0c0108" md5="e30f71b0b321b1ae625e46834d67c359" sha1="9932de85335b5b497a7e06c66b91ebcf59c69d97"/>
+	</machine>
+	<machine name="Chabner - Cancer Chemotherapy and Biotherapy Principles and Practice 2nd Edition- No Images">
+		<description>Chabner - Cancer Chemotherapy and Biotherapy Principles and Practice 2nd Edition- No Images</description>
+		<rom name="Chabner - Cancer Chemotherapy and Biotherapy Principles and Practice 2nd Edition- No Images.pdb" size="2890141" crc="3ae2681b" md5="170323c2ac5f904fd5f0507ac958a5ae" sha1="58ae26285101c9edb1a359881a5f3847e622bdd4"/>
+	</machine>
+	<machine name="Chapman - Chapman's Orthopaedic Surgery 3rd ed">
+		<description>Chapman - Chapman's Orthopaedic Surgery 3rd ed</description>
+		<rom name="Chapman - Chapman's Orthopaedic Surgery 3rd ed.pdb" size="114366876" crc="d80a19c1" md5="01a9e206bb693244c453475644d3393a" sha1="6793bd5a052cf106cb000cd1229f1a695f479d7a"/>
+	</machine>
+	<machine name="Chapman - Chapman's Orthopaedic Surgery 3rd Edition- No Images">
+		<description>Chapman - Chapman's Orthopaedic Surgery 3rd Edition- No Images</description>
+		<rom name="Chapman - Chapman's Orthopaedic Surgery 3rd Edition- No Images.pdb" size="7600692" crc="5db88543" md5="993f75a71585dae7701d770fc8bfde27" sha1="ed66eb8a5287ab250e0c1b4db3c8d49972465d24"/>
+	</machine>
+	<machine name="Chen - Manual of Common Bedside Surgical Procedures 2nd ed">
+		<description>Chen - Manual of Common Bedside Surgical Procedures 2nd ed</description>
+		<rom name="Chen - Manual of Common Bedside Surgical Procedures 2nd ed.pdb" size="3138371" crc="6cbd541a" md5="dd26fc59995111d5f19050230d7136a2" sha1="b2350ca6b8bc41097ac02a6597134834e7e3c95a"/>
+	</machine>
+	<machine name="Chen - Manual of Common Bedside Surgical Procedures 2nd Edition- No Images">
+		<description>Chen - Manual of Common Bedside Surgical Procedures 2nd Edition- No Images</description>
+		<rom name="Chen - Manual of Common Bedside Surgical Procedures 2nd Edition- No Images.pdb" size="196506" crc="50baa23f" md5="d2ba2b08a3aa5f5705fcbb78053adce6" sha1="b82cb4a9c365d9afb6ede8576fa933a014ed5ba5"/>
+	</machine>
+	<machine name="Cherry &amp; Merkatz's Complications of Pregnancy 5ed">
+		<description>Cherry &amp; Merkatz's Complications of Pregnancy 5ed</description>
+		<rom name="Cherry &amp; Merkatz's Complications of Pregnancy 5ed.pdb" size="10799476" crc="bb63b9f1" md5="74a6d720b3dc970d5b24058cf438ab72" sha1="7f4ddf79f12b81ee760ff5fba21387c3dd0f070d"/>
+	</machine>
+	<machine name="CID 10">
+		<description>CID 10</description>
+		<rom name="CID 10.pdb" size="289846" crc="7dd50fc8" md5="a7f7d7547f01a97341e8fe1f743f33db" sha1="f302eb3afb026faf5661798b41237f2ddbbe36eb"/>
+	</machine>
+	<machine name="Cline - Emergency Medicine - A Comprehensive Study Guide Com">
+		<description>Cline - Emergency Medicine - A Comprehensive Study Guide Com</description>
+		<rom name="Cline - Emergency Medicine - A Comprehensive Study Guide Com.pdb" size="5480414" crc="8fe3e507" md5="98ab2c85fa1f7e137a954c4ecbeee7e1" sha1="ffe45101f059adc427224a7669b511c7c0f48c42"/>
+	</machine>
+	<machine name="Clinical Evidence Vol 10">
+		<description>Clinical Evidence Vol 10</description>
+		<rom name="Clinical Evidence Vol 10.pdb" size="5844050" crc="5558dc6f" md5="bf499668ddc47856d1f5e529369dfad1" sha1="c27925bd242749c6de8c2223c1aaa202788ab26d"/>
+	</machine>
+	<machine name="Clinical Evidence Vol 10 - No Images">
+		<description>Clinical Evidence Vol 10 - No Images</description>
+		<rom name="Clinical Evidence Vol 10 - No Images.pdb" size="3655583" crc="04844732" md5="e5512077b1ad2627423fc095dc21ae9a" sha1="55eabb4bcf4dd088d5b71a7a32a7fc384534a25c"/>
+	</machine>
+	<machine name="Clinical Evidence Vol 9">
+		<description>Clinical Evidence Vol 9</description>
+		<rom name="Clinical Evidence Vol 9.pdb" size="5043220" crc="2866d17d" md5="b76c8972b948f60e876a6b942c77b3a7" sha1="9cda1f9b8a4a75efd977d31e273faf8373385edb"/>
+	</machine>
+	<machine name="Clinical Evidence Vol 9 - No Images">
+		<description>Clinical Evidence Vol 9 - No Images</description>
+		<rom name="Clinical Evidence Vol 9 - No Images.pdb" size="3603995" crc="ed5b457b" md5="2ed2e5df68ee0119b63dac7133b68aac" sha1="00026d856284f34541cb1e9e7d53a270241f35ce"/>
+	</machine>
+	<machine name="Clinical Neurology v2.9">
+		<description>Clinical Neurology v2.9</description>
+		<rom name="Clinical Neurology v2.9.pdb" size="346584" crc="1b735ab5" md5="8c567c04f6c382cb904409afb84c5190" sha1="bf03d7b1e02100ec60b37b56ccff13a583e47beb"/>
+	</machine>
+	<machine name="Cohen - Infectious Disease 2nd ed">
+		<description>Cohen - Infectious Disease 2nd ed</description>
+		<rom name="Cohen - Infectious Disease 2nd ed.pdb" size="104059085" crc="3a9f4299" md5="9d446a8cbd42676521684a7894b857de" sha1="4ec0ea8cc919ec7c9cb6e07fad77d528639a1f61"/>
+	</machine>
+	<machine name="Cohen - Infectious Disease 2nd Edition- Big Images">
+		<description>Cohen - Infectious Disease 2nd Edition- Big Images</description>
+		<rom name="Cohen - Infectious Disease 2nd Edition- Big Images.pdb" size="291088160" crc="c4c7d32e" md5="a1d1bb3749b51722034238b8e9def8ba" sha1="875833b0a1347e508ba687e9e2f6dacac2c5d95b"/>
+	</machine>
+	<machine name="Cohen - Infectious Disease 2nd Edition- No Images">
+		<description>Cohen - Infectious Disease 2nd Edition- No Images</description>
+		<rom name="Cohen - Infectious Disease 2nd Edition- No Images.pdb" size="7741819" crc="1694b085" md5="3630aed52ce143dc6e38eeb902356730" sha1="998ce2d7275185634969e3f065c03247aed5512c"/>
+	</machine>
+	<machine name="Color Netter Atlas of Human Anatomy">
+		<description>Color Netter Atlas of Human Anatomy</description>
+		<rom name="Color Netter Atlas of Human Anatomy.pdb" size="63463256" crc="c7fdc131" md5="02e01bdd131f3e002a4a90475b3eb655" sha1="198d319b3b128bf7b8d0b606f5633cc03bf2a09a"/>
+	</machine>
+	<machine name="Cummings - Otolaryngology - Head and Neck Surgery 3rd ed">
+		<description>Cummings - Otolaryngology - Head and Neck Surgery 3rd ed</description>
+		<rom name="Cummings - Otolaryngology - Head and Neck Surgery 3rd ed.pdb" size="203341765" crc="c114224f" md5="3ebdc434820c39024acce53c0da6201d" sha1="a6ffd6e3cbcc9594c0163107ea2ddb920eeb1484"/>
+	</machine>
+	<machine name="Current Cardiology 2ed with images">
+		<description>Current Cardiology 2ed with images</description>
+		<rom name="Current Cardiology 2ed with images.pdb" size="10101963" crc="d20bbbeb" md5="59068ef76f7a40d81e5dc7c801834f4c" sha1="cec42a85d47507d05795ea8e2abd470de3dad13e"/>
+	</machine>
+	<machine name="CURRENT Critical Care Diagnosis &amp; Treatment 2nd Edition with imag">
+		<description>CURRENT Critical Care Diagnosis &amp; Treatment 2nd Edition with imag</description>
+		<rom name="CURRENT Critical Care Diagnosis &amp; Treatment 2nd Edition with imag.pdb" size="7043265" crc="9fdb714b" md5="233f4dc48669c715a2958322022c62ae" sha1="957d561ea969cbda29f36428abc5208885945e8e"/>
+	</machine>
+	<machine name="Current Diagnosis &amp; Treatment in Infectious Diseases 1st Edition">
+		<description>Current Diagnosis &amp; Treatment in Infectious Diseases 1st Edition</description>
+		<rom name="Current Diagnosis &amp; Treatment in Infectious Diseases 1st Edition.pdb" size="9352428" crc="351cb7c2" md5="77dafcdbe8cb26133b378acc5dba120f" sha1="6ada66d1c29d2e79836b507c1f0c403abac0cc84"/>
+	</machine>
+	<machine name="Current Diagnosis &amp; Treatment in Orthopedics 3rd Edition with images">
+		<description>Current Diagnosis &amp; Treatment in Orthopedics 3rd Edition with images</description>
+		<rom name="Current Diagnosis &amp; Treatment in Orthopedics 3rd Edition with images.pdb" size="23604108" crc="1fbd3b9b" md5="8da8e08f5a52d7d46de1e7c4a43b656c" sha1="6f4f33d9472c57d63756967b37a264571ae275f1"/>
+	</machine>
+	<machine name="CURRENT Emergency Diagnosis 5th Edition 2004">
+		<description>CURRENT Emergency Diagnosis 5th Edition 2004</description>
+		<rom name="CURRENT Emergency Diagnosis 5th Edition 2004.pdb" size="12674939" crc="a1278070" md5="08e859c53f97b9b6a3d974a6af5eb105" sha1="6a62284fb72011fdc7851152b9b67085301c0bb4"/>
+	</machine>
+	<machine name="CURRENT Emergency Diagnosis 5th Edition 2004 - Big Images">
+		<description>CURRENT Emergency Diagnosis 5th Edition 2004 - Big Images</description>
+		<rom name="CURRENT Emergency Diagnosis 5th Edition 2004 - Big Images.pdb" size="39735177" crc="e8f89811" md5="cb12994a26cdd03eb85b5dab5d3fedc7" sha1="85e25e069267392573237ea0736d5f52034df470"/>
+	</machine>
+	<machine name="CURRENT Emergency Diagnosis 5th Edition 2004 - No Images">
+		<description>CURRENT Emergency Diagnosis 5th Edition 2004 - No Images</description>
+		<rom name="CURRENT Emergency Diagnosis 5th Edition 2004 - No Images.pdb" size="1829134" crc="7afabec0" md5="4bd5b0e82d4bb7535020045bb6fd1bc3" sha1="2e96849a1dffdc36a1698f19bec68abf2b5d6970"/>
+	</machine>
+	<machine name="Current Gastroenterology 2ed with Images">
+		<description>Current Gastroenterology 2ed with Images</description>
+		<rom name="Current Gastroenterology 2ed with Images.pdb" size="13599188" crc="b6f6b77f" md5="3e6730afbe44998deb018cdd4ae79cbf" sha1="663d9eaf208e3172e9d8d01452fc71411fefab2b"/>
+	</machine>
+	<machine name="Current MD&amp;T 2004">
+		<description>Current MD&amp;T 2004</description>
+		<rom name="Current MD&amp;T 2004.pdb" size="5835044" crc="1ad6762c" md5="77ef3aecea936ab5542a41b6ec1e3a86" sha1="edc25eb53da2cf3c09a161f1b45f536fa510de36"/>
+	</machine>
+	<machine name="Current MD&amp;T 2005">
+		<description>Current MD&amp;T 2005</description>
+		<rom name="Current MD&amp;T 2005.pdb" size="6402664" crc="27f46e36" md5="b10ad5ae3e0d31554e66531e40835507" sha1="bceee19f05d690225b2c54c6d6d0c16eff9f6ae8"/>
+	</machine>
+	<machine name="Current MD&amp;T 2005 full pic">
+		<description>Current MD&amp;T 2005 full pic</description>
+		<rom name="Current MD&amp;T 2005 full pic.pdb" size="10694769" crc="013e4070" md5="b834a6e9c68094587b866b4dc221aeb1" sha1="38fd99df5f32ec356976435ee8e7b5cc1c065436"/>
+	</machine>
+	<machine name="Current MD&amp;T 2005 no pic">
+		<description>Current MD&amp;T 2005 no pic</description>
+		<rom name="Current MD&amp;T 2005 no pic.pdb" size="4302832" crc="6df83786" md5="08cbc2dd032896b63f801285db06d337" sha1="fd5cf484d7888eea73f85d7fa4cb4a111450e579"/>
+	</machine>
+	<machine name="Current MDT 2003 With Images">
+		<description>Current MDT 2003 With Images</description>
+		<rom name="Current MDT 2003 With Images.pdb" size="14916825" crc="a849e9e5" md5="c3f97b7db7a56c64775e7ce784ebcefb" sha1="3bc6886038311de947cff14cb8f511f51055cba0"/>
+	</machine>
+	<machine name="Current Ob&amp;Gyn 9ed with images">
+		<description>Current Ob&amp;Gyn 9ed with images</description>
+		<rom name="Current Ob&amp;Gyn 9ed with images.pdb" size="18704542" crc="4c9569ae" md5="e11657b1e1b89ca2139a7ab52060d229" sha1="ef7006ea54b330844d5040fedefe02f743ba07eb"/>
+	</machine>
+	<machine name="Current Pediatrics 16ed with Images">
+		<description>Current Pediatrics 16ed with Images</description>
+		<rom name="Current Pediatrics 16ed with Images.pdb" size="15798633" crc="658283b0" md5="15b73ea0c4f7968bec9fae89c3fba598" sha1="75d4120cadb4a83fb9c6531cf566c56ec0e179fa"/>
+	</machine>
+	<machine name="Current Surgical Diagnosis and Treatment 11ed With images">
+		<description>Current Surgical Diagnosis and Treatment 11ed With images</description>
+		<rom name="Current Surgical Diagnosis and Treatment 11ed With images.pdb" size="22995093" crc="648c5677" md5="7e6add9103cbbf9ab054c6785e114d8e" sha1="6aba7f160ef3f455579636082e02e986fe691d4c"/>
+	</machine>
+	<machine name="Dahnert - Radiology Review Manual 4th - No Images">
+		<description>Dahnert - Radiology Review Manual 4th - No Images</description>
+		<rom name="Dahnert - Radiology Review Manual 4th - No Images.pdb" size="4664752" crc="71979c4e" md5="1fede88bcf3f75e86df6f463a8e48e60" sha1="404725a1699ee4d0eb86ac3924836f17a57ea1cb"/>
+	</machine>
+	<machine name="Dale - Infectious Diseases The Clinician's Guide to Diagnosi">
+		<description>Dale - Infectious Diseases The Clinician's Guide to Diagnosi</description>
+		<rom name="Dale - Infectious Diseases The Clinician's Guide to Diagnosi.pdb" size="10893281" crc="e829ab2b" md5="1d8188423bcf9e419f20e347f05e530a" sha1="8ef62088ed9d5236aae658ca3d9460c6650450b0"/>
+	</machine>
+	<machine name="Dale - Infectious Diseases The Clinician's Guide to Diagnosis, Treatment, and Prevention -  Big Images">
+		<description>Dale - Infectious Diseases The Clinician's Guide to Diagnosis, Treatment, and Prevention -  Big Images</description>
+		<rom name="Dale - Infectious Diseases The Clinician's Guide to Diagnosis, Treatment, and Prevention -  Big Images.pdb" size="25181367" crc="ddfd6a72" md5="01a8a746fa6258bf1456521923efc5b9" sha1="509a81394d45eeb3433a1d68e185a4e7cbe2345d"/>
+	</machine>
+	<machine name="Dale - Infectious Diseases The Clinician's Guide to Diagnosis, Treatment, and Prevention - No Images">
+		<description>Dale - Infectious Diseases The Clinician's Guide to Diagnosis, Treatment, and Prevention - No Images</description>
+		<rom name="Dale - Infectious Diseases The Clinician's Guide to Diagnosis, Treatment, and Prevention - No Images.pdb" size="1688128" crc="b58e934a" md5="6029870d9b20f24e9e4024e660f4aa64" sha1="64c660e4c942a6baec9ee141fe2cf7570a587ba6"/>
+	</machine>
+	<machine name="Danforth's Ob&amp;Gyn 9ed with images">
+		<description>Danforth's Ob&amp;Gyn 9ed with images</description>
+		<rom name="Danforth's Ob&amp;Gyn 9ed with images.pdb" size="16232512" crc="e1c52db5" md5="3dc65bae64f1043dfb6e72505762439f" sha1="bc886bb1ec006b41e0a7b37d5eb32ba68fb5e45b"/>
+	</machine>
+	<machine name="Daugirdas - Handbook of Dialysis 3rd ed">
+		<description>Daugirdas - Handbook of Dialysis 3rd ed</description>
+		<rom name="Daugirdas - Handbook of Dialysis 3rd ed.pdb" size="5027008" crc="deaa6eb1" md5="f0718ff1e50a69ed7afb180c6b24e6cc" sha1="eea840c4ba813d1494db4dd7e31854aeccada08c"/>
+	</machine>
+	<machine name="Daugirdas - Handbook of Dialysis 3rd Edition - No Images">
+		<description>Daugirdas - Handbook of Dialysis 3rd Edition - No Images</description>
+		<rom name="Daugirdas - Handbook of Dialysis 3rd Edition - No Images.pdb" size="791423" crc="2f37f758" md5="a9e408128c8290e41ce306a714f585ba" sha1="1cd0ed15173a03f1f5acdac436120fefe9bc58c6"/>
+	</machine>
+	<machine name="Davison - Oxford Textbook of Clinical Nephrology 2nd ed">
+		<description>Davison - Oxford Textbook of Clinical Nephrology 2nd ed</description>
+		<rom name="Davison - Oxford Textbook of Clinical Nephrology 2nd ed.pdb" size="56985877" crc="f0140376" md5="7c62faf8bd88165e52b5929f6f8d80bc" sha1="558f16680539965e5b4704ff6159fcdd30b454c8"/>
+	</machine>
+	<machine name="Davison - Oxford Textbook of Clinical Nephrology 2nd Edition - No Images">
+		<description>Davison - Oxford Textbook of Clinical Nephrology 2nd Edition - No Images</description>
+		<rom name="Davison - Oxford Textbook of Clinical Nephrology 2nd Edition - No Images.pdb" size="8551410" crc="2c9d29ad" md5="836c0cceda24c311e3138ccec7a968a6" sha1="cff717508a055222a6a5f7444ef92c1398c9f010"/>
+	</machine>
+	<machine name="DEF 2005 Pt-Br">
+		<description>DEF 2005 Pt-Br</description>
+		<rom name="DEF 2005 Pt-Br.pdb" size="3882455" crc="c6d9b339" md5="4888a83205e07003a3f08bdb22220650" sha1="8daffa15ade6397a2050859f1f7053e041ab27bb"/>
+	</machine>
+	<machine name="DeLee and Drez's Orthopaedic Sports Medicine 2nd ed">
+		<description>DeLee and Drez's Orthopaedic Sports Medicine 2nd ed</description>
+		<rom name="DeLee and Drez's Orthopaedic Sports Medicine 2nd ed.pdb" size="6601658" crc="7d6d3ffa" md5="28d8b2f4484336404042c3de185809c6" sha1="1959f724a96a24d87d207715c7eca75cf8074f14"/>
+	</machine>
+	<machine name="Detels - Oxford Textbook of Public Health 4th Ed">
+		<description>Detels - Oxford Textbook of Public Health 4th Ed</description>
+		<rom name="Detels - Oxford Textbook of Public Health 4th Ed.pdb" size="17646702" crc="317cff3b" md5="783d367386655cea9ef94fc022ac8bd5" sha1="9f1ed7258a12c5846b98e2e7a2a501e765fe8080"/>
+	</machine>
+	<machine name="Detels - Oxford Textbook of Public Health 4th Edition - No Images">
+		<description>Detels - Oxford Textbook of Public Health 4th Edition - No Images</description>
+		<rom name="Detels - Oxford Textbook of Public Health 4th Edition - No Images.pdb" size="5378524" crc="05d2fcac" md5="7fc9433fe29fb8cdb82492d076de2a74" sha1="1fe6fb91408240e528027029998f799dd1a24eba"/>
+	</machine>
+	<machine name="Duker - Krugman's Infectious Diseases of Children 11th ed">
+		<description>Duker - Krugman's Infectious Diseases of Children 11th ed</description>
+		<rom name="Duker - Krugman's Infectious Diseases of Children 11th ed.pdb" size="12158404" crc="c7d15141" md5="fe1434d12cec61b2a2028710e1040bdf" sha1="216e920e6d26c20450cfba2a1c4f53cc6d5e4fa1"/>
+	</machine>
+	<machine name="Duker - Krugman's Infectious Diseases of Children 11th Edition - ">
+		<description>Duker - Krugman's Infectious Diseases of Children 11th Edition - </description>
+		<rom name="Duker - Krugman's Infectious Diseases of Children 11th Edition - .pdb" size="22759304" crc="bdeb3334" md5="27134b73d0518a0d6d44a31eb352da23" sha1="5594d03a5da02a4b01b34381f61a19cf4c26f134"/>
+	</machine>
+	<machine name="Duker - Krugman's Infectious Diseases of Children 11th Edition - No Images">
+		<description>Duker - Krugman's Infectious Diseases of Children 11th Edition - No Images</description>
+		<rom name="Duker - Krugman's Infectious Diseases of Children 11th Edition - No Images.pdb" size="2520089" crc="9c14118b" md5="68788145181d5dbe23bb7fa15e4c3312" sha1="cd591dd2e5acdd70a5b8f6b058010473a406853f"/>
+	</machine>
+	<machine name="Duthie - Practice of Geriatrics 3rd ed">
+		<description>Duthie - Practice of Geriatrics 3rd ed</description>
+		<rom name="Duthie - Practice of Geriatrics 3rd ed.pdb" size="6149846" crc="f4ff54f4" md5="ad9635b2900a0c0992984752edc8bf24" sha1="1d9b014159d37d7b11f3fd34433cd80805e05379"/>
+	</machine>
+	<machine name="Duthie - Practice of Geriatrics 3rd Edition - No Images">
+		<description>Duthie - Practice of Geriatrics 3rd Edition - No Images</description>
+		<rom name="Duthie - Practice of Geriatrics 3rd Edition - No Images.pdb" size="1128632" crc="91c15688" md5="a686b42c3af47ad0dd12e217d6e7102d" sha1="0d654db511a46cabd12bbf425b5257e6282c4fcd"/>
+	</machine>
+	<machine name="Eisenberg - What to Order When Pocket Guide to Diagnostic Im">
+		<description>Eisenberg - What to Order When Pocket Guide to Diagnostic Im</description>
+		<rom name="Eisenberg - What to Order When Pocket Guide to Diagnostic Im.pdb" size="302189" crc="11429443" md5="ce49a55b7509d638e5d727094bedb326" sha1="98cf980ee27b7da66538749ef1efc6a7a3faf3f1"/>
+	</machine>
+	<machine name="Eisenberg - What to Order When Pocket Guide to Diagnostic Imaging 2nd Edition - No Images">
+		<description>Eisenberg - What to Order When Pocket Guide to Diagnostic Imaging 2nd Edition - No Images</description>
+		<rom name="Eisenberg - What to Order When Pocket Guide to Diagnostic Imaging 2nd Edition - No Images.pdb" size="262762" crc="fdec00f9" md5="94a2e901b19fde1460e3c32f8d0d659f" sha1="84849e6676eb1a0a2e442fbb1f4cbc89da72cc79"/>
+	</machine>
+	<machine name="Essentials of Radiologic Imaging 7th Ed">
+		<description>Essentials of Radiologic Imaging 7th Ed</description>
+		<rom name="Essentials of Radiologic Imaging 7th Ed.pdb" size="23296958" crc="3abb869a" md5="2c2a5c534cc2356200cf61da099b3880" sha1="934dc00f9b8de6d1ed9e65ee7594e8283f37efa0"/>
+	</machine>
+	<machine name="Evans - Oxford Textbook of Geriatric Medicine">
+		<description>Evans - Oxford Textbook of Geriatric Medicine</description>
+		<rom name="Evans - Oxford Textbook of Geriatric Medicine.pdb" size="15640420" crc="8858d4dd" md5="fb8d7e273ef39802a070b9702b99de94" sha1="52d86198f4006fa696f21153c52c8ffc0e75cf51"/>
+	</machine>
+	<machine name="Evans - Oxford Textbook of Geriatric Medicine - No Images">
+		<description>Evans - Oxford Textbook of Geriatric Medicine - No Images</description>
+		<rom name="Evans - Oxford Textbook of Geriatric Medicine - No Images.pdb" size="3152507" crc="b65f9afb" md5="2d322f9afc3d4dfec86a6ed799456641" sha1="5e6cbe7830853c8acb91cdda9152ae6f0446ae81"/>
+	</machine>
+	<machine name="Feldman - Sleisenger &amp; Fordtran's Gastrointestinal and Liver">
+		<description>Feldman - Sleisenger &amp; Fordtran's Gastrointestinal and Liver</description>
+		<rom name="Feldman - Sleisenger &amp; Fordtran's Gastrointestinal and Liver.pdb" size="7489149" crc="897e5ab8" md5="98b1796502c9880bcd7e0914e1c23711" sha1="f66e330ded38bce4746f2e29cc2a3ef6b0003631"/>
+	</machine>
+	<machine name="Feldman - Sleisenger and Fordtran's Gastrointestinal and Liv">
+		<description>Feldman - Sleisenger and Fordtran's Gastrointestinal and Liv</description>
+		<rom name="Feldman - Sleisenger and Fordtran's Gastrointestinal and Liv.pdb" size="40247759" crc="8a1d1e32" md5="a8c77ea06a80c3f72b7f51b494bcca65" sha1="33cf072e8fd66d428a38d14bec26d0f2072e67db"/>
+	</machine>
+	<machine name="Feldman - Sleisenger and Fordtran's Gastrointestinal and Liver Disease Pathophysiology Diagnosis Management 6th Edition - No Images">
+		<description>Feldman - Sleisenger and Fordtran's Gastrointestinal and Liver Disease Pathophysiology Diagnosis Management 6th Edition - No Images</description>
+		<rom name="Feldman - Sleisenger and Fordtran's Gastrointestinal and Liver Disease Pathophysiology Diagnosis Management 6th Edition - No Images.pdb" size="5736074" crc="0874277e" md5="2ba6e397f34885edd4165ee81ce66abf" sha1="973ef5776d8432551abf7b1c4705703efcaa4ddf"/>
+	</machine>
+	<machine name="Feliciano - Trauma - 5th Ed">
+		<description>Feliciano - Trauma - 5th Ed</description>
+		<rom name="Feliciano - Trauma - 5th Ed.pdb" size="32383356" crc="47e58a30" md5="d23884fef42f7e2127cc75e0496dae71" sha1="58f6598c35a818e75824aa4f5b87991519498047"/>
+	</machine>
+	<machine name="Feliciano - Trauma - 5th Edition - No Images">
+		<description>Feliciano - Trauma - 5th Edition - No Images</description>
+		<rom name="Feliciano - Trauma - 5th Edition - No Images.pdb" size="3299145" crc="113652b8" md5="b3ab9efde2e157ad3919a448d7f4015c" sha1="0fe817577045bc4d17cea3e767843052d8a52062"/>
+	</machine>
+	<machine name="Ferri - Ferri's Clinical Advisor 2004 - Instant Diagnosis and Treatment 6th ed">
+		<description>Ferri - Ferri's Clinical Advisor 2004 - Instant Diagnosis and Treatment 6th ed</description>
+		<rom name="Ferri - Ferri's Clinical Advisor 2004 - Instant Diagnosis and Treatment 6th ed.pdb" size="89386677" crc="660f9712" md5="3f712b4d1d2ccb5a6d2705abcab44f76" sha1="b128b9b36a68730b9cc3e699bc31147a2274de15"/>
+	</machine>
+	<machine name="Ferri - Practical Guide to the Care of the Medical Patient 5th ed">
+		<description>Ferri - Practical Guide to the Care of the Medical Patient 5th ed</description>
+		<rom name="Ferri - Practical Guide to the Care of the Medical Patient 5th ed.pdb" size="10659260" crc="0ca9d4ab" md5="8eb3940d9ae62ad4ce1a8d1effcc4011" sha1="864f7d3674666280b91669ba30d4d62bf2f3708d"/>
+	</machine>
+	<machine name="Fetology - Diagnosis and Management of the Fetal Patient 1st">
+		<description>Fetology - Diagnosis and Management of the Fetal Patient 1st</description>
+		<rom name="Fetology - Diagnosis and Management of the Fetal Patient 1st.pdb" size="23042144" crc="4424d20a" md5="5343c0ff83d3cc83c796ca7a6b6720f4" sha1="4e0ff24c2c0e54a6252bb49d9f57482a12b682fb"/>
+	</machine>
+	<machine name="Fields - Virology 4th Ed">
+		<description>Fields - Virology 4th Ed</description>
+		<rom name="Fields - Virology 4th Ed.pdb" size="36417664" crc="8b783ef7" md5="dbaf74f70561627abc15fadb5ea1a1ff" sha1="d31568b30cde44ee26784f2941171472d9dd9d6f"/>
+	</machine>
+	<machine name="Fields - Virology 4th Edition - No Images">
+		<description>Fields - Virology 4th Edition - No Images</description>
+		<rom name="Fields - Virology 4th Edition - No Images.pdb" size="8584809" crc="d78fdd29" md5="f47959fece9ebf7c62efdd54b3724ea0" sha1="b192c1091eab9c09fd9e2a4151fe9ebd935bf9fc"/>
+	</machine>
+	<machine name="Fischbach - A Manual of Laboratory and Diagnostic Tests 7th ">
+		<description>Fischbach - A Manual of Laboratory and Diagnostic Tests 7th </description>
+		<rom name="Fischbach - A Manual of Laboratory and Diagnostic Tests 7th .pdb" size="3349987" crc="011d5e34" md5="495af020735112b5470e70f2e7c1f962" sha1="753857e9aff0586495f2bf5e90b1909c59af330a"/>
+	</machine>
+	<machine name="Fischbach - A Manual of Laboratory and Diagnostic Tests 7th Edition - No Images">
+		<description>Fischbach - A Manual of Laboratory and Diagnostic Tests 7th Edition - No Images</description>
+		<rom name="Fischbach - A Manual of Laboratory and Diagnostic Tests 7th Edition - No Images.pdb" size="1555533" crc="429f106b" md5="9f637ca97520b1f19fc08e35ee293c93" sha1="dd50ebc89e7c3864ff77c1d90f962d2456fe4e04"/>
+	</machine>
+	<machine name="Fischer - Lippincott´s Cancer Chemotherapy Handbook 2nd Ed">
+		<description>Fischer - Lippincott´s Cancer Chemotherapy Handbook 2nd Ed</description>
+		<rom name="Fischer - Lippincott´s Cancer Chemotherapy Handbook 2nd Ed.pdb" size="2667255" crc="d05f8f5b" md5="d62b61485afaa8e63f03e4c996181aa9" sha1="6626fde0937ed8a0921ba81b526b8f3c2aaafb7c"/>
+	</machine>
+	<machine name="Fischer - Lippincott´s Cancer Chemotherapy Handbook 2nd Edition - No Images">
+		<description>Fischer - Lippincott´s Cancer Chemotherapy Handbook 2nd Edition - No Images</description>
+		<rom name="Fischer - Lippincott´s Cancer Chemotherapy Handbook 2nd Edition - No Images.pdb" size="349902" crc="269a8530" md5="c1c689c40994c910d8725ed06b3a6dfb" sha1="65aa551bc8a52e278baf12de6923f43839c5f89d"/>
+	</machine>
+	<machine name="Fitzpatrick's Dermatology In General Medicine 6th ed">
+		<description>Fitzpatrick's Dermatology In General Medicine 6th ed</description>
+		<rom name="Fitzpatrick's Dermatology In General Medicine 6th ed.pdb" size="70378317" crc="9a959a52" md5="54c0ccb843a43307f22cde7d5a34d34f" sha1="b83b5bcf0b2d6edb9d7c967dd3d265000351415f"/>
+	</machine>
+	<machine name="Fitzpatrick's Dermatology In General Medicine 6th Edition - No Images">
+		<description>Fitzpatrick's Dermatology In General Medicine 6th Edition - No Images</description>
+		<rom name="Fitzpatrick's Dermatology In General Medicine 6th Edition - No Images.pdb" size="7188805" crc="ad05e77c" md5="69fd8959af9361e34bcc708f38570a8e" sha1="34fbd89b90800c71946e89bf74f4b044396f8194"/>
+	</machine>
+	<machine name="Fleisher - Textbook of Pediatric Emergency Medicine 4th ed">
+		<description>Fleisher - Textbook of Pediatric Emergency Medicine 4th ed</description>
+		<rom name="Fleisher - Textbook of Pediatric Emergency Medicine 4th ed.pdb" size="39466887" crc="0639aaa3" md5="dae2e31a8fd171b55880200f542dab5b" sha1="327e913d0474d3bcd2f3a34d641a0a026d5e2631"/>
+	</machine>
+	<machine name="Fleisher - Textbook of Pediatric Emergency Medicine 4th Edition - No Images">
+		<description>Fleisher - Textbook of Pediatric Emergency Medicine 4th Edition - No Images</description>
+		<rom name="Fleisher - Textbook of Pediatric Emergency Medicine 4th Edition - No Images.pdb" size="3440641" crc="b30519ab" md5="629547e8b8192c08711ac45c79836b2d" sha1="c8118e499e2ff760c9acd20ffb739be6e69d10a0"/>
+	</machine>
+	<machine name="Frizzell - Handbook of Pathophysiology">
+		<description>Frizzell - Handbook of Pathophysiology</description>
+		<rom name="Frizzell - Handbook of Pathophysiology.pdb" size="7193985" crc="9c4f1423" md5="c76a75786e55228568f74bef0700dfaa" sha1="d732e71407f639fc54a23cf799985305cf39d0fb"/>
+	</machine>
+	<machine name="Frizzell - Handbook of Pathophysiology - No Images">
+		<description>Frizzell - Handbook of Pathophysiology - No Images</description>
+		<rom name="Frizzell - Handbook of Pathophysiology - No Images.pdb" size="851381" crc="fbb672d5" md5="e4ebc8996fefa15a0aa8e8934dfc23db" sha1="0c24e6d182057ecfa3febafd50b711490b38eade"/>
+	</machine>
+	<machine name="Frontera - Essentials of Physical Medicine and Rehabilitation 1st ed">
+		<description>Frontera - Essentials of Physical Medicine and Rehabilitation 1st ed</description>
+		<rom name="Frontera - Essentials of Physical Medicine and Rehabilitation 1st ed.pdb" size="30966710" crc="c2fd4ba5" md5="51bd8169de9adcb61c7f9c0ad04cb017" sha1="43a4b7246019a3f8df44d94a2970a11fe4450661"/>
+	</machine>
+	<machine name="Fu - Sports Injuries Mechanisms Prevention Treatment 2nd ed">
+		<description>Fu - Sports Injuries Mechanisms Prevention Treatment 2nd ed</description>
+		<rom name="Fu - Sports Injuries Mechanisms Prevention Treatment 2nd ed.pdb" size="29675950" crc="fbefb00b" md5="2e2fe544bc895fb7633127aa57f4319b" sha1="a3452c87cc90050a29a24fa8089051c56a56421b"/>
+	</machine>
+	<machine name="Fu - Sports Injuries Mechanisms Prevention Treatment 2nd Edition - No Images">
+		<description>Fu - Sports Injuries Mechanisms Prevention Treatment 2nd Edition - No Images</description>
+		<rom name="Fu - Sports Injuries Mechanisms Prevention Treatment 2nd Edition - No Images.pdb" size="2593126" crc="8adf0c80" md5="da87c947db615bc6b593b6d97f0e68db" sha1="1d078de2f75d1cefdc3cbc536c8350198cab84db"/>
+	</machine>
+	<machine name="Gabbe - Obstetrics - Normal and Problem Pregnancies 4th Edition 2">
+		<description>Gabbe - Obstetrics - Normal and Problem Pregnancies 4th Edition 2</description>
+		<rom name="Gabbe - Obstetrics - Normal and Problem Pregnancies 4th Edition 2.pdb" size="6286896" crc="44c05e51" md5="20432028e70a0a71c3b6568927652a7c" sha1="abb7c8feb0f860a00d38509bdb8d609ff5b2a713"/>
+	</machine>
+	<machine name="Gallo - Reichel's Care of the Elderly Clinical Aspects of Ag">
+		<description>Gallo - Reichel's Care of the Elderly Clinical Aspects of Ag</description>
+		<rom name="Gallo - Reichel's Care of the Elderly Clinical Aspects of Ag.pdb" size="5360825" crc="95a9ba57" md5="b19721e949e7353b422f94ccba393d47" sha1="9257d92464995c4155b465d49bcc8d96f8e0ac02"/>
+	</machine>
+	<machine name="Gallo - Reichel's Care of the Elderly Clinical Aspects of Aging 5th Edition - No Images">
+		<description>Gallo - Reichel's Care of the Elderly Clinical Aspects of Aging 5th Edition - No Images</description>
+		<rom name="Gallo - Reichel's Care of the Elderly Clinical Aspects of Aging 5th Edition - No Images.pdb" size="1616914" crc="e12b0c7d" md5="cc420d6455734a33cf0a2dd50f637016" sha1="271df151f782146add68f88e9fdaf0c66321cb0a"/>
+	</machine>
+	<machine name="Gantz - Manual of Clinical Problems in Infectious Disease 4t">
+		<description>Gantz - Manual of Clinical Problems in Infectious Disease 4t</description>
+		<rom name="Gantz - Manual of Clinical Problems in Infectious Disease 4t.pdb" size="2244566" crc="c60e89ad" md5="d36066d00991640b6d830f6495d9b11a" sha1="233d85e197ec2e57365f555858ea5d160fd1b1d1"/>
+	</machine>
+	<machine name="Gantz - Manual of Clinical Problems in Infectious Disease 4th Edition - No Images">
+		<description>Gantz - Manual of Clinical Problems in Infectious Disease 4th Edition - No Images</description>
+		<rom name="Gantz - Manual of Clinical Problems in Infectious Disease 4th Edition - No Images.pdb" size="826981" crc="38c32123" md5="1bb0e3aba46c5d53cc0bce6ef6997f1f" sha1="d1be4293d05127bc07f2109eb7851d859e0b1338"/>
+	</machine>
+	<machine name="Gelder - New Oxford Textbook of Psychiatry 2003">
+		<description>Gelder - New Oxford Textbook of Psychiatry 2003</description>
+		<rom name="Gelder - New Oxford Textbook of Psychiatry 2003.pdb" size="16474919" crc="995b0e87" md5="2cc5c77e9a18069df1d83d519cde6e9a" sha1="a1112ba5e3bb119e4d30c0d11f9cbce194c44fed"/>
+	</machine>
+	<machine name="Gelder - New Oxford Textbook of Psychiatry 2003 - No Images">
+		<description>Gelder - New Oxford Textbook of Psychiatry 2003 - No Images</description>
+		<rom name="Gelder - New Oxford Textbook of Psychiatry 2003 - No Images.pdb" size="6386276" crc="a62f06e4" md5="d52c73055df13fd7d951a48683236215" sha1="b752f939e643595782e774413936a130fc469129"/>
+	</machine>
+	<machine name="Gillenwater - Adult and Pediatric Urology 4th ed">
+		<description>Gillenwater - Adult and Pediatric Urology 4th ed</description>
+		<rom name="Gillenwater - Adult and Pediatric Urology 4th ed.pdb" size="68235588" crc="19f96cf5" md5="942eaccbd86152fd8a895e3d66506c1a" sha1="39a27e590ecc8c9ecbcff055d9cb7d34b94e1be5"/>
+	</machine>
+	<machine name="Gillenwater - Adult and Pediatric Urology 4th Edition - No Images">
+		<description>Gillenwater - Adult and Pediatric Urology 4th Edition - No Images</description>
+		<rom name="Gillenwater - Adult and Pediatric Urology 4th Edition - No Images.pdb" size="6173138" crc="d980bac6" md5="e285b374fa1e85c4114a27e315abbf46" sha1="0527aa9457349990b5ee98e6bd4bc86886484154"/>
+	</machine>
+	<machine name="Gitlow - Substance Use Disorders A Practical Guide 1st ed">
+		<description>Gitlow - Substance Use Disorders A Practical Guide 1st ed</description>
+		<rom name="Gitlow - Substance Use Disorders A Practical Guide 1st ed.pdb" size="329660" crc="4763e1ce" md5="0ba66bce66248f676e8ece71b995bff9" sha1="0d5b0d9b7e9c3c866885b3f47060eca6b92f2ca6"/>
+	</machine>
+	<machine name="Gitlow - Substance Use Disorders A Practical Guide 1st Edition - No Images">
+		<description>Gitlow - Substance Use Disorders A Practical Guide 1st Edition - No Images</description>
+		<rom name="Gitlow - Substance Use Disorders A Practical Guide 1st Edition - No Images.pdb" size="262261" crc="984ec7bc" md5="d982c93d49f5b70ac4a265a557ae6498" sha1="cbb0272f1154aa649705f2c02a047ec421e14137"/>
+	</machine>
+	<machine name="Glenn's Urologic Surgery 5th ed">
+		<description>Glenn's Urologic Surgery 5th ed</description>
+		<rom name="Glenn's Urologic Surgery 5th ed.pdb" size="25157182" crc="f16efa70" md5="875dcb6aa3f02ad99d932725830fa4a1" sha1="584c4ee65155f52ee3dae090759fb9d0b3e6b767"/>
+	</machine>
+	<machine name="Glenn's Urologic Surgery 5th Edition  - No Images">
+		<description>Glenn's Urologic Surgery 5th Edition  - No Images</description>
+		<rom name="Glenn's Urologic Surgery 5th Edition  - No Images.pdb" size="1626324" crc="a4106045" md5="560261b6727bcd2c65914eca68475187" sha1="254a813c8c56fe4352c34b972f4317218f3dbabb"/>
+	</machine>
+	<machine name="Goetz textbook of neurology">
+		<description>Goetz textbook of neurology</description>
+		<rom name="Goetz textbook of neurology.pdb" size="3204876" crc="51a0ae7d" md5="6958f44b2a6b668419890014a2038e92" sha1="673a116b9b167e47112f41f8c62e8990c65a29df"/>
+	</machine>
+	<machine name="Goroll - Primary Care Medicine Office Evaluation and Managem">
+		<description>Goroll - Primary Care Medicine Office Evaluation and Managem</description>
+		<rom name="Goroll - Primary Care Medicine Office Evaluation and Managem.pdb" size="9968910" crc="d61f6561" md5="f5db42113a6e7f86f6c1eb5e61de6a42" sha1="017c7cc6f89ea66b8f7c965a1e20e8e009623c7f"/>
+	</machine>
+	<machine name="Goroll - Primary Care Medicine Office Evaluation and Management of the Adult 4th Edition - No Images">
+		<description>Goroll - Primary Care Medicine Office Evaluation and Management of the Adult 4th Edition - No Images</description>
+		<rom name="Goroll - Primary Care Medicine Office Evaluation and Management of the Adult 4th Edition - No Images.pdb" size="3739352" crc="3b0afc8e" md5="b0e237fb0f39fc587c5b8c2010c425d5" sha1="24b90d07bafb45a1276b3bd5a86c302ff27bfd0a"/>
+	</machine>
+	<machine name="Goroll - Primary Care Medicine Recommendations 1st ed">
+		<description>Goroll - Primary Care Medicine Recommendations 1st ed</description>
+		<rom name="Goroll - Primary Care Medicine Recommendations 1st ed.pdb" size="857320" crc="4ee49034" md5="7118c6ff516ec4f1072d20340f32fd24" sha1="2f13e30d58a635984f7b09db7547dcfcf9668cc3"/>
+	</machine>
+	<machine name="Goroll - Primary Care Medicine Recommendations 1st Edition - No Images">
+		<description>Goroll - Primary Care Medicine Recommendations 1st Edition - No Images</description>
+		<rom name="Goroll - Primary Care Medicine Recommendations 1st Edition - No Images.pdb" size="821186" crc="0b7b69cd" md5="b3e3bf8991b8c6d458e2bfecd19c62dc" sha1="877fcad317afa3d5f729299781e7f82d3154d669"/>
+	</machine>
+	<machine name="Govindan - The Washington Manual of Oncology">
+		<description>Govindan - The Washington Manual of Oncology</description>
+		<rom name="Govindan - The Washington Manual of Oncology.pdb" size="3849663" crc="e69818c7" md5="51775b00c81de1541ad3326c7ba58684" sha1="a83c7f84d23b677f31cddbabaab6538a466a5df6"/>
+	</machine>
+	<machine name="Grainger - Grainger &amp; Allison's Diagnostic Radiology - A Tex">
+		<description>Grainger - Grainger &amp; Allison's Diagnostic Radiology - A Tex</description>
+		<rom name="Grainger - Grainger &amp; Allison's Diagnostic Radiology - A Tex.pdb" size="299129080" crc="7d949d56" md5="26a1b1ee318a78b8388bbac42ce26681" sha1="964d9e82e1f0f135abd7a14725539dd064595e82"/>
+	</machine>
+	<machine name="Grainger - Grainger &amp; Allison's Diagnostic Radiology - A Textbook of Medical Imaging 4th Edition - No Images">
+		<description>Grainger - Grainger &amp; Allison's Diagnostic Radiology - A Textbook of Medical Imaging 4th Edition - No Images</description>
+		<rom name="Grainger - Grainger &amp; Allison's Diagnostic Radiology - A Textbook of Medical Imaging 4th Edition - No Images.pdb" size="7028932" crc="6f2c7d65" md5="ddba383b120af90d13fd17bb36d2029f" sha1="07bec29ebaca8135e96571fc89b90ffa2efabc54"/>
+	</machine>
+	<machine name="Grays Anatomy-16g">
+		<description>Grays Anatomy-16g</description>
+		<rom name="Grays Anatomy-16g.pdb" size="6748370" crc="81d1ab66" md5="cbfcb3d56bc15aff5f107978b87966f3" sha1="9220829a89ef3bf11ada6e65c07994c64f9128a3"/>
+	</machine>
+	<machine name="Green - Child and Adolescent Clinical Psychopharmacology 3rd">
+		<description>Green - Child and Adolescent Clinical Psychopharmacology 3rd</description>
+		<rom name="Green - Child and Adolescent Clinical Psychopharmacology 3rd.pdb" size="804314" crc="b2197911" md5="1e3feec72876c386e8f887570886518c" sha1="0ad0f99379088a11c83a01d27256a239b25229d0"/>
+	</machine>
+	<machine name="Green - Child and Adolescent Clinical Psychopharmacology 3rd Edition - No Images">
+		<description>Green - Child and Adolescent Clinical Psychopharmacology 3rd Edition - No Images</description>
+		<rom name="Green - Child and Adolescent Clinical Psychopharmacology 3rd Edition - No Images.pdb" size="484812" crc="cf804990" md5="12985e9230657c0acd8550465cad0d38" sha1="9f58eb1c326aa6c2ee47b994c4c79010d6d72ed7"/>
+	</machine>
+	<machine name="Green-Hernandez - Primary Care Pediatrics 1st ed">
+		<description>Green-Hernandez - Primary Care Pediatrics 1st ed</description>
+		<rom name="Green-Hernandez - Primary Care Pediatrics 1st ed.pdb" size="8565579" crc="0c1cb4ae" md5="27f0c487cd6ce9994b65977e8e87331f" sha1="3167b51f0825151bc8819527f874473f0f696345"/>
+	</machine>
+	<machine name="Green-Hernandez - Primary Care Pediatrics 1st Edition - No Images">
+		<description>Green-Hernandez - Primary Care Pediatrics 1st Edition - No Images</description>
+		<rom name="Green-Hernandez - Primary Care Pediatrics 1st Edition - No Images.pdb" size="2175632" crc="fff122b1" md5="d64e98cfd2f7c3d5a1f0c7b20a082b80" sha1="269cae57094b97f4ce71afaffd0a94f2cbcb6aa2"/>
+	</machine>
+	<machine name="Greenberg - Clinical Neurology 5th ed">
+		<description>Greenberg - Clinical Neurology 5th ed</description>
+		<rom name="Greenberg - Clinical Neurology 5th ed.pdb" size="6015447" crc="85151052" md5="1b0cd5b0858e7a3f96c860176109d0e0" sha1="716037830c6b3046518519dc1144b69652a086c2"/>
+	</machine>
+	<machine name="Greenberg - Clinical Neurology 5th Edition  - No Images">
+		<description>Greenberg - Clinical Neurology 5th Edition  - No Images</description>
+		<rom name="Greenberg - Clinical Neurology 5th Edition  - No Images.pdb" size="661219" crc="a3693c6a" md5="10ccca9f34ffd4e6d4ddf35c326cd695" sha1="f903753f0ccacbe37e23e60c531026988b94979e"/>
+	</machine>
+	<machine name="Greene - AJCC Cancer Staging Handbook 6th Edition 2002">
+		<description>Greene - AJCC Cancer Staging Handbook 6th Edition 2002</description>
+		<rom name="Greene - AJCC Cancer Staging Handbook 6th Edition 2002.pdb" size="3361149" crc="6b4c387a" md5="31892aa2feb5dad9c88fdd84853a140d" sha1="54f0f55cc95f15bcaa16a32b1033a8bc79a3f6f7"/>
+	</machine>
+	<machine name="Greene - AJCC Cancer Staging Handbook 6th Edition 2002 - No Images">
+		<description>Greene - AJCC Cancer Staging Handbook 6th Edition 2002 - No Images</description>
+		<rom name="Greene - AJCC Cancer Staging Handbook 6th Edition 2002 - No Images.pdb" size="441803" crc="50553cee" md5="e3e322dbeedf9fc45acf1cd9a0fc7da0" sha1="a9abc6b460285499be2c1fb846203611af08139f"/>
+	</machine>
+	<machine name="Greenfield - Essentials of Surgery - Scientific Principles a">
+		<description>Greenfield - Essentials of Surgery - Scientific Principles a</description>
+		<rom name="Greenfield - Essentials of Surgery - Scientific Principles a.pdb" size="55419972" crc="c5e6a1a1" md5="797d088ff16e18b44c2d649b336f0af2" sha1="3b8c969976e5741a438e2103fddd3af830dd1d7f"/>
+	</machine>
+	<machine name="Greenfield - Essentials of Surgery Scientific Principles and Practice 2nd Edition - No Images">
+		<description>Greenfield - Essentials of Surgery Scientific Principles and Practice 2nd Edition - No Images</description>
+		<rom name="Greenfield - Essentials of Surgery Scientific Principles and Practice 2nd Edition - No Images.pdb" size="6372150" crc="5fb6542c" md5="071f346c8c663dd30f913faf3615e057" sha1="b701407fd02b77cbbb42293a84a563d5533690ed"/>
+	</machine>
+	<machine name="Grossman's Cardiac Catheterization, Angiography, and Interve">
+		<description>Grossman's Cardiac Catheterization, Angiography, and Interve</description>
+		<rom name="Grossman's Cardiac Catheterization, Angiography, and Interve.pdb" size="16430337" crc="a335cffe" md5="e6dfad40c410a53eefeffd1fbba58f38" sha1="8213066f0ef28e698546416b112548f618a6ea9e"/>
+	</machine>
+	<machine name="Grossman's Cardiac Catheterization, Angiography, and Intervention 6th Edition  - No Images">
+		<description>Grossman's Cardiac Catheterization, Angiography, and Intervention 6th Edition  - No Images</description>
+		<rom name="Grossman's Cardiac Catheterization, Angiography, and Intervention 6th Edition  - No Images.pdb" size="1419546" crc="abcf043f" md5="0509717167559de94045bb492ea537cd" sha1="7babe1eb7a5e81d75c58ddbd1ced40b26b4f4b03"/>
+	</machine>
+	<machine name="Habif - Clinical Dermatology - A Color Guide to Diagnosis an">
+		<description>Habif - Clinical Dermatology - A Color Guide to Diagnosis an</description>
+		<rom name="Habif - Clinical Dermatology - A Color Guide to Diagnosis an.pdb" size="213811348" crc="df916205" md5="75bd27fddd903ecfb1e3833ff8cd62c7" sha1="4b58901c43180eba29892a903ca66968892e70de"/>
+	</machine>
+	<machine name="Habif - Clinical Dermatology - A Color Guide to Diagnosis and Therapy 4th ed">
+		<description>Habif - Clinical Dermatology - A Color Guide to Diagnosis and Therapy 4th ed</description>
+		<rom name="Habif - Clinical Dermatology - A Color Guide to Diagnosis and Therapy 4th ed.pdb" size="117671163" crc="f2fea0b9" md5="471246f1716cf810df2ed4a94d1385af" sha1="06ca106c4e83fa2b8f42e103c89aa94b0960dbcb"/>
+	</machine>
+	<machine name="Habif - Clinical Dermatology - A Color Guide to Diagnosis and Therapy 4th Edition - No Images">
+		<description>Habif - Clinical Dermatology - A Color Guide to Diagnosis and Therapy 4th Edition - No Images</description>
+		<rom name="Habif - Clinical Dermatology - A Color Guide to Diagnosis and Therapy 4th Edition - No Images.pdb" size="2047526" crc="96fb88fb" md5="306a87f4642fa87309dcc5341a637479" sha1="1831ffab51f9608d3c5b1bc69501670e00f6f957"/>
+	</machine>
+	<machine name="Habif Clinical Dermatology 3rd">
+		<description>Habif Clinical Dermatology 3rd</description>
+		<rom name="Habif Clinical Dermatology 3rd.pdb" size="2216597" crc="d77e0c07" md5="d07b8149d562347ca950e2d7c4eff94b" sha1="e55808ce51a6d04277044544e4118799e784d849"/>
+	</machine>
+	<machine name="Hall - Sauer's Manual of Skin Diseases 8th ed">
+		<description>Hall - Sauer's Manual of Skin Diseases 8th ed</description>
+		<rom name="Hall - Sauer's Manual of Skin Diseases 8th ed.pdb" size="12760273" crc="8f7ca0a4" md5="02d9e1acfb57d7f0e079f3ca1c558009" sha1="8454bdb0c8d9d639b1f8af1633f525f15b15b00a"/>
+	</machine>
+	<machine name="Hall - Sauer's Manual of Skin Diseases 8th Edition - No Images">
+		<description>Hall - Sauer's Manual of Skin Diseases 8th Edition - No Images</description>
+		<rom name="Hall - Sauer's Manual of Skin Diseases 8th Edition - No Images.pdb" size="621085" crc="b2276c1c" md5="9d1d77074388a744318ce1d887b2ff03" sha1="df1da25d5df6f7c077ef5a7122a63cb8332b70ae"/>
+	</machine>
+	<machine name="Harris - Diseases of the Breast 2nd ed">
+		<description>Harris - Diseases of the Breast 2nd ed</description>
+		<rom name="Harris - Diseases of the Breast 2nd ed.pdb" size="15386237" crc="2f5ff779" md5="855b4fe1933aa94a590f564a896d477f" sha1="55e9d387c5dcbf3c8f9c39d8c1fd46f9913fefc4"/>
+	</machine>
+	<machine name="Harrison 15Ed">
+		<description>Harrison 15Ed</description>
+		<rom name="Harrison 15Ed.pdb" size="7760999" crc="b481654c" md5="55ec28fd6eea5fbcb6fb2e25ae29a64f" sha1="59bc473672e391c8d92603390ec520e711dc43ba"/>
+	</machine>
+	<machine name="Harrison's Principles of Internal Medicine 16th Edition">
+		<description>Harrison's Principles of Internal Medicine 16th Edition</description>
+		<rom name="Harrison's Principles of Internal Medicine 16th Edition.pdb" size="61222989" crc="78906dfd" md5="d641b1c77a554c30c1d1e86f5e225991" sha1="80865a6496d1f912b3e904160052601ef915a6a6"/>
+	</machine>
+	<machine name="Harrison's Principles of Internal Medicine 16th Edition full pics">
+		<description>Harrison's Principles of Internal Medicine 16th Edition full pics</description>
+		<rom name="Harrison's Principles of Internal Medicine 16th Edition full pics.pdb" size="127654879" crc="b0cc68d7" md5="5815c6b4c5003eaa73da84b0b362af81" sha1="5e6a2c815827d257fc2b7758e46641cc492b7e2e"/>
+	</machine>
+	<machine name="Harrison's Principles of Internal Medicine 16th Edition no pics">
+		<description>Harrison's Principles of Internal Medicine 16th Edition no pics</description>
+		<rom name="Harrison's Principles of Internal Medicine 16th Edition no pics.pdb" size="9718341" crc="a901465e" md5="496e220be01e77d25ebfc33b359e7a1a" sha1="a2fc4b2a4ced7d55ae0c19abc3885eadb7e5f402"/>
+	</machine>
+	<machine name="Harvey - Lung Cancer Principles and Practice 2nd ed">
+		<description>Harvey - Lung Cancer Principles and Practice 2nd ed</description>
+		<rom name="Harvey - Lung Cancer Principles and Practice 2nd ed.pdb" size="18574304" crc="20af17ed" md5="1f92187f741a2cd833e4469b32bfb3e8" sha1="0dd9459db9375ff1b81e07a640f31a4211929082"/>
+	</machine>
+	<machine name="Harvey - Lung Cancer Principles and Practice 2nd Edition  - No Images">
+		<description>Harvey - Lung Cancer Principles and Practice 2nd Edition  - No Images</description>
+		<rom name="Harvey - Lung Cancer Principles and Practice 2nd Edition  - No Images.pdb" size="2614552" crc="f55a2109" md5="97bcd98a5a961171aa260fc7c6d4db93" sha1="f524380956e835b3a6100f82516565bf450c8e89"/>
+	</machine>
+	<machine name="Havens - Manual of Outpatient Gynecology 4ed">
+		<description>Havens - Manual of Outpatient Gynecology 4ed</description>
+		<rom name="Havens - Manual of Outpatient Gynecology 4ed.pdb" size="2067068" crc="ebfb5a5d" md5="09188abd50d5f12ded5b21cd4adbe1a2" sha1="593fa25353032e0d9d14cd0f874d0905c7dcbdd3"/>
+	</machine>
+	<machine name="Hoffman - Hematology- Basic Principles and Practice 3rd ed">
+		<description>Hoffman - Hematology- Basic Principles and Practice 3rd ed</description>
+		<rom name="Hoffman - Hematology- Basic Principles and Practice 3rd ed.pdb" size="10330824" crc="a21cd9fa" md5="01c41af78df6db0612d4bdd2522dd937" sha1="1e5883f8e8ca746a7ec91093af0e7cfc78cec8a7"/>
+	</machine>
+	<machine name="Holland-Frei Cancer Medicine 6th Edition">
+		<description>Holland-Frei Cancer Medicine 6th Edition</description>
+		<rom name="Holland-Frei Cancer Medicine 6th Edition.pdb" size="70742925" crc="caec691b" md5="73469fb8205897651b93f8e4b28b87da" sha1="474ffd7ae09555bc4f71576c4d3918e21762a627"/>
+	</machine>
+	<machine name="Holland-Frei Cancer Medicine 6th Edition - No Images">
+		<description>Holland-Frei Cancer Medicine 6th Edition - No Images</description>
+		<rom name="Holland-Frei Cancer Medicine 6th Edition - No Images.pdb" size="10968321" crc="4aa6d9e1" md5="23919e80a241dd776c28e804df709897" sha1="fb46eff2d2f38d64a04df22b3e4b817ccbc60536"/>
+	</machine>
+	<machine name="Humes - Kelley's Textbook of Internal Medicine 4th ed">
+		<description>Humes - Kelley's Textbook of Internal Medicine 4th ed</description>
+		<rom name="Humes - Kelley's Textbook of Internal Medicine 4th ed.pdb" size="54929035" crc="7e22ec5b" md5="43b0897dc0e523baffe91eaab6da1cf0" sha1="cb478fffe01d674c9b2d2f67afbbe31956cced6e"/>
+	</machine>
+	<machine name="Humes - Kelley's Textbook of Internal Medicine 4th Edition - No Images">
+		<description>Humes - Kelley's Textbook of Internal Medicine 4th Edition - No Images</description>
+		<rom name="Humes - Kelley's Textbook of Internal Medicine 4th Edition - No Images.pdb" size="7647995" crc="4572bbf7" md5="6220aedb17c907fdd99897bd0ada4bee" sha1="e5064e3be081867cf6c39f41f165fc2495d57b84"/>
+	</machine>
+	<machine name="Hurford - Clinical Anesthesia Procedures of the Massachusett">
+		<description>Hurford - Clinical Anesthesia Procedures of the Massachusett</description>
+		<rom name="Hurford - Clinical Anesthesia Procedures of the Massachusett.pdb" size="2965738" crc="6eb2e9f2" md5="c97e452e809593ce685c6f62bbc6da06" sha1="da785b1ce2c825bbe56ae6005ef5bb8b259911d4"/>
+	</machine>
+	<machine name="Hurford - Clinical Anesthesia Procedures of the Massachusetts General Hospital 6th Edition - No Images">
+		<description>Hurford - Clinical Anesthesia Procedures of the Massachusetts General Hospital 6th Edition - No Images</description>
+		<rom name="Hurford - Clinical Anesthesia Procedures of the Massachusetts General Hospital 6th Edition - No Images.pdb" size="882690" crc="ea1390dc" md5="616caae0eba099160f1c81ddb1156bf9" sha1="a23c8a5adca6fe77833b1c0c883e3cb2a565d8b5"/>
+	</machine>
+	<machine name="Hurst's The Heart 10th ed">
+		<description>Hurst's The Heart 10th ed</description>
+		<rom name="Hurst's The Heart 10th ed.pdb" size="59667572" crc="f097e741" md5="604fb58363e4e9a6db6245ae39833cb3" sha1="bdc8fe81b976199411a9aded7fa350a6d60c2cc4"/>
+	</machine>
+	<machine name="Hurst's The Heart 10th Edition - No Images">
+		<description>Hurst's The Heart 10th Edition - No Images</description>
+		<rom name="Hurst's The Heart 10th Edition - No Images.pdb" size="6346440" crc="4a48d5e1" md5="efd49858d1e6c8c1a5e4ab67f27221b7" sha1="cfdff72bf983f729618b5674f3754a409349f904"/>
+	</machine>
+	<machine name="Irwin and Rippe's Intensive Care Medicine 5th ed">
+		<description>Irwin and Rippe's Intensive Care Medicine 5th ed</description>
+		<rom name="Irwin and Rippe's Intensive Care Medicine 5th ed.pdb" size="25442553" crc="55bf9546" md5="1a9cdb7c2831b07fdb6147adc8d31821" sha1="bbac159fe369532c53b9f3e3c80398386905a958"/>
+	</machine>
+	<machine name="Irwin and Rippe's Intensive Care Medicine 5th Edition - No Images">
+		<description>Irwin and Rippe's Intensive Care Medicine 5th Edition - No Images</description>
+		<rom name="Irwin and Rippe's Intensive Care Medicine 5th Edition - No Images.pdb" size="7432509" crc="a4f452b8" md5="8195ca45573e1a5e1e43ff455786b665" sha1="7e437782c5761fa14fae0d6e2816dd79bccc04b7"/>
+	</machine>
+	<machine name="Isenberg - Oxford textbook of rheumatology 2nd ed">
+		<description>Isenberg - Oxford textbook of rheumatology 2nd ed</description>
+		<rom name="Isenberg - Oxford textbook of rheumatology 2nd ed.pdb" size="48748502" crc="4f0c6f3e" md5="5282fb95eba196c7c1cba80b7c90ace6" sha1="cc2869b8bc1ba54a505c4ad592a6aac5b42a6974"/>
+	</machine>
+	<machine name="Isenberg - Oxford textbook of rheumatology 2nd Edition - No Images">
+		<description>Isenberg - Oxford textbook of rheumatology 2nd Edition - No Images</description>
+		<rom name="Isenberg - Oxford textbook of rheumatology 2nd Edition - No Images.pdb" size="4557799" crc="da13b8cd" md5="72029066e49231beceaedfd720cc21e6" sha1="d909398194021916459034483545b327d73d4a20"/>
+	</machine>
+	<machine name="Jacobson - Psychiatric Secrets (The Secrets Series) 2nd ed">
+		<description>Jacobson - Psychiatric Secrets (The Secrets Series) 2nd ed</description>
+		<rom name="Jacobson - Psychiatric Secrets (The Secrets Series) 2nd ed.pdb" size="1299840" crc="34f73a3e" md5="3fbd7f6e6654d2c85a3c3b410bea5e30" sha1="175dadf8056c4f17cb4d93f6b4dd844e4fbce9a8"/>
+	</machine>
+	<machine name="James - Field Guide to Urgent and Ambulatory Care Procedures">
+		<description>James - Field Guide to Urgent and Ambulatory Care Procedures</description>
+		<rom name="James - Field Guide to Urgent and Ambulatory Care Procedures.pdb" size="3066367" crc="9678eeb2" md5="53075954418060d145507727acac6b7a" sha1="fb88fd6eb490f305c3d5eaf0862216e5e8e7cdd2"/>
+	</machine>
+	<machine name="James - Field Guide to Urgent and Ambulatory Care Procedures 1st Edition - No Images">
+		<description>James - Field Guide to Urgent and Ambulatory Care Procedures 1st Edition - No Images</description>
+		<rom name="James - Field Guide to Urgent and Ambulatory Care Procedures 1st Edition - No Images.pdb" size="317351" crc="cd38c290" md5="969f54f8393af42044fe0493f0ef4517" sha1="979cf43807651d1ce2dcea4d730aeccf43fb758b"/>
+	</machine>
+	<machine name="Janicak - Principles and Practice of Psychopharmacotherapy 3">
+		<description>Janicak - Principles and Practice of Psychopharmacotherapy 3</description>
+		<rom name="Janicak - Principles and Practice of Psychopharmacotherapy 3.pdb" size="5501260" crc="1f1b8967" md5="b55679a995a35bbe190e52d43a081dd7" sha1="b335af9479c58b9892e67cb6e6f6e4ac460c7313"/>
+	</machine>
+	<machine name="Janicak - Principles and Practice of Psychopharmacotherapy 3rd Edition - No Images">
+		<description>Janicak - Principles and Practice of Psychopharmacotherapy 3rd Edition - No Images</description>
+		<rom name="Janicak - Principles and Practice of Psychopharmacotherapy 3rd Edition - No Images.pdb" size="1238460" crc="a2333ac7" md5="d1054d956ada68e995df5c4b4fb0886e" sha1="5abb7ec4a29f952525f05d7cc37e8af1593d52be"/>
+	</machine>
+	<machine name="Jonas - Essentials of Complementary and Alternative Medicine">
+		<description>Jonas - Essentials of Complementary and Alternative Medicine</description>
+		<rom name="Jonas - Essentials of Complementary and Alternative Medicine.pdb" size="3131997" crc="b5a8bf7f" md5="d99299cb58dd60cdbde5d6a421d5c650" sha1="24a8c9b6464ec3b94dc6e7974009291f91403d94"/>
+	</machine>
+	<machine name="Jonas - Essentials of Complementary and Alternative Medicine - No Images">
+		<description>Jonas - Essentials of Complementary and Alternative Medicine - No Images</description>
+		<rom name="Jonas - Essentials of Complementary and Alternative Medicine - No Images.pdb" size="1074812" crc="89a013ab" md5="947ba37c1b6e17de6166613ef01578ad" sha1="f21f777eb0adebf37e2cd26718eeab9ab8115e58"/>
+	</machine>
+	<machine name="Josephson - Clinical Cardiac Electrophysiology Techniques an">
+		<description>Josephson - Clinical Cardiac Electrophysiology Techniques an</description>
+		<rom name="Josephson - Clinical Cardiac Electrophysiology Techniques an.pdb" size="28655648" crc="1be2ac5a" md5="0021ef5338a2b38c06f6a39b158b3655" sha1="cff140a532bd3c9913cff7147559c6ddb915e696"/>
+	</machine>
+	<machine name="Josephson - Clinical Cardiac Electrophysiology Techniques and Interpretations 3rd - No Images">
+		<description>Josephson - Clinical Cardiac Electrophysiology Techniques and Interpretations 3rd - No Images</description>
+		<rom name="Josephson - Clinical Cardiac Electrophysiology Techniques and Interpretations 3rd - No Images.pdb" size="1341865" crc="33fc101a" md5="48d43c7766bd4b04b0f19a79c5a45fc8" sha1="9b2eb615f995b9006d385bdb9638776f5aa5654d"/>
+	</machine>
+	<machine name="Juhl - Paul and Juhl's Essentials of Radiologic Imaging 7th ">
+		<description>Juhl - Paul and Juhl's Essentials of Radiologic Imaging 7th </description>
+		<rom name="Juhl - Paul and Juhl's Essentials of Radiologic Imaging 7th .pdb" size="67528612" crc="f7dcac32" md5="b188d8863c7ffb3ac52cc0ca52ddcd01" sha1="6ac9bc118322360f294ed8167a3eb4ebf447fd90"/>
+	</machine>
+	<machine name="Juhl - Paul and Juhl's Essentials of Radiologic Imaging 7th Edition - No Images">
+		<description>Juhl - Paul and Juhl's Essentials of Radiologic Imaging 7th Edition - No Images</description>
+		<rom name="Juhl - Paul and Juhl's Essentials of Radiologic Imaging 7th Edition - No Images.pdb" size="2094091" crc="2e1e1c74" md5="a57a0e5ba16f7efae0c1d5687edf21ed" sha1="ed345c714c78995216d77a48296c5c51ec25f44e"/>
+	</machine>
+	<machine name="Kantoff - Prostate Cancer Principles and Practice 1st ed">
+		<description>Kantoff - Prostate Cancer Principles and Practice 1st ed</description>
+		<rom name="Kantoff - Prostate Cancer Principles and Practice 1st ed.pdb" size="8790859" crc="3d61a9f7" md5="74b8294d253adce8f36576cf6aa08c54" sha1="02ae4e31827626f78b9a860b1b15f24f1e45de34"/>
+	</machine>
+	<machine name="Kantoff - Prostate Cancer Principles and Practice 1st Edition - No Images">
+		<description>Kantoff - Prostate Cancer Principles and Practice 1st Edition - No Images</description>
+		<rom name="Kantoff - Prostate Cancer Principles and Practice 1st Edition - No Images.pdb" size="1820513" crc="220e6f89" md5="5d8e0f10df62b8aa0f589023f5855228" sha1="2725cdd82390edce3895fb5215c1847138a2d1a9"/>
+	</machine>
+	<machine name="Kaplan - Kaplan's Clinical Hypertension 8th Edition ">
+		<description>Kaplan - Kaplan's Clinical Hypertension 8th Edition </description>
+		<rom name="Kaplan - Kaplan's Clinical Hypertension 8th Edition .pdb" size="6364816" crc="a1aba2f4" md5="889884467b32a66bfe1d8f8b31648427" sha1="92989f6b47e17902849f63c3b6b0981508873da8"/>
+	</machine>
+	<machine name="Kaplan - Kaplan's Clinical Hypertension 8th Edition  - No Images">
+		<description>Kaplan - Kaplan's Clinical Hypertension 8th Edition  - No Images</description>
+		<rom name="Kaplan - Kaplan's Clinical Hypertension 8th Edition  - No Images.pdb" size="1043501" crc="07306e08" md5="9138cb370f1a92b8e4cbadbd3a3d78cb" sha1="2b86207ac8ff41274f008e4e6b13324c248f25a8"/>
+	</machine>
+	<machine name="Kaplan Textbook of Psychiatry no images">
+		<description>Kaplan Textbook of Psychiatry no images</description>
+		<rom name="Kaplan Textbook of Psychiatry no images.pdb" size="9707854" crc="77dd7588" md5="a9909d4a8ded9b1ac795d89c5cfa0bb8" sha1="87af5fbed8f57089468a14273356333a831cc900"/>
+	</machine>
+	<machine name="Kaplan Textbook of Psychiatry with images 7ed">
+		<description>Kaplan Textbook of Psychiatry with images 7ed</description>
+		<rom name="Kaplan Textbook of Psychiatry with images 7ed.pdb" size="53831075" crc="184ba783" md5="faf64509809583033bcf378ce77194a9" sha1="867dfd1a3cc50d411980789136dd4b78479085ce"/>
+	</machine>
+	<machine name="kistner's gynecology and women's health">
+		<description>kistner's gynecology and women's health</description>
+		<rom name="kistner's gynecology and women's health.pdb" size="1585430" crc="cdaf1a68" md5="5972d45033d140388e63e7fd67617ee2" sha1="80056f5e54eae0adbf9382f3ddf7c6e1927db798"/>
+	</machine>
+	<machine name="Klaassen - Casarett &amp; Doull's Toxicology The Basic Science of Poisons">
+		<description>Klaassen - Casarett &amp; Doull's Toxicology The Basic Science of Poisons</description>
+		<rom name="Klaassen - Casarett &amp; Doull's Toxicology The Basic Science of Poisons.pdb" size="14306884" crc="1fd22f4f" md5="d03b5641723524afe58538fe7d8852a7" sha1="9c0eaf5c8f372a85f3d1d0c10a09d0e3d80f7ba9"/>
+	</machine>
+	<machine name="Klaassen - Casarett &amp; Doull's Toxicology The Basic Science of Poisons 6th Edition - No Images">
+		<description>Klaassen - Casarett &amp; Doull's Toxicology The Basic Science of Poisons 6th Edition - No Images</description>
+		<rom name="Klaassen - Casarett &amp; Doull's Toxicology The Basic Science of Poisons 6th Edition - No Images.pdb" size="3065938" crc="55146a3a" md5="c63478da2703069704a04f720565e340" sha1="66b500a76867756668c0230b88d6715925bef61a"/>
+	</machine>
+	<machine name="Koopman - Arthritis and Allied Conditions A Textbook of Rheu">
+		<description>Koopman - Arthritis and Allied Conditions A Textbook of Rheu</description>
+		<rom name="Koopman - Arthritis and Allied Conditions A Textbook of Rheu.pdb" size="42886920" crc="55eca148" md5="9495c373fca4f66414610d5c6244307e" sha1="c5e02a4e83cda38871598626999de35343080deb"/>
+	</machine>
+	<machine name="Koopman - Arthritis and Allied Conditions A Textbook of Rheumatology 12th Edition - No Images">
+		<description>Koopman - Arthritis and Allied Conditions A Textbook of Rheumatology 12th Edition - No Images</description>
+		<rom name="Koopman - Arthritis and Allied Conditions A Textbook of Rheumatology 12th Edition - No Images.pdb" size="6970408" crc="3436549f" md5="ec1a32e4698f879601195b3d1793f55d" sha1="17a54fc2ad05ee12be66d27197c54b6017fff444"/>
+	</machine>
+	<machine name="Ledingham - Concise Oxford Textbook of Medicine 2000">
+		<description>Ledingham - Concise Oxford Textbook of Medicine 2000</description>
+		<rom name="Ledingham - Concise Oxford Textbook of Medicine 2000.pdb" size="54716569" crc="58a7d62a" md5="4c55b71204ea20c5b7fcbe8f0e6b36bc" sha1="f7b316415d7141cbae5ee42ca9f9ac05d8ee672b"/>
+	</machine>
+	<machine name="Ledingham - Concise Oxford Textbook of Medicine 2000 - No images">
+		<description>Ledingham - Concise Oxford Textbook of Medicine 2000 - No images</description>
+		<rom name="Ledingham - Concise Oxford Textbook of Medicine 2000 - No images.pdb" size="5088136" crc="0c12f5e5" md5="0cfdcaed1f6a808df69b0cada699b809" sha1="5679e465ae9765bf7a9637ac43430aa9ba0f8665"/>
+	</machine>
+	<machine name="Lewis - Child and Adolescent Psychiatry - A Comprehensive Te">
+		<description>Lewis - Child and Adolescent Psychiatry - A Comprehensive Te</description>
+		<rom name="Lewis - Child and Adolescent Psychiatry - A Comprehensive Te.pdb" size="12169227" crc="1b29a001" md5="8d593bc3a4f033fa026f543107498a07" sha1="7740318c60444bfba329fa7cfcd13fb03c3e4d7e"/>
+	</machine>
+	<machine name="Lewis - Child and Adolescent Psychiatry - A Comprehensive Textbook 3rd Edition - No Images">
+		<description>Lewis - Child and Adolescent Psychiatry - A Comprehensive Textbook 3rd Edition - No Images</description>
+		<rom name="Lewis - Child and Adolescent Psychiatry - A Comprehensive Textbook 3rd Edition - No Images.pdb" size="5679757" crc="1468ba31" md5="489fcf86efc981b0e22544e69d3e1331" sha1="ad661ce99d554e36f96a27084263d150ceefc6df"/>
+	</machine>
+	<machine name="Loeser - Bonica's Management of Pain 3rd ed">
+		<description>Loeser - Bonica's Management of Pain 3rd ed</description>
+		<rom name="Loeser - Bonica's Management of Pain 3rd ed.pdb" size="38927461" crc="c5520fd2" md5="0535dd9b8b905049c913d102105d25ff" sha1="e89118da46a9e98d575dd0c41b5e4f7c7591c64f"/>
+	</machine>
+	<machine name="Loeser - Bonica's Management of Pain 3rd Edition - No Images">
+		<description>Loeser - Bonica's Management of Pain 3rd Edition - No Images</description>
+		<rom name="Loeser - Bonica's Management of Pain 3rd Edition - No Images.pdb" size="5801033" crc="cee5738f" md5="1c3da4f91848aa82ed6eb0ccc484eddd" sha1="5d204988d6851bf1643095d5f5a05a751cf25ab4"/>
+	</machine>
+	<machine name="Long - Principles and Practice of Pediatric Infectious Disea">
+		<description>Long - Principles and Practice of Pediatric Infectious Disea</description>
+		<rom name="Long - Principles and Practice of Pediatric Infectious Disea.pdb" size="26637719" crc="29305763" md5="05ed18b854b56926d0fb5825d1f4c39b" sha1="5e1d88b5851bfe777d946b194e5f06b3c89de2a0"/>
+	</machine>
+	<machine name="Long - Principles and Practice of Pediatric Infectious Diseases 2nd Edition - No Images">
+		<description>Long - Principles and Practice of Pediatric Infectious Diseases 2nd Edition - No Images</description>
+		<rom name="Long - Principles and Practice of Pediatric Infectious Diseases 2nd Edition - No Images.pdb" size="6405441" crc="f8885d47" md5="cb6c32404631b641dc8fd47f9b602a94" sha1="a9773f303e2a5aecb4c5747cda0b07bd69af3939"/>
+	</machine>
+	<machine name="Lord - Family-Focused Behavioral Pediatrics 1st ed">
+		<description>Lord - Family-Focused Behavioral Pediatrics 1st ed</description>
+		<rom name="Lord - Family-Focused Behavioral Pediatrics 1st ed.pdb" size="1755663" crc="cc362baf" md5="13480b025a926fcfe09367e36a375fb5" sha1="210743d2148f244f34e61a1290ceac9f41768b98"/>
+	</machine>
+	<machine name="Lord - Family-Focused Behavioral Pediatrics 1st ed- No Images">
+		<description>Lord - Family-Focused Behavioral Pediatrics 1st ed- No Images</description>
+		<rom name="Lord - Family-Focused Behavioral Pediatrics 1st ed- No Images.pdb" size="315627" crc="d3bdf542" md5="1d850853f8c551493f359a9c7b6a798f" sha1="1747866c76ec3f78bbcdc5021e4292e9063bcf92"/>
+	</machine>
+	<machine name="Lovell - Lovell and Winter's Pediatric Orthopaedics 3rd ed">
+		<description>Lovell - Lovell and Winter's Pediatric Orthopaedics 3rd ed</description>
+		<rom name="Lovell - Lovell and Winter's Pediatric Orthopaedics 3rd ed.pdb" size="36779993" crc="ea3ad4db" md5="73237151f9588add84d271bec3310c6b" sha1="7e71926b3e8344353874d63ae5e0d0f69eca2bd1"/>
+	</machine>
+	<machine name="Lovell - Lovell and Winter's Pediatric Orthopaedics 3rd Edition - No Images">
+		<description>Lovell - Lovell and Winter's Pediatric Orthopaedics 3rd Edition - No Images</description>
+		<rom name="Lovell - Lovell and Winter's Pediatric Orthopaedics 3rd Edition - No Images.pdb" size="2904735" crc="2c80f995" md5="9587ca0fde96383ccbbaced4c167a9fb" sha1="582add3abd57e25cf4416ee84fc0b8a0b6894039"/>
+	</machine>
+	<machine name="Mandell - Mandell Douglas and Bennett's Principles &amp; Practic">
+		<description>Mandell - Mandell Douglas and Bennett's Principles &amp; Practic</description>
+		<rom name="Mandell - Mandell Douglas and Bennett's Principles &amp; Practic.pdb" size="57538841" crc="e341da15" md5="3d326d82f1e72736fb0ad058b0e25106" sha1="e4ed456d17c6b2c39aeaba8d517d9a37f08a7bc0"/>
+	</machine>
+	<machine name="Mandell - Mandell Douglas and Bennett's Principles &amp; Practice of Infectious Diseases 5th Edition - No Images">
+		<description>Mandell - Mandell Douglas and Bennett's Principles &amp; Practice of Infectious Diseases 5th Edition - No Images</description>
+		<rom name="Mandell - Mandell Douglas and Bennett's Principles &amp; Practice of Infectious Diseases 5th Edition - No Images.pdb" size="14320279" crc="8b3478b1" md5="fcb174103d4844633891270a1a63d514" sha1="d17dbd092f6d56e8edc3d6f4d7ca0a2bcf5727f0"/>
+	</machine>
+	<machine name="Manual of Clinical Oncology">
+		<description>Manual of Clinical Oncology</description>
+		<rom name="Manual of Clinical Oncology.pdb" size="1999987" crc="36e3d53d" md5="b5c450b4f62e599fca8883f14dd3bea6" sha1="5017faad9ded2672735ad2a7f364042f855f4730"/>
+	</machine>
+	<machine name="Marriots Practical ECG 10th ed">
+		<description>Marriots Practical ECG 10th ed</description>
+		<rom name="Marriots Practical ECG 10th ed.pdb" size="2735986" crc="e0a2183f" md5="c5b88c6631db3538c94ba3740e1a93ef" sha1="6e5233adf6c2434ab3fc6ee7ae31980079368060"/>
+	</machine>
+	<machine name="Marx - Rosen's Emergency Medicine - Concepts and Clinical Practice 5th ed">
+		<description>Marx - Rosen's Emergency Medicine - Concepts and Clinical Practice 5th ed</description>
+		<rom name="Marx - Rosen's Emergency Medicine - Concepts and Clinical Practice 5th ed.pdb" size="166936287" crc="a2893913" md5="7c034e4022168302f6565d527679e1d2" sha1="d3f594cfd883ab294ac105180ead5bd29638b106"/>
+	</machine>
+	<machine name="McAninch - Smith's General Urology 6th Ed">
+		<description>McAninch - Smith's General Urology 6th Ed</description>
+		<rom name="McAninch - Smith's General Urology 6th Ed.pdb" size="24625820" crc="81da1eda" md5="b283e08f895b04f012c8a4be30140c46" sha1="1c8dcab5586dbd9113383bc830e6384117adddef"/>
+	</machine>
+	<machine name="McAninch - Smith's General Urology 6th Edition - No Images">
+		<description>McAninch - Smith's General Urology 6th Edition - No Images</description>
+		<rom name="McAninch - Smith's General Urology 6th Edition - No Images.pdb" size="1346284" crc="930ded24" md5="2403f64f7fb64953b943d0cf73a07b63" sha1="a6ad8b6aa3ed446ce7bdcf2ddad1357602d03536"/>
+	</machine>
+	<machine name="McCann - Diseases 3rd Ed">
+		<description>McCann - Diseases 3rd Ed</description>
+		<rom name="McCann - Diseases 3rd Ed.pdb" size="15064543" crc="b861feb3" md5="05f92f8588a2da734123433adbd216ba" sha1="0f4eca4ad4773b91d16ee289948f43bd572524a1"/>
+	</machine>
+	<machine name="McCann - Diseases 3rd Edition - No Images">
+		<description>McCann - Diseases 3rd Edition - No Images</description>
+		<rom name="McCann - Diseases 3rd Edition - No Images.pdb" size="2499639" crc="6167cee7" md5="45957907e7eea5321112c1dd45a57914" sha1="24d523747abf0755119e650b11c5fdf7cf62e171"/>
+	</machine>
+	<machine name="McEvoy - AHFS Drug Information 2004">
+		<description>McEvoy - AHFS Drug Information 2004</description>
+		<rom name="McEvoy - AHFS Drug Information 2004.pdb" size="33047538" crc="198b8e92" md5="6c46581738b8b20402f9f10637b8e201" sha1="7ccff2d4d80fdb99812bfda3980efdf850c62feb"/>
+	</machine>
+	<machine name="McEvoy - AHFS Drug Information 2004 - Big Images">
+		<description>McEvoy - AHFS Drug Information 2004 - Big Images</description>
+		<rom name="McEvoy - AHFS Drug Information 2004 - Big Images.pdb" size="34331395" crc="76f3bf06" md5="845f14bd88a421f8864aacb1d5552718" sha1="434f9fc14623e7ab558232019dd987df7bd4eaf7"/>
+	</machine>
+	<machine name="McEvoy - AHFS Drug Information 2004 - No Images">
+		<description>McEvoy - AHFS Drug Information 2004 - No Images</description>
+		<rom name="McEvoy - AHFS Drug Information 2004 - No Images.pdb" size="27340788" crc="7278569e" md5="eb4898a4dce0f8cbefbdbaa833eb116c" sha1="8848784ed2770255e6f211f1ff4ada9b7672bcd1"/>
+	</machine>
+	<machine name="Medical Management of HIV Infection">
+		<description>Medical Management of HIV Infection</description>
+		<rom name="Medical Management of HIV Infection.pdb" size="795136" crc="5373e35b" md5="fb75d29847701612b5d41a419a788787" sha1="9c8d67a4214fdaceb05ec35c7a371577a1030b3b"/>
+	</machine>
+	<machine name="Menkes - Child Neurology 6th ed">
+		<description>Menkes - Child Neurology 6th ed</description>
+		<rom name="Menkes - Child Neurology 6th ed.pdb" size="15189992" crc="606bd7f5" md5="5f7350944b64c0389f32f72f9989b423" sha1="4889be41bab8c49da7f53d231edab7981dc747d3"/>
+	</machine>
+	<machine name="Menkes - Child Neurology 6th Edition - No Images">
+		<description>Menkes - Child Neurology 6th Edition - No Images</description>
+		<rom name="Menkes - Child Neurology 6th Edition - No Images.pdb" size="2513357" crc="8cba895d" md5="e1f6af25ad9e10aeb0419c0c82f85cfe" sha1="862d967f87bb6696bdca633a964193a70f94c6b4"/>
+	</machine>
+	<machine name="Merck Geriatrics, 3rd Ed">
+		<description>Merck Geriatrics, 3rd Ed</description>
+		<rom name="Merck Geriatrics, 3rd Ed.pdb" size="1585670" crc="f02e8d46" md5="0f56ccb9c8b9779363446ab89f70c7cc" sha1="283f15608e293d2e7049bb7acb323b6900c0f9ea"/>
+	</machine>
+	<machine name="Merck Manual -17th Ed.">
+		<description>Merck Manual -17th Ed.</description>
+		<rom name="Merck Manual -17th Ed..pdb" size="1417216" crc="0d715f59" md5="17c4b23dbf632c3c57ad9fb28687e38c" sha1="6eacb6d3a869a8db4d09711e2e299ee268c9fc28"/>
+	</machine>
+	<machine name="Merritt - Merritt's Neurology 10th Ed">
+		<description>Merritt - Merritt's Neurology 10th Ed</description>
+		<rom name="Merritt - Merritt's Neurology 10th Ed.pdb" size="19780769" crc="460baa0b" md5="764715a0c0738c2d96f19802000ebc96" sha1="6664869382250440b70c27fe25736ca71c7ef72c"/>
+	</machine>
+	<machine name="Merritt - Merritt's Neurology 10th Edition - No Images">
+		<description>Merritt - Merritt's Neurology 10th Edition - No Images</description>
+		<rom name="Merritt - Merritt's Neurology 10th Edition - No Images.pdb" size="2211851" crc="bb7eb720" md5="da1cc3ba5028ff953f2b81a575af1f78" sha1="bb084bd4a3640508425adf661763d1b06768fb81"/>
+	</machine>
+	<machine name="Metheny - Fluid and Electrolyte Balance 4th Ed">
+		<description>Metheny - Fluid and Electrolyte Balance 4th Ed</description>
+		<rom name="Metheny - Fluid and Electrolyte Balance 4th Ed.pdb" size="2986415" crc="d2a8c035" md5="fe4f0e1dbae921763f7b71b327d828be" sha1="32a4430f60e8b442b287c73a11f57140bd70bba3"/>
+	</machine>
+	<machine name="Metheny - Fluid and Electrolyte Balance 4th Edition - No Images">
+		<description>Metheny - Fluid and Electrolyte Balance 4th Edition - No Images</description>
+		<rom name="Metheny - Fluid and Electrolyte Balance 4th Edition - No Images.pdb" size="735675" crc="4325217b" md5="63c0000f296397dcae9562a202fe766d" sha1="79c24fbb349a2f2928078ae32b139addc583d1d7"/>
+	</machine>
+	<machine name="Middleton - Allergy principles and practice 5th ed">
+		<description>Middleton - Allergy principles and practice 5th ed</description>
+		<rom name="Middleton - Allergy principles and practice 5th ed.pdb" size="18382909" crc="efd591fa" md5="54be4ffbf67dd015f1f012e11b8a4680" sha1="919e4ae90e9a605688b3914117eefb0a551b9efd"/>
+	</machine>
+	<machine name="Middleton - Allergy principles and practice 5th Edition - No Images">
+		<description>Middleton - Allergy principles and practice 5th Edition - No Images</description>
+		<rom name="Middleton - Allergy principles and practice 5th Edition - No Images.pdb" size="4899977" crc="2fd11292" md5="9c875604b9749534180aa1cc07f8ad17" sha1="7c123abb0f4c8090326e03644e888ac734afcb0e"/>
+	</machine>
+	<machine name="Miller Anesthesia, 5th ed">
+		<description>Miller Anesthesia, 5th ed</description>
+		<rom name="Miller Anesthesia, 5th ed.pdb" size="8186516" crc="40b22c2d" md5="bcdedfd914f8d80b0319aea0d93408fb" sha1="b6c1fa7c57d677ff526fef7837c495c7bf930c78"/>
+	</machine>
+	<machine name="Morris - Oxford Textbook of Surgery 2nd ed">
+		<description>Morris - Oxford Textbook of Surgery 2nd ed</description>
+		<rom name="Morris - Oxford Textbook of Surgery 2nd ed.pdb" size="106029057" crc="820e7c18" md5="c5490991c1cf2a43834a819562e2c902" sha1="ed698fa50af434403947142b8e988fd52cc927aa"/>
+	</machine>
+	<machine name="Morris - Oxford Textbook of Surgery 2nd Edition - No Images">
+		<description>Morris - Oxford Textbook of Surgery 2nd Edition - No Images</description>
+		<rom name="Morris - Oxford Textbook of Surgery 2nd Edition - No Images.pdb" size="7217671" crc="5a5fd99e" md5="fe438d99e6e7161b5a9899393a97ae4a" sha1="a15eb297b55721199b0242c3fc10b9b55f592527"/>
+	</machine>
+	<machine name="Murray - Textbook of Respiratory Medicine 3rd ed">
+		<description>Murray - Textbook of Respiratory Medicine 3rd ed</description>
+		<rom name="Murray - Textbook of Respiratory Medicine 3rd ed.pdb" size="63660280" crc="e96783b3" md5="68105d5fcf12b32b2cd4589967f403ec" sha1="a1701c1915fdf34340459e70cf7628d38e3fbadd"/>
+	</machine>
+	<machine name="Murray - Textbook of Respiratory Medicine 3rd Edition - Big Images">
+		<description>Murray - Textbook of Respiratory Medicine 3rd Edition - Big Images</description>
+		<rom name="Murray - Textbook of Respiratory Medicine 3rd Edition - Big Images.pdb" size="166381256" crc="f5a8ed36" md5="cb66cedab25b118d2b04881f3a84c310" sha1="0c300a5ce0c04e495cad06774ae89a87edfcc4d5"/>
+	</machine>
+	<machine name="Murray - Textbook of Respiratory Medicine 3rd Edition - No Images">
+		<description>Murray - Textbook of Respiratory Medicine 3rd Edition - No Images</description>
+		<rom name="Murray - Textbook of Respiratory Medicine 3rd Edition - No Images.pdb" size="7730958" crc="2f81b409" md5="1889089a53b6bfc19744610a3d7d17c6" sha1="b1d928a4e3543d3dec4ac9db389e317b35c3575a"/>
+	</machine>
+	<machine name="Natural Standard 2004">
+		<description>Natural Standard 2004</description>
+		<rom name="Natural Standard 2004.pdb" size="3311649" crc="671a159f" md5="e0d56b9367dfbffb91214e5ee7601eaf" sha1="4d08c92e438336c92538a084cfd0ba0655885cee"/>
+	</machine>
+	<machine name="Neinstein - Adolescent Health Care - A Practical Guide">
+		<description>Neinstein - Adolescent Health Care - A Practical Guide</description>
+		<rom name="Neinstein - Adolescent Health Care - A Practical Guide.pdb" size="11318150" crc="4e952d8d" md5="7fa03db1b9cfc208c82fc4e0fc40f873" sha1="dd14d0e8a8ff54722bb0f00c5a851cfb52f894e4"/>
+	</machine>
+	<machine name="Nelson Textbook of Pediatrics 16ed">
+		<description>Nelson Textbook of Pediatrics 16ed</description>
+		<rom name="Nelson Textbook of Pediatrics 16ed.pdb" size="10672515" crc="bcee40e1" md5="315c9c829949574d661ed3e494b156f6" sha1="f1728068327651293d0989c74b90576101461d75"/>
+	</machine>
+	<machine name="Noble - Textbook of Primary Care Medicine 3rd Edition - Big Image">
+		<description>Noble - Textbook of Primary Care Medicine 3rd Edition - Big Image</description>
+		<rom name="Noble - Textbook of Primary Care Medicine 3rd Edition - Big Image.pdb" size="176093612" crc="fdfe5349" md5="141ece889440daf00d471c273a7c3c76" sha1="f4a3bb3177430a9f3ebaf3e7da7fbab9ae6a06b0"/>
+	</machine>
+	<machine name="Novak's Gynecology 13ed">
+		<description>Novak's Gynecology 13ed</description>
+		<rom name="Novak's Gynecology 13ed.pdb" size="18002483" crc="8f0127d1" md5="1087b0629e517733c8bc739a8b1d7e24" sha1="91e56703f77cc1dcca17bbf02d9f625c9cdce838"/>
+	</machine>
+	<machine name="Oski's Pediatrics - Principles and Practice 3rd Ed">
+		<description>Oski's Pediatrics - Principles and Practice 3rd Ed</description>
+		<rom name="Oski's Pediatrics - Principles and Practice 3rd Ed.pdb" size="53215670" crc="29543458" md5="3fe1f872e06623cd90fa590ae0c2831f" sha1="41b31e4869228998102ef4f5e14d2785a0a02c5d"/>
+	</machine>
+	<machine name="Oski's Pediatrics - Principles and Practice 3rd Edition - No Images">
+		<description>Oski's Pediatrics - Principles and Practice 3rd Edition - No Images</description>
+		<rom name="Oski's Pediatrics - Principles and Practice 3rd Edition - No Images.pdb" size="6944010" crc="f893a05e" md5="bc26e9ffbd8704bbd570245124aa3389" sha1="e8de85bfb5b287577864b9596d0fee0ccf00ab88"/>
+	</machine>
+	<machine name="Paget - Manual of Rheumatology and Outpatient Orthopedic Dis">
+		<description>Paget - Manual of Rheumatology and Outpatient Orthopedic Dis</description>
+		<rom name="Paget - Manual of Rheumatology and Outpatient Orthopedic Dis.pdb" size="2627173" crc="1b6393a1" md5="0177117111cb24c52d2032432bfb19a1" sha1="12b152881c9e2dd18ba604199730d5fa7ba289c1"/>
+	</machine>
+	<machine name="Paget - Manual of Rheumatology and Outpatient Orthopedic Disorders Diagnosis and Therapy 4th Edition - No Images">
+		<description>Paget - Manual of Rheumatology and Outpatient Orthopedic Disorders Diagnosis and Therapy 4th Edition - No Images</description>
+		<rom name="Paget - Manual of Rheumatology and Outpatient Orthopedic Disorders Diagnosis and Therapy 4th Edition - No Images.pdb" size="856265" crc="8faa3ba9" md5="65d2a243f8f3c61da7dc9d22b1bb96da" sha1="7911f5d5044ab1903e58569798055c1c6a2436eb"/>
+	</machine>
+	<machine name="Park - Pediatric Cardiology for Practitioners 4th ed">
+		<description>Park - Pediatric Cardiology for Practitioners 4th ed</description>
+		<rom name="Park - Pediatric Cardiology for Practitioners 4th ed.pdb" size="11226053" crc="fcfdce42" md5="faff8d0d61cdbaee0a39d46522ea3ca7" sha1="9e1fcee93b3fa27f6c1377b35d573c93920a455a"/>
+	</machine>
+	<machine name="Park - Pediatric Cardiology for Practitioners 4th Edition - Big I">
+		<description>Park - Pediatric Cardiology for Practitioners 4th Edition - Big I</description>
+		<rom name="Park - Pediatric Cardiology for Practitioners 4th Edition - Big I.pdb" size="28229325" crc="410cafe3" md5="5e646e9030407d1edda229d034d04c9e" sha1="426c46944b51ebad4037a6db43e10446b0c8a9aa"/>
+	</machine>
+	<machine name="Park - Pediatric Cardiology for Practitioners 4th Edition - No Images">
+		<description>Park - Pediatric Cardiology for Practitioners 4th Edition - No Images</description>
+		<rom name="Park - Pediatric Cardiology for Practitioners 4th Edition - No Images.pdb" size="856567" crc="3e25b7d7" md5="ca02169ac9bf8929c0e015f5ee0b685d" sha1="e082f6450b9eacefac207166e538dd24fb867973"/>
+	</machine>
+	<machine name="Patterson's Allergic Diseases 6th ed">
+		<description>Patterson's Allergic Diseases 6th ed</description>
+		<rom name="Patterson's Allergic Diseases 6th ed.pdb" size="9118891" crc="48e31729" md5="9030c1d62801d22d42b3028c0addaeba" sha1="b53ac8e9192c984cc3b38c215e1ed45cbb42679c"/>
+	</machine>
+	<machine name="Patterson's Allergic Diseases 6th Edition - No Images">
+		<description>Patterson's Allergic Diseases 6th Edition - No Images</description>
+		<rom name="Patterson's Allergic Diseases 6th Edition - No Images.pdb" size="1538515" crc="93575f4c" md5="a8674585e04ec67b4fe993b71e578a48" sha1="9c2dca32fe75dc45cf8017f16eb3e331299e2615"/>
+	</machine>
+	<machine name="Paul - Fundamental Immunology 5th ed">
+		<description>Paul - Fundamental Immunology 5th ed</description>
+		<rom name="Paul - Fundamental Immunology 5th ed.pdb" size="13618828" crc="3a605a6f" md5="037903acb312c04960ea5d5fee9c9c63" sha1="d9cb554ca7a87ab7b6b5645914ebd15e368eea9f"/>
+	</machine>
+	<machine name="Paul - Fundamental Immunology 5th Edition - No Images">
+		<description>Paul - Fundamental Immunology 5th Edition - No Images</description>
+		<rom name="Paul - Fundamental Immunology 5th Edition - No Images.pdb" size="4665635" crc="4ab6982f" md5="8887cf59e1af21f0641c81b0818a326a" sha1="85fd7068002edad47d2b33aee5f33863557ee9d0"/>
+	</machine>
+	<machine name="Pavan-Langston - Manual of Ocular Diagnosis and Therapy 5th ">
+		<description>Pavan-Langston - Manual of Ocular Diagnosis and Therapy 5th </description>
+		<rom name="Pavan-Langston - Manual of Ocular Diagnosis and Therapy 5th .pdb" size="2957723" crc="18661bb1" md5="206f4c22d2fdd2ba939ea61ea8a693dc" sha1="415668000d67c3e8b95944ef58ebe96474073495"/>
+	</machine>
+	<machine name="Pavan-Langston - Manual of Ocular Diagnosis and Therapy 5th Edition - No Images">
+		<description>Pavan-Langston - Manual of Ocular Diagnosis and Therapy 5th Edition - No Images</description>
+		<rom name="Pavan-Langston - Manual of Ocular Diagnosis and Therapy 5th Edition - No Images.pdb" size="776124" crc="6d89fa8b" md5="c8a97916c602a17447e997458f83b970" sha1="71dd92bc121f6b84415157888b855b5a9e869baa"/>
+	</machine>
+	<machine name="Pediatric Surgical Handbook">
+		<description>Pediatric Surgical Handbook</description>
+		<rom name="Pediatric Surgical Handbook.pdb" size="215294" crc="d79a3f9a" md5="0e009062aa0d6ad2e867c5115574e580" sha1="ca5c31e15de1f07f7e43f0824fefb880bccb083a"/>
+	</machine>
+	<machine name="Peitzman - The Trauma Manual 2nd ed">
+		<description>Peitzman - The Trauma Manual 2nd ed</description>
+		<rom name="Peitzman - The Trauma Manual 2nd ed.pdb" size="5230656" crc="66e24c7a" md5="bd680f74113015eab3d9793073b13e35" sha1="04e7be874aa5957a5b238c367c288a6ed444ab9a"/>
+	</machine>
+	<machine name="Peitzman - The Trauma Manual 2nd Edition - No Images">
+		<description>Peitzman - The Trauma Manual 2nd Edition - No Images</description>
+		<rom name="Peitzman - The Trauma Manual 2nd Edition - No Images.pdb" size="739403" crc="3fd8b755" md5="0928e58b356f46d29b51ed18dc2775fc" sha1="8925fafb53858671ad2452b9154b893dc67cd085"/>
+	</machine>
+	<machine name="Perry - The Chemotherapy Source Book 3rd ed">
+		<description>Perry - The Chemotherapy Source Book 3rd ed</description>
+		<rom name="Perry - The Chemotherapy Source Book 3rd ed.pdb" size="10468497" crc="3f913680" md5="da3f58a29314ca41d8c47ccbee2c7fbf" sha1="20dda9cbe8a560418b31bdae1746fec26be4adf2"/>
+	</machine>
+	<machine name="Perry - The Chemotherapy Source Book 3rd Edition - No Images">
+		<description>Perry - The Chemotherapy Source Book 3rd Edition - No Images</description>
+		<rom name="Perry - The Chemotherapy Source Book 3rd Edition - No Images.pdb" size="3404429" crc="068bc388" md5="0322d1c194014703963974df755ca58b" sha1="2a683445a8d2a6a0dca952324897b26ae0cd03e8"/>
+	</machine>
+	<machine name="Pizzo - Principles and Practice of Pediatric Oncology 4th Ed">
+		<description>Pizzo - Principles and Practice of Pediatric Oncology 4th Ed</description>
+		<rom name="Pizzo - Principles and Practice of Pediatric Oncology 4th Ed.pdb" size="23642962" crc="dafd229b" md5="5b4d1dfc2ef2c182258aadccda3a5344" sha1="28364583d7ee4afeecf708d3ca309b88b22163aa"/>
+	</machine>
+	<machine name="Pizzo - Principles and Practice of Pediatric Oncology 4th Edition - No Images">
+		<description>Pizzo - Principles and Practice of Pediatric Oncology 4th Edition - No Images</description>
+		<rom name="Pizzo - Principles and Practice of Pediatric Oncology 4th Edition - No Images.pdb" size="4667373" crc="3cbc53b2" md5="8281f7c642617f49cd2f887ddee740fc" sha1="639834e13b9039d85d90a7dbe596f29bd1494f13"/>
+	</machine>
+	<machine name="Pizzorno - Textbook of Natural Medicine 2nd Edition - Big Images">
+		<description>Pizzorno - Textbook of Natural Medicine 2nd Edition - Big Images</description>
+		<rom name="Pizzorno - Textbook of Natural Medicine 2nd Edition - Big Images.pdb" size="9137706" crc="aecadf48" md5="845c0142a9f12ce0ccf9a573d2e9d526" sha1="ee3d98872249214f8dcdb2e571ccfda34683c01b"/>
+	</machine>
+	<machine name="Rakel - Integrative Medicine 2002 - Big Images">
+		<description>Rakel - Integrative Medicine 2002 - Big Images</description>
+		<rom name="Rakel - Integrative Medicine 2002 - Big Images.pdb" size="9168883" crc="f3e603d3" md5="0f9c419430cdc1680c4b6c2f18e426ec" sha1="4202515ceff4dc45ebecbdef8497202e201a0deb"/>
+	</machine>
+	<machine name="Rakel - Textbook of Family Practice 6th Edition - Big Images">
+		<description>Rakel - Textbook of Family Practice 6th Edition - Big Images</description>
+		<rom name="Rakel - Textbook of Family Practice 6th Edition - Big Images.pdb" size="60101559" crc="01f64d74" md5="60b1bd368f26592309376e60f439d033" sha1="3730d906c2524ca161f24849cd7ca38b44030e20"/>
+	</machine>
+	<machine name="Ravel - Clinical Laboratory Medicine - Clinical Applications">
+		<description>Ravel - Clinical Laboratory Medicine - Clinical Applications</description>
+		<rom name="Ravel - Clinical Laboratory Medicine - Clinical Applications.pdb" size="3693983" crc="af14b802" md5="766af518fbe6fcc03c084d471134b80b" sha1="c1c7d3b9ef7d5bfa94603d5173ab5c911bac0f63"/>
+	</machine>
+	<machine name="Ravel - Clinical Laboratory Medicine - Clinical Applications of Laboratory Data 6th Edition - No Images">
+		<description>Ravel - Clinical Laboratory Medicine - Clinical Applications of Laboratory Data 6th Edition - No Images</description>
+		<rom name="Ravel - Clinical Laboratory Medicine - Clinical Applications of Laboratory Data 6th Edition - No Images.pdb" size="1474660" crc="5d9644c1" md5="1d413a595d779cf70efd5a5eb5a5063e" sha1="20a3a96d2bb34d1beb7e90c6c396352a8e97e484"/>
+	</machine>
+	<machine name="Raymond - Pediatric Primary Care Ill-Child Car - No Images">
+		<description>Raymond - Pediatric Primary Care Ill-Child Car - No Images</description>
+		<rom name="Raymond - Pediatric Primary Care Ill-Child Car - No Images.pdb" size="338962" crc="d50d978b" md5="332eb67e1183067a3fa00de163c6b4fb" sha1="0c9638722ba624bf752a4175c7f12055916ae97c"/>
+	</machine>
+	<machine name="Raymond - Pediatric Primary Care Ill-Child Care">
+		<description>Raymond - Pediatric Primary Care Ill-Child Care</description>
+		<rom name="Raymond - Pediatric Primary Care Ill-Child Care.pdb" size="2456457" crc="9afa3d82" md5="003afaef71c7cd1bccaf1f7de0e63475" sha1="a07eabf823c97498557e807a203a848ffc0c64a9"/>
+	</machine>
+	<machine name="Raymond - Pediatric Primary Care Well-Child Care">
+		<description>Raymond - Pediatric Primary Care Well-Child Care</description>
+		<rom name="Raymond - Pediatric Primary Care Well-Child Care.pdb" size="2514429" crc="92531ff6" md5="d486b3fd10a91d40d6258c3c64a295dd" sha1="cfce8fcf6dd5e0a1537b19e3a60421e90c812183"/>
+	</machine>
+	<machine name="Raymond - Pediatric Primary Care Well-Child Care - No Images">
+		<description>Raymond - Pediatric Primary Care Well-Child Care - No Images</description>
+		<rom name="Raymond - Pediatric Primary Care Well-Child Care - No Images.pdb" size="458218" crc="770726d3" md5="65ff845d31a7ca056025a0f32f184bd7" sha1="8ea1a76aca86a15285f5eea708d9aa1a3f9a2a95"/>
+	</machine>
+	<machine name="Rhee - The Wills Eye Manual Office and Emergency Room Diagno">
+		<description>Rhee - The Wills Eye Manual Office and Emergency Room Diagno</description>
+		<rom name="Rhee - The Wills Eye Manual Office and Emergency Room Diagno.pdb" size="1097947" crc="79f7c4d8" md5="84112b59851bf6474b1749d0ebfa0266" sha1="e8e72a0cde05ced68558af9cdeca3cbb29cfc998"/>
+	</machine>
+	<machine name="Rhee - The Wills Eye Manual Office and Emergency Room Diagnosis and Treatment of Eye Disease 3rd Edition - No Images">
+		<description>Rhee - The Wills Eye Manual Office and Emergency Room Diagnosis and Treatment of Eye Disease 3rd Edition - No Images</description>
+		<rom name="Rhee - The Wills Eye Manual Office and Emergency Room Diagnosis and Treatment of Eye Disease 3rd Edition - No Images.pdb" size="625612" crc="8413a527" md5="8f482ef715f2bf95b246e679069cd311" sha1="98cfb77c00416079e6a0a5a976d182136e4b1d3e"/>
+	</machine>
+	<machine name="Robbins Pathologic Basis of Disease, 6th Edition">
+		<description>Robbins Pathologic Basis of Disease, 6th Edition</description>
+		<rom name="Robbins Pathologic Basis of Disease, 6th Edition.pdb" size="4216918" crc="339b983e" md5="473be793862a6d9c6106c165ea9fa187" sha1="96c59865653e5917ad6724cab28fdae58ba0918d"/>
+	</machine>
+	<machine name="Roberts &amp; Hedges - Clinical Procedures in Emergency Medicine">
+		<description>Roberts &amp; Hedges - Clinical Procedures in Emergency Medicine</description>
+		<rom name="Roberts &amp; Hedges - Clinical Procedures in Emergency Medicine.pdb" size="223537223" crc="c1e1b88a" md5="19c70b98c8b8d4e05e202dc5bab81d40" sha1="56a113f8f57cda3d9636d09d49bbb628c3ecdd1a"/>
+	</machine>
+	<machine name="Roberts &amp; Hedges - Clinical Procedures in Emergency Medicine 4th ed">
+		<description>Roberts &amp; Hedges - Clinical Procedures in Emergency Medicine 4th ed</description>
+		<rom name="Roberts &amp; Hedges - Clinical Procedures in Emergency Medicine 4th ed.pdb" size="74962112" crc="e7715d8c" md5="017794b779cafaa50a19e3390716e994" sha1="8b257f81d53ce0820da3ee51baf06b44427c219c"/>
+	</machine>
+	<machine name="Roberts &amp; Hedges - Clinical Procedures in Emergency Medicine 4th Edition - No Images">
+		<description>Roberts &amp; Hedges - Clinical Procedures in Emergency Medicine 4th Edition - No Images</description>
+		<rom name="Roberts &amp; Hedges - Clinical Procedures in Emergency Medicine 4th Edition - No Images.pdb" size="4190692" crc="4136e9da" md5="91ba29d4766d6bb33e3d551c316eeaf2" sha1="b51f1ecb89b01ec0d62190667567dc00d443db82"/>
+	</machine>
+	<machine name="Roberts - Manual of Clinical Problems in Pediatrics 5th ed">
+		<description>Roberts - Manual of Clinical Problems in Pediatrics 5th ed</description>
+		<rom name="Roberts - Manual of Clinical Problems in Pediatrics 5th ed.pdb" size="1073441" crc="908e03a7" md5="7bd80cdd8910febb7517f19d30bfc72a" sha1="e68e05d34bd027eb55af755410f976c5d77dc1e2"/>
+	</machine>
+	<machine name="Roberts - Manual of Clinical Problems in Pediatrics 5th Edition - No Images">
+		<description>Roberts - Manual of Clinical Problems in Pediatrics 5th Edition - No Images</description>
+		<rom name="Roberts - Manual of Clinical Problems in Pediatrics 5th Edition - No Images.pdb" size="1003493" crc="74dec04e" md5="5d4ccf100ef14211f8203a1af3605063" sha1="38858f6b7ba8bde3514b2cfb2cf94b45ba808332"/>
+	</machine>
+	<machine name="Roberts and Hedges Emergency Medicine Procedures">
+		<description>Roberts and Hedges Emergency Medicine Procedures</description>
+		<rom name="Roberts and Hedges Emergency Medicine Procedures.PDB" size="2381446" crc="1b040ece" md5="f1355baca59079f8489a841c4878259b" sha1="395c8b1d9b385ff3b9d1b02536cf705194f8d872"/>
+	</machine>
+	<machine name="Rockwood Fractures in Adults -  No Images">
+		<description>Rockwood Fractures in Adults -  No Images</description>
+		<rom name="Rockwood Fractures in Adults -  No Images.pdb" size="4206236" crc="486cd524" md5="1c902bc99916c8dbb5d324460c411a87" sha1="bf369456903dd909c3d3d5d356a993783f9d14c4"/>
+	</machine>
+	<machine name="Rockwood Fractures in Adults 5ed">
+		<description>Rockwood Fractures in Adults 5ed</description>
+		<rom name="Rockwood Fractures in Adults 5ed.pdb" size="62006227" crc="dee25f6b" md5="36b67abb7a090ba6cdfbec2bc7171ef3" sha1="b2192a8b028a943f088ec1ec5434a5af03931b29"/>
+	</machine>
+	<machine name="Rockwood Fractures in children -  No Images">
+		<description>Rockwood Fractures in children -  No Images</description>
+		<rom name="Rockwood Fractures in children -  No Images.pdb" size="2092094" crc="95be98e1" md5="333758a08fad667394d7cd452aadbbd9" sha1="65f7bc47e5be65351ccaa9fd6f0cfb052a01e903"/>
+	</machine>
+	<machine name="Rockwood Fractures in children 5ed">
+		<description>Rockwood Fractures in children 5ed</description>
+		<rom name="Rockwood Fractures in children 5ed.pdb" size="37468996" crc="adf8a69c" md5="d42e3e7df94d5daf24cfca188b22ca0d" sha1="d79f594ac2d928958b0c8edac10e18761e41662c"/>
+	</machine>
+	<machine name="Rosenberg - Cancer - Principles and Practice of Oncology 6th">
+		<description>Rosenberg - Cancer - Principles and Practice of Oncology 6th</description>
+		<rom name="Rosenberg - Cancer - Principles and Practice of Oncology 6th.pdb" size="62122795" crc="5d56a1d1" md5="d465e36176f3017274b8f942d51c72a2" sha1="00040041dc1d8b3a983e1ea01793ebf1ac8a0ccd"/>
+	</machine>
+	<machine name="Rosenberg - Cancer - Principles and Practice of Oncology 6th Edition - No Images">
+		<description>Rosenberg - Cancer - Principles and Practice of Oncology 6th Edition - No Images</description>
+		<rom name="Rosenberg - Cancer - Principles and Practice of Oncology 6th Edition - No Images.pdb" size="10427355" crc="da07f151" md5="d77a88f9b63c395fd15c9b2c178f047d" sha1="035590328e97495d477158d43f2aaf68ab29d8f4"/>
+	</machine>
+	<machine name="Rubin Ovarian Cancer 2ed">
+		<description>Rubin Ovarian Cancer 2ed</description>
+		<rom name="Rubin Ovarian Cancer 2ed.pdb" size="6883646" crc="77ec272c" md5="e8f7006bab795ded8cf4129105b8074c" sha1="b604b093b7efe376e0c347db79a5fac43fc78a00"/>
+	</machine>
+	<machine name="Ruddy - Kelley's Textbook of Rheumatology 6th Ed">
+		<description>Ruddy - Kelley's Textbook of Rheumatology 6th Ed</description>
+		<rom name="Ruddy - Kelley's Textbook of Rheumatology 6th Ed.pdb" size="67529334" crc="c55bc904" md5="b6148b5ff661f0739f9a10b4157f6173" sha1="67715d015684462e1a8cbec8e4652c033888940a"/>
+	</machine>
+	<machine name="Ruddy - Kelley's Textbook of Rheumatology 6th Edition - Big Image">
+		<description>Ruddy - Kelley's Textbook of Rheumatology 6th Edition - Big Image</description>
+		<rom name="Ruddy - Kelley's Textbook of Rheumatology 6th Edition - Big Image.pdb" size="207377880" crc="adf58a6d" md5="c147f4ed867d3f20d19d7d82bb88e82f" sha1="578a9b72667de2fb06882f563e77141de3d713e4"/>
+	</machine>
+	<machine name="Ruddy - Kelley's Textbook of Rheumatology 6th Edition - No Images">
+		<description>Ruddy - Kelley's Textbook of Rheumatology 6th Edition - No Images</description>
+		<rom name="Ruddy - Kelley's Textbook of Rheumatology 6th Edition - No Images.pdb" size="5154435" crc="107e2f87" md5="41e4ddd5bfdcca102d17903908883c89" sha1="188f6065fe6d548a6535c6264fe6a1ea744b0233"/>
+	</machine>
+	<machine name="Sabiston Textbook of Surgery 17th ed">
+		<description>Sabiston Textbook of Surgery 17th ed</description>
+		<rom name="Sabiston Textbook of Surgery 17th ed.pdb" size="83161664" crc="8f5288e3" md5="cf7614b6e7abe9f14c906696afe63ebc" sha1="c0b0eb07c218d985f132133d3b7187931c9c26f1"/>
+	</machine>
+	<machine name="Sabiston Textbook of Surgery 17th Edition - Big Img">
+		<description>Sabiston Textbook of Surgery 17th Edition - Big Img</description>
+		<rom name="Sabiston Textbook of Surgery 17th Edition - Big Img.pdb" size="256889668" crc="06020994" md5="938e9c857fef4584503648ee6209fadc" sha1="60bdd206ef06d9b63554d7b135578fdc4e4518b0"/>
+	</machine>
+	<machine name="Sabiston Textbook of Surgery 17th Edition - No Img">
+		<description>Sabiston Textbook of Surgery 17th Edition - No Img</description>
+		<rom name="Sabiston Textbook of Surgery 17th Edition - No Img.pdb" size="5945641" crc="931da30e" md5="89ec45b3687b0fd464b579edc7c86877" sha1="7623dc4cc29c95335e910af00ca9fa57b339f160"/>
+	</machine>
+	<machine name="Sabiston Textbook of Surgery, 16th Edition">
+		<description>Sabiston Textbook of Surgery, 16th Edition</description>
+		<rom name="Sabiston Textbook of Surgery, 16th Edition.pdb" size="7301655" crc="540978a7" md5="f6d8b6d94d85abb48344ec400566627f" sha1="1e6943d1f6e1aba57ac87d7cc78b0448996b2287"/>
+	</machine>
+	<machine name="Samuels - Manual of Neurologic Therapeutics 6th ed">
+		<description>Samuels - Manual of Neurologic Therapeutics 6th ed</description>
+		<rom name="Samuels - Manual of Neurologic Therapeutics 6th ed.pdb" size="1839135" crc="3fdd4eb4" md5="75cde4e7169eeb120543a546f993c7fb" sha1="0fd4d3e80055535f327d85e7fc63911b8fa9c0b7"/>
+	</machine>
+	<machine name="Samuels - Manual of Neurologic Therapeutics 6th Edition - No Images">
+		<description>Samuels - Manual of Neurologic Therapeutics 6th Edition - No Images</description>
+		<rom name="Samuels - Manual of Neurologic Therapeutics 6th Edition - No Images.pdb" size="714616" crc="66ec71a7" md5="072ab9a3a234b244a02ac1bf0395a025" sha1="ac9d20f6a494b34bcd8ad46a3dc2aac637d568af"/>
+	</machine>
+	<machine name="Schrier - Diseases of the Kidney and Urinary Tract  7th ed">
+		<description>Schrier - Diseases of the Kidney and Urinary Tract  7th ed</description>
+		<rom name="Schrier - Diseases of the Kidney and Urinary Tract  7th ed.pdb" size="55685033" crc="90347a85" md5="e8c5b2e46fc69a0c3ea4f66ec57b9329" sha1="bf57f26da18f49978e14e44ba27cc274dba72307"/>
+	</machine>
+	<machine name="Schrier - Diseases of the Kidney and Urinary Tract  7th Edition - No Images">
+		<description>Schrier - Diseases of the Kidney and Urinary Tract  7th Edition - No Images</description>
+		<rom name="Schrier - Diseases of the Kidney and Urinary Tract  7th Edition - No Images.pdb" size="8797814" crc="94dca0f8" md5="859b315e1ea78ae529bc7e89758611d4" sha1="74cb62a527eb2c689d689b23f1be112cef0870f6"/>
+	</machine>
+	<machine name="Schrier - Manual of Nephrology Diagnosis and Therapy 5th ed">
+		<description>Schrier - Manual of Nephrology Diagnosis and Therapy 5th ed</description>
+		<rom name="Schrier - Manual of Nephrology Diagnosis and Therapy 5th ed.pdb" size="3359855" crc="a51b3b7b" md5="63d798b9a6efd0287af502aae1d0ddcf" sha1="d2ffb449377f071b86d7d1e96ab6d342df86dd17"/>
+	</machine>
+	<machine name="Schrier - Manual of Nephrology Diagnosis and Therapy 5th Edition - No Images">
+		<description>Schrier - Manual of Nephrology Diagnosis and Therapy 5th Edition - No Images</description>
+		<rom name="Schrier - Manual of Nephrology Diagnosis and Therapy 5th Edition - No Images.pdb" size="394229" crc="34d50d15" md5="bf85f6fdb1e4ee82b0f91ee53b5be934" sha1="df57f8bc9c4160ac0eeda5bab734243a6b0eeee8"/>
+	</machine>
+	<machine name="Schwartz - Principles and Practice of Emergency Medicine 4th">
+		<description>Schwartz - Principles and Practice of Emergency Medicine 4th</description>
+		<rom name="Schwartz - Principles and Practice of Emergency Medicine 4th.pdb" size="50615730" crc="24a54fea" md5="292a030aff83f15b7e1ec97e6def664f" sha1="951c3769762f90c8c400acc4cf3f9bc6114b012e"/>
+	</machine>
+	<machine name="Schwartz - Principles and Practice of Emergency Medicine 4th Edition - No Images">
+		<description>Schwartz - Principles and Practice of Emergency Medicine 4th Edition - No Images</description>
+		<rom name="Schwartz - Principles and Practice of Emergency Medicine 4th Edition - No Images.pdb" size="5516115" crc="52aa980a" md5="0c0deb2060c97438b33aa48216f9ab25" sha1="dc3ca6f8ca7feb2dae953835354bddc2df52746c"/>
+	</machine>
+	<machine name="Schwartz - Principles of Surgery, Companion Handbook 7th ed">
+		<description>Schwartz - Principles of Surgery, Companion Handbook 7th ed</description>
+		<rom name="Schwartz - Principles of Surgery, Companion Handbook 7th ed.pdb" size="3450257" crc="e62f5945" md5="d98cd0113a7529191cef416cf0610ddc" sha1="e3cd6d445d8b8461ca84cc3253a1ac7f2f3081eb"/>
+	</machine>
+	<machine name="Schwartz - Principles of Surgery, Companion Handbook 7th Edition - No Images">
+		<description>Schwartz - Principles of Surgery, Companion Handbook 7th Edition - No Images</description>
+		<rom name="Schwartz - Principles of Surgery, Companion Handbook 7th Edition - No Images.pdb" size="1004396" crc="b2707445" md5="6d3623f143b76b1ce519367ca19c62ef" sha1="9dd1e8c7cb5c38977fd9ad159a3a0b7b6a39ccf0"/>
+	</machine>
+	<machine name="Schwartz Principles of Surgery 7ed">
+		<description>Schwartz Principles of Surgery 7ed</description>
+		<rom name="Schwartz Principles of Surgery 7ed.pdb" size="3622402" crc="e55d0d96" md5="7475d24f543d0dd54d25f274232e5e2b" sha1="d3f5f8bd3a8da642dc3d50cbac8123b780ab9b54"/>
+	</machine>
+	<machine name="Shils - Modern Nutrition in Health and Disease 9th ed">
+		<description>Shils - Modern Nutrition in Health and Disease 9th ed</description>
+		<rom name="Shils - Modern Nutrition in Health and Disease 9th ed.pdb" size="26082473" crc="da47a2cf" md5="f8cbac7ea969fccab65faeb0a2956b79" sha1="fca54d269be65676bcd5fc21642958eabb6e6284"/>
+	</machine>
+	<machine name="Shils - Modern Nutrition in Health and Disease 9th Edition - No Images">
+		<description>Shils - Modern Nutrition in Health and Disease 9th Edition - No Images</description>
+		<rom name="Shils - Modern Nutrition in Health and Disease 9th Edition - No Images.pdb" size="4606993" crc="0e1427fe" md5="3c01a8e6d12b257d2db73af850f53e52" sha1="ea670847620696420c5e29e5a1f2455dac384e18"/>
+	</machine>
+	<machine name="Singleton - Primary Care 1st ed">
+		<description>Singleton - Primary Care 1st ed</description>
+		<rom name="Singleton - Primary Care 1st ed.pdb" size="14113717" crc="03392d4c" md5="ef5048b70afc8961c8541d94925ce91b" sha1="3260b338c7d317527648d98e9597e4c6d6a6670f"/>
+	</machine>
+	<machine name="Singleton - Primary Care 1st Edition - No Images">
+		<description>Singleton - Primary Care 1st Edition - No Images</description>
+		<rom name="Singleton - Primary Care 1st Edition - No Images.pdb" size="2029203" crc="a2de7f53" md5="79e96be8f15d348b5820e276a5b1756f" sha1="ea782abbc58e118ae75dc547d39eea33b4ffaba3"/>
+	</machine>
+	<machine name="Siroky - Manual of Urology Diagnosis and Therapy 2nd ed">
+		<description>Siroky - Manual of Urology Diagnosis and Therapy 2nd ed</description>
+		<rom name="Siroky - Manual of Urology Diagnosis and Therapy 2nd ed.pdb" size="4150536" crc="f8fdc980" md5="36e74ffa026087611134dafd62809e15" sha1="ef08c15c8e0ab2ea860089faac96b459b7292947"/>
+	</machine>
+	<machine name="Siroky - Manual of Urology Diagnosis and Therapy 2nd Edition - No Images">
+		<description>Siroky - Manual of Urology Diagnosis and Therapy 2nd Edition - No Images</description>
+		<rom name="Siroky - Manual of Urology Diagnosis and Therapy 2nd Edition - No Images.pdb" size="448861" crc="5a513070" md5="9975e0d523ad122046a0c3eda4587ba0" sha1="3235304dca7f6b3aa2be88776476017d6b6e5966"/>
+	</machine>
+	<machine name="Souhami - Oxford Textbook of Oncology">
+		<description>Souhami - Oxford Textbook of Oncology</description>
+		<rom name="Souhami - Oxford Textbook of Oncology.pdb" size="54671427" crc="6bbe99d4" md5="14864d175b263974033fa0341d9d7da0" sha1="64dc4a31f5c037eaea79b72fc36e9044771df9a7"/>
+	</machine>
+	<machine name="Souhami - Oxford Textbook of Oncology - No Images">
+		<description>Souhami - Oxford Textbook of Oncology - No Images</description>
+		<rom name="Souhami - Oxford Textbook of Oncology - No Images.pdb" size="7156817" crc="48df1932" md5="b9d8500da5d9c6f029c0a2ef25f5f242" sha1="83de5d2be4a92bcf0ea2c3ec7b00d7bc27fd611e"/>
+	</machine>
+	<machine name="Speer - Pediatric Care Planning 3rd ed">
+		<description>Speer - Pediatric Care Planning 3rd ed</description>
+		<rom name="Speer - Pediatric Care Planning 3rd ed.pdb" size="614998" crc="10e94462" md5="887d789c1e5b52f0ef4d864c135449b6" sha1="2b47a411c73882975d9634bf1d5c4b1068ad8f90"/>
+	</machine>
+	<machine name="Speer - Pediatric Care Planning 3rd Edition - No Images">
+		<description>Speer - Pediatric Care Planning 3rd Edition - No Images</description>
+		<rom name="Speer - Pediatric Care Planning 3rd Edition - No Images.pdb" size="351283" crc="d7ec8b34" md5="a4fd07e8adbb36aad5f45e68b1915a2c" sha1="a791c8be00b1dfc62804240ea778c636139b9683"/>
+	</machine>
+	<machine name="Speroff - Clinical Gynecologic Endocrinology and Infertility">
+		<description>Speroff - Clinical Gynecologic Endocrinology and Infertility</description>
+		<rom name="Speroff - Clinical Gynecologic Endocrinology and Infertility.pdb" size="8133513" crc="24bed30a" md5="a3bdf0c332d5d783d683fc58edddc248" sha1="d94161fe22182413f921cda6770ab6cf04a8a9f4"/>
+	</machine>
+	<machine name="Stenchever - Comprehensive Gynecology 4th ed">
+		<description>Stenchever - Comprehensive Gynecology 4th ed</description>
+		<rom name="Stenchever - Comprehensive Gynecology 4th ed.pdb" size="44231127" crc="36e9ab0d" md5="05f483ee7c00e22893fe21bc65f26eb2" sha1="88c7c2e64a37448ce1d2dba48ad89d93a2239b0e"/>
+	</machine>
+	<machine name="Stenchever - Comprehensive Gynecology 4th Edition - Big Images">
+		<description>Stenchever - Comprehensive Gynecology 4th Edition - Big Images</description>
+		<rom name="Stenchever - Comprehensive Gynecology 4th Edition - Big Images.pdb" size="118137492" crc="4cb0e17c" md5="bb40b65a79f38a920bb7b5605ac3c4a9" sha1="e713d1d97312594c9992729623bd3914fa676ca4"/>
+	</machine>
+	<machine name="Stenchever - Comprehensive Gynecology 4th Edition - No Images">
+		<description>Stenchever - Comprehensive Gynecology 4th Edition - No Images</description>
+		<rom name="Stenchever - Comprehensive Gynecology 4th Edition - No Images.pdb" size="2691437" crc="95160302" md5="9d4e9affc14f40d68353d69786e94fbd" sha1="36a63fbc644ad633ad73533a98e8da1e43c68188"/>
+	</machine>
+	<machine name="Sweet - Infectious Diseases of the Female Genital Tract 4ed">
+		<description>Sweet - Infectious Diseases of the Female Genital Tract 4ed</description>
+		<rom name="Sweet - Infectious Diseases of the Female Genital Tract 4ed.pdb" size="11077349" crc="d24ffa07" md5="cf900e5f21d803439e9a2197b8845e53" sha1="0d57031b47117f734861503cfcc3082f261e958d"/>
+	</machine>
+	<machine name="Taylor - Manual of Family Practice 2nd ed">
+		<description>Taylor - Manual of Family Practice 2nd ed</description>
+		<rom name="Taylor - Manual of Family Practice 2nd ed.pdb" size="3187251" crc="7d9604ec" md5="643662bbe78e79258801e6dc44f773f8" sha1="f9c0fe0bc98f7a9aa91a129c3025a7a63eb7c838"/>
+	</machine>
+	<machine name="Taylor - Manual of Family Practice 2nd Edition - No Images">
+		<description>Taylor - Manual of Family Practice 2nd Edition - No Images</description>
+		<rom name="Taylor - Manual of Family Practice 2nd Edition - No Images.pdb" size="1178629" crc="203d6d44" md5="7c822d750195169c0b97161907349ebd" sha1="2ba4d2ec69120d4d1da9cf91242a3cd2af7fb02d"/>
+	</machine>
+	<machine name="The ICU Book 2nd Ed">
+		<description>The ICU Book 2nd Ed</description>
+		<rom name="The ICU Book 2nd Ed.pdb" size="949033" crc="de645fd1" md5="e83b527895012105d810e8769d6c8f08" sha1="4fe6a040eb571fcd9605698c0e5b1b7032c03610"/>
+	</machine>
+	<machine name="The Johns Hopkins Manual of Gynecology and Obstetrics 2nd ed">
+		<description>The Johns Hopkins Manual of Gynecology and Obstetrics 2nd ed</description>
+		<rom name="The Johns Hopkins Manual of Gynecology and Obstetrics 2nd ed.pdb" size="4088972" crc="7b44184d" md5="dd6f368ccdc0778a785bd7e90253c3fb" sha1="c0a192d16d3f2b0e229acf5b0ab1132cc18175eb"/>
+	</machine>
+	<machine name="The Johns Hopkins Manual of Gynecology and Obstetrics 2nd Edition - No Images">
+		<description>The Johns Hopkins Manual of Gynecology and Obstetrics 2nd Edition - No Images</description>
+		<rom name="The Johns Hopkins Manual of Gynecology and Obstetrics 2nd Edition - No Images.pdb" size="808866" crc="f8ac708f" md5="af70ffb7e5da382cb23813acb7d289e0" sha1="e36f7ee22d997e4673162575ed1d6d9aa62b433d"/>
+	</machine>
+	<machine name="The Review of Natural Products 2004">
+		<description>The Review of Natural Products 2004</description>
+		<rom name="The Review of Natural Products 2004.pdb" size="2270233" crc="c6e23b23" md5="6b52593a66d1f1e4e92171a0561fcdf6" sha1="2a1809c7cde6bcb246187157abe0e9448c94605d"/>
+	</machine>
+	<machine name="The_Surgical_Intern_Pocket_Surv">
+		<description>The_Surgical_Intern_Pocket_Surv</description>
+		<rom name="The_Surgical_Intern_Pocket_Surv.PDB" size="102132" crc="98aa0335" md5="aca1cdd0e44f31015307b6038456543c" sha1="81632b0b95cba25a8dce83e6b1e9d0a0a55002d3"/>
+	</machine>
+	<machine name="Tintinalli - Emergency Medicine A Comprehensive Study Guide ">
+		<description>Tintinalli - Emergency Medicine A Comprehensive Study Guide </description>
+		<rom name="Tintinalli - Emergency Medicine A Comprehensive Study Guide .pdb" size="45368030" crc="919affb7" md5="ad612bb534444c7b34a1195d2a8bb962" sha1="2396a95c8df3754c61651d779ecfa77baded2b1d"/>
+	</machine>
+	<machine name="Tintinalli - Emergency Medicine A Comprehensive Study Guide 6th Edition - No Images">
+		<description>Tintinalli - Emergency Medicine A Comprehensive Study Guide 6th Edition - No Images</description>
+		<rom name="Tintinalli - Emergency Medicine A Comprehensive Study Guide 6th Edition - No Images.pdb" size="5897165" crc="6c373912" md5="1133280820e31329334332be6b77cf3a" sha1="691a9600d66787f1db76519e808866be1d72f887"/>
+	</machine>
+	<machine name="Topol - Textbook of Cardiovascular Medicine 2002">
+		<description>Topol - Textbook of Cardiovascular Medicine 2002</description>
+		<rom name="Topol - Textbook of Cardiovascular Medicine 2002.pdb" size="180707736" crc="b7ac6823" md5="07812b03c287ac0a87b68f2ff9a633f2" sha1="8c320b29448684f0996043cbc1fd158009b199b1"/>
+	</machine>
+	<machine name="Topol - Textbook of Cardiovascular Medicine 2002 - No Images">
+		<description>Topol - Textbook of Cardiovascular Medicine 2002 - No Images</description>
+		<rom name="Topol - Textbook of Cardiovascular Medicine 2002 - No Images.pdb" size="8916397" crc="7c34bb37" md5="9b6229de5c57af2c8fc6dd306efe3e2d" sha1="ee219000c10f0d9ddafb31846138e6e3ee84baef"/>
+	</machine>
+	<machine name="University of Iowa Family Practice Handbook 4ed">
+		<description>University of Iowa Family Practice Handbook 4ed</description>
+		<rom name="University of Iowa Family Practice Handbook 4ed.pdb" size="2410537" crc="d6596cb3" md5="a92c8932a6e2521085e95e118ebf4281" sha1="dd11e8e2a45207a68721d815fa26e7f317ceb208"/>
+	</machine>
+	<machine name="Victor - Adams &amp; Victor's Principles Of Neurology 7th ed">
+		<description>Victor - Adams &amp; Victor's Principles Of Neurology 7th ed</description>
+		<rom name="Victor - Adams &amp; Victor's Principles Of Neurology 7th ed.pdb" size="13495156" crc="f92bb4ca" md5="e773aa42128427aff70ff9c202e838ae" sha1="98547ab52c0ec4d455648ed487f8469785e910be"/>
+	</machine>
+	<machine name="Victor - Adams &amp; Victor's Principles Of Neurology 7th Edition - No Images">
+		<description>Victor - Adams &amp; Victor's Principles Of Neurology 7th Edition - No Images</description>
+		<rom name="Victor - Adams &amp; Victor's Principles Of Neurology 7th Edition - No Images.pdb" size="3658750" crc="7ca05890" md5="df306255c9957f9a00af61f9c0703ccf" sha1="952b68e8d663cb96d533ce0d91b693b4763b5550"/>
+	</machine>
+	<machine name="Wachter - Hospital Medicine">
+		<description>Wachter - Hospital Medicine</description>
+		<rom name="Wachter - Hospital Medicine.pdb" size="13497674" crc="6f857aeb" md5="e7f3539d9c514dff1141bb85185cf10a" sha1="c28add1fdd152c03de41c504e9c3bb2818f438a2"/>
+	</machine>
+	<machine name="Wachter - Hospital Medicine  - No Images">
+		<description>Wachter - Hospital Medicine  - No Images</description>
+		<rom name="Wachter - Hospital Medicine  - No Images.pdb" size="2002364" crc="bc23dfec" md5="551cc01eee8d76ef31ec354b519f6ae9" sha1="a79694efdde305a60ff8445be31aa0bd68629ee1"/>
+	</machine>
+	<machine name="Wagner - Marriott's Practical Electrocardiography 10th ed">
+		<description>Wagner - Marriott's Practical Electrocardiography 10th ed</description>
+		<rom name="Wagner - Marriott's Practical Electrocardiography 10th ed.pdb" size="12468310" crc="f834c2a5" md5="50a73f3c7f8eccfbabcb22feafe5af59" sha1="17d70ec58b585ef2e109df99f2fa3f25e2c0959f"/>
+	</machine>
+	<machine name="Wagner - Marriott's Practical Electrocardiography 10th Edition - No Images">
+		<description>Wagner - Marriott's Practical Electrocardiography 10th Edition - No Images</description>
+		<rom name="Wagner - Marriott's Practical Electrocardiography 10th Edition - No Images.pdb" size="345574" crc="dda9c343" md5="cda9df860914ef44388296e481ff577c" sha1="a58a1dc9ca6411904da979bb1887e62ed85b8964"/>
+	</machine>
+	<machine name="Wallach - Interpretation of Diagnostic Tests 7th ed">
+		<description>Wallach - Interpretation of Diagnostic Tests 7th ed</description>
+		<rom name="Wallach - Interpretation of Diagnostic Tests 7th ed.pdb" size="6059234" crc="e95e7a35" md5="2c7214113eceb7d4afe9fa7e08841c08" sha1="69bfbd600bbd51e2dc9b610a87857f0f27b87a71"/>
+	</machine>
+	<machine name="Wallach - Interpretation of Diagnostic Tests 7th Edition  - No Images">
+		<description>Wallach - Interpretation of Diagnostic Tests 7th Edition  - No Images</description>
+		<rom name="Wallach - Interpretation of Diagnostic Tests 7th Edition  - No Images.pdb" size="1212563" crc="10ffacb8" md5="2e05710ae810b07be5a8e841afc95ec6" sha1="8f50c0e3a8340dd09ad9fe1a8dd9abb76dfca6ae"/>
+	</machine>
+	<machine name="Walls - Manual of Emergency Airway Management">
+		<description>Walls - Manual of Emergency Airway Management</description>
+		<rom name="Walls - Manual of Emergency Airway Management.pdb" size="1469049" crc="4d60152e" md5="cbd9f3ed0c1238ca193568eadb849996" sha1="075e903fc4d1c40c964f488c0b1f56f8621150f3"/>
+	</machine>
+	<machine name="Walls - Manual of Emergency Airway Management - No Images">
+		<description>Walls - Manual of Emergency Airway Management - No Images</description>
+		<rom name="Walls - Manual of Emergency Airway Management - No Images.pdb" size="294923" crc="f116392a" md5="ed24789c6f64d28ce3c03dd8274f54dd" sha1="9c53a23ce5fafb8e4d3622e7ae15f09e233c3406"/>
+	</machine>
+	<machine name="Walsh - Campbell's Urology 8th Edition ">
+		<description>Walsh - Campbell's Urology 8th Edition </description>
+		<rom name="Walsh - Campbell's Urology 8th Edition .pdb" size="10583139" crc="3de95535" md5="2b265c3ef354c4c587fc1d49af0145bd" sha1="ae536c618562a9a565bbc3596c28585184ffb78d"/>
+	</machine>
+	<machine name="Warrell - Oxford Textbook of Medicine 4th ed">
+		<description>Warrell - Oxford Textbook of Medicine 4th ed</description>
+		<rom name="Warrell - Oxford Textbook of Medicine 4th ed.pdb" size="92257134" crc="838b40ed" md5="ba6eb08d9365a2f11d0fcc1084ccd514" sha1="8edf8bd686c415a6b0f45b9e9ff391fe9a251a9f"/>
+	</machine>
+	<machine name="Warrell - Oxford Textbook of Medicine 4th Edition - No Images">
+		<description>Warrell - Oxford Textbook of Medicine 4th Edition - No Images</description>
+		<rom name="Warrell - Oxford Textbook of Medicine 4th Edition - No Images.pdb" size="11428217" crc="fc983f65" md5="29c630f7b0bff2bae47a103305235d66" sha1="67a1cce42839ea77dc61f094674c0e36674eb9b3"/>
+	</machine>
+	<machine name="Washington Manual of Diagnosis and Therapy 30ed">
+		<description>Washington Manual of Diagnosis and Therapy 30ed</description>
+		<rom name="Washington Manual of Diagnosis and Therapy 30ed.pdb" size="1170143" crc="5e0b74d2" md5="194d48c590edcd65f3e8623d0c3142e4" sha1="c53085ca564c887d5a0de07d059422d30aca5044"/>
+	</machine>
+	<machine name="Washington Manual of Surgery 2002">
+		<description>Washington Manual of Surgery 2002</description>
+		<rom name="Washington Manual of Surgery 2002.pdb" size="2421582" crc="fc688062" md5="5435c460bdcc18e6a5473de3d0006b43" sha1="e6bcc34c1ede3521bda3187278c73a2e04226c9d"/>
+	</machine>
+	<machine name="Webb - Oxford Textbook of Critical Care">
+		<description>Webb - Oxford Textbook of Critical Care</description>
+		<rom name="Webb - Oxford Textbook of Critical Care.pdb" size="19253944" crc="f9583b65" md5="1e064463c953315b8d8818f76d71ea3b" sha1="73c41da778fdb28aea6eff2ba8d8d189f3d9b061"/>
+	</machine>
+	<machine name="Webb - Oxford Textbook of Critical Care - No Images">
+		<description>Webb - Oxford Textbook of Critical Care - No Images</description>
+		<rom name="Webb - Oxford Textbook of Critical Care - No Images.pdb" size="3416078" crc="f25406c0" md5="dbe3ce7251884dd70ad68f3783a1a0f7" sha1="e5ecb8b10fc28d2df5a3161d67367016ef35cf52"/>
+	</machine>
+	<machine name="Weinstein - Plumer's Principles &amp; Practice of Intravenous Th">
+		<description>Weinstein - Plumer's Principles &amp; Practice of Intravenous Th</description>
+		<rom name="Weinstein - Plumer's Principles &amp; Practice of Intravenous Th.pdb" size="6380944" crc="0996d876" md5="0a4456e20e369d48cdf18c7d23a0d367" sha1="cd5e7642cdec66dadbe0638c100090a5e5cab87d"/>
+	</machine>
+	<machine name="Weinstein - Plumer's Principles &amp; Practice of Intravenous Therapy 7th Edition - No Images">
+		<description>Weinstein - Plumer's Principles &amp; Practice of Intravenous Therapy 7th Edition - No Images</description>
+		<rom name="Weinstein - Plumer's Principles &amp; Practice of Intravenous Therapy 7th Edition - No Images.pdb" size="794107" crc="df279f0e" md5="33a4b69b8863eb6208903357f45a0e86" sha1="a9386d34cab968f3ae62125e46fda95ac231dc16"/>
+	</machine>
+	<machine name="What to order when 2ed">
+		<description>What to order when 2ed</description>
+		<rom name="What to order when 2ed.pdb" size="282687" crc="64d1f2db" md5="d4d18b2b3b2156d95c4d23ed1c9ab368" sha1="34ff9fbe80545c28cfdb0036eed7e4042c400f23"/>
+	</machine>
+	<machine name="Williams Endocrinology 10ed(all imgs)">
+		<description>Williams Endocrinology 10ed(all imgs)</description>
+		<rom name="Williams Endocrinology 10ed(all imgs).pdb" size="22669807" crc="2a729eb4" md5="5f33d9c0009d409728434540cfddd224" sha1="9ae60683624f6befac928ca67dc04bc6f236cba1"/>
+	</machine>
+	<machine name="Williams Obstetrics 21st Edition With Images">
+		<description>Williams Obstetrics 21st Edition With Images</description>
+		<rom name="Williams Obstetrics 21st Edition With Images.pdb" size="43490945" crc="240d4ce4" md5="3520fd32fad4ca1c905ff75c45dd942e" sha1="cc93428f87114283f4130a18262aa7bb25ac0646"/>
+	</machine>
+	<machine name="Williams Textbook of Endocrinology10th ed">
+		<description>Williams Textbook of Endocrinology10th ed</description>
+		<rom name="Williams Textbook of Endocrinology10th ed.pdb" size="6787484" crc="32ebd5c8" md5="4de49b3bb87578cf2bab8cdea996b801" sha1="a13dc333cb82d16c54a22e8c19b59f11e325251c"/>
+	</machine>
+	<machine name="Wills eye manual 3ed">
+		<description>Wills eye manual 3ed</description>
+		<rom name="Wills eye manual 3ed.pdb" size="668798" crc="b03100d0" md5="54d5e74ccc1e9ecb97e47b503f2cdbfc" sha1="6fbecaf26d0a8c3dac281c6715373a5d168430ab"/>
+	</machine>
+	<machine name="Wilmore - ACS Surgery - Principles and Practice 2nd ed">
+		<description>Wilmore - ACS Surgery - Principles and Practice 2nd ed</description>
+		<rom name="Wilmore - ACS Surgery - Principles and Practice 2nd ed.pdb" size="66933460" crc="3893c251" md5="3c4a96539745b69d49b12ef9f2776a7e" sha1="94e54aa3e87a91fd9d06cb7382dcc950132711b9"/>
+	</machine>
+	<machine name="Wilmore - ACS Surgery - Principles and Practice 2nd Edition - Big Images">
+		<description>Wilmore - ACS Surgery - Principles and Practice 2nd Edition - Big Images</description>
+		<rom name="Wilmore - ACS Surgery - Principles and Practice 2nd Edition - Big Images.pdb" size="178444562" crc="18ccfaf4" md5="ecd0b0e27d641c72f15df33ded7e1b8c" sha1="bcffb59a11194fef04446041c6ac5c6cd3c415df"/>
+	</machine>
+	<machine name="Wilmore - ACS Surgery - Principles and Practice 2nd Edition - No Images">
+		<description>Wilmore - ACS Surgery - Principles and Practice 2nd Edition - No Images</description>
+		<rom name="Wilmore - ACS Surgery - Principles and Practice 2nd Edition - No Images.pdb" size="4563593" crc="9162502b" md5="d8e7b937025735c3932d28d90447220d" sha1="a9cbee490582d8cd7b30aed40da1071085f7a896"/>
+	</machine>
+	<machine name="Wintrobe's Clinical Hematology 11th">
+		<description>Wintrobe's Clinical Hematology 11th</description>
+		<rom name="Wintrobe's Clinical Hematology 11th.pdb" size="29902180" crc="ff1d905c" md5="43027bb60541611110466e70e401868b" sha1="f5b26a58b1c71993984847b594caf2223f40d322"/>
+	</machine>
+	<machine name="Wintrobe’s Clinical Hematology 10ed with images">
+		<description>Wintrobe’s Clinical Hematology 10ed with images</description>
+		<rom name="Wintrobe’s Clinical Hematology 10ed with images.pdb" size="42565214" crc="50221617" md5="bb21ed36b537da1cc15d1b0d2cbff7b0" sha1="65a13d3e513c8599f2c1e1d555b7213a25d4399a"/>
+	</machine>
+	<machine name="Wolfson - The Clinical Practice of Emergency Medicine 3rd ed">
+		<description>Wolfson - The Clinical Practice of Emergency Medicine 3rd ed</description>
+		<rom name="Wolfson - The Clinical Practice of Emergency Medicine 3rd ed.pdb" size="27968627" crc="7ee1e6d3" md5="426324f12cb6ef2ce91d4d3d411f10dd" sha1="fc469a46bed034fa5237ff9616cb39770475e3ae"/>
+	</machine>
+	<machine name="Wolfson - The Clinical Practice of Emergency Medicine 3rd Edition - No Images">
+		<description>Wolfson - The Clinical Practice of Emergency Medicine 3rd Edition - No Images</description>
+		<rom name="Wolfson - The Clinical Practice of Emergency Medicine 3rd Edition - No Images.pdb" size="5442605" crc="0fda1457" md5="fdc87d13242bb72e088c5d6246a12912" sha1="b10ad701916b4d0e52364ecf81a482129a245507"/>
+	</machine>
+	<machine name="Yamada's Textbook of Gastroenterology 4th Ed">
+		<description>Yamada's Textbook of Gastroenterology 4th Ed</description>
+		<rom name="Yamada's Textbook of Gastroenterology 4th Ed.pdb" size="50089671" crc="9c9b0bb9" md5="f3483cc5e6ce0da6117b13835c9112e2" sha1="424efc1d47dd1b964b735aff5ac6ea270ac0d3bb"/>
+	</machine>
+	<machine name="Yamada's Textbook of Gastroenterology 4th Edition - No Images">
+		<description>Yamada's Textbook of Gastroenterology 4th Edition - No Images</description>
+		<rom name="Yamada's Textbook of Gastroenterology 4th Edition - No Images.pdb" size="9351915" crc="ca315caf" md5="b4864fd86b252f2e4fd4f3c93afb9e22" sha1="f64032be4b96d153239dbfe434b5d5ba2f4dc9cd"/>
+	</machine>
+	<machine name="Yanoff - Ophthalmology 2nd Edition 2004 - Big Images">
+		<description>Yanoff - Ophthalmology 2nd Edition 2004 - Big Images</description>
+		<rom name="Yanoff - Ophthalmology 2nd Edition 2004 - Big Images.pdb" size="320238888" crc="cbd7c520" md5="e7ea050b31ac7f480a823802c88db8e4" sha1="07e6a2d09dad5de5c28e047a480f36e09816a4e6"/>
+	</machine>
+	<machine name="Yanoff ophthalmology 1ed">
+		<description>Yanoff ophthalmology 1ed</description>
+		<rom name="Yanoff ophthalmology 1ed.pdb" size="3164308" crc="c413d746" md5="f8b76914aa58c8e782c0451a03cde076" sha1="99ba1b16657c9441990e533ea87671b7331e61e1"/>
+	</machine>
+</datafile>

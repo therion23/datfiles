@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Palm - Apps &amp; Games - Serials, Cracks &amp; Keygens</name>
+		<description>Palm - Apps &amp; Games - Serials, Cracks &amp; Keygens</description>
+		<category>Standard DatFile</category>
+		<version>20251026</version>
+		<date>2025-10-26</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="PSNG2 [a]">
+		<description>PSNG2 [a]</description>
+		<rom name="PSNG2.PRC" size="17070" crc="c9e53f4a" md5="a4fc54e06c12a47b1c29fa48f88e669a" sha1="10d6308a79b6b5731586d8ff5655459827a14f53"/>
+	</machine>
+	<machine name="PSNG2 Plugins vX.X">
+		<description>PSNG2 Plugins vX.X</description>
+		<rom name="4T DVD and 4T CD PSNG.pdb" size="1318" crc="4f8b4ace" md5="570a2154ac250c5f0f05e77af63ead17" sha1="76ef061a0253e2ed1eda52687ca3a664cf34f302"/>
+		<rom name="4T NOX PSNG.pdb" size="1408" crc="12cd03d3" md5="37c0e0ffe0f5eb19c4a49778f16fff15" sha1="8dbcad7cfbe9c380edbe0192591c3a761c6faff4"/>
+		<rom name="4T Nvntory PSNG.pdb" size="764" crc="b13036c6" md5="44f79169ecf94c73012b30bdbd488ba6" sha1="487203382cc534aea475812cf8a1712bcca7e9ed"/>
+		<rom name="4T Pet keygen.pdb" size="1548" crc="6cb4b6d1" md5="8d45681485eb5cfcb195b2e52ec13ab8" sha1="c4a3bd2b67abb6546a608926649f51f05dcac7a2"/>
+		<rom name="4T Publication keygen.pdb" size="1332" crc="4e76a36d" md5="44254673d420fd5070bf1ca37a1bdf95" sha1="0ec5a9ed56d7b423a99b86d184cfe555ab60d66b"/>
+		<rom name="4T School PSNG.pdb" size="656" crc="6bf354ae" md5="6d8ac60ad0636553ac468066c46366d4" sha1="70d3512254831d2c7072ffdbed364c1cfab3d5e5"/>
+		<rom name="9-Ball PSNG.pdb" size="846" crc="acca0147" md5="75a0baccbd3303d82fa9558fa23e9275" sha1="55bb7a9891bb73511b104ca248bf7b960fdaf2bb"/>
+		<rom name="Address Plus PSNG.pdb" size="1402" crc="fecd1d6c" md5="8e664e5d72e12084367295f43ca7c1ca" sha1="db68cb9aef85093bf64b0a08b6941f98dbb46a83"/>
+		<rom name="AeroFighter PSNG.pdb" size="908" crc="9550c066" md5="e255b90fa1dead429c847bbed9b712ae" sha1="7920cbd547e8af3c63afba374d2f7dccc94bc6d5"/>
+		<rom name="AlarmChk PSNG.pdb" size="436" crc="650d90eb" md5="e76ef9a708f3b317fe0b6fbf0018b902" sha1="40448d60ffe90dd63147c7678ec41ef2b67ed1d4"/>
+		<rom name="Amusement Park 1 PSNG.pdb" size="768" crc="5f6e0b19" md5="b17617c36cf464130490ae734e0eca5c" sha1="338a03301953cca9d8547584215c34853ff28631"/>
+		<rom name="Amusement Park 2 PSNG.pdb" size="768" crc="e571861c" md5="28e664ad1c55836ff1303933ae34869c" sha1="a5a620e020d045590ef9f71d94f1e48f1a9d8210"/>
+		<rom name="Annual Event Mgr PSNG.pdb" size="2234" crc="424e90a7" md5="b7d3129c6e1b32319d4edc726f1fecfd" sha1="c2d80ebffc04206429e5758976d6e27ef464020b"/>
+		<rom name="APCalc PSNG.pdb" size="426" crc="6aa9cd79" md5="2e6fa292d0dfdc1444b78f153991281c" sha1="4cee4708859930cb854e802778146d601205862e"/>
+		<rom name="Artelope PSNG.pdb" size="564" crc="f3a830cc" md5="ea9723088e387e1c37a3ecba9bf57955" sha1="9fb2849b147a46116b042d29347786d370dd2a20"/>
+		<rom name="Astroids PSNG.pdb" size="1150" crc="9d362641" md5="83a4571fed5d9e5c5e5285d861a9cc19" sha1="daa0010c4ad7b0ba4b820504dbd38a63f7914f17"/>
+		<rom name="Astron 1.05 PSNG.pdb" size="1216" crc="55804e30" md5="05f00d8ef02e0ce6bc6a49540f2f6327" sha1="d9a1214adda8de22b8630bcf927b4e3fa512ea34"/>
+		<rom name="Auto Slate PSNG.pdb" size="1228" crc="1ea1ce3c" md5="5710a3b73a560abb81f815a2b8394e41" sha1="7ffffe6f1997d381ad01666fd05925b5841c0823"/>
+		<rom name="Autolog PSNG.pdb" size="2654" crc="fb9dcde8" md5="9ecc15f2b45c4a7bea7d4cec8411afce" sha1="579ddeb7f55399323d7f6da062be92b05b2ae19e"/>
+		<rom name="AutoMobil 2.2 PSNG.pdb" size="988" crc="ee617c1d" md5="99924727c962c1defc37e37cf2a16171" sha1="ee01c4d2ccd406f538fd4947563158d56984bbff"/>
+		<rom name="AutomobilPSNG.pdb" size="1486" crc="cb71124b" md5="d303435cdb6dcc9214d6f2a4467ca39c" sha1="9dfa8dd18e73e82b56ea6788bb50a2d147d53b83"/>
+		<rom name="BackGammon Intergame PSNG.pdb" size="906" crc="b9429f75" md5="a41d822593511832d820c5d232493e71" sha1="82de65b97adca5674eba9c3d40d701e3c42892d0"/>
+		<rom name="Backgammon PSNG.pdb" size="1248" crc="4f7cea76" md5="451f0aca31a55877cbce41acdaab5ad3" sha1="35f4f2e8d03716afcf63d6545953a85f2e6ed608"/>
+		<rom name="Battleflet_PSNG.pdb" size="668" crc="3eeca954" md5="102aeafc7cd8d6b95a29ecb5b19272c3" sha1="797aa5dcced1cea41e77219c3e5329094e136b38"/>
+		<rom name="BigTimePro PSNG.pdb" size="428" crc="fb977e14" md5="5c8bbaebb42efb45fcb25ed9da969f2b" sha1="e657ac5be05e03afd10220af2f17dcef3a61e9f8"/>
+		<rom name="BlackJack Intergame PSNG.pdb" size="904" crc="599d56ad" md5="e44ea7296c45fb241fe0c4582fcc70ee" sha1="714bd36da9a5603c07ee7cacccca9ce020e61b34"/>
+		<rom name="Bloks PSNG.pdb" size="1250" crc="7a18efec" md5="0f04751bc0bfb06bd1bd39e7210d05ce" sha1="8a5862f59665881cce2e5f0ec6d9be2e484594e6"/>
+		<rom name="Blox PSNG.pdb" size="1030" crc="ea3aeeeb" md5="7676b3b4368474c3f0ab417fa13752db" sha1="4acd4b6146dfcaba6298154dc0d82d7dfa581a24"/>
+		<rom name="BodyMaz PSNG Plugin.pdb" size="734" crc="df9cf8a4" md5="c3c4318e870f111fe61b1290374d2956" sha1="260df62247f4ca4caba3fb1d3a0256c49e8e58b7"/>
+		<rom name="Bridge PSNG.pdb" size="1238" crc="4c7d603f" md5="c1cc86d2c47f29df048b23caadc549ca" sha1="701d67c0b0813d9ef63fc81049769431df740ee0"/>
+		<rom name="BubblePop PSNG.pdb" size="1036" crc="6a492b11" md5="45f9795c350e91331fc6b285b2c13443" sha1="c3ac20dd099e6a9c4df7fbbddc47d7ff2572f895"/>
+		<rom name="Bzzz PSNG.pdb" size="1130" crc="383852b7" md5="26e90de7b9f643c0c83c7b4955889625" sha1="077f6ec5fa5bc6b0e8e558ba76ec9ecb9e19ce7f"/>
+		<rom name="CallTracker PSNG.pdb" size="1250" crc="2b3efdcf" md5="d5269ceae5b23406bcfc7bf8091acbf0" sha1="7edd3b16b831843978303da02838b700410421da"/>
+		<rom name="Casino PSNG.pdb" size="1262" crc="57396577" md5="49fe7d019cdea705b87b5ea06a212c0e" sha1="8019a37df253b8b45b4c2c57353c462c345cef44"/>
+		<rom name="ChainReaction PSNG.pdb" size="1038" crc="e405169b" md5="6353d32e27386d39291fca33ce9f1eab" sha1="92f017bf326365725f920759a134ee34224fc400"/>
+		<rom name="Checkers 1.0 PSNG.pdb" size="1588" crc="7c3eb477" md5="74ec1e450d346005036da4698aa8791f" sha1="7461c8ddd9d06b38c1ad07b75ddf472da40bf816"/>
+		<rom name="Checkers PSNG.pdb" size="1220" crc="be34565c" md5="1f5705f337614f98f41087a5fdf94edf" sha1="9e85ad401bcdc689821118542cfe7e43d4105302"/>
+		<rom name="ChessGenius PSNG.pdb" size="1942" crc="d5c45a65" md5="7a0fb9b2672c44907ad13db16be728b6" sha1="e79ad87f8015b16c1aeccb37569b8f34e6179c8a"/>
+		<rom name="ChessPad PSNG.pdb" size="1420" crc="da1ed432" md5="39b1f54cdb888c9dcaaa5ea6bc54fdb5" sha1="df7af6301a77c9276a0a46c317230ac4f49af383"/>
+		<rom name="Clipper PSNG (3).pdb" size="1260" crc="dd9218d2" md5="d378d628fb183eb3fe7e55f6acf75106" sha1="d0826fe1df701ff60df9ce180cc9f2ad2d9bd62d"/>
+		<rom name="Clipper PSNG.pdb" size="1262" crc="12bb98b7" md5="875c12bc5af453d43a1730e42f18e9b0" sha1="d5884f5559a2a0675a4971e07b7bcb6bb1b0c867"/>
+		<rom name="Connect4 PSNG.pdb" size="974" crc="03059cec" md5="44a22a9ca0bb29750f31b90528210049" sha1="2096dc6f4bfa2385425b5afa97676fdc53003954"/>
+		<rom name="ControlBar PSNG.pdb" size="1246" crc="d196cc1f" md5="84a6d14490796231d09fe63c141d8479" sha1="ed5a2e731e8bd3c31d62f9b7e00e7957376b5c5d"/>
+		<rom name="CplxCalcPro PSNG.pdb" size="742" crc="e6c974fb" md5="ff0f992b2d967a1cdbf87abb31aae03d" sha1="9786ce1a114c6430b334e068e97163ae216ebae9"/>
+		<rom name="Crosswind Calculator PSNG.pdb" size="1270" crc="f9c2968c" md5="0cdef9a892f976a34bf2427d5fea0082" sha1="ccb65c0630084b4642a696b4768b7d42a2d97954"/>
+		<rom name="Crossword Puzzles PSNG.pdb" size="1294" crc="45f2b426" md5="5792a4e1e63528b3b8d12c2f64188b5f" sha1="264daf95f531b6c15d05b769b0ab36dfd25f9821"/>
+		<rom name="Currency Calculator 4.1 PSNG.pdb" size="562" crc="eb973168" md5="e73a95937381cb8612a853235554d3d9" sha1="22fdc4a01ef12d1c37c4e2777d756932885a5e9a"/>
+		<rom name="Cycle Watch PSNG.pdb" size="1256" crc="49c9199e" md5="55be462e492c599f90e18c3fb90f932c" sha1="bb5424e88b8a23bb2da0a38ef560a8591638ba0d"/>
+		<rom name="Daily Popup 1.0 PSNG.pdb" size="552" crc="e5874b09" md5="6ec00f8322bacdc357795a503c226cca" sha1="37c688fb461e42675b8f75a0297588265fe77228"/>
+		<rom name="DataBagPSNG.pdb" size="1480" crc="e718a549" md5="ebe24e85eb4dda76e057b7a203a04d6a" sha1="9d86361f363ab3c63356ece9b4b9aacc73b96333"/>
+		<rom name="DateMan PSNG.pdb" size="1264" crc="5a8aa066" md5="6b452b81a04d7fbb9ab023722ac2054c" sha1="27437c0e05ef00d269ab5d54057a09891baadd4f"/>
+		<rom name="DateMate 3.x PSNG.pdb" size="574" crc="02e4b8a8" md5="99ea0c72d105bd43a672f6dd93a40e41" sha1="d31f1d90b2b6c6aa775ea0aa822bb95e2075c22f"/>
+		<rom name="datematePSNG.pdb" size="900" crc="1d71118b" md5="bddc96168dc1fbab6ebc24874040b9d4" sha1="8cbfe38dc5dc6a1f3bbbd2e30f96b0b8d356db30"/>
+		<rom name="DatePlan PSNG.pdb" size="630" crc="196f95c9" md5="bf2652c8742eaaf71b4a6a6783bb86d1" sha1="bcf281709de125c47936768f5adb3fba730203e9"/>
+		<rom name="Dictionary PSNG.pdb" size="674" crc="b5224774" md5="deca434902ef48385bb104c1853d43af" sha1="b52c836d5b91788437cd7632eb5decac61c5ce8c"/>
+		<rom name="DoFCalc 1.4 PSNG.pdb" size="738" crc="676a32d7" md5="e7f66e692726de791928e981e3cfd8f2" sha1="c53f3e471de7c46f72a259bc5476c0e8de5876d5"/>
+		<rom name="Dragon Hunter Pinball PSNG.pdb" size="1308" crc="761bd7d2" md5="43f720f974e9e8eda5836243d6b4a8b6" sha1="b5cdb7122d04d434020a64af1f15f3673a6780c0"/>
+		<rom name="DragonBanePSNG.pdb" size="948" crc="abffe973" md5="e6a37e558041e823b88355a1c227d22e" sha1="1e77ceb7b83f859b36ab13b360ae1b2795761ffb"/>
+		<rom name="Drop 'Em PSNG.pdb" size="1262" crc="b0312b73" md5="fa455aa85e59fdfa35be71f71c19a877" sha1="068684231dc3870be1a1a7ffd5f766d8b59a96ee"/>
+		<rom name="EarthTime PSNG.pdb" size="694" crc="49aa218d" md5="e562f9bd4e376b007c760ee0a5cca4a3" sha1="988d3c51df6b8a042bf879346fff6e9447037737"/>
+		<rom name="EasyLock 3.0e PSNG.pdb" size="754" crc="82d07ab2" md5="78d333e855ed9f3b4caa2ed48a2a429a" sha1="c22b87a0aafbce19ad3cfb543f32f6979528fd68"/>
+		<rom name="Emerald Hunt PSNG.pdb" size="660" crc="cdc9ee9a" md5="1cfd47e93332781db97f8dac78df6a5c" sha1="7148e3ff36438b020f342ab609d711c15414c8ef"/>
+		<rom name="Ender PSNG.pdb" size="1254" crc="5716e776" md5="541669633282d541d29ae2aea9822276" sha1="d089d6a77e02443f7598522f18cb14670c593d77"/>
+		<rom name="Enforcer13.pdb" size="642" crc="a4a1582a" md5="9ce458a16a037de2f95d0edd15b8fc29" sha1="f1a879f91b0a3554da24b9243a0358a80901ece9"/>
+		<rom name="Euchre PSNG.pdb" size="1218" crc="e6f19d6b" md5="c998cf753cce0c7f5b6e79d85f18a2b3" sha1="208ce2e476e35e0342716b900cf5bdbdb111c0ff"/>
+		<rom name="FemDaysPSNG.pdb" size="1480" crc="0b8bbfb5" md5="bdbd2de147339fb442a765239d935cdb" sha1="018ec74d116229721029ed186f124c099406934d"/>
+		<rom name="Fire PSNG.pdb" size="1132" crc="23c2d3b4" md5="d978df9c3ad8312f780f1aa890cc39a6" sha1="705f6ebbef9f22dc3e79ef79a3bd16c3ef2bd62a"/>
+		<rom name="FMPro5 PSNG.pdb" size="2250" crc="882f04c4" md5="0f743eb1a29ac74f1a29338c2e35be32" sha1="c44c8d4fe5bca400d8849fd37c110513cb68da3b"/>
+		<rom name="Formulas PSNG.pdb" size="1242" crc="54ef0b34" md5="2d0388b22757488edda769d0d33097d0" sha1="f324aa59d19c1152b96201bdaf022461137f85fc"/>
+		<rom name="Four.Zero PSNG.pdb" size="2086" crc="705000b8" md5="941fabcf2591c444a3b3beab4fa36ccc" sha1="8e0edce125e5166b8f359d4b4184a2d5a69d0116"/>
+		<rom name="FreeCell 1.2b PSNG.pdb" size="1058" crc="03ffbf51" md5="0b015850dc5e07aeeb11f0f0bb2302a2" sha1="f2603b9e735d4782dc1baa68f800be9db628547a"/>
+		<rom name="FreeCell 2.06 PSNG.pdb" size="1035" crc="df2a1f2b" md5="48684efbb5f65300c14bb17da5f6aca2" sha1="c05c31c1d17793d19fd7dea51a72d39de60316af"/>
+		<rom name="Frogs vs. Cars PSNG.pdb" size="1256" crc="fd060f28" md5="91e6ab1a9668ae849b9836118d4647a6" sha1="cbee4e71a4283a353c65a4a2500fab524f316082"/>
+		<rom name="handmap deluxe psng (5).pdb" size="675" crc="95f2d8d5" md5="8e74338491bb8ba1b83da09ec556cc54" sha1="e3671141f445d4fc4a4e44577ebaa72f255d50f1"/>
+		<rom name="HandMap Deluxe PSNG.pdb" size="706" crc="91545182" md5="1e166e52c02b7187d41bd633034ddcde" sha1="fd07dd2f413db8a619387e08a59e9e592020a9e6"/>
+		<rom name="HandMap DX PSNG.pdb" size="486" crc="db4c45d3" md5="db9e6de4acd3d51b229ead142cbc07f7" sha1="880f1e5dfa82de2ae6311e712de7805cc8c776f5"/>
+		<rom name="HandMap Pro PSNG (3).pdb" size="714" crc="b0d71cef" md5="94a0cf3afff06840eb80b7a467995e49" sha1="0af8bd4907d5f2e6b82d8b5deb0661af102fabd2"/>
+		<rom name="HandMap Pro PSNG.pdb" size="482" crc="caeda655" md5="2a4cd83842e4f9cffa77db03eb7d1ba4" sha1="81e58ab8056606085df541f71cc8e798206e0731"/>
+		<rom name="Hangman PSNG.pdb" size="960" crc="875fc3ca" md5="6ad9aa786ea4a64eb838ef7d20e0512f" sha1="e1a3d91cd441367c7f4af7d39676a7e01200c6a0"/>
+		<rom name="Hearts PSNG (3).pdb" size="1215" crc="6ac32b9e" md5="ec27a99ab21165abcfe424982dbdf42f" sha1="6ec8e3cdf45091be270afcc5138027e769bc5d9d"/>
+		<rom name="Hearts PSNG.pdb" size="1236" crc="1d8f600a" md5="25dbd725ad7d1de93d31a50ee943bb62" sha1="bc6536892ec57c6e878cafb06ee6db21ff5650ab"/>
+		<rom name="HotTime PSNG.pdb" size="792" crc="b57bd46e" md5="33b06c02c613e074abeb700d5e7ea845" sha1="2704ecd4327d8def4d6c9044b027c12264cccabc"/>
+		<rom name="hottime13psng(v2).pdb" size="826" crc="e3cd1685" md5="720f8de155a5bca9bbb95794a2134dee" sha1="5c605eb630dc45fb6c1a85c2158a2df8e4a1252a"/>
+		<rom name="ImagerX PSNG.pdb" size="1244" crc="9ec10537" md5="c7187f1cc3f09fbee47d624a28aa8111" sha1="05e74126b59fdf5aa2ed6fbbc4cfa64ffcbf4bf6"/>
+		<rom name="InterPilot PSNG.pdb" size="710" crc="e033425c" md5="a26acdfe7aa2673256577c8765a30ade" sha1="ffcac5a2a7aad58ef71558832d2db07a49f55730"/>
+		<rom name="Inverso PSNG.pdb" size="974" crc="64e940f2" md5="8c6efead9b0207de6b568ab1481c69dd" sha1="7e67b413942af86e4b56cff6eb35531cf8f21fdc"/>
+		<rom name="JigPix PSNG.pdb" size="1032" crc="c8ce4223" md5="239fb708abd2e8c356db058a3e3539c4" sha1="75a947d7413633176efbcfad32e3891012cb7cf0"/>
+		<rom name="Joggle PSNG.pdb" size="1032" crc="72add5d4" md5="d7081bac02b2be669340a04bce45111b" sha1="665d6b935c625de2472f06118af9a3bb699152b9"/>
+		<rom name="Kangaru PSNG.pdb" size="660" crc="a9fdce7b" md5="2dfc130b24bbb17d907b76c9c3e6b511" sha1="bf1f595e07c969682d6252328112d0737658138c"/>
+		<rom name="kickoobreakout_psng.pdb" size="930" crc="0d83356b" md5="8290f9138d1c75c084f385d8b5ff28a1" sha1="ec533642afe4bc23b202b8e134ef7decc3f03e85"/>
+		<rom name="Klondike 1.5 PSNG.pdb" size="1058" crc="8e118cb5" md5="b3d9a6c852399afdbe72dc11dbe26e5a" sha1="f1a8bd06e1a8c62dabbd777f0643284d90dc2f3a"/>
+		<rom name="LClockPSNG.pdb" size="1476" crc="e781ee1a" md5="6500304541284aba63fc7624a12ee8dd" sha1="bdd1126d3f50c6083fa2bf55414e3905e072aaf8"/>
+		<rom name="LendBook_PSNG.pdb" size="742" crc="96ae0b7c" md5="e6aa11e27aee6e3f4880ce910af57929" sha1="22810d59ee1b27743678e351c13433c73b983e9d"/>
+		<rom name="Lingua Franca PSNG.pdb" size="1280" crc="e535577a" md5="990d3eb282e729096c68c903d67c6a7d" sha1="bf5468d4d45bdde4d763290094727df9e8dd2461"/>
+		<rom name="LinkDoc PSNG.pdb" size="2102" crc="d664cc71" md5="76b6680b3aa262bba016d0999090c2a2" sha1="79429985bc864b864d8508fa4f2c778ad7539882"/>
+		<rom name="Major League Pinball PSNG.pdb" size="1250" crc="d6cd716b" md5="84f5458decb6366559f70f341b0d59f4" sha1="c04ad09504ec096645fcc893531d48748b42ff91"/>
+		<rom name="Marble Challenge Intergame PSNG.pdb" size="912" crc="023407ad" md5="fc217b4a6ec270974c909b5806f27c1d" sha1="7bcbfb95cebceecab07091255290d4c2b6615ff6"/>
+		<rom name="MarkMyScriptures PSNG.pdb" size="660" crc="5347de37" md5="54cbaee00213f5bb733b55c51b9f1eb7" sha1="d8b24689020ebcedec4299f4b68d42b720295a89"/>
+		<rom name="MicroChess 1.1 PSNG.pdb" size="1078" crc="254751ab" md5="3afee414873f0504946daa33e642c2d0" sha1="f8c0e3ebd1d9034dbab0cc0cda7aa9995842f296"/>
+		<rom name="MobileDB PSNG.pdb" size="2794" crc="94ff1c2a" md5="05b35e0de6d49e52ba7f54f9654d8348" sha1="6abe52ffeb961d77a175a6d742e32e1b81ae9056"/>
+		<rom name="Mocha Telnet 1.1 PSNG.pdb" size="602" crc="6ab4b42d" md5="ceabe1e5d10f9b7e1f2690ea1b0164cd" sha1="186336c1524ba3793c864b505455d76a74b6d4fb"/>
+		<rom name="Mocha TN3270 PSNG.pdb" size="598" crc="ebf65744" md5="9fafc4ccd3c9a00bbf345068c377e778" sha1="5dbf10c92881af2d7f9990b8cc0d696768a4268a"/>
+		<rom name="Mocha TN5250 PSNG.pdb" size="598" crc="a31df285" md5="17b59510c4a891a274d43a595fe170be" sha1="a84353684916ebe77288d3427ab60086c796baa3"/>
+		<rom name="MunchMan PSNG.pdb" size="1242" crc="1e1a59b0" md5="614b1a0e459a1439b44a44661999e11e" sha1="c6a0469247fb26dd7f8ffdd5a1b8d6baaa218a8b"/>
+		<rom name="NoteTaker PSNG.pdb" size="718" crc="1f2e6c29" md5="7ec55e31194386320f9e85f4a70cb8eb" sha1="ac028ee9ff9d93ee66942c626cb8aa4ef0e1951b"/>
+		<rom name="NR Buttons PSNG.pdb" size="1258" crc="b5071667" md5="3c660f88df289f847f25b9ce0a88dddd" sha1="b3a6eb9b0f83add9ed65b0bb6fbc964deff62277"/>
+		<rom name="OnGuard Backup1.02PSNG.pdb" size="946" crc="baf73b41" md5="fdf5b0584361654200e7e7dbf4d1f941" sha1="60a9cba9b08d361948d138ab3423584cf8718b52"/>
+		<rom name="OnlinePSNG.pdb" size="758" crc="c85883d3" md5="11e0efaad9e54cd00b6127763af4ff62" sha1="3ce0c3ae25cf862338ed46fc0bcd50b6b2e7e93d"/>
+		<rom name="PalmPrint 25 PSNG (v2).pdb" size="818" crc="1e332167" md5="301e04c48d904908f222b0a72eb1eba3" sha1="147810ea58fd405b5b850cd699153c923b4442d9"/>
+		<rom name="PalmSokoban PSNG.pdb" size="630" crc="188d8018" md5="000ef6a5e8509eca81a2ddbd5723b591" sha1="f9ef848c586a8b1e0be598d2e08f79c5462c0d9c"/>
+		<rom name="Password Store PSNG.pdb" size="1256" crc="3aa12852" md5="06983e0197b7dd91abf69de876f4388c" sha1="4d690c5780c30583ace7c08598686025db65327a"/>
+		<rom name="PatientKeeper PSNG.pdb" size="676" crc="927ce071" md5="9cd984fa1239aefa5d61ce902d4c2eb0" sha1="8e46ee96b7700ed2edd1e39e592156b5f3def94a"/>
+		<rom name="PDABomb PSNG.pdb" size="1224" crc="634ef018" md5="228cb6d9beade3833826296789aa0e1b" sha1="0e09f26ea6868081427e348a830ae088e6530e8b"/>
+		<rom name="Pegged PSNG.pdb" size="976" crc="05b6e47e" md5="b3657a0cb8ca53d35b33a22fe182c24d" sha1="3ae6d9e9ffa2d1412f4bfa4b3a6eb6f09e8ff588"/>
+		<rom name="penpowerPSNG.pdb" size="1124" crc="14d88417" md5="b3066efba7311409047c02275b5ad0ad" sha1="d1d6d42c9a189e37e2877b5dd4a1bc4ee3ae547a"/>
+		<rom name="Periodic Table PSNG.pdb" size="1258" crc="51f02257" md5="682a5cf81cd7681f85375750534f811a" sha1="1227a93b0aa57f8c7ca2be6ec1e32706e3a78139"/>
+		<rom name="PhoneLookup PSNG.pdb" size="586" crc="32330d15" md5="0d752d9ce379febbbfc6bb8c32e2a00f" sha1="3ffe59cf17777cae4e76caa1683fe543cba7705a"/>
+		<rom name="PiBackupII_PSNG (3).pdb" size="640" crc="e97bfa3c" md5="8b32f73ec5ef4277ce42f07207a9e79f" sha1="836589cbdb6cf18e53fa86066d4cee01e9ec614f"/>
+		<rom name="PiBackupII_PSNG.pdb" size="642" crc="d59113e9" md5="eac80830501d373c9db5fc1581183957" sha1="aa8a1d40bec6faaf2f7b45155a368d99b96376f6"/>
+		<rom name="PiDirectII_PSNG.pdb" size="640" crc="11f6c7d9" md5="a62c56af42656aec0b2839683886bbc4" sha1="25cc8ac9863dd93d92c724a5b57354467a0c5f19"/>
+		<rom name="Pilot Explorer PSNG.pdb" size="688" crc="2fb85cd2" md5="68bd5c51db4e52cdf38d4997de1a0e51" sha1="31a104720ba5c2cc49a47744618a29a5ffd2db48"/>
+		<rom name="PiMoverII PSNG.pdb" size="806" crc="d9f4bb3e" md5="8458e998fcced356417e4ca511f5e817" sha1="c5adb99fd2b9ec143d93444cb0da542258bb2fb5"/>
+		<rom name="PiMoverII_PSNG.pdb" size="638" crc="475c76ff" md5="6546e330969d5a9353c11727e395a99a" sha1="48e29cc0bcfcb09828b794c5fca562799cd57015"/>
+		<rom name="Pinochle PSNG.pdb" size="1242" crc="37ae5955" md5="d7932138e3cb55397c1d7a680cf8753d" sha1="0265262fb4cf6ef97ffd051c16efcb7a590efb79"/>
+		<rom name="PitRacer PSNG.pdb" size="1242" crc="15c964bb" md5="3c3fabc57f896d13709fe48efaa4b272" sha1="aa8f0487fbcafe25b6f0fbeffa5d8ac082289579"/>
+		<rom name="Pocket Timer PSNG.pdb" size="752" crc="d762b2ef" md5="6068403f5f8765807219e2a29c31995b" sha1="22443c39d498b5823fae6ecb46518a19de00a042"/>
+		<rom name="PocketChess Deluxe 2.5 PSNG.pdb" size="940" crc="c91fdd12" md5="851d3ce1fd1e6984a15aa583a8e162fe" sha1="4e8137272b321d6db0183ed66f98d9a46ebc93ed"/>
+		<rom name="Poker PSNG.pdb" size="1232" crc="82e8fb60" md5="5bb6db758d84fe59a61f64cb2977bee3" sha1="b98122b74f815a18018eb97e5845a1c1b5a8c286"/>
+		<rom name="Popup Calculator 1.0.1 PSNG.pdb" size="562" crc="901ac635" md5="195b2438f88d77712ecea1a04d8d7669" sha1="51d769b82673cbd790e2682352e8c682e89e58da"/>
+		<rom name="Popup Favorites 1.4 PSNG.pdb" size="556" crc="1d6ea1c2" md5="cf864a6e1f1b9f0be0f65733e9ec19c3" sha1="64979571430fb16e30ab883438da6571a8d1ad5a"/>
+		<rom name="Popup FreeTime 1.2 PSNG.pdb" size="558" crc="dd81271c" md5="79b4a1e97da26e162c4e77f2eeba24bf" sha1="ab1033b9f1a8e3aa9a56278afa8608ea43533a0e"/>
+		<rom name="PopupFind 1.0.1 PSNG.pdb" size="554" crc="08ac5062" md5="d1ceb8aa90db8c640aba91caa091b6e3" sha1="2afff2e3a1b63e39fb6e1efd1faeec67a736ef66"/>
+		<rom name="PopupNote 1.0 PSNG.pdb" size="552" crc="98c2bfd5" md5="cddee7fc569d09d6430bfd6f3440ab1d" sha1="e806252df2fb3ece29a88695486e0e7b6e07edac"/>
+		<rom name="PopupTime 1.6 PSNG.pdb" size="552" crc="a1101f71" md5="c13514e99e53e3d7219a9f2ffda23d61" sha1="36c860aefc569fe968b583c6cde954eeb1bec11e"/>
+		<rom name="Portfolio Tracker PSNG.pdb" size="3588" crc="63609665" md5="d17b3573bc816871abca2e01fe8afa8f" sha1="0440da472874c4c1d43af08802cf764107b9024c"/>
+		<rom name="PrintBoy PSNG.pdb" size="626" crc="692494bb" md5="6e9179c785d30a8e49cb4b946317e278" sha1="f29205bad5b6b5db5cd1ea7b549dbbad0bb33ced"/>
+		<rom name="Qed PSNG.pdb" size="642" crc="756eb3dc" md5="be57de700ebbd6d7ca725d247970ada2" sha1="e382f10762859716356163d4f2d73afa05a403c8"/>
+		<rom name="Quick Access PSNG.pdb" size="1252" crc="ee209745" md5="80ee441d6921e5c1e526237a48e15043" sha1="1d0f410a45f42739979be6b0f9ee535b79542271"/>
+		<rom name="QuickSwitch PSNG.pdb" size="1258" crc="15c1de33" md5="e09badf5eac3c880658837e5b2828b6e" sha1="f33365020b2360777508c3a1be8907723ecdc5aa"/>
+		<rom name="RClockPSNG.pdb" size="1476" crc="fe5000db" md5="603fe1edeeba5deb822fd06eeebc6095" sha1="d5f96e1f436e7f4379c365eca843cc6ee61d4a63"/>
+		<rom name="Right Back Up PSNG.pdb" size="1262" crc="05b26dc3" md5="b1fef8974acf31c3bd96f0f50bf65ab6" sha1="cf934453a3234e5a6842f72d7525b6def54dd945"/>
+		<rom name="Ringz PSNG.pdb" size="1030" crc="7949e3af" md5="6c82e20173297b61ce9b692a9f8e4b6f" sha1="d1bee3b6831f570d23548887673b182b90945bd6"/>
+		<rom name="Rotation PSNG.pdb" size="1034" crc="491d7f82" md5="d877e85e3c827d6e918fbd8f5a0d41ca" sha1="bf61c3e2e0f34b0b27e63f56a759bd9255c4986b"/>
+		<rom name="RPN PopupCalculator 1.0.1 PSNG.pdb" size="564" crc="3047f9cb" md5="d93953020385153f9a6785fe20fafde5" sha1="327c1c501e24f37d3271a1a0742ce617dfc31be8"/>
+		<rom name="Safe In Hand PSNG.pdb" size="1326" crc="a5ad510d" md5="a0c0e038c4346b60466f677c9865ec04" sha1="22c3af9068c77319378c9bfaaf7ceb7e0f414d51"/>
+		<rom name="ScAnywhere PSNG.pdb" size="1226" crc="b6358274" md5="bb168a026d68c5a52f0bc3c599cf1eaa" sha1="1f54979dff9c0580853ad95b88cad723c0049abd"/>
+		<rom name="ScreenShotHackPSNG.pdb" size="1504" crc="c5ee4fd5" md5="c2e4ffbb4848c377a3fefaf5e11926b6" sha1="7cad17c7b3c40404856554ae52630fadce248517"/>
+		<rom name="SecretPSNG.pdb" size="1476" crc="75f6942a" md5="1b74e6c444f4b86753df31a1e5ed79d8" sha1="a81fac9ab177852c8f379bb71abb6e3e12c62404"/>
+		<rom name="Shuffle PSNG.pdb" size="988" crc="b8ddc465" md5="230718b0d785b91bc7b92b42b03b099b" sha1="9c3645ba840d766fd27616234eab2d82a090f2a3"/>
+		<rom name="Silence PSNG keygen.pdb" size="1230" crc="f95c30d6" md5="153ae6f07e2127bfd07ba76cb3974b36" sha1="3a14219924d3ce200f69d46beb5655accc7ad436"/>
+		<rom name="Snake PSNG.pdb" size="972" crc="68eb50d0" md5="eb26c590053d761919612b82f1027e6f" sha1="2f2544d1ec3487a48aecc1da603b6ee85ff0d0ee"/>
+		<rom name="Sokoban 1.1d PSNG.pdb" size="1058" crc="6e65c58e" md5="77fc59b61abcba4d4f02acc29cd781e6" sha1="151b8807526a2ba8e337cc36507232d781c7210d"/>
+		<rom name="Solitaire Pack Vol.1 PSNG.pdb" size="1306" crc="100d5028" md5="cd0408fbf401e1d6d4549ff17d229eb9" sha1="7a95cafc2e3e07f275920ec864f70ac19078ecfb"/>
+		<rom name="Solitaire Pack Vol.2 PSNG.pdb" size="1306" crc="894d9963" md5="9530bc22589f3276cae66ee17e62875c" sha1="47c67fe19fa6f0c31d10668a9923c8176f0e6290"/>
+		<rom name="Spades PSNG.pdb" size="1236" crc="71f9e5c8" md5="dc37068835520da8d2b09fd5721778cb" sha1="f74c006519e98a129b5d0b3566da50c10a85a992"/>
+		<rom name="SpellCheck PSNG.pdb" size="730" crc="b57426de" md5="9871fc789bd2eee4c6e771b894f485d8" sha1="38dfc4c06cf30388893e079f60a47d7e361fcbc0"/>
+		<rom name="SpellMan PSNG.pdb" size="1240" crc="26e14c52" md5="d540cc5f783ada7ab844564e0895a6ba" sha1="a74a13040582d5a3e1f6e89b8757f0b5b7e5f7d1"/>
+		<rom name="StockManager13 PSNG.pdb" size="678" crc="1422ec6b" md5="3350f31a4e65799d40589cf9312c68f3" sha1="3ae2070fbf5f106225ceb0edcd244a66e055e2ee"/>
+		<rom name="Stockmanager_PSNG.pdb" size="498" crc="def357d8" md5="8ce1d5eaac275c4f52d37a69dfe49a1b" sha1="65f75879007f6b3c2018988b6db739841f664d3b"/>
+		<rom name="StockManagerSP204 PSNG.pdb" size="686" crc="5af664dd" md5="28248dc85ed9690c54ea6508b4f4f16a" sha1="d7826cac5c24cfe12c78c58482ebed26e4a099f0"/>
+		<rom name="StockmanagerSP_PSNG.pdb" size="486" crc="61901911" md5="5f5e928e757cb5701449ba9e0fc00d34" sha1="37f79521567cae022e66759b768c855603ad7339"/>
+		<rom name="StockMgr 2x PSNG (2).pdb" size="5274" crc="9ac3e399" md5="11d182fba2ed994ae825e3d31261e62b" sha1="0716468a2f89071d2018d49e84d2a5235179b851"/>
+		<rom name="StockMgr 2x PSNG.pdb" size="3960" crc="6a912fc6" md5="dd8934024cadde2bca9114000963d6fb" sha1="c3bc76fa0754294f2064a69fedf0a546f84877f2"/>
+		<rom name="Super Names PSNG.pdb" size="1276" crc="f6fef2f1" md5="9defe55f3d0823fabfa9c63b1ee1d15b" sha1="d8debb594daef6b674b189e27fba9166bab31b59"/>
+		<rom name="SuperDaleks1.4 PSNG.pdb" size="708" crc="2dad2982" md5="a91767cddf43686a1041ead0f57f89ee" sha1="62fb38cabbb3d1b064e09d4ad0176ce4ca5dbe68"/>
+		<rom name="SuperList2 PSNG.pdb" size="682" crc="c531202e" md5="15f7ca0b0e43ee66c2dc827a5914b6df" sha1="34e6a2b50b7f9ac33a65cf7a61b596dd3a84d2c1"/>
+		<rom name="TapPad PSNG.pdb" size="774" crc="2d564685" md5="444e20b8e89aa02325c07c2ac725f911" sha1="48e6fd61f09b85107b3f8b82d9e86de4bc3c19fe"/>
+		<rom name="TealDoc PSNG.pdb" size="1194" crc="0fac02ed" md5="7ffe376647ef085703aefd82b4e25e6f" sha1="f1546f7e155c6f631dcee267548ed9f4778257be"/>
+		<rom name="TealFiles PSNG.pdb" size="1212" crc="ffacc210" md5="b365b9bbb9ecd4d21110f5a524c04f54" sha1="c4abcf1cf064830e7166843d69063ed2bca5bb06"/>
+		<rom name="TealGlance PSNG.pdb" size="1182" crc="543fe8e7" md5="9badd30bf09c4114f17d0018ab4d549d" sha1="6df1e4d443e9aeac3685154d80184173e41fc378"/>
+		<rom name="TealInfo PSNG.pdb" size="1224" crc="3f5cca4b" md5="9ddeff8bae0430593dae433f4353ec2b" sha1="f9f63c2b2f5fc4b8cc8d25481b2722a74a4d671a"/>
+		<rom name="TealLaunch PSNG.pdb" size="1204" crc="cded247d" md5="bab61b52d7480d5d4f1ead097c4a3fcc" sha1="fa9f5bbeaf2f99b3bb38abc15593b52e6874722c"/>
+		<rom name="TealLens PSNG.pdb" size="1204" crc="1a251caa" md5="66d30dbb689043cdbb1df7a05121c53f" sha1="04862dc31e11fe6fd692455efc4dbbdd28bd35ec"/>
+		<rom name="TealLock PSNG.pdb" size="1178" crc="bf75d70e" md5="b5856a0389609fb51485deab08894110" sha1="202740a0610c9ea8b949afbaaa516914cc9580dd"/>
+		<rom name="TealMaster PSNG.pdb" size="1212" crc="e0c44abb" md5="0e1f3c60e90cf1b9ece44d7aea3c2b50" sha1="a38724db99ad82c7af5e6b8252bd0c454b403977"/>
+		<rom name="TealMeal PSNG.pdb" size="1182" crc="8dc2e351" md5="83d10bed74b8641b2ff98be6ae8df975" sha1="9d2cdaa9aa72eb1bd0ea447aa2d2db7f604b2a06"/>
+		<rom name="TealMovie PSNG.pdb" size="1212" crc="f8e33986" md5="8b8168525ca93576ed75298ca728ea85" sha1="6dd8b2a7a3e6bddd69ea38e4da517e704f56a3f7"/>
+		<rom name="TealNotes PSNG.pdb" size="1212" crc="781983fe" md5="7ba11e051923adeeb3759ea9937a4461" sha1="131084fa6dd12de952056b5ea3c2a54dd9340619"/>
+		<rom name="TealPad PSNG.pdb" size="1212" crc="381f50b7" md5="9bc303359ad75bb62a7ad6339b6aa93c" sha1="d437791ce6ab2176b49c742eb426253bbea84f78"/>
+		<rom name="TealPaint PSNG.pdb" size="1144" crc="fd835f05" md5="fdeda0a812d0b0edd2c7e5d0f98bc148" sha1="e21bc9b1c179476d9d7c2c2972cc22710f0f69a5"/>
+		<rom name="TealPhone PSNG.pdb" size="1178" crc="72ae28db" md5="905b015c166a662771b8f80df8a828eb" sha1="d7fe3e36785b6d88e24a8acb79f3c2b8d3c19bd8"/>
+		<rom name="TealScript PSNG.pdb" size="1170" crc="bfdcd6d4" md5="68a175f7240b64444568065ae4360ef9" sha1="e757b3f988156d2d59be462f796d218a16f9daf7"/>
+		<rom name="TealTime PSNG.pdb" size="1212" crc="92122181" md5="5e34450b9b4e2d9919fbc24f57b290bd" sha1="1019a1c4ba1d9527fee8fc6b5662312b23fc0f88"/>
+		<rom name="TileFall PSNG.pdb" size="712" crc="fd650cff" md5="f26bfb2530eccd03b50bb2305c2a128c" sha1="5949a72937e2853baf449c69741c4ac26b6f28ac"/>
+		<rom name="TimetablePro PSNG.pdb" size="1152" crc="3017cee3" md5="ebd52f6cc7c968e94042c8ae167f4b72" sha1="0699bb6fbbc4ab64b30baf88aced4f5e5b191944"/>
+		<rom name="Travel Clock PSNG.pdb" size="1252" crc="7333a941" md5="0806348158cec5303cd58ca9f0d8b382" sha1="57ae36267a9caa31682dd0a7b3aab2c11838bfbb"/>
+		<rom name="UltrasoftMoney PSNG.pdb" size="1042" crc="139ad1ca" md5="470891f5f33c39652ad345568ee8d718" sha1="54be075d368164ec0a5fdbec288331cd4176de6f"/>
+		<rom name="UnDupe PSNG.pdb" size="830" crc="4f85e270" md5="c05203b8b32acdb31ac9a507ea7e723b" sha1="a6ed98a1162deb832b6c72ccc85c28f060bf98c4"/>
+		<rom name="Uninstall Manager PSNG.pdb" size="1215" crc="d7987189" md5="8a05633fd9847f5772e926f3209fbf0c" sha1="7bca4a658c9940647f3c90d52ac52f9f1281b8ad"/>
+		<rom name="Vegas Blackjack 1.1 PSNG.pdb" size="1064" crc="5b977228" md5="85b4c79dd507fed129c0d6e6930d90c2" sha1="27931c9352644b67cb0cb5fd512c0d4919e3fa84"/>
+		<rom name="Vegas Slots 1.1 PSNG.pdb" size="1060" crc="21e3e362" md5="70a3e16192aa1034502c925cb1cb8199" sha1="71649281176bb98b49091f482a7c3afc5b6de87c"/>
+		<rom name="Vegas Slots 2.5 PSNG.pdb" size="1035" crc="8968520d" md5="4b49bbe0c6c97bec9781d3c3267b56db" sha1="fe588bbbd12aa4a996912a2dfcfda0691209d523"/>
+		<rom name="Vegas Video Poker 1.0b PSNG.pdb" size="1068" crc="354a2328" md5="1435261e4116c8f60e36cd99325f4f25" sha1="5c348ff2d0dd5ef807412181affcd0a3019c11f5"/>
+		<rom name="VideoLib PSNG.pdb" size="1270" crc="2fdc4772" md5="ef06d9181e0471bec4786377ee3e069b" sha1="4ce1ad213eb827b82945936a4d7cfeaf633ac5bd"/>
+		<rom name="Web Tracker PSNG.pdb" size="1276" crc="0dde0891" md5="4c2eae2c775578ef005f8d8c987313fc" sha1="d8baceb18ed6ad29b5995bc8400d68146abfabba"/>
+		<rom name="Workout Tracker PSNG.pdb" size="1290" crc="a7455d7d" md5="85e37dd8155defe9f90ad2766846e6c1" sha1="12464454d92e5cce205c0f56134db3702127f284"/>
+		<rom name="WorldMate PSNG.pdb" size="580" crc="ba3de652" md5="7a8eb4c337fe6d84825387262b50188e" sha1="7b11c8b0888cdf17863d1b3e11b62cb3ae9b8931"/>
+		<rom name="WorldTime PSNG.pdb" size="702" crc="1c4816a8" md5="a82353a799c136c811e7efd04ae7d2a0" sha1="f22ede06769162e7919c89ac2fef71727c84dbea"/>
+		<rom name="Zap2000 PSNG.pdb" size="1140" crc="306a4447" md5="9b07828513b5e5b1b4760c72f9766ff2" sha1="0c4895bea559482a06b0eba1ef0c60b94ac22369"/>
+		<rom name="ZLauncher 5 PSNG.pdb" size="638" crc="641df7a7" md5="0e9ee5bcfdbf0e818a3828a4f8c97368" sha1="d9b65f41b53f7fe8c7e0fd58fe01ddaa8abb1b43"/>
+		<rom name="ZLauncher v5.00 PSNG2.pdb" size="638" crc="b687b92c" md5="5442af9271c8bd6000b6e0438b8f5ef3" sha1="145023a87f5e16c23c915f74163759fd321d4cec"/>
+	</machine>
+	<machine name="PSNG2 v2.0">
+		<description>PSNG2 v2.0</description>
+		<rom name="PSNG2.PRC" size="16290" crc="4f01f249" md5="f82d134fd85fb03523213ebd110ba165" sha1="e0155ca94af929bdf5fb5f9b9dd6edd2ab944969"/>
+	</machine>
+	<machine name="Codez4All v1.6">
+		<description>Codez4All v1.6</description>
+		<rom name="Codez4All v1.6.pdb" size="75886" crc="e062aa4d" md5="73abbef4b2d1df58cb432845c72af8a7" sha1="5ecfc4222ab9419599c82fbc3be854e8b29609da"/>
+		<rom name="Read This First.txt" size="2494" crc="98b8f2e3" md5="ab968e3e4aeb4a9a51c9f720de0e9c4d" sha1="41815be7399232a22599bd8caa284175eb35eae8"/>
+	</machine>
+	<machine name="Codez4All v1.7">
+		<description>Codez4All v1.7</description>
+		<rom name="Codez4All v1.7.pdb" size="76179" crc="f063a36a" md5="6c109218940c4b970343c6ad0bd80921" sha1="0cb16eeb24a4fcc139b7c2ced4a7c6a28fc821e0"/>
+		<rom name="Read This First.txt" size="2445" crc="242e4686" md5="4482133947fefd91df4d953370c3e5bc" sha1="65f895eca721d24aa704784cb5084ff37148e98f"/>
+	</machine>
+	<machine name="Codez4All v1.9">
+		<description>Codez4All v1.9</description>
+		<rom name="Codez4All v1.9 A-L.pdb" size="40324" crc="7b07c8d0" md5="7cb9bc10f75118df8f59f62aed42d2f0" sha1="badcd9ce5c58b618bc64946b042aeaeec970b9f0"/>
+		<rom name="Codez4All v1.9 M-Z.pdb" size="40832" crc="59a92fb5" md5="0d85464b54be15ec7d28777bd30138f4" sha1="911eecf8cb17e6051910f2ea371ef360da9a01e1"/>
+		<rom name="Read This First.txt" size="2681" crc="db65418d" md5="022bc6b035adc93bce85454df8a509e0" sha1="c0a1ce1494b393ff2c334c73427dae4826da0c61"/>
+	</machine>
+	<machine name="krACKed seRIALZ v10">
+		<description>krACKed seRIALZ v10</description>
+		<rom name="krACKed seRIALZ v10.pdb" size="75691" crc="5037c325" md5="161d33564d4c4a2590d3eb2a0d3937bb" sha1="e5ede83600a351a55f32059ef323da3a436f3b75"/>
+	</machine>
+	<machine name="krACKed seRIALZ v16">
+		<description>krACKed seRIALZ v16</description>
+		<rom name="krACKed seRIALZ v16.pdb" size="101566" crc="4fe3c6ca" md5="484ec4bd52079e86a43293f170b6e7e2" sha1="71eda9f74e823406686197909fbd65026888887d"/>
+	</machine>
+	<machine name="krACKed seRIALZ v17">
+		<description>krACKed seRIALZ v17</description>
+		<rom name="krACKed seRIALZ v17.pdb" size="113462" crc="3e60870c" md5="2a01aa8db7e46f4115359f5d53f9e35f" sha1="8a94729fe23fbb86ba7627642ad96a7c6a29c4f3"/>
+	</machine>
+	<machine name="Astraware Keygen v1.0">
+		<description>Astraware Keygen v1.0</description>
+		<rom name="Astraware Keygen v1.0.prc" size="18888" crc="8bf4c6f5" md5="6212b1666dd978c7be5a3fb37910c832" sha1="a0232d81b7fa0927b8fc9651f9acafb638b787bb"/>
+	</machine>
+	<machine name="Bike or Die Keygen">
+		<description>Bike or Die Keygen</description>
+		<rom name="Bike or Die Keygen.exe" size="94208" crc="f060b2a3" md5="459cca63f73784b921416733d034a297" sha1="8729ac544d19a17a9cdbdd403ae8f5b2895fe916"/>
+	</machine>
+	<machine name="Softick Audio Gateway Keygen">
+		<description>Softick Audio Gateway Keygen</description>
+		<rom name="Softick Audio Gateway Keygen.exe" size="116224" crc="2be040ec" md5="62d0cd1366bb7658ef30d430ca4a3c60" sha1="2e094027a2934210c3012cc7d2c94db6173c50eb"/>
+	</machine>
+	<machine name="AppForge Keygen">
+		<description>AppForge Keygen</description>
+		<rom name="AppForge Keygen.exe" size="28672" crc="6c8b862f" md5="d033d67a045ba9498492e155f5f92695" sha1="0b8ddb3a2105c5fb9477896b79d4fa3d25794a53"/>
+	</machine>
+	<machine name="Iambic Keygen">
+		<description>Iambic Keygen</description>
+		<rom name="Iambic Keygen.exe" size="45056" crc="e3fa3e5b" md5="692260c1f869a274df3a269adf0f3e50" sha1="87f88b7442ea4c39f7ea8ccd257691e9bc7aa35d"/>
+	</machine>
+	<machine name="Liberty Keygen v1.0">
+		<description>Liberty Keygen v1.0</description>
+		<rom name="keygen-liberty.prc" size="2766" crc="d405a818" md5="c7b332b6de63106dbbb8003a7a80c0cb" sha1="de4a0e29bae715dd440c92c2a21b5de80d6ae0c8"/>
+		<rom name="Liberty Keygen Install.txt" size="1675" crc="04d9899d" md5="b375c015a7316622c8f46218ef8a2dd7" sha1="5477e69295e9501f798620ec51442427bb6b9e62"/>
+	</machine>
+	<machine name="Bike Or Die 2 Keygen">
+		<description>Bike Or Die 2 Keygen</description>
+		<rom name="Bike Or Die 2 Keygen.exe" size="138752" crc="2b342609" md5="6799a9ed39176e1f653ad470fd92e617" sha1="f3a5f7b9959fb91452485aea69bb7a35fb7fe6fa"/>
+	</machine>
+	<machine name="NoviiRemote 2.x Keygen v1.0">
+		<description>NoviiRemote 2.x Keygen v1.0</description>
+		<rom name="NoviiRemote Keygen.prc" size="23962" crc="68516e3f" md5="82a5b9a169aebd524fa0ae323909ea87" sha1="81d6a05f38af9f95c30a0ce7588e22660d548180"/>
+	</machine>
+	<machine name="QuickTake Keygen v3.0">
+		<description>QuickTake Keygen v3.0</description>
+		<rom name="QuickTake Keygen v3.0.prc" size="74406" crc="38c23f58" md5="47f44e1a9c656d645353eaac85c32446" sha1="cc57d58fa91ef139268d8b02867f1d1081d54b89"/>
+		<rom name="Readme.txt" size="302" crc="1c1110d0" md5="6a20c0aad14467a46ab0992f44e54416" sha1="000b12a063db8e7e66167773f0514d35ec65c517"/>
+	</machine>
+	<machine name="Resco BackupPro v2.20 Keygen">
+		<description>Resco BackupPro v2.20 Keygen</description>
+		<rom name="Readme.txt" size="264" crc="46ace551" md5="618fb070000b9bef78216fc851fe23a2" sha1="edec3b99b89af0c82b2ebfd1c28d201a0883c90b"/>
+		<rom name="Resco BackupPro v2.20 Keygen.prc" size="258482" crc="f02b73dd" md5="0bcf965af963fd60aff1f5c7821cc6a6" sha1="72358e498d98470fe1c8c2264c3374ac6d427863"/>
+	</machine>
+	<machine name="Resco Neeews! v2.31 Keygen">
+		<description>Resco Neeews! v2.31 Keygen</description>
+		<rom name="Readme.txt" size="244" crc="fd28443d" md5="c86181eb9c64ea796fe6ecbf4e9a4476" sha1="e6b508713e0367807f2fc724b69d220cfcc5f307"/>
+		<rom name="RescoNews Keygen.prc" size="434552" crc="8897673e" md5="4e794c163c4cb2c5e3371455b2ea8153" sha1="4fe3ff29de3cefa63a1282b1af3faafd0e242727"/>
+	</machine>
+	<machine name="ToySoft Uni-KeyGen">
+		<description>ToySoft Uni-KeyGen</description>
+		<rom name="ToySoft Uni-KeyGen.prc" size="50207" crc="57ce813b" md5="924ba9a3e0d904eba8480e48a6543ed4" sha1="7f36f325d6cec4657c58f5ada3956d39f48d6e8f"/>
+	</machine>
+	<machine name="Poplet Kit v1.0 Keygen">
+		<description>Poplet Kit v1.0 Keygen</description>
+		<rom name="eia-Poplet.Kit.v1.0-KeyGen.prc" size="1890" crc="6d9a41a7" md5="bc5528a7b67d90d27935c401476885c1" sha1="01941cf320552915393f67fff663b9e0dfb3dd99"/>
+	</machine>
+	<machine name="DateBk4 Keygen">
+		<description>DateBk4 Keygen</description>
+		<rom name="DateBk4 Keygen.prc" size="420918" crc="7d00dcba" md5="379c5972fd77b6d0165a572b093e09d7" sha1="412b6870e97855f129716cdeb3b23ae6e2e972ac"/>
+		<rom name="Serial.txt" size="313" crc="69748dd1" md5="c09e7363b4bf897d6ba3531cff2e43c4" sha1="97c3f6475ac69119268f9ac12eeb5692cb81d302"/>
+	</machine>
+	<machine name="Leonard Maltin's Movie Guide 2007 Keygen">
+		<description>Leonard Maltin's Movie Guide 2007 Keygen</description>
+		<rom name="keygen.prc" size="268014" crc="142eca97" md5="80b907027eb2c9c192acdf115ae36a68" sha1="978e99d77e3f5a0eae61487ced2993bd1a58ee6b"/>
+	</machine>
+	<machine name="TakTik v1.2 Keygen">
+		<description>TakTik v1.2 Keygen</description>
+		<rom name="TakTik v1.2.keygen [CDGod].exe" size="218352" crc="056e680f" md5="7a42713462c4a2889035af884b2b4bf5" sha1="a523d3856b6637d47d920266f4767531819d1248"/>
+	</machine>
+	<machine name="Resco Explorer v2.72.2 - Keygen">
+		<description>Resco Explorer v2.72.2 - Keygen</description>
+		<rom name="Readme.txt" size="281" crc="d2d0738e" md5="37e18fef8376f7be531aa58f6ca6a5f0" sha1="5fbfcf375733a06768fc457e1d24cddb0d0f9df0"/>
+		<rom name="RescoExplorer.SELFKEYGEN.301SubVerted.prc" size="411416" crc="5e1d4cb1" md5="61d849ebc51992aec766a2a2080f4938" sha1="f6dd13ad4a9688b10eb2f1f792798af91aae48cf"/>
+	</machine>
+	<machine name="Codez4Palm v4.20">
+		<description>Codez4Palm v4.20</description>
+		<rom name="C4P.prc" size="83138" crc="94e12bf6" md5="d3cbbdf5cd17c8ef3f6a88f16cbe0562" sha1="fa1a77fc47a23b762db55dc1fe8a63bec63791e5"/>
+		<rom name="C4PData.pdb" size="250168" crc="24877ec0" md5="7f0ca8a0a7516b18bcc0acd416861cde" sha1="0063d0aeb606f4587bdf853eeceb3a1bb6ed43db"/>
+		<rom name="C4PLib1.prc" size="23302" crc="7f65de4f" md5="9c4ee0b6cf499e8cb12a3fc48af7d09a" sha1="a13afbc1eaa73adbce64df05b7ec9f4e5f883001"/>
+		<rom name="C4PLib2.prc" size="35312" crc="18a9b6a8" md5="19ed502b2620926dc932249cd18015da" sha1="a9a4059082f3af3f0bf6847fe5f6db6c0ce4c2e9"/>
+		<rom name="C4PLib3.prc" size="16756" crc="67b0412b" md5="54dbf8032c5a7a857c1b9901d42a675a" sha1="1c042321f8a78f80cff9e5c8e0cddf1d6663ad2a"/>
+		<rom name="History.txt" size="1849" crc="250e5cd9" md5="67d563330cbff07a2acf892e704623bb" sha1="44815b95d249e22bb9d246fb1efb9dae6e32ef18"/>
+		<rom name="Readme.txt" size="18" crc="22a91dbf" md5="ca36b329f62ade04dc027e0a8f84a0b3" sha1="eaaea27f817e52562c74fc86a50fb97bbefb98db"/>
+	</machine>
+	<machine name="Codez4Palm v4.21 (App only)">
+		<description>Codez4Palm v4.21 (App only)</description>
+		<rom name="C4P.prc" size="83147" crc="d4c3eee6" md5="39877d40ddb8a49d46c9be2d60441831" sha1="c47245c8300c131df81f58ade68e8874698ab6ed"/>
+		<rom name="C4PLib1.prc" size="23302" crc="7f65de4f" md5="9c4ee0b6cf499e8cb12a3fc48af7d09a" sha1="a13afbc1eaa73adbce64df05b7ec9f4e5f883001"/>
+		<rom name="C4PLib2.prc" size="35312" crc="18a9b6a8" md5="19ed502b2620926dc932249cd18015da" sha1="a9a4059082f3af3f0bf6847fe5f6db6c0ce4c2e9"/>
+		<rom name="C4PLib3.prc" size="16756" crc="67b0412b" md5="54dbf8032c5a7a857c1b9901d42a675a" sha1="1c042321f8a78f80cff9e5c8e0cddf1d6663ad2a"/>
+	</machine>
+	<machine name="Codez4Palm v4.25 (Data only)">
+		<description>Codez4Palm v4.25 (Data only)</description>
+		<rom name="C4PData.pdb" size="365036" crc="e7d32a53" md5="047bee02eecd506ab7d15f8ff9fed611" sha1="ab466c0ae8f54e86ef484498228387d173950d59"/>
+		<rom name="C4PLetter.pdb" size="80" crc="431389f1" md5="2b9572c8fcf5bfc00c97cbe18ede9bc4" sha1="bc902b49968ec7828764514c258fae36e6976241"/>
+		<rom name="C4PLib1.pdb" size="23302" crc="64d3aa1d" md5="20fb0189014dbc2078e0c20c83505d62" sha1="24d8ba26d0ed05685836c19d031f7c496bccf335"/>
+		<rom name="C4PLib2.pdb" size="35312" crc="0bcb30ab" md5="bc341d0e0d71d73a2561cbd9c8476395" sha1="b616e3633c4f9ccad98443f2db5722696571b2af"/>
+		<rom name="C4PPrivate.pdb" size="80" crc="9141a781" md5="6f2508180d332adc1b7c3cf4d6484d43" sha1="b48ca4cd20b6ad3c0764351396b4ef83a436c31f"/>
+		<rom name="C4PSearch.pdb" size="80" crc="7a73a7fc" md5="a60808fc6680b69280299bbf29aeac85" sha1="40c6062449b37ace73fe51ba65733e71801d385f"/>
+		<rom name="Codez4Palm v4.25.pdb" size="341059" crc="135f50f6" md5="726509cba637574978c7b57f11957512" sha1="62cf79c7354bd790bd41d96acd0e9d08278f40d8"/>
+	</machine>
+	<machine name="Codez4Palm v4.44">
+		<description>Codez4Palm v4.44</description>
+		<rom name="C4P.prc" size="83151" crc="f97605b5" md5="76c5d99d8f37ccfe424939204860ad28" sha1="ef7e1d7e7b5cbfa5e6ecf76d10b0030d1574be3d"/>
+		<rom name="C4PData.pdb" size="365040" crc="f6d822cf" md5="80fd3ac41119344d65e0731e16e5b9a3" sha1="22ab025e8980c535806091c1808a3c76194bb2fa"/>
+		<rom name="C4PLib1.prc" size="23302" crc="7f65de4f" md5="9c4ee0b6cf499e8cb12a3fc48af7d09a" sha1="a13afbc1eaa73adbce64df05b7ec9f4e5f883001"/>
+		<rom name="C4PLib2.prc" size="35312" crc="18a9b6a8" md5="19ed502b2620926dc932249cd18015da" sha1="a9a4059082f3af3f0bf6847fe5f6db6c0ce4c2e9"/>
+		<rom name="C4PLib3.prc" size="16756" crc="67b0412b" md5="54dbf8032c5a7a857c1b9901d42a675a" sha1="1c042321f8a78f80cff9e5c8e0cddf1d6663ad2a"/>
+		<rom name="History.txt" size="2343" crc="2eec8ebf" md5="57ba485c48e5f78e28ba57e70e555f2f" sha1="117e5eda3977c6ba04edf0e22a523ade218c5ec1"/>
+		<rom name="Readme.txt" size="150" crc="fc8dbfd4" md5="29641db20295115b9a67cd403acdb686" sha1="f3669c8be084102bde1fd123fc157ad35e61cf8f"/>
+	</machine>
+	<machine name="Codez4Palm v4.48">
+		<description>Codez4Palm v4.48</description>
+		<rom name="C4P.prc" size="83151" crc="f97605b5" md5="76c5d99d8f37ccfe424939204860ad28" sha1="ef7e1d7e7b5cbfa5e6ecf76d10b0030d1574be3d"/>
+		<rom name="C4PData.pdb" size="419340" crc="2675120c" md5="4f77fcf8812f143219c372bd89447bfc" sha1="bab5e97a938207b8fb0055e96f6f23cc6e2c6270"/>
+		<rom name="C4PLib1.prc" size="23302" crc="7f65de4f" md5="9c4ee0b6cf499e8cb12a3fc48af7d09a" sha1="a13afbc1eaa73adbce64df05b7ec9f4e5f883001"/>
+		<rom name="C4PLib2.prc" size="35312" crc="18a9b6a8" md5="19ed502b2620926dc932249cd18015da" sha1="a9a4059082f3af3f0bf6847fe5f6db6c0ce4c2e9"/>
+		<rom name="C4PLib3.prc" size="16756" crc="67b0412b" md5="54dbf8032c5a7a857c1b9901d42a675a" sha1="1c042321f8a78f80cff9e5c8e0cddf1d6663ad2a"/>
+	</machine>
+	<machine name="Codez4Palm v4.63">
+		<description>Codez4Palm v4.63</description>
+		<rom name="C4P.prc" size="83151" crc="f97605b5" md5="76c5d99d8f37ccfe424939204860ad28" sha1="ef7e1d7e7b5cbfa5e6ecf76d10b0030d1574be3d"/>
+		<rom name="C4PData.pdb" size="473600" crc="3521a51b" md5="1d5ef1e6c014b52f3146507ab426b59c" sha1="29f5e7137bfd35ace79d50933ddb914a3b3e2bcf"/>
+		<rom name="C4PLib1.prc" size="23302" crc="7f65de4f" md5="9c4ee0b6cf499e8cb12a3fc48af7d09a" sha1="a13afbc1eaa73adbce64df05b7ec9f4e5f883001"/>
+		<rom name="C4PLib2.prc" size="35312" crc="18a9b6a8" md5="19ed502b2620926dc932249cd18015da" sha1="a9a4059082f3af3f0bf6847fe5f6db6c0ce4c2e9"/>
+		<rom name="C4PLib3.prc" size="16756" crc="67b0412b" md5="54dbf8032c5a7a857c1b9901d42a675a" sha1="1c042321f8a78f80cff9e5c8e0cddf1d6663ad2a"/>
+		<rom name="Readme.txt" size="150" crc="fc8dbfd4" md5="29641db20295115b9a67cd403acdb686" sha1="f3669c8be084102bde1fd123fc157ad35e61cf8f"/>
+	</machine>
+	<machine name="Codez4Palm V4.68">
+		<description>Codez4Palm V4.68</description>
+		<rom name="C4P.prc" size="83147" crc="d4c3eee6" md5="39877d40ddb8a49d46c9be2d60441831" sha1="c47245c8300c131df81f58ade68e8874698ab6ed"/>
+		<rom name="C4PLib1.prc" size="23302" crc="7f65de4f" md5="9c4ee0b6cf499e8cb12a3fc48af7d09a" sha1="a13afbc1eaa73adbce64df05b7ec9f4e5f883001"/>
+		<rom name="C4PLib2.prc" size="35312" crc="18a9b6a8" md5="19ed502b2620926dc932249cd18015da" sha1="a9a4059082f3af3f0bf6847fe5f6db6c0ce4c2e9"/>
+		<rom name="C4PLib3.prc" size="16756" crc="67b0412b" md5="54dbf8032c5a7a857c1b9901d42a675a" sha1="1c042321f8a78f80cff9e5c8e0cddf1d6663ad2a"/>
+		<rom name="Codez4Palm_4.68.pdb" size="480428" crc="7600f2f6" md5="e056ec7d4368355dc089c02a67b19d36" sha1="c1747eeee7148a5dfc4bd0f30ce749abc621ca6f"/>
+		<rom name="History.txt" size="3157" crc="7a33a1fa" md5="4c38161c5c1e372542de0348e030c11d" sha1="26e1ee9fab710ccdf192ae75ee4d87d12c2f88c8"/>
+	</machine>
+	<machine name="Codez4Palm V4.68 (CN)">
+		<description>Codez4Palm V4.68 (CN)</description>
+		<rom name="C4P V4.21 (CN).prc" size="81725" crc="a716becb" md5="e3b05919913836917e6d44c16f689ec2" sha1="8cfa58047b65d1f0f2ac4816bdb8263fcaabbb84"/>
+		<rom name="C4P V4.21.prc" size="83147" crc="d4c3eee6" md5="39877d40ddb8a49d46c9be2d60441831" sha1="c47245c8300c131df81f58ade68e8874698ab6ed"/>
+		<rom name="C4PLib1.prc" size="23302" crc="7f65de4f" md5="9c4ee0b6cf499e8cb12a3fc48af7d09a" sha1="a13afbc1eaa73adbce64df05b7ec9f4e5f883001"/>
+		<rom name="C4PLib2.prc" size="35312" crc="18a9b6a8" md5="19ed502b2620926dc932249cd18015da" sha1="a9a4059082f3af3f0bf6847fe5f6db6c0ce4c2e9"/>
+		<rom name="C4PLib3.prc" size="16756" crc="67b0412b" md5="54dbf8032c5a7a857c1b9901d42a675a" sha1="1c042321f8a78f80cff9e5c8e0cddf1d6663ad2a"/>
+		<rom name="Codez4Palm_4.68.pdb" size="480428" crc="7600f2f6" md5="e056ec7d4368355dc089c02a67b19d36" sha1="c1747eeee7148a5dfc4bd0f30ce749abc621ca6f"/>
+		<rom name="Codez4PDA for iSilo V4.68.pdb" size="945172" crc="1f7847ea" md5="f1803398cf38022366c7acd3cb12b850" sha1="997877f41421be7dd04c4fc3a9c03bc6da31e430"/>
+		<rom name="History.txt" size="3188" crc="861991e1" md5="741542195fb800729d5f652702fef39b" sha1="7cf2bb3ff83601c896c3bf95376f6840ecf03faf"/>
+		<rom name="Readme.txt" size="658" crc="6ec38424" md5="0f66cc71ea2001b7e609e84ef6ba5e78" sha1="b168a4f20ca2afbcd91b4d8558251a56547d8e8d"/>
+	</machine>
+</datafile>
