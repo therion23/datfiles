@@ -11,8 +11,9 @@ A big thank you to the following (in no order whatsoever):
 - Newpain
 
 And of course
-- The PalmDB community, especially scienceapps and musashi for supplying fodder for these DATs
-- Them mighty fine folks at TOSEC
+- The PalmDB community, especially scienceapps, musashi and gabe2.1 for supplying fodder for these DATs and general encouragement
+- Them mighty fine folks at TOSEC, none named, none forgotten
+- And a whole bunch of folks who wish to stay anonymous - fine with me, if you change your minds you know where to find me
 
 # Preface
 I got my first Palm in 1998, and have been collecting software for the platform ever since. As it is right now, i have this "unsorted" folder amounting to around 900'000 files, and it is about time that gets properly catalogue'd.
