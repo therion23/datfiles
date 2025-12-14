@@ -5,7 +5,7 @@ The above deathgrab, decoded with [WARCAT](https://github.com/chfoo/warcat) (the
 
 Note that no files have been renamed. This is on purpose, since it represents exactly what you got from the Ovi Store.
 
-Script used for stripping .dm "encoded" files (those matching the pattern **.dm_q=**):
+Script used for stripping .dm "encoded" files (those matching the pattern \*.dm\_q=\*):
 ```
 #!/bin/bash
 FN=$1
