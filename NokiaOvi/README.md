@@ -14,4 +14,4 @@ HS=`expr $HS + 1`
 FS=18
 cat "$FN" | tail -c +$HS | head -c -$FS > "$FN".fixed
 ```
-And then obviously remove the extensions from the output files (or let your ROM manager do the dirty work).
+And then scan \*.fixed with your favourite ROM manager.
