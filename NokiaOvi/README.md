@@ -5,7 +5,7 @@ The above deathgrab, decoded with [WARCAT](https://github.com/chfoo/warcat) (the
 
 Note that no files have been renamed. This is on purpose, since it represents exactly what you got from the Ovi Store.
 
-Script used for stripping .dm "encoded" files:
+Script used for stripping .dm "encoded" files (those matching the pattern **.dm_q=**):
 ```
 #!/bin/bash
 FN=$1
@@ -14,4 +14,4 @@ HS=`expr $HS + 1`
 FS=18
 cat "$FN" | tail -c +$HS | head -c -$FS > "$FN".fixed
 ```
-And then obviously remove ".dm.fixed" from the output files.
+And then obviously remove the extensions from the output files (or let your ROM manager do the dirty work).
