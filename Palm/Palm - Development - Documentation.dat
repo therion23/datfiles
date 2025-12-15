@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Palm - Development - Documentation</name>
+		<description>Palm - Development - Documentation</description>
+		<category>Standard DatFile</category>
+		<version>2025-10-22</version>
+		<date>2025-10-22</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Developing Palm OS 3.0 Applications - Pt 1 - Interface - 1998">
+		<description>Developing Palm OS 3.0 Applications - Pt 1 - Interface - 1998</description>
+		<rom name="Developing Palm OS 3.0 Applications - Pt 1 - Interface - 1998.pdf" size="2736795" crc="c711fd39" md5="a1d77194da90f0a26cd9c49fa95aa53c" sha1="6a4761b83ee2210f5820a02fa115b89849792c5f"/>
+	</machine>
+	<machine name="Developing Palm OS 3.0 Applications - Pt 2 - System Management - 1998">
+		<description>Developing Palm OS 3.0 Applications - Pt 2 - System Management - 1998</description>
+		<rom name="Developing Palm OS 3.0 Applications - Pt 2 - System Management - 1998.pdf" size="1181631" crc="28f4c953" md5="bb7838b2d60517e36b7c9db8eb7ac2c2" sha1="c2353855e244b2d50522e12f38eb738ec1982e75"/>
+	</machine>
+	<machine name="Developing Palm OS 3.0 Applications - Pt 3 - Memory and Communications - 1998">
+		<description>Developing Palm OS 3.0 Applications - Pt 3 - Memory and Communications - 1998</description>
+		<rom name="Developing Palm OS 3.0 Applications - Pt 3 - Memory and Communications - 1998.pdf" size="2064110" crc="1412de32" md5="baaf36cadb42eac80f960cfb3861dcc4" sha1="4539e5ee37b8645a98c2d50618dded3571afb34d"/>
+	</machine>
+	<machine name="NS Basic Programming for Palm OS, 3rd Ed. - Michael J. Verive - 2006">
+		<description>NS Basic Programming for Palm OS, 3rd Ed. - Michael J. Verive - 2006</description>
+		<rom name="NS Basic Programming for Palm OS, 3rd Ed. - Michael J. Verive - 2006.pdf" size="2296288" crc="a63a19eb" md5="217f34f64bccb22f5fc7d1562f25322e" sha1="f693416a38c2a60061aa9b4b0502d5e12376754a"/>
+	</machine>
+	<machine name="O'Reilly Palm Programming The Developer's Guide - 1999">
+		<description>O'Reilly Palm Programming The Developer's Guide - 1999</description>
+		<rom name="O'Reilly Palm Programming The Developer's Guide - 1999.pdf" size="4132807" crc="9bd61d0d" md5="65bd633762da32c6670fccb21a740b88" sha1="6da123e2b4e4bebe088a88663871ace57a282c0a"/>
+	</machine>
+	<machine name="Palm Developers Guide - Rev E - 2006 November">
+		<description>Palm Developers Guide - Rev E - 2006 November</description>
+		<rom name="Palm Developers Guide - Rev E - 2006 November.pdf" size="5219499" crc="7ff6268a" md5="d258d90e279fd3b3e6afc7ddb8ddf518" sha1="f567f09dee59680096de50d395feb3e3b0427ef4"/>
+	</machine>
+	<machine name="Palm Developers Guide - Rev G - 2007 October">
+		<description>Palm Developers Guide - Rev G - 2007 October</description>
+		<rom name="Palm Developers Guide - Rev G - 2007 October.pdf" size="6189932" crc="538d549d" md5="e84aeed97829cc21f30f4db675060fe6" sha1="10d7c93ed2d907eb734888a234e4fa940024f6be"/>
+	</machine>
+	<machine name="Palm Developers Guide - Rev J - 2008 April">
+		<description>Palm Developers Guide - Rev J - 2008 April</description>
+		<rom name="Palm Developers Guide - Rev J - 2008 April.pdf" size="5227202" crc="3db577d0" md5="d1f8c3e1c021113f749c976787e14510" sha1="d90ec5acff0401e458c71d150e870b2b8dd36652"/>
+	</machine>
+	<machine name="Palm One Developer Guide - Fall 2004">
+		<description>Palm One Developer Guide - Fall 2004</description>
+		<rom name="Palm One Developer Guide - Fall 2004.pdf" size="1651997" crc="45d373cb" md5="c8d5906041345258b18a51bee8d1ce2d" sha1="f08d5fbdc4d01693b81ab7042391072c57b71aa7"/>
+	</machine>
+	<machine name="Palm OS 2.0 Tutorial for Windows Codewarior - 1998">
+		<description>Palm OS 2.0 Tutorial for Windows Codewarior - 1998</description>
+		<rom name="Palm OS 2.0 Tutorial for Windows Codewarior - 1998.pdf" size="1494945" crc="566efa27" md5="1b8e522407a0e5f51fafc0c313f9b4a4" sha1="01cdaa7a0c2498164de56c927e0152a4869b80c3"/>
+	</machine>
+	<machine name="Palm OS 3.0 Cookbook for Windows - 1998">
+		<description>Palm OS 3.0 Cookbook for Windows - 1998</description>
+		<rom name="Palm OS 3.0 Cookbook for Windows - 1998.pdf" size="450445" crc="14e66758" md5="c67a7d157a930ba7c88fd182bad490a5" sha1="be4acbfc19be657ee7b3adc09a1b19427ea3278e"/>
+	</machine>
+	<machine name="Palm OS API Reference - 68K - 2004">
+		<description>Palm OS API Reference - 68K - 2004</description>
+		<rom name="Palm OS API Reference - 68K - 2004.pdf" size="12231769" crc="5d2a8af8" md5="5e0508590256b3f0dc8d19b497bf1c7d" sha1="de3ed474b2d3a501e09d1f53c00834b9ff06e130"/>
+	</machine>
+	<machine name="Palm OS API Reference - OS5 - 2002">
+		<description>Palm OS API Reference - OS5 - 2002</description>
+		<rom name="Palm OS API Reference - OS5 - 2002.pdf" size="10450910" crc="1ae7eeeb" md5="6d538b402a440b6707637023b2e53460" sha1="2082a354b3b64b0e03199e02ab6ade12dc7be900"/>
+	</machine>
+	<machine name="Palm OS Programmers Companion - 2000 - June">
+		<description>Palm OS Programmers Companion - 2000 - June</description>
+		<rom name="Palm OS Programmers Companion - 2000 - June.pdf" size="2583976" crc="e9bb8ccf" md5="c89278bb4f5e9d504dcefd9309b4ee94" sha1="d080ecf88787cc526d3ea06350915a058691bbab"/>
+	</machine>
+	<machine name="Palm OS Programmers Companion - 2000 - March">
+		<description>Palm OS Programmers Companion - 2000 - March</description>
+		<rom name="Palm OS Programmers Companion - 2000 - March.pdf" size="2907951" crc="887ee316" md5="86389a536448ed32a3493b3bdece1f06" sha1="fbb4844bb5d4f060ecb6269149e09c00fc899b0b"/>
+	</machine>
+	<machine name="Palm OS Programmers Companion - Preliminary - 1999">
+		<description>Palm OS Programmers Companion - Preliminary - 1999</description>
+		<rom name="Palm OS Programmers Companion - Preliminary - 1999.pdf" size="2107406" crc="6af8cc43" md5="3a3f40b20124656a42468a10d2879c06" sha1="7834f7fe4d43b148aa1637bf5fc2fea4edd598de"/>
+	</machine>
+	<machine name="Palm OS Programmers Companion - Vol 1 - 2002">
+		<description>Palm OS Programmers Companion - Vol 1 - 2002</description>
+		<rom name="Palm OS Programmers Companion - Vol 1 - 2002.pdf" size="2414427" crc="fc8dbef5" md5="8a470ee41ae2fda30a0110cefc0beb42" sha1="0476240f7b24a51efc3839db42e8d104d22e9938"/>
+	</machine>
+	<machine name="Palm OS Programmers Companion - Vol 1 - 2004 ">
+		<description>Palm OS Programmers Companion - Vol 1 - 2004 </description>
+		<rom name="Palm OS Programmers Companion - Vol 1 - 2004 .pdf" size="2646748" crc="193df9da" md5="133e42ce46ece565039f769c29d0a17f" sha1="ea3444584165facfd7701390040d1f8a132df870"/>
+	</machine>
+	<machine name="Palm OS Programmers Companion - Vol 2 - Communications - 2004">
+		<description>Palm OS Programmers Companion - Vol 2 - Communications - 2004</description>
+		<rom name="Palm OS Programmers Companion - Vol 2 - Communications - 2004.pdf" size="1662277" crc="d1ee2f33" md5="c52e9fbfd297ec4d3a8ad50823e46b97" sha1="744635fd69488f0870386fa528ed1f329de8677c"/>
+	</machine>
+	<machine name="Palm OS Programming - Glenn Bachmann - 2002">
+		<description>Palm OS Programming - Glenn Bachmann - 2002</description>
+		<rom name="Palm OS Programming - Glenn Bachmann - 2002.pdf" size="3149539" crc="0bf18f09" md5="23e771e90ecfe480fd25f4f6d373636a" sha1="9e9c9b08af2a12d9dda598c036b43bd952366945"/>
+	</machine>
+	<machine name="Palm OS Programming Bible - Lonnon R. Foster - 2000">
+		<description>Palm OS Programming Bible - Lonnon R. Foster - 2000</description>
+		<rom name="Palm OS Programming Bible - Lonnon R. Foster - 2000.pdf" size="3513350" crc="f50178b4" md5="056b91961e0231bd96b66654cf78ecc8" sha1="1bf0227786adb2969dc13ca2fe2c9fbc4fe4bd17"/>
+	</machine>
+	<machine name="Palm OS Programming Development Tools Guide - Brian Maas, Gary Hillerson - 2001">
+		<description>Palm OS Programming Development Tools Guide - Brian Maas, Gary Hillerson - 2001</description>
+		<rom name="Palm OS Programming Development Tools Guide - Brian Maas, Gary Hillerson - 2001.pdf" size="2991124" crc="7207a1b8" md5="a93f90a844c7f3441e654c5d07b26502" sha1="eaf5188bfd680bd8fa51646bc8ae0c11c3b391a9"/>
+	</machine>
+	<machine name="Palm OS Programming Professional Projects - Vikram Bhatia - 2002.epub">
+		<description>Palm OS Programming Professional Projects - Vikram Bhatia - 2002.epub</description>
+		<rom name="Palm OS Programming Professional Projects - Vikram Bhatia - 2002.epub" size="2852238" crc="79191f7b" md5="fc2e0c6bf41a00cfda565bcc29364ac0" sha1="aa491c3df65a40f4cead03622411a811a8e863b4"/>
+	</machine>
+	<machine name="Palm OS Protein Compiler Reference - 2004">
+		<description>Palm OS Protein Compiler Reference - 2004</description>
+		<rom name="Palm OS Protein Compiler Reference - 2004.pdf" size="1967038" crc="d2a9ad0d" md5="b705bb341f67470eb05cfdca5311a8b9" sha1="3f24fc4cdf7681ae36a5d7330c5df88c63389501"/>
+	</machine>
+	<machine name="Palm OS User Interface Guidelines - 2003">
+		<description>Palm OS User Interface Guidelines - 2003</description>
+		<rom name="Palm OS User Interface Guidelines - 2003.pdf" size="1263811" crc="f453968e" md5="72f954c6aae9279b9bf3106d9363d279" sha1="11048b031ccf959a193f74409dfaf083ddd82562"/>
+	</machine>
+	<machine name="Palm OS Web Application Developer’s Guide - Ben Combee et al - 2006">
+		<description>Palm OS Web Application Developer’s Guide - Ben Combee et al - 2006</description>
+		<rom name="Palm OS Web Application Developer’s Guide - Ben Combee et al - 2006.pdf" size="4224334" crc="c71ae589" md5="8b7fe4bea8d8c31b7dbedef157ad73f5" sha1="2bcf7e8e1f0762d0b9a50e89b47a4018bc589b4d"/>
+	</machine>
+	<machine name="Palm Programming, The Developer's Guide, 1st Ed. - Neil Rhodes &amp; Julie McKeehan - 1999">
+		<description>Palm Programming, The Developer's Guide, 1st Ed. - Neil Rhodes &amp; Julie McKeehan - 1999</description>
+		<rom name="Palm Programming, The Developer's Guide, 1st Ed. - Neil Rhodes &amp; Julie McKeehan - 1999.pdf" size="2126823" crc="fc8108f6" md5="8e2af68745dcfca5b571981c66ca05b9" sha1="93ee96ea6e33fddee9b6f64c4d9b39a184f6d064"/>
+	</machine>
+	<machine name="Palmpilot, The Ultimate Guide, 2nd Ed. - David Pogue - 1999.epub">
+		<description>Palmpilot, The Ultimate Guide, 2nd Ed. - David Pogue - 1999.epub</description>
+		<rom name="Palmpilot, The Ultimate Guide, 2nd Ed. - David Pogue - 1999.epub" size="12579236" crc="db7d10d9" md5="20626ee15546533dd50be6e8a1e1d524" sha1="0d02940d06861901874e5a0216ae0876620bf36f"/>
+	</machine>
+	<machine name="Professional Palm OS Programming - Lonnon R. Foster &amp; Glenn Bachmann - 2005">
+		<description>Professional Palm OS Programming - Lonnon R. Foster &amp; Glenn Bachmann - 2005</description>
+		<rom name="Professional Palm OS Programming - Lonnon R. Foster &amp; Glenn Bachmann - 2005.pdf" size="13601248" crc="a9a23e35" md5="f1c07c893e46198654dbcd3894f379ab" sha1="1431621c0e5ff5d170145e7828835f6d5fe78beb"/>
+	</machine>
+	<machine name="Zen of Palm - Designing Products for Palm OS - 2003">
+		<description>Zen of Palm - Designing Products for Palm OS - 2003</description>
+		<rom name="Zen of Palm - Designing Products for Palm OS - 2003.pdf" size="794728" crc="94890b50" md5="2c14503d3f2bc8167e3d37de848b151c" sha1="25da74413d6506e3ad0587978a8f9c9345714d9e"/>
+	</machine>
+</datafile>

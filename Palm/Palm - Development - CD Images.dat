@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Palm - Development - CD Images</name>
+		<description>Palm - Development - CD Images</description>
+		<category>Standard DatFile</category>
+		<version>20251024</version>
+		<date>2025-10-24</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="CodeWarrior for Palm OS Platform 7.0 (Windows + Mac)">
+		<description>CodeWarrior for Palm OS Platform 7.0 (Windows + Mac)</description>
+		<rom name="CodeWarrior for Palm OS Manual.pdf" size="210558524" crc="fb9c7612" md5="5f47931ae739535075f4ad7486b66a9f" sha1="0df2ef51c35b7d3eaf8ffbe548a44e7d449efb6d"/>
+		<rom name="CW_Palm_OS_V7.0.iso" size="381127488" crc="0e851be4" md5="d1248aa5d01f33e64e12773c39915e58" sha1="d88b1020b3a928a66577b378b2cdc9ec6afd9dc9"/>
+		<rom name="CW_Palm_OS_V7.0_Mac.iso" size="490113024" crc="e1915b85" md5="27d36ce7f396c02905eee88d3f919cfc" sha1="23b65700727bbfef71b82d928250ad2c62cfe652"/>
+		<rom name="Getting Started - Mac.pdf" size="111292452" crc="dcf74a3a" md5="8b78335cd5566dc3c8f2324409ac0b0f" sha1="e6a24ba2dfe1c52d9621ffbc1b16e99d58232487"/>
+		<rom name="Getting Started - Windows.pdf" size="109268782" crc="317ab695" md5="ef26353e23f450b5ea25ed430894e489" sha1="60513bfd3fc806c9ca76fefdde014a89ed8e5705"/>
+		<rom name="Quick Reference - Mac.pdf" size="272056396" crc="b28a51f7" md5="99462aa8bb55ca161d62bbddad4d5e0d" sha1="3a7ae758cf77d283b809793ac321b92cce4c2856"/>
+		<rom name="Quick Reference - Windows.pdf" size="268212813" crc="f105dde2" md5="4e2c10d3169c53107b1ee8394763ac6e" sha1="c231761bff2a678244f4b857fcf4400483124241"/>
+	</machine>
+	<machine name="CodeWarrior 9.3">
+		<description>CodeWarrior 9.3</description>
+		<rom name="CodeWarrior 9.3.iso" size="224700416" crc="a7ad2825" md5="36c982beac60ebbdef4d788d4e38eb17" sha1="a0b35561d168885c183797b8b1f8e2195b689f19"/>
+	</machine>
+	<machine name="Palm OS Programming Bible">
+		<description>Palm OS Programming Bible</description>
+		<rom name="Palm OS Programming Bible.bin" size="104614608" crc="9ea30529" md5="33fee542de1a78a7461a08e39ed3a454" sha1="bff0e86b4763ffbe97396a8010defb1f1ed3d113"/>
+		<rom name="Palm OS Programming Bible.cue" size="77" crc="ce9e0fed" md5="6d799dff76e82e72aa22827b082d06d7" sha1="83b43f63fc9014e9ddf2421daea81295992cc501"/>
+	</machine>
+	<machine name="Palm OS Game Programming">
+		<description>Palm OS Game Programming</description>
+		<rom name="Palm OS Game Programming.iso" size="117708800" crc="786aa890" md5="ad57fc69a8d35147580c0c9a3a1b35da" sha1="dd06ed9b62518e3e5228edcf6c4768d19e4f59b7"/>
+	</machine>
+	<machine name="Palm OS Programming for Dummies">
+		<description>Palm OS Programming for Dummies</description>
+		<rom name="Palm OS Programming for Dummies.iso" size="143204352" crc="c95135db" md5="d0966a79c333a0fef0226037586f09d3" sha1="edaa6a0fc13b56f16904414698eec6deb93c02da"/>
+	</machine>
+	<machine name="Palm Programming - The Developer's Guide (Hybrid)">
+		<description>Palm Programming - The Developer's Guide (Hybrid)</description>
+		<rom name="Palm Programming - The Developer's Guide (Hybrid).iso" size="395618304" crc="216b2a99" md5="e6abc43475eabb89138b1855c6dc2504" sha1="81d0b3c65a806ab215396c8061f870104e691791"/>
+	</machine>
+	<machine name="Handheld Systems Archive">
+		<description>Handheld Systems Archive</description>
+		<rom name="Handheld Systems Archive.iso" size="52131840" crc="68889ccd" md5="6939a5df0b6a9fb90f3a1ed2cdfeb17f" sha1="3e3da4d9425681e998d03c6155c6c3a71178ad51"/>
+	</machine>
+</datafile>
