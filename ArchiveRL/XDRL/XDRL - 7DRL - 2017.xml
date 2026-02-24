@@ -4397,7 +4397,6 @@
 	</machine>
 	<machine name="MinotaurRL">
 		<description>MinotaurRL</description>
-		<rom name="\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
 		<rom name="_readme.txt" size="5500" crc="f6846485" md5="3050ab1adeee79fb81218eae1d61fe59" sha1="0edb8c96a7e1c0d9598fd9df0936740c1b81880a" />
 		<rom name="_settings.default" size="1402" crc="52f6bcca" md5="a3825d95a66f79c52518ebe04b46752c" sha1="96d734b9c7e1c0db71ec08adde2706a771df747d" />
 		<rom name="_settings.json" size="1402" crc="52f6bcca" md5="a3825d95a66f79c52518ebe04b46752c" sha1="96d734b9c7e1c0db71ec08adde2706a771df747d" />
@@ -5530,7 +5529,6 @@
 	</machine>
 	<machine name="Werewolf">
 		<description>Werewolf</description>
-		<rom name="\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
 		<rom name="werewolf.exe" size="4794220" crc="7d5e2066" md5="1ebf39703aec9aa7cc24390a4f757322" sha1="e2d6b4cdffa4fe8a6ac955f60773d903a7ad54c3" />
 	</machine>
 	<machine name="Woozoolike">
