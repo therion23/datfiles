@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - Platform</name>
+		<description>The classic roguelike archive - Platform</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="100 Rogues (v)[apk]">
+		<description>100 Rogues (v)[apk]</description>
+		<rom name="100 Rogues (v)[apk]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="100 Rogues (v)[apk]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="100 Rogues (v)[apk]\__Doc\100 Rogues - RogueBasin.mht" size="337876" crc="ff24ab52" md5="607c341f92ca0ca9166acda23b6dae48" sha1="0b1dbaab3ec6cfed3dc40940972381ff3233c36c" />
+		<rom name="100 Rogues (v)[apk]\__Doc\100 Rogues _ An Arcade-Style Role Playing Game for iPhone &amp; iPad.mht" size="439493" crc="b687358d" md5="24ef4c4f23ca2d88c420726c82d22663" sha1="85a98e5dca30ead4db99ae33e97e304d2a380f13" />
+		<rom name="100 Rogues (v)[apk]\100 rogues.apk" size="92111575" crc="9e8782c2" md5="8bcba26e497ba77809179767fc961286" sha1="518a9c4ecebc885d1f3bb3ef395f0dfc0dd43e77" />
+		<rom name="100 Rogues (v)[apk]\100roguesfullfiles.zip" size="15789" crc="da7c0008" md5="4c52c0cd816a048a7b6547af54cf334f" sha1="742c37f17573dda18716ccf0d0c4e9e0b564fb15" />
+	</machine>
+	<machine name="1Quest Free (v)[apk]">
+		<description>1Quest Free (v)[apk]</description>
+		<rom name="1Quest Free (v)[apk]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="1Quest Free (v)[apk]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="1Quest Free (v)[apk]\__Doc\1Quest - RogueBasin.mht" size="332776" crc="6b22f1e8" md5="5005d1a377d8fea0b9cc72cd5a8318bf" sha1="d960e0fe43d48121e243163a08ba10f0aefedfe7" />
+		<rom name="1Quest Free (v)[apk]\__Doc\1Quest by Ratz 'N' Godz.mht" size="3293946" crc="9eed3938" md5="3c453e3380e51502afe3ef43d9adf816" sha1="36afe944fa8cb301b8c600a2e83ace0ab48a30db" />
+		<rom name="1Quest Free (v)[apk]\__Doc\Cue Indie Review_ Indie Impression - 1Quest.mht" size="5289727" crc="d92fccd1" md5="7bfabf47bad93b60f09edc2081cf266f" sha1="b4734731fd04b9504b5dbeb939183b2d99dfd072" />
+		<rom name="1Quest Free (v)[apk]\1Quest Free.apk" size="23393525" crc="8481ab9e" md5="ee821664160a0f9dafb7d84b977363b5" sha1="a8151f8f76af7864dd1c4150de3ec3b7a76487e4" />
+	</machine>
+	<machine name="AB Hack (v1.0.3)[nix][src]">
+		<description>AB Hack (v1.0.3)[nix][src]</description>
+		<rom name="AB Hack (v1.0.3)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="AB Hack (v1.0.3)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="AB Hack (v1.0.3)[nix][src]\__Doc\Ali's NetHack Source Page.mht" size="15588" crc="44f8e073" md5="6316e976510e0e50cfaa67ba8109184b" sha1="6d1221c69144d17e3c56b30f82fc9cf48b668806" />
+		<rom name="AB Hack (v1.0.3)[nix][src]\__Doc\Hack 1.0.3 - NetHack Wiki.mht" size="357458" crc="71d76adf" md5="fdb14dd8495c22324d61095d6a44a0e3" sha1="b9698a89a2f20bdc5dd5632c2818c157c2578812" />
+		<rom name="AB Hack (v1.0.3)[nix][src]\__Doc\Hack 1.0.3.mht" size="11308" crc="f79c3e92" md5="a436132cec0637752219b57e1938c80e" sha1="7b340ccbcb2597d1684a9d4f250498b483cffd59" />
+		<rom name="AB Hack (v1.0.3)[nix][src]\hack-1.0.3.tar.gz" size="175017" crc="69fcc4a3" md5="6a44d9b3f5c5fc01b86986a51c3ba21b" sha1="04ecc16bce80e4782845897b37296cca0ea89585" />
+	</machine>
+	<machine name="AceHack (v)[nix][src]">
+		<description>AceHack (v)[nix][src]</description>
+		<rom name="AceHack (v)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="AceHack (v)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="AceHack (v)[nix][src]\__Doc\AceHack - NetHack Wiki.mht" size="333176" crc="2f308232" md5="99ef890697b0b85f64b26712320bca8a" sha1="c1310e023d911d60b20f12b8d726749b439f9846" />
+		<rom name="AceHack (v)[nix][src]\__Doc\acehack_fixes36.0 at master · deepy_acehack · GitHub.mht" size="1740389" crc="690b52ad" md5="74a5cc325a465f3b9df888ace81def74" sha1="7c3f0f833d135d21ad7facd2172c2bd088bd4a12" />
+		<rom name="AceHack (v)[nix][src]\__Doc\GitHub - deepy_acehack_ acehack git mirror.mht" size="1737899" crc="52a120ee" md5="40f2d0b62be350f04b6d98cbed01c556" sha1="d899ec4660f8ac1b870fa6ebc1ed521baece75cd" />
+		<rom name="AceHack (v)[nix][src]\__Doc\Variant - NetHack Wiki.mht" size="357987" crc="d99b7167" md5="35308edf8e032b936f32c44cc59300bf" sha1="e9aa537f0b0edb5d4529e5d8dbca530d80faed31" />
+		<rom name="AceHack (v)[nix][src]\acehack-master.zip" size="4586541" crc="af3426f4" md5="aa875c51ddf4aaf890494e78592fe2d7" sha1="c4f3654ca16f49beeae579289399ebe8a825dac8" />
+	</machine>
+	<machine name="AndroidGame (v)[apk]">
+		<description>AndroidGame (v)[apk]</description>
+		<rom name="AndroidGame (v)[apk]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="AndroidGame (v)[apk]\AndroidGame.apk" size="1265394" crc="705f78c1" md5="84112571b414f98c805522fcf54e1b93" sha1="fbe5e4bfee1db7e9550c81a71d31c22c1d17d518" />
+		<rom name="AndroidGame (v)[apk]\AndroidGamePlus.apk" size="1221967" crc="40479818" md5="e5597d53a82551cb33a25bbd231ea614" sha1="c89f6155e3c2a143cc86ee8e38a50fa5de4afe31" />
+	</machine>
+	<machine name="atrogue (v0.3.0)[nix][src]">
+		<description>atrogue (v0.3.0)[nix][src]</description>
+		<rom name="atrogue (v0.3.0)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="atrogue (v0.3.0)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="atrogue (v0.3.0)[nix][src]\__Doc\[atrogue].mht" size="2298" crc="80dafe07" md5="aee8bafa047f72d7c2fb1add98cffc30" sha1="00d8cb1fef95ec63f81668ca836c436b23b388db" />
+		<rom name="atrogue (v0.3.0)[nix][src]\__Doc\atrogue - Known Problems.mht" size="5244" crc="9985650a" md5="0ca0cf1f83dc9d30e4e2bfdad32b44e8" sha1="094ca8127dcf6de224a3273ca75eeec7bc613ebc" />
+		<rom name="atrogue (v0.3.0)[nix][src]\__Doc\Atrogue - RogueBasin.mht" size="331090" crc="33c5d06e" md5="63a7ad7408a16d2a14e579656d94096e" sha1="43df1b7bdf1e4359d55c99a31a4b839b88f18df1" />
+		<rom name="atrogue (v0.3.0)[nix][src]\__Doc\atrogue Home Page.mht" size="9238" crc="f303ddc3" md5="bf5ebc021024ceb2d12b7ca05d81b28a" sha1="cf27bf8d891b9942109878b798aa7ae2a51d7ecd" />
+		<rom name="atrogue (v0.3.0)[nix][src]\atrogue-0.3.0.tar.gz" size="248044" crc="b3ffa172" md5="bd96b558fa2978407167015f8c2f2208" sha1="d92c304b72e653bdbb190c4d65fd57af0d14f3dc" />
+	</machine>
+	<machine name="coreRL (v)[mix][src]">
+		<description>coreRL (v)[mix][src]</description>
+		<rom name="coreRL (v)[mix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="coreRL (v)[mix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="coreRL (v)[mix][src]\__Doc\CoreRL - RogueBasin.mht" size="331468" crc="fa42c247" md5="8636c74749872388aa1a317589a94d3a" sha1="a8bcbd0565160ff87314eee2fd1fa29773edb884" />
+		<rom name="coreRL (v)[mix][src]\__Doc\coreRL in 1kib.mht" size="27883" crc="04c95e5d" md5="e617471dfb400e4f218b93c7d2bdf7e8" sha1="9730f1182fac5b363de3b14704e2d3bd859b468f" />
+		<rom name="coreRL (v)[mix][src]\1kcore.c" size="1032" crc="205b7046" md5="c0fdfd5113f455155214e09714caf9ea" sha1="00cbd9a12bc119c07d2c813404f14e0b79706241" />
+		<rom name="coreRL (v)[mix][src]\1kcore.haiku" size="229003" crc="b4bbf48a" md5="9a8c6c947537de351f49e6f65b816104" sha1="af07ac767a81d4de8e0ee8386f8a69edf8c57c4a" />
+		<rom name="coreRL (v)[mix][src]\1kcore.osx" size="13488" crc="d05847d2" md5="986dba2df874ad0ac09de3455c502091" sha1="f0653495374e87dc65cc895670d7fcba3ab58b63" />
+	</machine>
+	<machine name="Cyangband (v0.3.2) [mix]">
+		<description>Cyangband (v0.3.2) [mix]</description>
+		<rom name="Cyangband (v0.3.2) [mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cyangband (v0.3.2) [mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cyangband (v0.3.2) [mix]\__Doc\CyAngband.mht" size="122606" crc="b9e1eb77" md5="2405a9e06e2a5340f419fac3603e6a1d" sha1="46b35e0ac70bad24115e2ba670e45f5bc44f3281" />
+		<rom name="Cyangband (v0.3.2) [mix]\__Doc\Cyberpunk Angband - CyAngband.mht" size="60017" crc="358a7d3d" md5="93b1f94aab272114f10a01ace29ae036" sha1="02585277dd9802714d3f1072499152822031f577" />
+		<rom name="Cyangband (v0.3.2) [mix]\__Doc\Cyberpunk Angband - RogueBasin.mht" size="330450" crc="80b0b25c" md5="d763b47f5a97836c26898e6e2cfde50f" sha1="02e301cd0f8963ffe91fbe903730b124445733ec" />
+		<rom name="Cyangband (v0.3.2) [mix]\Cyangband 0.3.2(PPC).sit.hqx" size="921030" crc="f0f50891" md5="5c341df1ea220909d17e60279bac4870" sha1="211894afecccb5b2c0c3924453cb8c9dec798aa3" />
+		<rom name="Cyangband (v0.3.2) [mix]\cyangband-032-ami.lha" size="518560" crc="10d59a3b" md5="6929be3beb7c5ee6a84b77c7ca6cf95a" sha1="f74371871c3ac03af68dcd2d59f370f8c5c225f3" />
+	</machine>
+	<machine name="Dead By Zombie (v1.1)[nix][src]">
+		<description>Dead By Zombie (v1.1)[nix][src]</description>
+		<rom name="Dead By Zombie (v1.1)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Dead By Zombie (v1.1)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Dead By Zombie (v1.1)[nix][src]\__Doc\Dead By Zombie2.mht" size="785466" crc="34e5a3f6" md5="1ceeae6f535b93ae61e3a68290645f51" sha1="8be573be77a28503efcbaa8e5f1a4fdd7fa090ac" />
+		<rom name="Dead By Zombie (v1.1)[nix][src]\__Doc\mkramlich_Dead_By_Zombie · GitHub.mht" size="547615" crc="7bafdc46" md5="c259001b4d3f0289a727e6b50070378f" sha1="7fda7e5dcb0f8155c468026c39c5a17ff228049b" />
+		<rom name="Dead By Zombie (v1.1)[nix][src]\Dead_By_Zombie-master.zip" size="1110876" crc="a2d3c8e7" md5="2ae1eabeaa1ad52f4105c47d7f09cd9e" sha1="c8cf21b4605c33cace21c9672a74e2916c161bcf" />
+	</machine>
+	<machine name="Demoner (v)[c64]">
+		<description>Demoner (v)[c64]</description>
+		<rom name="Demoner (v)[c64]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demoner (v)[c64]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demoner (v)[c64]\__Doc\Demoner - malcontent's games.mht" size="2156717" crc="24515630" md5="f8846dd07adb7e17edb9441cdffe63ff" sha1="eb70889cb9ff175f91c76263f40fead4dd27b556" />
+		<rom name="Demoner (v)[c64]\demoner.prg" size="23639" crc="cf631d4b" md5="8ca89ec84de94f4a7f91d6908c872c44" sha1="de15080274b76bace0ea022842682b2a045e6dc7" />
+	</machine>
+	<machine name="Demons Of Dex (v)[mix]">
+		<description>Demons Of Dex (v)[mix]</description>
+		<rom name="Demons Of Dex (v)[mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demons Of Dex (v)[mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demons Of Dex (v)[mix]\__Doc\[CSDb] - Demons of Dex by Hokuto Force (2016).mht" size="188591" crc="d3a74835" md5="18e5a1ac485af2c94fd16687a94f1c77" sha1="4dc1835b7db94ce0c64a5b977365b9cca919b107" />
+		<rom name="Demons Of Dex (v)[mix]\__Doc\GitHub - mrdudz_demons_ Demons of Dex.mht" size="1687464" crc="63542c4f" md5="380b7e8f63004508ab7ebfbf88930f14" sha1="b1420fea947d7bb3408b0f40c04149ce650e04d1" />
+		<rom name="Demons Of Dex (v)[mix]\__Doc\GitHub - renaak_demons_ Demons of Dex.mht" size="1689557" crc="b3e67c5b" md5="201978facd9d93d7e9b476d6a3ab760b" sha1="ff50d2d58b90d9b236fb255bff32602c65905af3" />
+		<rom name="Demons Of Dex (v)[mix]\__Doc\New Release_ Demons of Dex - Denial.mht" size="520693" crc="b580de58" md5="cf2ba55e124b301f0f4cc938fabcbb5d" sha1="34487f1cc05ac5ad7a345bb1758fd847f2fb1a82" />
+		<rom name="Demons Of Dex (v)[mix]\DEMONS OF DEX.D64" size="174848" crc="9755425f" md5="0a9e3932aea33175113b77a09f68a584" sha1="141e6b64185685d5b676991a957afc00b1a0d391" />
+		<rom name="Demons Of Dex (v)[mix]\dex.prg" size="3585" crc="0b8134ce" md5="72dd7284c9ba9203ee8560e1c0e67e75" sha1="0e57e0e971d6707841e9649061d585a4ae96e2f4" />
+	</machine>
+	<machine name="Descending Dungeons (v1.5)[zx]">
+		<description>Descending Dungeons (v1.5)[zx]</description>
+		<rom name="Descending Dungeons (v1.5)[zx]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Descending Dungeons (v1.5)[zx]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Descending Dungeons (v1.5)[zx]\__Doc\InlayBack.png" size="596053" crc="0673655b" md5="132e724c5f196b222fdd4f3d2b47af31" sha1="2bbcb5c81c110839473b8070d6fc769b4560a595" />
+		<rom name="Descending Dungeons (v1.5)[zx]\__Doc\InlayFront.png" size="2498911" crc="8a0d8739" md5="fb8824562abfdcbfec26984c71659b22" sha1="25089d3826d1b9394ede0f56ad4e386ea38cd1fd" />
+		<rom name="Descending Dungeons (v1.5)[zx]\__Doc\Instructions.pdf" size="40507" crc="40f00c7e" md5="7f21b4040ebd8163a8b41773c83d1949" sha1="70226f80ca627310e75cb0d5396e83846691da84" />
+		<rom name="Descending Dungeons (v1.5)[zx]\__Doc\New Game _ Descending Dungeons - Page 2 - World of Spectrum.mht" size="12341842" crc="037391bf" md5="6611a51570ec8c646fc52b252bc9950f" sha1="f2ca36776b6a14c5fb4a9f8fbe1863af02d3f2f1" />
+		<rom name="Descending Dungeons (v1.5)[zx]\DescendingDungeons_v1_5.tap" size="48609" crc="31b2f9a1" md5="2fdd5cea38cb127edf6826c3443207e7" sha1="c64ae8cd35166e102fd9068b67178191513cd49c" />
+	</machine>
+	<machine name="Devil's Castle (v)[zx]">
+		<description>Devil's Castle (v)[zx]</description>
+		<rom name="Devil's Castle (v)[zx]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Devil's Castle (v)[zx]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Devil's Castle (v)[zx]\__Doc\Devil's Castle - World of Spectrum.mht" size="198077" crc="73730018" md5="2854353404c53851903bd59ba54c88bf" sha1="5e6df7a88587c17b3ab79e637ebf1097cdb5a849" />
+		<rom name="Devil's Castle (v)[zx]\DevilsCastle.gif" size="3047" crc="8d3c372d" md5="15d338d9fc25a512dacb3afb0a25087d" sha1="02101bfdb87d472f7bc5c603990c2151e666eb0b" />
+		<rom name="Devil's Castle (v)[zx]\DevilsCastle.scr" size="6912" crc="5c55f0d4" md5="8b493d72912629bf94437e0073c4104c" sha1="b59f32aad10aa050b45a3637bae8676fbe3c6275" />
+		<rom name="Devil's Castle (v)[zx]\DevilsCastle.txt" size="2473" crc="4526f4b5" md5="38075e34c69c59a333a08dfb541ac5fe" sha1="56bdfe8bbc92e806fe8b0e85af7c2d6587412fa8" />
+		<rom name="Devil's Castle (v)[zx]\DevilsCastle.tzx" size="36211" crc="a668ecbe" md5="45134f8b2abecebafd5c575a54012069" sha1="1313d5e0eb737a7172c73234421f84d18bf18fbe" />
+		<rom name="Devil's Castle (v)[zx]\DevilsCastle2.gif" size="3795" crc="0beab763" md5="2e1b17a9f531a59aa41f28e5fb81fb9d" sha1="36324e40293044d9af2f50b1823f9397faed0e37" />
+	</machine>
+	<machine name="Doomsday 2000 (v)[vms][src]">
+		<description>Doomsday 2000 (v)[vms][src]</description>
+		<rom name="Doomsday 2000 (v)[vms][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Doomsday 2000 (v)[vms][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Doomsday 2000 (v)[vms][src]\__Doc\Getting Doomsday 2000 working on simulated Alpha OpenVMS 8.4-2 _ Astr0baby's not so random thoughts _____ rand() % 100;.mht" size="3744137" crc="4e98f778" md5="024a169678db7fa9479f733b27ff1493" sha1="fd3b04461d7d4acb7a9687ba39b30971f371ae2e" />
+		<rom name="Doomsday 2000 (v)[vms][src]\__Doc\Mission Thunderbolt - Wikipedia.mht" size="464374" crc="41ee4a2a" md5="df97be891bd72ec4fb7640140697086e" sha1="7d9a36772b3c128db4151f72896f43534a47f770" />
+		<rom name="Doomsday 2000 (v)[vms][src]\__Doc\OpenVMS Hobbyist Program.mht" size="262071" crc="5cdcbda8" md5="7c5d77edcb64d934bdd7a52733858fe9" sha1="8ab05bf972f9139df08edb8028a0edd52ad4988a" />
+		<rom name="Doomsday 2000 (v)[vms][src]\doom.zip" size="1342976" crc="78c3da92" md5="59477ac48773ac61610b27868a85e73b" sha1="bab33d19bd0ac5061b21637dd3f6a1934bb3a5ab" />
+	</machine>
+	<machine name="drogue (v0.33.1)[nix][src]">
+		<description>drogue (v0.33.1)[nix][src]</description>
+		<rom name="drogue (v0.33.1)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="drogue (v0.33.1)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="drogue (v0.33.1)[nix][src]\__Doc\Drogue - RogueBasin.mht" size="331734" crc="1c20d86f" md5="e1f1cf2788fc91cc0cf38f552e48f529" sha1="e0dec566a024a831c83d21463af468cbe98f2c69" />
+		<rom name="drogue (v0.33.1)[nix][src]\__Doc\drogue download _ SourceForge.net.mht" size="2106505" crc="ed27df2a" md5="fe34eb9aaaaeff0ed91c2a6996119a31" sha1="bf71d650d8ae707e5b8144c0b2a363c5617d3b6b" />
+		<rom name="drogue (v0.33.1)[nix][src]\drogue0.33.1.tar" size="204800" crc="9ea7df87" md5="48a7446ce4743c2f6afdfe11e7402a22" sha1="c171eb31f1009131d322a95db5c4c153bb93024a" />
+	</machine>
+	<machine name="Escape From Cnossus (v2013-07-10a)[zx]">
+		<description>Escape From Cnossus (v2013-07-10a)[zx]</description>
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\__Doc\Escape From Cnossus _ Games of No Time To Play.mht" size="898467" crc="86f9fda2" md5="eac812c9cbc38c419984e1e6860b1aec" sha1="c7224940c969f3f3c15f8be86b63867f5c221bf1" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\__Doc\Escape From Cnossus HD by No Time To Play.mht" size="1027869" crc="9ebd5c80" md5="b13bf84a56a1bff7401b7ef29f01f4ba" sha1="46a3a67638503b50fea33a3a84070fca3a2b11c1" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\__Doc\Indie Retro News_ Escape from Cnossus - A roguelike game for the ZX Spectrum.mht" size="3029832" crc="08d6cd4e" md5="609205853ee64af901fc5dc3500608b3" sha1="4a3e3b38435a2e226e0aa89d5e53f688530e1ab6" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\basin.xbm" size="103" crc="be1a69da" md5="7fa0c223afb7a33a4bc5901090a178db" sha1="147334f46fd82af661056b9c8b2c4d1bf2c7b5c5" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\column.xbm" size="103" crc="a545fc4a" md5="a5d261f3f42ee7d09bbcdcc690b14d04" sha1="1be8c28624fbc424ec9ae7e635163e59fb285d77" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\floor.xbm" size="103" crc="c64fb714" md5="1a479264488ba44af152bc566f54ca52" sha1="32b56d40716b9c69af64102bd428e12df4bd9ce5" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\floor2.xbm" size="103" crc="1a50e4b8" md5="72269c83e022b2a3fc9bdd5766678948" sha1="b492f5435228697b94af9012fbc62ca2c5d74382" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\floorboards.xbm" size="103" crc="a2d44c99" md5="7021b1f1617ac1b65d74c8e3242f3fdc" sha1="d2d8c2be1a4c8d741f564bbcdb55120b7328ca97" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\adze.xbm" size="103" crc="509d13ee" md5="be7312e3a201abb76cd435fb2e1be9ba" sha1="e67c577a735f09d3f5d462f9557f2b76e8376627" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\armguard.xbm" size="103" crc="658abb1a" md5="835006cade8564c4863b585cd8a1e56f" sha1="fd2ffb5bf7586d910e1218219aa3e680e72d457d" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\axe.xbm" size="103" crc="1802d7f1" md5="97d72827ccf2ffa0591df95c058fb21b" sha1="f549a96e7483423e79a9eb7365880b68bffed3bf" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\bag.xbm" size="103" crc="ed896a21" md5="34d79fba1e77925171f3f0a58ca4a9ee" sha1="140197cf7b81360db80b0622dc2616d82e33383c" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\candle.xbm" size="103" crc="499bc42c" md5="a14762c7da1dc5e2df337ba7f79d3526" sha1="225dd68a36219cdce4e8fc8b151ae8acd598ed19" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\coffer.xbm" size="103" crc="392cb0b9" md5="637bd0946430de5d8550c51c77f8f388" sha1="c7a03bf938a138d48342c608136b6f835e029b2e" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\double-axe.xbm" size="103" crc="5fe95355" md5="89e3ee700a1f090f5d1cb57e584041f6" sha1="6047220abfb4f09c0d0a177088261d6ac4d1ba01" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\food1.xbm" size="103" crc="91bbccc3" md5="8a80bddf1ddbd24ae5032d7ef4257587" sha1="09925ec2e66941768d19230f5f331ebe3256e294" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\food2.xbm" size="103" crc="4247a593" md5="45f8384954c98d6c46bf3fd3380aff75" sha1="c39748b4132c3da98efe2ba560017af2e408f1bb" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\food3.xbm" size="103" crc="1b61ce4c" md5="6e38f7bc4b48a269312aa0e7b06e8198" sha1="a0b1e7985ee022261d61c951bbfd832502c73920" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\greave.xbm" size="103" crc="4d93ee84" md5="fe5aac6235c18c2e9a16563f31ee3279" sha1="655cedbde08c7306525c20139919b9b779f2b068" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\jar.xbm" size="103" crc="455d1f92" md5="3cc6c4c0c85e021f73506b3ab3f8f768" sha1="0723beba9e6f9b0f6cdff8b901c2f1c6c39b2b1f" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\knife.xbm" size="103" crc="8795b7c7" md5="26381940e3b7cb0cbf210335ed0ed370" sha1="a5b14b5347c5d94dbcdc998a23db3e394dc60f63" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\mail.xbm" size="103" crc="c09d2f3a" md5="3d1720e60c650c5e551aaa73c38a5092" sha1="230f363506bcca183fabf545ea5bec7dda1a7f87" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\oil-lamp.xbm" size="103" crc="755e39b1" md5="cae92855d944372b448ae53f1312b87e" sha1="7350b3f310c15115e09ca8bf6ba8deea00f7e890" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\pauldron.xbm" size="103" crc="989574a6" md5="399db120ff7050f15fea2185d8344f40" sha1="cd7cae5f650f9c434afcfc45757f183b2442a5d9" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\shield.xbm" size="103" crc="63026716" md5="f11a9356d1a3a0b93617beee14adaa7b" sha1="cbd2e2092d3f57688a76cb9680b9d616637168f4" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\sickle.xbm" size="103" crc="28bcda73" md5="9f0a2d4f3cfb60ba6f731c2ac1d431f0" sha1="a1980ab43edee726dd8dc37f51d616ec54cb4644" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\spear.xbm" size="103" crc="9ac9b5e4" md5="e5ae035c7d05c9d03de35f8cfdbd70e6" sha1="be560ad4e94d402f5f21243a247bcab16dcc497f" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\sword.xbm" size="103" crc="b68febf8" md5="c92d08167be1c3fd3b87499424dbb07f" sha1="6712266566b7b76469cff9086489734b3efd0efc" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\torch.xbm" size="103" crc="f9a0f1bf" md5="d4b1b66ce07c63b99767e90764829c45" sha1="c83ee45f3b286bff70fe928654170415b42268dc" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\tunic.xbm" size="103" crc="32f220f1" md5="69da78678839b344e5c2eac6cb355615" sha1="2d1e18a47539cc0de24555e0431fb31b8b0c5ff5" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\items\vest.xbm" size="103" crc="5ba76910" md5="5c411cb326b867ff33e3c4697c2a17cb" sha1="69d88ac6d7d35963e251b159d831b237bbe737f5" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\stairs-down.xbm" size="103" crc="effdcafd" md5="5681accb234571edd60f980bd1ff6616" sha1="5f73bcb97261b8e80989c7777d19830d9ff0eed5" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\stairs-up.xbm" size="103" crc="449baaf3" md5="ee82e5345d42b363c152bc64b86ce3e5" sha1="ddb47b86c0aa19bc69df6818c984d75255e26bb7" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\statue.xbm" size="103" crc="2147d5b0" md5="030e09db2190405084c4b0ad37699cb7" sha1="2b344af12ceb826c04fcb9f964a14512af1a7bc4" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\wall.xbm" size="103" crc="21e85e56" md5="a5d3e499bb5851683dba8d7397613054" sha1="809e49843342c671655849122e78525f2f72916a" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\assets\water.xbm" size="103" crc="e2348229" md5="b0a6ff54b8dd386388ead83bacbef50d" sha1="df0f1b77e5b38cf962240041f2da16b7ee5d0221" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\cnossus.bas" size="39967" crc="f1df29f2" md5="f575203f60bb9e8d8dbaa413511c36e8" sha1="c5da09ce6a87e1fd19b54c0e8259534acf14559e" />
+		<rom name="Escape From Cnossus (v2013-07-10a)[zx]\cnossus.tzx" size="23120" crc="23e1a1be" md5="61b14a64a5accd471b233dcef9512092" sha1="2bde05a82736f910be290ed5ad76c943140db756" />
+	</machine>
+	<machine name="Gemstone Healer (v)[mix]">
+		<description>Gemstone Healer (v)[mix]</description>
+		<rom name="Gemstone Healer (v)[mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Gemstone Healer (v)[mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Gemstone Healer (v)[mix]\__Doc\Gemstone Healer - Wikipedia.mht" size="471731" crc="066f2b0c" md5="a2e76f2e937bf45aa5d991f61f02ceb8" sha1="0f1ad93e671fc644e9c30341d400f518c04db9ff" />
+		<rom name="Gemstone Healer (v)[mix]\__Doc\Gemstone Healer for Apple II (1986) - MobyGames.mht" size="725379" crc="6ed40282" md5="e69d45d19d2da0ac509168f72c911260" sha1="8169baa05d96b06be6a666365dcf11ad85357d23" />
+		<rom name="Gemstone Healer (v)[mix]\GEMHEAL0.D64" size="174848" crc="1bc6e13d" md5="dc400df79d7e7b2bc190d2deb56b7498" sha1="344269c538c4c204a8316297eee371693875e689" />
+		<rom name="Gemstone Healer (v)[mix]\GEMHEAL1.G64" size="333744" crc="b30881e2" md5="717f7a0ef261b33d5a0124f0fbd6e81c" sha1="fde105cd1d809cd1f65239081529cbc4b5482221" />
+		<rom name="Gemstone Healer (v)[mix]\Gemstone Healer Disk 2.do" size="143360" crc="7d8fac45" md5="636089a827f3aa291c54147097c16a6d" sha1="978334814a538bda0b22f18b8ac9d8d42cd31009" />
+		<rom name="Gemstone Healer (v)[mix]\Gemstone Healer.do" size="143360" crc="405e5d3b" md5="7f8cabb640986ae0d5dc7e425555284d" sha1="1b132c3ea4642faaace2f28f1f5c3e90a005eed5" />
+		<rom name="Gemstone Healer (v)[mix]\VERSION.txt" size="94" crc="dc3201d1" md5="27c8579fd0608e18fec4a33a70f83d03" sha1="a860912e1ad2a7f7f7061f07b0a8cf20ececff70" />
+	</machine>
+	<machine name="Gemstone Warrior (v)[mix]">
+		<description>Gemstone Warrior (v)[mix]</description>
+		<rom name="Gemstone Warrior (v)[mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Gemstone Warrior (v)[mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Gemstone Warrior (v)[mix]\__Doc\From the pages of the past, games of yesteryear – Gemstone Warrior _ World 1-1.mht" size="2275586" crc="3904f8ff" md5="93452c2871ff699aa8dacfb59e613e3e" sha1="889261caf8fda37a84e05c736569c5953bc67c5a" />
+		<rom name="Gemstone Warrior (v)[mix]\__Doc\Gemstone Warrior - Wikipedia.mht" size="473476" crc="6e03a7d3" md5="5ffedeba435d17c582c78de6c1f42d40" sha1="2b0cc91b2781a5caa7d0cf7c2b9c8e9a1212d268" />
+		<rom name="Gemstone Warrior (v)[mix]\__Doc\Gemstone Warrior for Apple II (1984) - MobyGames.mht" size="758297" crc="da26929e" md5="6099905bb52caf6624f1810dd1e77d84" sha1="3ef5b791ca18c76dee8c857042dd065f63c64a63" />
+		<rom name="Gemstone Warrior (v)[mix]\Gemstone Warrior (1984)(SSI).do" size="143360" crc="c7d89b0c" md5="87d96584de87c4c67c9605d0602c250b" sha1="33ed13fb6bfe5c081603f0feb2f6a557f5b49e32" />
+		<rom name="Gemstone Warrior (v)[mix]\Gemstone Warrior.atr" size="92176" crc="450e63ef" md5="ab19cb058e551d862bbb3fce094fb838" sha1="44bfee430aff9a15bbcc952133d518706c632b93" />
+		<rom name="Gemstone Warrior (v)[mix]\gemstone-warrior_mac_03r3.sit" size="215623" crc="a359a014" md5="de26db044a1ce2c619263f527b8ce0a1" sha1="250961882e866c573bc1860dcc28ea2bc9486e96" />
+		<rom name="Gemstone Warrior (v)[mix]\GEMSTONE.D64" size="174848" crc="761b2a9b" md5="b52dafff93a6bef182a7ff26bd448353" sha1="279395e3c0725a11a40e16ed68d9507d932a8e0f" />
+		<rom name="Gemstone Warrior (v)[mix]\VERSION.txt" size="134" crc="38b82530" md5="bb5d5462221b0c5297c13cace5ea5294" sha1="3be8416323dfd87c794e8001b12f40b4a2c30f7d" />
+	</machine>
+	<machine name="glHack (v1.2+1.3)[nix][src]">
+		<description>glHack (v1.2+1.3)[nix][src]</description>
+		<rom name="glHack (v1.2+1.3)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="glHack (v1.2+1.3)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="glHack (v1.2+1.3)[nix][src]\__Doc\atsb _ glhack — Bitbucket.mht" size="6327106" crc="1bd11f31" md5="dfbb7a730786f4cbd6c4c22f20b3a52e" sha1="0c41c1da3de40a91062becf23878021bcec47f68" />
+		<rom name="glHack (v1.2+1.3)[nix][src]\__Doc\glHack - NetHack Wiki.mht" size="364746" crc="d35e46cd" md5="109c8dfe682ddb759043497f8897363d" sha1="482fe2893570d793f36186395d79937c1b0ccf7e" />
+		<rom name="glHack (v1.2+1.3)[nix][src]\__Doc\glHack Downloads.mht" size="71981" crc="17a1142b" md5="4f1771bc1fb79462ab0cb505ca50d8b7" sha1="703374e61ddb66b81fc860acebf214214b2b226d" />
+		<rom name="glHack (v1.2+1.3)[nix][src]\__Doc\glHack Home Page.mht" size="76710" crc="f27643e5" md5="1d6300150e7e6de8bc3d852bc3c2dbf8" sha1="c162dd01695d6abbaa9517c7b321d62d6db4068c" />
+		<rom name="glHack (v1.2+1.3)[nix][src]\__Doc\glhack is back _ roguelikes.mht" size="4774738" crc="e26264a4" md5="8ea7c7b9c98e2776618948644131dae1" sha1="35bc52b0115e4a823828ef5cb6e86171a9f6eb20" />
+		<rom name="glHack (v1.2+1.3)[nix][src]\__Doc\glHack Status.mht" size="70162" crc="fe379c1d" md5="961b17e1429d7fa61c505347cca9b927" sha1="662dda10dd875b96a770c2abaa05ac641b108d03" />
+		<rom name="glHack (v1.2+1.3)[nix][src]\glhack-1.2.tar.gz" size="5018047" crc="f268b142" md5="b4c68e3ab689610ca638b7660c1b05bd" sha1="7dc46e6bd4a3c2ec10ab4d314acfbb30cefc6eae" />
+		<rom name="glHack (v1.2+1.3)[nix][src]\glhack-x64-gnulinux.tar.gz" size="1906435" crc="03125d91" md5="e7d84728fc550bf1cae3cdd4cf1ccb01" sha1="41efd6e81d3eb6c0593d928004da25d31e7b3fe1" />
+	</machine>
+	<machine name="Gmoria (v5.7.2)[nix][src]">
+		<description>Gmoria (v5.7.2)[nix][src]</description>
+		<rom name="Gmoria (v5.7.2)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Gmoria (v5.7.2)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Gmoria (v5.7.2)[nix][src]\__Doc\Gmoria - RogueBasin.mht" size="327754" crc="49e34434" md5="5a7a798488a819e47cb5ab35ac3bc9ed" sha1="95dea7f2c55c9e6d994601e960be3796f5f4eda3" />
+		<rom name="Gmoria (v5.7.2)[nix][src]\__Doc\Gmoria.mht" size="18922" crc="ae4c9afb" md5="fc1db13e027595cf9ed6c0c9289cd3a0" sha1="dd36d1978e50f5f1b9f3c98348d111a275169e03" />
+		<rom name="Gmoria (v5.7.2)[nix][src]\gmoria-5.7.2.tar.gz" size="1904228" crc="8b41c982" md5="482a0281e33d9280b5b0199b396f270e" sha1="e2ae954b0571a3969a09f56e78233899ee3a96c5" />
+	</machine>
+	<machine name="Grail of the Gods (v)[mix]">
+		<description>Grail of the Gods (v)[mix]</description>
+		<rom name="Grail of the Gods (v)[mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Grail of the Gods (v)[mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Grail of the Gods (v)[mix]\__Doc\20-Liner gets an Upgrade.. - GameCreators Forum.mht" size="3460178" crc="5dc68a07" md5="b7126d21c1f09d491f5264c395c7c9a9" sha1="e1cbe569239b5afb4b1edd4d46c58269da330c20" />
+		<rom name="Grail of the Gods (v)[mix]\__Doc\[DBPro] Grail Of The Gods ... 18 line Rogue-Like Dungeon Crawler - GameCreators Forum.mht" size="3387144" crc="7c2468a8" md5="d7e31deb56aefe3b408e64a38795c26e" sha1="cf3316c24168f19da0da4ea9b3bf69674e601372" />
+		<rom name="Grail of the Gods (v)[mix]\__Doc\Grail of the Gods (rogue-like or mini-RPG) - Intellivision Programming - AtariAge Forums.mht" size="4304389" crc="92bacf5e" md5="cb47ccf333e9225bfcaa65548dd09c46" sha1="6de612a3e0c3ebcd1a892661af1d8959ab67ce06" />
+		<rom name="Grail of the Gods (v)[mix]\__Doc\Grail of the Gods - a Rogue-like game in compiled XB - Page 2 - TI-99_4A Development - AtariAge Forums.mht" size="3222375" crc="53e5f8db" md5="7446a64f72020850ab7a158b3c53e6a5" sha1="e5a985a601a0327cdeb0ff87eb83f37a81141fff" />
+		<rom name="Grail of the Gods (v)[mix]\GotG Dark Basic.7z" size="4340165" crc="0bac002a" md5="8b41f65895013842302c27feee15252f" sha1="af7dc7589fcc3b796006d447e256aa86284dd0e6" />
+		<rom name="Grail of the Gods (v)[mix]\Intelliv grail_20180210.zip" size="120402" crc="c8a0855f" md5="2e34e2b0600523a4b3b72a0a06be437c" sha1="0fe1d42323110aa45d2755990a75f98790977165" />
+		<rom name="Grail of the Gods (v)[mix]\TI 99 GrailOfTheGods-TI-XB-v1.2.zip" size="24056" crc="6dc27488" md5="09db261e19638313e3a23022931da7dc" sha1="dd2d2b500b01270e1bbb3f0d7292d0107c661c1d" />
+		<rom name="Grail of the Gods (v)[mix]\TRS and MC 10.zip" size="848794" crc="d849a649" md5="c5308369f17f1078c6fdb677c3125582" sha1="6be6f3f0f78e46437a81562649428a465f1e463a" />
+	</machine>
+	<machine name="HASAD (v0.5)[nix][src]">
+		<description>HASAD (v0.5)[nix][src]</description>
+		<rom name="HASAD (v0.5)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="HASAD (v0.5)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="HASAD (v0.5)[nix][src]\__Doc\My Roguelikes.mht" size="120274" crc="1b940344" md5="a6a7b76e5db8b2496eff993ff11a10e4" sha1="8bedf8c0d1169eb6c8a0af19e8a4629867859b93" />
+		<rom name="HASAD (v0.5)[nix][src]\__Doc\Wayback Machine.mht" size="214379" crc="47a277da" md5="14d705c9fdff6f0f0db528aeb5e47616" sha1="59286fe13d960e1030a09d90958a86c3299ffb71" />
+		<rom name="HASAD (v0.5)[nix][src]\hasad-0.5.tar.gz" size="133889" crc="d4a8efc3" md5="dd557f4f04452968c26b7ccc983358eb" sha1="a0be70924b10d93f248c59959892572e268e5c3a" />
+	</machine>
+	<machine name="ICMoria (v4.85.22)[nix][src]">
+		<description>ICMoria (v4.85.22)[nix][src]</description>
+		<rom name="ICMoria (v4.85.22)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="ICMoria (v4.85.22)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="ICMoria (v4.85.22)[nix][src]\__Doc\A History of Moria - A Classic Roguelike.mht" size="108654" crc="fd79a220" md5="9b8074cbf4c4baa138f8f414c26bb2d8" sha1="5afba45dfd43f7c56506899f6b81e47665032716" />
+		<rom name="ICMoria (v4.85.22)[nix][src]\__Doc\GitHub - dungeons-of-moria_icmoria_ ICMoria - C language port of Imoria.mht" size="1790735" crc="9b72ee82" md5="dfc6ebaf2d7da6bf2f3c141cc5933240" sha1="f2f0b4f316dddab14a8f8fe566bbef9bafb41dbb" />
+		<rom name="ICMoria (v4.85.22)[nix][src]\__Doc\Imoria - RogueBasin.mht" size="343806" crc="eb8fdac6" md5="c90c8e8fde52781bc7a26dd840a74a97" sha1="337a4341c1b993386b87b4d48b2da5d3b1d94d20" />
+		<rom name="ICMoria (v4.85.22)[nix][src]\__Doc\kertes's imoria page.mht" size="119031" crc="a5af6293" md5="4c318dae2b55f25869b7517108bf2374" sha1="2c06514e58b2b176ea08d1fbb04c97cb88d52343" />
+		<rom name="ICMoria (v4.85.22)[nix][src]\__Doc\variants - moriarl.mht" size="4052508" crc="eb9a7868" md5="928dbf22ba7316bb4ce9a5033ca4a595" sha1="b3bcc4861ad86cd50d785a36b28ed8d617259038" />
+		<rom name="ICMoria (v4.85.22)[nix][src]\icmoria-master.zip" size="457178" crc="2df3c613" md5="4ba3e28e30bd014794f9d53d595ffbe8" sha1="628a00ac76e98535506e18d318670c5cd2a14b9e" />
+	</machine>
+	<machine name="Imoria (v4.8)[vms][src]">
+		<description>Imoria (v4.8)[vms][src]</description>
+		<rom name="Imoria (v4.8)[vms][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Imoria (v4.8)[vms][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Imoria (v4.8)[vms][src]\__Doc\A History of Moria - A Classic Roguelike.mht" size="108654" crc="fd79a220" md5="9b8074cbf4c4baa138f8f414c26bb2d8" sha1="5afba45dfd43f7c56506899f6b81e47665032716" />
+		<rom name="Imoria (v4.8)[vms][src]\__Doc\GitHub - dungeons-of-moria_icmoria_ ICMoria - C language port of Imoria.mht" size="1790735" crc="9b72ee82" md5="dfc6ebaf2d7da6bf2f3c141cc5933240" sha1="f2f0b4f316dddab14a8f8fe566bbef9bafb41dbb" />
+		<rom name="Imoria (v4.8)[vms][src]\__Doc\GitHub - dungeons-of-moria_imoria_ Imoria - VMS Pascal source code.mht" size="1686021" crc="87d0b6df" md5="65127f51171c2ebf306a99725acb18c2" sha1="c92af315e682d70afbfe9c2d64566c67afa85af3" />
+		<rom name="Imoria (v4.8)[vms][src]\__Doc\Imoria - RogueBasin.mht" size="343806" crc="eb8fdac6" md5="c90c8e8fde52781bc7a26dd840a74a97" sha1="337a4341c1b993386b87b4d48b2da5d3b1d94d20" />
+		<rom name="Imoria (v4.8)[vms][src]\__Doc\variants - moriarl.mht" size="4052508" crc="eb9a7868" md5="928dbf22ba7316bb4ce9a5033ca4a595" sha1="b3bcc4861ad86cd50d785a36b28ed8d617259038" />
+		<rom name="Imoria (v4.8)[vms][src]\imoria-master.zip" size="645872" crc="dc9696a5" md5="ef124558b3681a8247023978e5239b43" sha1="e1fbdae2d09fdbed47009587c3cf19c72fd10916" />
+	</machine>
+	<machine name="JAMoria (vpre 1.0)[mac][src]">
+		<description>JAMoria (vpre 1.0)[mac][src]</description>
+		<rom name="JAMoria (vpre 1.0)[mac][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JAMoria (vpre 1.0)[mac][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JAMoria (vpre 1.0)[mac][src]\__Doc\JAMoria - RogueBasin.mht" size="327927" crc="50c545f9" md5="ac65bbf2948a49787a57ea2fa2481079" sha1="224be1b3ca174137f61efa4070a80e86448cb4ac" />
+		<rom name="JAMoria (vpre 1.0)[mac][src]\__Doc\JAMORIA-README.mht" size="1707" crc="01d8d15b" md5="0f84b8108f77b91dbf3670947340df20" sha1="ef5929059451e50ee64e1493fd5b7822ff0e6a85" />
+		<rom name="JAMoria (vpre 1.0)[mac][src]\jamoria-pre-1.sea.hqx.gz" size="211514" crc="9bde528f" md5="989799f0d45b81d80872de4c43c5e66f" sha1="ad1ba3fbc23bfba6f26bc21f04063152c0b6e8ac" />
+	</machine>
+	<machine name="JauntTrooper Mission Firestorm (v)[mac]">
+		<description>JauntTrooper Mission Firestorm (v)[mac]</description>
+		<rom name="JauntTrooper Mission Firestorm (v)[mac]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JauntTrooper Mission Firestorm (v)[mac]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JauntTrooper Mission Firestorm (v)[mac]\__Doc\JauntTrooper (Video Game) - TV Tropes.mht" size="2555692" crc="8da350ef" md5="74cdab9532fc0c8ac04a18320b8157e1" sha1="ef53db84162f3128a7b89155be49f376648c2250" />
+		<rom name="JauntTrooper Mission Firestorm (v)[mac]\__Doc\JauntTrooper series_ Niche of niche_ - The Drunken Lizard Pub.mht" size="514597" crc="b88fd064" md5="c3b1e60ff4a13f91d7f5b6e980531bf9" sha1="c9e3606ff252139eadf70e2dedf4d593d74e85ff" />
+		<rom name="JauntTrooper Mission Firestorm (v)[mac]\__Doc\Mission Thunderbolt - Wikipedia.mht" size="462707" crc="8e86040a" md5="280176973c82c21d32bf6aa0898ca38f" sha1="d148661b7b0250b7bfc9c53fe5bcb7241154119a" />
+		<rom name="JauntTrooper Mission Firestorm (v)[mac]\__Doc\Mission_ Thunderbolt FAQ for Linux by blackbeardHAR - GameFAQs.mht" size="1608998" crc="37376803" md5="72c2be802ade3c33896b2a08396181d7" sha1="3a8a4732f4e64918ee2b90081f9f562bc24d8458" />
+		<rom name="JauntTrooper Mission Firestorm (v)[mac]\JauntTrooper.sit" size="6479784" crc="e86185f2" md5="02393944373939af96a718a19b42cd5c" sha1="fb1c4bd91c43c5aee3c00e8041856448ead4a57b" />
+	</machine>
+	<machine name="kaaliisi (v3)[nix][src]">
+		<description>kaaliisi (v3)[nix][src]</description>
+		<rom name="kaaliisi (v3)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="kaaliisi (v3)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="kaaliisi (v3)[nix][src]\__Doc\GitHub - lotuskip_kaaliisi_ a minimalistic roguelike game.mht" size="1674046" crc="ad23e858" md5="3da54b6e97ef7ae1d884057f31a50d50" sha1="45a844cba4b2adfca3fa12b08cbace1dc8d3a907" />
+		<rom name="kaaliisi (v3)[nix][src]\kaaliisi-master.zip" size="20176" crc="48c4606c" md5="2d386f8a413f883f7fc6df0c3dc753fb" sha1="c6072dba984698dad83080ab7f46534ac92867fb" />
+	</machine>
+	<machine name="Magical Tower Adventure (v)[mix]">
+		<description>Magical Tower Adventure (v)[mix]</description>
+		<rom name="Magical Tower Adventure (v)[mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Magical Tower Adventure (v)[mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Magical Tower Adventure (v)[mix]\__Doc\Indie Retro News_ Magical Tower Adventure - MSX port from a ZX Spectrum dungeon crawler_.mht" size="3260474" crc="77eb3d72" md5="8b37676fdac7b60525a1a332387209a4" sha1="220db419e4c648c237db99a154c2fb9fd1cc4b99" />
+		<rom name="Magical Tower Adventure (v)[mix]\__Doc\Magical Tower Adventure - Mini version.mht" size="1264590" crc="0c195cf0" md5="cc67865a3322e7251475050dd14c3f1c" sha1="00831d5659033348a210a9e633595e30a7b3f156" />
+		<rom name="Magical Tower Adventure (v)[mix]\__Doc\MSXdev’17 – 9th entry_ Magical Tower Adventure – MSXdev Contest.mht" size="1259200" crc="05a71d82" md5="83780948ce1fbb952a9a18cb33eb977b" sha1="907eebb0d0aebbf07ab1e0e9a5d731cd87029b35" />
+		<rom name="Magical Tower Adventure (v)[mix]\MagTower.tap" size="30281" crc="92b80407" md5="68cfe43d06ab3f7df73e525960e1d83e" sha1="04ddf3ceb27319ee3ddfafb3d77b67f9c84f611a" />
+		<rom name="Magical Tower Adventure (v)[mix]\msxdev17_msx_tower_adventure.zip" size="24155" crc="b9020a48" md5="e8231cb2fdb2df5bd33e4fbc4782d710" sha1="900a0b1227b745d077434f78b93a7efc109f1a11" />
+		<rom name="Magical Tower Adventure (v)[mix]\VERSION.txt" size="64" crc="d0d3ec1d" md5="c12fa7e89954976b0d6507cc026c693a" sha1="327433d432e6546b1ea1d49c78df84aeb9559b62" />
+	</machine>
+	<machine name="Meat Arena (v0.0.3)[nix][src]">
+		<description>Meat Arena (v0.0.3)[nix][src]</description>
+		<rom name="Meat Arena (v0.0.3)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Meat Arena (v0.0.3)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Meat Arena (v0.0.3)[nix][src]\__Doc\Hellmouth - RogueBasin.mht" size="335011" crc="273b68a1" md5="f329a1ebbd64d85f6cd3fb3922e1a520" sha1="7a698b0852937f1a2ae761bce1a473677c09d192" />
+		<rom name="Meat Arena (v0.0.3)[nix][src]\__Doc\hellmouth _ Ironypunk Is Dead.mht" size="254800" crc="fecedd16" md5="9f72ae5b7dedf0be4ffb7fa072f6264f" sha1="6e7e7e243745a93a5e8893b1638af72f1d16567b" />
+		<rom name="Meat Arena (v0.0.3)[nix][src]\__Doc\Releases · Eronarn_Hellmouth · GitHub.mht" size="1520415" crc="ed41017b" md5="63a53ed400a070caa6b2f9e616fc5581" sha1="d10bcfcf852ec886ea343b061fe0c25f42186d55" />
+		<rom name="Meat Arena (v0.0.3)[nix][src]\Hellmouth-0.0.3.tar.gz" size="138455" crc="f6c78c68" md5="3768f2fc8a272b0daf73ad08eefc1619" sha1="55632d378cbd96797b1f459e776a33627135b771" />
+	</machine>
+	<machine name="MMRL (v)[nix][src]">
+		<description>MMRL (v)[nix][src]</description>
+		<rom name="MMRL (v)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MMRL (v)[nix][src]\mmrl.tbz" size="365059" crc="101c34d1" md5="97f814432c27582e6e0712d68d5bc629" sha1="b8da816269146058182e03f71df53ea88b805f20" />
+	</machine>
+	<machine name="Moria UB (v5.00)[vms][src]">
+		<description>Moria UB (v5.00)[vms][src]</description>
+		<rom name="Moria UB (v5.00)[vms][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Moria UB (v5.00)[vms][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Moria UB (v5.00)[vms][src]\__Doc\A History of Moria - A Classic Roguelike.mht" size="108654" crc="b306f427" md5="3230216a8581ee487df25000f183bd4c" sha1="93da9b6a8e4197988567e83a0fd2d3833b1a709f" />
+		<rom name="Moria UB (v5.00)[vms][src]\__Doc\GitHub - dungeons-of-moria_moria-ub_ Moria UB - VMS Pascal source code.mht" size="1306005" crc="ac4fe09b" md5="cb3a11168726bfa5269e8fae9b442ba5" sha1="a524b3748cc0256f2076fc82c938ad3ee07f4efb" />
+		<rom name="Moria UB (v5.00)[vms][src]\__Doc\history.mht" size="8403" crc="749090c9" md5="35ab92728f0895a67f6376bddea33f02" sha1="b29613d284271f8291ae1ad2bdd2db41d3dc3aef" />
+		<rom name="Moria UB (v5.00)[vms][src]\moria-ub-master.zip" size="227572" crc="dec1774e" md5="879ca566477dd27f0c1a8ba1afdc67f9" sha1="2dc4b14e56270ab39680e7bad7a24dd418f3635a" />
+	</machine>
+	<machine name="MysticTower (v)[zx]">
+		<description>MysticTower (v)[zx]</description>
+		<rom name="MysticTower (v)[zx]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MysticTower (v)[zx]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MysticTower (v)[zx]\__Doc\Mystic Tower - World of Spectrum.mht" size="197256" crc="af041e94" md5="ddc2712bfe0853294ea804cb617ea96f" sha1="9ad52c10bb526718448cc4d625ce948c21d27802" />
+		<rom name="MysticTower (v)[zx]\__Doc\MysticTower.gif" size="1507" crc="6cb5ff73" md5="5605c90b1dda2fbe8f6446073a05e685" sha1="4ec86981addd431ed6cd496f10496c6fe0baf708" />
+		<rom name="MysticTower (v)[zx]\__Doc\MysticTower.scr" size="6912" crc="be476b89" md5="8b66e4415cb91b0a80ca28dc17e35a09" sha1="fd3dd48ca1d33861aab24a11df371a103ac98892" />
+		<rom name="MysticTower (v)[zx]\__Doc\MysticTower2.gif" size="1482" crc="cdb26d35" md5="d920f9116259b04626852ea90b4bbe22" sha1="29d538bd1af4de61dc687227b3dc05392ca5fb18" />
+		<rom name="MysticTower (v)[zx]\SIDEA.TAP" size="14126" crc="a1ac71dd" md5="f9b9cdae97e842e5b182cfbe570802c4" sha1="aed99ccf4d6a55ee305b428324ebd072046db773" />
+	</machine>
+	<machine name="Nemesis (v)[cpm]">
+		<description>Nemesis (v)[cpm]</description>
+		<rom name="Nemesis (v)[cpm]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Nemesis (v)[cpm]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Nemesis (v)[cpm]\__Doc\Computer Game Museum Display Case - Nemesis.mht" size="1372372" crc="849f057e" md5="f381300c8a3bc9228f554dc422f85fe8" sha1="b140ed497c9d0f1a870e7507d531d97979912ad2" />
+		<rom name="Nemesis (v)[cpm]\__Doc\CP_M Documentation for the Orbquest (1981-82) and Nemesis (1981) Games _ Armchair Arcade.mht" size="483509" crc="4070106c" md5="08bba92f6546c8627a68104cc566fc92" sha1="a5366c2e839cf4f1b2390d8859fde9c8379d1b2b" />
+		<rom name="Nemesis (v)[cpm]\__Doc\Looking for images of Orbquest and Nemesis CP_M games - comp.os.cpm.mht" size="492337" crc="699476d8" md5="466386e88566f0e8fb24c548f3c11185" sha1="2cedb2d9a03bc801fcedbbfc603994aef8eafe80" />
+		<rom name="Nemesis (v)[cpm]\__Doc\software - Where can be found 'Nemesis II', the sequel to 'Nemesis', an old CP_M game_ - Retrocomputing Stack Exchange.mht" size="1140768" crc="8f9151c6" md5="9d2bd01d7f3e2ffadd4a4fb37f07514a" sha1="c4c66b4cf6ed82d9717c8f44d411d2cf37a3db9f" />
+		<rom name="Nemesis (v)[cpm]\aragorn.chr" size="640" crc="55072a87" md5="4fdccc1833678fa14d56d9ef64c33614" sha1="aaf446ebe5663add723eaf9274984bcc9f8510f4" />
+		<rom name="Nemesis (v)[cpm]\castle.0" size="7168" crc="73c64c35" md5="31e869548b0b519879e5337d131a2335" sha1="5a887172700011994b24557436c104c84d18b543" />
+		<rom name="Nemesis (v)[cpm]\castle.com" size="18816" crc="e3d9790d" md5="4a8e2a6f08fa35ac19da14dbd19e5a10" sha1="421cdaaf33dd441ecbd1755c59f96d3ceea64b87" />
+		<rom name="Nemesis (v)[cpm]\dm.com" size="21888" crc="d0c551d5" md5="0ce25235846e133c9be5d92b7ceb6da2" sha1="4a6630cfdac30b74a5e222dd8fbab983da29f1d0" />
+		<rom name="Nemesis (v)[cpm]\dungeon.com" size="32512" crc="0a4f5e56" md5="358d53199b830940e0375d46b9389cae" sha1="2131058764403f8dba164f78e8bf8cdfe3633603" />
+		<rom name="Nemesis (v)[cpm]\items.1-2" size="640" crc="b9fc7e7f" md5="647bbb58a462270e452d4865353d1f64" sha1="c965ce065ff9df08de3157581f0586601d337d47" />
+		<rom name="Nemesis (v)[cpm]\items.3-4" size="896" crc="aef7fe70" md5="2f8400b6677761d416e470025c479eeb" sha1="6005d1f8b413e9ba36213370e27ddbc663f86161" />
+		<rom name="Nemesis (v)[cpm]\items.4-5" size="1792" crc="503ddbee" md5="b9563b2741420e852040e70669f58bfb" sha1="bb1efacaefcd967304511eb5a6d77db59d40efc9" />
+		<rom name="Nemesis (v)[cpm]\items.6-7" size="3584" crc="7bf2c33d" md5="5d5d6e572dc34a0730816db6b7de8726" sha1="0d016c638e85d15d603c5b9aa6ae23f01f418bee" />
+		<rom name="Nemesis (v)[cpm]\items.c-0" size="768" crc="1e982b88" md5="dd432d7b03eb2aac605c1c21158d7e69" sha1="a4b520e56db12b64bfb05cbea60e3709ed3b021c" />
+		<rom name="Nemesis (v)[cpm]\l0" size="1792" crc="1a31aead" md5="22d704cf73cdbe7da6703302237b7614" sha1="2755999a388c50b862a69524a30f3b99bf285026" />
+		<rom name="Nemesis (v)[cpm]\l1" size="1792" crc="d34c6323" md5="92ccc1ef5adb97c0497ed4b223bd94ad" sha1="7e8cf23d9bfff6ad5765913702ddb8268f6b55bf" />
+		<rom name="Nemesis (v)[cpm]\l2" size="1792" crc="c81ac97c" md5="42bd89471a2098a1d98806dd7e0c6d16" sha1="3aa4224d5ea0819c5cc21a2eea26cee44132ed38" />
+		<rom name="Nemesis (v)[cpm]\l3" size="1792" crc="7b9525de" md5="55dbdb81015413810a350814c8988db8" sha1="2395c3758128178b8fe81f242b6dc6028f3b27cf" />
+		<rom name="Nemesis (v)[cpm]\l4" size="1792" crc="f3c27816" md5="6508fdd3cadb2f2008873b4cfdc398c6" sha1="f20a48fd0043d1b66872ab6001f57273ce0d0944" />
+		<rom name="Nemesis (v)[cpm]\l5" size="1792" crc="7554925a" md5="34d14040e42a7cde8fdf68717b06a79b" sha1="497f2ae11758aeb919bc44d60b07e2519fa4a8e6" />
+		<rom name="Nemesis (v)[cpm]\l6" size="1792" crc="8d76fd4f" md5="2dbbf90f49b8497bd504fbaa5eaf8ef7" sha1="893359429e427dd493a10c6fea5c0ef06119e847" />
+		<rom name="Nemesis (v)[cpm]\l7" size="1792" crc="55aa1c2c" md5="928a54a5e82a68862a82ae6bbf74d5e2" sha1="bf61abb2166698ffa397bf26404f333dae7c01d6" />
+		<rom name="Nemesis (v)[cpm]\level.0" size="7168" crc="bd6061a4" md5="ec409ac7867de9925edba5c07e83204e" sha1="6d663c386d5c714124fcd6de17748d7077bd56ab" />
+		<rom name="Nemesis (v)[cpm]\level.1" size="7168" crc="e695756b" md5="db8b83c8ff67abbc77d70fd6573f6e87" sha1="8c844e16ff9bdb07db5665a3e7ebf93b80a1878a" />
+		<rom name="Nemesis (v)[cpm]\level.10" size="7168" crc="7728d66e" md5="ed55ce3f0940a948dbfe3d017a255a98" sha1="e6d52419e68eb0b40debc44a8f688d58f473d4c4" />
+		<rom name="Nemesis (v)[cpm]\level.2" size="7168" crc="d66339a2" md5="36ccccd2da8ca45d66e6956e8487a729" sha1="04947c38c32f362a1c98e23417b3cc49d7a10e78" />
+		<rom name="Nemesis (v)[cpm]\level.3" size="7168" crc="6936c5e4" md5="1087a20e1cf892519cf5c3d14014b0ff" sha1="df0b01d397721a6f970d8a1a9d2c9fb827b6803e" />
+		<rom name="Nemesis (v)[cpm]\level.4" size="7168" crc="47ac330b" md5="aa5f495146c854a0f87a0609e367a2a3" sha1="8900c67e33d52fcb2d0a6de87f4efcf8765410b2" />
+		<rom name="Nemesis (v)[cpm]\level.5" size="7168" crc="3a8b9014" md5="5012ea1e5f92ac6b78425a429fed7adf" sha1="1d9e84514b6b18e109fb31557ae446eb92aa6e2e" />
+		<rom name="Nemesis (v)[cpm]\level.6" size="7168" crc="1f290cdd" md5="6cf9b65282ca0503d3b06fbe5bc78cf9" sha1="8b9e196c48fb318fbcfc65657abb7993d2fc5d63" />
+		<rom name="Nemesis (v)[cpm]\level.7" size="7168" crc="92c35925" md5="91e0dc802b0c9639d44f16e2266c157b" sha1="07400292c585e6f0139d9c2e4c8ddc5a6d725783" />
+		<rom name="Nemesis (v)[cpm]\level.8" size="7168" crc="4d2bc229" md5="90d40850088a2a9e02e866a2ae8ac2ec" sha1="64e714f3dffb50d099ac0df60cd53953f1f2c294" />
+		<rom name="Nemesis (v)[cpm]\manual\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Nemesis (v)[cpm]\manual\Image1.jpg" size="122639" crc="7efe316a" md5="8d34f8bcc39a2403b948e05fd07452f0" sha1="6a5dfc1249f6e65c38ba478665329b6e8ceb32f5" />
+		<rom name="Nemesis (v)[cpm]\manual\Image10.jpg" size="121037" crc="488f0091" md5="9b386c7cba63d5948fe6715e5526fdcc" sha1="fa15608d2ca05a9fe2b3e00741bd19043b8c97b4" />
+		<rom name="Nemesis (v)[cpm]\manual\Image11.jpg" size="127138" crc="69b22d5a" md5="8eca0a0bfaaf574392491c3a30afea8e" sha1="5fe73be6456771dbb5ba0b03bc58cb3936f64ba9" />
+		<rom name="Nemesis (v)[cpm]\manual\Image12.jpg" size="155307" crc="41daf0a3" md5="adb0c8e8ff46ff386ecd61d935f1259e" sha1="ba42eebf02986f556335abcfc9a4d4ce04bc8284" />
+		<rom name="Nemesis (v)[cpm]\manual\Image13.jpg" size="122818" crc="0d47fba0" md5="23cc6804ab483210dd90dcf86b612288" sha1="d7e7efcf7dc75f146dd9b5020602746f7cab3e63" />
+		<rom name="Nemesis (v)[cpm]\manual\Image14.jpg" size="168608" crc="b0442e08" md5="1159003d595376735cedfc2c896b87e6" sha1="b07e93ce9b3179ebf762da92f8e8bc473496262c" />
+		<rom name="Nemesis (v)[cpm]\manual\Image15.jpg" size="148250" crc="14a73947" md5="5e677b97c985606f8edbc9fa84c6a6ea" sha1="561f6f0ba81fd8a71fc6eb47205d62fd2d78a94c" />
+		<rom name="Nemesis (v)[cpm]\manual\Image16.jpg" size="143044" crc="55817794" md5="36c1ec94cf555061948128217ae45b62" sha1="e18c570cf283abf3262b03b3dd856a850024a37b" />
+		<rom name="Nemesis (v)[cpm]\manual\Image17.jpg" size="134511" crc="284cc927" md5="4c689162ec83aca2b52ff7c4f0b16866" sha1="711d8b0203f1a2929c9466266e9fc45d3c115748" />
+		<rom name="Nemesis (v)[cpm]\manual\Image18.jpg" size="159971" crc="15f4d27f" md5="078f8919c3b00ca1c0be8c8c44aaf413" sha1="e8bc07b78bf4b94af1bc474aa393a77ff17cd6ba" />
+		<rom name="Nemesis (v)[cpm]\manual\Image19.jpg" size="162222" crc="eb18e877" md5="e49b14b532e5a48d9998ac6184200682" sha1="2e61030c5c3f079d6cf1893dee3f501d25fafec1" />
+		<rom name="Nemesis (v)[cpm]\manual\Image2.jpg" size="108331" crc="49be1eba" md5="1d879d400522dbce267bbd9c3c11c3bc" sha1="3507a1fd5bca116bc34e42c86760990af41ba7d6" />
+		<rom name="Nemesis (v)[cpm]\manual\Image20.jpg" size="107303" crc="285aeec5" md5="02cc97c41b831066dc92bc1664232b9b" sha1="fae5892773e656f55b05d5870257047e8467447d" />
+		<rom name="Nemesis (v)[cpm]\manual\Image21.jpg" size="120040" crc="e9cc7df5" md5="6a87dc5f346f2a4a21ff082396b167bd" sha1="c8fd469b7ec557eb93eb72e0509df80cd8a1840c" />
+		<rom name="Nemesis (v)[cpm]\manual\Image22.jpg" size="129969" crc="7d8d60e5" md5="140faa77dc81605ed52959bcfa1bbfcb" sha1="1ce64e747ecdbd6bb8b5972bd3bcbd275c556c3e" />
+		<rom name="Nemesis (v)[cpm]\manual\Image23.jpg" size="92661" crc="526d658a" md5="b7583dbec9835e9378a150ed0c768d14" sha1="6f6a2c75b246059074d669a157d249e3acd34784" />
+		<rom name="Nemesis (v)[cpm]\manual\Image24.jpg" size="93160" crc="7a531600" md5="159be15dcbaa87502f985f6d6181b73d" sha1="eab4b9d5ebd5458bce5e57ad7e19b709d43b99de" />
+		<rom name="Nemesis (v)[cpm]\manual\Image25.jpg" size="145850" crc="af53383b" md5="3ed072ad7d98498bb5fc83b1d5589d8f" sha1="0237750d89d92c7c87bdc766176dbcd230c1f4bd" />
+		<rom name="Nemesis (v)[cpm]\manual\Image3.jpg" size="96405" crc="a9d9d727" md5="09ecd696ec2c2daf6172a4c417d486a6" sha1="2775bff5f8381eb288c5990bdddd51f0ff46ac4a" />
+		<rom name="Nemesis (v)[cpm]\manual\Image4.jpg" size="121534" crc="2af02bec" md5="2aa8daa4e9d7e22e5e67117992b26b42" sha1="ec1b1f6afe47044f3616b074927c411629ecc37b" />
+		<rom name="Nemesis (v)[cpm]\manual\Image5.jpg" size="117015" crc="76ef9180" md5="df5cc36b594ade41aa6444161155ac13" sha1="3c0c183a71e310aa24ac127095041703774d0a83" />
+		<rom name="Nemesis (v)[cpm]\manual\Image6.jpg" size="113732" crc="e9063159" md5="048c9f123a70b909b8b10619a3cf7b11" sha1="e2e5dc75551b2bd7092d78a96625eb8f8546c28c" />
+		<rom name="Nemesis (v)[cpm]\manual\Image7.jpg" size="143299" crc="5467596a" md5="5ce0771e7cd7be6e8406de68d3330a0b" sha1="77d9abc14a3a39a3ba90f4c0784ea786ec40cbd1" />
+		<rom name="Nemesis (v)[cpm]\manual\Image8.jpg" size="111982" crc="da950a2c" md5="230d05c7d68d456d9544026f75832335" sha1="19ca8ed6fc1166ae1d94577e3f60457289d00cf7" />
+		<rom name="Nemesis (v)[cpm]\manual\Image9.jpg" size="152837" crc="300cc40e" md5="b3e7fadf117e3d72677d4a9cc39a6705" sha1="f1e7023af2677fb7b277f22c4efb57220a8bd592" />
+		<rom name="Nemesis (v)[cpm]\manual\nemesis.pdf" size="3111101" crc="6867f6aa" md5="ad8148bd9568c49d55b8a447464bc5ca" sha1="ac13b5e057cc7c2041956f0edea747eb18a2c02d" />
+		<rom name="Nemesis (v)[cpm]\monsters.0-1" size="512" crc="52650655" md5="6526b82aa6dc14988a4f12322580528a" sha1="011a63fdc0081eb50a06cd32c24a07de7fa14b89" />
+		<rom name="Nemesis (v)[cpm]\monsters.2-3" size="768" crc="bf7c1cf3" md5="53ccd05c29b007c3f3c882dc19f834fa" sha1="d7eaed2ab841061e7757888ca99fbfb6228e9774" />
+		<rom name="Nemesis (v)[cpm]\monsters.4-5" size="896" crc="6e25b85b" md5="ce8ca1c6832264983cd1a3dda789fce1" sha1="e31b54af79f1fc0eb87e7014c4982fd7dfc94862" />
+		<rom name="Nemesis (v)[cpm]\monsters.6-7" size="768" crc="ed0339be" md5="a2a0d19651c180d8fb7ed144970c1e96" sha1="fa5ccf97c4eb2ac1bb01a2e55fd6bb28d532e02a" />
+		<rom name="Nemesis (v)[cpm]\nemesis.com" size="9216" crc="f7f22e55" md5="7fcbddcab27b04e8a9f44986895a878d" sha1="dd9b3b3a24c24e1db01e39569c11683df18f3521" />
+		<rom name="Nemesis (v)[cpm]\nemesis.zip" size="6250730" crc="ae953176" md5="1355fd266a8770e243d377a8f805a231" sha1="258f5bea69a70fb3a056310a5404f1549c45c84b" />
+		<rom name="Nemesis (v)[cpm]\person.com" size="14336" crc="756f8fe5" md5="fc67720ead2d81370b337b876a068556" sha1="17d4e8d02e7ead66b96b13d06628ee2459c59eee" />
+		<rom name="Nemesis (v)[cpm]\readme.txt" size="483" crc="2f4ea97c" md5="f2566d995a8995a1fd32cb7a8bed098e" sha1="ee854464744005b4753246b2e0e1e559199032e1" />
+		<rom name="Nemesis (v)[cpm]\termdef.com" size="25856" crc="558d922e" md5="243c5fb6711bc067225d1b5d35b8cb3b" sha1="fd150fd06bd506e524684a53483d3aadd0487fd1" />
+	</machine>
+	<machine name="NetHack 3D (v3.0.2)[mac]">
+		<description>NetHack 3D (v3.0.2)[mac]</description>
+		<rom name="NetHack 3D (v3.0.2)[mac]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NetHack 3D (v3.0.2)[mac]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NetHack 3D (v3.0.2)[mac]\__Doc\NetHack 3D(haruumi yoshino) _ haruumi yoshino _ Free Download, Borrow, and Streaming _ Internet Archive.mht" size="1731429" crc="eb24e9db" md5="7b761807d83babf3b310b5a2cb00175e" sha1="a12c44fa436504c84192722772337071c995495a" />
+		<rom name="NetHack 3D (v3.0.2)[mac]\__Doc\NetHack3D for MacOSX.mht" size="427430" crc="44986de2" md5="6dc6fcbd622eabaeb7456724fb9e086e" sha1="56cec595c0e7583362cd66083c82a4eeb21fda08" />
+		<rom name="NetHack 3D (v3.0.2)[mac]\__Doc\Releases · MaddTheSane_nh3d_OSX · GitHub.mht" size="1557234" crc="ab300d2b" md5="d3a6f8e24923d66a45c8ed3f236b65d4" sha1="e52638fc504bd1e16ebf0686d7a33e0b326d85f9" />
+		<rom name="NetHack 3D (v3.0.2)[mac]\NetHack3D.zip" size="20703444" crc="42a3dde5" md5="f70e05e76dbbf3ae9016ad1a452233c1" sha1="7e1a5a42a583887031be510e1884a71e5e34e983" />
+	</machine>
+	<machine name="Obdur (v0.140-2)[nix][src]">
+		<description>Obdur (v0.140-2)[nix][src]</description>
+		<rom name="Obdur (v0.140-2)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Obdur (v0.140-2)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Obdur (v0.140-2)[nix][src]\__Doc\Obdur.mht" size="90671" crc="e36e1f52" md5="ba39046671d9c26a8ba192f3f5956f20" sha1="2be3ebb0e7abcef7c9fc13c91f7ca507b69a4b69" />
+		<rom name="Obdur (v0.140-2)[nix][src]\obdur-0.140-2.tar.bz2" size="440637" crc="2f194917" md5="f601b2429c35bbe13e20edf8c89af5d4" sha1="dc168ff7a906f0ce1b701c6092c5ab6f0b2bda4e" />
+	</machine>
+	<machine name="Occidental Heroes (v0.90c)[apk]">
+		<description>Occidental Heroes (v0.90c)[apk]</description>
+		<rom name="Occidental Heroes (v0.90c)[apk]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Occidental Heroes (v0.90c)[apk]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Occidental Heroes (v0.90c)[apk]\__Doc\Occidental Heroes.mht" size="517133" crc="2a28fa41" md5="f052d9430743bf973ba85248efe9c29e" sha1="34d2bbf2dce21158fdff3f7b67e5e916d49f4f96" />
+		<rom name="Occidental Heroes (v0.90c)[apk]\occident.apk" size="2059525" crc="b8702e8a" md5="8fae31d86ce32bbf6ea4359134ad9e76" sha1="54027fb4dfbe13bc663c5692e96db64fa307fb32" />
+	</machine>
+	<machine name="Ossuary (v)[zx]">
+		<description>Ossuary (v)[zx]</description>
+		<rom name="Ossuary (v)[zx]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Ossuary (v)[zx]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Ossuary (v)[zx]\__Doc\Ossuary - World of Spectrum.mht" size="217835" crc="54a7802c" md5="540fbd0da8ad8d952d693f7488e3af11" sha1="76deb176554d11314e8766dfa6b8a8068b79722b" />
+		<rom name="Ossuary (v)[zx]\__Doc\Ossuary.gif" size="8395" crc="5d07dfa2" md5="7d44db5cefc95a5fb25529eeecf69784" sha1="873c4973c2b46547f73ecf4f1599bdafcf03c0e1" />
+		<rom name="Ossuary (v)[zx]\__Doc\Ossuary.jpg" size="96649" crc="59e2a36f" md5="df843bffd2ad36880aa4a55867271946" sha1="b9afb24e007bd1886d6257af3e3684db21f11c5c" />
+		<rom name="Ossuary (v)[zx]\__Doc\Ossuary.mht" size="1018504" crc="6e42aec3" md5="e793087d21170dd664cc4cd2a376287b" sha1="41864a45e32e90818761e6af5e1c2c8d76d937dc" />
+		<rom name="Ossuary (v)[zx]\__Doc\Ossuary.pdf" size="240574" crc="84684c08" md5="23c5c914f170f89a33134a19fb7695b0" sha1="b15583d5d6864960a1fceeff3e569407d5850323" />
+		<rom name="Ossuary (v)[zx]\__Doc\Ossuary2.gif" size="5318" crc="0418e8c2" md5="ef70b1ca36364a706dacf1f551f8d17c" sha1="3a48a8f340572da3419161d879fb2c71785a5da6" />
+		<rom name="Ossuary (v)[zx]\Ossuary.scr" size="6912" crc="37851b6f" md5="3c1617c6d5580844ce1a6c1ae635c1e6" sha1="6708aec44da38158b0230dfb7ea0708380554057" />
+		<rom name="Ossuary (v)[zx]\Ossuary.tap" size="15288" crc="2c1c1e99" md5="ac35de6df82b99b7289dfcde19a019c3" sha1="2daf7cdc6110b25e2e310e7a633b2190af23c5bf" />
+	</machine>
+	<machine name="Progue (v1.0)[spi]">
+		<description>Progue (v1.0)[spi]</description>
+		<rom name="Progue (v1.0)[spi]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Progue (v1.0)[spi]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Progue (v1.0)[spi]\__Doc\Progue - a roguelike written in Spin - Parallax Forums.mht" size="4372989" crc="c73cfe4a" md5="86c29244d871411cdca7ec6f582e7aeb" sha1="1c625bfe416b702c2f904202aff24df885b2659b" />
+		<rom name="Progue (v1.0)[spi]\Progue-1.0.zip" size="85690" crc="15a4300b" md5="a7f94ba7962f44215b1172489d21de99" sha1="d787f75705e7d016db202b9e9ff25c179920d8c8" />
+	</machine>
+	<machine name="randomhack lite (v1.0.3)[apk]">
+		<description>randomhack lite (v1.0.3)[apk]</description>
+		<rom name="randomhack lite (v1.0.3)[apk]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="randomhack lite (v1.0.3)[apk]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="randomhack lite (v1.0.3)[apk]\__Doc\randomhack lite - Apps on Google Play.mht" size="1772047" crc="ff9a6236" md5="637e0a038082ed6b36168e4a0b5639c0" sha1="41a857baeb43e0c603fc7504271b6b7c81e7c1e7" />
+		<rom name="randomhack lite (v1.0.3)[apk]\se.remar.rhacklite.android.6.apk" size="1710380" crc="d8c6cf9c" md5="a79836475a7ceb43c615d77e5d14719b" sha1="774a7f85ad037ca6fef4cea84cb37627c2361674" />
+	</machine>
+	<machine name="Remixed Pixel Dungeon (v28.1.fix.4)[apk]">
+		<description>Remixed Pixel Dungeon (v28.1.fix.4)[apk]</description>
+		<rom name="Remixed Pixel Dungeon (v28.1.fix.4)[apk]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Remixed Pixel Dungeon (v28.1.fix.4)[apk]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Remixed Pixel Dungeon (v28.1.fix.4)[apk]\__Doc\GitHub - NYRDS_pixel-dungeon-remix_ Traditional roguelike game with pixel-art graphics and simple interface - Remixed Pixel Dungeon.mht" size="1749046" crc="138ffb4f" md5="f1879a94578a2d5c0634a65c3dd78479" sha1="bb19a84ffdc8b49130b683347496cd6f73a03c32" />
+		<rom name="Remixed Pixel Dungeon (v28.1.fix.4)[apk]\__Doc\Remixed Pixel Dungeon - RogueBasin.mht" size="336906" crc="f8d6301d" md5="41b5f3f54711509a1520fb39f14daa3f" sha1="19c606c25970c503c87fbb169d62a9627469fa3a" />
+		<rom name="Remixed Pixel Dungeon (v28.1.fix.4)[apk]\__Doc\rpd_start [Nyrds Wiki].mht" size="918875" crc="a47dc58e" md5="cc17925e520f70f5416f77f12d6985b9" sha1="2ec5df5514b9da774ad05d4962b4e6255a972767" />
+		<rom name="Remixed Pixel Dungeon (v28.1.fix.4)[apk]\PixelDungeon-googlePlay-release-bitrise-signed.apk" size="21204718" crc="f026f127" md5="f17a4f6a29b6ca18a56554e8268775bb" sha1="b21696ec403922ba36fc585287336418d0c42b4a" />
+	</machine>
+	<machine name="Rogue '83 (v0.6)[ti]">
+		<description>Rogue '83 (v0.6)[ti]</description>
+		<rom name="Rogue '83 (v0.6)[ti]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue '83 (v0.6)[ti]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue '83 (v0.6)[ti]\__Doc\Rogue '83 - RogueBasin.mht" size="331353" crc="16e20a3b" md5="34b373b50d09631f2f359d541cb911ac" sha1="b4daee8d875b44f2a540d01976c90be653a34988" />
+		<rom name="Rogue '83 (v0.6)[ti]\__Doc\Rogue '83 download _ SourceForge.net.mht" size="2011003" crc="4242c4f7" md5="2da6cea63e0c295dfd8898fde4835eff" sha1="782a5cbaccbb6539381fc0b956bc79c0972ad454" />
+		<rom name="Rogue '83 (v0.6)[ti]\LICENSE.txt" size="17803" crc="26782107" md5="8333d134d5abf1a4a6f103ff6f4aec7b" sha1="b5f5101a5413a5d51e404468b8ea8be061d140e9" />
+		<rom name="Rogue '83 (v0.6)[ti]\Manual.txt" size="4441" crc="44652be0" md5="8920033027546febe41cab7683989aea" sha1="83b46d6027e0dccdf5f650819c53860bf56738cb" />
+		<rom name="Rogue '83 (v0.6)[ti]\README.txt" size="1308" crc="338a9fc2" md5="9bda476c5ead18bf0f5e30ee3f832d06" sha1="f7ed11455959ff3a29cc775c12664554d512600a" />
+		<rom name="Rogue '83 (v0.6)[ti]\ROGUE83.8xp" size="11126" crc="809597e2" md5="1f69c9cf66a51e96fa010c82666d2939" sha1="fbecf705f166de1d771ca48774485650889edeaf" />
+		<rom name="Rogue '83 (v0.6)[ti]\Text source.txt" size="29152" crc="1674293a" md5="da9616a1aa653f0d6dd5b339696fa0ae" sha1="fda034b0af9990b8e9d644bb4455756b3c8168d9" />
+	</machine>
+	<machine name="Rogue (v)[zx]">
+		<description>Rogue (v)[zx]</description>
+		<rom name="Rogue (v)[zx]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue (v)[zx]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue (v)[zx]\__Doc\Rogue — русский «рогалик» для ZX Spectrum.mht" size="1414385" crc="aa481bf2" md5="f0487fc419e5cfbaae170b3d3dc7be33" sha1="2f2c46264b9a1702335d0244c0d8858203d0bcea" />
+		<rom name="Rogue (v)[zx]\__Doc\Rogue.mht" size="632064" crc="2f8ba028" md5="a99c014c5ddf24fcc5d7f8fae3bb83a4" sha1="c0e8879712308da90a085c88f924395e7744a0b6" />
+		<rom name="Rogue (v)[zx]\rogue.scl" size="2601" crc="2673a5b8" md5="7564fafa70483dfdc004751564abfce1" sha1="8890fb346b530b7e0c0727211bd2235ece6e1836" />
+	</machine>
+	<machine name="Rogue Watch (v001)[pu][src]">
+		<description>Rogue Watch (v001)[pu][src]</description>
+		<rom name="Rogue Watch (v001)[pu][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue Watch (v001)[pu][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue Watch (v001)[pu][src]\__Doc\Rogue Watch.mht" size="57968" crc="6be80a4b" md5="d8390bc7fc483da5d80ab5102e044a33" sha1="8faa82a8f1f4103400b206b4595e971bbc4858b4" />
+		<rom name="Rogue Watch (v001)[pu][src]\__Doc\RogueWatch - RogueBasin.mht" size="333079" crc="1bc07219" md5="08d1103eb4966afbf0daeea82f865626" sha1="26378c8d2d28ceeb1fd90c0418f02d6ee7bd36f9" />
+		<rom name="Rogue Watch (v001)[pu][src]\pulse_app.c" size="30955" crc="47962090" md5="9f13900670d8c3815d18683c93945c08" sha1="a32d5b5fe761d5c7ec1fa2dde012b5ce2e8c1881" />
+	</machine>
+	<machine name="Roguemare (v423013)[nix][src]">
+		<description>Roguemare (v423013)[nix][src]</description>
+		<rom name="Roguemare (v423013)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Roguemare (v423013)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Roguemare (v423013)[nix][src]\__Doc\Roguemare - RogueBasin.mht" size="332626" crc="9026c431" md5="a1d6d0efbd0416febebaf47df83069c5" sha1="7f01c1dca0073c9b03412fae183dcced40ba5f40" />
+		<rom name="Roguemare (v423013)[nix][src]\__Doc\Roguemare downloads.mht" size="9573" crc="a5aa6827" md5="789799dfc8c0c311af385f4238b46cd4" sha1="2e4769f5b261e9a568dd2ba1153d420e5c3fb148" />
+		<rom name="Roguemare (v423013)[nix][src]\roguemare-423013.tar.xz" size="319020" crc="0c5165f2" md5="a62e0f8e3298a677b7559da3465d259f" sha1="ae4c6a4cca0c0520321ee4acf57aa2fb5db1feaa" />
+	</machine>
+	<machine name="Santolkrad (v0.3)[nix][src]">
+		<description>Santolkrad (v0.3)[nix][src]</description>
+		<rom name="Santolkrad (v0.3)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Santolkrad (v0.3)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Santolkrad (v0.3)[nix][src]\__Doc\GitHub - lowquark_cavedoggorl_ What more do you need.mht" size="1821799" crc="a6fd3a2b" md5="2906c039e738bf8d00d57dfd70b6607d" sha1="5225779b0a6165f25f5bd5ad6bf1cd807a103ce0" />
+		<rom name="Santolkrad (v0.3)[nix][src]\__Doc\Santolkrad - RogueBasin.mht" size="331233" crc="287cea4c" md5="1e307e7abd0c402845bab0e2cd261f08" sha1="fc2b83c2f2893b42ca000a43ea438c70efcbe975" />
+		<rom name="Santolkrad (v0.3)[nix][src]\cavedoggorl-master.zip" size="2978005" crc="71e64796" md5="1a4a050ed645b56783e8371b5998099b" sha1="1c577441d390fbd5cb6d3e41425ada1ce2ad2345" />
+	</machine>
+	<machine name="Scarab of Ra (v1.4)[mac]">
+		<description>Scarab of Ra (v1.4)[mac]</description>
+		<rom name="Scarab of Ra (v1.4)[mac]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Scarab of Ra (v1.4)[mac]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Scarab of Ra (v1.4)[mac]\__Doc\I Googled 'Scarab of RA', a Mac OS first-person roguelite from 1992, and found a complete reimplentation in JavaScript and HTML. _ roguelikes.mht" size="4327715" crc="23039f3d" md5="785a2af4a827079faa8f1924bed68168" sha1="ce2e7ebfb5aa7d27f7a8d7b892eb2e1866c2514a" />
+		<rom name="Scarab of Ra (v1.4)[mac]\__Doc\Scarab of Ra — StrategyWiki, the video game walkthrough and strategy guide wiki.mht" size="1225248" crc="032ade43" md5="2d6321e3f71a8bcfdaf781dc7227cc1b" sha1="b2d55eb12ae460e0ffc57d0cc024cf862da3fb5a" />
+		<rom name="Scarab of Ra (v1.4)[mac]\__Doc\Scarab of Ra - Wikipedia.mht" size="493832" crc="e7f5ff21" md5="9685504af3babe03c9235945d61d6ca6" sha1="a31469c825d8e5df385ce36c173f712189ed8234" />
+		<rom name="Scarab of Ra (v1.4)[mac]\__Doc\Scarab of Ra _ dungeoncrawlers.org.mht" size="2817925" crc="2b2e78f0" md5="d367f0b9f656e717f61732d689d0dead" sha1="f9a2540b0a39d5ee306ba768867f4ddc56b81837" />
+		<rom name="Scarab of Ra (v1.4)[mac]\__Doc\Scarab of RA.mht" size="23982" crc="eaeb007d" md5="8680a4f46f2023eaa92499226764c6ea" sha1="03021931a278ca265aa0acadd4f11e36771e38ab" />
+		<rom name="Scarab of Ra (v1.4)[mac]\__Doc\Scarab of Ra_Walkthrough — StrategyWiki, the video game walkthrough and strategy guide wiki.mht" size="1217110" crc="549d9464" md5="fc05aa57253f311edeffa774669445a3" sha1="0aacd7dcda637997f21aec903f2a4abfd0d42739" />
+		<rom name="Scarab of Ra (v1.4)[mac]\Scarab14.sea.hqx" size="94469" crc="15894948" md5="0b32718a68eadb92b8c5518eb6c96545" sha1="5a38144721d7555f918b95815e2b6d0b0f6c5ef2" />
+		<rom name="Scarab of Ra (v1.4)[mac]\scarab_of_ra.sit" size="91881" crc="8736e3de" md5="3f49dc2ad5e0be07581499710ad90550" sha1="efeb919fe36efd30662b13bb794d1a7988af9fcf" />
+	</machine>
+	<machine name="Sigmore Mines (v)[jm2e]">
+		<description>Sigmore Mines (v)[jm2e]</description>
+		<rom name="Sigmore Mines (v)[jm2e]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Sigmore Mines (v)[jm2e]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Sigmore Mines (v)[jm2e]\__Doc\Sigmore Mines - java game for mobile. Sigmore Mines free download..mht" size="1933966" crc="7062bd9d" md5="709e3740e9e5eb95560f04d0bc8d8d9e" sha1="c16c53d9522265e408b27dbb27cd1b0946724887" />
+		<rom name="Sigmore Mines (v)[jm2e]\__Doc\Sigmore Mines - RogueBasin.mht" size="330926" crc="3dedf10e" md5="cc32c271f863e278edc63957cdf5bdee" sha1="5e02ca59c1c1149ba28705189bd1758942086dd4" />
+		<rom name="Sigmore Mines (v)[jm2e]\sigmore_mines.jar" size="269638" crc="ccf2eac7" md5="88bf181d4b9c287da744fb5b8454f271" sha1="35529a800330611a0991e19a8f40ffcf0b2311fb" />
+	</machine>
+	<machine name="Sigmore Mines 2 (v)[jm2e]">
+		<description>Sigmore Mines 2 (v)[jm2e]</description>
+		<rom name="Sigmore Mines 2 (v)[jm2e]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Sigmore Mines 2 (v)[jm2e]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Sigmore Mines 2 (v)[jm2e]\__Doc\Instructions _ Sigmore Mines 2 (JavaME) _ KTGames.Net.mht" size="127521" crc="4cfedf6a" md5="f445d9a2becbcfc2d1f93b8d27886077" sha1="98625b1e148bbb9ff96e6a5400af7a7d93c7bc09" />
+		<rom name="Sigmore Mines 2 (v)[jm2e]\__Doc\Kamil's development blog_ Sigmore Mines 2 v1.01.mht" size="1271438" crc="68526a27" md5="af05de24c9a8852cf61b658b2143903b" sha1="2d7c2626ecf42fc0296828a33cd54fa879284413" />
+		<rom name="Sigmore Mines 2 (v)[jm2e]\__Doc\Sigmore Mines 2 - RogueBasin.mht" size="331745" crc="1b34be4b" md5="1ebb6cfee2df69694d8e33beda1fc15b" sha1="b8a7bb74743440ad987756cb47e43ac664b481f1" />
+		<rom name="Sigmore Mines 2 (v)[jm2e]\sigmore_mines_2.jar" size="364216" crc="985e344f" md5="4bc25369c8b43a59ce32992810df84f8" sha1="c4ac3e8f89b37ae54acf36e77de74e6de9061360" />
+	</machine>
+	<machine name="SMS-Rogue (v0.8.0)[sega]">
+		<description>SMS-Rogue (v0.8.0)[sega]</description>
+		<rom name="SMS-Rogue (v0.8.0)[sega]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SMS-Rogue (v0.8.0)[sega]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SMS-Rogue (v0.8.0)[sega]\__Doc\GitHub - haroldo-ok_sms-rogue_ A very simple roguelike for the Sega Master System.mht" size="1030254" crc="7f945373" md5="39ca743fcac912321bcb95660a285b4a" sha1="9c5be9f0ffbe42b5644df042a772f9c3c1f88783" />
+		<rom name="SMS-Rogue (v0.8.0)[sega]\__Doc\View topic - SMS-Rogue - Forums - SMS Power_.mht" size="192703" crc="bce5fadd" md5="d0ea337402f0f19b780cb1e74c9e450f" sha1="dfd75066d1d4293fc0b2014ad9473c31ac5bfd4e" />
+		<rom name="SMS-Rogue (v0.8.0)[sega]\sms-rogue-0.8.0.sms" size="32768" crc="2390079a" md5="6c4f584dbdc96a31f332dce8152873c2" sha1="9ab63cca2538689b76bf814999a0bca697b95dbe" />
+	</machine>
+	<machine name="Space Privateers (v0.1.0)[nix][src]">
+		<description>Space Privateers (v0.1.0)[nix][src]</description>
+		<rom name="Space Privateers (v0.1.0)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Space Privateers (v0.1.0)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Space Privateers (v0.1.0)[nix][src]\__Doc\GitHub - tuturto_space-privateers_ Simple roguelike set in space.mht" size="1715007" crc="f0fceb95" md5="b763dc47d646487face51ef841f563ae" sha1="ac65e1662312c56ace345ca4a1bf0868c6bc0359" />
+		<rom name="Space Privateers (v0.1.0)[nix][src]\space-privateers-0.1.0.tar.gz" size="24343" crc="fe29d92f" md5="c4eda3f4533afae635c5c3ce96ec7f5b" sha1="13279098c126174ab6c6986b26ff7eb037c00bda" />
+	</machine>
+	<machine name="Spectral Dungeons (v2013-06-25)[zx]">
+		<description>Spectral Dungeons (v2013-06-25)[zx]</description>
+		<rom name="Spectral Dungeons (v2013-06-25)[zx]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Spectral Dungeons (v2013-06-25)[zx]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Spectral Dungeons (v2013-06-25)[zx]\__Doc\GitHub - notimetoplay_spectral-dungeons_ A series of coffeebreak roguelikes for various platforms.mht" size="1701683" crc="2904512e" md5="2270ad9bada736de72adb5c57737b7e4" sha1="cd06183bb017dce622f89c7b0861f006804f4978" />
+		<rom name="Spectral Dungeons (v2013-06-25)[zx]\__Doc\Spectral Dungeons _ Games of No Time To Play.mht" size="337390" crc="7d36a7c6" md5="5f00ce9704da7fcb9701b7f1093d3ee7" sha1="11064ce0a26d10da4a80bf9f2f23fe1e348e38e0" />
+		<rom name="Spectral Dungeons (v2013-06-25)[zx]\__Doc\Spectral Dungeons, The - World of Spectrum.mht" size="192541" crc="27708628" md5="b76b52234d7df6c2bf34a00462a092f7" sha1="75e2f69e079bdb72ae851aff70efb57ae0c3a725" />
+		<rom name="Spectral Dungeons (v2013-06-25)[zx]\__Doc\SpectralDungeonsThe.gif" size="1874" crc="d6e0521f" md5="9942e37639dbbf6eb29e607cb3668442" sha1="2bb24a942662f6dee8a689b70755ea4d4b3a5470" />
+		<rom name="Spectral Dungeons (v2013-06-25)[zx]\spectral-dungeons.tzx" size="21369" crc="559d6e62" md5="940e2979305f163078b33af6e7681ba0" sha1="fe4f804f9bc113e7fb3ee23ba28b0a4cb3f35a1b" />
+	</machine>
+	<machine name="Sword of Fargoal (v)[mix]">
+		<description>Sword of Fargoal (v)[mix]</description>
+		<rom name="Sword of Fargoal (v)[mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Sword of Fargoal (v)[mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Sword of Fargoal (v)[mix]\__Doc\Home of the Underdogs - Entry_ Sword of Fargoal.mht" size="441884" crc="c7d2a89e" md5="1cfa46ed021c7fba8c5402e44522832f" sha1="f18d682f21ec9f2da4f4fde9fcfb982918412dc2" />
+		<rom name="Sword of Fargoal (v)[mix]\__Doc\SWORD OF FARGOAL — Official Game Site _.mht" size="10014966" crc="b72ac72e" md5="5d2ce90a8ecb347d82c290c5b39c1d3b" sha1="968d03ea5e3ebd09d38aeecb7832400b96e92989" />
+		<rom name="Sword of Fargoal (v)[mix]\__Doc\Sword of Fargoal - C64-Wiki.mht" size="436816" crc="f4a27a37" md5="f5250e543d7ed2a93b14f74ac0c7cd05" sha1="70c139f4e7006e19b46351f8e45061c05aac4b1b" />
+		<rom name="Sword of Fargoal (v)[mix]\__Doc\Sword of Fargoal - RogueBasin.mht" size="334981" crc="73310d99" md5="385822dce2c4748ed233575d175643e9" sha1="4334b3760da16961add9b9d830ff1b613ca85d4a" />
+		<rom name="Sword of Fargoal (v)[mix]\__Doc\The CRPG Addict_ Game 136_ Sword of Fargoal (1982).mht" size="2322239" crc="6e898ff2" md5="7274f604a25b8a4080f62b5c11a398e6" sha1="9c73732ffd3fea7e8ebe27689910c6a50033ce3d" />
+		<rom name="Sword of Fargoal (v)[mix]\Sword of Fargoal (1982)(Epyx) (16K).prg" size="7969" crc="f036ea9f" md5="a01734c8c741a1728976f9d3755725e2" sha1="683844bfba520840df629132091509b7cc64df85" />
+		<rom name="Sword of Fargoal (v)[mix]\SWORDOFF.T64" size="35476" crc="dc708952" md5="caf75f8f64f33df182cf8e4ad0b61fd1" sha1="bea54ec2b14c6ecd1cb60dc795bdb1577dad5bd3" />
+	</machine>
+	<machine name="Teratogen (v0.3)[nix][src]">
+		<description>Teratogen (v0.3)[nix][src]</description>
+		<rom name="Teratogen (v0.3)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Teratogen (v0.3)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Teratogen (v0.3)[nix][src]\__Doc\ARRP 2010_ Teratogen – Temple of The Roguelike.mht" size="864264" crc="9f17d8b1" md5="748dbea5e607992907ee6356b3294607" sha1="699687038e4a48d63e80038b730daa77f3a47d71" />
+		<rom name="Teratogen (v0.3)[nix][src]\__Doc\GitHub - rsaarelm_teratogen_ A roguelike game in Go programming language.mht" size="1710499" crc="09a1d67b" md5="d94140b09ad0989b77957529af629408" sha1="b2cddb61c6120ed4b5600877d4dbfdd07a0d0c29" />
+		<rom name="Teratogen (v0.3)[nix][src]\__Doc\Teratogen - RogueBasin.mht" size="332708" crc="0ce25445" md5="abfc7deb87641e4a98b06304e49bd3ee" sha1="b87d728e5ba703e5022687c163cb8c032e98ce9d" />
+		<rom name="Teratogen (v0.3)[nix][src]\__Doc\Teratogen.mht" size="43486" crc="b46dfb5b" md5="3d6da2cc6eecc27b213ccaf44ff64ce9" sha1="5ecdb8acde6a26b0e74b8b8bfa8206a736bedcdc" />
+		<rom name="Teratogen (v0.3)[nix][src]\teratogen-003-linux-386.tar.bz2" size="1199414" crc="5dd6bceb" md5="2388ba5b5699cfb7434c465622038924" sha1="531526b6a3d7443d3cef7b26925d160b189e9a7a" />
+		<rom name="Teratogen (v0.3)[nix][src]\teratogen-003-linux-amd64.tar.bz2" size="1446505" crc="f105b4ef" md5="0e857eb6978b934d1fbf2a5062a42e67" sha1="1c245cd8cfc79cfb98430f375b5cd97b28556159" />
+		<rom name="Teratogen (v0.3)[nix][src]\teratogen-release-003.tar" size="1720320" crc="b2f45ad0" md5="c195c045c4526f05e19bd044264bee5a" sha1="c58a3877f8b715c4a195f3985c87c58e19e4c7b4" />
+	</machine>
+	<machine name="The Dungeon of Doom (v4.0+v5.4)[mac]">
+		<description>The Dungeon of Doom (v4.0+v5.4)[mac]</description>
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\__Doc\Dungeon of Doom Main Page.mht" size="227345" crc="559bf948" md5="21428c81c238a41c245c18aaafb54e18" sha1="5d60716446ed10cd483e584d6fdb80b461d7a1cb" />
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\__Doc\The CRPG Addict_ Game 254_ The Dungeon Revealed (1987).mht" size="5253900" crc="424bdb5d" md5="0319cb1f15c62915b37c453d2f796b91" sha1="cfd15e88184e677742d3334b5d3109d06c5eb028" />
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\__Doc\The Dungeon Of Doom (Video Game) - TV Tropes.mht" size="2515915" crc="459ddd41" md5="1e87691825cfc3baf5044daf292233a1" sha1="107363934a89ae9b6e152445db068ab8cc8a1b9b" />
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\__Doc\The Dungeon Revealed — StrategyWiki, the video game walkthrough and strategy guide wiki.mht" size="1453921" crc="05fc3381" md5="036868ea9400f89937291f146002cc72" sha1="a28a98558af9dd91fb6dc628ca40cd8271918e51" />
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\__Doc\The Dungeon Revealed FAQ_Walkthrough for Macintosh by Zurd33 - GameFAQs.mht" size="1596347" crc="d98b07e5" md5="971d9e2575efd633330a4f1967c43f14" sha1="d637c5ba3505f5f28d0dd31d7041db467663fb6f" />
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\dungeon_of_doom.img_.sit" size="96912" crc="7d766346" md5="52b0ece1528714123428fb5b4e108284" sha1="91257841581fa265db4111eff8e040e1bd1f119b" />
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\Dungeon_of_Doom_Edit+Hints.sit" size="8982" crc="94fdd310" md5="b5cc154760faae8935d4620781d8f466" sha1="037e01ad6dd2433a73bffee480e98e1af24a4556" />
+		<rom name="The Dungeon of Doom (v4.0+v5.4)[mac]\DungeonOfDoomRevealed.img" size="1474560" crc="73275752" md5="3c092d26408cc8d27dd87fb25858c9d4" sha1="66bf2150e93a5ca6c8e4979a6b286359821a4ce2" />
+	</machine>
+	<machine name="The Dungeon Revealed (v)[mac]">
+		<description>The Dungeon Revealed (v)[mac]</description>
+		<rom name="The Dungeon Revealed (v)[mac]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Dungeon Revealed (v)[mac]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Dungeon Revealed (v)[mac]\__Doc\The CRPG Addict_ Game 254_ The Dungeon Revealed (1987).mht" size="5253900" crc="424bdb5d" md5="0319cb1f15c62915b37c453d2f796b91" sha1="cfd15e88184e677742d3334b5d3109d06c5eb028" />
+		<rom name="The Dungeon Revealed (v)[mac]\__Doc\The Dungeon Of Doom (Video Game) - TV Tropes.mht" size="2515915" crc="459ddd41" md5="1e87691825cfc3baf5044daf292233a1" sha1="107363934a89ae9b6e152445db068ab8cc8a1b9b" />
+		<rom name="The Dungeon Revealed (v)[mac]\__Doc\The Dungeon Revealed — StrategyWiki, the video game walkthrough and strategy guide wiki.mht" size="1453921" crc="05fc3381" md5="036868ea9400f89937291f146002cc72" sha1="a28a98558af9dd91fb6dc628ca40cd8271918e51" />
+		<rom name="The Dungeon Revealed (v)[mac]\__Doc\The Dungeon Revealed FAQ_Walkthrough for Macintosh by Zurd33 - GameFAQs.mht" size="1596347" crc="d98b07e5" md5="971d9e2575efd633330a4f1967c43f14" sha1="d637c5ba3505f5f28d0dd31d7041db467663fb6f" />
+		<rom name="The Dungeon Revealed (v)[mac]\TDR123.dsk" size="819200" crc="9e87bcfd" md5="1ad1e09d0857e01f7d03c9e268eab62f" sha1="c85975366f5f0800a54799986d6e94170a9cab0f" />
+	</machine>
+	<machine name="The Iron Hells (v1.0a6)[nix][src]">
+		<description>The Iron Hells (v1.0a6)[nix][src]</description>
+		<rom name="The Iron Hells (v1.0a6)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Iron Hells (v1.0a6)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Iron Hells (v1.0a6)[nix][src]\__Doc\GitHub - angbandplus_AngbandPlus at IronHells.mht" size="1792275" crc="1292a698" md5="04ea72b181f7b755c43d5ce30fd3a0af" sha1="00ee6c0713cb1d6ec0887fa522e24b51a0653c8c" />
+		<rom name="The Iron Hells (v1.0a6)[nix][src]\__Doc\The Iron Hells - Browse _ironhells at SourceForge.net.mht" size="1845772" crc="1101aadf" md5="dcf647ab14f1162bd24bc20463ee0832" sha1="26f5b300cba20ed17efe8405fab5d46ad2003ea9" />
+		<rom name="The Iron Hells (v1.0a6)[nix][src]\__Doc\The Iron Hells - RogueBasin.mht" size="330203" crc="27be8a55" md5="a5d306cb0c217ea0e2a6b387617e052e" sha1="28c850dae448e4c40d3537fd6dd86b16f29205f7" />
+		<rom name="The Iron Hells (v1.0a6)[nix][src]\ironhells-1.0a6.tar.gz" size="3575379" crc="dac1a23a" md5="3475fec5c30f7bb95ceb35e18714ef73" sha1="b1c36bcdf2589a25a65e64989571214558fd51c2" />
+	</machine>
+	<machine name="The Serpentine Caves (v)[nix][src]">
+		<description>The Serpentine Caves (v)[nix][src]</description>
+		<rom name="The Serpentine Caves (v)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Serpentine Caves (v)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Serpentine Caves (v)[nix][src]\__Doc\ccapo _ tsc — Bitbucket.mht" size="5647292" crc="4d49cad0" md5="6edcbf026f054e807e99c92d2cd8e59f" sha1="551cb451d1df97d629e6349025ca8513431198fe" />
+		<rom name="The Serpentine Caves (v)[nix][src]\__Doc\The Serpentine Caves - RogueBasin.mht" size="448509" crc="cb1738bc" md5="e02cf4db4a953071e8d94bec3c2e21f4" sha1="9450d1bbf93e2c52cad941dc2da6e1a6b3a84f9b" />
+		<rom name="The Serpentine Caves (v)[nix][src]\ccapo-tsc-e29d5d7c98ff.zip" size="42253886" crc="e483bb45" md5="cb6a4813dfc72145ece55aa2de46d4ef" sha1="c362623167fd554fe9b5bfad3609e914ecd63168" />
+	</machine>
+	<machine name="Time Lords (v)[mac]">
+		<description>Time Lords (v)[mac]</description>
+		<rom name="Time Lords (v)[mac]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Time Lords (v)[mac]\timeLords" size="13224" crc="2b123146" md5="fb89641b9c2e2eda76634ad97daa57b5" sha1="2c43bfd3fc158838c550083f199f4398f72ed9d2" />
+	</machine>
+	<machine name="Traction Edge (v0.3)[nix][src]">
+		<description>Traction Edge (v0.3)[nix][src]</description>
+		<rom name="Traction Edge (v0.3)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Traction Edge (v0.3)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Traction Edge (v0.3)[nix][src]\__Doc\Traction Edge - RogueBasin.mht" size="332342" crc="0ba4ae20" md5="b80736228d1601fc0bd1daeab497e52f" sha1="6c746745f15752fe4fcc398d5be28c95404fa04e" />
+		<rom name="Traction Edge (v0.3)[nix][src]\__Doc\Traction Edge.mht" size="312504" crc="53fd3ba1" md5="ed687c9b85d4908a6a184a392fec60f8" sha1="d01be65d2e4dd0d98edd0a346dd8b5ac9e448b82" />
+		<rom name="Traction Edge (v0.3)[nix][src]\tractionedge-v0.3.tar.gz" size="721591" crc="c106fea1" md5="06453d8dc2c90ca44bc5744765017d9d" sha1="b5ccbdfebbe4e3e1b600de5e9ccc6a3d47ec6dc5" />
+	</machine>
+	<machine name="Trogue64 Drain of Doom (v1.2fx)[c64]">
+		<description>Trogue64 Drain of Doom (v1.2fx)[c64]</description>
+		<rom name="Trogue64 Drain of Doom (v1.2fx)[c64]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Trogue64 Drain of Doom (v1.2fx)[c64]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Trogue64 Drain of Doom (v1.2fx)[c64]\__Doc\[CSDb] - Trogue64_ Drain of Doom by wbochar (2019).mht" size="176898" crc="dfa71de2" md5="6dd0024c264194f6476ab05b42562e5f" sha1="352b6e69c6496cadc7961a57c6ae7e00b7b97337" />
+		<rom name="Trogue64 Drain of Doom (v1.2fx)[c64]\__Doc\TROGUE64 an 8bit Rogue-like for the C64 – wbochar.mht" size="2819652" crc="a5ce9256" md5="bc59259be17a57fd4fd8b4f56b8e37c0" sha1="80cb2a276df5cbde4022c54c939a8c528f8449cf" />
+		<rom name="Trogue64 Drain of Doom (v1.2fx)[c64]\trogue64-v1-2fx.d64" size="174848" crc="533e72e1" md5="08091a244a690eb8714569c7b85b753a" sha1="b2231389afa7e837f1c4c7223b795123c3845494" />
+	</machine>
+	<machine name="Tzar (v0.2.4)[nix][src]">
+		<description>Tzar (v0.2.4)[nix][src]</description>
+		<rom name="Tzar (v0.2.4)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Tzar (v0.2.4)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Tzar (v0.2.4)[nix][src]\__Doc\Tzar - RogueBasin.mht" size="331488" crc="f21f5394" md5="cf45bc7cc30a2c87f940f60d4dc76880" sha1="dfe119ccee4e8d21d8c9adc11a134a06ab3e851e" />
+		<rom name="Tzar (v0.2.4)[nix][src]\__Doc\Tzar download _ SourceForge.net.mht" size="2066037" crc="b5bc52ea" md5="a6385e85759bad1da7b0fa3eed660d93" sha1="940d476bf0db8fb7b91a73492619c25ad2521ab4" />
+		<rom name="Tzar (v0.2.4)[nix][src]\tzar-0.2.4.zip" size="85589" crc="2766b04d" md5="3b5a125d340b3e84e7ed67b352a477e2" sha1="4d5a2661b77b5f26d8991b31ef4351a37e072771" />
+	</machine>
+	<machine name="Variant Ularn (v)[mac][src]">
+		<description>Variant Ularn (v)[mac][src]</description>
+		<rom name="Variant Ularn (v)[mac][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Variant Ularn (v)[mac][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Variant Ularn (v)[mac][src]\__Doc\The History of Larn and Ularn.mht" size="567158" crc="5de1cfa5" md5="d1bc3dcb3ea5033c48fdbc5262cbe2d0" sha1="509e203ae1dbb2d0834702578ec30f848fdff2c4" />
+		<rom name="Variant Ularn (v)[mac][src]\__Doc\Variant Ularn.mht" size="111922" crc="878ee859" md5="7b3e9a223babb46901a4eeefbec12334" sha1="3ede8a0320f6a405f4f6ce7b2aa6355c19aa5880" />
+		<rom name="Variant Ularn (v)[mac][src]\.DS_Store" size="15364" crc="f4d935ae" md5="15e2044a94ce73b85396c5bc5869dc02" sha1="5fb06694e1160833994829094a1569167158b1e4" />
+		<rom name="Variant Ularn (v)[mac][src]\.gdb_history" size="2013" crc="13c93b9a" md5="d6db501a31933716335a65e394d66930" sha1="96e45a7b6b15941edabc3d8b5c009483922e9c10" />
+		<rom name="Variant Ularn (v)[mac][src]\action.c" size="9279" crc="314da229" md5="01b11292d950d66d050bdc72ce3f49f0" sha1="4afc0d38017825d7638811e62c2616ae0482b07f" />
+		<rom name="Variant Ularn (v)[mac][src]\bill.c" size="5739" crc="c105643f" md5="93ae898442f9c2b6220b898d3399c0ac" sha1="e39b5a873f6681cf4a12005c5396ab96bb488db3" />
+		<rom name="Variant Ularn (v)[mac][src]\config.h" size="3881" crc="81a2211e" md5="1d43cdf6d9bf73c2832dee0fd153fe2c" sha1="ea9421f771e9ad0aea2d9400beed619afa530fb4" />
+		<rom name="Variant Ularn (v)[mac][src]\config.h.SH" size="4261" crc="d92e9b3e" md5="36f5a78016df920c926c1e4df345eeef" sha1="79886ba8a49b5515790ed76533fa94e2b9629b84" />
+		<rom name="Variant Ularn (v)[mac][src]\config.sh" size="1241" crc="19ea4f41" md5="937bae65a2329df53e36b87c5058f5f4" sha1="a3a4a3b2cc506aef3e5f13d65cb7de1dc71c3820" />
+		<rom name="Variant Ularn (v)[mac][src]\Configure" size="39221" crc="e33a741f" md5="d828da9ed43ee14129ad9f5eaed8e78d" sha1="a7d663e4c1546e69e4b72c361016e326fc0bf945" />
+		<rom name="Variant Ularn (v)[mac][src]\create.c" size="20852" crc="4e941162" md5="f7beed297269dc9fb3113629512dad5a" sha1="701ff51d23d77024515105b0b3cf3486d8d7edad" />
+		<rom name="Variant Ularn (v)[mac][src]\data.c" size="36124" crc="4ca51b83" md5="b46b3dfc10797a673f7240681b6ea4b4" sha1="974b296312de8e183aa0c8ce4917586f6c669a6a" />
+		<rom name="Variant Ularn (v)[mac][src]\diag.c" size="6231" crc="e769dcfb" md5="d604256141e2b109579d54c4c72ab8d1" sha1="53bccf570149033b7d1cd8187cae118d50317a16" />
+		<rom name="Variant Ularn (v)[mac][src]\Diagfile" size="43991" crc="eaa88096" md5="652e1f7b77dbea8508c8c50bdc3058f1" sha1="18dd71cb1ce73b597367cc158c6b31bf8f34eb8d" />
+		<rom name="Variant Ularn (v)[mac][src]\display.c" size="16159" crc="b52cf354" md5="0c13350b360fb7691dfe97719ae77db8" sha1="73b0d6b0e1ee8e16bfaa4a85aebbcd04a07e6b87" />
+		<rom name="Variant Ularn (v)[mac][src]\execUlarn" size="13780" crc="a96206cc" md5="dd680eb9c6789d57bce4dba6a40117b0" sha1="e36d3a03369e5c4fe1bfc64c91c4660da654ebc0" />
+		<rom name="Variant Ularn (v)[mac][src]\extern.h" size="13629" crc="93ab3220" md5="18befae806feb45ff3e4a96d12f8f00f" sha1="f184de5a20440aa873c22ea6f59eb6221114b039" />
+		<rom name="Variant Ularn (v)[mac][src]\fortune.c" size="1178" crc="388aa1fb" md5="4b9e353e1d341d079fde22dd248d8d5b" sha1="629fdded84fad192db43b299e8d8ca5bf6243167" />
+		<rom name="Variant Ularn (v)[mac][src]\header.h" size="5295" crc="f91c7714" md5="fa7dac304b606956489484f64a00c1a6" sha1="6cf4e4da34a549e748f928262812e73cb115bc96" />
+		<rom name="Variant Ularn (v)[mac][src]\help.c" size="1981" crc="5c2645a0" md5="0fdb375cdf7cc929caad8ade5dc56355" sha1="2854539a534e65986cba2cfcc3ebedcd45d0f284" />
+		<rom name="Variant Ularn (v)[mac][src]\Imakefile" size="4012" crc="5377872a" md5="4853c3fc230866220d253edafdf37e02" sha1="8be29065b0c9e90a06a1b6076825dbf332e18ba1" />
+		<rom name="Variant Ularn (v)[mac][src]\Imakefile.SH" size="4984" crc="9ae6bb59" md5="5547909dc6b6b842b0f58a44ac3f8daf" sha1="3987da074cbbb8102e01b305ff80bf239ed01f21" />
+		<rom name="Variant Ularn (v)[mac][src]\Imakefile.SH.1" size="4984" crc="9ae6bb59" md5="5547909dc6b6b842b0f58a44ac3f8daf" sha1="3987da074cbbb8102e01b305ff80bf239ed01f21" />
+		<rom name="Variant Ularn (v)[mac][src]\io.c" size="19195" crc="139b1c12" md5="0cd73a098e72c77b034be7ad5adbe833" sha1="401b1cea4a6a319b1af834576847f2639876292e" />
+		<rom name="Variant Ularn (v)[mac][src]\itm.h" size="3198" crc="30e5577c" md5="a4d6baab223ae7e313bca756d3233b7a" sha1="31e021a65eaf6f538ea2a876d31a95868c4b5f1e" />
+		<rom name="Variant Ularn (v)[mac][src]\lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Variant Ularn (v)[mac][src]\lib\Ufortune" size="1437" crc="28ad6966" md5="031aa168e08f38d66ab4177f245d7d3d" sha1="0e40ca9db48a2dd24c8b99a495b3826b0c71bfa4" />
+		<rom name="Variant Ularn (v)[mac][src]\lib\Uhelp" size="5856" crc="4e25bbe0" md5="75041d1f10c59f278342226161f68380" sha1="0f2d047d635acaf3a7666adb0c4de96312f30bfc" />
+		<rom name="Variant Ularn (v)[mac][src]\lib\Umaps" size="23140" crc="55941f44" md5="6a3022397a48133f7fadd027df2c1130" sha1="82bcd22007181b9428d54cfa6e3be94932752fdc" />
+		<rom name="Variant Ularn (v)[mac][src]\lib\Uscore" size="6500" crc="83e1fff5" md5="87a4fa3691b087c7c99205e572281c04" sha1="8d2c809e5dc107495a8eb972ea3b81dfa56bb7d8" />
+		<rom name="Variant Ularn (v)[mac][src]\main.c" size="30339" crc="01c4c842" md5="d98b84053385c8204ba25217d002d239" sha1="2135a9028e84f523e8d71c45c5718f46a9bc11ff" />
+		<rom name="Variant Ularn (v)[mac][src]\Makefile" size="5349" crc="cb205bee" md5="6ff9370f9a97a79dc424b6e6ea5e3c87" sha1="97b2b42205527ea0798105c58d5be899c9498207" />
+		<rom name="Variant Ularn (v)[mac][src]\Makefile.u" size="5312" crc="ac6685bd" md5="f9375c9135fc9239a29f6a6601c90607" sha1="02ea2f38f4d8594b4553940e4436dc32dee26a3f" />
+		<rom name="Variant Ularn (v)[mac][src]\Makefile.u.SH" size="6290" crc="b0b5bdf6" md5="ca451822462c7d8b656862d2f62c8908" sha1="2f3d0754481aaa21567c56f262445fdf28bc20bb" />
+		<rom name="Variant Ularn (v)[mac][src]\Makefile.u.SH.1" size="6290" crc="b0b5bdf6" md5="ca451822462c7d8b656862d2f62c8908" sha1="2f3d0754481aaa21567c56f262445fdf28bc20bb" />
+		<rom name="Variant Ularn (v)[mac][src]\MANIFEST" size="1405" crc="0867f611" md5="1c8fc9cc2c405960909af3de363cd73f" sha1="035f2e90eecd9c458a6a7c983ff57e946736bdc7" />
+		<rom name="Variant Ularn (v)[mac][src]\monst.h" size="2734" crc="6ae96891" md5="0242d64366bd34a577228158adeca92a" sha1="ffc585939881e0da232654973f96e9cac45e89be" />
+		<rom name="Variant Ularn (v)[mac][src]\monster.c" size="50876" crc="793f1454" md5="a0727cb586a76ee9eda0201a3d7b1b31" sha1="3da8f0b31248573a22239273fcd06aff94fabfc3" />
+		<rom name="Variant Ularn (v)[mac][src]\moreobj.c" size="9697" crc="7acd8d68" md5="f5fbac61172787d33cbd69ae936176e9" sha1="ce3cb2e438cbf0164f0ee731095166ae1836182c" />
+		<rom name="Variant Ularn (v)[mac][src]\movem.c" size="12920" crc="7224dfb3" md5="18ed0cc1af73ff8f0f3115e22e60bfca" sha1="0498e6959cbe254f2ce38799698b40e622a24d1e" />
+		<rom name="Variant Ularn (v)[mac][src]\nap.c" size="1874" crc="6fc509b9" md5="ad134af2af2a1cdb6e291030bc53c075" sha1="c53e2941ed6247bbc469397f4afb49d9723fd909" />
+		<rom name="Variant Ularn (v)[mac][src]\object.c" size="32822" crc="b663f653" md5="244100a30a26c6068d10e71fea1d696b" sha1="386f84db86e0921619113ad52042798e196e7ae4" />
+		<rom name="Variant Ularn (v)[mac][src]\patchlevel.h" size="21" crc="49f2813b" md5="74ded2b0292ff46f4685c9ea1217e9a6" sha1="1133ef1d846148e271c83fec28a2c0cd35dcff66" />
+		<rom name="Variant Ularn (v)[mac][src]\player.c" size="20832" crc="d4b161af" md5="0cd904bf5d93a05f33663a07674d41b4" sha1="d83db8fa6baa93a8de0b776815bef098ba87a968" />
+		<rom name="Variant Ularn (v)[mac][src]\player.h" size="3263" crc="4465857c" md5="11f96fbaefe6940831244d40f7827111" sha1="acbca863745e8a761c4580196d2a5d20b95e6a21" />
+		<rom name="Variant Ularn (v)[mac][src]\README" size="221" crc="bc92ab55" md5="ee901f59c5dda387994099be389860e9" sha1="6df0b65a95c8216203e3509b8f22418e2eef7bda" />
+		<rom name="Variant Ularn (v)[mac][src]\regen.c" size="4333" crc="c63f83fb" md5="c762d4806381dfee8c324338bb939aaa" sha1="6d5839c1002c9dced49e3c7b02c4ffe226c468fa" />
+		<rom name="Variant Ularn (v)[mac][src]\savelev.c" size="14932" crc="0028ae59" md5="bce672e04d558e8663e5db99850f5c9d" sha1="19113a5d9a3d5612695ac3e6eadc58046dd3b4f8" />
+		<rom name="Variant Ularn (v)[mac][src]\scores.c" size="19848" crc="c5f8c9f7" md5="38f0d2b6c8a8f36ab9a3d5a2df9fc925" sha1="447bafc32de4f55d22a658c0ca8da2085f689599" />
+		<rom name="Variant Ularn (v)[mac][src]\show.c" size="6649" crc="180d5707" md5="d7ec3c7bc625e017bed2f3118d0a0233" sha1="92271e143e3169fad52324db32cc980169284e23" />
+		<rom name="Variant Ularn (v)[mac][src]\signal.c" size="4290" crc="c998402f" md5="cbf945c6326656ad38fde2d0ac0f7957" sha1="c88782eb4d672f78c202282d3ca160959376e4b1" />
+		<rom name="Variant Ularn (v)[mac][src]\sphere.c" size="5973" crc="2c2012e9" md5="c29ac3e8c3578824c24d90ec88655686" sha1="10f59f2211b05db5747a56e07e84c2a1fed8fa10" />
+		<rom name="Variant Ularn (v)[mac][src]\sphere.h" size="309" crc="0bfe427e" md5="2ad29c55bd19312ba21ed7f1f379c7bb" sha1="ec8b604af971ff3b1e26fc3cd26d50ecc4a8900f" />
+		<rom name="Variant Ularn (v)[mac][src]\store.c" size="25607" crc="effe472f" md5="c7ac8d20ea6112cf752a9097b5a4f45b" sha1="4be5681ef9444b466a917b65c7b63346d41b9fb0" />
+		<rom name="Variant Ularn (v)[mac][src]\tok.c" size="7115" crc="61bb2e60" md5="1720f72576a5f7c60dceab85c63f30e2" sha1="5e9b13e97de7797315435afe65182ab0123122e9" />
+		<rom name="Variant Ularn (v)[mac][src]\tty.c" size="3577" crc="d0fd9c46" md5="cb3e0c556a1b5f136f6f960ccdb28284" sha1="024f702fc7f4083475a7dc32ec5e0a9966c2ad34" />
+		<rom name="Variant Ularn (v)[mac][src]\Ufortune" size="1271" crc="8ee41995" md5="8e05586671914a1dc811938561de8ce1" sha1="01488f33bc8c5f6b588d858ba95fab728d4d1c11" />
+		<rom name="Variant Ularn (v)[mac][src]\Uhelp" size="5850" crc="6266af07" md5="ee42891c60e8cef4a5b1db3bd5eace54" sha1="2e61826fb45d6d0ace958ae9b09c043d71228fed" />
+		<rom name="Variant Ularn (v)[mac][src]\Ularn" size="535380" crc="2afa9805" md5="d320806c8a19067c4cee0c7a7ccdeace" sha1="5cb030c00ef9fbe8b15e9e8147faf04a7f3408c6" />
+		<rom name="Variant Ularn (v)[mac][src]\Ularnopts" size="229" crc="7e3c51f3" md5="1a2dbb1976b5e3cbe2f1e144ddf7a245" sha1="fb68a892f76be230c5f440578fc78433b79a0c16" />
+		<rom name="Variant Ularn (v)[mac][src]\Umaps" size="23140" crc="55941f44" md5="6a3022397a48133f7fadd027df2c1130" sha1="82bcd22007181b9428d54cfa6e3be94932752fdc" />
+		<rom name="Variant Ularn (v)[mac][src]\Uscore" size="6500" crc="f53f0bf2" md5="f8d25f36f1992096b3666e6b404f4ed3" sha1="c34448947db4b145aeada470914de0c233a72e93" />
+	</machine>
+	<machine name="Warrior Of RAS Volume Four Ziggurat (v)[mix]">
+		<description>Warrior Of RAS Volume Four Ziggurat (v)[mix]</description>
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\__Doc\33487_front.jpg" size="59280" crc="ab0b070c" md5="48f4e52e37fff6477c63a37c526e8383" sha1="63555d0f750c565b9f4bc797663d1954d15da05b" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\__Doc\System 80_TRS-80 Model 1 Disk Software Archive.mht" size="118636" crc="024458b2" md5="ec06b4b4832dfb26b99768e9dd052526" sha1="be4f50101eb30cc3c255e38f91498db37f43a8db" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\__Doc\The CRPG Addict_ Game 165_ Warrior of Ras, Volume Three_ The Wylde (1983).mht" size="1896794" crc="9b418d2a" md5="2e7dc8ee930be3f4d5ae915a2cba2c43" sha1="92bd8ff144b98c04dfc666d4943403598ab849d7" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\__Doc\The Wylde _ Video Game _ VideoGameGeek.mht" size="1871703" crc="bc205abd" md5="8010bdd841d1aea34e07234dd41c00b4" sha1="b89fbc1407128fb99dc2ef7e8c208fe00f54656b" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\__Doc\Warrior Of Ras #3 - The Wylde.pdf" size="5980504" crc="caa7662b" md5="101b96a07e9803b8209c217bb81066eb" sha1="20420826bcbc534986b0f3976a81f497f6e8472d" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\__Doc\Warrior Of Ras #4 - Ziggurat.pdf" size="6260266" crc="5e3f32f0" md5="e543db387dead7f1e44df4527d21b010" sha1="d2d583a25bf123da47671319b9cb4e2c8f24e281" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\__Doc\Warrior of Ras Volume III_ The Wylde for Commodore 64 - GameFAQs.mht" size="2314245" crc="07e9709e" md5="373997af11b76961f8ef645ba2be12e0" sha1="a35c8292e9d2a3bf336002740ece02deae62b9d0" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\VERSION.txt" size="128" crc="e349b121" md5="04ad19c708708903248e28aad705547b" sha1="eb9dbfec0b697fdbc218547eb56793db82395701" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\WARORAS4.D64" size="174848" crc="f7e16a68" md5="50437d736161539e827b07dd8b54d858" sha1="96385a3ece8fa037102c1ebc2e0f2934af8d996a" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\Warrior of Ras Vol. 4 - Ziggurat (1982)(Screenplay).do" size="143360" crc="1348e2bb" md5="68b37ce8b4c9d4d870c65a5b195815ac" sha1="7c5df2c0bc795be46f744308d101e39466214e83" />
+		<rom name="Warrior Of RAS Volume Four Ziggurat (v)[mix]\Warrior_of_RAS_#4_-_Ziggurat.atr" size="92176" crc="557f26ec" md5="014ee0bc30bfb98fd3c208b0be6b95f3" sha1="69adf30fbab0782886e49484fd315c12348cb75d" />
+	</machine>
+	<machine name="Warrior Of RAS Volume Three The Wylde (v)[mix]">
+		<description>Warrior Of RAS Volume Three The Wylde (v)[mix]</description>
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\__Doc\33487_front.jpg" size="59280" crc="ab0b070c" md5="48f4e52e37fff6477c63a37c526e8383" sha1="63555d0f750c565b9f4bc797663d1954d15da05b" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\__Doc\System 80_TRS-80 Model 1 Disk Software Archive.mht" size="118636" crc="024458b2" md5="ec06b4b4832dfb26b99768e9dd052526" sha1="be4f50101eb30cc3c255e38f91498db37f43a8db" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\__Doc\The CRPG Addict_ Game 165_ Warrior of Ras, Volume Three_ The Wylde (1983).mht" size="1896794" crc="9b418d2a" md5="2e7dc8ee930be3f4d5ae915a2cba2c43" sha1="92bd8ff144b98c04dfc666d4943403598ab849d7" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\__Doc\The Wylde _ Video Game _ VideoGameGeek.mht" size="1871703" crc="bc205abd" md5="8010bdd841d1aea34e07234dd41c00b4" sha1="b89fbc1407128fb99dc2ef7e8c208fe00f54656b" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\__Doc\Warrior Of Ras #3 - The Wylde.pdf" size="5980504" crc="caa7662b" md5="101b96a07e9803b8209c217bb81066eb" sha1="20420826bcbc534986b0f3976a81f497f6e8472d" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\__Doc\Warrior of Ras Volume III_ The Wylde for Commodore 64 - GameFAQs.mht" size="2314245" crc="07e9709e" md5="373997af11b76961f8ef645ba2be12e0" sha1="a35c8292e9d2a3bf336002740ece02deae62b9d0" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\adventures-2_80sssd_jv1.DSK" size="204800" crc="a1e1124a" md5="dd82520700a5b316783015998037ce95" sha1="a8bdfb5f6e68b879ecae67892ebb2a2797ef0159" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\VERSION.txt" size="167" crc="eda9bd36" md5="53a22755d0b2cf0d0ea4d7150d3b6527" sha1="0a47f8235baa489dc816bcc0cd9df5907e3e4dfb" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\WARORAS3.D64" size="174848" crc="4b8a7292" md5="6612c2f0819f245f8d2bf2f4dfa74f6e" sha1="55d33f096831227320356e856ad5923260e379ee" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\Warrior of Ras Vol. 3 - The Wylde (1982)(Screenplay).do" size="143360" crc="2f7b5ac2" md5="1f4a17f14821edac046c9c78f79fb40a" sha1="cf47274047248ccf1810245d6b5a7c03f61aed27" />
+		<rom name="Warrior Of RAS Volume Three The Wylde (v)[mix]\Warrior_of_RAS_#3_-_The_Wylde.atr" size="92176" crc="6d27d24e" md5="0ca88592cc9e49ab3e9d84808c3e0279" sha1="633613c67a6e55ca15e7c3a1fd81e5ede42c896e" />
+	</machine>
+	<machine name="Warrior Of RAS Volume Two Kaiv (v)[mix]">
+		<description>Warrior Of RAS Volume Two Kaiv (v)[mix]</description>
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\__Doc\Kaiv _ Video Game _ VideoGameGeek.mht" size="1874302" crc="952161f8" md5="b263af3e0a29c96368ef06e18803001c" sha1="a43ba79e2dae3117baed349407364ba40d8324d6" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\__Doc\Kaiv for Apple II (1983) - MobyGames.mht" size="724345" crc="81384809" md5="1e2c8cd4320dd124158005e9d4cf003a" sha1="a7308f6b32e96c74a000557cdf58127bf2bac6d4" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\__Doc\The CRPG Addict_ Game 134_ Warrior of Ras, Volume One_ Dunzhin (1982).mht" size="2488397" crc="c0649fdc" md5="76c2ab0966093093f953a4837c5f28b4" sha1="9bca02ab9e46e7f328e4b85f665b6520ea6f030f" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\__Doc\Warrior Of Ras #2 - Kaiv.pdf" size="7417305" crc="5ea63eed" md5="cacb4dbc0ba7e4e68c06be5a2c43a4f7" sha1="bb077b7dd824e7ee929645b225b4309eb057029a" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\kaiv.cmd" size="37120" crc="0b8122b0" md5="6a96a0088b55b3cd03078047c5ec7ab6" sha1="3dc4281a2fc5e3f8c73035c6e325653a4368c0ed" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\VERSION.txt" size="138" crc="0f97e6ec" md5="286df8c99db48173ee38b07828281480" sha1="23e96773fa8ea8d78662e9934fecc28b252da326" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\WARORAS2.D64" size="174848" crc="087e6a91" md5="167963fc5eb020dc336fe0f2a2265283" sha1="80ec908357b1835310c66139cc039eb6066f4117" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\Warrior of Ras Vol. 2 - Kaiv (1982)(Screenplay).do" size="143360" crc="300fcefb" md5="5edd1a31f6ef9e1d399aced8d2bfec3f" sha1="0b3aff5d3230bc0857fb26a874321e9b1dfc0162" />
+		<rom name="Warrior Of RAS Volume Two Kaiv (v)[mix]\Warrior_of_RAS_#2_-_Kaiv.atr" size="92176" crc="c607b082" md5="1c5fe012dc77a82698dbe0287bff45d0" sha1="ff2ea95b14fe38f9ff7d191a55e5f5c9ccb4307d" />
+	</machine>
+	<machine name="We Are Hejickle (v3)[nes]">
+		<description>We Are Hejickle (v3)[nes]</description>
+		<rom name="We Are Hejickle (v3)[nes]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="We Are Hejickle (v3)[nes]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="We Are Hejickle (v3)[nes]\__Doc\hejickle.mht" size="16846" crc="2c06ffc9" md5="f97ff2191456a6ba65b41cf461ff63dd" sha1="410b5d9a0801130a42e68f93f3f0d2f1647c3d18" />
+		<rom name="We Are Hejickle (v3)[nes]\we_are_hejickle_v3.nes" size="65552" crc="6ce836f3" md5="fe87a671f8a3b0963ebff83212d7ecf1" sha1="10058784215a34b286811975c452ed53d68e69f5" />
+	</machine>
+	<machine name="Web Raid Mobile (v3.6.2)[apk]">
+		<description>Web Raid Mobile (v3.6.2)[apk]</description>
+		<rom name="Web Raid Mobile (v3.6.2)[apk]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Web Raid Mobile (v3.6.2)[apk]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Web Raid Mobile (v3.6.2)[apk]\__Doc\WebRaidMobile - RogueBasin.mht" size="341341" crc="f34a23c6" md5="e6e30f35a8f36c6ba5bf5f8fd68bf403" sha1="1e16b602a4b98d930f12e92da26c4c7f9dfe7f4a" />
+		<rom name="Web Raid Mobile (v3.6.2)[apk]\Web Raid Mobile_v3.6.2.apk" size="11399339" crc="209d416a" md5="9cef919f84ca6b760b7539212394805c" sha1="6823875a80d0880f42f24b8b7243e15ffcc149b2" />
+	</machine>
+	<machine name="XMoria (v1.0.7)[src]">
+		<description>XMoria (v1.0.7)[src]</description>
+		<rom name="XMoria (v1.0.7)[src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="XMoria (v1.0.7)[src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="XMoria (v1.0.7)[src]\__Doc\Moria - RogueBasin.mht" size="339482" crc="3a5f31b3" md5="4f39f7ec7113dbd84b4f22905396b8fa" sha1="746d367ea62e9df12e67914c8e24efb812b800ed" />
+		<rom name="XMoria (v1.0.7)[src]\__Doc\oldftp.mht" size="6738" crc="3f5fb449" md5="dae0261130cce7050b9929a076732903" sha1="211924334362c0defe09555abef58106678e9c32" />
+		<rom name="XMoria (v1.0.7)[src]\__Doc\README" size="923" crc="f779973f" md5="5afefe731c57098a79f973dd99c2b304" sha1="ce3c97bd7e2231af75d7f91f157ad3686b7d4b10" />
+		<rom name="XMoria (v1.0.7)[src]\__Doc\xmoria.1.07.mht" size="1378" crc="89d50c3a" md5="bc382d8cd421d1dc86b1599783e5aeaf" sha1="f37814076052b92147c1b4a6ab17f1b867cb00cb" />
+		<rom name="XMoria (v1.0.7)[src]\xmoria.1.07.tar.Z" size="387893" crc="32bb5a72" md5="0dae1c414cea83204512e1104fdcaef4" sha1="b4affae70d54b85211faececab85cd398ffa92c2" />
+	</machine>
+	<machine name="Zerogue (v0.4.3b)[nix][src]">
+		<description>Zerogue (v0.4.3b)[nix][src]</description>
+		<rom name="Zerogue (v0.4.3b)[nix][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zerogue (v0.4.3b)[nix][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zerogue (v0.4.3b)[nix][src]\__Doc\Zerogue - RogueBasin.mht" size="334072" crc="63258957" md5="6c6e2d5c4f6bc17001e55f71d13ac45c" sha1="5fa39e6ccbf4a86cd3e535cc74c1e72e7ae86877" />
+		<rom name="Zerogue (v0.4.3b)[nix][src]\__Doc\zerogue download _ SourceForge.net.mht" size="2052749" crc="fcc45e2a" md5="95bd790bf50cc1eefb7548e7df0f7197" sha1="39460416ea3c404db83d344131505f1335c1b2d1" />
+		<rom name="Zerogue (v0.4.3b)[nix][src]\zerogue-0.4.3b-20111114-linux-i586.zip" size="120035" crc="e151c6b0" md5="b31542497c5d138f7ad85b19363a85b7" sha1="63dbae7e953b2edaa075a4ba770e4951e5c7ef72" />
+	</machine>
+</datafile>

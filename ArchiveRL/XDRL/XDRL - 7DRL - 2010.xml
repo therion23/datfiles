@@ -1,0 +1,870 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - XDRL - 7DRL - 2010</name>
+		<description>The classic roguelike archive - XDRL/7DRL/2010</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="_Doc">
+		<description>_Doc</description>
+		<rom name="_Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="_Doc\7DRL Contest 2010 - RogueBasin.mht" size="396708" crc="cff365e9" md5="f0b92a2f211a973ab312b645e2530692" sha1="a24fe96aac940764f41f5c94dcf7b4167f30701c" />
+		<rom name="_Doc\A Quest Too Far - RogueBasin.mht" size="331692" crc="4df3d8c1" md5="28b318a4989d7ebd236999dfdf87d436" sha1="205a9ee497eaa92b4b3def49db3d951f9bf74574" />
+		<rom name="_Doc\Ascii Dash - RogueBasin.mht" size="338349" crc="80123f2a" md5="5379f218dbb3f60c9f57a4afb3a7f2ec" sha1="4636c6f791166935fa6d1136d78c80476edeaca2" />
+		<rom name="_Doc\City of the Condemned - RogueBasin.mht" size="390923" crc="0b2015af" md5="e1395ec41ba883166a81a4ef2ac9d49c" sha1="16036d6a105ea3a548bf64aa0dc80931545bd434" />
+		<rom name="_Doc\City of the Condemned.mht" size="96603" crc="e2ff6dd8" md5="cb659934c193b736763e8fefbc994f6f" sha1="bed3ef4c1d665dc208f4fd36612c1aac48d00a0c" />
+		<rom name="_Doc\Earl Spork - RogueBasin.mht" size="330622" crc="f16723c5" md5="eb92e531e880966e987408af6ae5d1ec" sha1="925844f10b91c38f174a3425c3a472990b9ce3d9" />
+		<rom name="_Doc\foozlequest.mht" size="798448" crc="a93ea189" md5="b7b6d941e1acc8dcc4c0ffe96b01c521" sha1="dcf3eb1ec05c845eb1e1b3af69960cc88cbca2b5" />
+		<rom name="_Doc\GartenRL - RogueBasin.mht" size="332142" crc="dc84196f" md5="cb953fdef88eb4b9a0b8b6119416ef49" sha1="92de18a3b9694aacff4b01636d790f3e7a360372" />
+		<rom name="_Doc\Geoffrey's Place.mht" size="178751" crc="b75614df" md5="74c73c1a427445e0c9bdc5706de3eecd" sha1="a870b4bf6b32d6dc5296aa35717cf5b37d34d3d2" />
+		<rom name="_Doc\GitHub - jgreco_tetrisrl2_ 2010 7drl attempt.mht" size="1749123" crc="f5c2ad1f" md5="11afbaaebff3d62b5a237589bce2dc86" sha1="52ae603eefa0420f98baa6cf06934a83e2caa64f" />
+		<rom name="_Doc\glacier.mht" size="2746408" crc="3cda1d20" md5="d4a80f65de94e9390826df2d0147fabd" sha1="d76dbe8153593d7dc29ade9b33a2484d0afe033b" />
+		<rom name="_Doc\Heroic Fisticuffs - AarrrRL the Pirate Roguelike.mht" size="321692" crc="c3daf56a" md5="1bf8a646cd62ad08120f2a2e57c02451" sha1="75abb5b35572003b1b9095abbd1ccb6d3c800fd5" />
+		<rom name="_Doc\Holohoax _ increpare games.mht" size="119645" crc="393c7099" md5="ab46ddc1644c6c5d6256d12548d1d7c9" sha1="a1f1c2ba2624153762c757b3e74aaface52197d4" />
+		<rom name="_Doc\Last-of-candle - RogueBasin.mht" size="332064" crc="572ac210" md5="6ae14a67d8314d8c1f9af98fd1fc3885" sha1="459818e9b875cf241daaaef438829bf300bb5f3a" />
+		<rom name="_Doc\Madness - pwmarcz.pl.mht" size="157512" crc="33452759" md5="3d213ce09fa7e479f917e7e1276b325f" sha1="dcdd98305e15ecb5796b51604180e73c1299c707" />
+		<rom name="_Doc\mathrl - kkairos's portal-thingy.mht" size="2175473" crc="1215d693" md5="210d50b81c48db2c8cbb59b30976b61b" sha1="5545e892f94c004672dc037cf64cbdb5891ac97f" />
+		<rom name="_Doc\MathRL - RogueBasin.mht" size="333189" crc="4bb116f5" md5="5e0a2a25f5c7acdb50e0fc4a9761f14c" sha1="1c61f221f1722a910e0c787aa7a032372c49d6c7" />
+		<rom name="_Doc\Pack-man - RogueBasin.mht" size="333645" crc="6e4d2af6" md5="96d8c7dae49b6844fd95e919846f875b" sha1="9aef21f76dde0e2468704ff777a82829e857fff6" />
+		<rom name="_Doc\PrincessRL - flend.net.mht" size="15424" crc="2bd95cd6" md5="76ed5aac98572d367112b74ec0a50ec8" sha1="7cf50ed73b49c0385c4fc48c9b49553962529d87" />
+		<rom name="_Doc\Ravenous - RogueBasin.mht" size="330608" crc="95095256" md5="224b157492267623f0cdfa61597cec51" sha1="31debb45600afb46a78c3c006099d13dfd422612" />
+		<rom name="_Doc\RogueBand Hero.mht" size="2158358" crc="d4ce5dcd" md5="04f9e44a61ee9c60e879ad739f54a9f0" sha1="224137ac412ef85e55c6548e13d5e648f6605a1b" />
+		<rom name="_Doc\ruler.mht" size="2391442" crc="9aaec382" md5="dfd46dc5a896e20854f56005a296c4a8" sha1="549df95fbe8f4bc05f14d6374f873c7b1c013721" />
+		<rom name="_Doc\Smart Kobold.mht" size="86736" crc="5a50f93d" md5="86cbfc5fb689c8d376217d66e932dedf" sha1="62bb6a8dc690bfa8ce14a48e64213c661acc812a" />
+		<rom name="_Doc\Smash Arena.mht" size="177168" crc="f7581d5a" md5="8a857357e4549b859a9d9da6e3b7b611" sha1="835a18b3a16707923d22cf14c81ea960f3e1db18" />
+		<rom name="_Doc\Toby the Trapper - RogueBasin.mht" size="379011" crc="b43336b9" md5="7db8a3457bafd5d26e4fe3eea7f04548" sha1="8b9b4ed8ed849fe601ac08c280f5b79a49f8d470" />
+		<rom name="_Doc\TrollSlayer - RogueBasin.mht" size="529911" crc="a55cbae5" md5="eff8f63510f7bd467809d6ceb852e2a7" sha1="a35923d7a61063843bd9adbc5843cea5bcdb2724" />
+		<rom name="_Doc\Underhall - RogueBasin.mht" size="331755" crc="fdef0a2c" md5="789026ebc785b58ca38b63933cf4b4bd" sha1="523fee15269e1374ee8eadd97df68b3f922b9cc8" />
+	</machine>
+	<machine name="A Most Peculiar Adventure">
+		<description>A Most Peculiar Adventure</description>
+		<rom name="A Most Peculiar Adventure.jnlp" size="677" crc="4347cee3" md5="e576fb4129e06e86b72f3e6526ab32a4" sha1="5bc1327d8c2796784bad4dd5537de1dbfe1fd97d" />
+	</machine>
+	<machine name="A Quest Too Far">
+		<description>A Quest Too Far</description>
+		<rom name="AQuestTooFar1.0-130310.zip" size="324247" crc="db969714" md5="ed6085ece203a123093e4932883ee710" sha1="aad1804487685bcf3c91cbf421980a2acaacc8d2" />
+		<rom name="AQuestTooFar1.3-091010.zip" size="334020" crc="79710819" md5="68545729914de7c7549b8d5ece13f061" sha1="70f97a2cbacc1a19ca827c0e892a6c944d4d9ffa" />
+	</machine>
+	<machine name="AarrrRL">
+		<description>AarrrRL</description>
+		<rom name="AarrrRL_v0.1.zip" size="288604" crc="c9b44821" md5="de34c00257c4ac2c6bb0488775a6f9ea" sha1="3d8cf09561a48b71f366827c627dfa24a8f939c8" />
+		<rom name="AarrrRL_v0.zip" size="221337" crc="6693e128" md5="54b2709a979970c9715008a46a80641a" sha1="58a8c70c5c142a653d3d34cf7b93b9a3a74a5b1c" />
+	</machine>
+	<machine name="Ascii Dash">
+		<description>Ascii Dash</description>
+		<rom name="AsciiDash-1.1-src.zip" size="24660" crc="d2546475" md5="141feec5b3d23df870b4fc3f608b89fd" sha1="bc2d30a6e83576e60d93762d7c3da4d64cf09d4c" />
+		<rom name="AsciiDash-1.1.zip" size="89756" crc="178f3ab9" md5="243be730dc149ed32a07b7ff8f7077ac" sha1="da31703e52d37443c83115444fb905553b05a0a9" />
+		<rom name="AsciiDash-beta1-src.zip" size="22575" crc="885ed688" md5="20492132f46f9eeb20734206fe9b45d7" sha1="cd4537e39ace44eadb55c205bd28a7013aebdc51" />
+		<rom name="AsciiDash-beta1.zip" size="69487" crc="5b8db52c" md5="24540b237b9747e575b65c3956db3a35" sha1="cf883c164b0e9c5dafbd36afe31f3b911916d7b0" />
+		<rom name="AsciiDash_PAR1.zip" size="62607" crc="74df3965" md5="9f69c7341d5c88c248595bba657f2471" sha1="bc249efa1a071700fdb5404e9c4b783c7a7dc103" />
+		<rom name="console.zip" size="2441" crc="6b4d8cb9" md5="4caa5a17ae9c5600ecea25aa4afd5c3f" sha1="65a24c0375e5296e449850913441628dbb4927dc" />
+	</machine>
+	<machine name="Bane of the Living7drl">
+		<description>Bane of the Living7drl</description>
+		<rom name="actor.cpp" size="67275" crc="d94d8a32" md5="8dca34c62f3b328877d991bee2b14aeb" sha1="72cb6dfd20f4974b5978b716ab7a96efc6af262b" />
+		<rom name="actor.h" size="3925" crc="5cb4b384" md5="e16306159771f36601eb75a397026455" sha1="93558049a829460bb73dfdb9bfd516630d971eb9" />
+		<rom name="buffer.cpp" size="2830" crc="20a449d5" md5="ce27bd0ecbc65bf6581140f651ce879d" sha1="28b91fc3ada005bdbac03ad09733a8f91d1921b2" />
+		<rom name="buffer.h" size="436" crc="20944e5d" md5="721bb135b6c8ac008798f054d992dfe3" sha1="b0f214f60a0d0be38886c75442a3608ba539da2c" />
+		<rom name="extras.h" size="4930" crc="c219dcf9" md5="f0823d61c60c024ac95d4b3f359892b9" sha1="dd0c2128f0c5cf1f0b8265a7e6ae9a24ad811808" />
+		<rom name="game.cpp" size="10694" crc="8bb554db" md5="f3743c206988acab416ee7f649e3661b" sha1="31b24cb048782770f637da7296daf3a04b3d5f94" />
+		<rom name="game.h" size="1173" crc="4dacd811" md5="ea7910d0060299cf65c23396eb0f2930" sha1="b83a3c9f42e65b3d6244b4ae5828709645002c8b" />
+		<rom name="item.cpp" size="1885" crc="9c32d040" md5="d2b0d9f9a352f08535ed0b4323b1827c" sha1="b1e49a550d1173614aab81b36d25a6f4e8ca0a06" />
+		<rom name="item.h" size="691" crc="97b1322c" md5="73fa0e20fbbce7a1c63facb2385acf1a" sha1="9bc18906ecc7892a1bd96d6f46a155453f2d79ec" />
+		<rom name="level.cpp" size="13809" crc="d4fb6a10" md5="7049a1930b0fa88860ebf8f73005d713" sha1="934ba9e91b3bcfd83d86f168deb00bf98e28c16d" />
+		<rom name="level.h" size="657" crc="4f8537bb" md5="e3f2f799eb9e4dab4ce2faa1a7928821" sha1="43337167eda8e8dc7b2571463c3ec9df8ead988c" />
+		<rom name="LICENSE" size="1133" crc="c8172835" md5="1a39426d79d74044e49f75fe80d62d8f" sha1="8a029ec5c346fcbb8ae6e7cf3dd5e49983e10b09" />
+		<rom name="main.cpp" size="1604" crc="e2c74ef1" md5="40306168aacb4ab876fc9a9cebda6e22" sha1="fb8ce9d54fd13e17c09c1e189871db6dc62947d2" />
+		<rom name="makefile" size="592" crc="9268157d" md5="825b47d452cde31057e1349422055c71" sha1="a51075a680b0b67ffcf4bd3bfd168eb91cf9de33" />
+		<rom name="object.cpp" size="633" crc="78f5cf9f" md5="42c841f01ea64266e69122f39f6f993e" sha1="242e899c5d7f577cf5a15042e4208c583cc848a2" />
+		<rom name="object.h" size="958" crc="d3623978" md5="c57419436dd1178860f077bbff6482cd" sha1="a28988585bf592ef5986f28fa4e43ba0ef5f25b4" />
+		<rom name="queue.cpp" size="2913" crc="f1766470" md5="a5d5704ac95919c309ecaee99f61200a" sha1="54fcc5f14247ddee237fa71f1286b923ec83f5ca" />
+		<rom name="queue.h" size="894" crc="20f1b623" md5="08127ac815a119e01e0a7863ec0b7daa" sha1="59c3869c2ac3d4af52100fe7b1bf7ba3a4514e42" />
+		<rom name="README" size="1442" crc="227288e3" md5="2dea76f89fc2306ea278417b9cf2f794" sha1="45425847fba394008fdd5f167b42699d6f1f49df" />
+		<rom name="tile.cpp" size="7491" crc="bce4b428" md5="14e0099e9486647781860ff256ffe703" sha1="e887d6431d9bac7f4e6cd8018ee9da111a532283" />
+		<rom name="tile.h" size="983" crc="77ca829c" md5="586d7d0e912be8a1dfe5bafb2ac691fd" sha1="f34d17b7f96415311e782b3016952455aad8bee9" />
+	</machine>
+	<machine name="ChaosRL">
+		<description>ChaosRL</description>
+		<rom name="chaos.c" size="7882" crc="862b16c7" md5="aff6b2ce3cb50c70fa0e7438c3abab5f" sha1="0a275607d507504f3fcc3f38553358cb2c794a36" />
+		<rom name="chaos.h" size="577" crc="32d3f12e" md5="118e728090a39bac6522ef4d37f44ae5" sha1="c3df2eb485e789adb0d0a53f558048866d4fa11a" />
+		<rom name="chaosRL.exe" size="80021" crc="009af25c" md5="adf8bb2771c026b378b936dfe7b8d3d9" sha1="55e0bbb143dfa93a5318ee1a39af809ee965ab4f" />
+		<rom name="compile.bat" size="58" crc="cce477fb" md5="193571537a521ab4fcf33eb2ba401441" sha1="7311ce0235894f0c68a2cf93181a767b38f1b802" />
+		<rom name="controls.txt" size="862" crc="57a326a8" md5="c214ccf3963c0bedb8f4dcd5d3297dd3" sha1="34e04abbeb21c29243fafc84558b6a61e8acbfde" />
+		<rom name="creature.c" size="9532" crc="cd91af87" md5="b2f1ad2c00823b87caa1b791497f9498" sha1="cdd80cf10b9522ea021fbd5d70d1d56df11cc276" />
+		<rom name="creature.h" size="757" crc="6a7575f6" md5="459e7bf0e4d1dc3e08b29e7f97920e97" sha1="db8ab86c63cbf3adc94909b9eb0d369c87ef1833" />
+		<rom name="enemy.c" size="3339" crc="fda6ff3a" md5="1eaf0e0e24328b545e358a7fb00871ca" sha1="e20fa717f67f9c15147ffca276f79578f29fbee9" />
+		<rom name="enemy.h" size="302" crc="cf9c4133" md5="fb50ae4eb463d99c216e5ca12899cc0f" sha1="53eac34f8719ce71a90c0c2673533c5c3ae17e93" />
+		<rom name="font.bmp" size="73782" crc="a3e4de49" md5="caba257f734553133210735fa51b676f" sha1="e513cbc1467240baad8b527308070ac85444a8d2" />
+		<rom name="graphics.c" size="4289" crc="1cf5c7c4" md5="189230842eb95f29b4566efded16f088" sha1="c08037fe9a22e83713785592016b18d3af4ff4af" />
+		<rom name="graphics.h" size="503" crc="9d87cb3b" md5="dd5c9393ceff268410c9130cc82fbe98" sha1="b652314fd6fd508ef59e9105288899479c05d464" />
+		<rom name="item.c" size="4615" crc="889e2104" md5="4d1d919519806669676d5e89492e6811" sha1="a1c0b72b2cd1f032a83d8d8543b79a4964658e9e" />
+		<rom name="item.h" size="644" crc="a58e57cd" md5="2fc0b5d9156dd61d266459fa138e1324" sha1="64c0e30aea7990df202d0d047aaf025ecdd3d178" />
+		<rom name="logic.c" size="3984" crc="8605bd45" md5="61bbfe5643cfc4206977b4545548aa34" sha1="04a83e5da321ea915328c032804f33042ade7d13" />
+		<rom name="logic.h" size="205" crc="763fc125" md5="b147693f9f8846fc2ab5a57709efd2ac" sha1="220347e557c22dd510e5d3b9eaa0886f208854fd" />
+		<rom name="map.c" size="3285" crc="eda7a508" md5="a32826b450da7fea0198699a1389c537" sha1="0fe8c7e44339b470889750036f9611e009b7d352" />
+		<rom name="map.h" size="395" crc="c31e14a7" md5="0cd8b085299b1544c5bda40088fadd0a" sha1="5a772accae4efc2a6227fb993563c2df94c404f3" />
+		<rom name="order.c" size="2797" crc="4cd11c43" md5="b0b9e852d366599d1c81a04ac201483d" sha1="da3886926f4247d8d8d4719f97f5762b1fee5039" />
+		<rom name="order.h" size="148" crc="df4fbfb9" md5="db2946d7dde55a685915de43aef05fb0" sha1="69ccfe7adc8e59a9c750a5b2733951f9f9d64c84" />
+		<rom name="player.c" size="5286" crc="3d69aa36" md5="107eee63c3830911d0352c6903fe5780" sha1="21432eb4ec81b1e4cf4d71e526c51f94455307be" />
+		<rom name="player.h" size="288" crc="0d9a39d1" md5="f742fa1ac6010bd7fa57d93f2c27255d" sha1="eea377ec4948a879801943d4f66a2452b91b1485" />
+		<rom name="stat.c" size="1666" crc="909f61bd" md5="673aa019cff1a136113d1183b4c71741" sha1="7cbc6265f522b9d6b98a512d5c26d6d6c6fc1447" />
+		<rom name="stat.h" size="115" crc="a8789a42" md5="52731c51eb679aec57839c95a12507e8" sha1="91162254de767136f2781b8b9c64479eeee9afc6" />
+		<rom name="text.c" size="2834" crc="f029949d" md5="eccfc376b28a7e305cc7b34229ff33fe" sha1="c8986a9d88e0306b53f6c25fd8735095f0342446" />
+		<rom name="text.h" size="152" crc="32e1039b" md5="ee4242893cb80fe3d873c2939ede1b62" sha1="e068eb394aee054467e72d7eac0ce77f2df6b14b" />
+		<rom name="tile.c" size="1214" crc="43b636fb" md5="a493ece858e4a14667e2f5316c7a66ec" sha1="c0ca40275d6d2f28c420c2f5ebeef5d0a835dec5" />
+		<rom name="tile.h" size="339" crc="3d412fe5" md5="2bca647c70607c5e910418a271c174e9" sha1="02e517934435d89430720f02181bf528dc367146" />
+		<rom name="win.c" size="7922" crc="5ddbe15c" md5="383cc161fddf50e585747c91a7b669eb" sha1="3bb4139d602ba8503d8b4cd5079cdc17e54977e4" />
+		<rom name="win.h" size="248" crc="7af6c186" md5="cca1077fe47ae901065581fb35018c29" sha1="3739b63c85c5bf91961cb5498a11e15a936368e0" />
+	</machine>
+	<machine name="City Of The Condemned">
+		<description>City Of The Condemned</description>
+		<rom name="tapio-cotc-7drl-0-g96a3806.zip" size="502654" crc="7ab745b8" md5="d21e10f23d78de197ef85fb2aab457c3" sha1="02616b5a8b577ae1baba2083beb610fa87040690" />
+		<rom name="tapio-cotc-7drl-21-ge9a8989.zip" size="505233" crc="95b0448b" md5="966aa95744bababf90d7a70d228fd6bd" sha1="52b1b83146e21d585abddf6ce992c07c6c788a2a" />
+	</machine>
+	<machine name="Demonhunt">
+		<description>Demonhunt</description>
+		<rom name="Demonhunt\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demonhunt\documentation\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demonhunt\documentation\changelog.txt" size="1923" crc="78e93672" md5="dccb2dc13346689e4af0db2da586b05b" sha1="0d2d706ba2382b44a86c5bde862856c8bc9e7bb8" />
+		<rom name="Demonhunt\jar\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demonhunt\jar\1.0 [7drl]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demonhunt\jar\1.0 [7drl]\DemonhuntV1.rar" size="301329" crc="0620f771" md5="d5e39c8d8aa20f58ddab76870c3896ff" sha1="41b6d78318cfc4e4e4804a1f8ae8c09dabd65143" />
+		<rom name="Demonhunt\jar\1.31\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demonhunt\jar\1.31\DHRL131.rar" size="8377355" crc="262115bd" md5="6038a5a26a1ca07c246b8f5e73096741" sha1="7f6ff28d2eae8c508347f882c1267b2d0001f47c" />
+		<rom name="Demonhunt\jar\2.0\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demonhunt\jar\2.0\DHRLV20.zip" size="11524038" crc="1ee550a8" md5="633604a2214d0f4d86d91eafafbaf1a9" sha1="4ee78171fe58959f4bfd54a60164c3f1c5647194" />
+		<rom name="Demonhunt\jar\2.2 beta [latest]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demonhunt\jar\2.2 beta [latest]\DHRLV22B.zip" size="13465422" crc="c10dff03" md5="52a2dc679ea2beab0dfd18c51729a0e5" sha1="15d32444b1c89b2f8fcf5adcbb3fce8fe90a22ca" />
+		<rom name="Demonhunt\sources\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demonhunt\sources\1.0 [7drl]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Demonhunt\sources\1.0 [7drl]\DHSource.rar" size="203667" crc="2ec3429f" md5="cac2c2eda0c5f4bd6d964d70d322881f" sha1="27fcef2ca36e38fc4d3c460b94d7b267f0911ea3" />
+	</machine>
+	<machine name="Destiny Rogues">
+		<description>Destiny Rogues</description>
+		<rom name="destiny-src.zip" size="33158" crc="27133a30" md5="62569165d99d7da952eee2577beaf32b" sha1="3c1692d4e1b32d7fec11be2b90a234506c7d02eb" />
+		<rom name="destiny.zip" size="2809184" crc="a74169a4" md5="4df780639ab0cb6557be67be241db01b" sha1="93be76c42365bfc084e2839efb53196220a98725" />
+	</machine>
+	<machine name="Domination Empires">
+		<description>Domination Empires</description>
+		<rom name="dominationEmpires.zip" size="616132" crc="b51748b4" md5="e997609d4f4c4bcfe922213d65658bf1" sha1="5300420b7410f3627637db02b57fd4b5e7c5cbd6" />
+		<rom name="dominationEmpires_fix.zip" size="1158682" crc="d5eb59bb" md5="c64031fe0510e77a50a7514ffa9be61e" sha1="d25733d3cacd9342678a64c343e03d47be8d1ebc" />
+	</machine>
+	<machine name="dungeon sweeper-0.95-win32">
+		<description>dungeon sweeper-0.95-win32</description>
+		<rom name="dungeonsweeper.exe" size="695296" crc="c468783f" md5="125298690e04bbddb6ab4aa191bd334c" sha1="a19270fec1c5c23b6e8b38757a2c8390ed965db8" />
+		<rom name="help.tga" size="75930" crc="0dd9f7e1" md5="1f72485670ef9db105eeafac0a325255" sha1="e5a77a8555b977883c485060d9c8ddbe2127bbd5" />
+		<rom name="num4x5.tga" size="1359" crc="1e5b0707" md5="051a0e611065f7b71e539b7c0eb8f195" sha1="bc1359a3085ef9cef026fcb1e533c858c330b3e7" />
+		<rom name="README.txt" size="1115" crc="56ffd891" md5="bd1c6c15406b651f0ef71bcb3a1edfbd" sha1="0c73e72274cab38205d2d72cd5e4d246af8d30da" />
+		<rom name="tiles.tga" size="24452" crc="55b58491" md5="cf9fe673ebccc860196b73514b911391" sha1="397cfd0b5bdf3c705c7a9523578916149394e64c" />
+	</machine>
+	<machine name="EarlSpork_0.6">
+		<description>EarlSpork_0.6</description>
+		<rom name="EarlSpork_0.6.jar" size="262131" crc="37a2bb30" md5="ba3c2518f320a87fd485526ddbf75dfd" sha1="29793e5cab5b7b614704a06d774dd7019e1a8a2d" />
+	</machine>
+	<machine name="Floating Eye The Game">
+		<description>Floating Eye The Game</description>
+		<rom name="Floating Eye The Game.jar" size="76727" crc="a022f8f5" md5="28179f14067198de14cee466bd36528c" sha1="c2c3a5ab9802069636b469c59610189623121dbf" />
+	</machine>
+	<machine name="FoozleQuest Code 1.0">
+		<description>FoozleQuest Code 1.0</description>
+		<rom name="FoozleQuest Code 1.0.mht" size="2206632" crc="0591954f" md5="8f65631f59be40f7c96a0924116585d4" sha1="2b6fd4dc8e9a26c7bab62440f26c8a20018db58a" />
+	</machine>
+	<machine name="GartenRL">
+		<description>GartenRL</description>
+		<rom name="GartenRL-8-final.tar.bz2" size="112907" crc="e8ef278d" md5="209fd21836b403f73703be3380706d2d" sha1="1ed6fde94e518bfc5af70ac30b908012223fe3b8" />
+		<rom name="GartenRL-9.2-nicening.tar.bz2" size="25612" crc="3b338f4b" md5="df1a0bdc485fe85e30b06213c4277d12" sha1="199483bb3465e366e97f165993adfa544693dbe4" />
+	</machine>
+	<machine name="Glacier">
+		<description>Glacier</description>
+		<rom name="highscore" size="1680" crc="39e451fb" md5="efb42edce829130c51d92fc053766bdf" sha1="2e5abb0e78dbbea5bcd7b95097999034a3f1cca2" />
+		<rom name="IO.bas" size="6977" crc="513415cb" md5="42c823576789926e332cd3f52b040661" sha1="ad179299e5f8174da60ef984bc873072806531d3" />
+		<rom name="items.bas" size="43259" crc="c4ae8a72" md5="19675a4e0b63a503a5c7c5e7291e5bb3" sha1="c503bfef959124cb1c5397e2196baa851738079f" />
+		<rom name="main.bas" size="28691" crc="67110df3" md5="6e30e88d6ddeb5196e5b17dffc632958" sha1="690bf6d457bdad8d07faca7aaa03115135121dbe" />
+		<rom name="main.exe" size="312320" crc="d3553cad" md5="158f05e832600e2083c60c86109a5c4f" sha1="00cdb4e890bc60dda8f26aee15353ba3034306d0" />
+		<rom name="monster.bas" size="60679" crc="07912bca" md5="3dc6dfb19bdc527060e7693773eedbc3" sha1="db8a84a99801b004a061e2664c7760ca13b5f544" />
+		<rom name="readme.txt" size="626" crc="37d3f84a" md5="b6c8a22e9dac699aad9fcbfb7be55b7d" sha1="95ca2fb78e90309919beec8e3124fe3dad487492" />
+		<rom name="spells.bas" size="13542" crc="49d8cb92" md5="ac76eafcb8256603067f9521298e0e5e" sha1="78869008dd29e1da0c66012b42321ed6804a63e6" />
+		<rom name="types.bas" size="15662" crc="1802a715" md5="95ef88db606c8c1f6b5a93a1f471c6fc" sha1="7c073f3467097dc3653a5f54af057a67ffb33c4d" />
+	</machine>
+	<machine name="Harmless">
+		<description>Harmless</description>
+		<rom name="harmless7drl-1.0-src.tar.gz" size="71337" crc="35bfac8c" md5="15e6b49058410f1d4d68617432ed5627" sha1="069e70af4d82455a560df81cd277d5d619afcabc" />
+		<rom name="harmless7drl-win32-1.1.zip" size="1714619" crc="cf17084c" md5="9e4d2c23f63413f68b57a9e6aac41b0c" sha1="dcfb119ac98411e9e1ea5c2179f3eb8af7976a69" />
+		<rom name="harmless7drl-win32.zip" size="1699223" crc="1c0cea3a" md5="72a340d95a26d509cc1893ec591f7fb9" sha1="af68f8985aa890e81f9d370ebf1ed87e060ac9c1" />
+	</machine>
+	<machine name="holohoax">
+		<description>holohoax</description>
+		<rom name="holohoax\beatingoff_src.zip" size="1098393" crc="976daef5" md5="65735b977f77b09fa83f9ed1d9d7b868" sha1="322381639e0091e4847d15796e4e65ba0fc624cb" />
+		<rom name="holohoax\bin\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\Flixeltest.as3proj" size="2588" crc="78dd5ca1" md5="589b3a251e074654c1e99f502a84e726" sha1="86a564e245b662a40807d31b920dcf461f585137" />
+		<rom name="holohoax\obj\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\obj\FlixeltestConfig.old" size="762" crc="9a806350" md5="c724ef1e00794f81620620b9a920f818" sha1="a813bea68c3e82592af719dd09e3032655061d34" />
+		<rom name="holohoax\obj\FlixeltestConfig.xml" size="762" crc="9a806350" md5="c724ef1e00794f81620620b9a920f818" sha1="a813bea68c3e82592af719dd09e3032655061d34" />
+		<rom name="holohoax\src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\com\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\com\adamatomic\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\com\adamatomic\Mode\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\com\adamatomic\Mode\Bot.as" size="3401" crc="893b1b95" md5="cdf531f8a0d65b235b232bbb77bf9d5f" sha1="126c0067cc9a560ef1c0f0f1eec550b7534e8d34" />
+		<rom name="holohoax\src\com\adamatomic\Mode\BotBullet.as" size="1300" crc="7f532b88" md5="1540d4b046b30282723de81806c18c2d" sha1="4fd078579ce2fab2d99a76dea582ca65a120da79" />
+		<rom name="holohoax\src\com\adamatomic\Mode\Bullet.as" size="4324" crc="0bab552e" md5="51182e5c40eba4406d77798d11132f67" sha1="d3097b6108c5c68ff2a75d19048f4eac8e57113d" />
+		<rom name="holohoax\src\com\adamatomic\Mode\MenuState.as" size="8587" crc="aeb1fe4f" md5="72692c2ee15cef5ef28ec6bcfd363dc2" sha1="047a1ccb46b37166f9e327eca77a4f883e76110a" />
+		<rom name="holohoax\src\com\adamatomic\Mode\Player.as" size="4359" crc="3c3514eb" md5="09d0f9b71281aefe9a12978eb61ee87c" sha1="889b3a1f1b7a0e7ab2f95a0bbb72d0dcfa31dc9f" />
+		<rom name="holohoax\src\com\adamatomic\Mode\PlayState.as" size="28277" crc="3200bb27" md5="94759d9de1103d335432b4fcd6cd811b" sha1="37c7b50f3f115cbb86de3864085343d7c2a7d3e7" />
+		<rom name="holohoax\src\com\adamatomic\Mode\PlayStateTiles.as" size="1896" crc="6d02990f" md5="8f62f803bfee451935bbbacd0f0d3e44" sha1="75c2e8bbb85799ad9879ce4375a6781771dc5fe7" />
+		<rom name="holohoax\src\com\adamatomic\Mode\Spawner.as" size="2314" crc="64d31e34" md5="c278c198f3b997a35bb20245b6314bfa" sha1="fa0f46f88ab75c6b960dbbbbfb7674e4aa18f06d" />
+		<rom name="holohoax\src\com\adamatomic\Mode\Twister.as" size="3582" crc="69ceca3c" md5="293661606c9e043ac120bb753329660e" sha1="edd06fee67822b8bc52d7e3ce54e85c6019c1eb0" />
+		<rom name="holohoax\src\com\adamatomic\Mode\VictoryState.as" size="878" crc="ed67b115" md5="44b7f022d0cd79700084eb80ef0eadef" sha1="aee6a7a06244f90a4fa2764df76fa11cfb2f74e9" />
+		<rom name="holohoax\src\data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\data\._blip1.mp3" size="4096" crc="4528d7a4" md5="db7269cefe21d34ccd0ebbb48e7b2515" sha1="b7ce479115ffecb79dbb3e51d0e4aa1c86dca88e" />
+		<rom name="holohoax\src\data\._blip2.mp3" size="4096" crc="4528d7a4" md5="db7269cefe21d34ccd0ebbb48e7b2515" sha1="b7ce479115ffecb79dbb3e51d0e4aa1c86dca88e" />
+		<rom name="holohoax\src\data\._gamemusic.mp3" size="4096" crc="4528d7a4" md5="db7269cefe21d34ccd0ebbb48e7b2515" sha1="b7ce479115ffecb79dbb3e51d0e4aa1c86dca88e" />
+		<rom name="holohoax\src\data\._story.txt" size="4096" crc="f50adf9d" md5="0d72082aad2295c1ec1bc73a1a71447b" sha1="7ec63fe25fc126231f7dff6b3b4e7304d618b707" />
+		<rom name="holohoax\src\data\._title.mp3" size="4096" crc="4528d7a4" md5="db7269cefe21d34ccd0ebbb48e7b2515" sha1="b7ce479115ffecb79dbb3e51d0e4aa1c86dca88e" />
+		<rom name="holohoax\src\data\asplode.mp3" size="7966" crc="27853786" md5="e3467fb7e60482d6757da8f268e1a95a" sha1="8033c672a9372800fcb08a3381476ee96db93d12" />
+		<rom name="holohoax\src\data\background.png" size="443" crc="c5cbef8e" md5="9a2a1a5b2f118c4c139c9ee127234ba9" sha1="47c727fe10b9675c626e074f8a974ebac02d6f6a" />
+		<rom name="holohoax\src\data\bang.mp3" size="14983" crc="5f4b4f47" md5="32ece15d367905c4399afc7bcc954a4d" sha1="3667d3547fc01ad756a4643b712f15e655fe0571" />
+		<rom name="holohoax\src\data\blip.mp3" size="17334" crc="2db4a73d" md5="8a90cc540d9f36dcdfeda915319e5fd2" sha1="eea2597c0eff247e13ddf765f703d865fc2a6e03" />
+		<rom name="holohoax\src\data\blip1.aif" size="220554" crc="e85cddef" md5="9a126366ebb1402ea814761949b59abb" sha1="02bc0677a2c064ba52eefa97b3f62f86cb03a5e4" />
+		<rom name="holohoax\src\data\blip1.mp3" size="53051" crc="0e88d891" md5="940eef50e6c4578611505c6089d6307d" sha1="f573ec74c25f41cf10cd7e4557e93c4302894e06" />
+		<rom name="holohoax\src\data\blip1.upic" size="801" crc="4245b3d1" md5="402aefaab99c72b5190c0e797bc6321f" sha1="419360da55fb5609350d1221105ac58b09439a50" />
+		<rom name="holohoax\src\data\blip2.aif" size="441054" crc="aac4bd17" md5="a757d5c5497a591524879bda17b34ada" sha1="e3ef9a318977c48204193fff17d50d448a1bce43" />
+		<rom name="holohoax\src\data\blip2.mp3" size="102945" crc="4f0631bb" md5="437dc080bd7c025cb32ddfc3132bee4b" sha1="1f2718f27a156ed180c071884cb55fe52c0977aa" />
+		<rom name="holohoax\src\data\blip2.upic" size="905" crc="1f49ea19" md5="e3462e9987d035ecd06a72d0d06e2a2c" sha1="8f61ef1ad8101028d09932972b607b2a10b09d0c" />
+		<rom name="holohoax\src\data\bot.png" size="3646" crc="16f71472" md5="bd5272e8cc89f01f1e84f7560e737033" sha1="d9df5d16cd427721ceedde70c74c859386e46bd5" />
+		<rom name="holohoax\src\data\bot_bullet.png" size="176" crc="310ae6cc" md5="535cd979975023865988a775968ff2ce" sha1="c8db34fbd4f9579c9a753258a900c550285dde9f" />
+		<rom name="holohoax\src\data\bullet.png" size="356" crc="4c1a708c" md5="f1211b708db3f818711920ae5a2a9de4" sha1="53b2a9113140d066d999e483939efc6e09d1634e" />
+		<rom name="holohoax\src\data\button.mp3" size="2114" crc="3a3945b7" md5="8fd78943614c5db8d7c31c6e73e03034" sha1="c3555b24b86a2ef913dc8b1d521273113af1f6ad" />
+		<rom name="holohoax\src\data\countdown.mp3" size="2532" crc="b970fdaa" md5="d0c2fd114f22031899f045fb73119b09" sha1="089a1fa57a2d338b6d187ae8950620c6b1fdf0f3" />
+		<rom name="holohoax\src\data\cursor.png" size="169" crc="e51e3532" md5="485451d0959edc994df775de79ea02eb" sha1="b78c7ccbfc0e34d426d67308e774f124672cc1dd" />
+		<rom name="holohoax\src\data\dirt.png" size="193" crc="e1620a88" md5="ee5f66e0c669edb5c4c01c0c826b0312" sha1="58c704eae8037998b5355460adaefe31ef718621" />
+		<rom name="holohoax\src\data\dirt_top.png" size="162" crc="c6dabc82" md5="2545b1a52b4a2705535213954c55f4ed" sha1="6b471b50a01560ff8dc06c3b3d4a5e463007fbcd" />
+		<rom name="holohoax\src\data\enemy.mp3" size="6659" crc="60a64236" md5="bebe7ea07d494d3421482fd82b6336f6" sha1="86951cb69f0e083e4a19c05f6bd1065b767c7e2a" />
+		<rom name="holohoax\src\data\game.mp3" size="602928" crc="b7cb1c22" md5="e756c587957e8ceb313f9b95ab704412" sha1="de4402efbfd101d7872a5804e36818c4a1aa0648" />
+		<rom name="holohoax\src\data\gamemusic.aif" size="2271204" crc="cfa4ea13" md5="9c10ac587dc4d8970bfc53123fe08a86" sha1="66a16710595cdfecd6064c0563ce013bdc9e7444" />
+		<rom name="holohoax\src\data\gamemusic.mp3" size="518035" crc="d8d7e4d6" md5="9a45d68643f8f71f995b8d6a1e512c30" sha1="0ed2c4e7b6b130aa0e94d64058f955bf6166a4a1" />
+		<rom name="holohoax\src\data\gamemusic.upic" size="3456" crc="a9c8e3c2" md5="b70ed15f26b8a7746978cb6e0a400b32" sha1="8d3e17e24b2c33c576f1ab1fd903f75b61a895a6" />
+		<rom name="holohoax\src\data\gibs.png" size="2852" crc="1c6e9b4b" md5="23fd0630fb58205881fa31e51f064211" sha1="6fb8962df2f85c3dbf9fb16935bc83024c6f0c7a" />
+		<rom name="holohoax\src\data\hit.mp3" size="5040" crc="e0716ee0" md5="04b6caa4fe663d53a57f3914e838be9f" sha1="4925707a4d3f2253999ca570c3328f012ed85de5" />
+		<rom name="holohoax\src\data\hurt.mp3" size="4204" crc="b64cc9d3" md5="0d84bc81b30ee6241b6c421dd70f9f1d" sha1="4a64ba072af94d0b4593b0377852e60d8a05aaf3" />
+		<rom name="holohoax\src\data\jam.mp3" size="2533" crc="fcc8e3e1" md5="32729cdd3b863443850df19d2ce95aad" sha1="321d66a360ba54b1fb00a3fa12963f8f9405e98d" />
+		<rom name="holohoax\src\data\jet.mp3" size="7130" crc="552522bf" md5="41dedca00f68e41ee488968287dcaff0" sha1="7cc952f11710642ae137181e640aeb741faa5eca" />
+		<rom name="holohoax\src\data\jet.png" size="162" crc="e59f7dae" md5="6b7eb8fa80ee745a064df5aaacc473a2" sha1="2f8c643c1e79581972096d64deb843a66d7edf0c" />
+		<rom name="holohoax\src\data\jump.mp3" size="2114" crc="3dae6329" md5="661da4ef790eb611eaba940b9afddc48" sha1="d77f723e40f7470af28b82097d20d42de55e3a50" />
+		<rom name="holohoax\src\data\land.mp3" size="1696" crc="3f716663" md5="2608839eec02a3a8ab3122ff156c7a7b" sha1="b9fb6fdcab4f79976ff4b9734eca3a50f26026c3" />
+		<rom name="holohoax\src\data\logo.png" size="1554" crc="b0aeeed0" md5="bd3c2e02533c2bf1f17691b9d3cbc686" sha1="ba1250b27d873222e895fed84f02f3d059674d16" />
+		<rom name="holohoax\src\data\map.txt" size="12928" crc="c887accc" md5="dedce3f8de029c7fc78f1a19c0203a76" sha1="fd70ee946ad2cf0edc89371a21dcb2d54b378d05" />
+		<rom name="holohoax\src\data\map2.txt" size="200" crc="c2293660" md5="6aad4e662f5b6b09a63fd8b84064a213" sha1="f9d962c084ecb395069df42f64d3f125c62cc2ea" />
+		<rom name="holohoax\src\data\menu_hit.mp3" size="20923" crc="71490f89" md5="0d3284f1324daa14341d8abf9a68acff" sha1="b190d9bbbcd9d19d21a169d65d3283e57cfdb6f9" />
+		<rom name="holohoax\src\data\menu_hit_2.mp3" size="19251" crc="50549e7f" md5="6867437c9abe776ef95688766675d9be" sha1="cbd18f013061a66a3e349606f503763e47788584" />
+		<rom name="holohoax\src\data\mode.mp3" size="139597" crc="2559dd27" md5="240c65d89340075127c564a646629e81" sha1="fd1e285db23d7f9bf34ea8aa690e9ccf6a002559" />
+		<rom name="holohoax\src\data\notch.png" size="198" crc="93f3d1ac" md5="f1d859a57dd5d06769bf1a08ca80fca3" sha1="de0cc48122b80d24421e4e22da2067406ad41a35" />
+		<rom name="holohoax\src\data\particles.png" size="202" crc="d1517354" md5="1a84c68c5b78d7567ea89932c8a919fd" sha1="55a2e312e248916690c36a5de8014b748404fe64" />
+		<rom name="holohoax\src\data\particles2.png" size="213" crc="177d88b7" md5="3e12b76cc017b5c8e75e383c0554b0fa" sha1="b146a91b820a7d18eac6dceaf9ec1b532d213941" />
+		<rom name="holohoax\src\data\pwd.txt" size="14" crc="2878f62b" md5="31c2c32c37944f0786259cdd38d0813b" sha1="557e4043035010d1d4e8b5e87474ad483b7fea94" />
+		<rom name="holohoax\src\data\shoot.mp3" size="2114" crc="83c0d699" md5="fdfa6cef0291dc73d761578aec6f20db" sha1="efaa34f922dbe6689dada6a39834077190012f8a" />
+		<rom name="holohoax\src\data\spaceman.png" size="3725" crc="86fce6dd" md5="a0e6621a60c0c04a942fd4eda19a3e58" sha1="93b5cd46b552af0b4a11678b0407e2c93ad5520b" />
+		<rom name="holohoax\src\data\spawner.png" size="508" crc="e137c894" md5="5afc51387b381ca947704a2dfec0e2a1" sha1="c6712fbf1ec0fe101a310988b049e944ba62e3b2" />
+		<rom name="holohoax\src\data\spawner_gibs.png" size="443" crc="0d167ff5" md5="dddd8d8838a4bd3096e176fece654063" sha1="4375743464411883bcd117abf73e8957c5152cc1" />
+		<rom name="holohoax\src\data\story.txt" size="16708" crc="14cdeb86" md5="c6360bc321193e13b122144c1341ba90" sha1="6f91ed03c00329a154cacc2d77a956d146a0d99c" />
+		<rom name="holohoax\src\data\tech_tiles.png" size="184" crc="be480dad" md5="1517c05a1a8a19083a23f4c3319016f8" sha1="9437b82b190e06c74ab194221f4bcee1520cca56" />
+		<rom name="holohoax\src\data\tiles_all.png" size="3750" crc="b1d7032d" md5="5085d0d5f0467d01e7502d381deb389c" sha1="5d7ba88c13b9fab737d2e8207d137818ae8c1717" />
+		<rom name="holohoax\src\data\title.aif" size="1345104" crc="bc50b63e" md5="21de77aee2cf78957975bed94b4565a3" sha1="782f4d541d6cf7d2770af58658b2083cac4063b7" />
+		<rom name="holohoax\src\data\title.mp3" size="308009" crc="47853cec" md5="084a13c8b629b66cdac46c939df53cd0" sha1="24c49c124a336a708c904993cb46b537c453a177" />
+		<rom name="holohoax\src\data\title.png" size="5636" crc="ae3365c1" md5="25bea5e0260d35e5ea0cd441caf51477" sha1="b785475d26335e69e3df9d86e5edb2a92cc15c3f" />
+		<rom name="holohoax\src\data\title.upic" size="1403" crc="e38bfa8c" md5="58fabab27438691b8d069ccfa0444a34" sha1="7b9a7c9e3a9e18e8d5309888de9fa928a110f302" />
+		<rom name="holohoax\src\data\titletemplate.png" size="240" crc="8d6c2af4" md5="1a24fd68c33086f5836bb9a95caeab49" sha1="ad37f290178bfa4aab8b513d98da90f1d4a32b86" />
+		<rom name="holohoax\src\Default.css" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\license.txt" size="1438" crc="59afaf79" md5="83af816713757e12c30772706d2a214e" sha1="61d752c811ce5d3588369a0cfec14812167519c3" />
+		<rom name="holohoax\src\Mode.as" size="351" crc="b53ac8e0" md5="51b6a7f556f0c5e4159f8d61cc6a04ea" sha1="75d152b51b92b33faf9d8f85980d1eadae89f410" />
+		<rom name="holohoax\src\org\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\org\flixel\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\org\flixel\data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\org\flixel\data\autotiles.png" size="3677" crc="bbb017cc" md5="fdf09a1f513256184973568c16b19266" sha1="e3b5dfddcfcfa0bc853025391b7330346c3d645c" />
+		<rom name="holohoax\src\org\flixel\data\autotiles_alt.png" size="3686" crc="836f0d86" md5="8485d7a97cf6f9e3d8962a577feaccfe" sha1="85ddafbb88fcc8599159bdee2dd17fe25a169da1" />
+		<rom name="holohoax\src\org\flixel\data\beep.mp3" size="2114" crc="3a3945b7" md5="8fd78943614c5db8d7c31c6e73e03034" sha1="c3555b24b86a2ef913dc8b1d521273113af1f6ad" />
+		<rom name="holohoax\src\org\flixel\data\close.png" size="167" crc="edf12eca" md5="20e0626fdfdaaaae23971eebf3d2ee4e" sha1="efc9243bcbd7b69c4b8a32768555cb69985414ca" />
+		<rom name="holohoax\src\org\flixel\data\cursor.png" size="170" crc="441149cc" md5="33804c425a10ba888ba6d31c5f0587e4" sha1="0f0615e33090967ce999a48156986cacde31f445" />
+		<rom name="holohoax\src\org\flixel\data\delicious.png" size="144" crc="5accb9fe" md5="717ebe598926694b6696d4a2aa432fc4" sha1="122d0890c44f06f231ea4b59dfbbdea7c8e9f4f2" />
+		<rom name="holohoax\src\org\flixel\data\digg.png" size="162" crc="999abfb2" md5="4bc2dd82cd4bfa9c93022d75268775dc" sha1="43ee22bb7c00556350f9547819cc4307945bdb88" />
+		<rom name="holohoax\src\org\flixel\data\donate.png" size="269" crc="b60e156b" md5="f9deb6232e41749c6918b692c08946b7" sha1="f3413dd347a3764d698113627326d037bf10e6d0" />
+		<rom name="holohoax\src\org\flixel\data\flixel.mp3" size="39706" crc="87ff763f" md5="94c0c846c49f84ec7f1c946cec2cf45d" sha1="fc4ef6f46dedfadf9c6a6bd1f5fb88f517f5dc93" />
+		<rom name="holohoax\src\org\flixel\data\FlxAnim.as" size="1090" crc="e0d7a461" md5="976f01993fff90067eed9767ae2859d5" sha1="fcdd37cefd63c6ab6fa0d9e83e260d4c8de25629" />
+		<rom name="holohoax\src\org\flixel\data\FlxConsole.as" size="3907" crc="f7f99de2" md5="f4369243f4b010e3d23f95e09b11721e" sha1="177ac57b8c52d20d0c0732d96f270de26696ae9b" />
+		<rom name="holohoax\src\org\flixel\data\FlxFade.as" size="1494" crc="6f927533" md5="18b6b991ea56f7c2f49d148da3191832" sha1="5e8125271655e1a6eed2ec0afa31df85fdc4679b" />
+		<rom name="holohoax\src\org\flixel\data\FlxFlash.as" size="1493" crc="9a408cf1" md5="ae1c91fd087bc73b8796216096ab59df" sha1="cf2a2338cf2c21a558186594ca25a44a2bef9fd1" />
+		<rom name="holohoax\src\org\flixel\data\FlxKeyboard.as" size="5830" crc="068cbe5e" md5="2e676673812e935638c51c4941212e83" sha1="0883ab9a99bf82da39d7ef6ab10e5ad3d819eb92" />
+		<rom name="holohoax\src\org\flixel\data\FlxKong.as" size="1407" crc="29759c91" md5="c7e79aaa76435d502e55fce606c51a39" sha1="7c3764525ddadb704a72aa2e855890ab55d30179" />
+		<rom name="holohoax\src\org\flixel\data\FlxList.as" size="638" crc="71cc2d26" md5="3151f41836702d19205babf397cb2b11" sha1="eb17c6c089c2bfbbf1c3be9d177d481379a878ac" />
+		<rom name="holohoax\src\org\flixel\data\FlxMouse.as" size="5610" crc="5384af77" md5="7d60dea75b131d49ed513238a0e40c72" sha1="69180f383e149856bc3af560ce9153e76190b4e4" />
+		<rom name="holohoax\src\org\flixel\data\FlxPanel.as" size="8846" crc="1fbdf0e2" md5="22b52d41fd16284926ac1384bea24ffe" sha1="f61497ccf1a231069d9a3c0719491aeb763432a1" />
+		<rom name="holohoax\src\org\flixel\data\FlxPause.as" size="1290" crc="215f6472" md5="e68e7c26dc08fe8c20f395a271055690" sha1="d182bfda9d95865f9edd90ae6d93d4138dcf13df" />
+		<rom name="holohoax\src\org\flixel\data\FlxQuake.as" size="1709" crc="673b5d7c" md5="42d36be395944be0c2e2b0b3872551fb" sha1="8c51b6a2dc0e05fa2ecf0ea1aa943153bb32313b" />
+		<rom name="holohoax\src\org\flixel\data\key_0.png" size="165" crc="9a79cece" md5="39c859ea4d99824338979823bb9c3f45" sha1="da63d3843bbdd0e23822bdc559eff1d0fa12b2d6" />
+		<rom name="holohoax\src\org\flixel\data\key_minus.png" size="151" crc="8ab03fab" md5="9985b84dbb8d52dc107a3c4661868738" sha1="72bb63b63974434a53987708bf7d6283403a5dac" />
+		<rom name="holohoax\src\org\flixel\data\key_p.png" size="160" crc="5b06a06f" md5="532f19c7a375fb664a68b11067f8e3c3" sha1="1c4d1486e69980c489110e0731898cd29e51e58a" />
+		<rom name="holohoax\src\org\flixel\data\key_plus.png" size="157" crc="b1887b2b" md5="89945f5563040f17dea508ff19def397" sha1="80cfab88719515c5df2c2f7e15905b78244611d7" />
+		<rom name="holohoax\src\org\flixel\data\logo.png" size="172" crc="148b0eb7" md5="82b7640310cf2f8486c1199793252487" sha1="66a0bac233a5e5dafd37702606c4f0b63aa85a5f" />
+		<rom name="holohoax\src\org\flixel\data\logo_corners.png" size="1515" crc="0eb6ae56" md5="6cfe7099bb068fb8d0780c998682b80c" sha1="78634f513532ab24d0ef5df047e280184b39efe4" />
+		<rom name="holohoax\src\org\flixel\data\logo_light.png" size="1804" crc="08693d20" md5="00d0428e45025f8a21f533b56d9cc20d" sha1="fd08c4ede9e4188fb9f9767f50462d1a245a7e23" />
+		<rom name="holohoax\src\org\flixel\data\nokiafc22.ttf" size="16272" crc="04387516" md5="440b53b1a1c65037f944ff19259d8014" sha1="223d31131fb96bdf50eb47bbf6725f689852a00a" />
+		<rom name="holohoax\src\org\flixel\data\reddit.png" size="189" crc="01c51867" md5="c598ddd0e4f2b5de37965725e48ba376" sha1="22c5ee9c080b24045dc8de5736e82d5da62bb4c0" />
+		<rom name="holohoax\src\org\flixel\data\stumble.png" size="228" crc="03a6da29" md5="28ce0cc9d955511958830e08ced911cd" sha1="bacb56d3228c9f419f92e8e260d71043a0b8ffe4" />
+		<rom name="holohoax\src\org\flixel\data\twitter.png" size="206" crc="dbac912e" md5="b92e5af7071b6d844f1f1dcb8553c434" sha1="a81489774def77ffc13bf52b84ecdd05518b7702" />
+		<rom name="holohoax\src\org\flixel\FlxButton.as" size="5875" crc="75b8464b" md5="7312b8197c2806f771d77bcc1d9f77e9" sha1="6c11c321e47655d700d4381950c8b800b5fb714b" />
+		<rom name="holohoax\src\org\flixel\FlxEmitter.as" size="10760" crc="38952791" md5="a9c497c76b37768be240891cc3586f72" sha1="64ce40338363caac44c9e213e8ae42c8da2de3ea" />
+		<rom name="holohoax\src\org\flixel\FlxG.as" size="18914" crc="db02411f" md5="7dfe1d8e970990531fcb93043e15b849" sha1="1e7ad9936cb457298121fccbda7a1dd475c3f98a" />
+		<rom name="holohoax\src\org\flixel\FlxGame.as" size="13950" crc="14a395db" md5="aba7a41f93d58932e4bb34874ad22617" sha1="931635b398d35e15d44f9dcb971aec6358d3371d" />
+		<rom name="holohoax\src\org\flixel\FlxGroup.as" size="11557" crc="ad96f3dc" md5="d5cf398d8b3dd508a05252a83765bc7d" sha1="817862f796b176e3d7a552a502104d4d96aafef2" />
+		<rom name="holohoax\src\org\flixel\FlxObject.as" size="16285" crc="92d95cb7" md5="e03b6f3e4a8fc08ad66c18ffb1c2dc84" sha1="d554b56d96baa9ab505ca73b095d29bdfb710b5e" />
+		<rom name="holohoax\src\org\flixel\FlxPoint.as" size="637" crc="cda6ebaf" md5="cc0b3657fd9f5dc21bfdeb87fb9cb59a" sha1="21a4df3183cdc237113ce28a1393ddafb361cf7e" />
+		<rom name="holohoax\src\org\flixel\FlxPreloader.as" size="7242" crc="fb1dff91" md5="95f145e1da74c98420698e7dd21a2501" sha1="ed9f37095348e6dd5336958ae531ea285d2c3c4c" />
+		<rom name="holohoax\src\org\flixel\FlxQuadTree.as" size="10921" crc="29ea94ec" md5="39a2e14f377b408861d5654520da14ce" sha1="db627285f18562a5770b9f91fa2e4949cd80fb3d" />
+		<rom name="holohoax\src\org\flixel\FlxRect.as" size="1198" crc="df157888" md5="37b32a45637a3b8aebf87228305decbe" sha1="e0a81a5afb2d17d0dd733885770d2dc654ee050f" />
+		<rom name="holohoax\src\org\flixel\FlxSave.as" size="3717" crc="c2786548" md5="f9e25db0bdaf58bcc6efb0bede23c6fa" sha1="e5fd5ac9ed947ef946b99d70ac965c4c4951a5b0" />
+		<rom name="holohoax\src\org\flixel\FlxSound.as" size="9113" crc="912855f5" md5="e51792e8d289fb712e465d06013e2aca" sha1="f77389b690c7ec3db1d4ed97fa033d45681aa135" />
+		<rom name="holohoax\src\org\flixel\FlxSprite.as" size="20539" crc="4297c561" md5="44ecb5849c52ea010626480efb5e8c71" sha1="88a6dd227bf21bde87e06a3b4a987b2b9e1c8729" />
+		<rom name="holohoax\src\org\flixel\FlxState.as" size="3901" crc="675e2029" md5="561cd2e55fa11128baf1534902b74383" sha1="429276080596d817609d08ec304c26510edffcd0" />
+		<rom name="holohoax\src\org\flixel\FlxText.as" size="6908" crc="d13fe247" md5="09dd8032e3a0047ed03edcc8c7e3ca0a" sha1="a8afcfbe7141686f2146ee4632f6b64ce161ab6c" />
+		<rom name="holohoax\src\org\flixel\FlxTileblock.as" size="2941" crc="13f68dd1" md5="f07492feb200bf655641457c07660228" sha1="9176d0855813e6603535c27b583cc592ecc0d763" />
+		<rom name="holohoax\src\org\flixel\FlxTilemap.as" size="18582" crc="20f7845b" md5="d624aafd8e7c0be5319c514b1e9ece95" sha1="25f5fe090617c996054b97ff2d25e23685d9a56e" />
+		<rom name="holohoax\src\org\flixel\FlxU.as" size="22011" crc="dfd54e92" md5="c5fd6e4b4b44c0b073058f75377318e7" sha1="198165d7da0af9a531de7e010551f8e2dddd0860" />
+		<rom name="holohoax\src\org\New Folder\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="holohoax\src\Preloader.as" size="332" crc="7a72adf8" md5="bca049af26a98aa7bb5172eedca4d0ea" sha1="7255f8400f96cc9b7c06bb8f0115293ed54ebc19" />
+	</machine>
+	<machine name="Jellies in a Jam">
+		<description>Jellies in a Jam</description>
+		<rom name="jellies.exe" size="289792" crc="af7b5656" md5="ccf58c80142154fedfb2a5bb3a945e4e" sha1="e6398fe317753924e4ca92c45c1cda82916e1be8" />
+		<rom name="pdcurses.dll" size="118784" crc="7bd77e77" md5="8df023b6765b21cdf937a25d9d8f14e2" sha1="0d91be8123da39dbb3d0fa6376d1796f4ea1563e" />
+	</machine>
+	<machine name="laser spigot">
+		<description>laser spigot</description>
+		<rom name="laser-spigot\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="laser-spigot\COPYING" size="12682" crc="984ec6ce" md5="7105cc7b523926a36bcebbc08b93572f" sha1="a9d2ccc24533ab6f7034d084297c40cc4632a647" />
+		<rom name="laser-spigot\COPYING.LGPL" size="7651" crc="17e4701b" md5="e6a600fd5e1d9cbde2d983680233ad02" sha1="f45ee1c765646813b442ca58de72e20a64a7ddba" />
+		<rom name="laser-spigot\COPYING.libjpeg" size="3830" crc="a8dbb378" md5="0da43e3275d9211ee7d558f5e99c5039" sha1="e5b8d00a97b4e9414147ff5e9bbc2088a84da7f7" />
+		<rom name="laser-spigot\COPYING.Vera" size="2329" crc="94486036" md5="caf2db02b94cdeca7844345051e6b7a4" sha1="55aa4f0225cc9e818303ab60676792e6e43cbc16" />
+		<rom name="laser-spigot\data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="laser-spigot\data\button-a-pressed-fill.png" size="318" crc="db8059f2" md5="011a5af164c276d41136a8bba4b8c976" sha1="12f25ec195117cf3493dff1420fd91dce9a944dc" />
+		<rom name="laser-spigot\data\button-a-pressed-left.png" size="774" crc="60084e57" md5="a4b3e79af113ee2df23bf75a266a0268" sha1="54d9c927b1af0d7c18215cb7022836e43aedf016" />
+		<rom name="laser-spigot\data\button-a-pressed-right.png" size="803" crc="71049023" md5="b7e4100548dc9b62d0f217b8bab2bf5b" sha1="3c0f8348bcb958729a625406ea258bc594c1d06e" />
+		<rom name="laser-spigot\data\button-a-released-fill.png" size="279" crc="9b1678a0" md5="d9dd95c3b676fbdd5e3aa65c2454739f" sha1="8e305ff7da3160235f9cffcde050b8b1619dd358" />
+		<rom name="laser-spigot\data\button-a-released-left.png" size="772" crc="2caedcd8" md5="08fe8539c56b4895dca404e23e9eb587" sha1="f003881703dd4df264df0503711b5c6382da3ccf" />
+		<rom name="laser-spigot\data\button-a-released-right.png" size="812" crc="ff9efebe" md5="71c89274853678e01f751945c383d5c9" sha1="505c4b235144723c1900cc2237d68c531da7244c" />
+		<rom name="laser-spigot\data\downsquare.png" size="2455" crc="a30281f1" md5="fdcfcfb48ef943d1aeb9867e9dd5f8a4" sha1="0ff59340cbaee0c9f0f4be4e60bdf61cf6a07209" />
+		<rom name="laser-spigot\data\falloff.jpg" size="9157" crc="aa1c3d65" md5="dccf3ec424eef0cb4102e580586b8b07" sha1="5d7310304167d4e2f6aed6827ce2e717017d503a" />
+		<rom name="laser-spigot\data\help.png" size="61115" crc="093fb8d2" md5="234608e4e58f8bb38e2c5f59ae6c2c43" sha1="fb4bc788870be99b527d5f2fd2b0690d23e3f71f" />
+		<rom name="laser-spigot\data\hex1.png" size="2160" crc="98bc2a16" md5="3e289b317201c67db2a3f8e150abc5dc" sha1="3acb354744c55e0db59ceb7eeed9c390ea48b293" />
+		<rom name="laser-spigot\data\hex2.png" size="1124" crc="9ebc23d8" md5="aff167266f30ff5684ad2c777476730d" sha1="0424583ccde42eed9f728e0c0e329de2b85e2ee8" />
+		<rom name="laser-spigot\data\item-marker-1.png" size="1143" crc="1f3957fd" md5="0fd8d23d8a202feea02888facd2181cc" sha1="9a40bc84f1ffb2e22ed67201d794116ceec8c3a2" />
+		<rom name="laser-spigot\data\item-marker.png" size="1123" crc="05229d6c" md5="8c86e2fe8a0b1664d419664f4fab603b" sha1="022e50603e48b4d647bd95fbfdcf7a8dc5ece7e5" />
+		<rom name="laser-spigot\data\laser03.png" size="609" crc="b8f54941" md5="6fc83f3ccb8146670f5c021993a673c7" sha1="4fe49b86df1f256fb0db014b6c0349f95165464d" />
+		<rom name="laser-spigot\data\laser14.png" size="367" crc="9770f785" md5="e9be8cb6d95345ff5342a1419db0ae52" sha1="e26e878e42e58be9f7092c59c2996d9e589f7ca1" />
+		<rom name="laser-spigot\data\laser25.png" size="629" crc="f9455837" md5="5c36ff33b02995d6f1a3b6d12d2ecb98" sha1="29c2b92285be3940e745c1c32f2d9106eead6054" />
+		<rom name="laser-spigot\data\logo3.png" size="88512" crc="c022738c" md5="93b17c0cedcf75c5df091a59873886dc" sha1="9839855626016fd5a052d541a0edd3a24e29491c" />
+		<rom name="laser-spigot\data\pointer.png" size="749" crc="d32b81ad" md5="431f17c8df3d6b381385338988dc19ea" sha1="98850ffd1869706afefcbe09d177cdad1cd846c4" />
+		<rom name="laser-spigot\data\upsquare.png" size="2394" crc="fff8a5b9" md5="fc15e80c3de9096bd642485be1bff82b" sha1="75334153c554507781376bde04a7fdcff2b8b6ba" />
+		<rom name="laser-spigot\data\URWGothicL-Book.ttf" size="60724" crc="0a45ed1d" md5="21b7a5d0da06ef1f80134099185eaf0a" sha1="4970f7665445f5c7ed3f27078f921074bfde3015" />
+		<rom name="laser-spigot\data\Vera.ttf" size="65932" crc="35d39b97" md5="785d2fd45984c6548763ae6702d83e20" sha1="1d7f6fa0c34e3d50be52c16a0816bebac309fe41" />
+		<rom name="laser-spigot\data\VeraBd.ttf" size="58716" crc="620246f6" md5="4ebf664c986099acf6d151c62bdb24eb" sha1="55b5086473d9187fb18f17d44de9e828fed4de8b" />
+		<rom name="laser-spigot\data\VeraBI.ttf" size="63208" crc="73e36c39" md5="a99f3482bfc2d9c37b509e68d20d016a" sha1="abe70a9c343e608efa2cd206d73f5e3c1a728f8b" />
+		<rom name="laser-spigot\data\VeraIt.ttf" size="63684" crc="bb67fdea" md5="06ee45608b225ef0f22e94995bc981b2" sha1="484664febb916f6132b5c64bf499635a3295a5bd" />
+		<rom name="laser-spigot\ecl.dll" size="1559054" crc="29caa26a" md5="aff2680d1b3f9e3ce289041b67cfe81b" sha1="92adc1c5ef248eb88644f09464c18dd4d9363e1d" />
+		<rom name="laser-spigot\jpeg.dll" size="113664" crc="cb1b19a5" md5="481b3f2002e50304ab9d6415f3b39717" sha1="b07a62774b409b0d589df06b8c2c279d1497dbfa" />
+		<rom name="laser-spigot\laser-spigot.exe" size="643598" crc="0bb1a52f" md5="dd34ca58142f27270b36e10f23e17d89" sha1="d4e80ff5d17cc5fc57177af1699b946b32b0d451" />
+		<rom name="laser-spigot\libfreetype-6.dll" size="403982" crc="ef2dd58e" md5="d8a27ef4e013fd9d767f11caa3ada10e" sha1="350e07674f2a9ff396b5f15b5eba1c0c30458399" />
+		<rom name="laser-spigot\libogg-0.dll" size="16910" crc="bfbdad8b" md5="05a91b612b13f2c5d13befc96e083dd4" sha1="d4a1e1612253d2b238f9d9ac659b2a7fd52acb19" />
+		<rom name="laser-spigot\libpng12-0.dll" size="132096" crc="b938355a" md5="d17c77b979b5e51ede400d398d5f00fb" sha1="bc2e7dcdc127b2c695578f59f501024688d7f3fe" />
+		<rom name="laser-spigot\libvorbis-0.dll" size="158222" crc="a7761c74" md5="86ee50200188dc89b3c46c2ec649445f" sha1="0b6d3ddc53ade12b715b814228983e2c117763b9" />
+		<rom name="laser-spigot\libvorbisfile-3.dll" size="30734" crc="e27a7121" md5="dc22e48360762456ac3d1294e9cbcdae" sha1="0e43e91a4b7f89d98b94cd105912245308d8d119" />
+		<rom name="laser-spigot\README" size="14304" crc="89d3912a" md5="f6fcabed85adc4e39891584e85cdcf83" sha1="35bc2325cd62a83a0272339773647e50953fdd69" />
+		<rom name="laser-spigot\SDL.dll" size="324096" crc="f81d8816" md5="e6b94dfe077799d518f0c44efb2ebb95" sha1="61c764843b7be70029a88f7b3fc083919c9946f9" />
+		<rom name="laser-spigot\SDL_image.dll" size="43520" crc="143835dc" md5="d4946fc78634c9f7b53a4b14a9335ed5" sha1="5d0c0c6b5bb08efe8fee15ebdb8938148be03bcf" />
+		<rom name="laser-spigot\sfx\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="laser-spigot\sfx\beamin.wav" size="1923988" crc="5c754cd7" md5="a6670030a99de883dc685bd137e71c3a" sha1="a9a664d3f55a5bba0ae18ed9c72a3f817a20781c" />
+		<rom name="laser-spigot\sfx\beamout.wav" size="2107176" crc="739b9913" md5="ff902c983082c1b665e8906c0ecff150" sha1="27a86439a1d335ecf2e010f85d312ce350412758" />
+		<rom name="laser-spigot\sfx\blip1.wav" size="24392" crc="224d6941" md5="9863fe13a5a7cd7e5aba0f9d8dfa27b4" sha1="6d9fb51e1ce4333723e680d12120ff1c4605efa6" />
+		<rom name="laser-spigot\sfx\blip2.wav" size="23000" crc="6a2c1b29" md5="7b4c3b911b875e4aa693349988789fd4" sha1="ab5e6c75efdd9c68172319c5c5619f8264715ee8" />
+		<rom name="laser-spigot\sfx\blip3.wav" size="21688" crc="04741934" md5="d92f4b94ff8f6911a0d3aa4b2f56675d" sha1="c0c6e245b7e62b7758e5802d8322804f6fadb6ad" />
+		<rom name="laser-spigot\sfx\chime-high.wav" size="384284" crc="a0c74ec5" md5="d8475f58828b730feff4e21ac6bc4571" sha1="69dad3cdba122b23bd1d08537da4175ec9aa1f22" />
+		<rom name="laser-spigot\sfx\chime-low.wav" size="384284" crc="3b426c49" md5="13296bdc65540f2ecf5a1c65b96f404d" sha1="64a9106137a7835248924d5f6d7ae97d16058d74" />
+		<rom name="laser-spigot\sfx\chirp.wav" size="95828" crc="4a4bb240" md5="c571ebe84489cdc92a5e6d453e0cb0b6" sha1="6314cc89d22e5a1005e00a81c97ce9a9607cd8cc" />
+		<rom name="laser-spigot\sfx\click-high.wav" size="2252" crc="3f471dad" md5="a158b398341bd4b1e0f38a6895a6e61d" sha1="5a0c180e6551f65cad4dfa7ee85a07126ff65ac8" />
+		<rom name="laser-spigot\sfx\click-mid.wav" size="2732" crc="1160a327" md5="21f3da4551f131effe066301205fe67b" sha1="bfb019f6f1f136ea16e15661a72aaa51846a81fb" />
+		<rom name="laser-spigot\sfx\close1.wav" size="32812" crc="1a475a56" md5="cdca67a7692d509f23c2f25926e0fda1" sha1="4213526d9d101d8bf6297ae4987fcfa434e0d153" />
+		<rom name="laser-spigot\sfx\egg.wav" size="131116" crc="5aa13961" md5="5721ca95dbad2ae2dd7db95fd640df3d" sha1="624c97b2c76c66fc3d562965aeee890d0ca3250b" />
+		<rom name="laser-spigot\sfx\explode.wav" size="435520" crc="4a359ae7" md5="c8a5e625f9e991750cd7d6dffbeaea21" sha1="914bd92827d342fb80326c7404356445bf189b3d" />
+		<rom name="laser-spigot\sfx\foo.wav" size="2600" crc="1c045891" md5="4b0d24f33a9f3ebb151394820b1083b4" sha1="5e47074d903288e5ed20b849087941e77e9cd3a3" />
+		<rom name="laser-spigot\sfx\foo2.wav" size="2316" crc="5eec34d9" md5="25b6f40477a6ba1d7620932e3dbbcc23" sha1="42ce59f2ae0d0a873bf729cc2cee05a50c6b21f1" />
+		<rom name="laser-spigot\sfx\hit1.wav" size="74616" crc="4c606944" md5="cf0eb4712d209417289c24a2aab4b6fc" sha1="fb6c96fac154135d5f2de3f36813c4e714636615" />
+		<rom name="laser-spigot\sfx\laser.wav" size="32812" crc="370e1658" md5="d03bbe6175631648cd340dd7554261e6" sha1="92b16323917ce5ab1bed1c4fdef167eff43b5853" />
+		<rom name="laser-spigot\sfx\miss.wav" size="16428" crc="12b65858" md5="c2e289a31b87443b6a6c9655b6e75f6e" sha1="96d00191f6e1009b05b9e26edb06cc19e70c63b9" />
+		<rom name="laser-spigot\sfx\open1.wav" size="32812" crc="a0d41b34" md5="ed1dd75e78d26322df36ff2a0e42b026" sha1="342cc2ca30b3315474df4f6ad923675e06c8130f" />
+		<rom name="laser-spigot\sfx\repair.wav" size="70668" crc="d05482f6" md5="71be372da8fb69b2a43ceb5253b563ed" sha1="5a2bc91cf25e21b2041d346fcbede01b0931df68" />
+		<rom name="laser-spigot\sfx\step.wav" size="1364" crc="acd2374c" md5="fd35c852d8021b31b5b209cf9b448b33" sha1="c758512b8784b7bf5bd283c4a00b150ce3da5a58" />
+		<rom name="laser-spigot\sfx\step2.wav" size="1484" crc="82ee4eb7" md5="0d55554263da15f699c3d8d70599c9ad" sha1="7ea6a1dfbac9f0c3e739928f24dfa185548bbd8f" />
+		<rom name="laser-spigot\sfx\transport-back.wav" size="325980" crc="d6920dd7" md5="671d1bf6cdede6d61cc3726ccb9d6cc1" sha1="ca912e2b51e85041318fe635a0d604a3ab0d4766" />
+		<rom name="laser-spigot\sfx\transport.wav" size="436624" crc="d2f164a7" md5="234eef69ba4847dac9cb34e6c6cecdee" sha1="26850df8ab99f9f0a235fae183a7c26de8840e31" />
+		<rom name="laser-spigot\sfx\zap.wav" size="86508" crc="c9a8629c" md5="ea0e971def928a3085c3bb1556aafdf4" sha1="c99a0adc18efae21ca78541f8853b16082340002" />
+		<rom name="laser-spigot\ucd.dat" size="102258" crc="784a11a2" md5="f9b59b340070e6fdd6acf1c3a983cad8" sha1="9b9035fb5fee52ed8211c6b1eb4c2751fe2c6991" />
+		<rom name="laser-spigot\zlib1.dll" size="74752" crc="62f2b57f" md5="80ff72995dc5f5184cbd11df277051a1" sha1="3901e7aed5654a6466b293c5fddb0e16216375f2" />
+	</machine>
+	<machine name="last-of-candle">
+		<description>last-of-candle</description>
+		<rom name="last-of-candle\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="last-of-candle\last-of-candle-20100313.tar.gz" size="40757" crc="5c5c41da" md5="59915ecfe99eb217899dea0182ee5889" sha1="e8cbaae01a2f36b4874188da53b3cca1004f2a2f" />
+		<rom name="last-of-candle\last-of-candle.exe" size="113664" crc="5bf1420d" md5="528b5e392d29504f368b13c670cf7e71" sha1="8f8246bb5a852f26c72b6bcf9de9423fb01159d3" />
+		<rom name="last-of-candle\loc-win-hack-20100313.dif.txt" size="4739" crc="971b9a42" md5="ffe6d9f2ff800a232ddfd125bc9d1030" sha1="57423e97abd70862222b5e57a4c248d5a1fa30fd" />
+		<rom name="last-of-candle\readme-windows.txt" size="285" crc="a3ec9c87" md5="a032b664e20adfab7164774d066ca878" sha1="de208513c902c845c0cb6adb72fa0cc5b2e99bbd" />
+		<rom name="last-of-candle\start.bat" size="22" crc="f9b8a917" md5="8623f67fe4249c7c58a1c9dc49258fe1" sha1="55e742284da57342fadf7f3cb2ecfc89dc105b8d" />
+	</machine>
+	<machine name="Madness">
+		<description>Madness</description>
+		<rom name="madness10.rar" size="1559723" crc="0e1e9d24" md5="cd2a3167c735f06b35a7b351f6a07432" sha1="1e553f7b67280c178ba5e23ac05c52638945904d" />
+		<rom name="madness10fix.rar" size="1661336" crc="17dcae36" md5="7a3e8b4725ea387bedfd098186bf2784" sha1="55f50f314874437001ca9e372c88d07ff03f6a57" />
+	</machine>
+	<machine name="math the roguelike">
+		<description>math the roguelike</description>
+		<rom name="mathRL.zip" size="24495" crc="e12b6ad7" md5="4eb29494db7bf6eebcdb6a6ac5f69fb0" sha1="90ab3ced1a5bd096c858e81c67cb43ba23325ff3" />
+		<rom name="mathRL_fix2.zip" size="37527" crc="02caef41" md5="85f518d35e4b66f4bd936a3af08e31a5" sha1="867ee5837689a8485353d95a1fd5561619548a93" />
+	</machine>
+	<machine name="PrincessRL">
+		<description>PrincessRL</description>
+		<rom name="PrincessRL\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="PrincessRL\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="PrincessRL\__Doc\PrincessRL - flend.net.mht" size="15692" crc="b7221807" md5="4046b71347e5d67692439d8e4f161bab" sha1="95d70af3464ce1fa0219b40953eac13c289fcce9" />
+		<rom name="PrincessRL\__Doc\PrincessRL - RogueBasin.mht" size="19323" crc="029b2791" md5="bd22d2fd226c46ac0ab5503b1ba53b9e" sha1="c9c4bebdbd62cbe9db57925a7a3380437ff5752b" />
+		<rom name="PrincessRL\libtcod.dll" size="113664" crc="b9c8a81a" md5="ad87108aaed711e41b7952aff237ea11" sha1="871afae898fa8df3a731fab4cdfb039847b1e026" />
+		<rom name="PrincessRL\libtcodWrapper.dll" size="50688" crc="71afcede" md5="99007ae8f2be6743d8ebe63660360795" sha1="70122812ebaefaf270b4bfedf9835d467eb76cef" />
+		<rom name="PrincessRL\PrincessRL.exe" size="480768" crc="640cf23e" md5="9a6f07794b0c64b777752d10a9cc4007" sha1="91ef424382d0a222d6e20726856cc51302fbb74a" />
+		<rom name="PrincessRL\readme.txt" size="1461" crc="33972227" md5="af79fc6ddf076fb7111604885cde93cc" sha1="448346875b0c07facdc2cf7cc422112a30d83fc5" />
+		<rom name="PrincessRL\SDL.dll" size="135168" crc="52751c3e" md5="1f7191f8c9218fbf6e08ad6562375f6e" sha1="d3f4ce3e0c092b28fb22d3d6627013b7540ed81f" />
+		<rom name="PrincessRL\tallfont.png" size="4889" crc="ccb7b63f" md5="b28a6d9057eddd378bb6c1b60f639e9c" sha1="d5d19e3990bc00c9e1ddb5ad896e0646b642d76b" />
+		<rom name="PrincessRL\zlib1.dll" size="35840" crc="27ce51c8" md5="ecce1e175a390260bbeb169b4768bb7f" sha1="bf5b30cc2c2c9b46e9513655222b38bc7c39999f" />
+	</machine>
+	<machine name="Quest For 7">
+		<description>Quest For 7</description>
+		<rom name="QuestFor7" size="125316" crc="044e8e07" md5="bbb392276aa0a7e2a7a70aed3b8e6681" sha1="917704e436a81d61764c290eb15d163920e364d0" />
+		<rom name="Source Code.zip" size="102704" crc="60442884" md5="080b9c55fc9c072222e0a1ae5dd0d84f" sha1="eb5abb1f4579c20329bfec44f9942b47ebd57ec2" />
+	</machine>
+	<machine name="RogueBand Hero">
+		<description>RogueBand Hero</description>
+		<rom name="hero\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="hero\actions.py" size="4116" crc="f4a364bb" md5="e5b6e592035c1d4dd6dac5aff9145d8a" sha1="483ed847bb8a269e9eff053301a63a40c8aa98d4" />
+		<rom name="hero\actions.pyc" size="4371" crc="e5eea380" md5="564f9d3ad03e8901ba93ce064dd0cf11" sha1="5dc57e4363dfaeda5818702f3d4515dd7205d666" />
+		<rom name="hero\armor.cfg" size="1308" crc="6ccdc238" md5="c400c6a2f6987dc1bc0b5745944dbbc5" sha1="8636d07ff20d3652b958270349db4098355eebd1" />
+		<rom name="hero\back_b.png" size="64166" crc="1ff6d65d" md5="163d469786bd3e61985e943a3d796279" sha1="41b4b9fdae1012743dcb38176f18dd34c8f35943" />
+		<rom name="hero\back_g.png" size="57156" crc="eac78b99" md5="a586ff97765aa066a4f1538f8f05a071" sha1="058d42605467135a6e8015b39513ecb80b6a8d1a" />
+		<rom name="hero\back_r.png" size="46952" crc="ae946f4d" md5="1fe25ac9dacea82660c3049a3d96b9fc" sha1="5a015860f126ce0a654944b6fe53bfcc8c1ebac8" />
+		<rom name="hero\console.py" size="7941" crc="43ce7b5f" md5="356d4bb8b9a7090ce9543a143ab3f1fa" sha1="12f4c0a0f404e9c705d7f8922b140bf420018c1e" />
+		<rom name="hero\console.pyc" size="12850" crc="3afa76ba" md5="b80cb01fc16084884dcf2912fa0a45bd" sha1="a79263067606647ada054ea727e20a082613a856" />
+		<rom name="hero\effects.py" size="4652" crc="2c212326" md5="51f11d1f27be9906b6e7f6efcecf07ae" sha1="e1f356db0167fc338a4ca6b6cd659dc6c709cf9a" />
+		<rom name="hero\effects.pyc" size="4013" crc="cb5952fc" md5="1481d1045fae5fc333f23a9cfe251223" sha1="0ed5f9f9251b2c208c495001ad06debf84e43108" />
+		<rom name="hero\fonts\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="hero\fonts\arial10x10.png" size="14870" crc="12db71e2" md5="926f905ce6d3fd58b766b2045dd48a1f" sha1="10a3bbe47b78c112fd08a37ce57f6a14ae150fe5" />
+		<rom name="hero\fonts\arial12x12.png" size="16364" crc="dffe6d8a" md5="e4bbc64d08d34c666e3a999bef227597" sha1="801cd6059db9d5a508583c05a2cddc6dc409aeab" />
+		<rom name="hero\fonts\arial8x8.png" size="11559" crc="091c5717" md5="974c94bc2f85e962009d2f17f9234aa6" sha1="2703b89358a87e2daf1ea3694c5c87ff706187ba" />
+		<rom name="hero\fonts\caeldera8x8_gs_tc.png" size="6882" crc="b227bcb3" md5="d6e6bd40045f4a96fbde84408069f0df" sha1="c2919096f5354f9b4f02c3ab194b730c0ed8bd27" />
+		<rom name="hero\fonts\celtic_garamond_10x10_gs_tc.png" size="8558" crc="aee68af8" md5="0758ad7bfc2c0e275ba913ba29425225" sha1="041f952fd6c62c298b9b34eba4477407c9a3aede" />
+		<rom name="hero\fonts\consolas10x10_gs_tc.png" size="8651" crc="6c62e9b5" md5="fbf376b2b0c469185cfd81f416680a2a" sha1="23b8550289cbc1ae87c640096cd1f1654543e0d9" />
+		<rom name="hero\fonts\consolas12x12_gs_tc.png" size="8204" crc="dd077d78" md5="c5dfcf35709bd9d6f8bcc5a5b7524a96" sha1="b71b8705d2f79047ea883e2fde429c8ae7683075" />
+		<rom name="hero\fonts\consolas8x8_gs_tc.png" size="5936" crc="837cfe68" md5="2e18570b218a131bcaca3ab6430e2e7c" sha1="049d9fd0c8cd7b0602fd72bc5d78fcd661cc15e7" />
+		<rom name="hero\fonts\consolas_unicode_10x10.png" size="24558" crc="b0a0fcb3" md5="88dd3ebbb418eb751cb0f85823409052" sha1="05599745b41cd1ba7f1ee20c1be84519c6b96fd5" />
+		<rom name="hero\fonts\consolas_unicode_12x12.png" size="30673" crc="98bd4ba2" md5="f7dc9b732fe829ce419f67b8939a0714" sha1="3ccaea5ed2e3a342aad4b39e77e415313f1a280a" />
+		<rom name="hero\fonts\consolas_unicode_16x16.png" size="42003" crc="4745b140" md5="5f8a3021876a3b22d694146f2a164b16" sha1="f12b1936301ab3b61342ca93a830d0538bbe6a3c" />
+		<rom name="hero\fonts\consolas_unicode_8x8.png" size="50472" crc="07bbc6e3" md5="4f27aa527bf6a6c93f0a9f4620a71340" sha1="90ed8ed895465d85a5094721a8c073689cae4422" />
+		<rom name="hero\fonts\courier10x10_aa_tc.png" size="11760" crc="3dbafecc" md5="494dd3aa245983b91f0ca8e6edd208a6" sha1="1269c4b5997286f12618c45fe728f90e699d3750" />
+		<rom name="hero\fonts\courier12x12_aa_tc.png" size="11935" crc="3edc589a" md5="46af99165d1aff80409a16677d555111" sha1="8cc7eff397cf31e90cf2da22ec05998a07e74954" />
+		<rom name="hero\fonts\courier8x8_aa_tc.png" size="9126" crc="e0e01fd6" md5="4159ae80fb14dffdb227c7ef70a8ea17" sha1="725daa42ee1cfc6812ac3027281f364f0d7728e1" />
+		<rom name="hero\fonts\dejavu10x10_gs_tc.png" size="8439" crc="47ca82e4" md5="e8cc30c5d4a345d10c72a17d0088c40c" sha1="7ee5d0e07d9b7560be4d7a4aa0686af357ae64cf" />
+		<rom name="hero\fonts\dejavu12x12_gs_tc.png" size="7892" crc="f0a13c1e" md5="b6eb922185e37d1a534403efe90fd01e" sha1="d2371969eb313f2c4334c6da7c01e67b0c159811" />
+		<rom name="hero\fonts\dejavu8x8_gs_tc.png" size="5507" crc="5eda4cae" md5="9dd5b66669f9e1a5317d702b326c4425" sha1="af665d182cc5f8bdd1fa73fdf8b6215520c51c49" />
+		<rom name="hero\fonts\dundalk12x12_gs_tc.png" size="11591" crc="12da5784" md5="eb75733b1efc2256222456860ef63282" sha1="e79627bbc1a21d0f9cdd48f10bc5822f6df0316c" />
+		<rom name="hero\fonts\lucida10x10_gs_tc.png" size="8876" crc="eccfc399" md5="d2e9ecfa63f1bcc0b7e709b75df3c13a" sha1="ce65345710e15a3cc3dd1fb59b80994da16999a3" />
+		<rom name="hero\fonts\lucida12x12_gs_tc.png" size="8195" crc="a95a67e0" md5="add8ed90fa8fc56fdf10063318f3a2a8" sha1="c7106059106af2a4460a820253b082217f429ff4" />
+		<rom name="hero\fonts\lucida8x8_gs_tc.png" size="7712" crc="dbd6fa30" md5="cf5e41e48cf331f44dc337c6bef9110e" sha1="09cff9401f90f80888d9c384e96d6964158e5f05" />
+		<rom name="hero\fonts\prestige10x10_gs_tc.png" size="8090" crc="261847eb" md5="90d332c049912ab220b329684c51f297" sha1="d6f4067dd295344c64282547db3fb126237cdc3d" />
+		<rom name="hero\fonts\prestige12x12_gs_tc.png" size="7794" crc="d34d6cc6" md5="3ac0b262a1922c97cfd89c395ab37e67" sha1="dca541b2a7a543e2432e664f9d3ae89c0294d889" />
+		<rom name="hero\fonts\prestige8x8_gs_tc.png" size="5516" crc="193ad733" md5="b9d2e74387b8337e18601260426aff59" sha1="1a4142f88bba09cca0c06846df695bc5208c9e77" />
+		<rom name="hero\fonts\README.txt" size="1894" crc="356f3b13" md5="108984a2adddbe7a41605f506b41c946" sha1="0ff4267439a9b1d16e3eb4d534322c68cbc90f9e" />
+		<rom name="hero\fonts\terminal10x10_gs_tc.png" size="8804" crc="5bf64621" md5="1c650a7d84252a023173e40405f09bed" sha1="874fc1e4a20652168f69230f830424b001314023" />
+		<rom name="hero\fonts\terminal7x7_gs_tc.png" size="6971" crc="ef5b47df" md5="b491286c8a576e6f7493a1d76b911501" sha1="7859581194174aa5f319678bb45c823d71fe3ef2" />
+		<rom name="hero\fonts\terminal8x8_aa_as.png" size="3762" crc="ee005174" md5="e5b693419ec923c75723c37f413468d0" sha1="06bb1e194fb0bc2ce627fa90aac8b8a4b6e57785" />
+		<rom name="hero\fonts\terminal8x8_aa_ro.png" size="3844" crc="e2b32d09" md5="48da0cee737bc78bb63a19eb0269e472" sha1="1018b93ffa79d4678138e3f8f0d105ac21220ea9" />
+		<rom name="hero\fonts\terminal8x8_aa_tc.png" size="2288" crc="4080cbbe" md5="15b786b12915de2dd342ef23bafb3d1f" sha1="2beecbfa1b3e258afeb7d1509bb69afd58d9f87e" />
+		<rom name="hero\fonts\terminal8x8_gs_as.png" size="3503" crc="e09cdc87" md5="ea2ab801ce1975f38a47df308123fd17" sha1="10274b65b5f7b8940f19c744d0b25f8ce318fd09" />
+		<rom name="hero\fonts\terminal8x8_gs_ro.png" size="3696" crc="540f5393" md5="d8bd74ed62d982413d029244c35aad29" sha1="d112ab49afa3446efac83d76f2374f06ab738577" />
+		<rom name="hero\fonts\terminal8x8_gs_tc.png" size="1984" crc="aa5af654" md5="d0fc605b03fea8b553485d14a72523b0" sha1="0b7a8e5690f074aa6f20bd9d0f5d0bc253a8624d" />
+		<rom name="hero\hero.py" size="7571" crc="e1620883" md5="51d04eb30ed7e0a38a6acf03d08f9735" sha1="3f73f42878d28f32003af3cb31ec03887facc06a" />
+		<rom name="hero\image.py" size="3064" crc="95f1e1df" md5="30134f1e3cda6a2f914932b54fd1ee89" sha1="daf05757b16f939e628ae0a398a8719874c6a3ad" />
+		<rom name="hero\image.pyc" size="5263" crc="a80cf567" md5="58aa8e6b8b15470018aecd524f962bab" sha1="1c7183de873a9b5486bb13cb4826d3656d1c9156" />
+		<rom name="hero\intro.py" size="3568" crc="90ddb9fa" md5="cbebdbafbc504ef996b9aa758b122709" sha1="6d438aec676307a8ef7b33febc9c8f1e9d818e37" />
+		<rom name="hero\intro.pyc" size="3820" crc="ceeff2f9" md5="d9e184387603dfbc852c391592af1fee" sha1="b483121497a0dcb23669a5d8aa19c2b365cfb00d" />
+		<rom name="hero\libtcodpy.py" size="47592" crc="b80ef492" md5="6b44660a58a2a1a46b57a169609f0c73" sha1="bf82fbbdca16021f1482c2c5aa508109fabcf33d" />
+		<rom name="hero\libtcodpy.pyc" size="69901" crc="b2bf6e80" md5="9088c95bf70c49ce7a43f071e6990e0d" sha1="c8dc3d6dffbded447f2172a0044e80203f2937ee" />
+		<rom name="hero\lights.py" size="1687" crc="ee47f86e" md5="f6b791b6651d6c3f01d91b4827cb248b" sha1="385b0e5c3321289c3f5c23a826d86950697f484c" />
+		<rom name="hero\lights.pyc" size="2233" crc="d1992070" md5="68e84725c302076963b690220f71dd88" sha1="8e388c6544413672702fdaa92c70912982f42c66" />
+		<rom name="hero\menu.py" size="8125" crc="a0c26f66" md5="c5196e502065cabe7f5624c99a0f27df" sha1="5a7fd6084c1187e08cea476c3a497ff5ab260aac" />
+		<rom name="hero\menu.pyc" size="6419" crc="f25da433" md5="a792baf0b904eceaa730e16328862a84" sha1="75e7598db03c77e38e9057a176153b5fd9cdb178" />
+		<rom name="hero\monsters.cfg" size="3195" crc="7f579e0e" md5="b573331b4382c024d94f20ef57ecf538" sha1="07c7a5724801f939e8f99b45e0f1d45f39a1ab19" />
+		<rom name="hero\music.py" size="5902" crc="f534caee" md5="b443bebb0437bfeb3816e3c738f87be7" sha1="341f0b89111d744ee84e9f50c17fa70a7d4f3a7e" />
+		<rom name="hero\music.pyc" size="6935" crc="dee8bf76" md5="7076da13bcfee2f0c1edffc26914aceb" sha1="a285f79303d16decbc255823830be01138458320" />
+		<rom name="hero\objects.py" size="21291" crc="c9d7e693" md5="4b660ed88981dd1ddf46e01bd19a3289" sha1="4a47cbaefe66d68e8c9df72e28ce89796ab5d7df" />
+		<rom name="hero\objects.pyc" size="23231" crc="d08db5fe" md5="03f7b7f990f50215594333b547229490" sha1="8a522e96c8d1cfd9ed0fadc13ea204f13ff29266" />
+		<rom name="hero\results.py" size="4099" crc="b6baa197" md5="ccba35d5429957aab9b0bfefffb78b52" sha1="292415cf055f72ec0e5c0801202fe104e28efb6b" />
+		<rom name="hero\results.pyc" size="3541" crc="ac92c061" md5="94fdf8018ae78008cf1a2b052070c592" sha1="62fdd7e1019608e99efb92a184999c9a457e6fcd" />
+		<rom name="hero\rock.py" size="16985" crc="c8f955ae" md5="2b154af63095c1db1ef2e26f00ed5537" sha1="bb79d9df1696da8a795e91a2de55e732621b0268" />
+		<rom name="hero\rock.pyc" size="14782" crc="b56be170" md5="c4de3ae917e3d4ac6bed1969677dc124" sha1="df2d4751fe41c25436c0d7f914cdff2678fc2ab4" />
+		<rom name="hero\samples_py.py" size="68597" crc="c2514c6d" md5="cc2513101a8ae11d648b070d08f4d4aa" sha1="03414d1dc4facc2ee7a63ced67c4c9b684b5f00d" />
+		<rom name="hero\save_quit.py" size="3538" crc="88f8e92e" md5="8a1e51e23a57ffa2cfe230bb3d0ffe1c" sha1="2c7193fe7ffba109eb2d18306bd6354bd3ec147b" />
+		<rom name="hero\save_quit.pyc" size="3707" crc="f38f84b8" md5="053b3f7be4ebbac05429f33e0e004677" sha1="dbf07578f97b5a139e10aa16a074acc023c2445f" />
+		<rom name="hero\scores.py" size="2356" crc="874b883b" md5="7eb467e79c973b5ba35c8649ab55c400" sha1="ac3354d882f21f91ef78932460aa0bcda635fc45" />
+		<rom name="hero\scores.pyc" size="2935" crc="483a6263" md5="4cbda00421a8bfe46bdfa12612b68c65" sha1="09ad26af730fa7d65ff6ee68ce48014009f8d66a" />
+		<rom name="hero\songs\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="hero\songs\beet5.dat" size="210" crc="8802d9e5" md5="51123cbd5a17351b7b86c07ae4add87e" sha1="8a3e60c992d926189866ad33e4d76edce162ace3" />
+		<rom name="hero\songs\buns.dat" size="185" crc="3ca59989" md5="e7ab2aac6ad67250bd4d1c5fa133ac51" sha1="594518cd2ffaf12ff1c6a036ed329bce53315302" />
+		<rom name="hero\songs\iron.dat" size="306" crc="e27143bd" md5="f90a09c7347ed7ed23e885db1bd1c83d" sha1="38d6d817083378f68930d987d699b1330fa68634" />
+		<rom name="hero\songs\joy2.dat" size="194" crc="26c19668" md5="f9cb38d98fba5bc22823ea618f556859" sha1="a2c9a31c978c7fe17147fec6ce73a2f69737fdf5" />
+		<rom name="hero\songs\march.dat" size="310" crc="1d8aaca6" md5="c4ef85ef855379bc65dc62351a311ec4" sha1="9c58cd7bb661104575d3832b36ebeb92ecebb80c" />
+		<rom name="hero\songs\scale.dat" size="111" crc="539bb6c2" md5="babe6b01b146c52f8c0008bc6156a484" sha1="2a522b0986d2d68cfe8f47830a6dd68eb260361a" />
+		<rom name="hero\songs\star2.dat" size="282" crc="a6b15269" md5="9b8562e989c0ff945934ca083d82f0b3" sha1="1402be13bce277e60569faeafea0bf25a64e8cdb" />
+		<rom name="hero\sounds\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="hero\sounds\bad_0.wav" size="90216" crc="438792e8" md5="a0e005b9e013a65c75674545a5355fec" sha1="59de419933bfa85e33a0c459e4c8a66893114c6f" />
+		<rom name="hero\sounds\bad_1.wav" size="204632" crc="53f7db1a" md5="8a292038041b07bb97c51f2e021caac7" sha1="b35400ee1b5d876fe572b6e90d3176d32013f1b7" />
+		<rom name="hero\sounds\bad_2.wav" size="88888" crc="97b0cd70" md5="5377ebcdd820c7452f0673bbc611fe42" sha1="f54fa00a36d08cb96d702b722df4de46032533ae" />
+		<rom name="hero\sounds\bad_3.wav" size="107116" crc="9fc9b6f1" md5="7e969e43838bc80090aa6d7a04748c4d" sha1="83f2d2baeff18dda882d9080904aaf1a532b7eb7" />
+		<rom name="hero\sounds\bad_4.wav" size="106188" crc="7c832ef3" md5="15073965badac4a6daed6d28d87bbd7d" sha1="20808862f35e1ca206d49b65d9baf801ae4b51a4" />
+		<rom name="hero\sounds\bad_5.wav" size="130056" crc="be85dd57" md5="812f7bbd4d21ccb457a4512f390d7451" sha1="4f16cdfb2e8f7560c632dac4da07e7ba1eb6d340" />
+		<rom name="hero\sounds\bad_6.wav" size="100160" crc="b739b4c1" md5="0a380a9ee37caa04977726ef433a3c11" sha1="fc0ed88f7db23f3ab248ed72f0f091fc98ce4166" />
+		<rom name="hero\sounds\bad_7.wav" size="199556" crc="2efda661" md5="0d4bc5ea24bf5de8a188871f62d48280" sha1="5d9f97644a1fc88b87eb8520a04b7c35a36da04e" />
+		<rom name="hero\sounds\bad_8.wav" size="121624" crc="80eeb55e" md5="3e3f347eaa0f176d4fbd1c61e6d4ce51" sha1="5e5757d4cd4cc9187d72fcd995b81489f79db2a1" />
+		<rom name="hero\sounds\bad_9.wav" size="100396" crc="5492d552" md5="d94c55f1f3a7ee0bee773b63b9ca67fc" sha1="8919d5bada9d689194b8495a4f6fc416cff4018a" />
+		<rom name="hero\sounds\bad_a.wav" size="158588" crc="660d4829" md5="ccaa7e98061061df8d72b57ac33a30e1" sha1="a0e5a8bbdbf4fd608caf58c3ed1c7f209fd7d0e1" />
+		<rom name="hero\sounds\bad_b.wav" size="90064" crc="cb0c7263" md5="1e3b24e987a289b19b00afec9cfdfb48" sha1="7c0f3a93a7c4e6e49887037bf48e39b03102a706" />
+		<rom name="hero\sounds\bad_c.wav" size="493096" crc="787c0984" md5="5a6b40c86f95d906f77fe783c352aae5" sha1="9f5a4809aeae18b2d11a0597fe3249bf6136ff49" />
+		<rom name="hero\sounds\credits.txt" size="60" crc="08c65510" md5="81c0912c0d332b8a89a44e63293a5e26" sha1="10ab39ecdebf1d12e8ec0ffffe4ab781a9ab23c1" />
+		<rom name="hero\sounds\event_bad_end.wav" size="450604" crc="00e6d149" md5="195346dcd5580ab7376731f744c289b4" sha1="ecea8299334798b17997b0366b9c814fe54aaa6b" />
+		<rom name="hero\sounds\event_equip.wav" size="672468" crc="460a0724" md5="a1f1404a99070aa3a4db4758914ae5ed" sha1="0c9d16e01c4d15737d7ccea5932b60122be120ce" />
+		<rom name="hero\sounds\event_exit.wav" size="798764" crc="d8ddbddc" md5="a90609d7e994481efb423406baa81a9d" sha1="1ec26e073966825b865ae16952212d95214fa879" />
+		<rom name="hero\sounds\event_good_end.wav" size="1405324" crc="1c43d707" md5="59bb8d773544af662e1d5df5b2d4b5f0" sha1="f00725b7427c1d977ce2c460d1dd75b2aa5c1fd5" />
+		<rom name="hero\sounds\event_loading.wav" size="1245228" crc="d6b2313e" md5="8207c3265675be3786357e180e2ed2c3" sha1="566bcaa75485ca996126d8ab1bad28d6169c355e" />
+		<rom name="hero\sounds\event_okay_end.wav" size="1996844" crc="1401e2dd" md5="de70ccbc3109e7947fc7e2b7abd730a6" sha1="bfb2437bfa20be884fce67f3dcf3f390b571efe6" />
+		<rom name="hero\sounds\event_save.wav" size="1108012" crc="3dd9c07b" md5="21bc3bda77e3378949b4db4b37ea7c5a" sha1="a64d93735bde4f0fdff268d9a1a043d9840bf731" />
+		<rom name="hero\sounds\event_song_begin.wav" size="1275948" crc="48965c42" md5="b730bab949e716069079635aae34d4b5" sha1="746ad93c769aba6255bd340eb215ebf9929c3847" />
+		<rom name="hero\sounds\event_start.wav" size="1682476" crc="25d36c4e" md5="3d3191e0b526c4e4375a73944be8ddd3" sha1="9234895947de9ef59e12b0e7811364b683149d3b" />
+		<rom name="hero\sounds\note_0.wav" size="1520048" crc="29aac7c8" md5="b903d9a3a9fd0e40acd424663e645816" sha1="fbd2e52258aa63fdcd0d9d9f6807b0be05731808" />
+		<rom name="hero\sounds\note_1.wav" size="1413636" crc="8e190797" md5="4c904d53f41b45b2a8e8a58f1c9f8da9" sha1="90572b10bcb11b9f3079a894a21ad2b9a8b700b4" />
+		<rom name="hero\sounds\note_2.wav" size="1683028" crc="e41a8f08" md5="d76eb6748d96df8d76fee5f833c8c06a" sha1="8eb69424571291475f8b04688a19a02455d5a7c0" />
+		<rom name="hero\sounds\note_3.wav" size="1639160" crc="54f72726" md5="ebb2af1649788ec8c65f5971c1e11608" sha1="0fc7533b5a33950fd2fd0c9707d2340cf4e6d32c" />
+		<rom name="hero\sounds\note_4.wav" size="1343744" crc="3f0ba5dc" md5="4c38d4696de66279c1a67c24c2ba1e2b" sha1="ea7aeda698eba44f5606e0b4b98173ea62d907aa" />
+		<rom name="hero\sounds\note_5.wav" size="1700752" crc="9be5f782" md5="c721cb50cb49bcc886b08dc57ee1968a" sha1="cd8d66b317cd423d977ebe793663445d84891fab" />
+		<rom name="hero\sounds\note_6.wav" size="1809104" crc="0e767bb6" md5="4281a4a0b46e1e5ef9d6a7041fdd3af7" sha1="b63949a8513f343d3115f737a4c389d095a9b900" />
+		<rom name="hero\sounds\note_7.wav" size="1794712" crc="931f29b5" md5="1a3ac5e1c638bd19046d7a4e7e186894" sha1="d83f5f6e5268947485d862f0e776b85c2f1bba74" />
+		<rom name="hero\sounds\note_8.wav" size="1239300" crc="f313c4cf" md5="7d8dcf1636572bf5582a0a4ddd7b4eb9" sha1="f6b71192d05916c90d8b9b5d710929658bdaf9dc" />
+		<rom name="hero\sounds\note_9.wav" size="1371004" crc="4894313b" md5="071943814f4cecd4a910e8340c3ff7a4" sha1="9d49e15de4befdd58c7bf1d732dc04aa1428416a" />
+		<rom name="hero\sounds\note_a.wav" size="1150584" crc="4cb35430" md5="cccd483d359f568cc8c1b766fb179128" sha1="56c393ca04115f8079ade7ddc05ad4977054b691" />
+		<rom name="hero\sounds\note_b.wav" size="1320020" crc="317f1e07" md5="5083a26be046588e428d2120df7afcdc" sha1="60ca0e153e420c3c0a4996df3bd0c05aab7cf99d" />
+		<rom name="hero\sounds\note_c.wav" size="1363668" crc="76df26b0" md5="f23f3c0a09233df47f5c23e23d1a9181" sha1="2d1bc4b74f75be57169bcd942a2dd9fd9e389b24" />
+		<rom name="hero\splash.py" size="8158" crc="7a2d5435" md5="e8d9a6a4040bf334669a084580fb6e95" sha1="abd2fd130e125cbdea1278683943dc585d394d39" />
+		<rom name="hero\splash.pyc" size="7600" crc="4c66bb76" md5="b777b9b24ef6f48824f1d78465d718be" sha1="70b522a1fbe8acef970c298a2d0de9a82b4ef003" />
+		<rom name="hero\terminal.png" size="3150" crc="2f01e925" md5="c4a24dd4390ad275c8aad7905152e7b0" sha1="b18a1b08e002a49bfc3476027b5ea7b13dfa5e3f" />
+		<rom name="hero\town.py" size="8809" crc="6b63f071" md5="72f9f262ea424e9d7cb5b9a6eed9862f" sha1="52e65781d842b01b61229238cd9b4706e599fefe" />
+		<rom name="hero\town.pyc" size="7128" crc="370c3f0a" md5="933444fee672d3cf8101ffa5dccb9386" sha1="0041f527eba8979f01748690025dc6f204f3d52f" />
+		<rom name="hero\utils.py" size="7168" crc="cbbf2ad5" md5="4dee4053c9138bc2e495981ce39f0444" sha1="7b1f479a398c449693611de752c7f6582415d7c8" />
+		<rom name="hero\utils.pyc" size="7819" crc="25acb31e" md5="04805384153c9700a5c78c54e1b6e8ef" sha1="ec70e36c011393cdf7997c772efaba691601a2d0" />
+		<rom name="hero\weapons.cfg" size="1138" crc="e86a945f" md5="23f04ade458935a5b4248940d59c71b2" sha1="58e7b6b171bc36768c618b352861d67ae99459c9" />
+		<rom name="README.txt" size="856" crc="fcf60ab9" md5="0c40bca8f36d925ca82b2994777f3aab" sha1="8a3fee90bddd84ee98fdf2b50d0576af9e1d69ba" />
+	</machine>
+	<machine name="ruler7DRL">
+		<description>ruler7DRL</description>
+		<rom name="configuration.properties" size="215" crc="5e8cf33b" md5="9619e98f562d8c1c2df87c538a5e773b" sha1="97fb94e47bb9462465d1917d19bf6a6288e9236d" />
+		<rom name="lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="lib\basicPlayer\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="lib\basicPlayer\basicplayer3.0.jar" size="11093" crc="c61e8a0b" md5="a036b4084e7b5462e066440eaf7a42f7" sha1="f38f8c082a3d408b0ac0b4200385eaecde18b951" />
+		<rom name="lib\basicPlayer\commons-logging-api.jar" size="26202" crc="8420e4e1" md5="0b98e0895cd4e66c3eb4c511de112163" sha1="544f72427e94a5c55b65a9b81c55c54059b4f993" />
+		<rom name="lib\basicPlayer\jl1.0.jar" size="105446" crc="e5f6ded9" md5="beb5af7c8e02649ca6d22514d9ecab52" sha1="2020d545657508bd82beab00359dcc50996b875e" />
+		<rom name="lib\basicPlayer\jogg-0.0.7.jar" size="6839" crc="c7fb0f2e" md5="9d1946211b6e5ef66fe088b2432355a1" sha1="7b8eff12a2e93fea919c3f9494d5ccad9e193c8d" />
+		<rom name="lib\basicPlayer\jorbis-0.0.15.jar" size="58917" crc="1c380ad6" md5="5919b38077fa66784365140cc17f027a" sha1="8010acdcf550f7c5d5ac64833fffa008e22c18f7" />
+		<rom name="lib\basicPlayer\jspeex0.9.7.jar" size="99833" crc="d9d31a7b" md5="b6eb6f7c64dbcd511ba8f90f2de6370f" sha1="5fd8184cfea4c5aa4e3c14bb3d21fd83539d6f47" />
+		<rom name="lib\basicPlayer\mp3spi1.9.4.jar" size="24538" crc="41941d96" md5="09dfea6a70016b65c29b9dadbf8cad45" sha1="beccb1a3e766d0bd782a174d7cca0a47ba3b89d8" />
+		<rom name="lib\basicPlayer\tritonus_share.jar" size="102723" crc="7b707f07" md5="b7f3080b2fa82e588cea7f46cb1de496" sha1="2d30f1554a0a0cc8b580e18399b5d1121c7db383" />
+		<rom name="lib\basicPlayer\vorbisspi1.0.2.jar" size="13776" crc="db2a6e8f" md5="00167d90e7012907cbd01dc2e11a9b3d" sha1="69800ea7dd35891e00ee02d6989a526dd097b1d8" />
+		<rom name="lib\font.scb" size="3" crc="25d02444" md5="323ff9fd9f22e6e555eb1a41ad6f64d1" sha1="d15228f1fe7aeb31d230f5e424a3ae30a5beb921" />
+		<rom name="lib\jcurses-x.jar" size="109739" crc="d5445647" md5="806d4fc11c96086039f8f0802ba6ec75" sha1="ff05fff33e99746a099c89044ec6870b43e50c55" />
+		<rom name="lib\libjcsi.jar" size="133342" crc="3d9df454" md5="c06291e8ebe001718205d1defe6ca925" sha1="d3c1cec6fc7ea81a35dcd5a85d59dcaab29670d4" />
+		<rom name="lib\libjcurses.dll" size="59392" crc="d1f97475" md5="0dde77c3b8d585b56e31485eb42bc710" sha1="386cc925113d63f7668a82cda9f34f8312dce004" />
+		<rom name="lib\libjcurses.so" size="24099" crc="bd9970ae" md5="f3e340befe9d0eecd5880f9dc5ab4a37" sha1="4c9e34c12c31e384e6290f724144a8a9e654b712" />
+		<rom name="lib\serf0.8.jar" size="195914" crc="64e6951f" md5="af949b8d92000550156ebecdf63c52c2" sha1="907cbd28d72537eed3e7e01872c530bd102990a9" />
+		<rom name="midi\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="mp3\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="mp3\NomadsDream2.mp3" size="1783808" crc="e0b22aa9" md5="10e9a1d08cfea998394660a207e7d170" sha1="cccf3b3daaa151fff7cc0cc85d2c9cb8d1d4fa6e" />
+		<rom name="mp3\TheRoseAndTheSnake-RulerEdition.mp3" size="3424407" crc="2e916576" md5="a081a561e42dd13be1a532529c119063" sha1="c1304ceb0ad395f7586b0f3f781be99a6dee81ce" />
+		<rom name="res\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="res\MONOFONT.TTF" size="33896" crc="62d63049" md5="94fe7e5b99eb8d6004c1c4cd0412ae57" sha1="cf0e10f60a2c88708913d56e5da9fae8b95459cd" />
+		<rom name="res\read_me.html" size="9159" crc="b2b72fd7" md5="45d533fbbba849b4c60ca93214006cc5" sha1="789a40d90cc0f58e8c05432e7ee259c0617d9473" />
+		<rom name="ruler.jar" size="124653" crc="5dd72b24" md5="f6a56ba306d8e8bc1886baddbf9e75b8" sha1="02979f6910b90dc2a7b8e2a2bc220007798455a4" />
+		<rom name="savegame\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="savegame\Caravan.sav" size="725264" crc="f247fbdf" md5="2f87ec54926370b91884b648d3dca7ed" sha1="c74cd1d393411784e11941f6e7a1bba10e14760e" />
+		<rom name="scenarios\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="scenarios\originalScenario\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="scenarios\originalScenario\.~lock.units.csv#" size="154" crc="5d546ef6" md5="56175ed56b63bf46defc4ed5e9ad099e" sha1="500602735b3ef3760ed2e29044801f1f9f511b13" />
+		<rom name="scenarios\originalScenario\barbarians.dat" size="314" crc="b4edfaab" md5="1456011727df1492fa2be649a163abc6" sha1="72e64edc1e616f8635dafe61784471dc6760ec32" />
+		<rom name="scenarios\originalScenario\civilizations.dat" size="818" crc="b984655b" md5="a57171b0b0e69fd7016e26179daf34fd" sha1="14af20705ae4a62a7b27dba4dc0154efc756b001" />
+		<rom name="scenarios\originalScenario\units.csv" size="3171" crc="e3aea7ca" md5="5efbbd49d476e865d6323072ca87fe2e" sha1="c2a06dedb25347b1cd69fc889cb3df2630df3e8f" />
+		<rom name="scenarios\originalScenario\units.ods" size="17400" crc="87edf20e" md5="ef4aa0fb2c3803850061d5af04c2ce6e" sha1="c761ca84b80414d5abb6477937e490badaea6d96" />
+	</machine>
+	<machine name="RunRight">
+		<description>RunRight</description>
+		<rom name="RunRight10.exe" size="2042389" crc="91b6f178" md5="37535bcec94f4c488d4a5e155463e09a" sha1="0728001e283c3d1a06f1552a7cdaf85dea1ae886" />
+		<rom name="RunRight10.hs" size="43708" crc="f1bde5c8" md5="a804f0da6be8ceaa4db05a73d06ab750" sha1="68618823bafe54021cd299bd62ca22d2cb2f6f27" />
+	</machine>
+	<machine name="shopdoom.tar">
+		<description>shopdoom.tar</description>
+		<rom name="shopdoom.tar.gz" size="617664" crc="a7cbfc0f" md5="1e89d0fc3a18c49bf174c79bf4425794" sha1="b1f58d6ad3f936bc848c5353bcc556e933210551" />
+	</machine>
+	<machine name="Smart Kobolds">
+		<description>Smart Kobolds</description>
+		<rom name="kobold002.zip" size="4580037" crc="da19f9b9" md5="c2feb1e7202fdd8cf4e740f47faac301" sha1="bfce3e6cb2f81c1897ca9ea20cea905ebea61399" />
+		<rom name="kobold7drl.zip" size="4571579" crc="c4ac6db0" md5="5bae1b6ac0063c5efe1a1ee67653090f" sha1="af830f9977f58c20ee25bf54dc5dd0961c997db8" />
+	</machine>
+	<machine name="SmashArena">
+		<description>SmashArena</description>
+		<rom name="SmashArena\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SmashArena\SmashArena.exe" size="75264" crc="94c32344" md5="225a4cdb95809f52720dddc9b4762d7a" sha1="c33c374ae27ed6dde6bb7c84c035bc1dca98de24" />
+		<rom name="SmashArena\SmashArena.exe.config" size="122" crc="1e16f8c6" md5="a78fa19b73baa4b9bb1d29d22dfbea83" sha1="f4a03e27396eb1a3f3e135dede8cae930f7cc3a5" />
+		<rom name="SmashArena\SmashArena.pdb" size="120320" crc="b0d979cc" md5="dcf23899f2e0bc956815957ccd4aa285" sha1="4ee3a09ab6fbc8bbaa964c851d85e985236fabc8" />
+	</machine>
+	<machine name="tetrisrl 2 - electric boogaloo">
+		<description>tetrisrl 2 - electric boogaloo</description>
+		<rom name="tetrisrl2-master\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="tetrisrl2-master\arraylist.c" size="1724" crc="c693c5f7" md5="b2f3e5468b3096fa43dd55db2c992df6" sha1="d057fa6468c5fdaf5a7bb3376e90e1a34ae4f7f9" />
+		<rom name="tetrisrl2-master\arraylist.h" size="662" crc="555a582c" md5="2f486e4978d89719a26b44974750ca07" sha1="5e9121f76a0d6e61980e19736c0215df6c1eab0c" />
+		<rom name="tetrisrl2-master\BUILDING" size="1440" crc="0ef7ee31" md5="2bf3164e68c747b0a9349ca833a65212" sha1="7ae94721141651e852865412b00e4266d25e680d" />
+		<rom name="tetrisrl2-master\config.h" size="89" crc="261a1751" md5="638f05cd94726a87f3db6f690addd17f" sha1="a629dcf82b7446710489172b160d25318e211b69" />
+		<rom name="tetrisrl2-master\COPYING" size="17987" crc="1765105c" md5="751419260aa954499f7abaabaa882bbe" sha1="06877624ea5c77efe3b7e39b0f909eda6e25a4ec" />
+		<rom name="tetrisrl2-master\debugging.h" size="125" crc="ed109ff7" md5="bbbefaa62121de2d2d2f46da668c952d" sha1="db1a57878705eb6f1650cbca22b642c4dfaf4a3e" />
+		<rom name="tetrisrl2-master\defines.h" size="532" crc="2667932c" md5="430aeaa4e536eb977ddb57827b7039a4" sha1="f1687b262211db2a7cf000628d10b8f6df8f882a" />
+		<rom name="tetrisrl2-master\hashtable.c" size="897" crc="421efbce" md5="6006ab4dd2189922e1e33dddfc0b2095" sha1="8c028c2d76c3ad8a7957b44f02a0cf6897993780" />
+		<rom name="tetrisrl2-master\hashtable.h" size="205" crc="57665880" md5="5b7bfb32c1f07c0bba1d96e0290303de" sha1="7e779217aa36c50a1d00a6f8271926e39d40ef58" />
+		<rom name="tetrisrl2-master\level.c" size="6017" crc="40aaa512" md5="72e16d3443bddc32cad9e9120facef87" sha1="2c4f7a2e3390b7c7522e1de6ff83e944c739ad51" />
+		<rom name="tetrisrl2-master\level.h" size="501" crc="a4bf91d4" md5="bb05ad4761dfed7611c972da220a2fa3" sha1="db430e02139104e7844d3dfb78ae978e3e3bdfca" />
+		<rom name="tetrisrl2-master\llist_node.h" size="183" crc="f8d57e18" md5="5d2822d51e0cde2d1d199bea4c5ccbfc" sha1="d48e94ecb26bfce54f080ed1fb5bff58e76b6e22" />
+		<rom name="tetrisrl2-master\main.c" size="9915" crc="fe2c3e6f" md5="1f9ba5a466152f82076109895e1f1fbe" sha1="7d1383c255b11d548b9f0f67ad7d2e09e344f9f0" />
+		<rom name="tetrisrl2-master\Makefile" size="711" crc="497e33e2" md5="b04e82e30273b79a4a8f2d76decb66bf" sha1="59771bf4e240ba1b927415bf0c4abb920d9ac5df" />
+		<rom name="tetrisrl2-master\Makefile.no_utf8" size="723" crc="619ae4b8" md5="3f148ba4ff0d08fef2c6303f74636113" sha1="9e4bc1456c99963d0471f796b835934c3565311a" />
+		<rom name="tetrisrl2-master\monster.c" size="9397" crc="cf1a9fb8" md5="7a2b477a11ca3971c5154c0f1a471570" sha1="b29d685b38a177e969719065c478b80d66fd854a" />
+		<rom name="tetrisrl2-master\monster.h" size="827" crc="8649d8bd" md5="8515e5f509c717389e54fc8db7d16b50" sha1="7bdf67c141e97fa1277ae451b3dcd654e5d86701" />
+		<rom name="tetrisrl2-master\monsters.ini" size="1344" crc="3cfdc7a9" md5="da297ad10d9f5e26424f7345d535e589" sha1="0c7d35cbb2fd21de76d5f94fda93a93884bc6629" />
+		<rom name="tetrisrl2-master\README" size="3648" crc="5deec31d" md5="1d99fbc6a02f3351cf721bee3fa145c9" sha1="75727e8548d01e8bf0580fffabdbb838e189dce4" />
+		<rom name="tetrisrl2-master\tetromino.c" size="7279" crc="77ed04e2" md5="883896915014912a6bc888263cb9f30b" sha1="b16ebad773175a26a2b80566ec21debcd7303e29" />
+		<rom name="tetrisrl2-master\tetromino.h" size="398" crc="2a6f0ce4" md5="28953ace74ffd58f6b501772c17f67b4" sha1="e2bd1ac47c8fc4794fed77653d9e8b356fb3330e" />
+		<rom name="tetrisrl2-master\TODO" size="512" crc="c72bbd1b" md5="eb0b6f9ee529176cb456e30760024f2c" sha1="1618e1a8637510c690df932e2dcb879dae666594" />
+		<rom name="tetrisrl2-master\util.c" size="146" crc="cc7894cb" md5="36601ed0072769b452109bad93e586f2" sha1="61d55ab440961f74ec26512e2eecad01cc172231" />
+		<rom name="tetrisrl2-master\util.h" size="84" crc="091c1fbc" md5="6d6c7529cf9af361420a3a0982a62e72" sha1="5f2adaa8ecb20d9699fcc08a0a171dc3f34e54e7" />
+	</machine>
+	<machine name="The Dungeons of Craci">
+		<description>The Dungeons of Craci</description>
+		<rom name="The Dungeons of Craci.c" size="25765" crc="6b5cd697" md5="b68223af2e85a5e21f92a8f4a9e28d7d" sha1="02609842f9809cb976c18e3f0c08686017461f21" />
+	</machine>
+	<machine name="The Legend of Kalamakkara">
+		<description>The Legend of Kalamakkara</description>
+		<rom name="_ctypes.pyd" size="73728" crc="0a09ddef" md5="8dc2eb39af2a01c5c28e50685f5b78a5" sha1="e424c9ad5eb5c811a821235c532ce108e776f267" />
+		<rom name="_hashlib.pyd" size="311808" crc="93d31c4c" md5="78b16d439f3562552aeb38d352f00567" sha1="f2203b35a1d9677d957e0718d9f560ae684bd520" />
+		<rom name="bz2.pyd" size="71168" crc="843c3cfa" md5="fbe69c5e3c8094093248d7a1427dcfe3" sha1="939c423d7f27323f5db5d232cc37418b1530e01b" />
+		<rom name="core\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="core\core_data.py" size="5933" crc="c6710976" md5="a46cf9e2448020a272d4ee9403ba144d" sha1="85d6a9165290b5effdf5eb7e6750ab909a1bf3a0" />
+		<rom name="core\global_functions.py" size="1500" crc="a6e07832" md5="7a13d86a92300ee8e99d2b8e430a90b6" sha1="ea3891a3491deba3521b36ecc704dde159b4aa8c" />
+		<rom name="core\maptools.py" size="10238" crc="c40ddf1c" md5="195e2213f925e977db1bf5e6005b841b" sha1="d8c7b1236aab8633e22766d4384f04d94a86ac53" />
+		<rom name="libtcod-mingw.dll" size="303168" crc="60a9abae" md5="09f84f5362eff6ffc71a128f6e5cf9f8" sha1="b75aecf6fb2af84f81f4d3feff0e1850f2debaa7" />
+		<rom name="maps\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="maps\town.map" size="2480" crc="62078bf1" md5="d88306c01594b99cca43f62bca2a2e9d" sha1="226e9d5e0d77e6233f82f03d3d9928b06af34b3e" />
+		<rom name="peruna.png" size="9983" crc="81573118" md5="21449ec511d5b65a6a76e7623235d8d7" sha1="3b10238b19a5cccf04d12bf43b750d6d034dde74" />
+		<rom name="psyco._psyco.pyd" size="198656" crc="4e5de816" md5="0b0be8d6b3628c1cda005681136b1b76" sha1="6968327a81f980e68680762b2681a79bfc212517" />
+		<rom name="python26.dll" size="2149888" crc="76d7e158" md5="30f3d3e322c5339004415d7bc8bf246e" sha1="b99b99dce4b244f2f18eef2fb266cf4a2d9084f3" />
+		<rom name="SDL.dll" size="135168" crc="52751c3e" md5="1f7191f8c9218fbf6e08ad6562375f6e" sha1="d3f4ce3e0c092b28fb22d3d6627013b7540ed81f" />
+		<rom name="select.pyd" size="11776" crc="45911eae" md5="3c303c9d3ea9c64742931cac0e351910" sha1="55f3b5f4325a034cd7145987edeff15a6714e485" />
+		<rom name="terminal.png" size="3150" crc="2f01e925" md5="c4a24dd4390ad275c8aad7905152e7b0" sha1="b18a1b08e002a49bfc3476027b5ea7b13dfa5e3f" />
+		<rom name="TLOK.exe" size="1514381" crc="7b396969" md5="8a6f6db6090d6261bdbabb336e24ede0" sha1="1d363b11b3220ea142c9751e83a56f4eea2cf8f6" />
+		<rom name="unicodedata.pyd" size="585728" crc="f41ebd93" md5="ba3c226b01ff615107659411ae01e3b0" sha1="0b2526c3cff37ad2fdf14fe7e1b6af14debedc1c" />
+	</machine>
+	<machine name="The Spy Who Rogued Me">
+		<description>The Spy Who Rogued Me</description>
+		<rom name="TSWRM.exe" size="269789" crc="c5db6991" md5="6a02b939845b58aef9687a7be09b5d12" sha1="c1289ac0464371cd5044b0008c715b7470d9daca" />
+		<rom name="TSWRM_readme.txt" size="3582" crc="3809b66a" md5="0cc31ee0c61d8ceaafdba65398a5b048" sha1="3cc065c4076f8f1ff99adbef98747fbf5fc1dc48" />
+	</machine>
+	<machine name="Toby the Trapper1.2">
+		<description>Toby the Trapper1.2</description>
+		<rom name="trapper\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="trapper\README.txt" size="4853" crc="5b4b1743" md5="f5b837586e12b67d904b46254b6cfab4" sha1="c6030673e317ebe2723bb30ee40c590a6bda40ac" />
+		<rom name="trapper\trapper1.2.0-linux" size="298280" crc="99689878" md5="98f3cd8abf45b8f336e53af00da60891" sha1="647c8a7dc24847873fafdddbeb7d7624d522d130" />
+		<rom name="trapper\trapper1.2.0.exe" size="273208" crc="351c87a0" md5="dee2ed1ddf54f01ff386875e980b30be" sha1="58adf326f4ffa7f742f253a0242d3adcc7dec307" />
+		<rom name="trapper\trapper1.2.0.pas" size="143918" crc="404505e2" md5="2281192315266d2bfc1b05cd677fbfc1" sha1="7549550a4b7b163f8376fddd59fe1ec7c8c271d2" />
+		<rom name="trapper\version history.txt" size="1382" crc="920ff962" md5="a3954470c273f2a8c57f61b719ddd4a3" sha1="e5a6e00a0297f6adfe8f36e542319a8931a0f6b6" />
+	</machine>
+	<machine name="trollslayer">
+		<description>trollslayer</description>
+		<rom name="trollslayer\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="trollslayer\ChangeLog.txt" size="616" crc="0e66e1ad" md5="430a40382bceb75193e94f4f3dc4ddcf" sha1="4270efdb9b639de719d80b629aa3c1822b85cdd6" />
+		<rom name="trollslayer\data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="trollslayer\data\ascii8x12.bmp" size="4158" crc="804520ff" md5="6ce3516f2d41714bba3e03a94fb9bbc8" sha1="3e55f31fde726bc5fa5fbb579f30f708557bd3ec" />
+		<rom name="trollslayer\data\config.txt" size="467" crc="c297d693" md5="63543a4be756c53f3781d39d13f8f832" sha1="f05404018a702f233aa162e11584859dfe22e73b" />
+		<rom name="trollslayer\data\dungeon32.bmp" size="98358" crc="83246856" md5="fe5e42d8b3ca6631d7fb511d2f883b26" sha1="a1bbd1187eb9e3ad53a70f21dfcfab0a65609f55" />
+		<rom name="trollslayer\data\item32.bmp" size="196662" crc="fba5572a" md5="74a2f094ce958935d606a90f2ba6f47b" sha1="d96605b5b9c028db574b7e6c78773c22cba38fcd" />
+		<rom name="trollslayer\data\largemonster40.bmp" size="196662" crc="88b283d6" md5="2f897b9237a09cacb86b2eeb974b58af" sha1="4f89cc83cd5332b20bea66930e3dc95100be900f" />
+		<rom name="trollslayer\data\map.fnt" size="49052" crc="52ecc1a7" md5="a36bbba0b722b8b4e28d5724e0332855" sha1="6c6e67f6d2550a07c73937fdbad2ec6925288e2f" />
+		<rom name="trollslayer\data\monster32.bmp" size="49206" crc="4a85638d" md5="47d09fc165777883f0cfc1ae273bf468" sha1="db9ecefcf4df93e02a465c556f5ac15562140772" />
+		<rom name="trollslayer\data\music\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="trollslayer\data\music\menu.ogg" size="1741510" crc="05994032" md5="df8e192e9434959fb6cb1921824c6f58" sha1="8bfbdc1215dda89b420dd2fcb0a295308ca37b93" />
+		<rom name="trollslayer\data\names\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="trollslayer\data\names\bash.txt" size="821" crc="52f2b7b6" md5="d5d48a73f419d6c3d9c20f6b15442d06" sha1="4dfcfe13d3292ba03d15143ffb6d502d162357b2" />
+		<rom name="trollslayer\data\names\beast.txt" size="529" crc="4e925968" md5="f8700e7f96569ff1beed2086eb757bed" sha1="e3fd1f0f3726ca0f31e6ff4890f6ea6541221598" />
+		<rom name="trollslayer\data\names\boys.txt" size="2254" crc="80e30d30" md5="4b6610cec3cd6f41aa13739e10e644fe" sha1="3651558cbada3086d844c2a45b7bd1cdc5422f11" />
+		<rom name="trollslayer\data\names\categories.txt" size="933" crc="02db9cb4" md5="807b9a80c09dd960053175bd561e0dc5" sha1="230b9dc8b0cc5c6a326df145f54f8d94dfbc0c1e" />
+		<rom name="trollslayer\data\names\demons.txt" size="3730" crc="3ea8b654" md5="d810114f08ae5c9ff3bdc9853ae1f058" sha1="3878384569a6b19bb6787a0b2c0a56fdd7876b47" />
+		<rom name="trollslayer\data\names\dwarfs-old.txt" size="286" crc="f3d77fd9" md5="d6ee6a1614ae9050b09e74f32c0c37fc" sha1="b27648982c2d6ab5944a55fad7bfb389fdaba3c5" />
+		<rom name="trollslayer\data\names\Dwarfs.txt" size="359" crc="b063a1ca" md5="d78d7356ff02cb7488be637e520acc34" sha1="c1feb873553da5cbbe7c159106bc05ae5109a765" />
+		<rom name="trollslayer\data\names\elves.txt" size="840" crc="ec0ef5cd" md5="519aa69faa65ac8a8fabf3006c53f3a7" sha1="d681a454f325e9b2211acae4fc0904ead78ba05a" />
+		<rom name="trollslayer\data\names\evil.txt" size="877" crc="611e2364" md5="b14147ccda748d0facc66f2ee19b0c7b" sha1="c0a007cbcd6b490edfcbb8ba1e7c8ce3f7c5047f" />
+		<rom name="trollslayer\data\names\Food.txt" size="912" crc="3a44fb5b" md5="05d219f6eb03d65e3d3b1fcca0de977f" sha1="dd5a60d1984fe7bfa6bd9921e1b3c291bd07bd31" />
+		<rom name="trollslayer\data\names\girls.txt" size="7942" crc="52d70be1" md5="0e1257226b240a6ce408556d0120672b" sha1="b354ae143f1f74a98538cb449cb3d640e792d7ef" />
+		<rom name="trollslayer\data\names\good.txt" size="856" crc="3dd423fa" md5="56a2522f853f50bb9fde796cec8f173c" sha1="fbc973695016abf11d13e8931800ef4655d92c93" />
+		<rom name="trollslayer\data\names\lastnames.txt" size="10139" crc="e76301fe" md5="8e4db9d15d07dc849eeef8676a0c94cf" sha1="9447bd259f72f289fa2d74b3b2f80a8a9436a1eb" />
+		<rom name="trollslayer\data\names\tree.txt" size="499" crc="82fb07d4" md5="30e0c93bd08a70961c717da4ec0a040c" sha1="b13debece9609ef9270af82722ee8030306c0691" />
+		<rom name="trollslayer\data\names\yuk.txt" size="1219" crc="061d0a2a" md5="77cc15e3264d4a65e89528070f3a19fd" sha1="7a89255c68fc2668c077b41ee1454b66c9654375" />
+		<rom name="trollslayer\data\Readme.txt" size="64" crc="e45a8804" md5="12770d6d054849d42d983af8af022ff2" sha1="6fb9f1614d49737d3d9e1a1ac70337ac34140beb" />
+		<rom name="trollslayer\data\sounds\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="trollslayer\data\sounds\sound.wav" size="10068" crc="232dcd92" md5="08dba2f57fd161612f2d43adac875749" sha1="f96d4cf7ee0ddd71f767e310dcd6d3bb7e748c06" />
+		<rom name="trollslayer\data\text.fnt" size="49052" crc="52ecc1a7" md5="a36bbba0b722b8b4e28d5724e0332855" sha1="6c6e67f6d2550a07c73937fdbad2ec6925288e2f" />
+		<rom name="trollslayer\data\Thumbs.db" size="49664" crc="0497624f" md5="33025cdec7ddc719b82114695aa18665" sha1="eb3ed47d75c7325e9090366b187af75cce330873" />
+		<rom name="trollslayer\Key Bindings.txt" size="691" crc="7ad0589c" md5="01c5eb619b8a1483d8581096876a25f8" sha1="fede753a415f26c159f0db6c5ec8e1a117508a90" />
+		<rom name="trollslayer\Manual.txt" size="4109" crc="fa1914e1" md5="21a54d182b3ee744609c485b5a756ac4" sha1="d7d55e2fc07d3face9e54b3d2034865cc9fbbd06" />
+		<rom name="trollslayer\options.txt" size="389" crc="f3610a07" md5="61443411bb501d5d84a7009250b8d3fc" sha1="94428eb8a648365477aa7299e3b133fe08ba510b" />
+		<rom name="trollslayer\Run in ascii.bat" size="18" crc="742bf4c6" md5="2767d81e2db08c468b526ccae10ee793" sha1="2038f8e0e16ee7162eed876c7c8e331cdeb61362" />
+		<rom name="trollslayer\Run in Tile Mode.bat" size="18" crc="b904aa84" md5="576ceedda81571eaf26a05cd93e5c77b" sha1="f7cc4e2a8aa2b65e09197402f0ce2c02624d53c5" />
+		<rom name="trollslayer\SDL.dll" size="237568" crc="d4af5748" md5="d9e34fc5c608a739a54189da555db7cb" sha1="4062f5648fc8149c5b34a943aa5419453b4e1db3" />
+		<rom name="trollslayer\SDL_mixer.dll" size="312320" crc="8a15b1d7" md5="3de02a27ff14e3516fafbdcce3ee1380" sha1="782a0f45fbcc76447e989612477ae9e19b955ae3" />
+		<rom name="trollslayer\TrollSlayer.exe" size="757760" crc="2ac124bc" md5="5c976dd08a6506b0fcc9a2ab80478a20" sha1="90a9a30ea8a0a06a6d2b2d56a7c872cb663f4e17" />
+	</machine>
+	<machine name="Underhall-1.0-Setup">
+		<description>Underhall-1.0-Setup</description>
+		<rom name="Underhall-1.0-Setup.exe" size="15052469" crc="a1c85172" md5="66c76d6a523a869f6228f36ea71c3995" sha1="c6aecf59b8b091cf38e1af2555ca5b3076d7a464" />
+	</machine>
+	<machine name="vapourtek theatre_7drl">
+		<description>vapourtek theatre_7drl</description>
+		<rom name="vapourtek_theatre\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\license\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\license\LIBTCOD_license.txt" size="1650" crc="e246846c" md5="4a0aed2d7fd3003ef35c00e8d7ab9737" sha1="124c4354fcb65cb802a6d41946963d3949a391a0" />
+		<rom name="vapourtek_theatre\license\SDL_license.txt" size="438" crc="f0b47880" md5="fae21a9827f299a3d63e93f0f41c2a04" sha1="ef471f5b093beb18a0a37618f7876d7ec5ae7799" />
+		<rom name="vapourtek_theatre\license\Vapourtek_license.txt" size="723" crc="6c658021" md5="e98ee302c1c3b82853bfa3e35274b04d" sha1="1c3497d21aa211c7566fef8fc1e5da343eb1c366" />
+		<rom name="vapourtek_theatre\linux32\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\linux32\linux32-7drl3" size="333332" crc="e8a70f35" md5="06a39faa48e6acfd5166b34c176f5a8e" sha1="76dd643284305461e5f1bf2bb641a45d7ea0c178" />
+		<rom name="vapourtek_theatre\linux32\server_ip" size="17" crc="90a76d3e" md5="8e02eed7df30b90f6b460e1e24bba0c3" sha1="71c6ccf65223048ce1b2db920cc687bf0bfc4205" />
+		<rom name="vapourtek_theatre\linux32\terminal.png" size="3150" crc="2f01e925" md5="c4a24dd4390ad275c8aad7905152e7b0" sha1="b18a1b08e002a49bfc3476027b5ea7b13dfa5e3f" />
+		<rom name="vapourtek_theatre\src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\src\7drl3-client.cbp" size="8041" crc="cedfc4b7" md5="9f2c1ac1ca855df56bfbfc372c255280" sha1="37ce6b3570c365c0200b11230b87c1331d985b26" />
+		<rom name="vapourtek_theatre\src\7drl3-server.cbp" size="3845" crc="4a65571b" md5="0a2a6482c0654743adcff74cd9e4bb1d" sha1="bf0d722a9e0dd304696f23c869464f0717a14906" />
+		<rom name="vapourtek_theatre\src\client-src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\src\client-src\army_file.cpp" size="10605" crc="d4bd1c44" md5="2a4130570af8979df7e52506fb4cf1c3" sha1="7d9a85a14f446cfa2cc51e216be4ef66ba95e057" />
+		<rom name="vapourtek_theatre\src\client-src\callbackrenderer.cpp" size="4016" crc="f4ce1c4e" md5="9d090651edb1acad0a0d007e18ba2a90" sha1="70822b900db98e1877db7de5296b15f6eb9d37f0" />
+		<rom name="vapourtek_theatre\src\client-src\encyclopedia_map.cpp" size="1431" crc="5853cbec" md5="5805d3c7be3d0a12766c8edb06ca18be" sha1="fdbcf1fb651ffa8500bb4d0ba3dce0a24b3c181d" />
+		<rom name="vapourtek_theatre\src\client-src\encyclopedia_skill.cpp" size="18282" crc="90ccfd89" md5="0b100708c7eb496d5bd1069c8ad792cb" sha1="212d2d6b7098d07a748b6980fbcae4307a408bc5" />
+		<rom name="vapourtek_theatre\src\client-src\encyclopedia_unit.cpp" size="17327" crc="1eedbf9c" md5="7e8e0ee5090be06b827a34aeb3b702bd" sha1="97fdc8fea0becce6db2e6f620462309b852c19fc" />
+		<rom name="vapourtek_theatre\src\client-src\gui.cpp" size="6658" crc="c9d8295f" md5="1b345636bda2b08ae5d8129f95bb913d" sha1="04caff74399e6b7875aa244d06d69836813f4171" />
+		<rom name="vapourtek_theatre\src\client-src\gui_init.cpp" size="11638" crc="fea14b5b" md5="669c682b26e9bd323e94c691e55791dd" sha1="9cbc4fea71777c626e4dc0262c30f129bab53370" />
+		<rom name="vapourtek_theatre\src\client-src\main.cpp" size="970" crc="9994b32b" md5="84ff7a3a55a0b655ee4a654494c3b80e" sha1="a7fc05d2c47453ea8e1526f6cb22b1737897e911" />
+		<rom name="vapourtek_theatre\src\client-src\scene.cpp" size="23200" crc="180d4a24" md5="0a55a8aed594379481f5e52d68d471c5" sha1="e1d5716e818c759b724d2db1d410a3f6135ec728" />
+		<rom name="vapourtek_theatre\src\client-src\scene_draw.cpp" size="35430" crc="fcbadc3c" md5="640f819032538de7a9bc54b170473d48" sha1="3dad0e6aae86235394da0b11d69097b9664bd5c8" />
+		<rom name="vapourtek_theatre\src\client-src\scene_input.cpp" size="35946" crc="dcdf61fd" md5="928cbfddcd1341dc9c5b6eea4937dadb" sha1="5727054b41dbac8e681d3e60e40dc93b39ac0d4a" />
+		<rom name="vapourtek_theatre\src\client-src\unit_definitions.cpp" size="1442" crc="196eb605" md5="ae44e619066eda473da6fecec3ffd56d" sha1="d39dcbf1dce935b3e946c38aec3cf0ab0c5fe7b6" />
+		<rom name="vapourtek_theatre\src\engine\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\src\engine\engine.cpp" size="19876" crc="807fad3b" md5="11fa7750910dc18781acb8418527fb7c" sha1="aadc3a1650c56e16dc5d8b65b97159dae1616954" />
+		<rom name="vapourtek_theatre\src\include\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\src\include\army_file.h" size="1754" crc="48e6a182" md5="f607b42ec46370eff15a627a30838daf" sha1="cf36629b194354e723ad122636361e9ee63fcb3e" />
+		<rom name="vapourtek_theatre\src\include\defines.h" size="709" crc="d3b979ed" md5="c0e033ff4c3b00faaea873687b29bf0a" sha1="ad373c263317e3b64993ee506b0f6746a3b1ce7b" />
+		<rom name="vapourtek_theatre\src\include\encyclopedia.h" size="1754" crc="27fc7581" md5="82d80eeb8153573fe4ae4a47ecb0f5c0" sha1="80437c8f80df5339d17bfbf6ccb1f42f17dcb077" />
+		<rom name="vapourtek_theatre\src\include\engine.h" size="5458" crc="8320b961" md5="e90b7e0f1c54df105619a23c1b242d99" sha1="e73acc3d7c175c7c536bf079dd211488c682c91d" />
+		<rom name="vapourtek_theatre\src\include\gui.h" size="4251" crc="8c32b52c" md5="60afcd2dce21e1f42c8b177ede643fda" sha1="62a60d14e1b441da4a16578c2940668a70597349" />
+		<rom name="vapourtek_theatre\src\include\messages.h" size="3548" crc="335f8e70" md5="8a29fb0b788e98a3e22388eed0629d0a" sha1="b83f9aa0a6bb7653be2d8c57bca485271e9db927" />
+		<rom name="vapourtek_theatre\src\include\scene.h" size="9790" crc="3a93cd23" md5="c4b527ad29ae23601993d77870f43602" sha1="55d2a0df311575560ce73b7d11f653a57f64efc4" />
+		<rom name="vapourtek_theatre\src\include\utility.h" size="1344" crc="dcdf4f9c" md5="b5a0b2331b60768a42fe529010371e51" sha1="490ae31cebbb2ae1ba0c43d9a1b581a7158eec78" />
+		<rom name="vapourtek_theatre\src\linux32-7drl3" size="333332" crc="2525da91" md5="499ab3b8f2fc76058f5a15bd39414698" sha1="b3bbfec55fce81446d4717ebd671a12c1298e3aa" />
+		<rom name="vapourtek_theatre\src\res\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\src\res\garbage" size="2886" crc="92284b5d" md5="d59c681e579a6f7d2975cd8804b35b55" sha1="ff38899bf6a3225a164a75b5a8c8cfbe3528d51c" />
+		<rom name="vapourtek_theatre\src\res\terminal.png" size="3150" crc="2f01e925" md5="c4a24dd4390ad275c8aad7905152e7b0" sha1="b18a1b08e002a49bfc3476027b5ea7b13dfa5e3f" />
+		<rom name="vapourtek_theatre\src\server-src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\src\server-src\main.cpp" size="27219" crc="94fb539a" md5="685e7c6ef527f0d93a2f6299635397ff" sha1="fb019270f940f6c1ea3af3c9552ba55a1f12ea42" />
+		<rom name="vapourtek_theatre\src\server-src\serv_sqlss.h" size="1049" crc="85d99028" md5="5b3e0a641191db0bb2b848a955d30cce" sha1="e13f7d1af6ba58266721a2e3f1fbd0aefec94512" />
+		<rom name="vapourtek_theatre\src\TODO" size="48" crc="69210a4e" md5="7e09770f33f12de4727f0a385ea113bc" sha1="87948902b1adb21070314f72e510c78a18a7ae31" />
+		<rom name="vapourtek_theatre\src\utility\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\src\utility\utility.cpp" size="9234" crc="e17d9c17" md5="9ce20976382c73576071cc63dc57d2f2" sha1="df00b884ac4d30f7b537c5f7ad77414316b1ca6d" />
+		<rom name="vapourtek_theatre\win32\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="vapourtek_theatre\win32\mingwm10.dll" size="18207" crc="c649fd47" md5="f54e240fe3cc87b24a50380d90fcd496" sha1="f278d84d8e433597ec39aa2b42d221585cce3b2b" />
+		<rom name="vapourtek_theatre\win32\SDL.dll" size="135168" crc="52751c3e" md5="1f7191f8c9218fbf6e08ad6562375f6e" sha1="d3f4ce3e0c092b28fb22d3d6627013b7540ed81f" />
+		<rom name="vapourtek_theatre\win32\server_ip" size="17" crc="90a76d3e" md5="8e02eed7df30b90f6b460e1e24bba0c3" sha1="71c6ccf65223048ce1b2db920cc687bf0bfc4205" />
+		<rom name="vapourtek_theatre\win32\tcod.dll" size="431616" crc="f1312ccc" md5="ba50e8fad6fd8439db9e305db7522f32" sha1="b123bbc9a57024f20614977cd879756115afb0a1" />
+		<rom name="vapourtek_theatre\win32\terminal.png" size="3150" crc="2f01e925" md5="c4a24dd4390ad275c8aad7905152e7b0" sha1="b18a1b08e002a49bfc3476027b5ea7b13dfa5e3f" />
+		<rom name="vapourtek_theatre\win32\win-7drl3.exe" size="1519689" crc="556bdb62" md5="47fba87114b465bf8f29b09b75025c96" sha1="b7fb547394d8f504011657314694a1cef0f248d0" />
+	</machine>
+	<machine name="World Of Roguecraft-final">
+		<description>World Of Roguecraft-final</description>
+		<rom name="board.py" size="3701" crc="151f738c" md5="61e79a7d3b0cbb712bd56f529ba7f1a5" sha1="4c4d67d06f052f64df4a3efb82f817411422c941" />
+		<rom name="controlScreen.py" size="209" crc="fa568560" md5="3ba6ee54314c6f60038529f5f43f491f" sha1="6e62475c4f19a46daba6e90e23b1d2aba1686c08" />
+		<rom name="door.py" size="424" crc="e6f99da2" md5="1ee6d0b32e75a2402a69849027207b64" sha1="d03131b4ac98cb75c33564ac806b4ac70ccdc7c3" />
+		<rom name="fonts\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="gamescreen.py" size="1079" crc="93958907" md5="c3600ad834007bb379b44e7c65acdbab" sha1="38425dae4317cf719d83b619f7eaf68e1486afd3" />
+		<rom name="gamevars.py" size="901" crc="28a60ef2" md5="c96899e8012d42acfbba644c31b8f3a6" sha1="28cf285fe66413eb8e90cacc1a06b2ff0dd4bfb7" />
+		<rom name="globals.py" size="52" crc="49cd7b44" md5="41d8de49255a5e5a9509a6be9914ad90" sha1="d03d7f6950f998914329e9f12f1a0a7483937a45" />
+		<rom name="images\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="inventoryPane.py" size="2876" crc="a29b9533" md5="fe43684f0a09a74f0c29f45b1bf9b5ef" sha1="9cacc57d2d2a7a11ae9d3b9e6055349bc018ac08" />
+		<rom name="items.py" size="805" crc="2f1a9d5b" md5="051ede8a418008090a06bb96265b0292" sha1="b45c9408e7651f9b39404aa1878c3251642eb2b4" />
+		<rom name="main.py" size="47" crc="d507e4b2" md5="8cd51668ffec924be04ed1e0c8b52f6a" sha1="a572cf074791cde32b76fe690a9a2f7dffeb11a3" />
+		<rom name="masterScreen.py" size="3395" crc="ce987355" md5="a6b73a9cf47b4e7003d510980003e35a" sha1="95e03ee97e687ecaf4d9d6101cc2baa2ae4e208f" />
+		<rom name="medialibrary.py" size="2431" crc="ebaae0c7" md5="0547e5f17e19ea1bec698c69ffab2843" sha1="8134ad924dd2d5d3489a6498898b9c221ee3071f" />
+		<rom name="meleeWeapon.py" size="350" crc="73b8375b" md5="4754bb6e517377bb26edf58dc90f8d18" sha1="e031084165b0f1bf0a15d0f6255743735af6b74b" />
+		<rom name="messagePane.py" size="1209" crc="c3e5da24" md5="d98881ce0dc76ddaa5a97574e7cc0fb2" sha1="a6b9e5146ea05150574da4bc0eda389efe327f76" />
+		<rom name="monster.py" size="7253" crc="2216ed33" md5="d148fb1f9f4f19bd0a4beb4eaa97e676" sha1="b6e5baf244cef229f3f883e6479b1570e19d2f33" />
+		<rom name="object.py" size="2633" crc="837f7dfc" md5="9b3b5c90c13e1eb96000f5791e3d87a6" sha1="a6347d4ae5e3383e7f846ff50d2957dc6b00d928" />
+		<rom name="otarget.py" size="210" crc="309d4fff" md5="cd04b164cfdefdbb1045cc327f4a17e4" sha1="3fc7d8dbbaa63f6fef26db1f6f4e5351173f98ea" />
+		<rom name="player.py" size="1174" crc="6c78212f" md5="085c982fb1cbf7da25d1b9c6c5995e73" sha1="1aa958388b340488ddedd30653232240bb6cadeb" />
+		<rom name="rooms.py" size="1352" crc="a751eba8" md5="7f1c0d375734fbce0b05481911b2a4ab" sha1="b1f1b6663a104f7c1541151fde21f73bd8223353" />
+		<rom name="screen.py" size="9054" crc="1d2c3d15" md5="ef502ebecd5c29ad3094c4f7208f3772" sha1="be2d6431365699544f15379ecd7774a589a294e6" />
+		<rom name="soundLibrary.py" size="354" crc="7a149a02" md5="1cfb22edf963b048d2a4c49fb4ad635f" sha1="9c92ff5c883ade27f0f96f93a48b660017337922" />
+		<rom name="sounds\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="spot.py" size="1103" crc="f53adb52" md5="427c71d24a9380d26026841512ddce6e" sha1="5a7c27c8abd90ced40c4802624e4c9267e8a657e" />
+		<rom name="sword.py" size="1311" crc="81e69fa6" md5="33fb0bbab81364cda5e2dd3bd36a642a" sha1="c09ddeec35f7d81a51eaa0060ffdbdb8b8cdeb4d" />
+		<rom name="target.py" size="182" crc="4f431367" md5="a71596ff625016f0adf3f508ae305750" sha1="0cf74fdd187652df681890d56058588467f23caf" />
+		<rom name="targetpane.py" size="1591" crc="9c11792d" md5="50b5a2e1b70d0646548dfe9d43043500" sha1="8c551c044ee99d6dc51dc2006e12b202211a4a26" />
+		<rom name="titlepane.py" size="878" crc="504159a5" md5="718ca740c08b642991565a3518d55931" sha1="71d6df4f386ac934245c6a44a878805839280203" />
+		<rom name="wand.py" size="1020" crc="a81eb7e3" md5="aefcb5f9537833ddd00ce2c2ed4b7632" sha1="74520d791632335b7b65595700ca43714e4f2475" />
+		<rom name="weapon.py" size="1327" crc="f2c90090" md5="3d2e56ba17d3528ea3338fc7cc6a6829" sha1="1089cf3baa0c31018eb8aeb01dcdc9923acf4998" />
+	</machine>
+	<machine name="World Wrestling Roguelike WWRL">
+		<description>World Wrestling Roguelike WWRL</description>
+		<rom name="data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="data\man.txt" size="8637" crc="1e7c9878" md5="685a108c9008a4ba582092c7746fd6a2" sha1="9c06f380f78da99c38d8a3caaa1cf1119b76954d" />
+		<rom name="data\wrestler.txt" size="1971" crc="64e1ac09" md5="6cca149b538931964ccaf76dbddc2984" sha1="56ac9f89eaef2bb33eb3fc27797bd2f7e96848d8" />
+		<rom name="font.scb" size="3" crc="25d02444" md5="323ff9fd9f22e6e555eb1a41ad6f64d1" sha1="d15228f1fe7aeb31d230f5e424a3ae30a5beb921" />
+		<rom name="lgpl-3.0.txt" size="7637" crc="65bc4744" md5="b52f2d57d10c4f7ee67a7eb9615d5d24" sha1="e203d4ef09d404fa5c03cf6590e44231665be689" />
+		<rom name="lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="lib\jcurses-x.jar" size="109739" crc="d5445647" md5="806d4fc11c96086039f8f0802ba6ec75" sha1="ff05fff33e99746a099c89044ec6870b43e50c55" />
+		<rom name="lib\libjcsi.jar" size="124361" crc="cd24d225" md5="45d4ae30a9fc63bcce121ddf993d0a4d" sha1="f880a7a5ade4363a8f96551a37cb642e07e2ee43" />
+		<rom name="lib\libjcurses.so" size="24402" crc="674116de" md5="463d9e83e74af0d2c4b917639ef73e1e" sha1="fcd0947f48f652194d69e61415b2cfe300e62cc9" />
+		<rom name="manual.doc" size="113664" crc="78c013d8" md5="150cb2d4bcc2899b61ebfeda5c27bfcc" sha1="e97f55aeb56e1ddab2dab1293ef86dc10fbb533b" />
+		<rom name="readme.txt" size="99" crc="869516e0" md5="30cd2eb2d13728dba54823773bdbf4a2" sha1="a18f76c2a8fd789c0310db82130c6a2a890df252" />
+		<rom name="screens\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="screens\chara.txt" size="4098" crc="f2024c49" md5="bd4da46cf835fd39fefea206a0a16c3a" sha1="f2ebff9f7c86ff0b019121af59a82c88e3031c83" />
+		<rom name="screens\ending.txt" size="4100" crc="7f6394ef" md5="4919ca98aa4da707cc92aded21dcfc2f" sha1="f72a78e6235c6390859cb181e536556709719085" />
+		<rom name="screens\intro.txt" size="4098" crc="0c66fa80" md5="5bc4a0e706c6e8f6e01e934321daff5b" sha1="1a0d394029e267968200341021773ef47f50bad7" />
+		<rom name="screens\intro.txt~" size="4095" crc="3b896b5c" md5="fe6e9a4b4ed5e75e99d2bb1986bfabb9" sha1="068e6e1c06fb9d4b6a583b7dd96064a5b6e01db2" />
+		<rom name="screens\ring.txt" size="4098" crc="d64d3e21" md5="8fee8cc7cdc662372f3cdf8dc3aa6736" sha1="344b3e0b2c996dc06e7ffd742bc48b5badfbcc00" />
+		<rom name="screens\select.txt" size="4099" crc="19058aa8" md5="343f233e1ee27e78c33690ec6f00576e" sha1="11ccfad109ad669ff74c92efe648a98dd145a2dd" />
+		<rom name="screens\select.txt~" size="4099" crc="1645118f" md5="21fd5dc66380abcc69d6368c22378b2a" sha1="56f26ba380ccdcc690957856388a7b39b2dca163" />
+		<rom name="WWRL.jar" size="61957" crc="14757fc2" md5="99f13c854117cfe0d49153709ab99e58" sha1="59570a73ac1b19203aad5ee179556336789886bc" />
+	</machine>
+</datafile>

@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - DOS - Source</name>
+		<description>The classic roguelike archive - DOS/Source</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="Abura Tan (v0.A11)[alpha][src][DOS]">
+		<description>Abura Tan (v0.A11)[alpha][src][DOS]</description>
+		<rom name="atsrca11.zip" size="391857" crc="2a9caec4" md5="6cb7e8cae532b899f61eea593e8bec02" sha1="aadadc689850e63bdc995b4170c9924ca26a873d" />
+	</machine>
+	<machine name="Advanced Rogue (v7.7.1)[var][src][DOS]">
+		<description>Advanced Rogue (v7.7.1)[var][src][DOS]</description>
+		<rom name="arogue7.7.1-src.tar.gz" size="271927" crc="7bb7cbd0" md5="105c64a7f0b12775c9b519f02337a489" sha1="2caf6208d54b8e07911bf5c2686e2800baa7a44d" />
+	</machine>
+	<machine name="Angband_64 (vbeta 7 r3)[var][src][DOS]">
+		<description>Angband_64 (vbeta 7 r3)[var][src][DOS]</description>
+		<rom name="Angband_64.7z" size="1021049" crc="46d92277" md5="0addb309c62915d6aaa9f8cc91e150bd" sha1="4744d9eeca2022d9ac754a66acf771ee3e1c2d14" />
+	</machine>
+	<machine name="Animeband (v0.5.9.1)[var][src][DOS]">
+		<description>Animeband (v0.5.9.1)[var][src][DOS]</description>
+		<rom name="Animeband0591src.zip" size="1967585" crc="348109a1" md5="5a354120c51c46794cec695a1b6a8662" sha1="a34d78a398ed1498bfa48a21c5d2eac282361049" />
+	</machine>
+	<machine name="Color Druid (v5.5)[var][src][patch][DOS]">
+		<description>Color Druid (v5.5)[var][src][patch][DOS]</description>
+		<rom name="cdruid.patches.tar.Z" size="211797" crc="f4607ca7" md5="423b9ed8ddb403d8388f996f8139b03e" sha1="d7b986e4ff7c327732ee97c6503808d848944690" />
+	</machine>
+	<machine name="Color Umoria (v.5.5.2)[var][src][DOS]">
+		<description>Color Umoria (v.5.5.2)[var][src][DOS]</description>
+		<rom name="mor552cs.zip" size="314876" crc="08107bae" md5="4225e7c32cbd4982856554de77d9c49e" sha1="7981b3d9ff0c86fb6cb3796e136548d25bba401e" />
+	</machine>
+	<machine name="Druid (v5.5)[var][src][patch][DOS]">
+		<description>Druid (v5.5)[var][src][patch][DOS]</description>
+		<rom name="druid.patches.tar.Z" size="187729" crc="01902dfd" md5="3cf828df3ed9bb1af160b9e32da82313" sha1="5eaff92fa34450c6f143ef2082b692e1fae7814c" />
+	</machine>
+	<machine name="Dungeon (v6.0)[stable][src][DOS]">
+		<description>Dungeon (v6.0)[stable][src][DOS]</description>
+		<rom name="SOURCE.ZIP" size="29753" crc="ffb209bd" md5="aa668349a384ee1131416952eaea94b3" sha1="0ff10728ca9248ecf5ac1185098e5f99d62cf850" />
+	</machine>
+	<machine name="Dungeons Of Noudar 3D (v1.1)[beta][src][DOS]">
+		<description>Dungeons Of Noudar 3D (v1.1)[beta][src][DOS]</description>
+		<rom name="dungeons-of-noudar-master.zip" size="33959261" crc="9a2c2230" md5="8fc596fafaa7eb05abe49dda399f3e96" sha1="788b14623438c92326f59f456b21a51039834cbb" />
+	</machine>
+	<machine name="FAngband (v1.0)[var][src][DOS]">
+		<description>FAngband (v1.0)[var][src][DOS]</description>
+		<rom name="fangsr10.tar.Z" size="816278" crc="632b1684" md5="2b19db9cc5f062331dd55a794f2a0088" sha1="18bbccf01288bc828d03a8281abd855f57895157" />
+	</machine>
+	<machine name="FayAngband (v1.0.0)[var][src][DOS]">
+		<description>FayAngband (v1.0.0)[var][src][DOS]</description>
+		<rom name="fayangband-100-src.zip" size="1329916" crc="685ea2e4" md5="8710753f5f1a5fe03357efec47af08ac" sha1="6a0902327434cdf33cd26344fbc1996e8e01b33b" />
+	</machine>
+	<machine name="Goingband (v2.8.3 v4)[var][src][DOS]">
+		<description>Goingband (v2.8.3 v4)[var][src][DOS]</description>
+		<rom name="goingband-2834.tar.gz" size="863063" crc="c61a802b" md5="440b709c28afeee142b2819b16404638" sha1="09339d6b5f884f30436a4fcb89404a62835943b4" />
+	</machine>
+	<machine name="GSN2band (v1.0)[var][src][DOS]">
+		<description>GSN2band (v1.0)[var][src][DOS]</description>
+		<rom name="GSN2band 1.0 src.zip" size="1099672" crc="02175f9e" md5="25ca01d23bcc25636648a025bd4bc0dd" sha1="354330a8e5d6f0e49757126f220da083239829df" />
+	</machine>
+	<machine name="Hellband (v0.87)[var][src][DOS]">
+		<description>Hellband (v0.87)[var][src][DOS]</description>
+		<rom name="Hellband-103-src.zip" size="1743697" crc="e1c27c30" md5="da183f2e3fb77f03b46ba03b07b28800" sha1="8a94384c607fa14be2ce133b7cb77e879f48bc49" />
+	</machine>
+	<machine name="Hengband (v1.0.11)[var][src][DOS]">
+		<description>Hengband (v1.0.11)[var][src][DOS]</description>
+		<rom name="hengband-1.0.11.tar.bz2" size="1941635" crc="5b2d038a" md5="4081baa9690646dbca0f897791a1f094" sha1="64d28b7c2f2c2f5bdb88014e20aca3b51e564cf5" />
+	</machine>
+	<machine name="Lord of Rage and Death (v1.5)[alpha][src][DOS]">
+		<description>Lord of Rage and Death (v1.5)[alpha][src][DOS]</description>
+		<rom name="lord-master.zip" size="78397" crc="cabb9f93" md5="3bdc5bea4cb8a1e741e9ed97559cba71" sha1="1682ef0936dc44acf9516a7f1ee3061fa8a7a5eb" />
+	</machine>
+	<machine name="MAG (v1.1)[stable][src][DOS]">
+		<description>MAG (v1.1)[stable][src][DOS]</description>
+		<rom name="pc_mag-1.1-src.zip" size="113705" crc="08e3411f" md5="58cb11edfdcb395d41300381c530bd3f" sha1="e84151e06a8f43d493e954e486f63431f1c83374" />
+	</machine>
+	<machine name="Morgul (v0.5)[var][src][DOS]">
+		<description>Morgul (v0.5)[var][src][DOS]</description>
+		<rom name="morgul05.tar.Z" size="476539" crc="2932bef0" md5="12fa434843a661a00eb4438fbd8bb2d8" sha1="2326dd2e3839aeb66c18fbdfc2d8c6f77208e87f" />
+	</machine>
+	<machine name="NetHack (v3.4.3+3.6.0exp)[stable][src][DOS]">
+		<description>NetHack (v3.4.3+3.6.0exp)[stable][src][DOS]</description>
+		<rom name="nethack-3.6.0-patches-1.1.2-msdos.zip" size="5321653" crc="3588bff0" md5="0ba4801c7d92db5dacdd3bdf817a4603" sha1="6d49e133fccf0de6156b514e691ecabe58ecc6ed" />
+		<rom name="nethack-343-src.tgz" size="3497458" crc="3c9e975c" md5="21479c95990eefe7650df582426457f9" sha1="c26537093c38152bc0fbcec20468d975b35f59fd" />
+	</machine>
+	<machine name="NetHack Curses (v3.4.3 beta3)[var][src][DOS]">
+		<description>NetHack Curses (v3.4.3 beta3)[var][src][DOS]</description>
+		<rom name="nh343-curses-beta3.patch.gz" size="70319" crc="4b8218e4" md5="1c75ef45524ebbd490f68a9db1559f2e" sha1="d4efd17e3396ffda5819b5d1225e7f3c92a7f92f" />
+	</machine>
+	<machine name="NetHack Lethe (v1.2.01)[var][src][patch][DOS]">
+		<description>NetHack Lethe (v1.2.01)[var][src][patch][DOS]</description>
+		<rom name="Lethe-1.2.01.zip" size="191234" crc="f1ccadc4" md5="0a804c8bf791228490e4c8751fad3ec2" sha1="7822c6d1c76dd65be3d22d78e8323d9e70875d7e" />
+		<rom name="nethack-331.tgz" size="3061094" crc="878998c4" md5="d0600ce4698c80e5ad1f917ded1c36d2" sha1="e3d07efc81c9aeb85fadc268d1d4976ab3a0f7e9" />
+	</machine>
+	<machine name="NetHack Plus (v3.1.3)[var][src][DOS]">
+		<description>NetHack Plus (v3.1.3)[var][src][DOS]</description>
+		<rom name="NetHack Plus.7z" size="1684311" crc="548cd1bb" md5="84bf9db49ac29e3de17f7cad0e4f5d74" sha1="8d3e7c763b00dc06e72c75785746470693e3fa9e" />
+		<rom name="nhplus01.zip" size="1072796" crc="a0649ce4" md5="e940c96a253b132639852d5027133fc2" sha1="b240a7186753bd4a147991aa500fd02100386ef5" />
+		<rom name="nhplus02.zip" size="777076" crc="dd775b45" md5="27c1eca6f2acefbf2c142357bd385884" sha1="ba4bc5986b48c331c5ec780aacc43dbd7678a617" />
+	</machine>
+	<machine name="NetHack The Next Generation (v1.12main2 )[var][src][DOS]">
+		<description>NetHack The Next Generation (v1.12main2 )[var][src][DOS]</description>
+		<rom name="NhTNG.tar.gz" size="185402" crc="b8464555" md5="4dbe1180f0157c1931b5430deabdb8b8" sha1="e85230fa695e1e5e0f1da9e3cc58e90c6c7d2a10" />
+	</machine>
+	<machine name="NetHack-- (v3.1)[var][src][DOS]">
+		<description>NetHack-- (v3.1)[var][src][DOS]</description>
+		<rom name="nh31c--src.zip" size="2290373" crc="6d3b58e9" md5="61b456fb6fc341c0e9e75f5bd9bc47e6" sha1="88e2ed0148184141b353504fc6a300339d42fbfe" />
+	</machine>
+	<machine name="NonStop (v0.3)[alpha][src][DOS]">
+		<description>NonStop (v0.3)[alpha][src][DOS]</description>
+		<rom name="nonstop_src.zip" size="39423" crc="321da52d" md5="3390119b5c95ae5f75b740239a1800bb" sha1="55bbaf98a3eec0cd77bd5cf5389f3cc4087a3c1b" />
+	</machine>
+	<machine name="NTAngband (v0.7)[var][src][DOS]">
+		<description>NTAngband (v0.7)[var][src][DOS]</description>
+		<rom name="NTANG02.ZIP" size="2357738" crc="18722e29" md5="607f771da3647fb2dea542af61355586" sha1="26e17d31215df730b9730bb29f52e0b9bb81a90f" />
+		<rom name="XTRA-DOS.ZIP" size="28372" crc="0c4e812e" md5="6427a3b235cc97d76066f76eff54d75e" sha1="23bc01f19fee55bcf09a9b1d73f30ab21e949b3f" />
+		<rom name="XTRAXTRA.ZIP" size="289863" crc="0281691f" md5="0f2a20985cb1aaedf57c81a887ff15ae" sha1="53623a1076f7e7e9e8beb4a6f3bda54784c13119" />
+	</machine>
+	<machine name="Oangband (v0.5.2)[var][src][DOS]">
+		<description>Oangband (v0.5.2)[var][src][DOS]</description>
+		<rom name="Oangband052-src.zip" size="1357678" crc="ad62beb5" md5="5aea4d4e8137cfc5c9e15fbe01bcb8ca" sha1="d2df9a1cc8d335694ca27000e48ca7981c8a4e20" />
+	</machine>
+	<machine name="Omega (v0.80.2)[beta][src][DOS]">
+		<description>Omega (v0.80.2)[beta][src][DOS]</description>
+		<rom name="omega-0.80.2-src.zip" size="360841" crc="53606ee7" md5="396b81a7460375af30c756dc04a7bdf6" sha1="6da656157a95e394e0c7ed8dccf2310eb9ab8eae" />
+	</machine>
+	<machine name="PatchHack (v6.0)[var][src][patch][DOS]">
+		<description>PatchHack (v6.0)[var][src][patch][DOS]</description>
+		<rom name="patchhack-nh340-1.diff.gz" size="13194" crc="268635bd" md5="63f1124305aee983723b2cf295cc8c4b" sha1="61364960f0e1d7ca89e7dd10dea132cc73f9cdbd" />
+	</machine>
+	<machine name="PC-Hack (v3.61)[var][src][DOS]">
+		<description>PC-Hack (v3.61)[var][src][DOS]</description>
+		<rom name="hack361s.zip" size="235976" crc="0a1ade4a" md5="180956ab628fb636572ff01c9870c34b" sha1="ab9a22c4b284c26d45e36e714297892991ad249e" />
+	</machine>
+	<machine name="PCAngband (v1.40)[var][src][DOS]">
+		<description>PCAngband (v1.40)[var][src][DOS]</description>
+		<rom name="pcangband-1.4-src.zip" size="586360" crc="44e2d5b5" md5="fbb586010506cf88840e6630ddf1e333" sha1="1ae7e9d61d5d2bd6ae41d53749364bfa198133ab" />
+	</machine>
+	<machine name="PernAngband (v5.1.1)[var][src][DOS]">
+		<description>PernAngband (v5.1.1)[var][src][DOS]</description>
+		<rom name="pernangband-511-src.zip" size="2731122" crc="d87d040e" md5="181205cd8879e352531fb49872ded7d5" sha1="ddbd0a40cb5e83904d92850db44576f26ed46185" />
+	</machine>
+	<machine name="PrfnoffAngband (va290b)[var][src][DOS]">
+		<description>PrfnoffAngband (va290b)[var][src][DOS]</description>
+		<rom name="angband-a290b-src.tar.bz2" size="766896" crc="9cc9919a" md5="3fa70c51bbb2e58dc4fdc7ec444c5478" sha1="d5823fdc155f0ed1e1d0a40d131a2fc58f113b78" />
+	</machine>
+	<machine name="PrfnoffZangband (v2.3.5)[var][src][DOS]">
+		<description>PrfnoffZangband (v2.3.5)[var][src][DOS]</description>
+		<rom name="zangband-235-src.tar.bz2" size="1061689" crc="e593071c" md5="5066e4775ebb35a125e26bb5dedaf471" sha1="36ff2903ae8356032b77260d644529d05d4ad8fc" />
+	</machine>
+	<machine name="PziAngband (v1.1.0)[var][src][DOS]">
+		<description>PziAngband (v1.1.0)[var][src][DOS]</description>
+		<rom name="PZSRC110.ZIP" size="1365708" crc="cc60c543" md5="2e0582bfeb83f855f344d3595c9edfe8" sha1="1dcd9db8694897063e355264470217f1a504a8eb" />
+	</machine>
+	<machine name="Rangband (v1.05a)[var][src][DOS]">
+		<description>Rangband (v1.05a)[var][src][DOS]</description>
+		<rom name="rangband-105a-src.zip" size="1165554" crc="dde93df7" md5="1a7e205f74d7cdf07578b7ed326ba1f3" sha1="7d8fef4fa95b53e0520a372cd62b4f046a79532d" />
+	</machine>
+	<machine name="RobertAngband (v2.8.3h)[var][src][DOS]">
+		<description>RobertAngband (v2.8.3h)[var][src][DOS]</description>
+		<rom name="angband-283h-src.zip" size="1172101" crc="9619cdcf" md5="3ba5173105bfd946a780d92a522d9109" sha1="e0045c74a0523203b7b81ba22d7891ab85cbee2b" />
+	</machine>
+	<machine name="Robotfindskitten (v1.7320508.406)[misc][src][DOS]">
+		<description>Robotfindskitten (v1.7320508.406)[misc][src][DOS]</description>
+		<rom name="robot.dos.tar" size="81920" crc="b547707a" md5="7e0b280aa98ed0142b03b34c6f9ef61d" sha1="7850ebe8a2c32b5fd3f79786c469a812e2633969" />
+	</machine>
+	<machine name="Rogue (v5.4.4)[stable][src][DOS]">
+		<description>Rogue (v5.4.4)[stable][src][DOS]</description>
+		<rom name="rogue5.4.4-src.tar.gz" size="209839" crc="aac86aee" md5="033288f46444b06814c81ea69d96e075" sha1="aef9e589c4f31eb6d3eeb9d543ab8787b00fb022" />
+	</machine>
+	<machine name="Rogue Clone IV (v2.1)[var][src][DOS]">
+		<description>Rogue Clone IV (v2.1)[var][src][DOS]</description>
+		<rom name="rogue210-source.zip" size="127492" crc="d8ca2f81" md5="9fadd011cadb9805a76ba0b81b5e3b39" sha1="f6c2d6c23f7a13dead9a89da988ccadb1e2592cf" />
+	</machine>
+	<machine name="Rolf (v)[alpha][src][DOS]">
+		<description>Rolf (v)[alpha][src][DOS]</description>
+		<rom name="rolfs.zip" size="19888" crc="d2953207" md5="6e9e2f92f11ea108b8fc1611055bf718" sha1="8afe23f3af601713174006aee60bf6a0b8200d83" />
+	</machine>
+	<machine name="Sangband (v0.99b13)[var][src][DOS]">
+		<description>Sangband (v0.99b13)[var][src][DOS]</description>
+		<rom name="sang099b13-src.zip" size="1809029" crc="6b074db0" md5="092607d04174416b56a7fd4431ed5809" sha1="4d1d9816adceea784ac98574103e6c140f75451c" />
+	</machine>
+	<machine name="SBFband (v0.2.2)[var][src][DOS]">
+		<description>SBFband (v0.2.2)[var][src][DOS]</description>
+		<rom name="sbfband-022-source.zip" size="1362368" crc="a48e73ba" md5="a7c852921ea11ac395c9fd7be9bf9692" sha1="690777739941f74be1bfcca2053fce93db0c73d9" />
+	</machine>
+	<machine name="sCthAngband (v1.0.18)[var][src][DOS]">
+		<description>sCthAngband (v1.0.18)[var][src][DOS]</description>
+		<rom name="scthangband1018-win.zip" size="1261738" crc="0b8cda4a" md5="e30d4b0610cc7d36d6be58c10685ec41" sha1="7d86aad705944230e1bce9d51d07a2aca0fdf013" />
+	</machine>
+	<machine name="SLASH (v6)[var][src][DOS]">
+		<description>SLASH (v6)[var][src][DOS]</description>
+		<rom name="slashsr6.zip" size="2336861" crc="19771057" md5="84da91df2092670d28c8242284e3b683" sha1="3a984211ca4283b5d3c052366e28584430610804" />
+	</machine>
+	<machine name="SLASH'EM (v0.0.7E7F2)[var][fx][src][DOS]">
+		<description>SLASH'EM (v0.0.7E7F2)[var][fx][src][DOS]</description>
+		<rom name="se007e7f2.tar.gz" size="5218698" crc="f345507d" md5="3211710cb299fe5d7109ca6480585299" sha1="b71911bfded49b0e71c796b5ceac4032acbd139e" />
+	</machine>
+	<machine name="Steamband (v0.4.1f)[var][src]DOS]">
+		<description>Steamband (v0.4.1f)[var][src]DOS]</description>
+		<rom name="Steamband-041f-SRC.zip" size="1616410" crc="6b7bae5b" md5="14fd9bc6f218bb655e0dc247793f7a87" sha1="3860977411745ee8cb48a2403ce575152e5f7a29" />
+	</machine>
+	<machine name="Stronghold (v0.0.1fix3)[alpha][src][DOS]">
+		<description>Stronghold (v0.0.1fix3)[alpha][src][DOS]</description>
+		<rom name="stronghold-0.0.1fix3.zip" size="43330" crc="b07b4953" md5="c566ce5a2656235b2c1d3af828cba94f" sha1="6c28680baf2cefacde9452691a22419186e8f305" />
+	</machine>
+	<machine name="Super-Rogue (v9.0-1)[var][src][DOS]">
+		<description>Super-Rogue (v9.0-1)[var][src][DOS]</description>
+		<rom name="srogue9.0-1-src.tar.gz" size="113319" crc="f28b231b" md5="c15ebb511e38a431dfa3c269ba194e37" sha1="7ca21afbba85f79513b5d4588a6fb1a0f6044d18" />
+	</machine>
+	<machine name="TAngband (v0.5.1)[var][src][DOS]">
+		<description>TAngband (v0.5.1)[var][src][DOS]</description>
+		<rom name="tangband-0.6.0-src.tar.gz" size="958123" crc="f47f2460" md5="9441c8d0c47cf13c56bdd4bae33fbb18" sha1="1970eef47647eeea35364fab87f96954406648a5" />
+	</machine>
+	<machine name="The Land (v5.0.2)[stable][DOS][src]">
+		<description>The Land (v5.0.2)[stable][DOS][src]</description>
+		<rom name="TheLand5_0_2_src.zip" size="655502" crc="b7225dad" md5="7c2ed3cbb1eed27353ae6a2edb2ef626" sha1="9fedd08d804abef44d0f83ee69075ee25774e7db" />
+	</machine>
+	<machine name="The Tomb Of Drewan (v1.00)[stable][src][DOS]">
+		<description>The Tomb Of Drewan (v1.00)[stable][src][DOS]</description>
+		<rom name="tombdre.zip" size="60762" crc="8be82217" md5="f2f3f190d69e918783214b3d25fdff64" sha1="f23a8aaf6012240e8ee8afa49144e5f46122bb2a" />
+	</machine>
+	<machine name="ToME 1 (v1.00)[var][src][DOS]">
+		<description>ToME 1 (v1.00)[var][src][DOS]</description>
+		<rom name="tome-100-src.tgz" size="2550190" crc="953aa883" md5="e717e2a0738278b2692ef76c5366ae76" sha1="60eb8cb47af5a701619170e49fb4192c5a0e2db3" />
+	</machine>
+	<machine name="Ularn (v)[var][src][DOS]">
+		<description>Ularn (v)[var][src][DOS]</description>
+		<rom name="ularn.tar.gz" size="142790" crc="1f081de6" md5="03384bb7ac67564ec7d37a73ace118a6" sha1="abc5bbecca65968e9ddaf2a8d07ac5141009459d" />
+	</machine>
+	<machine name="UltraRogue (v1.0.7)[var][src][DOS]">
+		<description>UltraRogue (v1.0.7)[var][src][DOS]</description>
+		<rom name="urogue1.0.7-src.tar.gz" size="249041" crc="bd5f58a2" md5="a54b2c3cb8031e712f7eccdb6428ade0" sha1="100194237667bb9ecd95581e177f99cb65f66063" />
+	</machine>
+	<machine name="Umoria (v5.5.2)[var][src][DOS]">
+		<description>Umoria (v5.5.2)[var][src][DOS]</description>
+		<rom name="umoria-5.5.2.zip" size="700772" crc="69bdc810" md5="68a3a9c74ac322daf4611334c4c7a292" sha1="ea41b5554255b9e53e230f546f8f7f7a28fabeb1" />
+	</machine>
+	<machine name="Umoria Patched (v5.5.2-u3)[var][src][patch][DOS]">
+		<description>Umoria Patched (v5.5.2-u3)[var][src][patch][DOS]</description>
+		<rom name="umoria552-unoff3.tar.gz" size="28978" crc="527669ad" md5="ef887ef8488b3eede37c56b19e17df5e" sha1="dabc15b1464a626d8cc0653d5ef1d115c54c957a" />
+	</machine>
+	<machine name="Wish (v0.3)[alpha][src][DOS]">
+		<description>Wish (v0.3)[alpha][src][DOS]</description>
+		<rom name="wish_src_03.tar.gz" size="28173" crc="b7cfeb59" md5="a4eca862ae53e06ef31f1b182d372742" sha1="fc5b50f99f749895f622698231c8663b46504116" />
+	</machine>
+	<machine name="XRogue (v8.0.3)[var][src][DOS]">
+		<description>XRogue (v8.0.3)[var][src][DOS]</description>
+		<rom name="xrogue8.0.3-djgpp.zip" size="320176" crc="8483c8cb" md5="b6fc47734fba061e95ac9532989d6816" sha1="32350798ed9b60f3894fb1976def0ad31194f483" />
+	</machine>
+	<machine name="YinYangband (v1.0)[var][src][DOS]">
+		<description>YinYangband (v1.0)[var][src][DOS]</description>
+		<rom name="yybnd10s.zip" size="901207" crc="1565e6ba" md5="2897a6d0f275f69e6231e32d54eae626" sha1="ce33db2e8316b592144b58ee11d2b41714d4bc6a" />
+	</machine>
+	<machine name="Zangband (v2.7.5 pre1)[var][src][DOS]">
+		<description>Zangband (v2.7.5 pre1)[var][src][DOS]</description>
+		<rom name="zangband-2.7.5pre1.tar.gz" size="2835426" crc="63416650" md5="8ea43c1b13c54157558bfd0ad3cee295" sha1="bc629715aea016abcb2e921d0fda5fbbe1f6fb5a" />
+	</machine>
+	<machine name="Zceband (v2.1.3c)[var][src][DOS]">
+		<description>Zceband (v2.1.3c)[var][src][DOS]</description>
+		<rom name="zceband-212-src.zip" size="1322246" crc="d1746478" md5="79f80b204d24e230e0befda86288820f" sha1="252e6e374e69614a2127aac90e7c729735477925" />
+	</machine>
+</datafile>

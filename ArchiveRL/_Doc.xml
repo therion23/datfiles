@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - _Doc</name>
+		<description>The classic roguelike archive - _Doc</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="ARL ALPHA">
+		<description>ARL ALPHA</description>
+		<rom name="ARL ALPHA.ods" size="41711" crc="ad1506ea" md5="87fc751fd3ccb9d1de33c1d3b9010cd7" sha1="6dd7e2ae3d3bbaf84a0ea3bfca3080f2168ea85a" />
+	</machine>
+	<machine name="ARL BETA+STABLE">
+		<description>ARL BETA+STABLE</description>
+		<rom name="ARL BETA+STABLE.ods" size="49237" crc="66a28e1a" md5="ebdb6a3962479d4cee0a07223d888f93" sha1="60ae073f4c38cbe3f10db3d56d85960330ce973a" />
+	</machine>
+	<machine name="ARL DOS">
+		<description>ARL DOS</description>
+		<rom name="ARL DOS.ods" size="38100" crc="f66e8722" md5="3c90c211f59ad987cf6f2e2ced535dfb" sha1="c0a6182764286b526912b8c235af44ad5c6f4e4e" />
+	</machine>
+	<machine name="ARL DOS SOURCE">
+		<description>ARL DOS SOURCE</description>
+		<rom name="ARL DOS SOURCE.ods" size="29021" crc="3e39ac8a" md5="d69ec74d58b876bc129bb204e5ca6046" sha1="f8e028e7ed8d99c32fd97cc47301afc66c6c2232" />
+	</machine>
+	<machine name="ARL MISC">
+		<description>ARL MISC</description>
+		<rom name="ARL MISC.ods" size="32777" crc="a1f8a860" md5="ec5a77f0e0373229b43dd97f6bc3d899" sha1="78773f61d3f8284294c74c8fae854d404932d2c9" />
+	</machine>
+	<machine name="ARL MISSING">
+		<description>ARL MISSING</description>
+		<rom name="ARL MISSING.ods" size="35630" crc="6cece95d" md5="e63915f0f5ab5f803e69cd149e204d95" sha1="97265c9c7a7f6be11b30b6ef76deb1e73c571f90" />
+	</machine>
+	<machine name="ARL PLATFORM">
+		<description>ARL PLATFORM</description>
+		<rom name="ARL PLATFORM.ods" size="29434" crc="e2ca8944" md5="30ba486f608b00f8d62d36ebf9285685" sha1="fa30b85082e48248cbe27b12b43d993368795967" />
+	</machine>
+	<machine name="ARL README v1.1">
+		<description>ARL README v1.1</description>
+		<rom name="ARL README v1.1.txt" size="22034" crc="32b55deb" md5="e8f28b1f68a8aef3523e6eeecde47c25" sha1="65152d7719912400cec96a55bc4547aee56b3561" />
+	</machine>
+	<machine name="ARL SOURCE">
+		<description>ARL SOURCE</description>
+		<rom name="ARL SOURCE.ods" size="71655" crc="7b12042c" md5="89d42066ab9c0a24d297e91d4ec00808" sha1="4393b984349d7e6012a7a4eb622635710709a4f2" />
+	</machine>
+	<machine name="ARL v1.1 MASTER">
+		<description>ARL v1.1 MASTER</description>
+		<rom name="ARL v1.1 MASTER.ods" size="171947" crc="dc7bbc03" md5="45edf2caa579859de5a465a111b9ce0d" sha1="851a2305a82f715fa59e57e146e89cfbc68b1949" />
+	</machine>
+	<machine name="ARL VARIANT">
+		<description>ARL VARIANT</description>
+		<rom name="ARL VARIANT.ods" size="47575" crc="76db9316" md5="ff53b8f125db1bd78f719f843284b22a" sha1="0b20f7b16f83b8be1b54f2f4187ccf718009f6a5" />
+	</machine>
+	<machine name="ARL XDRL">
+		<description>ARL XDRL</description>
+		<rom name="ARL XDRL.ods" size="68571" crc="7707af2d" md5="67163ca47d9eb18a35101b0e8da8cdcc" sha1="13029d6b885159cb5d23487b99a2d3d6234636dc" />
+	</machine>
+	<machine name="EXTRA">
+		<description>EXTRA</description>
+		<rom name="EXTRA\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="EXTRA\ARL COMMERCIAL.ods" size="31467" crc="25f0d7a3" md5="78566a0483bfa948e7eb62dfbf6d7bec" sha1="1056188ed540edb9e0befc0fe7174eb23a244680" />
+		<rom name="EXTRA\ARL HTML.ods" size="27336" crc="7908ddca" md5="6f91e52dc668e61920ce11f4a78f1b1f" sha1="fc0b682c8a40468bb688ac182b9f592eb132682d" />
+		<rom name="EXTRA\ARL TOOLS.ods" size="13653" crc="e772b65b" md5="67379e55dcc2fc61cfe6a89f93e41fbc" sha1="3971f1c3e006c86ec5fbee5bfc3586696cb695da" />
+	</machine>
+	<machine name="XDRL">
+		<description>XDRL</description>
+		<rom name="XDRL\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="XDRL\05-12 7DRL.ods" size="28134" crc="5ccb4c01" md5="2b5116f6163795f090870f58028a3081" sha1="bdb32645175522310485a7162064f4a5ac33defa" />
+		<rom name="XDRL\2013 7DRL.ods" size="25957" crc="d0145f4d" md5="c0bbfe0687fbc54b3dbb81fffdaec655" sha1="a5fe08378fa8b03d61db684dd5f58219af7c8578" />
+		<rom name="XDRL\2014 7DRL.ods" size="27290" crc="669edcd4" md5="5b6ed308a9f235e2c3ffca54c624f1d6" sha1="5ee56ddefeef07434dc4e69107a26032b9de1859" />
+		<rom name="XDRL\2015 7DRL.ods" size="27113" crc="2c57c00d" md5="47ad11466a2e40b6e3adf5af2a90f179" sha1="b8d148311f611d116f56b00925e12b9d087d2446" />
+		<rom name="XDRL\2016 7DRL.ods" size="26984" crc="dc0402fc" md5="cf5415c9bbb3b8a914cb2c9850eae1dc" sha1="b693e2a58e546d6647ac18e40a88f5a8e2212029" />
+		<rom name="XDRL\2017 7DRL.ods" size="25402" crc="cfbc94e4" md5="aaea361075e0ee28fcd20fb637649e53" sha1="546dde16527d06f6759fdba13f7ed6d96be9b61d" />
+		<rom name="XDRL\2018 7DRL.ods" size="23190" crc="6a4fefc3" md5="c1e35f6044b42fc98cfaf43bddb70ab9" sha1="efbdbdb0b96b7eb7143f73bfc7759f58f1b77def" />
+		<rom name="XDRL\2019 7DRL.ods" size="24274" crc="6f82ffaf" md5="2595c8fd59e324fa39a00cccb49d583b" sha1="c672e8994dcdd4f51c8c3fe7cb3f15eb7821fb8d" />
+		<rom name="XDRL\XDRL MISSING.ods" size="23399" crc="cca97a6b" md5="769c8913db13d5977ca8db63f5b40eaf" sha1="b767e442776ccb9ab32588990489d6c7115887e5" />
+		<rom name="XDRL\XDRL OTHER.ods" size="29100" crc="614856f0" md5="19342db820d357a8d1d5bbf3d57686f4" sha1="304c7ee3792860c388ea43390bd2e4ce466e758a" />
+	</machine>
+</datafile>

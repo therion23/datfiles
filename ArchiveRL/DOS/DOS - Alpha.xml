@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - DOS - Alpha</name>
+		<description>The classic roguelike archive - DOS/Alpha</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="Abura Tan (v0.A11)[alpha][DOS]">
+		<description>Abura Tan (v0.A11)[alpha][DOS]</description>
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\__Doc\Abura Tan - RogueBasin.mht" size="17891" crc="356b24a0" md5="518d6c98399ade3ae6e30e114574e881" sha1="393843751832ead803f3a7c503ea45e806120585" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\__Doc\Abura Tan - website.mht" size="73327" crc="1c0d0639" md5="dded4b467ef8a75b167c4f63c8f379d1" sha1="2f5bc60ab1941a1b685774eb06bd226c069a6b1c" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\aburatan.exe" size="439576" crc="8e0d1904" md5="c75eed9a2279ce98a70708947e37f85f" sha1="1a09723856f8f79af03e52b35b3577097ec47e98" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\contrib.txt" size="712" crc="86cfa18b" md5="067af2918dc369ba863e433171b6d82e" sha1="ce791370680123f9bc33068966d8e0c84e96b2e9" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\gpl.txt" size="15272" crc="6ad1199f" md5="ee3b2d690c6850c257b37f1265f49415" sha1="111d10c2d220dfdf89de5a4b6c51db47d59c0792" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\history.txt" size="3397" crc="d3a6d628" md5="aef806f71487aaf9a1bcc919758b2555" sha1="fb8f28c4eef25e69cae4ac4ad583b7d403c7a4f0" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\info\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\info\feature.txt" size="6633" crc="0e76a88b" md5="53e9b55ff0a4712229898e21505df649" sha1="78b7c57d4440c36d8e024f90d5400b07408b464e" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\manual.txt" size="15136" crc="112ed997" md5="09a760b095ae94fb6670c76b1b872111" sha1="2eb74e4c2dec847abb97d65214a5ffb8bbb1e0d3" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\save\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Abura Tan (v0.A11)[alpha][DOS]\shots\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+	</machine>
+	<machine name="Champion of the Savarian Empire (v0.35)[alpha][DOS]">
+		<description>Champion of the Savarian Empire (v0.35)[alpha][DOS]</description>
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\__Doc\cose.mht" size="55682" crc="7e9e0b13" md5="374e07e4ab82f970228e95538a1d94d3" sha1="15785b5e163c1bbc7ed69dc10f746ff13e62b53d" />
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\__Doc\Wayback Machine.mht" size="259714" crc="8eaca1cf" md5="f8e4d483f42c85dd17fb78047c8446ba" sha1="7c987ea2a00f3561b41594e1783a79775cf97bd3" />
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\__Doc\Wayback Machine1.mht" size="261442" crc="f647d23c" md5="7c0ce1320fffae0ceb2f0a90b976bdae" sha1="d8247dc27b18f69de191bd8a37633b09c106afea" />
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\__Doc\Wayback Machine3.mht" size="252137" crc="6b3092dd" md5="2539cf10612fadad48c101b8deaad01a" sha1="dfa398ce7ebed7c5cfc00c75154b691290bb6393" />
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\COSE.CFG" size="2223" crc="04d6a608" md5="04e25c9bbf0708faf6e46d808db14dda" sha1="333d616f781161c9b11b060ec789f4f6c9c45b4c" />
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\cose.exe" size="1519032" crc="7af3a221" md5="8af4ba79e32a11ce1a67fcbf3b2c8abf" sha1="15080e615867b4d0ea488fc0a26db3dbb2ae5f3a" />
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\readme.txt" size="3674" crc="ff9ffc49" md5="982e0e0e801a1829cc1b8621aabe0f20" sha1="5d89e65bd1dab58b5136d5b2cecf56000f5f2f3d" />
+		<rom name="Champion of the Savarian Empire (v0.35)[alpha][DOS]\runcose.bat" size="25" crc="6c183644" md5="a785285840ffdb956de368b4afb212d5" sha1="95f59efdef76b690dbd59ab5f025a3cd92dfcb0e" />
+	</machine>
+	<machine name="Kitty Underground (vAbbey)[alpha][DOS]">
+		<description>Kitty Underground (vAbbey)[alpha][DOS]</description>
+		<rom name="Kitty Underground (vAbbey)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Kitty Underground (vAbbey)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Kitty Underground (vAbbey)[alpha][DOS]\__Doc\Kitty Underground - RogueBasin.mht" size="331098" crc="9e2a254b" md5="aaf8f2052ebe5eeb82231d0f3f3d1058" sha1="9b9242f989fbb937b4062cecc1db3941ff593b69" />
+		<rom name="Kitty Underground (vAbbey)[alpha][DOS]\KU.EXE" size="158124" crc="2cefb46e" md5="d1569ba0224af4470ddd100687457534" sha1="be29ef1bb70b8aba8e16863582453f37971c1d96" />
+		<rom name="Kitty Underground (vAbbey)[alpha][DOS]\Readme.txt" size="8718" crc="c013401f" md5="87c9ffddc956f44d6d22273f2989f310" sha1="22ab05e25640b2949b241fdd128fd8f2709fd36d" />
+	</machine>
+	<machine name="Lord of Rage and Death (v1.5)[alpha][DOS]">
+		<description>Lord of Rage and Death (v1.5)[alpha][DOS]</description>
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\__Doc\GitHub - suetanvil_lord_ L. O. R. D., aka Lord of Rage and Death, the roguelike game by Vaclav Jucha.mht" size="1802662" crc="e003ba81" md5="96a55c8d4e81401182cf44da00798752" sha1="81524f94d1f5614ed22184bde0fb1d8a52e56184" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\__Doc\L.O.R.D. - RogueBasin.mht" size="585044" crc="9b50b33d" md5="a5c964f4f527dcdea1b90cabf6005c61" sha1="9cbaa00ec8d0386e7431bd43f10dabd050bcc28d" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\ARENA.DAT" size="770" crc="ddd672e5" md5="d31be783631ba386203bee086107b1e0" sha1="24e4dc0eb30651402b5ad9d3b0593f46db3e5633" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\BUGS.TXT" size="2700" crc="b6389955" md5="778720d7d7b25847922a825da27eeb05" sha1="e3f5a83acbcc7775cfe2928f8651c4d7a08fc64c" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\CHANGES.TXT" size="2448" crc="846565ea" md5="19d29051997e2101ff619edbea8c62ba" sha1="19f8a726c5b21b3d0df312da68f71aac78ca4f28" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\czytaj.txt" size="135" crc="ec40eadc" md5="95e0e1493ab131ba32c3b74f2b3ff10e" sha1="eef2e56f27eda3a5ede5913daa49af6175c3d19b" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\ITEM.DAT" size="13366" crc="923e985e" md5="ee445972b5e29f6c1c3753aba73ad52a" sha1="551a223fa8e9573a90bbbe1162f886ab9973dccc" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\KEYBOARD.TXT" size="1153" crc="9dc35927" md5="e97f7be04f13dc37b4fda3014e86656f" sha1="53b5d548d2743f01e7bab784f931434f6057bc34" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\LICENSE.TXT" size="389" crc="16f88ad7" md5="8d19648dc155ea597346506245521a36" sha1="da91aeb878cef8f7daf86ed799ae113f196d312f" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\__Doc\GitHub - suetanvil_lord_ L. O. R. D., aka Lord of Rage and Death, the roguelike game by Vaclav Jucha.mht" size="1802662" crc="e003ba81" md5="96a55c8d4e81401182cf44da00798752" sha1="81524f94d1f5614ed22184bde0fb1d8a52e56184" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\__Doc\L.O.R.D. - RogueBasin.mht" size="585044" crc="9b50b33d" md5="a5c964f4f527dcdea1b90cabf6005c61" sha1="9cbaa00ec8d0386e7431bd43f10dabd050bcc28d" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\ARENA.DAT" size="770" crc="ddd672e5" md5="d31be783631ba386203bee086107b1e0" sha1="24e4dc0eb30651402b5ad9d3b0593f46db3e5633" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\BUGS.TXT" size="2700" crc="b6389955" md5="778720d7d7b25847922a825da27eeb05" sha1="e3f5a83acbcc7775cfe2928f8651c4d7a08fc64c" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\CHANGES.TXT" size="2448" crc="846565ea" md5="19d29051997e2101ff619edbea8c62ba" sha1="19f8a726c5b21b3d0df312da68f71aac78ca4f28" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\czytaj.txt" size="135" crc="ec40eadc" md5="95e0e1493ab131ba32c3b74f2b3ff10e" sha1="eef2e56f27eda3a5ede5913daa49af6175c3d19b" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\ITEM.DAT" size="13366" crc="923e985e" md5="ee445972b5e29f6c1c3753aba73ad52a" sha1="551a223fa8e9573a90bbbe1162f886ab9973dccc" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\KEYBOARD.TXT" size="1153" crc="9dc35927" md5="e97f7be04f13dc37b4fda3014e86656f" sha1="53b5d548d2743f01e7bab784f931434f6057bc34" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\LICENSE.TXT" size="389" crc="16f88ad7" md5="8d19648dc155ea597346506245521a36" sha1="da91aeb878cef8f7daf86ed799ae113f196d312f" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\LORD.EXE" size="182720" crc="ffe6a411" md5="980e8c77db27b8135c07cb529f43e5be" sha1="a133e1cf90c47316290c65d6bbef49236cff298d" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MANUAL.TXT" size="18868" crc="c4265fac" md5="20114e73bd6e3fba21a3c36ba14f0932" sha1="79ab14f7fa7d45a6c186f88c4479e7a6cca555ed" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\ITEM.@0" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\ITEM.A1" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\ITEM.C1" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\ITEM.D1" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\ITEM.D2" size="19560" crc="1e7b8992" md5="4792462f9a04f8891c913645b5c58b24" sha1="41f5ed72cb3c03e23b6e2c4025d9c515f46efd66" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\ITEM.E5" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\ITEM.G1" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MAP.@0" size="4800" crc="b7fffc42" md5="eec6120094cce8c33d0b426898adf76e" sha1="dd894075e75cd5c56a4b5f5f4dddbf1e62f9ef70" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MAP.A1" size="4800" crc="4e1a5af9" md5="b689d402f8e1abc1104adda199a5d8fb" sha1="3949d109c2ffc26dccc6f204eb7acf22f55de52c" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MAP.C1" size="4800" crc="64542874" md5="8cfb9c53baa53258287f6044de8a37a8" sha1="284371a0eeea7766eaeb90667f47571886635e5b" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MAP.D1" size="4800" crc="78bff602" md5="678b74e74744e22fd05282320d6014ce" sha1="023ec389b414176cae3490492cf7540f169d95a1" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MAP.D2" size="4800" crc="653767b3" md5="d9af816647b860238039e3d7752d6536" sha1="973d7834c16632d1c3caaeeac1d4b33fd7ffd47a" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MAP.E5" size="4800" crc="626e904f" md5="3c1d634243244f237b3cae7bc61aeaab" sha1="8cbbad282704ab67ac40257e701d4a2d45a552ab" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MAP.G1" size="4800" crc="07025a0a" md5="e33b51c024ceac7eee74e291bff9af57" sha1="76fdd8e1e29ae02479fa21a1cf973dc5c7409df4" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MONSTER.@0" size="4800" crc="6b171eb0" md5="3162aa15c60d27da5231416effa14cbb" sha1="ef6a43977c462419e507022d9b206cade7ef1ad8" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MONSTER.A1" size="4800" crc="355f41b1" md5="9b31bf33487bd57e6c6d3da3ff905295" sha1="a63900a2df59b57887041bc70deb8cff501da112" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MONSTER.C1" size="4800" crc="a034e262" md5="52dfdfb716404f92c17ff57cdd789da1" sha1="54f2e92d9fb6a7ea873fec4bbbe36e34e42f5847" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MONSTER.D1" size="4800" crc="a7a4e845" md5="3a863dcf8d92b5fc093ba1ba918f517d" sha1="09488ae8f9829794b9a46bc0e2604d047fabfd6a" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MONSTER.D2" size="4800" crc="95b96352" md5="5259e08d01728add5125401c6d5af7ee" sha1="009b6a8673a76247b02724d8209bedb3021effb1" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MONSTER.E5" size="4800" crc="77ffb943" md5="7df8e1db6a5d9e9a3ee7ed6232029e15" sha1="e9a19be871faaa84fc5e0786eff04eb7b9a23561" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\MONSTER.G1" size="4800" crc="ec92d03c" md5="ea8e44deeb4ed42dd37c625f39229242" sha1="39181f75ace7c83bb7ad15798e150bcfa38a181d" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\TYPE.@0" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\TYPE.A1" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\TYPE.C1" size="2400" crc="56f3fce7" md5="414c5d9141f145f72cb176486eb79f6b" sha1="b2e842f5f698f2b8beb1e9b60df599ddf33c041f" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\TYPE.D1" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\TYPE.D2" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\TYPE.E5" size="2400" crc="015da44c" md5="19915751d8e2b03a81532b36f7d4cd8d" sha1="9ee27ea5f8a461ffb2383b481a77106d5e8b9515" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MAPS\TYPE.G1" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\MONSTER.DAT" size="3630" crc="a0191f09" md5="49f191fa0261d9bfe28111a4c57ab01a" sha1="3d14387f0219d5bdce551bd8798d0fa25e5df7a5" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\SPELSKIL.TXT" size="3788" crc="0fcd96de" md5="c482a0038191ed435fcafa42cea2854c" sha1="2c05d44fa234e75e88a96c7a8c91a109e2da168c" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\Lord of Rage and Death v1.5 [alpha][DOS]\THANKS.TXT" size="529" crc="7e950e9a" md5="8da10941567c4e111b0da7ba1cef41a0" sha1="01b49cbc1b584ad17b44eb67f3ba749eb957786a" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\LORD.EXE" size="182720" crc="ffe6a411" md5="980e8c77db27b8135c07cb529f43e5be" sha1="a133e1cf90c47316290c65d6bbef49236cff298d" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MANUAL.TXT" size="18868" crc="c4265fac" md5="20114e73bd6e3fba21a3c36ba14f0932" sha1="79ab14f7fa7d45a6c186f88c4479e7a6cca555ed" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\ITEM.@0" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\ITEM.A1" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\ITEM.C1" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\ITEM.D1" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\ITEM.D2" size="19560" crc="1e7b8992" md5="4792462f9a04f8891c913645b5c58b24" sha1="41f5ed72cb3c03e23b6e2c4025d9c515f46efd66" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\ITEM.E5" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\ITEM.G1" size="19200" crc="ca78214c" md5="235ecfc8c84b1cc7adb274f02499538c" sha1="e4b49911f7b69c629732793122780bad91a73ccf" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MAP.@0" size="4800" crc="b7fffc42" md5="eec6120094cce8c33d0b426898adf76e" sha1="dd894075e75cd5c56a4b5f5f4dddbf1e62f9ef70" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MAP.A1" size="4800" crc="4e1a5af9" md5="b689d402f8e1abc1104adda199a5d8fb" sha1="3949d109c2ffc26dccc6f204eb7acf22f55de52c" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MAP.C1" size="4800" crc="64542874" md5="8cfb9c53baa53258287f6044de8a37a8" sha1="284371a0eeea7766eaeb90667f47571886635e5b" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MAP.D1" size="4800" crc="78bff602" md5="678b74e74744e22fd05282320d6014ce" sha1="023ec389b414176cae3490492cf7540f169d95a1" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MAP.D2" size="4800" crc="653767b3" md5="d9af816647b860238039e3d7752d6536" sha1="973d7834c16632d1c3caaeeac1d4b33fd7ffd47a" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MAP.E5" size="4800" crc="626e904f" md5="3c1d634243244f237b3cae7bc61aeaab" sha1="8cbbad282704ab67ac40257e701d4a2d45a552ab" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MAP.G1" size="4800" crc="07025a0a" md5="e33b51c024ceac7eee74e291bff9af57" sha1="76fdd8e1e29ae02479fa21a1cf973dc5c7409df4" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MONSTER.@0" size="4800" crc="6b171eb0" md5="3162aa15c60d27da5231416effa14cbb" sha1="ef6a43977c462419e507022d9b206cade7ef1ad8" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MONSTER.A1" size="4800" crc="355f41b1" md5="9b31bf33487bd57e6c6d3da3ff905295" sha1="a63900a2df59b57887041bc70deb8cff501da112" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MONSTER.C1" size="4800" crc="a034e262" md5="52dfdfb716404f92c17ff57cdd789da1" sha1="54f2e92d9fb6a7ea873fec4bbbe36e34e42f5847" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MONSTER.D1" size="4800" crc="a7a4e845" md5="3a863dcf8d92b5fc093ba1ba918f517d" sha1="09488ae8f9829794b9a46bc0e2604d047fabfd6a" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MONSTER.D2" size="4800" crc="95b96352" md5="5259e08d01728add5125401c6d5af7ee" sha1="009b6a8673a76247b02724d8209bedb3021effb1" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MONSTER.E5" size="4800" crc="77ffb943" md5="7df8e1db6a5d9e9a3ee7ed6232029e15" sha1="e9a19be871faaa84fc5e0786eff04eb7b9a23561" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\MONSTER.G1" size="4800" crc="ec92d03c" md5="ea8e44deeb4ed42dd37c625f39229242" sha1="39181f75ace7c83bb7ad15798e150bcfa38a181d" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\TYPE.@0" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\TYPE.A1" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\TYPE.C1" size="2400" crc="56f3fce7" md5="414c5d9141f145f72cb176486eb79f6b" sha1="b2e842f5f698f2b8beb1e9b60df599ddf33c041f" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\TYPE.D1" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\TYPE.D2" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\TYPE.E5" size="2400" crc="015da44c" md5="19915751d8e2b03a81532b36f7d4cd8d" sha1="9ee27ea5f8a461ffb2383b481a77106d5e8b9515" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MAPS\TYPE.G1" size="2400" crc="9d4bb32a" md5="5be28002868969cd4512b0e91a389a52" sha1="97d55e5d20616ca66546f99076239acc7412ab30" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\MONSTER.DAT" size="3630" crc="a0191f09" md5="49f191fa0261d9bfe28111a4c57ab01a" sha1="3d14387f0219d5bdce551bd8798d0fa25e5df7a5" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\SPELSKIL.TXT" size="3788" crc="0fcd96de" md5="c482a0038191ed435fcafa42cea2854c" sha1="2c05d44fa234e75e88a96c7a8c91a109e2da168c" />
+		<rom name="Lord of Rage and Death (v1.5)[alpha][DOS]\THANKS.TXT" size="529" crc="7e950e9a" md5="8da10941567c4e111b0da7ba1cef41a0" sha1="01b49cbc1b584ad17b44eb67f3ba749eb957786a" />
+	</machine>
+	<machine name="NonStop (v0.3)[alpha][DOS]">
+		<description>NonStop (v0.3)[alpha][DOS]</description>
+		<rom name="NonStop (v0.3)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\__Doc\nonstop.mht" size="62730" crc="d5185c66" md5="afa37d378df44fb138bd946faa40afdc" sha1="c6f1a8424509869118cea54fbebec64af62c7af2" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\__Doc\Witaj.mht" size="136580" crc="8733d95c" md5="f346b237b3ad94920ee7da4b9610df88" sha1="bbd24e15481e1b5f96aeeb45ab0c45083540ffdc" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\ITEMS.DEF" size="14212" crc="f440d88e" md5="822f451d7afbc55f71390e4de71e58a3" sha1="cdb7b4264be3e963decf5f4b326e9a7570c9c008" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\ITEMS.LST" size="1413" crc="7ba2ca71" md5="3b5341472a484c1f76996d7cd718546a" sha1="a0d7602007e02cc81764ac8efa858248e32d1c9e" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\ITEMSIGN.LST" size="483" crc="adf5d9c2" md5="c470d1c6cf80cd3f7c652762d1642b04" sha1="34d4d202c7e7e2c491caf7898a726d10c8326f3e" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\KEYBOARD.DEF" size="1142" crc="22ad6aa5" md5="1308c2a96376b2ed32bfeb4ca37ef7f5" sha1="629b4516f046ba4087c935b21ebcd47059dd8898" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\MONSTERS.DEF" size="4613" crc="a9000c52" md5="dc28174a41389ec378bf240dcbde1f3a" sha1="b581ecae5b6b01a8a2ec11a6d3bd37e9b1e3dc1c" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\MONSTERS.LST" size="325" crc="95bef479" md5="bfea0879015de78648482870240c94a6" sha1="fe9752946b6e762c92eb8bbecf59bfbedd728c71" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\PROFESSI.LST" size="178" crc="35aba486" md5="c2b1f687860e20a4cee3637c63e37a17" sha1="ffe927b016ffc81f358d544126da12312249037a" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\SKILLS.LST" size="10" crc="a3282ad9" md5="cb7a6fd6951995fbef2af6ea7af2176c" sha1="1d99a34625fb7bbb6c84a9fbd0aeaf62d076adc0" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\TERRAIN.DEF" size="31337" crc="ab4ab3d8" md5="fdfa8732b506687720fcaebe69d56c73" sha1="4b6b931cebe2cb4a1b0a423f19d77941862b8f7a" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\DEFS\TERRAIN.LST" size="1332" crc="3daa6abf" md5="4ea96d5b4b40f3f9fcd7604b10f770fe" sha1="9329862f622c528c4f92c2dae142e1793fa519ae" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\MAPA1.MAP" size="640000" crc="cbb91088" md5="63554a441a2b903cbeebe76b0fcad09c" sha1="37c2a594ff0576483714f053c780520505fdb157" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\MAPA2.MAP" size="640000" crc="910ac5a2" md5="1c88f6cf55661db10bff57b8b4a733d3" sha1="5f6234fc0b9be6ef81375c3b6042c7c93a851a82" />
+		<rom name="NonStop (v0.3)[alpha][DOS]\nonstop.exe" size="62788" crc="3672f2ac" md5="eff286acfb91a7c8954f474951a78070" sha1="c00ce0a032c410e6bc0f4ad95194305a7c33f319" />
+	</machine>
+	<machine name="Rolf (v)[alpha][DOS]">
+		<description>Rolf (v)[alpha][DOS]</description>
+		<rom name="Rolf (v)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rolf (v)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rolf (v)[alpha][DOS]\__Doc\Jim Crawford's goombas.org - rolf.mht" size="22875" crc="8abe0b85" md5="4c87f176639af2d935064bc3617aedd8" sha1="173df65477b10b071f41bb3c054a90c298ed7f42" />
+		<rom name="Rolf (v)[alpha][DOS]\__Doc\Jim Crawford's goombas.org - tracking by scent and sound in roguelikes.mht" size="32101" crc="6e35b45c" md5="45ac3a14ad5788ef62b8bb3e458a1c4e" sha1="d265d46b68f86007783b9b8eacbea79575a85aa3" />
+		<rom name="Rolf (v)[alpha][DOS]\rolf.exe" size="48744" crc="317d40ba" md5="6a35506c16871f8d5f2647231cc436bd" sha1="352d13887024732768f18f3f3ca3e4f98340d53e" />
+	</machine>
+	<machine name="Stronghold (v0.0.1fix3)[alpha][DOS]">
+		<description>Stronghold (v0.0.1fix3)[alpha][DOS]</description>
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\__Doc\index.mht" size="183998" crc="6b7a3ee5" md5="8b452bfaa980849db336c792eb484df4" sha1="71abe8f1dfb978449b96b86586cb041cda787a1d" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\__Doc\Stronghold roguelike home pa2ge -- about..mht" size="147199" crc="17b6d477" md5="0943e99b3dc7864fe2bc5e9ca8ee30ab" sha1="85f7b3a1a2f3655cb795c3c73eeaf8a22f205a3c" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\__Doc\Stronghold roguelike home page -- about..mht" size="147447" crc="93a3896c" md5="5dfc51b77d6a3de14935ee986c9cc969" sha1="22c98bd6ceada85237c2f36efca5327b18b3337b" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\AUTHORS" size="447" crc="e705b372" md5="55b84f89b04c8127ede2209b45e1ab37" sha1="2f59a54355596d2c581fef267a58865b8a44a24f" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\Changes" size="41" crc="271dfa50" md5="a034c8e3fff155e80883c6b233b93332" sha1="0f7ee31b456cda85959da8c23845a9b683f24939" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\COPYING" size="18332" crc="e253da7b" md5="46aaf69a91703493b666f212a04f2d8d" sha1="b9e28040de9d8773c5b0cc8108869e8f3f287798" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\INSTALL" size="487" crc="d6e54110" md5="f79c87f4b9c61bf1590eb7090af74143" sha1="954527d538888b06cd00e4e7864dd379ca6aac42" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\README" size="2229" crc="b6441b77" md5="2302716f10ac6977cbe756e068aabdc3" sha1="52a5910d52a22cc670667d2688459c5099cf20c8" />
+		<rom name="Stronghold (v0.0.1fix3)[alpha][DOS]\shold.exe" size="273920" crc="6f03bb56" md5="9e69147840af87e2017bd01c53b8c731" sha1="e6a54a09e8df87fcfd469e78c506a93c93f6200e" />
+	</machine>
+	<machine name="Tiamat (v0.00.005)[alpha][DOS]">
+		<description>Tiamat (v0.00.005)[alpha][DOS]</description>
+		<rom name="Tiamat (v0.00.005)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Tiamat (v0.00.005)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Tiamat (v0.00.005)[alpha][DOS]\__Doc\index.mht" size="183108" crc="41cf17d1" md5="11ef35b700abbde6c92361c30f50016f" sha1="fb1aa8e28e330ee1306cc06eb19caa4df2f8d849" />
+		<rom name="Tiamat (v0.00.005)[alpha][DOS]\rooms.tmt" size="2264" crc="9efb5684" md5="63aec199897f447024af677be6763c2e" sha1="18a1743d21867df17412a88c63d2bf002d49fed6" />
+		<rom name="Tiamat (v0.00.005)[alpha][DOS]\Tiamat.exe" size="88622" crc="a4734bc4" md5="f660e4e40cf079477420fc101b5aff4d" sha1="6fe460b93dd6f2da7aeebdbe07b9723554e745d5" />
+		<rom name="Tiamat (v0.00.005)[alpha][DOS]\Tiamat.txt" size="1799" crc="bf08dc91" md5="aa23d01c7a5d7ef27d8db7ef00941e8a" sha1="2c10e86d71923c4ae62e93fa770773c230289155" />
+	</machine>
+	<machine name="Vampire Hunt (v1.0)[alpha][DOS]">
+		<description>Vampire Hunt (v1.0)[alpha][DOS]</description>
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\__Doc\index.mht" size="167732" crc="811b976a" md5="8e10a6a31fa55441a724e963b585c616" sha1="1eddb11ebee836129a460ca227c8725f92706d68" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\adres.txt" size="49" crc="d820baf3" md5="558acdabc7a2760c9481b5f0b7c59d8b" sha1="c896d5c9f4f948707c15a908c5856af45ad09266" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\data\0.LEV" size="10200" crc="3266592d" md5="1e333f27b5d6fe5badfc4254db05ff87" sha1="7dce0c08a179dbcfd396be8e2bcdc4adecba8f32" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\FAQ.txt" size="1655" crc="d3f90160" md5="37a2920bc3e383556593f3028685ab0f" sha1="926c5d85d1260528688ce53c47226051c73f2c0e" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\license.txt" size="510" crc="76177d6b" md5="273a722f5000fd192437337a4a3f5864" sha1="12899b465e7c1fbaa74780757038cfa75942b98e" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\readme.txt" size="3059" crc="06bef670" md5="4fb7ce2158e7ed64e58f2606aadca848" sha1="859a629264c204ba4e6a78ea279dc4214d871c9e" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\start.bat" size="63" crc="2092c19b" md5="88edb9a6c2f53e58a64123d394eef538" sha1="5e23944b0d7b308d025f660458dcc7d0eb04c71d" />
+		<rom name="Vampire Hunt (v1.0)[alpha][DOS]\VAMPIRE.EXE" size="55104" crc="ea1150cb" md5="24bd990bf148995bc4732493c30e42de" sha1="1b9f8a72b9913547aed0261dcbc5307f1a7151aa" />
+	</machine>
+	<machine name="Wish (v0.3)[alpha][DOS]">
+		<description>Wish (v0.3)[alpha][DOS]</description>
+		<rom name="Wish (v0.3)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Wish (v0.3)[alpha][DOS]\WISH.EXE" size="228241" crc="1e294b0e" md5="528b3e63088178cfc118ce0462cfee1c" sha1="4cda984c47c420e1a0e2932f3f4683cb23703abc" />
+	</machine>
+	<machine name="YARG (v0.08)[alpha][DOS]">
+		<description>YARG (v0.08)[alpha][DOS]</description>
+		<rom name="YARG (v0.08)[alpha][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="YARG (v0.08)[alpha][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="YARG (v0.08)[alpha][DOS]\__Doc\index.mht" size="184362" crc="08466b16" md5="a3dca68364e4cfb48bc51a42715f4164" sha1="5c8b39ee71668122603cbf71bc7eb6ff30664c8f" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\items.gz" size="994" crc="ebbd8704" md5="2b7de230e79b96b14072ebab35b71e2d" sha1="3a03ebc95c609dbcf78e31143248cd49e720a036" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\keys.gz" size="679" crc="22faef08" md5="790eb3474dddd5c0e043aa1c3544ed4f" sha1="1f480f5188b61bd1e0e2895d435fdfcfda4f585b" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\levels.gz" size="1006" crc="5f792edb" md5="e79ccf9dc701cdd6ca43fbacb717a521" sha1="6ef0329714b944e1712a1410db57281ac389271f" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\main.gz" size="906" crc="662888f9" md5="d8c86f59e0e2944c330922a472a1c195" sha1="79bd83a066ec47cf12d9d608546831e7dc6ba505" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\map.gz" size="1035" crc="3844bfe7" md5="65431bdb81719b89b4a119e20a15cc34" sha1="4c41dcb79d2d75e7807a2c93d532a2492b6bd823" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\messages.gz" size="1821" crc="86ce1710" md5="be44b3a271ca1f49ea4b9030f6c8aa21" sha1="49be64cbd93df2df32b1892d09a4ee269ce324e3" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\minigzip.exe" size="49456" crc="0c4c838a" md5="b771227aa8fbe4765b9ec06ab2ff6de7" sha1="e5b7238d6c3002d6351cb8bba4765c317f92a17d" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\monsters.gz" size="357" crc="9faaa1f8" md5="517b37556222be1ca39e288e1b58fa5e" sha1="fba24518a289e7ef52d1392b42e17981e6dbc088" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\rooms.gz" size="946" crc="f49f0e69" md5="63e8e9dba987b8e0b52a31a1833609c6" sha1="ae0390a83fd32e008ba9685e5d9497a875819da7" />
+		<rom name="YARG (v0.08)[alpha][DOS]\data\tiles.gz" size="2075" crc="f9dccedb" md5="a91fda8416147bc2d8e15fe3d523bbc6" sha1="8b7ce6ec1c9759d72b8c36bb4cfac5986327fd91" />
+		<rom name="YARG (v0.08)[alpha][DOS]\history.txt" size="2295" crc="7cc6d92b" md5="50035c0d8b6edef54f2f5c22211dfdbf" sha1="8ae38293faa5bf51643ed2652ecd8c141d1d3313" />
+		<rom name="YARG (v0.08)[alpha][DOS]\r.exe" size="84608" crc="966ec62d" md5="3eb41d247faf5ad00f817cf50b7d1c6a" sha1="58d9579ea77e23875a6f5ce9166692d60da0514f" />
+		<rom name="YARG (v0.08)[alpha][DOS]\todo.txt" size="2150" crc="48f0055a" md5="b1bf85bb5b0e7c83a033ce9e26a3ced6" sha1="b26e8d34c0e4f87160da5e66a6a1c142b26768d6" />
+	</machine>
+</datafile>

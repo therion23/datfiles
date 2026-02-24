@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - Variant - Rogue</name>
+		<description>The classic roguelike archive - Variant/Rogue</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="Advanced Rogue (v7.7.1)[var]">
+		<description>Advanced Rogue (v7.7.1)[var]</description>
+		<rom name="Advanced Rogue (v7.7.1)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\A Brief History of _Rogue_.mht" size="10578" crc="a2308e98" md5="49b981bb1c67373cb23cc8465967dafb" sha1="35a1cc25ffde430b65f31cb9f4023bb8a4ac3c2b" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\About Rogue - Rogue Central @ coredumpcentral.org.mht" size="61605" crc="27ad0c6a" md5="13daa6f18ac06d7ed2a84c8776bc8476" sha1="67a0e260316bfd29383bde009db5f3d02955eb91" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\Advanced Rogue - RogueBasin.mht" size="17643" crc="4e5134e7" md5="d2cfd24dfc77582f94dc7f76f0c183a2" sha1="274392f7c1725e069e73faa222a80fea953b42b8" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\Rogue - RogueBasin.mht" size="25444" crc="375bde3a" md5="e25e1d46ca218d20ecbcd9f57cc820a8" sha1="695060b65ea875844f0cdd9f582854f6bd5ee2c0" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\Rogue for Amiga (1986) - MobyGames.mht" size="578398" crc="ce743ef9" md5="2322e162e4f1c4b7f3ef6e99feaecf7a" sha1="af94453253c79ef0608e12a1871045d8348aaebf" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\Rogue interview with Glen Wichman.mht" size="53608" crc="131758a1" md5="d7d5457c720f83e183713d906207b0ef" sha1="2140e94c679e3010a459c59ff7b1592988a07587" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\Rogue Stories.mht" size="97847" crc="e303c628" md5="ad72d9d21768ddd9e141dd1d84e72ffa" sha1="911e3fcbccc5d5254508920e135cf51e12be5ee2" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\Roguelike Restoration Project - Advanced Rogue 7.7.mht" size="56100" crc="e5b3f33a" md5="90a878c42d6b86d37e28cf1692f1f201" sha1="3b8c34522842af9dd182b2beb3e75b91ec097e7f" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\__Doc\Roguelike Restoration Project - Vade-Mecum.mht" size="129867" crc="46a21dba" md5="bb4f0537c80b3a2b8e26339286a5a651" sha1="101b6a96d3b46d32350dae0208de9dea267b426c" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\arogue77.doc" size="38629" crc="d9d099ef" md5="a80d31b513a9a802767503d1e6c9ddfc" sha1="a3d856d40a0469e40d6919f18fc8adfbb01e88ad" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\arogue77.exe" size="413696" crc="cf7ad49b" md5="31eacf4eb95061038b3bcd41b1acb4f6" sha1="b6f4f9399eda8d940c7aa5ed3c0c9c0320c0ad3a" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\arogue77.html" size="47637" crc="389c4278" md5="a94cdd092fa5ef7e9365758cd1a1f90d" sha1="37c84058162eebffbd624b786439606004d1c03c" />
+		<rom name="Advanced Rogue (v7.7.1)[var]\LICENSE.TXT" size="9331" crc="e24a4bcd" md5="afb60f8445634d6901dd74e0ba406f09" sha1="679a69f256ec0afe2552df56cd71e12dc1f7db1b" />
+	</machine>
+	<machine name="Advanced Rogue 7 ERC (v2016.06)[var][x64]">
+		<description>Advanced Rogue 7 ERC (v2016.06)[var][x64]</description>
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\__Doc\Advanced Rogue - RogueBasin.mht" size="17643" crc="4e5134e7" md5="d2cfd24dfc77582f94dc7f76f0c183a2" sha1="274392f7c1725e069e73faa222a80fea953b42b8" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\__Doc\Advanced Rogue 7.mht" size="27594" crc="f7c583d3" md5="0d9b2948b92b8995e4af0b7edbfa3e84" sha1="fd46a677553ab4b409fe86dbcd830e7021f5a6b5" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\__Doc\Rogue - RogueBasin.mht" size="25444" crc="375bde3a" md5="e25e1d46ca218d20ecbcd9f57cc820a8" sha1="695060b65ea875844f0cdd9f582854f6bd5ee2c0" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\__Doc\Roguelike Gallery Notes.mht" size="34857" crc="b6454206" md5="e946d1f5888e3da3d20d095001aa34d2" sha1="38fc0a72e938c32928bdc1b071316909d056f059" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\__Doc\Roguelike Gallery.mht" size="39914" crc="010a2389" md5="4e8a36aa47c595b6a3de977f88d2e349" sha1="29d0388e199dee6c38658198becc967e27d8431d" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\__Doc\Roguelike Restoration Project - Vade-Mecum.mht" size="129867" crc="46a21dba" md5="bb4f0537c80b3a2b8e26339286a5a651" sha1="101b6a96d3b46d32350dae0208de9dea267b426c" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\arogue7.doc" size="38643" crc="8f45e458" md5="fbf32b870454641adc17ee746def3449" sha1="1c0fa362b9059ceb43a6bfd02247e1f7fd9edab8" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\arogue7.exe" size="374784" crc="95dc9dc5" md5="5199498218db3a17789f03c89b3d1310" sha1="32a421bdcf010d2483fe32c32da339d774c9b1ec" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\arogue77.html" size="46309" crc="95e83f52" md5="01df278e3a18e4045c7115e78efe4aa8" sha1="88307ecf308934e6fec6ca5111f95de257b71310" />
+		<rom name="Advanced Rogue 7 ERC (v2016.06)[var][x64]\LICENSE.TXT" size="9331" crc="e24a4bcd" md5="afb60f8445634d6901dd74e0ba406f09" sha1="679a69f256ec0afe2552df56cd71e12dc1f7db1b" />
+	</machine>
+	<machine name="Advanced Super Turbo Rogue Plus (v8r23)[var]">
+		<description>Advanced Super Turbo Rogue Plus (v8r23)[var]</description>
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\__Doc\Advanced Super Turbo Rogue Plus.mht" size="314028" crc="c58ee7a2" md5="75f6ed4dc4c8b8f4c29373b497662895" sha1="8a2213f4bd6079db9380288c128af1cf1236a013" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\__Doc\Advanced Super Turbo Rogue Plus2.mht" size="599077" crc="1f174374" md5="788cc08f5bd09c0d04bc70b79eb64838" sha1="dcdbe1f83d2c82d031bf2c0df06f4633e7317099" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\__Doc\Advanced SuperTurbo Rogue Plus download _ SourceForge.net.mht" size="5114681" crc="91699763" md5="df08eb5f621f83616f36e11e1c351a44" sha1="26ca191375a100ad2ca0a2fc619a76ce26493583" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\__Doc\Rogue+ update _ roguelikes.mht" size="2520333" crc="f0fc9b6a" md5="fa7275709111d510a45640e729d6e258" sha1="fe29e85942f88c38964540644548db4b9b62f346" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\GAME\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\GAME\rogue.exe" size="195584" crc="b7efb807" md5="7c843b9bb838de828f7454acd09c5ec8" sha1="bc5c914c6332b1004d4233f98f1891f7ccf420fd" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\GAME\run.bat" size="76" crc="c1d86209" md5="e2fbfd00258218289584d4d5a73a0ba9" sha1="be1475bc98495127a4a7c2a755634f677790fae2" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\Rogue+ (Amber).lnk" size="1611" crc="ec751843" md5="72db58dc1311333e39475e3614e438f4" sha1="f74d518c5404abff0a42e561c3e7de1191a0a378" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\Rogue+ (Black).lnk" size="1611" crc="6a78d39e" md5="6023ffd35599b22111816a957190ec75" sha1="6fa7f462fc33ef556c82c48f59aeba4f2989759f" />
+		<rom name="Advanced Super Turbo Rogue Plus (v8r23)[var]\Rogue+ (White).lnk" size="1611" crc="b0e6c386" md5="d84a7781a318a7ce34a59ac741e6ded6" sha1="6e926428101446ef0cb7b55eacdf14a1b3c8fb64" />
+	</machine>
+	<machine name="ClassicRogue (v2.5)[var]">
+		<description>ClassicRogue (v2.5)[var]</description>
+		<rom name="ClassicRogue (v2.5)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="ClassicRogue (v2.5)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="ClassicRogue (v2.5)[var]\__Doc\Classic Rogue - RogueBasin.mht" size="332503" crc="11d8c803" md5="58e0f02bae744db06450973693519b6e" sha1="a8b94fc0d8104d8756b8d43c4a994071d3ae0b44" />
+		<rom name="ClassicRogue (v2.5)[var]\__Doc\Classic Rogue Released — Oryx Design Lab.mht" size="5193934" crc="607935b8" md5="117d7212b61b2334c9dd9dddb8ed42f8" sha1="294a6c8ca2d27cb9d6851e83ed45583b8ffbce90" />
+		<rom name="ClassicRogue (v2.5)[var]\__Doc\Downloads - Rogue Central @ coredumpcentral.org.mht" size="59968" crc="f7b16d44" md5="9eb023ec7d066cff1689b50324a23b4e" sha1="98e6ad44f0760c1da87754cda99196c9b2636b8b" />
+		<rom name="ClassicRogue (v2.5)[var]\ClassicRogue.dll" size="118784" crc="2ac423b8" md5="f5d096fcd0cfffc9a3432a64f386b12d" sha1="1fb4c4d1e6ca32c9d39a92f1340d44ea6c103108" />
+		<rom name="ClassicRogue (v2.5)[var]\ClassicRogue.exe" size="318976" crc="9ec5b372" md5="76e30bafedd5ac904d8f435b6db45eac" sha1="e99908fec0561902c472a0cc1a5e1bded539fde3" />
+		<rom name="ClassicRogue (v2.5)[var]\ClassicRogueSafeMode.exe" size="14336" crc="1d05132c" md5="655481cce1f80aa90461399aacf6cfff" sha1="25106c777daaea7485ec0046382d52c69122de39" />
+		<rom name="ClassicRogue (v2.5)[var]\Config.txt" size="2452" crc="7471d27a" md5="d51e4ef46da7b8b5c68c467ddd8dbdce" sha1="9bed391f9983986f731c8d82fdd47d6e49bbf73c" />
+		<rom name="ClassicRogue (v2.5)[var]\ReadMe.txt" size="8131" crc="45a1db83" md5="57ad8cc13789eec6d21cd642977f9294" sha1="ff3ac7a7554af21e33aa48ac61fca8cb8d4fd838" />
+	</machine>
+	<machine name="Cronos Rogue (v1.01)[var]">
+		<description>Cronos Rogue (v1.01)[var]</description>
+		<rom name="Cronos Rogue (v1.01)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cronos Rogue (v1.01)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cronos Rogue (v1.01)[var]\__Doc\A Brief History of _Rogue_.mht" size="10578" crc="a2308e98" md5="49b981bb1c67373cb23cc8465967dafb" sha1="35a1cc25ffde430b65f31cb9f4023bb8a4ac3c2b" />
+		<rom name="Cronos Rogue (v1.01)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="Cronos Rogue (v1.01)[var]\__Doc\The Rogue Archive.mht" size="4362812" crc="10dc92d9" md5="0652cc72eb2f24c6a3d463bff7ab3622" sha1="a133c34d6acca647869bf65068bc834b85e6d99e" />
+		<rom name="Cronos Rogue (v1.01)[var]\DATA\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cronos Rogue (v1.01)[var]\DATA\ROGUE.SCO" size="1100" crc="98988554" md5="d2a76748ded202f1ce5a640d7aa0f178" sha1="09efd709b9500d2b8e46d467b573d6f23ffb96b2" />
+		<rom name="Cronos Rogue (v1.01)[var]\DATA\ROGUE.TXT" size="1405" crc="ab39de0f" md5="adb3ed0122345934c993953473f60d58" sha1="06cc11b3c39fd6cd76e4674e50d1a2ba987f334b" />
+		<rom name="Cronos Rogue (v1.01)[var]\DATA\ROGUEA.SCO" size="1100" crc="b5d92e8a" md5="d91f4805ad012f1edca8e1efaab1a8fb" sha1="6ffaadae9bedddb9cb1804e94e20cb41d399467e" />
+		<rom name="Cronos Rogue (v1.01)[var]\DATA\ROGUEC.SCO" size="110" crc="0ee26742" md5="91595948e550088ecc33259a93c23b3c" sha1="757a814e05367354a6a5cc74b49220b39fa80617" />
+		<rom name="Cronos Rogue (v1.01)[var]\README" size="4066" crc="f0983fab" md5="48f8ed32efd38902995e4f890f486f31" sha1="8424103d80df6e37be1b7863ca15e2af652776b5" />
+		<rom name="Cronos Rogue (v1.01)[var]\README.TXT" size="2151" crc="da6e5684" md5="b53860075d49e04ac30f663557ee409f" sha1="414648c2b642b5e299ad3b2bb0b5d812a73d4aca" />
+		<rom name="Cronos Rogue (v1.01)[var]\ROGUE.EXE" size="131072" crc="743148c7" md5="b5040bc0178b28e1cf522885d93d8131" sha1="2659cf5a9a5bcbaf760ec6229530c0287440b1f0" />
+	</machine>
+	<machine name="HexRogue (v)[var]">
+		<description>HexRogue (v)[var]</description>
+		<rom name="HexRogue (v)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="HexRogue (v)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="HexRogue (v)[var]\__Doc\A Brief History of _Rogue_.mht" size="10578" crc="a2308e98" md5="49b981bb1c67373cb23cc8465967dafb" sha1="35a1cc25ffde430b65f31cb9f4023bb8a4ac3c2b" />
+		<rom name="HexRogue (v)[var]\__Doc\Abandonware - Free Culture - A brief history of Rogue - Glenn R. Wichman.mht" size="235208" crc="f2b56303" md5="0876dcbcac934a113b073df579c90e0e" sha1="a5f6a0d615fdb12739f73b6c21b280cd8c172105" />
+		<rom name="HexRogue (v)[var]\__Doc\Abandonware - Free Culture - I talked with Glen Wichman about Rogue.mht" size="237862" crc="046f1a13" md5="a4e8a9b7078810939501ef70df569387" sha1="a114de9e98dd444a15651a1035493d15d6c618f9" />
+		<rom name="HexRogue (v)[var]\__Doc\Abandonware - Free Culture - Roguish charm - 1UP.mht" size="240452" crc="7b6ce14e" md5="b3277eb13518813775070d57d9ab0672" sha1="16440bad4fd65e4bab5a51782ce1d31ad06dd061" />
+		<rom name="HexRogue (v)[var]\__Doc\Abandonware - Free Culture - The making of Rogue - Edge-Online.mht" size="238927" crc="28476cb2" md5="5829ed0f5066da1ebb3c6ed22371a1db" sha1="be83fb1bdb6305ecce65bfce9e90b33c894502f3" />
+		<rom name="HexRogue (v)[var]\__Doc\About Rogue - Rogue Central @ coredumpcentral.org.mht" size="61605" crc="27ad0c6a" md5="13daa6f18ac06d7ed2a84c8776bc8476" sha1="67a0e260316bfd29383bde009db5f3d02955eb91" />
+		<rom name="HexRogue (v)[var]\__Doc\Hexatron_ HexRogue.mht" size="7578" crc="e7c6a2e5" md5="a48621c13447681d9dee698feab1188c" sha1="d0f79c5d92219994808c0c46d7944b17c229cdcb" />
+		<rom name="HexRogue (v)[var]\__Doc\HexRogue - RogueBasin.mht" size="332103" crc="a874ef1a" md5="18f0fecc5d3d9a7491ad265903eabd4f" sha1="5339b9bd97d63569b0a3e50cb448f88587cc5821" />
+		<rom name="HexRogue (v)[var]\__Doc\hexrogue.jar" size="105483" crc="179819a2" md5="3004f95d53633d41d3906fc4f51cf04e" sha1="73ed774ef8d870ead0d750b3e249329deb3cacc2" />
+		<rom name="HexRogue (v)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="HexRogue (v)[var]\__Doc\Rogue - RogueBasin.mht" size="25444" crc="375bde3a" md5="e25e1d46ca218d20ecbcd9f57cc820a8" sha1="695060b65ea875844f0cdd9f582854f6bd5ee2c0" />
+		<rom name="HexRogue (v)[var]\__Doc\Rogue for Amiga (1986) - MobyGames.mht" size="578398" crc="ce743ef9" md5="2322e162e4f1c4b7f3ef6e99feaecf7a" sha1="af94453253c79ef0608e12a1871045d8348aaebf" />
+		<rom name="HexRogue (v)[var]\__Doc\Rogue interview with Glen Wichman.mht" size="53608" crc="131758a1" md5="d7d5457c720f83e183713d906207b0ef" sha1="2140e94c679e3010a459c59ff7b1592988a07587" />
+		<rom name="HexRogue (v)[var]\__Doc\Rogue Stories.mht" size="97847" crc="e303c628" md5="ad72d9d21768ddd9e141dd1d84e72ffa" sha1="911e3fcbccc5d5254508920e135cf51e12be5ee2" />
+		<rom name="HexRogue (v)[var]\__Doc\Roguelike Restoration Project - Vade-Mecum.mht" size="129867" crc="46a21dba" md5="bb4f0537c80b3a2b8e26339286a5a651" sha1="101b6a96d3b46d32350dae0208de9dea267b426c" />
+		<rom name="HexRogue (v)[var]\__Doc\Roguelike Restoration Project - Yendor's Guide.mht" size="190797" crc="2f365ee9" md5="be989b4cd4cdd8cd660f29128a176a9d" sha1="73607cc98cfd64e0e10d3ca14b340942095c87f2" />
+		<rom name="HexRogue (v)[var]\__Doc\The Rogue Archive.mht" size="4362823" crc="e8997d79" md5="088e106b888975634053a00e22dac296" sha1="e10c4fb2293e79d42b9c9c92fa22e0fbb7c0f635" />
+		<rom name="HexRogue (v)[var]\Hexatron HexRogue.htm" size="3475" crc="4a4416ce" md5="d015fa40d9e2c01b13fa5d4e283708b7" sha1="4a33893191fb48c8dc44296a6bd03110879d4250" />
+		<rom name="HexRogue (v)[var]\Hexatron HexRogue_files\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="HexRogue (v)[var]\Hexatron HexRogue_files\hexrogue18891.jar" size="131386" crc="1f4a55c0" md5="ceca1f8f997405becc5cc516509d288d" sha1="94dcbc75492bfb01e011945347ade63412017375" />
+		<rom name="HexRogue (v)[var]\Hexatron HexRogue_files\vert.gif" size="2527" crc="8895f304" md5="3db51677ee5cf28a0662c39b70cd57d6" sha1="f6d46033a8183751c57a3f5778c42e8aef4e0c70" />
+	</machine>
+	<machine name="Rogue 5 ERC (v2016.06)[var]">
+		<description>Rogue 5 ERC (v2016.06)[var]</description>
+		<rom name="Rogue 5 ERC (v2016.06)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\__Doc\A Brief History of _Rogue_.mht" size="10578" crc="a2308e98" md5="49b981bb1c67373cb23cc8465967dafb" sha1="35a1cc25ffde430b65f31cb9f4023bb8a4ac3c2b" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\__Doc\Rogue V5.mht" size="27456" crc="059a4ccc" md5="fc4205974524561c94996040eca4126a" sha1="e213c1d3952dffdd26a6bc00cc4254cc4f599369" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\__Doc\Roguelike Gallery Notes.mht" size="34857" crc="b6454206" md5="e946d1f5888e3da3d20d095001aa34d2" sha1="38fc0a72e938c32928bdc1b071316909d056f059" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\__Doc\Roguelike Gallery.mht" size="39914" crc="010a2389" md5="4e8a36aa47c595b6a3de977f88d2e349" sha1="29d0388e199dee6c38658198becc967e27d8431d" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\__Doc\Roguelike Restoration Project - Vade-Mecum.mht" size="129867" crc="46a21dba" md5="bb4f0537c80b3a2b8e26339286a5a651" sha1="101b6a96d3b46d32350dae0208de9dea267b426c" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\LICENSE.TXT" size="4932" crc="46be61f9" md5="dc87706a4dd6f6f35ae78aa8c12a96cc" sha1="060cec132d77d4d9b1008a258307a1613172125d" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\rogue.html" size="35748" crc="3364f4f4" md5="3a7901e99790542e8e1737aaf5ccca62" sha1="21c40295c3cd4ddb5263d90ce619389a9e5e29c9" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\rogue.png" size="1005" crc="0ba78250" md5="0a4238f9aef7ef74055bee15d71baca5" sha1="92c4d6d0fed42702226b0772584319351ee7c1fa" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\rogue5.cat" size="2273" crc="de7f701f" md5="96a5a7090f23ced27f5c70fa68f314cc" sha1="7651166671de839a79b03752898cdcce765f3b2e" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\rogue5.doc" size="27817" crc="67d7b8d1" md5="2b39ab085d881bb05c1fcbfc61a30d1e" sha1="1d27f00f1c2af181e82ccc4293283ef329197446" />
+		<rom name="Rogue 5 ERC (v2016.06)[var]\rogue5.exe" size="179200" crc="f2bdc193" md5="d8bf75db578af376a8175f3abd3dbadd" sha1="0c87d189cdde9ddc6e606c9c2d01529693a28156" />
+	</machine>
+	<machine name="Rogue Clone IV (v2.1)[var]">
+		<description>Rogue Clone IV (v2.1)[var]</description>
+		<rom name="Rogue Clone IV (v2.1)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\A Brief History of _Rogue_.mht" size="10578" crc="a2308e98" md5="49b981bb1c67373cb23cc8465967dafb" sha1="35a1cc25ffde430b65f31cb9f4023bb8a4ac3c2b" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Abandonware - Free Culture - A brief history of Rogue - Glenn R. Wichman.mht" size="235208" crc="f2b56303" md5="0876dcbcac934a113b073df579c90e0e" sha1="a5f6a0d615fdb12739f73b6c21b280cd8c172105" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Abandonware - Free Culture - I talked with Glen Wichman about Rogue.mht" size="237862" crc="046f1a13" md5="a4e8a9b7078810939501ef70df569387" sha1="a114de9e98dd444a15651a1035493d15d6c618f9" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Abandonware - Free Culture - Roguish charm - 1UP.mht" size="240452" crc="7b6ce14e" md5="b3277eb13518813775070d57d9ab0672" sha1="16440bad4fd65e4bab5a51782ce1d31ad06dd061" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Abandonware - Free Culture - The making of Rogue - Edge-Online.mht" size="238927" crc="28476cb2" md5="5829ed0f5066da1ebb3c6ed22371a1db" sha1="be83fb1bdb6305ecce65bfce9e90b33c894502f3" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\About Rogue - Rogue Central @ coredumpcentral.org.mht" size="61605" crc="27ad0c6a" md5="13daa6f18ac06d7ed2a84c8776bc8476" sha1="67a0e260316bfd29383bde009db5f3d02955eb91" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Advanced Rogue - RogueBasin.mht" size="17643" crc="4e5134e7" md5="d2cfd24dfc77582f94dc7f76f0c183a2" sha1="274392f7c1725e069e73faa222a80fea953b42b8" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Rogue - RogueBasin.mht" size="25444" crc="375bde3a" md5="e25e1d46ca218d20ecbcd9f57cc820a8" sha1="695060b65ea875844f0cdd9f582854f6bd5ee2c0" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Rogue Clone - RogueBasin.mht" size="333193" crc="c37c9199" md5="583dab446291c177fa2f32e12a2efdeb" sha1="447305f7886b572b105a14cbb9cdfbf73fd285dd" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Rogue Clone IV _ News.mht" size="1022466" crc="10b9ce6f" md5="a0d2e0cb61ab181a244911596b912063" sha1="c5a5305536d72fe8c1836aaf3d49af8460583b6b" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Rogue Clone IV download _ SourceForge.net.mht" size="2170638" crc="1e1cbaf1" md5="ef2815f00b07cf9708d59babca5c29e7" sha1="4243bccd97a0781ad380c0f92a0c62fea10adbb3" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Rogue Clone IV.mht" size="7430" crc="134972df" md5="3517f079d59b30b83c2b0b73f0f9a685" sha1="f5fab19821aa276018bcb039ec37ee26e3802189" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Rogue for Amiga (1986) - MobyGames.mht" size="578398" crc="ce743ef9" md5="2322e162e4f1c4b7f3ef6e99feaecf7a" sha1="af94453253c79ef0608e12a1871045d8348aaebf" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Rogue interview with Glen Wichman.mht" size="53608" crc="131758a1" md5="d7d5457c720f83e183713d906207b0ef" sha1="2140e94c679e3010a459c59ff7b1592988a07587" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Rogue Stories.mht" size="97847" crc="e303c628" md5="ad72d9d21768ddd9e141dd1d84e72ffa" sha1="911e3fcbccc5d5254508920e135cf51e12be5ee2" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Roguelike Restoration Project - Advanced Rogue 7.7.mht" size="56100" crc="e5b3f33a" md5="90a878c42d6b86d37e28cf1692f1f201" sha1="3b8c34522842af9dd182b2beb3e75b91ec097e7f" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Roguelike Restoration Project - Vade-Mecum.mht" size="129867" crc="46a21dba" md5="bb4f0537c80b3a2b8e26339286a5a651" sha1="101b6a96d3b46d32350dae0208de9dea267b426c" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\Roguelike Restoration Project - Yendor's Guide.mht" size="190797" crc="2f365ee9" md5="be989b4cd4cdd8cd660f29128a176a9d" sha1="73607cc98cfd64e0e10d3ca14b340942095c87f2" />
+		<rom name="Rogue Clone IV (v2.1)[var]\__Doc\The Rogue Archive.mht" size="4362823" crc="e8997d79" md5="088e106b888975634053a00e22dac296" sha1="e10c4fb2293e79d42b9c9c92fa22e0fbb7c0f635" />
+		<rom name="Rogue Clone IV (v2.1)[var]\guide.html" size="33918" crc="12413812" md5="16e2717ce52d4eca7de2bf509bfc94e0" sha1="4d0d101c9e123f404a2b1692c52c0dd1795b925e" />
+		<rom name="Rogue Clone IV (v2.1)[var]\license.txt" size="1541" crc="64f8ed80" md5="5726fc0d2abf82fdca57379f247c8711" sha1="87f7863743bdf18173553b580cecfbcce1b3107b" />
+		<rom name="Rogue Clone IV (v2.1)[var]\readme.txt" size="891" crc="6c68fdee" md5="bf276b85961f7c4f2978c6a3fe7f26f4" sha1="89aa3c8bf9573b691d11bc8e1193f478d35101e4" />
+		<rom name="Rogue Clone IV (v2.1)[var]\rogue.exe" size="147456" crc="1a7e40c8" md5="5ec224bbef5c975ebdd02d33554f8484" sha1="1ef01045f2859da7ef165662e4843a912b9f2d61" />
+		<rom name="Rogue Clone IV (v2.1)[var]\rogue.html" size="4470" crc="93c21aa8" md5="7662707f46b1392ad6956119f488f439" sha1="5792bd30f51b9ac914dcf5075dd41ccca98f46cf" />
+	</machine>
+	<machine name="Rogue For Windows (v0.1)[var]">
+		<description>Rogue For Windows (v0.1)[var]</description>
+		<rom name="Rogue For Windows (v0.1)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue For Windows (v0.1)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Rogue For Windows (v0.1)[var]\__Doc\About Rogue - Rogue Central @ coredumpcentral.org.mht" size="61605" crc="27ad0c6a" md5="13daa6f18ac06d7ed2a84c8776bc8476" sha1="67a0e260316bfd29383bde009db5f3d02955eb91" />
+		<rom name="Rogue For Windows (v0.1)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="Rogue For Windows (v0.1)[var]\__Doc\Rogue For Windows.mht" size="4018" crc="1a2ee72c" md5="5db74d39a2051cb8f4278fc5c7bb5b30" sha1="1a1733dea2af2a1f37f4fb2556eab01e237186a6" />
+		<rom name="Rogue For Windows (v0.1)[var]\__Doc\The Rogue Archive.mht" size="4362823" crc="473922ac" md5="54703ba0ee3ebfafe224d5a75fcccc56" sha1="7fd69e2227f1a6b231855f7a5a0fd40dff7f182e" />
+		<rom name="Rogue For Windows (v0.1)[var]\rogue.exe" size="159744" crc="e11dd66b" md5="cee5f9d1ce7d6051a8f4cd2e860c3043" sha1="13616cdadb7f27264269c05c59bc2bce25accf93" />
+		<rom name="Rogue For Windows (v0.1)[var]\rogue.instr" size="1405" crc="ab39de0f" md5="adb3ed0122345934c993953473f60d58" sha1="06cc11b3c39fd6cd76e4674e50d1a2ba987f334b" />
+		<rom name="Rogue For Windows (v0.1)[var]\rogue.scores" size="440" crc="7cefef4d" md5="c72bf914f36ab718db41952becd7663b" sha1="14673753f715810273c4826227dec3b0d607d32c" />
+		<rom name="Rogue For Windows (v0.1)[var]\rogue.txt" size="1433" crc="9a5a3d45" md5="cacd964020def187535da999794d173d" sha1="1e978a379523ea00074e908e46438f28fcfc73a4" />
+	</machine>
+	<machine name="Super-Rogue (v9.0-1)[var][Cygwin]">
+		<description>Super-Rogue (v9.0-1)[var][Cygwin]</description>
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\A Brief History of _Rogue_.mht" size="10578" crc="a2308e98" md5="49b981bb1c67373cb23cc8465967dafb" sha1="35a1cc25ffde430b65f31cb9f4023bb8a4ac3c2b" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Abandonware - Free Culture - A brief history of Rogue - Glenn R. Wichman.mht" size="235208" crc="f2b56303" md5="0876dcbcac934a113b073df579c90e0e" sha1="a5f6a0d615fdb12739f73b6c21b280cd8c172105" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Abandonware - Free Culture - I talked with Glen Wichman about Rogue.mht" size="237862" crc="046f1a13" md5="a4e8a9b7078810939501ef70df569387" sha1="a114de9e98dd444a15651a1035493d15d6c618f9" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Abandonware - Free Culture - Roguish charm - 1UP.mht" size="240452" crc="7b6ce14e" md5="b3277eb13518813775070d57d9ab0672" sha1="16440bad4fd65e4bab5a51782ce1d31ad06dd061" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Abandonware - Free Culture - The making of Rogue - Edge-Online.mht" size="238927" crc="28476cb2" md5="5829ed0f5066da1ebb3c6ed22371a1db" sha1="be83fb1bdb6305ecce65bfce9e90b33c894502f3" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\About Rogue - Rogue Central @ coredumpcentral.org.mht" size="61605" crc="27ad0c6a" md5="13daa6f18ac06d7ed2a84c8776bc8476" sha1="67a0e260316bfd29383bde009db5f3d02955eb91" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\GameSetWatch COLUMN_ @ Play_ Super-Rogue, Banished to the Deeper Regions.mht" size="585848" crc="7dffb5b6" md5="3fcfae7d91a3bf265d649e4db4b6e296" sha1="621a79923d705623057d9210dc2995a1e0e1e62f" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\README.txt" size="452" crc="d697fc98" md5="1b2802fab4ba50c3661887658d9a3924" sha1="5fe562f18b7b05a3bc77d2713b4934a738a47fe8" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Rogue - RogueBasin.mht" size="25444" crc="375bde3a" md5="e25e1d46ca218d20ecbcd9f57cc820a8" sha1="695060b65ea875844f0cdd9f582854f6bd5ee2c0" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Rogue for Amiga (1986) - MobyGames.mht" size="578398" crc="ce743ef9" md5="2322e162e4f1c4b7f3ef6e99feaecf7a" sha1="af94453253c79ef0608e12a1871045d8348aaebf" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Rogue interview with Glen Wichman.mht" size="53608" crc="131758a1" md5="d7d5457c720f83e183713d906207b0ef" sha1="2140e94c679e3010a459c59ff7b1592988a07587" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Rogue Stories.mht" size="97847" crc="e303c628" md5="ad72d9d21768ddd9e141dd1d84e72ffa" sha1="911e3fcbccc5d5254508920e135cf51e12be5ee2" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Roguelike Restoration Project - Super-Rogue 9.0.mht" size="155965" crc="d7020108" md5="bdec4b72c095446254959d8ef9f5f963" sha1="a8b01db7a4da99df19ae7f74cc8d4789efdf43e3" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Roguelike Restoration Project - Vade-Mecum.mht" size="129867" crc="46a21dba" md5="bb4f0537c80b3a2b8e26339286a5a651" sha1="101b6a96d3b46d32350dae0208de9dea267b426c" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Roguelike Restoration Project - Yendor's Guide.mht" size="190797" crc="2f365ee9" md5="be989b4cd4cdd8cd660f29128a176a9d" sha1="73607cc98cfd64e0e10d3ca14b340942095c87f2" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\Super-Rogue - RogueBasin.mht" size="331650" crc="4f5af219" md5="95810a29928f02a8ce67930197b7f8a1" sha1="7f626e7abd57762ee961360440eda9b5a6f98f16" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\__Doc\The Rogue Archive.mht" size="4362823" crc="e8997d79" md5="088e106b888975634053a00e22dac296" sha1="e10c4fb2293e79d42b9c9c92fa22e0fbb7c0f635" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\LICENSE.TXT" size="7196" crc="abcc734e" md5="058582754ecff24c41a2d88360e125f2" sha1="c4c1f1cb4e54892259b3a98224a89395dbeea60a" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\srogue.doc" size="26421" crc="c8e43003" md5="920d855bbab489aea2c90f7f32560102" sha1="04da1e45efd34ace143a66c6ca9211942f397480" />
+		<rom name="Super-Rogue (v9.0-1)[var][Cygwin]\srogue.exe" size="451294" crc="801dcf99" md5="229992880817634f41393f02d35422ed" sha1="a321fabe8a9f97c2e1f6e005d3fad51bf58f6cf0" />
+	</machine>
+	<machine name="Super-Rogue ERC (v2016.06)[var]">
+		<description>Super-Rogue ERC (v2016.06)[var]</description>
+		<rom name="Super-Rogue ERC (v2016.06)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\__Doc\GameSetWatch COLUMN_ @ Play_ Super-Rogue, Banished to the Deeper Regions.mht" size="585848" crc="7dffb5b6" md5="3fcfae7d91a3bf265d649e4db4b6e296" sha1="621a79923d705623057d9210dc2995a1e0e1e62f" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\__Doc\Roguelike Gallery Notes.mht" size="34857" crc="b6454206" md5="e946d1f5888e3da3d20d095001aa34d2" sha1="38fc0a72e938c32928bdc1b071316909d056f059" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\__Doc\Roguelike Gallery.mht" size="39914" crc="010a2389" md5="4e8a36aa47c595b6a3de977f88d2e349" sha1="29d0388e199dee6c38658198becc967e27d8431d" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\__Doc\Roguelike Restoration Project - Super-Rogue 9.0.mht" size="155965" crc="d7020108" md5="bdec4b72c095446254959d8ef9f5f963" sha1="a8b01db7a4da99df19ae7f74cc8d4789efdf43e3" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\__Doc\Roguelike Restoration Project - Vade-Mecum.mht" size="129867" crc="46a21dba" md5="bb4f0537c80b3a2b8e26339286a5a651" sha1="101b6a96d3b46d32350dae0208de9dea267b426c" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\__Doc\Super-Rogue - RogueBasin.mht" size="331650" crc="4f5af219" md5="95810a29928f02a8ce67930197b7f8a1" sha1="7f626e7abd57762ee961360440eda9b5a6f98f16" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\__Doc\Super-Rogue.mht" size="27660" crc="09953668" md5="a7ebf8692d00575a769ed571d7485d2b" sha1="1884e6ec24032ed2ac8a39ffc22d5cdc2bb80e89" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\LICENSE.TXT" size="7196" crc="abcc734e" md5="058582754ecff24c41a2d88360e125f2" sha1="c4c1f1cb4e54892259b3a98224a89395dbeea60a" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\srogue.doc" size="26413" crc="62759be1" md5="03d89b7d11056f7496bc7f41d22d56ae" sha1="c976839ff2e7d96f62c588425a49b84f777b4fe9" />
+		<rom name="Super-Rogue ERC (v2016.06)[var]\srogue.exe" size="192000" crc="974dd84b" md5="de38b22a1dedfb4cea2dbf04c2eea943" sha1="a8ca1b2947ab880cd44e136c4ae9288d68a23de2" />
+	</machine>
+	<machine name="TileRogue (vSDL)[var]">
+		<description>TileRogue (vSDL)[var]</description>
+		<rom name="TileRogue (vSDL)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="TileRogue (vSDL)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="TileRogue (vSDL)[var]\__Doc\Abandonware - Free Culture - A brief history of Rogue - Glenn R. Wichman.mht" size="235208" crc="f2b56303" md5="0876dcbcac934a113b073df579c90e0e" sha1="a5f6a0d615fdb12739f73b6c21b280cd8c172105" />
+		<rom name="TileRogue (vSDL)[var]\__Doc\Donnie Russell II's Home Page.mht" size="720674" crc="6df5d37c" md5="aed14ea8a5ae361b51cd861afd9360ca" sha1="59cb5f017fbf58eaf5835164e7dec0851360222f" />
+		<rom name="TileRogue (vSDL)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="TileRogue (vSDL)[var]\__Doc\TileRogue - Donnie Russell II's Home Page.mht" size="2896164" crc="62b4592c" md5="ef2e5899d57d74ec3a880ce668f0b483" sha1="324a237d9362950ad214d3babc6f17a8bd470d5a" />
+		<rom name="TileRogue (vSDL)[var]\__Doc\TileRogue - RogueBasin.mht" size="330580" crc="8fd9e1fb" md5="842f622e8172e69d978eae917586909d" sha1="d1cb3c663324543b555b7537fb23200f0ca125f0" />
+		<rom name="TileRogue (vSDL)[var]\F11 - Toggle full screen mode.txt" size="29" crc="f50c6767" md5="c2819d50034279e166a24f6cc440d09d" sha1="535924000a85cdea38584e651e5c97542520dba8" />
+		<rom name="TileRogue (vSDL)[var]\LICENSE" size="1852" crc="77935d1b" md5="17ca9c5d92e26993fac5b524ff8180d6" sha1="c18f3e08fa3fe1bffbb65331823b3c2d93485aa2" />
+		<rom name="TileRogue (vSDL)[var]\SDL2.dll" size="1068544" crc="238e4f41" md5="ec15b044a46bf6e411f9eba551858030" sha1="fc22253cd69f45c77a9f5ce44b43a1feb7ccc655" />
+		<rom name="TileRogue (vSDL)[var]\SDL2_mixer.dll" size="186368" crc="284a3d04" md5="6281a5237a616cd86551e3f314b56ebe" sha1="f1a12ba0ba0680f61b94a51895d4f3f345732d2d" />
+		<rom name="TileRogue (vSDL)[var]\SDLTileRogue.exe" size="1078784" crc="fdfbda3a" md5="7d2d33c98389a3d94bfecfd47f25648c" sha1="220c9f1b93aa7b7a53e0d932477006f26b49fbde" />
+	</machine>
+	<machine name="UltraRogue (v1.0.7 Cygwin)[var][src]">
+		<description>UltraRogue (v1.0.7 Cygwin)[var][src]</description>
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\B A L R O G _ Erik I. Bolsøs Roguelike Information Site_ UltraRogue.mht" size="118977" crc="7fce8407" md5="5bdf506950bbec1564cea8d7975acbc9" sha1="d9245aa38f1079c30b694f259265f963ea1a61c2" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\Downloads - Rogue Central @ coredumpcentral.org.mht" size="59354" crc="d2c79a81" md5="367b0dec8a31412f5564fd43629bd913" sha1="de4ec51bd02cc8b1653e554ad399089be3a2f4ea" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\Dungeondweller - www.roguelikedevelopment.org.mht" size="90705" crc="d5d277c6" md5="afd76c2a21a54942d2a5d7bc288d7553" sha1="161e28e7756b982db4aacf05119e25931efa9ed8" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\GameSetWatch COLUMN_ @ Play_ Super-Rogue, Banished to the Deeper Regions.mht" size="585884" crc="8cdfb595" md5="0fe2da321f5c3c891cefa715f29601ab" sha1="53ec1741c3aaa1a4261ec9cf33b35eb20fae16af" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\Roguelike Restoration Project - RogueBasin.mht" size="330800" crc="3d364ac1" md5="bf34aba9deba5adbe70ee487caf351b8" sha1="ca1b3b349cff0cb2c053974fae5095f06cbe1fd5" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\Roguelike Restoration Project - UltraRogue 1.07.mht" size="155520" crc="e6a4c47f" md5="f94ebb571735789c96490b6a77641eb4" sha1="5bda7ff4346f3def69b5f94eb6be8241e1b03b2e" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\The Roguelike Restoration Project - Browse _urogue_urogue1.0.7 at SourceForge.net.mht" size="2216041" crc="c70104b8" md5="d6fee459df7dd5ae7c21bbc9c00eb701" sha1="32bc0c8ef092c506a8854a6dc99dacf3720626bc" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\The Roguelike Restoration Project download _ SourceForge.net.mht" size="3120396" crc="e0fdc3a4" md5="4fffb38bc8f2952876eb200a113ebf98" sha1="c963aa7eaf1d2c80c18a042ce900ffbc3a1ac0bc" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\__Doc\UltraRogue - RogueBasin.mht" size="330897" crc="919bc11a" md5="b2782cf3590308d9980b16dd2f5bf946" sha1="eabc72fc585074ae974574e451a6500544a204df" />
+		<rom name="UltraRogue (v1.0.7 Cygwin)[var][src]\urogue1.0.7-cygwin.tar.gz" size="188019" crc="21bfd6da" md5="442da57838e0132ea982d51ee3ac66f5" sha1="f854dd17e2772f26a91dbe0fb8a8c6bda6b56933" />
+	</machine>
+	<machine name="XRogue (v8.0.3)[var]">
+		<description>XRogue (v8.0.3)[var]</description>
+		<rom name="XRogue (v8.0.3)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\A Brief History of _Rogue_.mht" size="10578" crc="a2308e98" md5="49b981bb1c67373cb23cc8465967dafb" sha1="35a1cc25ffde430b65f31cb9f4023bb8a4ac3c2b" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\Abandonware - Free Culture - A brief history of Rogue - Glenn R. Wichman.mht" size="235208" crc="f2b56303" md5="0876dcbcac934a113b073df579c90e0e" sha1="a5f6a0d615fdb12739f73b6c21b280cd8c172105" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\GameSetWatch COLUMN_ @Play - 'XRogue Has Not Yet Ceased To Be'.mht" size="730008" crc="554ddde4" md5="128b680969ddff2677091a04c09b89be" sha1="7046113ca026966de8594fd3c6ea6932c08ea40c" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\Release XRogue - 8.0.5 · atsb_XRogue · GitHub.mht" size="1544538" crc="80a8247f" md5="c0729ecacefc4533a41b33c1db71b992" sha1="cf73f4e6cbefbafb14e00184a8a09aa2def8f8d7" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\Roguelike Restoration Project - Vade-Mecum.mht" size="129867" crc="46a21dba" md5="bb4f0537c80b3a2b8e26339286a5a651" sha1="101b6a96d3b46d32350dae0208de9dea267b426c" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\Roguelike Restoration Project - Yendor's Guide.mht" size="190797" crc="2f365ee9" md5="be989b4cd4cdd8cd660f29128a176a9d" sha1="73607cc98cfd64e0e10d3ca14b340942095c87f2" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\The Rogue Archive.mht" size="4362823" crc="e8997d79" md5="088e106b888975634053a00e22dac296" sha1="e10c4fb2293e79d42b9c9c92fa22e0fbb7c0f635" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\The Rogue Home Page.mht" size="132263" crc="262a9bc6" md5="8da8468fb7e0f4d67fa20ad04328e734" sha1="14725f6cf35eae8b931fa5177e26d53653845f59" />
+		<rom name="XRogue (v8.0.3)[var]\__Doc\XRogue - RogueBasin.mht" size="331484" crc="7fadbe14" md5="ff50ba79da8c226d440e074e042d18f8" sha1="110f91c1d55ddbe4acb7eb24d1340e261299a712" />
+		<rom name="XRogue (v8.0.3)[var]\LICENSE.TXT" size="9310" crc="2a76ef65" md5="f346a2d787a9e6a05b6e7c1d8f2f593b" sha1="b6ded994d6e5affde9c9f87b9d305774a1fd74a1" />
+		<rom name="XRogue (v8.0.3)[var]\README.TXT" size="35832" crc="be4c0101" md5="bae6e8de408945db3987e98b06333124" sha1="4239b630842372cb926e82edab9a1b6aa0153b15" />
+		<rom name="XRogue (v8.0.3)[var]\xrogue.exe" size="516096" crc="06404c82" md5="3ccae9f724c0b2301ecc350153ff67b4" sha1="d9ab2acd45d15f67969e47bc058eee518e68a724" />
+	</machine>
+	<machine name="XRogue ERC (v2016.06)[var]">
+		<description>XRogue ERC (v2016.06)[var]</description>
+		<rom name="XRogue ERC (v2016.06)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="XRogue ERC (v2016.06)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="XRogue ERC (v2016.06)[var]\__Doc\A Brief History of _Rogue_.mht" size="10578" crc="a2308e98" md5="49b981bb1c67373cb23cc8465967dafb" sha1="35a1cc25ffde430b65f31cb9f4023bb8a4ac3c2b" />
+		<rom name="XRogue ERC (v2016.06)[var]\__Doc\GameSetWatch COLUMN_ @Play - 'XRogue Has Not Yet Ceased To Be'.mht" size="730008" crc="554ddde4" md5="128b680969ddff2677091a04c09b89be" sha1="7046113ca026966de8594fd3c6ea6932c08ea40c" />
+		<rom name="XRogue ERC (v2016.06)[var]\__Doc\Rogue (video game) - Wikipedia, the free encyclopedia.mht" size="381668" crc="8b6f83b1" md5="1cf1bd77c11e5c2ee403d5ae20edd0d5" sha1="56fc83ffe98e34ef931cda25cd2c981701c7fa61" />
+		<rom name="XRogue ERC (v2016.06)[var]\__Doc\Roguelike Gallery Notes.mht" size="34857" crc="b6454206" md5="e946d1f5888e3da3d20d095001aa34d2" sha1="38fc0a72e938c32928bdc1b071316909d056f059" />
+		<rom name="XRogue ERC (v2016.06)[var]\__Doc\Roguelike Gallery.mht" size="39914" crc="010a2389" md5="4e8a36aa47c595b6a3de977f88d2e349" sha1="29d0388e199dee6c38658198becc967e27d8431d" />
+		<rom name="XRogue ERC (v2016.06)[var]\__Doc\XRogue - RogueBasin.mht" size="331484" crc="7fadbe14" md5="ff50ba79da8c226d440e074e042d18f8" sha1="110f91c1d55ddbe4acb7eb24d1340e261299a712" />
+		<rom name="XRogue ERC (v2016.06)[var]\__Doc\XRogue.mht" size="27427" crc="59e33b4c" md5="cf08cf6815c8f41831a80a6b86c047b3" sha1="236a65628fc5e49ca38cb5064480211a2f5d492e" />
+		<rom name="XRogue ERC (v2016.06)[var]\LICENSE.TXT" size="9310" crc="2a76ef65" md5="f346a2d787a9e6a05b6e7c1d8f2f593b" sha1="b6ded994d6e5affde9c9f87b9d305774a1fd74a1" />
+		<rom name="XRogue ERC (v2016.06)[var]\README.TXT" size="32791" crc="37bf640b" md5="39cb5f220d2737f43d8762b81eda7db6" sha1="6589010c130ae3b69b9d5b3a9ebfd4e390cfd6d1" />
+		<rom name="XRogue ERC (v2016.06)[var]\xrogue.exe" size="452608" crc="3ecee0a7" md5="5bf2ff24aa1518becfea8aae434a7b8c" sha1="eb60058e15acbda482150647b6929071232968d7" />
+	</machine>
+</datafile>

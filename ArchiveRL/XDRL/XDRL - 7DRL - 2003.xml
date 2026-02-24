@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - XDRL - 7DRL - 2003</name>
+		<description>The classic roguelike archive - XDRL/7DRL/2003</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="_Doc">
+		<description>_Doc</description>
+		<rom name="_Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="_Doc\Dungeon Monkey - RogueBasin.mht" size="332757" crc="ca56ff64" md5="3ff17372ab3584c47ea89845bcfa5f26" sha1="59f9f6fa3915f7047a8db5e58ffd8c436925af2a" />
+		<rom name="_Doc\Dungeon Monkey - World's Quickest Roguelike.mht" size="238175" crc="b5676122" md5="14099c5736600bd97229f351b5808c48" sha1="63f5504cf0b42a488c668bf5041e93be783f5b57" />
+		<rom name="_Doc\Dungeon Monkey_Reviews_Jeff Lait - RogueBasin.mht" size="330173" crc="d0b157cd" md5="7cba41fcb16bd60f8efa62e0f5bac154" sha1="f2bcae04dc71e1d97b0fb44be5e2bac5fe7c8c97" />
+	</machine>
+	<machine name="dungeon monkey">
+		<description>dungeon monkey</description>
+		<rom name="DungeonMonkey\action.pp" size="7113" crc="9abb1a1e" md5="8aa584e5a8cecf72a8ef5514f7c774ff" sha1="1124b58527139c30344621a03d723815cff542b7" />
+		<rom name="DungeonMonkey\control.pp" size="11860" crc="99096fc1" md5="34f7fe510b3228d23328d7935b4f98fe" sha1="525fe908f54c235f48c6f1f6e535fd427e833343" />
+		<rom name="DungeonMonkey\dm_item.pp" size="4784" crc="c309f279" md5="6c068a70204d8944bf5253dac70d553f" sha1="b15d10783d6da675d48f6402c2060a3a5c614832" />
+		<rom name="DungeonMonkey\dm_map.pp" size="12132" crc="c21a3979" md5="210b0de7dedd57ddf794906a50c2d543" sha1="d60d9a6799f71653956fa4eda5989e2561ec2004" />
+		<rom name="DungeonMonkey\dm_monster.pp" size="9673" crc="287d2eae" md5="1a645e6c9de53c363e9d1e422e2f9f5e" sha1="65349790f55cc7427b1d6e5dd3ab252b01597da4" />
+		<rom name="DungeonMonkey\dminterface.pp" size="5205" crc="e7d6173b" md5="39f6668ecd21e62b93af52e469e629c2" sha1="0d8f967d144f5fb3a622d5b0cc2b2c155cb78235" />
+		<rom name="DungeonMonkey\dungeon_monkey.exe" size="75776" crc="53a8cc70" md5="021891bbf71bc4e6ee136a414b16f134" sha1="4bdb863e26d2202526d4b21da02b83c091739e96" />
+		<rom name="DungeonMonkey\dungeon_monkey.pas" size="3193" crc="02d71838" md5="21a7835fbb2269e9ba6160e1773f1b8c" sha1="d18fc5293d1e5b676676d0cd5053304b862d713b" />
+		<rom name="DungeonMonkey\graphics\border.png" size="289" crc="bc497260" md5="27adca25548c4a43e2c1fa33a6d3c695" sha1="6a409c82c8efcda0b133a7f11ff2de250b7a5c8b" />
+		<rom name="DungeonMonkey\graphics\effects.png" size="387" crc="04aad261" md5="8f626312282f0a8e4655a3c5829cf203" sha1="1ec69a8d9d200e602b51fee1404234dc59d5fa37" />
+		<rom name="DungeonMonkey\graphics\items.png" size="1621" crc="d0f265f3" md5="0261131c33c73d5c2fc1adebceb37bd2" sha1="bd6919cdbaf3082023714bef8c03869dea6db79a" />
+		<rom name="DungeonMonkey\graphics\mapfeature.png" size="751" crc="5168424f" md5="fecf9f305b83b6a7e5add3b2addd078e" sha1="1b1a6851f9df950d2a72c4eeef2b68dd2678c50c" />
+		<rom name="DungeonMonkey\graphics\menu_background.png" size="4211" crc="9adfc659" md5="a13614622171ec417690e62239e0ff37" sha1="948c56581753237d640d46c7e585133139a85b70" />
+		<rom name="DungeonMonkey\graphics\monster.png" size="3397" crc="2b8b8c47" md5="6eab03989199f01f3f3b76109547b0c7" sha1="bedf1946acd04402f1aff7fb82f3e522d1462b28" />
+		<rom name="DungeonMonkey\graphics\terrain.png" size="3121" crc="0830d8a3" md5="8e2efb4e72386fcdb533c393c72630d3" sha1="b0a0987009dbba8f91ff991ec912c5040ef9a78c" />
+		<rom name="DungeonMonkey\graphics\VeraSeBd.ttf" size="58736" crc="63af6f82" md5="b8c3d4131b8517d00c8dcbea1efd5426" sha1="2ba520055c17e32082fc92a769c714dd1dfe97c9" />
+		<rom name="DungeonMonkey\randmap.pp" size="11732" crc="e9d4aa22" md5="3490eee615d1aed4b2f2d10a815ba64c" sha1="7c55dea27467f036ef56ae7f41fc522ba0d8bef0" />
+		<rom name="DungeonMonkey\readme.txt" size="2481" crc="73d61629" md5="4e69c726b746c41efbffcd5dab1b8f3b" sha1="d244747b8b035762ee79b3f0e6999ef8f7063752" />
+		<rom name="DungeonMonkey\satts.pp" size="10622" crc="8dd208fc" md5="05c2d65afe2f66b90f38ab9a105a0508" sha1="6afc84c98d239283e409c6ab5c1cd3c86b7d6b93" />
+		<rom name="DungeonMonkey\sdlgfx.pp" size="14665" crc="1153a5be" md5="a96fa80afcb82458ba094317f98ec67f" sha1="351ed545ac830a794b7b9a54bd0847aaa64232bf" />
+		<rom name="DungeonMonkey\sdlmenus.pp" size="21642" crc="8dc4a599" md5="47a50f3acd106fd698a56d94225fa709" sha1="086e0c04f566bd6de0130a2461234979215e3592" />
+		<rom name="DungeonMonkey\text.txt" size="2021" crc="6b3059ac" md5="258894f109718dc7116f729b5f5e978c" sha1="8564c82ffb23779b4e8937e5c2a028b43072ccbd" />
+		<rom name="DungeonMonkey\texutil.pp" size="8715" crc="7db44fae" md5="64345e9a0e88a247a81f1f0aae1f3d86" sha1="c2a999fef1cbd05d3622c40413c7e93b021b0d15" />
+		<rom name="SDL-1.2.4-win32.zip" size="95490" crc="a7ba319c" md5="59e601b372e6805ec8fb802e8cd876c6" sha1="3a3bbcf958fb979a9e92d17dc5c916e7652325a5" />
+		<rom name="SDL_image-1.2.2-win32.zip" size="160028" crc="ed56352e" md5="795f89e1f3e015563142c01172bc1254" sha1="dd047c45c731b58be2545bd7ab6c14d5098bd87c" />
+		<rom name="SDL_ttf-2.0.5-win32.zip" size="92805" crc="34e98530" md5="12e911ae1f1e7f8b856658b8768835e3" sha1="f667b705e1ed521bfed12125cd66a3eafa334e55" />
+	</machine>
+</datafile>

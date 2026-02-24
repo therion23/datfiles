@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - Variant - Moria</name>
+		<description>The classic roguelike archive - Variant/Moria</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="Moria SDL_JS (v)[var]">
+		<description>Moria SDL_JS (v)[var]</description>
+		<rom name="Moria SDL_JS (v)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Moria SDL_JS (v)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Moria SDL_JS (v)[var]\__Doc\A History of Moria - A Classic Roguelike.mht" size="109323" crc="3dbd5c28" md5="cb806091010608c79c34941341cc8e18" sha1="096e2c17fea4edddcd1d2a23e70518312839a9ef" />
+		<rom name="Moria SDL_JS (v)[var]\__Doc\About Umoria - A Classic Roguelike.mht" size="51675" crc="828174c0" md5="2a74c6e08d6f1633a9fa5e5a58a04437" sha1="8a2da3b6917b0eea4299fb061789130af8c8363a" />
+		<rom name="Moria SDL_JS (v)[var]\__Doc\Download Umoria 5.7 - A Classic Roguelike.mht" size="51295" crc="3c5ad732" md5="349e12f40b335b5d8df6739b550f9ef5" sha1="a4b74bb353a107a45364b456dd6d8d0ce7e9d02c" />
+		<rom name="Moria SDL_JS (v)[var]\__Doc\Moria (video game) - Wikipedia.mht" size="578255" crc="94d2ee3e" md5="4d8d0c6cbbbd0e06a93a237ee5b297db" sha1="e656afa61707214794b0de4efca21d3d6b8ccdf1" />
+		<rom name="Moria SDL_JS (v)[var]\__Doc\Moria - Donnie Russell II's Home Page.mht" size="773387" crc="f5c2ba5a" md5="1c4555c495d73e257f79bde1d44f12a5" sha1="6336e13f4942735d63df8f3efbb338fcd046551c" />
+		<rom name="Moria SDL_JS (v)[var]\__Doc\Moria _ Umoria Release Highlights_ 1981 - 2017 - A Classic Roguelike.mht" size="74324" crc="58ff0348" md5="94dea8ad5f4be77e8884d5e4cc607f91" sha1="48a9b37ec80ea1ecf057ab19955da2467c31f12d" />
+		<rom name="Moria SDL_JS (v)[var]\__Doc\Umoria - The Classic Roguelike Dungeon Crawler.mht" size="49369" crc="ccaedc28" md5="2be967b2ed1723163f4fb07639f6a17e" sha1="1ab9676fca0dc8284d79d952a14b7858e0482fea" />
+		<rom name="Moria SDL_JS (v)[var]\F11 - Toggle full screen mode.txt" size="29" crc="f50c6767" md5="c2819d50034279e166a24f6cc440d09d" sha1="535924000a85cdea38584e651e5c97542520dba8" />
+		<rom name="Moria SDL_JS (v)[var]\LICENSE" size="35146" crc="7ea4c6f6" md5="4fe869ee987a340198fb0d54c55c47f1" sha1="1de7bacb4fbbd7b6d391a69abfe174c2509ec303" />
+		<rom name="Moria SDL_JS (v)[var]\SDL2.dll" size="1068544" crc="238e4f41" md5="ec15b044a46bf6e411f9eba551858030" sha1="fc22253cd69f45c77a9f5ce44b43a1feb7ccc655" />
+		<rom name="Moria SDL_JS (v)[var]\SDL2_mixer.dll" size="186368" crc="284a3d04" md5="6281a5237a616cd86551e3f314b56ebe" sha1="f1a12ba0ba0680f61b94a51895d4f3f345732d2d" />
+		<rom name="Moria SDL_JS (v)[var]\SDLMoria.exe" size="954880" crc="922ac94c" md5="8f6dd00c4a64882389a889250697b1ac" sha1="6b43887c96839d868cfbea3a04411ed02f423b74" />
+		<rom name="Moria SDL_JS (v)[var]\SDLMoria_scores.dat" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Moria SDL_JS (v)[var]\The Dungeons of Moria.txt" size="119408" crc="bf62ee73" md5="688fe1dfc72df394705765e5fdb19457" sha1="327ab195179a5f5570ac0978e99c1855127451f7" />
+	</machine>
+	<machine name="MoriaOP (v)[var][src]">
+		<description>MoriaOP (v)[var][src]</description>
+		<rom name="MoriaOP (v)[var][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\__Doc\A History of Moria - A Classic Roguelike.mht" size="109323" crc="3dbd5c28" md5="cb806091010608c79c34941341cc8e18" sha1="096e2c17fea4edddcd1d2a23e70518312839a9ef" />
+		<rom name="MoriaOP (v)[var][src]\__Doc\GitHub - M3wP_MoriaOP_ Direct descendant of the original Moria, still in Pascal..mht" size="1706196" crc="39bc9a17" md5="7a9649ff7558bad86b4cf678574510cc" sha1="6411ad032c340af527174a21385c8cd45f5862c7" />
+		<rom name="MoriaOP (v)[var][src]\__Doc\Moria (video game) - Wikipedia.mht" size="578255" crc="94d2ee3e" md5="4d8d0c6cbbbd0e06a93a237ee5b297db" sha1="e656afa61707214794b0de4efca21d3d6b8ccdf1" />
+		<rom name="MoriaOP (v)[var][src]\__Doc\MoriaOP - RogueBasin.mht" size="328009" crc="e5fa94b7" md5="5dcca693cfe4da903955c3cce67ed598" sha1="25d4e4501189554a23fa72e448559a3387abb941" />
+		<rom name="MoriaOP (v)[var][src]\.gitattributes" size="378" crc="f4f3bef6" md5="01c2ba45b8ce4cb9d870b39204aae551" sha1="4a3348fc9a3d1ec1bc517399089440028e2242fd" />
+		<rom name="MoriaOP (v)[var][src]\changelog.txt" size="10395" crc="d551c23a" md5="cc67b680f350c01524d3ba4142b85772" sha1="a2ec35534b7d86ff471675cfec77a830f68c1f6f" />
+		<rom name="MoriaOP (v)[var][src]\config.ini" size="523" crc="07ff5349" md5="81e026ae1fe643d2679fb95588acf3a6" sha1="81a92589806be84f280b3fcc9f98990970d3efec" />
+		<rom name="MoriaOP (v)[var][src]\dat\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\dat\_not used\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\dat\_not used\MORIACHR.DAT" size="4028" crc="88d3f8d1" md5="5838ea33478d4aa7d36f28bb1b17e6ef" sha1="23bd0ec3d9790c18d4d0109eff27bd2be6e01ed5" />
+		<rom name="MoriaOP (v)[var][src]\dat\MONSTERIN.DAT" size="27253" crc="7b7b436b" md5="6cb077f932ca06f3f167c7da1b226ef7" sha1="965803fe2f03f133ef3668220e70cbdf9fe7c1a9" />
+		<rom name="MoriaOP (v)[var][src]\dat\MORIA.DAT" size="797" crc="2e56328b" md5="ca6911788877a0c39cc384a75fff5b02" sha1="c63d85cce2ede26f252d1e66452b788b0718a395" />
+		<rom name="MoriaOP (v)[var][src]\dat\MORIACHR.DAT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\dat\MORIATOP.DAT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\fpc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\fpc\linux\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\fpc\linux\Moria.lpi" size="2396" crc="0bd52bb7" md5="57d51d37eb35ef48c7eb1ac5c885ea22" sha1="690219971cadbb9d0ac8d63b08d7667c8df99bd6" />
+		<rom name="MoriaOP (v)[var][src]\fpc\linux\Moria.lpr" size="4833" crc="962ad9f6" md5="6a939f916bea3f500b9fea7002873bf7" sha1="2bcbe4864a94c93865443f7840d0d339f305c79e" />
+		<rom name="MoriaOP (v)[var][src]\fpc\linux\Moria.lps" size="17511" crc="3054d6b1" md5="0be288a1efe1e208707d0c3b2b41ec1c" sha1="aa87eac0945736c243ef890d513c134ce574fb71" />
+		<rom name="MoriaOP (v)[var][src]\fpc\win\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\fpc\win\Moria.lpi" size="2636" crc="ddc8c485" md5="f26cd28b82ffbbe69124111c6f7b1fed" sha1="9222fb545978d467f311b748bfe7da9aeff093e9" />
+		<rom name="MoriaOP (v)[var][src]\fpc\win\Moria.lpr" size="4833" crc="962ad9f6" md5="6a939f916bea3f500b9fea7002873bf7" sha1="2bcbe4864a94c93865443f7840d0d339f305c79e" />
+		<rom name="MoriaOP (v)[var][src]\fpc\win\Moria.lps" size="17358" crc="b2bbfd2d" md5="9cea6932a9b83e5630c28c85cb2c8a3c" sha1="41f2a59b8606da8643fe6ae661f83957e0fdde67" />
+		<rom name="MoriaOP (v)[var][src]\inc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\black_market.inc.bak" size="19896" crc="46c854c1" md5="23a781214b55e9c141634f5ad0848986" sha1="dd15d50b12cc0849484c06bdd9ee4f6240a89ba2" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\CONSTANTS.INC.bak" size="8966" crc="8bc1664a" md5="10249395be82d481878d0b10598179c5" sha1="acce17dd0b8067174c531afa9ea61cd2bccbbadb" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\CREATE.INC.bak" size="14859" crc="d718c91c" md5="e7ed78a6d027c29283d5d69b89389a7b" sha1="b34a4995385430c243b7ce8f46bcbd79d06b7577" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\CREATURE.INC.bak" size="39281" crc="b278937c" md5="123d52caa617edf6a26e2a6cd7c30fd5" sha1="31bca09664191948227312802b874c0b908150b9" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\DEATH.INC.bak" size="13176" crc="5a1b1663" md5="91ea00d9b92fd655c20dfc59c80576dd" sha1="8f602b18492bd0cf8573c8f6874d161638b789c1" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\DESC.INC.bak" size="7827" crc="d918c0c0" md5="8551b8eed19f73425f6d6f96935581b0" sha1="abd56acae8a455ed130682097cdb784e74cb474c" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\EAT.INC.bak" size="5313" crc="f7408289" md5="2f126fc95fb120d93b7d8f1ad7707c62" sha1="9008c179b9f82c9b08069e5b88df4bf404708a71" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\EXTRA.INC.bak" size="5818" crc="f680da7d" md5="d878f57e7da9920ca3f1683fe0493db1" sha1="ef2eb9745cc3f209612008fe9aee035d9c28f4d6" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\FILES.INC.bak" size="27365" crc="05b19966" md5="dd46d049ef0f93eebdf944c27d58679a" sha1="27815d2ca651bf4e0abc5f07ea87db7e47358a78" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\HELP.INC.bak" size="26993" crc="89cac14f" md5="28ec4e40a8e0288c28c7a576cd106eaa" sha1="ffb90d4b5aad8c2dec3edff36fcd43ec6fa63afa" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\INVENTORY.INC.bak" size="44393" crc="d5be9bac" md5="6ce7b1369307eba84d0729257957629c" sha1="21f11c95abc37b709f0709b7ec24c45ec5ffcb01" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\MAGIC.INC.bak" size="5811" crc="d671cb55" md5="83f1726506c94c45f7a3c05cc7d9d2ef" sha1="e5c36224f4f78f5824a80f3bd4c1a30b71d787dd" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\MAIN.INC.bak" size="10143" crc="72758d22" md5="74c7181776b617343ad71ea41860f859" sha1="9aff91c899a09c0c4ac345bf2f4f0f9a852d9265" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\MISC.INC.bak" size="96351" crc="ba3c6004" md5="57959591ff95411e1d800b9df79beb12" sha1="f0954d6473acf7e421d245aed458d67d3db2faaf" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\MORIA.INC.bak" size="129952" crc="c9508df8" md5="449e295f4d70533347efd173e9ea8467" sha1="3cf02812445ca2c989275ddf6b5217c52c21cdb9" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\POTIONS.INC.bak" size="9339" crc="f82d9a88" md5="1f601372104246db66424e5d4d713475" sha1="b1a28350c2d3a6ecbf1403d9a612f4134245f83c" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\PRAYER.INC.bak" size="4769" crc="782d7270" md5="d20a94fdf2e9abea0036951db1f001d3" sha1="7bafde411b715e12a12e8a791521e2746ddd7607" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\SAVE.INC.bak" size="40190" crc="bfe622e2" md5="4c7002b3d87143febcf4691610037052" sha1="9d941219ae2fdbf7251dc33f57919d9a4644fd84" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\SCROLLS.INC.bak" size="13964" crc="9fbd259d" md5="9b84538e9908ceee3b5eab149ef7d474" sha1="27f7a35c914b2f17c0b128e82c56da64e5d55afe" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\SPELLS.INC.bak" size="49577" crc="536816ff" md5="0b374c0e956cb37c0f5b11f45a9211b5" sha1="63ddcb529659ddd1997c190d1a54da547150b32b" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\STAVES.INC.bak" size="3327" crc="10176f61" md5="cfd70a9067c6162889b99e4d57dfa642" sha1="63848e047e93b03e62dff96dc60a2edf83942ab1" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\STORE1.INC.bak" size="11120" crc="75e05a77" md5="4ec93902406aacfbf2a39a7a07068fea" sha1="a7f554b892888a9e1e14e9e22d1cfc355fc7c472" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\STORE2.INC.bak" size="30693" crc="987495f2" md5="b23df52104d7ac7c6f830cd643255f7d" sha1="34bb2e43c377c163b8a5f12118f6d9178fb71f63" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\TABLES.INC.bak" size="50690" crc="c4b54d13" md5="1238e57ba91b75f5d0607f7a9a6814ff" sha1="a54c5674131ffbae0c20a852590814216309a0e3" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\types.inc.bak" size="14788" crc="176d0d31" md5="48885167cd5fccea069eb6ebce4cf9e8" sha1="92ed5297a50d186a5652643ffeba222d8c53ef4b" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\variables.inc.bak" size="220395" crc="a68e5d0b" md5="c246d50e483317894a4d2c0d46a6dffc" sha1="5a30b4f27d581d8866dd2cf8d60ea16b6289d76f" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\WANDS.INC.bak" size="4335" crc="29b6d8b7" md5="1c62559b42b08ff87b0c979185e5479e" sha1="72083147fb56e1ffdee30b66d9022cf75731a6cd" />
+		<rom name="MoriaOP (v)[var][src]\inc\_bak\WIZARD.INC.bak" size="13200" crc="c415d5fc" md5="ae28ff4fba2fce86b9c008892cb18497" sha1="c45b32da965ad77a993c0bb5ef4d7f1f3598c1a9" />
+		<rom name="MoriaOP (v)[var][src]\inc\black_market.inc" size="19898" crc="a8e2b7b9" md5="82b8998305b14edd4d1b89bbec9889f1" sha1="b3f9d17c4c40df89f161811a1fea8a04732c5691" />
+		<rom name="MoriaOP (v)[var][src]\inc\CONSTANTS.INC" size="8966" crc="4a6bdbb4" md5="292143b407d403450bfa949e04074eaf" sha1="86f0ccdb052229c2a3b7d92e9efa11d8ab67fcde" />
+		<rom name="MoriaOP (v)[var][src]\inc\CREATE.INC" size="14669" crc="7cae573d" md5="588f5c5e9f64c9bc3e1e13b54ef251a7" sha1="1f8ee92779d85586598550708920522d78c547ba" />
+		<rom name="MoriaOP (v)[var][src]\inc\CREATURE.INC" size="39409" crc="7ed4b8e1" md5="132d5f143170ded87f439bf04c393e17" sha1="c64901969d529390fb9528758ddcb2e80c68bf64" />
+		<rom name="MoriaOP (v)[var][src]\inc\datafiles.inc" size="1557" crc="ee6cbfb0" md5="cd40e385c547174336bdd21f23d7a61d" sha1="5c4c3f6a38fe0846d98342c39ed72f745d8acb41" />
+		<rom name="MoriaOP (v)[var][src]\inc\death.inc" size="12851" crc="76599041" md5="7a70065e0f83399e2661f698b1da856e" sha1="415046682c280d68e3524846d0cd1466ac094470" />
+		<rom name="MoriaOP (v)[var][src]\inc\DESC.INC" size="7844" crc="3d762ed7" md5="8f99d0636d11b744a6cb490080fcdfb2" sha1="258a99fc7bd8a97847fe7f8918cc3079557cd175" />
+		<rom name="MoriaOP (v)[var][src]\inc\EAT.INC" size="5360" crc="60313865" md5="cf94b927c11e4bed77bb472755112749" sha1="a7853b9682570eebe86a63617868180a5d32db8a" />
+		<rom name="MoriaOP (v)[var][src]\inc\EXTRA.INC" size="5824" crc="d47fbea6" md5="5a1cfeea154b8c7adc11d075b846f511" sha1="8a9217935f7bfabead75c3711b8bf72c3fa27012" />
+		<rom name="MoriaOP (v)[var][src]\inc\FILES.INC" size="25872" crc="a90b3c0f" md5="30ede98d401fd7600208de41e07c58fa" sha1="b8a9ed1403e7e1665c2e6fde59b1c7c0b59d686b" />
+		<rom name="MoriaOP (v)[var][src]\inc\generate.inc" size="29078" crc="55c7b593" md5="624d3770a07c63e40ee10ee4e16422fc" sha1="b55d5d74a47f12f202132b0c1f6c0aa9b2e9e990" />
+		<rom name="MoriaOP (v)[var][src]\inc\help.inc" size="27033" crc="7e2c4118" md5="022e828f16d01c9dc4f149a0dfca7b10" sha1="c840b13901f654f7ca274d080bae8a3b2dd6baaf" />
+		<rom name="MoriaOP (v)[var][src]\inc\INVENTORY.INC" size="45305" crc="5af72d17" md5="89707dd4979ec000215e75f6b0084bee" sha1="2e7f90ad81bc044cff5f6e1f21d1c0da4409dc96" />
+		<rom name="MoriaOP (v)[var][src]\inc\IO.INC" size="14214" crc="b8d52a5b" md5="b428a2f8d8d8306dd6c7febf8bc7b2c1" sha1="065156c6dbee2d3106049099f8bb0f7c122504ca" />
+		<rom name="MoriaOP (v)[var][src]\inc\MAGIC.INC" size="5811" crc="38ee06c9" md5="15fe5ff17175ea34e1a34d5494ba0d90" sha1="d244f85d10c257686f6a6c782294181546a9a3a1" />
+		<rom name="MoriaOP (v)[var][src]\inc\MAIN.INC" size="12309" crc="fd790357" md5="f5462a0aa1a6066510ef1d5ab675c7f2" sha1="4162b94a859f4937a9f88b7b78c24d40ca71150d" />
+		<rom name="MoriaOP (v)[var][src]\inc\MISC.INC" size="96229" crc="8b96d846" md5="36bfb1697f04b950664f039fae4412de" sha1="97cac634d6945006955850603881ee0b6ae3a600" />
+		<rom name="MoriaOP (v)[var][src]\inc\MORIA.INC" size="128806" crc="37c33688" md5="48a3430e6fd52d964a6bbd00920af575" sha1="f36a5fb2325dad3c9b935f5f3a7dd95d6f5db1b1" />
+		<rom name="MoriaOP (v)[var][src]\inc\POTIONS.INC" size="9341" crc="c3118a9a" md5="541d083e25b0beb784b21d898b40a758" sha1="d1fe5205e07829dada6f77850e4988b3f56cd8da" />
+		<rom name="MoriaOP (v)[var][src]\inc\PRAYER.INC" size="4774" crc="26e055a7" md5="80d8dedfb86baff89ecfb28241f4cf00" sha1="a4f3756b04195685c3ee651314a636a36a42d458" />
+		<rom name="MoriaOP (v)[var][src]\inc\SAVE.INC" size="36766" crc="76266e1f" md5="5add0af16c761bfa61ff37fb4f16fa72" sha1="53abe2a818b3214d45a8a2b1482374bda6945867" />
+		<rom name="MoriaOP (v)[var][src]\inc\SCROLLS.INC" size="13965" crc="3cd937e2" md5="80e1fc8a884b0aed868188b2b5c1c70f" sha1="63e01fd81ce6229bf713d9865cec4b638abba4d3" />
+		<rom name="MoriaOP (v)[var][src]\inc\SPELLS.INC" size="49633" crc="65846235" md5="70ae1fa4a23131ab32ef23314c9d082b" sha1="55d5e8debfd42e16aba9920340657f390384e5dd" />
+		<rom name="MoriaOP (v)[var][src]\inc\STAVES.INC" size="3402" crc="104a4439" md5="53c8f0f1bd27e3268e2a73326e802728" sha1="0e263432e5519fac6fe634b433fb34a9c98c9e26" />
+		<rom name="MoriaOP (v)[var][src]\inc\STORE1.INC" size="11202" crc="9a006e4e" md5="712beed49954de341f8d32cc81c93944" sha1="4e7be8c3bf1e545326f350d9e354291f08d81c32" />
+		<rom name="MoriaOP (v)[var][src]\inc\STORE2.INC" size="29285" crc="ed683cd4" md5="1b2f98cd90805ebdb539ae53bfa63838" sha1="0a1d23b27a9571fab2c0bb69c09effae3f1f8d66" />
+		<rom name="MoriaOP (v)[var][src]\inc\TABLES.INC" size="50752" crc="85e0ddc9" md5="0d7432c923acfa06c235dd603f5cd4c0" sha1="08133fa63d440c3f2c9b246c023623879dd78627" />
+		<rom name="MoriaOP (v)[var][src]\inc\types.inc" size="16851" crc="fd399466" md5="70c31123b197c0a3201cc5d50250bace" sha1="245ff5c0d075ff87e0ce6745f19c8453dec8a509" />
+		<rom name="MoriaOP (v)[var][src]\inc\userid.inc" size="4637" crc="5dd5cfb6" md5="bbf32c6e661f20c491ca5384fb404b77" sha1="58148cc3f992ca6f4b20d092c79052f54544e1e2" />
+		<rom name="MoriaOP (v)[var][src]\inc\variables.inc" size="220519" crc="f113341b" md5="41a42721e8d64746b5a2896369b649f9" sha1="a2651a03d38b58a04a969a4be5db6b67e8c79219" />
+		<rom name="MoriaOP (v)[var][src]\inc\VISION.INC" size="9926" crc="d7a77501" md5="d2bcd55c7534cdc560675fa8cb32bac5" sha1="335d303b88bb6ecf78b02e877daa8e053007934a" />
+		<rom name="MoriaOP (v)[var][src]\inc\WANDS.INC" size="4444" crc="51e3897c" md5="79bc12e7b44339767901612786da7ead" sha1="5bab1ce03552803d97e669664e8f554cc1858b3e" />
+		<rom name="MoriaOP (v)[var][src]\inc\WIZARD.INC" size="12723" crc="b472ae47" md5="393c44b70b22e58f5ee8e92a11bff471" sha1="ca18a0abb43524470950235e1fe9d0fcb9ece8ba" />
+		<rom name="MoriaOP (v)[var][src]\manual.html" size="79666" crc="788aa553" md5="72ea79c57ad36126e867b87cc911e636" sha1="13aef1b498ecb597d4f9c0b9c987be4c0778035b" />
+		<rom name="MoriaOP (v)[var][src]\manual.txt" size="61222" crc="bd9b6f79" md5="b23093d4fbc1078bbb3bb417a1610dee" sha1="a36e2f3082767cdc2786ed371bf2e6624110b298" />
+		<rom name="MoriaOP (v)[var][src]\Moria.dpr" size="5050" crc="a428e6f3" md5="6d8f4268aa0199176548c062122785df" sha1="2180285b40aa182dfd98b11c2ff65807fd092a21" />
+		<rom name="MoriaOP (v)[var][src]\Moria.dproj" size="26434" crc="1fd21dcc" md5="8af5b8f03d5db179be01dd3783ad97f0" sha1="5ffdf53394df95c4a675812114ab88977ee9e3ac" />
+		<rom name="MoriaOP (v)[var][src]\readme.txt" size="8576" crc="606c3290" md5="87e06300f85d4f08eb1ee9c6cabc6d3c" sha1="1c49b8974d33daae5abc6bfc72cf1388ccdd7046" />
+		<rom name="MoriaOP (v)[var][src]\src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\src\_bak\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\src\_bak\ScrListView.pas.bak" size="9005" crc="ca23ad4b" md5="8cafa327da877e81067e5c1767c74cb0" sha1="c85dc0805a6c32b269f349a3340de34b2c358be8" />
+		<rom name="MoriaOP (v)[var][src]\src\CRTScreen.pas" size="6997" crc="d53b0b1d" md5="d0449dfadcf7a30a18900a4d07e30bc4" sha1="33be2874ceaa495feb39080e083cb3ee1fff7be2" />
+		<rom name="MoriaOP (v)[var][src]\src\ScrListView.pas" size="9032" crc="e8d725e6" md5="91ba321b2f5d0ec7d1aa260caa407088" sha1="fe9e33654c841911183e3fa4f6f9d67adb1bf624" />
+		<rom name="MoriaOP (v)[var][src]\src\SimpleScreen.pas" size="14007" crc="e814386e" md5="8b29a5ea9078590b9a977b40f1f707ce" sha1="fff48836fa9ef35e759d3a1a96beae0b5aa93b04" />
+		<rom name="MoriaOP (v)[var][src]\src\Stores.pas" size="39198" crc="1e66b41d" md5="d0bd260a189b5802626c8aa535a84020" sha1="f3c082a6b10d507ef1e417a26335d84eb7605cc0" />
+		<rom name="MoriaOP (v)[var][src]\src\unix\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\src\unix\crt.pas" size="37031" crc="0baa87d8" md5="b7823c4169032985393b60d3000294c1" sha1="a553607b6c9c5c656a34404114b931f5dd4af1a3" />
+		<rom name="MoriaOP (v)[var][src]\src\unix\crth.inc" size="3195" crc="3d0046cc" md5="2aa788cf89762c31bbdc6335830064ea" sha1="6074b8754cdbf1c97e2b88ff1e05b41edc4e969a" />
+		<rom name="MoriaOP (v)[var][src]\src\unix\textrec.inc" size="1665" crc="7e9185ea" md5="f02a5f9c4c71ca9ee75ffed4d3fff8fb" sha1="06da5512c372ddb4e6a1209af3c821a5ce3185fd" />
+		<rom name="MoriaOP (v)[var][src]\src\win\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\src\win\_bak\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\src\win\_bak\Console.pas.bak" size="28307" crc="2485817d" md5="60f4c581787d39a3ef6ecb6c0618e99a" sha1="4daf656678e58bb6aabad628fe8216994c4a54f9" />
+		<rom name="MoriaOP (v)[var][src]\src\win\Console.pas" size="28406" crc="8fc5cc8b" md5="bd04c7060718071eec3838ea7d89db4c" sha1="d9ac66a646438971f6c87db3ea85453485fb37d1" />
+		<rom name="MoriaOP (v)[var][src]\src\win\textrec.inc" size="1249" crc="0a3aebae" md5="aa2a30a5fedc36c10528a28d17079419" sha1="8db546b401184598226ee50f4377d226706e520b" />
+		<rom name="MoriaOP (v)[var][src]\tools\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\tools\MoriaCre.dpr" size="242" crc="b064e049" md5="288a3564caa0e2f52f127a3e920ef226" sha1="34e1df1babb98d77cbaadd5fed3b7695efe5a360" />
+		<rom name="MoriaOP (v)[var][src]\tools\MoriaCre.dproj" size="8834" crc="5cd2c109" md5="03d4bfc7502272a4817a622f35186bdb" sha1="f4eab2281633bf35e0f888200ccb207d5ad574cc" />
+		<rom name="MoriaOP (v)[var][src]\tools\MoriaCre.dproj.local" size="780" crc="5029ca27" md5="909b6946f0b8d20d7b41c40fc2c3961e" sha1="16f77af3eafeb3034265225cc74f4601709f0031" />
+		<rom name="MoriaOP (v)[var][src]\tools\MoriaCre.identcache" size="138" crc="34c76957" md5="3300d325ac5b2e8760fbf6599bc49c61" sha1="761efc12cafca09391de5778c547dbaefcb839ac" />
+		<rom name="MoriaOP (v)[var][src]\tools\MoriaCre.res" size="298600" crc="f2ba27fb" md5="a9a60e2c5f401e1f30168c4e2e41a475" sha1="65e8bed23bdc80cc866a467ae123aea0e6f7afbf" />
+		<rom name="MoriaOP (v)[var][src]\tools\MoriaCreMainForm.dfm" size="1760" crc="0202322f" md5="1d3c391763b1ad422d49ca85a5cbb27c" sha1="a9f130b49ee98d081070342a1fbd37b90429fa55" />
+		<rom name="MoriaOP (v)[var][src]\tools\MoriaCreMainForm.pas" size="4133" crc="bf8f8ba2" md5="e3935ac7bec1a60ec856f90839753259" sha1="815c9b7744f7bfd5ed712580c69ee1a19ce86b1c" />
+		<rom name="MoriaOP (v)[var][src]\txt\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="MoriaOP (v)[var][src]\txt\blklist.txt" size="19146" crc="24279d91" md5="8d9c30fa298e4da08390b1cd65894873" sha1="8d2cb7a7d56b63614c3cd130fe2008e64c120bb4" />
+		<rom name="MoriaOP (v)[var][src]\txt\blklistnew.txt" size="35784" crc="006d5a38" md5="fc6e1ec3cb47194824e7f512a468508f" sha1="273e4e31b38a2a9657e07737667f20a90c860bcd" />
+		<rom name="MoriaOP (v)[var][src]\txt\dorlist.txt" size="188" crc="90056865" md5="8ac57057bbd42b2db0aa6ccacc6d52be" sha1="93e5fd252e2f443983892c766f868a407218336a" />
+		<rom name="MoriaOP (v)[var][src]\txt\dorlistnew.txt" size="530" crc="2cd2473e" md5="be9d375049de9fceeabd6b0855ddcb5f" sha1="11eadfb53e5d3df4f5e85ef5bc6e0d661f27ecee" />
+		<rom name="MoriaOP (v)[var][src]\txt\invlist.txt" size="9088" crc="f6907c32" md5="2885df0c5b12fb911b39ebc94e908c54" sha1="3a5ec0afe19be517e1428ba72afc48adc250c58f" />
+		<rom name="MoriaOP (v)[var][src]\txt\invlistnew.txt" size="20959" crc="e81dded4" md5="70c0af73889b17caeacf0ec08e35ee88" sha1="75b0782890663445578d7b9d18104eb1c2e44f28" />
+		<rom name="MoriaOP (v)[var][src]\txt\objlist.txt" size="28170" crc="a1cf6b2a" md5="cbb7755fd2eea7a7de304f69f04d02d5" sha1="b13cb3d92ea96c2c52843535f0107f4937e6efe6" />
+		<rom name="MoriaOP (v)[var][src]\txt\objlistnew.txt" size="69203" crc="b389d5ea" md5="3e6f01bf1dfdeb329c0cb3aeaba9978a" sha1="d2f8fecba9b2e19014daef8e8e87f02c483b7f13" />
+		<rom name="MoriaOP (v)[var][src]\txt\splmage.txt" size="8201" crc="9d0fdc0e" md5="061bbe8e4ce65f58510998f2cee185f3" sha1="1813aa8a91e6703e0a9f89d64db7b012ee819e57" />
+		<rom name="MoriaOP (v)[var][src]\txt\splmagenew.txt" size="19171" crc="ad6c3d50" md5="d160e28765b865c7484de475b48876ea" sha1="2866d2c3f1477f127f65e6c05473143cf996173f" />
+		<rom name="MoriaOP (v)[var][src]\txt\splprst.txt" size="7824" crc="1677a2a1" md5="e8f98c59ea662759a8c5badf29aa8ede" sha1="e670af24b386fb70c20f31f7ace340ee0c881a85" />
+		<rom name="MoriaOP (v)[var][src]\txt\splprstnew.txt" size="19033" crc="f9792b3a" md5="89bb79781ca356415c9f8246ae0f3d59" sha1="38707cb1e125a10de9e632f4e806d3909d193d2e" />
+		<rom name="MoriaOP (v)[var][src]\txt\strdoor.txt" size="569" crc="2f241f17" md5="7f30cd5ae5a3eaf69e937ffb149c0348" sha1="9e29b7bddda9c2b63a824587757e503ca4a963c2" />
+		<rom name="MoriaOP (v)[var][src]\txt\strdoornew.txt" size="1368" crc="73623edf" md5="93e5503d0fba7131510fc02583c5c3fb" sha1="1a8eb4fc1f0c1ab75114ee239fd0e721179c000d" />
+		<rom name="MoriaOP (v)[var][src]\txt\strownr.txt" size="1547" crc="e04344fb" md5="65ff9d6acdde94a9eccfe3ba4dd74e52" sha1="96047fb8f72d1e66959980d5f0548fa31ee54d67" />
+		<rom name="MoriaOP (v)[var][src]\txt\strownrnew.txt" size="3501" crc="155e8ec2" md5="defc0976fef469dfd216fff86faf0c71" sha1="cc6900dd9afa3868bb043c3702c880e36fac28f3" />
+		<rom name="MoriaOP (v)[var][src]\txt\trplista.txt" size="1183" crc="8a218002" md5="bd8f08bfd5372d512d47ab7e6e6faa1d" sha1="513fa8e8ff600510a5545e7036c31231bcaed8ca" />
+		<rom name="MoriaOP (v)[var][src]\txt\trplistanew.txt" size="3350" crc="33714c51" md5="44909d7b35ea6b4314c5a1d5b4a5bb24" sha1="f07cd57eaee1a156baeb776a5885397150b0b782" />
+		<rom name="MoriaOP (v)[var][src]\txt\trplistb.txt" size="1278" crc="40bd15af" md5="923f335c4f6903c1504e2d5714aa27fa" sha1="c761f0c74a0da62d7d44999a12efecf000a91936" />
+		<rom name="MoriaOP (v)[var][src]\txt\trplistbnew.txt" size="3510" crc="fb0fcc53" md5="1e511acbbab6f96a85b53ba17920ccc0" sha1="9052630ecbfcbf5ed09c63df67e7bbb82bcf46e3" />
+	</machine>
+	<machine name="NPPMoria (v8.0.5)[var]">
+		<description>NPPMoria (v8.0.5)[var]</description>
+		<rom name="NPPMoria (v8.0.5)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\__Doc\Angband at oook.cz - The Angband Ladder.mht" size="84601" crc="e182ca2a" md5="36173c34b9281e1eaabf723cdeb93230" sha1="6a52775a8d6cf5b661f4ef47342f49ee585698e0" />
+		<rom name="NPPMoria (v8.0.5)[var]\__Doc\GitHub - nppangband_NPPAngband_ A variant of Angband, a roguelike game https___github.com_angband.mht" size="1794837" crc="5df1ad5c" md5="af278de27192ee4265b6c04291cb51c4" sha1="cbe08f1957559a4164d151402d6ec182417e9331" />
+		<rom name="NPPMoria (v8.0.5)[var]\__Doc\No Pet Peeves Angband - RogueBasin.mht" size="331546" crc="b5b61f67" md5="f43ee317c026e1237a084ff76b592244" sha1="387e904c52327e156e2af6d4aedebea8d1fb225c" />
+		<rom name="NPPMoria (v8.0.5)[var]\__Doc\NPPAngband and NPPMoria now at 8.0.5 (Qt Port) released.mht" size="337675" crc="80b3d510" md5="d35accd948f89d5cccc2428337036bfa" sha1="2d64593c4d3d2a0edf0381c528d3665ad3f3c747" />
+		<rom name="NPPMoria (v8.0.5)[var]\__Doc\NPPAngband.mht" size="67704" crc="7f7b7009" md5="3ecd92f8c61dc67adb7c1b84c16d6594" sha1="9d7fe3a0f2566f838c37c299ba132ebd5b543966" />
+		<rom name="NPPMoria (v8.0.5)[var]\__Doc\NPPMoria - RogueBasin.mht" size="331176" crc="26c616c8" md5="a0f0e4cc41f36982e4b6d56ae1122591" sha1="1018f123c7419a9f376dd659b74b19859fd59255" />
+		<rom name="NPPMoria (v8.0.5)[var]\__Doc\TONPPAMF.mht" size="75000" crc="3c34827b" md5="ac6efa4bad80558515284c0984d494a6" sha1="3a9255891dae4a86eeb32d197ef2ce0404d7167f" />
+		<rom name="NPPMoria (v8.0.5)[var]\angdesc.txt" size="52958" crc="c5b083ea" md5="f666ef9d9e0ff7da2341fbbf0a892311" sha1="f1ae68822db677ee408acfdfa3e7d4fdafe54a0b" />
+		<rom name="NPPMoria (v8.0.5)[var]\audio\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\audio\qtaudio_windows.dll" size="82944" crc="5146ff0e" md5="ca1fd9edd8f849eb1aca4556d1d58352" sha1="2169a032251bdfa657ee1d48dc658c0a9e3f923c" />
+		<rom name="NPPMoria (v8.0.5)[var]\AUTHORS.txt" size="732" crc="54ae9123" md5="be7ba7b65b33794f1d265b3beb3b7077" sha1="e205d1ff797fb50a4e3a7f9cdda791a7c698ea29" />
+		<rom name="NPPMoria (v8.0.5)[var]\bearer\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\bearer\qgenericbearer.dll" size="61440" crc="c05008c6" md5="7e1cbf401a94922e389af66affc1c07a" sha1="f42c57df64220bbbf9bcdde46a95388cf4cbd32f" />
+		<rom name="NPPMoria (v8.0.5)[var]\bearer\qnativewifibearer.dll" size="65024" crc="0c58fd24" md5="74bcf4aa1df751b5fbfb4808c771ae86" sha1="ea776efd77a4d8eabe8c7194fdcbc20d372d7279" />
+		<rom name="NPPMoria (v8.0.5)[var]\COPYRIGHT Info.txt" size="35479" crc="2e7eb88a" md5="4dd61c222cae7485a83245c5954fcacb" sha1="92e834e9d0341f02da0a81fdc20c0f0ef6215607" />
+		<rom name="NPPMoria (v8.0.5)[var]\D3Dcompiler_47.dll" size="3551744" crc="5ba0ad43" md5="08b8f2e5faac73ef1afd99b2aec104fd" sha1="b1b091c621eedc3a4d5eded7e3f8086b8b658773" />
+		<rom name="NPPMoria (v8.0.5)[var]\iconengines\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\iconengines\qsvgicon.dll" size="43520" crc="a0c49670" md5="ab820a157d21da93618c27d68306ac7d" sha1="081cc9076730a934dc4faf69c4677b8e2b562c06" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qdds.dll" size="58880" crc="77e0f31f" md5="c425fb146339526d1a462f45fdcd11fa" sha1="1f1220f8f06f32dddf235ab5076b9cd90c49af33" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qgif.dll" size="33280" crc="4532c18d" md5="20d7a6cfb946b22a816d92ed57b51ce5" sha1="0af25d85e631e96f49ac9772301726ee78e0823d" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qicns.dll" size="46592" crc="482c93a5" md5="fb197ac1d0f2f50f7b0e026bef2d8267" sha1="7805d41340a9709bcde0c202e68ea9855f7d309a" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qico.dll" size="34816" crc="c5416243" md5="26a7460345584d1a26866739577afd5a" sha1="9652474ae1a910c892ffdd6f9b3947652e205e1b" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qjp2.dll" size="517120" crc="42dc8e9d" md5="930cf0185e4c01c8a26f2b0b3db1ce29" sha1="c7028c30397529e9c7bf1a14d903f4ea64329a84" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qjpeg.dll" size="246784" crc="e2d0d4eb" md5="24583405f8bcfc26884f221a2a9eb0c9" sha1="8dab67860832bcb9ca9a99007149f6d7d6dac303" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qmng.dll" size="366592" crc="83fa45cf" md5="942e3d18ea0976778908add6d509bbb5" sha1="1668dfd17be9e707ff5b3a98328773a19fcb20c6" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qsvg.dll" size="28672" crc="e6c035e7" md5="59c816b1cbee57b2b75911a8c4857279" sha1="724b454f0124a22aa7a6e05888e842017c27d127" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qtga.dll" size="27648" crc="b34107f4" md5="38719595d9268099680e96a4b8e1eefa" sha1="7e120a2de7146ead7e26913b014e69ca7e6b8f9d" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qtiff.dll" size="433664" crc="6403cba7" md5="30aafcd598ca04ef81af491e71a0bf8a" sha1="40a3c81f701e29bd5e7284826d8c018664e1d20f" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qwbmp.dll" size="27136" crc="8bb9aad4" md5="00064efbcc13bc363005764fec2836ad" sha1="d7acdf0d2c2148fb208b7c86ad08841033ee75bc" />
+		<rom name="NPPMoria (v8.0.5)[var]\imageformats\qwebp.dll" size="362496" crc="4996f6d3" md5="604f8f905d32955f285b15b17ac31abd" sha1="b7a28e18897103be6e44d9b43ba9a9433eacfa9d" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\bone\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\artifact.txt" size="125644" crc="1dc23efd" md5="3c62b184f7d6a959ff5b148b161892e3" sha1="1970fffbb5e8ea5af34ac53fabbe28568483bdf7" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\ego_item.txt" size="35690" crc="995bb381" md5="aac30e3e241ab1c9a14e8c8943b0e585" sha1="b9f81c8c6edc54a37fef81ce5e8242d9429f7ec7" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\flavor.txt" size="48802" crc="d7336e12" md5="fe01aebfa71ebfe1d593ce3b9a96375d" sha1="b93eaab77997d14ceaa1143c94a3674f3e247969" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\limits.txt" size="3416" crc="c4e1d1e2" md5="4a5f53cce05449ebeab0669a6824f6fc" sha1="c38bf6dbea45b4318a228407d8c42772dec5bb6b" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_artifact.txt" size="6870" crc="97e1e3d6" md5="56e7ed5fcf5e97ce4fddc9cf320aa0bd" sha1="67edae30b825e8674c5cfb91d872ba38e459f89d" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_ego_item.txt" size="18316" crc="53a3f04a" md5="4fe368eaf296b8f37e61cf3909dccb9e" sha1="294e673dbd17d998b1493801cb29505198318e3f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_limits.txt" size="3616" crc="41fa4fed" md5="3c98df32e0f338f480f7f8e7994c98f6" sha1="0f36a3e887a24921dea83bc0e608e69b84e6368b" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_monster.txt" size="174840" crc="a7a64cf0" md5="795a167c318eb464f9b3091d359c8a40" sha1="578393d1d26d38b6537cba3181756c1c0b3d5563" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_object.txt" size="132426" crc="b0eaa375" md5="c74ca179e0c2a238ee944b642cfad1dd" sha1="ccf58d5c1f884c352ff8f44c246ac5044109d364" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_p_class.txt" size="25378" crc="f91bad71" md5="4e9f6b30af9842782346f05731483d54" sha1="9664845b46495748db25186193a66403184b966f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_p_hist.txt" size="10832" crc="71715431" md5="aeae470e21cae737dca79845368f722e" sha1="165683b578080c6623132e785c03096c43919015" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_p_race.txt" size="5252" crc="339dcd75" md5="665586211af952a1b43ba9b9d84ffc14" sha1="45035fa4e793905c9bc0c8f31e8f37c874e3c6bf" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_quest.txt" size="1274" crc="b5495aa2" md5="f99384f0a18cb21989a0a8e75c9623a3" sha1="193bb9f254818975009e01e6dc01980dd752118f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\m_shop_own.txt" size="3074" crc="c3d4e755" md5="8362aef5d3862320ef8690f8badff450" sha1="e7391429402a98f3f73b315b1a404941bd5f7fe1" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\monster.txt" size="628624" crc="8e010706" md5="297893cd737eb4346283705cea3666fb" sha1="1d28b55b784796a946ed40069bf6f2f1ea3de879" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\names.txt" size="13924" crc="9e0c8c40" md5="6090c01b10fde00a643f4a52d83bfea2" sha1="a29bd00351da383e49a268081b2d1e726e29c0fe" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\object.txt" size="184030" crc="bdf156ab" md5="7d70e65188f1bb494158b005a07f86fe" sha1="8796b194b27c445eb886cedeb9c5eb44ed0723ab" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\p_class.txt" size="24334" crc="a3dafa0a" md5="e93d6353b4c6cc2b90952d86683f8227" sha1="876a878f0d0580386b49f1ae0a467d19cc0e7c5f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\p_hist.txt" size="15572" crc="354f23aa" md5="d103f3ce354764ff8c0f3b900c937301" sha1="3fc089056402ec94ea8df4f5a71e6817a3ca7617" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\p_race.txt" size="6258" crc="532f369a" md5="fbed55198d027f9b075362e6d85cd972" sha1="3efebf43ce1a2b64302be5f8c33c10c6fe085188" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\player_ghost.txt" size="3636" crc="0eeaca68" md5="15cac90882015863ee02b8f99888596c" sha1="292d751e234e2ba3b5603160a2e47d70ebade66e" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\quest.txt" size="1454" crc="4a6e3cff" md5="5eb77a7464eca9d3e79cf0999389738f" sha1="c5d752d5c7d9c49b677c0ed0226517a52e58b14f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\shop_own.txt" size="3560" crc="6000f02c" md5="7015f4151f46de81aa698c0a79290752" sha1="11cd69f15193166784c173ca784fdf6f8e140e32" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\terrain.txt" size="73052" crc="f1884492" md5="e5aa6cd4f2b6fa40ccbb3c9cbf0dedc8" sha1="fd423e66caeea86bac513478313750e4a88180c8" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\edit\vault.txt" size="89284" crc="e07685f7" md5="3fdb3efafb139ad57d5da9a3895ca09b" sha1="a2b8cbab193213b3de286348ee591078a2418a26" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\projections.pak" size="971298" crc="101851a4" md5="6f1caf5309eb187566e57378238c6e78" sha1="477196c3f7c4d544f4f4ae3a78d994dfdc47c645" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\tiles_32x32.pak" size="864909" crc="b2558b0d" md5="a4f5be20e2e974b3098773804affce5e" sha1="d044092af0f57ab4a819c41b97bbbffd6e80c50a" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\tiles_64x64.pak" size="10450337" crc="aaac43f9" md5="f03c8b7c039f930ed84171ef8e591582" sha1="5c365479db61a0c9e6574b522dde12f32ffc76e7" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\tiles_8x8.pak" size="277081" crc="5ea40d79" md5="b3df0b0f06f1891b488f9b95a7c7157e" sha1="e1a887bb68fa3ae6944531629c5839538f501fea" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\tiles_feat_32x32.pak" size="210247" crc="f442c7d0" md5="ce93b2a4605c7e85626dd61a42507be6" sha1="fcca75ed57a3eeb4261a3b17c09b2f58c76637af" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\tiles_feat_64x64.pak" size="1204477" crc="9d70059a" md5="5e0c7ef36ac9ebc963cacaf119a1ed81" sha1="b8bb3e0faef9245319e652b045b3df368ea0a7cc" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\tiles_feat_8x8.pak" size="30669" crc="ea2fb79e" md5="9c5bc30645488fb13725c2d8f111a15a" sha1="f44b7d78392a98815d92bfc0a57f8d665a245c77" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\tiles_flav_32x32.pak" size="110518" crc="b60559af" md5="65a010c90e6b6f0350b2d8d51fc2cf5f" sha1="0fc25acfa277178e373755cec0e021d00dd40015" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\tiles_flav_64x64.pak" size="1184477" crc="5342a59e" md5="ca15829fafa3dc6d14886158dc6c7c3f" sha1="2d82dc2512480b899554e0f1e3fa7d32da12dbaf" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\graf\tiles_flav_8x8.pak" size="67189" crc="e61ea9e2" md5="b4a008dd095ac1cadeb088a7ebfc03c9" sha1="54da7715f579a02d25352a4b4e21da030ae7e774" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\help\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\help\character_info.txt" size="64386" crc="df606ef8" md5="41f2711a0e2e9968858eeb6a7b246fe6" sha1="0d244fd3e8c334c733c55b07f38961df86a08254" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\help\option_info.txt" size="25862" crc="abf3fcb1" md5="24d7ffd1e1701415ddbd03ce74d3b7d7" sha1="ddd3c4787e2871f0ef2ea6642c67e2bf187b3d73" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\help\race_class_info.txt" size="26856" crc="5591aed1" md5="4d633138ba174a9b4baf3c9c138154f7" sha1="f883492a7c3e93053bf8e7e467a05c2d2fbfe6ad" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\help\store_info.txt" size="31138" crc="2e63430d" md5="dee0d9636b3141efd5b51d43a42a145b" sha1="079300d54e743d332f07d99fa3cb61c66bac0c73" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\activate.png" size="7888" crc="36a00007" md5="ae1737141641e687749fdc450a0f1226" sha1="e114705a1cc6dfcf4143d77da622f2982e84dfe4" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\afraid.png" size="2569" crc="620ed12c" md5="12afd7604d09a26172e8575e6a42469f" sha1="bdc86e47cb0bb1af9d7af1020b6c0b2c1e073552" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-down-double.png" size="2075" crc="d6495d8d" md5="09dbddcb2e6999cb39057648dfa3a392" sha1="7e5c22088da4b22f6464326fae6aef30fe5acca1" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-down.png" size="1481" crc="7036ffbe" md5="24a6ef49644a39b7e423ee8d76921947" sha1="d7569caf0b661e56f16fc67f862b8266fed5d9bd" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-east.png" size="1632" crc="e43205ce" md5="740d2998ce52228b5e2642796b1f4f15" sha1="6ea98a2d7a19699a509967040defae0e3379734a" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-left-double.png" size="2327" crc="ae791b3e" md5="a99b15de9bf39afa0321cea060c25613" sha1="0582e074b3d891935e2c8ccb347eb108fb039068" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-north.png" size="1674" crc="b105f5c0" md5="f59585f9700d5c54f0ea12ccd5a2aea7" sha1="c788bb6cab9cb9604620100ee4b7e985650a2148" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-northeast.png" size="3030" crc="205d5715" md5="9182a2bbef289c2bc92ca5b99350bed3" sha1="e2e7d5819af244928acb7ed5f81b6e876c0b3377" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-northwest.png" size="3044" crc="2918596f" md5="eeac08a316fef915a5eef323844ca00d" sha1="7eb31fd3489fd4b1bfce81ff1d1e48e396460b2a" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-right-double.png" size="2377" crc="9bad8f2a" md5="ddc8a227388debc5a2e0772da2866839" sha1="8f4c1decc6773f62689fd5ad4c3677aba04b4af2" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-south.png" size="1703" crc="2ea182b3" md5="507197cfd40cc9160d9c0f874c70392c" sha1="a0110875ea679ab3dea72639cdddced32a313975" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-southeast.png" size="3040" crc="73764b23" md5="9e7ac95bf262eb20474ef24587294524" sha1="4a2db13aac981a6c65d0252008bf887471c1c323" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-southwest.png" size="3007" crc="64d0ec81" md5="39ebd7b56eabd696ae2fb71eb24815b0" sha1="01b3ed7fbfa84cb484305847b32079ede52c2953" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-up-double.png" size="1960" crc="d4d1ac64" md5="811de6fdb02b92877cedcda5c613b478" sha1="27dff37c1b89d8f2864f9cc0e2edcb494336c652" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-up.png" size="1366" crc="d7c9ef4f" md5="7c185fcdeea71f0d72d674c19b08b252" sha1="38c1b2f218d2e90e53ca250069b70f8789b8a07b" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\arrow-west.png" size="1619" crc="98a128fa" md5="648c4dad0d87de5bfa289c88ac280ad8" sha1="bd9e4263852b64875ab044e45173bca9ac288ee1" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\backpack.png" size="4169" crc="66da2d32" md5="bffd77d08972ba9db3252fb749fa91fd" sha1="85d07cf638d41932076e46d9a38e3d59597f4fe1" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\beer.png" size="3319" crc="e45fbf10" md5="9f6ff2615edd7f4a91176d94cd22d417" sha1="8acd63c999719da2d5c741208735264f474f23a8" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\berzerk.png" size="2994" crc="94d0ef3d" md5="a3a7fe8713d83618da5f308f1ce1a313" sha1="71dfdedc6ef4849744ca81ac1f2b00d1f92847b1" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\bless.png" size="3480" crc="4e8a5adc" md5="5975d2bfa1f67df12501ac684586c2f5" sha1="c1e417da04786aa7c07300249f6037105156195c" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\blind.png" size="2790" crc="47ace09e" md5="47118b3f55d9ed1ecb0df3defb73e847" sha1="85396c35f95dc11b8dd39bd7764490fbf81a97d4" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\browse.png" size="3690" crc="a91ea82c" md5="b463caab3ee92ab899ac56c9efd5fc26" sha1="f93207c2725d00dd0b8e1bdc8e128411f26f65ab" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\cast.png" size="4831" crc="b1dfb6a9" md5="587fdbfad57bb491e30dbf601d092176" sha1="79f340358c7fb8d17fac761cc3b1c8ec9ea2be51" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\close_game.png" size="1357" crc="0e03de93" md5="3a036e6cae00be6629ddbd99f319430e" sha1="10be245460b4eb592e38cfcd955effcc9c570072" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\confused.png" size="2740" crc="827ecd75" md5="e2922eb65db5267bf71a3830278f1fa6" sha1="cc70482b21ecba7906083bef521e42986a485b22" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\cut.png" size="2185" crc="387100e1" md5="7f8cb4e3e1ea15911175582a1e531fe7" sha1="58cbb522bfc4c0f77fd630ba82b6b111be90e972" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\destroy.png" size="2072" crc="795c15fa" md5="a5348d3cdcb4ea750c76b9635b902e4a" sha1="76d64436c104658afad9eac3172e2ca4f402a516" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\drop.png" size="285" crc="e995eb2c" md5="cfa082a9ee76e84d03690677c60551d4" sha1="3076b428b27cc45929984bbc62ab5d9608f58332" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\dtrap_edge.png" size="1286" crc="0ccf8950" md5="2ad23c7ad1ae00c3bcac41ddae4f7122" sha1="d9748ba73cde710343e6aaeaea9e3ada08457401" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\dtrap_inside.png" size="1280" crc="a23892d9" md5="df606409fe72a5495a23c1bfc2b75df7" sha1="f8d3ce97916ab3e2f7fee251e5e68f3974d5ab65" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\dtrap_outside.png" size="1334" crc="3a9b70c2" md5="929b66ba01800764e48008aa05316d88" sha1="d7a7c32baa32b5f8e9e6a6b3969c882b1c55e8e3" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\elemental_weapon.png" size="4873" crc="8072c432" md5="6c6ff5f6abb6fdd2d9fc7276bcae83e6" sha1="44c03ddd4a428e2d814ea0bc812422f1c2f05409" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\Exit.png" size="1329" crc="e89a56da" md5="33961a9e69505cddaa2aacf4df911f64" sha1="82382ec81fa909ce194d3628e8f8c2cd091215fe" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\fire.png" size="5094" crc="8b030287" md5="19f4f24d3e8cf77ff8ffc16d92a385a2" sha1="08d42b33cc56bd28549c5d5b93710a40aad6e42a" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\fire_near.png" size="5203" crc="53a4b930" md5="4eecd37f330968caaeb8a9088c59409d" sha1="d765abeabe0fd9dbd2ed27d5e45271476b7c6f76" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\flying.png" size="4746" crc="570d0e04" md5="cf3e9e3d9af0a28a0d6b7f589e3c35aa" sha1="549077ceedeaaf70625653eb2e262695d9ce9c55" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\food.png" size="498" crc="5f8b8bab" md5="12449da7b108c0060f1520bbd92334b9" sha1="3e450863aaa38d8fd228dcad97fa0c665d77ba93" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\hallucination.png" size="2624" crc="95d2eee8" md5="ce6370a34116f635c71a20a608536e6b" sha1="f9bc747986f4af208c938cf0db575fd2a5604eab" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\hasted.png" size="2952" crc="f00494bc" md5="b73ffef724cd5092eeae4e254d7da912" sha1="0fa3d7817e95de12a233fb052da91faec655149a" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\help.png" size="2343" crc="adc44b5b" md5="8a23633c04417f15940e1b2346d79fa9" sha1="ac51c0450664e3e9528363157566510af09d36dd" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\help_dark.png" size="1856" crc="861d9e52" md5="4013c64e6ef0779044dcb34b54d67fd7" sha1="6cb3cf02a735697841ee93c66de941360f355ff4" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\hero.png" size="2996" crc="e65031ec" md5="5792448ab394fe25ab3d3b0149784358" sha1="5d2c43368cfd4951c446ef63db2f2a62d2c0b580" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\hotkeys.png" size="3417" crc="0c683551" md5="4d46a2d11d56a98f93584f0ea2cdc91f" sha1="90691bcf864f17e8c6f4c5096b127dac4bab64b5" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\hourns.png" size="4512" crc="fda26c06" md5="05bfb37fbac277e58b47739679d6e6c8" sha1="adbf91f9a6d7ea4f9c5b2762d7f398785f9265c9" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\hunger.png" size="3516" crc="8da4138e" md5="fc62c282da267107110a7bb82c0c1ee8" sha1="86e9f7b2f95c736102f945383d5c1f873a6d3082" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\infravision.png" size="2644" crc="d44f2cac" md5="ab4392d570ef80ee021ec4bd3923174f" sha1="ffc0d30972aa4081848751c79962366047695852" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\inscribe.png" size="1142" crc="3d5c2222" md5="0d2a52b927fef31f2c0cb6d4495f457e" sha1="8e1540e83476393ec5de35e87d30c7aa3af79fdb" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\invulnerability.png" size="3564" crc="5f46ccbc" md5="4637f026155f1fa57cf39e373ce70134" sha1="ed61547ec1efa79958a7bde8db5cb3baf4679aa4" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f1.png" size="1865" crc="eadb6699" md5="e57644eb74983f395486a930d05bb541" sha1="52cc4736747d8ca612089431f0e223fc9cbbda4a" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f10.png" size="2281" crc="fef5c8df" md5="a463a566f82e71628fef35cb5ffe4205" sha1="59518b8ffffd546509b95399e59bc7af07e2c899" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f10_shift.png" size="2299" crc="8633e206" md5="0fb81685e04feb0e3f9e51ba1fec47e3" sha1="ecde610bf4f4d746a1cc9553250ae129e33f3938" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f11.png" size="1995" crc="9292ff44" md5="7b9b737027875be36a9b943495c4e361" sha1="d30d0f0a9eadd7bc4b667128c5d4de20ee353bb1" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f11_shift.png" size="2020" crc="7a762a81" md5="2ce20c5b4aca0d901808868cd6d5f9b9" sha1="a7750d3133b4e22e8f7c7789c712016b40ea8208" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f12.png" size="2226" crc="51357c7c" md5="c868bf5c6c354ffd3a916260834cfdd5" sha1="51f9f7164ebe2636ef38e1ea9e90138a47bc455a" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f12_shift.png" size="2236" crc="ed9229a2" md5="8ef49c92aba3e8852e6b5aa361621820" sha1="81b85be344dfbc8dd0aa448f613a560d874c22d5" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f1_shift.png" size="1890" crc="5894d74c" md5="73adbc4eb999ff3b81ddd7d8f6c36342" sha1="c5898442fb77ceeaee4d6b8713923ff7da8c2246" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f2.png" size="2087" crc="55fd5786" md5="a78e72866bca3760aa4716a8eec48bcc" sha1="f38936ee0a5135b3786327a5c1d5c1d7d41c6a79" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f2_shift.png" size="2115" crc="cfa46b97" md5="26bd8c2eaeafef252236104cc54eb403" sha1="e4b60b1026703db3dfce9718d25720ae39f60235" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f3.png" size="2117" crc="b908a101" md5="0f96d9cb7f77e5a23d2fa97569142315" sha1="b1a7ccc8721d17390565ae4355ac144fe755f08f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f3_shift.png" size="2150" crc="a49812a3" md5="4e1d8a675c98bc9e0151a66eb04685f5" sha1="d79133d2f0d815f4bde05d25301748f1966bffbd" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f4.png" size="2030" crc="140611be" md5="a90311ffc0ba69ac3d6a3f5926e62963" sha1="13df563b3bd56683d606bb523d733e1e050996fa" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f4_shift.png" size="2056" crc="cc5c56ba" md5="181d234e6d8d53b17bc38ef36a4a6dc0" sha1="10a288f9b5d5e1552d30b44aed5da24f7d1f1785" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f5.png" size="2139" crc="38871adb" md5="34c6c0ed922d143b474d251136c5d1a7" sha1="8a34f48bf6faa31fd81808b6ba8e8100c8e28275" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f5_shift.png" size="2161" crc="0b092453" md5="021d2dfe8657a8be5abf56ca1310b1d6" sha1="ba120203cc1e5a1d398f6bca54ee7f1116613328" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f6.png" size="2191" crc="82dc910b" md5="afb78fc60cee4254e8ddbc5dd1ff8e2c" sha1="d688eaf55eb04eab5ac643488763101256f9dc57" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f6_shift.png" size="2213" crc="49dc069a" md5="670da35d97b54559937af9c9ea902e4a" sha1="ea5254b74bdcc72ea3d5f8715fe18877550d877f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f7.png" size="2081" crc="09392504" md5="5c025c06580b57c8407d5976c4d14b62" sha1="a50acb1559989c77d91b65e2bbded913eea7218e" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f7_shift.png" size="2110" crc="f2533f4a" md5="c287bb27deb825bf9566c66eef8c0687" sha1="4f9fb6c9d932cce0577253fd162a6bccd67b4f06" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f8.png" size="2223" crc="4d659477" md5="3794004dc577037a37259db11c1a1cae" sha1="908485202d010037f6cda5275597a05ed0bc3459" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f8_shift.png" size="2243" crc="cce0b8b8" md5="3e0367d11fd2d1c96fb041acc5f4439c" sha1="1c80f4301fce08bb952154e6901dbd84cf1a4afb" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f9.png" size="2203" crc="ee65bb94" md5="d937c28b773609239582edb0beaabad0" sha1="2d8f759b95239a66c99a62fdaa0cbee228b003ae" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\key_f9_shift.png" size="2213" crc="3d632b82" md5="76d10a012b6ed9181f765ebccf70b609" sha1="f2b0ba45ef01867ef1b07e873b113135b5c63367" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\look.png" size="1919" crc="0212f343" md5="92e9577f88d0cc3384dc9222c4535a29" sha1="b5724cf00334bece6b38f9e8e1b515587f35ea36" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\map.png" size="3602" crc="c08982a8" md5="e164fbe5ba2ca19e4848bf79437f49d7" sha1="70a72794f80c3ec04479d4a67a23be4166262cfe" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\mushroom.png" size="4775" crc="d1694936" md5="f615039b5f26cebf68747cc7a7c1e923" sha1="90a6e8ec18e22ff3ab7269b441aa0719858fe3b6" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\native.png" size="1655" crc="681bd503" md5="d57f6d402d5369577a63d14113cc739d" sha1="56c06b1db981cc8da9d63a8546dca1ca601bf8c6" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\native_lava.png" size="4620" crc="615b12ef" md5="f3511fd9ec7db77f90beb143ba9cdbd5" sha1="f3189565d4b2e87b0c12eb51c79b70586ceccd1d" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\native_mud.png" size="4567" crc="8cd0efea" md5="b111601334fb4e3392117326108a2788" sha1="0240469559167376c8d3f1049141252535347f50" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\native_oil.png" size="4547" crc="4d84123a" md5="70a6f2cd8bb2d078f733e74adb152513" sha1="c7d0254986118fa6fbeb1a577fd7307df07dcbdb" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\native_sand.png" size="4632" crc="e3a9f38a" md5="526f0a706a39d14b869b7c7ea44d4f01" sha1="208859aea9ebc852471b23cc499ac0ef187eabb0" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\native_tree.png" size="4517" crc="7da4fce6" md5="c81aeecbe295b9b269621664b03f656c" sha1="b5c34425bc6e52ac66e2de074ad3a3415e6e6eb3" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\native_water.png" size="4511" crc="38f6bca1" md5="a6701010f57a5a14cb337c73d69e95cf" sha1="2b7552710df258c0a0cc900c1aac97053915c347" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\New_game_NPPAngband.png" size="1184" crc="ff53845d" md5="f0e3e7d165a15ee5e3752add65ed37d5" sha1="a99d3645db3218001429a2d4957f094682e5cde3" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\New_Game_NPPMoria.png" size="1333" crc="72cf2eca" md5="82a290897a8ea838f040182071428419" sha1="a310b095d105dd01e03b352746c9e7c4a45c0f42" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\non-native.png" size="1689" crc="470f36e5" md5="e2a29c7af519ea4492ea058c5998a588" sha1="5d4f50788007fd2aef320c48ff89c2ed7d90fc8d" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\nppicon.ico" size="8854" crc="08e2feb5" md5="48551797faf9a5adac42f9da2b2114f5" sha1="82f9199bfb653ebb7a69c081d6e271ba30426262" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\nppicon.rc" size="61" crc="4b6f2905" md5="adb15fb3358a6686e80c91d768aaa036" sha1="907188718d8e4e8720021fe56bf91de246f8ce2e" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\open_savefile.png" size="1461" crc="73261c8f" md5="c72abc256ecd0334253c59d5857ad19a" sha1="3a005e4164eb2e914dd097bbe2a0a1aceb7287e2" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\options.png" size="2608" crc="4412d175" md5="19ae311817be8cf56505a0515674124a" sha1="4e7c8b24c3064715f8c37b7a5c0f81e5db4a01fc" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\paralyzed.png" size="3504" crc="c21e41ae" md5="4612c3aae66f2984b85f956bf92b0312" sha1="422fde22a69be83f345342d2113020a52316bfa1" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\pickup.png" size="250" crc="2615e55b" md5="9bf7f30e390ca82782f5c473c072ef20" sha1="fe68d09f7c3f201ccb2ed2a0a8dfc309cd335b2e" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\poisoned.png" size="4186" crc="46a86da4" md5="e0041ede72bab0f1763839198a45c10a" sha1="55ce8c56f4a5f2b4723918bdc7313dfbe8f71e3e" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\potion.png" size="2249" crc="9311f4f5" md5="317225c85d5efa6def4806c092bf5092" sha1="67b0399383987a896e08ab41207def76e06cd0b9" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\protection_evil.png" size="3609" crc="40ffca43" md5="f0bd1bab8dc6747c3e74a021926b92f0" sha1="ac0bbb469c922c4d5b8885615ba0386abf516a8a" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\recall.png" size="4411" crc="4481de04" md5="b9116e76a88c6b4cebdaf231b496e785" sha1="e90f6ee85c12003f23339e03d56877adcbe288b3" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\red_warning.png" size="4315" crc="f2b7c23c" md5="4579d836f5e8b4b5a8f494cf0ebf4972" sha1="caf4138b341c3d3d492094c3b2f9a6eb195c04eb" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\refill.png" size="3394" crc="b5901aa7" md5="6dc7fbe9cd2c75e3cbff3f4281d6f374" sha1="2a92f37134725b4dd1a087c20472bd4db61a3f70" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\repeat.png" size="4864" crc="cd8604c8" md5="36cd40519e1911e3f3923dc7e110dc80" sha1="7402729b45d97cbb61e98b0226bdd12e5741b049" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\resist_acid.png" size="3248" crc="6f083f44" md5="566fae213dcae83042583a0b16a66ffe" sha1="bb4d67ad9d8993d104cc676220b3aeef207b83cb" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\resist_cold.png" size="3906" crc="4d6afc10" md5="11267c77c8fe6cfcdbfd23b772f87f03" sha1="032aae27bdfce65229507d3e0e62fe9ef11fd8e8" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\resist_fire.png" size="5821" crc="a2f3a084" md5="a50c36afe6cc7508e1a0c8a49767473f" sha1="7a83b80b15a06fa63d42fc06195e7e8761dc5197" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\resist_lightning.png" size="3785" crc="2cab649c" md5="d50adb76c8042987133e1560f493cf58" sha1="866ea0f2c11720eeecb1e31c3acd49d6b686754d" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\resist_poison.png" size="4499" crc="ecac5340" md5="e2f67c5ab8cee542a85f3769f891b4e4" sha1="c4edd3f555fde66e70f7d0dc96f067141715eb76" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\rest.png" size="4560" crc="1d1d7da5" md5="b4e42b82d4b06c581fae87b5590d30be" sha1="7f82dc3bcd5ea8c4ea099c544d2c1e6612a50d2e" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\rod.png" size="4486" crc="13615915" md5="5dca6613d309222817c4708f1508ecb5" sha1="cced84dd04493e199066b70951c3e68dc1696139" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\save.png" size="1569" crc="6276e711" md5="c9b6a29fd1c9dca2d610967a8601d1d2" sha1="48c8bffdec0a95cf964bf040e4e1ae927048f728" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\save_as.png" size="1942" crc="9707eb15" md5="6fb392f4b6af09d85412ac9c4c716c39" sha1="453aa3dec2078ed8a3e5a07ecc9099d00f2c4b85" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\scroll.png" size="1964" crc="357fa5d2" md5="cf67d3b1fd1e323346159a8d61dad57a" sha1="4f3039b85181de0d635f6731be6c8de04c6bbfbe" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\search.png" size="2630" crc="7dc8e8b0" md5="5691e07556ca9cc41fc25990395dca66" sha1="13ec7cdd30da2b5c4ecfb0381ba563a678156d96" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\search_stop.png" size="3106" crc="9364ae79" md5="15b34d0e2723ab03d04353a415ab1374" sha1="9079c077020cb6bfcdbbdf894bccbf3ee43e7a5b" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\see_invisible.png" size="2661" crc="3c5763eb" md5="f58912c8f6351b58ae3ede751b3e16ee" sha1="67d622dcf2041210e5a08f78abe2be92ff52229b" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\select.png" size="4613" crc="7ea070fd" md5="f5295e7e8e8b8a1e703634a87cac6afc" sha1="9c210261153a5babdf7b613a576d46fbf61f2cd2" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\settings.png" size="1012" crc="b2849d7f" md5="551d5f2a5f0f97c5a4f9edf4a144c01a" sha1="74040527184845fafaea8c74acd7658aefc62142" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\settings_dark.png" size="631" crc="d3828cee" md5="bca33461a6c9bbb5ad46f46cdbea4be2" sha1="7aa0cda45859ed337471000c358631731672efbf" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\shield.png" size="3634" crc="523858f1" md5="2f5b181cf866be04259d4ae007bd6b31" sha1="19aa0e8d75efc8df26fe9e2385edc0be4dc339e5" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\slowed.png" size="1627" crc="42a64c27" md5="7eef46e92caf2d273bee46cd9f8ba36c" sha1="7e9247675ae215fd16628f236bd3578f5c9f0c62" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\staff.png" size="5867" crc="9398f026" md5="a7df29edc4bde0b1ca6dc95587d50cfb" sha1="92b64eeff27068d93e0d86fdf42a296d70a2f902" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\study.png" size="4127" crc="c90899dd" md5="2bead58908710240e254cf2a8660845d" sha1="dd83f2d280f483567152a3905b1e8a86ea413b1f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\stun.png" size="1573" crc="bd6cf5f0" md5="0a2b66f041d74857aa0b6d12785ac30f" sha1="ca8854a10aa5724fef617935eff83accfa027db2" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\swap.png" size="265" crc="87371d59" md5="9d5fe5204f9487632fd29b86b8205687" sha1="c19d8f4232a4f6c149a0ffbebe4707fdbe8b30c6" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\takeoff.png" size="237" crc="6666f2b8" md5="5a2c43a2ecf1663f7fd3668f73c9fa20" sha1="e990f84b8f0348d4e69a692c638fb4947106604f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\target-cancel.png" size="2676" crc="99d59088" md5="159cb89e2fa1f5bef698083209ac542f" sha1="1bf4057db7468d53dfd1ce86276fdcbff246baf1" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\target-closest.png" size="1726" crc="766518f6" md5="87cf853a225b215ac1d4be18e8ad32ae" sha1="8f45898a7619edde59913b6b6bbad04e145fef19" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\target-help.png" size="2224" crc="e565c1eb" md5="96caae7d2dd418a6c16058414d76cf4d" sha1="4efee6140ee9cfe3bd3d82b8154f6f87f9830365" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\target-information.png" size="1632" crc="7e76a4ee" md5="2d622d5f91e9a4adc29fb9dc83666249" sha1="6fa55e410d55d87f830972020bbd5304dee83e6c" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\target-interactive.png" size="1736" crc="3d3d10fe" md5="dfb150fcd63531292b4c1a969470efc5" sha1="8cc307a9e944bfc8e23de91ef7e5592b52ed3efd" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\target-manual.png" size="3081" crc="1d61109a" md5="60b23c9859b83619dcc41e9e70f3fec7" sha1="6262f2107f65c49ecd6037ba7700f5cf90107538" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\target-player.png" size="4764" crc="c00414a0" md5="ca8cf9c8ffc99a04e076bfefc5e24117" sha1="246094fcb226c17d1b2a6a7f2038ce83afe28114" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\target.png" size="3221" crc="b512a851" md5="44dd30103e5c077165408cf8e356f86b" sha1="a6737e55c9ec9b71d85ced0db66182339f829e31" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\throw.png" size="906" crc="11105662" md5="369925db4883b9619a29f45dc1c57f6e" sha1="15bbfea9b480f285dc6d8d9845b7bff58510ceb1" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\uninscribe.png" size="1756" crc="8b5dd300" md5="ea2fd6e4757b930a54200ae3a8cfa6bd" sha1="b5941f25e67b014351f977baa0cd198a70d6e33d" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\unlock.png" size="1820" crc="5ad0d861" md5="f8542b99fc0b75d235b0968cf16342b7" sha1="fc5d29fc7e0b32dbc80873266554879c908e26be" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\upg_armor.png" size="5908" crc="aa067dd9" md5="e37a8c78924a13c3667f0fc976da094f" sha1="c3b6194b734049a7041ed0199ce39d53b385ec78" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\upg_helmet.png" size="3605" crc="4558e31b" md5="f9352d504bf9ac57a66b1bb72d320a1c" sha1="5771dcd215dd84f685ef4cce06b7b4598f1c093a" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\upg_shield.png" size="4507" crc="a6740d40" md5="f9f69632e60ae270d40150ce06e97953" sha1="ed9bee2387e89ce32f6aef49ef5f2a95b4b76243" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\upg_spear.png" size="4369" crc="1a70f878" md5="bfea32ba1a9cd723d937cf60cfaab874" sha1="5848053d819836a91d4331e2eb097fef2bf87a7f" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\wand.png" size="3768" crc="9b390d4d" md5="eddcba8ef9984f78811d8204459e9a01" sha1="d3872202ce0d65bdbacc2cc2813c32e5a03ac7f9" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\wield.png" size="204" crc="d8bc6cb8" md5="97881d66e107a29a31652b249e8b8445" sha1="0cd98993c6576236e3b06780edbd57fb5792a114" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\icons\wine.png" size="2519" crc="7df153c5" md5="72569f12ed11522fa417e6ec2d59cf10" sha1="d47c6a6e13978777c0f3ec20a19523efb064c420" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\save\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\sound\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\lib\user\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\libEGL.dll" size="20992" crc="2376ec60" md5="94bdc5b44f54b2cce5a54cac181e6f3d" sha1="761a2a536ec9e593fcb02c777177d7a33b0b76ad" />
+		<rom name="NPPMoria (v8.0.5)[var]\libgcc_s_dw2-1.dll" size="119822" crc="21f7240e" md5="fadde43c97607e4445a6f924d851f04e" sha1="36c1aa0e1b6d4a322c350f5e502c10c64c203041" />
+		<rom name="NPPMoria (v8.0.5)[var]\libGLESV2.dll" size="2293248" crc="bff3ac18" md5="f7aad84ba3923b09681b8337dfb308f7" sha1="43670cd2f9c1ee80c82881c4b3a8cdd4a461f9ab" />
+		<rom name="NPPMoria (v8.0.5)[var]\libstdc++-6.dll" size="1026062" crc="695dfdb0" md5="c283d446b34e75019b81d0981cb11f0d" sha1="a6e146975dfc55b0659d09e25b9a69f7cff993dc" />
+		<rom name="NPPMoria (v8.0.5)[var]\libwinpthread-1.dll" size="49152" crc="4b1a6868" md5="d128ae39a79e5d196fc001907b5ec3d1" sha1="71de74d0aa93903e0a169c88fd21e0c617f0660a" />
+		<rom name="NPPMoria (v8.0.5)[var]\mediaservice\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\mediaservice\dsengine.dll" size="227840" crc="cf105018" md5="129a80f33baaecdde6b35edabd16ae36" sha1="97cd0a5daf9233f739f68f803e9c1ab141928769" />
+		<rom name="NPPMoria (v8.0.5)[var]\mediaservice\qtmedia_audioengine.dll" size="65536" crc="7b539035" md5="fd21e1aa30bb6a3e88298abbb863620c" sha1="9990b79f39b1986532f758d1ce54dcfd51d3be2d" />
+		<rom name="NPPMoria (v8.0.5)[var]\NPP_Resources.qrc" size="5961" crc="09c9c029" md5="8602f5120fda1586f0e42e6079c922df" sha1="efd4cc62fe08fa8f3651843ff0ad3b7ef176d8dc" />
+		<rom name="NPPMoria (v8.0.5)[var]\NPPchanges.txt" size="197982" crc="727c5444" md5="08d8ee884bc4c29550eb3cc9b7071d22" sha1="ae0d22204c4cf8f499243666e562ffb5ea9ebda0" />
+		<rom name="NPPMoria (v8.0.5)[var]\NPPGAMES.exe" size="4126208" crc="01eaeaf8" md5="5e6ba1de77c42eb23fd2e5a77a42074a" sha1="8233a0bedec02e69de4122a86b1e8fca95e2fd1f" />
+		<rom name="NPPMoria (v8.0.5)[var]\opengl32sw.dll" size="15220736" crc="cefac4b1" md5="33b541dd1131e0c784aba0a799ec91b5" sha1="892c15b4a690f14c23a7fc20a04706b2ea07b69e" />
+		<rom name="NPPMoria (v8.0.5)[var]\platforms\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\platforms\qwindows.dll" size="1413632" crc="3ec7c73e" md5="3a170c78e442fca639ecdc7f9802c5b4" sha1="18bdeedaa0394449894e776366f6e43512694e6f" />
+		<rom name="NPPMoria (v8.0.5)[var]\playlistformats\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\playlistformats\qtmultimedia_m3u.dll" size="30720" crc="c1f04412" md5="8568d93603ba38c12d4affd2d9e74fc8" sha1="75bae8a948a10f0447696253ee37a94cdc00269a" />
+		<rom name="NPPMoria (v8.0.5)[var]\Qt5Core.dll" size="5391360" crc="3dda08a7" md5="3b6d42bf7b71874037b7d6bc129971fd" sha1="a1fe4a7ed7d33ca5e51697bcd32198cc3947973f" />
+		<rom name="NPPMoria (v8.0.5)[var]\Qt5Gui.dll" size="5334528" crc="9fda2e95" md5="e189ac2cc8fd526b458634ac5d601070" sha1="ce953b2d30a177fdc696f61eecbda5e13f52784f" />
+		<rom name="NPPMoria (v8.0.5)[var]\Qt5Multimedia.dll" size="800256" crc="d875a759" md5="0303b15a536f0383aecca1737e6e2d29" sha1="001eb9623de95cadd4f8ec2ff1a571fb649e0938" />
+		<rom name="NPPMoria (v8.0.5)[var]\Qt5Network.dll" size="1528832" crc="76abea1c" md5="a81f5fb9cec6a8ab27128e741bba8168" sha1="0cb5fb7ed33b5cb418fa679175e87e70cf1d8ee8" />
+		<rom name="NPPMoria (v8.0.5)[var]\Qt5Svg.dll" size="331776" crc="ba4fa477" md5="715c730d4e180a14a64aad9d4e46006a" sha1="f37d8ca926355e4c2a320b9d562860e31ea6a272" />
+		<rom name="NPPMoria (v8.0.5)[var]\Qt5Test.dll" size="219136" crc="7e410b44" md5="c3fbe56dedb838d80b3393925e78f4ff" sha1="3498cca57a7bcbc82871b58036e0ba2db535a2a8" />
+		<rom name="NPPMoria (v8.0.5)[var]\Qt5Widgets.dll" size="6541824" crc="a9b8dcd7" md5="251e93666d4eb9d5e3efc6fd199980e1" sha1="53d0710cdecaaedc15955d3aa467883363ca53f3" />
+		<rom name="NPPMoria (v8.0.5)[var]\readme.txt" size="745" crc="3738b1d1" md5="6b04d40d1f3bbcde45e6ee15415b8f44" sha1="a042b35625a0e55b75bbf8a96015b3d2ee556581" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_ca.qm" size="192344" crc="f14b63b4" md5="3246e1c04685fe19a77fca3f78c51fae" sha1="217e3945e4326e716466e8b79720bfa1dde2573f" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_cs.qm" size="200576" crc="ccd4462a" md5="292300bb26bcdcadaca97cd3eeb5d456" sha1="c0cc30882c7ba5ea2ea631da7b86732288b9d5f8" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_de.qm" size="213788" crc="3682fba4" md5="baf0c5f48564637f47ca36625367f77c" sha1="db8aa38aeaf062b167812763455c4e4e4a61ee8d" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_en.qm" size="213788" crc="3682fba4" md5="baf0c5f48564637f47ca36625367f77c" sha1="db8aa38aeaf062b167812763455c4e4e4a61ee8d" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_fi.qm" size="200094" crc="31463605" md5="299aecc5a07f979ec879c53bccb14997" sha1="da5fb62534f99bf3a3adca64e13ce165f9d20e61" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_fr.qm" size="207654" crc="6e793b84" md5="40017407660dbd60e173804dfa6b8f7f" sha1="e26411bdf7d62189d29a96e886e5556a80776c1d" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_he.qm" size="180200" crc="85ce4e0e" md5="ce76f059a4dfe52c53f920170aed4b12" sha1="e2709843f1abd7acfb60b21a5c011a1bd21811e4" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_hu.qm" size="190582" crc="ebc75f3c" md5="b9353c0d734a766663a7fa8b85301f64" sha1="3b2ee9caf394135e5ffd702ce4b0fe0a0ed2c51e" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_it.qm" size="207794" crc="7ab8dcb9" md5="a4706ce82f69b4cd9314de5002f1a355" sha1="18ca87d942f114021c9747ff134d360f4df81968" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_ja.qm" size="171232" crc="88a9749f" md5="a9a978816c076d49036b93cefcef4a9f" sha1="2b56617e66656513b685668d91b36bcdd537aacf" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_ko.qm" size="165330" crc="92b90d25" md5="c25326c6eb36f209f7bdcbc5cdcdeaf7" sha1="a0f73152300c71343dd360aa4881ddaf4b8bbf78" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_lv.qm" size="194814" crc="7162bf11" md5="65e6eba55f0447588d76de4fbbc4c6c1" sha1="94c812712849d6e36b3ff4693535e1193ff5f818" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_ru.qm" size="201496" crc="94e4df8d" md5="b993375c73ce92132337e22fec1b4d0c" sha1="30c3f60eadc1fae5aa56b063b130a026741c6104" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_sk.qm" size="201328" crc="d7f639e1" md5="997b8ebeb8fe65d4c021cfc45cf5451f" sha1="6f06287b482eb8c0f9248e749e4499a16a52f8bf" />
+		<rom name="NPPMoria (v8.0.5)[var]\translations\qt_uk.qm" size="200694" crc="92774185" md5="9caa8ebcd91759ce87bb40901c160791" sha1="89ebd2e7185c8c4ed36720a17300e6f9af1f64e7" />
+	</machine>
+	<machine name="PMoria (v0.2)[var]">
+		<description>PMoria (v0.2)[var]</description>
+		<rom name="PMoria (v0.2)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="PMoria (v0.2)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="PMoria (v0.2)[var]\__Doc\Beej's Moria Page.mht" size="94995" crc="939ec464" md5="f37271192b3932d60691be19d5dc7e54" sha1="6159b3989e7de8c06d5e7c406e47c18b10ba50a0" />
+		<rom name="PMoria (v0.2)[var]\__Doc\Looking for a version of PMoria.mht" size="3555885" crc="93c6f002" md5="344086876c7068ac11dbde48993e5f69" sha1="4a58d69aa63ad849173335f72587525593827e9d" />
+		<rom name="PMoria (v0.2)[var]\__Doc\Pmoria Fix.mht" size="3555749" crc="fc6594a3" md5="9127b43419049aec60cfe1f83e54118c" sha1="9339e205b21062bb493bec4cfe2188a0e523c6f0" />
+		<rom name="PMoria (v0.2)[var]\__Doc\variants - moriarl.mht" size="2301420" crc="94f7ba2a" md5="75292d6453b012fef3d19518541346e5" sha1="c01e65ade86aafa649f34825b17019ab2b447f11" />
+		<rom name="PMoria (v0.2)[var]\DRAGON.INF" size="2611" crc="4f57e3a7" md5="2630d5529afbabf6679e35e4b9d247d3" sha1="ec1b1ec47c51a717981fbb40c9c9c0c048a030ae" />
+		<rom name="PMoria (v0.2)[var]\ERRORS" size="766" crc="41df782b" md5="b6b755675a2c5af7b26656a719e8f950" sha1="0904a85e06415e7c26ebaf0531373a77f95b5f43" />
+		<rom name="PMoria (v0.2)[var]\EXP.DOC" size="6193" crc="ba2f5b37" md5="bc746bc8edeb4effae8d2cd0bdb7af3d" sha1="9e7e1bc5b644f6a97e96da86bc2088e683101804" />
+		<rom name="PMoria (v0.2)[var]\FAQ" size="23249" crc="f7f58431" md5="52a9799b5213fb7006eb2ec13d101b40" sha1="f7ef1c2299199d4864d6b74ee25c5fe7cff7f2ba" />
+		<rom name="PMoria (v0.2)[var]\FEATURES.NEW" size="11986" crc="92fcbb9e" md5="22e9795a22c4401bc32e2a69e7bb9c1f" sha1="9b5aaf1badbf6ba698f206c17dba8bb953500317" />
+		<rom name="PMoria (v0.2)[var]\HISTORY" size="7164" crc="52023ac1" md5="b218d4f76c6d73ff888c2b72072bda9e" sha1="11f0c57c17ac972a74dd059c654f91044cae632f" />
+		<rom name="PMoria (v0.2)[var]\HOURS" size="362" crc="92593fe6" md5="6c32f1df97c54e72728dc3f8b505962f" sha1="6f16d3bb9c72d8f7e73694cd9c8b034d924a2244" />
+		<rom name="PMoria (v0.2)[var]\KIIKEII" size="449" crc="44f06439" md5="e5badfd10372d72ef7df5eda3b7f9669" sha1="d457818d804db6c3f764ebb8dafab732b34b0dec" />
+		<rom name="PMoria (v0.2)[var]\MORIA.6" size="3625" crc="89dd8a51" md5="8e86d4f5202b150670e905364c99d6a5" sha1="70d46015f15d587f435fa3b887e6beea8d6abb49" />
+		<rom name="PMoria (v0.2)[var]\MORIA.CNF" size="2639" crc="c2028e94" md5="45485fbc9ba04bf5d665e07a855c9993" sha1="92d397c060a03598c44c73338175340c5b51f415" />
+		<rom name="PMoria (v0.2)[var]\MORIA.MAN" size="3676" crc="3e8a6360" md5="65b294e7c522e3becd0a2f056ba6def9" sha1="1218f2b4fbc30f95186cd993bb5b2cfad03cf23f" />
+		<rom name="PMoria (v0.2)[var]\MORIA.SAV" size="10607" crc="0af5cae6" md5="283b8043ba3e5022c280dee44d738d46" sha1="cd5c4ac141caa8d6e1be834108bd30032c19da31" />
+		<rom name="PMoria (v0.2)[var]\MORIA.SCR" size="76" crc="fbeef5ae" md5="ce9c38daab2fadcfd3b1828e7a023f63" sha1="901d64263d3bda05260112544689f926cd0c7b66" />
+		<rom name="PMoria (v0.2)[var]\MORIA1.TXT" size="54665" crc="3b5d49ad" md5="a4484756cfbd6bb7c162012214946a9b" sha1="fb57297011e9d9b830aac31d61be640fff9fb754" />
+		<rom name="PMoria (v0.2)[var]\MORIA2.TXT" size="58860" crc="ed67061c" md5="43c4603e3d1852bc9f11332c73566864" sha1="e4b34934c39384b6b54399cef621ede1fc7fa0e6" />
+		<rom name="PMoria (v0.2)[var]\NEWS" size="874" crc="60badc44" md5="210c89cd14916824358dbccda0b704fd" sha1="73f9eaa94336b59ef72100c7ae5e5f2038d381f8" />
+		<rom name="PMoria (v0.2)[var]\ORIGCMDS.HLP" size="2901" crc="2d36705e" md5="9e597f585351568297dc61ac1379cbb3" sha1="8755add0ecd0dc80344efde660a928fcab8213ed" />
+		<rom name="PMoria (v0.2)[var]\OWIZCMDS.HLP" size="391" crc="d49dbed3" md5="41cab4002d567ccfb83d15565de607b2" sha1="75ab4eee3fde8bef44dd657dd0700ac8a244e484" />
+		<rom name="PMoria (v0.2)[var]\PMORIA.EXE" size="636493" crc="6c3aeb26" md5="f334b9d2dde964ce1ea4ae169ff91f7a" sha1="eb836db3d910a40963093259ed4c8fc5b25ed76e" />
+		<rom name="PMoria (v0.2)[var]\PMORIA.MOD" size="2837" crc="cf539607" md5="bc21cdba62702b29a616f597fb96e282" sha1="1c628bc46d9a1b6ccabc574f20b968dd1a41e76d" />
+		<rom name="PMoria (v0.2)[var]\PRONOUNC" size="2608" crc="725dcc06" md5="8a19bc1460a17c15d43edb33a95b6253" sha1="ba2066bc5a99a801f0bea3eb4aa5639c21281920" />
+		<rom name="PMoria (v0.2)[var]\README" size="1705" crc="fb11feff" md5="086cb377acaa5d4e0e330cd48d1ff07e" sha1="43ceaaad6f838282e0119cd7db5efde76f167e65" />
+		<rom name="PMoria (v0.2)[var]\ROGLCMDS.HLP" size="3103" crc="85fe5775" md5="96d31f8b44a1060287339ab5ea4f7ffb" sha1="e7118de7ac71583657abd4b3c6c240e799f8d64f" />
+		<rom name="PMoria (v0.2)[var]\RWIZCMDS.HLP" size="391" crc="c9782a18" md5="60ae211398cc9d261d10d1b3d917df04" sha1="2c7e69ae75490712d45d3b59ae9834d07a595f4e" />
+		<rom name="PMoria (v0.2)[var]\Scores.pif" size="2855" crc="c0f0f380" md5="bcc9ed57805ab2bfdb22252012ba8d6b" sha1="6c44841b8eeffa009bdd17457c5466af4f4eabf6" />
+		<rom name="PMoria (v0.2)[var]\SPELLS.DOC" size="11711" crc="ad0d3ed3" md5="37bc2414b0d0d42e2b8ddfc6bdc5e9ea" sha1="95dfc3913e9a298fe77fce72798730ad737aa063" />
+		<rom name="PMoria (v0.2)[var]\VERSION.HLP" size="2263" crc="b03d4a00" md5="d427732cdda2a3695a4ccb2eb44d41b8" sha1="b57f64113d44eeed2972777bfd73ac9ecc4d44f0" />
+		<rom name="PMoria (v0.2)[var]\WELCOME.HLP" size="432" crc="fff8ca31" md5="22effe41c8276ede2b4603c18baefd0f" sha1="9a13d40c1172df4dda580967d7a317eee3159670" />
+		<rom name="PMoria (v0.2)[var]\WHERE.INF" size="2610" crc="29cefdf7" md5="b94dfd926dde1537c27d196e620e1c1b" sha1="229a96c8c0185e1295b1b0082c1df9309fbdc296" />
+	</machine>
+</datafile>

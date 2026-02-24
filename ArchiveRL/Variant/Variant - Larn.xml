@@ -1,0 +1,388 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - Variant - Larn</name>
+		<description>The classic roguelike archive - Variant/Larn</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="FreeLarn (vSPIRIT NAGA)[var][x64]">
+		<description>FreeLarn (vSPIRIT NAGA)[var][x64]</description>
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\GameSetWatch COLUMN_ @Play_ Larn, Or, I Hocked The Car To Buy A Lance Of Death.mht" size="716744" crc="1f281ee6" md5="bfb3f8375539604313e316982425200d" sha1="ac0c1cb875e6d5adcb1d2d14321b86234c03f65a" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\GitHub - atsb_RL_M_ Maintenance releases for XRogue and Larn.mht" size="1971637" crc="016fd284" md5="d8f0d5bfccc826b7722665490547a1aa" sha1="3d28318cc3d0e49fb4f5a00b02c77baafee3d02f" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\Larn (video game) - Wikipedia.mht" size="445139" crc="58cecdf0" md5="2661687eb32da0c0d2c1b586fa6acdb8" sha1="657e82b5efa1f7c8a0d33214c6a8eebb8ddb28c2" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\Larn - RogueBasin.mht" size="21709" crc="aa8f26e6" md5="ae445b89e7248fd5d62c15b4d819abe2" sha1="05d150c39a2a1397e7b187090c236251d229d612" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\Larn 12.4 _ Temple of the Roguelike.mht" size="182835" crc="cd5a6912" md5="fca32d78430b2b982f3c9882cc4f53ad" sha1="c18d50e8d6d371af0e54cbf4157835680eca82b4" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\Larn for Amiga (1987) - MobyGames.mht" size="547984" crc="5b37a75f" md5="6cde389520ecb3b57f6e2b6e08e02408" sha1="a6965e72fdac8dfb9ec0b431e86b954d01f4ab7c" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\Larn Game_ Play Larn Online - A classic DOS_Amiga_Unix Roguelike Video Game.mht" size="328225" crc="70a090ae" md5="280161617f7461ac59dd29e9a9269237" sha1="3030e520d71385bf57e47c2b75de9f6fdeaaa156" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\LarnHD - RogueBasin.mht" size="330989" crc="825417e1" md5="fb14273a5b9639275eee56f607976fc5" sha1="ddca403beff70221654b4d329b92e0f7064a42db" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\Release FreeLarn - Release_ Lama Nobe · atsb_RL_M · GitHub.mht" size="1674422" crc="6880f4dd" md5="c7ded5899fad86e55a78425f8e246a31" sha1="bd5ee58ed387d77c2f8aeb98f3c9c41b50149651" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\Roguelikes - Rogue Central @ coredumpcentral.org.mht" size="98179" crc="e663cce2" md5="7daf65ee2d76a63c1c28269e0e5a1f99" sha1="1bc939bfa78a8010f52b593486a872b04d2d8c4e" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\The History of Larn and Ularn.mht" size="567166" crc="c91f448d" md5="d3f2f0bc6d32b4250cc44ef7396be4b7" sha1="e124a503429f22823b957bbb5b11d1fa5424adc4" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\The Larn Blog.mht" size="368906" crc="2f572fa7" md5="f458ea3dccf23b069afc1c2a830697d0" sha1="4aca0b4f507c628c877988b0a6ab8e201acd4a16" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\__Doc\The Larn Home Page.mht" size="70555" crc="716f41e1" md5="b78474760d6317fad1689f5215836593" sha1="3daa89775e35079a4a4b8e6a3a04eb5df6ff08e9" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\bin\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\bin\freelarn.exe" size="3775136" crc="d73ffad9" md5="298017955554f980d4a34ed65de8c42f" sha1="e0ac12aedbcc6cf2332a630cbd60514249b7a426" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\docs\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\docs\CHANGELOG" size="25845" crc="57b1f6ea" md5="84bbf523068d1333229a19b652740f8e" sha1="d214c06bddc8adad4c775aa151ccfe3133be4fd5" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\docs\HISTORY" size="357" crc="a6814d6b" md5="5cb1e9452e5f3b9688b7a2cb09d487ae" sha1="82c78be8d9a0aeae287ee97e452224cb3c904cf9" />
+		<rom name="FreeLarn (vSPIRIT NAGA)[var][x64]\docs\LICENSE" size="565" crc="1f927784" md5="09bf79f5512a9f62794c2b4bb3377793" sha1="dd7c264ae01844e600fa4f932be751dfb444cf07" />
+	</machine>
+	<machine name="JavaScript Larn (12.4.5)[var][src][Java]">
+		<description>JavaScript Larn (12.4.5)[var][src][Java]</description>
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\__Doc\GameSetWatch COLUMN_ @Play_ Larn, Or, I Hocked The Car To Buy A Lance Of Death.mht" size="716744" crc="1f281ee6" md5="bfb3f8375539604313e316982425200d" sha1="ac0c1cb875e6d5adcb1d2d14321b86234c03f65a" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\__Doc\GitHub - primeau_Larn_ A JavaScript port of Larn 12.4.5.mht" size="1783800" crc="baa7f596" md5="322fc753b34b2fcb2dfe06d6ae7feb2b" sha1="2ca9c6dd2c58b1ef2a297b01ca718c529dc53f5b" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\__Doc\Larn (video game) - Wikipedia, the free encyclopedia.mht" size="241500" crc="7e3637e2" md5="e78136e5f0228fc62037345288381464" sha1="27530e2c1ddae9506f0c0a10c4e98ca9f598ab86" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\__Doc\Larn - RogueBasin.mht" size="21709" crc="aa8f26e6" md5="ae445b89e7248fd5d62c15b4d819abe2" sha1="05d150c39a2a1397e7b187090c236251d229d612" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\__Doc\Larn_history.md at master · primeau_Larn · GitHub.mht" size="1571768" crc="5bc9c31b" md5="f62e426a942b2c12f2ffce508f5c7eaf" sha1="761171624b65fdbc2d391e865f222c599ef2c6c5" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\__Doc\The History of Larn and Ularn.mht" size="567166" crc="c91f448d" md5="d3f2f0bc6d32b4250cc44ef7396be4b7" sha1="e124a503429f22823b957bbb5b11d1fa5424adc4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\.gitignore" size="24" crc="e9c981b9" md5="76461bec52542802b9e327a26f944c92" sha1="79bc9b27f2143db844fb18194fe5fa0abfa65a1b" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\action.js" size="5385" crc="c8d57191" md5="151a2f62da849560d7048d159eb9200b" sha1="1d6e70b42771caef4db3762a6cfcb10796d002b2" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\altar.js" size="4311" crc="9c62c299" md5="9744267272a4c0de50928f46c7802151" sha1="47b4e5c569edcf5c69c9aa785a2067b56242befe" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\bill.js" size="5536" crc="7d8b9111" md5="2c421d8777cf1439147665ad75da829f" sha1="8b7d6b5acb4917ca5696a4f971f455964b5f2322" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\buttons.js" size="13964" crc="689f1d55" md5="3be5bbcf493e379d615236a3b9a58fe5" sha1="96bb9060bb4a8d73c0e84dcb2774dcacca57c732" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\create.js" size="15177" crc="6b43b695" md5="7c92064a7b06ae1c812a94fc15169344" sha1="ddcdfbbbcb08533b82baa5c28fc8f3413f53b7ef" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\data.js" size="9962" crc="79fc09c4" md5="8d0e83f07abf49719e50edeef4237cdd" sha1="57a94dfbed429f5dfce52ef3ed1ea1406fb2b0e0" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\display.js" size="13138" crc="e0eb70d3" md5="34094d1a713bbc096c940d801968246f" sha1="9a80009d6b2dc80a5b67c65327351677fc87ad6e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\fountain.js" size="5678" crc="d6d946e7" md5="6e803cdde1f842b608188430f7814250" sha1="cbfda5b5bd014964f751ebd4738bfe143c2600e0" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\global.js" size="9748" crc="a728c8b9" md5="e69c75fb6eee2b2c06fb3894235a9a5f" sha1="5879c454877dc029260c265513f782452db6758d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\help.js" size="6579" crc="4ccb49a8" md5="36f8f5364e85d63d1f8a65aafd34283c" sha1="0d7d15024d6da9d0f88ec170373b0af91a8aeab4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\history.md" size="10924" crc="6ba4bded" md5="5c1905df0759c0cd0809f914cae65194" sha1="7fdb6767f4385cb2332e8d4e5dc1598c5aeb7c8e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\atsymbol.png" size="1600" crc="817b495c" md5="969e5d9200c60a2b70a63e65e9ad9349" sha1="a0a331348202d1bb59251643169e9372be8ac8e4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\favicon.png" size="748" crc="cdea3605" md5="ab39d1e5b96fc631db5faff0fb8f5bd5" sha1="ed076fb5db8e0ab11af392ffe155dba1a0d7445a" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\larnhero.png" size="202092" crc="bb6c14c6" md5="bbe82bcfae8150a98ef06a08ad655c08" sha1="61698f413d404fa02a113055db51436cfe0de0e9" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m0.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m1.png" size="3364" crc="4934368f" md5="ef87fde769eaae0b7f00aec4a896f54a" sha1="db8a3bbf5620af29020a5e592a8454dcc8e02d64" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m10.png" size="3404" crc="506a580c" md5="f556b97ae5e21c7bb61f29226b7d0f18" sha1="05940f7ead34878a6d783fff5e74cf683130de8c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m11.png" size="3395" crc="d70ee702" md5="f9450390630c542631d43df2f9ee6696" sha1="0e337635e83e075b230c1e2b50fb79d6278aaaf3" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m12.png" size="3397" crc="8b9788e7" md5="b5337ae67beb1262198066a9b36d93ce" sha1="5f20bcb46770aade100f885efde7fc9be197c9ae" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m13.png" size="3388" crc="2bd69270" md5="fad31cfd7d97c4de3da7af544aca082f" sha1="3b310330817b0f1e44dac552f21401dae40ec400" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m14.png" size="3407" crc="4610190a" md5="99384af08a795ac70d5cbd0f7a1c090e" sha1="015f43627c71aff6a475244f465fb54d556c843d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m15.png" size="3397" crc="413900c0" md5="af1b26f24bbb79bf508eb3441bfae0d6" sha1="6374d77365cc50f8bd86738b2384bc31d733c044" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m16.png" size="3391" crc="f7dd4039" md5="e6cee9c4364e5856b6d2b442fc533d44" sha1="1d35aae7a1fa8f8b02c2fa1b179429b7ef46b662" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m17.png" size="3377" crc="6d888849" md5="a992c5fac2843095ae62a33598068086" sha1="5bcc7bdbf958db9672b64cec227597570735cd08" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m18.png" size="3406" crc="c2e5f36d" md5="5924f7a3184a5cbcfebe668eede87760" sha1="64b43945f6758faa98be6d0ccb80819ca660a5a6" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m19.png" size="3388" crc="97e4b41f" md5="35cefa5633208c8ef6d070f82d098097" sha1="bd37bacc3cf1b63706bfa478af929d4074a0220c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m2.png" size="3409" crc="8036a24d" md5="8ac7fa58b0ec81c816935c6e6720e530" sha1="d70115ec2b4a5467e8512674595caa19fb9c3a32" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m20.png" size="3360" crc="0f9418a3" md5="8147a4f09893d5d749480e211e08bc45" sha1="d51c9c01b9df683d8889711c66b72e257fbc8ae8" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m21.png" size="3407" crc="07367d3b" md5="37327bb95a4a5db81a2fe9ee7de7927a" sha1="f3e7ef4e9b0936081db50c6f231aaf9a57b08dc3" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m22.png" size="3393" crc="9dbbd1b5" md5="781735ee9f748a7ad8ae7d97f22b7dc9" sha1="90978a8b4490c74e28ccdc9968d7d9c4596d37e4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m23.png" size="3372" crc="b748c684" md5="62e069065c611836d4265771d4b64e90" sha1="6d750af8ceb6d705512456af82c4a28a6a784c49" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m24.png" size="3399" crc="5b146d52" md5="5955ab42f8d58c6a6b7fc5b5472c7f8e" sha1="de00a7ab772fd551d892a786ae389c4e1886300d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m25.png" size="3412" crc="8b13e687" md5="e77a765467282d5d41aac74d79d3e313" sha1="73a409c14adfe04952c28a58a2bd47583399ef66" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m26.png" size="3400" crc="5521b13a" md5="ab1271e751a3b55300983099ba03e70e" sha1="92a006add0fae4196924b7aeac8e3595c5b4e5e6" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m27.png" size="3373" crc="18fdc43d" md5="30b7c93bd95fabf40a73332beff9c5cc" sha1="75aaa96d89afa53afa9dfe24298fc6fc2f9a45a0" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m28.png" size="3388" crc="d197dcef" md5="717a1cb6d37c37fcf312a537e24db4aa" sha1="99cce1e7f3879f71394795ca50b2ad066bd89098" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m29.png" size="3390" crc="60440774" md5="243bbe472bc6d5b12db5a42f065902e1" sha1="0ec17341ac925b28398f04d59c8fdb5b6ee96a8c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m3.png" size="3410" crc="17659014" md5="13b0364c0e5fc9e3d4ea6893856a4f04" sha1="07b4f058621a86e1b0668d771a6f04966206e9d3" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m30.png" size="3386" crc="2b5d162e" md5="6187795e800da0c99edac8d1e0c1fc39" sha1="8e0f41ab5bc971c1628ffa2431d93a33b5d04e11" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m31.png" size="3371" crc="0f79eba1" md5="bc3297c560a82dc61a136a03761c7bd3" sha1="2b8827d78bddce569b9283b24dadba40a48103f6" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m32.png" size="3393" crc="6ce12bf1" md5="0216aa4366fab40a20b10c9b14200c8d" sha1="2e882cec319b5fb4a0603fefb9e0b9bf805efc90" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m33.png" size="3391" crc="d68c334c" md5="a324724bf67f658bcfa9d0fda4364833" sha1="7ed10c5e09d011888aa42f927295e13e2946661f" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m34.png" size="194" crc="86b3a580" md5="e2af20bd6624bb18cb047d3e2c5a1f98" sha1="b9ef4a1980648318d8d35de056ecf70739674a2c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m35.png" size="3392" crc="aa43c319" md5="ae67cf72af6caef2663d7dfc671300e4" sha1="15135dc87da84152f51681bbe667b2a07dd853df" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m36.png" size="3405" crc="204474f0" md5="b31375593caf8a7097e846f8e6335067" sha1="cf65d1610f7a43b2d8c50b0d1ba24df3c1f0e89a" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m37.png" size="3388" crc="c84440e3" md5="d36ca225b757822f88de86e235961c44" sha1="c3a3c245067e0cd612efdfceab092cdeec6f509e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m38.png" size="3400" crc="6d42a32f" md5="cdbbc5ee2e9a336f92d650f559c14446" sha1="d962c5c1393a44a376054df3cfcfe5ee86597534" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m39.png" size="3385" crc="91057a12" md5="68ca1899670d5a800f32be3041df09b0" sha1="dde6dd83ad20799b3a3a4c6a3fb00e72d53a6b09" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m4.png" size="3375" crc="4b87ba5e" md5="f12e6ddd05092c8e9cf72d2c52e2000c" sha1="554902658cb842be594ee43217db40f22501b7ad" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m40.png" size="3395" crc="969f5f4d" md5="c762532a00d6fd0f3582dcb78a40ea51" sha1="f6223653244dbbd1c078535eac1980761acc3fae" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m41.png" size="3408" crc="35bcedd6" md5="69ac3df47f7294bf7e8162a2eba8d133" sha1="5483cb33365adc7013c5e76fa993c3f6ef1e0b35" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m42.png" size="3398" crc="dd327597" md5="f542026f514b60509f2c5b8885b6bbf7" sha1="d92d25cd1d12b1d79f341754ef44a67f26650636" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m43.png" size="3369" crc="c87ee19c" md5="b1587d1216208daa8174ff80ad1b0532" sha1="a3c7c1e7319b7e96e70a7b041bc25e3fcc615846" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m44.png" size="3378" crc="ef64ff2e" md5="a2c9c7bac0b5e6ce8ff294f2f18b688b" sha1="eb2c930c783fee9a8f700d198b9dd59fd57d65d6" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m45.png" size="3423" crc="b8cca15e" md5="8d1894c082d8e882b9eeabb3ccb5b05e" sha1="ba0e7ecc7d3c27c482de44973cdfdcb81f18a24f" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m46.png" size="3393" crc="d1890514" md5="bc14355bd2081c216467d17e0b8876b9" sha1="25a881baee8d49fbe68c6c7489ada4a2e4681227" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m47.png" size="3392" crc="22b7f658" md5="ae1cfb6770d794083ae4c6d7ca1a0b1f" sha1="cb493bf32abeea765c36236ea9f6ae40bf958da5" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m48.png" size="3406" crc="0956e4ed" md5="1ca6ed948ee3feb07761992a8fa10b84" sha1="fd1fa2ee24c493ab863d01c856f439e9b356e969" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m49.png" size="3401" crc="83c10737" md5="0ccee280f8337254cb27ab6c336c1312" sha1="5a46341338361aff7c5b40682bdecac5a4984051" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m5.png" size="3394" crc="6bd494a2" md5="f32a2427ff93adfb54173d1b4f2f9bf9" sha1="acadd19a7fc572f95ea3f68678abe4cec78c6cbf" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m50.png" size="3387" crc="c1f98f71" md5="7761a77b114ccffbd99478bd7f9b9125" sha1="3ddbe84ff186a70a6a05c44c741c0cfa9a9381f6" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m51.png" size="3367" crc="0c8b1075" md5="0ab43fd9cb118326d00fc10b8804f2d3" sha1="d37f04ce7a98ceecca52ef71155023a75998899e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m52.png" size="3372" crc="0a31d321" md5="c106f9c79b71034a4d7363db02b7ed40" sha1="ba4083d380ab32c3e3262ce4cf21e24241d6a7fa" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m53.png" size="3408" crc="a9e6ac5d" md5="2a643360c3bd2a759f84b5c73adcefd3" sha1="83b48bb372be5b3db12f122c7791c7a9e6f9da31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m54.png" size="3415" crc="5d81e4ca" md5="3994905507e2a0fe5ead66afda0d47e9" sha1="1333ed1d0a8ffd8b9ac316a4365bbe087391db16" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m55.png" size="3396" crc="8d9132f7" md5="f21b65fb75b298807808b20c76200672" sha1="f66980521a34b9026ac7357b87994d42f03d66e2" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m56.png" size="3400" crc="cd106df8" md5="a824ad7e909d7b9e98faf6bfcf04988e" sha1="6b82cda511853b6198e4f3904c5622edb15f1ae4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m57.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m58.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m59.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m6.png" size="3399" crc="4bbd8e0a" md5="c17e1d777788f561a326044037ecc866" sha1="3465de2fd16d4aa5c2a34c213663a995cc83fb45" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m60.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m61.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m62.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m63.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m64.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m65.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m7.png" size="3406" crc="20d0ad0a" md5="19e6cf2076589fc47f794d14d525a060" sha1="cf230e8a1d56f5d7de201849b3d727a9b09f03c6" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m8.png" size="3408" crc="ad9b8134" md5="e29799ed07a327df237bc08df7b150d9" sha1="78cff97e887a2c315d34a94bfb5b167c4c013a32" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\m9.png" size="3397" crc="2bb7ec14" md5="0f2a4bfdd12e5095b96a47742e9b2baa" sha1="2e3ebab080b537990c74f559cd6a227f62a331b1" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o0.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o1.png" size="3387" crc="6123e49c" md5="05139ef91659e60dd25ed43120022dbd" sha1="cb98ed11b3863784fa7c24aa8295e987830b0972" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o10.png" size="3395" crc="2d296a74" md5="be14cd072a1d4853f7bb9f1045c983b9" sha1="8e3b3bf424ca72a3977545e2303fccc1c58004d5" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o11.png" size="3392" crc="9e4a6f5f" md5="d1236f9b165d37cb8d5a41fb758f9215" sha1="dac352a7fe03b71ab12f8182d7b2b1e6cfc4c731" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o12.png" size="3372" crc="877bd086" md5="00cc98f96e05820fa6090344b79a6741" sha1="40d38d12c391b1799942e0fb75bcfd24f248821c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o13.png" size="3387" crc="e78a086c" md5="a22d82cea09009b3a2dbfcf20bb28504" sha1="7c1a09230cbd8b7941edc02f656682077367c525" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o14.png" size="3364" crc="5ea3d5d2" md5="b0f52dd2a806a652e9edf60c472b5474" sha1="bee2356a1da9caa65bce8cee78101e396866211d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o15.png" size="3377" crc="41ff70ba" md5="8655f9469dc96f7a3bac5b9938c9899f" sha1="8a12d6a8ff7308ed6ce5ff4cdbb763d1f70be3a4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o16.png" size="3377" crc="41ff70ba" md5="8655f9469dc96f7a3bac5b9938c9899f" sha1="8a12d6a8ff7308ed6ce5ff4cdbb763d1f70be3a4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o17.png" size="3379" crc="47402fd7" md5="46fec2e54b693ac7034529ea4b028289" sha1="cbb8c41d1c0cfed5efa13aac2422c547e676f312" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o18.png" size="3410" crc="ccd34ac0" md5="57fae207f8ae33e45fad21bd8332d94e" sha1="fd308195dca20c62351a4f9e36d4cce96a9e93fa" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o19.png" size="3391" crc="a3051c05" md5="1eff18642f4000efbd6d6fddbe049531" sha1="7ee7062336653754ebd106a14fd9d3c5d35042dd" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o2.png" size="3413" crc="6400baa2" md5="b4b855e6344d6af718fb3991ca773192" sha1="a6c8fb224e1aa7a11199e06f1bf83d76b20ba8ec" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o20.png" size="3366" crc="6ca332af" md5="0d4f416421c9b59f91d1dfd94ba3901b" sha1="6ef9737d0b062fb8d9a300585a56e592215b7a3a" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o21.png" size="3377" crc="52833634" md5="010ac86a6292f8f6bcaf103924b1306e" sha1="47684f6719c69b5c6ab7460424adad8c51354b1d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o22.png" size="3388" crc="6d55b1d3" md5="f02a366c4bb9e1b9dc983b6fa85f2757" sha1="f55d436b5a34004019db7fcefe74a15423d2ab6f" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o23.png" size="3405" crc="8494cadd" md5="302b1952a797aa0eff104da095804c12" sha1="a06998296cccf79359f7f10c2dc93ae72f464f1f" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o24.png" size="3411" crc="9834d996" md5="5aebeac6fa73c6e1f93d6ce6aedfd780" sha1="d263c17b27bc009a4e78d5070c8fe89cd8463889" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o25.png" size="3404" crc="ec523a2e" md5="f78f4a3eee1df053414a2160c3bc71af" sha1="2d0c7e6f3caee7aec2505c61ce1df9780ca7ec62" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o26.png" size="3418" crc="ba9914de" md5="7083ad2812fd615c30d7ac488c1625f0" sha1="098c2dbc01a3a8de98eef5aa8b5ca2d6a121cb2b" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o27.png" size="3358" crc="d5f99627" md5="3818e3aa20e6ae553f0f7a969bf190e1" sha1="4031bb04251b2190d12866cd99b0acc9d646980e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o28.png" size="3406" crc="f9b76630" md5="11bbeac9502142ed18c0dcf36cf3ce3e" sha1="fcd02c8243a172742891f22bb7a442f4222f3f87" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o29.png" size="3360" crc="565f7f6f" md5="c4342220306d4099a79a3386896de497" sha1="e816b59d66861967fd06a86cd281aa5dfcd6cd07" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o3.png" size="3398" crc="0d76f62b" md5="6b1687ae24407a6d6d563e2a6e0b0fba" sha1="35b305953250d9c4550cf3a63b76a5fd88e448a2" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o30.png" size="3376" crc="38f6d8ff" md5="70683cc1ac88c11c4732897a8246d3df" sha1="c58e0a729414ab6f15c523138bf013dfec22d5a9" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o31.png" size="3386" crc="94639adf" md5="50f6b1f4adf4ae96c10b6a5698e61a81" sha1="c3c9a46ee06263a1cbafe534547b0e6ee00d348a" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o32.png" size="3379" crc="85d0fdae" md5="fb12cc17b975e15599f242673ae86f46" sha1="771b1b4ce60ffcbe1883e8ca5c44517a5f4e8390" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o33.png" size="3388" crc="2b5e374a" md5="4af2da165f7ec0167a925541bda1fa06" sha1="82a8a756ad676378e900923033e59cd5a0bd2b90" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o34.png" size="3375" crc="d26cdbf3" md5="43380cbf6c757013a93467aefd2fb054" sha1="f5bcd4e63d98a2d965d705d204ca376ded416191" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o35.png" size="3386" crc="49628efe" md5="4a1d6eb60578b2217ef144cece7ddb03" sha1="306ff1a881d924480c197bf83b3c66d592985982" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o36.png" size="3387" crc="ce7cbf3d" md5="b4b24fc5abe22b89dedeaaa5ffbb9d81" sha1="9a0bfbc80bb29ec0ebbadf98daef2e62ebe88b9a" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o37.png" size="3380" crc="529d96bd" md5="1f2afd4e9134a41bf202da7e6671e49b" sha1="6352c4788e5672df5b569e1462b0d3b1899212cc" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o38.png" size="3378" crc="dfe7be32" md5="efb66a0c4a812de676bf69fa25913b69" sha1="59c3601354cd403b466b76c86a5caa64fb0a0c0e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o39.png" size="3377" crc="ced977bf" md5="f6507c2547c2aaac5bb9fd02a7e2b917" sha1="855add0306fae0db3a50924370e130d3636328b7" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o4.png" size="3373" crc="2c311e21" md5="1f78bec94efea5762702ac94bbe3225b" sha1="af3ad904a5e2b88187f38a6b40412d93a8ee8870" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o40.png" size="3381" crc="3aeb00da" md5="b2042b310d1c37783becfeed084c9dd1" sha1="cf579a6cda5bb65654f5eb2dbfe90ea0d668f2e1" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o41.png" size="3395" crc="cc525b2d" md5="e78533cb720141e43d30fc4728b58b92" sha1="bd17f3e05b6a802b70213ae69b8cfa87d63c3d87" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o42.png" size="3401" crc="48cada09" md5="9e9ff1b8e6c15f8e1cf180b0bf55bc60" sha1="05cea2530b8d1cd363c72aa4bbacdf19e8c89f41" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o43.png" size="3399" crc="2263ad1f" md5="b27095da9d26c710ee5b66ed97b9c12d" sha1="f245977f093e0443b33d947390bb267afebbe707" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o44.png" size="3417" crc="d6fc1fdc" md5="d21f0c9dd0cb95c3c25a402854682ff6" sha1="56e68555d8726b3b8826195fc751749df1adc4d9" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o45.png" size="3399" crc="1bda0265" md5="9eb8fa318c06ac58fd5656da2b24957c" sha1="127bd3dddedeb2759fcc510ff46cdf104eed0157" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o46.png" size="3408" crc="c883bf01" md5="7c9d36f389d90e4c008c691a09225ab4" sha1="561ee426390265c72f37f512991db852e3cff5a0" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o47.png" size="3387" crc="70f9c62a" md5="100e38c381785ad43da54a159c5f0e90" sha1="fb080bebbbc885d29a0051c6c1b1c6fc8afbe0d2" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o48.png" size="3386" crc="29257b41" md5="6a0156dc287f70c820656e7848e8539d" sha1="4fb85a469d691768fef100a8412237c8b29c5f25" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o49.png" size="3393" crc="1e643fab" md5="09e17e3de44c7a0df64f2edae038840e" sha1="9ea633c372b8723ef59e460fd21690f2fcc5863d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o5.png" size="3409" crc="7c99988a" md5="9d9579a218ec2b57fa87739400c8eca4" sha1="474dfdb003ddea0644148c28d1cb9b590d67c8f6" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o50.png" size="3390" crc="69908fc1" md5="ab697897d79f3d4ee7ff016ad1f6497a" sha1="43dd483b7f1b46587def6a369c9c564cdca94ab7" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o51.png" size="3376" crc="39663d90" md5="ad754c4742f80fe14d4e23ab8b0b3960" sha1="5c2f7cd5dc69f99dba062c805c8eaac020e8abac" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o52.png" size="3377" crc="042b17b8" md5="63d8dbdf00c0ab23fe3d141e3d451219" sha1="87b80c58fb9edd33a04cf5eb7b0e23f6c92524af" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o53.png" size="3368" crc="1d1f4765" md5="574bc369c6618fbf3a5d07babc637ccd" sha1="fceba37d4f8b23b0c119a390aa6dc048660e5a9c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o54.png" size="3377" crc="05af1665" md5="f3acc7501d47478e0f87b9c189d39099" sha1="df6ba056b1446ba701ed097a54f4e7c0fa8da380" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o55.png" size="3410" crc="e66ec022" md5="4fe55217c6653533610b638ca9ebd27a" sha1="e29acc804462ee36c3562a0254b7a78e904b5518" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o56.png" size="3410" crc="e66ec022" md5="4fe55217c6653533610b638ca9ebd27a" sha1="e29acc804462ee36c3562a0254b7a78e904b5518" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o57.png" size="3377" crc="5215be8e" md5="e14e78ba280bc33fa21b327bbb706b2d" sha1="52ede5e38462a4e8690ad89a9e4467c3f7bd4ee9" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o58.png" size="3374" crc="667631f5" md5="3cab8840521bdac44c11b2a54c089d1a" sha1="4d26c02e96b6959cf701fae7c96ddfa7314225ba" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o59.png" size="3406" crc="4b971e1c" md5="342ac534da2c6c0178cde06f8a144ab2" sha1="0468feec2a8e18336d60cfeaccddbcaaad8a2dc3" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o6.png" size="3362" crc="0e1c30a8" md5="32a2e0bf5f68f9fb51b8dc5ea8226a34" sha1="129d50382cbc61e6e5a75408eb7f1740230645cd" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o60.png" size="3411" crc="dc2c3ea4" md5="62da16b010b4e392e1539b1e12aea671" sha1="5b6739ec0704e4051001c971f66250fd17117c7d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o61.png" size="3422" crc="b409e00b" md5="41d81f899bdfe6d2529577c941d1b057" sha1="3d40621d641db7ee4ef301a6154192e1fad102c0" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o62.png" size="3394" crc="8632db9b" md5="e8a124d932451141aa249ec622758592" sha1="b3368065284b2e01e5899fc2bbe59e9bbb9ad5fb" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o63.png" size="3423" crc="d71596df" md5="72f44daa3745e928275c060308f523f7" sha1="5880ea4d8aeb39ec48e1f15b734959c7278c7a56" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o64.png" size="3372" crc="038e5750" md5="11df38f550fd34390ec4a06d999a6753" sha1="79af35c660732f038649e762bc9f298f76dadc9b" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o65.png" size="3407" crc="e094dcde" md5="ef5370394f5ad5606b562cc0fa782336" sha1="846d9f382c6c29766e043eec693789239bc0aafb" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o66.png" size="3367" crc="0b70662a" md5="f71bfcdac7cafe6900b8fb12ae74a0d8" sha1="0c804cbc3f632d1abdce473516637da6c3a5f06e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o67.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o68.png" size="3387" crc="eecdd791" md5="0066a606b74d39e3363840f8ebc3fb81" sha1="214a346d3a7e273126387d01e2d96ec62f914954" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o69.png" size="3388" crc="b923158b" md5="58428c18d4beb5dd30a47045c2e4ede4" sha1="146bf9feb778f5d77effc009b0214faf8aa7117d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o7.png" size="3405" crc="f488c3fb" md5="067f821696c22f56a852895e9a135597" sha1="9d90666987f20d1f0b977d18ac78d1c084366eb9" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o70.png" size="3410" crc="ccd34ac0" md5="57fae207f8ae33e45fad21bd8332d94e" sha1="fd308195dca20c62351a4f9e36d4cce96a9e93fa" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o71.png" size="3410" crc="ccd34ac0" md5="57fae207f8ae33e45fad21bd8332d94e" sha1="fd308195dca20c62351a4f9e36d4cce96a9e93fa" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o72.png" size="3410" crc="ccd34ac0" md5="57fae207f8ae33e45fad21bd8332d94e" sha1="fd308195dca20c62351a4f9e36d4cce96a9e93fa" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o73.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o74.png" size="3361" crc="b78bac6b" md5="1bb13a592f4658c192412c00d328f94b" sha1="998ca584bba4b2b197322c188e688f0ccf7a8a8d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o75.png" size="3366" crc="0cd6fc06" md5="e6977af1c7636447eae65fb52a8d5599" sha1="a131a0e341707976a2b85f77a79122a9fb788815" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o76.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o77.png" size="3378" crc="2df9e27a" md5="d63fc3282cab19ce8558b89f0c5b4a3d" sha1="f4cd0561d5f23e9040451ee39c488f5161e7b75e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o78.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o79.png" size="3387" crc="e079e393" md5="665510b26333a3ddcc6775cf2e41517c" sha1="b31b17676c34b6ed92fc9fa1ba1da145f5d4b81e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o8.png" size="3394" crc="30bc48a4" md5="fbacfe8c7e7793480b125864d9d3b8dd" sha1="62fe8737f7078ab565a8276ba1c642d04b07696c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o80.png" size="3380" crc="74354a7a" md5="039aa5e1e40f945bd16c0a1fa54175d4" sha1="5e4d1394e9159e1b7c0247db508f1b049144b30b" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o81.png" size="3413" crc="6400baa2" md5="b4b855e6344d6af718fb3991ca773192" sha1="a6c8fb224e1aa7a11199e06f1bf83d76b20ba8ec" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o82.png" size="3396" crc="03925871" md5="6061a38a7ebd0d92e500e3fd9c230c76" sha1="9e90c76b66a8a2eab9820d68dd0ed5cc90dc4388" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o83.png" size="3373" crc="61ae0239" md5="dfab39f7c470fb104a8b5f180a0dabce" sha1="faf2cfa6682b5514429510ab05962bd79e23b4d6" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o84.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o85.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o86.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o87.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o88.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o89.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o9.png" size="3365" crc="988f0333" md5="183348f51c3517b493619ff05589aa9f" sha1="341bf9e4d45a861cfb771de7a7a6311c93c790f8" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o90.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o91.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o92.png" size="3391" crc="fa107bc9" md5="bfaa7c08ffadbdfdfad8b836b1ca1d2c" sha1="bc72992b9253762bd46dd290e298f356a444fd31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o93.png" size="3377" crc="05af1665" md5="f3acc7501d47478e0f87b9c189d39099" sha1="df6ba056b1446ba701ed097a54f4e7c0fa8da380" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\o94.png" size="3351" crc="7a9c5437" md5="c2577021af14003c090a91fefda671cd" sha1="21b51f213a8772c08063686e0117876973f913cb" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\player.png" size="3330" crc="ca27e429" md5="f8a943550a967d7c950d8f8e021992da" sha1="6b69fcb5991435453de6f971d8f3759c97605abb" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w0.png" size="3377" crc="52833634" md5="010ac86a6292f8f6bcaf103924b1306e" sha1="47684f6719c69b5c6ab7460424adad8c51354b1d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w10.png" size="3343" crc="364d58df" md5="1418f22368334b4e58ab5bbcb070e892" sha1="74ce557766607eb1dc247e438485c1bb6a1dc6bf" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w12.png" size="3358" crc="d1f445f8" md5="3a3c4db26271e3ea6961b67286d5ea5d" sha1="0725b97cd7837c1b1f934cddd44bfbe2bbfa97e0" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w14.png" size="3358" crc="8e16f9db" md5="b210e295a16f897f485cc82a6f4110de" sha1="8b74933caab12bcfb79d3bf42c1cbff8181914d1" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w16.png" size="3380" crc="a01f8b7d" md5="056db3c7b23ba99e0c9dc7aaed912384" sha1="6a6a34a91ecb8d2f65b0a0a9ef40995244812f02" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w18.png" size="3369" crc="9c5bb4a1" md5="fa6965268bba389d2e80f682cd4a57e0" sha1="c0c7fee70bd00258ec6ed0bbb9281c393f710233" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w2.png" size="3358" crc="eb49ddbc" md5="3c212cb9679c8c12f4cc2904dddc926b" sha1="c065d87ffd6319658a3c9f5b0c8faf4b7d4b90b7" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w20.png" size="3356" crc="d529f1c3" md5="bbbf51a1c6cd4b265783af955e340006" sha1="3d0d4d2263904e32065f6ff1f62f197d59efa650" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w22.png" size="3362" crc="992fe2a3" md5="ac8df72197184920628c6f3429b9525f" sha1="8de21f0efa5301caa0abdc1f6b5b998398d47c43" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w24.png" size="3366" crc="d7af99ba" md5="f12f30262c72f7b2a1379b1bf06f522b" sha1="d5cd35aca6db82c8d542e4e68ff0f1c86c87cc2d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w26.png" size="3359" crc="b9e8c00e" md5="32034741c84e65822d8e032280094338" sha1="c4c7f1cec5d7ff7214d03be3194fabea9b86fe6b" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w28.png" size="3356" crc="e12d92a8" md5="c1e65fa136c7423da79c9711b8ce954e" sha1="e5c9fad5e433d87ccc6239f49539b3616ba96d3d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w30.png" size="3364" crc="d859c7c2" md5="baa0e574c4f8b8ed23467ad075a30df4" sha1="d3b38973c19ee5ea652c2aed966dd25163cfe7d1" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w4.png" size="3361" crc="37866cc3" md5="76b95fa8e2015f973a8242d556815c62" sha1="c480e0eca73d21e39173d62c2d5f41a5c7856e0f" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w6.png" size="3368" crc="8abfc226" md5="961ffa1c034c0fee00aeb0500a38d527" sha1="0b1b52a310dc6bf5ccaccf0a73b4d88f290a0372" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\img\w8.png" size="3363" crc="c1b115b3" md5="45c4d69bfc1ddbf200c2760434d43025" sha1="5d77c7c900011fd834ec8793e90b4a692297747d" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\inventory.js" size="7099" crc="ad201843" md5="e5a31b3a2b7434250ed3173128da4545" sha1="5144eeeaffea731d8e0aca2b8f7e2a0f49af10f8" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\io.js" size="3441" crc="52deccc4" md5="1487bf1956984615e4a0c9110ab9c75a" sha1="797a5c28fa1933c56513557336a7657d67a499a0" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\larn.html" size="5029" crc="4f1b4bfd" md5="39659a9c3ca97f6279e35e8379bccc4c" sha1="2d8ff066a45e239e971f907fce5729d2dbcc8aca" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\larn.js" size="8425" crc="8a160e17" md5="46774f9d7891a0fd6631878a32e778c0" sha1="377fa41d21820637fbb8fa2783876768d0771d73" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\level.js" size="788" crc="0ba27f71" md5="aaf73588e74cab1eeb9505361e0af2ad" sha1="7ae1b13a62aadb035b01a66fe23bf1debe48dbb0" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\main.js" size="12714" crc="b86d653d" md5="0a003bab4fc2c98c138ec70699304496" sha1="292d052f1508c99262a0e4f196bdd30534f927ac" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\mazes.js" size="28398" crc="a33f98a3" md5="97f053f798c6d65352e9149cbaf350d3" sha1="44c36a70b76195cd7b442997141d06b8761fb1d8" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\monster.js" size="24533" crc="06092a6c" md5="5aa50684ba18c2438d4d47e8ec7f59ae" sha1="8a4e73d550030d4b1bf4e14de72bd0794c1da01e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\monsterdata.js" size="9110" crc="94ba00a1" md5="c5b6370ad0d7a938c6a97e29ee7df7f0" sha1="00a72cc28c97a15ca4cb749cb303a893d579cafc" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\movem.js" size="17547" crc="4de17cfc" md5="37a83cfa31b33bb51168ee519ea6ed22" sha1="ab261cc5d4a5db8f013b188c2b5732e8e0212bf4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\object.js" size="25213" crc="9e8c80ec" md5="28773f5525bad102a50ce00b5c8c032f" sha1="dcad13931f3263d6f27dc4ba1fee290b298b2613" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\parse.js" size="12154" crc="44b40e8c" md5="2eb82edf50d76a523c57ecdf05e3bbb2" sha1="1cc34ceeb72c3ce43abeb9feace5ea48cc7c562e" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\parse\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\parse\.parse.local" size="159" crc="84945de7" md5="4f1fb549fb1272432e25f56a7c1fa9b5" sha1="4dd15685ed6c2f00ed1b99baa462d8f11697700c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\parse\.parse.project" size="89" crc="06e67152" md5="565ec72e70fc6264403585d12f9fbc33" sha1="5545ebd212edc54d689a8b3cfbd017fda196ba31" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\parse\cloud\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\parse\cloud\main.js" size="1943" crc="bfdaa2e6" md5="bd5591915e9cf00f58655ac1c93ee75d" sha1="d927cf3ad73e2d87f19f4e579319aabdc829603b" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\parse\public\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\parse\public\index.html" size="53" crc="e53dcc89" md5="48a6e8ed762c7c1628353395785f8006" sha1="cdfd279bc23ac3ee348cf468e1cc46f7a93237b3" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\player.js" size="25771" crc="b2e42d41" md5="01b3a028763aceb473e7551a53d93249" sha1="703abdf3fc953304bb8b5943145215a8469326c7" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\potion.js" size="8017" crc="b100f032" md5="5ca572272d1b13d50d05d7fd86db8832" sha1="3c5f2ee3afa19de069ecd503c799f6d3e15f2746" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\README.md" size="3758" crc="934d1b6b" md5="0631728354993506edccd20e600865e9" sha1="653e18a2f4f114829d38edeeba91c929e6105dc0" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\regen.js" size="3663" crc="8375824b" md5="c6cbac060381e31f66cc411c261838d9" sha1="a5d55b8137cc8ea48b5332b69bfdaf50a61b1bce" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\savelev.js" size="8223" crc="7c5ddc0b" md5="6e6b9178ff4132899b304025d8e2f3b2" sha1="f5e85708b501a3658677c314e51e56133adff05f" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\scores.js" size="21312" crc="d6b83b7d" md5="df4b7d6aa9867dcf0fd475cba4d84e94" sha1="a4f12e6904c94ce035732692143008b64b1a3468" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\scroll.js" size="7021" crc="ea64b25e" md5="37619764ff71cd594e2bb5ff189e3e80" sha1="ea0baeb62aaf47406df643e3f78ddf00725199eb" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\spells.js" size="27258" crc="65bfa157" md5="0ed051ba0032cfcc17ed956f92451910" sha1="c9bd7cd6deed97c2879a0bf9cdd61cbca5dfcf6b" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\spellsinfo.js" size="14730" crc="faa537fe" md5="620a4b35b04f6892afc4432a10fb7e70" sha1="83f73860a06f4d2262d30373cf239def876a16d4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\spheres.js" size="5790" crc="b3ad76ca" md5="edd47069d096819898eb8ed82803345f" sha1="948b625664126342b98728d43f6c24572856cfc1" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\stairs.js" size="3316" crc="dd3bdb74" md5="8c54dfc381621788da16a82dda98db7c" sha1="9ba50d68684fe00ff22145477eb63c4e6dfbcc0a" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\state.js" size="3470" crc="e627129a" md5="d3e4eded776c6c2c15f64ae5215cf7af" sha1="cf93fb37d5143bf0abfa1dc197aafd77c434a0d4" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\store.js" size="25808" crc="fb7d8a1b" md5="6d872c69aee644224625922dc2c3e0ae" sha1="17db1636ef2eb3aed35a90ddcd7ec0c8769e609b" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\storedata.js" size="3785" crc="161e3f28" md5="6fbfd4f13292bdd0284057ff00e4aa7d" sha1="f62e3af380d91318aee72a2473b0127cec5c873c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\throne.js" size="2096" crc="1e799347" md5="b98bedd998c9a4a71afd7db2679e57be" sha1="b8541cecc3adb911e351c5c08861f66d43f3e670" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\TODO.md" size="2062" crc="d4b37c96" md5="696e3dc97ce3e4e1b6da950bbdf73f29" sha1="a28b0f0c7581a08b2f07c34310dfdd01d0505a10" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\util.js" size="7929" crc="2eb8c698" md5="c9c338d78c48ef51a8628338bcae0b6d" sha1="bb74d509139496a9794c6d8b4f45990e93f8bb5c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\util\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\util\.gitignore" size="12" crc="95c5fede" md5="4159d5630df1667dcc7a7f3156d91487" sha1="c35057e8c0748e982140e9c9f00a3308f9883eed" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\util\forge.min.js" size="296958" crc="d0e81fb8" md5="011f32203829e1ee6c5ad71fd7ac837d" sha1="53bedf06cf94ebbdeee23e6a5a83ba1b7af05c89" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\util\mousetrap.min.js" size="4851" crc="73178ea9" md5="c558ee5015fff4224cca5ba9bee4017f" sha1="7e03d0df80e295aef5036f3f0f4e32c9a436855c" />
+		<rom name="JavaScript Larn (12.4.5)[var][src][Java]\util\parse-1.9.2.min.js" size="167412" crc="8ade3c0a" md5="af801b75d04e08d35922d713f3ba7e9d" sha1="70decd4828599f9462e1764572a8fb50d6e72ae5" />
+	</machine>
+	<machine name="Larn SDL_JS (v)[var]">
+		<description>Larn SDL_JS (v)[var]</description>
+		<rom name="Larn SDL_JS (v)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\GameSetWatch COLUMN_ @Play_ Larn, Or, I Hocked The Car To Buy A Lance Of Death.mht" size="716744" crc="1f281ee6" md5="bfb3f8375539604313e316982425200d" sha1="ac0c1cb875e6d5adcb1d2d14321b86234c03f65a" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\GitHub - atsb_RL_M_ Maintenance releases for XRogue and Larn.mht" size="1971637" crc="016fd284" md5="d8f0d5bfccc826b7722665490547a1aa" sha1="3d28318cc3d0e49fb4f5a00b02c77baafee3d02f" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\Larn (video game) - Wikipedia, the free encyclopedia.mht" size="241500" crc="7e3637e2" md5="e78136e5f0228fc62037345288381464" sha1="27530e2c1ddae9506f0c0a10c4e98ca9f598ab86" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\Larn (video game) - Wikipedia.mht" size="445139" crc="58cecdf0" md5="2661687eb32da0c0d2c1b586fa6acdb8" sha1="657e82b5efa1f7c8a0d33214c6a8eebb8ddb28c2" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\Larn - Donnie Russell II's Home Page.mht" size="2934177" crc="5dae67a8" md5="236b7a63fb346ccfcb7f59b117fdeec2" sha1="ecf4dd88ecdf073e11b6bbd5214af8cb4c5dda64" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\Larn - RogueBasin.mht" size="21709" crc="aa8f26e6" md5="ae445b89e7248fd5d62c15b4d819abe2" sha1="05d150c39a2a1397e7b187090c236251d229d612" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\Larn 12.4 _ Temple of the Roguelike.mht" size="182835" crc="cd5a6912" md5="fca32d78430b2b982f3c9882cc4f53ad" sha1="c18d50e8d6d371af0e54cbf4157835680eca82b4" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\Larn for Amiga (1987) - MobyGames.mht" size="547984" crc="5b37a75f" md5="6cde389520ecb3b57f6e2b6e08e02408" sha1="a6965e72fdac8dfb9ec0b431e86b954d01f4ab7c" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\Larn Game_ Play Larn Online - A classic DOS_Amiga_Unix Roguelike Video Game.mht" size="328225" crc="70a090ae" md5="280161617f7461ac59dd29e9a9269237" sha1="3030e520d71385bf57e47c2b75de9f6fdeaaa156" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\LarnHD - RogueBasin.mht" size="330989" crc="825417e1" md5="fb14273a5b9639275eee56f607976fc5" sha1="ddca403beff70221654b4d329b92e0f7064a42db" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\Roguelikes - Rogue Central @ coredumpcentral.org.mht" size="98179" crc="e663cce2" md5="7daf65ee2d76a63c1c28269e0e5a1f99" sha1="1bc939bfa78a8010f52b593486a872b04d2d8c4e" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\The History of Larn and Ularn.mht" size="567166" crc="c91f448d" md5="d3f2f0bc6d32b4250cc44ef7396be4b7" sha1="e124a503429f22823b957bbb5b11d1fa5424adc4" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\The Larn Blog.mht" size="368906" crc="2f572fa7" md5="f458ea3dccf23b069afc1c2a830697d0" sha1="4aca0b4f507c628c877988b0a6ab8e201acd4a16" />
+		<rom name="Larn SDL_JS (v)[var]\__Doc\The Larn Home Page.mht" size="70555" crc="716f41e1" md5="b78474760d6317fad1689f5215836593" sha1="3daa89775e35079a4a4b8e6a3a04eb5df6ff08e9" />
+		<rom name="Larn SDL_JS (v)[var]\LICENSE" size="1550" crc="f4e16a62" md5="c9fc069d9a9eb01f53ac8ac24c7c41f4" sha1="dc70e05c3ddc0d482e4d0520981e777e10748200" />
+		<rom name="Larn SDL_JS (v)[var]\SDL2.dll" size="1068544" crc="238e4f41" md5="ec15b044a46bf6e411f9eba551858030" sha1="fc22253cd69f45c77a9f5ce44b43a1feb7ccc655" />
+		<rom name="Larn SDL_JS (v)[var]\SDLLarn.exe" size="473088" crc="7aebb19d" md5="e4e6f20867b1910888231e2f2f0d02e2" sha1="fa2f7c1e6a76e72a742e21a0276e3e3a656dd017" />
+	</machine>
+	<machine name="LarnHD (v1.2)[var]">
+		<description>LarnHD (v1.2)[var]</description>
+		<rom name="LarnHD (v1.2)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\GameSetWatch COLUMN_ @Play_ Larn, Or, I Hocked The Car To Buy A Lance Of Death.mht" size="716744" crc="1f281ee6" md5="bfb3f8375539604313e316982425200d" sha1="ac0c1cb875e6d5adcb1d2d14321b86234c03f65a" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\GitHub - atsb_RL_M_ Maintenance releases for XRogue and Larn.mht" size="1971637" crc="016fd284" md5="d8f0d5bfccc826b7722665490547a1aa" sha1="3d28318cc3d0e49fb4f5a00b02c77baafee3d02f" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\Larn (video game) - Wikipedia, the free encyclopedia.mht" size="241500" crc="7e3637e2" md5="e78136e5f0228fc62037345288381464" sha1="27530e2c1ddae9506f0c0a10c4e98ca9f598ab86" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\Larn (video game) - Wikipedia.mht" size="445139" crc="58cecdf0" md5="2661687eb32da0c0d2c1b586fa6acdb8" sha1="657e82b5efa1f7c8a0d33214c6a8eebb8ddb28c2" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\Larn - RogueBasin.mht" size="21709" crc="aa8f26e6" md5="ae445b89e7248fd5d62c15b4d819abe2" sha1="05d150c39a2a1397e7b187090c236251d229d612" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\Larn 12.4 _ Temple of the Roguelike.mht" size="182835" crc="cd5a6912" md5="fca32d78430b2b982f3c9882cc4f53ad" sha1="c18d50e8d6d371af0e54cbf4157835680eca82b4" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\Larn for Amiga (1987) - MobyGames.mht" size="547984" crc="5b37a75f" md5="6cde389520ecb3b57f6e2b6e08e02408" sha1="a6965e72fdac8dfb9ec0b431e86b954d01f4ab7c" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\Larn Game_ Play Larn Online - A classic DOS_Amiga_Unix Roguelike Video Game.mht" size="328225" crc="70a090ae" md5="280161617f7461ac59dd29e9a9269237" sha1="3030e520d71385bf57e47c2b75de9f6fdeaaa156" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\LarnHD - RogueBasin.mht" size="330989" crc="825417e1" md5="fb14273a5b9639275eee56f607976fc5" sha1="ddca403beff70221654b4d329b92e0f7064a42db" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\Roguelikes - Rogue Central @ coredumpcentral.org.mht" size="98179" crc="e663cce2" md5="7daf65ee2d76a63c1c28269e0e5a1f99" sha1="1bc939bfa78a8010f52b593486a872b04d2d8c4e" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\The Larn Blog.mht" size="368906" crc="2f572fa7" md5="f458ea3dccf23b069afc1c2a830697d0" sha1="4aca0b4f507c628c877988b0a6ab8e201acd4a16" />
+		<rom name="LarnHD (v1.2)[var]\__Doc\The Larn Home Page.mht" size="70555" crc="716f41e1" md5="b78474760d6317fad1689f5215836593" sha1="3daa89775e35079a4a4b8e6a3a04eb5df6ff08e9" />
+		<rom name="LarnHD (v1.2)[var]\LarnHD.dat" size="2949" crc="88bb0665" md5="0cbab2d3978e3c38d98384bbe50e9278" sha1="59c77b57c05da4ffae114169ae502399efba3d9f" />
+		<rom name="LarnHD (v1.2)[var]\LarnHD.dll" size="193536" crc="04b9bb3c" md5="d8e4fca591211ee221f7c33271cdb3c8" sha1="678fc40abce1514ecd1e2288fd2388e0b605b84b" />
+		<rom name="LarnHD (v1.2)[var]\LarnHD.exe" size="278528" crc="7489a5d7" md5="8eb7b37b25f2ab0c78de5fd7f47db643" sha1="c367512bee06a423d6c29ac4c75bde6599df1c4a" />
+		<rom name="LarnHD (v1.2)[var]\LarnHDSafeMode.exe" size="14848" crc="b7cbc77a" md5="67195b444d2b15e40bc8b43ce693c137" sha1="9302636921164fd1fcde11bd21896e271d8a97f0" />
+		<rom name="LarnHD (v1.2)[var]\ReadMe.txt" size="1173" crc="04bce566" md5="d58bbdb1a1560740a1427b6e9c236a01" sha1="fecaac3709fa946a254fce38e6c1b1334fcb2374" />
+		<rom name="LarnHD (v1.2)[var]\winpos.dat" size="28" crc="ea35aefc" md5="734fddfb78644f7a161bba8d4a886127" sha1="deea9754122de152c9d6fbdf9c1c0f15936e45ed" />
+	</machine>
+	<machine name="NLarn (v0.7.3)[var]">
+		<description>NLarn (v0.7.3)[var]</description>
+		<rom name="NLarn (v0.7.3)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NLarn (v0.7.3)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NLarn (v0.7.3)[var]\__Doc\ARRP 2010_ NLarn _ Temple of the Roguelike.mht" size="770459" crc="aa6cf85b" md5="786830eb319c77e00e2aa209454b5c35" sha1="30244bc55144a5e3a59fe4516a41a4a6c195c2bb" />
+		<rom name="NLarn (v0.7.3)[var]\__Doc\Larn (video game) - Wikipedia.mht" size="479240" crc="5a42e145" md5="aaa8a14c6ebfe2129a181de2d9a8995e" sha1="d84e9b79c7d9b3167cd8afcb6125153636729ede" />
+		<rom name="NLarn (v0.7.3)[var]\__Doc\Larn - RogueBasin.mht" size="338316" crc="8b5b2455" md5="ac64a62dd567739ff3e69e03d3db8705" sha1="83a93ca982583403babbadf5f68ddd73a0fcf28f" />
+		<rom name="NLarn (v0.7.3)[var]\__Doc\NLarn - RogueBasin.mht" size="520413" crc="ee627fcc" md5="6882d882317e03391c502132aa752b9c" sha1="875fc21c7f6cdd6c20ba60eae0551403623cc755" />
+		<rom name="NLarn (v0.7.3)[var]\__Doc\nlarn.mht" size="406788" crc="8cf54d9e" md5="b07be5782b39d14b9b17f3228908799a" sha1="69e215e722d46973092c7226266d10354ad2e5f7" />
+		<rom name="NLarn (v0.7.3)[var]\__Doc\nlarn_ About.mht" size="110393" crc="2ea33745" md5="872e787c92942db480c7760696636f21" sha1="fdbdc94bd3906317a5a726683af3567b5eb7975b" />
+		<rom name="NLarn (v0.7.3)[var]\Changelog.txt" size="42600" crc="557f11c4" md5="ba6ea14f34ecc896dec49b509918d4c7" sha1="3c007686d0ea7c0e723c6af0276f409ce14774e1" />
+		<rom name="NLarn (v0.7.3)[var]\lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NLarn (v0.7.3)[var]\lib\FiraMono-Medium.otf" size="127344" crc="8624089d" md5="f8d5463caeff0bfedc55a14edf1859ba" sha1="491f895d49862dad4a8046a8bf652494117408cc" />
+		<rom name="NLarn (v0.7.3)[var]\lib\fortune" size="2033" crc="8d2edf30" md5="fc1320b143e037f8469cea96d3d2c68d" sha1="ca0eebe259a33b79793cf8a5e2d757be10e2cca5" />
+		<rom name="NLarn (v0.7.3)[var]\lib\maze" size="28924" crc="836b7556" md5="444f8ca434086469c7edbdb482b24ceb" sha1="630c0b3fdbc3deaaebed8c98ad4c7ad8b8828433" />
+		<rom name="NLarn (v0.7.3)[var]\lib\maze_doc.txt" size="3371" crc="e81d2755" md5="af30845916ab89f3ee1a319c67ae5424" sha1="9a1c3fa02bda317b6edd8b5e183453332b835da3" />
+		<rom name="NLarn (v0.7.3)[var]\lib\monsters.lua" size="25827" crc="9e7c2248" md5="2552b97bac8809994d95b98e7684dee1" sha1="2029ca0e4aa9b0decff86cdc373fdf72cffcb7c4" />
+		<rom name="NLarn (v0.7.3)[var]\lib\nlarn-128.bmp" size="65658" crc="b5dfcbb3" md5="ac6ca8f2b2a77cfc80fee4d3ae568ab3" sha1="602e01dcda1fd41d07afa8029e52f412c6b08831" />
+		<rom name="NLarn (v0.7.3)[var]\lib\nlarn.hlp" size="5765" crc="e7ecff94" md5="80b72e1acb1c8e6a13d8dee46df00ac6" sha1="df897a8e30c8fe4520e679314ca029428a3fc817" />
+		<rom name="NLarn (v0.7.3)[var]\lib\nlarn.msg" size="1010" crc="9b9cfc5a" md5="1cfbfbe83a21f8626dc650b3911489a9" sha1="70cc2469380897738bc7f712e5d983d755302213" />
+		<rom name="NLarn (v0.7.3)[var]\libbz2-1.dll" size="76571" crc="0b9fa435" md5="ebf7e3a538843562562fb3994adf5c9c" sha1="f761d49b12c8215957d70120343ec81e77598b1a" />
+		<rom name="NLarn (v0.7.3)[var]\libfreetype-6.dll" size="729617" crc="cc921506" md5="2398dadee8f6911bff862c017f5c3c3c" sha1="25d22ebfbc9c939836da97136ee0fc51547d2227" />
+		<rom name="NLarn (v0.7.3)[var]\libgcc_s_dw2-1.dll" size="121460" crc="38cfd386" md5="a6b4c2feff99c7850ab62879ac1cba25" sha1="9c58f3bd3e8c7c71549471761de2bf9934f31807" />
+		<rom name="NLarn (v0.7.3)[var]\libglib-2.0-0.dll" size="1265153" crc="29024c1f" md5="fc7fd545599f6221bf01e18c1d48c405" sha1="81e0743201b816298318b4dd5d6f2f4a60423b47" />
+		<rom name="NLarn (v0.7.3)[var]\libgraphite2.dll" size="180002" crc="53fe0cbd" md5="1f23f8e9350d26ea161b9deab3c8f729" sha1="86d09ed11f2f154500ed8cb72bceea027bd23f22" />
+		<rom name="NLarn (v0.7.3)[var]\libharfbuzz-0.dll" size="825878" crc="a59e08ec" md5="b27b51cd51dcfc02ff71151c2df6e221" sha1="b63120433ff68fe6fb02e53fca9e5fc97682c4d5" />
+		<rom name="NLarn (v0.7.3)[var]\libiconv-2.dll" size="1058849" crc="20ff0eb8" md5="76ddd6bbb052f0887d052941681355b3" sha1="47c8af1a9547dec079f4bc34fff53fd0463b60e0" />
+		<rom name="NLarn (v0.7.3)[var]\libintl-8.dll" size="141110" crc="94a5796a" md5="cc35de7263ee90874490a1fc77a88e7f" sha1="fb8750347a19784fa372a01a51874eabccdb69a7" />
+		<rom name="NLarn (v0.7.3)[var]\libpcre-1.dll" size="293590" crc="7acf14ba" md5="95f5f91697c7bcdeb4c3699b947e2d29" sha1="9b23ba49aad0ee453480a4503b4ff703eb7af6c1" />
+		<rom name="NLarn (v0.7.3)[var]\libpng16-16.dll" size="250205" crc="b554a6a9" md5="462120587d97a7bef8466066e32c9759" sha1="20f9ad63cfddcce3313714f110cb45fbceddf867" />
+		<rom name="NLarn (v0.7.3)[var]\libstdc++-6.dll" size="1548049" crc="17aae7ac" md5="e4597175bc8614ab84599fea72dca43a" sha1="183c52677bbd77de7d7059465cad4dfa2b85a3e6" />
+		<rom name="NLarn (v0.7.3)[var]\libwinpthread-1.dll" size="65629" crc="8637fff8" md5="f5e420bb3c5b65b416d8dddfa22a8bad" sha1="a40045aa6ce8d54b971308bb340ae4d60d340f68" />
+		<rom name="NLarn (v0.7.3)[var]\LICENSE" size="32472" crc="b792a93a" md5="9eef91148a9b14ec7f9df333daebc746" sha1="a6adc13d0c809ab8cb68e6e3b6eb7571bd0e2920" />
+		<rom name="NLarn (v0.7.3)[var]\lua53.dll" size="279570" crc="b955fd2c" md5="34d63b3ccfbce565a12654a562f00c4d" sha1="01a7ad2637ead9b02a95822eadc292250e63f6d7" />
+		<rom name="NLarn (v0.7.3)[var]\nlarn.exe" size="1803208" crc="e5afb91b" md5="1efeb57cc0b05349977df476ca464dfc" sha1="79798c6b32d17e62ed24ff66ba88aa2040fafb26" />
+		<rom name="NLarn (v0.7.3)[var]\nlarn.ini-sample" size="878" crc="822982e3" md5="27d04762bdd8cc96385466610a572893" sha1="437261c879fd3eeb4f97f66df946e6d70c0fb8a4" />
+		<rom name="NLarn (v0.7.3)[var]\README.html" size="3523" crc="d2b89ae8" md5="8b6002778a7baa5f9abb8e065fd52836" sha1="a8806b2aa3011830b0a3cd5301831ab2b9a9d287" />
+		<rom name="NLarn (v0.7.3)[var]\SDL.dll" size="422564" crc="9c6b13ab" md5="c736fbfaed01f5beedffbca6e05f681a" sha1="a9f3ed6c6905c60b7ec6621eae95f4b26c80e9bc" />
+		<rom name="NLarn (v0.7.3)[var]\SDL_ttf.dll" size="35783" crc="a02e43e0" md5="143e6f4cc4297db34b9ac064bb815291" sha1="3c1986654430618dfef9fbeee69dec6e62b0fc68" />
+		<rom name="NLarn (v0.7.3)[var]\zlib1.dll" size="97987" crc="ea9ee3c2" md5="a723222f67860e90a251e0a90c9d72e3" sha1="d0bc9c5eded2dad2ef5dae79541cd8c8f0b9c6a2" />
+	</machine>
+	<machine name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]">
+		<description>Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]</description>
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\Julian's ULarn Page.mht" size="193635" crc="cd9a5ea2" md5="9e0f36ddc4bab1d5a3d358aa6e976151" sha1="b004477e3283bc633153a48f00cd5df6f02f2d2f" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\Larn (video game) - Wikipedia.mht" size="457163" crc="d8f061e6" md5="55f5999e97a96cb1640cc2b72f40f227" sha1="1ab68fac26e8d50c6154fa03772447f0645da200" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\larn, and other games.mht" size="29151" crc="bbe85ecc" md5="ef5b173addbd5974d18481cb2d847036" sha1="537280b3ec5c14b30f30ee095e53f0faefb05730" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\README.txt" size="263" crc="a5b29cc4" md5="363cb4f0e90efc3c10910ef03e04e160" sha1="41a60b10ca84e1e7a2a47a59b8271bfc382328f2" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\RogueLike@lab3_ History of Roguelike.mht" size="17979" crc="74204344" md5="c14b95d35f68bb0977aca25152661c0b" sha1="69b3d6bebc3f2ba35873972e86b1cd51249826c8" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\The History of Larn and Ularn.mht" size="567158" crc="5de1cfa5" md5="d1bc3dcb3ea5033c48fdbc5262cbe2d0" sha1="509e203ae1dbb2d0834702578ec30f848fdff2c4" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\U L T R A L A R N.mht" size="64374" crc="030dd8e2" md5="23e2008deb81f4568e9d04ef2a5f79b9" sha1="12a7028d4010c334a178e374198f111fb82cb52c" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\Ularn - RogueBasin.mht" size="332004" crc="92eff563" md5="2a995594baff0094afc2bfa50f375d82" sha1="a0df69cf76b07485d5ecc9eec20e5ff2d4960578" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\__Doc\ULarn Win32 – Runs on Windows 7 _ Justin A. Parr - Technologist.mht" size="1824780" crc="9d660d76" md5="6f87834c6391da331a14e42cb3832759" sha1="ab35db8db7e0d0e50ba54ddbc8cc760e9593f521" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\CygUlarn_1_5_pt4.zip" size="1606962" crc="e58b0615" md5="5f6c6909f969aad00a6838500b9c7887" sha1="eef824ef6f20753b140e9974d944a47605a7d101" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\ularn_1_6_3_tty.zip" size="154657" crc="38c5e562" md5="443a417db77d5206fbed4e882572b213" sha1="09b0fa2f0eebb9d704b615c2803e084ff76fed3b" />
+		<rom name="Ularn (v1.5 pt4)+(v1.6.3a)+(v1.6.3 tty)[var]\ularn_1_6_3a.zip" size="259393" crc="3caab910" md5="041c73af372cd477e3fef56359aecde4" sha1="138759230c5e13ba41598ef2877d93239f73c9f5" />
+	</machine>
+</datafile>

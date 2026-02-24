@@ -1,0 +1,798 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - Variant - Hack</name>
+		<description>The classic roguelike archive - Variant/Hack</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="BrowserHack (v)[var][src]">
+		<description>BrowserHack (v)[var][src]</description>
+		<rom name="BrowserHack (v)[var][src]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\__Doc\GitHub - coolwanglu_BrowserHack_ NetHack on the Web_.mht" size="6362513" crc="ac3fca5b" md5="850d4b448e7bc9d63c83a6c793417cde" sha1="019333b3d0968acf3578d32e0547e3ffa37db1de" />
+		<rom name="BrowserHack (v)[var][src]\__Doc\Graphical user interface - NetHack Wiki.mht" size="2494208" crc="6f57d4d3" md5="872cda4022434f53d47c768d08918c5f" sha1="72ac2d26e6931ffccc8d48de7d2aaa32712cc3bb" />
+		<rom name="BrowserHack (v)[var][src]\.gitignore" size="4" crc="dea865da" md5="6909a30ab5cbd8e290af97e5f79ed749" sha1="f732edf31104278a33c4b9ca1c69492fbb31c2ad" />
+		<rom name="BrowserHack (v)[var][src]\browserhack_logo.png" size="126102" crc="f7b55fc0" md5="03cea8bea5aa5823ae428ce14cdf179e" sha1="b27e9af3ad559e7d04dcb914ea01302f87b2bf4a" />
+		<rom name="BrowserHack (v)[var][src]\build.sh" size="777" crc="dbbee187" md5="4c84797d5143eb2f8e215fcf30261709" sha1="dcc63e34c7898cc6d4c47ec5202485f398c0d795" />
+		<rom name="BrowserHack (v)[var][src]\dat\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\dat\Arch.des" size="15400" crc="0e577b42" md5="5bb204fcd1d14135c391022fbff5bbed" sha1="7e90d1dfda1caa8273aff56dc9938bc75c2e1055" />
+		<rom name="BrowserHack (v)[var][src]\dat\Barb.des" size="13070" crc="465e8f9a" md5="b20e8ec50cd979bb06821703a49b16f8" sha1="62e852b8eb9fa4a36ead9eaa6199ce291ce04a2f" />
+		<rom name="BrowserHack (v)[var][src]\dat\bigroom.des" size="15583" crc="389f8424" md5="301d8a9379adc5c438d34c49b1dd1be6" sha1="a483953a19380df1800cc88c6dc6e141bb4e26e0" />
+		<rom name="BrowserHack (v)[var][src]\dat\castle.des" size="7838" crc="6ff7e0c1" md5="ecd4f5f36764be2cc709e5a3e0682774" sha1="602935ed6c9a734f5b082b42d567e561c1600d03" />
+		<rom name="BrowserHack (v)[var][src]\dat\Caveman.des" size="11730" crc="c235a782" md5="9881e3ecbb31894434bc895d3e03e13e" sha1="070c765cfa14ec906f21eb3cea6850fd4492bf56" />
+		<rom name="BrowserHack (v)[var][src]\dat\cmdhelp" size="5225" crc="10c1e4e0" md5="1396c8fa314806a6ce65dc1f6c509788" sha1="cc0ded1fd678f898039eaf9615f7b78d310ff825" />
+		<rom name="BrowserHack (v)[var][src]\dat\data.base" size="206962" crc="c1262e34" md5="1c1100f806b9af52018d465746ec6ecd" sha1="d4e0d04c2f0bd482d3633c94b4692519ccb398b1" />
+		<rom name="BrowserHack (v)[var][src]\dat\dungeon.def" size="4211" crc="8105c80c" md5="4935f6e6486d42c857106d70e7d35a29" sha1="f99fb8e742a50dbaef2733203130768a7f8851ca" />
+		<rom name="BrowserHack (v)[var][src]\dat\endgame.des" size="25001" crc="22801ba4" md5="dbe0390e59e5f275a0b5ba47f5bb85f4" sha1="215b865422fc164119ce057a5d367e578730132b" />
+		<rom name="BrowserHack (v)[var][src]\dat\gehennom.des" size="20479" crc="65d04bec" md5="daa24dd74db4b526cca7b8093c338053" sha1="b1e124ad50027e5f83a97bb229048c6e15ed68dd" />
+		<rom name="BrowserHack (v)[var][src]\dat\Healer.des" size="11405" crc="5739983e" md5="fd0cf6f53e3341ba0b794341111492ad" sha1="aedd77b9659c013bb0364c78bbb20ebb033a5959" />
+		<rom name="BrowserHack (v)[var][src]\dat\help" size="10515" crc="f7d74d90" md5="cefd4ba84a5774f5f796e76f34275467" sha1="a2578b6d84cbf86439bc11f395b43d571b92d338" />
+		<rom name="BrowserHack (v)[var][src]\dat\hh" size="5669" crc="0bc37eb6" md5="b561d0ea53b2ba0aed47c905321fa7d2" sha1="0543f52f2647b1a27f216154763f6bc9216a7256" />
+		<rom name="BrowserHack (v)[var][src]\dat\history" size="10471" crc="afc39bc6" md5="05e40a43938ee6634c9f322627cf1c52" sha1="4d4e561e12958b817f920f4a8cd3aae8110e2735" />
+		<rom name="BrowserHack (v)[var][src]\dat\Knight.des" size="12670" crc="b692604f" md5="4e89063851dec050796ea848265e38a9" sha1="f23de78321315fe93b5eea393ae5240b886dfdca" />
+		<rom name="BrowserHack (v)[var][src]\dat\knox.des" size="4006" crc="e953b541" md5="97d924c5a83f52c3509aac9e0488a912" sha1="f1d0e3edf8d60333ebc23e7876b0102d59c96801" />
+		<rom name="BrowserHack (v)[var][src]\dat\license" size="4875" crc="862b9e80" md5="9dfb90a531b09855665fcef81b592793" sha1="c6c884b56ead76f3380ffd8d10f62f99c6a32829" />
+		<rom name="BrowserHack (v)[var][src]\dat\medusa.des" size="8332" crc="ac0472bb" md5="6988b5239d374738d003eec94b7a001c" sha1="45a77a66a23cfd5c8af9907809f23c2777223c3a" />
+		<rom name="BrowserHack (v)[var][src]\dat\mines.des" size="30158" crc="7139ea47" md5="8a91104049022c28a88d72d5da760690" sha1="68cac40f99fd0b138f1f1d69994cefff4e3cb21e" />
+		<rom name="BrowserHack (v)[var][src]\dat\Monk.des" size="11381" crc="08793f81" md5="2443b7e6ce7aeaf425fa2a4707f220cf" sha1="2c5e523168c1f930d18578be90e6162213316a5e" />
+		<rom name="BrowserHack (v)[var][src]\dat\opthelp" size="13647" crc="14b324dd" md5="7d37bec95bf8c05962160123db580add" sha1="322b71d1d01ba9a8faf1d675bf603d8d49d5bc68" />
+		<rom name="BrowserHack (v)[var][src]\dat\oracle.des" size="1550" crc="a2a7b95f" md5="902aae67057b8f0a03edc51756a8e8cc" sha1="e4ccd0b0a84fdf67b5cc2166c95083c058c3e93b" />
+		<rom name="BrowserHack (v)[var][src]\dat\oracles.txt" size="5387" crc="1dd8d569" md5="b82d85739ebce5b6307a48e36c07ec02" sha1="a8448634a9529bc49899286056550959383d140f" />
+		<rom name="BrowserHack (v)[var][src]\dat\Priest.des" size="10088" crc="4d2f8861" md5="e86d2453e3c952b8a53e1caaeebbabb4" sha1="bf70aa995886b82a819306997e10aa1d4305103a" />
+		<rom name="BrowserHack (v)[var][src]\dat\quest.txt" size="99614" crc="e1baae47" md5="4d18b3cd3bb5efce3dfa5756a16db910" sha1="ae46472c7d2d7498913adc43164f347f5d437fa0" />
+		<rom name="BrowserHack (v)[var][src]\dat\Ranger.des" size="12214" crc="9c4275a7" md5="866c5819243017194e3fb214a46da0ff" sha1="6ad8548f17cf32eb8bc041d2ea500bfc1688df38" />
+		<rom name="BrowserHack (v)[var][src]\dat\Rogue.des" size="16978" crc="e1958700" md5="c75346550ebce7529df59f949eafa223" sha1="f3f73371d4dcb708cc430a08bc9c7042ad4b680c" />
+		<rom name="BrowserHack (v)[var][src]\dat\rumors.fal" size="22591" crc="9405e917" md5="da53f35691cc6196d6878182ba2e21ec" sha1="436541f5b395a086c7f68929774805fbdf930b9d" />
+		<rom name="BrowserHack (v)[var][src]\dat\rumors.tru" size="20158" crc="90073705" md5="61632fec4ab82ebb8b71b077f8cee026" sha1="58f700cb741a7ce86c6943eb3ea25884a04fe2a3" />
+		<rom name="BrowserHack (v)[var][src]\dat\Samurai.des" size="13528" crc="32c0a99c" md5="c4f07629e52398e7ef6cb7c314e39fab" sha1="070dd648fb5897b3c82fbc7635df28eee29de3b0" />
+		<rom name="BrowserHack (v)[var][src]\dat\sokoban.des" size="14121" crc="55996002" md5="66232f0c67838e5d4f676e3eb1e6b3dd" sha1="acd70ed65e907261d0ab93cab7e7f0370c5b94ed" />
+		<rom name="BrowserHack (v)[var][src]\dat\Tourist.des" size="16879" crc="3fe58fb9" md5="abf333674796f90f6e7ed1b39914cbdd" sha1="0dd82e06ca2294e6dd40600bd894c4447f266d22" />
+		<rom name="BrowserHack (v)[var][src]\dat\tower.des" size="3360" crc="2836111f" md5="1abc80284881b855138e9ea60590d883" sha1="bed12e500858d379390644db5ba87897ab63dff7" />
+		<rom name="BrowserHack (v)[var][src]\dat\Valkyrie.des" size="10084" crc="fb510b79" md5="e3970fca0a8889d6894a7c86097bbd7f" sha1="d51bea0a810e95ef9586005191f7c04c99d51799" />
+		<rom name="BrowserHack (v)[var][src]\dat\Wizard.des" size="15153" crc="dbb91f0e" md5="aea04bad3a0ea0f7697f1f84bff485e0" sha1="7f0025656d6ce309acb6f10726f8dc15333b39bd" />
+		<rom name="BrowserHack (v)[var][src]\dat\wizhelp" size="663" crc="b1637373" md5="f8537d56ff38b662ab5d405c0db6ead4" sha1="79f27814fc2bcf79d46677c10062cfa23e89ba59" />
+		<rom name="BrowserHack (v)[var][src]\dat\yendor.des" size="7296" crc="95a9ffbb" md5="b391bdecac3ce60a9202738692dead92" sha1="2df6706e27e7bbc16c453b6129ebf192ab129cf2" />
+		<rom name="BrowserHack (v)[var][src]\doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\doc\dgn_comp.6" size="7148" crc="b5b48fb5" md5="e7a8534a79ceddd304a12d643c78c146" sha1="0a481063b7ff7835de1f8dd48dcbfd600163ba93" />
+		<rom name="BrowserHack (v)[var][src]\doc\dgn_comp.txt" size="8492" crc="7c0374e1" md5="bf7c39cd0f0b1b1c5ac4c0f2192321b8" sha1="b2fa4ebd785907fef28d66fde471117b92734002" />
+		<rom name="BrowserHack (v)[var][src]\doc\dlb.6" size="1909" crc="702251a1" md5="b2fc8275d4d6fbd0692eb77bdd5e5768" sha1="80b6d79c0e5f72c8e269e3fd3025f60e5bc1d9cf" />
+		<rom name="BrowserHack (v)[var][src]\doc\dlb.txt" size="2306" crc="98c78bbc" md5="644edd0d1f88fd090344e14c896d3625" sha1="afdf67bb9e38e747a3bf3ce4e249b37ff71993c5" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes22.0" size="14704" crc="4d62a500" md5="1ad49c294e3f294c30c152a43f036495" sha1="99667bd2addb0ad33826660d916a7c03359acd85" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes30.0" size="8926" crc="b5a9ba63" md5="b2b6d6888bceddb0319b0f5563948f7a" sha1="44e5309224e63833e0b569cc1d8cb18b753d2cac" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes31.1" size="6013" crc="f7fc30ff" md5="cee849c2c052ff7b85d89316a2146fc4" sha1="0bb7081884d09383736107a7aef9455420b05f1c" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes31.2" size="5680" crc="24c36ace" md5="a1975c90365a67f2d624fc9c515c4a21" sha1="3a4357fdf164cc2336248f1ca7d533f8c7498040" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes31.3" size="1233" crc="17983723" md5="c50875e59adfed1d263bc8c780260348" sha1="99ef63c7973ff8e658f3e742e59e18127f5c97bf" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes32.0" size="21287" crc="27b25ac1" md5="4f702d5f73556a3cacb08249aba29fdf" sha1="8532c06aa1a8df3920b15d2871baa9939118cbab" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes32.1" size="7525" crc="a947141a" md5="3c24786d40bf965388d04aafad463c6a" sha1="3e106e725e980dbcc7b9f815d8de178300af2b6b" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes32.2" size="7523" crc="a0f44557" md5="e46d6ccdbeaa19b1b5e68c74729c0243" sha1="a6aacdf24f0ca1118dc69df8937959e3c1c14aac" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes32.3" size="1688" crc="ce9b94c5" md5="453d4355c6b5ce1a37c7666137662312" sha1="d56adbb6583d3d53655976117c5d97be6d3f11eb" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes33.0" size="21466" crc="0104eb7c" md5="5920887ffb24ed6f16ec45b63e685587" sha1="2b206eb4f8cfd1d674eaa2c4a491ec25a20093da" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes33.1" size="25506" crc="a7be072f" md5="f8ab32ce90cbac19fcd6b95de686d6cf" sha1="127bed8dde4e801c1a99904b3e0506a9a63527d1" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes34.0" size="36116" crc="09d337c0" md5="567b106fe59d83d00c0dda65f82af055" sha1="c8e2bb46a19a834449f9eebde5bdc418b68986c4" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes34.1" size="29221" crc="7a10fc07" md5="c778691f4c52c7d86d663ee683d88c35" sha1="e25ec25a34bfa98e1f1dff10ec488b97f837dfd9" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes34.2" size="10511" crc="382f9b2f" md5="8db83303841b57757bf76d4b73c707fe" sha1="95c4e1b1a182cf0fc8caaf1e8915e7f0688bb93d" />
+		<rom name="BrowserHack (v)[var][src]\doc\fixes34.3" size="8246" crc="980feec5" md5="36226a41b571c80289aaf7e262b9ba4b" sha1="661b25d647ed7bd37e1d9b7d49f4e3016f63722b" />
+		<rom name="BrowserHack (v)[var][src]\doc\Guidebook.mn" size="115919" crc="21c2c7c5" md5="8c4d2b7b528dbb19517e1496f0386a53" sha1="a55199fbecc4e1a3da7f23f23cac0a80b0761f36" />
+		<rom name="BrowserHack (v)[var][src]\doc\Guidebook.tex" size="127686" crc="2f6d7f65" md5="b272f67ced2e35912d9f0583fe397582" sha1="56699e961d7e87945702734163d41a7a29c69b48" />
+		<rom name="BrowserHack (v)[var][src]\doc\Guidebook.txt" size="152347" crc="a3553b30" md5="e9cb0242a3e281234e02e17b66c9a12c" sha1="9051566a8e478a6f1c054bbac7792d3166800c6f" />
+		<rom name="BrowserHack (v)[var][src]\doc\lev_comp.6" size="10624" crc="5dcfb1d4" md5="ba6f863a9d59f1d84eb0c095b005986f" sha1="36daeb6624a5f52d893187ac4e78febce4c95e5d" />
+		<rom name="BrowserHack (v)[var][src]\doc\lev_comp.txt" size="17757" crc="e5f0612b" md5="3a0869f4a0d7acafefe2572f6b5bee0e" sha1="c2d26d7e76e7a903ddc99d92a3b432e999628dcd" />
+		<rom name="BrowserHack (v)[var][src]\doc\nethack.6" size="8051" crc="8e8a3ff8" md5="355d9413f00fd5d4fdab035a6c21bb51" sha1="a61bd860ad081edb47c9eb214e151fbe79087805" />
+		<rom name="BrowserHack (v)[var][src]\doc\nethack.txt" size="9520" crc="11d92cf8" md5="9ca5dd1e93e1c6768fa5a0dec11e7b38" sha1="bed193b8f83eba4c18d7fb64bb6ea19efebc37d5" />
+		<rom name="BrowserHack (v)[var][src]\doc\recover.6" size="3631" crc="2b873da3" md5="19961d84198df36007d8b8d57226887f" sha1="f72e0a30f300e82291a8935b3ee95342066c0fde" />
+		<rom name="BrowserHack (v)[var][src]\doc\recover.txt" size="4228" crc="3458455c" md5="2e643eb5ecf00d1cac27108df4f8b455" sha1="be2163a9f2737880cbcf6492df546edcd503513f" />
+		<rom name="BrowserHack (v)[var][src]\doc\tmac.n" size="25098" crc="b69b5500" md5="1cedccb9f386cca6051061c3f71ff585" sha1="69235dbd67bd1f4f8520faf4dcd57609b68bb0c4" />
+		<rom name="BrowserHack (v)[var][src]\doc\window.doc" size="39677" crc="5e56d926" md5="b32e34436f6e5033ae47fb89c4d2031e" sha1="444532ce7cc7b4cc48840b85d155d2b766ed864a" />
+		<rom name="BrowserHack (v)[var][src]\Files" size="14761" crc="3aad6fb9" md5="fe8dd7a7adbc4a230feff0e13d87282f" sha1="9c8bfad326cf9a333c25fb45012ef6b8e72ec5b9" />
+		<rom name="BrowserHack (v)[var][src]\include\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\include\align.h" size="1006" crc="ea1bcb43" md5="a37f0e970529f1111ea15f43249ad2c0" sha1="6b1a5a0eea2a54ddd4448124d8c446c4dd5146d6" />
+		<rom name="BrowserHack (v)[var][src]\include\amiconf.h" size="4838" crc="1b6244da" md5="00aa4a3296cc08fd7aa7d4d2522ec895" sha1="5ef06fd071aea6d9775e5dde2e53852e9a8b806b" />
+		<rom name="BrowserHack (v)[var][src]\include\artifact.h" size="3086" crc="c0dd5f58" md5="a1a839f706d7ede42b693a6315cc5cd2" sha1="28ba2cac20f655ab4fc177927cbae6f16eeca31b" />
+		<rom name="BrowserHack (v)[var][src]\include\artilist.h" size="8564" crc="322594ee" md5="6753275cc8880e7f2c703f181a6234fa" sha1="9e7b45174d8159e17c6aa1eb843238f4009586a4" />
+		<rom name="BrowserHack (v)[var][src]\include\attrib.h" size="1172" crc="cc5361d5" md5="4b440c09cc21ccf5a665d92f3fc65900" sha1="94a1901caf61de827d82b0765984ecc863efd2e5" />
+		<rom name="BrowserHack (v)[var][src]\include\beconf.h" size="830" crc="99daec6c" md5="ddb9d1c1078804588df605154403ba22" sha1="13a3e3d37f46092d25915ec905db229616ee6701" />
+		<rom name="BrowserHack (v)[var][src]\include\bitmfile.h" size="831" crc="278ce146" md5="027d72c03add87efaf74f9483dbf7990" sha1="c21bcb6884f43d859f327e81ada832bc30fc6f98" />
+		<rom name="BrowserHack (v)[var][src]\include\color.h" size="1576" crc="ed872f02" md5="5b6bb8db3e22f9368544fb96519a078e" sha1="ccf4af8e1d60df4218d585d8f322d7e44e02f96b" />
+		<rom name="BrowserHack (v)[var][src]\include\config.h" size="11855" crc="4d43336c" md5="f49ee0ec240c5e8daf2e08d6b346579c" sha1="b0002fd9b96996bc30a2f8d6c632b049164a278a" />
+		<rom name="BrowserHack (v)[var][src]\include\config1.h" size="4492" crc="8dca5881" md5="4e79aff09f2d287623e31874d8e4ae92" sha1="99253c61c8416d79710c19ffb6da3dac9af7008b" />
+		<rom name="BrowserHack (v)[var][src]\include\coord.h" size="282" crc="1a8d728a" md5="2e19886243aeb9e19908ea806e1d2e87" sha1="70c403ff14dccbc7ca4a80618394d33481817a3d" />
+		<rom name="BrowserHack (v)[var][src]\include\decl.h" size="11577" crc="4a48af8a" md5="a869872047285dca75435f3b04ef3e34" sha1="7812bb2cc2212744c92ccfffc9d1ed44d413e98b" />
+		<rom name="BrowserHack (v)[var][src]\include\def_os2.h" size="4251" crc="1b79a0ef" md5="aba201d273baa55b6e7bc0e1aba15797" sha1="f9b901c41e4545428013372c6233e88aba994541" />
+		<rom name="BrowserHack (v)[var][src]\include\dgn_file.h" size="1634" crc="b3eb7ab3" md5="969bd3f8f9d8581478a7fc6f8d52f210" sha1="395271a2e0671c27ebd1230e326e0fc53149d037" />
+		<rom name="BrowserHack (v)[var][src]\include\display.h" size="14629" crc="adc8889e" md5="f7f059ecb8f2fb8fc0b3876b8e6dbf50" sha1="8aa3b0d0ba3d363657cf77e54bb3a39592a1a34b" />
+		<rom name="BrowserHack (v)[var][src]\include\dlb.h" size="3618" crc="4e8ac676" md5="e53cd169310612ef17105fe0f46ae529" sha1="aa424a978bd285eff66b42efb189c0fd534e4b9d" />
+		<rom name="BrowserHack (v)[var][src]\include\dungeon.h" size="6407" crc="920e6fa9" md5="168588aa52928a288a7ddf0eaa7471d6" sha1="997fe4e5aeb3ea4f95a92948af338f7dac6d8bdc" />
+		<rom name="BrowserHack (v)[var][src]\include\edog.h" size="992" crc="64c7ea44" md5="ca34322a00f2aaf429819f4c8d772003" sha1="a11b46413f53eaa11b1f4c3e809a3ff17ed0ee5b" />
+		<rom name="BrowserHack (v)[var][src]\include\emin.h" size="325" crc="529fc115" md5="3a51853c7e6f6e344878b1c0fc454f52" sha1="a486c13cbaef71f5416b2030a17c6a2feb61ed5e" />
+		<rom name="BrowserHack (v)[var][src]\include\engrave.h" size="747" crc="8ad0e28b" md5="e0b3044c7b5addfb669420a887f238b7" sha1="3b62a940bfeb98179871b28931aa12ba1c5242ef" />
+		<rom name="BrowserHack (v)[var][src]\include\epri.h" size="711" crc="3f0c9060" md5="678fd3503e71bd25bd289a36546c1421" sha1="8525dfa2ae07f038ca262e0b63bf7c7d274ad8c8" />
+		<rom name="BrowserHack (v)[var][src]\include\eshk.h" size="1485" crc="67daca22" md5="d2090dd550fc4bd8d5ac3b53e7bea534" sha1="e44f1b3152473df619a5d73fd4fd72470227a2d4" />
+		<rom name="BrowserHack (v)[var][src]\include\extern.h" size="79892" crc="48125bba" md5="befdebb51053725967b7a3199289af67" sha1="b439fdb0bd60e93fc041e981c3ad509271eccf44" />
+		<rom name="BrowserHack (v)[var][src]\include\flag.h" size="12986" crc="4acb21b6" md5="a2606fa8ecbc48d8103d7ac1d6737f24" sha1="4ad15509bb840a75038faf6f480fa49cab484382" />
+		<rom name="BrowserHack (v)[var][src]\include\func_tab.h" size="500" crc="b1f316ba" md5="dffeab32ccd3ad93c910af0b7abef035" sha1="3102355e3ff6fa8b64d068b167957138128b6c0a" />
+		<rom name="BrowserHack (v)[var][src]\include\gem_rsc.h" size="2838" crc="a3a80e95" md5="544c2992f656f6d6d359159b4942eff4" sha1="92b321102f1524b81655e2ed992d5d0810fdbef7" />
+		<rom name="BrowserHack (v)[var][src]\include\global.h" size="8855" crc="b7a757f9" md5="bd29ebb5225c8a291f8b10709b72b688" sha1="8ee14ef0e4cbc0baf0f653a80e68c27c9efe654e" />
+		<rom name="BrowserHack (v)[var][src]\include\hack.h" size="10102" crc="1d331b40" md5="99b6e4f2dc1a6c81c6cb782fca11c3e6" sha1="9b430af10b374cbaa58743557abdda383335b398" />
+		<rom name="BrowserHack (v)[var][src]\include\lev.h" size="1314" crc="f36d9fdf" md5="6fbbd9b80c4e9819821ae45674129d35" sha1="89da81287f06d80f9be5161a2fb52403de50a4cb" />
+		<rom name="BrowserHack (v)[var][src]\include\load_img.h" size="1698" crc="477f861a" md5="022d8f13fc90bb8731660ddc8b4ef416" sha1="263183e4357c25b68026be7fc1ba06d1c458a7e3" />
+		<rom name="BrowserHack (v)[var][src]\include\mac-carbon.h" size="973" crc="4af9f95a" md5="9f3b45e7b5bc2b51ffab79f6dfe058c6" sha1="2c80dec85de6bf82ad1462ed3066255a0834d480" />
+		<rom name="BrowserHack (v)[var][src]\include\mac-qt.h" size="969" crc="d7a0ee0a" md5="1673a6596dd90117ffa1a52f68066e6c" sha1="471b079b6c2208e4f524cb03ec8a82a9e02820e0" />
+		<rom name="BrowserHack (v)[var][src]\include\mac-term.h" size="1097" crc="387fb4d2" md5="ff1e2d1d2374067e529483cf904854cd" sha1="5001546cbaa20c23a40ae9b5d822513f5ed2219b" />
+		<rom name="BrowserHack (v)[var][src]\include\macconf.h" size="3064" crc="cf70db05" md5="c58b2b2be0c165a9f6a600ee420a2860" sha1="f9c2a73ad292266f1497f646a0d2984efe7e23c7" />
+		<rom name="BrowserHack (v)[var][src]\include\macpopup.h" size="461" crc="0c559093" md5="614f889a5c10e33789a0012a60231c1b" sha1="354a2a5021e47d4c7110dab36e571691e740fc80" />
+		<rom name="BrowserHack (v)[var][src]\include\mactty.h" size="10957" crc="3d1eba70" md5="94e9f2adb449c82cf4fe509ba3a33e36" sha1="3c97210684883d961f2c7144f8fd5f635faa366f" />
+		<rom name="BrowserHack (v)[var][src]\include\macwin.h" size="6438" crc="2ccc9fe4" md5="840277907ad48bb140e318c5f6fca0be" sha1="a3a9e6f9de19dd46dc76dd6867b602173673b14b" />
+		<rom name="BrowserHack (v)[var][src]\include\mail.h" size="681" crc="b5cec30a" md5="ba2e23640883ca80ddb02d110efe6593" sha1="60d7e6d1e39023a26e83cab5c335a27c2df13a21" />
+		<rom name="BrowserHack (v)[var][src]\include\mfndpos.h" size="1200" crc="0e102b1d" md5="c2be203f88375d123a089c4ffb359d14" sha1="77dce7bc7c0ce6ed842ee1cc6809877d9ff0f3f3" />
+		<rom name="BrowserHack (v)[var][src]\include\micro.h" size="465" crc="2c0126b9" md5="5f0c94bae76e9b7fddb30642ed8d7df4" sha1="a4bb9cb3ef98fdae5cfd176702a0ce17194d2639" />
+		<rom name="BrowserHack (v)[var][src]\include\mkroom.h" size="3954" crc="a1a72171" md5="1e5115f47890c3116edc895077ae0743" sha1="9a9118683219c800d1bf06b92a2f04f3141a7261" />
+		<rom name="BrowserHack (v)[var][src]\include\monattk.h" size="4079" crc="82d4c3ae" md5="9659cd40579369bfb096fe892562c41f" sha1="5fe11b4ab70d9805302af457cce1557aa882eb9d" />
+		<rom name="BrowserHack (v)[var][src]\include\mondata.h" size="9639" crc="a4341ff0" md5="acb9a32885efefb7ecdc08e9ebebae59" sha1="7c7d3b22672d1ca4f7eec9e3c1facc96b0d25386" />
+		<rom name="BrowserHack (v)[var][src]\include\monflag.h" size="9060" crc="fcd56214" md5="1c4039b5689ba54d3689c5be1a6055c7" sha1="5fe46c456ddad6c98be64143665d1c9e45d44a9c" />
+		<rom name="BrowserHack (v)[var][src]\include\monst.h" size="6647" crc="f5e4a826" md5="ce82f144b0bb320af4ef42cb2cec10a3" sha1="546c712e51b2ec39f0cd84b093d7e834494e7234" />
+		<rom name="BrowserHack (v)[var][src]\include\monsym.h" size="3317" crc="90db5e79" md5="33b2d02390209953cbb97f13ae1e9426" sha1="edf8cfff6d578b31d74b5294248ed0a25fc642da" />
+		<rom name="BrowserHack (v)[var][src]\include\mttypriv.h" size="1255" crc="cdef0470" md5="9023c57044fa72fed9d7213d31ea7208" sha1="a34dea5a8e798e65618cd3a07de68ad7a7464ed6" />
+		<rom name="BrowserHack (v)[var][src]\include\nhlan.h" size="1229" crc="5cf74009" md5="a08abbb5a1d4d9c387b3d54ef6405a4d" sha1="9e4edf53c8053f3bd14e5fcf6d32a8a278e00756" />
+		<rom name="BrowserHack (v)[var][src]\include\ntconf.h" size="5814" crc="5c8d3f83" md5="76eeebe06753fd91184e7cfdbd113567" sha1="5e4c8e01552c4adecbf79b05b03ce7a431407460" />
+		<rom name="BrowserHack (v)[var][src]\include\obj.h" size="12519" crc="0a267345" md5="fa57f0f4264d5763cc44a45a0118cc4d" sha1="0cf6a8efe6c3c447a418f68b246ab09e15796b48" />
+		<rom name="BrowserHack (v)[var][src]\include\objclass.h" size="6176" crc="1cad3467" md5="d081405b706975e7c62bfb52227d7a51" sha1="cb96d2d5c5bde72935719b7aa834273a864cb022" />
+		<rom name="BrowserHack (v)[var][src]\include\os2conf.h" size="2405" crc="1ae4fc8f" md5="2983205e363ef41924848230d65705cf" sha1="c6ce31abf6bf09797380281fb8d4130e2781b339" />
+		<rom name="BrowserHack (v)[var][src]\include\patchlevel.h" size="16286" crc="62c699be" md5="150d32239aea6c436bab70e22f7b3761" sha1="6144c97292a079a2a1becfe95f95844d6aed3f6e" />
+		<rom name="BrowserHack (v)[var][src]\include\pcconf.h" size="9112" crc="4c3787a9" md5="b9c982597136c8b7bb19e2c6df49c6f8" sha1="66d05cb6fc944a90e44f182b108af87f2121294d" />
+		<rom name="BrowserHack (v)[var][src]\include\permonst.h" size="2493" crc="026a88ef" md5="e4104778905bc95d17ca493cabcc2a2c" sha1="1815592d20ce9e89c1645797af160abb8dccd786" />
+		<rom name="BrowserHack (v)[var][src]\include\prop.h" size="4512" crc="815a868d" md5="9ba097ff8778a5f383b1aa7a75cc9bcd" sha1="e4be568ebf08520bd34ff492366089c27492e635" />
+		<rom name="BrowserHack (v)[var][src]\include\qt_clust.h" size="568" crc="89a766aa" md5="ed9a15704426195137b994b8dd101451" sha1="739a6a691eec24ef479458e0ea95b51bc3c3aba7" />
+		<rom name="BrowserHack (v)[var][src]\include\qt_kde0.h" size="269" crc="3a53032a" md5="3a087e9ac687658949d988561d46db35" sha1="e0cfebbea82a4968ed35da2e4910f7f82b949909" />
+		<rom name="BrowserHack (v)[var][src]\include\qt_win.h" size="17969" crc="dce07441" md5="15aa199e96b616251d9c5aaec6fd60e2" sha1="1a9d2b9c44ddc400c8b08091f1c050e680686786" />
+		<rom name="BrowserHack (v)[var][src]\include\qt_xpms.h" size="47113" crc="aab997c7" md5="253f0c6ff80c688fd72c8f48316cd529" sha1="b09365e641662f98f65706ace148f6a13c1dc867" />
+		<rom name="BrowserHack (v)[var][src]\include\qtext.h" size="2631" crc="58eedd5a" md5="2a129580a481878368404b8469e8946e" sha1="a21c26caecd650932dc2ea27e732b23f9797da95" />
+		<rom name="BrowserHack (v)[var][src]\include\qttableview.h" size="6579" crc="668a4ca5" md5="cda70e0ed995bca6c44e050ef858d3d8" sha1="fb7d4f326cf218b230fa75aab215639993e014e1" />
+		<rom name="BrowserHack (v)[var][src]\include\quest.h" size="1700" crc="bdddc0b5" md5="1b48c5f005653262b4bd14e6a72c2522" sha1="acbe9c76d0499e4f70b0464c6eb129c2af07eebb" />
+		<rom name="BrowserHack (v)[var][src]\include\rect.h" size="282" crc="5122e172" md5="9ac84b03cda7707ad2d52009b95028c5" sha1="bc25f6a29fcc2aa12dfb313a815036e73b2b2627" />
+		<rom name="BrowserHack (v)[var][src]\include\region.h" size="2985" crc="b191fe5c" md5="990bd326a228c6dc6d2d5339cf7e5934" sha1="931f4f5727f178f6553a5b13b30556bcd69d6a42" />
+		<rom name="BrowserHack (v)[var][src]\include\rm.h" size="14785" crc="61c9fdc5" md5="42fdf66ca839cc6099964db442882566" sha1="78fab80e48932d561655214efac0ce0d4c0a2ab6" />
+		<rom name="BrowserHack (v)[var][src]\include\skills.h" size="3887" crc="82ec0f16" md5="7523091f095f7bc286d2265773d6d202" sha1="6ee48a46546712b58522fe24f00887e35afb5ce7" />
+		<rom name="BrowserHack (v)[var][src]\include\sp_lev.h" size="4018" crc="ee2c0729" md5="2979ec0c67224c20b5bf64aa531f7cb8" sha1="105d7978279a3ff9f4b1cc77721a3a1c5ec35407" />
+		<rom name="BrowserHack (v)[var][src]\include\spell.h" size="610" crc="e46739e5" md5="9721d5b01a3aea452594b0a0584cf718" sha1="c47b55a8c17c03dc03bf21217879b4941bd4165f" />
+		<rom name="BrowserHack (v)[var][src]\include\system.h" size="15443" crc="507a2ce3" md5="102a3fc29d9e7f814243d195c394ae07" sha1="adf671f70d5aa1be313737757d503113a78f34eb" />
+		<rom name="BrowserHack (v)[var][src]\include\tcap.h" size="1571" crc="e2bf1d35" md5="623b3b09ecb1591780957a84edc9f61a" sha1="07312ad5901271abbb6885cac5ff0e43e7db9f84" />
+		<rom name="BrowserHack (v)[var][src]\include\tile2x11.h" size="499" crc="99a48227" md5="74dd866b4500cc030ec995899cd71bbd" sha1="7e6fb3a7bbaac0dbe10008084e3d656d3e40b593" />
+		<rom name="BrowserHack (v)[var][src]\include\timeout.h" size="1445" crc="004a36e5" md5="9397701523afc43128016b91974e27c2" sha1="787de1b029eef36a1e2d13b7c99f9cdd05714dfb" />
+		<rom name="BrowserHack (v)[var][src]\include\tosconf.h" size="2109" crc="2e85da81" md5="6dee05ac00ed076d14a2f270d67f488d" sha1="e53a0fd36ede43a0047e8369548f6f57861e8c1c" />
+		<rom name="BrowserHack (v)[var][src]\include\tradstdc.h" size="8232" crc="2380d433" md5="14b8ed8e50f3b4650f58fb17115b85e2" sha1="ada81f353acca6f82ae492c35bd9f4c10986623f" />
+		<rom name="BrowserHack (v)[var][src]\include\trampoli.h" size="8087" crc="7361169f" md5="3e5e5d532ba74fe586c8c7cd1e80e35d" sha1="259a1703ee48090f6735976ab9450830b5fda19f" />
+		<rom name="BrowserHack (v)[var][src]\include\trap.h" size="2097" crc="a61c0e81" md5="e46e812788d34b4555335201511576eb" sha1="92b493fd18af5c719c107e8d225f7491587d68e4" />
+		<rom name="BrowserHack (v)[var][src]\include\unixconf.h" size="11108" crc="af30caee" md5="279994c3c830880bc74e7826ed502da6" sha1="90b88d94ba87d8160307c37307c6f068fab044a3" />
+		<rom name="BrowserHack (v)[var][src]\include\vault.h" size="797" crc="e04f191b" md5="d8b56952661f9d7dd086139a04012d05" sha1="adf4cd83c39b7b3eb7688e85c6f3371ad75136d3" />
+		<rom name="BrowserHack (v)[var][src]\include\vision.h" size="1895" crc="243979d7" md5="65fd1f30d3fffc3d5956c0dd82f56ddb" sha1="263de7a1b01768b545c46c6ab0f78f8a5967b9b9" />
+		<rom name="BrowserHack (v)[var][src]\include\vmsconf.h" size="8268" crc="2f6ec762" md5="93eecd90e12d287717f6fb51cb952ebf" sha1="a865abd1a943f58ae3a53c0810508db20d1a33d1" />
+		<rom name="BrowserHack (v)[var][src]\include\wceconf.h" size="10032" crc="bb0aa1d2" md5="487808b72f1bda65e5fa1c2019a6b354" sha1="7c4a9399f50c30bd880d314104500ac5273f9af4" />
+		<rom name="BrowserHack (v)[var][src]\include\winami.h" size="4414" crc="84767441" md5="cdfcab953b53c33d8f2eaae66060a279" sha1="7b2e2bf67565c16539c3757fc564c72395279924" />
+		<rom name="BrowserHack (v)[var][src]\include\wingem.h" size="3679" crc="0200d881" md5="158712403b28c2732acdf2442d8103a3" sha1="cb3e8750e56023bdee3fa56680e875b8a0974e56" />
+		<rom name="BrowserHack (v)[var][src]\include\winGnome.h" size="415" crc="a0fc1103" md5="4780a55d74cb35907e958a52279882ff" sha1="ebb32c551af10931a795851142de7c2f12b28008" />
+		<rom name="BrowserHack (v)[var][src]\include\winprocs.h" size="9758" crc="3eb3f49e" md5="e0877036a10f6b6bacb068c6545774c5" sha1="55433d6b0181e70346a0abd49ab95e50ad3a59d1" />
+		<rom name="BrowserHack (v)[var][src]\include\wintty.h" size="8150" crc="1d6c4bd0" md5="132af30fc9633192b00f1352840bbb2a" sha1="298f9eadf68b51a484133f665cf0935c90f6a0d0" />
+		<rom name="BrowserHack (v)[var][src]\include\wintype.h" size="1839" crc="27384785" md5="4ae557ccae681ee1b65fcd3b79c27d1c" sha1="37aa18440897d2795cef46c60d89ed6c6df7eef5" />
+		<rom name="BrowserHack (v)[var][src]\include\winX.h" size="15139" crc="8aa8c5ed" md5="c240a88389407473dd5e8d34662a9ca3" sha1="5480a4246de75f756bcee0c168e414cc04c8f3dd" />
+		<rom name="BrowserHack (v)[var][src]\include\xwindow.h" size="2859" crc="e8c75d41" md5="31bc4803810a0ed6f78b57cc66e1f0d8" sha1="c7d2d7236fdaff9bcf7d87426de67982ebe885ae" />
+		<rom name="BrowserHack (v)[var][src]\include\xwindowp.h" size="1528" crc="43b08c3a" md5="195fbf932131416b628b005182a13a09" sha1="ed4f9cf86d09087e5b2684ed7b45220759b645e8" />
+		<rom name="BrowserHack (v)[var][src]\include\you.h" size="13670" crc="f4361027" md5="da8e92c7874da0256549e67b0a82f085" sha1="2c07765303d9b5ded42fc1500b3b1858805511de" />
+		<rom name="BrowserHack (v)[var][src]\include\youprop.h" size="12869" crc="d2c1971c" md5="27418f95680d59c667f875d070f1ae1e" sha1="9e417507755abd7e64cbe93dbfad380ea5e56990" />
+		<rom name="BrowserHack (v)[var][src]\Porting" size="7337" crc="7a8ff7bc" md5="96a61fca9708540072c09f885820bde3" sha1="41c4a569ef0bf4fcff55abab22083244cae1f9e7" />
+		<rom name="BrowserHack (v)[var][src]\README" size="12169" crc="769a1ba6" md5="1764bf7c0010d3e8a6f4a0ecaa75911b" sha1="c0d91e9e83a0057415831ae78a5035426b3810f8" />
+		<rom name="BrowserHack (v)[var][src]\README.md" size="2377" crc="5550c687" md5="8a487ad0d6b51000a13e68212dd2a1cf" sha1="8d6f9f1b9d7c8deb2398dc020747cb282b4e9373" />
+		<rom name="BrowserHack (v)[var][src]\screenshot.png" size="1044894" crc="f837ac44" md5="3154a289c28edb92aaac054ecd71b936" sha1="dd0c5be32caa87ac2f5386fe986e542afb2ddae0" />
+		<rom name="BrowserHack (v)[var][src]\screenshot2.png" size="1109957" crc="a189350b" md5="ad6e5288d1f88a668c37ade0d79696a5" sha1="baa40aac50db91dcfe209767a7b824544b9fa992" />
+		<rom name="BrowserHack (v)[var][src]\screenshot3.png" size="1213437" crc="afd73594" md5="ecc5ba7644327335ec6714f7601cb691" sha1="36f613c1797725eea2b05248a8c672b4a4891374" />
+		<rom name="BrowserHack (v)[var][src]\src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\src\allmain.c" size="16010" crc="856302e9" md5="8930460e3a5615e9bb425212f0cfe7b5" sha1="a6ff5eb9aa1d6a3526e8ef3f22e78a9cb628d531" />
+		<rom name="BrowserHack (v)[var][src]\src\alloc.c" size="3272" crc="9d94bc06" md5="faf02043146c8f8d474ab7723b434cb3" sha1="a1761e3df492c6d2e9fac9c53450b93250acc474" />
+		<rom name="BrowserHack (v)[var][src]\src\apply.c" size="80722" crc="bca500d0" md5="e0d53dee6c60ddeaa7c444e0e234dd21" sha1="53324ae6f2860d42b5a3199480aca8e5fbb56534" />
+		<rom name="BrowserHack (v)[var][src]\src\artifact.c" size="42692" crc="3eca4681" md5="9fd764f713d441824ea7c87dc8fa944f" sha1="3b5ee34fb86d1719a8516d804bf57c350517c964" />
+		<rom name="BrowserHack (v)[var][src]\src\attrib.c" size="18409" crc="c5e2d69c" md5="b5826ee8c0454c4dc3e9e7869d92599b" sha1="686b6ec619a373603c0fd9eea5b827f236f522b7" />
+		<rom name="BrowserHack (v)[var][src]\src\ball.c" size="22533" crc="ed7c6870" md5="e1b9f32755852b4c37b560ea9b4f0c97" sha1="56eb4340a820a7fb862d5ab136c2ca99be9daaeb" />
+		<rom name="BrowserHack (v)[var][src]\src\bones.c" size="13075" crc="b2db60e9" md5="f32db2da1584c507f4111c30db323a9c" sha1="d268a6c393bffb9fde1bbe6144b2963f78ae157d" />
+		<rom name="BrowserHack (v)[var][src]\src\botl.c" size="7383" crc="45b470aa" md5="03ba8d112a0cf7b6cddb72507be5b374" sha1="46c1c4388f10dcc4e9723d5f10406ab91f3e3255" />
+		<rom name="BrowserHack (v)[var][src]\src\cmd.c" size="69550" crc="c1b941f1" md5="511619045749a8a5a6f173400a406824" sha1="1473b885ac5e0a323a901efea330d4f212bb3fc1" />
+		<rom name="BrowserHack (v)[var][src]\src\dbridge.c" size="23183" crc="1eca50c7" md5="b06c021d2180efc35aacf77704d13dd5" sha1="8f18c3400ce93a7dfa47f3996352ca2103c4450b" />
+		<rom name="BrowserHack (v)[var][src]\src\decl.c" size="8851" crc="b2fcd222" md5="270a714120a6eddaef36e1a93702fabf" sha1="4d299fb3e49ae8c6f0d7c73ab3264eb54e18512d" />
+		<rom name="BrowserHack (v)[var][src]\src\detect.c" size="34685" crc="5aad3390" md5="f118c828138a39651882d8ea3e6db9df" sha1="9fab5ec50c4905a2c69a2560d7f74889ed8b42c0" />
+		<rom name="BrowserHack (v)[var][src]\src\dig.c" size="43859" crc="65041f64" md5="871d0dd70c0d4a1a1f3fe566ed59a6b4" sha1="30c3e5b12c8ecf9458dd47b91f4d28999dc75b5f" />
+		<rom name="BrowserHack (v)[var][src]\src\display.c" size="61416" crc="06d39c6a" md5="c8707b43905d931fb92423e550e9561e" sha1="b414e213b62b9c01e65efba22f1e3c3d7210da00" />
+		<rom name="BrowserHack (v)[var][src]\src\dlb.c" size="12620" crc="845efdb2" md5="cf433f9e894e0c6769bbb91007456943" sha1="ebc4d9ff190ae121f86c21bbfb815fd1f2b7414f" />
+		<rom name="BrowserHack (v)[var][src]\src\do.c" size="46011" crc="3e454685" md5="cbe2eae217cdf543eedb45baa63e5f5e" sha1="23ff36c42573f274e4033cd46c78d4e330950634" />
+		<rom name="BrowserHack (v)[var][src]\src\do_name.c" size="28313" crc="af8b703a" md5="6cd33db710f9f88d9885883b29c7c9f1" sha1="722a2ae7f6709a7fa2309ff7a933c943d5368dfe" />
+		<rom name="BrowserHack (v)[var][src]\src\do_wear.c" size="55899" crc="9af8abd9" md5="112df710cbe920e6102ff83a0403701e" sha1="774a282490b645702ce56bee9f81fe459d7eaa71" />
+		<rom name="BrowserHack (v)[var][src]\src\dog.c" size="27317" crc="b118c08e" md5="4b7ad0e70df62a00297dd70d74e9aba2" sha1="03247d09a280791425f3d1abb6b798601e3f7ec8" />
+		<rom name="BrowserHack (v)[var][src]\src\dogmove.c" size="24991" crc="db119ae4" md5="a4ea87887155d52b3c02a9878869a54c" sha1="c4b1acd23b138014195c0ed800010bf47da284cf" />
+		<rom name="BrowserHack (v)[var][src]\src\dokick.c" size="42133" crc="5ea338d0" md5="0459ddceb4971d5eb7fb55035c05999d" sha1="f3d6b592a44627294e20dddc7193686d8cd8e68a" />
+		<rom name="BrowserHack (v)[var][src]\src\dothrow.c" size="50028" crc="0b114387" md5="6d699d627e365329d65c0d09ff2ab4df" sha1="4c309883a197d7ddb6e4ef19040bf7738c71c265" />
+		<rom name="BrowserHack (v)[var][src]\src\drawing.c" size="26098" crc="805ae764" md5="f54c507e823d19c0eff1948c88108bf0" sha1="2eb4ea168e900fd0105aa29ef89e7af3185f1fa4" />
+		<rom name="BrowserHack (v)[var][src]\src\dungeon.c" size="47549" crc="1ff31bf1" md5="7b79816c9b8433c1db6d074a882fbbc8" sha1="527104dcb8308329c78cf8a5aa55360f6b580eed" />
+		<rom name="BrowserHack (v)[var][src]\src\eat.c" size="71475" crc="d518b11a" md5="b241137a1f19dd937591fe9be5493c3c" sha1="de81eb1346853de71a6c72b3e930ad4897f0959b" />
+		<rom name="BrowserHack (v)[var][src]\src\end.c" size="30427" crc="26fe2e4f" md5="d410191de3009c649abe33450b3b9f1b" sha1="60fe34dbcd63c90306c1e196b55e5505b85ca454" />
+		<rom name="BrowserHack (v)[var][src]\src\engrave.c" size="32664" crc="21a781e5" md5="85bc083eddcb7e01bae02bac1878aa7f" sha1="9e4ffd063dffa6c087962132213663ef4b916ddf" />
+		<rom name="BrowserHack (v)[var][src]\src\exper.c" size="6738" crc="27ed85eb" md5="bd95233c3764dd01828cc15b38386100" sha1="20eb164ffbd7a33264604ec6e2fcf3e07a360712" />
+		<rom name="BrowserHack (v)[var][src]\src\explode.c" size="16442" crc="618229b9" md5="893ebc6e5fabc8cab2b99a7bb4e92e9e" sha1="aaa61c02ab96b927ada17931dc7b2a01f6618577" />
+		<rom name="BrowserHack (v)[var][src]\src\extralev.c" size="8842" crc="7d2bb65a" md5="cc7ba35e1d1faba38a7c7ebe8101c18c" sha1="f120141e3a710236cd285014637753a43d6808a9" />
+		<rom name="BrowserHack (v)[var][src]\src\files.c" size="59274" crc="09fbd0f5" md5="f5c9d6b7e5718bed60b2171bfa68b37e" sha1="a91eec278e46365ce88073670adb31f3c3622ecb" />
+		<rom name="BrowserHack (v)[var][src]\src\fountain.c" size="15359" crc="48b5eb89" md5="0f06c5c4525b857ae416165b90e64a71" sha1="19d6058e70038faf3991325cbc624af5fa36f148" />
+		<rom name="BrowserHack (v)[var][src]\src\hack.c" size="60767" crc="91bec6d6" md5="6c471a279a86a9a7427dda9014f343e4" sha1="ac4f1cf388499eebe866c88d3d4844d75b0181bb" />
+		<rom name="BrowserHack (v)[var][src]\src\hacklib.c" size="14329" crc="5dd1a2ea" md5="75c541fabc8864ece92b139fd2651de4" sha1="4f11cae7c94cf526bb140c04a4477a743ac8ae0e" />
+		<rom name="BrowserHack (v)[var][src]\src\invent.c" size="78801" crc="8ef9b9e9" md5="0b4eb836d2e876ef1f34d4c4c6002f0c" sha1="b19bcfbea11fbe60b7453604428f74684c47c54d" />
+		<rom name="BrowserHack (v)[var][src]\src\light.c" size="17235" crc="01b9bf0e" md5="28851a79dc74277f2e86ab1978c13436" sha1="00c13966dc493a51129a61a090edd25f264d07d4" />
+		<rom name="BrowserHack (v)[var][src]\src\lock.c" size="23422" crc="7ed530b1" md5="e3fd67ae0e8e22179424ec49ed314ea8" sha1="8e8afdad62ef8d33049257b24c930fc741e73e22" />
+		<rom name="BrowserHack (v)[var][src]\src\mail.c" size="16281" crc="9eaf6665" md5="df041d6fb9b328c8aadc63677e9a167e" sha1="0e500c72fd6c3a0469e5ece68e85f9977dc34bcf" />
+		<rom name="BrowserHack (v)[var][src]\src\makemon.c" size="52624" crc="d58c86df" md5="9380636535cb0cbc4f224a6f89d4fd86" sha1="20ddfbf3d1a284e7f3ec71d54b3602f54b79fe19" />
+		<rom name="BrowserHack (v)[var][src]\src\mapglyph.c" size="7162" crc="e7a09f29" md5="13290f2d8cebbc665df99ed052d998ca" sha1="7c857d4c1b0fccee17463e2ff2a9481573475d40" />
+		<rom name="BrowserHack (v)[var][src]\src\mcastu.c" size="21674" crc="ad239ced" md5="671ce3ebe87c71aa4496fccd8464838c" sha1="0b6963156cf187105a72550cc50f82fd5d56994e" />
+		<rom name="BrowserHack (v)[var][src]\src\mhitm.c" size="40372" crc="98dee275" md5="fd33ff530a33e5565392a7a132d11856" sha1="7cd61b3a40ec9f0442892ee5edb6f42e4cc87275" />
+		<rom name="BrowserHack (v)[var][src]\src\mhitu.c" size="72652" crc="4407dc28" md5="d9c8088456b078f9dbaaecaf68b7e55b" sha1="b2e9fdbff6e0525ad9f8781efa06451e24a1a36f" />
+		<rom name="BrowserHack (v)[var][src]\src\minion.c" size="7828" crc="d5f62232" md5="5238ae378f031be008ee8aa15ba30d9f" sha1="2077e4aac970d3bc73bc95a0f7e1cc56e350c594" />
+		<rom name="BrowserHack (v)[var][src]\src\mklev.c" size="40415" crc="207831dd" md5="66d8f6bf38cd41f8b347458306632dec" sha1="49a1bba5242413bc36fb8a296374d06495ad1e63" />
+		<rom name="BrowserHack (v)[var][src]\src\mkmap.c" size="12564" crc="df79ff90" md5="233226ed47f54cda56d02a39401bca04" sha1="1be5567e88267589e97ba4fb6c54e13d5e747c13" />
+		<rom name="BrowserHack (v)[var][src]\src\mkmaze.c" size="36508" crc="292439a1" md5="c827ac9683f5b465909c3692767a74ff" sha1="20ed8fe6dd74efa7e74705347d5a0404a77f1555" />
+		<rom name="BrowserHack (v)[var][src]\src\mkobj.c" size="42474" crc="42326bf9" md5="b8ed0c10341b9b363120b7b842a457a7" sha1="3910580cb555d206ccb8893ef126ea88fe3b1fc5" />
+		<rom name="BrowserHack (v)[var][src]\src\mkroom.c" size="18253" crc="fff8a21f" md5="7d17d8672c430f7c0c136e8259649ecb" sha1="76f1614302c71ba4e3b8e369a40fc077f4d9d81e" />
+		<rom name="BrowserHack (v)[var][src]\src\mon.c" size="80246" crc="a97b0756" md5="14a83cc14317d280bb8d6e0891b50239" sha1="d64f9644cdeaa5549b8484527902390f7fa49f9c" />
+		<rom name="BrowserHack (v)[var][src]\src\mondata.c" size="20469" crc="845698b2" md5="ce9f647c98f772223bca657c4671e701" sha1="c14a9c50a7a028cc20b50ef1a81920f5809bb0d8" />
+		<rom name="BrowserHack (v)[var][src]\src\monmove.c" size="41261" crc="8c8717cb" md5="596974abacce1332db67d5c10f42b90b" sha1="2f355b4cb35b59d7cf6c545bde423dbdabaf434a" />
+		<rom name="BrowserHack (v)[var][src]\src\monst.c" size="144422" crc="7f11dd00" md5="ae35137a59376be8fcc1062c949d0a04" sha1="c5b0fe04792bc2476e2557124ad913963d360db7" />
+		<rom name="BrowserHack (v)[var][src]\src\mplayer.c" size="9472" crc="bc6c4e9a" md5="0d16424a6dd4cbada7485135f47ac425" sha1="ad9ba20443cbaafa2c2ea8518916db7f486789f1" />
+		<rom name="BrowserHack (v)[var][src]\src\mthrowu.c" size="22863" crc="a14e3ca1" md5="65b86a0c2f827cee28d4adea19545cb1" sha1="b01b3eddb78c67168b995894dcd25816b6405808" />
+		<rom name="BrowserHack (v)[var][src]\src\muse.c" size="64338" crc="6a871f55" md5="43d2a36f05c8e03b4f0fe67fa77d77c5" sha1="4d51383500d2776d05bf3e60dbab4fda7dfd0bee" />
+		<rom name="BrowserHack (v)[var][src]\src\music.c" size="19460" crc="3260631a" md5="4f6c9a94ae4c41988b43b408e8b21161" sha1="4b2d5fafd400886ecf8debc613f3dfaad56c00c7" />
+		<rom name="BrowserHack (v)[var][src]\src\o_init.c" size="11455" crc="1060f8b8" md5="c4b7fba40bb968a302bc090e3f0c9401" sha1="ec251f7730df1939dc4cb38317cbdef05f3b0650" />
+		<rom name="BrowserHack (v)[var][src]\src\objects.c" size="49920" crc="f22b1340" md5="31bcddfea1631ba84ba1b072f3201d41" sha1="5bb2ec53eb092400259ca5396218f45aef40ff1c" />
+		<rom name="BrowserHack (v)[var][src]\src\objnam.c" size="74257" crc="0386fba1" md5="d6233db129d7d23f0ab41d3af1b26e55" sha1="90516ce5a4f5b7cdfa64b392d388134c3dd2e12f" />
+		<rom name="BrowserHack (v)[var][src]\src\options.c" size="113162" crc="8b4f6cea" md5="a0197c347862855a8a9a2a83e0207365" sha1="9113c4770183c7468fd409de897ef753338b5356" />
+		<rom name="BrowserHack (v)[var][src]\src\pager.c" size="27477" crc="934c05e2" md5="32072b9ed9d4ca9677a18c8eb561e758" sha1="d7401394f210d70b72d6632c41cea6d785031460" />
+		<rom name="BrowserHack (v)[var][src]\src\pickup.c" size="69348" crc="8c575f0b" md5="44e026a4f07b6bdba97c0ffa0016987d" sha1="fb62baa6db8900321755b8dbae56af5cdd2966a9" />
+		<rom name="BrowserHack (v)[var][src]\src\pline.c" size="10478" crc="dcf3e556" md5="de764de51071763bfab665cb8e6afe15" sha1="8e968a10c96113d603096c630d6998ce0b0d1928" />
+		<rom name="BrowserHack (v)[var][src]\src\polyself.c" size="37926" crc="8e579dfd" md5="5e1fc6d789cdd99627ea9f748236a20a" sha1="adf492b42f2f533b742beb5097e905ebe30f2c21" />
+		<rom name="BrowserHack (v)[var][src]\src\potion.c" size="52541" crc="6fb73598" md5="ccbd81fb6d4a09f652f6a8835e068a51" sha1="3aa83598d3bfc46a2e310bc92ddccfecba207e23" />
+		<rom name="BrowserHack (v)[var][src]\src\pray.c" size="55699" crc="7cc173dc" md5="1c1b26bdd75993a3e32eb319c761ae17" sha1="4ec1a86fae0b210f16eff04636ed2a44e5c55dd3" />
+		<rom name="BrowserHack (v)[var][src]\src\priest.c" size="19286" crc="7954229c" md5="ec0cacf335941129150b4359eb4f4f03" sha1="8e3ff3e99bb549e4e4dc74c24ea0cc6558f7f375" />
+		<rom name="BrowserHack (v)[var][src]\src\quest.c" size="10121" crc="7b061bb8" md5="8da9f5b2ef8c7d4d3475ddddf3e59f95" sha1="a969e3f09513422886438182c62e1fb5f01a7b93" />
+		<rom name="BrowserHack (v)[var][src]\src\questpgr.c" size="9887" crc="1701f44c" md5="2d6f860761e2576485757429a1b8cc3b" sha1="babc3ddba92997173135134157af6a3bfb51e518" />
+		<rom name="BrowserHack (v)[var][src]\src\read.c" size="52689" crc="68f7563f" md5="7d146da749a4e209b61c4065017ae655" sha1="1b8974b3719f0bb0e9f4b78140014cad57758432" />
+		<rom name="BrowserHack (v)[var][src]\src\rect.c" size="3659" crc="fdd975c3" md5="15337709455ffee5fb1ef67f25be0222" sha1="c6125b01ec92f9869b9eca53d4088d12afe37b0d" />
+		<rom name="BrowserHack (v)[var][src]\src\region.c" size="26038" crc="e8f5a4b4" md5="68fadff4bc56516112301df861c7817c" sha1="406c0e6be05cc0ea80b3d6e4ba7aef34dfe30563" />
+		<rom name="BrowserHack (v)[var][src]\src\restore.c" size="27737" crc="8b5981d3" md5="522fede6ba66790c0878adec991e14e2" sha1="7733bb75376fd64ccb70d7d7bdd199c88b531d86" />
+		<rom name="BrowserHack (v)[var][src]\src\rip.c" size="5122" crc="ac69118d" md5="d9bc23518fc08b74da90fcf5cbbbae6a" sha1="a070cec61c119796fbf4ef064b213af43abe10f3" />
+		<rom name="BrowserHack (v)[var][src]\src\rnd.c" size="2383" crc="f51bf255" md5="db012152f035f40cd32fc07553cd1b67" sha1="51c460dd7685a6c1e37ad282de38ad2244924f1c" />
+		<rom name="BrowserHack (v)[var][src]\src\role.c" size="42520" crc="06b9ec9a" md5="4d425a8b29ed945f7d4e1dddd67fe00e" sha1="83a55aa0876158699beb2717713644541b83efeb" />
+		<rom name="BrowserHack (v)[var][src]\src\rumors.c" size="10957" crc="eea7362f" md5="665446dec56751539a200536875fa9c6" sha1="1e41048a61b132141a6b48ef016a2fc30aa5e126" />
+		<rom name="BrowserHack (v)[var][src]\src\save.c" size="27673" crc="6feaa542" md5="c96400ceee90ceea0aaebd44c106ae4e" sha1="f70d8b0f9bd7afddf6a60f3c6d92a22b6986249f" />
+		<rom name="BrowserHack (v)[var][src]\src\shk.c" size="109570" crc="833070d8" md5="c3f3987c0c4cac909138db6d2f2ebf32" sha1="5b0512071ad624f8349b20e741a14f72ac2abfe7" />
+		<rom name="BrowserHack (v)[var][src]\src\shknam.c" size="17239" crc="2edbf899" md5="bd978c54e728d805a4cb5908740b59ab" sha1="5b3044b86e9e2762ca87d44397ed6cacc6b450f2" />
+		<rom name="BrowserHack (v)[var][src]\src\sit.c" size="11155" crc="824e73b0" md5="0433ca72f0d408b07b9dc4983daaa4df" sha1="ffed6372b947468da69343159b5c8d2963034e02" />
+		<rom name="BrowserHack (v)[var][src]\src\sounds.c" size="26839" crc="6c0da662" md5="2bff86df4a5ac748bcbc3b7d2c261324" sha1="bf08bb25962ea6f6dbb7ef39fde50a6143bd251d" />
+		<rom name="BrowserHack (v)[var][src]\src\sp_lev.c" size="65086" crc="05fbe1c7" md5="f95ea06d36a8a82663c012bc79baad35" sha1="98e1c7cb171ff38df14851799114e85707904310" />
+		<rom name="BrowserHack (v)[var][src]\src\spell.c" size="35410" crc="7fb1bde6" md5="e37c50b3fe72931a59a91a329adfcecd" sha1="d5cd7892c71bcb41ad28b18258ef3910ec1afae2" />
+		<rom name="BrowserHack (v)[var][src]\src\steal.c" size="18350" crc="8399b28d" md5="e47da6936f3b839cf34de4d3cbc25d98" sha1="933469e498a003c22ff3db1f628e90e132171ea9" />
+		<rom name="BrowserHack (v)[var][src]\src\steed.c" size="17910" crc="69c3c17a" md5="8c682e505a63ded3b3ea37b9efe20b72" sha1="b8c6318afb36d333f176bba933c2c18b937b54e8" />
+		<rom name="BrowserHack (v)[var][src]\src\teleport.c" size="34899" crc="fbdc68ee" md5="d2bcfa65a8873d48a0b058168658baab" sha1="655cf882cac8e1d65db716531b60d6b771ec3608" />
+		<rom name="BrowserHack (v)[var][src]\src\timeout.c" size="45702" crc="65d852a5" md5="8066525d8b277f160b9b3d4fc34e596a" sha1="6a04defeb831f11ae8c7c36e0af400bc323f3a7d" />
+		<rom name="BrowserHack (v)[var][src]\src\topten.c" size="25770" crc="c00387c4" md5="6f792662695a86c1ac613677f9c99cc6" sha1="98454e5f4547e35b25296ecb01b926ae14a37908" />
+		<rom name="BrowserHack (v)[var][src]\src\track.c" size="1273" crc="b120abfe" md5="3a909c1175255d3003a59c9bccbb603d" sha1="a8fcd5a1f7cadd32c96c52dabec0fb16c3c07cc7" />
+		<rom name="BrowserHack (v)[var][src]\src\trap.c" size="109865" crc="75e3ffc5" md5="fd4dc059aaedbb6977e3aa98a0a0a2b1" sha1="cfffeb1716712885a6337697f378e4399cee6a19" />
+		<rom name="BrowserHack (v)[var][src]\src\u_init.c" size="33773" crc="ff690aad" md5="605f90b419bd641b3dc238a6f2a0d9ff" sha1="4d4281edb38977b2720a449a09225cc512d62423" />
+		<rom name="BrowserHack (v)[var][src]\src\uhitm.c" size="72469" crc="e278d0d3" md5="a0770e492d09c9c3fb015f1244c072a3" sha1="83a15baf98192b340ad7ec9c636da6bd7465662d" />
+		<rom name="BrowserHack (v)[var][src]\src\vault.c" size="21673" crc="89112fb3" md5="8ba8dfa29e2c1c9a5f8f0b9f6a890b8b" sha1="2cc05c5ac7203337b7b72e4c8d70e736a1c30996" />
+		<rom name="BrowserHack (v)[var][src]\src\version.c" size="3768" crc="3939c976" md5="5151940adcb98108251a00196bec6ffe" sha1="82b5061a4a78a2821d06e9ba92c53855af3fbe16" />
+		<rom name="BrowserHack (v)[var][src]\src\vision.c" size="75155" crc="d4a4d2dd" md5="12ca3b6f187ebe681467b0e663bdd001" sha1="6b75246229cfde3f40b9406b165afb2c025be19f" />
+		<rom name="BrowserHack (v)[var][src]\src\weapon.c" size="38031" crc="1b8321ad" md5="1fc564d2b03580f312b00936f5ab4fb2" sha1="d1c9ccdff5e024397a88b9ddebda75b8433445de" />
+		<rom name="BrowserHack (v)[var][src]\src\were.c" size="3968" crc="e5f6cbfb" md5="b551766e5b05fb8f2b65fc96d8ae2885" sha1="43dec5833072a376d7cb40b5575932d049728a72" />
+		<rom name="BrowserHack (v)[var][src]\src\wield.c" size="21948" crc="e2d86c16" md5="64bb634ff58df44b492320cd1518a2ac" sha1="429f333bf262e7987685c644b7abd5ea6ab70f10" />
+		<rom name="BrowserHack (v)[var][src]\src\windows.c" size="3363" crc="9a59bac2" md5="8636acc711f99e2c6df633ee16f5b1f7" sha1="cdd72d56782e608512d0afa98bb4628eba747ed5" />
+		<rom name="BrowserHack (v)[var][src]\src\wizard.c" size="16748" crc="f71639d7" md5="7da6ec24919265312b6fcab7c0ed4cd5" sha1="48685fc4b1bdfa2fa56c4508f436a00d104b1ad0" />
+		<rom name="BrowserHack (v)[var][src]\src\worm.c" size="19262" crc="d201a1ea" md5="b62c6a271abe7f22028e1f57ab78b3fd" sha1="1bf5c733a511b5c2d07542e374034285086ac32f" />
+		<rom name="BrowserHack (v)[var][src]\src\worn.c" size="22543" crc="d9ce7752" md5="846c860a62367303d115ca0ed67af082" sha1="cfe2b7c83245f923b193ba5bcad3201e4b9faf65" />
+		<rom name="BrowserHack (v)[var][src]\src\write.c" size="6127" crc="cb998530" md5="bc9422c6bb030789bd6690d907352be5" sha1="51afba76b2b6e4ff92e0aed8497f280e204ce968" />
+		<rom name="BrowserHack (v)[var][src]\src\zap.c" size="111294" crc="5cb60ef1" md5="a7b01fa0bb05f5da3ec88791243a388c" sha1="2f3cec154f3d1b1a0f2df4d2ad5ca15509f02db0" />
+		<rom name="BrowserHack (v)[var][src]\sys\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amidos.c" size="10738" crc="0cf423c7" md5="35e878bc8c702b3a5a025bb242e08fdf" sha1="24e854b412b4e72f3e005789e355c91e307fe32b" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amidos.p" size="1162" crc="c37e03fc" md5="5198fe954b4bc860ca0ff94f4bbe231c" sha1="aaaa73cfbf94d7f77e7aece10cfa61aebe12731d" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amifont.uu" size="390" crc="14e55a73" md5="e437eb5aacb1ca3d0464f583ddec07f8" sha1="747352671ba576a9c34c0102da8e26d41be8372d" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amifont8.uu" size="3490" crc="b5ecf697" md5="c0db9e68c15239007a756631bd5cfeab" sha1="ceb9a6ba3f49182da5a3d09e7448a7b66073094b" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amigst.c" size="997" crc="af12ff93" md5="0b93a168f5b82e8a24f7d04bcc342f18" sha1="cc283d162ed249ea3c94d0f336a80a727cb0723e" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amii.hlp" size="1312" crc="4b00aec4" md5="1927c3478c57c84fbe7cf8db142a3cd5" sha1="ae2bf75b287291f534e0d53918f4b6871c734b6a" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amimenu.c" size="7160" crc="5b96d8ca" md5="d6aa98b56cf2cc370a1b4a361a3f0f24" sha1="d3a2027a55138de6888062e40b13ed6d148393bd" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amirip.c" size="9111" crc="d9b9e053" md5="767995be68e34cd234fda4edc5b41c5a" sha1="6e54b5fa05114f2c8d76fc71d22fa79b112e46e4" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amisnd.c" size="7476" crc="2eed1e4f" md5="7f97be8a6f439f8f249daffb9cf9a308" sha1="90bb1f8cafddf4f3de267789a95ab14cc5f29a81" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amistack.c" size="507" crc="af69b967" md5="da39456d4502790a77e722c12578c94a" sha1="374c68f6ccd8b4b4b4ff29d71b0639c55a68594d" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amitty.c" size="1405" crc="6e64c700" md5="642003b4886a0601a17d9660add14d1e" sha1="e2e80df9d689a1bfab51935c59cf02bfe0a6d847" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amiwind.c" size="21424" crc="13fd076a" md5="d90095e501380e754f2abc2e644c3452" sha1="3cf5bc019dfa71f219874c9d0e64b4a16ff4928e" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\amiwind.p" size="1399" crc="78b342b3" md5="447e1fb4ab39f86f3ba254730afd973f" sha1="73cedc104fb40d68a09b014f36c3a4435129c2ff" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\Build.ami" size="7212" crc="7811e54d" md5="6436e8a9cbf5423dba8739b4e1efd698" sha1="d61061b9e3b3b20fa42dc4d131c4c2dd892e7be1" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\clipwin.c" size="9052" crc="58894432" md5="26fcda70fc4161f52aa5c0e80036eab9" sha1="2fa602c9c86e0da98daa15746d6c37e34d319c33" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\colorwin.c" size="8386" crc="a2887c69" md5="34e8801a3bf7a05f167716d625f9ac2e" sha1="f9e1e8eb77fc03864227810e229919db298d135d" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\cvtsnd.c" size="2268" crc="53140174" md5="64b31d87207d82473cccbbf603b83b1a" sha1="6f510012a154d06da97b3f6b73eb2f64447644b6" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\grave16.xpm" size="81163" crc="ec64bfd7" md5="1382247ea6b5d1b405337f1d2ed2c0bc" sha1="f9837c06ea925a0e89a9f552a5a71fd5e130a3ac" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\ifchange" size="1167" crc="700e93a8" md5="5f7e9ff4b0bf7b01d52e9b038ae214d7" sha1="349658b3dc194b7661c9618febad4f5a9536c226" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\Install.ami" size="9368" crc="e0acfa23" md5="9fee3a5642d19b51b3f2475fd1a722ae" sha1="ba1d465839e5386bd4e6a2936db0c3fdb29d10a1" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\Makefile.agc" size="38280" crc="6ad22693" md5="cb15bfaafd91d016155b0bcf8995b388" sha1="f4018e7dc708c17ac8c933479d50a58e35e7a198" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\Makefile.ami" size="48314" crc="da4addf1" md5="eb18e53008a6bd12d868fadaab78df79" sha1="2bb59ab8274ac19a889f2adaa79bb3b934e4da18" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\mkdmake" size="401" crc="ca2aca50" md5="eb521a74fcea7c45b87a7eec545bd53c" sha1="cfe3c72be91260dfaafb6836deba4cf6aa105ee2" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\NetHack.cnf" size="6586" crc="aa6a9af9" md5="35cc5fd92e2106d5d868afd18ce17a3f" sha1="08e44e6f26e0570f54b4710d34c5dfd5f292cc4c" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\txt2iff.c" size="10346" crc="652d0df5" md5="d7f22371acf09555cefa21b2721c2834" sha1="3a0dd91a22b3dbbbedc00489d3a6233100933b35" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winami.c" size="44335" crc="b8e37993" md5="07d47ea4c6def3926ad4295ef8dd333c" sha1="ea971b0c625a48f769daf3741249536b03e4dfe7" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winami.p" size="2522" crc="27ef0f0c" md5="0a8a057b517146002b699985ce3b5f7a" sha1="bbbf7d465671a5fb33462a048d3d505be86ce11d" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winchar.c" size="31128" crc="cc116f07" md5="4d89d8ed8c8d31a22860a5e273b81a0a" sha1="0650c63b30b3db38e69e5110a96480a2af07a0c2" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\windefs.h" size="4901" crc="8f34b2f8" md5="67e46da5886e9d1859bf5e7eb8ada590" sha1="f770b4079c7fb39696d203db9f0b7e0b56d03ffb" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winext.h" size="3993" crc="a36dd41e" md5="b67b5cc7539a8d0d12fb3922aa97e7b8" sha1="0696164c7cceecadbb59fc1c50106692f31df3c6" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winfuncs.c" size="60111" crc="9f1d7e7b" md5="020a8c4a9f3473ba1ab757708602a614" sha1="fd8d96929b4da8ad71dd52922e3b8f2b6c42c8ef" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winkey.c" size="1947" crc="77fedf2c" md5="ceec6dfc1aaeb81ecea5623a89cd0f2f" sha1="7374e813f1ae6021e22f387ef716da2f628a13e6" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winmenu.c" size="37523" crc="b25734a1" md5="e4505ca8e1fec8489367413d4500932f" sha1="d8b22b0f0157350a7018de814da1d59f82243bdc" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winproto.h" size="5300" crc="9e4d2eed" md5="b01f848c8c82fd7aa68a90b157a582d6" sha1="db666ecd7b223a7dc671a7ca1ae8788b9b879ce1" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winreq.c" size="27014" crc="1d8c96c9" md5="42700b3f9fb10a5e754797692f21b85f" sha1="300fe44c0a8ae9ae6614ccfc749f6aa87da48b93" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\winstr.c" size="11676" crc="d024f6be" md5="156b1e535f9efa1e62dcd3e59db225b3" sha1="46068f7204d96509371b783a17ce976a83718364" />
+		<rom name="BrowserHack (v)[var][src]\sys\amiga\xpm2iff.c" size="8348" crc="9e359a76" md5="2f2ea28760f4408c90e022335f8c1af8" sha1="34b17d56c1bd678b1dcee2d3440b41db6fee624e" />
+		<rom name="BrowserHack (v)[var][src]\sys\atari\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\atari\atarifnt.uue" size="7164" crc="c2315a86" md5="dc0977f58b09b83d7943ba7fe04ba5a8" sha1="fc543e1c6286ed385e838bf74ead4e90180ea2ee" />
+		<rom name="BrowserHack (v)[var][src]\sys\atari\Install.tos" size="6458" crc="711f9bc8" md5="e036ac1e126bc63e5e2e37f0428a78e7" sha1="04cf95b61cbf816f027b07727194e24c77226829" />
+		<rom name="BrowserHack (v)[var][src]\sys\atari\nethack.mnu" size="836" crc="0c5a74f7" md5="f568901e41aa52b0ba37c3889471c624" sha1="670c5053e86cb02486d228c76eb72f51cdf6fa06" />
+		<rom name="BrowserHack (v)[var][src]\sys\atari\setup.g" size="712" crc="83a20213" md5="de581fb411b2e6a7d667b84f7bc9944b" sha1="b53ef6a7085f9f2b2e4551043063b5c8ffde41ca" />
+		<rom name="BrowserHack (v)[var][src]\sys\atari\tos.c" size="7464" crc="3c0c68e3" md5="0cf618852d844a61b6d55e2bdde85722" sha1="6272094a4660b54e02dab284045b13f774ecb25b" />
+		<rom name="BrowserHack (v)[var][src]\sys\atari\unx2atar.sed" size="799" crc="a6805dd4" md5="6960ca539a6751ff3540a7091649262b" sha1="47be247fddfbcc9af2d3203dfe21f01088f2c05e" />
+		<rom name="BrowserHack (v)[var][src]\sys\be\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\be\bemain.c" size="5536" crc="e6b1e732" md5="42a1d1fa78cc167e6ba35195ceedfe92" sha1="091ac389898ed36c02750d7dfbf24741e57b7f90" />
+		<rom name="BrowserHack (v)[var][src]\sys\be\README" size="2524" crc="3216f894" md5="30733cf5441e5fdfc3fb6e875b2501e6" sha1="a7f0be71f1468d4ce833215e1155de89c1977bf2" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\dprintf.c" size="1037" crc="2d5f426e" md5="33df9e3ad097800417bb362212d32833" sha1="d8d3fe70e5c9003c00ffeefbd812e0d776f26e49" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\Files.r" size="7210" crc="119175ed" md5="b2db6875dd4ab6e98677cb51d83eb76f" sha1="dc39c84fcd33ce7846b0df93cbd6fe2581a66bc3" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\Install.mw" size="9364" crc="a11acdca" md5="1b59d922ff767c2e9216694d05502a58" sha1="da6c1fc31742510e1c01b2d9c1e8270a47d2ae94" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\maccurs.c" size="4223" crc="ad169de1" md5="7f87a4d6b0c8f4c88efac978661193f9" sha1="50bbfe9719a3604545630a9e240ebe998a01ba01" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\macerrs.c" size="4037" crc="9a6fb5ea" md5="024334dbf3dd3c2f9e0215e13ef69297" sha1="9ed6b6625515946314cc9dfe10b313b96a5e5cae" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\macfile.c" size="9098" crc="5cfe8035" md5="290224f9aee0be01c692195de57f74ff" sha1="81e3e1da5b0a44810c003032dd69763a63566a47" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\MacHelp" size="7207" crc="5cfc1ed0" md5="813742a80e8312db0a09f7ca6a9fae9f" sha1="05d4b617a4007b2dc56509f3258d1a7e53722038" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\machelp.hqx" size="4268" crc="36eebe9c" md5="cc8a2685795dfd12a42a60e93b64bb5e" sha1="c5a7e1f55096a6cae416f6bdc43cfc30082f667c" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\macmain.c" size="6337" crc="79ba8413" md5="6161335b87ddbb194531e08617477691" sha1="2c26232b376436887d0aa5ac8b6960028a62f021" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\macmenu.c" size="29384" crc="5a5bf6dd" md5="1b3904a966d1ab94561038a88ac45114" sha1="86562c60a8c5b6ef3becbed3c79cda114cb564c2" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\macsnd.c" size="2401" crc="bacaf2eb" md5="73ddbeff6f15eb334fa9f940ce111ecf" sha1="832fd7ac7f395ee541ce9c2dee95b77a00854e95" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\mactopl.c" size="1398" crc="487fd3b6" md5="3229ae5270179360fdce7fecaee2e572" sha1="d03a2293af2300c51b4d1e7466fc01b29b37817e" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\mactty.c" size="27280" crc="c8d009ee" md5="0001f78acfe74a229f796b42fe6cae92" sha1="1aa03ac4cd55723e441abc9b4cbfc15c67b979b0" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\macunix.c" size="803" crc="3347e118" md5="6efffa3c2f194346ba3d5f39b1f68501" sha1="00726ef4a930aea7607fe4872c3625a80b794406" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\macwin.c" size="63995" crc="4382cccc" md5="bbde95615f0385b8ff89305649328c33" sha1="23b11d49dd4334d7c967ce67c0e46b977d973dc1" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\mgetline.c" size="1682" crc="9fc95231" md5="c714b930e4411d52e6446054db205f5f" sha1="1f63537c314313e75268d15b851d0182d896ffd3" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\mmodal.c" size="721" crc="6fe633c0" md5="9a8b633bf848d4deb7412d572be236fa" sha1="a181316489362224b2be84674f8f75e070683044" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\mrecover.c" size="30585" crc="023e1574" md5="b0b76c832942e2ae4679b2e314c9d8e5" sha1="7071f6871737098e3f6be4319678c7309cb57aa9" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\mrecover.hqx" size="4395" crc="55929f44" md5="7f4fa4ec6f94c5e64d0a354f0f889554" sha1="9cae4f992698dac8467a11bc3ce8f9c2dcf68a9f" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\mttymain.c" size="11905" crc="27964a6d" md5="ec716ae4a7d307f25b0b1ee6457805a2" sha1="8711a4192f07d177965ac7261df037042fc15261" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\News" size="352" crc="4c7c252e" md5="480511f843442006b3d8d3dbe00c5dcf" sha1="997ac4f5be0d9c785fa9115fb928d6606c9c97fe" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\NHDeflts" size="4037" crc="e4d81617" md5="fb56119a122d155313ff57f4c092f49f" sha1="5fc8a0cb4e85187ec6f9ffe1cb6ee806ec2d0245" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\NHrsrc.hqx" size="64392" crc="42f02946" md5="79cdf69ef2d909dcba2f16ede6e2afff" sha1="cb92e6c52c229b83170973443372237a4bdb773e" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\NHsound.hqx" size="272664" crc="460ff9d6" md5="8d1b1f836ae315c071b12b341f731150" sha1="422a545bbe9543dfbd0e4ca2e10696d7851e5369" />
+		<rom name="BrowserHack (v)[var][src]\sys\mac\README" size="1420" crc="16188a7c" md5="88ec58baeb9780e842cf94d75227b228" sha1="f4bdee7c090aae661e3694f923da617af31c3751" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\Install.dos" size="11725" crc="8ca2226b" md5="0770486b45236803dee5d9c89b996b53" sha1="b60f80ed2e3fd9027c9abe423ccf35c861835968" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\Makefile.BC" size="65224" crc="16b1a68d" md5="19a627530f2225c299e6728ac92b6962" sha1="c7fa4b76d4b9ad63b01525f3f0d220ae14ac0f79" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\Makefile.GCC" size="43336" crc="5f3e2f0a" md5="7ec36512d453eedf67adb08c2c2e6741" sha1="296c48c747778c1c3e958e373eeffe317629a47b" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\Makefile.MSC" size="31658" crc="3ceaefd1" md5="4123c078ef53da96bf72da50fce03e60" sha1="e5c796163e99512b3960dbd397209d7362c19bc0" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\moveinit.pat" size="1167" crc="93285219" md5="696b1eda3ee129199d1092e136453d8b" sha1="3f2360866127a81e520dac21ce7431ce55ba44af" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\msdos.c" size="11709" crc="e904b76c" md5="bf015d7487e28a6374287139438d403b" sha1="13fbc9d40d2cda4b275e4dccc04d3b94e1876a40" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\msdoshlp.txt" size="7379" crc="a685a386" md5="37522fe70f12ec7052b7dc45e6a142d9" sha1="d275c536bc9a0f2850c1cc11bc92c5989a805b13" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\NHAccess.nh" size="4377" crc="39fdbc61" md5="83e73071052cb0c165e4ddc9974fca9b" sha1="839e81d7c5856ee252797069ee3ed709d0f2b55c" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\nhico.uu" size="1263" crc="e54118c4" md5="66383daf3f2a844462e77fdbdc3dfbfb" sha1="a38bd9c6a6ed9908719de5cb6505298b4e7d71be" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\nhpif.uu" size="782" crc="f5e0dbf8" md5="76f99b4cf245e1d5c33c0d3e172997cf" sha1="23e4f075a60e255a657c781f9ea1fb370abbe6a2" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\ovlinit.c" size="4230" crc="825bf5d4" md5="a0d28fb0f0e6ed9488cfd49a4cdc5e3d" sha1="d2324a41c27b69223050b5a89ebbed42c99e592c" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\pckeys.c" size="2017" crc="6b799c63" md5="ebcf8b905690e6eac7e9380a76e22a60" sha1="c370c6200ed0ff42ed28c8b9f45cbec282811a8c" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\pctiles.c" size="6549" crc="fe333461" md5="d2a64157be939598fcb8be8d3b8e6011" sha1="603d8cf628585ff93dfa85649aa6e38dcef2f324" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\pctiles.h" size="2177" crc="bf6d6b5f" md5="2d72c3d5977961c2d340d80c8809c14a" sha1="a002f63eb3d66c87a42cacd5737321ca1cf13a39" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\pcvideo.h" size="8377" crc="cc3f1553" md5="c572f1e264dabb449b9fc29a28531ea9" sha1="da3fa9f3c2f2af8b97f82e68e9bd1ec94689a979" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\portio.h" size="2224" crc="1e5acb6c" md5="7b847328469d64c4fcb91cdf22282d2e" sha1="8e4de814e349ee7d28c871d20fba9c462291c30a" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\schema1.BC" size="6686" crc="c0913d9b" md5="c3ac8bc5ab016cc91be1a999c68d6184" sha1="90b1ea5a78072d198cca7b4e30a66fbd2b063307" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\schema2.BC" size="6874" crc="595e6768" md5="7a8f7bf8ec89f4ab1b1980cdd8ad4f3a" sha1="c1898a30906d7e5ba72087465c8783e84f924806" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\schema3.MSC" size="34657" crc="2db39407" md5="9872c7178e2dfba20be8aa4f7b4c8500" sha1="9243883d27ad80ea453e92e9b1117fd30b74350e" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\setup.bat" size="5702" crc="a99f9b92" md5="19cfad4e19f63bb78a9f437395593088" sha1="f53e9996d3298715c1bade1139a303e0b6aa3b25" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\sound.c" size="6837" crc="b167ba6f" md5="46a1dd93dd650bbfeef2178fcbae68dd" sha1="bcf56d80f7454ea912bf2393c0f1cd96a742da42" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\tile2bin.c" size="7328" crc="fbc964a0" md5="29764cc369e1a7bf9fb848cb8d31b2c3" sha1="c55e8a5469b3323ea0bad20c1b6e8f97448cffe6" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\video.c" size="20383" crc="0df8c6bd" md5="472168e04ce30af4e0d97945889800a1" sha1="55d9c69cfe144e7a2c8a1a0a2596cbeebdf8dc34" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\vidtxt.c" size="12001" crc="1d40923b" md5="e174e77d2d5a97766b9fbe1e8dc7a3d8" sha1="ef4692af127a280d4c1c00e797a421708be5cf60" />
+		<rom name="BrowserHack (v)[var][src]\sys\msdos\vidvga.c" size="37418" crc="e1a53fe5" md5="d14e8b7001e1b3f3266ca750883df962" sha1="e7d346dff7399b411a088be49ca62e5a56375813" />
+		<rom name="BrowserHack (v)[var][src]\sys\os2\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\os2\Install.os2" size="15587" crc="4aa54ae2" md5="435f336686ffef745b0f44c71904b384" sha1="5974800b438f668b6f3baba1530b5165daaf5e77" />
+		<rom name="BrowserHack (v)[var][src]\sys\os2\Makefile.os2" size="50445" crc="311a9a89" md5="757753e3b0e8e35393b7d32b13f1f3e3" sha1="748068314c3260dce9870f0a582e6aa83a4f628d" />
+		<rom name="BrowserHack (v)[var][src]\sys\os2\nhpmico.uu" size="1273" crc="f6f565df" md5="ce4e2a9bc0493384e9998e6b33245d47" sha1="75329063c2e4d1b380d7e362c2d2e7890f597c0a" />
+		<rom name="BrowserHack (v)[var][src]\sys\os2\os2.c" size="7174" crc="68bf743a" md5="30caa26c110bc800b5c79f1bb3827a20" sha1="cbaadd2fff4d3709df3c383674e8504f369ab035" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\dgn_comp.h" size="503" crc="a9147a06" md5="fd9e0bc10ecc6437a59e36401b04865b" sha1="d60e9fa64f73b966e61b3227fa32b81f1bfeef86" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\dgn_lex.c" size="40116" crc="26e200a5" md5="d052cbad8d82f8dd6ebb2b1a9fe1977e" sha1="97d18e619b89ca7ceea6119c2d20a8c1b49d3659" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\dgn_yacc.c" size="30541" crc="40794cff" md5="dfe9e4d81d299661d17d30999347d3fb" sha1="c376cfef0589d5d5eebe3900929a43c117bcf6a5" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\ioctl.c" size="4132" crc="eab5068d" md5="2027df7bef4a317431de85102e6e9344" sha1="4e2c1f7eda2a09d19b1d466777acd96c6406f61d" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\lev_comp.h" size="1675" crc="71ba085e" md5="0c297fb9e95032734ebc41545e7173fb" sha1="151f9f4b7b4dd57db5252e253b14c4073825ddd0" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\lev_lex.c" size="62151" crc="72afc85e" md5="363d1e814af288d60c9ecd6160c2c75f" sha1="d5baf97489d3ec32dc4dc1c09a7314e9453354d1" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\lev_yacc.c" size="75741" crc="22177bf2" md5="cab817be5da3f8c3c9e947603be59dad" sha1="a74fc0b83f1ac2f8df7fd69686beac9ab07a8374" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\Makefile.lib" size="448" crc="e551277d" md5="86ec86b9825aaa36d5c615fcc0bb0ded" sha1="ebdfc02da87caa9ec27debf577ec5b3bbdf3be6b" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\NetHack.cnf" size="6311" crc="6ef804b6" md5="87333af7f6da9cf8b83ba8dff4a9c419" sha1="be0a707334f4503e709087078603987648cf22eb" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\nhlan.c" size="4221" crc="980ad0dd" md5="701b712e2093560bb37367a86fc3e01f" sha1="b3b7f7bae3896c233e352772916ef58331338acd" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\pcmain.c" size="15086" crc="133ab1f2" md5="9c1455d538d94b2b86f2de6c7be37d89" sha1="68b3666aaadb549c2fff5b8733be7ee38f031470" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\pcsys.c" size="10770" crc="b332bb78" md5="44d5df481ce908c2ce1b91bfded865b1" sha1="4ca9d71f4f30b860753851bd37a44255bc0d3aa7" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\pctty.c" size="1644" crc="5a26ecb7" md5="cd88f6355be514c895fa3fd0a6024ce9" sha1="8e49ae18849fb568bb8a990739843c83f273dce0" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\pcunix.c" size="7203" crc="7ca21f99" md5="5b00af0306edcd0bb5672878a2539f17" sha1="ce1404b610d5cd7c3da3a6db1dd7679dedb5e6de" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\random.c" size="13686" crc="0e93473e" md5="733f029906c0b1f3323aa75a0b052dc3" sha1="5dd29e01985c5975457411ab378dcad151003ab8" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\bell.uu" size="25065" crc="7d4cb0ac" md5="ae2cace3889f1461114d23fa3b5bbc56" sha1="3c0ca790375a5798a08de3f5d71a9af97c0f43aa" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\bugle.uu" size="20128" crc="7344485b" md5="52ac253e84ff28b4ba86998a6aa3e8fa" sha1="e0908210a6d8c9ab1a486b0375c8b9afebd41ac6" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\erthdrum.uu" size="53299" crc="838b8a39" md5="cc4ceb12deb408bd13e288136ffb134a" sha1="5739ae7a2adb868e101d3ca14e3f29cdf4851afb" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\firehorn.uu" size="18370" crc="170d0a14" md5="aaf62d46942a93db8ed6af7d8cb81f79" sha1="6a707f0dd7587faaf3f1302e2359c526616ce0fa" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\frsthorn.uu" size="15899" crc="4d5dd882" md5="0094f9516004799caa6e75da29889b26" sha1="374c7792394f80f948b4f32e142d3403de70cc2a" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\lethdrum.uu" size="26661" crc="b60580d0" md5="5ca084a49fdb4914ee12db252edbfd8c" sha1="2fb17ccd11a47322d2d98b4622a116e030cf8f89" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\mgcflute.uu" size="25424" crc="37d54ed0" md5="fa6fd9e8b82521d02a9303a687a8aacb" sha1="eb75dd98e17e5f93b2e49e70e08eb6b302b7b37c" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\mgcharp.uu" size="25071" crc="adf39c57" md5="425dc9efe682d88de5b1d57511dafee2" sha1="cbbcc0301ef60b01ec4a53f288b0c3ad3c129218" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\README" size="1418" crc="ca7c1412" md5="e1f1573e0be98f370b9670f533a2cab6" sha1="2a476a03061697f8496bfa49d88f46da8c45b432" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\toolhorn.uu" size="21192" crc="270fec19" md5="b3dc5c97303ec0766e0c0752c3905857" sha1="948f8c17468a11f18ceda4238d8736ae6a76a9d7" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\wdnflute.uu" size="20135" crc="adbd069a" md5="b58c2fd0477f636d9920d943096ecd84" sha1="4281487685a3901056b04cc49ded6ad34a7b938e" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\sounds\wdnharp.uu" size="17314" crc="a2a5437f" md5="170942a4e8f6d25a654980454f1a1cb1" sha1="6acc42a29efe595ce18e8348e48bd6e41e889d1f" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\tclib.c" size="12738" crc="4d9379b7" md5="33c5dc664f3869bcbd452618cbec919c" sha1="a2af0e7e892278e63235b6d59029b8d53682821e" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\termcap" size="6021" crc="04d94518" md5="706d059b80f3e141c62dca7b2fd90d36" sha1="9a19833fcd051844558f4b5a3823f9fc7c21ae46" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\termcap.uu" size="31540" crc="01e014a2" md5="e27504e9885cee1bba542a71c303f1b9" sha1="df62d8a20a0c6408467ee748b42463a4ccfc682e" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\unixtty.c" size="10144" crc="2d793de3" md5="1ea6e69297968fc0391bc6fc3a4e2415" sha1="10156c02a1327870682b8be5a77b486b8ef63aee" />
+		<rom name="BrowserHack (v)[var][src]\sys\share\uudecode.c" size="5825" crc="fe441fb5" md5="989c65f4a6542d298c15cee9bcaaebc4" sha1="aac4bcc6ed85f27e122fc2a63fa0d84f080adb2f" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\cpp1.shr" size="54679" crc="c5a7406f" md5="a68b6e9b1735efdbd2ddeb60c947799e" sha1="0b8f603ba8805432d61cdc76c6354b2079aaa956" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\cpp2.shr" size="53569" crc="20e44843" md5="c68f30e5731d139b56108d124334aae6" sha1="bb845bd7137a86b317bf7dfa602de701d3bdc106" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\cpp3.shr" size="51826" crc="025eb8e1" md5="984ddfc5e20767acc59497ea2bd03521" sha1="35957e84df13c3a599625f03542166fa4fe15f09" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\depend.awk" size="5573" crc="3c9642bb" md5="ea8387af5713e1717cfad2abd86a2f55" sha1="64844ad475847b065b34541c376eb88f5d6fd50a" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\Install.unx" size="15210" crc="cf61f61d" md5="15c1660943e2a3523945aee3d55abd7b" sha1="a03044d5a689b3ac21a9789aef77249dcecffd65" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\Makefile.dat" size="4038" crc="0869d3b5" md5="30e17ae27f8ca8de8fa7ee590f5ef1a6" sha1="2904bbff22c65540cfde5ac70cb985b15c0b6862" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\Makefile.doc" size="2883" crc="87f81d4a" md5="053d64d78407aefaed4ca1d625efc925" sha1="4d8a659a5b4177cf4bf0f16706d66751f226db3a" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\Makefile.src" size="32013" crc="dbd0091a" md5="15669e89b3d14dc469a38d978f01716c" sha1="104cd689d749a8343c9b94e051d3c067af1380d0" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\Makefile.top" size="8058" crc="84e319cf" md5="8c8d401c83b44870a754eca33e8116cb" sha1="73bb380810daf96bad811fe3470edcd5c62a1584" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\Makefile.utl" size="13199" crc="f51d9913" md5="5f17f70ccc01a7c1dd0297408eac693c" sha1="6dbcc2b22b1fdebab451792922927bae4f1cac35" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\nethack.sh" size="1380" crc="952068dd" md5="6362307c8fb353100dbb094fd7aca4ff" sha1="94823a85f7f6f5f091c9476e3053fc14ae308325" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\README.linux" size="4213" crc="e366e2bf" md5="91ea6ba0ebf63ec13a01d46a3dbf2e74" sha1="a134085a6737fa3fbfb27ad66d1f94d0919ac7bd" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\setup.sh" size="1191" crc="6219702c" md5="9b283e453f2203353c29934c41fbb63c" sha1="0bea11a2dd4baa311606809713efd353bdf1b85e" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\snd86unx.shr" size="28967" crc="24066b8f" md5="e3cb28e3b16dbe9c6c93cf877a39f1d8" sha1="74efbc56f39c7766d7e9eabf25f616ae3dd389f1" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\unixmain.c" size="12509" crc="5fb2a626" md5="4fae3a5c4c366b61f48c2e1b128c56df" sha1="a2a53e94901eb2fb80a2c7e215eccd718ced4542" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\unixres.c" size="3847" crc="929559b5" md5="45f5a5b9a999238ae63ddc4d312e0c1d" sha1="23786cc68812ac569911de90f3c6e1fb09e3ec29" />
+		<rom name="BrowserHack (v)[var][src]\sys\unix\unixunix.c" size="7715" crc="21635730" md5="5d036c020ef80e40c57223e3cd34cdf7" sha1="8d6d1558e05e5bb3ea361318a3da8226e0896812" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\install.com" size="9676" crc="970ba765" md5="94522a4300e8e76353f5a594feea914f" sha1="36b26ca548b2668eed1eb9d4b276d248f0fb64ce" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\Install.vms" size="29060" crc="9dc642a9" md5="9b389ae26278898a86452f40c096e6bf" sha1="260d86c820ba7dbe0ccc62051ff996ab1df9a3ce" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\lev_lex.h" size="824" crc="795fa43f" md5="d3657efaa1322b7dab2f4585cfadc111" sha1="663d29f36fcbdee6a9b7d6c249491a997417810b" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\Makefile.dat" size="4066" crc="be0a0102" md5="f8d28fb4661b5032fc5f8f54b7e27657" sha1="cd5d726d1ec579f1747f803f99f442a2adf8460d" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\Makefile.doc" size="2250" crc="70a66bf7" md5="ea45637759193fb767252bdcd3c85711" sha1="1dabb754d3bdf529a75b7ad9b018a0b485c45847" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\Makefile.src" size="18489" crc="a10fece1" md5="9e50fa19e9ab1ac88e0d67a31499f68f" sha1="9dfaf79f4b3fec6372ee029a06254313daa8097b" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\Makefile.top" size="4533" crc="382fe715" md5="e47e497c1ed7a35117f913436df3c1ce" sha1="e4c9b9a391757cad53bdd3ca6fa4ff526e2336a1" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\Makefile.utl" size="12278" crc="cef99a25" md5="e4569eadf2998c2bf20c1a3f626816b3" sha1="a71410645a41d4134abdfbf85f136dbca6c1562e" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\nethack.com" size="2378" crc="f5ced274" md5="58e3b019a4bc6db24cdb6899d1806967" sha1="3e51e32d036ac664dd3a29282b0f974622ade0d8" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\oldcrtl.c" size="5573" crc="7ed61e08" md5="97b1fd158f00a0c27384b4c5ef8a16fd" sha1="cf4f5828e7b64ced24c4903fc8738ff6519465a6" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\spec_lev.com" size="3205" crc="70c01350" md5="f537ab9b974ebb23af2c290d698dea8c" sha1="000125025b78113757cc360553deaf4731749e02" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\vmsbuild.com" size="12528" crc="48befa35" md5="69972bf3a2b4e7e923a73376bc9ed754" sha1="741519620dc316266981be25a8e9357b86338725" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\vmsfiles.c" size="8883" crc="36b9b9c1" md5="6f124ea815108c48b3d434a03b874233" sha1="56ceadb94bced04d43bb48f7fbb0164bde3efbf2" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\vmsmail.c" size="16899" crc="42d4c28c" md5="06b515e3883f7bedad7ea21649d02e0d" sha1="6b41e1a785faf5d06841fd2660dc064676b9d659" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\vmsmain.c" size="10653" crc="d24fcee1" md5="7cad0c5991885af8bd191fbc5296283d" sha1="9d21edf7566c6487ce9b5362bdef587f46ce5174" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\vmsmisc.c" size="517" crc="46621832" md5="0d746b021e5730d07d084a5ba63c3b79" sha1="2379c8583b2a7d3b2125972c2b449e64ee13b8a9" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\vmstty.c" size="15699" crc="be0b53cd" md5="d6d894b409a6a405951ae2c8a4a94511" sha1="0a64b52ea7ed5e6024b52e97785383ae841431c9" />
+		<rom name="BrowserHack (v)[var][src]\sys\vms\vmsunix.c" size="13343" crc="fafd51a0" md5="17c4c6ab9788dc10869c7b917d021667" sha1="6a0c36de826295b6f4c571b5c1341fcf94a28ba3" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\bootstrp.mak" size="30306" crc="df42b569" md5="308efd6f28f91e07c38e0914346e3f1e" sha1="3ea8d364c61d52a904b14b453ded8aa52f1ab442" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\ceinc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\ceinc\assert.h" size="242" crc="af3ac259" md5="dca26aaa10269a844be851fc46bfcf82" sha1="bef31207e23060fd8bdc8dcf391f0f3bc12b3e61" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\ceinc\errno.h" size="37" crc="4b9a2bdf" md5="aaf5623b8badebce78c30a5f1fb05f5e" sha1="1aee04d6492a18fc88ae60337606c5d24da8f4b7" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\ceinc\fcntl.h" size="2094" crc="9d8e732c" md5="6dc12cc80695a1f2109dc8b980f4dd7a" sha1="618cca4011e3689028149b455cf851ddaa7cf198" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\ceinc\sys\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\ceinc\sys\stat.h" size="18" crc="091173a9" md5="c81fc017150744229f963333e24d4c48" sha1="ca758fe30a955d4db0520efedbaa7b6ed4986584" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\celib.c" size="18131" crc="b4a1a83f" md5="3a8cc6e92b9ebd1ab9fb67764f45dd44" sha1="9f1674cb2bcb489a09bc3d55edde1815eccd0c6f" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\cesetup.bat" size="1383" crc="3201a58d" md5="80b8d1470a7c915484e7daa71066bd54" sha1="5062e0be58c849212aae1e319f243b4bd23436cb" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\cesound.c" size="797" crc="6692fa7c" md5="4a9ba6ec5d0e7f0c83001d71f2c50dac" sha1="0d63a1819febfa2465b9c9245f3d8e409cfdcd35" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\defaults.nh" size="5026" crc="fbed9d27" md5="db9ef33d932ce30ad34eb91f8da7ed08" sha1="fb3b42009c8d5899f4087432c2c9e8625939a08e" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\Install.ce" size="5919" crc="3488052f" md5="c202c864af1597af87ec411952df5757" sha1="c58cb581585d971aa9b37f598fe8e34d5c206b45" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\keypad.uu" size="293" crc="fc86d92a" md5="dfe7f7bb61706a060208113bcf11ca30" sha1="e75021f45cd5202578034bcdc31f67f4d34f7ef5" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\menubar.uu" size="546" crc="802f55ce" md5="82ab5e386b3d9db81059b666e2910f89" sha1="78c8a37981f3f1c22e2653c90a8314a479187d86" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhaskyn.c" size="291" crc="b6a4f55d" md5="70d02456b1e9910960e3d483fdc5e0a8" sha1="f086f1ad1296c56cc862a8668ede568ec591c639" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhaskyn.h" size="309" crc="3eb82bfd" md5="9f3d6bf13f31df4ad295d50c8bdbef52" sha1="441e1bd8175885eea833873db72d5695da840fe4" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhcmd.c" size="47598" crc="7d1e7e44" md5="3ddfc8017a6fb28f204435f18120881b" sha1="575062151734c74c4a3cb40f83aeee9c017ddc2e" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhcmd.h" size="751" crc="a83e60a9" md5="c1e5be4f51e0ecc3c1aa0b1d44e46043" sha1="91f89a9707aa69465d8e045b0fd6ec3e3b0a1962" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhcolor.c" size="7368" crc="082275f9" md5="9fe792dcde550f46442338f4df56ab4e" sha1="ee28555ba70e13708a63e839ae892470213c9f94" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhcolor.h" size="498" crc="e838926c" md5="8c63a84f22f5a82a76ab413f5de528fd" sha1="cc83586271a4f0c6fa1f60bfc0a5fe66edfb19f9" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhdlg.c" size="23056" crc="0846be4d" md5="5e1e581a9810266f3d5e6cae9dc58ee0" sha1="bc79b09ec02ce3843e1962e109e8594798983bf5" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhdlg.h" size="451" crc="cfa6a1db" md5="3f911d7f960c0d5e68205dc1732a4e10" sha1="1405ac2e8c4d21ef63bea8118f03372dd728c5f8" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhfont.c" size="6729" crc="014367b7" md5="4f4c302d2152a1a3e13eb11c6b60aa2d" sha1="13e1552c6977b83dd427c04cc04d9124191d892f" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhfont.h" size="345" crc="e6c7bd19" md5="7df3965cd839915b70d27b792ea8bf7d" sha1="e7ed669453cf4a2d06f053f870aedd1f0c85a495" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhinput.c" size="1820" crc="6c303a32" md5="32ed806aee770a59ee0e906cf0e6dcca" sha1="666ed19dbdc004573c8c51628c97fe02a0eb696e" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhinput.h" size="877" crc="8c040039" md5="85f1d3e2bd7e8650bb6066c69c379a71" sha1="88961ebc83f7f1ea1b729f9d2f052958a7946b8e" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhmain.c" size="30124" crc="00013529" md5="664a0270c01b4a2fb9e71405723467f2" sha1="4b9130a785c53c06760d09d13945fae2fd92047b" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhmain.h" size="437" crc="d2faba02" md5="a44671bae2c1f7cb24c408b8ccaad402" sha1="03e2831697357690f9c6b57dd0bffea8008a764b" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhmap.c" size="25169" crc="ffbbf687" md5="8bbed3559911a843d40e28a52aeb27af" sha1="c7b8a51f84a6cfed9b3182ed7ef36a455ab7a0af" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhmap.h" size="531" crc="e60eee4b" md5="3672879e0c82681bbda17b7ff4fe59d6" sha1="69d4b5398b036a5d8ba8519d2f9ca38ff24d9a56" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhmenu.c" size="41304" crc="dd7d68e7" md5="4af2f2d6506289334b39e792852618c5" sha1="3eb0557c26e3490ed129d2d327cb6fa747983e07" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhmenu.h" size="440" crc="9e4ecc20" md5="cf2adfa5986676087b498c4e8cde1d90" sha1="85868a70a915edcc665a71ad6849a8d790ec2e67" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhmsg.h" size="1387" crc="98337492" md5="fb18c4f92c1f6b76ef5e29fb3f24fc69" sha1="ef9a0f78310c5e0a8d268f29d5de401e9e199b16" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhmsgwnd.c" size="15569" crc="7507388f" md5="e50c4632b3970d46dfe8b02f2b4d874f" sha1="66ed5992ba0569021644ceb233193389bb7871bd" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhmsgwnd.h" size="377" crc="81cd5e95" md5="c0677bf75d25b05de4847fb72f60c952" sha1="0b35bc0fead057e0e0b589dc231a11aa115568fd" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhrip.c" size="342" crc="80883364" md5="e2b966970b36c0795c6184384fbea45e" sha1="ec4d10eae79542fa5c9e701609ca357dbc55a5b9" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhrip.h" size="349" crc="70fd425c" md5="922285132cd80371608c9ecf522b2987" sha1="edf422427962d6af5efc0e9a40afb6d045532a18" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhstatus.c" size="7185" crc="094b9037" md5="84219c45a5b39c6e9cb338a17304c7eb" sha1="2a511e58e0756de2422f096e1f4df0ed68aa9169" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhstatus.h" size="371" crc="8b4d402f" md5="fa7fc488ae815971e3b5421f2b8c6af2" sha1="627565334202693d0ae6b061da32ef999b70f21d" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhtext.c" size="6024" crc="a05eb25b" md5="faf7f4123503bca1a820d70224f1b4aa" sha1="87dad278835d9a68373fb4cc0e5606b1b1f2c607" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhtext.h" size="353" crc="3dcf4c1f" md5="1d467756d267a7fa19c195a6a7ea9b54" sha1="bf3555eaac903899c87d698b5e365b9a02ff4178" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhtxtbuf.c" size="7650" crc="75e4c615" md5="2f79980a9cde3bfeb5244dff192bab5f" sha1="9a233c3830b8d2360d0e5ee98046104ad6f85b92" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mhtxtbuf.h" size="523" crc="3df1cfdb" md5="13a66fdc413ba8675c02251c85bbf3f5" sha1="2cd7d7e74e124e965c64a074aa93d7da2bf54312" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\mswproc.c" size="58699" crc="50590da1" md5="aa60ab45872d83bee45967bfce505dba" sha1="2e370a1fc1a1d5ea113759e2fdcd94fcdfc29bb0" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\newres.h" size="795" crc="b435c895" md5="ba6ee9f0f97e0c591eba5fc4e953855b" sha1="4507d29372c8fc1c50ace479b0f3ff14079fdb55" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\resource.h" size="6885" crc="ba811e84" md5="dd31cb63a4575d529f4c7eda2ef8cde1" sha1="f3646a9d3d7ead4bd16bf1871688f7943a13a89b" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\winhack.c" size="8222" crc="33a72493" md5="7486528d927fa927dc657b0eb6327f87" sha1="86b8cd5a2c428a62fd76cc91a7f651f2aa9e1811" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\winhack.rc" size="11150" crc="d8e8a9c2" md5="ad505d28943106e4f26120f33d4295bb" sha1="6387cd7f6fb6fa59851ae3bb0dcb37008187e41b" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\winhcksp.rc" size="9679" crc="62eb5a8d" md5="032106ce2dd289acfe80c5ef73d279ee" sha1="db72a34ed538e2dd766943013780204e8d9cff16" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\winmain.c" size="2419" crc="4c87c0be" md5="1191340a93c9ed483f5d599011800911" sha1="b92a12b8948cd9aed4d31576336383c2f428fdae" />
+		<rom name="BrowserHack (v)[var][src]\sys\wince\winMS.h" size="5513" crc="4c1c7b79" md5="ef293358b8b9430bba83a9e91363137c" sha1="a1900c73f3977ca898cdbf40f5b72e1139982f6a" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\console.rc" size="1243" crc="647d16ef" md5="2a7c20ceaa712b8af6418eb5fc80db46" sha1="34bf19564da51a3163a9d3de6ab5c45cd7e56ac5" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\defaults.nh" size="6692" crc="ea581b41" md5="6569916c50641a9a46569c3e5b2972c5" sha1="6c8813fd7893105cf0f1ef96060b5223e7c353e2" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\Install.nt" size="17881" crc="067ebf64" md5="bbcc785b1103445407905f717aa28a7e" sha1="2cb98383b1823d66f4d750889da9b0a0230360de" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\Makefile.bcc" size="45223" crc="88cf85a9" md5="1dc189ecbef85f3c7d94dbb93b0b5465" sha1="93a98e8046510eae5006bd35129abb038558bd26" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\Makefile.gcc" size="46617" crc="f357ee61" md5="3566050a5f72b717cc2e8ebfda8d9026" sha1="6f04338572a88add30b8ae9765a39e9fbb0212ac" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\Makefile.msc" size="47051" crc="74dd3852" md5="9285e7f1af34404413212c0a63de3ae2" sha1="4619f88d73de9b58be3ab058d93fdab6334095f7" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\mapimail.c" size="12946" crc="fcc777ab" md5="a40d1de9e662a6549e9da6e2d903f6ec" sha1="ff62a7e71e219ecd72284185cf8e91f46b0a6839" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\nethack.def" size="207" crc="9973694f" md5="3eea7b3792c7fbb3d7f771765509b820" sha1="3d04e5244cd5f47cec2598a14ef6fbd4a58f893e" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\nh340key.c" size="8172" crc="192ef962" md5="c67ce111610a101b4ce4219dcabf27bc" sha1="d330cadc28d0e7a07f6685cb1f05689caf67f407" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\nhdefkey.c" size="9115" crc="276cfb4e" md5="fe764ac9b737836df58ecd5c6a69683c" sha1="06fc29309579ceb0df45d0b75739131bd04418c5" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\nhico.uu" size="1516" crc="23df9c92" md5="fd2c14eccddee7f4d6e696645bdb50a8" sha1="865ba4a1a6ece883e8d1137ec3d0780df7fa3e95" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\nhraykey.c" size="19855" crc="e012f564" md5="f54efc74b9f2ae7bc742d55c04bfdab3" sha1="2d5ee4f44abb824f27ec8af6eafde862aefb21c3" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\nhsetup.bat" size="4158" crc="609007cf" md5="1b0236de054ceb5deeab7b9dfd9b9e5f" sha1="7f35fcb2d3cfe5491dea026d8e91530fb7c8fa97" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\ntsound.c" size="815" crc="e16d4720" md5="fec1cac1e00ca418c995ae13367a0d5b" sha1="3f1fc018e209d3e5bb75bc0891cdaa501e357336" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\nttty.c" size="21125" crc="e1c8e151" md5="bcd2268dd6492937c3afee6e974be343" sha1="d260308dd348bdb54333d415c1ef3e0dad2419cd" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\porthelp" size="13441" crc="a104d199" md5="db69eab27457f0682dc5056bd47206a9" sha1="21c11742680cc513f5c70a8b60ce96af8994f059" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\win32api.h" size="718" crc="c8aa38e3" md5="2dc313b2c019142f1fe6f84b35303173" sha1="ea4fb25f0a3e7429e83d83a407ef78f246ad7fdc" />
+		<rom name="BrowserHack (v)[var][src]\sys\winnt\winnt.c" size="6608" crc="af714d23" md5="c187ef2c619584cd4e809e8c0d9a1e2d" sha1="7d92d6cc9c8548bcad871ed00e43464859ed9252" />
+		<rom name="BrowserHack (v)[var][src]\upload.sh" size="224" crc="91680904" md5="63724a68c9301d9b6cbc1c872f76ed0c" sha1="d7f930659b41c3a0caf91834198beee0fdba5714" />
+		<rom name="BrowserHack (v)[var][src]\util\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\util\dgn_comp.l" size="4012" crc="1336e10a" md5="e220935d4576f6872971cc1d76609f09" sha1="cfaeac61a4ac238967d2d67f19f2cbf8795a4620" />
+		<rom name="BrowserHack (v)[var][src]\util\dgn_comp.y" size="15961" crc="1f8b8d5e" md5="d66d152d8679ef3ea7b6a293d8b1bcc3" sha1="902fa2bb3ca07268a792a3a2299b9deb0005ea36" />
+		<rom name="BrowserHack (v)[var][src]\util\dgn_main.c" size="4499" crc="462e367c" md5="bd4e76fc47797e3095dedfa5aee9cde4" sha1="75e76944d5bf2e8fe54a99a9ff6113109600b4b2" />
+		<rom name="BrowserHack (v)[var][src]\util\dlb_main.c" size="12834" crc="4d7de024" md5="2edabe4238d4eadff064c8a7c31d055b" sha1="9315b2370d3e26e6bc4fe8f76315e3d76ccc668f" />
+		<rom name="BrowserHack (v)[var][src]\util\lev_comp.l" size="7579" crc="0a3a01ab" md5="f101e128ae12e0db9a5c0e319ae496a7" sha1="8f0e2c793962530de3f0af2eadcb9f6b60377f03" />
+		<rom name="BrowserHack (v)[var][src]\util\lev_comp.y" size="39819" crc="a869c645" md5="7c699f28496b75354e88996b34294c83" sha1="48fe7f8618cd55c71b9fd2931a610981d5cbd6ac" />
+		<rom name="BrowserHack (v)[var][src]\util\lev_main.c" size="36692" crc="e7474d39" md5="0217bd7f9b30c05fd96b1d5b99e2a297" sha1="85959637cad042e48626da14ac8a854dabaf6b5c" />
+		<rom name="BrowserHack (v)[var][src]\util\makedefs.c" size="53506" crc="3149e893" md5="3ba2b7d93d7fe75eb6b906c9771aaa5a" sha1="bdc7e99b1967ca70608195e3be4efc79f18265c2" />
+		<rom name="BrowserHack (v)[var][src]\util\panic.c" size="1276" crc="22bd3248" md5="7f44318fa933efbe9bc01a300aaf5398" sha1="eaf8fc534e0124610b102bb8601cb4643edbf6ff" />
+		<rom name="BrowserHack (v)[var][src]\util\recover.c" size="8662" crc="7b3019a8" md5="6c80b254783169dbbe722bd303fb95db" sha1="79e1464c42b1580e667246b13c360bf7e13b0b1d" />
+		<rom name="BrowserHack (v)[var][src]\web\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\web\Absurd_32.png" size="1082454" crc="c761ed63" md5="fa78f005365f07ec5fa82199876b36f8" sha1="5ffacde0befe1c30c92572c40536c266608786f2" />
+		<rom name="BrowserHack (v)[var][src]\web\browserhack.css" size="9581" crc="f209e424" md5="390a7655ce1976e76ccd23ce6d0935a7" sha1="a16f39e9a3c64c5b52fdaed506e3c8db579fd40d" />
+		<rom name="BrowserHack (v)[var][src]\web\DawnHack_32.png" size="1061623" crc="2b90615f" md5="e331e3f5a96f5664f91947fa84cdcb05" sha1="6ac4a8f555ce5cc8ebebdbf7be3b010ca09264d7" />
+		<rom name="BrowserHack (v)[var][src]\web\Default_32.png" size="104029" crc="c8e3c7ab" md5="cda327e1a6437ff3ce6b3e076a3479af" sha1="fb4ff99b660f438afec17d6f9a8123d7d898e4cb" />
+		<rom name="BrowserHack (v)[var][src]\web\Geoduck_40x24.png" size="121699" crc="d18144f6" md5="d6de9ff58b9fc0805ddb42e8a6eaaa9d" sha1="fdfd3871528bba22ae2241a204bfb2e4e3309655" />
+		<rom name="BrowserHack (v)[var][src]\web\index.html" size="6414" crc="e1210405" md5="0a745b9aa2bd8faf804970009aa9aa6a" sha1="5f33286d66b283b5705427d24ce75f2e20e7845a" />
+		<rom name="BrowserHack (v)[var][src]\web\kongregate_index.html" size="1440" crc="e1790a42" md5="7d40bbde9ba0220b13d35b628fbfdbee" sha1="21ec6afbc923936698ece177282ebf4d823ade31" />
+		<rom name="BrowserHack (v)[var][src]\web\NethackModern_32.png" size="626101" crc="0dab320b" md5="ec2ddc7f11d144499582480d64c098cc" sha1="5cb056cd270ec0b6b30762560eac5fd3cb6f7ca8" />
+		<rom name="BrowserHack (v)[var][src]\web\nethackrc.default" size="379" crc="ac22d2b0" md5="1dbaee7e889d8ecd6a813f5705acc48b" sha1="292445ecf2001280673fea372b3e2ee8074b4a53" />
+		<rom name="BrowserHack (v)[var][src]\web\Nevanda_32.png" size="1865080" crc="56dedbad" md5="f4811a352dc71d862d06d33d969c641f" sha1="c562f20a620b21c330676ad75100046acbfdfad1" />
+		<rom name="BrowserHack (v)[var][src]\web\rip.png" size="33942" crc="4b504620" md5="ab939d3681890ee9090847f6b0cf701d" sha1="41c28dc4bb74c9843b99a21a062104b037206822" />
+		<rom name="BrowserHack (v)[var][src]\win\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\bitmfile.c" size="8118" crc="d671a75c" md5="0aa34b5f79427f0c7d8ec150d883e9cc" sha1="0a2694625e2cb4e03ef5b2fe22059f8e43440ed3" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\gem_rsc.uu" size="14154" crc="a1de360a" md5="8ab679df0c552406e1e3d15935dd51cd" sha1="4c3249b1e80cd26b8ebf774856579b3420761129" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\gem_rso.uu" size="1250" crc="667c7ae5" md5="99254016b482012219ae1d8dcc4007da" sha1="22a1d426e6afa8c71cd85a519a26e083d3465390" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\gr_rect.c" size="4835" crc="b066daff" md5="e67421e5b9021e237e49f9cb43d6e523" sha1="9381e477bac0788bada4e44ff5311716cf11185f" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\gr_rect.h" size="429" crc="583c6216" md5="72e946bb7bd75ba858db7ff0ae242f68" sha1="d431a39bcf15b3dff5d6361d9a24ff1bcb16d58f" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\Install.gem" size="1051" crc="af8477f9" md5="1777c49340ea516036eecd445e8f4887" sha1="51891a740bb4467d82a580f869087280d8d9d120" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\load_img.c" size="7143" crc="96751d4a" md5="b3c4fb91e4c80f527c1792aa32786c8a" sha1="d6e276d066ede84a5a0ca60b8e26ed09b99abe4f" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\tile2img.c" size="3754" crc="d45ad6a1" md5="e7eaf68f0d64742a0c09e24d4308f40e" sha1="e752d537122a8a54bdb4a319927295122333943b" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\title.uu" size="26280" crc="c9f2ed6e" md5="f990c5d3aca8ce8b268fdf65f0f34908" sha1="b1a7c649d4d8bd94c034f200de7d1e0db25a197b" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\wingem.c" size="30237" crc="0d7c6035" md5="4b5024a50fa601ac3d89e4ee0d7aea74" sha1="973ac4573e4475aa88081fa53ae22d896e39e002" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\wingem1.c" size="76613" crc="0ebd6a40" md5="8c83bed15e06ca96557c74bbf309cbf8" sha1="34d4b945662d153dbd4e946235477029f13588f1" />
+		<rom name="BrowserHack (v)[var][src]\win\gem\xpm2img.c" size="4477" crc="779feb68" md5="bc66c08f7114eaacf6001df448e189cf" sha1="1b48c83e445b901215692955db84ad98525942df" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gn_xpms.h" size="49094" crc="b9e0f521" md5="d5586ea5c69abd743b565e99fb86edfc" sha1="aeeaf492e299b91b2aa058a3adbb70935c325d0b" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnaskstr.c" size="1440" crc="d0585f97" md5="9a65d04526b8548d85ca34b4afe26a3d" sha1="bb30eb3e3109f2a1eb401820ed39856d9a4524b6" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnaskstr.h" size="428" crc="024f9830" md5="5edd61af4edb3c00ec832cfac258a69a" sha1="ed81344401b30b0437ad29d50ee93330200b9eaf" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnbind.c" size="37292" crc="300a8a22" md5="10668fea2b71fc158729119e91432002" sha1="e02fb87e2b844276a1f04a2c145ad04b2af6c63e" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnbind.h" size="2965" crc="c8b4b5eb" md5="d24e88b6699e78b9e64655ef23630cec" sha1="4e9bc1a89b483ddcde824a2382b2b97bbe138ca3" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnglyph.c" size="6108" crc="1f7db928" md5="aeffeeceb9f63d1e52f1297e6a9ca762" sha1="c4fb5d68477e2229154d326d11569211e5e2e101" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnglyph.h" size="1140" crc="7afaf0da" md5="7f3ccd5307d310898231c855c3396d7f" sha1="31edc254548d9ee884e8df0ce52b529677e86b53" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnmain.c" size="25996" crc="f5c364bf" md5="b20920349e9f8b3c946d880e28400b0b" sha1="70d837d2b2fb5bab1ead1ad0a6a6e3f44f579447" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnmain.h" size="842" crc="966b2ad5" md5="943452d418e1073d5f4d7cdade94fdd5" sha1="247b856a6a1cfdb8186396ad61845ef676c51124" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnmap.c" size="17727" crc="5d9efbb3" md5="8d991e6f38857ff7f1f73e3cdcfff42b" sha1="819575b3f7358973e5d63c5b0404f7e27d9a978c" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnmap.h" size="429" crc="cf65b5f0" md5="e84ad0c0f11d3c67d66e8472acbfbdc0" sha1="a3f17798b9dbbb9a523d584b13ec4b8a4f23959e" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnmenu.c" size="22435" crc="7b0e5279" md5="979ae5534d4d430f9ca4900ef1f0a7a9" sha1="c19af6d5ea8ba71c81b1b1155003034ff1351a5b" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnmenu.h" size="760" crc="71683306" md5="f04bf7796de72c84ae8dc01b60c6b83c" sha1="e31d58b9d5e8387ec1ca203481ce318ac6a9ebd5" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnmesg.c" size="2875" crc="cd08d95f" md5="c1231d145a84d6b15994f637db967e48" sha1="14452b21695e6850afc6ad2b83c0aeceeb4ab46b" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnmesg.h" size="899" crc="b86c3a46" md5="615724119afee9637892efbdd1e27f79" sha1="26fc9c4842387f86a97f7f0771c1eee46fbe1d29" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnomeprv.h" size="381" crc="2368ae2a" md5="968f9256587ed1a7af931b9555e92e49" sha1="e2348926609230662021e46f84be1b35ca4de3de" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnopts.c" size="3539" crc="efbff982" md5="341fee23e247c61aa0bde28db41279b6" sha1="e5cbc18788a314eaab8565a9506ed38eca5186e2" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnopts.h" size="306" crc="2f54b3f9" md5="59a778e69236b9ebe06174203c53edba" sha1="17920a43295bb6dd2c4e5954904260e0dd2e0bb5" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnplayer.c" size="3165" crc="32452b2e" md5="488ed0611d41352f600f422e857964ba" sha1="29e9bffd5ac85892112999dafd3a3a3c68d24bf1" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnplayer.h" size="363" crc="3668537a" md5="a03f0244c6e007598f98d223869ce367" sha1="0985ec1d59ef3cde9dce3a4ef296ab52fb9e50f0" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnsignal.c" size="11364" crc="baf77d37" md5="7e10a93af58adb966ee31cefe882014b" sha1="bd0399bca9360ede6a7b48411845fc62aaac1426" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnsignal.h" size="1147" crc="16c6fe63" md5="f466e7b1094298875404ef2f3d8b81fb" sha1="39f7f11670d6c999fa0ccbb58df28f94e6975d8c" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnstatus.c" size="32215" crc="05c850f9" md5="1aad146720b87697ccbf1f534708d268" sha1="4d78585324f740c9baa5bce52fac14d2b10aea68" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnstatus.h" size="382" crc="9cf542f3" md5="56bc0c5fb0a0014fcfd756858c05498a" sha1="16a88ba84aae27b1df75c6694cf55b230c0f445a" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gntext.c" size="4758" crc="1de2d792" md5="5a12fd90a6012fcd9f61b7ceb85cdf67" sha1="4b30382e86e31a016c69762a420cff3298052f15" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gntext.h" size="773" crc="be21481a" md5="b7ec44ca6a3be52796738b5ebaf297f6" sha1="9571add6a4faabce10455e08e8282096a34702b9" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnworn.c" size="3008" crc="b5afbc53" md5="245395982c2baf930c439fb76e6f5845" sha1="76da50649f3cc75ca31fb460f39a56c594cb9883" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnworn.h" size="353" crc="f3f0b9bb" md5="e1bc4d732374fc044839201985ce95b6" sha1="c5ac2eaef62e41a1830a14ad4b36c7fa2d944c8b" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnyesno.c" size="2305" crc="665d35b9" md5="68ee42aaf16a0e003c828807c8451913" sha1="4144d3e9973d182b5c959d2110e81e08cee8d1aa" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\gnyesno.h" size="345" crc="ee9e45d2" md5="28e2c1b7fe60a1d944aadc4855da79b5" sha1="9daee2831eacd93d719a2ad3b3e4025bed47fc9b" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\mapbg.xpm" size="22933" crc="afd34cde" md5="5690c08f238778ae2cd4352ad1787ad1" sha1="752c45719976c10f5658399ee2034210b9a2b45e" />
+		<rom name="BrowserHack (v)[var][src]\win\gnome\README" size="1739" crc="4149f43b" md5="f1cc124e8c9cdbf41d1ee26015048f9f" sha1="48888b4a81e0eff83988c76a088bc2815b576176" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\Info.plist" size="672" crc="0d6f50e9" md5="ec4351e9adbe58e6dc3328a6dd456feb" sha1="d80f641ffedbfe510dc6ac75010a75a25f0eb718" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\Install.Qt" size="3403" crc="15236831" md5="3c7ccc092ac02d9e725ea65d92b4eba7" sha1="5357a929b4de7b48dd948e00685026cc4f1c1582" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\knethack.lnk" size="441" crc="e0e8261a" md5="fe888eb7f2eab3c00eb41b64a498acbe" sha1="14a44f933060ebc4b60f206452452b910f152b5f" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\knh-mini.xpm" size="542" crc="28db1375" md5="b901b0a2a3127d4f2cfe1ada6966c801" sha1="8112e97875e4198d0b96a6c1aef99765edfc304a" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\knh.xpm" size="2178" crc="836f297b" md5="7b00ef3b0c0b78bb86a21221147fbfc6" sha1="8fcd415c9cd9a34dada0898d3960368fafc9a325" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\nhicns.uu" size="68731" crc="c49e1d14" md5="20eff209f9caf23549c3918da006cd54" sha1="e2263ef6441f2ee15f100d05c25a813b6abfacf7" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\nhsplash.xpm" size="48173" crc="d4c03454" md5="297581b4a8c89b4ab234ed26186df78b" sha1="e4601a8fdcb8175475b5f8b8c4f05d65c2167217" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\qpe-nethack.control" size="424" crc="2d76aa46" md5="c2150168d80b35433847c9b486fce233" sha1="d0a07db34ffea1bc1035757e7c8caf03d3ca5f29" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\qt_clust.cpp" size="3697" crc="498233c6" md5="e969b0862fbaaa796ceb7a71f7be11e7" sha1="76da884c8e36d92465cacdf407fbfd449bfdc14d" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\qt_win.cpp" size="127814" crc="abf9791e" md5="1e9d83516061fc5f823942bfd8f88396" sha1="29fecfcfb191e63f033e5cf6d243327db8743ea2" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\qttableview.cpp" size="58914" crc="27a0b76f" md5="1af51db9ada280e71561cb7b859fd476" sha1="a75b3cf0aafb53149ca385bbc0670a254fe60036" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\tileedit.cpp" size="9488" crc="3e5b4a02" md5="c2a6c1d9e1715f8753de9dc717b19412" sha1="85eb83e984d4936a1a93de39b4421915cfcd355c" />
+		<rom name="BrowserHack (v)[var][src]\win\Qt\tileedit.h" size="2592" crc="ca59000a" md5="cface8dab92cd0a86335fe6bec69c8e5" sha1="c8d8c649e48fb440c10067474dd985b15a091aae" />
+		<rom name="BrowserHack (v)[var][src]\win\share\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\win\share\gifread.c" size="15891" crc="7d11c552" md5="66de8a065c4ab1dbf2f508526ab53772" sha1="c023f2b5cf825ceff0bced369047a3a45471d64c" />
+		<rom name="BrowserHack (v)[var][src]\win\share\monsters.txt" size="130816" crc="38e89f68" md5="19ee3948da81e4994abe9b135ecd3f2e" sha1="da111fce2d2c1e50cdd0123d5f4ac92c7024108f" />
+		<rom name="BrowserHack (v)[var][src]\win\share\objects.txt" size="148737" crc="e3af28a7" md5="60a0495755a7407536eb65effd632bee" sha1="b5104e4d34762492a4c887f67866017e582a7bf3" />
+		<rom name="BrowserHack (v)[var][src]\win\share\other.txt" size="76461" crc="227940f8" md5="60a53c40217c930c7614db0840157f9e" sha1="cf4515a06586eb75798bfef7844c559d298ca19f" />
+		<rom name="BrowserHack (v)[var][src]\win\share\ppmwrite.c" size="3306" crc="a98025b9" md5="3f056577549e33c4bfe4fa5f8887210f" sha1="e8a98517f6cf89f8184ad4d105bb30a7d99049ba" />
+		<rom name="BrowserHack (v)[var][src]\win\share\thintile.c" size="2715" crc="c71a5298" md5="b5a07a9267a31bbe2caaa2ca4b8ecef5" sha1="108717d6b409a44657a4f1eb2819bfc98a673e8c" />
+		<rom name="BrowserHack (v)[var][src]\win\share\tile.doc" size="5603" crc="eab20161" md5="3e590e69ac34a115690203b29e6c59ef" sha1="d03500f4f4e93329b0ef519ff93f602a356380ad" />
+		<rom name="BrowserHack (v)[var][src]\win\share\tile.h" size="984" crc="d3807f4a" md5="f2762167856520ce7e8ef90bdf082a5d" sha1="6900da6e377821b962db9c3191b19cf4b008a1e1" />
+		<rom name="BrowserHack (v)[var][src]\win\share\tile2bmp.c" size="7655" crc="e35825f5" md5="63819ae54dff2ce04d6c9653456b5436" sha1="4e313b914cc2f73515e780f6f3ee0afe9d8db9d9" />
+		<rom name="BrowserHack (v)[var][src]\win\share\tilemap.c" size="13774" crc="f7b7c057" md5="be9e810427ad9eaa2d2d481fdcf3b5de" sha1="b2658a9b979023b3aa74da90bd56c979b55e106e" />
+		<rom name="BrowserHack (v)[var][src]\win\share\tiletext.c" size="7759" crc="6a5d8329" md5="bafadfe033214c966560a1af19fb1407" sha1="3b026eed96877e3c87108783d1c42303fdee8f77" />
+		<rom name="BrowserHack (v)[var][src]\win\tty\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\win\tty\getline.c" size="6743" crc="0e9aabe8" md5="17d548a63c59b7ded7dcca035a663e07" sha1="4eedd1b5c7987dbed583ed3d4206b5babc1c8c80" />
+		<rom name="BrowserHack (v)[var][src]\win\tty\termcap.c" size="26841" crc="1ad71b95" md5="7c3db1f091ac7e329fedbf0572474fc1" sha1="50473005a6b7e7f278c8c2a53198ad628970bae4" />
+		<rom name="BrowserHack (v)[var][src]\win\tty\topl.c" size="12991" crc="9418b8e3" md5="6559112afab18fbe079894284c9832a8" sha1="039b88eae63b78e5de534e899d7e1c207e8749b0" />
+		<rom name="BrowserHack (v)[var][src]\win\tty\wintty.c" size="67432" crc="e25a70ba" md5="9bbf6f814bce7decc3fd022bb86e35b7" sha1="14708d7f2ca87d0a041a3889936576391723de74" />
+		<rom name="BrowserHack (v)[var][src]\win\web\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\win\web\mount_nodefs.js" size="750" crc="5b62ed2d" md5="904035cd6c7847624a917da73a7cb38e" sha1="79a084b95c3b7848d25c8738a6cf753b7e5bd4ef" />
+		<rom name="BrowserHack (v)[var][src]\win\web\nethack_lib.js" size="55690" crc="fb00e918" md5="acf6c358fcc0a2dbc925ffe16fdb8316" sha1="e50767f315f0a0025fc24966c36bf456222963c5" />
+		<rom name="BrowserHack (v)[var][src]\win\web\tile2name.py" size="624" crc="7d411cb1" md5="e61dd3dd4125fbf609b87590f557ef3c" sha1="7aa896c220797b7beaea8cccef1fe348b031a3cb" />
+		<rom name="BrowserHack (v)[var][src]\win\web\web.c" size="21780" crc="a973b892" md5="c11cef959c3202288b9050aeb2a8c4a1" sha1="4006b06b86ba4294013095febafef19f1642a8fa" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\dgncomp.dsp" size="8394" crc="a80ea936" md5="8eb07893255c90ad075baa4cbf3ffa52" sha1="f031ba8f93f99a3002d07f228a209ca0cd83a24f" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\dgnstuff.dsp" size="2787" crc="f30ebd1e" md5="eb62cfe69bc78ee0f131f84dd447919e" sha1="ec5ee1a59ffbd3b930a1719878b41b83ae3eca10" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\dgnstuff.mak" size="1258" crc="d610a880" md5="50081f7b79e50ac24a262533da09b308" sha1="e9e493fee356067144738e1a56f02c0377d580d8" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\dlb_main.dsp" size="6825" crc="b376fbe9" md5="167bedd0da3e8dcd5ffd4c12bff045ad" sha1="a1557afbd93d4ecbdf4fe1439d9f75410377d439" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\levcomp.dsp" size="7992" crc="6f2cd813" md5="e194e7b2265f776a62e50e0a3a9fc7bc" sha1="8372ed84653286080b1a5499e255083f50012774" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\levstuff.dsp" size="2846" crc="48c96653" md5="41f63e12d270a6d3b1d53ae870df4b7d" sha1="f4e87c5979b70cb59761a7fc9c0dc6a2a503471e" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\levstuff.mak" size="1222" crc="0c4a460c" md5="2196c74f95b9a565068eba58856166cb" sha1="e977666060a00308834165e9af6ec350ac0ed071" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\makedefs.dsp" size="7400" crc="8d04337e" md5="e4418df63f33826a7c00eee26b8cfc3d" sha1="26e3ee608312e14e6d5a661064853544a7bb5a24" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhaskyn.c" size="290" crc="cdb21013" md5="7469060afc2368d71fcbcd6c91196bde" sha1="9cf0e7da630c9e311d47c9291e67d5c9399fbb4f" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhaskyn.h" size="309" crc="3eb82bfd" md5="9f3d6bf13f31df4ad295d50c8bdbef52" sha1="441e1bd8175885eea833873db72d5695da840fe4" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhdlg.c" size="22598" crc="632001da" md5="dece8b541f16c70771bd5e0dd57baef4" sha1="7d30cef2ad7327b4511d5e96146bb7ac5f01dd56" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhdlg.h" size="451" crc="cfa6a1db" md5="3f911d7f960c0d5e68205dc1732a4e10" sha1="1405ac2e8c4d21ef63bea8118f03372dd728c5f8" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhfont.c" size="7818" crc="73c0cdf3" md5="355b08ff304814acaa98e7d821ac9e7b" sha1="520e0d26b6ad820ea6a50626ae6045d7e982dd6b" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhfont.h" size="427" crc="9ef24a57" md5="914c05d154045894a9017d6587bd9fda" sha1="a23d84feff7d23a7b5b1e39bbd7982a7402cecff" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhinput.c" size="1822" crc="955368cc" md5="0904b1185126cbabec8baf3abfeb7c82" sha1="dd383ef1b9d8fbda36771005539741a48de1dadc" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhinput.h" size="892" crc="424ea70a" md5="86469370c077dfae865db8a3828f7de5" sha1="10e180a4573c52a09ebc5450e73c1926f87839e2" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhmain.c" size="24841" crc="4f150c85" md5="8ebdc0b37272eff142d7bde2b51c7b79" sha1="8add4f19e02e79d3ceafea63234bf32d9ba532be" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhmain.h" size="445" crc="ab731843" md5="dc9ee95ab4b2b689cbad04295236dbdd" sha1="c70dac5dc387834f15d937e5221362f5685c6e8a" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhmap.c" size="27726" crc="4ad3e47c" md5="028c50368bce6bc22c57fbb5abe379e9" sha1="a6ef046c840d9bf55c80d79c6ed1a8af5deac1dd" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhmap.h" size="531" crc="e60eee4b" md5="3672879e0c82681bbda17b7ff4fe59d6" sha1="69d4b5398b036a5d8ba8519d2f9ca38ff24d9a56" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhmenu.c" size="40971" crc="a686ad41" md5="785894e6f037be654c448d5feaa51f97" sha1="91ea97a77697c20092fa71e98c565ff6ba3d9b0a" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhmenu.h" size="502" crc="0211a7d5" md5="075ac7b857836cc3b8eb5ca2ef570c1f" sha1="6a64148de45392ecacfe681f89c5cae7d3901377" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhmsg.h" size="1444" crc="884cad69" md5="19217eb4720d0a3644f4dd7e3f1fd1f1" sha1="e9962a8ab269eeb51e9f77095d78b09e7d16a602" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhmsgwnd.c" size="22475" crc="4ef6e2bc" md5="ef1cbd24cb5b6b3f479abfd004d791b2" sha1="dd9416d1f143dc14b14d26666d7441db48a0a9e6" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhmsgwnd.h" size="381" crc="5debde4e" md5="9e6ba9a49747e0c2a4b8b99e2f973a98" sha1="51a875cdc54f070853ed761fc2bd8395c6f5d8fe" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhrip.c" size="7350" crc="de286506" md5="cd7594e64259d67868b8a24e95eb0793" sha1="eb17a055b046765498c71aa5a17ecdec5e3335c2" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhrip.h" size="391" crc="204e703c" md5="3b8a8ef1d79a448944035989a7a627bc" sha1="a3813f2661ebaf1a9161eeaaafaea108e070d4cc" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhsplash.c" size="6555" crc="3fd50579" md5="14f6d39f1ebd4ad487c316a44a76d692" sha1="ad82bfa09f14fcf593b58da78569fc53e2b82260" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhsplash.h" size="302" crc="15126c6f" md5="a606f34a6e4aebcb5c383fe31d45ec32" sha1="c778b10b592d59dbf9670725f40cdeaaed7a5727" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhstatus.c" size="4509" crc="a6306a76" md5="9f7cb22d3b43822a25572cedd3144de4" sha1="cbf9887e3693a140b27020f100146a3c91bead06" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhstatus.h" size="375" crc="5ba12c60" md5="fb9ca7124c6ed3cdb36f15b5292b0bcb" sha1="78347a86c135ca18b50cf11cac452d9fbd29018b" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhtext.c" size="6838" crc="d32ff759" md5="86533167817cb839720cbfa24d921609" sha1="65649da91045f807c1cb319221431d60673f1473" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mhtext.h" size="357" crc="17588d5b" md5="88c546334fae629e4c0a8e742948816a" sha1="b52fa9fbd6c5e2f4afc8a2101f431bb8243ec4f6" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mnsel.uu" size="200" crc="f10b4dca" md5="20cb6ddc4c77ee37f5c86079581b7ad0" sha1="1dbd4d8ae9b6e59c84c3a00ea4ceeb45975c2afe" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mnselcnt.uu" size="203" crc="a6466e61" md5="4f88637bf5f8d44b18ecd6ea865cdcc8" sha1="878521832ca1a5981f4a9b006abd1bf458524bbf" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mnunsel.uu" size="202" crc="409bd42f" md5="42ab5609a1d0fbd5d8a280b1429a008a" sha1="97d5f05d456ddd03dae55a356f39af41f0be6139" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\mswproc.c" size="74100" crc="54229613" md5="e7cc9b83f0f09c29fbc24be31e1e3fbd" sha1="87faf9ad663c294d54f9f96d6d60ac2d0b358f4d" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\nethack.dsw" size="4203" crc="fc0684b3" md5="a031ae027487e67800472b5347562190" sha1="74ee9300dc391ca98f386966f1051394a4ac5559" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\nethackw.dsp" size="21991" crc="16905b0b" md5="4d8c8473b96dded9e48f36cc6eb8312b" sha1="80ba9edce23f9743d6f146ebdc83231a565375ef" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\petmark.uu" size="368" crc="de0b2ea2" md5="d1e465dae43aa213c0901f7539338154" sha1="d57afede3c67d70a888789b77e266a407031b3a2" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\recover.dsp" size="5553" crc="7b06e0a4" md5="492ad2906be220ca0ab2e038b322bd43" sha1="d9d13f7f09e7a579c2c1b58d8943d67d061766ba" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\resource.h" size="6509" crc="583e3474" md5="a399c0c7719718452e8ab2bb6708ca44" sha1="a9a78fede74adc3c5f4004d554daa7443e2b0d1a" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\rip.uu" size="111732" crc="b8fe32b8" md5="5481e7070b975c3c9b882f45d3ba9815" sha1="948b63e66a1074ad6336b9a782527247ca9b1cf0" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\splash.uu" size="147009" crc="5b670036" md5="c46ccdc619157e2e02d87ecdc526cfc7" sha1="492b13673a6f5855fdd7dc90fe3adc0ba25fdaf7" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\tile2bmp.dsp" size="5329" crc="0480d35e" md5="94dff00e9f3bc7ccf5791e0bbcbc977e" sha1="025f50cdc0445ead8564807680c2ab96af36138d" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\tilemap.dsp" size="8012" crc="06dddf41" md5="5204a055190692a7145ebfb68a8ad4d0" sha1="eb7bfc6ed4fae3a96dd493f56fca03f830362095" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\tiles.dsp" size="2713" crc="0d527ea9" md5="07d139eab50accde2f8c93b0428c4e6c" sha1="cac5a88305cca313bd83b8985a9135c179de5147" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\tiles.mak" size="497" crc="a384ba93" md5="1fa8c2586a13c8033ad3bb0a8acc03b7" sha1="8c21af48509b6d88df8b9c4cb86cfd2da7c9533d" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\uudecode.dsp" size="5641" crc="96825703" md5="b2c74d7530525d949ce7dea92af52793" sha1="b3fc67a839310be574b815c04f50766ecfc3224a" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\winhack.c" size="7798" crc="023fbdc6" md5="80e9fa3c013bacfc920be8115c5efc0f" sha1="f392e246cc3f3d0b3c2691e34ba6f5b1e87cd8b9" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\winhack.rc" size="11210" crc="fef6ce8c" md5="d01437c9d9512a0052fd43af6dae2adb" sha1="91b677feb443b0be637e67aeac6a149e68de5aec" />
+		<rom name="BrowserHack (v)[var][src]\win\win32\winMS.h" size="5983" crc="a3eb84ab" md5="110bb2c64d2bdfe57837e75bd403c95a" sha1="ed946ad225447729a96335ae0e4a75bdad761916" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\dialogs.c" size="11196" crc="54367fb1" md5="bc21c416628faee50afa58ae5ef464c9" sha1="a45c834ad87140ce92ea24597cf40e757fda5bc8" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\ibm.bdf" size="39046" crc="8894d41b" md5="206bd648e514752109de9a6593252fae" sha1="e570711f39bc3037070331b993ed53a8d32a5cfb" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\Install.X11" size="10536" crc="ff135157" md5="1bd07fe01c84194c65ef14e88c511a20" sha1="10ca95b23f284689a7e07dc889aaa28c58f65b11" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\NetHack.ad" size="7329" crc="ae7f4546" md5="c33ebcf80d0c86fcbd802c819d5bc0b5" sha1="bcadfbc6c3fd23fec644b1e7143d1c7219d1f0e5" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\nethack.rc" size="2410" crc="46b777ce" md5="141d62621e8e0ca51ea9eb4676bf4464" sha1="234483e2b65bab3a43e7ba9fe3859946b5e02327" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\nh10.bdf" size="47497" crc="4b08dff9" md5="6e2da8d98bec45854fc7749f65c85e58" sha1="2bd455001c5a030b31c4d1e73aaf2b5f6422b4d7" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\nh32icon" size="1106" crc="81a63f3a" md5="dda20c6e6bf487a76e202b0aecb1d962" sha1="d139a8d495f7c329493e15ddcc4c37174a6bf3ba" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\nh56icon" size="2749" crc="d45c3d66" md5="60900201a1e6322d79ab97566e5c2465" sha1="646668cfb3dee1f5cf3e9fac5efdc6e72e3741d4" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\nh72icon" size="4344" crc="a67b149b" md5="3a92d897bfc891de8e0a46670745172f" sha1="bc40bd8495745217fc54d943c3c3a4f4302ab5ce" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\nh_icon.xpm" size="1906" crc="cc10c94e" md5="c2b38c950f89192bbad93ed57ed3b9ad" sha1="c48c15e43a637fee9109183ddd1a21a952c14b7c" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\pet_mark.xbm" size="296" crc="042fa44e" md5="c6307409219e79eacec407d6567cc18d" sha1="ac8b1399c816ae89165b12020877d530cc59369c" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\rip.xpm" size="82274" crc="72eebb34" md5="5b901f06d7fe22809df62f7417a63caf" sha1="ecb06829b44713c59bdb63f764c9e1f93b575af7" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\tile2x11.c" size="5776" crc="e6f79496" md5="065723b51b66ae2e97341dc763179074" sha1="6223edf40718aa3ecf10dfc6dbe87d82f776cf8a" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\Window.c" size="5286" crc="1bd00139" md5="35ce815fb5072633f184a4f69c907844" sha1="c35ef3ccb81a1b73dabda66e97d0bfdc4a70e372" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\winmap.c" size="46269" crc="01692693" md5="914cc949a1252bacbc385ba0eda7c474" sha1="5d067887e5c721c7b41db5f415af53b7b67cc065" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\winmenu.c" size="32289" crc="31c81c44" md5="cea49adcace44b83ec5f6bf6c5f7b0a7" sha1="6fc548ae6c28ca6ed1f614c8bfa8296b62c48004" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\winmesg.c" size="17548" crc="4b5d649d" md5="0bce9ac805fb3be00811f068b82ece81" sha1="e5cc058a22420bb99edb25e3b71b8cff31ec6605" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\winmisc.c" size="25499" crc="b7428a0b" md5="2576b70889e85a50aaab1bb16df7f791" sha1="6a585805123a93e87ad58b77ecb22b13500a8947" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\winstat.c" size="28017" crc="15b79064" md5="f730e526f86bdc9cb180581182cc6f73" sha1="fe6ca89e6b29acf3cd2b1c5d6ab0945c9bbe24f3" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\wintext.c" size="16128" crc="fa9ee0a5" md5="c2fcf90748385d37782fa8804c1176db" sha1="9770a12c2cc8a5b52cc73813a2ee1fa780278a83" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\winval.c" size="3826" crc="d8a3f48f" md5="6d3b07025c0f18614ad327439593fb13" sha1="ce126d47fe8da6f8d4cf5f2f9ce261177cdb28b4" />
+		<rom name="BrowserHack (v)[var][src]\win\X11\winX.c" size="57915" crc="ef1062b3" md5="1802a57b173ce543cfa3cc7e79e1951a" sha1="e50efa227d176e7eb71e92848e1e005f2842638b" />
+	</machine>
+	<machine name="Flash Hack (vr2)[var]">
+		<description>Flash Hack (vr2)[var]</description>
+		<rom name="Flash Hack (vr2)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Flash Hack (vr2)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Flash Hack (vr2)[var]\__Doc\DR email.txt" size="1334" crc="7e1b363b" md5="62dd1e184314d5c967306459094fdb10" sha1="f40936cdfb9276fa447f9381bff3ce27ba7d8c41" />
+		<rom name="Flash Hack (vr2)[var]\__Doc\index.mht" size="462" crc="47ecd56c" md5="af088cd74d5c8597922841ee08a50e25" sha1="f59fbaef1b10b6fbb6e1693747fbdade03504df7" />
+		<rom name="Flash Hack (vr2)[var]\__Doc\RevivedHack - RogueBasin.mht" size="331571" crc="71c4c112" md5="4f5453f6c6a0013568a91e313908e1b5" sha1="22614447b1737f57ff4aab097418608aed466068" />
+		<rom name="Flash Hack (vr2)[var]\FLASHHackHack_r2.swf" size="526296" crc="1e3ed8ea" md5="5c40bae35c19f06d94cf44a0465e20b1" sha1="dc2f3eea61e5251066980d87080c76d86fa0c9ac" />
+	</machine>
+	<machine name="Hack SDL_JS (v)[var]">
+		<description>Hack SDL_JS (v)[var]</description>
+		<rom name="Hack SDL_JS (v)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Ali's NetHack Source Page.mht" size="15046" crc="b952f2b7" md5="ce36e29478afbee790756bb0c4f7e5a2" sha1="b12f3516f406f5debdcf854edfbed281e8a8cac3" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Hack (Unix video game) - Wikipedia, the free encyclopedia.mht" size="260601" crc="de3c49ee" md5="2f36467b14041682c1366670d97a7e99" sha1="ede2f1cfee0f1906498c8e14699c96ed42103ad3" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Hack - Donnie Russell II's Home Page.mht" size="2728362" crc="33a4bc6b" md5="c1dc893a68b048f7828944d212ee6609" sha1="e93eda7e0cbe236e37eaaf1c8d823e00928418a7" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Hack - Encyclopedia Gamia - Humanity's collective gaming knowledge at your fingertips. - Wikia.mht" size="716168" crc="ec52ef3e" md5="fd57f7e46160d11a27036938b9378034" sha1="cb53ef5347ddc245711eb5ca3db3d651411b1c8f" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Hack - RogueBasin.mht" size="20692" crc="a285eff7" md5="e40b4a6c40a08463078db6027d4fa96a" sha1="a6d7ac7fc251cb72bde70751847dd2f62939281a" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Hack 1.0.3 - NetHack Wiki.mht" size="219074" crc="fa3afac7" md5="42135026150f259e06ddbf6baa434517" sha1="4f9cd3b10ffc9dfac6cfb0e0693a875f170193ff" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Hack 1.0.3.mht" size="11316" crc="0059b00e" md5="9c355d3d150e922498cf825dc6120b99" sha1="c48104f5f1cca4f2cfaa02cb32f9cf39b02334ea" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Hack and NetHack.mht" size="51150" crc="ab633355" md5="75ac4f1c241aca79b4175af2c1a3cff4" sha1="c93c0da784b933d8dc788f87949eb224645b751e" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Hack for DOS (1984) - MobyGames.mht" size="544558" crc="37a2c618" md5="c731d178bdce91ed6848f087f3c596ee" sha1="d933d1e7cf5c94028eeaf449c96a986c6ee29380" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Hacklike - RogueBasin.mht" size="15314" crc="7c4cbc81" md5="f45ace109404f89e5c152fdde6936387" sha1="a1738b8ea8778d1200fc0fd727e57faeca8f30e4" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Jay Fenlason's Hack - NetHack Wiki.mht" size="257834" crc="94432ba3" md5="864781b7071e42f69216b56e862a1adf" sha1="f7ff9f33cd87d3c16e292c2e8ea42fc666db5379" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\NewsForge_ The Online Newspaper of Record for Linux and Open Source.mht" size="169434" crc="60d4c8cc" md5="8c0529aed21b78f702f1e63ec2bc78f8" sha1="7fd901aa2f8d1042c7f3d733d48bc61eb427a803" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\Original_READ_ME.txt" size="2593" crc="407d63c3" md5="be2385940a7e75338200418bc1c38893" sha1="08489d30fdcecad148e02ceca268d3fc74ca19eb" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\PC HACK availability - Google Groups.mht" size="609" crc="356053c8" md5="60e3cdd1508767563968fdc8d5da672b" sha1="a75548567b52d7051544005273a7eff0f7e3287b" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\PC Hack for MS-DOS - Google Groups.mht" size="2662613" crc="3f7d004d" md5="9c6842e5ebe34da85b301a3d56cf57ec" sha1="d7ff6d7abddcb7edc18aed08243ebe2e74a91f36" />
+		<rom name="Hack SDL_JS (v)[var]\__Doc\RevivedHack - RogueBasin.mht" size="331363" crc="488b9c2f" md5="59c1b9203dab2dd6d5bea472ef36ff8c" sha1="240fa324240e36dae3e907a586422b15055be346" />
+		<rom name="Hack SDL_JS (v)[var]\F11 - Toggle full screen mode.txt" size="29" crc="f50c6767" md5="c2819d50034279e166a24f6cc440d09d" sha1="535924000a85cdea38584e651e5c97542520dba8" />
+		<rom name="Hack SDL_JS (v)[var]\HACKHELP - Erik Max Francis (1987).txt" size="102754" crc="1d04d678" md5="b3428debf2cea1c0a400ad6c5a8616bf" sha1="575ed302c2cc6a6e93e36801d86d935c3b0cab1a" />
+		<rom name="Hack SDL_JS (v)[var]\HINTS_DOC - Don G Kneller (1986).txt" size="10861" crc="1a9a4c8c" md5="59110cd8f28cd374b7e6c37bb8bd3e64" sha1="6d7d2f03c973d2b36348d3281e5703d671bebb96" />
+		<rom name="Hack SDL_JS (v)[var]\LICENSE" size="1572" crc="b77960db" md5="a3682afbb1f6a9c586b62c1f44c787b5" sha1="0b1ceffd54a3164f8a24bc6b3d17f96e47b71ebd" />
+		<rom name="Hack SDL_JS (v)[var]\SDL2.dll" size="1068544" crc="238e4f41" md5="ec15b044a46bf6e411f9eba551858030" sha1="fc22253cd69f45c77a9f5ce44b43a1feb7ccc655" />
+		<rom name="Hack SDL_JS (v)[var]\SDL2_mixer.dll" size="186368" crc="284a3d04" md5="6281a5237a616cd86551e3f314b56ebe" sha1="f1a12ba0ba0680f61b94a51895d4f3f345732d2d" />
+		<rom name="Hack SDL_JS (v)[var]\SDLHack.exe" size="1578496" crc="e2bf00ef" md5="fd628201b6995ced13beac116ead5d2a" sha1="d43a7b9585371dbf0836d21c01dfb3ae549b071b" />
+	</machine>
+	<machine name="Revived Hack (v2.5)[var]">
+		<description>Revived Hack (v2.5)[var]</description>
+		<rom name="Revived Hack (v2.5)[var]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Ali's NetHack Source Page.mht" size="15046" crc="b952f2b7" md5="ce36e29478afbee790756bb0c4f7e5a2" sha1="b12f3516f406f5debdcf854edfbed281e8a8cac3" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\DR email.txt" size="1334" crc="7e1b363b" md5="62dd1e184314d5c967306459094fdb10" sha1="f40936cdfb9276fa447f9381bff3ce27ba7d8c41" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Hack (Unix video game) - Wikipedia, the free encyclopedia.mht" size="260601" crc="de3c49ee" md5="2f36467b14041682c1366670d97a7e99" sha1="ede2f1cfee0f1906498c8e14699c96ed42103ad3" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Hack - Encyclopedia Gamia - Humanity's collective gaming knowledge at your fingertips. - Wikia.mht" size="716168" crc="ec52ef3e" md5="fd57f7e46160d11a27036938b9378034" sha1="cb53ef5347ddc245711eb5ca3db3d651411b1c8f" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Hack - RogueBasin.mht" size="20692" crc="a285eff7" md5="e40b4a6c40a08463078db6027d4fa96a" sha1="a6d7ac7fc251cb72bde70751847dd2f62939281a" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Hack 1.0.3 - NetHack Wiki.mht" size="219074" crc="fa3afac7" md5="42135026150f259e06ddbf6baa434517" sha1="4f9cd3b10ffc9dfac6cfb0e0693a875f170193ff" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Hack 1.0.3.mht" size="11316" crc="0059b00e" md5="9c355d3d150e922498cf825dc6120b99" sha1="c48104f5f1cca4f2cfaa02cb32f9cf39b02334ea" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Hack and NetHack.mht" size="51150" crc="ab633355" md5="75ac4f1c241aca79b4175af2c1a3cff4" sha1="c93c0da784b933d8dc788f87949eb224645b751e" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Hack for DOS (1984) - MobyGames.mht" size="544558" crc="37a2c618" md5="c731d178bdce91ed6848f087f3c596ee" sha1="d933d1e7cf5c94028eeaf449c96a986c6ee29380" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Hacklike - RogueBasin.mht" size="15314" crc="7c4cbc81" md5="f45ace109404f89e5c152fdde6936387" sha1="a1738b8ea8778d1200fc0fd727e57faeca8f30e4" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Jay Fenlason's Hack - NetHack Wiki.mht" size="257834" crc="94432ba3" md5="864781b7071e42f69216b56e862a1adf" sha1="f7ff9f33cd87d3c16e292c2e8ea42fc666db5379" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\NewsForge_ The Online Newspaper of Record for Linux and Open Source.mht" size="169434" crc="60d4c8cc" md5="8c0529aed21b78f702f1e63ec2bc78f8" sha1="7fd901aa2f8d1042c7f3d733d48bc61eb427a803" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\Original_READ_ME.txt" size="2593" crc="407d63c3" md5="be2385940a7e75338200418bc1c38893" sha1="08489d30fdcecad148e02ceca268d3fc74ca19eb" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\PC HACK availability - Google Groups.mht" size="609" crc="356053c8" md5="60e3cdd1508767563968fdc8d5da672b" sha1="a75548567b52d7051544005273a7eff0f7e3287b" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\PC Hack for MS-DOS - Google Groups.mht" size="2662613" crc="3f7d004d" md5="9c6842e5ebe34da85b301a3d56cf57ec" sha1="d7ff6d7abddcb7edc18aed08243ebe2e74a91f36" />
+		<rom name="Revived Hack (v2.5)[var]\__Doc\RevivedHack - RogueBasin.mht" size="331363" crc="488b9c2f" md5="59c1b9203dab2dd6d5bea472ef36ff8c" sha1="240fa324240e36dae3e907a586422b15055be346" />
+		<rom name="Revived Hack (v2.5)[var]\Guide.txt" size="8567" crc="e108d144" md5="c40e2f8bb8b8fb9824f5631804ff3654" sha1="a012a36718796e12ca1fb81325051f70996e7140" />
+		<rom name="Revived Hack (v2.5)[var]\ReadMe.txt" size="4967" crc="098e52fa" md5="ea7da3d25bdc76ebd6da5d42f019daa8" sha1="ad37bda5dee8a9d2eaeea1aaa73370ec30704ec0" />
+		<rom name="Revived Hack (v2.5)[var]\RevivedHack.dat" size="9389" crc="360325b4" md5="9d43d3d28d648c73e407ce505de87eda" sha1="415164a8ed23263532566e7d1d657bf27d159872" />
+		<rom name="Revived Hack (v2.5)[var]\RevivedHack.dll" size="135680" crc="680a8c50" md5="aa527b6b5aa224156cb205f5fdf9abcb" sha1="26e00d43fd66c50d9e5a95e246401c0aee61d07b" />
+		<rom name="Revived Hack (v2.5)[var]\RevivedHack.exe" size="163328" crc="b3d74125" md5="e02e4152e91fb873104b3247238d7ab5" sha1="9ff535e34f76460ac6964f75e96c8732c4f7b7e3" />
+		<rom name="Revived Hack (v2.5)[var]\RevivedHackSafeMode.exe" size="6144" crc="c8ddc508" md5="0eefe155c37ba947a402981d588e1dd6" sha1="b0f5b854b3f28f3552f08006d77835c58d8ba828" />
+		<rom name="Revived Hack (v2.5)[var]\winpos.dat" size="28" crc="c3d473ba" md5="61241ce3133b5422e981774e1be7dc48" sha1="6151ddd04a6de91dee84e9deb12e95d7cbcd655a" />
+	</machine>
+</datafile>

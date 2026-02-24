@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - XDRL - 7DRL - 2005</name>
+		<description>The classic roguelike archive - XDRL/7DRL/2005</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="7DRL WIP">
+		<description>7DRL WIP</description>
+		<rom name="game006.py" size="9126" crc="c7495264" md5="3b1d3ec62493d32959a2817d02c92052" sha1="299edaf96834090831476a7335b7502516798574" />
+	</machine>
+	<machine name="_Doc">
+		<description>_Doc</description>
+		<rom name="_Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="_Doc\7DRL Contest 2005 - RogueBasin.mht" size="332140" crc="8d9d86ae" md5="f7bf26d20e23384966db4ca97622bf94" sha1="05886001bbe34e4534b9c88697ac374b935ecaee" />
+		<rom name="_Doc\DiabloRL - Diablo, the Roguelike.mht" size="150628" crc="f9e6a5ad" md5="ce5488a860da06c5429915a92d5744b1" sha1="81718bacab59afb5d9430333bec0693e58af70bf" />
+		<rom name="_Doc\Quest For Pants.mht" size="116655" crc="191e7f06" md5="6287d538f39be385057a8eafe576efe6" sha1="ed3383ea293dff15ac8f8fb9e141b96d46cde401" />
+		<rom name="_Doc\Scrap homepage.mht" size="161664" crc="df2703db" md5="c4a9ad03f846b69429b31c744bf38e73" sha1="b88d27d8e5636cc7289cb33b3698a4e82104093a" />
+		<rom name="_Doc\You Only Live Once.mht" size="32648" crc="9e51e75a" md5="2da33cbe61d22731a909dcd73325c1a0" sha1="b3f9f2381ab758f71841a3f8d85a062e2ecf2898" />
+		<rom name="_Doc\Z-Day - Deshipu Homepage.mht" size="73233" crc="dbf66bd9" md5="4414b0b6cd1e69d52af741bbefb0e928" sha1="bc0668753bcd030ea4cf26e13fca09eb490c4b34" />
+	</machine>
+	<machine name="diablorl-demo-7drl">
+		<description>diablorl-demo-7drl</description>
+		<rom name="diablorl-demo-7drl\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="diablorl-demo-7drl\BASE.DAT" size="1300" crc="94d68243" md5="1adb6ed2f2dc0763de706a896e46e74c" sha1="05e90a97ff073ecbd62a75819edc86fc8105f9d0" />
+		<rom name="diablorl-demo-7drl\cells.ini" size="5542" crc="0427610e" md5="b1ae5cc0f8721c006eea13df9026ef9d" sha1="9b1cd4c65e94025f026aed84c3c7e4ed371ff78c" />
+		<rom name="diablorl-demo-7drl\data.ini" size="1269" crc="316c3b0e" md5="2df7ff75c9012c8b8d4c09bece0fd700" sha1="6ee7583179809deb4690c8247748d56f2ead4314" />
+		<rom name="diablorl-demo-7drl\defines.ini" size="202" crc="c27c647c" md5="4b492a27961bd0e16be680250a29f9ca" sha1="8c6f6d53b3d0114b9a0d4d9178570928dd62ddb0" />
+		<rom name="diablorl-demo-7drl\diablorl.exe" size="2274506" crc="8dc02f55" md5="29bd01875d05fae2c4be56c70b655ae3" sha1="6c99406c6a503fa6d2125d8b1df749ac77156dcd" />
+		<rom name="diablorl-demo-7drl\diablorl.ini" size="331" crc="70634f52" md5="e27fc497815790f93305c682bcc4b1d5" sha1="b7fef4a7520ee20f46205297a7bdb17677960c3e" />
+		<rom name="diablorl-demo-7drl\flags.ini" size="252" crc="5fe30ae3" md5="2879a051edb6558b4edb4d921019f37d" sha1="9226cd4103faa40527510a63910a459b3214c1c4" />
+		<rom name="diablorl-demo-7drl\items.ini" size="5381" crc="3a2ee00e" md5="c2faf3c583a30c060807ef8d9c312064" sha1="0851f4152af61c8fc9b474b5e02b656229648fb9" />
+		<rom name="diablorl-demo-7drl\levels.ini" size="445" crc="688c78c5" md5="bd04b2128b8e40ee3f65b1a66ca31612" sha1="06c49bf711c6941117e62954c037793ed70db468" />
+		<rom name="diablorl-demo-7drl\monsters.ini" size="7120" crc="6e988954" md5="03e0d71298652e2e4697af9c92808a47" sha1="aa5225e3924bba4a48a8b7fe92fbeb01728b04c9" />
+		<rom name="diablorl-demo-7drl\readme.txt" size="2880" crc="4cc1951a" md5="9debd8b9de087c740b3c2c4cbd42e567" sha1="5f031142be4bb4096466a451784341baa5eed0b6" />
+		<rom name="diablorl-demo-7drl\texts.ini" size="2686" crc="779c3149" md5="5bf4934b3d7455b20811f91f887901de" sha1="953efb6bd5c6c961c8f4903e3c9e76ae56b9361a" />
+		<rom name="diablorl-demo-7drl\town.map" size="7226" crc="0a49af4b" md5="652f47985685ee008a3668645a540f0b" sha1="d9a3d586620f35bd5c68654fd46e8aea333d5e6b" />
+	</machine>
+	<machine name="lurk">
+		<description>lurk</description>
+		<rom name="lurker7.exe" size="38083" crc="0a63ec5d" md5="2e96e64a975a6d84f3f3a15deb5de3fe" sha1="1018cf22c874bb207938158d5970507f70055d4f" />
+	</machine>
+	<machine name="Nethack II Quest For Pants">
+		<description>Nethack II Quest For Pants</description>
+		<rom name="Nethack II Quest For Pants\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Nethack II Quest For Pants\qfp-1.01-src.tar.bz2" size="212212" crc="0c27e90c" md5="d343a499e0f4a6ece20a149c0a6cc692" sha1="c43885388a5c967e7c1dda7b4f7d7292e3f4c439" />
+		<rom name="Nethack II Quest For Pants\squeak.bz2" size="339443" crc="8cfd4119" md5="1caee4bf1f245bf3d3441ba3a24d4df1" sha1="4e30c080382c32d53ac8194b7799fb0ae98cde29" />
+	</machine>
+	<machine name="Scrap">
+		<description>Scrap</description>
+		<rom name="Scrap\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Scrap\curses.dll" size="114688" crc="3e192511" md5="ba3fbfc148431225343e747e78356856" sha1="bee72a55d854e3ab25786fab5b6ffbe3834c01a7" />
+		<rom name="Scrap\manual.txt" size="5122" crc="660c8afb" md5="59db99d45b0496e86f3e7895d5753c4f" sha1="e9a537b4fcaec9a91c1d80642451f7cb471133a8" />
+		<rom name="Scrap\readme.txt" size="1638" crc="ba509523" md5="b14d40d0447b23e1884b08c1fdb55c5d" sha1="5d2fb756ccf10afeea47b6b7c91cb25bc5690aae" />
+		<rom name="Scrap\scrap.exe" size="418304" crc="da310d14" md5="5ddf04071ad3037a6fbe2cbe74de9c5c" sha1="91080c4c2a4356ba53cd2dd100ed66136a4859b2" />
+	</machine>
+	<machine name="You Only Live Once005">
+		<description>You Only Live Once005</description>
+		<rom name="You Only Live Once005.tar.gz" size="1184529" crc="f8514a7e" md5="d2d184d395541abeec42de600ca2b0e8" sha1="cfc822d7d76a694823db9670a2fba792fc5ab0d2" />
+	</machine>
+	<machine name="Z-Day">
+		<description>Z-Day</description>
+		<rom name="sources\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="sources\zday.py" size="57867" crc="08ce22df" md5="d500bb6d04b0aa46344b557542f70607" sha1="c1332ef57adb9409ff3a35dbe39e7475fb4282cd" />
+		<rom name="windows\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="windows\7drl\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="windows\7drl\zday.zip" size="564914" crc="25261213" md5="f4bdf4fbc02c47c17840689ad63287f5" sha1="ade75dbe00907a10544f61fab0f51b2da576afa7" />
+	</machine>
+</datafile>

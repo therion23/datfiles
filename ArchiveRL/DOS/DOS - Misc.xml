@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - DOS - Misc</name>
+		<description>The classic roguelike archive - DOS/Misc</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="Amulet of Yendor (v1.0)[misc][DOS]">
+		<description>Amulet of Yendor (v1.0)[misc][DOS]</description>
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\__Doc\Download Amulet Of Yendor _ Abandonia.mht" size="2530592" crc="e4b4d9c2" md5="e5dea058204b15a3de59823d8f704382" sha1="8528190ae85cd3f90fdd6ad2b1b077c0ef1556fa" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\__Doc\The CRPG Addict_ Game 226_ The Yendor's Castle (1986).mht" size="3203594" crc="ff8d1cce" md5="4bef4eaeae5f81046d1a7888a3f7a9c3" sha1="a58944e8bfa734e7b2d7719fb1ef34bd9ece2b13" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\AMULET.CMD" size="1408" crc="4484c9cb" md5="aceaef1c366662e2eab363f89b446edc" sha1="4fc99d41110e931748bf0af2495131679ce8aeb0" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\AMULET.DAT" size="1280" crc="a422bc67" md5="b5d1685ccb9f29e702774612a2543d95" sha1="7582d6dbc3ee9939fd2a4243a1cb2605f71bee3e" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\AMULET.EXE" size="37929" crc="fd60b121" md5="50c9587437ca8689532b9d129f977464" sha1="e8549b5f3f9c77698962d14736ae0cccf6e30db6" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\AMULET.INS" size="7424" crc="a72cebe4" md5="643a7def2e75bd29a6b64e57fce4b54c" sha1="3105c9012528d62f17675b1ef9d8aa37ffbb1f38" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\AMULET.PIC" size="1024" crc="8b5e18a9" md5="cfcc39bd5fc803c7192064cf2123a267" sha1="81ccb02983fe7129bda2bcbbc2ca39d84dd22827" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\BRUN20.EXE" size="69454" crc="fed31ef4" md5="ab33c411f9cce95fa838bffca587da80" sha1="b928749f624be8fe64aa862eaaaebe277d2c0b66" />
+		<rom name="Amulet of Yendor (v1.0)[misc][DOS]\file_id.diz" size="242" crc="eb311f52" md5="6f428161616ee7c7b6f4e6a4462a700f" sha1="627aaacb757b1058ad1a53e26f7112c5720c4250" />
+	</machine>
+	<machine name="Beneath Apple Manor (v)[misc][DOS]">
+		<description>Beneath Apple Manor (v)[misc][DOS]</description>
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\__Doc\Beneath Apple Manor - Wikipedia.mht" size="467719" crc="b0759adb" md5="014de110a3134ce7c015acc38a712e8d" sha1="6a238661c1834e499e7cc3c69e5207e0ea0aec78" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\__Doc\Beneath Apple Manor for PC Booter (1983) - MobyGames.mht" size="722811" crc="051c8261" md5="65571508f29bc39a8cd4a13bc99717a9" sha1="ecad96e59879eab21d5650a6c6791bf096e8addc" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\__Doc\Don Worth's Personal Home Page.mht" size="639709" crc="142dac43" md5="51f09bb3ea243d2368e0f13d91aee396" sha1="2391915cb2edcc94f1b790f4f6624b9713febf46" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\__Doc\file_id.diz" size="51" crc="60976eb4" md5="0693995eea05aeaf79e89992792d1e3d" sha1="c75daabab8d97f2a544506c73e0537883f38ae35" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\__Doc\Home of the Underdogs.mht" size="364439" crc="519b0e50" md5="281a72ac57ebc26bd1a8d139178f746a" sha1="5ce2b288ba6900df6a9c86e98654c356b20c729e" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\__Doc\readme.txt" size="1629" crc="b3dec0d4" md5="734904eb31b7ed3d221d7009a5cfc9d7" sha1="576219bee92cd8f832c4b14c521de3808e72a842" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\__Doc\The CRPG Addict_ Game 79_ Beneath Apple Manor (1978).mht" size="1663311" crc="7a96a779" md5="5f8a0f771f5ced9f53c4e9c0db905c16" sha1="67fa1325b319782e722bbd4d2a7bff46f84ceb0a" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\a" size="512" crc="14a0b5db" md5="c92c79fb80a18d06d0a0dc9b76f7c2fc" sha1="18610c29da89d3cd60def2b470b6c340014ecadb" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\apple.com" size="52736" crc="c522f166" md5="180e1b9e7cbace68fafbe85d99473288" sha1="a6248f7f6e81f9e800bb770be69d7455f775c520" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\b" size="512" crc="5b265380" md5="34c564074432a593e033fc4b4284e2f8" sha1="d8e6c2f5ef9caf58fd4fa7297df302d54ae6a83d" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\c" size="512" crc="840102ba" md5="5c73d9f261b6a71d4ab2d78335feeba0" sha1="59ec4c71c6296ee604e113914844abda3762fd8b" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\d" size="512" crc="16c721da" md5="626b6d7c78ffbd350dab78e1c63265f7" sha1="997d5e76fd2cfc990006178aff5f559e13245a40" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\e" size="512" crc="14a0b5db" md5="c92c79fb80a18d06d0a0dc9b76f7c2fc" sha1="18610c29da89d3cd60def2b470b6c340014ecadb" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\f" size="512" crc="141b29e3" md5="073629f154b01464b62124636b28e124" sha1="823ccbf84f8b96c67546972cc01f50db31dab8cc" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\g" size="512" crc="14a0b5db" md5="c92c79fb80a18d06d0a0dc9b76f7c2fc" sha1="18610c29da89d3cd60def2b470b6c340014ecadb" />
+		<rom name="Beneath Apple Manor (v)[misc][DOS]\h" size="512" crc="ac0a5544" md5="2e9eb1d16d43e99473e5c14ec5e7a457" sha1="f7af9cd855e6f6cb54a5643cc5f12ef83f007e78" />
+	</machine>
+	<machine name="Bez Tytulu {PL} (v0.03)[misc][DOS]">
+		<description>Bez Tytulu {PL} (v0.03)[misc][DOS]</description>
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\__Doc\Roguelike Graveyard.mht" size="341504" crc="c0a0cb0f" md5="e1b37b17b65875ca455588ed209828a1" sha1="e18ae7120336841fad39d68d6a096ffe621d34e6" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\BT003.EXE" size="80704" crc="0667056a" md5="4fbd6250e3edc758dec25ce856699617" sha1="2cee9fce58b3dc079feae62a2472257407bb7447" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\EGAPL.EXE" size="3899" crc="f0cd235c" md5="a5d91f60b036a5b9c0426ddd390a860d" sha1="90d370ee7796016116881a7de7e1804e9e91c08d" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\KEYBPL.EXE" size="2443" crc="753e7f37" md5="233209fce33a8e46d310d5183ebf9c9d" sha1="53acf5728191ef70d6a2a9b5e40fa504ea795db7" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\MAPS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\MAPS\LOCHY.DAT" size="140" crc="c6cb4dcf" md5="6a83a5d7e33d3d1c30efc85635922384" sha1="41c117604e5d5973a2bd37af05d5b5b1f6f8ed6b" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\MAPS\MAPA.MAP" size="17784" crc="56581855" md5="a1da07707e585102fd09a1a634817a9f" sha1="752b69bbc0b874d0f2db9b55eed75db9b83b9901" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\MAPS\SWIAT.DAT" size="10220" crc="de57b9b6" md5="e51fe3a6d2d8ed7734da88333c5456fd" sha1="b74297adea65e58541a04f313ece5c615691beba" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\DRZEWCDR.WEP" size="3768" crc="08e217f9" md5="d73f510689a7f885eac148e08111819a" sha1="df49d9092f00afa395f8879c332b0532e1b77d32" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\DRZEWCJR.WEP" size="4239" crc="aa167fb6" md5="8825b3b12a43f7ad81f8d40be739a0e0" sha1="180abdbac3f43ec8ea689b3cd306341cbaf80440" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\HELMY.ARM" size="7222" crc="e33c8033" md5="84335dfe02ffa6504fd696aba2d474c5" sha1="4929f90f89947f566901dbd6b782b864f2b5e113" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\MIECZEDR.WEP" size="3768" crc="645781d3" md5="9a995213f3c96c7e81f49afb7329e630" sha1="a521959f528c7e2b5176c0833bbad61bd497ff75" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\MIECZEJR.WEP" size="3768" crc="1dc74393" md5="65ffee4997a19d1d73ff9f8c2e08071d" sha1="cfd643595208b295674c096b8e5f0b9e743eefb4" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\SZTYLETY.WEP" size="3140" crc="af1db0b5" md5="0d4feb55873df83f85224677cb49cefd" sha1="0c97473d79dc947f538a2a48785e0f8f341128f7" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\TARCZE.ARM" size="7379" crc="89c8fb31" md5="42717050b4e66474eb1d7c22294aeb34" sha1="d41bdcae41498ff9ef74f033f1fa4a5f2e6f0600" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\TOPORY.WEP" size="3140" crc="c53b08e7" md5="36421bcf74591b8d3751d26911123208" sha1="16f29c137860906aff664501ce1cc1e1dd21b067" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\OBJECTS\ZBROJE.ARM" size="8949" crc="f4826629" md5="5e33eb0b6a53903f67141f85ecc4d6c9" sha1="7f1d07917dbf6eeaaab5748897cfc2ea9bf00ee7" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\SCREENS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\SCREENS\EKRTYT1.SCR" size="2964" crc="f8186655" md5="e77884d919477afa4d46193a86d027a1" sha1="a4fa93b23a79c9bedc58666b2e5f5d7a1fcada24" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\SCREENS\EKRTYT2.SCR" size="2964" crc="9d662d1a" md5="54f3c5320dc9a7789c57fa89958d0368" sha1="9b3f2c7b141e41416214f6f4e433a8a537b03ab2" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\SCREENS\KONIEC.SCR" size="2964" crc="d6792afe" md5="62c9d1178179108dd2e69d406859bded" sha1="9461416770dc0f3291e7a7563f072c90404dd4e7" />
+		<rom name="Bez Tytulu {PL} (v0.03)[misc][DOS]\START.BAT" size="88" crc="78eb6510" md5="6e33718d570b8683e19ca14483a3bb1a" sha1="fe8e13b30b3ec71ee9e4f4272579c8f3cad7644f" />
+	</machine>
+	<machine name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]">
+		<description>Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]</description>
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\__Doc\Bones.mht" size="609121" crc="da694d49" md5="22f43c733b6584695e6569f4a875ba42" sha1="9eba748c0ee04a02cb19563a5a268eef79dcbe25" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\__Doc\Bones_ The Game of the Haunted Mansion for DOS (1991) - MobyGames.mht" size="895618" crc="41903264" md5="cd5b5ffff25bb86003243aabcd65e4a1" sha1="db406f93efcfb1c5095d8814211fc55988fff51b" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\__Doc\Download Bones_ The Game of the Haunted Mansion - My Abandonware.mht" size="1166754" crc="00e2bda3" md5="2d49587a86425527fbc746898dc7305e" sha1="8be0aecd40a9047659fb31ca3798bce81e9ae4aa" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\BONE.D1" size="18056" crc="d55eed1b" md5="972ca96a489320eff869c215f9189db0" sha1="38ca7911d501645ea45908801db18d35f968690c" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\BONE.D2" size="17944" crc="706f5bd7" md5="5cd27860f645e586aecb3e98a1093872" sha1="45ed9a2500ca90c2fa639b37176947a2f2e3c461" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\BONE.D3" size="17969" crc="2c5fee93" md5="91c9d803770bc100db1a4bad24e07a63" sha1="4b7f2726584bd0bf7f9d69629657522d3760b612" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\BONEHIGH.DAT" size="71" crc="91239839" md5="6404e7201e33f1a50b9923b9843b47ec" sha1="9869ab3bb799582d2f089b1f2c7e29e694f4c1e6" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\BONEINFO" size="1094" crc="448aa4e6" md5="7fbe478c94a3a3fdbd99fafc5578f6a5" sha1="8b8a7deb5801e1a11daec80ad9f3a7f19489277f" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\BONES.DOC" size="16943" crc="f6be10b6" md5="543be5a47a717fc0847e9741b4a54fad" sha1="b9c2def369619b95270b78a427b59957b279464e" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\BONES.EXE" size="136488" crc="ff084627" md5="21550b385ea58941f15a24f3ed3c46e9" sha1="19aae21bbc458b894895e6eb55e003bedb09e58b" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\file_id.diz" size="275" crc="d5ce4699" md5="920e30b1bf12198753173e055cca59c0" sha1="96afcf35f2d5cd91d4eeeab86e8c9419be415a24" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\ROMAN.FON" size="11120" crc="b2a89c7c" md5="4ee1677544ff127cf898a8e432014c7a" sha1="28ffc43885b7dda4d5581d019a779efa5af1e5e1" />
+		<rom name="Bones The Game of the Haunted Mansion (v3.8c)[misc][DOS]\WHATS.NEW" size="1664" crc="bbbaeb89" md5="38288fb016185311f713a624e4e11ce8" sha1="8fdada544b743531bdf844656bda9c528d4b9707" />
+	</machine>
+	<machine name="Dungeon (v6.0)[misc][DOS]">
+		<description>Dungeon (v6.0)[misc][DOS]</description>
+		<rom name="Dungeon (v6.0)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\__Doc\Role Playing Games_ Nethack, Rogue, Unreal World, and many more_.mht" size="530217" crc="966e4042" md5="98aeb8a64b04777904f595ffcb57a9bb" sha1="2642b8e5328fd25bbfa06f775b06fdfd0b7f600a" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\ANSI.SYS" size="9148" crc="19b6e68a" md5="5460ef6160b4ec70b22a7913f6ff97c4" sha1="5a41e2bf1275ffd9ba98bdf4a8233d72e6cac7a3" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\DUNGEON.DOC" size="14523" crc="7176dca3" md5="ccd79d3012b8eb0081c6a1a5883663bb" sha1="36deccdb3378bf051635276eeff07530ee629e5a" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\DUNGEON.EXE" size="191440" crc="185a9799" md5="6b01406fb472fbca432f6b548d943c2e" sha1="5847b5d8433837f1c06c397ced8a240c9d452afe" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\file_id.diz" size="191" crc="aac55093" md5="f4a51ce1e26860b77a96fb9c75965d1e" sha1="c4b9b0de668f454c7f3e3e0c91b016fccd363c46" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\GO.BAT" size="47" crc="0018b3e0" md5="b84dad40c3c8accf190ec81261d8d899" sha1="da964fc3a8c33c162f637b2b43b57beab937d5b9" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\PAGE.COM" size="325" crc="b37d15ee" md5="04c1f81a5990776a7119a4766d007ba8" sha1="3b32d8f1d02b094d5509cf995f97c4945fab6adf" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\PRINT.BAT" size="39" crc="71b69f4e" md5="c8237134747fbc7ee9aa628d67e09125" sha1="785bd6f5a2189fbacbc4e3c164ebd95b3ffec663" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\README.BAT" size="41" crc="5fc50182" md5="f7290e81e0b5272cc62aef6600a5a0ac" sha1="6867477375e6015253eeb3cfa2e3157c3355f0fb" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\README.TXT" size="1462" crc="8dda4b53" md5="ea6c6b6acc0b2f120f09fd92a0bd17a4" sha1="9a77f59b91bcd433b7611664e1bba6cad793306f" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\SOURCE.ZIP" size="29753" crc="ffb209bd" md5="aa668349a384ee1131416952eaea94b3" sha1="0ff10728ca9248ecf5ac1185098e5f99d62cf850" />
+		<rom name="Dungeon (v6.0)[misc][DOS]\VIEW.BAT" size="42" crc="39ab2248" md5="0a5b63bea7b78b9c480a1504e35a4559" sha1="80c45b7a37b24fe40a261b167d766fdaa3660def" />
+	</machine>
+	<machine name="Dungeon of Death (v1.0)[misc][DOS]">
+		<description>Dungeon of Death (v1.0)[misc][DOS]</description>
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\__Doc\Demu _ Download Dungeon of Death.mht" size="576791" crc="cd37c408" md5="3a7f25d4e43ac0ab9b047e74c7702a2f" sha1="55978f8adbacc804107c7738074136b39db6d4fb" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\__Doc\Dungeon of Death _ Alex Kapteyn Jr. _ Free Download &amp; Streaming _ Internet Archive.mht" size="2952467" crc="21695eda" md5="3904770a8866e84ab3cb083c197a5fb9" sha1="130916e5400cc0fb9160ee1ded2147b858c192a9" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\__Doc\Game author finds long-lost game on DOSGames.com.mht" size="423525" crc="23f0d774" md5="27c564e9ab89e525fc328bf19d92c032" sha1="f30575813ef646213d9984e94241934052d4e124" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\1.DOD" size="31140" crc="d1fc3f9f" md5="5e209a0b9b235b6f96eb271f41f7866e" sha1="7a4082b7bf2cdb4a0b7ee2acda06d73dfedc7620" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\10.DOD" size="15604" crc="0f308a08" md5="f4a15e314ef9c4c93699636de2b04f4c" sha1="2ca1d0b7ce1f3e80c11f64f73f2eade7a3ac8044" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\11.DOD" size="19039" crc="5818196e" md5="0f5deb9eb18db3d6058e83e4006e0575" sha1="78c513baaaf457cf88038894ca866409556887fe" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\12.DOD" size="19316" crc="1355cf2d" md5="c2577eabb78381907289b92731cb907e" sha1="59d7c8cf369190e61134a5be897f528ad869ed22" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\13.DOD" size="13268" crc="45651cc1" md5="8cde74fb23e9169b6814777444fb4dba" sha1="312d3ab72c0a3665ee42f4769471a204dc99050c" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\14.DOD" size="13028" crc="36b6443c" md5="976578d93f6ad90f2e3fce93525d0228" sha1="5fe5270407a96821955a49b09221931f881df6b6" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\15.DOD" size="20536" crc="d29e6c79" md5="0a278d77905a0dcdbd1e8cb628366986" sha1="0946e96a5745d1cfb342b59f3eb1b47f24eeb8d0" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\16.DOD" size="35712" crc="afc0963e" md5="77a5e9e69c28cd3063c1e2925dfd2a31" sha1="0a047e27c16b01c43f27fd450b3e341a81875662" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\17.DOD" size="39545" crc="e7ab4f44" md5="0aa57ad8a5cb7adef1a27d26064d32c2" sha1="9b646e02d50967f261c2dc1f2902de264965417d" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\18.DOD" size="39725" crc="0217ac74" md5="ddef405e25e815fc51abdf5dcea3a2f9" sha1="af53bcb32d2c8d99482e1a4039e61710fa39a247" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\19.DOD" size="39181" crc="39caaba2" md5="61a214e73d6af4910ec11098ad4f8b73" sha1="62a62ad9e56db99b30bb0ad440723a7b69092a01" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\2.DOD" size="13898" crc="df0ad700" md5="5e5b7e612c5a6fff7ccb2e4ef4c1b438" sha1="c63b685e97de317ef0e09df9b7d2ca2defac2f08" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\3.DOD" size="13919" crc="55246893" md5="f839f4161f07e7cbb3f09ddd58b651d6" sha1="940f8a6631227ee3962d2a21fca367bf9b890186" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\4.DOD" size="12872" crc="9faacc36" md5="6a715590e35d6a4a87dad333dac29c08" sha1="d386299b298762cccb1c4f405644f3916b2cbb3f" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\5.DOD" size="9970" crc="36a20bd8" md5="358e96a8fab407770bd3baed16e31a8c" sha1="5a731fba6a6e91560303d0343a129a269dac0a6a" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\6.DOD" size="20698" crc="1f7b6f82" md5="7af6e6b6201504fbeec2e6757b932c0a" sha1="bf90aa375463f68806ddc7a4a4b3ed72a3fa0403" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\7.DOD" size="11922" crc="373593c3" md5="482c0410e882801e06e48cabb61f1593" sha1="da59f844f821cd02bc432971069aa8b05da0c9a3" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\8.DOD" size="10089" crc="29a3f4dc" md5="15ccdadc9496f108f79d58a62bb4081a" sha1="84511f2d3dc9f82198f5fe952b89f09353aafd0e" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\9.DOD" size="9196" crc="c8080a98" md5="c882743444304e3fe2916dd77916eab3" sha1="71663c1028a8af4893e33544b6ab467fb0c0657e" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\DOFD.EXE" size="203324" crc="85aed7e1" md5="b490c2d03661df9085fd1617da4c391c" sha1="eee5c64ab11dae5fa64a25d28dafaf0cb9fb2818" />
+		<rom name="Dungeon of Death (v1.0)[misc][DOS]\file_id.diz" size="220" crc="1e0d9c43" md5="6594ad7f76a32560c00fdd2b65e01883" sha1="7a630de8c397e9bfc8073f2e31918508c22e58fd" />
+	</machine>
+	<machine name="Hero (v1.0)[misc][DOS]">
+		<description>Hero (v1.0)[misc][DOS]</description>
+		<rom name="Hero (v1.0)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Hero (v1.0)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Hero (v1.0)[misc][DOS]\__Doc\Download Hero - My Abandonware.mht" size="1091430" crc="ceba1006" md5="6cef8afac214382be88fb1d25d7c2ab0" sha1="0150b993a124d2edb1ac5a11434c3b62a58bc662" />
+		<rom name="Hero (v1.0)[misc][DOS]\file_id.diz" size="194" crc="a8038018" md5="7085f98ab53716cf58d57961ad2033a6" sha1="5458064a08419e07a2ab0bbde7bfbcf4a1d6cf00" />
+		<rom name="Hero (v1.0)[misc][DOS]\H_STAIR.DAT" size="6" crc="02cdbcfc" md5="9121c16aaf4c276677950794d1a403bd" sha1="6ab30e54357b10787c371458d6de1583c1cc8e48" />
+		<rom name="Hero (v1.0)[misc][DOS]\H_TREE.Q" size="3249" crc="1219c00e" md5="a1f9fe79c9d8bfdafdb5e7a854881df1" sha1="3f286c8a9f6987223edde505a3bb0c675021b536" />
+		<rom name="Hero (v1.0)[misc][DOS]\HBIG_00.Q" size="2390" crc="b2cfcd4b" md5="edaf7d4a6242dcf61f2b732a36a08115" sha1="db62a2dd889eb846df23dc8dc54eb30173dd82f8" />
+		<rom name="Hero (v1.0)[misc][DOS]\HBIG_01.Q" size="440" crc="5cd9155d" md5="915b3377461f29075fd1f2075d720e51" sha1="f8e617eeb3cc020f2117b9c7875e7bab969785a2" />
+		<rom name="Hero (v1.0)[misc][DOS]\HBIG_02.Q" size="5447" crc="7c5efd65" md5="af7aa10c815bc0df61ced83882843709" sha1="1596d04322001b213fb591bb211cb1c839c845e3" />
+		<rom name="Hero (v1.0)[misc][DOS]\HBOSS_0.TXT" size="665" crc="d07efa3b" md5="83e18f5ecce3c1bb94b55b15ea20a7e5" sha1="0884bfdc400ac95e96457637294754b4800d8f09" />
+		<rom name="Hero (v1.0)[misc][DOS]\HBOSS_1.TXT" size="672" crc="052c171d" md5="87b0f7d9e7b6a044d30a58ce1df2f354" sha1="a229b990866c944da1c200cd7dbd6d87f47a5028" />
+		<rom name="Hero (v1.0)[misc][DOS]\HBOSS_2.TXT" size="277" crc="714ce56c" md5="8f6ef834e8061b5c78f599ef778f72c3" sha1="49fb61294ab4278b1cbf3e8e62931d27cea3427c" />
+		<rom name="Hero (v1.0)[misc][DOS]\HCLASS.Q" size="2276" crc="fdc23b3e" md5="6ef8d40a47703ec5128cb11e3bdc938e" sha1="4939e34f904ea5c9bf1bca56093adf34bcdce2da" />
+		<rom name="Hero (v1.0)[misc][DOS]\HDEBUG.Q" size="148" crc="61cb0dbe" md5="c8b1bbec012694e7d21d6035751bf6bf" sha1="c693e44022e604520a29562c0c262cd0ae298b66" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO.EXE" size="441322" crc="5546931f" md5="481b03cbc4df4a090c2e93c4e7f9b07a" sha1="ff5e5cea4dad19a156bdda8c4529007fa20358b6" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO.ICO" size="2998" crc="3c2c5cfa" md5="d6d8d09e0f5c0546fcfef6cc7755868f" sha1="6da6372f73721d4d248921bb886b3955c9913498" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1A.Q" size="1867" crc="b8ada3d1" md5="e62e644530ad98911a2fd7ff236d828d" sha1="9a4a7b214573a22ecf89895a25bb79991365ea1d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1B.Q" size="1349" crc="e2cf3418" md5="8fdec037bb2de252adc4169f2a4421ca" sha1="a0b7397ce8ab8b8218d0904f9aab9b83b007199a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1C.Q" size="426" crc="a5f3ed84" md5="49a4f0de3721cd1962e90432e6964ce1" sha1="3c139ae3a82c85ab92b45c1d6ec40933d6e7b432" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1D.Q" size="262" crc="58615bbd" md5="8e354d53bf7266b8a2d817afd4fb75ef" sha1="3f3f5150e6d6985653d99d6a2574cf33dc76d26d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1E.Q" size="17" crc="cdd40a55" md5="76c2a50fb3e3727706060042d13b5a05" sha1="7fe1f41e6490ca5837bbfc91dafed844b4ad4887" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1F.Q" size="84" crc="c31bf208" md5="c22dcc673a4927c17536c2a3f4ac023b" sha1="cd353659ba4399f37c1b6811f00657e1ea5769d6" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1G.Q" size="437" crc="e9b538cf" md5="10b70e66136f57fa91bb9bad2626e89e" sha1="71bbe06eca0235cfacd1825508f56ca820ea1559" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1H.Q" size="172" crc="ee201bc7" md5="1c6cdd3b48dcfd773e09cb606338f739" sha1="880a8b2692e688296c4fb733cee0c2bc3cbe2e0c" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1I.Q" size="755" crc="c81b713e" md5="33d4c3d637e35d564091400a5625460d" sha1="816b8e1888233afa65ee3e73535cae61a42b96e3" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1J.Q" size="481" crc="7756fa4a" md5="e7a3769563dce3d924716e27fbb42a5e" sha1="73b9b0fb31a6e011d5e0118c9c96d0c57e181ecb" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1K.Q" size="546" crc="d82f6c0c" md5="b52eec64a9d180c21bc51435c5c52cd5" sha1="4b4b65e97224ead545356ec1dc7466176b5a009c" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1L.Q" size="692" crc="566a6bea" md5="5eab02445f013fbb2178d7d6ab834772" sha1="97f0962ab87051fb31c2bea3f6edba14e3a631a5" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1M.Q" size="326" crc="0815a0de" md5="fbb670f2491398746100a04c83f30a24" sha1="3fb188f6036f5c7f7c49ae95feec01163ba0ed9b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1N.Q" size="364" crc="09394edb" md5="2bf5bd35e5994767c7ba3f5857b98956" sha1="90cb98243601d845be4c21913e51c7cd6f20d4af" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1O.Q" size="476" crc="38373a98" md5="e768b289fb49dbaecd5dbaf859abca96" sha1="9426fa1cfb17d29f86d23da0121ac68e11f6f0c4" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1P.Q" size="635" crc="e4d2c0b7" md5="694759d9a38d92ce1f5566cb76a3c243" sha1="17537cd5234c0a4bb2a80dd84b7bf7e09988f625" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1Q.Q" size="314" crc="11099ac3" md5="bf032662edf6ff93cbe0a65344002d77" sha1="ed8b9ae2a2fbba37b34334114d4cfe847ab6a017" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1R.Q" size="500" crc="44821fac" md5="11ba473cf6782d37e84f512b7732ebf6" sha1="d5c375406f1d3e3e1e5617efae6f5568dc748b4d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1S.Q" size="404" crc="0c810eec" md5="fb04da7ea77edbdcbec3955b0698b45f" sha1="0fb794990b45ced12b0f28fa7b9456479b5c694f" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1T.Q" size="204" crc="aa213c91" md5="8577c4dda9451a02ab7138552d62ad24" sha1="523c63def2a3d0fe8df59b78bba9e2aebd2d7f4f" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1U.Q" size="315" crc="fa4814fc" md5="c562062cd63e0e1c82bb3ca262922317" sha1="8be0018d6d94433883c660bd900fc603066a8b45" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_1V.Q" size="745" crc="0a499d6a" md5="47fe7f696783c13138b67b4dbc9d74ab" sha1="320108f5019a2cb4cf8dbddcc3883d9ff3bba776" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_B1.Q" size="344" crc="a4e6a703" md5="4b7a220172ce659e4ab365faaa15b47d" sha1="030b2e35086bedaecefe1c3d917ed8b9fa5737c0" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_B2.Q" size="814" crc="abb6d294" md5="ccf0198ffc779c036ce89b3a4da3053f" sha1="cfbe18277146d03137c66a34ea61293b72fab38c" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_B3.Q" size="393" crc="169c9ad5" md5="b8844eb2b52a26b29b0a872c0bfb6804" sha1="64a5be0455870be92a59af4ec4302c07005ade22" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I0.Q" size="813" crc="276021fc" md5="1d1f50ffd8fc04e1feab9a2c96f5943c" sha1="864e504cdfa2eebd3e834aee85790f55c319cf84" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I1.Q" size="305" crc="c315d681" md5="96b20209500bdf42a7e773fda4743306" sha1="c2bd3feb95fe5fa296c3a74dc0ac942c0cb76471" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I10.Q" size="621" crc="966535fc" md5="20c24d4f1d7d61b5a8938c4e38f4321c" sha1="11a06beb1af3f87b9d7c5603d613cff45673db52" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I11.Q" size="343" crc="67069b67" md5="beba7dcec6d96287f255866400a97724" sha1="681eb9a421bf295876c549fe72021b2e5585162f" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I12.Q" size="34" crc="f6ca401b" md5="7c24b213f2b9ab4bd011d6ff4e709f48" sha1="91839d55440737078eb56186976d418e150e978e" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I13.Q" size="79" crc="e79601cd" md5="a60e42d3f6594b5bd8c3a566e1219385" sha1="961dc5db826abeffa3b030febf592b03ba3891bf" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I2.Q" size="222" crc="d9a5595a" md5="d833a68a7a20bde3b39518552aa32b77" sha1="ae682ec97b71f03eb56ec73f305caacb3a092e4d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I3.Q" size="286" crc="fce88721" md5="883b817c12855a13c2e33b0636ba6e01" sha1="e6c2e47f09220afe86b19ea7ff754dd79b2e58ac" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I4.Q" size="133" crc="cf8757f2" md5="b13166927f49384bb14c39f22e1e4937" sha1="9d0bcb16dcdc9bc6e0bb1c97ca376a15e12d96b8" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I5.Q" size="279" crc="f758009b" md5="1b30f7695f759c0f3921d9e5c0ac57d8" sha1="84badd86e1be156793361206bebc53f14c71a248" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I6.Q" size="279" crc="f758009b" md5="1b30f7695f759c0f3921d9e5c0ac57d8" sha1="84badd86e1be156793361206bebc53f14c71a248" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I7.Q" size="241" crc="2ea0204b" md5="33213c8dc5784383a843e33f3b50ad05" sha1="d3235c94941c25cae5eb6f75084c2e9b1c992b5e" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I8.Q" size="87" crc="e2032e59" md5="ce914724a1841c9105742564c9833699" sha1="c3d1747eb541789a958854511b296e75605a20f3" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_I9.Q" size="1511" crc="fae2370d" md5="faf4bac61fc880d2cf93240b65bc286b" sha1="d6101f4254d80c8fd58313fb39ca20a22200978f" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_IA.Q" size="314" crc="ea0816df" md5="eb90869fc4da7bfd023b462f0179ee54" sha1="b5349e53aa1cc1bd1db31c0d7b35ccdf6c97b252" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_IB.Q" size="269" crc="ebb542cd" md5="4b8fe349e3b131e44283fae9a0497c7e" sha1="1ed815ec46df433767c2bb26500154bd167d3814" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_IC.Q" size="26" crc="250592bc" md5="5447ee6ff1cab2557c88e0829b6fe27f" sha1="84145a11ea8a1291432915ec4a215922970bb59f" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_ID.Q" size="94" crc="9fca1eaa" md5="e299861e86cb3014da19a13f25056519" sha1="c4db4cbaefc8179a257a36e3800ac8c8a01369bb" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_IE.Q" size="68" crc="9657770b" md5="c3294e6d4950db2d016688e65d40b62a" sha1="489a25597f9420c601cabd2ad24ae5ab722f225a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M00.Q" size="4226" crc="dfdc5b9e" md5="51dac4008f98f2ac8d840333ea0bbbbf" sha1="c111ed75d63316767cff7435ceb4fcccbccdebf7" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M01.Q" size="1125" crc="3eb987f1" md5="1bd3f945588755a5226f342c34bd2671" sha1="c61a268844b49958cfe30a69341566b548aebc06" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M02.Q" size="1109" crc="8fbc7725" md5="396ba099508e93237ea5be9ec7ab1992" sha1="07e52fe8e6af9b8c9ea2529414051e66904767f3" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M03.Q" size="1144" crc="bc36409b" md5="809d13e8e8434cc712688d3deee36e84" sha1="71c9b8516666505e41443b5ffd2a81b9eb1c807a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M04.Q" size="1197" crc="3e0012ae" md5="0997c360d709672cd5b3ecf913447665" sha1="f44fd59c6b23bd36bbb8b680620d34f1b09dd8b8" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M05.Q" size="806" crc="51dd928d" md5="4c4591cf7e2c53a7d543d9f2913ee245" sha1="2fac277283245493513e998ba4a1a235dd55d882" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M06.Q" size="740" crc="808b1970" md5="f101779943cc17aafc748bcf65d14024" sha1="f7f6b3701600fe63ff50f96dca4443fba8ac8901" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M07.Q" size="1567" crc="1a21224a" md5="b9b50df4927f092cfc7a17512657cdb5" sha1="a90abdc3c0cb58c2fb353c13a4c09f86524c631c" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M08.Q" size="1341" crc="e3869f57" md5="42830922e9c00f81a42c806db400be01" sha1="4e5a0159355e860bddd9d4e6a9de180bb6020d56" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M09.Q" size="1493" crc="cc0a9c8a" md5="b619a1e630a78ae96f0040fd7ad4a407" sha1="70c3305cc4bee64dd437c9a04b30e35f978aa386" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M10.Q" size="1482" crc="0e0c707b" md5="e1ca505f162589b24f183e9951ac422d" sha1="b7b5a44016f65b9028a8205b9624c520f04ae862" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M11.Q" size="1829" crc="ad51bbc3" md5="aa5678a35ef9ee9840eaf80e0298369e" sha1="27fd0eabef9f619079832f06ea065f692ee91e2a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M12.Q" size="1827" crc="c76e312d" md5="23f908c89e81a4da2fc5fdec4005c486" sha1="e954dd7f98572123cc896f6ea37571bc935b7589" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M13.Q" size="841" crc="660cb1d9" md5="01786ddcc219eee14e652cc51472973b" sha1="11c804855c511cdabeea97890d6dc4c917c102d4" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M14.Q" size="769" crc="dec79553" md5="8ecdd74c394085a5245c57afc9fba181" sha1="9888ec0b65225edb2492db3d457132135988ffca" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M15.Q" size="1834" crc="276b2911" md5="4c6a5f8559798d1a1a9172b8f34a3d04" sha1="7230ff93a7eb294ea1779ee959657658168db5fe" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M16.Q" size="1768" crc="a5319edd" md5="70cec897b520af6ed5564a064d99ff55" sha1="9b5b1522dba188c900e3cbfffc9baebb68605063" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M17.Q" size="2077" crc="e1b3a989" md5="11090b2da79c1ab49390f2b3e012e581" sha1="e08d88f251a245ce03dc85034dfeb29ac182e337" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M18.Q" size="1228" crc="bde19d76" md5="a9d7a6cedd152816ae93e0b5466550f7" sha1="092dd65cb43f57b00059b861d994e4dd2dd4b025" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M19.Q" size="1423" crc="004329b8" md5="00a789193e54a2aae0079cb327f30d7d" sha1="03da9a136e06cbeb60d74995b78f20bbbba3b961" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_M20.Q" size="1424" crc="322eb95e" md5="6616e2a395a9eaaf884f7fe56483ee84" sha1="e5c8e20b94900bdfa46f28e497090586311c93dd" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_MB0.Q" size="446" crc="0486c87e" md5="281df679ec1f53b893acd207946f613b" sha1="1dae4a4e665d532edd96ba3fa4008347a4435856" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_MB1.Q" size="7621" crc="7a70d6cd" md5="1d628d04f82722574c1140f9342ded81" sha1="85d74deceeec94c24af3adce931a30eda8838fc6" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_MB2.Q" size="7536" crc="ae92a17c" md5="b3dc84af18765ee22f8301ec48ba8cee" sha1="63fe0170a6b7a65896c1659f3f4ce2d5f3def0e5" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_MB3.Q" size="6946" crc="f8e890e3" md5="e9d908cf7760756d75029a0d49335d9f" sha1="bed78e409c5b61caab47e3becc63466b16501c73" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_MB4.Q" size="7059" crc="53c13630" md5="0c8d0a4d896b83b42f56dcbd1a5a67c0" sha1="32f04a11c30e48ab09cff2db328752e3433b91fc" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_MB5.Q" size="9973" crc="75287404" md5="cdb1dac7e4e36705c1417552fb641d08" sha1="c03df2740b051cd7dfb45f707caa8c6866287d5d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_MB6.Q" size="9960" crc="d538889e" md5="76744eb6376fe4fee59d7feb370f5a51" sha1="64e49dbd06d99d63117f114f485e0096c3fb4e1c" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_P00.Q" size="957" crc="770c3012" md5="d1e0e828506a849bcf7787164a7d3a83" sha1="45bed13bd9760a2ef08f328945c4a4d48e03a778" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_P01.Q" size="2384" crc="6f00e746" md5="91dfaaa1ca78cd9b2832b1bee7875424" sha1="9256c6a608a39d551e502c58f046fc8ead64cc2e" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_P02.Q" size="1915" crc="4e806aa9" md5="deb18db3855a6a4149c4ace3c75a3e4a" sha1="65b09a9edebd4a55c2df04876b916ada36d173a9" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_P03.Q" size="1907" crc="6bc864c5" md5="05098b1a13749721a94e86e2962bc8d3" sha1="c1e4608dd21c7fb6fff099c4d7bbe89dbc2bb6fe" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_P04.Q" size="1712" crc="4f68fafa" md5="76997776f4ae383121adad0951d55d61" sha1="adc06de2902c73e9bb54237adf0db7bc1db79749" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_P05.Q" size="1909" crc="9bbdf125" md5="334cb4607989a9d2300ad05eea036246" sha1="411fc9d596ed8a4efa39d61002635fd13c89c486" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_P06.Q" size="1672" crc="2ad90977" md5="b3c359c0099ff4bdf04688baec31835f" sha1="25bf164028447a7ecd345edc3ac602ddb2c14c9c" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_P07.Q" size="1936" crc="1cb12f04" md5="94fc70a2e0e19df7fcf3a5a48d9e4ab6" sha1="16b1172d3979563fedfd582bef92c27c934471fc" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_P08.Q" size="2063" crc="efc41eba" md5="d1e17839e173af546b05275fb1c0dad1" sha1="5b5f1a5969682d4799442a5977875ad08c1342fd" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R00.Q" size="5640" crc="d9df8cb9" md5="ea3c42beac875114c28c17220c89c0f2" sha1="09631b1bc5ff126f974fe8be8f71b8546abcd0e5" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R01.Q" size="5640" crc="2f348659" md5="1757a9b1daba6f22ee09bcc5b383447b" sha1="d7a8f388d4b85712e5468d88e98d91b3dd921527" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R02.Q" size="5640" crc="7884d75b" md5="9b9fc6420ca632194bd240c0704f3e6b" sha1="7f33c4fda9a70a069b3183e3c9053c45f9de1bab" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R03.Q" size="5640" crc="b4b49c46" md5="fc7a9042d974ab02744eae4db93fc433" sha1="aa83410906453b708802289a2260fdb167c2dec8" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R04.Q" size="5640" crc="ccbcd111" md5="bfccc4b3118ff581ef69331957feea3a" sha1="fb1f2e085c36b922d53eb6ec160b830709c114a2" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R05.Q" size="5640" crc="9f9cb8e8" md5="817b88aa6f32e581c156d0538603b05f" sha1="a6230104f5806f796aeaed4e9f48862203156da6" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R06.Q" size="5640" crc="c08119c7" md5="77967b32fa3aaa7a59888b695ab94958" sha1="622bea4513bdfc737c49965c0e1528f766d989f6" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R07.Q" size="5640" crc="61266469" md5="c292146aa39914ff5a4b08cbd94850b4" sha1="21bfd3b01ceb5f52ed68280953ca6b6cac942911" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R08.Q" size="5640" crc="e6a21ecc" md5="1cfdd06f135b5f28230cf91920d68aef" sha1="2a9239c42a1dc0a15464d435f6a959b932618928" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R09.Q" size="5640" crc="96915878" md5="cfd1a48cc15f4e57a42fffc845c3d1e0" sha1="7e106b6add61f916a0986466418544339ce8098b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R10.Q" size="5640" crc="db553b2a" md5="4c78cde12636b7da30d7dddc62637163" sha1="24686125fc82e830cf0e4a4b5e430df1230ad598" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R11.Q" size="5640" crc="9dc76588" md5="74f2f0f5dbe7b898ed68e99c45facfd4" sha1="ffbcc4e97375bd3fbe5699a6eb9749f75420562b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R12.Q" size="5640" crc="2ace90c3" md5="9b706f9de511a7ffd91ffbff4f2ad6d9" sha1="c204a4e56c1c344c3129bb8aea2a223e19869326" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R13.Q" size="5640" crc="57d79f15" md5="cbeadfee92391433b03ce987c647a55b" sha1="8af7a5ebc69c0b19de1787baa44a148036b5d00e" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R14.Q" size="5640" crc="c16719e3" md5="0e570a365d58ff621a15c34e1ecf3b4e" sha1="a89772ac68d5c55ee137c12d00b96c35a02d35a2" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R15.Q" size="5640" crc="1e912bae" md5="c8c3539cb84db9403115dfb5bd2e793f" sha1="b1ff8a80107ac1204265c5b4dc716d5948d166b8" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R16.Q" size="5640" crc="d7c00259" md5="5eaaab4ff1a6a5df490bd27c4b7401d4" sha1="b64825cb292d91a7b765f9c24c7e610fb780ca9c" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R17.Q" size="5640" crc="840ca181" md5="7fc6218431344a93e7ce8d1ca2c86d9d" sha1="7486e1b9b025676aa235c0d2f4edd86611f8f073" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R18.Q" size="5640" crc="9ae77426" md5="d1a7e3bff6a514809a7f448e089dde90" sha1="b63047ef1af91e55a84a29905ae54067bd84ebfb" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R19.Q" size="5640" crc="78631181" md5="dd5f677730e872580ac9e5ce7ca1d718" sha1="b059e147a071b789c140fea5c2f7e5efd5a95ea1" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R20.Q" size="5640" crc="cf45ad45" md5="dd09af93fa8b598d5d63662d3fd35cbe" sha1="00dac6349c7a6f1088f1d29095bf98ba175ced10" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R21.Q" size="5640" crc="ec56ef98" md5="3bfa6d5ceab7f8cd417fb5b75c2135b7" sha1="67e989bcb62129423d23bbc2c83072a256982fbe" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R22.Q" size="5640" crc="4c97da4d" md5="b579e5bced81539680a2412dfd3af9eb" sha1="58ed6c78313a29b1679556d277066af790038736" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R23.Q" size="5640" crc="c065fb9d" md5="d0d2200c1a7a74ac07cfe85c46c89819" sha1="146b36b0360687d6de0b96f96937a7736991d2a2" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R24.Q" size="5640" crc="68a37762" md5="fd017a232a5ef140c0e4e1923d520a4d" sha1="084ae1cea589ce6d26daf153b829bd7d1a80bceb" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R25.Q" size="5640" crc="8ca6189f" md5="9aee68fb49d311d3f1d027c14e769032" sha1="a0439b3b53545e0d46776e0ee5bf153e210f8ccd" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R26.Q" size="5640" crc="70b859e6" md5="7642817bc99db5fd4ce1170c9807a800" sha1="aa4afc56d5063c46e0c3ec50ca13d8df7e6e4786" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R27.Q" size="5640" crc="0014ef9d" md5="4ca49cc16e28cd2d80d25bcb08f40a70" sha1="baa5938c86bb75594e76faa4708b869724cb2177" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R28.Q" size="5640" crc="b1c2d6d8" md5="cb7a1890afb31e108156efe251cc84ec" sha1="0ec54b553645531e20d554ac87421a59e387d14d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R29.Q" size="5640" crc="fecadd8b" md5="379260881b3ae5243e1acf05edd6a30b" sha1="9896f2d73e42f8d0a8ac2e99a6bc6766a6031c56" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R30.Q" size="5640" crc="808b402c" md5="70d8a11938a1be87899b43a08b455682" sha1="f0c1f52d0435dddcfb7aed3862339bb9901d0ea6" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R31.Q" size="5640" crc="9c67d99e" md5="3af29ffdc81dd9d5c665aa5e7025273d" sha1="cd77706108832412a8f3a4b062877224c7c3e88e" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R32.Q" size="5640" crc="f8770100" md5="5ac36005530576f7d3988598c2287654" sha1="027bed851989a8e9ba2abf6016377d14894f7db4" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R33.Q" size="5640" crc="3988f846" md5="433598de888045fee1a42f24a077e10b" sha1="c9f5c4b247b11b4cfe15769a1c3618a00fb6503d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R34.Q" size="5640" crc="e43fcfd9" md5="80ef1dc28579dea3851c98d657463016" sha1="5ca63105b580892eb50b9bad80167826897de2e7" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R35.Q" size="5640" crc="8b2e49f6" md5="6b47b22451f39eaf4c5e0b85f66e09ee" sha1="02fa058685cd5eebe2af615895bcbc999108fb59" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R36.Q" size="5640" crc="9bb7bae2" md5="73caebc6979161b8ffe49b6ea3cd6df1" sha1="2a26f27499f63fa5cb2e79b425f9270c8a09bdae" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R37.Q" size="5640" crc="6cea229a" md5="d9a7cf285d23260a0bc57e60bfef7d33" sha1="c65641dd43d468a5384a29b1ac78c1644065b0bb" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R38.Q" size="5640" crc="8bcc01d1" md5="7cb534891124285dd4892e5b6b9a0d04" sha1="7e6d38ccfedbe52d8e9187ecf1cfb31ff65ab500" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R39.Q" size="5640" crc="8b4869ee" md5="fc8b9f7a18e2782a3ad4401860fcadcb" sha1="9070d2769e9beddbfbf58c7aea73c7b6474ee063" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R40.Q" size="5640" crc="28d7a832" md5="158018f0a1e04b24ef647dd12738b1f6" sha1="6aaffd2771d1dd4cbf0a3a1c169a5fc53e3b20ec" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R41.Q" size="5640" crc="7c9841e2" md5="80ff8a27e99de0cd0dff6e3ae951f39d" sha1="20cecc6eecb83b16f882e8952bf22e03d3300164" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R42.Q" size="5640" crc="b14b3ba3" md5="fa4eeed14de4523d0403aed76a974972" sha1="d2ce9efa35b24bce8e036be1fb6bda8f44d79f8a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R43.Q" size="5640" crc="ddb72202" md5="191ba7ca30412d6f7fca06b5cfc7a874" sha1="343a1172ef38304bdfac839ff942445a598ff9f1" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R44.Q" size="5640" crc="3b2eff2a" md5="54debe0973eafadbfa8509b8b89ad201" sha1="13f660e4c1bfaa0c0e06a4758ce415afc835fd60" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R45.Q" size="5640" crc="541df433" md5="c9de5154c13fb5383fce8058d9765f39" sha1="1f63ba006970d056cda3ac770f81fa3e0f3a172d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R46.Q" size="5640" crc="9a41f90b" md5="17223beff0ce94f2555799a44c9e396b" sha1="b6380646b41ed5b7ca2ac4a9c6495ce411099712" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R47.Q" size="5640" crc="dea07091" md5="f0de44771fd0e5afb081d7d383c09bb5" sha1="a3e57586e3c08190b312c37033a64d55f3b35e72" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R48.Q" size="5640" crc="6e95b4dd" md5="3096646df98760bfbccae3c71ad43873" sha1="ab2e6c40ef41b7da2d464da2eab00c1bd9f1fcc0" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R49.Q" size="5640" crc="dc66152f" md5="1311073fd3a51a5de7d4777ebf97702c" sha1="0472f2730cd071ac13a7c628d507f23da8388cdf" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R50.Q" size="5640" crc="3b6a266b" md5="abfa7797da7af6f0da3eec25c7eac092" sha1="5117e52fc4617ff6c811cd9b97065a89b16d382d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R51.Q" size="5640" crc="e5d7cc6f" md5="0316990df56b9c4ee66117241b606841" sha1="0fa274fb9c2f298471ce59af92a3e6e49ee4bde1" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R52.Q" size="5640" crc="100a8230" md5="30a4fb70ce12b617924a09465a84290c" sha1="96ba999a4a6b25c7cb2a13b62bbe0d21fa6b6f83" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R53.Q" size="5640" crc="faac3e09" md5="b32e7a47d96ab75d1f78522891237a13" sha1="5b073c9a3bbd5ff17faa7e8b68449ab53ab27032" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R54.Q" size="5640" crc="27fd8cf6" md5="4efa16bd6e40fa8a6112d66d3d0db7ce" sha1="870f9a541d93c49ecc7a8d71011317fdba03fd82" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R55.Q" size="5640" crc="27d9ff13" md5="b3c0db66d2b11302a2031b53d00ffd53" sha1="3330f0e149145934ada25aec9ed6b1fa3719b2a7" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R56.Q" size="5640" crc="28880212" md5="09a97c29f46d1d1b862843f4627e287f" sha1="43bd1d4847134d61495fa6b85f841c2657abfdc2" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R57.Q" size="5640" crc="cb8916ec" md5="ed1655be0ac49dac926bf404dcc88223" sha1="0780501a01b8432cad9f0e7f8692f1676ead1766" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R58.Q" size="5640" crc="cc549cdd" md5="ff20d5b8d0613a18bd6351a82f4eff76" sha1="cbbf6f560ad74f18fd4a2f86a934103c4c512757" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R59.Q" size="5640" crc="31e4a32f" md5="0b67ba57b8e7b992e966d08a3fe07269" sha1="4abc55150eabbd880546839c8e214f38158f6c07" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R60.Q" size="5640" crc="0b0cb0bb" md5="b951112a977e71a655d38269e6c74840" sha1="59fc71ca2b761a6bc2be12f95862fe279836f990" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R61.Q" size="5640" crc="bcedb933" md5="a705fba0a05905b7b3d2e5a00fe13b2b" sha1="bcffbbdf950bc80f8787115656272fde842219b8" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R62.Q" size="5640" crc="2b86d016" md5="473c900d5dddad64138770641cf18a5d" sha1="09fd5947a5e38d6d22492e75221893c80491810a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R63.Q" size="5640" crc="fd1b28ea" md5="51c93c21efbdaa77b7d24b2d7367c96b" sha1="53aa8938cb350eafea1b82acc21c213c689acb01" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R64.Q" size="5640" crc="53ef9dfc" md5="7771abd75e77ec027113d636f58c5685" sha1="ac830f80c9438100360521a560e245c2595b8941" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R65.Q" size="5640" crc="91eefa78" md5="f9802fb9acae06720776b5e19883d3aa" sha1="80f562c38d77fe77f9c8db51287646aac6f0be1b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R66.Q" size="5640" crc="5e7967a0" md5="dc39e6e4b491a12a27e0d1940951afac" sha1="8c6f99e0a19817963d41544c7a7ca292cd00db3b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R67.Q" size="5640" crc="1d11e0b6" md5="d75ed32c4f09ae3bd2b880f1caccd333" sha1="428d9d027a814243c14e0503ef80cb98015d9bad" />
+		<rom name="Hero (v1.0)[misc][DOS]\HERO_R68.Q" size="5640" crc="f3ea13fa" md5="2203eefc269f467a20d3dab8daa52dfb" sha1="f9b88a837b7d7092ef0089ed26dfc930eac97ea2" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_1.Q" size="111" crc="5faab02a" md5="3c82d4b5be7d141424303f095db8d9c2" sha1="c9fb4fcdb6c4ecaf8a9044bf5009c80f88777c9f" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_2.Q" size="234" crc="224035fc" md5="6812e7163923c8700d7e86ccb2d8f547" sha1="6c3e0bf3daf40e10d82a616329b918c548d25cee" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_3.Q" size="234" crc="d603d5dc" md5="12267b5593ef5ebb6f3a1378142b1f58" sha1="ce4ed277e51adef6702c146ef5a9ac85fb54ab07" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_4.Q" size="380" crc="84879e52" md5="c18466e63704b0810519d36dab3053de" sha1="19e193c9a4a0b6f8d46fd7fae7350eb8676074f2" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_5.Q" size="603" crc="2be68477" md5="b6bb9112913067b83e4dfad07e69977e" sha1="7050e63d391b55dfbdab6950a544da1e60223811" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_6.Q" size="598" crc="66672e01" md5="539f95e8340e3c79526df45cf4e8d2b5" sha1="0272bfe1b80a2f8146d9fb522a951bcbbe97b527" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_7.Q" size="139" crc="0cbf5ccd" md5="6b58a97b103177cc2473af4005314aac" sha1="2abef1715dfa2ce71eb92655f82d2221d749a38d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_8.Q" size="212" crc="4c5eedd7" md5="e8da23faffbb3e0790498ca7298d0c09" sha1="fa7ac94e85da01ce1b790f813f0a27396e986d49" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_9.Q" size="1783" crc="bb5ae1c0" md5="20c1fff07fcac27cdf2def6e8bb28f5d" sha1="b2a50582559b8057e29713f52eb944a9de3cf75b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_A.Q" size="1744" crc="71fe46e8" md5="0fd30ef7efd7598cc6e740ee9afbed75" sha1="9887dce505ab3b4a1709e4ddde5149c22bff2e5f" />
+		<rom name="Hero (v1.0)[misc][DOS]\HMISL_B.Q" size="1408" crc="65075a56" md5="61374649bed8dab13333ec1bbd293afd" sha1="1a9f935d928fc8ae3dcd2dca5c4d4adb4371beb2" />
+		<rom name="Hero (v1.0)[misc][DOS]\HPERSON.Q" size="1046" crc="0bc7b8a8" md5="38f45a2edf2ecb96fa6ec66dc126a6cb" sha1="c3e24358d6fb12fcc66e36e2e8989b1ca6ea1fc4" />
+		<rom name="Hero (v1.0)[misc][DOS]\HPIC003.Q" size="63484" crc="d148db74" md5="4bd80422acf658ac3e81f7862cfd1bd5" sha1="4b377d1687bd9b0bcbb417d37a0522d5d844b808" />
+		<rom name="Hero (v1.0)[misc][DOS]\HPLOT00.Q" size="44118" crc="1b27b6f9" md5="876335b9923d10890ec3413eb7d88def" sha1="f516f3ce150d0c4e4666807ba121e50e3fab4e98" />
+		<rom name="Hero (v1.0)[misc][DOS]\HPLOT01.Q" size="27443" crc="51c4f08c" md5="42ef3527cf4a5e909918b55ceb76b085" sha1="4bda967ae2f4db2552bddbefed4aeeeee1fccbb0" />
+		<rom name="Hero (v1.0)[misc][DOS]\HPLOT02.Q" size="10397" crc="8472441e" md5="9e94ccbee48662c27837c666120b5bbf" sha1="9021331c271900446763e40eda3d818c095175c6" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_0.DAT" size="6618" crc="5305a727" md5="c0d14f7d45ba839cf2e1dd2f4939f42d" sha1="cb439d0f87b686826890d2a1a8992f4053c8a78a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_1.DAT" size="6618" crc="a2eefb2b" md5="2989ea469122fb944b73ff3a2386a678" sha1="da4cec76c6e48c9fa721d19972475f12c9dfe7b5" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_10.DAT" size="6617" crc="ac5cd426" md5="4647e75dc9a7931b183bda2992f19bfd" sha1="4f274b2a5af6bee92b8bad49eb911cbb9902decb" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_11.DAT" size="6659" crc="5180d71e" md5="ddb857329ebdfb203561c2c100248d92" sha1="5656fd1d8d70538730576a12ff5c51d1d425807d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_12.DAT" size="6617" crc="ce776930" md5="b58f30e108d8248718f78cff0e45ea38" sha1="b351fd4014b20d6dafea62060793dfa835585041" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_13.DAT" size="6619" crc="3fbf0efc" md5="96988e20c147bf4516b66718a7e062bf" sha1="16bf6b3689a8fd01b4cd72e36154ac8844aa538e" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_14.DAT" size="6618" crc="d808c721" md5="8dadc9ff0dce595f39386453123aa1bb" sha1="8b8d5a8b716a4fa7af5a1c80f5ea69f6d7b47ae3" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_15.DAT" size="6659" crc="46a7adc1" md5="1eea6f1e18ce5dfb84a58888267d5608" sha1="091087ef36060be7bda7a9a3a1c2f401bda512ac" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_16.DAT" size="6618" crc="5efb9592" md5="0c141433e0f48617a8f8798aee34ac49" sha1="c404ecfe4a73342bc8af377e8618448d5243b06a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_17.DAT" size="6618" crc="7da42858" md5="ee15d49300b0afea512dadf39213148c" sha1="d6a8159cee1ada3590b25f7558eda4a5e5461e73" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_18.DAT" size="6618" crc="ad8c1aec" md5="2cf2987739da08c4974c653caeca13fc" sha1="5a687520c2568cba2d03503f733227901e965c2d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_19.DAT" size="6618" crc="f86c65ca" md5="ebe47d25ffb9b7dbe1b1b98545f4fc42" sha1="9032f0f440b75c014681720f5ef61e9e74349efe" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_2.DAT" size="6618" crc="3d036105" md5="cd1e1941970e362090b63d75e532f430" sha1="4777f71e27ac921807621f60d9cd7dd83062286b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_20.DAT" size="6617" crc="81671ce4" md5="e9fab12ffa13b67aa26f8e39b0d4ebde" sha1="636736c28e7b63d8776f9d62edde5dc3c3571071" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_21.DAT" size="6618" crc="f2a0de2b" md5="9b0a571d75fc4b8de146d8d2f80caed7" sha1="e468507e0404a59bd495471fb6c384fddd77f20e" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_22.DAT" size="6618" crc="058b04ea" md5="2e4bfe21c3bbc1545e28f06479747a18" sha1="fccf7a887fa0fb98e2319b4d29c40de5c0bde7a3" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_23.DAT" size="6618" crc="bc4d839f" md5="a8ee03cc350f6f797e41ba8d7e88c844" sha1="20077528bd16ff876791686d0335335bcc3f3125" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_24.DAT" size="6619" crc="36179bd3" md5="e6642fcf632ffb3a6758a39e682f57bd" sha1="fe222a5bfefd2687e3afef7e48aded979815743f" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_3.DAT" size="6617" crc="05f59cd3" md5="095828517f38dfc8719c14e7fa087d95" sha1="d3ded98dd4823290836fac8723755e5a2ed8040b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_4.DAT" size="6619" crc="93cc4a0d" md5="bf624aff7a7492158d36e48d378a1ee1" sha1="45ce67550be185b99141a37fade583d7e2c8f7cb" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_5.DAT" size="6659" crc="1025e742" md5="1e0aea32374bcb1f7a7629445a7b4603" sha1="db1a23987e4e571769f58a9277cce269de9343ef" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_6.DAT" size="6618" crc="b9d34ffb" md5="c1ad5056a0882350a680f14193e4f4a4" sha1="0faf4d2924bba0cac74ced26d9b0da9351e1571a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_66.DAT" size="6659" crc="5180d71e" md5="ddb857329ebdfb203561c2c100248d92" sha1="5656fd1d8d70538730576a12ff5c51d1d425807d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_7.DAT" size="6618" crc="01c2e48f" md5="1eb0a0941c0b03995350c30062d16a91" sha1="c95689cb0dc1d16c7e7294be4563b61b57c48552" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_8.DAT" size="6619" crc="90328afe" md5="8c30e6c3ba3575fd421062e8b94f02f0" sha1="8e1ce7016c35e24e77dd50c443f5e082404f3603" />
+		<rom name="Hero (v1.0)[misc][DOS]\HROOM_9.DAT" size="6618" crc="d41577a5" md5="9978ca6259909981982e2e47801c33ea" sha1="925f510b4de205a41c9913a75555df232dc8cc49" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSAVE1.Q" size="168449" crc="f015ef72" md5="459d4931e8aaef59949243975284d2fe" sha1="b55ec3d7b1fa6d57f54dbbe471444d1bb81e91b4" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSAVE2.Q" size="168449" crc="f015ef72" md5="459d4931e8aaef59949243975284d2fe" sha1="b55ec3d7b1fa6d57f54dbbe471444d1bb81e91b4" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSAVE3.Q" size="168449" crc="f015ef72" md5="459d4931e8aaef59949243975284d2fe" sha1="b55ec3d7b1fa6d57f54dbbe471444d1bb81e91b4" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSCHOOL0.Q" size="668" crc="60da6a11" md5="1be326778f54784fbff980d678cf6874" sha1="1a1178cdc00613f85af3804dc5cc6bd274204a77" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSCHOOL1.Q" size="711" crc="c136e737" md5="39be49f743d60ba08b45f33bb2614bad" sha1="3849684ef16eb3ca3249d92f51cc2ba45c4f060d" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSCHOOL2.Q" size="724" crc="3c00a74c" md5="c6cd86ececb3586abe629979c54cb08e" sha1="fb27ad82088a6cc615872977491a589f78db550b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSCHOOL3.Q" size="729" crc="b389ba5f" md5="eb8330dc54cd6e9758aef55e93058f43" sha1="566ab06daecfd561689edeee708e61c0669f341c" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSCHOOL4.Q" size="670" crc="2918c0d5" md5="fc24a13695f2a48f48775f77808216af" sha1="e8491ebd5980b5276925b0964d09187c65e7bca0" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSCHOOL5.Q" size="757" crc="03282ea2" md5="f257e14baa08d9243f61646dda991e3e" sha1="8149c08284da786562b9a0ac1a478e64c5723191" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL01.Q" size="1224" crc="83d4e96e" md5="d9bc412dc419c5407005c05514c501c9" sha1="dafe3e5aba0d0f8a10f16e93b65718f56f598128" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL02.Q" size="1232" crc="cf7e6a1d" md5="4f61c70ea429d2c64deb5c21c372068f" sha1="7d1f84ccaa0417528981fbbcdf93204e02ab49ee" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL03.Q" size="1405" crc="e36de123" md5="e5b86b9db0df7dacbc8e0d54b741ae12" sha1="983a58649180e26b6a4b6154bcac02e05daa819b" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL04.Q" size="1182" crc="e981ebfb" md5="77f25cc9948d99e4c2212b2bc7e30a66" sha1="398037fdc05a29157b97f41dce7944598b771343" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL05.Q" size="1251" crc="f5dca22b" md5="c29edf81fc4ee80cc638961131f94f97" sha1="89fc60427405c035358b3d31cfd6b2a070eed09a" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL06.Q" size="695" crc="5de05ee6" md5="50507dd1bc40b4072d16621174883c8c" sha1="f491146aaed81fcf9ece56e39da7f6dabec53f8f" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL07.Q" size="1427" crc="33ea78b3" md5="819ce8fc1bcf8596d895b08f56d7ec22" sha1="f5daaff7f5b80a84e4a07cfb0b4f36ff619adbec" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL08.Q" size="1517" crc="5c668cc7" md5="cedaeae76f9545aed5a8964a7913aeb2" sha1="1aa72e5e9fa18b72318abec305fe4f7260b71504" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL09.Q" size="1768" crc="74fe9b6f" md5="2a20a794763ebe4df0887426d1851074" sha1="22bbdc7da5778e6d92394e0c682fbe09569bbc13" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL10.Q" size="590" crc="f2ddcd46" md5="47500d0eac4156ba360bca58643f60b4" sha1="f6ae2f1d1a039cc8493e51360a539a7e242cd2a6" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL11.Q" size="325" crc="1445be05" md5="dbb99002f5d1df9ea27bd523f446c047" sha1="717a54c3b5515b4f3ed3dd81cbcefe333727cbfa" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL12.Q" size="1295" crc="6d828252" md5="0b2dfefb0707d0a50834aa1c856a3075" sha1="8bc8b5e6bf3f5e3bc29c188ee584b10bc05629f3" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL13.Q" size="2323" crc="4a59294e" md5="ec52c8c217220d39b15ee3de1789b486" sha1="cd8490b8cd6fca6c8cdbead6f22df3bd89e0a314" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL98.Q" size="1124" crc="523ffe23" md5="a6664c328fd137f41ab461da1ddd74e8" sha1="b51b228c123e79a5bb729a8dab0bcacf880b23a2" />
+		<rom name="Hero (v1.0)[misc][DOS]\HSPELL99.Q" size="1416" crc="6a9d38e2" md5="06447e6aa0ec946ce7178bcab795b066" sha1="c0fba072eda63b9682db2a260f1e55840a40d3c5" />
+	</machine>
+	<machine name="Leygref's Castle (v1.0)[misc][DOS]">
+		<description>Leygref's Castle (v1.0)[misc][DOS]</description>
+		<rom name="Leygref's Castle (v1.0)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Leygref's Castle (v1.0)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Leygref's Castle (v1.0)[misc][DOS]\__Doc\Leygref's Castle for DOS (1986) - MobyGames.mht" size="903517" crc="3ce7d99e" md5="77ff5d20a1b3e87608fb93e090e66618" sha1="3b05dca1fd5363454cc18bf19ba9dc54a0fe68ea" />
+		<rom name="Leygref's Castle (v1.0)[misc][DOS]\__Doc\The CRPG Addict_ Game 233_ Leygref's Castle (1986).mht" size="3264431" crc="e7215b8d" md5="4c677782ab4f4afc681e61eefd71e892" sha1="28734bf29a7ce487e584070f0aba8dc2482d67ba" />
+		<rom name="Leygref's Castle (v1.0)[misc][DOS]\file_id.diz" size="254" crc="6a4df067" md5="642b775c4ad92ff4d3d729b4a51a8c6c" sha1="6f06228a4bde32b57c05911b81b780a94f3e1dee" />
+		<rom name="Leygref's Castle (v1.0)[misc][DOS]\Leygref.000" size="13568" crc="911297d4" md5="ce5422c79e5b15a81cf9ab2e418852ae" sha1="66c24fc72658ae8d17ada66eddf39462b389b941" />
+		<rom name="Leygref's Castle (v1.0)[misc][DOS]\Leygref.001" size="10496" crc="758867ca" md5="5e971d4e65a30cc3bb6482c469232144" sha1="9ac9e7d2051807bd3327a4cb4310dc3ec8ecd505" />
+		<rom name="Leygref's Castle (v1.0)[misc][DOS]\Leygref.com" size="26373" crc="b2aedc6b" md5="0e3ba54ce7ab96a764d6a900542aa2c7" sha1="613f5302c826377df3ce24a1af4f02842ef80545" />
+		<rom name="Leygref's Castle (v1.0)[misc][DOS]\Leygref.scr" size="76000" crc="3e33e325" md5="f624ebac6a25166dfc7ed9b836abe816" sha1="1d14bfcbe1eee15da3aa7d1b10abe7afa8592968" />
+	</machine>
+	<machine name="Mission Mainframe (v3.2)[misc][DOS]">
+		<description>Mission Mainframe (v3.2)[misc][DOS]</description>
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\__Doc\Download Mission_ Mainframe - My Abandonware.mht" size="1227353" crc="fcac4359" md5="fa93520ae8987c9337eee5a9cee0ff61" sha1="f41a4974710ba57e27ebb6233b711ac7603eba75" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\__Doc\Mission_ Mainframe _ The Obscuritory.mht" size="796516" crc="2c5dd49a" md5="2142deaf074fe63a4ec25d52fd0ff115" sha1="884b97c0eebda7956a9c143cbcdd11dfee68b352" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\__Doc\Mission_ Mainframe for DOS (1987) - MobyGames.mht" size="895462" crc="ba45b901" md5="f4f115b5bcd10b1e3b9d53ce2ba60c6a" sha1="76d357eea322c1c0ab609ebc402555a9a5c24a99" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\BRIEF.EXE" size="44050" crc="0928d306" md5="c843d8d5fbd9174ab1913e8057a9849c" sha1="4f75372479e3c2bdf6d47185f60416f6cc575893" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\BRIEFING.TXT" size="24576" crc="86286ab0" md5="980491579205253b77a0bd774dfc96d4" sha1="e187596f04343cc2a18e0623ec6859b481fd5696" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\CGA.BGI" size="6029" crc="cd2d7722" md5="afe423b369e78fc7b466f4a54cf87490" sha1="4fd11b12becf6e2e14f041a36371e17311cda0d5" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\file_id.diz" size="261" crc="f80144c9" md5="465f3d3d9a8e2706e9be399084471a79" sha1="0039a0914c76261eeee069c2795319f2fd25264d" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\MISINDX.EXE" size="12556" crc="2d8087c5" md5="b80f93ad00388e21faf3f9301c59de6f" sha1="c2e213ce791712f5835373a399d346868f0655d5" />
+		<rom name="Mission Mainframe (v3.2)[misc][DOS]\MISSION.EXE" size="81408" crc="de6ad1d4" md5="28a1b07a17a52350606fb250b40ca9a1" sha1="44a64b461996acb25b228348c106efd719678c1f" />
+	</machine>
+	<machine name="NPSiU {PL} (vbeta7)[misc][DOS]">
+		<description>NPSiU {PL} (vbeta7)[misc][DOS]</description>
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\__Doc\Dld.7z" size="109658" crc="eced9658" md5="6ae312a8da19eb60b58049ac64aa7291" sha1="80273563c2ad8bc13a823d7c3dc00e9404fa43f9" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\__Doc\npsiu.mht" size="56125" crc="a214c248" md5="9c32ec9da7a7b5fb4d9e5acccf1da9e0" sha1="1aecb92282f5b8c7eb04040efcd3deca1d830df9" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\dom1.ops" size="4537" crc="2e020057" md5="bb8327967f77a3395a7d0561ee18628e" sha1="69f0be2ee9cd78905ed232a85f822bec14166f70" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\DOM2.OPS" size="4314" crc="6b2953ac" md5="44a8e055e2c89eb4191bdb7c0cc5d42e" sha1="299cdf2970ef455d8b750d55af0220d3a26a30cc" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\dom3.ops" size="1739" crc="3d37303b" md5="7b7807ca6a8730dcf17cc5c606bc4536" sha1="0734616c21c3c15a9242e7a2c7379838ece3b39f" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\dom4.ops" size="4127" crc="f2e55adf" md5="4d963be71ffb8f9c29cd71073694a91f" sha1="0469227455bb0e2b1b7eb6a3da3ca94761410c67" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\dom5.ops" size="4410" crc="436ed236" md5="65516c639dd1bc86e9f66d649dbe211f" sha1="17305924ee312a2907e1ec012d571e45c7c53f4b" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\DOM6.OPS" size="3417" crc="eef74dea" md5="f9a6dca66e73a23fbed09c5a49fa9141" sha1="bb4ac7a04ad72f78364f4b1d68af59b1a2aeba59" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\DOM7.OPS" size="3694" crc="c4b32acf" md5="bada4c84e209cbbedabaf3dcee757bf3" sha1="2ebb06dcad53d4ef29b83746d4515c06136e838d" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\ITEMS.TMP" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\NAB1.OPS" size="3340" crc="48e7e65e" md5="6e78a70d0158e096971cc0394f84076f" sha1="298b6ed85901b5f6d1775e9aa1b1a61f7f9156da" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\podz1.ops" size="536" crc="ca42c41a" md5="239ee2b3c5c8e8462d4d52f7b2dc5b75" sha1="fa46389bf44e52275d14e999a4350853ad61db20" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\PODZ2.OPS" size="217" crc="84670a28" md5="7348c966ec741c250b3f13e56578b34b" sha1="295ecb34630befe1eb8e4afc3fe60542b71d57d1" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\SMOK.OPS" size="247" crc="39593598" md5="82203c65edde7cc6837b18017e369920" sha1="f36016366664c12c92606d6db065b0239323a3c6" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\start.ops" size="1405" crc="aeea8231" md5="62275c0dd133c7d653e486020d21ae73" sha1="f54aebf3e821b408731a81f1db6e342acbfc23c0" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dat\wioska1.ops" size="5309" crc="9717f89e" md5="d4c35087931376986ebb87e0522c9516" sha1="3092c9bc5615c28446f856dff5523838a052a8d7" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\CZLOWIEK.DXT" size="287" crc="36f4eeb2" md5="45ea84f1795fca8819dbf11a5ff3fd1b" sha1="05c63f35f87cdb6f47b1fa0348afe838c1154d78" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\ELF.DXT" size="402" crc="39cd4a36" md5="b45475892a74772be64338d5a2d5f8d5" sha1="2c58df720dd34ba531023729ca608312345cff39" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\FEATURE1.DXT" size="918" crc="fd5c3ae0" md5="80b79a032f8445a55a3523ca074cd240" sha1="7bf36f301a8b01ba620520df6cf3cb0c398f521f" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\FEATURE2.DXT" size="916" crc="ae46f72a" md5="859a7563d31c6a62306f5ee8b9e3d21f" sha1="9c65cd16e91687ebb968826050f9a2078f6d3598" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\HELP1.DXT" size="1099" crc="b8969f0f" md5="05fa0ff9f8ab6eca0162d7e7fdb21283" sha1="6e05aabed86ec3ca3c938e57e8ed13a28a38b576" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\HELP2.DXT" size="1378" crc="a68fc167" md5="21eec8e417325d8ae55e5333e15570cc" sha1="22c26894661fb732b956d8ac8d3a5997c93c0e10" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\HELP3.DXT" size="1085" crc="12d6800b" md5="3da106767969299f3bf9afa01d232d67" sha1="789bbd15c8c68f92011f7627833f056afa89d1e4" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\HELP4.DXT" size="1250" crc="601276b1" md5="866305c08193cede83642f92d3a298ba" sha1="1ddec6e6dcb3de9cf12bb5092bef2068d2a5f4fc" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\HOBBIT.DXT" size="182" crc="ebbbc582" md5="16dd58fc838e954180170ea1bea252b2" sha1="7673eca9d65cbcc92b65e091ceb925e441447a7a" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_INI.DXT" size="235" crc="2dd6adb9" md5="1a6284821be07bd495f23ecbc61f3715" sha1="a2c133e078cd6f7cc109c53517f55516b05ffefc" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_INT.DXT" size="625" crc="1ba3b2cd" md5="43892eeccda0789bd99da6b2466cc1a8" sha1="00cc0eaa7676875fd9c5e6b8d8311f0d3400b220" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_MD.DXT" size="505" crc="53cf3ae9" md5="65fe082f36e557cc333c9dd75274d65e" sha1="9eec8f2b696e7a0fefbd48a115d87c81cfbea58f" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_NM.DXT" size="218" crc="596b22db" md5="427a9ef92aa2596afa8b8be2ca600a3a" sha1="5deaf103c05bc384041e93c1a045a9bc9a738693" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_O.DXT" size="271" crc="02e2deb5" md5="ad884c09e162e6ae9c69647227dc6c5d" sha1="0d4387724fc628b553f2284b5f7c75b29ccf8ed1" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_OZ.DXT" size="345" crc="1d7e2a4c" md5="101842cd12140d7ebb6c774e005f080e" sha1="b7134c91314052979f8ed8068b37f0d660733472" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_PK.DXT" size="333" crc="40d87188" md5="312841052846b0e5aee0840beb7a24d0" sha1="06076098e487908957ec808940f3559c8463dc79" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_SILA.DXT" size="486" crc="eacdd0eb" md5="051642830b5142f50041d35f707787e5" sha1="abb79bffffc0e6ee51608ba3ba86658d8f81709d" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\i_wd.dxt" size="414" crc="abd0e108" md5="21d832555652697750c1e2e6804c5f41" sha1="a2b77a97dfceab4144ea3e84cd8667f5732248cb" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_WT.DXT" size="736" crc="cfb95549" md5="e1bf7c8af054bdea8cdacb3865ac2ef9" sha1="dd6f06c2d569e938505372c890dde50e1f4edd19" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_WW.DXT" size="397" crc="58b093fb" md5="06f3fa97d46b36207b12fd49b866af9d" sha1="c079cd5c9efa951233a2ab3e356d96acd79bac48" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\I_ZR.DXT" size="408" crc="8cb7aa3f" md5="771c33d2ea21e287e96265b6ce2df2b3" sha1="0ae36b5593582555a8c57cfda1412d4cc19fd119" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\inter.txt" size="1648" crc="b8c36d79" md5="7ddcbdb676ac4abbccf7e7ca09e2f715" sha1="de4580150185c7246bf206382b764758542ce22d" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\inv_bag.txt" size="1648" crc="407be9a1" md5="4ba9ba180dd4bcd168954df7e7749c35" sha1="7b574013111b0e1a0a91ad5cf0e71e63ec61bbb9" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\inv_gr.txt" size="1648" crc="3d02a8a5" md5="7c94d28fc451cf8deb47b695b7d1fdb8" sha1="cc0fed67c9c56e7ac80ea07c7d9956d76678a2a2" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\inv_main.txt" size="1648" crc="8147eab7" md5="fc5aeaaeaebb2a31eea51f9404716346" sha1="f93a93d91bff08368ad65d22b66497de39b55f85" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\KRAS.DXT" size="255" crc="593b48b1" md5="80eaa24b68cc3d5d6a387d5d68ca3ae5" sha1="e9c4944bad8b689ae4509985dccc8157ec24adfd" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\pelna.txt" size="2023" crc="8a582a37" md5="e75356c319f1dc2b96dc84e461de18ad" sha1="d95df13e081676921a86aaacceee4b63aa4250d0" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\POLELF1.DXT" size="264" crc="045acd3f" md5="264f3641338d0c25f7a7a5578df4b613" sha1="0a07fae012e424fafbbeda2060bd8d1a17f72de1" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\POLELF2.DXT" size="302" crc="51a0dc12" md5="da3175abb8a60c17b95e9b19b4f829b4" sha1="f7465a49e11304a5e123c4fd6b4d1a4a75c90eca" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\RACE.DXT" size="214" crc="68e898a6" md5="539c317e9ab24baa5a490bca4f2e1826" sha1="e17e1abcb12387522a94c66324facf47a129b52a" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\SEX.DXT" size="66" crc="f55703d4" md5="e1ffc23eac45a895ef7c8a2328d05aeb" sha1="3a862cfcfd67a7c37bc748f25b3b5ae7235e4f0b" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\skills.txt" size="7972" crc="f26a9e6a" md5="d03f9a06dbb9ec819b66dff1c39b3b1f" sha1="218f78d983948d53f045545d4ac3f9cc14b317f0" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\TITLE.DXT" size="404" crc="55405988" md5="7fffa9156bbb479937c86cf0c31181d4" sha1="ba37bb71a0da3c18942cdef69dafa690ee62384e" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\dxt\WELCOME.DXT" size="416" crc="6a1e339e" md5="88ffc304d2c09eb1480c53f99f57f419" sha1="3120825f193e73b069c5a24fee100a8e41839f92" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\game.exe" size="157993" crc="3c0cc067" md5="d696e8b3f9ec7ae8344963a2c3af041f" sha1="08295400d98fd5b138b54e9124e872959c090d9e" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\info.txt" size="455" crc="c3557714" md5="cd9c3baba9bb36c93f4d585928562015" sha1="e858ccb2828e003f418177bca945289d5655103c" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom1.map" size="178" crc="1174d947" md5="3357d46b5b8b071b613f9ef944c272fa" sha1="8acf30c949afa63b8db3a7309a8ead8f79390511" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom1.wrg" size="1882" crc="16577d8c" md5="90734225105c838de9274b9a609206bb" sha1="8b9faf7e42fc1ab0c3ed6a65bfbcc99cdd4fbbe1" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom2.map" size="474" crc="ec4f896f" md5="6d15d690f8c99a15062013de55165d03" sha1="938858c27386a7c8a12ef1ac16969831593ab048" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom2.wrg" size="2224" crc="daf2f77f" md5="2600c817442d0036a5a96a4ab8749211" sha1="4e33309868d55551fc804ad125dbeae1f99ff345" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom3.map" size="205" crc="6014228a" md5="e6820a82a4ae55e862bd5796805be45c" sha1="5910529246a57ff28e53ad52d8695e10b1fc1de7" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom3.wrg" size="1774" crc="c8a86156" md5="25be3d3c04d5f822a0053ce03b35051f" sha1="88e4bc45afd60a044b55c098cc46892205ab9599" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom4.map" size="64" crc="2482c4d1" md5="3056dc2d9d68c303424c2a6e9f8d19ca" sha1="d18f27ab4453c18aaab2175d121c377045a6e7ae" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom5.map" size="160" crc="6859a4cf" md5="653e5d6ce764e6e36286d10fc62de3eb" sha1="6f88d988485a08e8e9f55b7e23628df9ff10d56c" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom5.wrg" size="1480" crc="d8a894d6" md5="7b30ad7c9c4cdb4e8310c2ec179ceb47" sha1="a70e1127571e8011e3d2ed48e4a7737d491ce25a" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom6.map" size="52" crc="c0df944a" md5="0764e8890727bba87a1abdc5d4a3d78f" sha1="7083fb6bdec2fc4979788e422f58e2bc454cd3e8" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\dom7.map" size="82" crc="2d414b1d" md5="2c8e780e80135ab53803695e881f3b14" sha1="769adf7f7ae06c0fea3cf2a6ed7bceb1d00695b5" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\nab1.map" size="2242" crc="c8fd9165" md5="4834c5f8b8d200e29a2d9a6c9a9226e4" sha1="baad1ef29f4c75d283850ed929700b8453fd4866" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\nab1.wrg" size="398" crc="8b8d9aac" md5="453704a54ef7519c735213257b272357" sha1="29443526a879aa14e1d48a208ef41ff345da5704" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\podz1.map" size="5881" crc="160dadc0" md5="1459a93b05199795358b9eacf17aee2c" sha1="c4e2f707abc072cd9140173ecc719a448d432ac0" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\podz1.wrg" size="3628" crc="e2b4db5d" md5="02cb8d9cdf41b792222fba11654f2e5b" sha1="8425b667d845ca6348ac8d06c4a1d24c7eb3c32f" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\podz2.map" size="3216" crc="cd1a481f" md5="2d22d5e546eb47c9358d7f549793081b" sha1="9e35be4471f35155c588c5846fb21a55fac975d0" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\PODZ2.WRG" size="3671" crc="f62a139b" md5="f1d4a22245488c968724b5be0abf4543" sha1="19992c3286ac652981f607354aa67f18cd908c83" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\smok.map" size="368" crc="63b16bbd" md5="af51453a42fe4d089937f41bc358f2f5" sha1="1acf6ae21747e8305c3abe5d3448d1018310df49" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\SMOK.WRG" size="426" crc="b8224677" md5="989ec2fd91601c2ed30dab7d31b6f824" sha1="8a56f6c4a60ceaccfefcd08551521216b1f40755" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\start.map" size="1168" crc="732b23ba" md5="db564ecb2b044036ba5ff8735dc549b4" sha1="283bdd9dbd60e3652ca7e64c64e5124cf90cd306" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\test.map" size="40198" crc="8e60b031" md5="5540c00303d33e19fca08eb3e906a486" sha1="b181260ae74ffe843766ebf714166b8af8857b4d" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\wioska1.map" size="526" crc="a2e4cee2" md5="04c6ff17cc517c7ca6660d4f90752063" sha1="2fe14c8d13aefb3c82772df6df995caf51703e31" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\map\wioska1.wrg" size="2227" crc="9f830b51" md5="1bc5d5bd965f65b078f73546d68092be" sha1="543c6846f94874fa7fb4a8a6e8174b7ac3c6f8d2" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\readme.txt" size="10012" crc="854303c3" md5="c90951f19c44aedacbb74c636802cd57" sha1="66edaddf7ae22570f8b7a825d908ebe8eb1b18f5" />
+		<rom name="NPSiU {PL} (vbeta7)[misc][DOS]\start.exe" size="57875" crc="b9406f63" md5="4665c4fa88f5c0e51624e77f3c1ecc9d" sha1="95bdeeacedcca3a980d73ff690658352c5d60ba5" />
+	</machine>
+	<machine name="Reaping The Dungeon (v1.1)[misc][DOS]">
+		<description>Reaping The Dungeon (v1.1)[misc][DOS]</description>
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\__Doc\Free Registered Copy.mht" size="7137" crc="0acf35d7" md5="ba78aa6ce701435086a286763b1f6bee" sha1="608641d2c6d90d1cfee168cb2a028baa71106344" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\__Doc\README.1ST" size="276" crc="a20505fa" md5="1c69f640bcc26417b211573cb6329547" sha1="5aa5abdd6fad15cf7ca838740562de3d9a78833d" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\__Doc\reap.mht" size="79716" crc="8736cd45" md5="0c6523bcb5bbd469537c131019d45bec" sha1="4d835f68b7534a2090b8c9d03600cb94cd0ce3ef" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\__Doc\Reaping the dungeon - RogueBasin.mht" size="334860" crc="4bc6eb3c" md5="d6b142f5df955bd4f92f914a494aad6d" sha1="73d39ff170b59d5962f41c0e2c402677611be36c" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\__Doc\Reaping the Dungeon _ Ron Heuse _ Free Download &amp; Streaming _ Internet Archive.mht" size="2905758" crc="643b8879" md5="fd9560319430ed632b33952eea4558a6" sha1="73811f791ee427a8361a3de710ab5f22220aed00" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\__Doc\Reaping the Dungeon for DOS (1993) - MobyGames.mht" size="726363" crc="bf057d2e" md5="add8ac70b418169fee99496a97e89e4d" sha1="daabe6e3ad7aa311326cf19ac7773fe97c1d72b9" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\ORDER.DOC" size="1443" crc="4c71d6ae" md5="d31a5778ddc6512118d9418310b4b1cb" sha1="7e4059fa42074914032c15f97ef9f8e1240119b1" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\REAP.DAT" size="105910" crc="748dea9f" md5="65708593879d0c43e8826b3aefd61bb4" sha1="9575d8b4e40639f1c1b03b63a0b446e36824e25f" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\REAP.EXE" size="303478" crc="d62af90d" md5="62dc81c781aaeab092babca0b7a5a887" sha1="8b95c42754eb7f97c6de05205b90a22ba08e102a" />
+		<rom name="Reaping The Dungeon (v1.1)[misc][DOS]\VENDOR.DOC" size="2238" crc="4d0aa308" md5="205070477e1d40dc66d408092c287abd" sha1="084d7860d34aed990564cbbd8f36ada68d8d047d" />
+	</machine>
+	<machine name="Robotfindskitten (v1.7320508.406)[misc][DOS]">
+		<description>Robotfindskitten (v1.7320508.406)[misc][DOS]</description>
+		<rom name="Robotfindskitten (v1.7320508.406)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Robotfindskitten (v1.7320508.406)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Robotfindskitten (v1.7320508.406)[misc][DOS]\__Doc\Robotfindskitten - RogueBasin.mht" size="333406" crc="3c74d42c" md5="33689c1c4ca77a4e147cb48323a0a564" sha1="8a46d9ca91bd26944fa076aa1dde8f2105332b64" />
+		<rom name="Robotfindskitten (v1.7320508.406)[misc][DOS]\__Doc\robotfindskitten... helping robots find kittens since 1997.mht" size="7186" crc="d01dc4b0" md5="6ada43ebdd0668e0df0f57891de6157e" sha1="f4ca5670cbbebeff51d148e76ff2f095cbd4e97b" />
+		<rom name="Robotfindskitten (v1.7320508.406)[misc][DOS]\robot.dos.exe" size="56585" crc="25b32b98" md5="31158004029dc3bf0648c0bdd9ebaf88" sha1="46b41a845040551194d095fb1b782c78e2a80578" />
+	</machine>
+	<machine name="Strefa Smierci {PL}(v)[misc][DOS]">
+		<description>Strefa Smierci {PL}(v)[misc][DOS]</description>
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\__Doc\index.mht" size="223519" crc="144e16d5" md5="7f47f27cedcb5337e499c01aeef596d1" sha1="452c62f21b9f38f31e50285f945ebdc938515039" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\1501.EXE" size="51280" crc="6cbee239" md5="0a82c4d1b4563a48f794b3d10e777d4d" sha1="d17ccf4d2eebdfd72a21bfa2fe8cb426a184bad9" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\GFX.MAP" size="270" crc="302b510f" md5="9ac07d5aaacf58b77130ea3b15524a9d" sha1="c2658eaf1ee8c53f1dfe0d2325a129376ba40a24" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\GR_01.MAP" size="1078" crc="339d4411" md5="eb54d088a1b4dfddb847210ef2f82c67" sha1="86fc131fdbe0b03169b780bf8b81d17124ec5461" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\GR_02.MAP" size="748" crc="fa9fee3f" md5="5d80f02f1a9680986da6f200f510d321" sha1="4e837422ca2763f2d8c148b1cdb8c3d74d19de85" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\GRAFIKA.MAP" size="473" crc="50c36fd9" md5="48c778efbea66c96f8c14b74ba697ad8" sha1="2b6c457686a7b1506454c9cda0e297168c2477aa" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\Robocza.txt" size="6566" crc="d894cd1c" md5="9eae6eb736dac5018292774aeb08c002" sha1="31a82a3e3590f37ec88802f327c1ae1eaa90456b" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\Robocza2.txt" size="2600" crc="641a26db" md5="5b2ac82fa93a1c8d7b4687583952d8dc" sha1="15f9f90ef5261ac27eadf5a75c84aeb050c45d51" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\Robocza_.txt" size="6575" crc="9661d109" md5="7c2f84d5d38f051f166b4712a543cc45" sha1="252197fd3a0d1b5314ac792afcac6951a4f02bfd" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\START.BAK" size="2608" crc="a087ba67" md5="24725f9ccfa0e58536106ff3576d6f1c" sha1="8d679971e8b6a61d1ebb34787fc6fa54ac3f8a52" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\Start.txt" size="2608" crc="1225d255" md5="3cd22dcded5b17ad5a91bbfe787e6dba" sha1="f564879e37b1c7dc4e9ee58e8b2d2bf4f6cb4bbf" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\Start2.txt" size="2600" crc="0a44f46d" md5="5655143199c42341221f46331f02737f" sha1="60150c4d2237489883a366feba9930eb279ab87e" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\Start_.txt" size="2604" crc="84838289" md5="dc2e6cd886ca4152ad28021a02c3250e" sha1="68532a5ab78e55ac6291bdd9be485cbbfa3d51b4" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\STR_EDI2.EXE" size="13600" crc="27eb3069" md5="8d2a5ed5d6aacd047dfc196bc4dafd7e" sha1="fe0ba1242442aeeaab0349984eee1814bf179aab" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\STR_EDI2.PIF" size="967" crc="fde9147d" md5="7ac6f781bde675448d35ccf1c85cbaad" sha1="8e8108287902b07b1d8f7fcde0f084761c6475d8" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\TEST66.TXT" size="2608" crc="3bce1f58" md5="7b4247f8789d73986a0700b1a5a9b452" sha1="f88aa639b427283cb5a41489771dac8a19516d8f" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\TEST662.TXT" size="2600" crc="0a44f46d" md5="5655143199c42341221f46331f02737f" sha1="60150c4d2237489883a366feba9930eb279ab87e" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\TEST66_.TXT" size="2600" crc="0a44f46d" md5="5655143199c42341221f46331f02737f" sha1="60150c4d2237489883a366feba9930eb279ab87e" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\MAPY\WORLD.TXT" size="14631" crc="cb2059f1" md5="b358e74fd8f2c65b11ef2a4053cac10a" sha1="72ac0179dcac81b231169214447dd9cf23999a74" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\NAZWY.DAT" size="114" crc="cb298250" md5="2951a5e2d65bd8f797f85d7a888b7652" sha1="1a72b7e76a746d427fa054a184e6ad1a9f25fde5" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\NAZWY2.DAT" size="144" crc="dd297b54" md5="8f773cd6a7a06165ac0c3c6ae3733bab" sha1="3428ff4f6effeefb2ba5ac8dda3a65bcfba589ce" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\NAZWY3.DAT" size="164" crc="693c6e45" md5="908f8b352c2d080b7832f4398bef582f" sha1="0b4533395240c4ce40e0a9fdd13547118973f86c" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\NAZWY4.DAT" size="195" crc="2f963b76" md5="e0373a99faa9f8085f9f354cdec758c9" sha1="26aca2e2755d5e8efaa666a15ec7f5a2529c6edc" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\Opis.txt" size="1503" crc="1d9cf539" md5="0868d46723ded605e1f25e422f473b5b" sha1="6c628549a340c4c74494516d3cc33fabcd405ef9" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\ROBOCZAM.DAT" size="80" crc="55056d3c" md5="79758a85d11d7160dd61c4cda7f2c7c4" sha1="b2ce42523a44ac40a9cd13648a39f6fb7eca2d17" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\STAFF.DAT" size="1658" crc="e8d5dd7f" md5="c1f712ec5d24e8949196d570072df114" sha1="8d498716a47e13644dec9227c5c7b97c43e079e1" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\STAFF2.DAT" size="2794" crc="9a216dff" md5="443359ac1d9f7791d369b5ba94633a5f" sha1="655fb4f563c9d0f029267bfb7e4ab71a2bdfb731" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\STARTM.DAT" size="8422" crc="d7a59228" md5="c30c3bcd7bda27e1459a29ccd19f085f" sha1="be598cf9473e27ba48632f1a353507d48a68378e" />
+		<rom name="Strefa Smierci {PL}(v)[misc][DOS]\TEST66M.DAT" size="2380" crc="9c3deb01" md5="fef4c79bba62cdd4639d1d85e4e58707" sha1="9c2ebdaa2f14a7219bbf79dcac1ee509a86eafa2" />
+	</machine>
+	<machine name="The Wizard's Castle (v1.0)[misc][DOS]">
+		<description>The Wizard's Castle (v1.0)[misc][DOS]</description>
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\__Doc\Download Wizards Castle, The _ Abandonia.mht" size="2505972" crc="4ee703ea" md5="3c15f3d618ff5f73c107b68e4f959ef7" sha1="d6f6d70fb1437c5b8e1f7d3370e25997b3785795" />
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\__Doc\The Story of The Wizard's Castle _ Armchair Arcade.mht" size="945075" crc="d323e718" md5="8706803cb30d2a2cdd03ec8fa085e28e" sha1="c5434a795ae95175f4237954fa551e72443a59d8" />
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\__Doc\The Wizard's Castle for Commodore PET_CBM (1980) - MobyGames.mht" size="894222" crc="5d5aebb9" md5="4b4bbcd49a1aa873efd4b3cab9a0dc42" sha1="2293d96e53833118db17b61dae7c7457f4fa21e1" />
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\castle.txt" size="14850" crc="b00e11a4" md5="e8952d6f77990b0f5bc8693c3d782d4c" sha1="fa1e4dfbc80468a859e792f9133cd30f732f1a90" />
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\file_id.diz" size="250" crc="98a8eb26" md5="2095eaaa18d62290e4e7b4ee0c3c11cb" sha1="f888fa5d7cf691d14f7f793bf1f87b563bb2b484" />
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\GWBASIC.EXE" size="80592" crc="8462d0e4" md5="ab25516575579185cca865d89e3e1a31" sha1="2a5cebdee003f1e28239e17ea2fe3e2406fd6cc0" />
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\runme.bat" size="33" crc="55979c3e" md5="8539218d955feee411f0b6c279e9ba5d" sha1="a5e207e8aa2368cf2bf551b498c928283abc9351" />
+		<rom name="The Wizard's Castle (v1.0)[misc][DOS]\WIZARD.BAS" size="27520" crc="dfb574cd" md5="3d26704db0ee30f981a5af2efd67b736" sha1="44fd9fdf20f8d497c2b6edfb07061f544943c390" />
+	</machine>
+	<machine name="Warriors of Ras Volume I Dunzhin (v)[misc][DOS]">
+		<description>Warriors of Ras Volume I Dunzhin (v)[misc][DOS]</description>
+		<rom name="Warriors of Ras Volume I Dunzhin (v)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Warriors of Ras Volume I Dunzhin (v)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Warriors of Ras Volume I Dunzhin (v)[misc][DOS]\__Doc\Dunzhin - Wikipedia.mht" size="545011" crc="36a00f50" md5="47f8d5417b9c26f11b21342331e371dc" sha1="c44c1b64dc3e47e5724bc51cc68b4e8c94b9109c" />
+		<rom name="Warriors of Ras Volume I Dunzhin (v)[misc][DOS]\__Doc\Dunzhin for PC Booter (1982) - MobyGames.mht" size="733497" crc="589cb024" md5="3a7ea8e2044fb8011d014d1707ee0804" sha1="64fca7037174ed99e92ece5a9f89f96bd19581f7" />
+		<rom name="Warriors of Ras Volume I Dunzhin (v)[misc][DOS]\__Doc\RELEASE.NFO" size="1181" crc="b9c405a8" md5="aaa3c9ca21c81e43b51d14e6142a3b97" sha1="1e53780d306b394521692c8a5608865ad4a8cedc" />
+		<rom name="Warriors of Ras Volume I Dunzhin (v)[misc][DOS]\__Doc\The CRPG Addict_ Game 134_ Warrior of Ras, Volume One_ Dunzhin (1982).mht" size="2489055" crc="874bb45b" md5="949b4f9172fb68fd3e492d83c9c6b077" sha1="11c0caedba91384fac94d48c190b768266c0306d" />
+		<rom name="Warriors of Ras Volume I Dunzhin (v)[misc][DOS]\__Doc\Warrior Of Ras #1 - Dunzhin.pdf" size="6488627" crc="f884bff4" md5="a96e3374460458a94818935a61eb69be" sha1="ee862574ca54ed95534d93a73f2882289c5ba3ca" />
+		<rom name="Warriors of Ras Volume I Dunzhin (v)[misc][DOS]\Warriors of Ras Volume I- Dunzhin [DC] (1982).img" size="163840" crc="b9262dc3" md5="3d2074568a79d62a0365c895eb794653" sha1="7e76c35d082debca67b06c9326a49b47db46463c" />
+	</machine>
+	<machine name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]">
+		<description>Zmierzch {PL} (vDEMO 1.03)[misc][DOS]</description>
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\__Doc\index.mht" size="172514" crc="f36aa348" md5="ea64fbc4fbdfacd9c333995043fe5517" sha1="b96f5e398b845d425026b5c75587fc125612f214" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\EXE\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\EXE\EGAPL.EXE" size="3739" crc="42a2b080" md5="102c20dfd9d53d38ab387b9beb6988c1" sha1="c9f57fb959f5ff523d031183ab90ff86f7dcf686" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\EXE\KEYBPL.EXE" size="4496" crc="8b6e6b6f" md5="13e3f841a09bab5eef7ff24176a57fd5" sha1="580688d3b84056a272216493be1a2d4bcff65e1d" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\gra.EXE" size="466432" crc="1f44778f" md5="3d7351878e8ff2cea1258b05eaa2a57b" sha1="b22971c42de9a7c427135e9eed005ca9cd48efba" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\AKTMAPA.DAT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\EKWIPUJ.DAT" size="448" crc="468a1643" md5="d26937a0a615266ccd9fb199e7fb7fb9" sha1="7aeae9bc21885be7c7fe2cae0dc68b9e745c31f4" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\IMIONAWG.DAT" size="285" crc="134a3677" md5="c3bdb38a1d720c1e8ef52be4ac5ad56c" sha1="761e2ef0e119afb4b3fdee99b63f619116140137" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\KIESZEN.DAT" size="252" crc="c7bb1a98" md5="99c146002832e4af9d0af43d33473a08" sha1="54dae3a5895f7729795ed11e0100ad60591f7601" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\KMNKT.DAT" size="25284" crc="95299d2a" md5="177dfd767fd3256b5b97f9bdb0cf4a52" sha1="40ac61e9ebaf71e5d8b53bf8a2296821ca6bdf39" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\KRYMINAL.DAT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\PAMIEC.DAT" size="258" crc="a32ddf82" md5="6a954ba54e3348f73985872c858d4296" sha1="ddde50f08a6b12c30331ec965da217b2c79e945a" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\PNAPLAN.DAT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\POWGRZE.DAT" size="10192" crc="d5a86a30" md5="1e373dbaa90c2d80adbb8a52aaf804fd" sha1="ad7a006bc0405bfd216c92edc9f9c7acd8b72d17" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\PRZEPOT.DAT" size="102124" crc="c73e9b40" md5="2c090cc72b916291cad7efff554c4ac1" sha1="4b796c48f0ccfc53ca4d919315835dcd4363f1c1" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\PWGRZE.DAT" size="3135" crc="2e1f9ef9" md5="1a04e1fc8ace9ea08c29e1d9ddee938d" sha1="a22635cf3c3ab48584a8855f4eac606521cc31ae" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\SAVESZCZ.DAT" size="32095" crc="a3c87710" md5="b14d33e8ce08ab4bbf4ff52aedc3f60e" sha1="bfa4045e711decf1a2507f005497ed378fdc995a" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\VM.DAT" size="1800" crc="672b8c32" md5="f6654bfa81a711c05640550d6f6d7ddd" sha1="a4142363e5cec044d1552d61883da1e75528e434" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\WIDZIANE.DAT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Gra\WIDZIANE.DPL" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\klawisze.txt" size="1550" crc="02a1c322" md5="cd91c1c18f964340dd9bbe2c7b2a0b09" sha1="3dc66c19caf73ae63fc91bc0ce552a1bfbf4e767" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Mapy\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Mapy\demo_out.dpl" size="16000" crc="d2353f89" md5="efe25d30b3ec58f5a203bd33dadb66d6" sha1="1c0b1502a7e08cba7901e03a43362b33f5304e42" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Mapy\DEMO_OUT.MAP" size="3604" crc="c52e913a" md5="ffb888cd073865e372bac10949fb5ef8" sha1="1e07a700456c931736dfaa7be06e561a1190e1b8" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Mapy\demo_out.spl" size="49200" crc="cb6e6069" md5="96bb09fdf45a13b4c7fc6be2d8e26986" sha1="0782490a4e47e1c49f7a3882b7f749bb86c301bb" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\AMULETY.SMK" size="288" crc="1e65a1df" md5="579fdebf37166e495314cc174d6cba1d" sha1="a05b939cf1635a2a86eb448329414bc72da2c2e0" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\BRANSLT.SMK" size="216" crc="23b006cc" md5="771089c09dbbc5a0490a33f408e42ce4" sha1="84347e97c82edaafc134595092d2b3d08a449abf" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\DEFMAPA.DAT" size="20" crc="9335ea8d" md5="403bd9895a1ec7f3e6fc6f879bb22bc4" sha1="d08a4096760d8d01d88fe3d1e39b3280695cc5da" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\IMIONA.DAT" size="285" crc="134a3677" md5="c3bdb38a1d720c1e8ef52be4ac5ad56c" sha1="761e2ef0e119afb4b3fdee99b63f619116140137" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\KSIEGI.SMK" size="92" crc="715899d5" md5="fc6843630637c1aee90e97548028398c" sha1="2ac636ccdcd2e33e51f4ac3cab64cc0ab4cbe542" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\NAPOJE.SMK" size="48" crc="82bba537" md5="3217b063426a27c062c80fd2e38ff8fa" sha1="ac17c69fcf38cdca761a8d4e6932ed6552cae6c7" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\OBIEKTY.DAT" size="250" crc="92f6d113" md5="e64cc299ee973376a5ea76b3e64227a9" sha1="caa48cf100c04b2c21527082f09d55d71c6018fe" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\PIERSCIE.SMK" size="528" crc="0c2ce33e" md5="74d3e3fea62053f247cb4345e2ed2d93" sha1="82b96e0ff5f0a24662763e8b60a7dcfee443ed0b" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\POTWORY.DAT" size="9324" crc="527108f0" md5="3bbe8c49e6492c3682dc01e64b0efbb5" sha1="44d4f2fc837cf524074786f212d3487537fcd967" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\PROFESJE.DAT" size="428" crc="b902c240" md5="d297217d4a5bb26a173db950463f7dbc" sha1="8c2b911a7020b42ce1db9b64f394ccaa2733f77a" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\PRZEDMIO.DAT" size="75036" crc="4d7c2bc6" md5="de4f123d797aa737cb30e98035b72ee2" sha1="da8c0c198d58cb60f5e16f6c8a5e12e6f7ab8806" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\PTWSZCZ.DAT" size="1734" crc="22b89aa5" md5="aa14f018cc54ef36078e1e571afbe395" sha1="3330353c965a40ac1ee610b4009190f8d3fc5ca0" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\RASY.DAT" size="211" crc="69bb234b" md5="160ffc08e8494b66b57e1093dd98fea6" sha1="18b70a540824731c24d3242d3c947ec100a7f65e" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\ROZMOWY.DAT" size="51803" crc="9426f8c8" md5="0e6e7f981501761b23ab2631885ad794" sha1="f0f52772f041de4cb8cbde739bec81217c7517aa" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\SKLEPY.DAT" size="667" crc="9734911d" md5="adb64293e34ace4d2a1143c5204e110a" sha1="cdaaa1db4d679b11e49589dc416e2a396a2bd69b" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\SZYLDY.DAT" size="642" crc="14350908" md5="4947a09fe481ceb2aaf543bb5d4b210c" sha1="62ccb5e50d7857ac3d1ec299340b0ec675ee7524" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Matryce\ZWOJE.SMK" size="92" crc="4d5b8c5f" md5="b91d193c066a428935f0d040835d2034" sha1="37ee48a83ebbc14aab28851c600e28b1fd1bd3ed" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\POMOC\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\POMOC\POMOC.DAT" size="49005" crc="eaa4da6d" md5="0e395e570fbc9dbe4de1a4d1c6c08a03" sha1="4e3b219b66a7e48afd867d3494b91cc1316eec0e" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\RTM.EXE" size="108846" crc="2e89f6e4" md5="591559541934942bdc2e9c1542d9c010" sha1="0db290e1843688dbd802d7516321feafe30f3c1f" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\SAVE\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Temp\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Temp\TRANSPOT.DAT" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\Temp\TYM.DAT" size="297" crc="694fa483" md5="c5a3497b3fbd2a3efff1ec666b0baaef" sha1="1e568ec86970ea1d553ff0893afc40960871f920" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\zmiany.txt" size="1126" crc="c1efed40" md5="509238bec2773fc298b1558362615e3e" sha1="62561f616a66c14e765d646c71371371b8ddde35" />
+		<rom name="Zmierzch {PL} (vDEMO 1.03)[misc][DOS]\ZMIERZCH.bat" size="188" crc="81a9a457" md5="8be49ff547f8596a6a422f8676756a49" sha1="8d7c59a461b2539ec4be49765bab4d9938e85290" />
+	</machine>
+</datafile>

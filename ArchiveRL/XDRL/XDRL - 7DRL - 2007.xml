@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - XDRL - 7DRL - 2007</name>
+		<description>The classic roguelike archive - XDRL/7DRL/2007</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="_Doc">
+		<description>_Doc</description>
+		<rom name="_Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="_Doc\7DRL Contest 2007 - RogueBasin.mht" size="342968" crc="01f63878" md5="abc5f42dfe203dbcfa3b60db5b8528c0" sha1="4af9378e746dc9db34d8ab0a89fb56c3b12c37bb" />
+		<rom name="_Doc\Hive Awakening.mht" size="12322" crc="c219201a" md5="ce324fdc9621858f8e6031f4d79d373d" sha1="78450d919e628273db256015a3ecb55c531354f9" />
+		<rom name="_Doc\J^4_ Bob and Trev_ Resurrection.mht" size="62161" crc="3440757d" md5="bba9998974b26d221a605438c1bd92ac" sha1="69a78f8a9b98c7d4e1b6d0b8cef2e3531d71e9a9" />
+		<rom name="_Doc\Save Scummer.mht" size="30463" crc="e1db8c36" md5="0aeacd910764415122423e0baf6a6a15" sha1="3aaec659a20c5ae93758067679dce7c3f6c1c3fb" />
+		<rom name="_Doc\Slashie.Net_ ZeldaRL.mht" size="389106" crc="e1182358" md5="577e0cf0b177667149af76730aceb9fd" sha1="192648550b8d26d126c02c9404ccfc55cfaf9416" />
+		<rom name="_Doc\Urban Warfare.mht" size="9755" crc="784f5721" md5="1053afffdb9b3115e61ec9a9a8c9321c" sha1="3911f13c3a5977647cab7bbf2b70839ec183b1c5" />
+		<rom name="_Doc\War of Wizards - RogueBasin.mht" size="272427" crc="a2690a50" md5="f9de1f6962d344f8b91e0fbda16e482c" sha1="e878c66560da0f1f6b1120b42dc920863831ad4c" />
+	</machine>
+	<machine name="aliensrl-7drl-bin">
+		<description>aliensrl-7drl-bin</description>
+		<rom name="aliensrl-7drl-bin\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="aliensrl-7drl-bin\abrl.ini" size="538" crc="dcbf09d4" md5="8549f173b3cd39dbf8df87d2568f253a" sha1="66da9d681129aacb4f6671ac2508f7925c380282" />
+		<rom name="aliensrl-7drl-bin\aliensrl.exe" size="1167848" crc="a3c7c1cd" md5="5c9e10c55754d3b687b93b79f610c510" sha1="7c34c664779b2710b6c33c2a208cf5924e95324b" />
+		<rom name="aliensrl-7drl-bin\manual.txt" size="3025" crc="2939195d" md5="3b73b574d4c49d054fa1262777f66667" sha1="38451493a40b3adddeb8451da679630da37e742b" />
+		<rom name="aliensrl-7drl-bin\music\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="aliensrl-7drl-bin\music\abta.mod" size="63404" crc="cf5fa61c" md5="d5852a3fdb4475c91337d7ac645b5a76" sha1="5072f4accfc9702c93d9cf2b2a7c867db8a787bd" />
+		<rom name="aliensrl-7drl-bin\music\civilian.ogg" size="970014" crc="607554d7" md5="b1f391b54b5cf8b770467b9804985af1" sha1="0c256e79526a977ab6979fe6b19208f3f03c075c" />
+		<rom name="aliensrl-7drl-bin\music\engineering.ogg" size="311856" crc="4947e95f" md5="83d11fc60fdc1705e4c2387186110ddb" sha1="ee39c6ff3a73a9478517e2b633f7677a86fc9a05" />
+		<rom name="aliensrl-7drl-bin\music\main.ogg" size="1027010" crc="3bc464fa" md5="ad0803af2dd24f66e1e28d350168494a" sha1="e8d54e56082fd2d98544c9bf820e93e55e7ad5ff" />
+		<rom name="aliensrl-7drl-bin\music\medical.ogg" size="844612" crc="5941d01d" md5="5cb4bad7d9ca7b6e4c142d70b27b9bb2" sha1="962960de15b4081fc91252bd5dc6e4a05db5ee9b" />
+		<rom name="aliensrl-7drl-bin\music\military.ogg" size="872913" crc="c5cbb3de" md5="263cc79154d2997c6515ac7bdadb7add" sha1="6fb9ad1096668e884726715c681033f88926f438" />
+		<rom name="aliensrl-7drl-bin\music\security.ogg" size="166819" crc="733e1692" md5="116b9ec82d805565658ee74bd80af6ea" sha1="9eeea1a20c782add2bb9fab75325a417d78ff620" />
+		<rom name="aliensrl-7drl-bin\music\storage.ogg" size="1000329" crc="9fcfd9a5" md5="16ec64c34856c90c1477f41c683af132" sha1="d33f68d60b945d0559c3dd4c95d69f1cd3c165cf" />
+		<rom name="aliensrl-7drl-bin\ogg.dll" size="24576" crc="51ceda88" md5="1902429dc164879ffe731b3356690181" sha1="b0f7d0fd849d78547322e203af53ea08e6777410" />
+		<rom name="aliensrl-7drl-bin\SDL.dll" size="258048" crc="8fcfbb83" md5="755242aa2daa6ad888e94b21dcaf0449" sha1="996baa3616d6d1ac0eaa7c65b1b7f27328253e92" />
+		<rom name="aliensrl-7drl-bin\SDL_mixer.dll" size="229376" crc="3a7ab8a8" md5="9aed3e5a76037726ad928bc541fea37a" sha1="b24c255c4d77ffd274224bd52533a39e6841cfb9" />
+		<rom name="aliensrl-7drl-bin\smpeg.dll" size="196608" crc="cf40d2ef" md5="8e5a2612d4669d2ff5d308783027b424" sha1="0ca9ccc8fdf5f524dfaf193dfef5c074867c9efe" />
+		<rom name="aliensrl-7drl-bin\sound\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="aliensrl-7drl-bin\sound\44.ogg" size="15505" crc="720f68ea" md5="f4c29cbaf0c26955ca953723ddeca066" sha1="a2f1abfca80f2fabd3b7ada283c474b6e50b5c29" />
+		<rom name="aliensrl-7drl-bin\sound\9mm.ogg" size="18332" crc="72bb881d" md5="56a47e283c93d354a22554c18e79c1e0" sha1="3da528f0717d0840670046305cef32e72edf1747" />
+		<rom name="aliensrl-7drl-bin\sound\aattack.ogg" size="10757" crc="d39f527d" md5="d1f8f5f6de6d6c2677032d611b397989" sha1="1c4d3bc6dc75b83af9afd11ecfe6bd9ba8db5a37" />
+		<rom name="aliensrl-7drl-bin\sound\adeath1.ogg" size="18008" crc="c58c71b6" md5="f8340bf8e754825d60b8cccc69fd9949" sha1="e10c315fe341a4f4a4b129ec1dbd53bc10582a14" />
+		<rom name="aliensrl-7drl-bin\sound\adeath2.ogg" size="42761" crc="7a65c8c5" md5="ea185ac2816552c4844cbd9e93cd7e2e" sha1="f6adf96168a1022ee220d8bb6508ffac9a243b1d" />
+		<rom name="aliensrl-7drl-bin\sound\anotice.ogg" size="33996" crc="7be8d07f" md5="cd421c0965917548f319a4f5a78f7c76" sha1="e63313a22bc6e94aada1a35866bdd074df966ddf" />
+		<rom name="aliensrl-7drl-bin\sound\apain1.ogg" size="13261" crc="05983df0" md5="ea4f0bd01e6ebd15431fb98d0178fb5a" sha1="acef83f88bf0a29f37c94f82b86bf54e62aa110e" />
+		<rom name="aliensrl-7drl-bin\sound\apain2.ogg" size="19450" crc="968e9f33" md5="8c0cf8f6212dfd39a547ae6f16bc1068" sha1="dfc3455365c39770f024bf41ea0ec3f545b1678f" />
+		<rom name="aliensrl-7drl-bin\sound\apassive1.ogg" size="33996" crc="7be8d07f" md5="cd421c0965917548f319a4f5a78f7c76" sha1="e63313a22bc6e94aada1a35866bdd074df966ddf" />
+		<rom name="aliensrl-7drl-bin\sound\apassive2.ogg" size="57360" crc="131c7853" md5="ef8fed3f3e0ae6d8f327eecbad259e14" sha1="df01175050319ff9f191593c1d685660d58ca6d5" />
+		<rom name="aliensrl-7drl-bin\sound\apassive3.ogg" size="31734" crc="2383b02d" md5="7312565e949c5b6d87e2a96f648dd280" sha1="29bbaf6f3760a30263d9f01e516a757160f41689" />
+		<rom name="aliensrl-7drl-bin\sound\apassive4.ogg" size="59342" crc="2f30ad10" md5="765239f7796d6d33a4990764340fb80b" sha1="273c89d576506df39b505112fa92365c487de945" />
+		<rom name="aliensrl-7drl-bin\sound\aswipe.ogg" size="12304" crc="048d1448" md5="8da0e6869c4c6bbce688b19f7d085051" sha1="593a560a1e3f0aa9f282b69b472c8d07bc2457ae" />
+		<rom name="aliensrl-7drl-bin\sound\explosion.ogg" size="17567" crc="d403909e" md5="cad5efb133f3fb6ebed118850e95e1c5" sha1="bf9ab9b77e3898299dfd62a868289fa81a3b3d01" />
+		<rom name="aliensrl-7drl-bin\sound\m41.ogg" size="10347" crc="209db2b0" md5="5e3fe484f763bea1926794088346f531" sha1="9cddb2e3ce53b060890921d69d9c7f0b683d1271" />
+		<rom name="aliensrl-7drl-bin\sound\m56.ogg" size="10295" crc="745603d0" md5="51f740efd1092266e8830e8fefc808e2" sha1="ae4ca028f39669014776ebe7afa7967816f19fb3" />
+		<rom name="aliensrl-7drl-bin\sound\mp5.ogg" size="13571" crc="36c0d6c0" md5="d57ddc4c12304ac85a3ef65fb316503b" sha1="f1e585ccbc4f8912b41fe43ab2773f67b18b30e1" />
+		<rom name="aliensrl-7drl-bin\sound\reload.ogg" size="7609" crc="272697c2" md5="701a0991081d93da231dba85938aa4f9" sha1="d8e44209b5ead6f19185bc1628e85ad808332d7c" />
+		<rom name="aliensrl-7drl-bin\sound\shotgun.ogg" size="14721" crc="fdab96fe" md5="7f4b47cb1382b4953b18a020b77d716d" sha1="6f97c8f04ad92ee7c7d173b3defa4a7610fde050" />
+		<rom name="aliensrl-7drl-bin\version.txt" size="24" crc="6475e3a0" md5="d485d0b4f99a55c3be7bc4ccced5b632" sha1="cc6a504736d2a55b910723ab050d8e3de3ee40a9" />
+		<rom name="aliensrl-7drl-bin\voice\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="aliensrl-7drl-bin\voice\chess.ogg" size="34551" crc="e05917c5" md5="6f199432947c7ea91c3a5923baf8a867" sha1="a0487925c3ae982b2121b6eecf1a4b2b14a4ba22" />
+		<rom name="aliensrl-7drl-bin\voice\civilian.ogg" size="21286" crc="dd9c2236" md5="9734d69e25ac05e0b6341219518db610" sha1="f3b1d3d3bb18106bb75af2e7cb8b3578932d9c6f" />
+		<rom name="aliensrl-7drl-bin\voice\completed.ogg" size="41112" crc="e88c6b3b" md5="0b65d529f068da30fcbe0f9d258daa9a" sha1="56b3d004ea6e2acd71c21762446ade83601dc845" />
+		<rom name="aliensrl-7drl-bin\voice\crithealth.ogg" size="19669" crc="e52f00e4" md5="3568f4047766f5b7bb518d7a935cde86" sha1="4fbe03b35d0c146736d5a51d5ef2dcf919a96bc9" />
+		<rom name="aliensrl-7drl-bin\voice\dssawful.ogg" size="11573" crc="5bae3282" md5="13f5f96e0d94d9093ba8283b6736601e" sha1="09feec0456f1a548b79ddb10a238d463a73daabe" />
+		<rom name="aliensrl-7drl-bin\voice\engineering.ogg" size="21520" crc="5adf1d03" md5="82e3ec80318f8177961f98d6dfcd6d46" sha1="b26bf08f76fbd899b14b16326705c69e2e4159ea" />
+		<rom name="aliensrl-7drl-bin\voice\failed.ogg" size="18213" crc="50c250ee" md5="986ea99c46f005909d8da7b1100b89f2" sha1="2a2b6d0af6caeb4fa8ee411351579e23833b7334" />
+		<rom name="aliensrl-7drl-bin\voice\killqueen.ogg" size="53872" crc="acb6ca79" md5="b4d4c0529b66f6c397006389a30a4f71" sha1="1339e1d6516a9a27664d5c0a93716e5a899ec535" />
+		<rom name="aliensrl-7drl-bin\voice\level1.ogg" size="20015" crc="78bd21e0" md5="417a50d44e5a92a517f3172c5b2f5e76" sha1="77decd5f355275b383ba8631254b79b605ed5de0" />
+		<rom name="aliensrl-7drl-bin\voice\level2.ogg" size="24258" crc="9c45396a" md5="83850671e40dd3a6824408e4af9390ea" sha1="52202ed80cafc2910f116a9e770e512691179297" />
+		<rom name="aliensrl-7drl-bin\voice\level3.ogg" size="19726" crc="9b8b8f53" md5="913e612a6906ef78f80fe76259cf2533" sha1="9dd0c236e5f0d25ceb6d77dd2e50f589c01f6a0c" />
+		<rom name="aliensrl-7drl-bin\voice\level4.ogg" size="19608" crc="aee96050" md5="44bcafafae8069d7219f2307d54cd3fb" sha1="fffbdbbbb132abef3ef135e88e1c7b15d8bf1cc2" />
+		<rom name="aliensrl-7drl-bin\voice\level5.ogg" size="22463" crc="ef7eab90" md5="73d478166bc04746c0f2d04be6e5d5b4" sha1="a911d78916d323a6573cc5b91e1e3e4d64397d52" />
+		<rom name="aliensrl-7drl-bin\voice\level6.ogg" size="22487" crc="c2d23065" md5="1b23b4ee84af713d0353e2f7dd2fb80e" sha1="64bb63b53642e7d8c9ed868bad6aa9ced8249697" />
+		<rom name="aliensrl-7drl-bin\voice\level7.ogg" size="20690" crc="5758ef5e" md5="e8c9f763de0e5426ea1cf08ddaf955ad" sha1="7ad36f54cd7c5fa856dd78bf1577aab788122504" />
+		<rom name="aliensrl-7drl-bin\voice\level8.ogg" size="19551" crc="2c9a4564" md5="7c8a6991c452bd02c2d268bb56c79e00" sha1="1c634b3fe4d4e5a94888e93b269858630ed9bd4a" />
+		<rom name="aliensrl-7drl-bin\voice\lowammo.ogg" size="19195" crc="4f60ea00" md5="16136c1fe58c7eda1a24ea8349ae56cf" sha1="54c6501817dd223d4addb6a0f78084fa1a7c5b88" />
+		<rom name="aliensrl-7drl-bin\voice\lowhealth.ogg" size="18897" crc="c57821f3" md5="1da0ceeb402a221ac1e632d13eadcaa9" sha1="db2a18509d1a8650bb045e6c2af7c47255e460f6" />
+		<rom name="aliensrl-7drl-bin\voice\main.ogg" size="18913" crc="cbc618e4" md5="eba636c7c9b3b8614287742a390d9661" sha1="11d57905b56612b0cb97127421ffb5ece408cc7c" />
+		<rom name="aliensrl-7drl-bin\voice\medical.ogg" size="19061" crc="cb8d55cf" md5="d7503d4705bee6e79dc38d1c181d8f5c" sha1="c5cef11ba4ff41a96f48737d45fb2e56770a0d7e" />
+		<rom name="aliensrl-7drl-bin\voice\military.ogg" size="20940" crc="ef119a89" md5="faa4cd98ac53d623f7a642206744e46d" sha1="21832714c250041e4c30884f2e78cbbdb9c26ff1" />
+		<rom name="aliensrl-7drl-bin\voice\nash.ogg" size="19388" crc="eb6a3f5d" md5="f0bbe33533d012df3d52df3de90f3bfe" sha1="433db90988a086148cccf87167d4096ee9287aff" />
+		<rom name="aliensrl-7drl-bin\voice\radiation.ogg" size="34535" crc="a75e12f1" md5="ea17699bef3f933680ef1e1714140e8c" sha1="d83d04f305db179e704fb1842a4d7927d3d92e43" />
+		<rom name="aliensrl-7drl-bin\voice\security.ogg" size="21657" crc="81ba64ab" md5="b80cf7ac8257ab53c267bcb0215a6667" sha1="519a3a26223e8f2910de864dbfa81e3b3be6ff30" />
+		<rom name="aliensrl-7drl-bin\voice\storage.ogg" size="20660" crc="0b615dd3" md5="0b134fb734b826e51fc3bdd06bb37127" sha1="76468c280f2147633452dc0a9098360f7934a7e8" />
+		<rom name="aliensrl-7drl-bin\vorbis.dll" size="1097728" crc="88305e02" md5="79b7f75e1f17e48873d4f554a322eb8e" sha1="b473e477131b7d7c20fd315941cf9b732c7f5f3c" />
+		<rom name="aliensrl-7drl-bin\vorbisenc.dll" size="974848" crc="850e3014" md5="626f7499ef67bd51968a72581037616b" sha1="c6599caab1c1bdf3faf0b32dbaa5c1696c5681ab" />
+		<rom name="aliensrl-7drl-bin\vorbisfile.dll" size="32768" crc="692f0442" md5="8fb4fb0b744c378fa623375e5d3f7ba4" sha1="92bc9997ae72e24672d06fb5246f6c57eecc4fab" />
+	</machine>
+	<machine name="Bob and Trev Resurrection">
+		<description>Bob and Trev Resurrection</description>
+		<rom name="batr.zip" size="71269" crc="a86ea24f" md5="764c83dcfb8c655f7da5b55fb55869a8" sha1="2158ab5bb6196180bdc0bcc7f2bd40368b3f810d" />
+		<rom name="batrplus.zip" size="73095" crc="d58148a9" md5="0b19ef22efeb0d5c7fa5d492c21162d2" sha1="abb81bc3c0ff66404a36697de9b6f4e6eacd395d" />
+	</machine>
+	<machine name="Hive Awakening">
+		<description>Hive Awakening</description>
+		<rom name="hive.zip" size="53168" crc="353d3d50" md5="dbe6989fb0f4441c348bcb6d2b9910e8" sha1="1e83925e14a23c18af2d0a3fb7ca23f75ec2cb13" />
+		<rom name="hive_win32_pr2.zip" size="1546215" crc="d5728925" md5="25ec1002f25fd8d0d09ab148d2d43ab7" sha1="c993a0b2928cd86882cf8b65952aaa5eb2e44544" />
+	</machine>
+	<machine name="Save Scummer">
+		<description>Save Scummer</description>
+		<rom name="savescummer.tar.gz" size="1270164" crc="39a0a1c2" md5="27fbc61e63a7dd2130c2c25193ce64ef" sha1="4ef1ebe4c30fc9ff5f38ddb0dee87e54deb6ab27" />
+		<rom name="savescummer002.tar.gz" size="1275789" crc="a9d3f89c" md5="838feffa3651bdbbc997a12856cbdbbc" sha1="ca11db7d8954da589baf23591e9cc4c6c884bab7" />
+	</machine>
+	<machine name="SewerJacks">
+		<description>SewerJacks</description>
+		<rom name="SewerJacks-0.7.3-win32.zip" size="811352" crc="d43075a7" md5="738ac9e3d789587dca20b5701e8d5fbe" sha1="eeb1008afb95399720854b9612815cc945e1a889" />
+		<rom name="SewerJacks_src-0.7.3.tgz" size="719288" crc="caadb0dc" md5="d3e92c0545ea676d45f56b1ffbff6d66" sha1="8759ea57776ecb40d9243a01bbb87645bd2ebf18" />
+	</machine>
+	<machine name="Urban Warfare The Escape">
+		<description>Urban Warfare The Escape</description>
+		<rom name="controls.cfg" size="3141" crc="57789f7c" md5="d355ab1be29b35b8dca5449488976f2f" sha1="224996a08ae682c4a3a4e09fccd4eae97ec31aa1" />
+		<rom name="curses.dll" size="123116" crc="436ff4ad" md5="439828ac1e3d5515cc6519f5a2fb2e93" sha1="5c2abeff74df5f70ba49ad9f39fc6527421503ac" />
+		<rom name="license.txt" size="1518" crc="c4dfadbf" md5="ee77300e12b459ac78d89789a5fdf4f8" sha1="903492fef46ea04f46f00a9941bcf7cf45ee35e7" />
+		<rom name="readme.txt" size="5102" crc="bcd806f6" md5="1f747bcf7f18dbc516d4edc184c950c4" sha1="9328c00fab73cd459a14c6dd4ff494d4e97e7b01" />
+		<rom name="SRC\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SRC\controls.cfg" size="3141" crc="57789f7c" md5="d355ab1be29b35b8dca5449488976f2f" sha1="224996a08ae682c4a3a4e09fccd4eae97ec31aa1" />
+		<rom name="SRC\curses.lisp" size="13421" crc="9727a29a" md5="04da308ab55c957584d89a51c66a74c5" sha1="99e32cc7df57ac5f089fc0fa7d70bc7f3ee92cb9" />
+		<rom name="SRC\license.txt" size="1518" crc="c4dfadbf" md5="ee77300e12b459ac78d89789a5fdf4f8" sha1="903492fef46ea04f46f00a9941bcf7cf45ee35e7" />
+		<rom name="SRC\readme.txt" size="5102" crc="bcd806f6" md5="1f747bcf7f18dbc516d4edc184c950c4" sha1="9328c00fab73cd459a14c6dd4ff494d4e97e7b01" />
+		<rom name="SRC\uwar.asd" size="307" crc="37376115" md5="812546725d8c4e2a58598d2e8baa60b2" sha1="05e5096a89282c792e2644aa8cca3c5510ed8767" />
+		<rom name="SRC\uwar.lisp" size="101718" crc="a499c12a" md5="38208c85a0c6f46073df91edb62fa9ca" sha1="2c8f5f575ce75c7566f4ebc96ed483af02caaa2d" />
+		<rom name="uwar.exe" size="6231927" crc="cc96ee47" md5="1db0f890949d7e934b81d5f5157e1f86" sha1="283b21481c8033654de4300c94d70a3308b06814" />
+	</machine>
+	<machine name="War of Wizards">
+		<description>War of Wizards</description>
+		<rom name="Code.zip" size="12478" crc="56dc5956" md5="aac0bfd4617db94911f2df6644c4cf70" sha1="55fe348bbb9fc5870489699cbd92eb07d72cfb33" />
+		<rom name="GNU General Public License.txt" size="15121" crc="c189de6f" md5="46b39127c800ae9546b0675c7dc36190" sha1="876c1201f087b86403e17eb2d907e71f9b513684" />
+		<rom name="MSWINSCK.OCX" size="108336" crc="ddba342c" md5="9484c04258830aa3c2f2a70eb041414c" sha1="b242a4fb0e9dcf14cb51dc36027baff9a79cb823" />
+		<rom name="ReadMe.txt" size="3822" crc="14604d17" md5="4bab630fa46940d5a3a00765b82365bd" sha1="cc33cc5257d941e26d1becc183ad196f5b9f23a0" />
+		<rom name="War_of_Wizards.exe" size="86016" crc="06cb2b60" md5="855a081cd7823582e534d96d4deaa767" sha1="ec9669c3d67f7f1a806caa46beac5b682b0e9cd2" />
+	</machine>
+	<machine name="ZeldaRL ">
+		<description>ZeldaRL </description>
+		<rom name="data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="data\monsters.exml" size="18504" crc="c42fee80" md5="4c08b0df642eb8a10ee9e2ec3f552182" sha1="84de47fd1793d7626b56f407e8bc300e9dce9fe9" />
+		<rom name="drashie.cfg" size="518" crc="0b9729ce" md5="6ae9052555e55151ce4bd576658b980d" sha1="f80d2459291f7bcaf1e76895bd78dc1f8a28040a" />
+		<rom name="hiscore.tbl" size="450" crc="8ac18473" md5="fe45f67f1703153cd658808dfce5258d" sha1="78fc5a86980b831ebf47cb202f7ce16c1625776d" />
+		<rom name="lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="lib\jcurses-x.jar" size="109739" crc="d5445647" md5="806d4fc11c96086039f8f0802ba6ec75" sha1="ff05fff33e99746a099c89044ec6870b43e50c55" />
+		<rom name="lib\jl1.0.jar" size="105446" crc="e5f6ded9" md5="beb5af7c8e02649ca6d22514d9ecab52" sha1="2020d545657508bd82beab00359dcc50996b875e" />
+		<rom name="lib\libjcurses.dll" size="59392" crc="d1f97475" md5="0dde77c3b8d585b56e31485eb42bc710" sha1="386cc925113d63f7668a82cda9f34f8312dce004" />
+		<rom name="lib\libjcurses.so" size="24099" crc="bd9970ae" md5="f3e340befe9d0eecd5880f9dc5ab4a37" sha1="4c9e34c12c31e384e6290f724144a8a9e654b712" />
+		<rom name="lib\MinML.jar" size="14607" crc="3e33274e" md5="571b859d25dbe54f33fbf05e91908c6a" sha1="4af9508119dd580ca711f54dfe317da53d0818a1" />
+		<rom name="memorials\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="memorials\delete.me.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="midi\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="midi\delete.me.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="midi\Dungeon.mid" size="22611" crc="9702f018" md5="6c8acefa3fdfa2fc7ce442977c6350da" sha1="7db0ff9e75b03ce61042a02b6d3d41dbc520701f" />
+		<rom name="midi\ending.mid" size="13080" crc="283fc137" md5="3f687a7eb1dcb3a5a77cbf6a790883b0" sha1="afec851963ed423d00320ac5b048d938d220d06d" />
+		<rom name="midi\Home.mid" size="10186" crc="861d3a38" md5="df863e161eb6e0f27260235e89ab93d0" sha1="427e9c6a64f7fbcf22163cefae808f7a5e42485a" />
+		<rom name="midi\Lostwoods.mid" size="5621" crc="3e0fda76" md5="d5d5031cf127017eebdf7545aab11ff8" sha1="f372580e7956c0ba0e14e58de79c366848162e7b" />
+		<rom name="midi\medley.mid" size="26713" crc="fee96939" md5="455511b315b63fa66864281813c39038" sha1="b23d4845e002ac0f1841d4212ff573bc394f9111" />
+		<rom name="midi\Palace.mid" size="58524" crc="09adeb6e" md5="c14ba6379024c68c3ee9456434aa5c14" sha1="effe250c9a3325caecddff32972940f1b08ac6ef" />
+		<rom name="midi\Triforce.mid" size="37295" crc="09d0943a" md5="828d534c8d83df68167a151d7f432e59" sha1="9f7928016e7ff29bb807e21126d391e92ccf9377" />
+		<rom name="midi\z3cave.mid" size="3018" crc="a72ac1de" md5="a60fbb0ad4308f78c41a3b140a8a6b97" sha1="e16a8a9e7a5bf892e03ca6f0ec35abf0a018f75a" />
+		<rom name="midi\z3fairy2.mid" size="9222" crc="c863cbd7" md5="b7fc90a799f56565d8c2b7026007d61c" sha1="bb1595f859aca2c1bfd0f09832f35206a6a48a7b" />
+		<rom name="midi\z3lightw.mid" size="8332" crc="aa4623c6" md5="0010ed6a87d9d955533956a69ba7a27a" sha1="35ff15a0fa9d5ee12e59925ea11de7bb12a8abf2" />
+		<rom name="runningOnLinux.txt" size="99" crc="f7544905" md5="e31ded0b1cc4cbe1397e569d130fa746" sha1="84c63a5e9db5b46e6f2876bd53e2c19847bb7af2" />
+		<rom name="savegame\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="savegame\delete.me.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="wav\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="wav\delete.me.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="wav\hit1.WAV" size="2414" crc="91223360" md5="f4104b01e31041944e1377573333c8cf" sha1="850e9bb432002b0a49b080b848dc21ecdd3389b3" />
+		<rom name="wav\hit2.WAV" size="3828" crc="4749ad5c" md5="b261502dc971c837afbafdfb26c78e5a" sha1="666a28304d243a4e880b8453eaf57e6f39664d48" />
+		<rom name="wav\jump.wav" size="11252" crc="7d17ec03" md5="8b8277300aa47e012cf16afb4d5c5063" sha1="19421fe8cb74fd71cc803a09cebc3856d01d6caa" />
+		<rom name="wav\sword1.WAV" size="6578" crc="94a439fa" md5="2447b8825c50264a1095ea3f8eb2f356" sha1="3cf8e0a5a927faa41e6be33f74ab9397e2590568" />
+		<rom name="wav\sword2.WAV" size="4878" crc="e7ff6ac0" md5="8357ef70b11a20581625b5be1b527748" sha1="b885a0870affbc07fe471c34bcd29d6e56c2600c" />
+		<rom name="wav\sword3.WAV" size="5134" crc="b381c776" md5="408d7add3f917ea7d04834a69c2ebd31" sha1="b7fcb9d227eaff194a62fcc3ee37d6dcdd04913c" />
+		<rom name="zrl07-console.bat" size="46" crc="b150ae30" md5="e048557bc801d10c811b6d27fde13b04" sha1="2304c0d65248d2ec97f963afa1e715d51b4348d1" />
+		<rom name="zrl07.jar" size="323206" crc="a5edb908" md5="0dde33c170e88e4b8909ec3734e4949d" sha1="9c6be1ee64cfc2c9435566f9c2073202ba9e60bc" />
+	</machine>
+</datafile>

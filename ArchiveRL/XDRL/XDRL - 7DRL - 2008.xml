@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - XDRL - 7DRL - 2008</name>
+		<description>The classic roguelike archive - XDRL/7DRL/2008</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="_Doc">
+		<description>_Doc</description>
+		<rom name="_Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="_Doc\2008 Out of Challenge 7DRLs - RogueBasin.mht" size="330276" crc="465f4356" md5="4775ba7930463e37bc4db6f91de7904c" sha1="9720e238fa786f1927b59ab741748199d65f5fce" />
+		<rom name="_Doc\7DRL Contest 2008 - RogueBasin.mht" size="342294" crc="1043fb13" md5="594c576168c73f189591cc8e6cbbf3ae" sha1="705c29dbba9dd59878a3c56f60667e80c505f350" />
+		<rom name="_Doc\Alan's Psychedelic Journey - RogueBasin.mht" size="331290" crc="16eb023d" md5="452a97c892d3fe33f213fa7b3e396f27" sha1="a19c4c7e981c412cbee0d9338f3d8dfff6087700" />
+		<rom name="_Doc\Crown Of The Forest.mht" size="2352" crc="216f60d2" md5="6365b351dabc4fac63a206c1ef5d2d04" sha1="29eb44e2ab8fab4d1dcd1e126d8a0d612d4b7dd3" />
+		<rom name="_Doc\CryptRover - RogueBasin.mht" size="332353" crc="8b5be6aa" md5="f910c1ce688fd86054bcaaa86b391b7f" sha1="67e7a8c487345becb90dc3bb8deeacabd272b73e" />
+		<rom name="_Doc\DungeonClimb download _ SourceForge.net.mht" size="2246488" crc="46181ace" md5="2bebee909381ebeaea80bf755e879f29" sha1="4c09ec6dde92e2501492c05ea54ab70a99390e97" />
+		<rom name="_Doc\Fatherhood.mht" size="137895" crc="ff9c5f60" md5="9a47211eba90dc65fbe39212a37f5735" sha1="576e2ab1b18a76685a599f57a271b14b8830eecc" />
+		<rom name="_Doc\Mines of Elderlore - RogueBasin.mht" size="375014" crc="10758882" md5="42fbe562d8ae05a36f0f220fd6901366" sha1="a7b8a563f40e54502fb247209b2ecd7b1752c4d5" />
+		<rom name="_Doc\Robson » Numbers.mht" size="67270" crc="674845b7" md5="d2445f581d1cbac328855417e6208928" sha1="ea4cba97e5e41b5fc53e2623fd7b05bcd710e38b" />
+		<rom name="_Doc\Star Craft.mht" size="56531" crc="65544091" md5="429945ee1b62c686e6b008ccfdacdd23" sha1="809a8297634ad6cf6799ace7f5ff55a3003657ea" />
+	</machine>
+	<machine name="DungeonClimb">
+		<description>DungeonClimb</description>
+		<rom name="dungeonClimb" size="220136" crc="47cbc75b" md5="00664f95a8519830874615ef9f757a6e" sha1="2ab2074350278faec40ad41df35edbb619270b38" />
+		<rom name="dungeonClimb.c" size="17501" crc="b5153a9c" md5="f82198d9fe255ecf139e3c87220a6764" sha1="cf901f9118022b821801a24c4625f1bcda2f5856" />
+		<rom name="dungeonClimb.h" size="1505" crc="3ba8a316" md5="071b652ebd31dc3a3fa5c914f909f0ca" sha1="f5cd0c993259d748da220975a450b6a275398f97" />
+		<rom name="openScene.h" size="7752" crc="ba3336b0" md5="123f7fb43421238df5f2bda0c3e45bcf" sha1="543458e22a88ea992b30c6ca417a156ca53363f7" />
+		<rom name="README" size="4846" crc="28970f27" md5="f97439a6f2a556588f50b4c17f358125" sha1="66769085582870094ec2a891a0496039e230d0de" />
+	</machine>
+	<machine name="Fatherhood">
+		<description>Fatherhood</description>
+		<rom name="fatherhood.zip" size="1304115" crc="101ccb28" md5="3abde7bb7806fb08718e0bdf12a555e6" sha1="5af092431f93c3c4527eae08b3a677ee043c4c61" />
+		<rom name="fatherhood002.zip" size="1304403" crc="89b89d7d" md5="11b432f3690855f371feb2b25b74ca45" sha1="3bc6931d769d4422d0b5ac4bc1e83019faa9fe05" />
+	</machine>
+	<machine name="megamanrl 008">
+		<description>megamanrl 008</description>
+		<rom name="data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="data\cells.xml" size="3705" crc="0b3b8e82" md5="3354aa2102e122879f12217c3c331c97" sha1="e62bab9193d3b9b4f4771a22285043d81b5d037e" />
+		<rom name="data\charAppearances.xml" size="5057" crc="491df1f1" md5="341b8b1928ff51492f23f0e207f72241" sha1="747ad3fa99cb68e504c2983649136ab208469d73" />
+		<rom name="data\levels.xml" size="42871" crc="7c90fbbd" md5="10ba7abd3738a8d1cb081e1218714f33" sha1="53abcc27a1dc5dac3d72dc1340376528ae22ae2b" />
+		<rom name="data\monsters.csv" size="3224" crc="7b585042" md5="1aee1deda18998223b1247d9e260bd00" sha1="f9e5234898f9fdd3ce3e0cc69a7817e9d98b5d1c" />
+		<rom name="data\monsters.xml" size="1302" crc="4fab7de6" md5="78adf85b4cc2bb10d7f5871a8b440176" sha1="c3f53a0c70ddb70a6777080b27624397b2e0d303" />
+		<rom name="graveyard" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="hiscore.tbl" size="300" crc="79aeda5f" md5="0e2f51820413a788576a5ad400669a56" sha1="06c1940021b57126577e5d7698461aac210ebe46" />
+		<rom name="lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="lib\jcurses-x.jar" size="109739" crc="d5445647" md5="806d4fc11c96086039f8f0802ba6ec75" sha1="ff05fff33e99746a099c89044ec6870b43e50c55" />
+		<rom name="lib\jl1.0.jar" size="105446" crc="e5f6ded9" md5="beb5af7c8e02649ca6d22514d9ecab52" sha1="2020d545657508bd82beab00359dcc50996b875e" />
+		<rom name="lib\libjcurses.dll" size="59392" crc="d1f97475" md5="0dde77c3b8d585b56e31485eb42bc710" sha1="386cc925113d63f7668a82cda9f34f8312dce004" />
+		<rom name="lib\libjcurses.so" size="24099" crc="bd9970ae" md5="f3e340befe9d0eecd5880f9dc5ab4a37" sha1="4c9e34c12c31e384e6290f724144a8a9e654b712" />
+		<rom name="lib\MinML.jar" size="14607" crc="3e33274e" md5="571b859d25dbe54f33fbf05e91908c6a" sha1="4af9508119dd580ca711f54dfe317da53d0818a1" />
+		<rom name="memorials\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="memorials\delete.me.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="midi\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="midi\AR-MM1BombMan.mid" size="17475" crc="3f382c50" md5="706bf9326215c01a04e64171e0e6e6e2" sha1="3878967150533cf193c431fc87c08dc2da13b967" />
+		<rom name="midi\AR-MM1CutMan.mid" size="27111" crc="5c2a0132" md5="88730c5695aaeab0948c8130b6a3da82" sha1="b0d784177cf53e5681548dcd8c3489a41edd4162" />
+		<rom name="midi\AR-MM1FireMan.mid" size="12504" crc="0a7db77f" md5="cf883462612aff765ed168aede57e8e6" sha1="14260289479b3f6fcdfc32ebb2849f8a0bd8ed57" />
+		<rom name="midi\AR-MM1RMSelect.mid" size="9156" crc="18637910" md5="53dc74e8913a645329c78a6e6c6f312f" sha1="b95d1810a8601ce844b0e26bbc5d73c0ec6406ae" />
+		<rom name="midi\AR-MM7Lab.mid" size="33256" crc="668aa84c" md5="d4f3df22a83b920cbe5ad39f1e573767" sha1="8bc70aa78e78a5c5d54958f37ccbc7c4333fab81" />
+		<rom name="midi\JF-MM2BubbleMan.mid" size="24419" crc="48e5d723" md5="9ca99ccfe7914a9e90f0d40f084231d6" sha1="19cfb6d57c05c588790c240710343abb296eb3bf" />
+		<rom name="midi\MZ-MM1ElecMan.mid" size="14650" crc="74b11f38" md5="f4bfb22babff632ee7b9e2e40778ec7d" sha1="c18c3df6bf0ebaa965746105e1a9137274ba316c" />
+		<rom name="midi\OV-MM4Title.mid" size="24562" crc="306fb8d7" md5="e24c082478a3a9ec306d9f60eaf259ea" sha1="5f05dbcd6d6e66d8a501bca98c1a65fbbfd0d262" />
+		<rom name="mmrl.cfg" size="580" crc="b843f619" md5="eecf0e5ff4dd449a55d9d9f89aa566f0" sha1="5939d05ef866c3cca6a8db33b58e63d3ccaae050" />
+		<rom name="mmrl008-console.bat" size="48" crc="b779f142" md5="6837ffbf90173c33289879322eeb4be6" sha1="8154b48b157ea8fa1ad77bd67dc6af0d42cdb210" />
+		<rom name="mmrl008.jar" size="624485" crc="3318e164" md5="ef2e209ca1d35ca4743ea691cb69f546" sha1="3740755530307abe22506b8935033a60609b7dff" />
+		<rom name="runningOnLinux.txt" size="95" crc="393c7284" md5="02881e1029402a136999e47512c756cf" sha1="d4a5da48ef8fc7ceffa49e6b2d45df36fbf25cae" />
+		<rom name="savegame\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="savegame\delete.me.txt" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="wav\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+	</machine>
+	<machine name="numbers_v1_2">
+		<description>numbers_v1_2</description>
+		<rom name="Numbers\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Numbers\code.zip" size="33476" crc="c01fd450" md5="51486c709ac57da90ca85c111b4403a1" sha1="7f3da56aa749ecfcd00271f1d12dd9582d0b3c2c" />
+		<rom name="Numbers\death.dat" size="4600" crc="7c137b80" md5="76322d922cd936fcd18b03a5470f3819" sha1="365aad831d600e29318f4b455ffc9311d7a3495d" />
+		<rom name="Numbers\ending.rlm" size="437" crc="b8baba3b" md5="8ce555ca6a37f4fd469d15b505741cd0" sha1="5bb371f735df2bf6cc9d22012bc61498c58f6bc0" />
+		<rom name="Numbers\GNU General Public License.txt" size="15121" crc="c189de6f" md5="46b39127c800ae9546b0675c7dc36190" sha1="876c1201f087b86403e17eb2d907e71f9b513684" />
+		<rom name="Numbers\instructions.dat" size="8678" crc="fd9287e9" md5="0a72ba786353522287d2dd87965bfef6" sha1="dc266a21dd34fe4e739e55211b4465e66e94f42f" />
+		<rom name="Numbers\intro.dat" size="17514" crc="0b1a1aca" md5="32bf1d0b6abb7471aaecc6d6e6c08043" sha1="fa2081f3b48d0d653051188dd8c37cf9e933949a" />
+		<rom name="Numbers\Numbers.exe" size="143360" crc="b28712c6" md5="826a81a6db995a52025e4afdfcb013b7" sha1="985e377332e91b103446ae11fa3c41eed62fb272" />
+		<rom name="Numbers\Readme.txt" size="3421" crc="4628513a" md5="b0c60f5e0fecd7a1a94ab5c2bd1e30dd" sha1="1d9954a9b771afa12a1a6385d2c9fe7b1b5d7df0" />
+		<rom name="Numbers\story.rlm" size="3383" crc="080b174c" md5="3ae93d10863178fd3a8fdc8304791e50" sha1="2008c840ef3b2f35b746fb1a2a42fd6476def0e7" />
+	</machine>
+	<machine name="Simple Flash Rogue">
+		<description>Simple Flash Rogue</description>
+		<rom name="RL.swf" size="182660" crc="f8706ac3" md5="75ad460d11d5ace9d51541140abbab01" sha1="126ced4ededd194cc72515c968aee61eb61567a1" />
+	</machine>
+	<machine name="Star Craft Rogue Mercenaries">
+		<description>Star Craft Rogue Mercenaries</description>
+		<rom name="SCRM\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SCRM\changelog.txt" size="3256" crc="aaab0431" md5="6397d4060ef40367d8f90b7a16a57fdb" sha1="022e2e9e5f29535a39149c332a4916f423fb8cec" />
+		<rom name="SCRM\data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SCRM\data\ascii8x12.bmp" size="4158" crc="cfb59b23" md5="ca368133ffc33a179097be677ef81c24" sha1="02a12bfc85912560e6b41cbd90799114c2d7dffe" />
+		<rom name="SCRM\data\highscore.dat" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SCRM\data\map.fnt" size="49052" crc="52ecc1a7" md5="a36bbba0b722b8b4e28d5724e0332855" sha1="6c6e67f6d2550a07c73937fdbad2ec6925288e2f" />
+		<rom name="SCRM\data\playerdat.dat" size="8" crc="6522df69" md5="7dea362b3fac8e00956a4952a3d4f474" sha1="05fe405753166f125559e7c9ac558654f107c7e9" />
+		<rom name="SCRM\data\Readme.txt" size="64" crc="e45a8804" md5="12770d6d054849d42d983af8af022ff2" sha1="6fb9f1614d49737d3d9e1a1ac70337ac34140beb" />
+		<rom name="SCRM\data\text.fnt" size="49052" crc="52ecc1a7" md5="a36bbba0b722b8b4e28d5724e0332855" sha1="6c6e67f6d2550a07c73937fdbad2ec6925288e2f" />
+		<rom name="SCRM\key bindings.txt" size="696" crc="24cdad61" md5="57e254276b77cb436a41ad4468b3fd47" sha1="0838e54d26aace9b1b72d997e147dc1d0f8cda8c" />
+		<rom name="SCRM\manual.txt" size="5616" crc="9f9161a3" md5="6f292a24b5bd5df441650ca1f7101519" sha1="f6d1ff583c8d2af3ee1ed8c1118893b0e3c9536d" />
+		<rom name="SCRM\options.txt" size="351" crc="df615ce5" md5="112d6aa759324d1238d00b1d3130211f" sha1="36b7fd0638221842e1f2071a4107300e24157720" />
+		<rom name="SCRM\SCRM.exe" size="634880" crc="b596d3ba" md5="198cb45d7744c3327e3de071d637a5b8" sha1="0f850bef2fdd7deadc1aac86e03f06f7b8280136" />
+		<rom name="SCRM\SDL.dll" size="237568" crc="d4af5748" md5="d9e34fc5c608a739a54189da555db7cb" sha1="4062f5648fc8149c5b34a943aa5419453b4e1db3" />
+	</machine>
+</datafile>

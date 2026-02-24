@@ -1,0 +1,899 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - XDRL - 7DRL - 2009</name>
+		<description>The classic roguelike archive - XDRL/7DRL/2009</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="_Doc">
+		<description>_Doc</description>
+		<rom name="_Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="_Doc\7DRL Contest 2009 - RogueBasin.mht" size="382492" crc="13a9c3c1" md5="d40f75b4e9ee1fd8a0892f3eb739af64" sha1="819874b8d01e49f7b89478901d5190f76a0bb7ee" />
+		<rom name="_Doc\Backwards Gravity - RogueBasin.mht" size="332082" crc="1691b8ae" md5="324288f2b0ff297597b469604837641c" sha1="1850dba73817911a8f7f3dd4efdf939f0da8136c" />
+		<rom name="_Doc\Cypress Tree Manor - RogueBasin.mht" size="332916" crc="70ef26fa" md5="8d895e745df6389a64c65d07ef4b3b7b" sha1="6b8cb3d48480bcf60618a18cae738311e123d559" />
+		<rom name="_Doc\DDRogue - A 7-day roguelike game - DDRogue.mht" size="1120700" crc="99602be6" md5="6258c444087d4fc1f17a9cad18ae7d86" sha1="5d5b45c66658e69c9c237f12dd38dae1d8050dc4" />
+		<rom name="_Doc\Decimation.mht" size="143729" crc="1b40978c" md5="faa54e56512a0152b33c297178739795" sha1="414a5283a5b5f5eead0efa39d7d43be742f64fad" />
+		<rom name="_Doc\DL1 - RogueBasin.mht" size="330449" crc="7a6ea48c" md5="8374da729fbb4d8677b09a235867a8c4" sha1="a6d598295182f0bce035330d93a09e6700e1e200" />
+		<rom name="_Doc\Domination.mht" size="1130022" crc="f6adb34b" md5="391c81d347c546e505d09be7cfb3ba75" sha1="e3890230685dc44a50ce1234c4cb9b10fc1de870" />
+		<rom name="_Doc\DungeonMinder - RogueBasin.mht" size="371544" crc="85b7e011" md5="ef64e10f2a2ef91d6b8abb231fd55995" sha1="6f14a991f5d3d2c71723be2f04c9894865cb9771" />
+		<rom name="_Doc\Epic_ Monster Quest_ Hyper - RogueBasin.mht" size="331390" crc="a6367101" md5="5ed1ebb4a4ba05e6fe5d8370a438bef1" sha1="ea300f38ed0af0fba061216448cbc8c681f39456" />
+		<rom name="_Doc\Escape From Lab 42 - RogueBasin.mht" size="333682" crc="4d845844" md5="acf2e2cc6f71cfa81cd7873b9eee6f49" sha1="9970d04a48a3ac71a41bcbab721291c0d7abe402" />
+		<rom name="_Doc\Excitable Digger - RogueBasin.mht" size="331349" crc="f629e018" md5="5ce696094f87d2ef1809a1c233b251d3" sha1="eaa816ba8c9e40124ae4fdfdc80abd01c9482d33" />
+		<rom name="_Doc\Expedition - RogueBasin.mht" size="377469" crc="d043bfd6" md5="2726649746c351944757c0dc57589baa" sha1="5e07b58688845506fd237002e42ed83310851b8d" />
+		<rom name="_Doc\Expedition_ The New World.mht" size="2387209" crc="2c1a6cd0" md5="1d3e0f48803fffb4131f92918ddec513" sha1="f2ae2d8f89ebdec6b0dd9be171f242d3bcbe15d4" />
+		<rom name="_Doc\Fortress of the Goblin King in Launchpad.mht" size="1388195" crc="07c0f65b" md5="c03a13c986555d38bd61dc5feb89fb08" sha1="ff589d24468c9c739b126edb62b35d3f7b8ecea7" />
+		<rom name="_Doc\Fruits of the Forest - RogueBasin.mht" size="331673" crc="4db36441" md5="11e9fd64fab0a07c6cd03849534cb82a" sha1="985705242e97eadb3f09679da7334d188d815cb1" />
+		<rom name="_Doc\Jacob's Matrix - RogueBasin.mht" size="374208" crc="4cb7584a" md5="11145531c484577a6acfdb9966658032" sha1="a7af2a9ad0cfce63dd53b411f905fb76756986df" />
+		<rom name="_Doc\Jacob's Matrix.mht" size="113948" crc="672b38e4" md5="8c578b1b849c9c7b8b1985fbfd97092a" sha1="11c1576fd2b2089b3acfd10ddad8c8b3e120b0a1" />
+		<rom name="_Doc\Nyctos - RogueBasin.mht" size="331931" crc="c7565bf4" md5="54c0c9a26f34abbe9321548b3fda142b" sha1="51bcb2dbf1cb59e5a9b3000979552f32d3f9460a" />
+		<rom name="_Doc\Pink Ninja - RogueBasin.mht" size="330679" crc="70bf5562" md5="c83e9be36ff90b843ffbdbd789214995" sha1="8388ff6b5126c9ce36d893f04ee6490293a42d79" />
+		<rom name="_Doc\TetRLs - RogueBasin.mht" size="330813" crc="0d893d0d" md5="b6d770b2288d22d0b8269c0f84a102db" sha1="35bf34f8f8a6b36de7ff0a4903e62160bba4bbd3" />
+		<rom name="_Doc\The Favored - RogueBasin.mht" size="332826" crc="3b902279" md5="0e08062b014f301a6a2105a4294cf737" sha1="82c1b75165950154dddf9b9f59963c0758bf17e3" />
+		<rom name="_Doc\True God - RogueBasin.mht" size="335775" crc="c87ba79c" md5="59509038eeacd016eee36469f95478d4" sha1="c1711e17d10ae10bcdd165890bbcc525485a3646" />
+		<rom name="_Doc\Whispers in the Void - RogueBasin.mht" size="331313" crc="23224c34" md5="94888ac9e240a2b7e919f89fe18f7d92" sha1="4ee18fe06ca194c4c2926cac5f29b9369af99ded" />
+	</machine>
+	<machine name="Backwards Gravity">
+		<description>Backwards Gravity</description>
+		<rom name="Backwards Gravity\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Backwards Gravity\sources\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Backwards Gravity\sources\main.cpp" size="20033" crc="5158fb20" md5="593a20aede005cc7e5c38c24d162d71c" sha1="8f359edd1b64227cdc53d24029db85f99fe7763c" />
+	</machine>
+	<machine name="Chickhack (v1.1.2)[c64]">
+		<description>Chickhack (v1.1.2)[c64]</description>
+		<rom name="Chickhack (v1.1.2)[c64]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Chickhack (v1.1.2)[c64]\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Chickhack (v1.1.2)[c64]\__Doc\Chickhack - RogueBasin.mht" size="332824" crc="09a90b10" md5="7581a3a30fe0b4a582f3af1c1e71f6b6" sha1="ce89b4af2786a13e2b3232be5d280bd69022e3fb" />
+		<rom name="Chickhack (v1.1.2)[c64]\chickhack.d64" size="174848" crc="4c6bf834" md5="b368b88960abf8def7bc2ef32ba20fca" sha1="c4103c57f52c3af77ed7330682bf37fd1caeb254" />
+		<rom name="Chickhack (v1.1.2)[c64]\readme.txt" size="2607" crc="0148e24a" md5="472bed2957f192250c36aa1371cd86eb" sha1="211cf6315aed7ef4d3b6479af50127f54f874ee3" />
+	</machine>
+	<machine name="Cypress Tree Manor">
+		<description>Cypress Tree Manor</description>
+		<rom name="__MACOSX\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="__MACOSX\Cypress Tree Manor\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="__MACOSX\Cypress Tree Manor\._.DS_Store" size="82" crc="b88f91dc" md5="96c68b79bc82b883258762468d5a38a3" sha1="e7edb25d2e6f683ac78d7c6e54b34f1f6d415f26" />
+		<rom name="__MACOSX\Cypress Tree Manor\._readme" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\._readme.html" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\._readme.txt" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\._run.py" size="171" crc="e133822a" md5="89ac92d9898a333578240353a92587d8" sha1="a8332fc0fd266a72b3990204175f467e4a471ecc" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\._.DS_Store" size="82" crc="b88f91dc" md5="96c68b79bc82b883258762468d5a38a3" sha1="e7edb25d2e6f683ac78d7c6e54b34f1f6d415f26" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\._gameover.png" size="378" crc="eec2a766" md5="7161fa31bebdec49aada42e7d6d53360" sha1="9fcce62b3430f3cabc72d683e3ea58ddade6388e" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\._menu.png" size="374" crc="d16cba05" md5="ca0954bcda7141d80b72c53387515993" sha1="c8386b796b8311a984f00859993ce03d204c7661" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\._victory.png" size="377" crc="ef0aab25" md5="07fb996565e61f4abc74d4ad10abb7af" sha1="ef0992769fc897e1ae008349eedfc55478829837" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\._z1.ogg" size="82" crc="cd4728df" md5="b4a99c2de068e11c6c5b92f4c8598ff4" sha1="83f21c7577da4e34ffef37a5659a3d51e8237659" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\._z2.ogg" size="82" crc="cd4728df" md5="b4a99c2de068e11c6c5b92f4c8598ff4" sha1="83f21c7577da4e34ffef37a5659a3d51e8237659" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\._z3.ogg" size="82" crc="cd4728df" md5="b4a99c2de068e11c6c5b92f4c8598ff4" sha1="83f21c7577da4e34ffef37a5659a3d51e8237659" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\._z4.ogg" size="82" crc="cd4728df" md5="b4a99c2de068e11c6c5b92f4c8598ff4" sha1="83f21c7577da4e34ffef37a5659a3d51e8237659" />
+		<rom name="__MACOSX\Cypress Tree Manor\media\._z5.ogg" size="82" crc="cd4728df" md5="b4a99c2de068e11c6c5b92f4c8598ff4" sha1="83f21c7577da4e34ffef37a5659a3d51e8237659" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._.DS_Store" size="82" crc="b88f91dc" md5="96c68b79bc82b883258762468d5a38a3" sha1="e7edb25d2e6f683ac78d7c6e54b34f1f6d415f26" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\.___init__.py" size="171" crc="648ec457" md5="36c8ce25013d092ebd565c2b8be2968f" sha1="b758cb925179685e300d2d3a7f71a72b6f0b0e80" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._aisurvivor.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._aitools.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._button.py" size="171" crc="78a95c42" md5="858065784c9274490906ac3fa3dd76d4" sha1="1440d8f58af506d18ab9df2ce0c6198243e7cc3b" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._cell.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._image.py" size="171" crc="08373c16" md5="f81cc634e6cc646233678c44a229563f" sha1="64e9ae19a516f3e11afaf56d4f58bf8a71d3b4b1" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._items.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._levgen.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._main.py" size="171" crc="b8d22bd1" md5="3fee1d84266feab835b5c5e7baca920b" sha1="3fc0a2e55a053c0eacf3f4e2ab97231f9ea02cde" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._menu.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._monster.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._player.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._sound.py" size="171" crc="9cba83ee" md5="408f17a58ed8db9b4d3d17182e1e92d0" sha1="94748f4477fb6c36e2dfbf7de26a635dc3687a4d" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._state.py" size="171" crc="d46bd390" md5="05bf63b9eb5ae3c7d452efcb7da03e0c" sha1="70d0fa07d61ba17cd44e325d5cdf18f43e51ae59" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._survivor.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._TODO" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._weapons.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="__MACOSX\Cypress Tree Manor\src\._zombie.py" size="82" crc="13e031ea" md5="6bed7ab02486849c9aaecae34191d6fb" sha1="4a33f023730442fe3702aac59c1a1e347a28f122" />
+		<rom name="Cypress Tree Manor\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cypress Tree Manor\.DS_Store" size="6148" crc="5b85d2aa" md5="9e3936437f81188e9697f11f079e86ca" sha1="3eb8a73ae0050c38e278fa5b08983ae0cfb1ab22" />
+		<rom name="Cypress Tree Manor\.ropeproject\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cypress Tree Manor\.ropeproject\config.py" size="3461" crc="c19585ae" md5="b939d0a580fdb8e1152eff803dec4044" sha1="21cf7e5e877c4e8c4518b70f3b9dd2a7b1181bab" />
+		<rom name="Cypress Tree Manor\.ropeproject\history" size="14" crc="65e9c24e" md5="c28788279157fdc25ebf8180636621a5" sha1="0d98c76963a89311018bdc9abf1236916e8538b9" />
+		<rom name="Cypress Tree Manor\.ropeproject\objectdb" size="6" crc="dc19a0b3" md5="6c9f8c4af2a4aee9a42aaac813f5a604" sha1="71abec97ba22cc22f95b26f5fd17473c638f9c0a" />
+		<rom name="Cypress Tree Manor\media\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cypress Tree Manor\media\.DS_Store" size="6148" crc="b3ffbabe" md5="625158f89935045b3c9522eb3039955c" sha1="5164f0d1608e2a32f9c5f6e81a8e396707504c35" />
+		<rom name="Cypress Tree Manor\media\gameover.png" size="268495" crc="002fa42e" md5="b1af6b1d26d063214fd277aeae689271" sha1="1e6f051da6bb1b0e4bf68f9f88a45e5e280eb6d9" />
+		<rom name="Cypress Tree Manor\media\hammer.ttf" size="58792" crc="f410aa14" md5="f5c9086c079ebf93b077540a2e6dec32" sha1="99746f9cfdbf0e7ac202d04ef9a59bc43354d12e" />
+		<rom name="Cypress Tree Manor\media\heart.png" size="4174" crc="61760389" md5="2bfe931b8993a5ecec38934d577c30a0" sha1="a1238bed4f7820ccb547a91b23ec9694c4fae39f" />
+		<rom name="Cypress Tree Manor\media\JibbaJabba_License.rtf" size="2716" crc="f3c44029" md5="0813969d4f9d5a4a4bbce075969ca8aa" sha1="eb5c1012aeb2b950e70724776990db4eef432c0d" />
+		<rom name="Cypress Tree Manor\media\menu.png" size="167721" crc="1b673ccd" md5="8ebed99a19db506048f5fa7e5abb632c" sha1="f1168469477f0c6c6afd0ae5fc8d876f5100ad78" />
+		<rom name="Cypress Tree Manor\media\readme - hammerkeys.txt" size="781" crc="a75a4aba" md5="7175add69f36071029f9e7f482393755" sha1="204477d6792d777d041f5030938fb45aa75e1acc" />
+		<rom name="Cypress Tree Manor\media\rough_typewriter.otf" size="97412" crc="9ac15edc" md5="4e981541c5c2546532b5046ff6cf3701" sha1="3d076b80df22a03df2d89f3d3be55dc65852ff76" />
+		<rom name="Cypress Tree Manor\media\victory.png" size="57959" crc="eb72a21d" md5="ad11bd6f05f4642645b0bfed3c037e73" sha1="9ced17874efd55ccb155b31f9308e0f319d6ac47" />
+		<rom name="Cypress Tree Manor\media\z1.ogg" size="21175" crc="a74ba556" md5="da2b766c4c1bd9d228eeaa5062d649a1" sha1="737f92524a274ce456006c2098b0833b078eef1b" />
+		<rom name="Cypress Tree Manor\media\z2.ogg" size="29430" crc="75409a00" md5="7cb7b81367fda75f329babe7c30fea98" sha1="8e6869c5fd182be1c8f6ca0de843c880c7af7d20" />
+		<rom name="Cypress Tree Manor\media\z3.ogg" size="35173" crc="bedb5155" md5="a6a1c6c8cfae90c180009300761ce749" sha1="ab9e2df8aa3f5178cc00572ad4ce4f364e75daf0" />
+		<rom name="Cypress Tree Manor\media\z4.ogg" size="43766" crc="02bc0d85" md5="3f5b29942d36e653bb98927df412f6c4" sha1="9644de3c07ecc745870390ef2a5e82db18c1e474" />
+		<rom name="Cypress Tree Manor\media\z5.ogg" size="34794" crc="0c7597b1" md5="f6c858f5628b3d0c8a2e4ae71f465453" sha1="abdb5d2342f5557101e94326dea0edf761c6d023" />
+		<rom name="Cypress Tree Manor\readme" size="3617" crc="49fd67c4" md5="299754781e6307bcc7c03ea9772cd0b6" sha1="5e61cbabc1b598ee1d01cbd563fa591d206d88ae" />
+		<rom name="Cypress Tree Manor\readme.html" size="5134" crc="6cc26d3d" md5="dd2e032bd9028b7154c81657a0f96f86" sha1="bd1a7562b1f0d9ef5db5cd077275cf82555f5509" />
+		<rom name="Cypress Tree Manor\readme.txt" size="3522" crc="a2a8524e" md5="61a599bbdf8719d71a1bd8b553ff0c1d" sha1="e7ed55690050fe9fa5926f0d5eea121d6b2a26cb" />
+		<rom name="Cypress Tree Manor\run.py" size="52" crc="7fa4db08" md5="cddc34f675479c94d393f685fcaef5e2" sha1="b6d363449e5141f15f9063b8d2154e3eaf48e9fc" />
+		<rom name="Cypress Tree Manor\src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cypress Tree Manor\src\.DS_Store" size="15364" crc="22292684" md5="021d7e53dc0a6f6152788d562938b35e" sha1="d4e1a299d14400dff8b5bdca995720f55500a860" />
+		<rom name="Cypress Tree Manor\src\__init__.py" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Cypress Tree Manor\src\__init__.pyc" size="127" crc="db263955" md5="6cc5f54fb63c7782ce85961289001d19" sha1="8f39ecdb5118adf2048200e00c1717d186107370" />
+		<rom name="Cypress Tree Manor\src\aisurvivor.py" size="5334" crc="4221bca1" md5="8f2df71845f3e78f3695a994ee930f7d" sha1="2cc378d1b78821a6cb1f5652169ca1b47bad8ea5" />
+		<rom name="Cypress Tree Manor\src\aisurvivor.pyc" size="5097" crc="45c32cb2" md5="07bfb8e5ee5edaeb6d2dc1b68c76d76f" sha1="6d6acea5c46ef80fe927c2460b0a3fa9fc9c912c" />
+		<rom name="Cypress Tree Manor\src\aitools.py" size="2709" crc="b0944925" md5="257e34e0063004be672c9045066cab66" sha1="15b95b774d1e63be4f0f456196df3498931cace7" />
+		<rom name="Cypress Tree Manor\src\aitools.pyc" size="3597" crc="da026e39" md5="f5845f6404274a19dce235ab431f8117" sha1="72c5345ad0f31ba8629b03c2c1e93d7fca215022" />
+		<rom name="Cypress Tree Manor\src\button.py" size="546" crc="3ec6dc56" md5="bb5f366678cde1792481d494deb9afc4" sha1="3a77e14ba82756ebea7c418a4b10ce7fc9be5ca2" />
+		<rom name="Cypress Tree Manor\src\button.pyc" size="1207" crc="ec394ad4" md5="1662054a6bb108c1477993fba36f4672" sha1="056ec8d350bd59aec33d050ac1aa5f582e89dc52" />
+		<rom name="Cypress Tree Manor\src\cell.py" size="8018" crc="f768d313" md5="d846b89fab8c79e9af3d47e5ba005650" sha1="544cf17d0e6217cd3d9e1925e6c1fc07289fd59a" />
+		<rom name="Cypress Tree Manor\src\cell.pyc" size="11149" crc="ab476a2f" md5="9f2057575bfd6401232cbb3f52438257" sha1="53422ca02ffd85304ebc60f243dc041e28343bdf" />
+		<rom name="Cypress Tree Manor\src\globs.py" size="374" crc="601a411c" md5="00e52ec9ef31eeb5c3a8d63380b3149b" sha1="20d4bc79117c73b4f99f32555859b62257431da2" />
+		<rom name="Cypress Tree Manor\src\globs.pyc" size="657" crc="8d4d2766" md5="9aed21afa0de982f8a4e78922101f12b" sha1="1210b77f7e0059dfa52e190d8e3ddf496332b137" />
+		<rom name="Cypress Tree Manor\src\image.py" size="974" crc="834c1bb4" md5="e2afe9ac6aa7c59900fc97829b0afd6f" sha1="8e4dc46b3cfc88ede7e020cec36671762bbbc1db" />
+		<rom name="Cypress Tree Manor\src\image.pyc" size="2008" crc="7e115ce6" md5="25ec793b4eab24295b2475d6e0a2b600" sha1="4c5a02d2b0c8b9d53d79cb6f8721486ce176c7ec" />
+		<rom name="Cypress Tree Manor\src\items.py" size="1584" crc="553f7936" md5="e2c0c20fa85044142c10c7961a620582" sha1="354dd22e21a99113c119ecc558f92638f7d72f7e" />
+		<rom name="Cypress Tree Manor\src\items.pyc" size="3479" crc="a125ecb9" md5="97376bab7c7490d6bfa174acc7bc11b8" sha1="c4f85a351f246d9542d5e591d3724ad891cf1e30" />
+		<rom name="Cypress Tree Manor\src\levgen.py" size="5087" crc="bcd9bc2e" md5="876c2fbcf40c4e222e07d3edebfe2a64" sha1="0a54b33ca3f789c2e657bfba04926d8e8c1d3cf5" />
+		<rom name="Cypress Tree Manor\src\levgen.pyc" size="6283" crc="c944454b" md5="23c4d95a1453611139eeeed571faebcf" sha1="f6300b408be75a38a9c6fc74984bf9b7f0e4acac" />
+		<rom name="Cypress Tree Manor\src\main.py" size="819" crc="f35da1aa" md5="266fae6aa0e1291925c53bf134b9e128" sha1="1e80847fad94085d6e141b669164d1f2cde3970e" />
+		<rom name="Cypress Tree Manor\src\main.pyc" size="1210" crc="b583b195" md5="c39b533362c45c3cdca89828e28ca6fd" sha1="0cbd3fcd3b7efe95068444383364b7bba8467893" />
+		<rom name="Cypress Tree Manor\src\menu.py" size="821" crc="794a2a4d" md5="008f5df3b6ed3cd0e2cc9e10a439800a" sha1="d0883231e69a85501645f03289c2ce8628cccd60" />
+		<rom name="Cypress Tree Manor\src\menu.pyc" size="2037" crc="d0a45b2a" md5="b8eb75414c428f37416ed431d0f8499a" sha1="f604ab1729f3fc9351047416d79e03be493f1b03" />
+		<rom name="Cypress Tree Manor\src\monster.py" size="2826" crc="4e931bc1" md5="d985a777a07fbe2e841cf8419eac4db7" sha1="966af1419259960a490b72cc14a0274aabeab91f" />
+		<rom name="Cypress Tree Manor\src\monster.pyc" size="4088" crc="12f930ba" md5="46200a0722c40fb8b4489a297db77bbf" sha1="fece80e88e61900fb3584ca41888e6608288cad2" />
+		<rom name="Cypress Tree Manor\src\player.py" size="3029" crc="44aa2eb4" md5="1eb3901a57e21512e1af654aaedd578d" sha1="0947d1936fb3cf4ff7076a4146efdd7e43d3f833" />
+		<rom name="Cypress Tree Manor\src\player.pyc" size="3796" crc="950e4d13" md5="c492cacc3f682433f8ae2eb01b85db89" sha1="48561788452a75d884afa2b09cf1f9ccc6f5d0c0" />
+		<rom name="Cypress Tree Manor\src\sound.py" size="372" crc="63efb551" md5="2cd19a3417c0f694c14353657f50eba1" sha1="b4565df2a42e83e3d026481515b60746a6940a6b" />
+		<rom name="Cypress Tree Manor\src\sound.pyc" size="1034" crc="d19fcb02" md5="64a072dcb43eb075b0fc79105fb02fd7" sha1="225ec3cb5f288fe232e21fca2bcedba1db07b0a3" />
+		<rom name="Cypress Tree Manor\src\state.py" size="2670" crc="c1f788b3" md5="7bd40a7697abd41e157ebc81bf0f554d" sha1="6f4bc26fa9b72d7c895d3ab765ad32772b79689c" />
+		<rom name="Cypress Tree Manor\src\state.pyc" size="4433" crc="1827a714" md5="7869c367c29c98f062c224cd60c9b8b4" sha1="9e2d68b0050667d4026347795a0a9d18c46d7354" />
+		<rom name="Cypress Tree Manor\src\survivor.py" size="1212" crc="7a6a7572" md5="3c7b979352e0cf7037f9414a80c9c4d8" sha1="ecbeb9882c0c2bd278d0839dd014e6c5fbe19ff9" />
+		<rom name="Cypress Tree Manor\src\survivor.pyc" size="1980" crc="690da01f" md5="dd377836008e6787a73a191ee69232dc" sha1="f2b35edf1a2a45ecccd6f8e3891b892ffe617f6f" />
+		<rom name="Cypress Tree Manor\src\test.png" size="747" crc="a71dc917" md5="93bcc4e0893ebbdf64d2fbac8cbd2ded" sha1="4078ae0ffa92cb3d928d2b2fc45be8496fb8d336" />
+		<rom name="Cypress Tree Manor\src\text.py" size="748" crc="e0bd19cf" md5="f31b756d45c5148809e51c98c3cb32c1" sha1="7f6e7ad3a359fdea3fc34e24dddf30884c32710d" />
+		<rom name="Cypress Tree Manor\src\text.pyc" size="1532" crc="5222c08e" md5="dfd85e451ee21859922ebe0fcb12a5e3" sha1="ada606645c1f37e85520e152a210be306d6127f9" />
+		<rom name="Cypress Tree Manor\src\TODO" size="313" crc="7cc906e2" md5="616d5836f3bfa9c6e520557daa3cce64" sha1="85fc80c32a556af1fbf34168282f334fcf70201e" />
+		<rom name="Cypress Tree Manor\src\weapons.py" size="1889" crc="b7778c5b" md5="d564d226e2f1b906e9594da4c68a4212" sha1="71b5caa6e0a8ff3a239065d4695f691bac4e5cb2" />
+		<rom name="Cypress Tree Manor\src\weapons.pyc" size="3884" crc="6c89b37e" md5="da625fbbcb3d431f2d33a6d39a3bc3f0" sha1="75cba3fa80ad5d701098dd3e9c7e53d8a40b4bb4" />
+		<rom name="Cypress Tree Manor\src\zombie.py" size="1596" crc="ed41fc1b" md5="4c525e7114232992ece83a0b80e1cd5c" sha1="d47e435ad8847bc0e4c95f074d764f2b78308668" />
+		<rom name="Cypress Tree Manor\src\zombie.pyc" size="2369" crc="269db3c9" md5="4bc77a9624c6d80f8173988ddb2a4e2a" sha1="855888b1afede441a07e109552393b885ff7aa1f" />
+	</machine>
+	<machine name="ddrogue">
+		<description>ddrogue</description>
+		<rom name="ddrogue\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="ddrogue\libtcod.dll" size="113664" crc="b9c8a81a" md5="ad87108aaed711e41b7952aff237ea11" sha1="871afae898fa8df3a731fab4cdfb039847b1e026" />
+		<rom name="ddrogue\libtcodWrapper.dll" size="50688" crc="eaf1e871" md5="436511ed0f795669c8abb643ddbfdb20" sha1="239820b08a523a39641e1ba96eda1d4b22671708" />
+		<rom name="ddrogue\readme.txt" size="973" crc="0bd9395f" md5="15e0702869f8e340c6f3e8b0ec4cfe2c" sha1="f398f8a45164cb71078ae212b9c45eeca83f6b9a" />
+		<rom name="ddrogue\RogueBasin.exe" size="256512" crc="1d376492" md5="19f072fd85d5146f5afb704128807074" sha1="2684a5e4867c55c9a82ff901b3638b751cd5a6c9" />
+		<rom name="ddrogue\SDL.dll" size="135168" crc="52751c3e" md5="1f7191f8c9218fbf6e08ad6562375f6e" sha1="d3f4ce3e0c092b28fb22d3d6627013b7540ed81f" />
+		<rom name="ddrogue\terminal.png" size="3150" crc="2f01e925" md5="c4a24dd4390ad275c8aad7905152e7b0" sha1="b18a1b08e002a49bfc3476027b5ea7b13dfa5e3f" />
+		<rom name="ddrogue\zlib1.dll" size="35840" crc="27ce51c8" md5="ecce1e175a390260bbeb169b4768bb7f" sha1="bf5b30cc2c2c9b46e9513655222b38bc7c39999f" />
+	</machine>
+	<machine name="Decimation">
+		<description>Decimation</description>
+		<rom name="Decimation.exe" size="28672" crc="3df5027a" md5="ddefa09b5ad1b1d6b6a00f9db2b36aa6" sha1="697b4cd25b49e747e4d52b6f8fe56400d19f0248" />
+		<rom name="Readme.txt" size="4013" crc="52c38208" md5="f7b851d912696f6b87df820dfb039e87" sha1="179bfb9f0804770f5bc0f2d79fe2ef15907e8c3a" />
+	</machine>
+	<machine name="dl1.tar">
+		<description>dl1.tar</description>
+		<rom name="dl1.tar.gz" size="28185" crc="4ecf9a0d" md5="f0aa4c86b15a3c328bada930de2ee409" sha1="ae395c295630df74c7374d42eac98f54cae282e5" />
+	</machine>
+	<machine name="Domination">
+		<description>Domination</description>
+		<rom name="domination.zip" size="95443" crc="4d2c2bf1" md5="3076c6dd41b769cc68e8bdcb0b3b7bf3" sha1="7e6c3f1bddf504afecd9a48708d471b4bee2b964" />
+		<rom name="domination_fix.zip" size="130163" crc="1c675b8c" md5="5d253512f125c387a052dfc0182cbec4" sha1="9c8b55c801a99fd84f326bf3ee440ce91fc2b8f2" />
+	</machine>
+	<machine name="DungeonMinder">
+		<description>DungeonMinder</description>
+		<rom name="DungeonMinder - Windows.zip" size="491918" crc="b1d5c5ff" md5="92c74d25566eff568e175497642ccc54" sha1="9a089426e9a947a00a76b0c0fd0307311cfcc372" />
+		<rom name="DungeonMinder v0.8 - Windows.zip" size="510691" crc="70a18170" md5="42067c56617ef207d72c6cfed9445f6a" sha1="7b298adff177938377c1950443d5412f1b2f87e9" />
+		<rom name="DungeonMinder-7DRL.cpp" size="81366" crc="47bb4ba4" md5="e3ef8fda008d818b94e3370e74198d24" sha1="5f379a55555effd014474dcbb3768221b1f94360" />
+		<rom name="DungeonMinder.cpp" size="150412" crc="a830003e" md5="f3225ec067f61ee4992274d1d4af7228" sha1="6bab5a0e15a2a7bb4ab699d02879e059be1f65fe" />
+		<rom name="DungeonMinder.zip" size="528994" crc="a1251660" md5="e4b29e481d1597e36fd39dab75d209ed" sha1="0bada720ea607d0018eca7a86427ffce94406181" />
+	</machine>
+	<machine name="Epic! Monster Quest Hyper">
+		<description>Epic! Monster Quest Hyper</description>
+		<rom name="emqh.zip" size="1611626" crc="092ce0e7" md5="36d0ff9b187ac7ff2117592ea1e8095c" sha1="657820c1267336ee7f7c3567f4ed3323fad51d97" />
+		<rom name="emqh_sp2.zip" size="1514812" crc="7a72cc21" md5="772bf15ccdfc189815aa87c97da41dd1" sha1="e5aa9561b83ba3efddfd4f767a970c05c4171386" />
+	</machine>
+	<machine name="Escape From Lab 42">
+		<description>Escape From Lab 42</description>
+		<rom name="lab42.zip" size="217390" crc="4a065d18" md5="5d4d12c9a00dfa52a967eb819daeddd4" sha1="8a236da14272b8f428839e04cceca3dc91f7b916" />
+		<rom name="lab4202win.zip" size="233780" crc="5df2ee1b" md5="ef77d409c82dba74fa79fa453f6ff6c1" sha1="ced2ff66924e6fb9f67da593f566a5ee84b7ce97" />
+		<rom name="readme42.txt" size="8548" crc="cb905c12" md5="443b005005cd37b0e65a922ac34095bb" sha1="1be5b6a5efac036e8c0edce7e0aaa9af29b6f7ba" />
+		<rom name="readme4202.txt" size="8440" crc="5e996adf" md5="b35b044f07ce834bfae8ebbf76a6e863" sha1="fe9afe71095072596beeb2153e4e2ddcac687ca0" />
+	</machine>
+	<machine name="excitable digger1.1">
+		<description>excitable digger1.1</description>
+		<rom name="ExcitableDigger1.1\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="ExcitableDigger1.1\ExcitableDigger.jar" size="248037" crc="bd2bb7b7" md5="5bb6d1c454cf39445cdc0b49d3dfc38a" sha1="4fdb039527f679861a3b6e9294c44dc24cf3b849" />
+		<rom name="ExcitableDigger1.1\lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="ExcitableDigger1.1\lib\jcurses-x.jar" size="109739" crc="d5445647" md5="806d4fc11c96086039f8f0802ba6ec75" sha1="ff05fff33e99746a099c89044ec6870b43e50c55" />
+		<rom name="ExcitableDigger1.1\README.TXT" size="35" crc="6e29a13c" md5="31faa2c7bdb8eaaee49c5cdc5ad6bf6f" sha1="dfa139e922c41ad593c6cb05f51414048f27b36e" />
+	</machine>
+	<machine name="expedition0.5">
+		<description>expedition0.5</description>
+		<rom name="expedition0.5\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\expedition-extendedMemory.bat" size="67" crc="d119772c" md5="7d6109240e076cea0b27b8809d8eb1b1" sha1="b4d3c83100da71a9530f702074859306058a0122" />
+		<rom name="expedition0.5\expedition.jar" size="513726" crc="08ab3d12" md5="bb1cf0958deacc64a5dd80f6ee00a25a" sha1="1cccb3bc6e6e6e141c210449b715fd607d3939b3" />
+		<rom name="expedition0.5\expedition.properties" size="846" crc="7fc05405" md5="6bfa05d67bc8df8a767c960bbfa8dac9" sha1="18393e7bd32da88d21201b10556071a968f5edc3" />
+		<rom name="expedition0.5\keys.properties" size="709" crc="56ab0f89" md5="905da1102fa0db7d495746fd5c4de44a" sha1="a13c45e46fbc246f1d54499b10959bf2520e7181" />
+		<rom name="expedition0.5\lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\lib\basicPlayer\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\lib\basicPlayer\commons-logging-api.jar" size="26202" crc="8420e4e1" md5="0b98e0895cd4e66c3eb4c511de112163" sha1="544f72427e94a5c55b65a9b81c55c54059b4f993" />
+		<rom name="expedition0.5\lib\basicPlayer\javazoom3.0-openJDK-modfix-src.zip" size="31519" crc="c176d11f" md5="acdf9b2dff859e7489503dfc553d8cd9" sha1="e222918308cf377db37170a3fb1da917f1c1e43b" />
+		<rom name="expedition0.5\lib\basicPlayer\jl1.0.jar" size="105446" crc="e5f6ded9" md5="beb5af7c8e02649ca6d22514d9ecab52" sha1="2020d545657508bd82beab00359dcc50996b875e" />
+		<rom name="expedition0.5\lib\basicPlayer\jogg-0.0.7.jar" size="6839" crc="c7fb0f2e" md5="9d1946211b6e5ef66fe088b2432355a1" sha1="7b8eff12a2e93fea919c3f9494d5ccad9e193c8d" />
+		<rom name="expedition0.5\lib\basicPlayer\jorbis-0.0.15.jar" size="58917" crc="1c380ad6" md5="5919b38077fa66784365140cc17f027a" sha1="8010acdcf550f7c5d5ac64833fffa008e22c18f7" />
+		<rom name="expedition0.5\lib\basicPlayer\jspeex0.9.7.jar" size="99833" crc="d9d31a7b" md5="b6eb6f7c64dbcd511ba8f90f2de6370f" sha1="5fd8184cfea4c5aa4e3c14bb3d21fd83539d6f47" />
+		<rom name="expedition0.5\lib\basicPlayer\mp3spi1.9.4.jar" size="24538" crc="41941d96" md5="09dfea6a70016b65c29b9dadbf8cad45" sha1="beccb1a3e766d0bd782a174d7cca0a47ba3b89d8" />
+		<rom name="expedition0.5\lib\basicPlayer\pulseaudio.diff" size="3467" crc="997541a3" md5="27269b477470e5a5dc42d9bd6d01db8d" sha1="a65c6ed1fe358f49443a6ec82213041b0aa91938" />
+		<rom name="expedition0.5\lib\basicPlayer\tritonus_share.jar" size="102723" crc="7b707f07" md5="b7f3080b2fa82e588cea7f46cb1de496" sha1="2d30f1554a0a0cc8b580e18399b5d1121c7db383" />
+		<rom name="expedition0.5\lib\basicPlayer\vorbisspi1.0.2.jar" size="13776" crc="db2a6e8f" md5="00167d90e7012907cbd01dc2e11a9b3d" sha1="69800ea7dd35891e00ee02d6989a526dd097b1d8" />
+		<rom name="expedition0.5\lib\commons-codec-1.4.jar" size="58160" crc="e8c2ed52" md5="82b899580da472be37055da949b731fa" sha1="4216af16d38465bbab0f3dff8efa14204f7a399a" />
+		<rom name="expedition0.5\lib\commons-httpclient-3.0.1.jar" size="279781" crc="0f713534" md5="456245a3b1b49eb51c57d037acebfefc" sha1="d6364bcc1b2b2aa69d008602d36a700453648560" />
+		<rom name="expedition0.5\lib\font.scb" size="3" crc="25d02444" md5="323ff9fd9f22e6e555eb1a41ad6f64d1" sha1="d15228f1fe7aeb31d230f5e424a3ae30a5beb921" />
+		<rom name="expedition0.5\lib\jcurses-x.jar" size="109739" crc="d5445647" md5="806d4fc11c96086039f8f0802ba6ec75" sha1="ff05fff33e99746a099c89044ec6870b43e50c55" />
+		<rom name="expedition0.5\lib\lib.zip" size="216584" crc="949b8438" md5="7c2ae732cf58a30b65385010aabfe402" sha1="3e710536d841ef24f954900c40b8e0377256da0a" />
+		<rom name="expedition0.5\lib\libjcsi.jar" size="82512" crc="9970b1a9" md5="e94b4636ee937c00de555e9568d10bb4" sha1="8a2c0c44a9495cb3d79a0b915defe9e61f78d214" />
+		<rom name="expedition0.5\lib\libjcurses.dll" size="59392" crc="d1f97475" md5="0dde77c3b8d585b56e31485eb42bc710" sha1="386cc925113d63f7668a82cda9f34f8312dce004" />
+		<rom name="expedition0.5\lib\libjcurses.so" size="24099" crc="bd9970ae" md5="f3e340befe9d0eecd5880f9dc5ab4a37" sha1="4c9e34c12c31e384e6290f724144a8a9e654b712" />
+		<rom name="expedition0.5\lib\serf.jar" size="417435" crc="fbdd9819" md5="31a2d08abbc336f53bbeef1f7b98181a" sha1="fd85f330459f89397a5ac9f29a2ed161f57cf09c" />
+		<rom name="expedition0.5\lib\serf1.28.jar" size="397076" crc="dc249391" md5="75de984712cef6f2c69717135dd35f24" sha1="00ec2428f1c620e8ada9b8e95e4675943f71f176" />
+		<rom name="expedition0.5\Manual (Annotations of Travel to Santiago).pdf" size="1432555" crc="ea616771" md5="2609ccbbcc7f1f384ecb0bfdb6086024" sha1="f5328c25380754c0801e5fca948a342c643d0ab2" />
+		<rom name="expedition0.5\midi\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\midi\aytris3v.mid" size="3581" crc="366657c1" md5="c0752c05e0a35df9f8f605ef9534777a" sha1="4ba8a9a59f7eca03701fdbf701cd58cbd7c21aa1" />
+		<rom name="expedition0.5\midi\calatorao.mid" size="5008" crc="943698a9" md5="c089350889b0bc3f68753060d05085cf" sha1="955615391ea8a77ec9cb8955d9a4afce674d690a" />
+		<rom name="expedition0.5\midi\gsmariz.mid" size="19218" crc="c950704c" md5="bb8efd3d142cfbf8f7d75cb297e1828f" sha1="b2bcb17a5ce959938547a2e5936cc132c158db1b" />
+		<rom name="expedition0.5\midi\jrondas.mid" size="49255" crc="6e4adadb" md5="451f393fe24e7470dabc64a51921edeb" sha1="062682f6f6d47a64cda02a4e96ea5f4105020e54" />
+		<rom name="expedition0.5\midi\rborxa.mid" size="11139" crc="b45453f4" md5="1b8c710cac913ba7f71eb290ae30c5c9" sha1="ee9ae7e15a1d6f4a92f37d4ae51fac6cea204533" />
+		<rom name="expedition0.5\midi\recerca.mid" size="4739" crc="185f8a8f" md5="becab394c942847c2452148fe394a08f" sha1="01e163c8415b760e27ae86bb007de3a0fac01fdd" />
+		<rom name="expedition0.5\midi\segu394a.mid" size="11695" crc="1955e79d" md5="3c04712611bcea90486dd4e8943e6ade" sha1="d6d63f4d733ab687bd2f908c9d9e50534a690e9b" />
+		<rom name="expedition0.5\midi\stamaria.mid" size="6411" crc="c25c3313" md5="f4e18cf2cab0e66baa85ea9a67676c12" sha1="c1c8f6aded55aac13440725fd0d857bfb8c470b9" />
+		<rom name="expedition0.5\midi\tdborxa.mid" size="62367" crc="7a2d6e0c" md5="f31971bcf6cdce5d90c9a8f6026f1f52" sha1="2169a463296efa978da02e7ed29054760d06a75e" />
+		<rom name="expedition0.5\mp3\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\mp3\125119__1pjladd2__Thunderstorm_with_heavy_Rain.mp3" size="9113856" crc="1d462657" md5="e207a0d27f5bfa194c43a2ff08f0ddb5" sha1="2b3a40a18e7c0ccf3083e5bc5ad7a85d906e3e05" />
+		<rom name="expedition0.5\mp3\Karasu - Medievil.mp3" size="1587328" crc="4e2849db" md5="e317d5302a5dddaed4e87510df37a258" sha1="d3e87e853b33bf513eadd6177ac907f432911c92" />
+		<rom name="expedition0.5\mp3\Medieval Tune - The Next Gate.mp3" size="976796" crc="522c62d3" md5="2ca9b7f8404c8533fa41127f62c29326" sha1="a208bd78235ef7d7cf6f81b8d78d4e48448c6b0c" />
+		<rom name="expedition0.5\mp3\The 3 Caravels - Mingos.mp3" size="4297187" crc="9f4959d6" md5="f845a90cbfc13049afd5582fe3df7831" sha1="abfb45a0cf132fd74f6f343fa700663cce1a9be1" />
+		<rom name="expedition0.5\mp3\The Naive Bard (Cover) - Mingos.mp3" size="2939659" crc="6250315d" md5="c23ca4c13c62a8578d0900550868e41a" sha1="d7f09de5c8b3b0242706b3c03e58b859f8196139" />
+		<rom name="expedition0.5\res\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\res\bigDenzi\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\res\bigDenzi\appearances.xml" size="16190" crc="b303a9d2" md5="1806dfe6f0eee605bc0a5dc40548a9db" sha1="9cf01394dada0272b98ade9f2105ccd6c97dc2ee" />
+		<rom name="expedition0.5\res\bigDenzi\expedition-denzi.ui" size="1998" crc="9fe641f3" md5="14d541d9d84e10d771f314e71361eb92" sha1="06ec39cd5b123c34ba2f9b7cd3c15d500a428669" />
+		<rom name="expedition0.5\res\bigDenzi\img\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\res\bigDenzi\img\blank.png" size="4038" crc="65beee5d" md5="c509cea6c29b89204aa8334d28b72e1e" sha1="42cbba0a4bc6bfe4b257ad7c3973a8e765a388c6" />
+		<rom name="expedition0.5\res\bigDenzi\img\blank2.png" size="7545" crc="b4ba1a27" md5="fe05b68eddbe35137fd915d566e7310e" sha1="b9427d71f5f05942f1c0e34a45a723a69f1c8883" />
+		<rom name="expedition0.5\res\bigDenzi\img\boxIcon.png" size="384" crc="5175cadb" md5="45cdd6c7fb841e897e1a597c189b2472" sha1="bd25cc79ab93c8cc95bd120383eb8034336be4c4" />
+		<rom name="expedition0.5\res\bigDenzi\img\brownbg.png" size="4044" crc="13810c64" md5="e56b1ee6ce658afb31b8700f161984b2" sha1="425ead58bc067c616568129b9f73e4aa9bd18b0e" />
+		<rom name="expedition0.5\res\bigDenzi\img\DenziTileset.png" size="77161" crc="fc3dff7f" md5="99acc7dd8ec4d4e7ee95ae5d1d088927" sha1="96ee62aa5e649883453eae1514d2f203045f97a9" />
+		<rom name="expedition0.5\res\bigDenzi\img\DenziTileset32.png" size="63032" crc="0e8a8bec" md5="50d730aacc98b42f05e15163977cb310" sha1="207c6ced5e3e5429ff66fa21ce9fbb21a85493ed" />
+		<rom name="expedition0.5\res\bigDenzi\img\DenziTileset_fog.png" size="85165" crc="0f75867f" md5="b7e6a21e76ea17a79708648d4441e165" sha1="94f422e28014341a8550dae6ccbb14f401d4d5ee" />
+		<rom name="expedition0.5\res\bigDenzi\img\DenziUI.png" size="20670" crc="020da4ee" md5="7f83320dfc6e532f84c2fea299b32eaa" sha1="bcca3dccebda8bf55e3fd0a15c376b4a6f9c6c74" />
+		<rom name="expedition0.5\res\bigDenzi\img\expedition_icon.gif" size="1032" crc="38fe52a0" md5="a395f3d01b37ddc5576018b8486acb02" sha1="143e20e92baf47d7cc5687a3800d27fa88302b5f" />
+		<rom name="expedition0.5\res\bigDenzi\img\grass-battle.png" size="29184" crc="c5e26833" md5="e2a5639273034b1a0b024b444843b5d2" sha1="763e2f600f27c3e627e516f8a8152ab0b356d912" />
+		<rom name="expedition0.5\res\bigDenzi\img\theNewWorld.png" size="96763" crc="deb95046" md5="c05b68a3278ad6251e7a902b4399ad08" sha1="4d1fe4934e949e88f49758955851eb0cb3e59a22" />
+		<rom name="expedition0.5\res\bigDenzi\img\theNewWorldIntro.png" size="177883" crc="6b1b3076" md5="74f2e5d86c7059aa2bfa0a8ddcd69ed1" sha1="f7f58461bb4b321d962c0bf352df3670b4a2ecdb" />
+		<rom name="expedition0.5\res\bigDenzi\img\title.png" size="34003" crc="3ea0c61a" md5="020f528d3a4e3918bc635f6ec125fc68" sha1="bea8ec632c815bf84fe5ae5e23fea78109af5def" />
+		<rom name="expedition0.5\res\bigDenzi\Rom_Ftl_Srif_Std_Juan_Casco.TTF" size="29956" crc="48ffd3a9" md5="495781f1e1b852ac1b945d64cb170df8" sha1="6242afe5b5563189d5a7f865bd1e566d177db329" />
+		<rom name="expedition0.5\res\bigDenzi\uiAssets.xml" size="6273" crc="04ff5677" md5="acc698bd6bfc569c67673c9e1b04867f" sha1="ea2622ffec74b8a1d8539f3d611a0b7b8344906c" />
+		<rom name="expedition0.5\res\denzi\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\res\denzi\appearances.xml" size="16198" crc="55a164b5" md5="c9598f10a034821e5bb4f5c722fd8791" sha1="c49b65d250254d5f59cc5b5fb868a4454dd54780" />
+		<rom name="expedition0.5\res\denzi\expedition-denzi.ui" size="1995" crc="39363f94" md5="8bfeea904729b4a9cf6ccbd1f6d610c4" sha1="da3a48f4e7873eddc1d28d32a8120002d3660939" />
+		<rom name="expedition0.5\res\denzi\img\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\res\denzi\img\blank.png" size="4038" crc="65beee5d" md5="c509cea6c29b89204aa8334d28b72e1e" sha1="42cbba0a4bc6bfe4b257ad7c3973a8e765a388c6" />
+		<rom name="expedition0.5\res\denzi\img\blank2.png" size="7545" crc="b4ba1a27" md5="fe05b68eddbe35137fd915d566e7310e" sha1="b9427d71f5f05942f1c0e34a45a723a69f1c8883" />
+		<rom name="expedition0.5\res\denzi\img\boxIcon.png" size="384" crc="5175cadb" md5="45cdd6c7fb841e897e1a597c189b2472" sha1="bd25cc79ab93c8cc95bd120383eb8034336be4c4" />
+		<rom name="expedition0.5\res\denzi\img\brownbg.png" size="4044" crc="13810c64" md5="e56b1ee6ce658afb31b8700f161984b2" sha1="425ead58bc067c616568129b9f73e4aa9bd18b0e" />
+		<rom name="expedition0.5\res\denzi\img\DenziTileset.png" size="62975" crc="45009182" md5="810c027bf72b26e92bad58a6626e6728" sha1="4333245249a2b7bf3f699cc38f600bd78d9aa488" />
+		<rom name="expedition0.5\res\denzi\img\DenziTileset_fog.png" size="65761" crc="cd818804" md5="0b8e1d34debc47fd389c46b0a313a551" sha1="41617f9530318d5430a6c39bdf6c325c8faaf7af" />
+		<rom name="expedition0.5\res\denzi\img\DenziUI.png" size="20572" crc="9245f130" md5="aeae4c0f18d346d0f6129a3566662d50" sha1="6aff510e3a288f0a19e8d1c8265cdc048bf5027e" />
+		<rom name="expedition0.5\res\denzi\img\expedition_icon.gif" size="1032" crc="38fe52a0" md5="a395f3d01b37ddc5576018b8486acb02" sha1="143e20e92baf47d7cc5687a3800d27fa88302b5f" />
+		<rom name="expedition0.5\res\denzi\img\grass-battle.png" size="29184" crc="c5e26833" md5="e2a5639273034b1a0b024b444843b5d2" sha1="763e2f600f27c3e627e516f8a8152ab0b356d912" />
+		<rom name="expedition0.5\res\denzi\img\theNewWorld.png" size="96763" crc="deb95046" md5="c05b68a3278ad6251e7a902b4399ad08" sha1="4d1fe4934e949e88f49758955851eb0cb3e59a22" />
+		<rom name="expedition0.5\res\denzi\img\theNewWorldIntro.png" size="177883" crc="6b1b3076" md5="74f2e5d86c7059aa2bfa0a8ddcd69ed1" sha1="f7f58461bb4b321d962c0bf352df3670b4a2ecdb" />
+		<rom name="expedition0.5\res\denzi\img\title.png" size="34003" crc="3ea0c61a" md5="020f528d3a4e3918bc635f6ec125fc68" sha1="bea8ec632c815bf84fe5ae5e23fea78109af5def" />
+		<rom name="expedition0.5\res\denzi\Rom_Ftl_Srif_Std_Juan_Casco.TTF" size="29956" crc="48ffd3a9" md5="495781f1e1b852ac1b945d64cb170df8" sha1="6242afe5b5563189d5a7f865bd1e566d177db329" />
+		<rom name="expedition0.5\res\denzi\uiAssets.xml" size="6273" crc="44bd54a7" md5="4f487418aa3945e35a6559e01b378087" sha1="b2ef9558ccf2fa6f45709c1d5bbe4353b46e9311" />
+		<rom name="expedition0.5\res\expedition_icon.ico" size="766" crc="e9d428d6" md5="998458f3ca5f44476cee4eada56058b5" sha1="a6276db79cd189e5366defb00429036e130dcfbe" />
+		<rom name="expedition0.5\res\logo.png" size="4955" crc="667d22b4" md5="f45f741a4da03e736424c63f8415c46f" sha1="5c6da57e5694ec612b04489a76d65c8180f10c0b" />
+		<rom name="expedition0.5\res\oryx\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\res\oryx\appearances.xml" size="17842" crc="be99a37f" md5="537336da59e724681671b22e5af6288f" sha1="847e77793bdf2ce94d25544761829748f7b86b84" />
+		<rom name="expedition0.5\res\oryx\expedition-oryx.ui" size="1992" crc="8b8ef4f1" md5="76779370e4dfdba80d305fd4b52f2784" sha1="15afeafddd77081fc2603e996eb7e4bb57136b11" />
+		<rom name="expedition0.5\res\oryx\img\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\res\oryx\img\blank.png" size="2384" crc="b82a7986" md5="980fb62d44ac1372abcbb94bf36019c0" sha1="3ac06d007f40f73e96ef2be836eb9275980c759a" />
+		<rom name="expedition0.5\res\oryx\img\blank2.png" size="5503" crc="c291866d" md5="3926428b3622399f2f39b545908762b1" sha1="2d055c02e59bd8c86ec6259e9bbf4254c9d71646" />
+		<rom name="expedition0.5\res\oryx\img\boxIcon.png" size="380" crc="53ddce7e" md5="597a8455b7c7ce99bedd0c7e77c74069" sha1="19155268c878d20776771268a53dd71edafbf125" />
+		<rom name="expedition0.5\res\oryx\img\brownbg.png" size="2789" crc="c8748fe5" md5="98f262c3cb9b7c3334b0717c76e1b9a8" sha1="6bfe132c946b3aa17e66f8344214cafd9f1e9f87" />
+		<rom name="expedition0.5\res\oryx\img\expedition.png" size="11495" crc="94419e93" md5="f38c4f7f5e0e5e2d1c575e5f3bba7b05" sha1="5584d9a3ff825d051542b66f301054bca19f6a9c" />
+		<rom name="expedition0.5\res\oryx\img\expedition_d.png" size="17099" crc="a1acf4f7" md5="79636d3d1153471c6903d641ec06de02" sha1="f244a7498414157dd29ca1260888c84d398e6c35" />
+		<rom name="expedition0.5\res\oryx\img\expedition_fog.png" size="11539" crc="52a73b0a" md5="fcdf3e9d245a442d74383fea606834e6" sha1="5fb38f6858f663547033e93360a42cc02a5cdfd9" />
+		<rom name="expedition0.5\res\oryx\img\expedition_icon.gif" size="1028" crc="0603095b" md5="9737970abba2b6759476cac56988b55a" sha1="1cecc17e448978ebe30ca43dda0c3c934e876528" />
+		<rom name="expedition0.5\res\oryx\img\grass-battle.png" size="2652" crc="f147d9d1" md5="3720c107cf7dc93f2878101872002882" sha1="5862dd7af7fe2fe278248317dd62f9278a2f498f" />
+		<rom name="expedition0.5\res\oryx\img\smallButton.png" size="361" crc="ad996c74" md5="245974b32b366c0cc38913830645e244" sha1="f4e6116a9cc61b9877ec0d57534597ae3ef4dad8" />
+		<rom name="expedition0.5\res\oryx\img\theNewWorld.png" size="82720" crc="3fa17433" md5="70f4285b98c9f9ffe7a51a22acb58754" sha1="6aaf99dca6491e3ad4cbd9b678fc0ed68b74c3de" />
+		<rom name="expedition0.5\res\oryx\img\theNewWorldIntro.png" size="178681" crc="d904fde2" md5="a0d46ed336ecf971d8bb49b027970c3f" sha1="2ebeb25cc21889daafc4b7c674c6b926caf27089" />
+		<rom name="expedition0.5\res\oryx\img\title.png" size="17247" crc="85763428" md5="67e2ef999cef98024107e90418222552" sha1="aa76874f0333cc2108d649d6426bfaefa0d1c859" />
+		<rom name="expedition0.5\res\oryx\img\transparent.png" size="2889" crc="a805eba9" md5="f1f669a1ed6b45cbe2ed6777e133bdab" sha1="8e9a2a34877cbc5e609f2c491af904c142e0b333" />
+		<rom name="expedition0.5\res\oryx\img\ui.png" size="7003" crc="6cb28c8c" md5="eb61ed480ab14b5f4f35c8a924cc581a" sha1="f91a309f4a2274b3b4e9b8d91a8d5a601b684f26" />
+		<rom name="expedition0.5\res\oryx\REDENSEK.TTF" size="34980" crc="fcbdfd35" md5="94ae56a5533c93ce892b9121684445ff" sha1="951efd2c365d79c873c58ff00eca10430ad967fa" />
+		<rom name="expedition0.5\res\oryx\redensek.zip" size="54814" crc="417d1657" md5="718a595d876be0fcef5a88d5716d1af5" sha1="99b22c9009be89e58b18157e68e8443f763c32db" />
+		<rom name="expedition0.5\res\oryx\uiAssets.xml" size="6210" crc="9921ac3a" md5="6f83d56eb8ab01128bdb73e742ec6142" sha1="1ac4694e3927e8aca812fc2b8d0eadf6dd739377" />
+		<rom name="expedition0.5\savegame\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\scenarios\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\scenarios\theNewWorld\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\scenarios\theNewWorld\cellDefinitions.xml" size="5262" crc="ce00e7aa" md5="26d2bd57eed45d6042434ed5260fc3e7" sha1="d50a1e8d2bebc664ef66056620cc4f5f6e4988a1" />
+		<rom name="expedition0.5\scenarios\theNewWorld\culture.properties" size="8646" crc="45079017" md5="cc99aef64e65774c58fbe5d242333925" sha1="7997cde1b94addac6a979113d597f64d77a4c68d" />
+		<rom name="expedition0.5\scenarios\theNewWorld\scenario.xml" size="409" crc="6a1df61f" md5="188a897ae0b18d785a73376bde3aa3a1" sha1="4e800fa36b8f4dcf6ef14e78fa65a76093d1dbb2" />
+		<rom name="expedition0.5\scenarios\theNewWorld\settlements.xml" size="5970" crc="ba05cc13" md5="ea27fea23c382ebaee631d6368c0cc02" sha1="a4c2a81d420dcf202679ff075c8e07aea97da69d" />
+		<rom name="expedition0.5\scenarios\theNewWorld\world.txt" size="10030000" crc="c4ab6251" md5="b4357e0343a854adeb85fc85e5a58716" sha1="825b7eee3a9d2aacc9f71362c9abdf24a42f0981" />
+		<rom name="expedition0.5\wav\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="expedition0.5\wav\shaktool_yowzer_footstep_1.wav" size="13684" crc="f74f640e" md5="567b3dfb2310f99654246b94243094c6" sha1="020a10d0212c7b1dce545cb8df41e262a166ad7e" />
+		<rom name="expedition0.5\wav\shaktool_yowzer_footstep_2.wav" size="13540" crc="1bf06822" md5="13ca4e6536d740603d26685ac70f1902" sha1="c8ecabc0f45268aa01051d1117faeeee641ea935" />
+	</machine>
+	<machine name="Fist Of The Rogue Warrior">
+		<description>Fist Of The Rogue Warrior</description>
+		<rom name="debug.py" size="172" crc="b0a47087" md5="899924a433822b36f21707186818659b" sha1="5d33d1d60325c33ba9383e8e24061b73aa18c405" />
+		<rom name="DisplaySingleton.py" size="7717" crc="ae417082" md5="4d6d27a694ab829de39b8bf485db77b4" sha1="fd75283a8a0b1d4dafc383289a412616a8f7bedc" />
+		<rom name="EventHandler.py" size="1324" crc="edb58137" md5="8cfc8ff2c94979dd3d825d73d76f0eb3" sha1="45fc28fd111ff532341170541d7f8de211e81346" />
+		<rom name="fotrw.py" size="2731" crc="8c0179e0" md5="a766b2a3adb7d3af1ed93585fb0a270b" sha1="3b14d65c08b4daf3f768ad1295d129951efcb2f7" />
+		<rom name="GameObjects.py" size="22048" crc="75b561d5" md5="8ebe8938f10ae1ae92a06110c5682029" sha1="acf1697c6a3c493798a0a9f385c579b8f18cf790" />
+		<rom name="Grid.py" size="4704" crc="3c13e330" md5="919b2eca9f7379930c38d7cb475efd65" sha1="e3c9ea0522622fbe468e8271ab151aa6d108c73a" />
+		<rom name="map1.txt" size="1781" crc="6a21ea77" md5="fcaf2f0e11b3c6ea07ee66f2ea0a5362" sha1="3dc4356d6285e71da20b016dd2420b0fdc0bc826" />
+		<rom name="Status.py" size="5334" crc="5f53c3e0" md5="66d68113b885537fcb4bb1b63d6e2d23" sha1="85c43c383c51c731a03178f7613b69a5d8b95b02" />
+	</machine>
+	<machine name="Fortress Of The Goblin King">
+		<description>Fortress Of The Goblin King</description>
+		<rom name="fotgk-src.zip" size="58923" crc="e207b2b0" md5="425826e7cb77e6bb588647358bd5ba83" sha1="b34a4383f8b20baf72cdc8b01b6ae62cfa7fcfa5" />
+		<rom name="fotgk.jar" size="1216319" crc="0c795d43" md5="7551e43a215e7f1807599ff8e3fcd1b6" sha1="58e3f41ce9351aa9237895bee481f903fb6bdaca" />
+	</machine>
+	<machine name="Fruits of the forest">
+		<description>Fruits of the forest</description>
+		<rom name="Fruits of the forest.jar" size="87588" crc="9c45a08c" md5="9c81e1d81cdfc78b4e26100e7895024b" sha1="f9c5a6af1d01efca78e8c7150442802fb1225962" />
+	</machine>
+	<machine name="jacob's matrix004">
+		<description>jacob's matrix004</description>
+		<rom name="jacob004\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\jacob.cfg" size="155" crc="88fd01a3" md5="6183a49481075111e19ba9fb7c575403" sha1="7c70ff3093a8989959eb1ba2b7c80aeca3b0dd20" />
+		<rom name="jacob004\linux\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\jacob.sh" size="123" crc="f4c277b0" md5="250b907c41a43c02b8a93d7c18f5c548" sha1="f2ef1c94e0907f7184697bd99253e5f4d9121a72" />
+		<rom name="jacob004\linux\jacob_bin" size="264280" crc="730826ef" md5="8c064f24913265881e511b5883a93b80" sha1="2f8c03d766ddb712a9586e4af135c1f0e59fded6" />
+		<rom name="jacob004\linux\lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\circle.png" size="322" crc="f727f9dc" md5="534d4de9b06e3f3853ad7b2b2fecc715" sha1="858c2792531b7a7e54fd2d7e540dc1e6cf663167" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_data.html" size="3569" crc="fb1f1d9c" md5="39664d1a6da3a601bfc930131f240adf" sha1="772f40aa1c19d52e1bd1bd45d6353120ef3b7bbb" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_delete.html" size="2393" crc="51cdfac8" md5="4e42e9179bcfe6ecfee06aab88b301ba" sha1="3610f8d562343f82e5f23aef60c10c5b669bdea9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_init.html" size="1301" crc="306773bd" md5="b981d39b242187c025ceb209da12dabb" sha1="a3c17f041cc6ce1ff4a04206566fc6965f531fd8" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_inorder.png" size="1813" crc="919feb1b" md5="550caf68b97716d7b1a5c99f4a2da5b4" sha1="5738fdbc1f477df77dbc3efbf5b1965dbdc9be54" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_invlevelorder.png" size="1741" crc="8d42ff69" md5="c32745f65f433f42498eba226635788c" sha1="7eb733ef6172104333b09bb53c67e8bbc56ea67e" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_levelorder.png" size="1770" crc="49235a32" md5="6ee4adb83464b7241fd9d5c9529c562b" sha1="c0ebda83daa84149bbf9e6b2ae1bd8dc33f44071" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_postorder.png" size="1745" crc="e78f79e2" md5="078c7c0e06e9f45946b45445a8510766" sha1="6303186767c23c4f22d08bb2dd13f0d49506db23" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_preorder.png" size="1732" crc="9ddaaecd" md5="5260ce402c4f4a0ca99aa2746cc5b75c" sha1="6214cc3886aa53a5b98a21343a17bbf574ebf1b8" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_resize.html" size="2549" crc="7c225f0b" md5="3873e4dfb2063662e366138428be06c0" sha1="d584a3f9d7ef96ad3bcf8f2bed9812d07ac0b1f4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_split.html" size="3563" crc="270b47bc" md5="5b96a9b1e8c20e2eabb9df1ae3194460" sha1="de337d5a963395c7e61ae9b92c9c853a706f5185" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\bsp_traverse.html" size="4106" crc="b2580c9b" md5="229eb102d759aa2bf2ebc4cb241ac44c" sha1="a4cb2486615ef08952b8e1a8d870816154a89991" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\bsp\index.html" size="1306" crc="e930d9cd" md5="18bdbdb95e86fb197852171809f9759f" sha1="bb7087d0ef1557d120760dba32ccf5a93245c070" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\color\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\color\index.html" size="14544" crc="452b844c" md5="abc663de16baf59894749bec85139d55" sha1="25e56076e984329d7bb55d528a076c991a9bcd8d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\compil\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\compil\index.html" size="954" crc="1769b198" md5="25a00a6427e117b84eb99283d7f6d800" sha1="a16ff9d2df54630b1be3494959ae82302d11eef2" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\compil\linux.html" size="4165" crc="f967a8ea" md5="9dc084c9d4a13489219db4b40724c471" sha1="08d2bf70f748ebccdce15417ea2579b5072b5fb3" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\compil\msys_mingw.html" size="4251" crc="f24c49f3" md5="3e28e6fc1da6d21fafc31f07afa8daca" sha1="250250cb0af258887ed92d89478679ea1d6e6172" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\ascii_constants.html" size="2167" crc="ef36bf00" md5="339c48c229f016b7c168eb9704b845b2" sha1="4cafa3c7c7e32d7c6151588f3f776a756e6e15a2" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\bkgnd_flag.html" size="2592" crc="ed9e3b12" md5="f2901ecb42bb6e1f412a21387316c0c0" sha1="23f26fd15f76aa9196afc69aa691eff85cc3b7e5" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_blit.html" size="4449" crc="fc9d9dab" md5="9eefe198cf7c4804dc08f11e8cc9103f" sha1="12d2b1795ff0ddb81ca7ef89892829c84c3f2e63" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_check_for_keypress.html" size="2461" crc="9e863d47" md5="ff285449e1f3211e136a655b7ee8e2a7" sha1="a292b288a3f5ae03c6115c8c356cc8c333575d45" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_clear.html" size="1264" crc="a7102f63" md5="b6d7a4e7c6f9c66f61452c2acedb6983" sha1="d30c7b3266bf4bf3d63b1a9e7a2de84fd9fad158" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_color_control.html" size="3675" crc="c564996f" md5="a412b46ce02254faf8c53c4b75e2a4d4" sha1="3a3ba2f24fca488fa477bd1cf1854a5850731fce" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_console.html" size="2103" crc="608700eb" md5="623c88ecc6b351603292c5a0c32ed89c" sha1="5f1fe9e74ad630d414b40c5aa7a4fb2586402dc4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_credits.html" size="3050" crc="eb466628" md5="43232bb1bf509b4bc66a6a1f7a7fcab9" sha1="be0de931aa2b71254f66ac712d49838947b9a4bb" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_delete.html" size="1442" crc="69e2dcd4" md5="53830f771258bacdee2cce4e59c0690a" sha1="f41578a17c05c418d00ecd63397698d29bdfe468" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_drawing.html" size="3544" crc="e030e008" md5="4a4febb063f008e4f9321a78f6c3de12" sha1="ee2a137bf42d87fc20696233bb0b207a058425bc" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_flush.html" size="1120" crc="1d9ba631" md5="60f8aadd2a83f17e9e9ceaaa355ab255" sha1="33d9e1560c72645599e97583206dba2b07f48fb0" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_get_back.html" size="1276" crc="1caf3d30" md5="feccfe83fe5c0f35186fb2d79872a274" sha1="3561a67572c95ad6c6fd45a954a8dca1e3670fd7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_get_background_color.html" size="1129" crc="aa0c0c1c" md5="6ea478646f868b6cdd35916b447d252e" sha1="e2476ddcdc5942db4df56f7117870d846e1a6d0e" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_get_char.html" size="1249" crc="ad209f02" md5="9203fc5443ebaa965aed2df4f15999aa" sha1="b4cfff25ac0f7ae366e8d1a43ff382be3e6c2551" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_get_fade.html" size="1084" crc="89f2de02" md5="1216fe374e6dc6a80136d63e29b15ab4" sha1="9fb00630163095d3384ec07ff5794a5d2f46bd46" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_get_fading_color.html" size="1153" crc="7a834927" md5="497f1c55cd0e15ea2080f9574ae14514" sha1="d2ee59407dfeac889965765f14f4a803f06f0d5c" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_get_fore.html" size="1276" crc="a6d68e37" md5="3f0b0dd41419e2ced979f01776370357" sha1="8b6ed92d4f0ded9c0bfe192339d7f3d91ffeeb23" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_get_foreground_color.html" size="1129" crc="0375f599" md5="dd1e4e857873d02298714e9dd67934f4" sha1="d9cfb7abcc75516c70d232bc7c9579012184667f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_hline.html" size="1468" crc="e0d93da7" md5="fd1906d9ff22f474757dfa61d3510db4" sha1="89e27b900059280bc2aa69b8efd41bf4c0489e59" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_init.html" size="1304" crc="2d93a213" md5="a0d474dbd1948779c1c89797b71a9229" sha1="e11c413941da7f017182318249b14eb9d138432c" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_init_root.html" size="2220" crc="944fb06b" md5="57da2543223f5bd35b4d529cee6bd3a8" sha1="3a937c600c71ae34cdefce1c8c596f6afa9b1733" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_is_fullscreen.html" size="961" crc="0d2bee99" md5="0c2a755b40e28f9bf49c2201fde5d643" sha1="686901a602b0c653750640d9c216ce8681edb215" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_is_window_closed.html" size="1019" crc="4ed3e14f" md5="55fd34bb1a891df2e8d0d955864c3981" sha1="de0bf3f22d1400fc52c875c9b5941988dd4632d4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_keyboard.html" size="1247" crc="25b7c100" md5="68a23781911353b6a9430562661088cb" sha1="166f081078bbfdc2a0ebd1af715a056022b0b264" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_map.html" size="3312" crc="ddf9b7f2" md5="1ed43358a666fe3ed53633dfd5fbf16a" sha1="110dadee3fcbba34d0032750a4528cd4fe27d26d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_offscreen.html" size="1176" crc="ad4d7f06" md5="8c8446da799177f145474cc4f0cfb3fd" sha1="7a1e800a1248fa2fb4667d3d2184923d205a1642" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_print_center.html" size="1817" crc="5ae7a9ce" md5="7b7ab4fec1af6a6bc8657c9bcc16bfd6" sha1="f6a0266deb2d51b9e3c52c5f8e63483858710c8b" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_print_center_rect.html" size="2306" crc="a9c70514" md5="5a7e83798e7243c94602b6ffa96932eb" sha1="b8e258b9c7ce83c2c9a26bde255b9c02262ffebf" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_print_frame.html" size="2146" crc="995fba16" md5="d29db9561074edbb796b281a1aa8a0b9" sha1="764fb48ee3e88ea4029c4c48558e332cb79b5656" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_print_left.html" size="1829" crc="fe115f19" md5="d91287cda3ef723047c20a1e5a7340e2" sha1="de884b8db913f18bea3cef377a4603404323958f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_print_left_rect.html" size="2310" crc="219928a7" md5="a338ff719a1b6e370fd57eb4df2ee5d5" sha1="3dfbfd321be7c9ba9a2e8c5935f69384b8dcea91" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_print_right.html" size="1831" crc="cfa3da66" md5="33cb70bf4698e401c51695737996c0f8" sha1="4a561041f73ac475bbc4cd833f9caf8e807c9a47" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_print_right_rect.html" size="2313" crc="dc337bc2" md5="5bd60f98f370b712c6555be2db03ca04" sha1="dbc6a94a646c47940e833506f380d9d893eeabc1" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_put_char.html" size="1882" crc="3087160e" md5="00cc2a926a4f4391ccb1589726a7eb03" sha1="59d60718ec367643200b2aae771c8c06e1f14007" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_rect.html" size="2005" crc="b3b623fd" md5="6c0ca66f7fbb5cf0bd302d1cc4b549e0" sha1="b64fa9370106ffc6ad039ee9d81b114768328306" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_back.html" size="1698" crc="3b89de29" md5="14a69e46c5016c8d24e4169053cc5a85" sha1="9ea465e57ddce169dba0656714c67a8de8eb27c9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_background_color.html" size="1603" crc="8b80eef9" md5="cb9e323af1a14a693d3d387b2078249d" sha1="7cf1568267b9949244ddf95840b0ba49cb950ee0" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_bitmap_font_size.html" size="4149" crc="0600f67e" md5="416bdfe13ed45da7e74540b233226394" sha1="2028a05661f790a1482f21eed0f0b7c22f9c2673" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_char.html" size="1665" crc="3ce9e9d8" md5="e4f777ab360113401bc433093b3bfd20" sha1="ff1514d4d2d848af53a96f4dc3d4ec62cfe3e7ff" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_color_control.html" size="2172" crc="658951f2" md5="9924da093f13c6700c4960fc37116d03" sha1="b5bf30582a89dee41d3d90eb59aa6a562778faa9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_fade.html" size="1858" crc="3f683c39" md5="4f57238a8c895fc3fb325f7c5241df1d" sha1="47e8a6bb0cfaa074ee4b1e7801f4272063aa1816" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_fore.html" size="1489" crc="85622839" md5="5ef6d6cd1ae30927a4b17d3628f84e9a" sha1="a454d37b22931f5b600f863774a8a963d3a57a28" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_foreground_color.html" size="1603" crc="d0f0f42f" md5="158cd7ea31565abc5e06a40dea2ff2ae" sha1="ad3456b6a746a7f42c92728bbb7c5c0f74d95e74" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_fullscreen.html" size="1688" crc="3c2a9e2e" md5="ea53647206df1c90aa96ce6a361270c0" sha1="29d7067a3c7b1394ba20a9d50991754cc021546a" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_keyboard_repeat.html" size="1569" crc="551e1ca2" md5="1e446e431641dac599206aab4e78aee3" sha1="12ebb6ee8fbe92eb318f55e04857e3f4ff12a6c8" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_set_window_title.html" size="1141" crc="e17825a3" md5="f83cc90412ab20e27ddceac4d6d61ed7" sha1="f22617c8fd0d150fcae78865daedca1cfc7072ed" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_vline.html" size="1466" crc="ae477888" md5="1b5cb882f9cdb3c3a2220af74899b50f" sha1="72f9552839d34abc1ab4f1edbe20e80f58e2b754" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\console_wait_for_keypress.html" size="1834" crc="079f74a3" md5="624e1d0172a2b7ccc5025784d0ef9abc" sha1="9c1bbf9e9fcc52e0ddf3488830fbaf7200549d14" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\index.html" size="1861" crc="b15888bc" md5="978be989bbf70af6307812f2bb8db818" sha1="a784c742c81938dc286738f92a60c0fb6f48498f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\key_t.html" size="2215" crc="7404083c" md5="fd7c56ccec754586a5ab261f85b1cf30" sha1="bd05bf52128419df340834587f745ef6ea125a8d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\keycode_t.html" size="1978" crc="6b71f376" md5="5c9a2ce8391523190581975ae85001c3" sha1="4067c0bfea296cb1a40e6b28cd47569ad2297040" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\terminal.png" size="3199" crc="56e943d6" md5="c9875fe0194ba2dcb3670f266ff553ae" sha1="0c6865750bd8038de3cf7a6ac089d75f24ea3dc7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\terminal8x8_aa_as.png" size="3762" crc="ee005174" md5="e5b693419ec923c75723c37f413468d0" sha1="06bb1e194fb0bc2ce627fa90aac8b8a4b6e57785" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\terminal8x8_gs_as.png" size="3503" crc="e09cdc87" md5="ea2ab801ce1975f38a47df308123fd17" sha1="10274b65b5f7b8940f19c744d0b25f8ce318fd09" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\terminal8x8_gs_ro.png" size="3696" crc="540f5393" md5="d8bd74ed62d982413d029244c35aad29" sha1="d112ab49afa3446efac83d76f2374f06ab738577" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\console\terminal8x8_gs_tc.png" size="1937" crc="3dd4b5db" md5="54a1aa3e47fa93567097047a61b53f7f" sha1="90ca2670dde8d1fdb1690a74c01ba1f7c409985c" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\fov\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\fov\fov_compute.html" size="1976" crc="62bfb02e" md5="9fe423edc17f0c5a4ffc0e60ef887aee" sha1="9f7420a6bbdac8816ddba707fc54f3e865b1e308" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\fov\fov_delete.html" size="1629" crc="64c0a85e" md5="e6515a0d06f65cce4241d4a7d89d22f0" sha1="2d6b7054e11fbc6d6016f8ea13acd131cfeee6fc" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\fov\fov_get.html" size="2497" crc="18da5550" md5="82b17df20cb780745f9fe4e057142388" sha1="736284c74ef31b09483f9b5057f7a849dd817263" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\fov\fov_init.html" size="2705" crc="ab0f9088" md5="21b7e2026487a92386826088d79e99ac" sha1="61d08b2ecfd26a63630e67a514201eac05775af7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\fov\index.html" size="1163" crc="426e9e0e" md5="ce9c523e91a6697caa72288e0ed6c3e2" sha1="0effde21993e224be2e005896e20494a9cca6fbc" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\heightmap\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\heightmap\heightmap_base.html" size="7755" crc="9cd3989e" md5="977652ff1e637f252fed0aa29f281071" sha1="971afbdab2f2d601639274fcfb026b402ca0fbc6" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\heightmap\heightmap_delete.html" size="1147" crc="95127921" md5="9a162e2a0a519e4ca108c70d3dcd6199" sha1="a7892b6b20a5381dfb4dc424c2a990020c0e376a" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\heightmap\heightmap_init.html" size="1636" crc="32d70885" md5="3e6ee9a2061e02372ddaa306514df6ab" sha1="a5f60c2c509503e49b3545895e7e28819e64fa60" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\heightmap\heightmap_modify.html" size="9756" crc="9b455b43" md5="9b4c452d8f1ea68af2f0f72d853c8e6f" sha1="ee6b5558531bb36ecaaf7dcfd3969edbf063d2cb" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\heightmap\heightmap_read.html" size="6274" crc="5dcd6fda" md5="53ae6549beb835d2fdb76a14d114e720" sha1="c7c56b4d1f0dfa9ce2e3ffc5de525814b50bf6be" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\heightmap\index.html" size="1210" crc="36c999fc" md5="73f5965b78c8f58c23872211f2c2064f" sha1="cd9e334a4a618b93e142bbe153250eef847f9f7d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_blit.html" size="3927" crc="abd683d9" md5="09b6b07b12a286150fb87e681bf7392b" sha1="b79132bc339a18e08d9f254602bb3a9fffb41935" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_delete.html" size="1249" crc="905858d7" md5="7f758888343ad31b975b529106f34450" sha1="9917253a89bedb3ef0bb480336f61d23033f2eb5" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_from_console.html" size="2595" crc="6d711abc" md5="3397561899571599e45c4833877fb900" sha1="e2601f80a46e38f44d3973b4e867a6df9956b1cf" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_get_mipmap_pixel.html" size="2033" crc="f13eecc5" md5="eca74a61affeee302118bda6699bcf40" sha1="520c4088c756e6f5b1b94bb0541ba14d5eee98b9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_get_pixel.html" size="1429" crc="cb2f295a" md5="47a4bc5a3ea4c888caefeee2cebc1463" sha1="f9af0c0f6f943c76bb7027533b33f502bc9d47a4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_get_size.html" size="1436" crc="dc1c1b2e" md5="15dc399eb16a3cdc3957e5303e032852" sha1="fa0f6a24680153d5e934b6cd6fdf4542d4c258bf" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_load.html" size="1208" crc="83ed4f0d" md5="a97ee554e08b9aef066ade38a9324265" sha1="999d450c53e1585b60b340cc15c6960d070c0de9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_new.html" size="1209" crc="36158418" md5="06a945f8a38803cd8b3caa765dfa13f8" sha1="6947c91d78eedc37496819b9c6ff092f2e37c580" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_put_pixel.html" size="1510" crc="ec99265d" md5="c786be6592083c0e19ca65cbd35c28c7" sha1="6bb96f19d0b7d4fa207f25161009277efda798a9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\image_save.html" size="1349" crc="9a0fe41f" md5="e3df248e148613a1413d9b90411b2379" sha1="bf9884ec77694c9cc4191c0b05e89e1bf4fe5be8" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\image\index.html" size="1503" crc="a56fd5ce" md5="beebac154eca8f7a24aecf5bbfb69108" sha1="122a8fb2314c2d5e467d791dcb43de363e9b169b" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\index.html" size="2626" crc="f294975d" md5="8b5dc48e8730390c8179bed121a29ea3" sha1="911d0878f02d521ad4cf33a29a7bf2bd92813243" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\line\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\line\index.html" size="2171" crc="081ef854" md5="0cc3a223fd3fee523782f554ad22fadb" sha1="b33e979df2bdb9c44afd4104e53a7a65e93e367f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\list\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\list\index.html" size="1173" crc="9e27a88d" md5="e0cd47626ff8a3f192f00c001ff5c3de" sha1="ded3978ef3ed0e2678c587b777937cf308df2bc0" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\list\list_array.html" size="5206" crc="68d1fb7e" md5="dbd27023d3da2f8d8021736823d456fa" sha1="bce798900533dddca129bdcd54945f4732776cc6" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\list\list_delete.html" size="1667" crc="080b8e51" md5="86c5d79aa83d037d2c1c0ac1deb5fe69" sha1="c89f17ff24319381f7ca745f0224a78ef2ae9c79" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\list\list_init.html" size="2704" crc="d6d8efb1" md5="e162bd90920f7004e000e868f67ce60e" sha1="29b81fc2e11020f8f953fd176e8289a4b163496c" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\list\list_iterator.html" size="4437" crc="e6e17a20" md5="3e03f30e01f402b6fe823f5252fea789" sha1="a1aa16d7a7e7c20db3846e9efc5fd080d0b07b17" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\list\list_list.html" size="5819" crc="d7b0779b" md5="11d96a02cce56acedf19bf397339b7c9" sha1="dbe367732b00fefe3028ce395d3b3f13f171979d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\list\list_stack.html" size="3749" crc="36330dc9" md5="be088f450d7b6214f90ee69900252284" sha1="57783b98ffc432e3725032cc3d7d8adf3c1b6009" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\mouse\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\mouse\index.html" size="3274" crc="a5c9281e" md5="d4acc7702f570be523f02bdf3bdc8b20" sha1="176ed1e41bafe4d86dd47a561d61d7adac6415e3" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\fbm_perlin.png" size="14445" crc="7b64f73d" md5="805b62c6e83098cb3e1ff717d080f2ca" sha1="5d18c5c2d2628b3ae1c4b8f3f7bbc9975669b6c5" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\fbm_simplex.png" size="18458" crc="243c661a" md5="2eb49b90e65a9859091104b125e12019" sha1="e308d6a426af3e92be45abae2aeffcb1130f30c6" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\fbm_wavelet.png" size="18349" crc="3281e4c8" md5="374bfa1b75849348e809344d5649200a" sha1="648d83b6721a994e18bf7c482dd0ccff9178fc67" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\index.html" size="2756" crc="e6969fd2" md5="dad1a659edba26d49797fe4854568093" sha1="e5dfa2e54d22bd0c1d3c28520594a44d84f78042" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\noise_delete.html" size="1551" crc="06b186d2" md5="5c7a7ecef8b7229622c8eae6ba668ff5" sha1="262973c22d4c164597572e1849aa75dd8aad5e46" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\noise_init.html" size="3205" crc="6fdc89a5" md5="faf7cf3b9a85166ea19f0e1a970d3de9" sha1="925c417213afdd4c0049876fd14898e7b29ae198" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\noise_perlin.html" size="5517" crc="e4448945" md5="59c314565e3b6111b60cbc766cb9308d" sha1="8fb184fc99be682a13f6047387b6a54844e2451f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\noise_simplex.html" size="5643" crc="cf37e189" md5="0cbc7bc27ebacce06b437562c575266d" sha1="8fa95d4ae386a4c72163d1f8fa9484d7b65f7ec8" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\noise_wavelet.html" size="5672" crc="7c957079" md5="00f36b22f92140f87037cc8810ae9e3a" sha1="0bea5c9d50140962fa3eb89404b30c2268061660" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\perlin.png" size="12673" crc="0bf4d61c" md5="b46c56567561f893b785a36e6019a0fd" sha1="6ca15101f1a018874c018c046f20bdda9876b792" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\simplex.png" size="16290" crc="7aa7a29b" md5="305a4fe1fb4ee3bbbcd1c321db99ece5" sha1="c10943b5dd57bc884b81691b1a07e60a450e3ed3" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\turbulence_perlin.png" size="11490" crc="3e1d9811" md5="ef579a16ba49f0fe3a74ed4a171139c2" sha1="940d9bc44f3d12bd7a63ef49ef13715d8c59b86f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\turbulence_simplex.png" size="12923" crc="27d5434a" md5="388e33542df5f88b5030d2cde0dc810d" sha1="2cf92dbfc253e537b18012b8f5709764684a864f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\turbulence_wavelet.png" size="12841" crc="897c0e7a" md5="b60546e99364b9848c27eaf0d763631e" sha1="b7f2b9ba3bb2b9f0fd323e8f6956750736204b8c" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\noise\wavelet.png" size="15654" crc="7eb554d0" md5="310945d7116b1d37e666561f4423f83a" sha1="943fb711d3a72a97dc416d367391cb35ef08b0e7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\parser\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\parser\index.html" size="1479" crc="0479adda" md5="144c582cdc958099d5f7bf13448dcd6b" sha1="d055a1d2e7e33402d4b4e22677b27af8825ccf8f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\parser\parser_custom.html" size="4533" crc="ca34540d" md5="a67803447af089660569c0bc9d342bf2" sha1="cd287c7e56a0798b55a6363279afcad95d3d9e1b" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\parser\parser_default.html" size="4950" crc="d0ce6978" md5="7824df3e1e6fa37a0fb1f1831a957955" sha1="688cbfb49a083f17696e66d90ff262b496f11998" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\parser\parser_format.html" size="2924" crc="b27d56fb" md5="59791d440175d0692a5d253ca82a956b" sha1="d32d6453507fdf6a3612e85b09d7a816908cfa73" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\parser\parser_run.html" size="12422" crc="b633d3c6" md5="b4398f6bce98be35af5acbeb99103db3" sha1="82be81a47825d281b40c4599e332fbd270de13fb" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\parser\parser_str.html" size="13337" crc="05486c7f" md5="34952d6a41f112e9dbb03a070015f804" sha1="67c971c7b73757c40be3d0231decfe8361550f27" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\parser\parser_types.html" size="3426" crc="4eca5935" md5="ddce2ca5488517e45b470b75bff37361" sha1="f2f35223e4134492e84b7039b49517913860587d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\path\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\path\index.html" size="1107" crc="6b6253ff" md5="9b5ba748c22dbc2d11a63b2a85579979" sha1="c9bf42ea4370eabd918c8154b11a55efc25211a9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\path\path_compute.html" size="1867" crc="5769e920" md5="a707e1e33c5383abf5b1fbb6c337e2ae" sha1="f407e393fc2afa09fa9c9dc3ad39398536bef652" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\path\path_delete.html" size="1363" crc="668c7f5b" md5="df59cabbd7d02a183f4f3b2349c751a6" sha1="ed3987955d5b4e56527b1a1834d38a8c6dc3ad5a" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\path\path_get.html" size="5083" crc="df0e0e70" md5="698412a591dd2c9773528f30e5749bbd" sha1="f696199d63f204707239fe5ccca2f8b094548a36" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\path\path_init.html" size="3833" crc="78e4cb2a" md5="d2b7f7fe58af7a55ac48c32cb917e17d" sha1="c5b0f5452f29d29ba0bfae0ca96bc27971c0aa32" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\random\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\random\index.html" size="1169" crc="f515de16" md5="467d1052ee245fd40f64f76ad4261f39" sha1="e748cbf0a38c9f86fa101b52bc7ffac40d47d568" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\random\random_array.html" size="2668" crc="b7e4aac0" md5="e0de0434c30787d8fefb038d9bfd7b6b" sha1="b19fbeb93e5ede18ee0da17ce1d529aa9a15ab13" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\random\random_delete.html" size="1579" crc="25239537" md5="4298b0e37cfcac4f62d56b7f45d1abfa" sha1="2e61a7da129ed9086da91321acd3fed6583167c4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\random\random_init.html" size="2798" crc="e141bc11" md5="8573267101ba9eeda99dc17ce82dfcc8" sha1="e4df28ea237c6a72fa997f63d71cb38f151452c0" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\random\random_use.html" size="4763" crc="a2fdddbd" md5="62a74376ac3dbfb9e8fcae1ca2a1e706" sha1="82e8604cc92478e15c61c935493b1f9068e87e42" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\system\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\system\index.html" size="991" crc="ce60dc7c" md5="b0890fda30654cd815f13b8d8a758e1d" sha1="71add81031d8b70d6e25502514226ab43486f968" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\system\system_fullscreen.html" size="2710" crc="d64c516d" md5="88ffc2c1d4ea7f5f7c60be79ae600297" sha1="e14ce419f91850630a97810177437eb85057efd7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\system\system_screenshot.html" size="1438" crc="420552e1" md5="ed2e135d59d9d9af9927543ea1f77d29" sha1="da3931626cc9b64303422c20eee8508c4303c10f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\system\system_sleep.html" size="3892" crc="99b7337c" md5="c6abdc47b082fa2413a789cc6ed5a1cc" sha1="c03ae9a81cb36507392f510a7b436d586529e5a3" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\zip\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\zip\index.html" size="1528" crc="1f9a5c3b" md5="32e7054b795ce0245775e165cc615452" sha1="cd63288169d2a1c842b1b09db7c234071dbc7395" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\zip\zip_delete.html" size="1975" crc="eab5021e" md5="094852e854dba71310e386a2a113834f" sha1="556d542373f0a147e6b1a1720f8b97a353d34899" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\zip\zip_get.html" size="3736" crc="3c42770e" md5="b6af5e3c4fbf0ad0394de7aeb6706d26" sha1="beea3a61c8dfd6983a2922ce250fa4cc26db2764" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\zip\zip_init.html" size="847" crc="b3562720" md5="643e3dfda55ac9981af5f49dd15c1743" sha1="a138e64446fe8b4f754e7e6b3ddc08cc51b8b9c6" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\zip\zip_load.html" size="1361" crc="a2cbc01a" md5="bf357dc381453b822b9ffa7ea34bf6ec" sha1="367e30bf5bfe4618d27644014268caa9acf7c9c5" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\zip\zip_put.html" size="3116" crc="cd62fa4e" md5="25bd081a04c041bd6c69738d6929a317" sha1="92cfd11c10dbe5f2876143f9b5cfa9761a255540" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\doc\zip\zip_save.html" size="1928" crc="8a01c89e" md5="0fbaa8bf6616b44b308fe9f3be44e431" sha1="467abf777ed69f2dba105353b06c9a85a25316f7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\caeldera8x8_gs_tc.png" size="6804" crc="9b19dfed" md5="75389360cbbc4d343e7059329f774240" sha1="835388de5d584fa8310fd9ff0b6193675d7ff904" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\celtic_garamond_10x10_gs_tc.png" size="8558" crc="aee68af8" md5="0758ad7bfc2c0e275ba913ba29425225" sha1="041f952fd6c62c298b9b34eba4477407c9a3aede" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\lucida8x8_gs_tc.png" size="7637" crc="6c0f1ee5" md5="51434cd4f87dcbe3d5f9acac853367cc" sha1="b7273c8a9b70ce16ad402d091cdb6cb2399f2bc7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\README.txt" size="1745" crc="61ee07ca" md5="2af09b5c338aa817ed25764ddd289a10" sha1="cadbb9cfca82c3b656751203e306638aa0e414dd" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\terminal10x10_gs_tc.png" size="8804" crc="5bf64621" md5="1c650a7d84252a023173e40405f09bed" sha1="874fc1e4a20652168f69230f830424b001314023" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\terminal7x7_gs_tc.png" size="6971" crc="ef5b47df" md5="b491286c8a576e6f7493a1d76b911501" sha1="7859581194174aa5f319678bb45c823d71fe3ef2" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\terminal8x8_aa_as.png" size="3762" crc="ee005174" md5="e5b693419ec923c75723c37f413468d0" sha1="06bb1e194fb0bc2ce627fa90aac8b8a4b6e57785" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\terminal8x8_aa_ro.png" size="3844" crc="e2b32d09" md5="48da0cee737bc78bb63a19eb0269e472" sha1="1018b93ffa79d4678138e3f8f0d105ac21220ea9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\terminal8x8_aa_tc.png" size="2102" crc="03a9da63" md5="a742f88a56d0ed54eea898301dd4adce" sha1="b008afce3d4f89041a8da33523f2f1c52d6c5f7f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\terminal8x8_gs_as.png" size="3503" crc="e09cdc87" md5="ea2ab801ce1975f38a47df308123fd17" sha1="10274b65b5f7b8940f19c744d0b25f8ce318fd09" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\terminal8x8_gs_ro.png" size="3696" crc="540f5393" md5="d8bd74ed62d982413d029244c35aad29" sha1="d112ab49afa3446efac83d76f2374f06ab738577" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\fonts\terminal8x8_gs_tc.png" size="1937" crc="3dd4b5db" md5="54a1aa3e47fa93567097047a61b53f7f" sha1="90ca2670dde8d1fdb1690a74c01ba1f7c409985c" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\hmtool" size="25348" crc="a9e9a65d" md5="e6721d8a073695fbe228cd26595a41c8" sha1="e000a787c7ec7618252bb4611d2aa0ad87a3f62a" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\bresenham.h" size="1742" crc="68d1cdaa" md5="d607e7e91a3762e5e96048c12ad0051f" sha1="c37fad00cb4f9d8f4a29fda1ae96325754f24348" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\bresenham.hpp" size="1701" crc="41d6e2ba" md5="d7cd064b5774e5306faaa18204f0bfe9" sha1="b0a142236ee614f29b56c039699c7aacff4d86e4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\bsp.h" size="3398" crc="4d91f3ee" md5="a0dcd6cad6d45cb0e5ddb9c8d67b1598" sha1="14b3eba2b7a339a516e169aa7ebc85e9c81122bf" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\bsp.hpp" size="2962" crc="39111195" md5="b18f7ed9f9cd4a2ae81b55e0d76c40c2" sha1="fa0470a6df7811bf9eb24e75733e33c16460b81d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\color.h" size="3291" crc="a36e753b" md5="e0dabe45464965e15308241007fb026c" sha1="92da7f7568b690928e40508d2db0ff0d96f7df84" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\color.hpp" size="3963" crc="941f4f34" md5="a496f4835fc15f03015b2119e752f810" sha1="21ae2ac0161dcb5697817217f4fb6806153ed6c6" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\console.h" size="9475" crc="c4c4f018" md5="c1668f9c03a40a81c3083f95b57b3924" sha1="735c78a59fb5996a4d9f00493448eb7712b51fe4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\console.hpp" size="4567" crc="8969c03b" md5="1f90dde5d92c90dbcfd2425dc26e0926" sha1="ee7bfeb70d4207729e43fcd685c8f124f1cf51e2" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\fov.h" size="2577" crc="9429796b" md5="b4097ae276c832485716de33060defe0" sha1="53601f1e2bd9f655893b234b5a226db7c81b21d5" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\fov.hpp" size="2002" crc="b4734ef8" md5="deb3d28b3b4b8a342c70d8f474735b5e" sha1="9b7cb10faa6b2ed29dc2d93daebcf4fce20ccf14" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\heightmap.h" size="4884" crc="f962da91" md5="ee0ac35a50be32f24425f57a1782b987" sha1="657bcaab28c90512e704238af688367b54e9d4b9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\heightmap.hpp" size="3971" crc="a67cd438" md5="7bffdd420becabe23390eec558ae1a76" sha1="8cfc8be2248578d09f2c27abd4e6cbfc91309f3b" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\image.h" size="2935" crc="40fd5c80" md5="d02d903e7419b50de941aa2613f5b1c1" sha1="2512f9e0a3986deea1c16b0064007244bb198926" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\image.hpp" size="2473" crc="79d61781" md5="44035d902aef391fb3a5555626119397" sha1="e5a70bac2b9459992a8e30b4134417d08e24b524" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\lex.h" size="3923" crc="f0400227" md5="1a2360c9e51ec071ae8a73dd5a5fb33d" sha1="ca5ee94653e4a01138a8ba1278429e2b9becbb42" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\lex.hpp" size="3145" crc="aabda1c4" md5="4e74513405bde35ba4b1dbf43185ed95" sha1="f4f6b745504739d2acac27ab3c2cc14f8f720440" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\libtcod.h" size="3298" crc="dbf139e0" md5="377774ab09141d67b940051962247f40" sha1="dfcb1a6818f7329d4b6d8799b1d9af469b303091" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\libtcod.hpp" size="1944" crc="bb4f300c" md5="0367c901997ebdfda339a37ec83b47e0" sha1="319af081debe861da3b3cdfa6234c5be2508694b" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\libtcod_int.h" size="4790" crc="6faab96a" md5="4f97fa01d76fbf55e0038f6a3a019ddc" sha1="869f3b4384e1f7cf3c1acec6b6d022be4e7b3816" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\list.h" size="2751" crc="56eb9eeb" md5="980839a7a4fd39f4b74a43e3d64c380e" sha1="0327ec3714c4bf023d8908272977449e5573ab75" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\list.hpp" size="4354" crc="3bc610df" md5="bd8b082196841bdbc912018e3584d049" sha1="348c69bd5d13050e9370c0af0810f389893e2599" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\mersenne.h" size="2236" crc="074eb8ae" md5="fd4eb049c497006f291db0c311fba017" sha1="d107018c0242f0d486375f5f66161d0e108c9ebb" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\mersenne.hpp" size="2075" crc="eb312128" md5="84abfa1c01857e3bfe923d7b0006d79d" sha1="8caf13ef42ec9bd9706c88e445d404c79fc98373" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\mouse.h" size="2501" crc="d9513da6" md5="23b03efa4ec2449fad3850b4426e069f" sha1="c6ab33ad0d3927e4cf2e4465ac990703f880375f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\mouse.hpp" size="1748" crc="19ed433a" md5="62709f6772fa153c75f42b5fc772eba8" sha1="0c18fad7687e543066f60c30cd6e5f8e27f476d8" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\noise.h" size="3089" crc="c1749186" md5="ac241febcb209efece169d5666aa8523" sha1="54b4a2b9f279cca66f66bf0b4453fa564459a0ae" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\noise.hpp" size="2499" crc="cdb0aede" md5="d740da7b3442212d11650f7549b68382" sha1="04d368535604e50b262b5cc33f90afcadea0aac1" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\parser.h" size="6965" crc="16694d28" md5="6174bb8550fe2e5abd3cdd53a7792c6f" sha1="22be95a1b167b57bac180467602640dba24ff4af" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\parser.hpp" size="4433" crc="44ab4df4" md5="3ef5d7badfde8c4708365551335016c6" sha1="276e42a3c570cee7b9936db189663a9d86f9d3cd" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\path.h" size="2467" crc="b2d90ac9" md5="008687d6bcd11a22f8a28e90b82c1254" sha1="d27987390a93bed7645bcb19562476c90606f36c" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\path.hpp" size="2435" crc="5bead564" md5="c01e01d180c242c0beb0b78039a1b296" sha1="5a18b29dedc5a49dda2797e99803cffa259e5387" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\sys.h" size="2027" crc="78e36aa9" md5="6cd34f445a2192fdba66fb944c34882f" sha1="e4e34241c1cbe9be69357e57fb3e52f2ca9dab76" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\sys.hpp" size="1950" crc="95a2f97b" md5="51b435bd05207e820282734793483a69" sha1="dab4b90f4d3d275b380def6a0c7de4d9b240dd38" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\tree.h" size="1793" crc="845ac8e9" md5="b52dd2bef2dff2c2bfacba3357223f96" sha1="39bc6e547b95b9b73abc49df96027129fc863b02" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\tree.hpp" size="1911" crc="9f5f66d1" md5="995207fe24894e381ca4047a02940874" sha1="967cc0f1efcf467d183fceea65865d5aa5a98a20" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\zip.h" size="2491" crc="5abb9caf" md5="a45c22ef6a0dcad1e7e8e8f8e247913b" sha1="ecc0cf89cb13e8e3a7e1a795490fdfde62c8f88a" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\include\zip.hpp" size="2037" crc="1d856cdc" md5="c8f023547a3069043cd96677d819d32f" sha1="d4b751d763cd1bd1ef99605bc2e692fc1c179beb" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\libSDL.so" size="420760" crc="d465a7b3" md5="47860749d6cc2ee52193667a8af5f2e1" sha1="b7210c0e1d6e466c92bc99fb8b06e000d8bb4e99" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\libtcod++.so" size="62336" crc="55d8573b" md5="86f8d674458ab922f1880ebf3771e1fc" sha1="a21272202317d581c5bb099d885ff918b286131d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\libtcod-CHANGELOG.txt" size="12784" crc="5d43b47f" md5="7bf187b503c93ad07fdfc7a05b06d2e3" sha1="adfaf561ab8ffc8db884b23ad5bdbf1480363357" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\LIBTCOD-CREDITS.txt" size="567" crc="73ea5f0d" md5="0a07aaf49c9d10e24b25558919060b0b" sha1="ab487d90e70723994e4439b559d50b00b9cc950b" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\LIBTCOD-LICENSE.txt" size="1674" crc="4fe7acb4" md5="6bc05c7343c4ac114e3d093fd1f748a0" sha1="e56db85b31c44b9a82180dae1e8ea02cdaa6e024" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\libtcod.so" size="329608" crc="e3c0d4fe" md5="96379143617a05f464da76748811809e" sha1="080575635572c5b4de8118275fac2e929b1e7bd4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\makefile-linux" size="2311" crc="2ca5eed0" md5="233fb93a99d27baaa4b71839a87184d5" sha1="a3d0f6ed332d8aa9c8ad3d72aefa860e123205ca" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\makefile-linux-nodeps" size="2468" crc="6b4d0deb" md5="8eb32bc0e1c3508303bf1b515c8054ad" sha1="5253c8c30e5436a9b6b04d1144c259cfc5642987" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\makefile-samples-linux" size="1468" crc="ad181a2c" md5="9e574e3d113afa2928ddf877733775ff" sha1="ae042ad9a8b191743daf1e853cdbdc85c8d19e0f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\README-SDL.txt" size="438" crc="f0b47880" md5="fae21a9827f299a3d63e93f0f41c2a04" sha1="ef471f5b093beb18a0a37618f7876d7ec5ae7799" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\run_hmtool.sh" size="102" crc="d8550ae4" md5="f9804619fa8ae3f75f73879665cb1a26" sha1="93d5b358063a682f10a837368606d4e1b338d845" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\run_sample_c.sh" size="105" crc="9a120f3a" md5="26295f79ba3aa3fc6dddf8689595beb1" sha1="29df637cc6c30f207047954b8173e9c810440985" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\run_sample_cpp.sh" size="107" crc="e7028441" md5="13c70150bf5184201488e7f00988daef" sha1="acaf3e7c6c89d2329334be719ac1f961957a1a16" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\samples_c" size="14068" crc="53ebd28e" md5="72b0d803fbead404265de57481c54d55" sha1="8e2964a2aa2612816184b888970b1ea4bd9f10ca" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\samples_c.c" size="42368" crc="971586c8" md5="c1df9b4b92171ae35d59f43e1ff60c60" sha1="5c642ea03790957826dcd226eceacee6a5cba4d7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\samples_cpp" size="16420" crc="6f27cfd3" md5="a410117cca6242ce29d5161f055da940" sha1="f11cc23fbb83c817922fc1d296a5796452c65fea" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\samples_cpp.cpp" size="40296" crc="9f9e8bd0" md5="6ad5da7f951c33f73a1dd0e68ad235ad" sha1="6fd4bd602167d2dfe4bbb23f96d4a119804c3263" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\skull.png" size="1953" crc="f235298f" md5="d2f5f3ca131907356c8a85d0c2357ba1" sha1="df49e432c4796269bbe812ddf8fced3bec017b00" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\bresenham.cpp" size="1725" crc="65bc26ae" md5="4c735bb72720a3f27d91419fba31a8d1" sha1="2056ca3e62a2fb3d658008285c78c3bc1db021b3" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\bresenham_c.c" size="2595" crc="817dda49" md5="5539c437e1ee4a8416a7f48fe4963427" sha1="a9d92d032cd65e0e67efc8d2531285e48371e749" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\bsp.cpp" size="5787" crc="d4252ffb" md5="96f93c60e5498e5cbb3f1d27f46fbc0b" sha1="a48f3f7c9f0e7e51a317ce19ae514e5011961b16" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\bsp_c.c" size="7967" crc="4332a185" md5="82c2b158e68ea1668d7eae9b132933a8" sha1="b10da1eb46ee73c8d7542fb8db66a2d91c4cff60" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\color.cpp" size="3160" crc="f457caff" md5="35d9decca27206fd77977543a7247625" sha1="03e3e6fb07ff57f79a552bd458186ef980da584d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\color_c.c" size="5932" crc="7401723e" md5="f64e4a871e0d30f0b0295053c1485ad4" sha1="5a536978958058fcc5a0a1fe8ab144dfd1588cc6" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\console.cpp" size="8569" crc="1d182efa" md5="91a9cae10d476eff81a1833c300eaae4" sha1="3586518eb353a5514a4e7398676b9e49c6599c19" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\console_c.c" size="28741" crc="172186b2" md5="388ef555a958bc535aba90c2aeb4bc32" sha1="11f13e68d6c321b62a83bea2430b6744bb0845c8" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\fov.cpp" size="2264" crc="8606f7ef" md5="45d28f769c141138e5d776cc8134fe0e" sha1="c05f12ef4f416ba23e7c946156c78cbd0297e1a9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\fov_c.c" size="6135" crc="37735b03" md5="9153152f545c5f9d239ef6ca02791459" sha1="4dc2745dc593631f261b8526c1683d662a2afbbd" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\heightmap.cpp" size="6494" crc="149d4f2d" md5="ddd132318a985e25eb589429ea122b65" sha1="f3860649895be1539eb0bfd783938dcb844c241e" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\heightmap_c.c" size="16138" crc="4ac44618" md5="712c01b8bde62e517c1849ab4d682cef" sha1="ba27d7e899323626153bff63a60a6e8be7241759" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\button.cpp" size="1491" crc="097b261c" md5="1207dd8bcb27cbe78447d85dda7007f6" sha1="93d2e7ce3b6a9a71478f74b64b81227534c0b151" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\button.hpp" size="528" crc="b1135cc0" md5="1347a55fd93afe716cec0ae1ca5bdefb" sha1="e244a7e50c153e9c1a6a0233e743da677c3625c3" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\container.cpp" size="720" crc="5c3701db" md5="32b0fa3224cf3c9597f75e36c255f906" sha1="bec77c9238bbd22a246b643e033c89dbb93379a0" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\container.hpp" size="327" crc="37c821be" md5="3648fd730ee2176e623878063a99da7b" sha1="d0a8b7c224a71643e76f8ae044464c79c2c9c1fb" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\gui.hpp" size="406" crc="a9440cd5" md5="7ac6441419136eb96ac0e65c34f15e9d" sha1="3e0802c582748dae1873b07e16d6f0bc59532384" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\hbox.cpp" size="537" crc="c4e44f68" md5="ba04c5eda6f6f02bc45bc855190d72ef" sha1="0add399fd5de40a7bbe12db18d3e54d0614706ad" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\hbox.hpp" size="95" crc="89b2b99d" md5="83fc5479e76d4ae3f110effd50631df7" sha1="71093d7813828dcdbbb7d7ffe1ba9aa00dac59a4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\image.cpp" size="457" crc="5c1a513c" md5="9029773e3615dae582bf4646ab3710e9" sha1="38c47fdb76c0f652d999188d6b7857f7b01545f4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\image.hpp" size="249" crc="ebcc787e" md5="5820131469c0019904df9c6fc8d05efe" sha1="5609cae42c1a299df9276cf596325163a4656a24" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\label.cpp" size="455" crc="18721ec6" md5="afa7ae25fa054e9c37879d136924ced4" sha1="7f5786fd67791ef20f640be720706c050ab0c87b" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\label.hpp" size="214" crc="6285c456" md5="7e33f72a6e27622f492161dbb2401f66" sha1="3eb43866cc00ea2ba548d60cf5182b22ea982067" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\radiobutton.cpp" size="691" crc="91aa4117" md5="449dababe4197eb8cb3643c468583fa4" sha1="8aa0245e0d5e450e19cffe028c0f70b1a67ac248" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\radiobutton.hpp" size="721" crc="428ead15" md5="4d99a994262b4ea23c5306d2785b423f" sha1="def8c1b62badf4df47926e8f4f11c8e6e4b9ece3" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\slider.cpp" size="2095" crc="d5a55fa1" md5="9bdbe6b392ff40819c31e4299f463a09" sha1="1f461d7bb943853273952aaec67839a328f320c7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\slider.hpp" size="768" crc="803cc14a" md5="fc216a43daa7fe070a0a70c67c33e057" sha1="96cec86f970bb88e6bb05baf225585fcb37dda4a" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\statusbar.cpp" size="273" crc="3a8c4e05" md5="145b7e7f79ead624584453213744b645" sha1="e159d68a7bdbbe791425761dce592dd764af4d7a" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\statusbar.hpp" size="119" crc="3f77226b" md5="7633a38219eacac466e7f6afbea25712" sha1="cd9018719650d3d630081f50aa02fe61a660a59d" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\textbox.cpp" size="3250" crc="4635a1f7" md5="5dca5b0475fd10d029f16b9296960cc3" sha1="88bc82c76f3bf4a91cf323c69ca3982cb54f1d1b" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\textbox.hpp" size="654" crc="ea445a9b" md5="6c266caacd0b84bb3338b87667716929" sha1="eab39c9ffbebe40ee28e819772738a5c9033fbbd" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\togglebutton.cpp" size="587" crc="1fddd0c2" md5="4d5d3fef761af0d0bed18213e6f29a8d" sha1="73608c1b4398b2813c774123bf5c66614b881e07" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\togglebutton.hpp" size="474" crc="e2b0ee28" md5="78f53b9dc64e6f6f946d390284712d87" sha1="8eed6aa66a888bba10abb6f4e419da320b3d97a6" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\toolbar.cpp" size="2255" crc="929e2d61" md5="787fc08db80a99ffb78bdbe4fb0ffa04" sha1="b0b516990dec0668fdea9832e93aff49ed7934ee" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\toolbar.hpp" size="367" crc="2c9f6bbd" md5="2d73f6d10edbb6ceda231d9b91300ae1" sha1="4e720611b3850c23f0d5c25d781776649e82c975" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\vbox.cpp" size="474" crc="c76b000c" md5="043317ab7a8587d55e366f2dfead32f0" sha1="ece48ccb63ffe4f18a9fd92ae8eb4797ee5a7d85" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\vbox.hpp" size="166" crc="461d85af" md5="1c05278f98696f5dc92f42c3accdfacd" sha1="ef482c7a150c77d09d641dd6114a9dea8aabdd91" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\widget.cpp" size="2536" crc="7fce6886" md5="ad6df6d0fe3024eb800bd76657d6db38" sha1="78b208e5e3e93931beed2b202dae6bac0fd324b5" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\gui\widget.hpp" size="1331" crc="49892864" md5="9fba2488d5ec0d503feda3cdc6680e58" sha1="232a61c75e6f5dec56618c8ba23f0e8e0c738805" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\hmtool.cpp" size="15732" crc="2164a552" md5="6784e94753eda2a24578679ce1bdcbbd" sha1="5f4b6f7c8e2a638face84f86543b33775cd112d3" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\operation.cpp" size="22986" crc="934ba380" md5="a2dc370595a0820c8ef2ad1127c2e6d1" sha1="699933d17b8818298be2e963a12f014af9b3c37a" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\operation.hpp" size="5807" crc="aa02d4f5" md5="2502552994b5cf232595479c04fa991f" sha1="f3812fa0b86f1a0fe2cc738fa0daf0e285d5dfca" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\hmtool\README.txt" size="278" crc="77a37517" md5="25ebfdc0c4cb9c02e9f7d3f669901b9c" sha1="b9ec0725cdf3b6e2206d394a743f3cdb14c947aa" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\image.cpp" size="3401" crc="5a384a26" md5="b43b53ffcce2650de9b8b51936f1d4b9" sha1="4fab13b7ff6084b5dcbcee0a1fe64efbfa9cc6d4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\image_c.c" size="13027" crc="e22e138a" md5="68d3d8707d5e773a3adcc93f32553b29" sha1="c8d9b76257b9f2da46639410cecc1d6dbcc1aba5" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\lex.cpp" size="3218" crc="a13e349a" md5="e4faffd7ecfb3007ee708e3b46bb2b42" sha1="5222fc24ada2d9b10bcb0dffdf9a24ebe36d706f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\lex_c.c" size="15618" crc="9f0344b9" md5="c16f3e872028fbfa0f220683eb77acdf" sha1="97ee38c85208eabb602e852510da61e3f223ef75" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\list_c.c" size="5602" crc="7c047d3d" md5="10b01c5bd19926e1ab938abc03805b57" sha1="273a6dc27afebddf173e4c4c09bede3a728628cb" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\mersenne.cpp" size="2522" crc="0e0e5488" md5="30a698d71091680e75a6d2692755a734" sha1="5b2998ae155649a2564465aab08450f2a2e30756" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\mersenne_c.c" size="5825" crc="3806301c" md5="e2f0c91ec88ef6cd053d8f3492453b98" sha1="09ac89106b68562a014f7d8f8f10443cb988c2d8" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\mouse.cpp" size="1836" crc="eee6d80c" md5="024f9a1b7dfbf3964dcfff015a921e32" sha1="1a5931bac079894d8abbd8a2448b351f3c03918f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\noise.cpp" size="3286" crc="794a3a1d" md5="ba7b6169c12ed710097f160e55bda55b" sha1="277c8530aa6fbecba9b49475e5d8c13fbd70747e" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\noise_c.c" size="24125" crc="2982c349" md5="df3ce08b111438736f79ec2605f069d4" sha1="5c7e181f238910db9accfea03516fdb3957507b9" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\parser.cpp" size="5638" crc="bf7f57db" md5="c0b64b784df11011fe2538f597ff9a9c" sha1="24e84ea3af7a076fafd01a39823438ef156ba333" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\parser_c.c" size="27019" crc="d3eef1a4" md5="f4b7c530b8519805bd30938dbf6993d4" sha1="3eabb1f0e24dede097435cd9cef6abca6ea6f833" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\path.cpp" size="2835" crc="0e4d34c1" md5="b0d810c10266ee92d32cd8717845492f" sha1="0527ded7030bb1aa0483628988c0422f27f35161" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\path_c.c" size="13126" crc="c1a6cf74" md5="803fabfcc885fbdb8d2bc02f0e97edc4" sha1="4df97aedbd66547b7b3f7ee0e3bc88ee07cf15f0" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\README.txt" size="2026" crc="0fee8ca8" md5="a4a6c2567629d248c818337ef12b5b82" sha1="5d98d64071cfaac98f107be6542f4546f4db7164" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\sys.cpp" size="2261" crc="bff68b74" md5="1b540603fcc1d670a364c314bf1e786f" sha1="04a8a987f78b638a987a13a9149c0e6126745781" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\sys_sdl_c.c" size="32328" crc="215df67c" md5="28183d348b5631578af4dc6250600f80" sha1="2eca32779a80f009a04942c16c54785d0ec03095" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\sys_sdl_img_bmp.c" size="2480" crc="71df2564" md5="993e13524e53141a9b85d81f054a0d14" sha1="2926aa11ae4dec0d4d982495a71a478264bfb6d4" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\sys_sdl_img_png.c" size="7248" crc="6d885507" md5="faf0d238cee2ba105be1ec900a9acfdd" sha1="47a7ea9316916b5bfddeac79382a834c4554f5a7" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\sys_sfml_c.c" size="20579" crc="ac1dc144" md5="01cbf0aab8606059ec9c9454b1058132" sha1="b1b298ec1d7438f27c4cfc99501532aaefa77700" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\tree_c.c" size="1891" crc="48d6d38f" md5="226ac69388ca821a786a41e82f5d4cf1" sha1="bcc8d90983ce6a18f55ebed69847a4fe99a32c08" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\zip.cpp" size="2522" crc="34c5181f" md5="8ccea62dfcdafdc76c6128f7f992eeb7" sha1="bb88bb16dcf183c93999e7ee8ea4b25c3764cb3f" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\src\zip_c.c" size="7454" crc="3b9dc32b" md5="fa3ec8167d4b002fdf2c87ec14a9df61" sha1="7484c913f02e21f5be664a1c67ae42780d735b87" />
+		<rom name="jacob004\linux\lib\libtcod-1.4.0\terminal.png" size="3150" crc="2f01e925" md5="c4a24dd4390ad275c8aad7905152e7b0" sha1="b18a1b08e002a49bfc3476027b5ea7b13dfa5e3f" />
+		<rom name="jacob004\linux\terminal.png" size="3150" crc="2f01e925" md5="c4a24dd4390ad275c8aad7905152e7b0" sha1="b18a1b08e002a49bfc3476027b5ea7b13dfa5e3f" />
+		<rom name="jacob004\music\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\music\duegar_requiem.ogg" size="1823993" crc="1e71b36a" md5="046a6054eca8dd737dab2091b0663b96" sha1="10f07d15898bfd959e79238a6a43590c83f808f6" />
+		<rom name="jacob004\README.TXT" size="5269" crc="e1d22432" md5="9d503ee810b55ec3d7c3592f7ca189cc" sha1="c8a486065dfbeccc460665ee81de8f6981f174bc" />
+		<rom name="jacob004\rooms\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\rooms\r0.map" size="960" crc="09bae877" md5="df39a8aa5e62b438a7a9d98149fb80ce" sha1="95c863f1b72f60386d0d6b1f8b195827b4745f12" />
+		<rom name="jacob004\rooms\r1.map" size="960" crc="e2b27d3e" md5="8a49b662a55d7c84236a515343f8da5a" sha1="34dcd191a7e3c4cd779fe75d65fe6c43dcee075b" />
+		<rom name="jacob004\rooms\r10.map" size="960" crc="d763e0a3" md5="86066abab506be034825657e8840cfe0" sha1="882b0a4479bdcb0915b543015f519d95958350ed" />
+		<rom name="jacob004\rooms\r11.map" size="960" crc="01422745" md5="7217378dfab0285db97cec8be98b7e11" sha1="58d969a6eb8166c79902fe67b47be892a988ec73" />
+		<rom name="jacob004\rooms\r12.map" size="960" crc="740e52e3" md5="c34fa2f3c78ebbfc4353a41ead6c3b12" sha1="384bb061050367aec930cc7497225cbf067aa14b" />
+		<rom name="jacob004\rooms\r13.map" size="960" crc="f1fdf270" md5="0871514b0c94459d38dd1616f29fea7b" sha1="4be0a58f8c55bd00f08d7662b5ce2df594bd27fe" />
+		<rom name="jacob004\rooms\r14.map" size="960" crc="d1e3dca9" md5="bfe65e04320f55d7d07e24b772a7fecf" sha1="f42e79c1a6b3dacdda3e0378fdc17650f3b09ab6" />
+		<rom name="jacob004\rooms\r15.map" size="960" crc="52d1d971" md5="ed1bf5a6afab203af0504365204a6b54" sha1="7f4f1da1d1fb570cf1714bc166a486fea410313b" />
+		<rom name="jacob004\rooms\r16.map" size="960" crc="3473833c" md5="e6646b01c7c974da3b139b43526a79aa" sha1="f9b12a0239d74296729078c7d151b824abfc1e0b" />
+		<rom name="jacob004\rooms\r17.map" size="960" crc="133d59f1" md5="a323566ccb8ee802fdf8054ab28d60fe" sha1="7391b7c9eb3d9e6f4693951e2dfccc88557cb6c8" />
+		<rom name="jacob004\rooms\r18.map" size="960" crc="94b31e8f" md5="d9d943f57026705fa75cce96d0d96ca1" sha1="beec1f0ff874062e50d644d7b53d05312ffe3319" />
+		<rom name="jacob004\rooms\r19.map" size="960" crc="9a4b8c72" md5="38680d3fd431d2ede3d2e5c0bd9ad9f5" sha1="63ca3b34d3d28c7e08e6007f9e4083947337eccb" />
+		<rom name="jacob004\rooms\r2.map" size="960" crc="d4dc431a" md5="8c4d15a8e5974d1b26bbf75173849955" sha1="3f1edfeaf70beadf873bfc7e523980c86ad4969d" />
+		<rom name="jacob004\rooms\r20.map" size="960" crc="61e86685" md5="fc399e1403260c8f42ffed5051aab4b3" sha1="e9af97f600bceacd393ee3c1836e0f0e0b7e4659" />
+		<rom name="jacob004\rooms\r21.map" size="960" crc="8c816571" md5="e4c9b190e28b0b3cda27a8606d4bad7f" sha1="8f497526b1d8ccbc5c6b80c15913b6cd4940d8e0" />
+		<rom name="jacob004\rooms\r22.map" size="960" crc="14135e08" md5="efb6520942613bba0722eb3762b25b7b" sha1="14f9d3eee64c11b8deb8f8095330dfdc2aca5f96" />
+		<rom name="jacob004\rooms\r23.map" size="960" crc="703690ad" md5="38d96207e6c0ecddbd0508cfbe4bb431" sha1="38bb080429a6951d62c6d49a0667d47fe912ff90" />
+		<rom name="jacob004\rooms\r24.map" size="960" crc="dd39de42" md5="323ecb6de51ca608c16a8adce247e406" sha1="8c86166ef5ab6670aa9c40d2d38c4bafb2bc09ce" />
+		<rom name="jacob004\rooms\r25.map" size="960" crc="7aad5ce6" md5="21c8f39e9eef97bcf0a58f72e146e850" sha1="35febcd6ce6d24a6c431ffba5185571dc176c936" />
+		<rom name="jacob004\rooms\r26.map" size="960" crc="309c604f" md5="84904fe6449e8fddb348785b1ea31219" sha1="5228c730cb9e8524df9542e9941b6bc6f96132a5" />
+		<rom name="jacob004\rooms\r27.map" size="960" crc="10afad94" md5="e4278263c8b8621313af1bb7a0d3a9c0" sha1="19ece53552e8255a58b0300593c4ddd244e0d9ed" />
+		<rom name="jacob004\rooms\r28.map" size="960" crc="71fb7b2e" md5="e4397c3c868f26652706f445b9b33039" sha1="ebd71f3bdec89285cbe56ef7be6a065449151401" />
+		<rom name="jacob004\rooms\r29.map" size="960" crc="f961278e" md5="db68392c939c6fcaa6b427d807a03c2a" sha1="40dfe85bc27bf526f4f9dfbb161f924d409ffab7" />
+		<rom name="jacob004\rooms\r3.map" size="960" crc="ec2eb95a" md5="f36abb896c123845febd8b2e8d2b7e43" sha1="b1494c901cafe03c53e34ba7749ecfe4f9ef50bb" />
+		<rom name="jacob004\rooms\r30.map" size="960" crc="d67b1c11" md5="a3baf6ce0aef9784adab4d1c83ff9eae" sha1="8b9c4928fd8d5ddfa70c4f1de7bcf968f4bbc4b3" />
+		<rom name="jacob004\rooms\r4.map" size="960" crc="9e3a4009" md5="805523673543070ef37963248a2dc38f" sha1="1338d0a077ecdc112c8042b968cbe4cf1c17c629" />
+		<rom name="jacob004\rooms\r5.map" size="960" crc="fffac2a7" md5="3cbce5782b8889e3e63997f9d707c601" sha1="20a07b35b46643d692c595ae8de337f7c2bfcfb2" />
+		<rom name="jacob004\rooms\r6.map" size="960" crc="af3c95ad" md5="2c4489fe0fbe0e58e70549e11f85d99a" sha1="5030b6f4e407a534b94ba4035e15b6cbb01b2f72" />
+		<rom name="jacob004\rooms\r7.map" size="960" crc="b8200cdd" md5="9d20e9c4c0a0cdfb219fd166b6f7f73a" sha1="8123dd5a2b11efd251f25ea0951fb828c8f0e9a5" />
+		<rom name="jacob004\rooms\r8.map" size="960" crc="4e29dd67" md5="1a0954f8a9e09d7ad53f83aa537220d7" sha1="bc8bb3d9680a9d1376bdca83f47832d8307fbc62" />
+		<rom name="jacob004\rooms\r9.map" size="960" crc="22740892" md5="273358cc753b3d0c8b510bdca8246047" sha1="4d0143e60869209b408f7cf7a7554bd38b195b97" />
+		<rom name="jacob004\src\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\src\ai.cpp" size="15011" crc="e2f42d2c" md5="72841014f34c99a2b8c226e937e774d8" sha1="79d6df6ffa9c4d67f7c7938326dac4d8891c1400" />
+		<rom name="jacob004\src\buf.cpp" size="9545" crc="08aaf74d" md5="c4dd2efc870299fcdb63f5e5463275f2" sha1="657f90f2ddb99cfacc0b76138c1a0664c76374cf" />
+		<rom name="jacob004\src\buf.h" size="2796" crc="6a801de3" md5="a34526760b3870da5a8481d470059e35" sha1="3d217ef434ea0cdd0ac390c33e6332f49af5bfd7" />
+		<rom name="jacob004\src\chooser.cpp" size="4436" crc="ea9e04a6" md5="8d513cc62a4fbb23f2db5f8e21f6af10" sha1="34067f6b0dfe9b4184c1f073e707b75286f328d9" />
+		<rom name="jacob004\src\chooser.h" size="2171" crc="95740ba6" md5="516e5428d712cc252200e51120f461e0" sha1="b7c759351fed518cbb789b8524aca11eee2ba4c4" />
+		<rom name="jacob004\src\command.h" size="938" crc="d8c872d6" md5="41e39dd3b9a6915993acf7b7d608307f" sha1="94e23de3547783a1b446f6c4b25575679d99f1ea" />
+		<rom name="jacob004\src\config.cpp" size="1264" crc="d9fc9bc1" md5="32506adf0b1b69ac9fb117f267a86a66" sha1="5177f1ff617139df4d37922097979525e9cadadf" />
+		<rom name="jacob004\src\config.h" size="849" crc="d52c7ba7" md5="a7b268542554558f35150fa702cf1035" sha1="e25612ac1c77f88a6eac604c4b915810e83e416a" />
+		<rom name="jacob004\src\dircontrol.cpp" size="2169" crc="d8274e83" md5="1e3268750bc2536df796877bcf87726f" sha1="4138e2c1852e0cdef411f68dc7383cf75cbe7623" />
+		<rom name="jacob004\src\dircontrol.h" size="955" crc="f71a217c" md5="0d47aaf94014ab2cad490d438827a418" sha1="06c29aa96ed2f8593f09a2b1b32d455adca7e27a" />
+		<rom name="jacob004\src\display.cpp" size="4860" crc="4ce740c2" md5="5ed0560d528348fd2ddb536bec239779" sha1="8e979a8dbf54e389c94423b4212f45fdf9bc8682" />
+		<rom name="jacob004\src\display.h" size="1287" crc="def4087f" md5="30651276e0acc311729906d99e4d4e14" sha1="b7cf27ab30f95d2e5636eab3db52d11de8ef87ef" />
+		<rom name="jacob004\src\dpdf.cpp" size="8230" crc="ab183e72" md5="106102ec1fa219c175839eddb4da68f5" sha1="aae22b19b60c60604d56ee10415c99dec4b5dcb9" />
+		<rom name="jacob004\src\dpdf.h" size="3816" crc="84c1d99f" md5="c4fb721144c99fdf008965b99f652bd1" sha1="7e5eb46a1fef293b5fe547eced449f93b1d58446" />
+		<rom name="jacob004\src\engine.cpp" size="4391" crc="c7d8d571" md5="e48da73c0d5f255c399233b5f386bd52" sha1="a080513ff0542b7d6a65b6c6eeb6bca2456c93f1" />
+		<rom name="jacob004\src\engine.h" size="1178" crc="3d18404a" md5="239281ef4889caebd0ec615d2508c1d1" sha1="88a4edd1fe56ae17da2043942ce2376316b74f36" />
+		<rom name="jacob004\src\event.h" size="1209" crc="8741dc5c" md5="c971c0afaa326205a49321a454391644" sha1="03329511eb8b1664fc478cb74ae9ba90cbf76f9b" />
+		<rom name="jacob004\src\fire.cpp" size="10425" crc="a749bb59" md5="4193ca437cf48e90ab6bd7744d7b7759" sha1="e52d6397e8920eadf4a7efb07a935b54c118e077" />
+		<rom name="jacob004\src\fire.h" size="3190" crc="cfd055cf" md5="0da08048cb31e7af4bda10566dcaf39a" sha1="761fc282641fff4a2d14f2c5263f0ffe15f13aed" />
+		<rom name="jacob004\src\gfxengine.cpp" size="5589" crc="e69b74bb" md5="e0b3f7ed7372889d4e41851b8342bcca" sha1="45a843c1a3ab0849b5b2d6e3d4dd7b9d2a678df1" />
+		<rom name="jacob004\src\gfxengine.h" size="1608" crc="a3af31dd" md5="96d9a01cbdae107e0df0a7c649c6571b" sha1="4d79f102564edd194e7456c25bcfb615fb37b5e5" />
+		<rom name="jacob004\src\glbdef.cpp" size="36165" crc="0860981c" md5="c2b7491cb65016539ea41b55250dd7a0" sha1="98d0f8adfe6e71ff10c13cf3e5890845af9981b4" />
+		<rom name="jacob004\src\glbdef.h" size="11963" crc="b5ef287e" md5="c00b861bf7f3d8441d4d7b146ba86b99" sha1="4716696b515c3e21f511ce6601e345e5125a7b62" />
+		<rom name="jacob004\src\grammar.cpp" size="19393" crc="af2ea94a" md5="26ff5ba7b1cc0c0337aa8eb724cf0329" sha1="671aa703f2e74efd813c65d5bf21dd54bf340473" />
+		<rom name="jacob004\src\grammar.h" size="3299" crc="66b4e4f1" md5="e359c4f425e6af08d4eb6c6683143f0f" sha1="87517155cef341e17722bb7158b8dfb114c44a38" />
+		<rom name="jacob004\src\item.cpp" size="12916" crc="fc4b9fa4" md5="efa4b3f6246e35dbfdc242546ef22967" sha1="83ae97a3d833d92360fd93a90ed88a5e0a1c1768" />
+		<rom name="jacob004\src\item.h" size="2538" crc="f0b3c481" md5="3c4784068885f6fc6cd2311a859eab4c" sha1="7c24803c1964cdf90fadf0f3644ed9b81ae90244" />
+		<rom name="jacob004\src\jacob.cfg" size="155" crc="88fd01a3" md5="6183a49481075111e19ba9fb7c575403" sha1="7c70ff3093a8989959eb1ba2b7c80aeca3b0dd20" />
+		<rom name="jacob004\src\lib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\src\LICENSE.TXT" size="7503" crc="a7666c6f" md5="5eedac2c15689ca8820a133e54c64270" sha1="68b43ce2fbdbb4b2b0bc6f582d47470dd771a100" />
+		<rom name="jacob004\src\linux\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\src\linux\BUILD.TXT" size="678" crc="7ae3b3cf" md5="968fe3be61446d7e329c1c79cd463eb6" sha1="6020cbacb0f8ce51e1dc4e313f6a7c845f3c58ac" />
+		<rom name="jacob004\src\linux\jacob.sh" size="124" crc="c5da0313" md5="352385d4f4159f4c30b3379940b1c51e" sha1="6ce009c853dfea5eec38fb06265e932b9e0d08cc" />
+		<rom name="jacob004\src\linux\Makefile" size="726" crc="ab818924" md5="0e5c9d5067354dc8bdf5dfccbdf2f634" sha1="e220028be0232e6eb14b2a4ca81b0596ad44877c" />
+		<rom name="jacob004\src\main.cpp" size="29843" crc="18488e4b" md5="109d05735666d3dfb0d08694b8bd47d0" sha1="6941fe15e664a24422fef9890305a275f5875399" />
+		<rom name="jacob004\src\map.cpp" size="31275" crc="235b63c4" md5="72b81e84a93577479e5a3b74da720125" sha1="d1917112227af0171a64bd6ff917c19c8f42bd1d" />
+		<rom name="jacob004\src\map.h" size="8512" crc="083bba48" md5="7fe1d5471b937a4be387f029da0a57e8" sha1="a54b462a24ec25fc92ce1b4ae0f0a911d4a2ad41" />
+		<rom name="jacob004\src\mob.cpp" size="26539" crc="5033657e" md5="54b0417ed5aefbfa70a1f2038a85f6ce" sha1="d67b32c3b0be15554e16cc7545cb72a375d30e00" />
+		<rom name="jacob004\src\mob.h" size="5860" crc="373220f0" md5="ffbf98ec3b2dc4c42c3736246c6b0668" sha1="e58b854d49777f13dcc2427df28d49a329223650" />
+		<rom name="jacob004\src\msg.cpp" size="6270" crc="1aa15261" md5="81f537391f60ef298fe6f16b15ee2157" sha1="19ec99ea44bb2d96ad14b5384c197ed742efea21" />
+		<rom name="jacob004\src\msg.h" size="1843" crc="f788e009" md5="6c5fd7bf940bdba51dfac738d82a98eb" sha1="23b3d86a11989803bde64803ea6b9e3b96cfd01b" />
+		<rom name="jacob004\src\mt19937ar.c" size="6682" crc="dcc9a739" md5="bc3cb4dea507871106ed29797296aeb4" sha1="a6e448d15937eea7a7b3fb6313aa371d870a8270" />
+		<rom name="jacob004\src\mygba.h" size="231" crc="d4253707" md5="d6412a953f8379557787d8b60e3e79d8" sha1="6d56020f0e4e1550bea313bed5da62b30fdee071" />
+		<rom name="jacob004\src\panel.cpp" size="8503" crc="ff353546" md5="5a92ebcdad2c9b8b50f9b60670fccdbb" sha1="ec53dae6eab8df1f108d04293f41b69d26be2614" />
+		<rom name="jacob004\src\panel.h" size="2344" crc="dd621f06" md5="75e815a72ea39a9c75ef69505e5d53a7" sha1="b83a9651ae514099d88b9b663bd316b61641a497" />
+		<rom name="jacob004\src\ptrlist.cpp" size="5411" crc="30631845" md5="2317608292c307f4af3ff9c8db3acefb" sha1="0248dd4d4f287f1b026ce0836ff51ab2ce3fe42f" />
+		<rom name="jacob004\src\ptrlist.h" size="2112" crc="aed6fa67" md5="0fb1c59c85d609a71b6166efb2f4649f" sha1="ac2f102409be1278641002405fb7e5ca478981a6" />
+		<rom name="jacob004\src\queue.h" size="1338" crc="e28d2991" md5="7426bacc3422171b4c601fb67e45df0e" sha1="69fab523c4d4639596d46f77ebe1017fd412ed34" />
+		<rom name="jacob004\src\rand.cpp" size="4915" crc="4a5f1fa7" md5="123def8b9e9c5bc428dd6cc02c1fa609" sha1="1612adc4b2632c5d01ccc0a70d579db01905298b" />
+		<rom name="jacob004\src\rand.h" size="3087" crc="5e836642" md5="706eb7b2ce856ad7f0f735bb897a725d" sha1="ceef8a8ea9ed8be8bd1c004e61eea902dd05844c" />
+		<rom name="jacob004\src\README.TXT" size="5269" crc="e1d22432" md5="9d503ee810b55ec3d7c3592f7ca189cc" sha1="c8a486065dfbeccc460665ee81de8f6981f174bc" />
+		<rom name="jacob004\src\rooms\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\src\rooms\r0.map" size="960" crc="09bae877" md5="df39a8aa5e62b438a7a9d98149fb80ce" sha1="95c863f1b72f60386d0d6b1f8b195827b4745f12" />
+		<rom name="jacob004\src\rooms\r1.map" size="960" crc="e2b27d3e" md5="8a49b662a55d7c84236a515343f8da5a" sha1="34dcd191a7e3c4cd779fe75d65fe6c43dcee075b" />
+		<rom name="jacob004\src\rooms\r10.map" size="960" crc="d763e0a3" md5="86066abab506be034825657e8840cfe0" sha1="882b0a4479bdcb0915b543015f519d95958350ed" />
+		<rom name="jacob004\src\rooms\r11.map" size="960" crc="01422745" md5="7217378dfab0285db97cec8be98b7e11" sha1="58d969a6eb8166c79902fe67b47be892a988ec73" />
+		<rom name="jacob004\src\rooms\r12.map" size="960" crc="740e52e3" md5="c34fa2f3c78ebbfc4353a41ead6c3b12" sha1="384bb061050367aec930cc7497225cbf067aa14b" />
+		<rom name="jacob004\src\rooms\r13.map" size="960" crc="f1fdf270" md5="0871514b0c94459d38dd1616f29fea7b" sha1="4be0a58f8c55bd00f08d7662b5ce2df594bd27fe" />
+		<rom name="jacob004\src\rooms\r14.map" size="960" crc="d1e3dca9" md5="bfe65e04320f55d7d07e24b772a7fecf" sha1="f42e79c1a6b3dacdda3e0378fdc17650f3b09ab6" />
+		<rom name="jacob004\src\rooms\r15.map" size="960" crc="52d1d971" md5="ed1bf5a6afab203af0504365204a6b54" sha1="7f4f1da1d1fb570cf1714bc166a486fea410313b" />
+		<rom name="jacob004\src\rooms\r16.map" size="960" crc="3473833c" md5="e6646b01c7c974da3b139b43526a79aa" sha1="f9b12a0239d74296729078c7d151b824abfc1e0b" />
+		<rom name="jacob004\src\rooms\r17.map" size="960" crc="133d59f1" md5="a323566ccb8ee802fdf8054ab28d60fe" sha1="7391b7c9eb3d9e6f4693951e2dfccc88557cb6c8" />
+		<rom name="jacob004\src\rooms\r18.map" size="960" crc="94b31e8f" md5="d9d943f57026705fa75cce96d0d96ca1" sha1="beec1f0ff874062e50d644d7b53d05312ffe3319" />
+		<rom name="jacob004\src\rooms\r19.map" size="960" crc="9a4b8c72" md5="38680d3fd431d2ede3d2e5c0bd9ad9f5" sha1="63ca3b34d3d28c7e08e6007f9e4083947337eccb" />
+		<rom name="jacob004\src\rooms\r2.map" size="960" crc="d4dc431a" md5="8c4d15a8e5974d1b26bbf75173849955" sha1="3f1edfeaf70beadf873bfc7e523980c86ad4969d" />
+		<rom name="jacob004\src\rooms\r20.map" size="960" crc="61e86685" md5="fc399e1403260c8f42ffed5051aab4b3" sha1="e9af97f600bceacd393ee3c1836e0f0e0b7e4659" />
+		<rom name="jacob004\src\rooms\r21.map" size="960" crc="8c816571" md5="e4c9b190e28b0b3cda27a8606d4bad7f" sha1="8f497526b1d8ccbc5c6b80c15913b6cd4940d8e0" />
+		<rom name="jacob004\src\rooms\r22.map" size="960" crc="14135e08" md5="efb6520942613bba0722eb3762b25b7b" sha1="14f9d3eee64c11b8deb8f8095330dfdc2aca5f96" />
+		<rom name="jacob004\src\rooms\r23.map" size="960" crc="703690ad" md5="38d96207e6c0ecddbd0508cfbe4bb431" sha1="38bb080429a6951d62c6d49a0667d47fe912ff90" />
+		<rom name="jacob004\src\rooms\r24.map" size="960" crc="dd39de42" md5="323ecb6de51ca608c16a8adce247e406" sha1="8c86166ef5ab6670aa9c40d2d38c4bafb2bc09ce" />
+		<rom name="jacob004\src\rooms\r25.map" size="960" crc="7aad5ce6" md5="21c8f39e9eef97bcf0a58f72e146e850" sha1="35febcd6ce6d24a6c431ffba5185571dc176c936" />
+		<rom name="jacob004\src\rooms\r26.map" size="960" crc="309c604f" md5="84904fe6449e8fddb348785b1ea31219" sha1="5228c730cb9e8524df9542e9941b6bc6f96132a5" />
+		<rom name="jacob004\src\rooms\r27.map" size="960" crc="10afad94" md5="e4278263c8b8621313af1bb7a0d3a9c0" sha1="19ece53552e8255a58b0300593c4ddd244e0d9ed" />
+		<rom name="jacob004\src\rooms\r28.map" size="960" crc="71fb7b2e" md5="e4397c3c868f26652706f445b9b33039" sha1="ebd71f3bdec89285cbe56ef7be6a065449151401" />
+		<rom name="jacob004\src\rooms\r29.map" size="960" crc="f961278e" md5="db68392c939c6fcaa6b427d807a03c2a" sha1="40dfe85bc27bf526f4f9dfbb161f924d409ffab7" />
+		<rom name="jacob004\src\rooms\r3.map" size="960" crc="ec2eb95a" md5="f36abb896c123845febd8b2e8d2b7e43" sha1="b1494c901cafe03c53e34ba7749ecfe4f9ef50bb" />
+		<rom name="jacob004\src\rooms\r30.map" size="960" crc="d67b1c11" md5="a3baf6ce0aef9784adab4d1c83ff9eae" sha1="8b9c4928fd8d5ddfa70c4f1de7bcf968f4bbc4b3" />
+		<rom name="jacob004\src\rooms\r4.map" size="960" crc="9e3a4009" md5="805523673543070ef37963248a2dc38f" sha1="1338d0a077ecdc112c8042b968cbe4cf1c17c629" />
+		<rom name="jacob004\src\rooms\r5.map" size="960" crc="fffac2a7" md5="3cbce5782b8889e3e63997f9d707c601" sha1="20a07b35b46643d692c595ae8de337f7c2bfcfb2" />
+		<rom name="jacob004\src\rooms\r6.map" size="960" crc="af3c95ad" md5="2c4489fe0fbe0e58e70549e11f85d99a" sha1="5030b6f4e407a534b94ba4035e15b6cbb01b2f72" />
+		<rom name="jacob004\src\rooms\r7.map" size="960" crc="b8200cdd" md5="9d20e9c4c0a0cdfb219fd166b6f7f73a" sha1="8123dd5a2b11efd251f25ea0951fb828c8f0e9a5" />
+		<rom name="jacob004\src\rooms\r8.map" size="960" crc="4e29dd67" md5="1a0954f8a9e09d7ad53f83aa537220d7" sha1="bc8bb3d9680a9d1376bdca83f47832d8307fbc62" />
+		<rom name="jacob004\src\rooms\r9.map" size="960" crc="22740892" md5="273358cc753b3d0c8b510bdca8246047" sha1="4d0143e60869209b408f7cf7a7554bd38b195b97" />
+		<rom name="jacob004\src\scrpos.cpp" size="1870" crc="f257bacc" md5="1054024174705e1cb5f1766d5e9a1c47" sha1="b0e0605ea21919ededaf64557577e57f87ab1009" />
+		<rom name="jacob004\src\scrpos.h" size="694" crc="d4493b45" md5="40d02a49fb9e4af3f96fa148d21e2fa3" sha1="7544a100fc30ca7783e356a398924690f2fb5a9f" />
+		<rom name="jacob004\src\source.txt" size="30037" crc="e07c7a89" md5="97458ae2142a34f81b40ea440b84f279" sha1="57858a0dec284cdb32a309c8cbd009842c37c2c2" />
+		<rom name="jacob004\src\speed.cpp" size="836" crc="3b0a1f07" md5="4a73afbdbb8fd6f61fe18ebc28b6f36e" sha1="f9e5743018e0aed10f2acf0735bf2ac4748a7f3a" />
+		<rom name="jacob004\src\speed.h" size="504" crc="2d977515" md5="87873d890aa59b101daaf08e60225ddb" sha1="b4ce6cbb6447479af0afebaa10517979b696ddb4" />
+		<rom name="jacob004\src\support\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\src\support\enummaker\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\src\support\enummaker\enummaker.cpp" size="16965" crc="da31b683" md5="2f2c5c657336a0c76d6bf9b9a694b072" sha1="b877442b6e4d8ea052ac0fbb4bb4cc072d48d885" />
+		<rom name="jacob004\src\support\enummaker\enummaker.sln" size="886" crc="6bfefea3" md5="38f1309864aa3dd601e84d422e1eb317" sha1="124f00065af00c60364c5a94a2df3514a8b81a45" />
+		<rom name="jacob004\src\support\enummaker\enummaker.vcproj" size="4810" crc="fc632cb6" md5="a4dd3c96549201ca8fbc4a34f72f1082" sha1="1b213b103d07a7f83256ebd4f1a610feaa580271" />
+		<rom name="jacob004\src\support\enummaker\Makefile" size="177" crc="8a820b0c" md5="491c0be200ad27a6345144a7a8212e6c" sha1="0662fefad4ba7db3eb1929696127ce81068426d9" />
+		<rom name="jacob004\src\support\scripts\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\src\support\scripts\builddist.sh" size="1398" crc="778be04b" md5="aff4816cc550c6b710ee091dbd2921de" sha1="01b4e6cf8ac8ef0f2d70ff21e69e01b230b489c1" />
+		<rom name="jacob004\src\text.cpp" size="3461" crc="983cb526" md5="9a608710ed94a4adaf102c5a9106675a" sha1="ee0bcdad13263e54114f2e61777d296633710ad9" />
+		<rom name="jacob004\src\text.h" size="766" crc="661eca7e" md5="a8698cfbd423b423192bc29b50b16bed" sha1="3cc9979bb85cdea9134d8158d21f01d1101aa93e" />
+		<rom name="jacob004\src\text.txt" size="16870" crc="f17378e5" md5="4e82f2ef40e0961bef7d69ccb388bf71" sha1="1e731786d1532e9bc21a591f9b423ad18d4325b9" />
+		<rom name="jacob004\src\thread.cpp" size="2901" crc="0bd039a1" md5="0cba332f3a8378620fd74e163f76aee6" sha1="0b0f73610cc2004a05a4db6b71a7308df9f5da18" />
+		<rom name="jacob004\src\thread.h" size="4113" crc="3c2c6ac6" md5="77ac6f95d64fe63bba203e86a52575f8" sha1="e60f428ea457cc321cbd87ae991f2ce13d357c4b" />
+		<rom name="jacob004\src\thread_linux.cpp" size="1728" crc="21108d17" md5="012cfcac7742433730605cbd9aa11a3e" sha1="fdf2b4f0646661dca650cfe5ab3cdf8b153b7f1e" />
+		<rom name="jacob004\src\thread_linux.h" size="1095" crc="2cf5c510" md5="1f38ce16233156f8bfb9d3eb1fc596be" sha1="5b565ca8edcaf22aec4e5744a5552667eca3ba42" />
+		<rom name="jacob004\src\thread_win.cpp" size="1654" crc="aced3dc2" md5="f7cc46dd039da76dffabfcfb296c9dda" sha1="3c1db2ad35117d6cba64cc36bb89f3c4276dc064" />
+		<rom name="jacob004\src\thread_win.h" size="1057" crc="2ae5dee1" md5="a517c6acb2752ad0dd94c59af89de1ed" sha1="99c691945a6fb6507a6acbc698a75cd0ddedde55" />
+		<rom name="jacob004\src\TODO.TXT" size="1059" crc="b1d1ccdb" md5="2a28567b251e2f89469a01dbcd91d9a3" sha1="d67a0dca71a09287672af217179fba02187883a7" />
+		<rom name="jacob004\src\windows\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\src\windows\win2005.sln" size="878" crc="cccabf95" md5="ce224dd19442d87db30bad8885b0d446" sha1="39b4810cfbf7b0804e39c99b3608644c67c4c842" />
+		<rom name="jacob004\src\windows\win2005.vcproj" size="6178" crc="c1a11ac1" md5="0a69939c59abd8a691a90c12cf498bf1" sha1="b99a5e1787d4607c1df7b9122d32b66160d7da3d" />
+		<rom name="jacob004\text.txt" size="16870" crc="f17378e5" md5="4e82f2ef40e0961bef7d69ccb388bf71" sha1="1e731786d1532e9bc21a591f9b423ad18d4325b9" />
+		<rom name="jacob004\windows\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="jacob004\windows\jacob.exe" size="139264" crc="9da87796" md5="537f152268919aa52358adc9a5a6afa4" sha1="4c1ca94df3909d4a86ee20239efbde965e32a73e" />
+		<rom name="jacob004\windows\libogg-0.dll" size="15872" crc="339a707c" md5="2cb8ad29056dc3a931a3ee42cfa10c2e" sha1="e7354b01cfa94f3e8d7e6ae11575599ce2aaa4e2" />
+		<rom name="jacob004\windows\libtcod-VS.dll" size="113664" crc="b9c8a81a" md5="ad87108aaed711e41b7952aff237ea11" sha1="871afae898fa8df3a731fab4cdfb039847b1e026" />
+		<rom name="jacob004\windows\libvorbis-0.dll" size="157696" crc="b7e53887" md5="4714568955e3191b24d769bd4a4c48e9" sha1="5e175292546307d2f19f219ce223926be903f1d4" />
+		<rom name="jacob004\windows\libvorbisfile-3.dll" size="28672" crc="0f30d1f5" md5="c84c2e9fa7ab26cad45fa7fdfa183a4c" sha1="0df3ed74eb07150bcfc9e790c168a430b6d6f8e5" />
+		<rom name="jacob004\windows\Microsoft.VC80.CRT.manifest" size="1869" crc="1a12405f" md5="541423a06efdcd4e4554c719061f82cf" sha1="2e12c6df7352c3ed3c61a45baf68eace1cc9546e" />
+		<rom name="jacob004\windows\msvcm80.dll" size="479232" crc="1a6de475" md5="cae6861b19a2a7e5d42fefc4dfdf5ccf" sha1="609b81fbd3acda8c56e2663eda80bfafc9480991" />
+		<rom name="jacob004\windows\msvcp80.dll" size="548864" crc="5108e115" md5="4c8a880eabc0b4d462cc4b2472116ea1" sha1="d0a27f553c0fe0e507c7df079485b601d5b592e6" />
+		<rom name="jacob004\windows\msvcr80.dll" size="626688" crc="1891790f" md5="e4fece18310e23b1d8fee993e35e7a6f" sha1="9fd3a7f0522d36c2bf0e64fc510c6eea3603b564" />
+		<rom name="jacob004\windows\SDL.dll" size="321536" crc="f13b044e" md5="fd7e7a20a9cb5cca5dbb81ea3d207de1" sha1="15fb67a5ba30a63257d5875a609652433de1ac27" />
+		<rom name="jacob004\windows\SDL.lib" size="42702" crc="fe5c9974" md5="6bf7b8fec94e53ddcd24d2447ea7a89d" sha1="7a1c51737c8c46ef3ceac3ea62e2856d8ea8273c" />
+		<rom name="jacob004\windows\SDL_mixer.dll" size="312320" crc="8a15b1d7" md5="3de02a27ff14e3516fafbdcce3ee1380" sha1="782a0f45fbcc76447e989612477ae9e19b955ae3" />
+		<rom name="jacob004\windows\SDLmain.lib" size="42702" crc="fe5c9974" md5="6bf7b8fec94e53ddcd24d2447ea7a89d" sha1="7a1c51737c8c46ef3ceac3ea62e2856d8ea8273c" />
+		<rom name="jacob004\windows\smpeg.dll" size="235520" crc="7aa0e3fb" md5="8003fcb0f98f66b854245a1c40afa01d" sha1="39836c738d5cdb8b3e8475b3921888a9a7acfa8c" />
+		<rom name="jacob004\windows\terminal.png" size="3150" crc="2f01e925" md5="c4a24dd4390ad275c8aad7905152e7b0" sha1="b18a1b08e002a49bfc3476027b5ea7b13dfa5e3f" />
+		<rom name="jacob004\windows\zlib1.dll" size="35840" crc="27ce51c8" md5="ecce1e175a390260bbeb169b4768bb7f" sha1="bf5b30cc2c2c9b46e9513655222b38bc7c39999f" />
+	</machine>
+	<machine name="Nyctos">
+		<description>Nyctos</description>
+		<rom name="nyctos-1.0-win32.zip" size="4874858" crc="78341150" md5="7614c6f338702227309f74a9253e3002" sha1="67ad6a290bd28a4992c079d0ff6ad9e23a8caa51" />
+		<rom name="nyctos-1.0.1-src-a.tar.gz" size="7631280" crc="a64e0f67" md5="175ac43ec4013cb01285594531a0a745" sha1="51e4dc0715bc4f3127f86c8f110dbb804d2eb89b" />
+		<rom name="nyctos-1.0.1-win32.zip" size="7489894" crc="06802ea1" md5="a7de4d0d4426f42b2ad2d023629a73b7" sha1="fdf00785ac2bfed0fe7721635af09dcabf62089b" />
+	</machine>
+	<machine name="Persist">
+		<description>Persist</description>
+		<rom name="persist-7drl-win32.zip" size="425345" crc="a8a7b7f1" md5="0d4ae3960e93cb6d57939948453137c7" sha1="af78ea8464de7847fd7c9c43ef075a591d3e14f5" />
+		<rom name="persistrl-7drl-src.tar.gz" size="317276" crc="bc75955b" md5="46364db988b3e88e2b7a71aa9e16c217" sha1="62c8d77540f7d35239a349a27af9e4bff5ae087d" />
+	</machine>
+	<machine name="Pink Ninja">
+		<description>Pink Ninja</description>
+		<rom name="Pink Ninja\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Pink Ninja\documentation\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Pink Ninja\documentation\readme.txt" size="370" crc="ff443a24" md5="5d64ecf59732a40de3def528b0d84317" sha1="80cd71167c7f445d91f55913d7d7031f68793c45" />
+		<rom name="Pink Ninja\windows\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Pink Ninja\windows\pn.zip" size="23616" crc="dd7df355" md5="d736cdb1be2f05085dcfdfb0f92b5ad6" sha1="7f8670276b049e0784474691246cde373ad13997" />
+	</machine>
+	<machine name="SpiritsRL">
+		<description>SpiritsRL</description>
+		<rom name="SpiritsRL-Win32-0.3.13.rar" size="737954" crc="693e1b21" md5="c4defe8c68577e3d7cf01de9d30698b5" sha1="cd0c075fa6509b04e6c2dd94ca924f4095b14c92" />
+		<rom name="SpiritsRL-Win32-0.4.21.rar" size="714435" crc="b2883544" md5="1fedd46ef0a3088a9412dab404c1761f" sha1="13c4be04de5f7be9fcf58d845284f066adac376b" />
+	</machine>
+	<machine name="TetRLs">
+		<description>TetRLs</description>
+		<rom name="TetrisRL {7DRL} [Source C++].7z" size="12767" crc="ddd226ce" md5="4a2ff6d3e6dbc2e00e901c30167ad512" sha1="6552e26cf136985905c07a61c2b1f286d3fd5411" />
+		<rom name="TetrisRL {7DRL} [Windows].7z" size="780023" crc="4edaeca0" md5="6c7870c3098d91f6dfa7f03a36cf86c7" sha1="a50abeed6cd4d271058f653221b0dd3308ff4aa9" />
+	</machine>
+	<machine name="True god7drlwin">
+		<description>True god7drlwin</description>
+		<rom name="Truegod7drlwin\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Truegod7drlwin\7drl.exe" size="26112" crc="96c96f15" md5="fcc4b79f0fe65903e68687ba5bf2fd0e" sha1="9d37e1dff9dd6b0b754fd30299a6d89ca48445b1" />
+		<rom name="Truegod7drlwin\copying.txt" size="33077" crc="73ee8bba" md5="a7b9789c90eaae0df350e614a5a4d5de" sha1="3f377d09440fd6ddb4006889260501045a547a96" />
+		<rom name="Truegod7drlwin\mt liscense.txt" size="2068" crc="82dcba32" md5="64732089a993c42a17eaa148dde9e0bd" sha1="1d1a1fdb457101e1634f943f6331dec1e78e2f3b" />
+		<rom name="Truegod7drlwin\pdcurses.dll" size="118784" crc="7bd77e77" md5="8df023b6765b21cdf937a25d9d8f14e2" sha1="0d91be8123da39dbb3d0fa6376d1796f4ea1563e" />
+		<rom name="Truegod7drlwin\Readme.txt" size="259" crc="c27c1823" md5="bc330561223e1c5c51802734a3e526f2" sha1="af6113fca4c42830eec5d77fe339dda1e33490d6" />
+		<rom name="Truegod7drlwin\Source\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Truegod7drlwin\Source\arnie.h" size="1980" crc="c592ebf5" md5="beab40580d186cf703da813423b8bc95" sha1="34b6e1f4c0496d34995d404546e0d051942e3d75" />
+		<rom name="Truegod7drlwin\Source\ent.h" size="612" crc="366057b3" md5="835ed2933e471b4e74c9f61de14a3736" sha1="7ff090968776d186b51e66d2d0675dbec7e464d9" />
+		<rom name="Truegod7drlwin\Source\item.h" size="325" crc="461b668b" md5="b388917e647e13aa4819e59b0ef04e05" sha1="9d7315efe44f75554753429f046107b3c42771ef" />
+		<rom name="Truegod7drlwin\Source\main.cpp" size="33290" crc="4db98804" md5="9c701889fc9e9765e1386045c4c49459" sha1="78304f15d89244f7704453856caeef9c25abafb8" />
+		<rom name="Truegod7drlwin\Source\map.h" size="463" crc="aa3f2eb9" md5="f509ede947d6d86ef62edd1455b23122" sha1="42d0459fb73175a256bd094961e7a004a44a5946" />
+		<rom name="Truegod7drlwin\Source\misc.h" size="230" crc="8c3c3ed8" md5="d1ecc99727e7f5ed21bf042a9985034e" sha1="558aeb1cf4bec6b87f6e177c8b5037aa742b2629" />
+		<rom name="Truegod7drlwin\Source\mt19937ar.cpp" size="5997" crc="7a94c542" md5="c0b64e5a001d94e7104542f8e0c13815" sha1="3f692ab6904e9e3d64a95ce09d09172d12391e27" />
+		<rom name="Truegod7drlwin\Source\mt19937ar.h" size="2928" crc="4c283762" md5="c3c95fa23254fc6f3f69875a8557f3f5" sha1="e9cd139ec1451b0e937a862c8b98cec9a8f91105" />
+	</machine>
+	<machine name="Underbooks">
+		<description>Underbooks</description>
+		<rom name="Underbooks\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Underbooks\__Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Underbooks\__Doc\Underbooks - RogueBasin.mht" size="757982" crc="a7e2cd52" md5="982ec2fd18a46fa44aff354051eb3682" sha1="c43de073ecb46256bb9505f7816c517da72da319" />
+		<rom name="Underbooks\__Doc\Underbooks RL.mht" size="298078" crc="6241e180" md5="2d373ddea610451a222cbd49132b5adc" sha1="974f0ddd8daac564f0079b961d17a2501cc6c53c" />
+		<rom name="Underbooks\__Doc\underbooks.mht" size="681589" crc="a62300e8" md5="50c6345cf1c23347a6cc7a9a345bf436" sha1="947019852a965dcb9d9f2ec75edcab9c4db2f952" />
+		<rom name="Underbooks\CHANGES.txt" size="351" crc="bf7c3984" md5="81d3f1ef326e145c7eebf22b6b1eaf7c" sha1="6ccbd849f5b9fee91165132751e0c9462fb8f53d" />
+		<rom name="Underbooks\LIBTCOD-LICENSE.txt" size="1674" crc="4fe7acb4" md5="6bc05c7343c4ac114e3d093fd1f748a0" sha1="e56db85b31c44b9a82180dae1e8ea02cdaa6e024" />
+		<rom name="Underbooks\libtcod-mingw.dll" size="48128" crc="ab0e9fc3" md5="deac2fad13e1a628a97531b7ffb7615d" sha1="3a9f7987d10fa6d41d6b059eb0ff834cc495e66b" />
+		<rom name="Underbooks\MANUAL.txt" size="5801" crc="3dcd5de9" md5="fecc96f6f0c39e67d4d2bf1dc3648040" sha1="96e4f1b92f28a19f7f683b15a7b6bb6d577f8732" />
+		<rom name="Underbooks\README-SDL.txt" size="438" crc="f0b47880" md5="fae21a9827f299a3d63e93f0f41c2a04" sha1="ef471f5b093beb18a0a37618f7876d7ec5ae7799" />
+		<rom name="Underbooks\SDL.dll" size="135168" crc="52751c3e" md5="1f7191f8c9218fbf6e08ad6562375f6e" sha1="d3f4ce3e0c092b28fb22d3d6627013b7540ed81f" />
+		<rom name="Underbooks\terminal.bmp" size="49206" crc="9a031d1a" md5="757ce42cd5bc1783322137acbf66d0f4" sha1="4a592264600e541cb51ebd3497ccb1273ae48c48" />
+		<rom name="Underbooks\titles.udb" size="2499" crc="3c53824b" md5="946e891ad68cdbdd3eb6e3d6313fc2a3" sha1="6f2ef66849b877e7dfa40b164718550afed16f3d" />
+		<rom name="Underbooks\Underbooks.exe" size="530432" crc="4a01bb73" md5="7ef8f782b9c6f831c62ec045ca1dfe9d" sha1="f6eceb107e271746554bef4e23ced2427015fbef" />
+	</machine>
+</datafile>

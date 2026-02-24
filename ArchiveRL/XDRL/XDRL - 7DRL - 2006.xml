@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ArchiveRL - XDRL - 7DRL - 2006</name>
+		<description>The classic roguelike archive - XDRL/7DRL/2006</description>
+		<category>Standard DatFile</category>
+		<version>1.1</version>
+		<date>2026-02-23</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://arkhammanor.com/rpgbase/RLdb.html</homepage>
+		<url>https://archive.org/details/ArchiveRL.7z</url>
+		<comment></comment>
+	</header>
+	<machine name="2DRL in 2K">
+		<description>2DRL in 2K</description>
+		<rom name="2DRL\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="2DRL\2DRL-in-2K.exe" size="41472" crc="41b3d742" md5="65da261e5cef09a00738bc20be22b6e3" sha1="30c52f93644cded58d29142e20dfd3faa01c504f" />
+		<rom name="2DRL\win32.c" size="2258" crc="83d8ebe0" md5="7bcd91a2587ad3538a8bcb0250e9e633" sha1="02bea0c76d22128d1eab429d4fff1cd9d176cb9f" />
+	</machine>
+	<machine name="_Doc">
+		<description>_Doc</description>
+		<rom name="_Doc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="_Doc\2DRL in 2K - RogueBasin.mht" size="331457" crc="50ded860" md5="e1ec17aff61a5ef9581a30a74c502811" sha1="9674b91707f2127de51f9076d811453082f3bf1b" />
+		<rom name="_Doc\7DRL Contest 2006 - RogueBasin.mht" size="343735" crc="3a5d3518" md5="547c857ad36fe2f9fdc5059c5072b31c" sha1="2b347ee40d4399d10fce328e5813de2410901eb7" />
+		<rom name="_Doc\Ali Baba's Cave the 7DRL.mht" size="252677" crc="3cf67340" md5="58ad467cbc1dff86bcda73bbf5c8ae55" sha1="b6d26d62a26b4a23e39c631e4658522d0ba3d331" />
+		<rom name="_Doc\Happy Hunting - RogueBasin.mht" size="331401" crc="30e05c12" md5="ed1cd03fa0a64ace7e6318372f1e352a" sha1="4ed7de9532672edbb6de20e35fccd79564818aeb" />
+		<rom name="_Doc\Letter Hunt.mht" size="31250" crc="35a92f03" md5="20dc9cb3eda74151629e27c555563902" sha1="c238233d165c49e03a0326180ee1dd388df96514" />
+		<rom name="_Doc\Mt. Drash_ the Roguelike - RogueBasin.mht" size="337273" crc="6cda521f" md5="4715f75aaeb2b28ce9ca58b59f803955" sha1="79638b821955fa83f97d1a1f5ee5448bce463df5" />
+		<rom name="_Doc\Orange October Minigun 7DRL Contest 2006 - RogueBasin.mht" size="373599" crc="1d103b56" md5="6a95370e67692e2524a5cee42d5bb018" sha1="c7fc2d79498e0794eb56675d0d67eae1f0ab9dd8" />
+		<rom name="_Doc\Robson » Paprika.mht" size="35321" crc="f6b776e3" md5="22df06c347f970eb633a442742d882f6" sha1="c4722e1b8e26591b4f16e9161932418dce6b2d6f" />
+		<rom name="_Doc\RogueDash.mht" size="191161" crc="4df2eab5" md5="ea4d14d490120bceedd39dd41aa97148" sha1="a6a0904d7d3a11bf6dcd62eee4cc48f3ea852936" />
+		<rom name="_Doc\RogueTower - RogueBasin.mht" size="334103" crc="f8dcf844" md5="ec2422594556c0bf0189131f9b9c92d4" sha1="84208908211618d5cc9861e4a288f5ca1b264082" />
+		<rom name="_Doc\The Rougelike_.mht" size="20226" crc="fdbc64aa" md5="9812d06681c1684eb3b0453faabbc979" sha1="ce0511780a86f08f00964beeaff9e8286648378a" />
+		<rom name="_Doc\The Sewer Massacre - RogueBasin.mht" size="334265" crc="eda79de3" md5="97a7240410487c702f3485a4251c215f" sha1="d2839713e34587c9ef8ea9d600bcd08ab6f6535f" />
+		<rom name="_Doc\Valley of Ge-Hinnom - RogueBasin.mht" size="330385" crc="b9736347" md5="06f275ae79ffdf84486e91cbea9a679a" sha1="b4c7857023743c77b044951a2951518158b0863a" />
+		<rom name="_Doc\Warlock of Firetop Mountain - RogueBasin.mht" size="487468" crc="e27fd5c1" md5="8e3f0043ba0f12e551cb7e5ee6b0b65f" sha1="3849975b0d5e25294d846df1b9df826dccb0b73a" />
+		<rom name="_Doc\Zombies.mht" size="2234" crc="f3b07116" md5="5df4cc6a7c572eaaf18cf047ce1bb6bf" sha1="8cc8b44088580e1c8affe496a2d81e8d3c329e47" />
+	</machine>
+	<machine name="Ali Baba's Cave">
+		<description>Ali Baba's Cave</description>
+		<rom name="linux\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="linux\abc_linux_bin_2.tar.gz" size="258268" crc="b0ffa047" md5="5758c1f9b0531d4728b23edb05a6819f" sha1="f41a8fb4da7ae1a0c902b0967ac0529b2a9a441f" />
+		<rom name="sources\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="sources\abc_source_2.tar.gz" size="316069" crc="05af34e0" md5="1866d5563987e5f507e2d434dcf68fb0" sha1="76afb2dde28e41301e2e703084af068c5fb18f70" />
+		<rom name="windows\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="windows\abc_windows_bin_2.zip" size="447280" crc="5489efb6" md5="dd4391d59d40a85ec941aa4ee57ede45" sha1="66f75dcfedfda6764f8bc92276e49a43880ecee7" />
+	</machine>
+	<machine name="Bone To Be Wild">
+		<description>Bone To Be Wild</description>
+		<rom name="56__bone.team" size="2226042" crc="9af34fc1" md5="56d68f2a7cf4b76f6a3c29d1c65ceea2" sha1="20252260e3b8674da1edc71e06a602c0a5156db2" />
+	</machine>
+	<machine name="elements">
+		<description>elements</description>
+		<rom name="defaults.nh" size="6692" crc="ea581b41" md5="6569916c50641a9a46569c3e5b2972c5" sha1="6c8813fd7893105cf0f1ef96060b5223e7c353e2" />
+		<rom name="elements.exe" size="1494016" crc="47bd33ff" md5="5e7bfde2dfad2d4ab152598bf04d94ee" sha1="5c7549a6f49ff0d5740968a03dc373be238e9d5f" />
+		<rom name="license" size="4875" crc="862b9e80" md5="9dfb90a531b09855665fcef81b592793" sha1="c6c884b56ead76f3380ffd8d10f62f99c6a32829" />
+		<rom name="logfile" size="12085" crc="4e96f95e" md5="49bc849441c4117804e0dccd1f256288" sha1="1a3f788f31b96c4fd5bf8a7129d1c1522114716f" />
+		<rom name="NetHack.tds" size="1638400" crc="ca9ddc28" md5="589fc405a5fa7a5f0233ea8df41faae9" sha1="d89a10b66aae3e30efbcf998f782411a0213847f" />
+		<rom name="nh340key.dll" size="59392" crc="185d824f" md5="417fb95b791810e48751a2681a52ec92" sha1="e0da8b257bc7431bf776837577905b50b2fc176a" />
+		<rom name="nh340key.tds" size="458752" crc="f7099d50" md5="87b88c88683717da698ad17f7cd9aa60" sha1="ae7da945201f2969ff1a9aa5871e86635aee64d6" />
+		<rom name="nhdat" size="606992" crc="99c2344a" md5="ae3642356198d428297beaa6e0593eb2" sha1="368c769100d448b247a4ee0d1455b30ecb178a15" />
+		<rom name="nhdefkey.dll" size="59904" crc="4500968a" md5="7a305e89f99b3838f2518dcb2dbfef17" sha1="8663a80ecc2dc6e567fefe5eb465b894ba23ec58" />
+		<rom name="nhdefkey.tds" size="458752" crc="f07f541c" md5="40eb442e3112db755c722806c59a3b76" sha1="1140796aba1d409920e31241bfbc789b57e20abf" />
+		<rom name="nhraykey.dll" size="59904" crc="e9a35557" md5="babf1675a3f75955279577bafb46159c" sha1="004d56fa430387586d94c072f16c2020ab88e344" />
+		<rom name="nhraykey.tds" size="458752" crc="0df1d806" md5="b425d5acd51fc48d27c3c647cd0258c1" sha1="3247dbbdc764ba5548f634e162dbc37e803df12d" />
+		<rom name="opthelp" size="13647" crc="14b324dd" md5="7d37bec95bf8c05962160123db580add" sha1="322b71d1d01ba9a8faf1d675bf603d8d49d5bc68" />
+	</machine>
+	<machine name="Happy Hunting arid7drl_win">
+		<description>Happy Hunting arid7drl_win</description>
+		<rom name="arid7drl\.aridrc" size="2961" crc="8012d53f" md5="926265d61b231a9407b8b690816a7af8" sha1="7fb3d868925f42b64fc25ef4f6ee3202c5a6886a" />
+		<rom name="arid7drl\arid.exe" size="781556" crc="60e427f2" md5="84faf088391dd401e1a4dcb702c25da7" sha1="5066807cc7da1fecb823b39602d90bed46b3bccc" />
+		<rom name="arid7drl\arid_src_0.16.64.tar.gz" size="195308" crc="376bdade" md5="10e4ca412406cd640d91ce815fc22b6d" sha1="1db1da90e907932dcb29ca2797ed24256f7ed56c" />
+		<rom name="arid7drl\aridrc.kb" size="2961" crc="8012d53f" md5="926265d61b231a9407b8b690816a7af8" sha1="7fb3d868925f42b64fc25ef4f6ee3202c5a6886a" />
+		<rom name="arid7drl\aridrc.lap" size="2929" crc="93defcea" md5="ef78aeee838c2ecc37a22797791b19ac" sha1="e8adefb27ce9b01a8e9d78ae95e4762b734db62d" />
+		<rom name="arid7drl\native2" size="2852" crc="ac33c708" md5="ed36c171839d439dd8e3d70553e97a2a" sha1="debeae99629616e788607250c5d4a60233c931b9" />
+		<rom name="arid7drl\readme.txt" size="351" crc="3e39c958" md5="e99a58827eb18ffef69104fd710dc70a" sha1="d058cb16330d130ef9b9b14e85c779fe24c5752f" />
+	</machine>
+	<machine name="King of MuHyup">
+		<description>King of MuHyup</description>
+		<rom name="King of MuHyup {1.000} [Source FreePascal].7z" size="32100" crc="9c09b4b9" md5="db408f8bf6c3bd1417935f078e1a6602" sha1="32f71f4dd3f44e5d6af395bc1bc221223178ffed" />
+		<rom name="King of MuHyup\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="King of MuHyup\kom.exe" size="548064" crc="6ee3fa86" md5="c8126c0827b33fa008ca85bb263113f6" sha1="ff3a381d93fcdf56439349f8dc67fcc8e3470f94" />
+		<rom name="King of MuHyup\readme.txt" size="1054" crc="c8ad3960" md5="b9f1cd9af1311752565763ba070812f5" sha1="4add7bff330bd1d7779af90e135b1f16afad904a" />
+	</machine>
+	<machine name="Letter Hunt">
+		<description>Letter Hunt</description>
+		<rom name="letter hunt.tar.gz" size="1096607" crc="e8781118" md5="1b0aad20a3e0d594810b6ec70dbd0500" sha1="17ad5cbd16e0f399fba9db6b2f86280a9e5ff67f" />
+		<rom name="letterhunt002.tar.gz" size="1514001" crc="948c39b4" md5="71690d03e04ac58d4b9dc2593870c9e5" sha1="a8484de42761fed5784c25679cda0a14431acbc6" />
+	</machine>
+	<machine name="Magic Monsters 7DRL">
+		<description>Magic Monsters 7DRL</description>
+		<rom name="Magic.zip" size="258579" crc="753f82eb" md5="6cdaf3764e6e6e07f1906834003b0d68" sha1="3baa1c69c871f9d90247a55e8e9435e22e9013b2" />
+		<rom name="mmSource.zip" size="25445" crc="f7a50e93" md5="bf0e5c082eaab786b48cfecf4ae0e286" sha1="6f578969a10960da74b4b4a3dfb5db1f7233e0df" />
+	</machine>
+	<machine name="roguedash">
+		<description>roguedash</description>
+		<rom name="roguedash\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="roguedash\data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="roguedash\data\ammotype.lst" size="7" crc="8ac86bce" md5="61fb35adb6c1ab2d1796be672054c4d5" sha1="053ab36779f9a2dae59a0be0e705a5121bedee31" />
+		<rom name="roguedash\data\category.lst" size="113" crc="89347c10" md5="adbd203516cf3da7b370ddb384577339" sha1="122a907e3e4ff955f5d962327af5cc487e29ee72" />
+		<rom name="roguedash\data\grenades.lst" size="477" crc="67ebbde0" md5="cbe0ea0d378e6cb71980368127897157" sha1="d878cf758c73ed29393f593dd43eba5ab6227afa" />
+		<rom name="roguedash\data\items.def" size="768" crc="76cba6d4" md5="74895cb1548f68457b38ef65965795ac" sha1="8e95af25807c702490149270320580ddfbae47d2" />
+		<rom name="roguedash\data\keyboard.def" size="445" crc="8111b41a" md5="e79ee7e049a603fc8315fb105c5d7c4d" sha1="ddb17354cd2212dfe30b9cafb6ed42aa286c0a1a" />
+		<rom name="roguedash\data\levels.def" size="330" crc="5c889ebc" md5="0801bc2f9b432b0b518e2a288c812b44" sha1="203aa2085ec33872889b7309ed9b57be485522ae" />
+		<rom name="roguedash\data\monsters.def" size="948" crc="e482a183" md5="eb80e472a47d201896ea5d24bdafa378" sha1="3e366eccb7d66df9feb26b2ddcea318ee2dd90a2" />
+		<rom name="roguedash\data\pills.lst" size="377" crc="a02bc569" md5="3d6014da24c9a8853463b50ec41d2549" sha1="251546c4a4b6e42926f40c1277b3cc457119a904" />
+		<rom name="roguedash\data\README.TXT" size="364" crc="219a66ad" md5="8fcb26a791d242995d16301f89307b1f" sha1="f4a86299f56e1e885b813bec6fa7694060bc1802" />
+		<rom name="roguedash\data\terrains.def" size="727" crc="cad64faf" md5="10b5557c0f016998ea58e1dc6ef3b17c" sha1="5343590356d1d4818f47d48cd048f8a892ef3221" />
+		<rom name="roguedash\data\un_gren.lst" size="17" crc="25331e36" md5="5b75a147737707cf877037cc8417e826" sha1="87423393e6baf7012bf0ed1eb2c6e7525162ffb8" />
+		<rom name="roguedash\data\un_pills.lst" size="17" crc="25331e36" md5="5b75a147737707cf877037cc8417e826" sha1="87423393e6baf7012bf0ed1eb2c6e7525162ffb8" />
+		<rom name="roguedash\readme.txt" size="1142" crc="b08bf1a4" md5="fc0e33bfcfc3d2a1a7e7bd25690cefa3" sha1="bb5a9ebb09b1627a1a6c760df3a7d7c2717370f3" />
+		<rom name="roguedash\RogueDash.exe" size="203264" crc="7874ff16" md5="8b7361d8a9e60b382dd84afb9098756d" sha1="9e8a78974f55b00372a623db81b5d989ef60e57c" />
+	</machine>
+	<machine name="RogueTower">
+		<description>RogueTower</description>
+		<rom name="RogueTower\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="RogueTower\documentation\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="RogueTower\documentation\Manual.txt" size="5194" crc="03967909" md5="7c21e5dd3f55692bbe16c7926265b117" sha1="6992c7151d974edf86b8a51b5eae6f6047bc9284" />
+		<rom name="RogueTower\windows\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="RogueTower\windows\0.3 [latest]\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="RogueTower\windows\0.3 [latest]\RogueTower.rar" size="534562" crc="55982804" md5="b88c01c479405622ede7e5db33dfcc0f" sha1="c2f0d78566c3b29ca0b1e4d9cf85b2b7edc73a9b" />
+	</machine>
+	<machine name="The Curse">
+		<description>The Curse</description>
+		<rom name="SevenDay\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SevenDay\Makefile" size="203" crc="53345e60" md5="db087a68a1fccc7c1af8889cd9663398" sha1="30381c339c24ff0799bcd71534e13370ee39a41f" />
+		<rom name="SevenDay\readme.txt" size="1452" crc="681072a7" md5="d982d60c7986b43436db1dc7443cf652" sha1="8f88207bae04189256a1f4dd11bd16c3b6123de6" />
+		<rom name="SevenDay\SevenDay.c" size="65574" crc="66408f8d" md5="53713752f29ff2584d374e01fd5ca57d" sha1="160199c2db5e0a076403420f520fcb9a9c39d889" />
+		<rom name="SevenDay\SevenDay.exe" size="89600" crc="a0b2e2a1" md5="89af3c298f8efa7417aa60887b52506c" sha1="7f48cfaba1a608a4db7c07d0c7ab1a84ac91a0b5" />
+		<rom name="SevenDay\SevenDayOriginal.c" size="53844" crc="c8beb963" md5="06124717b86ff42b5a80fb2835e46fc1" sha1="5e8571f393b38850bc7732f418ed800594a6582d" />
+	</machine>
+	<machine name="the rougelike">
+		<description>the rougelike</description>
+		<rom name="GNU-GPL" size="18159" crc="5a923aa3" md5="6596adfdd6a87b1d04c38c2bd05de0cd" sha1="73012c6587a8e20991836d8d0d8544d3b9ef10c3" />
+		<rom name="license.txt" size="522" crc="1d5093e0" md5="64154c02c272c8e003f0deef518faaad" sha1="1108901c7ba6af09dcc57ac6d046c5bbaa259b22" />
+		<rom name="readme.txt" size="1148" crc="ff85ae4a" md5="517055f62bbd2581d359bc4dbab2942b" sha1="488642bb656c104538885257efddf5b4ad49857e" />
+		<rom name="rouge.exe" size="5639014" crc="1a82dc15" md5="0ab44c7f948e369e94348b31a8004b68" sha1="ea2837372e319544a750847334f02b69cd473c2e" />
+		<rom name="SRC\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SRC\C\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SRC\C\main.c" size="10245" crc="c258c5a8" md5="61f0f9cad94be0ab230ba0dccc244e8b" sha1="3cb47614a75010857cb72a2feefc2358fa552818" />
+		<rom name="SRC\LISP\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="SRC\LISP\console.lisp" size="2593" crc="7c02e0ec" md5="50e9dc96854bce19be8f1f3304a1fe29" sha1="e76331d67037061effb09a5814e5055ee97473b4" />
+		<rom name="SRC\LISP\rouge.lisp" size="58041" crc="6ea5eac3" md5="c4e75c0f4370c2ea7778b36313467530" sha1="b8e5e31a5b891147345534cf0c5ba1973c0f971e" />
+		<rom name="TextConsole.exe" size="98702" crc="8d533600" md5="4618399e1948c4f1d6b2c07149929262" sha1="9b42f3a54ad55a7e567147fa7abeae75daa74f0c" />
+	</machine>
+	<machine name="zombies">
+		<description>zombies</description>
+		<rom name="zombies-win.mht" size="9244" crc="62c30f32" md5="ad8f6ff0eb73dfe7f90813d190752a29" sha1="36a5da6b15428e5cb0025fec7f8634a1233a856d" />
+		<rom name="zombies-win.zip" size="1706706" crc="6d58575c" md5="4a896b905d8b4bc6946dc5f380a0988e" sha1="c73dd44a8085db836a4ad381af0b4cb3b177ea5e" />
+	</machine>
+</datafile>
