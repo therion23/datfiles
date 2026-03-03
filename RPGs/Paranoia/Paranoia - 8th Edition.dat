@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Paranoia - 8th Edition AKA Red Clearance Edition</name>
+		<description>Paranoia - 8th Edition AKA Red Clearance Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-03</version>
+		<date>2026-03-03</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="292" crc="b71a8197" md5="f16f6d901f8b96fd744475a332e185b4" sha1="de139b9b250d355e56192369e512f2dc9360b4f2"/>
+	</machine>
+	<machine name="ENC027 - Big Book of Conspiracies - 30 Treasonous Paranoia Plots">
+		<description>ENC027 - Big Book of Conspiracies - 30 Treasonous Paranoia Plots</description>
+		<rom name="ENC027 - Big Book of Conspiracies - 30 Treasonous Paranoia Plots.pdf" size="3303754" crc="ef4421c1" md5="fb7c0e046cd98a00b2af7377fa1b6eff" sha1="7834a97da4e5f59a478284d111076b2275fe7faf"/>
+	</machine>
+	<machine name="Handout - Character Sheet">
+		<description>Handout - Character Sheet</description>
+		<rom name="Handout - Character Sheet.pdf" size="139499" crc="24399dde" md5="54f5114a442dc8db3431761b39f31fae" sha1="b76906a4b6b7335e841ebb748d530fff6d6b158a"/>
+	</machine>
+	<machine name="Handout - DPM - Feedback Form">
+		<description>Handout - DPM - Feedback Form</description>
+		<rom name="Handout - DPM - Feedback Form.pdf" size="68126" crc="919d1181" md5="d528839b9b5570d5b0e51fbdfd8462ac" sha1="f6fc8613bb29c1b435b038765407f39092a11156"/>
+	</machine>
+	<machine name="Handout - DPM - Messages">
+		<description>Handout - DPM - Messages</description>
+		<rom name="Handout - DPM - Messages.pdf" size="21740" crc="b0318f4a" md5="eda27e9ae19b71288144180eaff59c16" sha1="3530a53223632764220220e525a6f329c4ad1b93"/>
+	</machine>
+	<machine name="MGP50000 - Card Set">
+		<description>MGP50000 - Card Set</description>
+		<rom name="MGP50000 - Card Set.pdf" size="11732603" crc="df790086" md5="607c66bc547f42984ea3c09cf1244912" sha1="04f97eff7dba10059c1732de0b935013df5b758a"/>
+	</machine>
+	<machine name="MGP50000 - Gamesmaster's Handbook">
+		<description>MGP50000 - Gamesmaster's Handbook</description>
+		<rom name="MGP50000 - Gamesmaster's Handbook.pdf" size="9951127" crc="e38ffed7" md5="3cc30a1e5caffa84a7dc4477e1d29656" sha1="f1dd8c11548903173c54ed87d1e4ec868b5ed884"/>
+	</machine>
+	<machine name="MGP50000 - Mission Book">
+		<description>MGP50000 - Mission Book</description>
+		<rom name="MGP50000 - Mission Book.pdf" size="19432333" crc="066d24c5" md5="35d776d1e4ceb1fdef3b0a7c990f27e4" sha1="6eb397fc0526b7015c5affa11233abe59913ba60"/>
+	</machine>
+	<machine name="MGP50000 - Players Handbook">
+		<description>MGP50000 - Players Handbook</description>
+		<rom name="MGP50000 - Players Handbook.pdf" size="4488769" crc="3a1f9e44" md5="16f0d018e2146358a9ed6f3c9c2d6d1c" sha1="10f6da324cb8955fd6e42e13c49c7f2c6c4a4d9f"/>
+	</machine>
+	<machine name="MGP50000 - Red Clearance Edition (Starter Set)">
+		<description>MGP50000 - Red Clearance Edition (Starter Set)</description>
+		<rom name="MGP50000 - Red Clearance Edition (Starter Set).pdf" size="18638661" crc="08807e4e" md5="b7835314e9ed3ef4f48403de7cf608c9" sha1="5a0dbfab30930f47de736761991e0fd63347d706"/>
+	</machine>
+	<machine name="MGP50001 - GM Screen Back">
+		<description>MGP50001 - GM Screen Back</description>
+		<rom name="MGP50001 - GM Screen Back.pdf" size="420856" crc="fe80fc1b" md5="3f03e0e0c382074b7ab4a9970f74645a" sha1="48b78af1aeeea1b75205b0d11724469c88d15b3b"/>
+	</machine>
+	<machine name="MGP50001 - GM Screen Front">
+		<description>MGP50001 - GM Screen Front</description>
+		<rom name="MGP50001 - GM Screen Front.pdf" size="412905" crc="431c9a72" md5="ce948d0bd4a177e932c97e160d7627c3" sha1="c5ba741106e6c7dd96797fe08e365683e42a8d86"/>
+	</machine>
+	<machine name="MGP50001 - GM Screen Insert">
+		<description>MGP50001 - GM Screen Insert</description>
+		<rom name="MGP50001 - GM Screen Insert.pdf" size="839998" crc="648f402b" md5="3e871d2c7b81a39a5fbdbca526f59fef" sha1="d5abb870437d102a9dd82938c7a624543e4cc0c8"/>
+	</machine>
+	<machine name="MGP50002 - Forms Pack">
+		<description>MGP50002 - Forms Pack</description>
+		<rom name="MGP50002 - Forms Pack.pdf" size="933391" crc="504eb636" md5="4595c57962ac1a322cc1514f97605d59" sha1="da7b4975ed3dc53fcceaa085add8df994079ee43"/>
+	</machine>
+	<machine name="MGP50004 - Mutant Explosion">
+		<description>MGP50004 - Mutant Explosion</description>
+		<rom name="MGP50004 - Mutant Explosion.pdf" size="3074866" crc="68d4b7f2" md5="14d3d5458cd22fd09c4606b4ca2f72f3" sha1="b80f6b66aaad3867318287e54757e6a4f0a4f9c0"/>
+	</machine>
+	<machine name="MGP50005 - More [Redacted] Societies">
+		<description>MGP50005 - More [Redacted] Societies</description>
+		<rom name="MGP50005 - More [Redacted] Societies.pdf" size="4428088" crc="a482823b" md5="e4dec491c145037f2e765b292a2c8fb9" sha1="5125536c987f32fe576be49cc3d633e0d8412fbb"/>
+	</machine>
+	<machine name="MGP50006 - The Yellow Clearance Black Box Blues Remastered">
+		<description>MGP50006 - The Yellow Clearance Black Box Blues Remastered</description>
+		<rom name="MGP50006 - The Yellow Clearance Black Box Blues Remastered.pdf" size="8368452" crc="c5d95038" md5="1d030cef3e3d57b30b6c7f19a292e9bb" sha1="e5cca225513d6fe4bdf893a031b7d044e001c31f"/>
+	</machine>
+	<machine name="MGP50007 - Implausible Deniability">
+		<description>MGP50007 - Implausible Deniability</description>
+		<rom name="MGP50007 - Implausible Deniability.pdf" size="3951489" crc="e9130ccd" md5="feb26a8c9fd61391252d66b34c3d7e06" sha1="38323da08f3e895ab88c5d9ea447077931e28a7c"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Action Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Action Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Action Cards.pdf" size="1244524" crc="211c62f6" md5="48e1222951155c801519002a2b9cd330" sha1="dfaec95dce6b7681614933a202401b44b14e1e19"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Bestiary Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Bestiary Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Bestiary Cards.pdf" size="1564558" crc="b4d358a9" md5="10eafccedd3ac0f63eff5e93cad290b3" sha1="9ba6602043904d6a6e85458b5aa1ae617c94c59f"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Bot Brain Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Bot Brain Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Bot Brain Cards.pdf" size="582769" crc="c1773344" md5="0a270f7fd8d7c0cb8c515cf4c25af8c8" sha1="3c7f0d2eda2011890037a8c7cf5f05c441383a1c"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Bot Chassiss Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Bot Chassiss Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Bot Chassiss Cards.pdf" size="659083" crc="59a0992f" md5="758aa83bba081635764e726141452363" sha1="0bf6d8f866c68cf2439c64e50e2f6354e01bef75"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Bot Glitch Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Bot Glitch Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Bot Glitch Cards.pdf" size="1060722" crc="1e5b8cfb" md5="e71c60a94ded635821745ac60deff76f" sha1="39cd8add17dfd39f4f56380d1a2b9f77f83f9c27"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Bot Identity Form - Character Sheet">
+		<description>MGP50008 - Acute Paranoia Box Set - Bot Identity Form - Character Sheet</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Bot Identity Form - Character Sheet.pdf" size="56894" crc="639bc6ea" md5="4d391fcf843f59e4060758d74e5ca800" sha1="471d52029307006e93ec0af24ac481725a25b9bb"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Bot Module Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Bot Module Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Bot Module Cards.pdf" size="1264081" crc="e2e076e7" md5="4e590defde5f97e7f4e24baa9d839a2d" sha1="390a9c745a1f38a208ede78e915c9e5ed5c0cbf5"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Disorder Bingo Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Disorder Bingo Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Disorder Bingo Cards.pdf" size="282436" crc="479b513f" md5="6ac9b40ab4d39c58f3679ce8f3592434" sha1="bb74719b38e9f6401d990f85c5c637eb9af04499"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Equipment Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Equipment Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Equipment Cards.pdf" size="1285045" crc="3da46cd2" md5="3816b85ba3b3db54c493efd7ee709a4b" sha1="c5ad880d217988a374d6f7936b1ee035512ad8a9"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Gamemasters Despotic Power Book">
+		<description>MGP50008 - Acute Paranoia Box Set - Gamemasters Despotic Power Book</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Gamemasters Despotic Power Book.pdf" size="6326449" crc="d6eab35f" md5="1826272c7ced6aa24baa74bcba3c5c70" sha1="7f5d270fe1ca5550b07fec43c01fc87582874da9"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Mission Book 2.0">
+		<description>MGP50008 - Acute Paranoia Box Set - Mission Book 2.0</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Mission Book 2.0.pdf" size="5402526" crc="7d0d2232" md5="96ff37a1e235e79715deaa7ed603e043" sha1="aaa40bf7ba43f6a6b260ef66e4913a6a1d5c164d"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Mutant Power Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Mutant Power Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Mutant Power Cards.pdf" size="915133" crc="a2eab032" md5="5a8767bf50661b194e14a565f39814ca" sha1="d0ecd837d0e4744d01accf3c31d5bad400de4e6e"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Secret Society Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Secret Society Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Secret Society Cards.pdf" size="437172" crc="a4812879" md5="4b3453e2936c72ea997c53c71945c596" sha1="4b5d19b460ab17c1907a5c314449f00bdd864c58"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Troubleshooters Survival Handbook">
+		<description>MGP50008 - Acute Paranoia Box Set - Troubleshooters Survival Handbook</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Troubleshooters Survival Handbook.pdf" size="5718978" crc="4e6d3a4e" md5="07d35b629ae52570800c3a6b8d482a13" sha1="7e6b036bc3f922389560179326f2993727656723"/>
+	</machine>
+	<machine name="MGP50008 - Acute Paranoia Box Set - Virus Society Cards">
+		<description>MGP50008 - Acute Paranoia Box Set - Virus Society Cards</description>
+		<rom name="MGP50008 - Acute Paranoia Box Set - Virus Society Cards.pdf" size="720626" crc="710ef53a" md5="6a271bf10ff373d0864e8c43a5c68421" sha1="2244618b546d12009d6d8388f969dab186e8b0fd"/>
+	</machine>
+	<machine name="MGP50009 - The RAM Deck">
+		<description>MGP50009 - The RAM Deck</description>
+		<rom name="MGP50009 - The RAM Deck.pdf" size="1275568" crc="e3635633" md5="2fba414dc791b996856399326b178557" sha1="61e0737f58ef9c5a2601266f96b36dde61a949a6"/>
+	</machine>
+	<machine name="MGP50010 - Perfectly Safe Gear Deck">
+		<description>MGP50010 - Perfectly Safe Gear Deck</description>
+		<rom name="MGP50010 - Perfectly Safe Gear Deck.pdf" size="3067672" crc="b6653a49" md5="99de6b874f0eadbb8c9c7ada03182ceb" sha1="73649f84da9cae7a18ac5164ed7d323875f76f7b"/>
+	</machine>
+	<machine name="MGP50011 - Truth Or Dare">
+		<description>MGP50011 - Truth Or Dare</description>
+		<rom name="MGP50011 - Truth Or Dare.pdf" size="2530791" crc="69d1f4a2" md5="45a07ef80d9649702f8f8d37723219af" sha1="2e60652af13b7e780162d2ae83aae35325ac9a7b"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - Action Cards">
+		<description>MGP50012 - Project Infinite Hole - Action Cards</description>
+		<rom name="MGP50012 - Project Infinite Hole - Action Cards.pdf" size="1821900" crc="cdeddf41" md5="92ee8bfd649e6c3a42c30216874b6f6a" sha1="8a7d0fe2e5f673fe29e234c70d10deed540ce0f2"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - Armour Cards">
+		<description>MGP50012 - Project Infinite Hole - Armour Cards</description>
+		<rom name="MGP50012 - Project Infinite Hole - Armour Cards.pdf" size="1498460" crc="3670f51d" md5="8a0e862343989eb8d9d0679153469ec0" sha1="5cc4f5edbb4686a0c4e8356403244531bafce948"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - Backer Cards">
+		<description>MGP50012 - Project Infinite Hole - Backer Cards</description>
+		<rom name="MGP50012 - Project Infinite Hole - Backer Cards.pdf" size="873998" crc="41d89a1a" md5="9172f6635cc218b1e96c98dacdcf1541" sha1="d6e711ded47edf5395afcda4f55795fa1379d7a1"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - Bot Module Cards">
+		<description>MGP50012 - Project Infinite Hole - Bot Module Cards</description>
+		<rom name="MGP50012 - Project Infinite Hole - Bot Module Cards.pdf" size="670005" crc="13416928" md5="aef03e5d4b886ce0d60f358058be0478" sha1="a3d7d138615841888a971a8ae6ca48da6643e2ce"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - Coretech Cards">
+		<description>MGP50012 - Project Infinite Hole - Coretech Cards</description>
+		<rom name="MGP50012 - Project Infinite Hole - Coretech Cards.pdf" size="2325978" crc="1643c1f2" md5="4740ade97da114cf8952438ada8ea42f" sha1="4b15f41b11d3a8a43436d86921c33d4e57f117cd"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - Gamesmaster's R&amp;D Service Book">
+		<description>MGP50012 - Project Infinite Hole - Gamesmaster's R&amp;D Service Book</description>
+		<rom name="MGP50012 - Project Infinite Hole - Gamesmaster's R&amp;D Service Book.pdf" size="6851499" crc="dba61de1" md5="800530ee0042f604f4aecbf0d8a2edfb" sha1="aadf99e6c00924dc2f8e6ff1dfe23d9485ff5aca"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - Mission Book">
+		<description>MGP50012 - Project Infinite Hole - Mission Book</description>
+		<rom name="MGP50012 - Project Infinite Hole - Mission Book.pdf" size="6851197" crc="a3d2a5e3" md5="5a44c2f2b5dd007bd2d3099f31b84676" sha1="147bd3cb994b44d016e9b96e376d4c25e0a7cf93"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - Surveillance Cards">
+		<description>MGP50012 - Project Infinite Hole - Surveillance Cards</description>
+		<rom name="MGP50012 - Project Infinite Hole - Surveillance Cards.pdf" size="2401011" crc="4b73fc39" md5="f035a5b9b7bd64eb91e5a95d63d8968e" sha1="2c13653d412bb8a983b1ada9bff27999c1fec6a0"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - The R&amp;D Happy Testing Catalogue">
+		<description>MGP50012 - Project Infinite Hole - The R&amp;D Happy Testing Catalogue</description>
+		<rom name="MGP50012 - Project Infinite Hole - The R&amp;D Happy Testing Catalogue.pdf" size="7778579" crc="f9f78744" md5="ded2cd6f99c93bc45dc246a6897140a1" sha1="2368c78a87810894fe6a5024ae9d2473326b623d"/>
+	</machine>
+	<machine name="MGP50012 - Project Infinite Hole - Weapon Cards">
+		<description>MGP50012 - Project Infinite Hole - Weapon Cards</description>
+		<rom name="MGP50012 - Project Infinite Hole - Weapon Cards.pdf" size="2591166" crc="5d7130e5" md5="8f0c59014f22c74a7771a8955821c72d" sha1="37a4d737f9772805f57e07044a50ee5bb0d6bf74"/>
+	</machine>
+	<machine name="MGP50014 - Mission Book - The Hole Blame">
+		<description>MGP50014 - Mission Book - The Hole Blame</description>
+		<rom name="MGP50014 - Mission Book - The Hole Blame.pdf" size="4629378" crc="cb96197f" md5="6109f7f19c240e5c1915f3cd59ee6233" sha1="85e2e94ad0f7eebada34de445ed3003a9c47007b"/>
+	</machine>
+	<machine name="MGP50016 - Thriftylist - Refurbished Stuff">
+		<description>MGP50016 - Thriftylist - Refurbished Stuff</description>
+		<rom name="MGP50016 - Thriftylist - Refurbished Stuff.pdf" size="7507178" crc="274bf50b" md5="7ca3f0dc0a4f5617306f0a3a38fce35b" sha1="dbe5d25e2f0386200bed8d211395f906531328a3"/>
+	</machine>
+	<machine name="MGP50017 - Mind the Gap">
+		<description>MGP50017 - Mind the Gap</description>
+		<rom name="MGP50017 - Mind the Gap.pdf" size="3031289" crc="f69c558b" md5="d2a7934d3659bbe22b9a1a34316f48da" sha1="3cfbca9f6d0a0e3e38296ca7cbebbaf527714ae6"/>
+	</machine>
+	<machine name="MGP50019 - Extinction-Class Incident Responses">
+		<description>MGP50019 - Extinction-Class Incident Responses</description>
+		<rom name="MGP50019 - Extinction-Class Incident Responses.pdf" size="5209547" crc="c09a9459" md5="3d8713a258c41cd2e52727cd4c9dd183" sha1="c5aa196b59d0bff814e8e691460166452c41e13a"/>
+	</machine>
+	<machine name="MGPxxxxx - Guide To Alpha Complex [w]">
+		<description>MGPxxxxx - Guide To Alpha Complex [w]</description>
+		<rom name="MGPxxxxx - Guide To Alpha Complex [w].pdf" size="4281073" crc="98756e9e" md5="b3b5229a389805daecd1af7f260d4b23" sha1="f6647002865588385a4540ff61d9679f7cf71f58"/>
+	</machine>
+	<machine name="MGPxxxxx - Guide To Alpha Complex [w] [a]">
+		<description>MGPxxxxx - Guide To Alpha Complex [w] [a]</description>
+		<rom name="MGPxxxxx - Guide To Alpha Complex [w] [a].pdf" size="4484029" crc="84bd911b" md5="23938d3a4eb061baf1bd52b1ec5df94f" sha1="0d5bf60b737b2b78ebfef905bc9077414877ebf2"/>
+	</machine>
+	<machine name="PDF ONLY - March of the Infrareds">
+		<description>PDF ONLY - March of the Infrareds</description>
+		<rom name="PDF ONLY - March of the Infrareds.pdf" size="3541789" crc="d1e7b85e" md5="0a6be69312b401685f12ccd39d01ba0c" sha1="0771cd0cb2f0d642ad25fd743ef3243f1febfa9d"/>
+	</machine>
+	<machine name="PDF ONLY - March of the Infrareds - Equipment Cards">
+		<description>PDF ONLY - March of the Infrareds - Equipment Cards</description>
+		<rom name="PDF ONLY - March of the Infrareds - Equipment Cards.pdf" size="596143" crc="311cca4a" md5="7a3ba8d05bba95757ddc9211b345ee79" sha1="9c87f399ed69a3979b6703bd314c35721f8414e4"/>
+	</machine>
+	<machine name="PDF ONLY - Robots Of Unusual Size [2017]">
+		<description>PDF ONLY - Robots Of Unusual Size [2017]</description>
+		<rom name="PDF ONLY - Robots Of Unusual Size [2017].pdf" size="1983427" crc="e54dc08e" md5="4a2e3eae7e2def0c7c80a1cfc44053ae" sha1="20f76d8b44ac2f5162a18016e556849e7ed3224f"/>
+	</machine>
+	<machine name="PDF ONLY - Troubles by the Boxload">
+		<description>PDF ONLY - Troubles by the Boxload</description>
+		<rom name="PDF ONLY - Troubles by the Boxload.pdf" size="1250793" crc="513c22d8" md5="498f3a82af640b9ae58a61bf1932c805" sha1="44c12902e1dd677163f21613fe865de391f12fcb"/>
+	</machine>
+	<machine name="Unofficial - Red Clearance Reference Sheet">
+		<description>Unofficial - Red Clearance Reference Sheet</description>
+		<rom name="Unofficial - Red Clearance Reference Sheet.pdf" size="146408" crc="8a898ec2" md5="4c3671fc69e1f94d7637a83bd25365d4" sha1="12fb281674bbf49a10e907702af4a0d5f80b87a2"/>
+	</machine>
+</datafile>

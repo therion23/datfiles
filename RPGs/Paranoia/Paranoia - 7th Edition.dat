@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Paranoia - 7th Edition AKA 25th Anniversary Edition</name>
+		<description>Paranoia - 7th Edition AKA 25th Anniversary Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-03</version>
+		<date>2026-03-03</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="414" crc="f83ed4b1" md5="3376c8b9d257450ad703b092f414c523" sha1="8b174c09408d5c5928e55ee715420a35b3b4cab0"/>
+	</machine>
+	<machine name="Foldout C - Termination Voucher">
+		<description>Foldout C - Termination Voucher</description>
+		<rom name="Foldout C - Termination Voucher.pdf" size="81263" crc="2fc5eee6" md5="1f63dcd38c2a8b43ed781ae13322b8df" sha1="0f7e413f6652c6065bce759375dc837ae92f35ff"/>
+	</machine>
+	<machine name="Handout - Mr Bubbles Debriefing Forms">
+		<description>Handout - Mr Bubbles Debriefing Forms</description>
+		<rom name="Handout - Mr Bubbles Debriefing Forms.pdf" size="216040" crc="495207b2" md5="2aa16e91bef628c7c298dba79ced8fb3" sha1="4c9c1c314715898efa1ba35b5c934408a87db034"/>
+	</machine>
+	<machine name="Handout - Troubleshooters Character Sheet">
+		<description>Handout - Troubleshooters Character Sheet</description>
+		<rom name="Handout - Troubleshooters Character Sheet.pdf" size="292199" crc="0012cdf3" md5="3c240a0cde4260416f87b4f16258852b" sha1="648cfafeebc20d263dfcad7e05078d50443044d4"/>
+	</machine>
+	<machine name="MGP6665 - Paranoia - Troubleshooters">
+		<description>MGP6665 - Paranoia - Troubleshooters</description>
+		<rom name="MGP6665 - Paranoia - Troubleshooters.pdf" size="9786973" crc="844f8fab" md5="7af4b3bea036611d4284d45dd7f2a067" sha1="20e1109312fbfe49bb85df4ce50dc6ce0c2570ef"/>
+	</machine>
+	<machine name="MGP6666 - Paranoia - Troubleshooters - Black Missions CD">
+		<description>MGP6666 - Paranoia - Troubleshooters - Black Missions CD</description>
+		<rom name="MGP6666 - Paranoia - Troubleshooters - Black Missions CD.iso" size="450121728" crc="2ee39936" md5="d65492db6c41b488e2b0407a499ba84f" sha1="d5f935fbc8fb515500d80fee5a51881d29c36029"/>
+	</machine>
+	<machine name="MGP6668 - Paranoia - Internal Security">
+		<description>MGP6668 - Paranoia - Internal Security</description>
+		<rom name="MGP6668 - Paranoia - Internal Security.pdf" size="8645298" crc="97f79ee5" md5="d0d306901864838779452057953f83af" sha1="aaeaf0a275596c2b8155fd92dfc06f0eece2149b"/>
+	</machine>
+	<machine name="MGP6669 - Treason in Word and Deed">
+		<description>MGP6669 - Treason in Word and Deed</description>
+		<rom name="MGP6669 - Treason in Word and Deed.pdf" size="11615212" crc="28733ab8" md5="8fbf9856471751dffe07768909411dbd" sha1="273be336264cd7672360885287d198e9a3b26d60"/>
+	</machine>
+	<machine name="MGP6670 - Termination Quota Exceeded">
+		<description>MGP6670 - Termination Quota Exceeded</description>
+		<rom name="MGP6670 - Termination Quota Exceeded.pdf" size="11685069" crc="c3bf75e6" md5="ea73e3b2f22e3b70356b3a124747f9dc" sha1="8b634d3bc9babe08756e6c4cd445f2d82de6a93c"/>
+	</machine>
+	<machine name="MGP6671 - Forms Pack">
+		<description>MGP6671 - Forms Pack</description>
+		<rom name="MGP6671 - Forms Pack.pdf" size="6305329" crc="ff5f750c" md5="1932a010417701f732ae2200d5a4e9f0" sha1="55a2cb097392c8cd58ff2726f20aff71c3aa780d"/>
+	</machine>
+	<machine name="MGP6672 - Paranoia - High Programmers">
+		<description>MGP6672 - Paranoia - High Programmers</description>
+		<rom name="MGP6672 - Paranoia - High Programmers.pdf" size="8574174" crc="b07ec6ab" md5="70edef96cd69049afbd7ea30e0426c09" sha1="9b6f9a2ecb8c83d3fa4680bd75f77f480d653870"/>
+	</machine>
+	<machine name="MGP6673 - A Funny Thing Happened on the Way to the Termination Booth">
+		<description>MGP6673 - A Funny Thing Happened on the Way to the Termination Booth</description>
+		<rom name="MGP6673 - A Funny Thing Happened on the Way to the Termination Booth.pdf" size="2741585" crc="7896a3bd" md5="28037e60ec598daf8753851d75e2238e" sha1="c0b07390b94b4b92d1190519e8ab1a4939c33c27"/>
+	</machine>
+	<machine name="MGP6676 - None of This is My Fault">
+		<description>MGP6676 - None of This is My Fault</description>
+		<rom name="MGP6676 - None of This is My Fault.pdf" size="5987530" crc="be8b58c5" md5="5c40b9a602b16dc7dc92f8c6334dce56" sha1="9056eaa7eded5bf4c1e18cfbe59a35860d32d911"/>
+	</machine>
+	<machine name="MGP6677 - Mr. Bubbles">
+		<description>MGP6677 - Mr. Bubbles</description>
+		<rom name="MGP6677 - Mr. Bubbles.pdf" size="8405872" crc="2d53bbf3" md5="1dd2fb7871125f475aa0e08a123684ed" sha1="83cffe9fc23466525a08f5c1758a0284c6c31204"/>
+	</machine>
+	<machine name="MGP6678 - Flashbacks Redux">
+		<description>MGP6678 - Flashbacks Redux</description>
+		<rom name="MGP6678 - Flashbacks Redux.pdf" size="6901478" crc="3a9e4c69" md5="a85f4b49c759b3501be6da4970cd966d" sha1="ae96f6c53f592685c338a6884a1eaba83b778905"/>
+	</machine>
+	<machine name="MGP6679 - Flashbacks Redux Redux">
+		<description>MGP6679 - Flashbacks Redux Redux</description>
+		<rom name="MGP6679 - Flashbacks Redux Redux.pdf" size="9891131" crc="c8e3d46f" md5="589088699d3cec939a28945a68ec05d7" sha1="0d2b61cf4c7fbbb0c9ef579aec9bbcce9eeaefc0"/>
+	</machine>
+	<machine name="MGP6680 - The Great Outdoors">
+		<description>MGP6680 - The Great Outdoors</description>
+		<rom name="MGP6680 - The Great Outdoors.pdf" size="10721702" crc="cee47910" md5="369f051d756636c6a6960650b8dfdcf3" sha1="41c489ada254c18feb6a8a5f1fb9a554baf20ab3"/>
+	</machine>
+	<machine name="Unofficial (12704) - WJBL4 - The EverCandy Story">
+		<description>Unofficial (12704) - WJBL4 - The EverCandy Story</description>
+		<rom name="Unofficial (12704) - WJBL4 - The EverCandy Story.pdf" size="2171202" crc="211de028" md5="92ef2abda5bbd5cb78c45778d117af5f" sha1="0f326c27f4a6006103259cda7fb9892dd1431ab6"/>
+	</machine>
+</datafile>

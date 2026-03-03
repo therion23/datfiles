@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Paranoia - Assorted</name>
+		<description>Paranoia - Assorted</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-03</version>
+		<date>2026-03-03</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Game - Paranoia v1">
+		<description>Game - Paranoia v1</description>
+		<rom name="paranoia source\original.c" size="49463" crc="89f1c64b" md5="e04ab7209f0d86e3247ec2d320775983" sha1="43557abb7aefb9026b6a36fe92573603d0eb352c"/>
+		<rom name="paranoia source\paranoia.cpp" size="50302" crc="1a3e368d" md5="456632e0a9092b063daf9ca298d2ec59" sha1="934749f55c19c287739ccf68880d8f4977860b06"/>
+		<rom name="paranoia source\paranoia.dsp" size="4626" crc="43fd0d94" md5="7cbcbf2358d698ac8f139713f99f0a13" sha1="be2abd011cf6b8a5881e8f05902d05418eb30281"/>
+		<rom name="paranoia source\paranoia.dsw" size="620" crc="b7722b4b" md5="d7ff04c34c704356f69a40673621efa3" sha1="2570e09eca9de038e03c8d58a02422e9fadfce89"/>
+		<rom name="paranoia source\paranoia.h" size="189" crc="88213491" md5="ca5c6d6454cdd5983604b550f29f593a" sha1="24851c7ffafb0ed188a260417de47abae14bbcf5"/>
+		<rom name="paranoia source\paranoia.ncb" size="50176" crc="221acfe3" md5="3d90a281a26b0f0197fdf0501da5c011" sha1="1da0caae117733086fd0d655044b611140baccdf"/>
+		<rom name="paranoia source\paranoia.opt" size="54784" crc="e8b727a8" md5="5a1e699cd762b672b83d93086d07e7f7" sha1="2c4a1c5283fb002422cd39b765c6fdf0b2bc1797"/>
+		<rom name="paranoia source\paranoia.plg" size="1574" crc="458cf3e4" md5="d2c15f9b0c80512ee07130941c26d876" sha1="f7b7b2f1e0fdd87501d804a20437e71324315e07"/>
+		<rom name="paranoia source\ReadMe.txt" size="1220" crc="c8ab775b" md5="75f39f99773b747eabb7afd5662e3718" sha1="8b7c7f88fded4304773950974966919284698793"/>
+		<rom name="paranoia source\StdAfx.cpp" size="295" crc="03996014" md5="95add197aa5eac44fbce42d2a596f43a" sha1="8077bdc11933bb5fb422d4f5f8e2b64d8fffe333"/>
+		<rom name="paranoia source\StdAfx.h" size="769" crc="32756a05" md5="ce833f07db1f72bd5994c24fd79f3baa" sha1="edb035dd481966f4b108c3021519d8c7a6579457"/>
+		<rom name="paranoia.exe" size="81920" crc="50b80e3a" md5="1165b032fbd95204984980eb8849b005" sha1="325ecb1ed0b0a3d3a3c290292187bb5ef37615fb"/>
+	</machine>
+	<machine name="Graphic Novel - CLONE-1">
+		<description>Graphic Novel - CLONE-1</description>
+		<rom name="Graphic Novel - CLONE-1.cbz" size="23198167" crc="1c76d40f" md5="335418b4e9c194b69c95db18f8fefd07" sha1="ad2d2c79cf26075695c9c25d7294ab07d53c59c8"/>
+	</machine>
+	<machine name="Graphic Novel - CLONE-2">
+		<description>Graphic Novel - CLONE-2</description>
+		<rom name="Graphic Novel - CLONE-2.cbz" size="23371735" crc="08872440" md5="769f2d75a1095ca5430668c586e5ea48" sha1="e2f8abd0ecd08bdb710f1e1418c375946e146307"/>
+	</machine>
+	<machine name="Graphic Novel - CLONE-3">
+		<description>Graphic Novel - CLONE-3</description>
+		<rom name="Graphic Novel - CLONE-3.cbz" size="26147571" crc="9dd9b64c" md5="95b71e4f709df99349f9639d9aee90d5" sha1="f4f50955f86d61d79f1895f4f666ed12cec4fdbd"/>
+	</machine>
+	<machine name="Graphic Novel - CLONE-4">
+		<description>Graphic Novel - CLONE-4</description>
+		<rom name="Graphic Novel - CLONE-4.cbz" size="27484568" crc="02755540" md5="b51ba2bb394c1c3c2504450bdd6d993f" sha1="4d72f078dc938ba2fb90106a09dad91758263fa2"/>
+	</machine>
+	<machine name="Graphic Novel - CLONE-5">
+		<description>Graphic Novel - CLONE-5</description>
+		<rom name="Graphic Novel - CLONE-5.cbz" size="24584768" crc="9e998aea" md5="1cc93d5bffbeae4fbfbc4411dae603d4" sha1="0bae8b659d8614480cc847f6998a74ee802118f1"/>
+	</machine>
+	<machine name="Graphic Novel - CLONE-6">
+		<description>Graphic Novel - CLONE-6</description>
+		<rom name="Graphic Novel - CLONE-6.cbz" size="26130234" crc="bd2312cb" md5="479b3d608b5785c04e29df4a0fa7bf05" sha1="c105eaad249cf886acd3b13017bd37d71970ffce"/>
+	</machine>
+	<machine name="Novel - Allen Varney - Stay Alert (T1).epub">
+		<description>Novel - Allen Varney - Stay Alert (T1).epub</description>
+		<rom name="Novel - Allen Varney - Stay Alert (T1).epub" size="1133040" crc="0f10c4c9" md5="2e761b9acc2755b706692ef5332ca428" sha1="bace49df86242af0db04bc6d03840b34b64ac096"/>
+	</machine>
+	<machine name="Novel - Gareth Hanrahan - Reality Optional (S1).epub">
+		<description>Novel - Gareth Hanrahan - Reality Optional (S1).epub</description>
+		<rom name="Novel - Gareth Hanrahan - Reality Optional (S1).epub" size="1064976" crc="8289fc42" md5="ad91ebfb4a3c06572b2d6d250f7826be" sha1="a67f507e42ce093c194ebe1cc71a2eb5243c2103"/>
+	</machine>
+	<machine name="Novel - Jonathan Tweet - The Heroes of Alpha Complex (Shadis Magazine #29-30)">
+		<description>Novel - Jonathan Tweet - The Heroes of Alpha Complex (Shadis Magazine #29-30)</description>
+		<rom name="Novel - Jonathan Tweet - The Heroes of Alpha Complex (Shadis Magazine #29-30).pdf" size="5346646" crc="4ed785ea" md5="8a2f15366a69d10b17ec1dce8a62b2c5" sha1="70776708e0fc449241f2540e8e876afbb8a96162"/>
+	</machine>
+	<machine name="Novel - WJ MacGuffin - Traitor Hangout (Y1).epub">
+		<description>Novel - WJ MacGuffin - Traitor Hangout (Y1).epub</description>
+		<rom name="Novel - WJ MacGuffin - Traitor Hangout (Y1).epub" size="950335" crc="18e3170b" md5="0de9170759f9786adbfef14326af8667" sha1="e4aafd67fbd4e45916f7e6e21fc431a9b48b1636"/>
+	</machine>
+	<machine name="Unknown - Cardstock Commies &amp; Miniatures Rules">
+		<description>Unknown - Cardstock Commies &amp; Miniatures Rules</description>
+		<rom name="Unknown - Cardstock Commies &amp; Miniatures Rules.pdf" size="1952429" crc="703a21cc" md5="5eb49b5f0fe28da7d8c09bf40fb62f3b" sha1="347af1be1151366173f787ed27bee5f0ee44e7df"/>
+	</machine>
+	<machine name="Unknown - Gamemaster Record Form">
+		<description>Unknown - Gamemaster Record Form</description>
+		<rom name="Unknown - Gamemaster Record Form.pdf" size="25869" crc="b335606d" md5="ead36baaf89f4d774676fd2c391c7d1c" sha1="8f308f5521cec956b7c67324b7b65d27d409b4d4"/>
+	</machine>
+	<machine name="Unknown - Information Inquiry Form">
+		<description>Unknown - Information Inquiry Form</description>
+		<rom name="Unknown - Information Inquiry Form.pdf" size="92648" crc="ce70c2f9" md5="e5743d9ccf21629ee30a62344daab8ff" sha1="c861e41dab149c99da0c80e50ba3072a0b996a26"/>
+	</machine>
+	<machine name="Unknown - Mission Report Form">
+		<description>Unknown - Mission Report Form</description>
+		<rom name="Unknown - Mission Report Form.pdf" size="167905" crc="9bcae3e5" md5="208eb248178dcf970b49347293a97fa1" sha1="7b0beb586daf7778e01a6a8dd6702e25a62b5ab2"/>
+	</machine>
+	<machine name="Unknown - Officer Badges">
+		<description>Unknown - Officer Badges</description>
+		<rom name="Unknown - Officer Badges.pdf" size="595572" crc="309164a8" md5="4fb098f61ac089b96572e402b8cab1ce" sha1="51f60214e7402f4fe3dae3b960a5c7e49bc24711"/>
+	</machine>
+	<machine name="Unofficial - A Busbot's Holiday (Role Player Independent #3)">
+		<description>Unofficial - A Busbot's Holiday (Role Player Independent #3)</description>
+		<rom name="Unofficial - A Busbot's Holiday (Role Player Independent #3).pdf" size="2701397" crc="9f26b452" md5="2971b0caed135ddc516a59cd7b72d3d0" sha1="b0537fd75f56651d8bb3ed019ef06164bebfb0b7"/>
+	</machine>
+	<machine name="Unofficial - Call of Computer">
+		<description>Unofficial - Call of Computer</description>
+		<rom name="Unofficial - Call of Computer.pdf" size="123615" crc="6522c02e" md5="91b96095cbe221152af24bdcbacb94af" sha1="0c301064323fb1bcee5b3b7b8ba256362b314fb3"/>
+	</machine>
+	<machine name="Unofficial - Collectors Checklist v1.0">
+		<description>Unofficial - Collectors Checklist v1.0</description>
+		<rom name="Unofficial - Collectors Checklist v1.0.pdf" size="614148" crc="b75f040c" md5="5cd9d7346c6f821710680b4a6afac454" sha1="41d6d7f6355ee6fd7946729a7957d1f4d7d54dd5"/>
+	</machine>
+	<machine name="Unofficial - It Looks Like .. - Achievements">
+		<description>Unofficial - It Looks Like .. - Achievements</description>
+		<rom name="Unofficial - It Looks Like .. - Achievements.pdf" size="83225" crc="d730cb6e" md5="cf69ef1a1aeab053491dc08bef09ae6a" sha1="d2e681625220493bc9f74c3c8b22dac90b1167a3"/>
+	</machine>
+	<machine name="Unofficial - It Looks Like .. - AP7-17UD3 TEST">
+		<description>Unofficial - It Looks Like .. - AP7-17UD3 TEST</description>
+		<rom name="Unofficial - It Looks Like .. - AP7-17UD3 TEST.pdf" size="73794" crc="16f28e9b" md5="1aff2d091f5d45dcc686848f063faada" sha1="999a9737844679e5a97039457fcf82fd32dc7507"/>
+	</machine>
+	<machine name="Unofficial - It Looks Like .. - Countdown">
+		<description>Unofficial - It Looks Like .. - Countdown</description>
+		<rom name="Unofficial - It Looks Like .. - Countdown.mp3" size="46904" crc="8f6eaa12" md5="a6c076ea3d61a81a31879b1d1c1d852c" sha1="0cfed9432037f8f04ea23fb868c49ea8555ff225"/>
+	</machine>
+	<machine name="Unofficial - It Looks Like .. - RAM Cards">
+		<description>Unofficial - It Looks Like .. - RAM Cards</description>
+		<rom name="Unofficial - It Looks Like .. - RAM Cards.pdf" size="49036" crc="17abdd24" md5="17aa73cda1784a2a82384c7c7b55b98f" sha1="9d85d01ba2e1c926d7b3d9610d6e10a4908118ed"/>
+	</machine>
+	<machine name="Unofficial - It Looks Like My Mind Is Being Eaten By Silicon-Devouring Ants, Would You Like To Help Me With That">
+		<description>Unofficial - It Looks Like My Mind Is Being Eaten By Silicon-Devouring Ants, Would You Like To Help Me With That</description>
+		<rom name="Unofficial - It Looks Like My Mind Is Being Eaten By Silicon-Devouring Ants, Would You Like To Help Me With That.pdf" size="182393" crc="008fb100" md5="ac4a26047deee755c88e65539638e912" sha1="a0ca86861e9d183fcf0ec2785311dbbc85b91aa4"/>
+	</machine>
+	<machine name="Unofficial - Viva VEG Sector!">
+		<description>Unofficial - Viva VEG Sector!</description>
+		<rom name="Unofficial - Viva VEG Sector!.pdf" size="218756" crc="bbc7a1a4" md5="53443cdbfd48c680915fbefd1e2f7b2a" sha1="4e95bbedd67c7a74a4ea019082a69303da66064a"/>
+	</machine>
+</datafile>

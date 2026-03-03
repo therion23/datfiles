@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Paranoia - 1st Edition</name>
+		<description>Paranoia - 1st Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-03</version>
+		<date>2026-03-03</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="80100A - Player Handbook">
+		<description>80100A - Player Handbook</description>
+		<rom name="80100A - Player Handbook.pdf" size="4958768" crc="8feae9b7" md5="bfab6a0823b9a2a0ec561052f88deec9" sha1="c6e9358872f40af0ea46dd08af6d1b314245422d"/>
+	</machine>
+	<machine name="80100B - Gamemaster Handbook">
+		<description>80100B - Gamemaster Handbook</description>
+		<rom name="80100B - Gamemaster Handbook.pdf" size="11137724" crc="25a02a75" md5="d8d109d78a510da0f49aaec163a0b3e5" sha1="55218d49605e039854237e4784055dceba7c3c8c"/>
+	</machine>
+	<machine name="80100C - Adventure Handbook">
+		<description>80100C - Adventure Handbook</description>
+		<rom name="80100C - Adventure Handbook.pdf" size="7703405" crc="1a38dbf4" md5="5210cf036402b3d50cdec166aa6c7b64" sha1="9ccc749f37dbbb352d47bfd32e99a664752a915a"/>
+	</machine>
+	<machine name="80102 - Vapors Don't Shoot Back">
+		<description>80102 - Vapors Don't Shoot Back</description>
+		<rom name="80102 - Vapors Don't Shoot Back.pdf" size="5335061" crc="1e4c9dcf" md5="1023bf3cd8f039690d6403688a94823d" sha1="4343e02db2f9c3de7769976c2bc01be640722dab"/>
+	</machine>
+	<machine name="80103 - The Yellow Clearance Black Box Blues">
+		<description>80103 - The Yellow Clearance Black Box Blues</description>
+		<rom name="80103 - The Yellow Clearance Black Box Blues.pdf" size="9534238" crc="f5163090" md5="f5ff0bc787ec0ca6108f2d5b6f5ba497" sha1="580191828e630f2daf9d5f178377eed553a98b95"/>
+	</machine>
+	<machine name="80104 - Send in the Clones">
+		<description>80104 - Send in the Clones</description>
+		<rom name="80104 - Send in the Clones.pdf" size="9151858" crc="47e9fe40" md5="3cf09c68903a430f0c860ba060ac91f7" sha1="169b9385ba62338d1cc955bdc04de88434b9bdf7"/>
+	</machine>
+	<machine name="80105 - Acute Paranoia">
+		<description>80105 - Acute Paranoia</description>
+		<rom name="80105 - Acute Paranoia.pdf" size="31268838" crc="b455dcea" md5="d85404e12eb8c65c4ff013af661ec620" sha1="a7b1d7d575a31040450e22507be0b06a56fd2e3e"/>
+	</machine>
+	<machine name="80107 - Clones in Space">
+		<description>80107 - Clones in Space</description>
+		<rom name="80107 - Clones in Space.pdf" size="15478072" crc="4266f4f6" md5="6472629370ed66837fbff2b9b5f81f57" sha1="e63c63c49b1a81c6bbf9b0a2e9907cd60172b607"/>
+	</machine>
+	<machine name="80108 - Orcbusters">
+		<description>80108 - Orcbusters</description>
+		<rom name="80108 - Orcbusters.pdf" size="5664954" crc="7cb8a730" md5="90039000567d7cb91d84d7cc734e0249" sha1="ab06054981569c7247fcc125f8741967789ab73f"/>
+	</machine>
+	<machine name="80109 - HIL Sector Blues">
+		<description>80109 - HIL Sector Blues</description>
+		<rom name="80109 - HIL Sector Blues.pdf" size="8240866" crc="1eb9e34e" md5="afc8ed43cdeeae8e9c99f84b096ecc58" sha1="91dd43e842d0de6690b4018143595c33e23abd20"/>
+	</machine>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="185" crc="30e1dfb3" md5="64ac0e58acf88ecd7dc3c18c789a4f4e" sha1="f2e69e8808d053d2a9f67d0faa6ba2a71b88cfea"/>
+	</machine>
+	<machine name="Handout - Character Sheet">
+		<description>Handout - Character Sheet</description>
+		<rom name="Handout - Character Sheet.pdf" size="650810" crc="3bce38bd" md5="57a3b8b8af89797e9e4ca4b61da8cbe5" sha1="493b1c9b7d0e75b6f0a8e75cab9e2c193a9b1033"/>
+	</machine>
+	<machine name="Unofficial - Character Sheet">
+		<description>Unofficial - Character Sheet</description>
+		<rom name="Unofficial - Character Sheet.pdf" size="50569" crc="6fa74ec4" md5="6459193c9c42b765d627f072fd826b8e" sha1="77e51a0cd0e457d9569d90177cde1303fe9daab7"/>
+	</machine>
+</datafile>

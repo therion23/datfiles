@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Paranoia - 5th Edition</name>
+		<description>Paranoia - 5th Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-03</version>
+		<date>2026-03-03</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="12032 - Creatures of the Nightcycle">
+		<description>12032 - Creatures of the Nightcycle</description>
+		<rom name="12032 - Creatures of the Nightcycle.pdf" size="30120662" crc="8a496d8d" md5="84078f4d1ed41b4c7654d035aea17fb1" sha1="820ca07ab22533e3cf5b395251ac72d67cf285ae"/>
+	</machine>
+	<machine name="12600 - Paranoia 5th Edition">
+		<description>12600 - Paranoia 5th Edition</description>
+		<rom name="12600 - Paranoia 5th Edition.pdf" size="16036940" crc="b42a23dc" md5="4eda40ebbe9e87658467cd831a512043" sha1="ba7a447d6907cb9e5422a1e85abacff2900d731a"/>
+	</machine>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="245" crc="62225c7d" md5="6d6e122a254696aba36960b8d9b33495" sha1="5de96a30f3cd200b141bfdaa16962c734f662630"/>
+	</machine>
+	<machine name="Handout - Character Sheet">
+		<description>Handout - Character Sheet</description>
+		<rom name="Handout - Character Sheet.pdf" size="109084" crc="eab3096e" md5="a96eb93118eed1a7a4fe8525e7b15643" sha1="2dc5798016a796b3816bcc3c1c8c34bf88e7acef"/>
+	</machine>
+</datafile>

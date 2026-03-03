@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Paranoia - 2nd Edition</name>
+		<description>Paranoia - 2nd Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-03</version>
+		<date>2026-03-03</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="12000 - Paranoia 2nd Edition">
+		<description>12000 - Paranoia 2nd Edition</description>
+		<rom name="12000 - Paranoia 2nd Edition.pdf" size="44302442" crc="160b7f16" md5="cb8b746834770d69cb70831ce4a6ff9b" sha1="47a1f0b738fbf6fcf3a6dd40195e7b691a5b1f66"/>
+	</machine>
+	<machine name="12000 - Paranoia 2nd Edition With Foldouts">
+		<description>12000 - Paranoia 2nd Edition With Foldouts</description>
+		<rom name="12000 - Paranoia 2nd Edition With Foldouts.pdf" size="52925683" crc="b690e44e" md5="6f9b0c2c02e206c3655320b770841008" sha1="8ba6082331320cf9749e7b0760754776d786322c"/>
+	</machine>
+	<machine name="12000A - Compleat Troubleshooter - A Guide for The Computer's Elite">
+		<description>12000A - Compleat Troubleshooter - A Guide for The Computer's Elite</description>
+		<rom name="12000A - Compleat Troubleshooter - A Guide for The Computer's Elite.pdf" size="4490393" crc="53169e4d" md5="08318273f5c4b5f28cb3c307bac4f19e" sha1="cabd01a91e234fbfc8d9d0d6793aa63edda9feb5"/>
+	</machine>
+	<machine name="12002-43 - Accusation Of Treason - Termination Voucher Request Form">
+		<description>12002-43 - Accusation Of Treason - Termination Voucher Request Form</description>
+		<rom name="12002-43 - Accusation Of Treason - Termination Voucher Request Form.pdf" size="93797" crc="be239881" md5="f3882995af1cd982aa1c0989f56e7199" sha1="affa74fb982e92adf445b373b5ecf265e3cb81d1"/>
+	</machine>
+	<machine name="12002-44 - Equipment-Weapon-Vehicle Request Form">
+		<description>12002-44 - Equipment-Weapon-Vehicle Request Form</description>
+		<rom name="12002-44 - Equipment-Weapon-Vehicle Request Form.pdf" size="80358" crc="8e63141e" md5="c35bcdca1412fa39e6f358c37ccd5e59" sha1="da0585c73da546f87ec8061e108882541192dba1"/>
+	</machine>
+	<machine name="12002-45 - R&amp;D Experimental Equipment Testing Report Form">
+		<description>12002-45 - R&amp;D Experimental Equipment Testing Report Form</description>
+		<rom name="12002-45 - R&amp;D Experimental Equipment Testing Report Form.pdf" size="78941" crc="9852c24d" md5="11cd9d49bfed029234a7195f55e8317a" sha1="dcbf9c462fa0abd6ef3ac5b9749e2b85037e3a13"/>
+	</machine>
+	<machine name="12004 - DOA Sector Travelogue">
+		<description>12004 - DOA Sector Travelogue</description>
+		<rom name="12004 - DOA Sector Travelogue.pdf" size="28122240" crc="4fa5c394" md5="aa855a0100b5f42305e9c1e3e49c6173" sha1="15b329691c06154a92d2e32d91e04e87536e8719"/>
+	</machine>
+	<machine name="12005 - Alpha Complexities">
+		<description>12005 - Alpha Complexities</description>
+		<rom name="12005 - Alpha Complexities.pdf" size="15553604" crc="5ece6b43" md5="1f7322daab8aece231cd842c0a045afe" sha1="93f330c87b43e3d47ee7006c80ebd5a45326fd29"/>
+	</machine>
+	<machine name="12006 - Paranoia Form Pack">
+		<description>12006 - Paranoia Form Pack</description>
+		<rom name="12006 - Paranoia Form Pack.pdf" size="2634256" crc="b0929472" md5="0ec6f602481ebaf73bfc4ece0b2b9084" sha1="660cbdf37ce51cda7ce47ff8e5e5a937677fcdd2"/>
+	</machine>
+	<machine name="12007 - The Computer Always Shoots Twice (Orcbusters and Send in the Clones 2e)">
+		<description>12007 - The Computer Always Shoots Twice (Orcbusters and Send in the Clones 2e)</description>
+		<rom name="12007 - The Computer Always Shoots Twice (Orcbusters and Send in the Clones 2e).pdf" size="14128071" crc="bf3afde1" md5="4c81a20a32ec3bf0e89f1c4c449a3cb5" sha1="0d0ea0a7a284fd02c1a2fffa4f99c07919084b49"/>
+	</machine>
+	<machine name="12010 - The People's Glorious Revolutionary Adventure">
+		<description>12010 - The People's Glorious Revolutionary Adventure</description>
+		<rom name="12010 - The People's Glorious Revolutionary Adventure.pdf" size="6834296" crc="e3b07b3d" md5="5a4617e3fc925859e9a68bfc9dc62f94" sha1="da96beec77f33e2dac74e104a848daeeaa107499"/>
+	</machine>
+	<machine name="12012 - The Bot Abusers' Manual">
+		<description>12012 - The Bot Abusers' Manual</description>
+		<rom name="12012 - The Bot Abusers' Manual.pdf" size="22839733" crc="482f1c72" md5="9ceb17bf873fe85fc37baf650727764c" sha1="b05dd4dcac0652e481702d1dc0cc7f9dd0f24af2"/>
+	</machine>
+	<machine name="12013 - More Songs About Food Vats">
+		<description>12013 - More Songs About Food Vats</description>
+		<rom name="12013 - More Songs About Food Vats.pdf" size="8039394" crc="d38cf378" md5="30acc31246e1e7cb3235463afee8a684" sha1="14aaf4cfe44ee7afbbe3b5bcfcbaf125b1c12e7c"/>
+	</machine>
+	<machine name="12015 - The Iceman Returneth">
+		<description>12015 - The Iceman Returneth</description>
+		<rom name="12015 - The Iceman Returneth.pdf" size="11902539" crc="691a0d9e" md5="2ee60c4b6fe594cdb9e87f8720396759" sha1="86cd6182ac7a0c0f9d52dc30a7f7a1393c99bc62"/>
+	</machine>
+	<machine name="12016 - Don't Take Your Laser to Town">
+		<description>12016 - Don't Take Your Laser to Town</description>
+		<rom name="12016 - Don't Take Your Laser to Town.pdf" size="8558135" crc="49d3a5dc" md5="ec79b79e6c9024df1b64d69a1adfc1b4" sha1="0e484b0bba651089a314f62dbde0f13ec4939f7d"/>
+	</machine>
+	<machine name="12017 - Alice Through the Mirrorshades">
+		<description>12017 - Alice Through the Mirrorshades</description>
+		<rom name="12017 - Alice Through the Mirrorshades.pdf" size="38935066" crc="2968df61" md5="fc92ddc11d00c7f295cde98b7f179825" sha1="69725070a5e81ba453529cca2cb3303f0f094b2f"/>
+	</machine>
+	<machine name="12018 - Twilightcycle 2000">
+		<description>12018 - Twilightcycle 2000</description>
+		<rom name="12018 - Twilightcycle 2000.pdf" size="6556459" crc="69767c20" md5="e2cd0c04045b231d3f58bb813d23b2a9" sha1="c4a0522d4dcf1db932f929fd1521addcb4ae6d7a"/>
+	</machine>
+	<machine name="12019 - Vulture Warriors of Dimension X">
+		<description>12019 - Vulture Warriors of Dimension X</description>
+		<rom name="12019 - Vulture Warriors of Dimension X.pdf" size="29767254" crc="b2fd2e85" md5="22ec6039b6ea155a62b6b23aeeb433cb" sha1="13d244ea1fd4cf3e70a940bfbce8ac233efda81e"/>
+	</machine>
+	<machine name="12020 - Crash Course Manual">
+		<description>12020 - Crash Course Manual</description>
+		<rom name="12020 - Crash Course Manual.pdf" size="20118619" crc="020ffc7d" md5="d6f22cdfac5b50c8840a862182534c1c" sha1="5ff5e0e9f8b0aceea7f0fdfeb12ae888236bb27c"/>
+	</machine>
+	<machine name="12021 - Gamma-LOT">
+		<description>12021 - Gamma-LOT</description>
+		<rom name="12021 - Gamma-LOT.pdf" size="4297856" crc="e0372a39" md5="e72e878608dc9bd2d64841e60bacb786" sha1="6f9950999345387fcd52c3204305ef49492999fc"/>
+	</machine>
+	<machine name="12022 - Paranoia Sourcebook">
+		<description>12022 - Paranoia Sourcebook</description>
+		<rom name="12022 - Paranoia Sourcebook.pdf" size="34718727" crc="e1ec24c3" md5="59f5d51ab4df3f79dc9c6906c4cc1d19" sha1="d3dd23b136a77ba66c47b8d635679f887a0bb382"/>
+	</machine>
+	<machine name="12023 - Death, Lies, and Vidtape">
+		<description>12023 - Death, Lies, and Vidtape</description>
+		<rom name="12023 - Death, Lies, and Vidtape.pdf" size="4916135" crc="efdd4c1d" md5="325a5581e7ea1c01a65e3f21ba9e330a" sha1="3540f9370403eb77fcfbb8486aad356802bc8ae5"/>
+	</machine>
+	<machine name="12024 - The R&amp;D Catalog">
+		<description>12024 - The R&amp;D Catalog</description>
+		<rom name="12024 - The R&amp;D Catalog.pdf" size="17243029" crc="095aa13d" md5="408cbd6cfbc99b166dd6d315c26ebaec" sha1="57855ee23e72cdd06ef36df2248a56442bd5c268"/>
+	</machine>
+	<machine name="12027 - Paramilitary">
+		<description>12027 - Paramilitary</description>
+		<rom name="12027 - Paramilitary.pdf" size="24048864" crc="a54da72c" md5="ccb04f413c2ac34beff3421e3c510611" sha1="2c8f7eb5b7545780a5382921f0738b5cf857530e"/>
+	</machine>
+	<machine name="12028A - CTV [b]">
+		<description>12028A - CTV [b]</description>
+		<rom name="12028A - CTV [b].pdf" size="19655413" crc="c320c94c" md5="3e7c61861798f24f9f83a091b8c87fef" sha1="c6e02987e0cbb6001c2c38dcf0b5faf7de4be0cf"/>
+	</machine>
+	<machine name="12028B - Paranormal">
+		<description>12028B - Paranormal</description>
+		<rom name="12028B - Paranormal.pdf" size="13711373" crc="4fd0bf5d" md5="16eddc777435f04fb1354cdfb8594a84" sha1="493451837cb813890e835a1ff5c358f85081979d"/>
+	</machine>
+	<machine name="12031 - Mad Mechs">
+		<description>12031 - Mad Mechs</description>
+		<rom name="12031 - Mad Mechs.pdf" size="14188284" crc="90e78e0f" md5="1de9e1fbd0f938588a2dc503263c3256" sha1="58f03b828b9a70740edb5cb695a3d71a1b6607be"/>
+	</machine>
+	<machine name="12501 - At Your Service, Citizen ... - Volume 1 Issue 1 [w]">
+		<description>12501 - At Your Service, Citizen ... - Volume 1 Issue 1 [w]</description>
+		<rom name="12501 - At Your Service, Citizen ... - Volume 1 Issue 1 [w].pdf" size="2274643" crc="b483dc64" md5="b5141e81999236c389266d83e61ff83d" sha1="4c2781456c586ec211cb04e720a17d9ef94a13da"/>
+	</machine>
+	<machine name="12502 - At Your Service, Citizen ... - Volume 1 Issue 2 [w]">
+		<description>12502 - At Your Service, Citizen ... - Volume 1 Issue 2 [w]</description>
+		<rom name="12502 - At Your Service, Citizen ... - Volume 1 Issue 2 [w].pdf" size="2317072" crc="82650e3e" md5="450b358ef3cd806ca4f4ed4f9528a2cc" sha1="52cf545a953d66e3b0fb52e8ddc15395e5e2ad56"/>
+	</machine>
+	<machine name="12503 - At Your Service, Citizen ... - Volume 1 Issue 3 [w]">
+		<description>12503 - At Your Service, Citizen ... - Volume 1 Issue 3 [w]</description>
+		<rom name="12503 - At Your Service, Citizen ... - Volume 1 Issue 3 [w].pdf" size="2357447" crc="0a92f7c8" md5="e5a8b469bf0499c3dad9182ec4dbaf7e" sha1="7c84796370ee67d05f048c9d3aa2fc0f380ed6d3"/>
+	</machine>
+	<machine name="12504 - At Your Service, Citizen ... - Volume 1 Issue 4 [w]">
+		<description>12504 - At Your Service, Citizen ... - Volume 1 Issue 4 [w]</description>
+		<rom name="12504 - At Your Service, Citizen ... - Volume 1 Issue 4 [w].pdf" size="1656816" crc="59e85163" md5="c5ecac377df3576e393fd54e3d616a11" sha1="b535cb10ae221d44cdddf34410f1843fd222eaf1"/>
+	</machine>
+	<machine name="12505 - At Your Service, Citizen ... - Volume 1 Issue 5 [w]">
+		<description>12505 - At Your Service, Citizen ... - Volume 1 Issue 5 [w]</description>
+		<rom name="12505 - At Your Service, Citizen ... - Volume 1 Issue 5 [w].pdf" size="2065076" crc="2d5e01e4" md5="d987951c41e2f78412558dcaaec6c0b9" sha1="26bb28415980edb9cbb48e298b2f4555f5c1f81e"/>
+	</machine>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="183" crc="7587ce8b" md5="5c6706828b386efe00356d51fa6b5681" sha1="685f30ee40737f4d17542c2aa3da48ff6b95d613"/>
+	</machine>
+	<machine name="Foldout C - Character Sheet">
+		<description>Foldout C - Character Sheet</description>
+		<rom name="Foldout C - Character Sheet.pdf" size="123008" crc="4c0c0f87" md5="0f3ba613cd1608d8cf02aa3a2b2648a4" sha1="0993ad61a5246a6f0ba8f38bbe7eec4220aff6bc"/>
+	</machine>
+	<machine name="Unofficial - Character Sheet - Form Fillable">
+		<description>Unofficial - Character Sheet - Form Fillable</description>
+		<rom name="Unofficial - Character Sheet - Form Fillable.pdf" size="94580" crc="45e0208d" md5="3a8e551a1cc36ec57ef45d0069f2d059" sha1="72c6a9e612e3dfa6182369be8334c3151ea10b98"/>
+	</machine>
+	<machine name="Unofficial - Red Clearance Reference Sheet [w]">
+		<description>Unofficial - Red Clearance Reference Sheet [w]</description>
+		<rom name="Unofficial - Red Clearance Reference Sheet [w].pdf" size="166551" crc="278aae61" md5="d6e36f9ec3521e4aa560bcb373fe9910" sha1="cfaaab0ad006f8d41c519640a6249ba21ec49443"/>
+	</machine>
+	<machine name="Unofficial - Ultraviolet Clearance Reference Sheet">
+		<description>Unofficial - Ultraviolet Clearance Reference Sheet</description>
+		<rom name="Unofficial - Ultraviolet Clearance Reference Sheet.pdf" size="104104" crc="e6075cf5" md5="a5897148542dc66ee7cecb5e85829dfb" sha1="03bfae6e8b8c1c2dc7a07b38de16082991337acc"/>
+	</machine>
+	<machine name="White Dwarf #112 - Vulture Warriors from Dimension X Meet Plenty of Cheerful Orks with Plasma Cannon">
+		<description>White Dwarf #112 - Vulture Warriors from Dimension X Meet Plenty of Cheerful Orks with Plasma Cannon</description>
+		<rom name="White Dwarf #112 - Vulture Warriors from Dimension X Meet Plenty of Cheerful Orks with Plasma Cannon.pdf" size="1104974" crc="67ad521e" md5="c88932057b3efafaf5416bebf152cc34" sha1="f8578db6ddc0b5feb4e300558fb0fa4032f8c495"/>
+	</machine>
+	<machine name="White Dwarf - Do Troubleshooters Dream of Electric Sheep">
+		<description>White Dwarf - Do Troubleshooters Dream of Electric Sheep</description>
+		<rom name="White Dwarf - Do Troubleshooters Dream of Electric Sheep.pdf" size="925209" crc="3e91e3c7" md5="694372ef74e2febf2b17268097933689" sha1="26b4f23b82de7b61b48c13b0a92eb5410ef0a52f"/>
+	</machine>
+</datafile>

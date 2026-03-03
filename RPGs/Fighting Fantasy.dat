@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Fighting Fantasy</name>
+		<description>Fighting Fantasy</description>
+		<category>Standard DatFile</category>
+		<version>20251221</version>
+		<date>2025-12-21</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Fighting Fantasy 01 - The Warlock of Firetop Mountain [Steve Jackson &amp; Ian Livingstone] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 01 - The Warlock of Firetop Mountain [Steve Jackson &amp; Ian Livingstone] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 01 - The Warlock of Firetop Mountain [Steve Jackson &amp; Ian Livingstone] [OCR] [2023 Scan v3].pdf" size="35131494" crc="00bc2818" sha1="97896862165740add07b06a9b9bc6ab93e2baf36" />
+	</machine>
+	<machine name="Fighting Fantasy 02 - The Citadel of Chaos [Steve Jackson] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 02 - The Citadel of Chaos [Steve Jackson] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 02 - The Citadel of Chaos [Steve Jackson] [OCR] [2023 Scan v3].pdf" size="36701963" crc="dc6fe249" sha1="4c95d9b62be2d3fc7749a0d7c5e9fda21a080439" />
+	</machine>
+	<machine name="Fighting Fantasy 03 - The Forest of Doom [Ian Livingstone] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 03 - The Forest of Doom [Ian Livingstone] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 03 - The Forest of Doom [Ian Livingstone] [OCR] [2023 Scan v3].pdf" size="32689574" crc="693a94c2" sha1="7467c4bc867070f2bdb84f27dec171edfc0bd64f" />
+	</machine>
+	<machine name="Fighting Fantasy 04 - Starship Traveller [Steve Jackson] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 04 - Starship Traveller [Steve Jackson] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 04 - Starship Traveller [Steve Jackson] [OCR] [2023 Scan v3].pdf" size="31656722" crc="fecbb8cc" sha1="71d2bc871b198a16d28d15bdc31732de06350633" />
+	</machine>
+	<machine name="Fighting Fantasy 05 - City of Thieves [Ian Livingstone] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 05 - City of Thieves [Ian Livingstone] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 05 - City of Thieves [Ian Livingstone] [OCR] [2023 Scan v3].pdf" size="36138015" crc="dcc5de53" sha1="39175f5859ffebcf343e872fd09ffdac827d73f3" />
+	</machine>
+	<machine name="Fighting Fantasy 06 - Deathtrap Dungeon [Ian Livingstone] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 06 - Deathtrap Dungeon [Ian Livingstone] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 06 - Deathtrap Dungeon [Ian Livingstone] [OCR] [2023 Scan v3].pdf" size="35651434" crc="60fe0016" sha1="8169925b613b9bfc752e05e033ca5eec04e86a2a" />
+	</machine>
+	<machine name="Fighting Fantasy 07 - Island of the Lizard King [Ian Livingstone] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 07 - Island of the Lizard King [Ian Livingstone] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 07 - Island of the Lizard King [Ian Livingstone] [OCR] [2023 Scan v3].pdf" size="34427036" crc="c759d40d" sha1="0dcc620d31f1d4f180eeb2de8b4d996554334ab0" />
+	</machine>
+	<machine name="Fighting Fantasy 08 - Scorpion Swamp [Steve Jackson] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 08 - Scorpion Swamp [Steve Jackson] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 08 - Scorpion Swamp [Steve Jackson] [OCR] [2023 Scan v3].pdf" size="32244128" crc="b86a9d2d" sha1="bf7574f3aba5fbcbcb7184531e0135cbcea00b6a" />
+	</machine>
+	<machine name="Fighting Fantasy 09 - Caverns of the Snow Witch [Ian Livingstone] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 09 - Caverns of the Snow Witch [Ian Livingstone] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 09 - Caverns of the Snow Witch [Ian Livingstone] [OCR] [2023 Scan v3].pdf" size="38802836" crc="3c9875f9" sha1="7afce82553bc7dbde869b420735e24abc97c3f0d" />
+	</machine>
+	<machine name="Fighting Fantasy 10 - House of Hell [Steve Jackson] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 10 - House of Hell [Steve Jackson] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 10 - House of Hell [Steve Jackson] [OCR] [2023 Scan v3].pdf" size="41056546" crc="e0ec0c42" sha1="f6890aa62bf6f73d89b7115e178b104472f6b305" />
+	</machine>
+	<machine name="Fighting Fantasy 11 - Talisman of Death [Jamie Thomson &amp; Mark Smith] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 11 - Talisman of Death [Jamie Thomson &amp; Mark Smith] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 11 - Talisman of Death [Jamie Thomson &amp; Mark Smith] [OCR] [2023 Scan v3].pdf" size="41783449" crc="33ff535d" sha1="bf59a28903655573ebe61dafc1e430061b6448e3" />
+	</machine>
+	<machine name="Fighting Fantasy 12 - Space Assassins [Andrew Chapman] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 12 - Space Assassins [Andrew Chapman] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 12 - Space Assassins [Andrew Chapman] [OCR] [2023 Scan v3].pdf" size="36231525" crc="b46c76b2" sha1="0eec8839d78cbbcbf2ebe20e3a1ec49d899be654" />
+	</machine>
+	<machine name="Fighting Fantasy 13 - Freeway Fighter [Ian Livingstone] [OCR] [2021 Scan v3]">
+		<description>Fighting Fantasy 13 - Freeway Fighter [Ian Livingstone] [OCR] [2021 Scan v3]</description>
+		<rom name="Fighting Fantasy 13 - Freeway Fighter [Ian Livingstone] [OCR] [2021 Scan v3].pdf" size="31848963" crc="302024af" sha1="a7924ac6fefdf7a3dbfcc874f42ef2287153d44c" />
+	</machine>
+	<machine name="Fighting Fantasy 14 - Temple of Terror [Ian Livingstone] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 14 - Temple of Terror [Ian Livingstone] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 14 - Temple of Terror [Ian Livingstone] [OCR] [2022 Scan v3].pdf" size="35769674" crc="5c566d08" sha1="78cee98a05d939cb81c530c555b43a6f8f36eb78" />
+	</machine>
+	<machine name="Fighting Fantasy 15 - The Rings of Kether [Andrew Chapman] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 15 - The Rings of Kether [Andrew Chapman] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 15 - The Rings of Kether [Andrew Chapman] [OCR] [2022 Scan v3].pdf" size="32024056" crc="230afdd1" sha1="3734e62b0f1668477ad0f376f8f1d2f72a18882e" />
+	</machine>
+	<machine name="Fighting Fantasy 16 - Seas of Blood [Andrew Chapman] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 16 - Seas of Blood [Andrew Chapman] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 16 - Seas of Blood [Andrew Chapman] [OCR] [2022 Scan v3].pdf" size="36241420" crc="8e5b7dc8" sha1="75c591e2044a171422ce01f7eed8df3073c52503" />
+	</machine>
+	<machine name="Fighting Fantasy 17 - Appointment With Fear [Steve Jackson] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 17 - Appointment With Fear [Steve Jackson] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 17 - Appointment With Fear [Steve Jackson] [OCR] [2022 Scan v3].pdf" size="45642391" crc="dabdce86" sha1="1b2acf20868dd558ec0a33a08b586eb3159e7da0" />
+	</machine>
+	<machine name="Fighting Fantasy 18 - Rebel Planet [Robin Waterfield] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 18 - Rebel Planet [Robin Waterfield] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 18 - Rebel Planet [Robin Waterfield] [OCR] [2022 Scan v3].pdf" size="39513204" crc="14523763" sha1="b8da78ab3568b4e4a4b069ca6ea0cbbcf547f39c" />
+	</machine>
+	<machine name="Fighting Fantasy 19 - Demons of the Deep [Steve Jackson] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 19 - Demons of the Deep [Steve Jackson] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 19 - Demons of the Deep [Steve Jackson] [OCR] [2022 Scan v3].pdf" size="33866800" crc="b4779b88" sha1="3281799d3fe779eecd83e8d44098412a6c4f4222" />
+	</machine>
+	<machine name="Fighting Fantasy 20 - Sword of the Samurai [Mark Smith &amp; Jamie Thomson] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 20 - Sword of the Samurai [Mark Smith &amp; Jamie Thomson] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 20 - Sword of the Samurai [Mark Smith &amp; Jamie Thomson] [OCR] [2022 Scan v3].pdf" size="43986989" crc="e6918341" sha1="802abd2a9d24a76999056929178e2ca3e04b8dd9" />
+	</machine>
+	<machine name="Fighting Fantasy 21 - Trial of Champions [Ian Livingstone] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 21 - Trial of Champions [Ian Livingstone] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 21 - Trial of Champions [Ian Livingstone] [OCR] [2022 Scan v3].pdf" size="35635609" crc="569638c4" sha1="800eff01d2d561e612c08b130cd2c22cfa97bd2c" />
+	</machine>
+	<machine name="Fighting Fantasy 22 - Robot Commando [Steve Jackson] [OCR] [2022 Scan v3.1]">
+		<description>Fighting Fantasy 22 - Robot Commando [Steve Jackson] [OCR] [2022 Scan v3.1]</description>
+		<rom name="Fighting Fantasy 22 - Robot Commando [Steve Jackson] [OCR] [2022 Scan v3.1].pdf" size="32073628" crc="325d1a68" sha1="ff3fcfba6d63bf21aa004a1a48f6f5db59354393" />
+	</machine>
+	<machine name="Fighting Fantasy 23 - Masks of Mayhem [Robin Waterfield] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 23 - Masks of Mayhem [Robin Waterfield] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 23 - Masks of Mayhem [Robin Waterfield] [OCR] [2022 Scan v3].pdf" size="44229755" crc="480413b9" sha1="d5d3e66b87155a4a963e752fad1d35e6fd0596da" />
+	</machine>
+	<machine name="Fighting Fantasy 24 - Creature of Havoc [Steve Jackson] [OCR] [2021 Scan v3]">
+		<description>Fighting Fantasy 24 - Creature of Havoc [Steve Jackson] [OCR] [2021 Scan v3]</description>
+		<rom name="Fighting Fantasy 24 - Creature of Havoc [Steve Jackson] [OCR] [2021 Scan v3].pdf" size="70084931" crc="7af017c2" sha1="3da04c669571be536abb606b560ebeffcdb3fe93" />
+	</machine>
+	<machine name="Fighting Fantasy 25 - Beneath Nightmare Castle [Peter Darvill-Evans] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 25 - Beneath Nightmare Castle [Peter Darvill-Evans] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 25 - Beneath Nightmare Castle [Peter Darvill-Evans] [OCR] [2023 Scan v3].pdf" size="42107599" crc="2083d19f" sha1="e2c8fcc67bb44428ea3226767cf64f125673ad9a" />
+	</machine>
+	<machine name="Fighting Fantasy 26 - Crypt of the Sorcerer [Ian Livingstone] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 26 - Crypt of the Sorcerer [Ian Livingstone] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 26 - Crypt of the Sorcerer [Ian Livingstone] [OCR] [2022 Scan v3].pdf" size="46444074" crc="d24be475" sha1="78f0f362aadf9c283161403a985ce1624cde7b05" />
+	</machine>
+	<machine name="Fighting Fantasy 27 - Star Strider [Luke Sharp] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 27 - Star Strider [Luke Sharp] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 27 - Star Strider [Luke Sharp] [OCR] [2022 Scan v3].pdf" size="38048653" crc="6357368a" sha1="fffe28ac2eb5305a597829eb17584e6f3ab6db7a" />
+	</machine>
+	<machine name="Fighting Fantasy 28 - Phantoms of Fear [Robin Waterfield] [OCR] [2024 Scan v3]">
+		<description>Fighting Fantasy 28 - Phantoms of Fear [Robin Waterfield] [OCR] [2024 Scan v3]</description>
+		<rom name="Fighting Fantasy 28 - Phantoms of Fear [Robin Waterfield] [OCR] [2024 Scan v3].pdf" size="47602837" crc="95c1c0f7" sha1="64886ac499f6a68d0a157fae6a17bf6145465392" />
+	</machine>
+	<machine name="Fighting Fantasy 29 - Midnight Rogue [Graeme Davis] [OCR] [2022 Scan v3.1]">
+		<description>Fighting Fantasy 29 - Midnight Rogue [Graeme Davis] [OCR] [2022 Scan v3.1]</description>
+		<rom name="Fighting Fantasy 29 - Midnight Rogue [Graeme Davis] [OCR] [2022 Scan v3.1].pdf" size="41129079" crc="4734a2d1" sha1="437337f39061e2c6415b571d71ca9a22b75dbecf" />
+	</machine>
+	<machine name="Fighting Fantasy 30 - Chasms of Malice [Luke Sharp] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 30 - Chasms of Malice [Luke Sharp] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 30 - Chasms of Malice [Luke Sharp] [OCR] [2022 Scan v3].pdf" size="44487130" crc="73cfcd88" sha1="1a590c56690c488c9c8af48ab195abaf9ca117b1" />
+	</machine>
+	<machine name="Fighting Fantasy 31 - Battleblade Warrior [Marc Gascoigne] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 31 - Battleblade Warrior [Marc Gascoigne] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 31 - Battleblade Warrior [Marc Gascoigne] [OCR] [2022 Scan v3].pdf" size="58643252" crc="484b67af" sha1="d8e5eef77ad9abef8535f1db6fa9797812486c9f" />
+	</machine>
+	<machine name="Fighting Fantasy 32 - Slaves of the Abyss [Paul Mason &amp; Steve Williams] [OCR] [2024 Scan v3]">
+		<description>Fighting Fantasy 32 - Slaves of the Abyss [Paul Mason &amp; Steve Williams] [OCR] [2024 Scan v3]</description>
+		<rom name="Fighting Fantasy 32 - Slaves of the Abyss [Paul Mason &amp; Steve Williams] [OCR] [2024 Scan v3].pdf" size="36838120" crc="006b9966" sha1="c839a714470990c53d95b94c87bafc57d6591b40" />
+	</machine>
+	<machine name="Fighting Fantasy 33 - Sky Lord [Martin Allen] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 33 - Sky Lord [Martin Allen] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 33 - Sky Lord [Martin Allen] [OCR] [2022 Scan v3].pdf" size="41642007" crc="8c1a5a51" sha1="c812d51361074209a8e00de9f64e2ba59ab93566" />
+	</machine>
+	<machine name="Fighting Fantasy 34 - Stealer of Souls [Keith Martin] [OCR] [2024 Scan v3]">
+		<description>Fighting Fantasy 34 - Stealer of Souls [Keith Martin] [OCR] [2024 Scan v3]</description>
+		<rom name="Fighting Fantasy 34 - Stealer of Souls [Keith Martin] [OCR] [2024 Scan v3].pdf" size="40573508" crc="25771292" sha1="1c836ec69a9e739b39c0b02348bb0c5ca1541429" />
+	</machine>
+	<machine name="Fighting Fantasy 35 - Daggers of Darkness [Luke Sharp] [OCR] [2022 Scan v3.1]">
+		<description>Fighting Fantasy 35 - Daggers of Darkness [Luke Sharp] [OCR] [2022 Scan v3.1]</description>
+		<rom name="Fighting Fantasy 35 - Daggers of Darkness [Luke Sharp] [OCR] [2022 Scan v3.1].pdf" size="49792392" crc="15af0bcf" sha1="5bea52d70a3c5a873beb62e95b733b576099319a" />
+	</machine>
+	<machine name="Fighting Fantasy 36 - Armies of Death [Ian Livingstone] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 36 - Armies of Death [Ian Livingstone] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 36 - Armies of Death [Ian Livingstone] [OCR] [2023 Scan v3].pdf" size="35214777" crc="7829c303" sha1="7e8880a5258a3dcf449f0e4f19029630530b260b" />
+	</machine>
+	<machine name="Fighting Fantasy 37 - Portal of Evil [Peter Darvill-Evans] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 37 - Portal of Evil [Peter Darvill-Evans] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 37 - Portal of Evil [Peter Darvill-Evans] [OCR] [2022 Scan v3].pdf" size="74423680" crc="313291f1" sha1="0dcc605429450ed52985e6ddd742f924d94c0da1" />
+	</machine>
+	<machine name="Fighting Fantasy 38 - Vault of the Vampire [Keith Martin] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 38 - Vault of the Vampire [Keith Martin] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 38 - Vault of the Vampire [Keith Martin] [OCR] [2022 Scan v3].pdf" size="52128069" crc="bff8f05e" sha1="e59d894bff32c0bef9daa002cd818c81a7247e2f" />
+	</machine>
+	<machine name="Fighting Fantasy 39 - Fangs of Fury [Luke Sharp] [OCR] [2024 Scan v3]">
+		<description>Fighting Fantasy 39 - Fangs of Fury [Luke Sharp] [OCR] [2024 Scan v3]</description>
+		<rom name="Fighting Fantasy 39 - Fangs of Fury [Luke Sharp] [OCR] [2024 Scan v3].pdf" size="47203457" crc="42edb698" sha1="145974dedabc9aa2a76703c8be43cb8abfce7c5a" />
+	</machine>
+	<machine name="Fighting Fantasy 40 - Dead of Night 1e [Scan]">
+		<description>Fighting Fantasy 40 - Dead of Night 1e [Scan]</description>
+		<rom name="Fighting Fantasy 40 - Dead of Night 1e [Scan].pdf" size="9634574" crc="7049377e" sha1="a2619bfa506124129ae6d6d74ed6ced66cda0be8" />
+	</machine>
+	<machine name="Fighting Fantasy 41 - Master of Chaos 1e [Scan]">
+		<description>Fighting Fantasy 41 - Master of Chaos 1e [Scan]</description>
+		<rom name="Fighting Fantasy 41 - Master of Chaos 1e [Scan].pdf" size="9102220" crc="1791f4cf" sha1="a0c52d98d189859d4ae55f3abae7924e17d9ee38" />
+	</machine>
+	<machine name="Fighting Fantasy 42 - Black Vein Prophecy 1e [Scan v2]">
+		<description>Fighting Fantasy 42 - Black Vein Prophecy 1e [Scan v2]</description>
+		<rom name="Fighting Fantasy 42 - Black Vein Prophecy 1e [Scan v2].pdf" size="4767393" crc="ee9ec570" sha1="ed56c3311ebc6d3f905677a63f35b1c96c498445" />
+	</machine>
+	<machine name="Fighting Fantasy 43 - Keep of the Lich Lord [Dave Morris &amp; Jamie Thomson] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 43 - Keep of the Lich Lord [Dave Morris &amp; Jamie Thomson] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 43 - Keep of the Lich Lord [Dave Morris &amp; Jamie Thomson] [OCR] [2022 Scan v3].pdf" size="54083128" crc="e1f560b7" sha1="4b4e69907202d4576602a19112a3e78e3dd61082" />
+	</machine>
+	<machine name="Fighting Fantasy 44 - Legend of the Shadow Warriors [Stephen Hand] [OCR] [2023 Scan v3]">
+		<description>Fighting Fantasy 44 - Legend of the Shadow Warriors [Stephen Hand] [OCR] [2023 Scan v3]</description>
+		<rom name="Fighting Fantasy 44 - Legend of the Shadow Warriors [Stephen Hand] [OCR] [2023 Scan v3].pdf" size="45604251" crc="83451361" sha1="7046053145ca5af182373b4860066eb6e0ac8bad" />
+	</machine>
+	<machine name="Fighting Fantasy 45 - Spectral Stalkers 1e [Scan v2]">
+		<description>Fighting Fantasy 45 - Spectral Stalkers 1e [Scan v2]</description>
+		<rom name="Fighting Fantasy 45 - Spectral Stalkers 1e [Scan v2].pdf" size="6498551" crc="4a427c55" sha1="adc708519e3464547890872a1cfc9cc15cdfb838" />
+	</machine>
+	<machine name="Fighting Fantasy 46 - Tower of Destruction 1e [Scan]">
+		<description>Fighting Fantasy 46 - Tower of Destruction 1e [Scan]</description>
+		<rom name="Fighting Fantasy 46 - Tower of Destruction 1e [Scan].pdf" size="9077225" crc="9ac78668" sha1="c3d4acfe65ac2b4f294578694224eafcc4da8098" />
+	</machine>
+	<machine name="Fighting Fantasy 47 - The Crimson Tide 1e [Scan]">
+		<description>Fighting Fantasy 47 - The Crimson Tide 1e [Scan]</description>
+		<rom name="Fighting Fantasy 47 - The Crimson Tide 1e [Scan].pdf" size="8612299" crc="6d99c7bd" sha1="e968d4684850540db5b819e98ff5be01f9441866" />
+	</machine>
+	<machine name="Fighting Fantasy 48 - Moonrunner 1e [Scan v2]">
+		<description>Fighting Fantasy 48 - Moonrunner 1e [Scan v2]</description>
+		<rom name="Fighting Fantasy 48 - Moonrunner 1e [Scan v2].pdf" size="5097651" crc="b26c6b13" sha1="06a80792c2cbdd71e4d4493b58b33e1f15a85b22" />
+	</machine>
+	<machine name="Fighting Fantasy 49 - Siege of Sardath 1e [Scan v2]">
+		<description>Fighting Fantasy 49 - Siege of Sardath 1e [Scan v2]</description>
+		<rom name="Fighting Fantasy 49 - Siege of Sardath 1e [Scan v2].pdf" size="11770438" crc="9e528dda" sha1="f39be6192c45a2eeafdde50b813ab6f496da63e5" />
+	</machine>
+	<machine name="Fighting Fantasy 50 - Return to Firetop Mountain [Ian Livingstone] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 50 - Return to Firetop Mountain [Ian Livingstone] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 50 - Return to Firetop Mountain [Ian Livingstone] [OCR] [2022 Scan v3].pdf" size="48227546" crc="7b5ce57d" sha1="32d457dcc83ae9fc157a49b4ff467671556ea30c" />
+	</machine>
+	<machine name="Fighting Fantasy 51 - Island of the Undead 1e [Scan]">
+		<description>Fighting Fantasy 51 - Island of the Undead 1e [Scan]</description>
+		<rom name="Fighting Fantasy 51 - Island of the Undead 1e [Scan].pdf" size="10741865" crc="f9937140" sha1="58c20452e79fb4ca703ef1a17c566fe7e6778cd4" />
+	</machine>
+	<machine name="Fighting Fantasy 52 - Night Dragon [Keith Martin] [OCR] [2021 Scan v3]">
+		<description>Fighting Fantasy 52 - Night Dragon [Keith Martin] [OCR] [2021 Scan v3]</description>
+		<rom name="Fighting Fantasy 52 - Night Dragon [Keith Martin] [OCR] [2021 Scan v3].pdf" size="53916932" crc="f9abe8c9" sha1="7f236ed2f1888977987c1bfbf877b72b8fee46a3" />
+	</machine>
+	<machine name="Fighting Fantasy 53 - Spellbreaker 1e [Scan v1]">
+		<description>Fighting Fantasy 53 - Spellbreaker 1e [Scan v1]</description>
+		<rom name="Fighting Fantasy 53 - Spellbreaker 1e [Scan v1].pdf" size="10327744" crc="e6a65dba" sha1="f6d782c381f02a26e6abb3b617931d275893447f" />
+	</machine>
+	<machine name="Fighting Fantasy 54 - Legend of Zagor [Ian Livingstone] [OCR] [2021 Scan v3]">
+		<description>Fighting Fantasy 54 - Legend of Zagor [Ian Livingstone] [OCR] [2021 Scan v3]</description>
+		<rom name="Fighting Fantasy 54 - Legend of Zagor [Ian Livingstone] [OCR] [2021 Scan v3].pdf" size="54292809" crc="6315cfe3" sha1="639de4557f798db005e9da69357076236e6d08f4" />
+	</machine>
+	<machine name="Fighting Fantasy 55 - Deathmoor 1e [Scan]">
+		<description>Fighting Fantasy 55 - Deathmoor 1e [Scan]</description>
+		<rom name="Fighting Fantasy 55 - Deathmoor 1e [Scan].pdf" size="4838381" crc="1822771d" sha1="33827791ff8f2551e127e8e2032bbf1c11b03f0b" />
+	</machine>
+	<machine name="Fighting Fantasy 56 - Knights of Doom 1e [Scan]">
+		<description>Fighting Fantasy 56 - Knights of Doom 1e [Scan]</description>
+		<rom name="Fighting Fantasy 56 - Knights of Doom 1e [Scan].pdf" size="6935712" crc="fcbc55d8" sha1="75a52c0ac9bae686f0396685a6383800f1ec6134" />
+	</machine>
+	<machine name="Fighting Fantasy 57 - Magehunter 1e [Scan]">
+		<description>Fighting Fantasy 57 - Magehunter 1e [Scan]</description>
+		<rom name="Fighting Fantasy 57 - Magehunter 1e [Scan].pdf" size="4593843" crc="75a0c037" sha1="c129c1fe75cafabd50e6b0da3ed19518f773e890" />
+	</machine>
+	<machine name="Fighting Fantasy 58 - Revenge of the Vampire [Keith Martin] [OCR] [2021 Scan v3]">
+		<description>Fighting Fantasy 58 - Revenge of the Vampire [Keith Martin] [OCR] [2021 Scan v3]</description>
+		<rom name="Fighting Fantasy 58 - Revenge of the Vampire [Keith Martin] [OCR] [2021 Scan v3].pdf" size="42720512" crc="79e1d4dc" sha1="91130c31a852a40847f284d9cb3bf62a627a5a4d" />
+	</machine>
+	<machine name="Fighting Fantasy 59 - Curse of the Mummy [Jonathan Green] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 59 - Curse of the Mummy [Jonathan Green] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 59 - Curse of the Mummy [Jonathan Green] [OCR] [2022 Scan v3].pdf" size="41202023" crc="151c8935" sha1="4c2c21c4dfa282330f0b72959e1f3dc5c084e0c7" />
+	</machine>
+	<machine name="Fighting Fantasy 60 - Eye of the Dragon [Ian Livingstone] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 60 - Eye of the Dragon [Ian Livingstone] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 60 - Eye of the Dragon [Ian Livingstone] [OCR] [2022 Scan v3].pdf" size="48948516" crc="464f6e21" sha1="48f29f6a2a9ee36f6fd1489141fd63e67f9ad2f2" />
+	</machine>
+	<machine name="Fighting Fantasy 61 - Bloodbones [Jonathan Green] [OCR] [2021 Scan v3.3]">
+		<description>Fighting Fantasy 61 - Bloodbones [Jonathan Green] [OCR] [2021 Scan v3.3]</description>
+		<rom name="Fighting Fantasy 61 - Bloodbones [Jonathan Green] [OCR] [2021 Scan v3.3].pdf" size="50495422" crc="b16f6599" sha1="c1816a05e6b069f3abfde32744916dfcdbeb31e9" />
+	</machine>
+	<machine name="Fighting Fantasy 62 - Howl of the Werewolf 1e [Scan]">
+		<description>Fighting Fantasy 62 - Howl of the Werewolf 1e [Scan]</description>
+		<rom name="Fighting Fantasy 62 - Howl of the Werewolf 1e [Scan].pdf" size="10246684" crc="7e6ac20e" sha1="cc0ba8483c01511fc610c9efb52ac3038d81b6a1" />
+	</machine>
+	<machine name="Fighting Fantasy 63 - Stormslayer [Jonathan Green] [OCR] [2021 Scan v3]">
+		<description>Fighting Fantasy 63 - Stormslayer [Jonathan Green] [OCR] [2021 Scan v3]</description>
+		<rom name="Fighting Fantasy 63 - Stormslayer [Jonathan Green] [OCR] [2021 Scan v3].pdf" size="135431596" crc="c7dc8669" sha1="4e204a059307537c49e3cb44ca3852a1da715fbf" />
+	</machine>
+	<machine name="Fighting Fantasy 64 - Night of the Necromancer [Jonathan Green] [OCR] [2021 Scan v3.3]">
+		<description>Fighting Fantasy 64 - Night of the Necromancer [Jonathan Green] [OCR] [2021 Scan v3.3]</description>
+		<rom name="Fighting Fantasy 64 - Night of the Necromancer [Jonathan Green] [OCR] [2021 Scan v3.3].pdf" size="96923868" crc="10a9109a" sha1="8cc4d7ff56022926670990bc7a46de1a08be0f02" />
+	</machine>
+	<machine name="Fighting Fantasy 65 - Blood of the Zombies 1e [Scan]">
+		<description>Fighting Fantasy 65 - Blood of the Zombies 1e [Scan]</description>
+		<rom name="Fighting Fantasy 65 - Blood of the Zombies 1e [Scan].pdf" size="16668342" crc="839add75" sha1="7551a62a82005f34ab2af2cac6ef6ce868cffe59" />
+	</machine>
+	<machine name="Fighting Fantasy 66 - The Port of Peril [Ian Livingstone] [OCR] [2021 Scan v3]">
+		<description>Fighting Fantasy 66 - The Port of Peril [Ian Livingstone] [OCR] [2021 Scan v3]</description>
+		<rom name="Fighting Fantasy 66 - The Port of Peril [Ian Livingstone] [OCR] [2021 Scan v3].pdf" size="94759768" crc="a635f932" sha1="182d6ba919a6362635a1b6ad949fc7fd7a9747e5" />
+	</machine>
+	<machine name="Fighting Fantasy 67 - The Gates of Death [Charlie Higson] [OCR] [2021 Scan v3]">
+		<description>Fighting Fantasy 67 - The Gates of Death [Charlie Higson] [OCR] [2021 Scan v3]</description>
+		<rom name="Fighting Fantasy 67 - The Gates of Death [Charlie Higson] [OCR] [2021 Scan v3].pdf" size="80791794" crc="21a8f3ad" sha1="be81e8f0ad70816a7f96deb5609d9389b2d68e81" />
+	</machine>
+	<machine name="Fighting Fantasy 68 - Assassins of Allansia [Ian Livingstone] [OCR] [2021 Scan v3.1]">
+		<description>Fighting Fantasy 68 - Assassins of Allansia [Ian Livingstone] [OCR] [2021 Scan v3.1]</description>
+		<rom name="Fighting Fantasy 68 - Assassins of Allansia [Ian Livingstone] [OCR] [2021 Scan v3.1].pdf" size="95101388" crc="a8bab785" sha1="c945dfe58d7f3d72bdb82d36c960b5eba3905178" />
+	</machine>
+	<machine name="Fighting Fantasy 69 - Crystal of Storms [Rhianna Pratchett] [OCR] [2022 Scan v3]">
+		<description>Fighting Fantasy 69 - Crystal of Storms [Rhianna Pratchett] [OCR] [2022 Scan v3]</description>
+		<rom name="Fighting Fantasy 69 - Crystal of Storms [Rhianna Pratchett] [OCR] [2022 Scan v3].pdf" size="68041559" crc="8f17b48c" sha1="8e77cd07f6c0fa230f20cc5b01298e0aa5449196" />
+	</machine>
+	<machine name="Fighting Fantasy 70 - Secrets of Salamonis [Steve Jackson &amp; Jonathan Green] [FIXED]">
+		<description>Fighting Fantasy 70 - Secrets of Salamonis [Steve Jackson &amp; Jonathan Green] [FIXED]</description>
+		<rom name="Fighting Fantasy 70 - Secrets of Salamonis [Steve Jackson &amp; Jonathan Green] [FIXED].pdf" size="24896749" crc="2ace30e0" sha1="1b24fcff4be5ce0a681be1a05803668486b51576" />
+	</machine>
+	<machine name="Fighting Fantasy 71 - Shadow of the Giants [Ian Livingstone] [FIXED]">
+		<description>Fighting Fantasy 71 - Shadow of the Giants [Ian Livingstone] [FIXED]</description>
+		<rom name="Fighting Fantasy 71 - Shadow of the Giants [Ian Livingstone] [FIXED].pdf" size="23351006" crc="71ef12a7" sha1="1bd04e26ae5d50e251db80ec72250bb8aaa702be" />
+	</machine>
+</datafile>

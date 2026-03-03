@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Paranoia - 6th Edition AKA Paranoia XP</name>
+		<description>Paranoia - 6th Edition AKA Paranoia XP</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-03</version>
+		<date>2026-03-03</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="290" crc="56e2173f" md5="350974848d9b9edd41e9b47ab470f28f" sha1="d77cfdfa5fdff047b53663f76eeededebf4c5b10"/>
+	</machine>
+	<machine name="Excerpt - Social Clubs">
+		<description>Excerpt - Social Clubs</description>
+		<rom name="Excerpt - Social Clubs.pdf" size="740616" crc="3e1d9f6c" md5="32a68eb34ecaa1a752661929c286cae5" sha1="a2d3be1df372cb99d6488f8a19b7f8e71ca77103"/>
+	</machine>
+	<machine name="Handout - Character Sheet">
+		<description>Handout - Character Sheet</description>
+		<rom name="Handout - Character Sheet.pdf" size="450804" crc="eb4b66f5" md5="2c2c4bd08aab9f65ccd22039ad02873e" sha1="0f2c7d3ecb87f7262450de3a802f85f6e350e953"/>
+	</machine>
+	<machine name="Handout - MBD Test">
+		<description>Handout - MBD Test</description>
+		<rom name="Handout - MBD Test.pdf" size="339355" crc="352697ac" md5="fccd3f0da18eb2d77eeaf54ddfef6760" sha1="7022bceee81a76f72528021fa8a1367fe809de12"/>
+	</machine>
+	<machine name="Handout - Pregenerated Characters">
+		<description>Handout - Pregenerated Characters</description>
+		<rom name="Handout - Pregenerated Characters.pdf" size="85625" crc="dfb331d4" md5="beaf81bf5a8445006af75df50e23d4c2" sha1="8971fe0caa15ff3cd400f019a3ffce4ca3880882"/>
+	</machine>
+	<machine name="MGP6630 - Paranoia XP SP1">
+		<description>MGP6630 - Paranoia XP SP1</description>
+		<rom name="MGP6630 - Paranoia XP SP1.pdf" size="10927510" crc="ffd39c73" md5="006896a52768821c331f37cfbd29013e" sha1="97fb3dc945362cdc25676eff9b30dd625f23ddbf"/>
+	</machine>
+	<machine name="MGP6630 - Service Pack One Corrections">
+		<description>MGP6630 - Service Pack One Corrections</description>
+		<rom name="MGP6630 - Service Pack One Corrections.pdf" size="206652" crc="d3d6e9e5" md5="88bf813a61f313aee6ef3761217e8fb3" sha1="edb8c3fc87d5c6c0f654594830411d7b1f1c1dfd"/>
+	</machine>
+	<machine name="MGP6631 - Gamemaster Screen">
+		<description>MGP6631 - Gamemaster Screen</description>
+		<rom name="MGP6631 - Gamemaster Screen.pdf" size="1139657" crc="5458e665" md5="a04b96c4dd9646fe24ed34f169550430" sha1="e2b841ecd1ce34ff3476c039f8b250489add2e3d"/>
+	</machine>
+	<machine name="MGP6631 - Gamemaster Screen Booklet - Mandatory Fun Enforcement Pack">
+		<description>MGP6631 - Gamemaster Screen Booklet - Mandatory Fun Enforcement Pack</description>
+		<rom name="MGP6631 - Gamemaster Screen Booklet - Mandatory Fun Enforcement Pack.pdf" size="521742" crc="1b1a31cc" md5="09bf8a50cd2e9ae9509776eb1d61eae2" sha1="42737a9ce6a342fcd01da5984f952538fe590ffb"/>
+	</machine>
+	<machine name="MGP6631 - Gamemaster Screen Booklet - Mandatory Fun Enforcement Pack [a]">
+		<description>MGP6631 - Gamemaster Screen Booklet - Mandatory Fun Enforcement Pack [a]</description>
+		<rom name="MGP6631 - Gamemaster Screen Booklet - Mandatory Fun Enforcement Pack [a].pdf" size="16586382" crc="5bce56b5" md5="7bee21e233b74e839680f7272f2bf676" sha1="ee355b52024bca51b10d99ef5a5eb997857a02ab"/>
+	</machine>
+	<machine name="MGP6632 - The Traitor's Manual">
+		<description>MGP6632 - The Traitor's Manual</description>
+		<rom name="MGP6632 - The Traitor's Manual.pdf" size="4270854" crc="c1024639" md5="f19135effcd63a9e67cec08ed5f78cf9" sha1="bb81b36891d0ec271d0892be9147ee2afa75ff26"/>
+	</machine>
+	<machine name="MGP6633 - Crash Priority">
+		<description>MGP6633 - Crash Priority</description>
+		<rom name="MGP6633 - Crash Priority.pdf" size="5178172" crc="1bf7b7bd" md5="9f164399862a36253fe100fb6c5b0d5f" sha1="5db19dbbb2330f6bf622b0e97e17705f666decaf"/>
+	</machine>
+	<machine name="MGP6634 - The Mutant Experience">
+		<description>MGP6634 - The Mutant Experience</description>
+		<rom name="MGP6634 - The Mutant Experience.pdf" size="3906184" crc="7db57688" md5="09af5a8a2b36af4a36f8ea0752f677d7" sha1="9e7d343eabe02763c60b75f130b6b22cb7d70460"/>
+	</machine>
+	<machine name="MGP6634 - The Mutant Experience Form Pack">
+		<description>MGP6634 - The Mutant Experience Form Pack</description>
+		<rom name="MGP6634 - The Mutant Experience Form Pack.pdf" size="33611" crc="7b0bef4c" md5="76e499a793e692209d32dda28f969f88" sha1="de8462087f795bdc1ab77e515658f64e5c483e73"/>
+	</machine>
+	<machine name="MGP6635 - Flashbacks">
+		<description>MGP6635 - Flashbacks</description>
+		<rom name="MGP6635 - Flashbacks.pdf" size="32476071" crc="82b59248" md5="1edaafd0abc3800690632be602a3d67e" sha1="227c081537f42f5030c47c127f821dfa21945c15"/>
+	</machine>
+	<machine name="MGP6636 - STUFF">
+		<description>MGP6636 - STUFF</description>
+		<rom name="MGP6636 - STUFF.pdf" size="7366689" crc="e4eab9d4" md5="1060763a10c5f9b967f5b78b9244bac5" sha1="098d439a8fbec56d5d1878e5f4531b4ec8ea1724"/>
+	</machine>
+	<machine name="MGP6637 - WMD">
+		<description>MGP6637 - WMD</description>
+		<rom name="MGP6637 - WMD.pdf" size="1666699" crc="606c492b" md5="b65edb68ca01a9ba13501f4b4462fabd" sha1="3e66fc1a3b38d348632300691d25285e38ee31b5"/>
+	</machine>
+	<machine name="MGP6637 - WMD Bonus Material">
+		<description>MGP6637 - WMD Bonus Material</description>
+		<rom name="MGP6637 - WMD Bonus Material.pdf" size="752804" crc="a998079b" md5="509f71d90e1b516ef337f502dc47f1f7" sha1="b6e08b220864e35dd3a7e5e460c3382e280fe657"/>
+	</machine>
+	<machine name="MGP6638 - Extreme Paranoia">
+		<description>MGP6638 - Extreme Paranoia</description>
+		<rom name="MGP6638 - Extreme Paranoia.pdf" size="3130743" crc="128d17ff" md5="02e3ffdb383352395010ee615f9c4fd2" sha1="c8f6c400aed62f317e6e1d7636e314f49a746f62"/>
+	</machine>
+	<machine name="MGP6639 - Service, Service!">
+		<description>MGP6639 - Service, Service!</description>
+		<rom name="MGP6639 - Service, Service!.pdf" size="13386120" crc="6767e25b" md5="276fa3ade871e0a76dfef25cd05840a0" sha1="6273c48c94a119d3b984322d4754e89735591574"/>
+	</machine>
+	<machine name="MGP6640 - Criminal Histories">
+		<description>MGP6640 - Criminal Histories</description>
+		<rom name="MGP6640 - Criminal Histories.pdf" size="6590181" crc="df26cd40" md5="d9a49d99eafb98d5b59017a361060fd7" sha1="90e26d9224eaf8f7e8d043855ba158f46db0bd8a"/>
+	</machine>
+	<machine name="MGP6640 - Criminal Histories Character Sheet">
+		<description>MGP6640 - Criminal Histories Character Sheet</description>
+		<rom name="MGP6640 - Criminal Histories Character Sheet.pdf" size="623731" crc="cb9c538e" md5="ac3182a8dd9f1982d07f3e99d36c5080" sha1="e9c7d78ca2e495241207eb8b1a3fce7f8120372d"/>
+	</machine>
+	<machine name="MGP6641 - The Underplex">
+		<description>MGP6641 - The Underplex</description>
+		<rom name="MGP6641 - The Underplex.pdf" size="7703912" crc="e3e57f85" md5="05783a9ca75b3e75b6847b8738f7f5f3" sha1="603d0070ba4b696aa1d7bb86f6d2f805d64d83ad"/>
+	</machine>
+	<machine name="MGP6643 - Sector Zero">
+		<description>MGP6643 - Sector Zero</description>
+		<rom name="MGP6643 - Sector Zero.pdf" size="2895939" crc="b0afc666" md5="4fd161d17fa4d8bed0213c3f9047a2a3" sha1="cc47295dcd03eb8938811aa53043ba8cdb46ef84"/>
+	</machine>
+	<machine name="MGP6646 - Little RED Book">
+		<description>MGP6646 - Little RED Book</description>
+		<rom name="MGP6646 - Little RED Book.pdf" size="409274" crc="b0ff5a44" md5="e0b7930d5cc3c22403875dbaf8e075e5" sha1="551ab8fd7061c106eba13d6bf3aeb0a262cbf303"/>
+	</machine>
+	<machine name="MGP6650 - Flashbacks II">
+		<description>MGP6650 - Flashbacks II</description>
+		<rom name="MGP6650 - Flashbacks II.pdf" size="19667678" crc="91299232" md5="91688a91ff1c15a0c9bea75efe25bbc9" sha1="028e62ab00b2d406158dbc94ed46b3d8a961445c"/>
+	</machine>
+	<machine name="MGP6654 - War on [Insert Noun Here]">
+		<description>MGP6654 - War on [Insert Noun Here]</description>
+		<rom name="MGP6654 - War on [Insert Noun Here].pdf" size="1558438" crc="9433312c" md5="810e2a0c2d7a4d2d9ce154d8882167b8" sha1="c5f1c363f8b3a5612123f15cf8685d335325fa79"/>
+	</machine>
+	<machine name="MGP6658 - Alpha Complex Nights">
+		<description>MGP6658 - Alpha Complex Nights</description>
+		<rom name="MGP6658 - Alpha Complex Nights.pdf" size="17078421" crc="769d4873" md5="4deb402d96ff48bf786e7813491ac9d6" sha1="b6b68ab2c036fad8ce37010fbfe180d10a3d7490"/>
+	</machine>
+	<machine name="MGP6659 - Big Book of Bots">
+		<description>MGP6659 - Big Book of Bots</description>
+		<rom name="MGP6659 - Big Book of Bots.pdf" size="5699694" crc="8f6de8b1" md5="11dee891ecfde16e59191feb181bb531" sha1="63854d000f85f604eb5bec7a1219df4bd0d82125"/>
+	</machine>
+	<machine name="MGP6661 - The Thin Green Line">
+		<description>MGP6661 - The Thin Green Line</description>
+		<rom name="MGP6661 - The Thin Green Line.pdf" size="5252441" crc="48100506" md5="d1692fdbb47192b06c227347e722196f" sha1="d85e74e3c31096293d3493fca86a4fa15ed95375"/>
+	</machine>
+	<machine name="MGP6662 - Alpha Complex Nights 2">
+		<description>MGP6662 - Alpha Complex Nights 2</description>
+		<rom name="MGP6662 - Alpha Complex Nights 2.pdf" size="3551525" crc="4e005aa5" md5="4fe6a4f44f76ed0542d38c696c93056c" sha1="95935d4b7fbc8c6e5e4b6a7a941000682d8798fe"/>
+	</machine>
+	<machine name="MGP6663 - Mandatory Mission Pack">
+		<description>MGP6663 - Mandatory Mission Pack</description>
+		<rom name="MGP6663 - Mandatory Mission Pack.pdf" size="3851805" crc="521b6145" md5="3e84596e267cfc0dcf715cd25acbd6d6" sha1="33dd073948491176baa5b0b759ab4e8a4db12d34"/>
+	</machine>
+	<machine name="MGP6664 - STUFF 2 - The Gray Subnets">
+		<description>MGP6664 - STUFF 2 - The Gray Subnets</description>
+		<rom name="MGP6664 - STUFF 2 - The Gray Subnets.pdf" size="4518318" crc="adbdafdc" md5="fbca3872e4e5a982c309df958a83b1ae" sha1="d3edef5246525308fc1abb496fa9040fc67b2295"/>
+	</machine>
+</datafile>
