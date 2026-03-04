@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - 2nd Edition</name>
+		<description>Shadowrun - 2nd Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="57" crc="1b9db74a" md5="847b5ce532b813cf7c3c7a899cdb4088" sha1="7baf7a909d6495819f60cd7c6ba3f5a876a1390e" />
+	</machine>
+	<machine name="FASA7112 - Paranormal Animals of Europe">
+		<description>FASA7112 - Paranormal Animals of Europe</description>
+		<rom name="FASA7112 - Paranormal Animals of Europe.pdf" size="31090198" crc="f953c861" md5="c4bbc04095eda92f2e2007c433555d6c" sha1="4c2c58a0d2d21874ee2531c47e37ec1a1e93f5bc" />
+	</machine>
+	<machine name="FASA7114 - Fields of Fire">
+		<description>FASA7114 - Fields of Fire</description>
+		<rom name="FASA7114 - Fields of Fire.pdf" size="6274274" crc="3cd4f0d6" md5="b17ba4d61386544c22369c257a455e5d" sha1="ab22b8486a415cdccb235c514c57850167e2ab7a" />
+	</machine>
+	<machine name="FASA7115 - Lone Star">
+		<description>FASA7115 - Lone Star</description>
+		<rom name="FASA7115 - Lone Star.pdf" size="26215568" crc="c9003283" md5="bd93143c22c816431001f9daebc266e6" sha1="747bdb0734d51eb3a9968b33c53d01676c708600" />
+	</machine>
+	<machine name="FASA7116 - Prime Runners">
+		<description>FASA7116 - Prime Runners</description>
+		<rom name="FASA7116 - Prime Runners.pdf" size="21625752" crc="6d02049d" md5="5108bb74f96bc65d815efce37912379d" sha1="2fe5fa619d04cd3d1371b0418b1d86bb6e50e813" />
+	</machine>
+	<machine name="FASA7117 - Bug City">
+		<description>FASA7117 - Bug City</description>
+		<rom name="FASA7117 - Bug City.pdf" size="48586719" crc="e4dfbf35" md5="fc0d6ed3320a563f34fd1bac6b776e26" sha1="a0b3e836b2e6d0d7392f5b74251d45a148b2bec4" />
+	</machine>
+	<machine name="FASA7118 - Corporate Security Handbook">
+		<description>FASA7118 - Corporate Security Handbook</description>
+		<rom name="FASA7118 - Corporate Security Handbook.pdf" size="35717855" crc="eb127a3a" md5="a53e95f4b5bcdaffa203a34446587ca9" sha1="b2ba9fd418376f9a593fa7c95114436084b6486e" />
+	</machine>
+	<machine name="FASA7119 - Cybertechnology">
+		<description>FASA7119 - Cybertechnology</description>
+		<rom name="FASA7119 - Cybertechnology.pdf" size="24893846" crc="5ba9b6cc" md5="58a4a1382e0a3ac8440dfa9a46e3ea12" sha1="71ad1c23f7ca56347807a7e16f3e782273fee9fd" />
+	</machine>
+	<machine name="FASA7120 - Awakenings New Magic In 2057">
+		<description>FASA7120 - Awakenings New Magic In 2057</description>
+		<rom name="FASA7120 - Awakenings New Magic In 2057.pdf" size="58304118" crc="fa19b949" md5="381918e69547f32fc9a8953b4b35ad3b" sha1="c12ca4bc12355b3e30d47efbf9367c6e0c239e91" />
+	</machine>
+	<machine name="FASA7121 - Threats">
+		<description>FASA7121 - Threats</description>
+		<rom name="FASA7121 - Threats.pdf" size="39391242" crc="cc6b333a" md5="b83f8d65f8e1c3b30ce6aa7fe9ee4682" sha1="97e3ffdfdd9ae28d2ed5cb8cad96fd78a0d08d44" />
+	</machine>
+	<machine name="FASA7122 - Portfolio of a Dragon - Dunkelzahns Secrets">
+		<description>FASA7122 - Portfolio of a Dragon - Dunkelzahns Secrets</description>
+		<rom name="FASA7122 - Portfolio of a Dragon - Dunkelzahns Secrets.pdf" size="32474682" crc="c85d966c" md5="b9e496177ee0e125b6a162b8ce8e564c" sha1="7f65f23241042beed53294dc8f56d774982b0efe" />
+	</machine>
+	<machine name="FASA7123 - Underworld Sourcebook">
+		<description>FASA7123 - Underworld Sourcebook</description>
+		<rom name="FASA7123 - Underworld Sourcebook.pdf" size="38316309" crc="86d86f7d" md5="881dacceedc861b56fd8e40e2d78109b" sha1="2ac01f38622abcd3b8ee79f36868ae8775796c7e" />
+	</machine>
+	<machine name="FASA7124 - Cyberpirates">
+		<description>FASA7124 - Cyberpirates</description>
+		<rom name="FASA7124 - Cyberpirates.pdf" size="63905248" crc="650550a3" md5="40e834151ebdf58299642bf96efb396e" sha1="8fcd5fb2620efef227131c2c6a947912599f5cb9" />
+	</machine>
+	<machine name="FASA7204 - Germany Sourcebook [w]">
+		<description>FASA7204 - Germany Sourcebook [w]</description>
+		<rom name="FASA7204 - Germany Sourcebook [w].pdf" size="87375019" crc="54ec2322" md5="02dcb9f943ec92b638e57d38eb472345" sha1="92d939989f04792d45c47a5538d79c57e2ccb4e3" />
+	</machine>
+	<machine name="FASA7209 - California Free State">
+		<description>FASA7209 - California Free State</description>
+		<rom name="FASA7209 - California Free State.pdf" size="33811497" crc="6ef55b89" md5="afa456be0c5baedb35a180ccdf3aa313" sha1="f0aa3cf9862382272474223bccdba70c1fc87caf" />
+	</machine>
+	<machine name="FASA7210 - Tir Tairngire">
+		<description>FASA7210 - Tir Tairngire</description>
+		<rom name="FASA7210 - Tir Tairngire.pdf" size="40464925" crc="3c103707" md5="1d33dfcca5e3ce2dbc97f9586cc2a3f5" sha1="1c477d49bbfbac76eacf782428e8e84f3dc75acc" />
+	</machine>
+	<machine name="FASA7211 - Tir na nOg">
+		<description>FASA7211 - Tir na nOg</description>
+		<rom name="FASA7211 - Tir na nOg.pdf" size="61419831" crc="2bd11ccf" md5="90b13fb0c5fb47fd0964f64948d19cb0" sha1="50d214fdf92ee8f95a993568a377c80eb99e3467" />
+	</machine>
+	<machine name="FASA7212 - Denver - The City of Shadows">
+		<description>FASA7212 - Denver - The City of Shadows</description>
+		<rom name="FASA7212 - Denver - The City of Shadows.pdf" size="63115701" crc="01557431" md5="f71e2a10fb1cd45d16415f3d2c7d72ad" sha1="c292fdd802c49a9b48eb1abed3d70933b830482e" />
+	</machine>
+	<machine name="FASA7213 - Aztlan">
+		<description>FASA7213 - Aztlan</description>
+		<rom name="FASA7213 - Aztlan.pdf" size="62825249" crc="77a586ca" md5="326f3d0e41049b9465eb86c0da115d58" sha1="fe276591e2f3676282cd3a01a211dde685b977c9" />
+	</machine>
+	<machine name="FASA7214 - Target UCAS">
+		<description>FASA7214 - Target UCAS</description>
+		<rom name="FASA7214 - Target UCAS.pdf" size="37450008" crc="31594a3c" md5="c55e07e1e27feeec7bc1d6ecc420687c" sha1="81ecf54fdbbc5a6c4197af97449e8da41dd32b13" />
+	</machine>
+	<machine name="FASA7215 - Target Smuggler Havens">
+		<description>FASA7215 - Target Smuggler Havens</description>
+		<rom name="FASA7215 - Target Smuggler Havens.pdf" size="38787075" crc="c2e29553" md5="b36da38181b03c715c3cbc9827462ac7" sha1="53670dfc760089fcfb0737d15490184f79c78ef3" />
+	</machine>
+	<machine name="FASA7317 - Paradise Lost">
+		<description>FASA7317 - Paradise Lost</description>
+		<rom name="FASA7317 - Paradise Lost.pdf" size="25143933" crc="9e3c5c1e" md5="aa30fa03aa596af3774b37ecd1cec2ca" sha1="0162a065889e59de8613f92e1d7331461f357809" />
+	</machine>
+	<machine name="FASA7318 - Divided Assets">
+		<description>FASA7318 - Divided Assets</description>
+		<rom name="FASA7318 - Divided Assets.pdf" size="4738751" crc="d201f9d7" md5="a80f5c0bb1545f139f8fa741d7023b4c" sha1="65c15d9d585441c02eb7df844fa234e282d3ae4a" />
+	</machine>
+	<machine name="FASA7320 - Harlequins Back">
+		<description>FASA7320 - Harlequins Back</description>
+		<rom name="FASA7320 - Harlequins Back.pdf" size="85366931" crc="3c02d562" md5="b572c0ed18794a26ed1eb7405cce1667" sha1="983b2bf79e1780a3975e92bad306a6caff2db70b" />
+	</machine>
+	<machine name="FASA7322 - Super Tuesday">
+		<description>FASA7322 - Super Tuesday</description>
+		<rom name="FASA7322 - Super Tuesday.pdf" size="14300331" crc="615a4cc4" md5="0578699226aec147aa558af219e19131" sha1="dc6ab4d08048d542383879ec9cb7535c5e586511" />
+	</machine>
+	<machine name="FASA7323 - Shadows of the Underworld">
+		<description>FASA7323 - Shadows of the Underworld</description>
+		<rom name="FASA7323 - Shadows of the Underworld.pdf" size="12114672" crc="5e322734" md5="9405924cced56fdd6eb01dce6f51545b" sha1="736eed721b1dccd813636c081c2be27b5770c6be" />
+	</machine>
+	<machine name="FASA7324 - Predator and Prey">
+		<description>FASA7324 - Predator and Prey</description>
+		<rom name="FASA7324 - Predator and Prey.pdf" size="37112073" crc="bb5e7c3b" md5="0dbce83ec79392a50864291143fdfdd2" sha1="8fd39de47b6056550b74e4e8adbd6889f18dbeef" />
+	</machine>
+	<machine name="FASA7325 - Missions">
+		<description>FASA7325 - Missions</description>
+		<rom name="FASA7325 - Missions.pdf" size="58443468" crc="56d1f4c8" md5="90de52208316a3ffa15c35d2260c27f8" sha1="650ca5b0183ec8b3358d9934d58fbedb59f7be46" />
+	</machine>
+	<machine name="FASA7326 - Mob War">
+		<description>FASA7326 - Mob War</description>
+		<rom name="FASA7326 - Mob War.pdf" size="24800320" crc="89ad8fbf" md5="008f3acddf1cf12a0426c10f3a89f3fd" sha1="1f5e34afdbefb0f9f0e8adf3dbf3df5ca8b45c9d" />
+	</machine>
+	<machine name="FASA7327 - Blood In The Boardroom">
+		<description>FASA7327 - Blood In The Boardroom</description>
+		<rom name="FASA7327 - Blood In The Boardroom.pdf" size="20605867" crc="fb8d634a" md5="db5ab661952c53151cdbfb258a47e5ff" sha1="311306a2b05e26790d88064363e41a67f96d5299" />
+	</machine>
+	<machine name="FASA7401 - Sprawl Maps">
+		<description>FASA7401 - Sprawl Maps</description>
+		<rom name="FASA7401 - Sprawl Maps.pdf" size="3210302" crc="63062e7d" md5="3b6d7ecb5984e93b2d324506507e7dd2" sha1="b3ba13450f59a9693c78f0e99a7646b0882cdc46" />
+	</machine>
+	<machine name="FASA7901 - Shadowrun Second Edition (6th Printing)">
+		<description>FASA7901 - Shadowrun Second Edition (6th Printing)</description>
+		<rom name="FASA7901 - Shadowrun Second Edition (6th Printing).pdf" size="156325764" crc="2f2f476a" md5="35487a74166ae374c352805e7694e1f2" sha1="c08f4af0d460b273bc6b63fe6aa4fe866b140de7" />
+	</machine>
+	<machine name="FASA7902 - Contacts">
+		<description>FASA7902 - Contacts</description>
+		<rom name="FASA7902 - Contacts.pdf" size="26343383" crc="bddaeefa" md5="46d78a2a5913d185d2cdd30b12a93c6a" sha1="fa655b1277e842ecfdcc7e92b3ecc909d58ba858" />
+	</machine>
+	<machine name="FASA7902 - Gamemaster's Screen">
+		<description>FASA7902 - Gamemaster's Screen</description>
+		<rom name="FASA7902 - Gamemaster's Screen.pdf" size="1534742" crc="197ee005" md5="cd46d82edb6c1b5bff098375e15fc1f6" sha1="d2ecc100a4ef4effe7dd3cb06fd72148c09a4d71" />
+	</machine>
+	<machine name="FASA7903 - Grimoire 2nd edition">
+		<description>FASA7903 - Grimoire 2nd edition</description>
+		<rom name="FASA7903 - Grimoire 2nd edition.pdf" size="17041047" crc="1ebb0307" md5="4c0bc2d621d6cae5854ad570facc75e6" sha1="f0bc4e7b9683c59e8e52a0b2aa21b788454edf95" />
+	</machine>
+	<machine name="FASA7904 - Virtual Realities 2.0">
+		<description>FASA7904 - Virtual Realities 2.0</description>
+		<rom name="FASA7904 - Virtual Realities 2.0.pdf" size="20540765" crc="8ed49b24" md5="513d6be9986328b69ec98c4c29fa76f3" sha1="808fc9160b0763a52495f053deeb4930e8e6569b" />
+	</machine>
+	<machine name="FASA7905 - Shadowrun Companion - Beyond the Shadows">
+		<description>FASA7905 - Shadowrun Companion - Beyond the Shadows</description>
+		<rom name="FASA7905 - Shadowrun Companion - Beyond the Shadows.pdf" size="23418279" crc="897c1929" md5="bf3a6f8afacd6ebb86679d43bbcfdc51" sha1="00fb99f57e70007006b0dfbce47c57100e226ea3" />
+	</machine>
+	<machine name="FASA7906 - Rigger 2">
+		<description>FASA7906 - Rigger 2</description>
+		<rom name="FASA7906 - Rigger 2.pdf" size="61473689" crc="12c502ca" md5="85022a19efc443781af98b24a3f24093" sha1="908f9eff9873ec7e980246e178da525f485a4cf7" />
+	</machine>
+</datafile>

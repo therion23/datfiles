@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - Novels</name>
+		<description>Shadowrun - Novels</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="133" crc="6f0b4cee" md5="9a990313d7f94188cca4e5ce297e9f75" sha1="3c7cc68c60420201cc4b3842421bc49bc7b78975" />
+	</machine>
+	<machine name="CGL - 01 - Helfers, John - Spells &amp; Chrome - Anthology 1.epub">
+		<description>CGL - 01 - Helfers, John - Spells &amp; Chrome - Anthology 1.epub</description>
+		<rom name="CGL - 01 - Helfers, John - Spells &amp; Chrome - Anthology 1.epub" size="551569" crc="424993a9" md5="82e26db1ff3d599b9098e4aea6599d02" sha1="c6e8ce8a78bc46ce361a95c7047cd79fb7071ce0" />
+	</machine>
+	<machine name="CGL - 02 - Goodman, Patrick - Sail Away, Sweet Sister.epub">
+		<description>CGL - 02 - Goodman, Patrick - Sail Away, Sweet Sister.epub</description>
+		<rom name="CGL - 02 - Goodman, Patrick - Sail Away, Sweet Sister.epub" size="716039" crc="075029fb" md5="07dceb25115b157362f2e1d6139e2bec" sha1="bc319a28b93e3d47eeb93d3246a10d9667cca343" />
+	</machine>
+	<machine name="CGL - 03 - Zimmerman, Russell - Neat.epub">
+		<description>CGL - 03 - Zimmerman, Russell - Neat.epub</description>
+		<rom name="CGL - 03 - Zimmerman, Russell - Neat.epub" size="189800" crc="78a9f39c" md5="06d2c7086ab5a8ccd74c71443d72cc26" sha1="c999ab4081999f22328fae3ff56bbad5bb0e9313" />
+	</machine>
+	<machine name="CGL - 04 - Gagnon, Olivier - The Vladivostok Gauntlet.epub">
+		<description>CGL - 04 - Gagnon, Olivier - The Vladivostok Gauntlet.epub</description>
+		<rom name="CGL - 04 - Gagnon, Olivier - The Vladivostok Gauntlet.epub" size="776727" crc="111c16ff" md5="8e7bf3b422e8ef55a62eef8414dbaeef" sha1="d2b679100b3a6be530c10ebc30e6e34d0cc49b8c" />
+	</machine>
+	<machine name="CGL - 05 - O'Connal, Kai - Fire &amp; Frost.epub">
+		<description>CGL - 05 - O'Connal, Kai - Fire &amp; Frost.epub</description>
+		<rom name="CGL - 05 - O'Connal, Kai - Fire &amp; Frost.epub" size="396479" crc="ed66873e" md5="4dcc7c7854390867b2d783a46e4e5ade" sha1="b256e854986276c78d51855efc643ae5bafc6e49" />
+	</machine>
+	<machine name="CGL - 06 - Gagnon, Olivier - Nothing Personal.epub">
+		<description>CGL - 06 - Gagnon, Olivier - Nothing Personal.epub</description>
+		<rom name="CGL - 06 - Gagnon, Olivier - Nothing Personal.epub" size="835170" crc="4f6a62e3" md5="8b24cda7b23f27fff86842a3e6ae46e5" sha1="8bbb30de371642b4200100700a2b529fc2fab5d0" />
+	</machine>
+	<machine name="CGL - 07 - Goodman, Patrick - Another Rainy Night.epub">
+		<description>CGL - 07 - Goodman, Patrick - Another Rainy Night.epub</description>
+		<rom name="CGL - 07 - Goodman, Patrick - Another Rainy Night.epub" size="207977" crc="608887d5" md5="eb1fc45aa423d3b3ad4490f441b22f14" sha1="56501df24335d23aba0d4a95fd9dd7d5ba2d9e5b" />
+	</machine>
+	<machine name="CGL - 08 - Hardy, Jason M - Hell on Water.epub">
+		<description>CGL - 08 - Hardy, Jason M - Hell on Water.epub</description>
+		<rom name="CGL - 08 - Hardy, Jason M - Hell on Water.epub" size="331308" crc="8d0ae4a0" md5="8c3b8149ba81be8b10e84fdf24cebfcc" sha1="81eebebb1b7f9926145048d571630cc10e7e9b8f" />
+	</machine>
+	<machine name="CGL - 09 - Weldon, Phaedra - Dark Resonance.epub">
+		<description>CGL - 09 - Weldon, Phaedra - Dark Resonance.epub</description>
+		<rom name="CGL - 09 - Weldon, Phaedra - Dark Resonance.epub" size="507198" crc="dc59265b" md5="ceeaea0c918fcb36276514f3a32a5fae" sha1="7c6e011a54d4a8e48a886c3235fae78f94bdcc2c" />
+	</machine>
+	<machine name="CGL - 10 - Brozek, Jennifer - DocWagon 19.epub">
+		<description>CGL - 10 - Brozek, Jennifer - DocWagon 19.epub</description>
+		<rom name="CGL - 10 - Brozek, Jennifer - DocWagon 19.epub" size="186726" crc="4e2582d2" md5="7e6b53ecd188c6365b2e076a5bcfc31d" sha1="2f1509ecd9b272ffea073925192cce65fff92528" />
+	</machine>
+	<machine name="CGL - 11 - Czarnecki, Kevin R - Crimson.epub">
+		<description>CGL - 11 - Czarnecki, Kevin R - Crimson.epub</description>
+		<rom name="CGL - 11 - Czarnecki, Kevin R - Crimson.epub" size="390985" crc="af53e71d" md5="fdf9cb68ae245fa40fe1a1f55438ff71" sha1="ff5c6c342afb42d6e4acc29d6d73464a465ab30e" />
+	</machine>
+	<machine name="CGL - 12 - King, R L - Borrowed Time.epub">
+		<description>CGL - 12 - King, R L - Borrowed Time.epub</description>
+		<rom name="CGL - 12 - King, R L - Borrowed Time.epub" size="424206" crc="cf8e325b" md5="4a79456ab0558b14620aba00da8a6b0b" sha1="745269757eae087de67092b37dd9651931d8217a" />
+	</machine>
+	<machine name="CGL - 13 - Zimmerman, Russell - Shaken - No Job Too Small.epub">
+		<description>CGL - 13 - Zimmerman, Russell - Shaken - No Job Too Small.epub</description>
+		<rom name="CGL - 13 - Zimmerman, Russell - Shaken - No Job Too Small.epub" size="396839" crc="175d48ab" md5="7e64cfd4785457fbedb3b4359178dc13" sha1="ef2b7fe9508378518e3e7d98edb91d464fa8c55b" />
+	</machine>
+	<machine name="CGL - 14 - King, R L - Wolf &amp; Buffalo.epub">
+		<description>CGL - 14 - King, R L - Wolf &amp; Buffalo.epub</description>
+		<rom name="CGL - 14 - King, R L - Wolf &amp; Buffalo.epub" size="227191" crc="6e7fb86b" md5="88301679e560148d72a2460b6fffdca6" sha1="648d1185211ade35eeded76cd97f024695913175" />
+	</machine>
+	<machine name="CGL - 15 - Odom, Mel - Deniable Assets.epub">
+		<description>CGL - 15 - Odom, Mel - Deniable Assets.epub</description>
+		<rom name="CGL - 15 - Odom, Mel - Deniable Assets.epub" size="497503" crc="85fd8255" md5="25e841e347ae71a014e64cf9fda6a6de" sha1="27442abbd4ff7d866fa2a329ed5dd56b0b18c0e8" />
+	</machine>
+	<machine name="CGL - 16 - Helfers, John - World of Shadows - Anthology Book 2.epub">
+		<description>CGL - 16 - Helfers, John - World of Shadows - Anthology Book 2.epub</description>
+		<rom name="CGL - 16 - Helfers, John - World of Shadows - Anthology Book 2.epub" size="469965" crc="f8c3ee5e" md5="5ae891bd6536ad8383bc6d932bc44763" sha1="3daad9be356f1233eb73a4b7e4fefa892948ff34" />
+	</machine>
+	<machine name="CGL - 17 - Helfers, John - Drawing Destiny - A Sixth World Tarot - Anthology Book 3.epub">
+		<description>CGL - 17 - Helfers, John - Drawing Destiny - A Sixth World Tarot - Anthology Book 3.epub</description>
+		<rom name="CGL - 17 - Helfers, John - Drawing Destiny - A Sixth World Tarot - Anthology Book 3.epub" size="534943" crc="114e8653" md5="7eb1226f94910aa82460cdf88df583bc" sha1="0a8a6775d472bbbcfdfd1dc77d96010e948d89ec" />
+	</machine>
+	<machine name="CGL - 18 - King, R L - Big Dreams.epub">
+		<description>CGL - 18 - King, R L - Big Dreams.epub</description>
+		<rom name="CGL - 18 - King, R L - Big Dreams.epub" size="210702" crc="cd6fb573" md5="5078998b7dca56cf665d2acb2a34dbe4" sha1="579a7e32086a364818433489f83fa0b6b1a3b9f9" />
+	</machine>
+	<machine name="CGL - 19 - Birtolo, Dylan - Blind Magic.epub">
+		<description>CGL - 19 - Birtolo, Dylan - Blind Magic.epub</description>
+		<rom name="CGL - 19 - Birtolo, Dylan - Blind Magic.epub" size="918901" crc="7b77b4ef" md5="da45e1dcc10a015eee3196b1d51d8bea" sha1="173eb1cc271e86e43b982bb484f02693dceb0802" />
+	</machine>
+	<machine name="FASA - 01 - Charrette, Robert N - Never Deal With A Dragon - Secrets Of Power 1.epub">
+		<description>FASA - 01 - Charrette, Robert N - Never Deal With A Dragon - Secrets Of Power 1.epub</description>
+		<rom name="FASA - 01 - Charrette, Robert N - Never Deal With A Dragon - Secrets Of Power 1.epub" size="722027" crc="9c4c6cf6" md5="6fb31c201e0cdf22e87d2a18995c4704" sha1="dc5698e4503c2ab3a9293d1dcea1c071edcc05de" />
+	</machine>
+	<machine name="FASA - 02 - Charrette, Robert N - Choose Your Enemies Carefully - Secrets Of Power 2.epub">
+		<description>FASA - 02 - Charrette, Robert N - Choose Your Enemies Carefully - Secrets Of Power 2.epub</description>
+		<rom name="FASA - 02 - Charrette, Robert N - Choose Your Enemies Carefully - Secrets Of Power 2.epub" size="278167" crc="5ed10850" md5="4edf4fc4bb43d9b5a947e82dd5e8110d" sha1="b2b66eee6014ba7d8f1eea46c87a67781cc159a7" />
+	</machine>
+	<machine name="FASA - 03 - Charrette, Robert N - Find Your Own Truth - Secrets Of Power 3.epub">
+		<description>FASA - 03 - Charrette, Robert N - Find Your Own Truth - Secrets Of Power 3.epub</description>
+		<rom name="FASA - 03 - Charrette, Robert N - Find Your Own Truth - Secrets Of Power 3.epub" size="1009663" crc="17b7801b" md5="895418c365c89d7aa404cf8f4ae8c205" sha1="f491337326fa038e93510189055f7616ac07bb5c" />
+	</machine>
+	<machine name="FASA - 04 - Findley, Nigel D - 2XS.epub">
+		<description>FASA - 04 - Findley, Nigel D - 2XS.epub</description>
+		<rom name="FASA - 04 - Findley, Nigel D - 2XS.epub" size="413896" crc="3a05cf9f" md5="bf09f52d48af8ae09c1a89669c2587fc" sha1="3d65ccf35b81a3e0f6aea4a4543dd216006d622d" />
+	</machine>
+	<machine name="FASA - 05 - Kubasik, Chris - Changeling.epub">
+		<description>FASA - 05 - Kubasik, Chris - Changeling.epub</description>
+		<rom name="FASA - 05 - Kubasik, Chris - Changeling.epub" size="549991" crc="f2945a11" md5="5eb6c28a5b5587bb6990c8954a01a295" sha1="5d69f36e5aae56ec6cc76b9f0724ce1341b88030" />
+	</machine>
+	<machine name="FASA - 06 - Charrette, Robert N - Never Trust an Elf.epub">
+		<description>FASA - 06 - Charrette, Robert N - Never Trust an Elf.epub</description>
+		<rom name="FASA - 06 - Charrette, Robert N - Never Trust an Elf.epub" size="952786" crc="0cc201d1" md5="d7c4bb9d261ecf5312d6d1cd905fcccd" sha1="36bfee742b6db521884b12a3cca643402f03805b" />
+	</machine>
+	<machine name="FASA - 07 - Weisman, Jordan K - Into the Shadows.epub">
+		<description>FASA - 07 - Weisman, Jordan K - Into the Shadows.epub</description>
+		<rom name="FASA - 07 - Weisman, Jordan K - Into the Shadows.epub" size="974212" crc="e8351712" md5="d252df920448780afa0bd09f11cad4ef" sha1="8316772badff88ebb40da4934d76957092c44afc" />
+	</machine>
+	<machine name="FASA - 08 - Sargent, Carl &amp; Gascoigne, Marc - Streets of Blood.epub">
+		<description>FASA - 08 - Sargent, Carl &amp; Gascoigne, Marc - Streets of Blood.epub</description>
+		<rom name="FASA - 08 - Sargent, Carl &amp; Gascoigne, Marc - Streets of Blood.epub" size="1010095" crc="25a27326" md5="ac078f6ae259677537f4d4b21e927cf3" sha1="6eea81281450b615241dee55b9ccc23eec5bf0a1" />
+	</machine>
+	<machine name="FASA - 09 - Findley, Nigel D - Shadowplay.epub">
+		<description>FASA - 09 - Findley, Nigel D - Shadowplay.epub</description>
+		<rom name="FASA - 09 - Findley, Nigel D - Shadowplay.epub" size="1027069" crc="6b76d773" md5="6cf03a83124aeb771d5cb7e294299ccf" sha1="12bb0e05ec4aba74fc541751c4e3ba88c4ca9928" />
+	</machine>
+	<machine name="FASA - 10 - Dowd, Tom - Night's Pawn.epub">
+		<description>FASA - 10 - Dowd, Tom - Night's Pawn.epub</description>
+		<rom name="FASA - 10 - Dowd, Tom - Night's Pawn.epub" size="775437" crc="8ca1c7fa" md5="c24d960e182d52095e3c3eb80d303533" sha1="1fb63b22bf3f3d5aaae6a7eb888c0edce03d4412" />
+	</machine>
+	<machine name="FASA - 11 - Smith, Nyx &amp; Weller, Robert C - Striper Assassin.epub">
+		<description>FASA - 11 - Smith, Nyx &amp; Weller, Robert C - Striper Assassin.epub</description>
+		<rom name="FASA - 11 - Smith, Nyx &amp; Weller, Robert C - Striper Assassin.epub" size="406633" crc="e542708a" md5="491b67baf50c9119b0e845894a188785" sha1="882dbb4e9300a8327e35cbff34102ec0873430a4" />
+	</machine>
+	<machine name="FASA - 12 - Findley, Nigel - Lone Wolf.epub">
+		<description>FASA - 12 - Findley, Nigel - Lone Wolf.epub</description>
+		<rom name="FASA - 12 - Findley, Nigel - Lone Wolf.epub" size="947669" crc="31165e4f" md5="2f240385c52dcca0931dc39c5bb085f7" sha1="6658eb96cff4ffdc5a60c91aac875f1440d0762b" />
+	</machine>
+	<machine name="FASA - 13 - Smith, Nyx - Fade to Black.epub">
+		<description>FASA - 13 - Smith, Nyx - Fade to Black.epub</description>
+		<rom name="FASA - 13 - Smith, Nyx - Fade to Black.epub" size="375315" crc="35741118" md5="29e758cceac1de90ede7ec0a6de30e2b" sha1="bc7cdb8d5e8677117d1ce34bff81a15c5774194b" />
+	</machine>
+	<machine name="FASA - 14 - Sargent, Carl &amp; Gascoigne, Marc - Nosferatu.epub">
+		<description>FASA - 14 - Sargent, Carl &amp; Gascoigne, Marc - Nosferatu.epub</description>
+		<rom name="FASA - 14 - Sargent, Carl &amp; Gascoigne, Marc - Nosferatu.epub" size="991337" crc="5d2251cf" md5="0574ea4466de2ba481fd00b18704d9e5" sha1="c3c8e89baa6a33dc9676b07ea035cb3ad05a406c" />
+	</machine>
+	<machine name="FASA - 15 - Dowd, Tom - Burning Bright.epub">
+		<description>FASA - 15 - Dowd, Tom - Burning Bright.epub</description>
+		<rom name="FASA - 15 - Dowd, Tom - Burning Bright.epub" size="453186" crc="e833a989" md5="9aca6974cef967d4011d6225001c4b50" sha1="0ccf60b4f28e095d3af415ed4afefddbc0c6ed41" />
+	</machine>
+	<machine name="FASA - 16 - Smith, Nyx - Who Hunts the Hunter.epub">
+		<description>FASA - 16 - Smith, Nyx - Who Hunts the Hunter.epub</description>
+		<rom name="FASA - 16 - Smith, Nyx - Who Hunts the Hunter.epub" size="271734" crc="4293ea6f" md5="9520e42d4a9a9fdf1dc9447b6d24fab0" sha1="2f40a180e06448cda16cfdbf252455e904377b53" />
+	</machine>
+	<machine name="FASA - 17 - Findley, Nigel D - House of the Sun.epub">
+		<description>FASA - 17 - Findley, Nigel D - House of the Sun.epub</description>
+		<rom name="FASA - 17 - Findley, Nigel D - House of the Sun.epub" size="461398" crc="c39844f9" md5="546a47c6380ac09864568fe29c161a7d" sha1="d5969611eeefa7c5b92417251a7f5143c71363c1" />
+	</machine>
+	<machine name="FASA - 18 - Spector, Caroline - Worlds Without End.epub">
+		<description>FASA - 18 - Spector, Caroline - Worlds Without End.epub</description>
+		<rom name="FASA - 18 - Spector, Caroline - Worlds Without End.epub" size="627711" crc="d754a8f7" md5="f1a3020f0d5135fb17dcbfe6122704d4" sha1="577cc4d31eda7d34acab42dc925846bca482fdf4" />
+	</machine>
+	<machine name="FASA - 19 - Charrette, Robert N - Just Compensation.epub">
+		<description>FASA - 19 - Charrette, Robert N - Just Compensation.epub</description>
+		<rom name="FASA - 19 - Charrette, Robert N - Just Compensation.epub" size="503998" crc="064777b5" md5="ad49238e238c7517a93e33eb5538550f" sha1="ed51f35e89a7a94e3c023f5922e46fa65f91e35b" />
+	</machine>
+	<machine name="FASA - 20 - Sargent, Carl &amp; Gascoigne, Marc - Black Madonna.epub">
+		<description>FASA - 20 - Sargent, Carl &amp; Gascoigne, Marc - Black Madonna.epub</description>
+		<rom name="FASA - 20 - Sargent, Carl &amp; Gascoigne, Marc - Black Madonna.epub" size="369070" crc="85d72ad8" md5="88c60beaea7344d98f7c950753314b01" sha1="6b17edbfaefba24c98cc60f2069a1b9d9cb0bafd" />
+	</machine>
+	<machine name="FASA - 21 - Odom, Mel - Preying for Keeps.epub">
+		<description>FASA - 21 - Odom, Mel - Preying for Keeps.epub</description>
+		<rom name="FASA - 21 - Odom, Mel - Preying for Keeps.epub" size="730984" crc="c8a4843a" md5="2ea8a163031990314d71973ea6d307c1" sha1="59d397d8572ac318f9e70c2efc1ba63075fa27ba" />
+	</machine>
+	<machine name="FASA - 22 - Koke, Jak - Dead Air.epub">
+		<description>FASA - 22 - Koke, Jak - Dead Air.epub</description>
+		<rom name="FASA - 22 - Koke, Jak - Dead Air.epub" size="468575" crc="fb451f9b" md5="d750f6ba90eb0f83b76ac9d4b19213bf" sha1="b96e796a67512cb36b8c768750443987caf8148d" />
+	</machine>
+	<machine name="FASA - 23 - Smedman, Lisa - The Lucifer Deck.epub">
+		<description>FASA - 23 - Smedman, Lisa - The Lucifer Deck.epub</description>
+		<rom name="FASA - 23 - Smedman, Lisa - The Lucifer Deck.epub" size="731324" crc="1a28c46d" md5="ebd8d5fad3ec22f5030d902209b495d4" sha1="d83dc4ed7366010c8ab1b4bd4e6cf03663a45a44" />
+	</machine>
+	<machine name="FASA - 24 - Smith, Nyx - Steel Rain.epub">
+		<description>FASA - 24 - Smith, Nyx - Steel Rain.epub</description>
+		<rom name="FASA - 24 - Smith, Nyx - Steel Rain.epub" size="439323" crc="1707df13" md5="446284766a29adb87c780c12e7c3808a" sha1="4accb2189962125e538c1558b41e500b0481d73d" />
+	</machine>
+	<machine name="FASA - 25 - Pollotta, Nicholas - Shadowboxer.epub">
+		<description>FASA - 25 - Pollotta, Nicholas - Shadowboxer.epub</description>
+		<rom name="FASA - 25 - Pollotta, Nicholas - Shadowboxer.epub" size="734428" crc="70488f8f" md5="b25b3bfec2492351a14f5b8cbaf3073e" sha1="7844673701120acbe204143f4de66082d68fbfda" />
+	</machine>
+	<machine name="FASA - 26 - Koke, Jak - Stranger Souls - Dragon Heart Saga 1.epub">
+		<description>FASA - 26 - Koke, Jak - Stranger Souls - Dragon Heart Saga 1.epub</description>
+		<rom name="FASA - 26 - Koke, Jak - Stranger Souls - Dragon Heart Saga 1.epub" size="662677" crc="db3cc977" md5="b90be189e31867cba88b5b78edce7c56" sha1="d65d68ea405ab8e219517611a369d3f954e0f638" />
+	</machine>
+	<machine name="FASA - 27 - Odom, Mel - Headhunters.epub">
+		<description>FASA - 27 - Odom, Mel - Headhunters.epub</description>
+		<rom name="FASA - 27 - Odom, Mel - Headhunters.epub" size="437083" crc="a455a814" md5="990375730ea66b05e1eead2f98177055" sha1="d78c129d69225c9ee0c86b1466152938ad414677" />
+	</machine>
+	<machine name="FASA - 28 - Koke, Jak - Clockwork Asylum - Dragon Heart Saga 2.epub">
+		<description>FASA - 28 - Koke, Jak - Clockwork Asylum - Dragon Heart Saga 2.epub</description>
+		<rom name="FASA - 28 - Koke, Jak - Clockwork Asylum - Dragon Heart Saga 2.epub" size="630392" crc="3c72a36a" md5="6022382408d6e45929b82d530ee2cea5" sha1="e4aa189210fd21d8ab451cea05590e7d7c3042b2" />
+	</machine>
+	<machine name="FASA - 29 - Smedman, Lisa - Blood Sport.epub">
+		<description>FASA - 29 - Smedman, Lisa - Blood Sport.epub</description>
+		<rom name="FASA - 29 - Smedman, Lisa - Blood Sport.epub" size="466488" crc="28292334" md5="1686856b11ea0bb22074203da674191d" sha1="ddf4231068395b5007c3fdc87ceb0ed6d5aa69b8" />
+	</machine>
+	<machine name="FASA - 30 - Koke, Jak - Beyond the Pale - Dragon Heart Saga 3.epub">
+		<description>FASA - 30 - Koke, Jak - Beyond the Pale - Dragon Heart Saga 3.epub</description>
+		<rom name="FASA - 30 - Koke, Jak - Beyond the Pale - Dragon Heart Saga 3.epub" size="748257" crc="e8b14528" md5="baf29be6ed478ec15e735125e2604421" sha1="831774cdaf779e2c03a0bb9eb92cb88c00abfa4c" />
+	</machine>
+	<machine name="FASA - 31 - Kenson, Stephen - Technobabel.epub">
+		<description>FASA - 31 - Kenson, Stephen - Technobabel.epub</description>
+		<rom name="FASA - 31 - Kenson, Stephen - Technobabel.epub" size="672264" crc="e6b14fb7" md5="fde2c80edf13de6857d83460c5bd83b1" sha1="a1e84b372f22e0dfb76ac7d3a273f25f36899cca" />
+	</machine>
+	<machine name="FASA - 32 - Stackpole, Michael A - Wolf and Raven.epub">
+		<description>FASA - 32 - Stackpole, Michael A - Wolf and Raven.epub</description>
+		<rom name="FASA - 32 - Stackpole, Michael A - Wolf and Raven.epub" size="643124" crc="cf2c335f" md5="0c714b79320b134c7ab7f384cdc5fd6e" sha1="dc2132a6cc5c6b07c161f68464a70e14cb933002" />
+	</machine>
+	<machine name="FASA - 33 - Smedman, Lisa - Psychotrope.epub">
+		<description>FASA - 33 - Smedman, Lisa - Psychotrope.epub</description>
+		<rom name="FASA - 33 - Smedman, Lisa - Psychotrope.epub" size="572079" crc="2d44e102" md5="212b14eeba5c4557412fe2a3f8be7767" sha1="9c5e5322b85544c8241dcdf157d69276001b8bbb" />
+	</machine>
+	<machine name="FASA - 34 - Bond, Jonathan E &amp; Koke, Jak - Terminus Experiment.epub">
+		<description>FASA - 34 - Bond, Jonathan E &amp; Koke, Jak - Terminus Experiment.epub</description>
+		<rom name="FASA - 34 - Bond, Jonathan E &amp; Koke, Jak - Terminus Experiment.epub" size="554095" crc="e0b9cc63" md5="4c097647e138dcf0bc09711b200b2e05" sha1="507dfd53e73ba5e6ab8ceb1fb1a3bba7a59184cc" />
+	</machine>
+	<machine name="FASA - 35 - Odom, Mel - Run Hard, Die Fast.epub">
+		<description>FASA - 35 - Odom, Mel - Run Hard, Die Fast.epub</description>
+		<rom name="FASA - 35 - Odom, Mel - Run Hard, Die Fast.epub" size="613032" crc="687e2a23" md5="0cf870740b8917ab9edae3856ecd3ab1" sha1="a08fea7e9cbf5f698a42fe6c2d0d6aa16af13a76" />
+	</machine>
+	<machine name="FASA - 36 - Kenson, Stephen - Crossroads.epub">
+		<description>FASA - 36 - Kenson, Stephen - Crossroads.epub</description>
+		<rom name="FASA - 36 - Kenson, Stephen - Crossroads.epub" size="398210" crc="dd9717ec" md5="2b64e0e25be9b85cdd69690b7c47528e" sha1="3101aeee0cdd2e48d9442b790f317bdaefefb947" />
+	</machine>
+	<machine name="FASA - 37 - Smedman, Lisa - The Forever Drug.epub">
+		<description>FASA - 37 - Smedman, Lisa - The Forever Drug.epub</description>
+		<rom name="FASA - 37 - Smedman, Lisa - The Forever Drug.epub" size="637874" crc="63c7ad23" md5="3c137fd68bc798d6410d40b8ee951856" sha1="f8adef18dfefd4a1db18048eaa242de96919413f" />
+	</machine>
+	<machine name="FASA - 38 - Kenson, Stephen - Ragnarock.epub">
+		<description>FASA - 38 - Kenson, Stephen - Ragnarock.epub</description>
+		<rom name="FASA - 38 - Kenson, Stephen - Ragnarock.epub" size="682928" crc="f9ea1b0f" md5="379ae8b3e87f8ae9f5db3ff7425892ae" sha1="6ecd3b7e0f7b8d075251177b8b1566147804e4c5" />
+	</machine>
+	<machine name="FASA - 39 - Smedman, Lisa - Tails You Lose.epub">
+		<description>FASA - 39 - Smedman, Lisa - Tails You Lose.epub</description>
+		<rom name="FASA - 39 - Smedman, Lisa - Tails You Lose.epub" size="666125" crc="1d6bfa96" md5="866bb51377b308455024e95e86784896" sha1="e7202d31918691bd9ac8688ccc8f5d9214f2ca71" />
+	</machine>
+	<machine name="FASA - 40 - Kenson, Stephen &amp; Charrette, Robert N - The Burning Time.epub">
+		<description>FASA - 40 - Kenson, Stephen &amp; Charrette, Robert N - The Burning Time.epub</description>
+		<rom name="FASA - 40 - Kenson, Stephen &amp; Charrette, Robert N - The Burning Time.epub" size="622442" crc="aba40e37" md5="dd1846ceb470532f3e2498e53dbc0cf0" sha1="e9ce9ae1564b3d623998c6315337cdd159aa1757" />
+	</machine>
+	<machine name="WizKids - 01 - Kenson, Stephen - Born to Run - Kellan Colt 1.epub">
+		<description>WizKids - 01 - Kenson, Stephen - Born to Run - Kellan Colt 1.epub</description>
+		<rom name="WizKids - 01 - Kenson, Stephen - Born to Run - Kellan Colt 1.epub" size="346434" crc="3d725210" md5="8d625486760e695f5133cee5a3858377" sha1="7e64b0de3192ee14ac1f1d3aadecb473718b8786" />
+	</machine>
+	<machine name="WizKids - 02 - Kenson, Stephen - Poison Agendas - Kellan Colt 2.epub">
+		<description>WizKids - 02 - Kenson, Stephen - Poison Agendas - Kellan Colt 2.epub</description>
+		<rom name="WizKids - 02 - Kenson, Stephen - Poison Agendas - Kellan Colt 2.epub" size="365388" crc="6c9e4c1e" md5="7abdb91dd9747603f021614288b61847" sha1="1c1420c4484daf7623ebdedb03ab87049b72c41c" />
+	</machine>
+	<machine name="WizKids - 03 - Kenson, Stephen - Fallen Angels - Kellan Colt 3.epub">
+		<description>WizKids - 03 - Kenson, Stephen - Fallen Angels - Kellan Colt 3.epub</description>
+		<rom name="WizKids - 03 - Kenson, Stephen - Fallen Angels - Kellan Colt 3.epub" size="444261" crc="09ac847a" md5="722a32cfd982662d67355c193ec5dc5c" sha1="ce033f281fc27deed36211b996fbabcef28e603d" />
+	</machine>
+	<machine name="WizKids - 04 - Hardy, Jason M - Drops of Corruption.epub">
+		<description>WizKids - 04 - Hardy, Jason M - Drops of Corruption.epub</description>
+		<rom name="WizKids - 04 - Hardy, Jason M - Drops of Corruption.epub" size="347921" crc="f970bab4" md5="5c655d9b858c635d02dca36ef5848cd0" sha1="3e7d1cd4f8608f9f9c6046e250a2cf78b0257f26" />
+	</machine>
+	<machine name="WizKids - 05 - Rabe, Jean &amp; Helfers, John - Aftershock.epub">
+		<description>WizKids - 05 - Rabe, Jean &amp; Helfers, John - Aftershock.epub</description>
+		<rom name="WizKids - 05 - Rabe, Jean &amp; Helfers, John - Aftershock.epub" size="312332" crc="ca9e67d6" md5="4225883c150bf0dff4129cb28c684383" sha1="da83b2272870db9915d542446ff23f131414799b" />
+	</machine>
+	<machine name="WizKids - 06 - Dedman, Stephen - A Fistful of Data.epub">
+		<description>WizKids - 06 - Dedman, Stephen - A Fistful of Data.epub</description>
+		<rom name="WizKids - 06 - Dedman, Stephen - A Fistful of Data.epub" size="485892" crc="eed4253c" md5="fe2262873f209372972575ccfec82a3b" sha1="cd26dfa12008e1cb73a71e8a13a8f865f4bc6732" />
+	</machine>
+</datafile>

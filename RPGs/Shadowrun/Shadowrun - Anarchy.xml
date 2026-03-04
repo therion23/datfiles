@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - Anarchy</name>
+		<description>Shadowrun - Anarchy</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="CAT27010 - Shadowrun Anarchy (Updated)">
+		<description>CAT27010 - Shadowrun Anarchy (Updated)</description>
+		<rom name="CAT27010 - Shadowrun Anarchy (Updated).pdf" size="9818359" crc="c25c027c" md5="c43bd3a123d46f36b0cf1a7fcaa7e311" sha1="1bba1ee3dbf1f0bce2aac67b0f7c22e6ea6ea83b" />
+	</machine>
+	<machine name="CAT27010 - Shadowrun Anarchy">
+		<description>CAT27010 - Shadowrun Anarchy</description>
+		<rom name="CAT27010 - Shadowrun Anarchy.pdf" size="12076732" crc="36caa736" md5="cad1ce8dc67d644d010360a38f576c3c" sha1="a7aad4564f098fd9c4d67856f4057e51da2f528c" />
+	</machine>
+	<machine name="CAT27010A - Prototype">
+		<description>CAT27010A - Prototype</description>
+		<rom name="CAT27010A - Prototype.pdf" size="86899847" crc="19ec9280" md5="567a90fcd9963ce199a92a52ea2cb27a" sha1="3f07ba3297d6d29549cf431b4134d1391c161ac6" />
+	</machine>
+	<machine name="CAT27486 - Chicago Chaos">
+		<description>CAT27486 - Chicago Chaos</description>
+		<rom name="CAT27486 - Chicago Chaos.pdf" size="9240037" crc="165aa0fe" md5="0c1df105fc3fb5e10c8085ba90036b80" sha1="5743ec06894e641564cafd18029f28b880454108" />
+	</machine>
+	<machine name="CAT27487 - Anarchy 2050">
+		<description>CAT27487 - Anarchy 2050</description>
+		<rom name="CAT27487 - Anarchy 2050.pdf" size="19269963" crc="888ded1c" md5="7048ddf43400043252a1e03c69845a16" sha1="ad483597491877ddd612a24985a37b70d87045d8" />
+	</machine>
+</datafile>

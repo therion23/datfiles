@@ -1,0 +1,451 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - 5th Edition</name>
+		<description>Shadowrun - 5th Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="27M0501 - Chasin' the Wind">
+		<description>27M0501 - Chasin' the Wind</description>
+		<rom name="27M0501 - Chasin' the Wind.pdf" size="2135412" crc="b00360ec" md5="4befdd42799d4eacbbeb57ad22a4d44c" sha1="2c1faf8824a638d360a36a6ae0656e1379f2971b" />
+	</machine>
+	<machine name="27M0502 - Critic's Choice">
+		<description>27M0502 - Critic's Choice</description>
+		<rom name="27M0502 - Critic's Choice.pdf" size="3136308" crc="dfadf817" md5="732c182f2def4b560151c77715413144" sha1="31bc487fca495c96daca2c46aac21461206c888e" />
+	</machine>
+	<machine name="27M0503 - Gone Long Gone">
+		<description>27M0503 - Gone Long Gone</description>
+		<rom name="27M0503 - Gone Long Gone.pdf" size="3213429" crc="495827c2" md5="d95040374f4b086f1bb32b81dc27125d" sha1="312fdccddf5362ad24ac3fa1d53f03444c3e9d42" />
+	</machine>
+	<machine name="27M0504 - Liberation">
+		<description>27M0504 - Liberation</description>
+		<rom name="27M0504 - Liberation.pdf" size="3991221" crc="e3e6d59c" md5="7117a2258ed48358d6cf02c842827410" sha1="3169d14a32c3aeb77dac9e8078d9fac63e5a1781" />
+	</machine>
+	<machine name="27M0505 - While the City Sleeps">
+		<description>27M0505 - While the City Sleeps</description>
+		<rom name="27M0505 - While the City Sleeps.pdf" size="1003888" crc="5b4b075d" md5="258fd8bb7fa5af475735f5542d1f95da" sha1="cd8b5a0cc10984bef09eb526fbd7ce4fb669316e" />
+	</machine>
+	<machine name="27M0506 - Take a Chance">
+		<description>27M0506 - Take a Chance</description>
+		<rom name="27M0506 - Take a Chance.pdf" size="3909532" crc="710ce404" md5="97655755dcf020d7257c9b96c3d48589" sha1="3100f2da5972f68c40087065e0087640d02ee7cd" />
+	</machine>
+	<machine name="27M0601 - Ten Fifty-Seven">
+		<description>27M0601 - Ten Fifty-Seven</description>
+		<rom name="27M0601 - Ten Fifty-Seven.pdf" size="3907703" crc="93f4a16b" md5="4f3ce468c133ffa9547e5c68d403a630" sha1="00d2a4244c60df96c661cee295a2158d6207cdd0" />
+	</machine>
+	<machine name="27M0602 - Amber Waves of Grain">
+		<description>27M0602 - Amber Waves of Grain</description>
+		<rom name="27M0602 - Amber Waves of Grain.pdf" size="3968962" crc="9a1c3496" md5="2936085d18ea9efb9c5990549e1cb624" sha1="f7159420710854117245cf561379c33f64c14711" />
+	</machine>
+	<machine name="27M0603 - Ancient Rumblings">
+		<description>27M0603 - Ancient Rumblings</description>
+		<rom name="27M0603 - Ancient Rumblings.pdf" size="1685283" crc="78bc3626" md5="fb300ec202aada1dd229beba3315d664" sha1="1009cee94e7e604806002eeb04584ece6c8c0fe3" />
+	</machine>
+	<machine name="27M0604 - Tick Tock">
+		<description>27M0604 - Tick Tock</description>
+		<rom name="27M0604 - Tick Tock.pdf" size="3938018" crc="5f8c1b73" md5="509bda4faca78dde9cb767f5803ddc96" sha1="fe2fea31049d81b8d57124e20979a5766762773c" />
+	</machine>
+	<machine name="27M0605 - Healing the Sick">
+		<description>27M0605 - Healing the Sick</description>
+		<rom name="27M0605 - Healing the Sick.pdf" size="2518558" crc="48b51c29" md5="10a1f14b78ea861802c2c8fa970dc906" sha1="8da39121293fda284f6d09bf8787e1b67d8398cc" />
+	</machine>
+	<machine name="27M0606 - Falling Angels [w]">
+		<description>27M0606 - Falling Angels [w]</description>
+		<rom name="27M0606 - Falling Angels [w].pdf" size="2243791" crc="96575806" md5="118750e89e3d81e8e376ac9d761ed74b" sha1="0b1ea9c05fba8ca25504d56bfd926cebca6af183" />
+	</machine>
+	<machine name="27M0701 - The Deck Job">
+		<description>27M0701 - The Deck Job</description>
+		<rom name="27M0701 - The Deck Job.pdf" size="1128452" crc="6c59b15e" md5="61ec4dde32bb1425debf423d6a08db81" sha1="62d53a0e6eb62f9ba126f53173de23b1d500c852" />
+	</machine>
+	<machine name="27M0702 - Collective Action">
+		<description>27M0702 - Collective Action</description>
+		<rom name="27M0702 - Collective Action.pdf" size="2542333" crc="2940df03" md5="e8445b16d7458e8e4196d6e72621b470" sha1="5b1999a0f32be9ae2f6e595465411b692e1f5b49" />
+	</machine>
+	<machine name="27M0703 - Special Investigation Unit">
+		<description>27M0703 - Special Investigation Unit</description>
+		<rom name="27M0703 - Special Investigation Unit.pdf" size="1911584" crc="dab5725d" md5="3484c713d95cafd1b940206247e16251" sha1="20065711da59735ee927c88051825f2a5fd31190" />
+	</machine>
+	<machine name="27M0704 - Do No Harm">
+		<description>27M0704 - Do No Harm</description>
+		<rom name="27M0704 - Do No Harm.pdf" size="1380724" crc="be41106a" md5="89ab4e30081cd8b5ec757d0d25378eb5" sha1="dea9f80f7a4ce63e8c61bd1cdbd1e03447d5565c" />
+	</machine>
+	<machine name="27M0705 - A Little Wetwork">
+		<description>27M0705 - A Little Wetwork</description>
+		<rom name="27M0705 - A Little Wetwork.pdf" size="2321899" crc="6905424a" md5="a6f890a8edb1c23c3bb54c27ecdfa097" sha1="72c8b3c41f5617c2877b3745a4f13bd2b8db94cb" />
+	</machine>
+	<machine name="27M0706 - Windy City Chaos">
+		<description>27M0706 - Windy City Chaos</description>
+		<rom name="27M0706 - Windy City Chaos.pdf" size="1657300" crc="198b01a8" md5="f7c93a34d8dc320aba8e4c093f57528b" sha1="bc06e0dda713b1c3a7d74db801f6157750636a8d" />
+	</machine>
+	<machine name="27M0801 - Keep Your Friends Close">
+		<description>27M0801 - Keep Your Friends Close</description>
+		<rom name="27M0801 - Keep Your Friends Close.pdf" size="1028755" crc="e91a4823" md5="9403d1fe6566d1223903c829573e0e36" sha1="152873b345b062cc67bb919aeebc060ae4296fc8" />
+	</machine>
+	<machine name="27M0802 - Can You Dig It">
+		<description>27M0802 - Can You Dig It</description>
+		<rom name="27M0802 - Can You Dig It.pdf" size="1282839" crc="8b2928a0" md5="0cfcc5ccc6fe53702dcfd612a625d120" sha1="4666e49829d35243564d0e41fddc138e070e97cb" />
+	</machine>
+	<machine name="27M0803 - 10 Block Tango">
+		<description>27M0803 - 10 Block Tango</description>
+		<rom name="27M0803 - 10 Block Tango.pdf" size="1094299" crc="9cb879c0" md5="707820bbe776da64789a6ea3b438934b" sha1="cc9d99e2b53e940cf5506e65e6fd0a2731802ef3" />
+	</machine>
+	<machine name="27M0804 - Dirty Laundry">
+		<description>27M0804 - Dirty Laundry</description>
+		<rom name="27M0804 - Dirty Laundry.pdf" size="700784" crc="57d3131f" md5="95a7153130ce412cbaa3ed132cad907a" sha1="d2003ef8f51e4f8959cc0b4538d1910fdd1e2b39" />
+	</machine>
+	<machine name="27M0805 - Sleeping Giants">
+		<description>27M0805 - Sleeping Giants</description>
+		<rom name="27M0805 - Sleeping Giants.pdf" size="1311505" crc="5162def4" md5="f9f9eaab47c28e2acab6681702d65075" sha1="8ad4730a54b2f5a355c8aa93184a495ebf7e764a" />
+	</machine>
+	<machine name="27M0806 - Final Countdown">
+		<description>27M0806 - Final Countdown</description>
+		<rom name="27M0806 - Final Countdown.pdf" size="1163314" crc="698da496" md5="b6e0017be5bb6a71c887d90dc2ecb16d" sha1="62e09625dcdef0228c5543657feb944b6f66e55a" />
+	</machine>
+	<machine name="27PM001 - Killing Pawn">
+		<description>27PM001 - Killing Pawn</description>
+		<rom name="27PM001 - Killing Pawn.pdf" size="2243695" crc="be6da690" md5="9b0159e4792183fb5cfd300e55a29310" sha1="5562f635157796196edaee6c1b848695d11c774c" />
+	</machine>
+	<machine name="27PM002 - A Holy Piece of Wetwork [w]">
+		<description>27PM002 - A Holy Piece of Wetwork [w]</description>
+		<rom name="27PM002 - A Holy Piece of Wetwork [w].pdf" size="3011998" crc="9cb22f86" md5="055010b6181ecdf10680312a1531fb2f" sha1="101c1cf7d374b8f67e01a1bc762b3e1f73d54004" />
+	</machine>
+	<machine name="27PM005 - Jumping Ship">
+		<description>27PM005 - Jumping Ship</description>
+		<rom name="27PM005 - Jumping Ship.pdf" size="937808" crc="54931f61" md5="a52083e380d2fcc8b1e6adf08854f84b" sha1="ea6ad3dd83c8f39ac446d87f26d4a52b4f158c56" />
+	</machine>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="57" crc="1b9db74a" md5="847b5ce532b813cf7c3c7a899cdb4088" sha1="7baf7a909d6495819f60cd7c6ba3f5a876a1390e" />
+	</machine>
+	<machine name="CAT26S035 - Coyotes">
+		<description>CAT26S035 - Coyotes</description>
+		<rom name="CAT26S035 - Coyotes.pdf" size="6780438" crc="7c0cade1" md5="2a320cb6b151b9df5c87a44cd2caca1b" sha1="741902229062b73ae63d8a3f48303c3bad425b3e" />
+	</machine>
+	<machine name="CAT26S036 - Assassin's Primer">
+		<description>CAT26S036 - Assassin's Primer</description>
+		<rom name="CAT26S036 - Assassin's Primer.pdf" size="2934863" crc="60972070" md5="2291e05db2179f025aa1fded25889aae" sha1="4fe53bb8c4685e7204605fd04562636d144de54a" />
+	</machine>
+	<machine name="CAT26S037 - 10 Terrorists">
+		<description>CAT26S037 - 10 Terrorists</description>
+		<rom name="CAT26S037 - 10 Terrorists.pdf" size="5103550" crc="9f79bd3a" md5="003082d1113d788a54b555fe96c8ff1a" sha1="5c7240a76e77e55ed71b3b50956087716ff8ee2f" />
+	</machine>
+	<machine name="CAT26S038 - Shadows in Focus - City by Shadow - Metropole">
+		<description>CAT26S038 - Shadows in Focus - City by Shadow - Metropole</description>
+		<rom name="CAT26S038 - Shadows in Focus - City by Shadow - Metropole.pdf" size="2244762" crc="4e06afe8" md5="019a8cc381e4e21718e30cd9dd5e83ed" sha1="90f0725a7648fa101ef816c2d09d256bae94f1c0" />
+	</machine>
+	<machine name="CAT26S0405 - Gun H(e)aven 3 Weapon Cards (SR5 Stats)">
+		<description>CAT26S0405 - Gun H(e)aven 3 Weapon Cards (SR5 Stats)</description>
+		<rom name="CAT26S0405 - Gun H(e)aven 3 Weapon Cards (SR5 Stats).pdf" size="2935945" crc="98c1bd54" md5="42ac6232889ed3b7bdae87e1f77bb4d5" sha1="68f687dc1ac1f84614abea8ee836686fa36bf168" />
+	</machine>
+	<machine name="CAT26S042 - Shadows in Focus - Sioux Nation">
+		<description>CAT26S042 - Shadows in Focus - Sioux Nation</description>
+		<rom name="CAT26S042 - Shadows in Focus - Sioux Nation.pdf" size="16134481" crc="608ea2ad" md5="825ccf87625c6d5f5576d3fdb9bb56ac" sha1="863c79d268084281176ffde988514730a9d00535" />
+	</machine>
+	<machine name="CAT26S043 - Shadows in Focus - Cheyenne">
+		<description>CAT26S043 - Shadows in Focus - Cheyenne</description>
+		<rom name="CAT26S043 - Shadows in Focus - Cheyenne.pdf" size="14186733" crc="569e8809" md5="087cd666caa7214117fb66615c016fce" sha1="0a117eb7fe4b686e63fdf650435cdde5f87113ad" />
+	</machine>
+	<machine name="CAT26S043 - Shadows in Focus - City by Shadow Butte">
+		<description>CAT26S043 - Shadows in Focus - City by Shadow Butte</description>
+		<rom name="CAT26S043 - Shadows in Focus - City by Shadow Butte.pdf" size="3465925" crc="f5c448d9" md5="06cdedaaeda33c22e14bfb4d2aa75fa9" sha1="a886f8333caab9dc12024313f11488f641c17575" />
+	</machine>
+	<machine name="CAT26S044 - Shadows in Focus - Sioux Nation Starving the Masses">
+		<description>CAT26S044 - Shadows in Focus - Sioux Nation Starving the Masses</description>
+		<rom name="CAT26S044 - Shadows in Focus - Sioux Nation Starving the Masses.pdf" size="7597846" crc="9bb1789e" md5="a92bc7df9c38d0bfe8dbab2494684dad" sha1="c6dda2616b99cfd067c38f1abeda372021f6c023" />
+	</machine>
+	<machine name="CAT26S046 - Shadows in Focus - Sioux Nation - Counting Coup [w]">
+		<description>CAT26S046 - Shadows in Focus - Sioux Nation - Counting Coup [w]</description>
+		<rom name="CAT26S046 - Shadows in Focus - Sioux Nation - Counting Coup [w].pdf" size="4876616" crc="29e65575" md5="78c27e5ebab639961d0ef753085a77ec" sha1="6da7dadf4be6f6d1e3a2d28240696e5bbeb11b6d" />
+	</machine>
+	<machine name="CAT26S048 - Shadow Spells">
+		<description>CAT26S048 - Shadow Spells</description>
+		<rom name="CAT26S048 - Shadow Spells.pdf" size="5914121" crc="11122fc7" md5="fe7c3ce141fb5a7f54368af0cc1b3460" sha1="7904ecec8d7d7b6845d023d1e082c749ba1f3ae7" />
+	</machine>
+	<machine name="CAT26S050 - Shadows in Focus - City by Shadow San Francisco Metroplex">
+		<description>CAT26S050 - Shadows in Focus - City by Shadow San Francisco Metroplex</description>
+		<rom name="CAT26S050 - Shadows in Focus - City by Shadow San Francisco Metroplex.pdf" size="1219180" crc="76fed31a" md5="e8941f449d76bcd73053832ba45c8330" sha1="f3f3acaf5568d57da8ea040b9136a4a112e01f8c" />
+	</machine>
+	<machine name="CAT26S057 - Shadows in Focus - Morocco">
+		<description>CAT26S057 - Shadows in Focus - Morocco</description>
+		<rom name="CAT26S057 - Shadows in Focus - Morocco.pdf" size="2613897" crc="23ded5e1" md5="36a435393bc69d1ca0c6af3797b71b53" sha1="267deda9f3f12db45b1676e11d7c2d06ed3777c7" />
+	</machine>
+	<machine name="CAT27000 - Shadowrun Fifth Edition (Master Index Version) (Fourth Printing)">
+		<description>CAT27000 - Shadowrun Fifth Edition (Master Index Version) (Fourth Printing)</description>
+		<rom name="CAT27000 - Shadowrun Fifth Edition (Master Index Version) (Fourth Printing).pdf" size="41753663" crc="af38c9a9" md5="11e4a606a1247fda2cd9295a10ce693c" sha1="dc97a3b5a552a7939fffa777e0cb8783a504aaed" />
+	</machine>
+	<machine name="CAT27000 - Shadowrun Fifth Edition (Second Printing)">
+		<description>CAT27000 - Shadowrun Fifth Edition (Second Printing)</description>
+		<rom name="CAT27000 - Shadowrun Fifth Edition (Second Printing).pdf" size="41316713" crc="c8cce2d5" md5="867c8193a536c4b097a80f9e4b8ab31f" sha1="4edba5a18f435dff61de4a28a746ddf5759f0d18" />
+	</machine>
+	<machine name="CAT27002 - Run &amp; Gun [w]">
+		<description>CAT27002 - Run &amp; Gun [w]</description>
+		<rom name="CAT27002 - Run &amp; Gun [w].pdf" size="25689564" crc="7d4f3eaf" md5="0fb3f8b3fc0166397f280ec74462cde0" sha1="24acae6343d18e78d8ef01743bf16cb75c922683" />
+	</machine>
+	<machine name="CAT27003 - Street Grimoire">
+		<description>CAT27003 - Street Grimoire</description>
+		<rom name="CAT27003 - Street Grimoire.pdf" size="18801947" crc="2365ab07" md5="6420592519d4f07818d0e83723349be7" sha1="95716a7d274376762d55e410c4e847fdaab947a2" />
+	</machine>
+	<machine name="CAT27004 - Run Faster (Second Printing)">
+		<description>CAT27004 - Run Faster (Second Printing)</description>
+		<rom name="CAT27004 - Run Faster (Second Printing).pdf" size="20798529" crc="38a14fe9" md5="a0bb0a7847828bbaa85be2e7f75f76f2" sha1="a6599ea46730a88dac17e9568d81984eb7c34254" />
+	</machine>
+	<machine name="CAT27005 - Chrome Flesh">
+		<description>CAT27005 - Chrome Flesh</description>
+		<rom name="CAT27005 - Chrome Flesh.pdf" size="15076658" crc="4ebfa342" md5="b5ae31b9bb79a9f8b96abf3c404de6cd" sha1="9dc95d6d6855040d12251d8775a70bdad530bf05" />
+	</machine>
+	<machine name="CAT27006 - Data Trails">
+		<description>CAT27006 - Data Trails</description>
+		<rom name="CAT27006 - Data Trails.pdf" size="16808145" crc="d3fe20d5" md5="f372b4ae34d9ca8469f07339cc607c54" sha1="41f885f3262ebe59fcf37e316ac891429dbaec17" />
+	</machine>
+	<machine name="CAT27007 - Rigger 5.0 (With bookmarks)">
+		<description>CAT27007 - Rigger 5.0 (With bookmarks)</description>
+		<rom name="CAT27007 - Rigger 5.0 (With bookmarks).pdf" size="19917935" crc="63795180" md5="4a9375642723e2142faca5f3d096abf6" sha1="e2ffba8c39062b6d05e6116a9141631345fda967" />
+	</machine>
+	<machine name="CAT27008 - Howling Shadows">
+		<description>CAT27008 - Howling Shadows</description>
+		<rom name="CAT27008 - Howling Shadows.pdf" size="21241460" crc="a402fa07" md5="97a61bf74ee09ab75618214c93e4a569" sha1="1d570dd9fd121d4d8abf1b009c5e274fcaf1673b" />
+	</machine>
+	<machine name="CAT27009 - Court of Shadows">
+		<description>CAT27009 - Court of Shadows</description>
+		<rom name="CAT27009 - Court of Shadows.pdf" size="9729889" crc="98903745" md5="7b94d421cc483bd488e0076c49210a10" sha1="3dc211c61145265508cdc948fcc589994c3a1cee" />
+	</machine>
+	<machine name="CAT27011 - Forbidden Arcana">
+		<description>CAT27011 - Forbidden Arcana</description>
+		<rom name="CAT27011 - Forbidden Arcana.pdf" size="13175916" crc="8dc35a31" md5="faa60365bea103b4e5815c6f701a927e" sha1="304e913875087010fff2a2527f29d3452d90386a" />
+	</machine>
+	<machine name="CAT27012 - Street Lethal">
+		<description>CAT27012 - Street Lethal</description>
+		<rom name="CAT27012 - Street Lethal.pdf" size="32303273" crc="13a194ca" md5="cbeca2a920fa16acd8101a66f14e49ff" sha1="e28bea60f29ead73d00a0acbbe93abbace598e28" />
+	</machine>
+	<machine name="CAT27013 - Kill Code (Advanced Matrix Rules)">
+		<description>CAT27013 - Kill Code (Advanced Matrix Rules)</description>
+		<rom name="CAT27013 - Kill Code (Advanced Matrix Rules).pdf" size="11891598" crc="3b406bca" md5="efafcab378bf0c785ebed30550677069" sha1="a062315db818195e60186fb586065ca81d4bcd02" />
+	</machine>
+	<machine name="CAT27014 - Better Than Bad">
+		<description>CAT27014 - Better Than Bad</description>
+		<rom name="CAT27014 - Better Than Bad.pdf" size="8713215" crc="a960160b" md5="e9ced7869b62a3bb5440b79becf80d49" sha1="b81254a5e2a08b61b4f440d5c912271eb477a7b4" />
+	</machine>
+	<machine name="CAT27015 - No Future">
+		<description>CAT27015 - No Future</description>
+		<rom name="CAT27015 - No Future.pdf" size="33580747" crc="472265e4" md5="e44636b5fb1cb8c817dfbaa6576c05b4" sha1="9bdfe9bcfa20a265bea7ddab88b23efb97e1d033" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Alphaware Cards">
+		<description>CAT27100X - Digital Tools Box - Alphaware Cards</description>
+		<rom name="CAT27100X - Digital Tools Box - Alphaware Cards.pdf" size="2445690" crc="79dc9813" md5="e04a71dba00bb343aedf4bc2d78026ea" sha1="8d10854af82d59f4443ad2ebe9993379f352f6dd" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Alphaware Instruction Sheet - Start Here">
+		<description>CAT27100X - Digital Tools Box - Alphaware Instruction Sheet - Start Here</description>
+		<rom name="CAT27100X - Digital Tools Box - Alphaware Instruction Sheet - Start Here.pdf" size="541555" crc="827d4b2f" md5="3f290da8b6b05b4233e078177ecb4e6b" sha1="106e677e3ae41b21cd649d93738d41839b107f5b" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Coydog Booklet">
+		<description>CAT27100X - Digital Tools Box - Coydog Booklet</description>
+		<rom name="CAT27100X - Digital Tools Box - Coydog Booklet.pdf" size="937415" crc="387ca6bd" md5="f1d2b0df1b05bcb739acc7397586f9d7" sha1="45eb88c82ab5435610449bf559812fd08c27b254" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Coydog Character Sheet">
+		<description>CAT27100X - Digital Tools Box - Coydog Character Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Coydog Character Sheet.pdf" size="828416" crc="209c4153" md5="2bc88e22f48b0b663b5d2f723185c98d" sha1="40cee0a855742f9bfbe0b4899ddb4812f0257159" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Coydog Record Sheet">
+		<description>CAT27100X - Digital Tools Box - Coydog Record Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Coydog Record Sheet.pdf" size="593219" crc="14ad5b92" md5="ca17f5b50e83809b534513a091471eea" sha1="3f399237ccdf5900a621d88d3aa602538c30287a" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Edge of Now">
+		<description>CAT27100X - Digital Tools Box - Edge of Now</description>
+		<rom name="CAT27100X - Digital Tools Box - Edge of Now.pdf" size="3415980" crc="05363d9f" md5="d6873c2578bd189100316dbd7e807b87" sha1="c1cfca9fca399fdcd1b82fa9783801faef7456e6" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Fire &amp; Frost Excerpt">
+		<description>CAT27100X - Digital Tools Box - Fire &amp; Frost Excerpt</description>
+		<rom name="CAT27100X - Digital Tools Box - Fire &amp; Frost Excerpt.pdf" size="3074073" crc="16f16a11" md5="78d93cfbf5b7101a92bf7550f69f24df" sha1="b7b38d45e3ddde172443c0d47fc067c0c84871e6" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Gentry Booklet">
+		<description>CAT27100X - Digital Tools Box - Gentry Booklet</description>
+		<rom name="CAT27100X - Digital Tools Box - Gentry Booklet.pdf" size="968461" crc="f6341afe" md5="93296d2cae391b9250b9562359dd1c95" sha1="d731b23a10bf3a9e626fc2587edba1969577e846" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Gentry Character Sheet">
+		<description>CAT27100X - Digital Tools Box - Gentry Character Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Gentry Character Sheet.pdf" size="795134" crc="14ad39b0" md5="6c86e8d1efe4172aeefed84b0f4ffa2c" sha1="9a127962647e0a21d1862bc7fbb56824a769a753" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Gentry Record Sheet">
+		<description>CAT27100X - Digital Tools Box - Gentry Record Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Gentry Record Sheet.pdf" size="594759" crc="0bcf85df" md5="b1b3279336f21945aec5d58973d77f6b" sha1="a3cb49165dab4dedbc9d1e4aa49ee45aacb3c165" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - GM Screen and Character Ref Sheet">
+		<description>CAT27100X - Digital Tools Box - GM Screen and Character Ref Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - GM Screen and Character Ref Sheet.pdf" size="539732" crc="d7d47acd" md5="161472248572a28f8f834b559d8d6267" sha1="583bb24c341f0cf2b430b70c943216e090dbc9d3" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Hardpoint Booklet">
+		<description>CAT27100X - Digital Tools Box - Hardpoint Booklet</description>
+		<rom name="CAT27100X - Digital Tools Box - Hardpoint Booklet.pdf" size="1001263" crc="81078c41" md5="376f6d43890554e6c73b292af0dfa74e" sha1="0fff39b78e88bb339679addafad78bab2e655f02" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Hardpoint Character Sheet">
+		<description>CAT27100X - Digital Tools Box - Hardpoint Character Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Hardpoint Character Sheet.pdf" size="826784" crc="9b9fa2db" md5="b7e8adbdfb5f4c7d5c9e8ad800346744" sha1="5a62ae5dad67b5831a238f0339dca0c2a6f55a2f" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Hardpoint Record Sheet">
+		<description>CAT27100X - Digital Tools Box - Hardpoint Record Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Hardpoint Record Sheet.pdf" size="592405" crc="66aa3da5" md5="6cac379f63c95f1480ee70cf3af7aa94" sha1="8a3515c9adfad5e636cefed2c9b591a20bfc37cf" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Instructions">
+		<description>CAT27100X - Digital Tools Box - Instructions</description>
+		<rom name="CAT27100X - Digital Tools Box - Instructions.pdf" size="464175" crc="ca936528" md5="f8274ab6676d01537f86816af3b0781c" sha1="f9bd220e660708224b3859e1ae069b98e0949ab4" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Maps">
+		<description>CAT27100X - Digital Tools Box - Maps</description>
+		<rom name="CAT27100X - Digital Tools Box - Maps.pdf" size="4000000" crc="be12345d" md5="432315da6fe0c6f48296c8ea9c813739" sha1="0a5402fd7afb1c7c812848eb8d1da776f2b3e436" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Ms Myth Booklet">
+		<description>CAT27100X - Digital Tools Box - Ms Myth Booklet</description>
+		<rom name="CAT27100X - Digital Tools Box - Ms Myth Booklet.pdf" size="994199" crc="84a4f755" md5="242032a4b0c56638f3589ef982f4fbba" sha1="d4f0eb9604c244e240dc9818cc156fa7eb947305" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Ms Myth Character Sheet">
+		<description>CAT27100X - Digital Tools Box - Ms Myth Character Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Ms Myth Character Sheet.pdf" size="810801" crc="2faabb57" md5="dcca449b8744739dff996c4a73a881eb" sha1="40c78fd1eb32e0a430ca54eccb44b45ed22bbaa3" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Ms Myth Record Sheet">
+		<description>CAT27100X - Digital Tools Box - Ms Myth Record Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Ms Myth Record Sheet.pdf" size="593707" crc="c7004db3" md5="63e68d0627749f83058d77888c197e2f" sha1="365852846074d2eb721b83f48053eeba2061a88d" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Plots and Paydata">
+		<description>CAT27100X - Digital Tools Box - Plots and Paydata</description>
+		<rom name="CAT27100X - Digital Tools Box - Plots and Paydata.pdf" size="12921296" crc="d2c86fc2" md5="681465de9227309c5d5086e03dfd34f7" sha1="5847ca392c06e98d3ed42057f935af034774b5e0" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Poster and Map">
+		<description>CAT27100X - Digital Tools Box - Poster and Map</description>
+		<rom name="CAT27100X - Digital Tools Box - Poster and Map.pdf" size="1336837" crc="a33baecc" md5="5e34038505b3e6bf3e0e61c0b4b77bcc" sha1="41ca9e9bd78406b9cd6afc24f5c71cc234fa3f73" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Quick-Start Rules">
+		<description>CAT27100X - Digital Tools Box - Quick-Start Rules</description>
+		<rom name="CAT27100X - Digital Tools Box - Quick-Start Rules.pdf" size="2793653" crc="d7562ad8" md5="bcf8ef19378b8f23560f56f87200dae5" sha1="6042e5f21e1bf563fca3fbaf86004dacd91f2bf2" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Rules of the Street">
+		<description>CAT27100X - Digital Tools Box - Rules of the Street</description>
+		<rom name="CAT27100X - Digital Tools Box - Rules of the Street.pdf" size="10663185" crc="ccfb8cbc" md5="0cda9de68c174c5d1944303f7b784a8a" sha1="988579be314a301a41af4e02603ee85903deb9c7" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Sledge Booklet">
+		<description>CAT27100X - Digital Tools Box - Sledge Booklet</description>
+		<rom name="CAT27100X - Digital Tools Box - Sledge Booklet.pdf" size="1012393" crc="5642d57a" md5="d8aa61fed0c6e879b4b9d3f416219a30" sha1="6b87fea1c18931cc197ec1a0c75b952aa826a29e" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Sledge Character Sheet">
+		<description>CAT27100X - Digital Tools Box - Sledge Character Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Sledge Character Sheet.pdf" size="878826" crc="220eada9" md5="6aea266e96fe993ecbfbde24b4827eac" sha1="322467728ff22ff081117c22f677ed99c07ef4b7" />
+	</machine>
+	<machine name="CAT27100X - Digital Tools Box - Sledge Record Sheet">
+		<description>CAT27100X - Digital Tools Box - Sledge Record Sheet</description>
+		<rom name="CAT27100X - Digital Tools Box - Sledge Record Sheet.pdf" size="594437" crc="28c2abbb" md5="b399a78ecf8ef1ed598a0e33171232e9" sha1="152615c7df84c85868dc82b0583f89444b6d8b92" />
+	</machine>
+	<machine name="CAT27110 - Seattle Sprawl Digital Box - Character Cards">
+		<description>CAT27110 - Seattle Sprawl Digital Box - Character Cards</description>
+		<rom name="CAT27110 - Seattle Sprawl Digital Box - Character Cards.pdf" size="1702990" crc="3e8ad5dc" md5="5ca2835043d602d4152b26eafec9d439" sha1="78cabc027a3f5b12605f8f72de33f27aacf88341" />
+	</machine>
+	<machine name="CAT27110 - Seattle Sprawl Digital Box - Emerald Shadows">
+		<description>CAT27110 - Seattle Sprawl Digital Box - Emerald Shadows</description>
+		<rom name="CAT27110 - Seattle Sprawl Digital Box - Emerald Shadows.pdf" size="7570278" crc="b4f040e0" md5="b48b4f70d9aebf01411eaa9ad3163e77" sha1="dc7705e3e1f1f7c7b4b4231ff146e41089cadfd1" />
+	</machine>
+	<machine name="CAT27110 - Seattle Sprawl Digital Box - Gang Card">
+		<description>CAT27110 - Seattle Sprawl Digital Box - Gang Card</description>
+		<rom name="CAT27110 - Seattle Sprawl Digital Box - Gang Card.pdf" size="724367" crc="c24ef6a6" md5="c2015786d2370fefa2f9aa7a4e2f3c2e" sha1="bdcb9f6b5e239f6cac852435bc6f331ab0764455" />
+	</machine>
+	<machine name="CAT27110 - Seattle Sprawl Digital Box - Map Cards">
+		<description>CAT27110 - Seattle Sprawl Digital Box - Map Cards</description>
+		<rom name="CAT27110 - Seattle Sprawl Digital Box - Map Cards.pdf" size="378330" crc="06228e1c" md5="6f6a9fbe3b4e1e78c68d7de8c96af4ef" sha1="ba0867dda573d0e5b60da5018a5515bc790fcbeb" />
+	</machine>
+	<machine name="CAT27110 - Seattle Sprawl Digital Box - Map Reference Card">
+		<description>CAT27110 - Seattle Sprawl Digital Box - Map Reference Card</description>
+		<rom name="CAT27110 - Seattle Sprawl Digital Box - Map Reference Card.pdf" size="634711" crc="05233d18" md5="73419b6d22ad5e6bb09cf0eedd13de61" sha1="394b648cffacb7d51df7101b712658a21215742b" />
+	</machine>
+	<machine name="CAT27110 - Seattle Sprawl Digital Box - Ruling the Queen City">
+		<description>CAT27110 - Seattle Sprawl Digital Box - Ruling the Queen City</description>
+		<rom name="CAT27110 - Seattle Sprawl Digital Box - Ruling the Queen City.pdf" size="6603187" crc="2c59df2d" md5="80e7cdaa53b8cdff24e6a02b1fb9cdc4" sha1="cf43f75b7d577f2ef29519a8a9508bd640d7cb6c" />
+	</machine>
+	<machine name="CAT27110 - Seattle Sprawl Digital Box - Seattle Box Instruction Sheet">
+		<description>CAT27110 - Seattle Sprawl Digital Box - Seattle Box Instruction Sheet</description>
+		<rom name="CAT27110 - Seattle Sprawl Digital Box - Seattle Box Instruction Sheet.pdf" size="760477" crc="662f7150" md5="c2ea6907c44319ad5dc494900d7641f0" sha1="56534b87d3d092e7495e0aa6dd664049d7243bdb" />
+	</machine>
+	<machine name="CAT27110 - Seattle Sprawl Digital Box - Seattle Sprawl Map">
+		<description>CAT27110 - Seattle Sprawl Digital Box - Seattle Sprawl Map</description>
+		<rom name="CAT27110 - Seattle Sprawl Digital Box - Seattle Sprawl Map.pdf" size="11390807" crc="c500560d" md5="09a21611475599899d53859fba7bc34c" sha1="6b8cdaf099b317a57880bcc0703a9366e72b8e15" />
+	</machine>
+	<machine name="CAT27110 - Seattle Sprawl Digital Box - Tangled Threads">
+		<description>CAT27110 - Seattle Sprawl Digital Box - Tangled Threads</description>
+		<rom name="CAT27110 - Seattle Sprawl Digital Box - Tangled Threads.pdf" size="3155786" crc="f242a9ec" md5="2c5c6e96a2f1a6645f7c979b43e3cc87" sha1="6c335c301881c19d43d622609da7f963f0d166a9" />
+	</machine>
+	<machine name="CAT27200 - Stolen Souls">
+		<description>CAT27200 - Stolen Souls</description>
+		<rom name="CAT27200 - Stolen Souls.pdf" size="13956873" crc="9b33c32e" md5="26672d89fdf6d390b6be8bc1abc47f9a" sha1="0252b52ee5fd6a38aa7646cfd105aeb9f34dca40" />
+	</machine>
+	<machine name="CAT27201 - Hard Targets">
+		<description>CAT27201 - Hard Targets</description>
+		<rom name="CAT27201 - Hard Targets.pdf" size="18592327" crc="94612e7f" md5="2307dd9bb0350454a1f5cd4d3990710a" sha1="e64ccb0474557ca726cdf1f17a95ae8a53ae4e73" />
+	</machine>
+	<machine name="CAT27231 - Dark Terrors">
+		<description>CAT27231 - Dark Terrors</description>
+		<rom name="CAT27231 - Dark Terrors.pdf" size="6742544" crc="83c670d3" md5="a1817c4352cd73f17c2615f6ef031080" sha1="9973d18cf393067e5d465560a2d14c03b222f995" />
+	</machine>
+	<machine name="CAT27300 - Lockdown">
+		<description>CAT27300 - Lockdown</description>
+		<rom name="CAT27300 - Lockdown.pdf" size="26161165" crc="b5779618" md5="18575bc9b512ac28a04ddfd69566ff5b" sha1="eecb5a60f66c3a0c56faf2742ab58407f825a6fa" />
+	</machine>
+	<machine name="CAT27400 - Splintered State">
+		<description>CAT27400 - Splintered State</description>
+		<rom name="CAT27400 - Splintered State.pdf" size="7131437" crc="af0c259a" md5="956c90809df827d08a86c58c32839fee" sha1="a1042a53f69d8efe5cf642a4655bfd1944f2edac" />
+	</machine>
+	<machine name="CAT27401 - Serrated Edge (Denver Adventure 1)">
+		<description>CAT27401 - Serrated Edge (Denver Adventure 1)</description>
+		<rom name="CAT27401 - Serrated Edge (Denver Adventure 1).pdf" size="12657799" crc="aee2e97d" md5="82036c59a2ef93b334b76018fd1dfa7a" sha1="3067fa90bad302523e73b2521f1dd9fd62bb5859" />
+	</machine>
+	<machine name="CAT27402 - False Flag (Denver Adventure 2)">
+		<description>CAT27402 - False Flag (Denver Adventure 2)</description>
+		<rom name="CAT27402 - False Flag (Denver Adventure 2).pdf" size="9457172" crc="88dd9f7d" md5="3567d23670d554fa4da414619484d4f8" sha1="69718e05e24391b18622468bb6aefa9e1919c59f" />
+	</machine>
+	<machine name="CAT27403 - Ripping Reality (Denver Adventure 3)">
+		<description>CAT27403 - Ripping Reality (Denver Adventure 3)</description>
+		<rom name="CAT27403 - Ripping Reality (Denver Adventure 3).pdf" size="11113055" crc="0e507c4f" md5="e5f051f295e73cec985b50e5550f5523" sha1="c39709290e7c97e32e9ee610e2467cfd85a5afd0" />
+	</machine>
+	<machine name="CAT27450 - Bloody Business">
+		<description>CAT27450 - Bloody Business</description>
+		<rom name="CAT27450 - Bloody Business.pdf" size="15679856" crc="a9277cc4" md5="071f9dc81c35e72ff5d7b3eb75547e92" sha1="2aec782b9f1380bcde8d742e44f7b393df100a2e" />
+	</machine>
+	<machine name="CAT27451 - Market Panic">
+		<description>CAT27451 - Market Panic</description>
+		<rom name="CAT27451 - Market Panic.pdf" size="15074941" crc="56fb62aa" md5="377bddf60242f7fee4f92a2989e57c49" sha1="274970994277b4c0ba515caad7cd8cc4b946d7dd" />
+	</machine>
+	<machine name="CAT27452 - Book of the Lost">
+		<description>CAT27452 - Book of the Lost</description>
+		<rom name="CAT27452 - Book of the Lost.pdf" size="9471690" crc="0c21e44e" md5="3586a9f23c4cefb9288c25d299247a3b" sha1="8aa3e11afca18477cdc98c298e768b695f62634e" />
+	</machine>
+	<machine name="CAT27485 - Boundless Mercy [w]">
+		<description>CAT27485 - Boundless Mercy [w]</description>
+		<rom name="CAT27485 - Boundless Mercy [w].pdf" size="14482804" crc="a69c56f8" md5="e4a6ced1f3fce2895f4c08acdacd938c" sha1="d83da7dd89b9742e9da6101e0d235dde129b41b0" />
+	</machine>
+	<machine name="CAT27500 - Gear Cards Series 1">
+		<description>CAT27500 - Gear Cards Series 1</description>
+		<rom name="CAT27500 - Gear Cards Series 1.pdf" size="6973357" crc="e56dbec4" md5="5d92845162999a0c85b1906be9476ae4" sha1="55e6050e7e91a893cfb615d60e2b36756f02d206" />
+	</machine>
+	<machine name="CAT27502 - Spell Cards Series 1 [w]">
+		<description>CAT27502 - Spell Cards Series 1 [w]</description>
+		<rom name="CAT27502 - Spell Cards Series 1 [w].pdf" size="2921004" crc="de5bacf2" md5="33926b9a9384510dfb2b6e27c588a6d2" sha1="9ebcd2f9a691ade8c02f89ffa2fa10c9d0394252" />
+	</machine>
+	<machine name="CAT27QSR - Quick-Start Rules &amp; Fast Food Fight">
+		<description>CAT27QSR - Quick-Start Rules &amp; Fast Food Fight</description>
+		<rom name="CAT27QSR - Quick-Start Rules &amp; Fast Food Fight.pdf" size="3495632" crc="610c18fb" md5="3c3422c5cda15b78d9baaf5d3dcee3a7" sha1="cedf5930f59e2f982ecfcf1b4c7f196e2f1efbda" />
+	</machine>
+	<machine name="SMH201501 - Friendship is Tragic [w]">
+		<description>SMH201501 - Friendship is Tragic [w]</description>
+		<rom name="SMH201501 - Friendship is Tragic [w].pdf" size="1418516" crc="02ec1d1a" md5="07d5d0d5e03f22c3a926426a8bd3b470" sha1="ad79deca56ba2f228b0f0a6a68b3a2d515c41c42" />
+	</machine>
+	<machine name="SMH201601 - UnCONventional Warfare [w]">
+		<description>SMH201601 - UnCONventional Warfare [w]</description>
+		<rom name="SMH201601 - UnCONventional Warfare [w].pdf" size="7702099" crc="8d42c3df" md5="6cfe875ed8f015137a4420eed232c320" sha1="89c0011b2436ad50fc68ff9ce2df28db59f8b0c5" />
+	</machine>
+	<machine name="SMH201701 - Scene it All Before [w]">
+		<description>SMH201701 - Scene it All Before [w]</description>
+		<rom name="SMH201701 - Scene it All Before [w].pdf" size="4211646" crc="d678f6ea" md5="4fe28e6d7dd64206950931d9d9c9268e" sha1="d0d7f7759450ec305b176ba6c299f82628bd6fef" />
+	</machine>
+</datafile>

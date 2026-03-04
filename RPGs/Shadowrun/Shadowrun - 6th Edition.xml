@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - 6th Edition</name>
+		<description>Shadowrun - 6th Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="28M0901 - Started from the Bottom">
+		<description>28M0901 - Started from the Bottom</description>
+		<rom name="28M0901 - Started from the Bottom.pdf" size="1671666" crc="9669c552" md5="4fd984685de483ba6e7dcbf06f7e8abb" sha1="12b32cb452afee4aee343df012dee11ae6460137" />
+	</machine>
+	<machine name="28M0904 - Neo-Tokyo Drift">
+		<description>28M0904 - Neo-Tokyo Drift</description>
+		<rom name="28M0904 - Neo-Tokyo Drift.pdf" size="1519354" crc="5b073d51" md5="0fc1283f548d5b8c8d88eb957285f0d5" sha1="134a8c8f827228e333d40ef5afe89edc781c9550" />
+	</machine>
+	<machine name="28M0905 - Violent Shadows">
+		<description>28M0905 - Violent Shadows</description>
+		<rom name="28M0905 - Violent Shadows.pdf" size="1045216" crc="a2302b95" md5="09d69d23cb5878ee604d0234d933d006" sha1="2deae370d8525a4b7f4fb3693336a81e7005034b" />
+	</machine>
+	<machine name="28M0906 - Seven Breaths">
+		<description>28M0906 - Seven Breaths</description>
+		<rom name="28M0906 - Seven Breaths.pdf" size="1102987" crc="c12b7deb" md5="354330a17851b401331641915386a275" sha1="76a80c943b3d84b567bd8fde65038963b9cfa3f7" />
+	</machine>
+	<machine name="28M1001 - Deaths Daily Business">
+		<description>28M1001 - Deaths Daily Business</description>
+		<rom name="28M1001 - Deaths Daily Business.pdf" size="898826" crc="07e1ea37" md5="6f4869affe7528a22ff739db397bb651" sha1="c09b078ab8164f094faa50a7d9e99ec092ab8c4b" />
+	</machine>
+	<machine name="28M1002 - One Stone Two Birds">
+		<description>28M1002 - One Stone Two Birds</description>
+		<rom name="28M1002 - One Stone Two Birds.pdf" size="1702239" crc="bb528251" md5="57521a17f947a331bc6a32d70dee26db" sha1="4c202b86df880f77b5236e74f463f6ef43eca75f" />
+	</machine>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="129" crc="7e021ccb" md5="a3e5d614758d54ab4443a6027f938c73" sha1="516eb227225c6d5967b9c1daa401c82883f86eb3" />
+	</machine>
+	<machine name="CAT28000 - Shadowrun, Sixth World Core Rulebook (First Printing)">
+		<description>CAT28000 - Shadowrun, Sixth World Core Rulebook (First Printing)</description>
+		<rom name="CAT28000 - Shadowrun, Sixth World Core Rulebook (First Printing).pdf" size="11322010" crc="40928668" md5="faaf1a2360bc862cbd8e6371fdbeb481" sha1="da3e3ef14514dda702fc9e45b6f26349eafd9f6b" />
+	</machine>
+	<machine name="CAT28000 - Shadowrun, Sixth World Core Rulebook (GenCon Leak)">
+		<description>CAT28000 - Shadowrun, Sixth World Core Rulebook (GenCon Leak)</description>
+		<rom name="CAT28000 - Shadowrun, Sixth World Core Rulebook (GenCon Leak).pdf" size="11414925" crc="921ff122" md5="a87784e18264107cbca692e9a9b1457e" sha1="6a23e50900ef57b3dac5a068ef32956be810d860" />
+	</machine>
+	<machine name="CAT28000 - Shadowrun, Sixth World Core Rulebook (Second Printing)">
+		<description>CAT28000 - Shadowrun, Sixth World Core Rulebook (Second Printing)</description>
+		<rom name="CAT28000 - Shadowrun, Sixth World Core Rulebook (Second Printing).pdf" size="12260410" crc="ef28b1b0" md5="332f46303cb95866bdf7a9e5b069ff14" sha1="c4c52129c8efc494713f2133be4d7e37a4351c01" />
+	</machine>
+	<machine name="CAT28000 - Shadowrun, Sixth World Core Rulebook Errata (August 2019)">
+		<description>CAT28000 - Shadowrun, Sixth World Core Rulebook Errata (August 2019)</description>
+		<rom name="CAT28000 - Shadowrun, Sixth World Core Rulebook Errata (August 2019).pdf" size="831658" crc="69979516" md5="da854c54210c59feecc03e31d6f22b70" sha1="c20db2f9dde557631506e38d572103b2acc60611" />
+	</machine>
+	<machine name="CAT28000S - Shadowrun, Sixth World Core Rulebook - City Edition - Seattle">
+		<description>CAT28000S - Shadowrun, Sixth World Core Rulebook - City Edition - Seattle</description>
+		<rom name="CAT28000S - Shadowrun, Sixth World Core Rulebook - City Edition - Seattle.pdf" size="16971789" crc="7f77accc" md5="a006243af41534ed756e892f38d5c767" sha1="07d59bce499dec4eb79667b8ad31aee2ee0aeda2" />
+	</machine>
+	<machine name="CAT28001 - Shadowrun 6th - Gamemaster's Screen">
+		<description>CAT28001 - Shadowrun 6th - Gamemaster's Screen</description>
+		<rom name="CAT28001 - Shadowrun 6th - Gamemaster's Screen.pdf" size="17346471" crc="f0c5ab95" md5="1e4cdc7b3cccd8a29bc416bbcb23d6bc" sha1="eaa46a8dc4c50e4a5c7a912e23c2fcaf845b165b" />
+	</machine>
+	<machine name="CAT28002 - Firing Squad">
+		<description>CAT28002 - Firing Squad</description>
+		<rom name="CAT28002 - Firing Squad.pdf" size="11018080" crc="6b3d3f19" md5="55c123ac9a28f007ede3ff71d6a5effe" sha1="2bc445a40eb90db98c5b92a5a3fec8c95ad4c0ce" />
+	</machine>
+	<machine name="CAT28003 - Street Wyrd">
+		<description>CAT28003 - Street Wyrd</description>
+		<rom name="CAT28003 - Street Wyrd.pdf" size="18465376" crc="b4128cce" md5="a2248615bbfc05e653a8b7c2214b2ff8" sha1="1e8ea1669ea2ae2e77b35a62c70a09c27e33013d" />
+	</machine>
+	<machine name="CAT28004 - Double Clutch">
+		<description>CAT28004 - Double Clutch</description>
+		<rom name="CAT28004 - Double Clutch.pdf" size="5898169" crc="ee6276ea" md5="0a019e6e2e7c4f9cbd3c8833b924b8e9" sha1="79380448a4228d5423952bbcfb8a2412f7d8d78f" />
+	</machine>
+	<machine name="CAT28005 - Sixth World Companion">
+		<description>CAT28005 - Sixth World Companion</description>
+		<rom name="CAT28005 - Sixth World Companion.pdf" size="8979489" crc="f97d73f6" md5="3dea7ccadc9ec0273a7fc6bf5e14cf80" sha1="24dfe8c19f2ca9cc701f93176c79ce7d8bd4963c" />
+	</machine>
+	<machine name="CAT28006 - Hack &amp; Slash">
+		<description>CAT28006 - Hack &amp; Slash</description>
+		<rom name="CAT28006 - Hack &amp; Slash.pdf" size="6656522" crc="b3f67f3e" md5="3afe7fed2c888bbff774e513c6413929" sha1="ec1f70514e740fdc9965f1b7aa57630e48505975" />
+	</machine>
+	<machine name="CAT28007 - Body Shop">
+		<description>CAT28007 - Body Shop</description>
+		<rom name="CAT28007 - Body Shop.pdf" size="9862816" crc="e2f155af" md5="422b908c606386bc61b1c3ccaa68ce3a" sha1="b90efd33cdfb58d0cc11680ae29de0fd3876d875" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Battle Royale Adventure">
+		<description>CAT28010 - Sixth World Beginner Box - Battle Royale Adventure</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Battle Royale Adventure.pdf" size="3467893" crc="a962de6e" md5="83ec75d5b5ecdeae09ebc23f0448682a" sha1="0c4db2ee625b83a1685e08a9f154cf690d3380ca" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Dossier - Emu">
+		<description>CAT28010 - Sixth World Beginner Box - Dossier - Emu</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Dossier - Emu.pdf" size="4404679" crc="1968206f" md5="214f6a116f454a5a90fab0abd4f7cac8" sha1="bbe7d20569e726d8122b76b4cdbe862389ed2601" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Dossier - Frostburn">
+		<description>CAT28010 - Sixth World Beginner Box - Dossier - Frostburn</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Dossier - Frostburn.pdf" size="2290921" crc="86830848" md5="7e93ff52aa5236641f72aa35067d5409" sha1="60ea29adbba8f0a0448d727a38aa48720ab5c735" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Dossier - Rude">
+		<description>CAT28010 - Sixth World Beginner Box - Dossier - Rude</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Dossier - Rude.pdf" size="2199130" crc="617aeb09" md5="081a21c0b2087ec24936fc7813df9385" sha1="9b47bc698b622118f3f61eb827a7752a1b51d883" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Dossier - Sledge (Game Trade Magazine 233)">
+		<description>CAT28010 - Sixth World Beginner Box - Dossier - Sledge (Game Trade Magazine 233)</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Dossier - Sledge (Game Trade Magazine 233).pdf" size="3077957" crc="a6577df8" md5="118bacc84592c9579327107c6180a925" sha1="94dc801147bb2210c3403ada6e3a6544fcdea617" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Dossier - Yu">
+		<description>CAT28010 - Sixth World Beginner Box - Dossier - Yu</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Dossier - Yu.pdf" size="2516647" crc="7dde2394" md5="4ba414a30d18c27b1e6926ad5a646d5b" sha1="a32ac7eba8ecc4428e9f83627a99bbc148a95f2a" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Dossier - Zipfile">
+		<description>CAT28010 - Sixth World Beginner Box - Dossier - Zipfile</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Dossier - Zipfile.pdf" size="2285390" crc="37fb6f96" md5="18742e42dd4043fe99f43339848e0c86" sha1="1574c800a31d29181fab9012c6ec8ac045e61c7e" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Instant Guide">
+		<description>CAT28010 - Sixth World Beginner Box - Instant Guide</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Instant Guide.pdf" size="1295941" crc="271e09ee" md5="5b3aabd726082c16f6e4d2d0dc41a165" sha1="adb85d2479e672ead259950d5789742d4df8ff8b" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Instruction Sheet">
+		<description>CAT28010 - Sixth World Beginner Box - Instruction Sheet</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Instruction Sheet.pdf" size="680260" crc="34169f8e" md5="5bebdc1aa26c8722402dea083e41c2e7" sha1="e50bd55d03c7bf4248675deefd31c14ff2d5813c" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Poster Map">
+		<description>CAT28010 - Sixth World Beginner Box - Poster Map</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Poster Map.pdf" size="5566040" crc="9f1aa1ca" md5="afb05d8edd899e81f51f5fe80eaecaf6" sha1="4834b42adcd3e4873f4b5ef6e0de8513ad4688ff" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Quick Start Rules">
+		<description>CAT28010 - Sixth World Beginner Box - Quick Start Rules</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Quick Start Rules.pdf" size="3712546" crc="efea9300" md5="fa753b1a20b7c545f62e3726f0c1e645" sha1="412fa6d8ece0a2925f82350ba6cbf2958af4ca9f" />
+	</machine>
+	<machine name="CAT28010 - Sixth World Beginner Box - Reference Cards">
+		<description>CAT28010 - Sixth World Beginner Box - Reference Cards</description>
+		<rom name="CAT28010 - Sixth World Beginner Box - Reference Cards.pdf" size="373655" crc="88aca106" md5="a872d1463ef3ef8b8db290f01946a840" sha1="641d8c8942dabeb2cdb665312b68b8a68a0de1ab" />
+	</machine>
+	<machine name="CAT28101 - Astral Ways">
+		<description>CAT28101 - Astral Ways</description>
+		<rom name="CAT28101 - Astral Ways.pdf" size="7270818" crc="96d514ca" md5="9d0dae09153c0fd7acc57d13945537b3" sha1="69cee5b16eef6cf316d0c6b0ec9fe7669eeb0625" />
+	</machine>
+	<machine name="CAT28300 - Cutting Black">
+		<description>CAT28300 - Cutting Black</description>
+		<rom name="CAT28300 - Cutting Black.pdf" size="6213226" crc="0924f186" md5="a2c69ebd8dc7d1bb24f1ef9c3a0b24f7" sha1="0411f6d247fc09fe98ed365f8c03f584dd8715ca" />
+	</machine>
+	<machine name="CAT28301 - Slip Streams">
+		<description>CAT28301 - Slip Streams</description>
+		<rom name="CAT28301 - Slip Streams.pdf" size="4736105" crc="0be38bfe" md5="5afb288f28a976727ed7dae5802a4187" sha1="41493feb38da298b4ffc8490049cca00f6853d81" />
+	</machine>
+	<machine name="CAT28302 - The Kechibi Code">
+		<description>CAT28302 - The Kechibi Code</description>
+		<rom name="CAT28302 - The Kechibi Code.pdf" size="5792213" crc="ad41f608" md5="d683456cf49af13ac190748a875fd390" sha1="a5430387e751045f4c0d4990cf1628f2ee997327" />
+	</machine>
+	<machine name="CAT28400 - 30 Nights">
+		<description>CAT28400 - 30 Nights</description>
+		<rom name="CAT28400 - 30 Nights.pdf" size="9836101" crc="d93c8a97" md5="deee98bc54955ef2b3831e7582a14df2" sha1="ac53d3ca2cded81f5ff8617ffe950bb9b5746aff" />
+	</machine>
+	<machine name="CAT28401 - Free Seattle">
+		<description>CAT28401 - Free Seattle</description>
+		<rom name="CAT28401 - Free Seattle.pdf" size="2309958" crc="36832431" md5="179d5103e5745c653f1cc7c37d59520a" sha1="374316efe1ebdf3ce44e262d9feac62c984776bf" />
+	</machine>
+	<machine name="CAT28402 - Assassins Night">
+		<description>CAT28402 - Assassins Night</description>
+		<rom name="CAT28402 - Assassins Night.pdf" size="6549531" crc="29ebc69c" md5="0c130179bc04e593320f1d23fb0ff595" sha1="50f01464320304624b3fae9b751a74c94405c9be" />
+	</machine>
+	<machine name="CAT28403 - The Third Parallel [w]">
+		<description>CAT28403 - The Third Parallel [w]</description>
+		<rom name="CAT28403 - The Third Parallel [w].pdf" size="20996218" crc="13e1c6e4" md5="cb9ba06be8c70b8d7e6107d4161c6e5b" sha1="f6ff56389bd63d4ca45e84adf25aa0ce5da7a603" />
+	</machine>
+	<machine name="CAT28404 - Whisper Nets">
+		<description>CAT28404 - Whisper Nets</description>
+		<rom name="CAT28404 - Whisper Nets.pdf" size="11063081" crc="b71a4232" md5="424d1633c0e2f2dcbe951bfb083b9bfb" sha1="cc37db7666303f0067d0e6fcf4dc713eacf0aa0c" />
+	</machine>
+	<machine name="CAT28450 - Collapsing Now">
+		<description>CAT28450 - Collapsing Now</description>
+		<rom name="CAT28450 - Collapsing Now.pdf" size="11353120" crc="8ceaceb5" md5="20603ff86bf133badcdf689c782f7e35" sha1="a9a196a7d037e9098407e6e4698a88a36b5a840c" />
+	</machine>
+	<machine name="CAT28451 - Power Plays">
+		<description>CAT28451 - Power Plays</description>
+		<rom name="CAT28451 - Power Plays.pdf" size="6122070" crc="350d0e18" md5="f3f4602c3218a9596dc9216637939c35" sha1="daebea216c67fe9454037ce376a31e4ec4664f10" />
+	</machine>
+	<machine name="CAT28504 - Gun Rack (Weapon Cards)">
+		<description>CAT28504 - Gun Rack (Weapon Cards)</description>
+		<rom name="CAT28504 - Gun Rack (Weapon Cards).pdf" size="18292428" crc="77d9bdfe" md5="27c5448f76ef84c09ecd04ee94fbddfe" sha1="54fad208a67ff4a882fb76d0096dc44fbc82a24f" />
+	</machine>
+	<machine name="CAT28507 - Sixth World Activity Book">
+		<description>CAT28507 - Sixth World Activity Book</description>
+		<rom name="CAT28507 - Sixth World Activity Book.pdf" size="32424207" crc="4f2c9b19" md5="73f3ac5bae2a3e433a935334d8a0ccb6" sha1="b79c532b37b5d92141c49503955ff3cb5eead42f" />
+	</machine>
+	<machine name="CAT28509 - Rides - Vehicle Deck">
+		<description>CAT28509 - Rides - Vehicle Deck</description>
+		<rom name="CAT28509 - Rides - Vehicle Deck.pdf" size="2764758" crc="c368bec8" md5="f108287fec3f4164b69ad663e34945cb" sha1="b0b39721f38cf1f44c415b9518a227397c8651b1" />
+	</machine>
+	<machine name="CAT28513 - Shoot Straight [w]">
+		<description>CAT28513 - Shoot Straight [w]</description>
+		<rom name="CAT28513 - Shoot Straight [w].pdf" size="114342228" crc="a92040c3" md5="29660f96ea561eafde01b44f8819b40f" sha1="12968f5d9e05e462be1666ad9f5c885f6fa1f8c0" />
+	</machine>
+	<machine name="CAT28802 - Shadows in Focus - Easy Come Easy Go [w]">
+		<description>CAT28802 - Shadows in Focus - Easy Come Easy Go [w]</description>
+		<rom name="CAT28802 - Shadows in Focus - Easy Come Easy Go [w].pdf" size="3455574" crc="e931b8fa" md5="26086767f8e34bed6185c4f18cf9db84" sha1="1c27727b18a2a84b0d7a8925461c61bafb96731e" />
+	</machine>
+	<machine name="CAT28840S - Tales From The UCAS - Age Of Rust">
+		<description>CAT28840S - Tales From The UCAS - Age Of Rust</description>
+		<rom name="CAT28840S - Tales From The UCAS - Age Of Rust.pdf" size="1089127" crc="5949545b" md5="a843e2644e4acb9bfb552f4a432c6460" sha1="4783ac9d38de34e45d96b9cf7b93c5baa36a3f35" />
+	</machine>
+	<machine name="CAT28881S - Shadow Stock - Ingentis Athletes">
+		<description>CAT28881S - Shadow Stock - Ingentis Athletes</description>
+		<rom name="CAT28881S - Shadow Stock - Ingentis Athletes.pdf" size="737442" crc="f80df14b" md5="be57f4d3f96f9763003fecd17fb0921e" sha1="1dc765387aac4310560154bb972f7e62de291644" />
+	</machine>
+</datafile>

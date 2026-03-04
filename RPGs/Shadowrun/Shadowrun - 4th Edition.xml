@@ -1,0 +1,747 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - 4th Edition</name>
+		<description>Shadowrun - 4th Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="159" crc="3054cf3e" md5="af5f0dd87c44752445c5ea6a8039e615" sha1="e7379f5fbab091287f69f967c7e7b198aad9e3ed" />
+	</machine>
+	<machine name="CAT26001 - Street Magic (Second Printing)">
+		<description>CAT26001 - Street Magic (Second Printing)</description>
+		<rom name="CAT26001 - Street Magic (Second Printing).pdf" size="24944586" crc="fedf79a5" md5="a37e4ceb5693d8601043585b84b01c43" sha1="a0feecb3c8026861eb370eb8f609adfdd41ad237" />
+	</machine>
+	<machine name="CAT26002 - Augmentation (First Printing)">
+		<description>CAT26002 - Augmentation (First Printing)</description>
+		<rom name="CAT26002 - Augmentation (First Printing).pdf" size="16054170" crc="97233b68" md5="3232564057cfb5a27f9db108e016efdc" sha1="747e1cb07fdd4b27ec3d218ce40a3d83cb2a811e" />
+	</machine>
+	<machine name="CAT26002 - Augmentation (Third Printing)">
+		<description>CAT26002 - Augmentation (Third Printing)</description>
+		<rom name="CAT26002 - Augmentation (Third Printing).pdf" size="18684242" crc="023c759a" md5="b75107cc0756b371bbcf2efee4effa43" sha1="9f55b9b8516d6f7f5279ce16f100759a0770d498" />
+	</machine>
+	<machine name="CAT26003 - Arsenal (First Printing Errata v1.3.2)">
+		<description>CAT26003 - Arsenal (First Printing Errata v1.3.2)</description>
+		<rom name="CAT26003 - Arsenal (First Printing Errata v1.3.2).pdf" size="273952" crc="9541b6cd" md5="bd784c2de0f59a8b0f6d495b63846307" sha1="06285357ea7b5252d41fbd822f43f93264be5a3d" />
+	</machine>
+	<machine name="CAT26003 - Arsenal (First Printing)">
+		<description>CAT26003 - Arsenal (First Printing)</description>
+		<rom name="CAT26003 - Arsenal (First Printing).pdf" size="41342517" crc="364e3392" md5="cb0e4f93a09c8541337cfe7bcbfac839" sha1="0e7f1d820943202f6bf2a6b449c8887f14c6d19b" />
+	</machine>
+	<machine name="CAT26003 - Arsenal (Second Printing) [w]">
+		<description>CAT26003 - Arsenal (Second Printing) [w]</description>
+		<rom name="CAT26003 - Arsenal (Second Printing) [w].pdf" size="11967122" crc="c9deb156" md5="44e0a6ceb20a89b74636f4070d815502" sha1="a493020b4be3dbe174b7851c60eb0757457e4d4d" />
+	</machine>
+	<machine name="CAT26004 - Unwired (First Printing Errata v1)">
+		<description>CAT26004 - Unwired (First Printing Errata v1)</description>
+		<rom name="CAT26004 - Unwired (First Printing Errata v1).pdf" size="266177" crc="82871dab" md5="1d19496789c408fbc3d03206699419bc" sha1="d365333450a91b9238f6ffa0bca110f2a55a7f3a" />
+	</machine>
+	<machine name="CAT26004 - Unwired (First Printing)">
+		<description>CAT26004 - Unwired (First Printing)</description>
+		<rom name="CAT26004 - Unwired (First Printing).pdf" size="22004782" crc="c8da4080" md5="47ff14332bb07b3f0bd2e5c9d2b7ddc7" sha1="19d4d99fc6e4f6c94bc66e5d9085e05b3c1d785f" />
+	</machine>
+	<machine name="CAT26004 - Unwired (Third Printing)">
+		<description>CAT26004 - Unwired (Third Printing)</description>
+		<rom name="CAT26004 - Unwired (Third Printing).pdf" size="17253768" crc="40eab0e0" md5="085b36101ad7100e19b5cd1e46c30f3b" sha1="dbf79607f4a666e221a80849d02a90bb4e5e217f" />
+	</machine>
+	<machine name="CAT26005 - Runner's Companion (First Printing)">
+		<description>CAT26005 - Runner's Companion (First Printing)</description>
+		<rom name="CAT26005 - Runner's Companion (First Printing).pdf" size="42189309" crc="50d80181" md5="cb452f1113d9645775f5b1df1bb5cf3d" sha1="c52a9ce80a8cf5b861a9a44f0a46e64a5260d4b6" />
+	</machine>
+	<machine name="CAT26005 - Runner's Companion (Second Printing)">
+		<description>CAT26005 - Runner's Companion (Second Printing)</description>
+		<rom name="CAT26005 - Runner's Companion (Second Printing).pdf" size="15158791" crc="48b08e4e" md5="7dc03e4960c5936de162fdc2790884ab" sha1="bdb9e25144e7234468da80aaf5199d0331758d03" />
+	</machine>
+	<machine name="CAT2600A - Shadowrun Fourth Edition, 20th Anniversary">
+		<description>CAT2600A - Shadowrun Fourth Edition, 20th Anniversary</description>
+		<rom name="CAT2600A - Shadowrun Fourth Edition, 20th Anniversary.pdf" size="46010213" crc="27a6e91f" md5="73ec8a4e600879513dce9db1dc57363a" sha1="21d0c624a0c3bb6325aa99f2051e3017cac5cc5b" />
+	</machine>
+	<machine name="CAT26100 - Runner's Toolkit - Anatomy of a Shadowrun">
+		<description>CAT26100 - Runner's Toolkit - Anatomy of a Shadowrun</description>
+		<rom name="CAT26100 - Runner's Toolkit - Anatomy of a Shadowrun.pdf" size="3962868" crc="915c56b1" md5="53e8730de2411cbfd9f8606a886a8657" sha1="065a0dbf6131121a5f27f0ec92c8677f21633b03" />
+	</machine>
+	<machine name="CAT26100 - Runner's Toolkit - Compiled Tables">
+		<description>CAT26100 - Runner's Toolkit - Compiled Tables</description>
+		<rom name="CAT26100 - Runner's Toolkit - Compiled Tables.pdf" size="10431627" crc="c0cfbb74" md5="5db1ec6b7286b8a3bb3c62fdfe3a4b11" sha1="131c7338b727001003742cba2f2c5a5ab2649e40" />
+	</machine>
+	<machine name="CAT26100 - Runner's Toolkit - Contacts, Adventures, Sprawl Sites">
+		<description>CAT26100 - Runner's Toolkit - Contacts, Adventures, Sprawl Sites</description>
+		<rom name="CAT26100 - Runner's Toolkit - Contacts, Adventures, Sprawl Sites.pdf" size="5403875" crc="10e80d29" md5="7dcbb744a1efffc71471ee0b02d8f7e7" sha1="d2a9f4225576303073c71cc84e3f15a923564cb3" />
+	</machine>
+	<machine name="CAT26100 - Runner's Toolkit - Gamemaster's Screen">
+		<description>CAT26100 - Runner's Toolkit - Gamemaster's Screen</description>
+		<rom name="CAT26100 - Runner's Toolkit - Gamemaster's Screen.pdf" size="5966278" crc="4140f7c0" md5="4f1c6044e2dd2edc0e6d3758db9f91dc" sha1="177dd698bd263107916343b7c3ec257df3c11e03" />
+	</machine>
+	<machine name="CAT26100 - Runner's Toolkit - On the Run">
+		<description>CAT26100 - Runner's Toolkit - On the Run</description>
+		<rom name="CAT26100 - Runner's Toolkit - On the Run.pdf" size="9850891" crc="0c143733" md5="e83f90e76d2273213a53f1431131f7b9" sha1="64a0d5bb38ac65e7491c412efd6c6ac8dcc98a7e" />
+	</machine>
+	<machine name="CAT26100 - Runner's Toolkit - PACKS">
+		<description>CAT26100 - Runner's Toolkit - PACKS</description>
+		<rom name="CAT26100 - Runner's Toolkit - PACKS.pdf" size="5727454" crc="448c0a00" md5="0762992bc6ea3c13cb86c733aa674475" sha1="c4cbc217cff02973029a45a6c4ef7caef65b9361" />
+	</machine>
+	<machine name="CAT26100 - Runner's Toolkit - Quick Reference Sheets">
+		<description>CAT26100 - Runner's Toolkit - Quick Reference Sheets</description>
+		<rom name="CAT26100 - Runner's Toolkit - Quick Reference Sheets.pdf" size="11176004" crc="027debf4" md5="80de461eb1e1c77a7d81194f222f8dc4" sha1="01bbd91d98bf6f1b44efeca2febdef50c6dfe278" />
+	</machine>
+	<machine name="CAT26101 - Running Wild">
+		<description>CAT26101 - Running Wild</description>
+		<rom name="CAT26101 - Running Wild.pdf" size="15942003" crc="fa470f51" md5="ce734dbca13d520e6f640b9ed245814a" sha1="7690818cc7dcc88bba005b03e071a5a6d638c2e5" />
+	</machine>
+	<machine name="CAT26105 - Runner's Black Book 2074">
+		<description>CAT26105 - Runner's Black Book 2074</description>
+		<rom name="CAT26105 - Runner's Black Book 2074.pdf" size="19492570" crc="12a9658d" md5="a2fbd7a2694bb1c4e8a6cef689d50328" sha1="064afd70963848f887afb9b0510265bc034fc47e" />
+	</machine>
+	<machine name="CAT26201 - Corporate Enclaves">
+		<description>CAT26201 - Corporate Enclaves</description>
+		<rom name="CAT26201 - Corporate Enclaves.pdf" size="9341237" crc="d925e8d8" md5="9eed05e113e14cae4d15a9069ea1115a" sha1="79fdcac15e84eafb43897ccd4b881a6d3402dfda" />
+	</machine>
+	<machine name="CAT26202 - Feral Cities">
+		<description>CAT26202 - Feral Cities</description>
+		<rom name="CAT26202 - Feral Cities.pdf" size="15980029" crc="6df9c63f" md5="943f1a7daf8e371c7008a4810e3eacda" sha1="5099a55ba7e417779403a2c9d7eb32e6f8af2c77" />
+	</machine>
+	<machine name="CAT26203 - Vice">
+		<description>CAT26203 - Vice</description>
+		<rom name="CAT26203 - Vice.pdf" size="20037451" crc="5ce6db3c" md5="a64088477ff5a16a31ecc708dd908c79" sha1="e3344e9337f73ba1818c8422d8f5ff575e778238" />
+	</machine>
+	<machine name="CAT26205 - Sixth World Almanac">
+		<description>CAT26205 - Sixth World Almanac</description>
+		<rom name="CAT26205 - Sixth World Almanac.pdf" size="41901351" crc="f6b7e0a4" md5="0421a971b7233e1f7cf76416be31e406" sha1="6e6c2b145b2bf0e28d491f3a2bf8f0a26386fd70" />
+	</machine>
+	<machine name="CAT26206 - War">
+		<description>CAT26206 - War</description>
+		<rom name="CAT26206 - War.pdf" size="15078197" crc="36624b21" md5="11e6c1ea974fe129a987efdf6814b050" sha1="b95bd70240e140c5bacbf6e2387adb6148bbe863" />
+	</machine>
+	<machine name="CAT26207 - Spy Games">
+		<description>CAT26207 - Spy Games</description>
+		<rom name="CAT26207 - Spy Games.pdf" size="15854297" crc="4403c7fa" md5="ec2a4454d2b37a7da5d2b2e4774e943c" sha1="93edc9d51b2e59e3bd206b5c0e6e675591782419" />
+	</machine>
+	<machine name="CAT26208 - Conspiracy Theories">
+		<description>CAT26208 - Conspiracy Theories</description>
+		<rom name="CAT26208 - Conspiracy Theories.pdf" size="10346803" crc="1550f62b" md5="d6ec70d7ac67f0e62e2fd6d82267af30" sha1="40396798813a423b6b6321583db9270a863112a1" />
+	</machine>
+	<machine name="CAT26209 - Street Legends">
+		<description>CAT26209 - Street Legends</description>
+		<rom name="CAT26209 - Street Legends.pdf" size="13668388" crc="41b7d31d" md5="d439f0662712862ad03569394963f1ff" sha1="86fb38268e0226ae76f809440a82c4d3db4fbb2b" />
+	</machine>
+	<machine name="CAT26210 - Hazard Pay">
+		<description>CAT26210 - Hazard Pay</description>
+		<rom name="CAT26210 - Hazard Pay.pdf" size="11478374" crc="7f5b662a" md5="8b4d88a755e954981dcf970b696b00ec" sha1="92b19bd4edf9fa9666eb701f87e4073dd665282a" />
+	</machine>
+	<machine name="CAT26211 - The Clutch of Dragons">
+		<description>CAT26211 - The Clutch of Dragons</description>
+		<rom name="CAT26211 - The Clutch of Dragons.pdf" size="10601819" crc="945d3dde" md5="a1efb69eef4957406b867834fb20e616" sha1="7e7c421a1f11cf0904d2f9c1e8b55b10c823ff81" />
+	</machine>
+	<machine name="CAT26212 - Dirty Tricks">
+		<description>CAT26212 - Dirty Tricks</description>
+		<rom name="CAT26212 - Dirty Tricks.pdf" size="7663741" crc="90ea0a5a" md5="4935cef24b1b8f2fe3c85e8dc2afe0ad" sha1="04594fb66f6b465b3a73cf2e95bf94e79a554c4b" />
+	</machine>
+	<machine name="CAT26213 - Storm Front">
+		<description>CAT26213 - Storm Front</description>
+		<rom name="CAT26213 - Storm Front.pdf" size="8326300" crc="7c5beae5" md5="930d3a6f040362e5c805e7dd7daf57a3" sha1="b4bad22efc3d3c07e3394a86704519dab4897329" />
+	</machine>
+	<machine name="CAT26221 - Corporate Guide">
+		<description>CAT26221 - Corporate Guide</description>
+		<rom name="CAT26221 - Corporate Guide.pdf" size="11931030" crc="4545f3b9" md5="f2989c13bf90fbde8d63043a1b88abff" sha1="13f8e785bccd544bc101af18ec3e5d9066beabd4" />
+	</machine>
+	<machine name="CAT26230 - Shadowrun 2050">
+		<description>CAT26230 - Shadowrun 2050</description>
+		<rom name="CAT26230 - Shadowrun 2050.pdf" size="8008649" crc="8b06fe70" md5="67bd47b068cdbab5943d819e7b509d98" sha1="fa01889a4fa4b1df1dce4a3e12f8565be2083e73" />
+	</machine>
+	<machine name="CAT26240 - Seattle 2072">
+		<description>CAT26240 - Seattle 2072</description>
+		<rom name="CAT26240 - Seattle 2072.pdf" size="18552803" crc="3d6e37e6" md5="6642c578bce2458467b6fbd6e0aed77d" sha1="484abd54c32afb14c0f14f18ca82e210410f32c8" />
+	</machine>
+	<machine name="CAT26241 - Attitude">
+		<description>CAT26241 - Attitude</description>
+		<rom name="CAT26241 - Attitude.pdf" size="20290372" crc="6599d662" md5="7c83be2d7ae3b3081374c79aa5c87de2" sha1="20967fb0bf7ecc073df11e53fe010e93f0828985" />
+	</machine>
+	<machine name="CAT26301 - Emergence">
+		<description>CAT26301 - Emergence</description>
+		<rom name="CAT26301 - Emergence.pdf" size="19072867" crc="ae4b5d2e" md5="8e4927b664c9abb6dc661ec80bd648a5" sha1="e6e4c8c39ee872525bdb35294cc77d503c87a087" />
+	</machine>
+	<machine name="CAT26302 - Ghost Cartels (Maps)">
+		<description>CAT26302 - Ghost Cartels (Maps)</description>
+		<rom name="CAT26302 - Ghost Cartels (Maps).pdf" size="5851291" crc="9f47ac83" md5="9f69b729882be0030d91e512c3c97dc3" sha1="4337e8d5986248b2375805249e704fa0d1eef995" />
+	</machine>
+	<machine name="CAT26302 - Ghost Cartels [w]">
+		<description>CAT26302 - Ghost Cartels [w]</description>
+		<rom name="CAT26302 - Ghost Cartels [w].pdf" size="23783255" crc="d018ee72" md5="8dcb5347ef7bf06997812b4f296fd5a0" sha1="d5f23ed0ea0a17a0d27a67e1c8dc2f8410811636" />
+	</machine>
+	<machine name="CAT2635A - BattleRun - Best Ever">
+		<description>CAT2635A - BattleRun - Best Ever</description>
+		<rom name="CAT2635A - BattleRun - Best Ever.pdf" size="9345624" crc="d2d992ae" md5="8a90c68e5054c9c081762384d8f7ba67" sha1="1c502604ac960da10a0a107d7caca517a24e27e7" />
+	</machine>
+	<machine name="CAT26405 - Horizon Adventure 1 - Fistful of Credsticks">
+		<description>CAT26405 - Horizon Adventure 1 - Fistful of Credsticks</description>
+		<rom name="CAT26405 - Horizon Adventure 1 - Fistful of Credsticks.pdf" size="3597308" crc="6ab3f68d" md5="17726dcb35795ac89c8897a340726899" sha1="02a8350114e7669a8d2861b162a7b740a783adb7" />
+	</machine>
+	<machine name="CAT26406 - Horizon Adventure 2 - Anarchy Subsidized">
+		<description>CAT26406 - Horizon Adventure 2 - Anarchy Subsidized</description>
+		<rom name="CAT26406 - Horizon Adventure 2 - Anarchy Subsidized.pdf" size="4662161" crc="6cc06674" md5="cc85fd317f886a780d394feb2f92bd6e" sha1="c92431c3e8a8260128380e1eafc943a7dbbf3804" />
+	</machine>
+	<machine name="CAT26407 - Horizon Adventure 3 - Colombian Subterfuge">
+		<description>CAT26407 - Horizon Adventure 3 - Colombian Subterfuge</description>
+		<rom name="CAT26407 - Horizon Adventure 3 - Colombian Subterfuge.pdf" size="12665861" crc="d2689243" md5="3c22f968338f090f2cc9ec3ab85a695c" sha1="1a9edc2832cf22b9608cd44d8fe9fbe62bcaa0b3" />
+	</machine>
+	<machine name="CAT26408 - Boardroom Backstabs 1 - Damage Control">
+		<description>CAT26408 - Boardroom Backstabs 1 - Damage Control</description>
+		<rom name="CAT26408 - Boardroom Backstabs 1 - Damage Control.pdf" size="4651057" crc="a2c8c7be" md5="27185d810bb8f4ae1927899b8f98a2c6" sha1="a5e77460fb9d69d836c5186cfcdafca7ee7245d1" />
+	</machine>
+	<machine name="CAT26410 - Boardroom Backstabs 2 - Sacrificial Limb">
+		<description>CAT26410 - Boardroom Backstabs 2 - Sacrificial Limb</description>
+		<rom name="CAT26410 - Boardroom Backstabs 2 - Sacrificial Limb.pdf" size="3032501" crc="9af870ff" md5="9f200666511dd4be3c9b62ae5605e985" sha1="7efd4b9249b64e3ed68d95abce20b03c4bf352ff" />
+	</machine>
+	<machine name="CAT26450 - Artifacts Unbound">
+		<description>CAT26450 - Artifacts Unbound</description>
+		<rom name="CAT26450 - Artifacts Unbound.pdf" size="11022557" crc="911acf6c" md5="047a70f07a902c3d044663bfd0c6df2a" sha1="43eb4bc0aff4b55044149344ce400ee5d4744e02" />
+	</machine>
+	<machine name="CAT26451 - Corporate Intrigue">
+		<description>CAT26451 - Corporate Intrigue</description>
+		<rom name="CAT26451 - Corporate Intrigue.pdf" size="7711079" crc="08d70173" md5="c1034833871b9e51f0f5d2a50fb90921" sha1="75d265f9f90154dce995dd3dab837e06f980323e" />
+	</machine>
+	<machine name="CAT26452 - Jet Set">
+		<description>CAT26452 - Jet Set</description>
+		<rom name="CAT26452 - Jet Set.pdf" size="8937158" crc="086ea35a" md5="6039bf5249bb7af62946ce46237c4c35" sha1="e68cf273a06920ec0899f8ca55cf699c32b305ee" />
+	</machine>
+	<machine name="CAT26500 - Sprawl Sites - North America">
+		<description>CAT26500 - Sprawl Sites - North America</description>
+		<rom name="CAT26500 - Sprawl Sites - North America.pdf" size="8401878" crc="e252cfaf" md5="04218ef54681de67134f34375b310503" sha1="b08e170a188ac68a7665b3a5beba14edb8b38852" />
+	</machine>
+	<machine name="CAT26501 - Sprawl Sites - High Society and Low Life">
+		<description>CAT26501 - Sprawl Sites - High Society and Low Life</description>
+		<rom name="CAT26501 - Sprawl Sites - High Society and Low Life.pdf" size="7229426" crc="1137f8ff" md5="8bc1a738d57062acb113f54f6165df0d" sha1="7b5d809998e11980c9fe6b86d8286a9cee71d44d" />
+	</machine>
+	<machine name="CAT26504 - 10 Gangs">
+		<description>CAT26504 - 10 Gangs</description>
+		<rom name="CAT26504 - 10 Gangs.pdf" size="2490602" crc="c202dc9e" md5="63c117170f6945d76c1a8372d6bddbe0" sha1="60315621cf4173ba3a11c1d22fca0ebed0bd5612" />
+	</machine>
+	<machine name="CAT26600 - Digital Grimoire">
+		<description>CAT26600 - Digital Grimoire</description>
+		<rom name="CAT26600 - Digital Grimoire.pdf" size="2778794" crc="5458419b" md5="ef57a9eab0541e088fae7f472ac75ec2" sha1="a0de11597001f1737787a5b0c49e897504d4077d" />
+	</machine>
+	<machine name="CAT26601 - Bad Moon Rising in the East [w]">
+		<description>CAT26601 - Bad Moon Rising in the East [w]</description>
+		<rom name="CAT26601 - Bad Moon Rising in the East [w].pdf" size="6214405" crc="604d23e2" md5="a9750b9d95d5136b886a7c908ec526ce" sha1="9e2a932fea4893f7bd5b58a22b8c42e5a38858c2" />
+	</machine>
+	<machine name="CAT26602 - The Rotten Apple - Manhattan">
+		<description>CAT26602 - The Rotten Apple - Manhattan</description>
+		<rom name="CAT26602 - The Rotten Apple - Manhattan.pdf" size="6962394" crc="58b77f01" md5="87ec60af2c94a9e89d215409bf581011" sha1="b21c7591978943bd6b11aee9dd88244460610af0" />
+	</machine>
+	<machine name="CAT26651 - 10 Jackpointers (User List)">
+		<description>CAT26651 - 10 Jackpointers (User List)</description>
+		<rom name="CAT26651 - 10 Jackpointers (User List).pdf" size="86448" crc="b462aa20" md5="5ed321dd113c01220ee8fe08c290405a" sha1="e489387b0fddc8995fd2a1be207923bac3de4ba5" />
+	</machine>
+	<machine name="CAT26651 - 10 Jackpointers">
+		<description>CAT26651 - 10 Jackpointers</description>
+		<rom name="CAT26651 - 10 Jackpointers.pdf" size="2495487" crc="861d8326" md5="30571f2700eb3ad188f32f0f50537fc1" sha1="19317ead5ba41e8385211e626b3244272fcbe678" />
+	</machine>
+	<machine name="CAT26APR12 - Free Taiwan">
+		<description>CAT26APR12 - Free Taiwan</description>
+		<rom name="CAT26APR12 - Free Taiwan.pdf" size="3857263" crc="167e0fcd" md5="67c57abdf00f64be485ecdee72514541" sha1="12a275b261185c35ca3071912abf1ffbc61187fb" />
+	</machine>
+	<machine name="CAT26APR13 - Rigger 4">
+		<description>CAT26APR13 - Rigger 4</description>
+		<rom name="CAT26APR13 - Rigger 4.pdf" size="3403154" crc="122d3d55" md5="aeeb822c2f089618db625d3fe33c7bc2" sha1="87203494dd2f21bea6b129ffbeb2c6fc44555f07" />
+	</machine>
+	<machine name="CAT26APR3p - Street Legends - Home Edition">
+		<description>CAT26APR3p - Street Legends - Home Edition</description>
+		<rom name="CAT26APR3p - Street Legends - Home Edition.pdf" size="6157313" crc="4f3f4102" md5="65cf5f1d1b5e68951b1b9528df2f3e02" sha1="a150205727e8c8580d2b219ea65bee0d150ced5c" />
+	</machine>
+	<machine name="CAT26CMP10 - Elven Blood">
+		<description>CAT26CMP10 - Elven Blood</description>
+		<rom name="CAT26CMP10 - Elven Blood.pdf" size="10326923" crc="1ab33f27" md5="67f877ce7c8b976e09d4b560d732ece9" sha1="7aad66ba6ae6c55411750f35dd23c3daaede3859" />
+	</machine>
+	<machine name="CAT26FRP12 - Quick-Start Rules &amp; A Night on the Town (Free RPG Day 2012)">
+		<description>CAT26FRP12 - Quick-Start Rules &amp; A Night on the Town (Free RPG Day 2012)</description>
+		<rom name="CAT26FRP12 - Quick-Start Rules &amp; A Night on the Town (Free RPG Day 2012).pdf" size="9036856" crc="a3109290" md5="de07bf0414d94b4572558ad24e7d5626" sha1="aaa0d73977d2779336f23e3f2df1da67a02a653e" />
+	</machine>
+	<machine name="CAT26S001 - This Old Drone (Revised)">
+		<description>CAT26S001 - This Old Drone (Revised)</description>
+		<rom name="CAT26S001 - This Old Drone (Revised).pdf" size="5274531" crc="dc0f5100" md5="a28baf92aa97719136c9debfb3ae94c6" sha1="9bff1b9fbf1bdce299d23197e0b319c633291448" />
+	</machine>
+	<machine name="CAT26S001 - This Old Drone">
+		<description>CAT26S001 - This Old Drone</description>
+		<rom name="CAT26S001 - This Old Drone.pdf" size="10039004" crc="9b996677" md5="919ab307613ff991d54070888850d7c6" sha1="2429ebc0ab1c588a0448ee9edf195363d2b18942" />
+	</machine>
+	<machine name="CAT26S002 - MilSpecTech">
+		<description>CAT26S002 - MilSpecTech</description>
+		<rom name="CAT26S002 - MilSpecTech.pdf" size="10182353" crc="5be15695" md5="cbbe6487512cda4b4da13c1fd669d815" sha1="f809fd5fb8eca57d1c499a79cd95a1ce4b51c44d" />
+	</machine>
+	<machine name="CAT26S003 - Parazoology">
+		<description>CAT26S003 - Parazoology</description>
+		<rom name="CAT26S003 - Parazoology.pdf" size="4625036" crc="49cc320c" md5="661d2f3d6b062bd6d9429fdaabc9dd06" sha1="7fd751174cc71a8c5f93e116208a313d5eec9773" />
+	</machine>
+	<machine name="CAT26S005 - 99 Bottles (Enhanced Fiction)">
+		<description>CAT26S005 - 99 Bottles (Enhanced Fiction)</description>
+		<rom name="CAT26S005 - 99 Bottles (Enhanced Fiction).pdf" size="11762488" crc="f2ae7b20" md5="42633fae9cd96faf1d377a6bca26dc44" sha1="631addaec84c0ec3ee0c8f3277bc954fc24b086e" />
+	</machine>
+	<machine name="CAT26S006 - State of the Art 2073">
+		<description>CAT26S006 - State of the Art 2073</description>
+		<rom name="CAT26S006 - State of the Art 2073.pdf" size="13236907" crc="472b68f0" md5="06f2449bf063b283923a119d9c38ec45" sha1="09b63c8a1f3ddcc62b12d4e66b0e1b382ed70a6a" />
+	</machine>
+	<machine name="CAT26S007 - The Way of the Adept">
+		<description>CAT26S007 - The Way of the Adept</description>
+		<rom name="CAT26S007 - The Way of the Adept.pdf" size="4478724" crc="6db514b9" md5="249cf4188ecd81415e96e08c8a4d9529" sha1="5d2a9b348b97204c776c0cd114a402227ec24dac" />
+	</machine>
+	<machine name="CAT26S009 - Unfriendly Skies">
+		<description>CAT26S009 - Unfriendly Skies</description>
+		<rom name="CAT26S009 - Unfriendly Skies.pdf" size="4967826" crc="be88fa19" md5="495778b8969695aa458005dbbcc98114" sha1="cf1dada377dc1344110b5e69ffd27bb207bac6ef" />
+	</machine>
+	<machine name="CAT26S010 - Gun Heaven">
+		<description>CAT26S010 - Gun Heaven</description>
+		<rom name="CAT26S010 - Gun Heaven.pdf" size="5557974" crc="a76116d6" md5="1056a73e7e975cb41e4062e9f42ab872" sha1="9285607b2e7fb03da5b88c55ed14e7d5d693b1cd" />
+	</machine>
+	<machine name="CAT26S011 - Deadly Waves">
+		<description>CAT26S011 - Deadly Waves</description>
+		<rom name="CAT26S011 - Deadly Waves.pdf" size="5214413" crc="b3e98bb4" md5="64646852085c4c775ba7caa55750a726" sha1="c4d44f28b4ad01a2aae6f29e8d7a12c36702fd94" />
+	</machine>
+	<machine name="CAT26S012 - Parabotany">
+		<description>CAT26S012 - Parabotany</description>
+		<rom name="CAT26S012 - Parabotany.pdf" size="17360861" crc="9c4a61d7" md5="998e28e22d2a23514ec1cf65c7a41be4" sha1="73158d33b8b3f872c5c7fba94664aa877c49e40a" />
+	</machine>
+	<machine name="CAT26S013 - Safehouses">
+		<description>CAT26S013 - Safehouses</description>
+		<rom name="CAT26S013 - Safehouses.pdf" size="4966128" crc="a9cbcbf8" md5="a357f986eb971db15e13dee6b294e017" sha1="0c60b7ccfe5d7e837e6222d66a04952bce7201ae" />
+	</machine>
+	<machine name="CAT26S014 - Magical Societies">
+		<description>CAT26S014 - Magical Societies</description>
+		<rom name="CAT26S014 - Magical Societies.pdf" size="8597922" crc="b4b4b1b1" md5="b8c19b9006d363f0082c34bd60778fe2" sha1="f86428fc659a296ae9961b1e321edb123140cf0f" />
+	</machine>
+	<machine name="CAT26S015 - Street Legends Supplemental">
+		<description>CAT26S015 - Street Legends Supplemental</description>
+		<rom name="CAT26S015 - Street Legends Supplemental.pdf" size="7539123" crc="896120d2" md5="6eaddf002c4b6b7c408f2d8d2ab690aa" sha1="02575db3f48d39ebb654808339deeb95702112f2" />
+	</machine>
+	<machine name="CAT26S016 - Gun Heaven 2">
+		<description>CAT26S016 - Gun Heaven 2</description>
+		<rom name="CAT26S016 - Gun Heaven 2.pdf" size="20400405" crc="bfddf259" md5="b15b78611f96ea148b21c283b9dd1522" sha1="441004d37bf7fd016cfef2ce5470ee796f23a5f4" />
+	</machine>
+	<machine name="CAT26S017 - The Way of The Samurai">
+		<description>CAT26S017 - The Way of The Samurai</description>
+		<rom name="CAT26S017 - The Way of The Samurai.pdf" size="2575579" crc="7945786a" md5="6c2199bf087bd9060ba3bfa1c9f3af07" sha1="3e3f4735ceb7d08977b11184b810d2dcf672d5aa" />
+	</machine>
+	<machine name="CAT26S018 - Euro War Antiques">
+		<description>CAT26S018 - Euro War Antiques</description>
+		<rom name="CAT26S018 - Euro War Antiques.pdf" size="4196417" crc="60cdffb9" md5="d3a2967f023304f7f7da7cd9b89e03bc" sha1="18a502187606247c10102c7038d2437a93fec4f4" />
+	</machine>
+	<machine name="CAT26S019 - Used Car Lot">
+		<description>CAT26S019 - Used Car Lot</description>
+		<rom name="CAT26S019 - Used Car Lot.pdf" size="2870643" crc="bf53ff02" md5="5f534dec9f3271f48725b2c52544521b" sha1="498abafcf6bc631da510a9b4b63729a8b34a5946" />
+	</machine>
+	<machine name="CAT26S020 - Parageology">
+		<description>CAT26S020 - Parageology</description>
+		<rom name="CAT26S020 - Parageology.pdf" size="8317607" crc="0db41304" md5="81ee81bd07c32475fdf0711934c75a48" sha1="e0a8bce6ca2e8fb8099f614ccb56889c53f3d53d" />
+	</machine>
+	<machine name="CAT26S021 - MilSpec Tech 2">
+		<description>CAT26S021 - MilSpec Tech 2</description>
+		<rom name="CAT26S021 - MilSpec Tech 2.pdf" size="2554030" crc="ae8f871a" md5="c00a6fe593e261bb1413f1c2e813b108" sha1="5ad5b1ced9a4101972559af05b270c53cb273e0c" />
+	</machine>
+	<machine name="CAT26S024 - Sim Dreams and Nightmares">
+		<description>CAT26S024 - Sim Dreams and Nightmares</description>
+		<rom name="CAT26S024 - Sim Dreams and Nightmares.pdf" size="1411490" crc="a5ce4592" md5="fe9f67e1b9ec19e6d91cec5b742ba779" sha1="c219b29a2ce9fe598900ede86d8e6c80fcea553b" />
+	</machine>
+	<machine name="CAT26S025 - The Land of Promise">
+		<description>CAT26S025 - The Land of Promise</description>
+		<rom name="CAT26S025 - The Land of Promise.pdf" size="1510814" crc="5588ff44" md5="cf5cb1af188132fb406e6c6c641d6799" sha1="044f980d05580594b026429d843908d8f85bc18e" />
+	</machine>
+	<machine name="CAT26S026 - Montreal 2074">
+		<description>CAT26S026 - Montreal 2074</description>
+		<rom name="CAT26S026 - Montreal 2074.pdf" size="2286964" crc="cbea1f52" md5="922304b5a34460233da1e5a2ae51c85d" sha1="ebaa5b73da803ea8580163775996fb2f22033942" />
+	</machine>
+	<machine name="CAT26S032 - Parazoology 2">
+		<description>CAT26S032 - Parazoology 2</description>
+		<rom name="CAT26S032 - Parazoology 2.pdf" size="2980119" crc="206700c8" md5="df9bf49f592d1846aa25f431924fef2d" sha1="4ec3438fa239a1e25e5d63149bbb95de4868b293" />
+	</machine>
+	<machine name="CAT26S034 - 10 Mercs">
+		<description>CAT26S034 - 10 Mercs</description>
+		<rom name="CAT26S034 - 10 Mercs.pdf" size="4017075" crc="b250daed" md5="c71db5f4962ca2c3abb1f4644dd45ad0" sha1="509aa8d5cca4aa7d1f57da4cc2a6a268671775ce" />
+	</machine>
+	<machine name="FanPro26000 - Shadowrun Fourth Edition">
+		<description>FanPro26000 - Shadowrun Fourth Edition</description>
+		<rom name="FanPro26000 - Shadowrun Fourth Edition.pdf" size="55924221" crc="d2b8433a" md5="6b4d2ddb5c4857fcd4de6ad1a8ddbb22" sha1="78a330097b3e3c7148c9cc411b939b8196b902b2" />
+	</machine>
+	<machine name="FanPro26002 - Contacts and Adventures">
+		<description>FanPro26002 - Contacts and Adventures</description>
+		<rom name="FanPro26002 - Contacts and Adventures.pdf" size="1842906" crc="8c0b1995" md5="d78fa88cd784c1570a3d38355105fc73" sha1="85a5cad312461fee33fd66aa44b13885ad52c819" />
+	</machine>
+	<machine name="FanPro26002 - Gamemaster's screen (Tables only)">
+		<description>FanPro26002 - Gamemaster's screen (Tables only)</description>
+		<rom name="FanPro26002 - Gamemaster's screen (Tables only).pdf" size="521639" crc="1668af80" md5="2cbdbbbe6c952454be3938b36395841f" sha1="401b96033894b728602e62d570aab5e581119819" />
+	</machine>
+	<machine name="FanPro26002 - Gamemaster's screen">
+		<description>FanPro26002 - Gamemaster's screen</description>
+		<rom name="FanPro26002 - Gamemaster's screen.pdf" size="1991474" crc="5a3d07f7" md5="d0bf29cd1fe239a40f6b6104d8142af5" sha1="6b4386fc5cf8b55ac645419d4ebc2a6940138bc1" />
+	</machine>
+	<machine name="FanPro26003 - On The Run">
+		<description>FanPro26003 - On The Run</description>
+		<rom name="FanPro26003 - On The Run.pdf" size="6044832" crc="285ae737" md5="1f03264d0b1741ee902ef1f4d4c9032a" sha1="ef244e9c45fe98d006b6297826f70761ed3a571a" />
+	</machine>
+	<machine name="FanPro26004 - Street Magic (Errata v1.2)">
+		<description>FanPro26004 - Street Magic (Errata v1.2)</description>
+		<rom name="FanPro26004 - Street Magic (Errata v1.2).pdf" size="188206" crc="9e017b61" md5="948e3b71eb7c4d8a8a01a44151c64748" sha1="50b0368a0b42f1cd7fdbcab3daa4d4719055af30" />
+	</machine>
+	<machine name="FanPro26004 - Street Magic (Errata v1.4.1)">
+		<description>FanPro26004 - Street Magic (Errata v1.4.1)</description>
+		<rom name="FanPro26004 - Street Magic (Errata v1.4.1).pdf" size="722016" crc="d27255b3" md5="c4dbf0111bc572f14a5becb349e0ea7c" sha1="c01a176d17a52ae9021072640899801c085fe836" />
+	</machine>
+	<machine name="FanPro26004 - Street Magic">
+		<description>FanPro26004 - Street Magic</description>
+		<rom name="FanPro26004 - Street Magic.pdf" size="18502207" crc="96867abf" md5="d69dcb57ae3679b4c7987818b10aca9d" sha1="4d4dbb003a7f77212856da0406e353f433f0251c" />
+	</machine>
+	<machine name="FanPro26005 - Runner Havens">
+		<description>FanPro26005 - Runner Havens</description>
+		<rom name="FanPro26005 - Runner Havens.pdf" size="7433606" crc="5eed684e" md5="f0fa1ec2b37ed4db3da349205367ede4" sha1="bf07558325ad2e80703ad711fcc8f545b009fbcb" />
+	</machine>
+	<machine name="FanPro26400 - Dawn of the Artifacts 1 - Dusk Maps">
+		<description>FanPro26400 - Dawn of the Artifacts 1 - Dusk Maps</description>
+		<rom name="FanPro26400 - Dawn of the Artifacts 1 - Dusk Maps.pdf" size="2171282" crc="b62ac0a9" md5="f6fa4816847227ce0bab14269def7e54" sha1="0bebecabc12e80dfb9107fa941d278143f13049a" />
+	</machine>
+	<machine name="FanPro26400 - Dawn of the Artifacts 1 - Dusk">
+		<description>FanPro26400 - Dawn of the Artifacts 1 - Dusk</description>
+		<rom name="FanPro26400 - Dawn of the Artifacts 1 - Dusk.pdf" size="8116193" crc="d631f3b8" md5="ad8ac27a9741d87e0c7fa9b99cef6b43" sha1="90af5f734a025d41e13fc51d9a884fc88a237cb1" />
+	</machine>
+	<machine name="FanPro26401 - Dawn of the Artifacts 2 - Midnight Maps">
+		<description>FanPro26401 - Dawn of the Artifacts 2 - Midnight Maps</description>
+		<rom name="FanPro26401 - Dawn of the Artifacts 2 - Midnight Maps.pdf" size="4224753" crc="19733f0c" md5="897dd078e8547676d28cbc766e815095" sha1="1390bbd74d19da6f98647977fad1f49160d47f02" />
+	</machine>
+	<machine name="FanPro26401 - Dawn of the Artifacts 2 - Midnight">
+		<description>FanPro26401 - Dawn of the Artifacts 2 - Midnight</description>
+		<rom name="FanPro26401 - Dawn of the Artifacts 2 - Midnight.pdf" size="16194228" crc="dd102b1d" md5="a7850e2b8fed31d77013d141eb2704e4" sha1="880a15bc4fac64c1f4075045132f9a0cd5cf214d" />
+	</machine>
+	<machine name="FanPro26402 - Dawn of the Artifacts 3 - Darkest Hour">
+		<description>FanPro26402 - Dawn of the Artifacts 3 - Darkest Hour</description>
+		<rom name="FanPro26402 - Dawn of the Artifacts 3 - Darkest Hour.pdf" size="7894316" crc="47fd168e" md5="20f98b5608779634eaa8f4c678eafccb" sha1="6fa9004fd1632c998b913db11044017e83cbb62c" />
+	</machine>
+	<machine name="FanPro26403 - Dawn of the Artifacts 4 - New Dawn">
+		<description>FanPro26403 - Dawn of the Artifacts 4 - New Dawn</description>
+		<rom name="FanPro26403 - Dawn of the Artifacts 4 - New Dawn.pdf" size="13251799" crc="c3edf2e4" md5="54898e7cf4d5150cccc97f823d7dc339" sha1="7cc0b72c1de6e9b26e761ecee878aadad7b26bca" />
+	</machine>
+	<machine name="FanPro26453 - The Twilight Horizon">
+		<description>FanPro26453 - The Twilight Horizon</description>
+		<rom name="FanPro26453 - The Twilight Horizon.pdf" size="7600984" crc="cd4c77de" md5="b194f82b46adb91256d09332954ea500" sha1="31bc1932537dd83fed415a7d8b7556ab865f27d0" />
+	</machine>
+	<machine name="Shadowrun 4e - SR3 to SR4 Character Conversion Guide">
+		<description>Shadowrun 4e - SR3 to SR4 Character Conversion Guide</description>
+		<rom name="Shadowrun 4e - SR3 to SR4 Character Conversion Guide.pdf" size="989081" crc="8bca6378" md5="d6149550f7cb0e0bcf0b3962ca665d7f" sha1="466142b6481d339b21b9bf596a18e837dc8df33b" />
+	</machine>
+	<machine name="SR4QS - Quick-Start Rules &amp; Food Fight 4.0">
+		<description>SR4QS - Quick-Start Rules &amp; Food Fight 4.0</description>
+		<rom name="SR4QS - Quick-Start Rules &amp; Food Fight 4.0.pdf" size="5699702" crc="9c6e259e" md5="d8088eeb1a76621c35b9d7a81903e661" sha1="6f410cd1466669b8ee21b9632b799128d53490f8" />
+	</machine>
+	<machine name="SRM02-01A - Parliament of Thieves">
+		<description>SRM02-01A - Parliament of Thieves</description>
+		<rom name="SRM02-01A - Parliament of Thieves.pdf" size="496911" crc="02330f1a" md5="12a76bbffbe9e167ac80e1aa5ff1f0cc" sha1="b27e08259cda137a8f3a13d9d0a2659db19fc681" />
+	</machine>
+	<machine name="SRM02-01B - Parliament of Thieves - Player Handouts">
+		<description>SRM02-01B - Parliament of Thieves - Player Handouts</description>
+		<rom name="SRM02-01B - Parliament of Thieves - Player Handouts.pdf" size="2287751" crc="2ff12b4a" md5="467e13400baab5dadaa10580d301cf5f" sha1="b3bc7e25e222d0f8d4ed4c811836f70affd20094" />
+	</machine>
+	<machine name="SRM02-02A - Best Served Cold">
+		<description>SRM02-02A - Best Served Cold</description>
+		<rom name="SRM02-02A - Best Served Cold.pdf" size="616389" crc="aa6e15ca" md5="daeeebf927ec96173700a242ee141e2f" sha1="9858b4fd839788ffdcb39f273f72fce99250810e" />
+	</machine>
+	<machine name="SRM02-02B - Best Served Cold  - Player Handouts">
+		<description>SRM02-02B - Best Served Cold  - Player Handouts</description>
+		<rom name="SRM02-02B - Best Served Cold  - Player Handouts.pdf" size="3173045" crc="03d3fd69" md5="ce97051e9b0e03ac5187b9c5aaf52548" sha1="2967b8e78ae52e2ff9a95b39cc7571f905162534" />
+	</machine>
+	<machine name="SRM02-03A - The Grab">
+		<description>SRM02-03A - The Grab</description>
+		<rom name="SRM02-03A - The Grab.pdf" size="562630" crc="a1d147dd" md5="d5eea8dfc79e5e731d5b3eabed0b66ce" sha1="a0a9f3a0f589449f90ab62c198451a5e8a5d1769" />
+	</machine>
+	<machine name="SRM02-03B - The Grab - Player Handouts">
+		<description>SRM02-03B - The Grab - Player Handouts</description>
+		<rom name="SRM02-03B - The Grab - Player Handouts.pdf" size="1102535" crc="a3a07036" md5="faed3ae57b5f5eebcb2e3c6078ab163c" sha1="e71251735b6975c3cd9de740bfa33fa28856d5a8" />
+	</machine>
+	<machine name="SRM02-04A - Thrash the Body Electric">
+		<description>SRM02-04A - Thrash the Body Electric</description>
+		<rom name="SRM02-04A - Thrash the Body Electric.pdf" size="477003" crc="d719b092" md5="b4e2d43381b835b5c31cca128a8768b8" sha1="6f911c2f3bc1d1e61dc91cd9719247f6e78713eb" />
+	</machine>
+	<machine name="SRM02-04B - Thrash the Body Electric - Player Handouts">
+		<description>SRM02-04B - Thrash the Body Electric - Player Handouts</description>
+		<rom name="SRM02-04B - Thrash the Body Electric - Player Handouts.pdf" size="2269062" crc="5cb53aaa" md5="8ea30d5f72409caf10aa6a7e3db75f5f" sha1="cff3c87019be59c833be7e9ae563cb19c9176e44" />
+	</machine>
+	<machine name="SRM02-05A - Through A Rose Colored Display Link">
+		<description>SRM02-05A - Through A Rose Colored Display Link</description>
+		<rom name="SRM02-05A - Through A Rose Colored Display Link.pdf" size="882300" crc="7a5a2dc0" md5="91c929e6a52ef5fb1bb4fa605a773e7e" sha1="efaf60ea174aef124e3e2f85b0429d3b5b04601d" />
+	</machine>
+	<machine name="SRM02-05B - Through A Rose Colored Display Link - Player Handouts">
+		<description>SRM02-05B - Through A Rose Colored Display Link - Player Handouts</description>
+		<rom name="SRM02-05B - Through A Rose Colored Display Link - Player Handouts.pdf" size="1483372" crc="93e98432" md5="d7bd06c3882a49220ea45f2804fbe1be" sha1="b2c9da5247a519971656d37b253393442615fe32" />
+	</machine>
+	<machine name="SRM02-06A - The Flip Side">
+		<description>SRM02-06A - The Flip Side</description>
+		<rom name="SRM02-06A - The Flip Side.pdf" size="705408" crc="ed418eca" md5="0c0f33c75cf55991cb0c07d83d6fd382" sha1="cb902ba270ed2aabd7a5a0933bfe8a634e6d8221" />
+	</machine>
+	<machine name="SRM02-06B - The Flip Side - Player Handouts">
+		<description>SRM02-06B - The Flip Side - Player Handouts</description>
+		<rom name="SRM02-06B - The Flip Side - Player Handouts.pdf" size="1580618" crc="ee2f3800" md5="7d5e0c06a7dea17289263b6301c12d30" sha1="5bb05359accf400e5dd85c2dacede39de8f037c6" />
+	</machine>
+	<machine name="SRM02-07A - An Ounce Of Prevention">
+		<description>SRM02-07A - An Ounce Of Prevention</description>
+		<rom name="SRM02-07A - An Ounce Of Prevention.pdf" size="850557" crc="f09fef2d" md5="47319b1ffc619ca645495ea213a70766" sha1="8a49212d7a33815ece00aca56eeb062b38ea7dba" />
+	</machine>
+	<machine name="SRM02-07B - An Ounce of Prevention - Player Handouts">
+		<description>SRM02-07B - An Ounce of Prevention - Player Handouts</description>
+		<rom name="SRM02-07B - An Ounce of Prevention - Player Handouts.pdf" size="1302713" crc="de4f68b8" md5="54fc5f826d1a70feff6c90913dfb8f82" sha1="8310146eb4de0f05557e5c66c32d20c78b72df3a" />
+	</machine>
+	<machine name="SRM02-08A - Chasing the Dragon">
+		<description>SRM02-08A - Chasing the Dragon</description>
+		<rom name="SRM02-08A - Chasing the Dragon.pdf" size="1211030" crc="f1c67146" md5="3047436c49b0c94f545ae4b6fc3eb032" sha1="db90c4dcfaf71563f503e543303e83504b6aa0a5" />
+	</machine>
+	<machine name="SRM02-08B - Chasing the Dragon - Player Handouts">
+		<description>SRM02-08B - Chasing the Dragon - Player Handouts</description>
+		<rom name="SRM02-08B - Chasing the Dragon - Player Handouts.pdf" size="1935975" crc="d070d387" md5="bca836cdff331cbeaa45419fc55f5387" sha1="4179c09c90fcd5599d56e85afede8abb7ba91040" />
+	</machine>
+	<machine name="SRM02-09A - Tunnel Vision">
+		<description>SRM02-09A - Tunnel Vision</description>
+		<rom name="SRM02-09A - Tunnel Vision.pdf" size="1068499" crc="1430928b" md5="2a1dd7cdb31ae30e44b1ef310a58a4c2" sha1="81e2037cc142ec443c510704791fa7619965287a" />
+	</machine>
+	<machine name="SRM02-09B - Tunnel Vision - Player Handouts">
+		<description>SRM02-09B - Tunnel Vision - Player Handouts</description>
+		<rom name="SRM02-09B - Tunnel Vision - Player Handouts.pdf" size="714210" crc="92df9fc5" md5="c58400619ab5f86707ffaec8939cc152" sha1="895a424102c1c5bfa8e3f610a58fb6b48028dc9f" />
+	</machine>
+	<machine name="SRM02-10A - Twist and Insult">
+		<description>SRM02-10A - Twist and Insult</description>
+		<rom name="SRM02-10A - Twist and Insult.pdf" size="854678" crc="e32b9082" md5="a49b3bc697d47dd9d379db0600db38a6" sha1="ab14ede9e793bb5866b5c9699c3eda90dce71634" />
+	</machine>
+	<machine name="SRM02-10B - Twist and Insult - Player Handouts">
+		<description>SRM02-10B - Twist and Insult - Player Handouts</description>
+		<rom name="SRM02-10B - Twist and Insult - Player Handouts.pdf" size="1284768" crc="4116562e" md5="fa2504f3435b47c37ac5d3d52199cd42" sha1="01fe6691baeaa0195999a9b25e306124f924b317" />
+	</machine>
+	<machine name="SRM02-11A - Rising Sin">
+		<description>SRM02-11A - Rising Sin</description>
+		<rom name="SRM02-11A - Rising Sin.pdf" size="788680" crc="9fae0389" md5="5504cbaa2d25c35be09dcc8f5a353560" sha1="fc9f021b39eb7c98199562f05d82e15588b41988" />
+	</machine>
+	<machine name="SRM02-11B - Rising Sin - Player Handouts">
+		<description>SRM02-11B - Rising Sin - Player Handouts</description>
+		<rom name="SRM02-11B - Rising Sin - Player Handouts.pdf" size="1257117" crc="694a493e" md5="823fa6c87158715021566dff7f663690" sha1="f738a960176e458429cb302a43e333366facf44a" />
+	</machine>
+	<machine name="SRM02-12A - Winter Wonderland">
+		<description>SRM02-12A - Winter Wonderland</description>
+		<rom name="SRM02-12A - Winter Wonderland.pdf" size="892829" crc="ee0e827f" md5="92cc8f97285542152e68a2e280075ab6" sha1="dd6763a5a05d3c690eb757eb8d78e540c249638b" />
+	</machine>
+	<machine name="SRM02-12B - Winter Wonderland - Player Handouts">
+		<description>SRM02-12B - Winter Wonderland - Player Handouts</description>
+		<rom name="SRM02-12B - Winter Wonderland - Player Handouts.pdf" size="1097721" crc="f89e0629" md5="3c145157ea6db19d156dd80561adf4e9" sha1="f7a02ecc12faac43fc0cc8b3024b6ae1d62dd949" />
+	</machine>
+	<machine name="SRM02-13A - Take Out Service">
+		<description>SRM02-13A - Take Out Service</description>
+		<rom name="SRM02-13A - Take Out Service.pdf" size="664521" crc="48fe82d4" md5="3ba54ac62849f71ded624a4d79027fd5" sha1="3fddd7768f81ed9c0a0f833f805a5a7ea8e07ade" />
+	</machine>
+	<machine name="SRM02-13B - Take Out Service - Player Handouts">
+		<description>SRM02-13B - Take Out Service - Player Handouts</description>
+		<rom name="SRM02-13B - Take Out Service - Player Handouts.pdf" size="1621285" crc="c8b41f83" md5="f81c681eccaeb0b2f80f099bc05df1e3" sha1="70e4b5abb6426e672311ebd8c50d36f8f514f84b" />
+	</machine>
+	<machine name="SRM02-14A - Wetwork Pure and Simple">
+		<description>SRM02-14A - Wetwork Pure and Simple</description>
+		<rom name="SRM02-14A - Wetwork Pure and Simple.pdf" size="867062" crc="b10317fd" md5="7b200460fa736eb0781c06a303a606e5" sha1="6a985286d6d3c80dfde035d95e3ae48cf7612666" />
+	</machine>
+	<machine name="SRM02-14B - Wetwork Pure and Simple - Player Handouts">
+		<description>SRM02-14B - Wetwork Pure and Simple - Player Handouts</description>
+		<rom name="SRM02-14B - Wetwork Pure and Simple - Player Handouts.pdf" size="924824" crc="8a153fee" md5="6490c333887d389826e0ad79ec71522b" sha1="7b273f5867722b1d9b0143c6fdf72cab9d7775cb" />
+	</machine>
+	<machine name="SRM02-15A - Critical Care">
+		<description>SRM02-15A - Critical Care</description>
+		<rom name="SRM02-15A - Critical Care.pdf" size="918631" crc="6d0ecaea" md5="73ad956283929fdae547cbe418be4916" sha1="268ba60ff1e6370161e553406f573a853ce3edba" />
+	</machine>
+	<machine name="SRM02-15B - Critical Care - Player Handouts">
+		<description>SRM02-15B - Critical Care - Player Handouts</description>
+		<rom name="SRM02-15B - Critical Care - Player Handouts.pdf" size="1412735" crc="687e583e" md5="3baf5bc67439f250f8e84195837b04e2" sha1="73709cf01d6f6db656521f4e60a20bd045581f68" />
+	</machine>
+	<machine name="SRM02-16A - Primal Forces">
+		<description>SRM02-16A - Primal Forces</description>
+		<rom name="SRM02-16A - Primal Forces.pdf" size="743640" crc="88ace5bb" md5="5fd4d7a274d59dd003d6b4a2ecdeea13" sha1="560f3363589be201c52d5647d786dfbe4ecc31d7" />
+	</machine>
+	<machine name="SRM02-16B - Primal Forces - Player Handouts">
+		<description>SRM02-16B - Primal Forces - Player Handouts</description>
+		<rom name="SRM02-16B - Primal Forces - Player Handouts.pdf" size="1446080" crc="94f8a273" md5="4d7ebb93ec957c13e90d0ccedc83c689" sha1="2304e24077137754bb76f730f1b4ef70c37f9040" />
+	</machine>
+	<machine name="SRM02-17A - Patient Zero">
+		<description>SRM02-17A - Patient Zero</description>
+		<rom name="SRM02-17A - Patient Zero.pdf" size="904529" crc="99394d43" md5="5efe126125ed7c6733741498f3d7c902" sha1="6b0e86f0c1ffde55483569730edb02f73f6f1d9f" />
+	</machine>
+	<machine name="SRM02-17B - Patient Zero - Player Handouts">
+		<description>SRM02-17B - Patient Zero - Player Handouts</description>
+		<rom name="SRM02-17B - Patient Zero - Player Handouts.pdf" size="1495469" crc="09bd797f" md5="6b01c9623a06ba01104e107d43417b83" sha1="6dccb5da3655bfc8db19df6e12084c82a9d20241" />
+	</machine>
+	<machine name="SRM02-18A - A Very Bad Day">
+		<description>SRM02-18A - A Very Bad Day</description>
+		<rom name="SRM02-18A - A Very Bad Day.pdf" size="835570" crc="2b149b8f" md5="d34aaa3211ec58c0363a17d0b4ec5c04" sha1="d366812d17818b325e1b2dfe3bfe96b9d1943502" />
+	</machine>
+	<machine name="SRM02-18B - A Very Bad Day - Player Handouts">
+		<description>SRM02-18B - A Very Bad Day - Player Handouts</description>
+		<rom name="SRM02-18B - A Very Bad Day - Player Handouts.pdf" size="1018852" crc="1eb794c5" md5="f3559f610a06ae9c2f806e6b55d9b770" sha1="023cf8dc955f3c2617238bdd0eeec6d7fc9780ac" />
+	</machine>
+	<machine name="SRM02-19A - By Any Means Necessary">
+		<description>SRM02-19A - By Any Means Necessary</description>
+		<rom name="SRM02-19A - By Any Means Necessary.pdf" size="772064" crc="bbd44f07" md5="ea45dfe2af339fa8d16004b5695b64b6" sha1="0d111d36474a7b3c43b5756b70e8845bc66333c7" />
+	</machine>
+	<machine name="SRM02-19B - By Any Means Necessary - Player Handouts">
+		<description>SRM02-19B - By Any Means Necessary - Player Handouts</description>
+		<rom name="SRM02-19B - By Any Means Necessary - Player Handouts.pdf" size="1267190" crc="1a51c255" md5="b7696ee82a67b89e6d8dfcf6c55f990f" sha1="6645b370d92148a4182f5839dd4f8366f2883d1e" />
+	</machine>
+	<machine name="SRM02-20A - Career Path">
+		<description>SRM02-20A - Career Path</description>
+		<rom name="SRM02-20A - Career Path.pdf" size="887290" crc="eb12182a" md5="21d23c4239a93bdd474ccba2bfb9ef2d" sha1="f1d7c74e5d1382c7d66744747244d54ed9d38ec0" />
+	</machine>
+	<machine name="SRM02-20B - Career Path - Player Handouts">
+		<description>SRM02-20B - Career Path - Player Handouts</description>
+		<rom name="SRM02-20B - Career Path - Player Handouts.pdf" size="1043903" crc="b2fab90f" md5="a6d07f1f71cc44c92894774664948498" sha1="f7143efd1e1755a69aaf26cdf2035c6c4c07971f" />
+	</machine>
+	<machine name="SRM02-21A - Happenstance">
+		<description>SRM02-21A - Happenstance</description>
+		<rom name="SRM02-21A - Happenstance.pdf" size="1018362" crc="10d78829" md5="c8f49d12f12bad7d3eaeec86f7cef875" sha1="bb37251334436e9260cc727a4110ca91b97d49cb" />
+	</machine>
+	<machine name="SRM02-21B - Happenstance - Player Handouts">
+		<description>SRM02-21B - Happenstance - Player Handouts</description>
+		<rom name="SRM02-21B - Happenstance - Player Handouts.pdf" size="878549" crc="89c1fb4d" md5="e4116e5770312b7ddd944fe8e69f042f" sha1="345b2d755f32f066d874acba7deab647f774a8da" />
+	</machine>
+	<machine name="SRM02-22A - Backlash">
+		<description>SRM02-22A - Backlash</description>
+		<rom name="SRM02-22A - Backlash.pdf" size="665674" crc="65ea0323" md5="aa408e74f70f0b05903691259f2c2d17" sha1="ca77cda4878ccf7b75654b9545d0ea33f9a97274" />
+	</machine>
+	<machine name="SRM02-22B - Backlash - Player Handouts">
+		<description>SRM02-22B - Backlash - Player Handouts</description>
+		<rom name="SRM02-22B - Backlash - Player Handouts.pdf" size="814444" crc="07af805a" md5="6e734709b1b4d0b72ecf9b8cc72721a5" sha1="5f791c015aa03fb80fdbf8ce6bcb4b35bb7f6b93" />
+	</machine>
+	<machine name="SRM02-23A - Prodigal Son">
+		<description>SRM02-23A - Prodigal Son</description>
+		<rom name="SRM02-23A - Prodigal Son.pdf" size="670675" crc="68297f1f" md5="ca555961f9d8e236111de7bcf7155408" sha1="ecd498b631fb00aec2e9b044935c03408ab5237e" />
+	</machine>
+	<machine name="SRM02-23B - Prodigal Son - Player Handouts">
+		<description>SRM02-23B - Prodigal Son - Player Handouts</description>
+		<rom name="SRM02-23B - Prodigal Son - Player Handouts.pdf" size="964842" crc="b4a81f7a" md5="d69d86b4dbe22b8a8ad3a0a0eae5d9b9" sha1="d8dfb9a40e8a372ed0a24072e6d5aefc54154457" />
+	</machine>
+	<machine name="SRM02-24A - Hubris and Humility">
+		<description>SRM02-24A - Hubris and Humility</description>
+		<rom name="SRM02-24A - Hubris and Humility.pdf" size="637541" crc="6bc9ccb4" md5="797121acffe4b5df5871e3adcce1074f" sha1="d82cfd68a745233666f60f84267f2c30c2388f2b" />
+	</machine>
+	<machine name="SRM02-24B - Hubris and Humility - Player Handouts">
+		<description>SRM02-24B - Hubris and Humility - Player Handouts</description>
+		<rom name="SRM02-24B - Hubris and Humility - Player Handouts.pdf" size="852445" crc="4b1749de" md5="67a9bc429b4d8dfceccc23d699b21697" sha1="6621abb038460e8372ccb65e76fb75aa96a4842a" />
+	</machine>
+	<machine name="SRM02-25A - Done Deal">
+		<description>SRM02-25A - Done Deal</description>
+		<rom name="SRM02-25A - Done Deal.pdf" size="1414772" crc="ee38eedd" md5="fee9c47add4582deed5e30367927fb23" sha1="b93467648559aa7556871c0439ea3b362c13200a" />
+	</machine>
+	<machine name="SRM02-25B - Done Deal - Player Handouts">
+		<description>SRM02-25B - Done Deal - Player Handouts</description>
+		<rom name="SRM02-25B - Done Deal - Player Handouts.pdf" size="1216044" crc="4dcac064" md5="9bbc87b30dbc6deed579585317ff9f8c" sha1="ae973ac22a455ee5499fccf5ccba425e3ed41e5a" />
+	</machine>
+	<machine name="SRM03-00 - Everyone's Your Friend">
+		<description>SRM03-00 - Everyone's Your Friend</description>
+		<rom name="SRM03-00 - Everyone's Your Friend.pdf" size="3092492" crc="8c372137" md5="958b712727b32b9df8927cc5cb653bfa" sha1="cef34b5355d497bbef4c3493488b14c38e613af1" />
+	</machine>
+	<machine name="SRM03-01 - Ready, Set, Gohg!">
+		<description>SRM03-01 - Ready, Set, Gohg!</description>
+		<rom name="SRM03-01 - Ready, Set, Gohg!.pdf" size="3034325" crc="4241e75b" md5="ac65b43ab238d7d572f0a7825e7ac5a0" sha1="2bca197028b13b1574bba61414e8cdcce7331da6" />
+	</machine>
+	<machine name="SRM03-02 - Block War">
+		<description>SRM03-02 - Block War</description>
+		<rom name="SRM03-02 - Block War.pdf" size="2753322" crc="3ff732f7" md5="652dc183e4381b1d5433ef282b4e3e85" sha1="5e10f3c7525750f53248780a25a2c0ebf51e5974" />
+	</machine>
+	<machine name="SRM03-03 - Burning Bridges">
+		<description>SRM03-03 - Burning Bridges</description>
+		<rom name="SRM03-03 - Burning Bridges.pdf" size="3415576" crc="0aa5185a" md5="481ff3af174d07d495275d8a02b84bd2" sha1="dac044955a03dee6569fb74f4602bc05b9f678f8" />
+	</machine>
+	<machine name="SRM03-04 - Monkeywrench">
+		<description>SRM03-04 - Monkeywrench</description>
+		<rom name="SRM03-04 - Monkeywrench.pdf" size="3501671" crc="5983ed94" md5="58af32378d9ab99483e42f2152bc8713" sha1="8e651be6952968457b94b5fb609a2eebcbcd0662" />
+	</machine>
+	<machine name="SRM03-05 - In and Out">
+		<description>SRM03-05 - In and Out</description>
+		<rom name="SRM03-05 - In and Out.pdf" size="4002116" crc="46d84b44" md5="8350aac845fc94e59bdf7f1f33b3faa2" sha1="5e63a2ea0362d7bd1b7010474043dc902d430ae5" />
+	</machine>
+	<machine name="SRM03-06 - Jacknifed">
+		<description>SRM03-06 - Jacknifed</description>
+		<rom name="SRM03-06 - Jacknifed.pdf" size="2345477" crc="3914f51a" md5="a9cfafa4167656c48f251a0077d88675" sha1="e6259fbfce47c25cac97d1a1d2a797617aa051d6" />
+	</machine>
+	<machine name="SRM03-07 - Knight at the Opera">
+		<description>SRM03-07 - Knight at the Opera</description>
+		<rom name="SRM03-07 - Knight at the Opera.pdf" size="2589855" crc="9ba2a0f3" md5="3e1c4eb128c7d327e016f2951e2fc2ea" sha1="beff19529ffa3f69a55cdc71d7641ac2ad3c4d0c" />
+	</machine>
+	<machine name="SRM03-08 - Firestorm">
+		<description>SRM03-08 - Firestorm</description>
+		<rom name="SRM03-08 - Firestorm.pdf" size="3067432" crc="e586d2cc" md5="bae872bb7aed1449d3782db8499ed1c1" sha1="1cf205b3e31e9e912bbd60fb54d95d83c40b86e0" />
+	</machine>
+	<machine name="SRM03-09 - Something Completely Different">
+		<description>SRM03-09 - Something Completely Different</description>
+		<rom name="SRM03-09 - Something Completely Different.pdf" size="2484225" crc="569b431a" md5="5b8b568d9bcd5a0edb479493778c2707" sha1="8e743260f40a2a6784f38133cc267c4f0155a9c7" />
+	</machine>
+	<machine name="SRM03-10 - Spin Control">
+		<description>SRM03-10 - Spin Control</description>
+		<rom name="SRM03-10 - Spin Control.pdf" size="3233084" crc="d793ff1b" md5="e9e25abff91fedd25162ad84ee86fbe7" sha1="ae072fad073cea679513489489bfbe560fc3f382" />
+	</machine>
+	<machine name="SRM03-11 - Food Poisoning">
+		<description>SRM03-11 - Food Poisoning</description>
+		<rom name="SRM03-11 - Food Poisoning.pdf" size="3171796" crc="cb2e259d" md5="a83bf1643d3f888673b87f6b92455134" sha1="b2aae6a5301e6ad92a6f83e5ec05ff526ebdbb54" />
+	</machine>
+	<machine name="SRM03-12 - Elevator Ride to Hell">
+		<description>SRM03-12 - Elevator Ride to Hell</description>
+		<rom name="SRM03-12 - Elevator Ride to Hell.pdf" size="2958616" crc="49c376e1" md5="27eea409d0a8fa2a922947714f48ba12" sha1="3877375835469f8f1b0d8f1456879293a6599b7e" />
+	</machine>
+	<machine name="SRM04-00 - Back In Business">
+		<description>SRM04-00 - Back In Business</description>
+		<rom name="SRM04-00 - Back In Business.pdf" size="8119418" crc="77285118" md5="9eb8cfed729c68de3d64bb07ed2354d8" sha1="c28d7b2afa54143ec8b0edf6a73f47d5ef87e3c5" />
+	</machine>
+	<machine name="SRM04-01 - Hiding in the Dark (Buried Underground, Part 1)">
+		<description>SRM04-01 - Hiding in the Dark (Buried Underground, Part 1)</description>
+		<rom name="SRM04-01 - Hiding in the Dark (Buried Underground, Part 1).pdf" size="4253669" crc="fe5e3f7c" md5="79c8e9a08336a18a1a9032d346e00489" sha1="ba414dd06f23edad4f16bc0b1d2d8ed80a1acb8d" />
+	</machine>
+	<machine name="SRM04-02 - Extraction (Artifact Rush, Part 1)">
+		<description>SRM04-02 - Extraction (Artifact Rush, Part 1)</description>
+		<rom name="SRM04-02 - Extraction (Artifact Rush, Part 1).pdf" size="3791813" crc="2f036b49" md5="e6b3dd4789ef0bacd8497abd930af515" sha1="a4b1438d4d0c578691324ab6f292564f484bdf7a" />
+	</machine>
+	<machine name="SRM04-03 - Rally Cry (Buried Underground, Part 2)">
+		<description>SRM04-03 - Rally Cry (Buried Underground, Part 2)</description>
+		<rom name="SRM04-03 - Rally Cry (Buried Underground, Part 2).pdf" size="3812147" crc="990e3634" md5="4ba27f4717fa3b1c029cb5cca595710a" sha1="9dbf8f57d7ca419c89281f2ff6e6cc30cf6a2ae0" />
+	</machine>
+	<machine name="SRM04-04 - Smugglers Blues (Artifact Rush, Part 2)">
+		<description>SRM04-04 - Smugglers Blues (Artifact Rush, Part 2)</description>
+		<rom name="SRM04-04 - Smugglers Blues (Artifact Rush, Part 2).pdf" size="2617632" crc="381b7b71" md5="f537333195ec761f302bb8ad4b30cba0" sha1="91aee5323887088584847017c0d2aa934827087f" />
+	</machine>
+	<machine name="SRM04-05 - Copycat Killer (Prequel)">
+		<description>SRM04-05 - Copycat Killer (Prequel)</description>
+		<rom name="SRM04-05 - Copycat Killer (Prequel).pdf" size="2247578" crc="855dc90a" md5="ee92fe979318a248660beeb75b8e84ae" sha1="9c35d48d15795b8568ee62246de5eb3d5962c038" />
+	</machine>
+	<machine name="SRM04-05 - On a Silver Platter (Buried Underground, Part 3)">
+		<description>SRM04-05 - On a Silver Platter (Buried Underground, Part 3)</description>
+		<rom name="SRM04-05 - On a Silver Platter (Buried Underground, Part 3).pdf" size="4082352" crc="755ca5c0" md5="a0a784e4a5f9933f89bbd5ab4292ce3b" sha1="d6800365e0b15e7a37f699d48b627b4df0226d73" />
+	</machine>
+	<machine name="SRM04-06 - Hard Target (Artifact Rush, Part 3)">
+		<description>SRM04-06 - Hard Target (Artifact Rush, Part 3)</description>
+		<rom name="SRM04-06 - Hard Target (Artifact Rush, Part 3).pdf" size="3770630" crc="4d4fd6b3" md5="6fa0d8aa6400ed4356ac3a11dfaa1f7a" sha1="12297882f135790d13d9ca36e2491e6e570ebf27" />
+	</machine>
+	<machine name="SRM04-07 - Burn (Buried Underground, Part 4)">
+		<description>SRM04-07 - Burn (Buried Underground, Part 4)</description>
+		<rom name="SRM04-07 - Burn (Buried Underground, Part 4).pdf" size="3788206" crc="92bc2aa7" md5="d26d0772b4b48df1a3eb50f97392e27a" sha1="5d8b163c3e8d5de0d5c7f497f4c2c9d2a678607c" />
+	</machine>
+	<machine name="SRM04-08 - Brothers United (Artifact Rush, Part 4)">
+		<description>SRM04-08 - Brothers United (Artifact Rush, Part 4)</description>
+		<rom name="SRM04-08 - Brothers United (Artifact Rush, Part 4).pdf" size="5292250" crc="bb4a579d" md5="1b60ae2969203a93a2fa9009bac84beb" sha1="b07ce4af8aa5e2b0c69ce8a92ee1875b1d41bdc1" />
+	</machine>
+	<machine name="SRM04-09 - Assassin Nation (Buried Underground, Part 5)">
+		<description>SRM04-09 - Assassin Nation (Buried Underground, Part 5)</description>
+		<rom name="SRM04-09 - Assassin Nation (Buried Underground, Part 5).pdf" size="8332439" crc="5d1f620d" md5="301f81fdb436fc8f667f170d81395e18" sha1="dc3f28aecab6cfa5bedd550f013bd2a59abda445" />
+	</machine>
+	<machine name="SRM04-10 - Romero &amp; Juliette (Artifact Rush, Part 5)">
+		<description>SRM04-10 - Romero &amp; Juliette (Artifact Rush, Part 5)</description>
+		<rom name="SRM04-10 - Romero &amp; Juliette (Artifact Rush, Part 5).pdf" size="2506227" crc="3822ba65" md5="64df960b7c240499e609c138967fcb5f" sha1="aa194bb212846ea19d77d8cae2b792a539ef06cb" />
+	</machine>
+	<machine name="SRM04-11 - Election Day (Buried Underground, Part 6)">
+		<description>SRM04-11 - Election Day (Buried Underground, Part 6)</description>
+		<rom name="SRM04-11 - Election Day (Buried Underground, Part 6).pdf" size="5130777" crc="4ae13fc1" md5="994c7c25a7a6f580ac6e14088f91db90" sha1="4231efffc95ea2b4597f4cf776356e989afbbdba" />
+	</machine>
+	<machine name="SRM04-12 - Showcase (Artifact Rush, Part 6)">
+		<description>SRM04-12 - Showcase (Artifact Rush, Part 6)</description>
+		<rom name="SRM04-12 - Showcase (Artifact Rush, Part 6).pdf" size="3730008" crc="1ae5416f" md5="81a64f9fa6ec8dcbf87c0a40ee778790" sha1="dca2d28b95e853173afc3b3d2b267def38d96004" />
+	</machine>
+</datafile>

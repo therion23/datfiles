@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - 4th and 5th Edition</name>
+		<description>Shadowrun - 4th and 5th Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="CAT26S027 - Bullets &amp; Bandages">
+		<description>CAT26S027 - Bullets &amp; Bandages</description>
+		<rom name="CAT26S027 - Bullets &amp; Bandages.pdf" size="8981324" crc="3c471f85" md5="e435a4344984f69bbcae33795874daf5" sha1="9e9dad107555d5d83b41717e79b72c01a133acb1" />
+	</machine>
+	<machine name="CAT26S032 - Aetherology">
+		<description>CAT26S032 - Aetherology</description>
+		<rom name="CAT26S032 - Aetherology.pdf" size="5295179" crc="47369288" md5="494464bc5b2a7e7eef31c8cc5a6718af" sha1="e33ca0695733391c7a24c4668314d85f5bc712e8" />
+	</machine>
+	<machine name="CAT26S040 - Gun H(e)aven 3">
+		<description>CAT26S040 - Gun H(e)aven 3</description>
+		<rom name="CAT26S040 - Gun H(e)aven 3.pdf" size="8766604" crc="3e2efbe1" md5="4370f39d0a05da24466f22ad4dfd5b8f" sha1="42ef46dfdbec38d3b344f7b32d8b19dd9567f450" />
+	</machine>
+	<machine name="CAT27409 - Boardroom Backstabs 3 - Battle of Manhattan">
+		<description>CAT27409 - Boardroom Backstabs 3 - Battle of Manhattan</description>
+		<rom name="CAT27409 - Boardroom Backstabs 3 - Battle of Manhattan.pdf" size="25022218" crc="480f86dc" md5="af7b9566a0ed5add85ff231a1f7d0534" sha1="b26ef6b5de00345664f5a7ea99dfc1064036c9f7" />
+	</machine>
+	<machine name="CAT27480 - Sprawl Wilds">
+		<description>CAT27480 - Sprawl Wilds</description>
+		<rom name="CAT27480 - Sprawl Wilds.pdf" size="11441395" crc="7d82dd54" md5="fb85ca8b8f3ca3b1c204a18b81c90db1" sha1="1e103f96479bd2fb7c6da7bc1ca9ba3d0d1a9cf2" />
+	</machine>
+	<machine name="CAT27481 - Firing Line">
+		<description>CAT27481 - Firing Line</description>
+		<rom name="CAT27481 - Firing Line.pdf" size="5138899" crc="de9f6229" md5="73adcdf70152318c4183f3eaa8bdaa58" sha1="101a92bea80ee4f98e71f29adcc76b3b258ea966" />
+	</machine>
+	<machine name="CAT27482 - London Falling">
+		<description>CAT27482 - London Falling</description>
+		<rom name="CAT27482 - London Falling.pdf" size="8317098" crc="d3da707a" md5="e538dd662598a085bb0943d49f998f30" sha1="2061504314c8be3d5c00433e0daeeb6604e9b0fe" />
+	</machine>
+	<machine name="CAT27CCG - SR4 to SR5 Character Conversion Guide">
+		<description>CAT27CCG - SR4 to SR5 Character Conversion Guide</description>
+		<rom name="CAT27CCG - SR4 to SR5 Character Conversion Guide.pdf" size="283092" crc="64918cf6" md5="64189e5d739a07f2e24f8fc2411854a3" sha1="2ad903e2aa59a5b356960a3a168779aa7214ccf1" />
+	</machine>
+</datafile>

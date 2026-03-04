@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - Assorted</name>
+		<description>Shadowrun - Assorted</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="CAT27454 - Neo-Anarchist Streetpedia">
+		<description>CAT27454 - Neo-Anarchist Streetpedia</description>
+		<rom name="CAT27454 - Neo-Anarchist Streetpedia.pdf" size="6901778" crc="c403cdbc" md5="4eb8c61da00896fff379dc9a0a402f37" sha1="005152321bf87d6133bc1376bfd92bae2c3344d8" />
+	</machine>
+</datafile>

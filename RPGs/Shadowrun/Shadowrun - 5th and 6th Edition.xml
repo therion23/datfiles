@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - 5th and 6th Edition</name>
+		<description>Shadowrun - 5th and 6th Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="CAT27002S - Krime Katalog">
+		<description>CAT27002S - Krime Katalog</description>
+		<rom name="CAT27002S - Krime Katalog.pdf" size="2022276" crc="37fcaad7" md5="b740ed27e290322ce51d65581148e74e" sha1="0c48cc0000afcbee2078b05a1bfc196e1a2717cb" />
+	</machine>
+	<machine name="SRM0902 - Finders Keepers">
+		<description>SRM0902 - Finders Keepers</description>
+		<rom name="SRM0902 - Finders Keepers.pdf" size="916221" crc="aec0e664" md5="4e585e0224e62001e8afdc4ac0e1a437" sha1="683637e2feeb7bb36493a02612f8c655d7616472" />
+	</machine>
+	<machine name="SRM0903 - Learning Little from Victory">
+		<description>SRM0903 - Learning Little from Victory</description>
+		<rom name="SRM0903 - Learning Little from Victory.pdf" size="1416712" crc="e5c98e39" md5="c4902b704a38bb6aaee64fd45b6484a3" sha1="fc545321149b350ccf0b44b0bfc6968305236f4a" />
+	</machine>
+</datafile>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - 1st and 2nd Edition</name>
+		<description>Shadowrun - 1st and 2nd Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="FASA7104 - Street Samurai Catalog (Revised)">
+		<description>FASA7104 - Street Samurai Catalog (Revised)</description>
+		<rom name="FASA7104 - Street Samurai Catalog (Revised).pdf" size="7257596" crc="2cc5bf97" md5="345d5333822d2c58da602d8a65efbb3e" sha1="9913deb05cba1452cc6e700c0f5a0edc75838abc" />
+	</machine>
+	<machine name="FASA7113 - Corporate Shadowfiles">
+		<description>FASA7113 - Corporate Shadowfiles</description>
+		<rom name="FASA7113 - Corporate Shadowfiles.pdf" size="85463104" crc="20a5f4f4" md5="badf3786a4e9dcbbe5d9db5b75f80bce" sha1="1ee830ac76f38abeb4ee958927054e04db635f37" />
+	</machine>
+	<machine name="FASA7208 - The Neo-Anarchists Guide to Real Life">
+		<description>FASA7208 - The Neo-Anarchists Guide to Real Life</description>
+		<rom name="FASA7208 - The Neo-Anarchists Guide to Real Life.pdf" size="40126972" crc="aa07f1ec" md5="244f4aece28576ba32081674cf583d77" sha1="d9bfafb73f687dba92f783975687e61294821621" />
+	</machine>
+	<machine name="FASA7309 - Imago">
+		<description>FASA7309 - Imago</description>
+		<rom name="FASA7309 - Imago.pdf" size="28915603" crc="b69dca37" md5="d23d385fb9622771b6ae71754ebb94d0" sha1="beb2b4cc188181112d9c929d7a9900f3ae086650" />
+	</machine>
+	<machine name="FASA7312 - One Stage Before">
+		<description>FASA7312 - One Stage Before</description>
+		<rom name="FASA7312 - One Stage Before.pdf" size="8935958" crc="054711fd" md5="25ab1120e8fc56faed9d58de4212560b" sha1="4cbc9da5aa9a63843271b88d257420b4407f9250" />
+	</machine>
+	<machine name="FASA7313 - Dark Angel">
+		<description>FASA7313 - Dark Angel</description>
+		<rom name="FASA7313 - Dark Angel.pdf" size="5565616" crc="46f61df7" md5="1faad0bd4b7592f1cb96b68f88cc7818" sha1="824ee97b31d252d064db8400bcd4cfe44daa7cb1" />
+	</machine>
+	<machine name="FASA7314 - A Killing Glare">
+		<description>FASA7314 - A Killing Glare</description>
+		<rom name="FASA7314 - A Killing Glare.pdf" size="9714107" crc="ceba7a4f" md5="d41f1c0c461efd4ecdb236a49bf072ec" sha1="a50f5374974ce1ce60dfc42491e5baff1fd6c7c0" />
+	</machine>
+	<machine name="FASA7315 - Celtic Double Cross">
+		<description>FASA7315 - Celtic Double Cross</description>
+		<rom name="FASA7315 - Celtic Double Cross.pdf" size="28321042" crc="a683b6b4" md5="aa1bfc1a4a06affb5fcbe2047a3a00dd" sha1="5d2fde34b9573f894fd1819bfa556c1819f0817b" />
+	</machine>
+	<machine name="FASA7316 - Eye Witness">
+		<description>FASA7316 - Eye Witness</description>
+		<rom name="FASA7316 - Eye Witness.pdf" size="17041127" crc="3710b314" md5="999d43ec8c4886e7a6d948dcac4106bd" sha1="98c7a5b853e9e4bc947ffae513a370ae275c11a7" />
+	</machine>
+	<machine name="FASA7319 - Double Exposure">
+		<description>FASA7319 - Double Exposure</description>
+		<rom name="FASA7319 - Double Exposure.pdf" size="9156042" crc="d82fde42" md5="25c5c23bd886dcd2bc9b066dc6f6ba27" sha1="b3463fdfaf901690e16571945170d0df21abbade" />
+	</machine>
+</datafile>

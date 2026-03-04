@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Shadowrun - 3rd Edition</name>
+		<description>Shadowrun - 3rd Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-04</version>
+		<date>2026-03-04</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="25011 - Shadows of Latin America (v1.03) (Cancelled)">
+		<description>25011 - Shadows of Latin America (v1.03) (Cancelled)</description>
+		<rom name="25011 - Shadows of Latin America (v1.03) (Cancelled).pdf" size="37289018" crc="d4d7d858" md5="9ce3561273a8f4feb8f8c099e07b2035" sha1="b6fdff43f7a03eae38eea0a3ca35f62d828df776" />
+	</machine>
+	<machine name="25011 - Shadows of Latin America (v1.2) (Cancelled)">
+		<description>25011 - Shadows of Latin America (v1.2) (Cancelled)</description>
+		<rom name="25011 - Shadows of Latin America (v1.2) (Cancelled).pdf" size="87753968" crc="e9534fe1" md5="7b9a3ca651ab56f04a4f7384e56a1e06" sha1="5fe5d5d7b18ec4ccf4a119af954b009613432e4b" />
+	</machine>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="164" crc="efb368d8" md5="996899dfd1ca0916877062ae430b2210" sha1="0cac437e070a0ed1fc4a4763145430a26924e4ae" />
+	</machine>
+	<machine name="FanPro10650 - Year of the Comet">
+		<description>FanPro10650 - Year of the Comet</description>
+		<rom name="FanPro10650 - Year of the Comet.pdf" size="57365463" crc="e5372ee3" md5="2b72223f19910b9a8feef302fdb55096" sha1="9c33ba5a9b43384a5669b2114fcce0e52f748f81" />
+	</machine>
+	<machine name="FanPro10651 - Target Awakened Lands">
+		<description>FanPro10651 - Target Awakened Lands</description>
+		<rom name="FanPro10651 - Target Awakened Lands.pdf" size="46034462" crc="22100a66" md5="a9d7943ab7019125a52394ff81a9e746" sha1="8263ed501f5f0933661681290decada8f25cb99a" />
+	</machine>
+	<machine name="FanPro10652 - Threats 2">
+		<description>FanPro10652 - Threats 2</description>
+		<rom name="FanPro10652 - Threats 2.pdf" size="27228510" crc="8c769a8e" md5="14d6c032fbd5a268cb1fb9ff75f7a07e" sha1="519a2ce44b0ad869a6e21e652696a590f29504eb" />
+	</machine>
+	<machine name="FanPro10653 - Target Wastelands">
+		<description>FanPro10653 - Target Wastelands</description>
+		<rom name="FanPro10653 - Target Wastelands.pdf" size="32187364" crc="d166c2ce" md5="04376929b91934d521f66a42004a9f89" sha1="e3c4517356efc00fd5d07a394909fc500e55561b" />
+	</machine>
+	<machine name="FanPro10654 - Wake Of The Comet">
+		<description>FanPro10654 - Wake Of The Comet</description>
+		<rom name="FanPro10654 - Wake Of The Comet.pdf" size="16947048" crc="f3175c5e" md5="9a2fc4c93d1bf390ec75786d374da458" sha1="2a6e66cd069ebf7b69c916cecb2c5a20fe0f30f0" />
+	</machine>
+	<machine name="FanPro10655 - Shadows Of North America">
+		<description>FanPro10655 - Shadows Of North America</description>
+		<rom name="FanPro10655 - Shadows Of North America.pdf" size="137858864" crc="c8ccc822" md5="0bae6f61c3faaa2c823357a2d4aecc40" sha1="cab01f29ab23b98c061979af1bc6a824ca4319c3" />
+	</machine>
+	<machine name="FanPro10657 - New Seattle">
+		<description>FanPro10657 - New Seattle</description>
+		<rom name="FanPro10657 - New Seattle.pdf" size="48372552" crc="5d61da04" md5="d45df2213d438a65459cbe33398ee55c" sha1="4d37d99d70c8cfd2617de2f37204c97dbd967d3b" />
+	</machine>
+	<machine name="FanPro10662 - Rigger 3 Revised">
+		<description>FanPro10662 - Rigger 3 Revised</description>
+		<rom name="FanPro10662 - Rigger 3 Revised.pdf" size="44807740" crc="7d15b91f" md5="cceb6b0d859323df76b54c81d72e54f1" sha1="7dc01daa5dbf43bf87339cb3c4646e4733b6e5a2" />
+	</machine>
+	<machine name="FanPro10664 - State Of The Art - 2063">
+		<description>FanPro10664 - State Of The Art - 2063</description>
+		<rom name="FanPro10664 - State Of The Art - 2063.pdf" size="40169281" crc="8a723d1a" md5="0390eba5c87072a1af955a51e29200c3" sha1="891800f00b6464eb04f443afe876402389d8fb04" />
+	</machine>
+	<machine name="FanPro10665 - Survival of the Fittest">
+		<description>FanPro10665 - Survival of the Fittest</description>
+		<rom name="FanPro10665 - Survival of the Fittest.pdf" size="31331771" crc="145d4dcf" md5="cd5f28743a931a499e223c0baf52a1f6" sha1="27958e3205c27f23e8c6d3c0965e2169f705fe2b" />
+	</machine>
+	<machine name="FanPro10666 - Dragons of the Sixth World">
+		<description>FanPro10666 - Dragons of the Sixth World</description>
+		<rom name="FanPro10666 - Dragons of the Sixth World.pdf" size="86747283" crc="a238ef51" md5="5e7182c6ed3886261526f9b37b7d9186" sha1="16b0454921f388b87a3a934b9f733f8b958cee28" />
+	</machine>
+	<machine name="FanPro10667 - Sprawl Survival Guide">
+		<description>FanPro10667 - Sprawl Survival Guide</description>
+		<rom name="FanPro10667 - Sprawl Survival Guide.pdf" size="33709885" crc="994cc96d" md5="a5fc4333cb052d5fbcf477c2561dca2a" sha1="8a2fbea4e77e5b265d1d9cc99fab549afcc561c3" />
+	</machine>
+	<machine name="FanPro10673 - Shadowrun Character Dossier">
+		<description>FanPro10673 - Shadowrun Character Dossier</description>
+		<rom name="FanPro10673 - Shadowrun Character Dossier.pdf" size="16526247" crc="89198dee" md5="d55fd5740a450fe11c2cce72124fe59e" sha1="71c5ae714380f224a89e9b3ee020c892e545b45f" />
+	</machine>
+	<machine name="FanPro25000 - Shadowrun Third Edition">
+		<description>FanPro25000 - Shadowrun Third Edition</description>
+		<rom name="FanPro25000 - Shadowrun Third Edition.pdf" size="13252554" crc="d3536fb2" md5="f3efc6fce1d8c456d9b64604cd6fc6ed" sha1="6765ec2c07cdc0a981c593186d391713c6cf9ba2" />
+	</machine>
+	<machine name="FanPro25001 - Man &amp; Machine">
+		<description>FanPro25001 - Man &amp; Machine</description>
+		<rom name="FanPro25001 - Man &amp; Machine.pdf" size="7643576" crc="57ad11f6" md5="b27e8112d4214e51a3a61d5ec52f9b3e" sha1="7f68a5bbaea505c325a8a3136862497c8f679de4" />
+	</machine>
+	<machine name="FanPro25002 - Shadows of Europe">
+		<description>FanPro25002 - Shadows of Europe</description>
+		<rom name="FanPro25002 - Shadows of Europe.pdf" size="44839740" crc="5105efaa" md5="39579ec4c3025380f040f2f2ba0723b4" sha1="7b5c207c7919309e8d406dc1b79282ae7e3bd7c1" />
+	</machine>
+	<machine name="FanPro25003 - Mr. Johnson's Little Black Book">
+		<description>FanPro25003 - Mr. Johnson's Little Black Book</description>
+		<rom name="FanPro25003 - Mr. Johnson's Little Black Book.pdf" size="30787737" crc="2f21dd70" md5="212cd369073247bf7c98c67f5841f9bf" sha1="2ddcac39e3a1ceaa675d1c503db210742e49389e" />
+	</machine>
+	<machine name="FanPro25004 - State of the Art - 2064">
+		<description>FanPro25004 - State of the Art - 2064</description>
+		<rom name="FanPro25004 - State of the Art - 2064.pdf" size="74636882" crc="09cce583" md5="76d7749284e0bebf1c8e832baa158d5b" sha1="15a595063559cbface06d47e8d4f8623254d7e42" />
+	</machine>
+	<machine name="FanPro25006 - Loose Alliances">
+		<description>FanPro25006 - Loose Alliances</description>
+		<rom name="FanPro25006 - Loose Alliances.pdf" size="4547348" crc="7605f6a7" md5="55acaea7ba984ffa4ade9c0503111efd" sha1="849703d971722ef3208f1b7a7b8c69bcfb54de54" />
+	</machine>
+	<machine name="FanPro25007 - Shadows of Asia">
+		<description>FanPro25007 - Shadows of Asia</description>
+		<rom name="FanPro25007 - Shadows of Asia.pdf" size="16290405" crc="59aded32" md5="db286a80e71a8028593bf4d7c757a93b" sha1="ac2d35b88f7e644cef22b9f1fff1ae9b17854b81" />
+	</machine>
+	<machine name="FanPro25010 - Shadowrun Companion">
+		<description>FanPro25010 - Shadowrun Companion</description>
+		<rom name="FanPro25010 - Shadowrun Companion.pdf" size="6344240" crc="9ca8e232" md5="d65be27c838426d3280a0fa2c8b42dec" sha1="37491b6ad2026896e8f2cc81af6514c439e99699" />
+	</machine>
+	<machine name="FanPro25014 - System Failure">
+		<description>FanPro25014 - System Failure</description>
+		<rom name="FanPro25014 - System Failure.pdf" size="9540992" crc="e062ca7f" md5="e3cbbbf63e8e7b7e1ca1f16fc9fca449" sha1="af79d19660d578503be883d818d5a574ebbb1136" />
+	</machine>
+	<machine name="FASA7001 - Shadowrun Third Edition [w]">
+		<description>FASA7001 - Shadowrun Third Edition [w]</description>
+		<rom name="FASA7001 - Shadowrun Third Edition [w].pdf" size="112507704" crc="3cf9c00d" md5="7cdadfcb51ceca45ae8fa2ad9eacb5e9" sha1="036da9e14437e5b297fa95a3220ae5077c4b1fed" />
+	</machine>
+	<machine name="FASA7002 - Critters">
+		<description>FASA7002 - Critters</description>
+		<rom name="FASA7002 - Critters.pdf" size="17297944" crc="309a3821" md5="09cb080ecf9445d938971220ff84d826" sha1="3d38cb37e3f7746aaedaffefa0a1643f03280277" />
+	</machine>
+	<machine name="FASA7002 - Gamemaster's Screen">
+		<description>FASA7002 - Gamemaster's Screen</description>
+		<rom name="FASA7002 - Gamemaster's Screen.pdf" size="1263882" crc="10b3a73b" md5="4bccddaaa0d894be338fed9824cdbbc3" sha1="fea85feb25fbaa47e15dfb15c55df6d612490304" />
+	</machine>
+	<machine name="FASA7003 - Quick Start Rules">
+		<description>FASA7003 - Quick Start Rules</description>
+		<rom name="FASA7003 - Quick Start Rules.pdf" size="21816930" crc="ffb55d66" md5="0af942989a0380643fa8b4005412bb92" sha1="f8734b9013a03f5cb0341de8b9c375f8603098c2" />
+	</machine>
+	<machine name="FASA7125 - Corporate Download">
+		<description>FASA7125 - Corporate Download</description>
+		<rom name="FASA7125 - Corporate Download.pdf" size="29857324" crc="48e80992" md5="4d964c7fd327c577b6c2f2cd7d3310ab" sha1="32993b46e74a221a3592e9371052177b58877b63" />
+	</machine>
+	<machine name="FASA7126 - Man &amp; Machine - Cyberware">
+		<description>FASA7126 - Man &amp; Machine - Cyberware</description>
+		<rom name="FASA7126 - Man &amp; Machine - Cyberware.pdf" size="40987016" crc="cbdd40ab" md5="dd83e2bd6dca95e64af2c6ce7a9fa153" sha1="8f7d6be41e21247c066d166d29e6030c401cba59" />
+	</machine>
+	<machine name="FASA7219 - Target Matrix">
+		<description>FASA7219 - Target Matrix</description>
+		<rom name="FASA7219 - Target Matrix.pdf" size="47312706" crc="e30f722e" md5="ca8afab21ea7c09763cb2f6b1cd0ffe0" sha1="999603aadbcc172976c3795104c47f1dc3da1ab6" />
+	</machine>
+	<machine name="FASA7328 - Renraku Arkology Shutdown">
+		<description>FASA7328 - Renraku Arkology Shutdown</description>
+		<rom name="FASA7328 - Renraku Arkology Shutdown.pdf" size="11986325" crc="0a31a501" md5="839c1b810f316e72f72100e7b626069b" sha1="beb2755b7b9311df5db1b899a01589ff734a41aa" />
+	</machine>
+	<machine name="FASA7329 - First Run">
+		<description>FASA7329 - First Run</description>
+		<rom name="FASA7329 - First Run.pdf" size="38285961" crc="b279795f" md5="738b8d0bef232dec37d1e08905cd0aa0" sha1="63a9810e00c84c5e307d4fa5f51a7857ea92a4d0" />
+	</machine>
+	<machine name="FASA7330 - Corporate Punishment">
+		<description>FASA7330 - Corporate Punishment</description>
+		<rom name="FASA7330 - Corporate Punishment.pdf" size="26915371" crc="8b856ead" md5="22132e50cacb918061bd3a078ebf04c4" sha1="f77470110a894db2737e9962e6c9afd3f027af59" />
+	</machine>
+	<machine name="FASA7331 - Brainscan">
+		<description>FASA7331 - Brainscan</description>
+		<rom name="FASA7331 - Brainscan.pdf" size="53800867" crc="bc783e4a" md5="53a3181d72a81b6fc220b492f41d6249" sha1="dae285d6f638272be609ebaea08a4ce640060f84" />
+	</machine>
+	<machine name="FASA7905 - Shadowrun Companion">
+		<description>FASA7905 - Shadowrun Companion</description>
+		<rom name="FASA7905 - Shadowrun Companion.pdf" size="19183322" crc="5f9179d9" md5="47bfde97e71c3bcd654495b8c570af25" sha1="b1e6457d59c98011f1db1511ed6fc9d1542d61ff" />
+	</machine>
+	<machine name="FASA7907 - Magic in the shadows">
+		<description>FASA7907 - Magic in the shadows</description>
+		<rom name="FASA7907 - Magic in the shadows.pdf" size="122119059" crc="2ac19995" md5="a46d451b4f9b878043053da3100f64e8" sha1="66f09ffcdbc711d1fbc240c592677b1bb89d80eb" />
+	</machine>
+	<machine name="FASA7908 - Cannon Companion">
+		<description>FASA7908 - Cannon Companion</description>
+		<rom name="FASA7908 - Cannon Companion.pdf" size="80938274" crc="00364e08" md5="7e8b223022d26b4f7c6a1311c0b41e51" sha1="9f7e79d4911aaec2fb54446d33878afcc05e276b" />
+	</machine>
+	<machine name="FASA7909 - Matrix">
+		<description>FASA7909 - Matrix</description>
+		<rom name="FASA7909 - Matrix.pdf" size="88815330" crc="363d57a4" md5="9e9063d735aa51d6cab8c2c5ed2cdb0c" sha1="980ca9301cdbbc29d99e48f6ebb9e79dab44cd0e" />
+	</machine>
+	<machine name="FASA7910 - Rigger 3">
+		<description>FASA7910 - Rigger 3</description>
+		<rom name="FASA7910 - Rigger 3.pdf" size="102688332" crc="e29daafe" md5="77660341e3500bf53335e0deaeb70829" sha1="34baab56f0d273107ccd03a15e5f4abeb7d2642a" />
+	</machine>
+	<machine name="SRM00-01P - Mission Briefing - Player Aids">
+		<description>SRM00-01P - Mission Briefing - Player Aids</description>
+		<rom name="SRM00-01P - Mission Briefing - Player Aids.pdf" size="442054" crc="db4bd12f" md5="e3d0ad65804b7c7ba2cb4ecb80727984" sha1="046a26fb51763143ecc88744fca8e14ea73b7fc5" />
+	</machine>
+	<machine name="SRM00-01S - Mission Briefing">
+		<description>SRM00-01S - Mission Briefing</description>
+		<rom name="SRM00-01S - Mission Briefing.pdf" size="205738" crc="0b7d5338" md5="a039779787b3ed6d721dbf98d6ef3cfa" sha1="06c9d3cb88d829fbe7639d90f93072c7304f15a2" />
+	</machine>
+	<machine name="SRM00-02P - Demolition Run - Player Aids">
+		<description>SRM00-02P - Demolition Run - Player Aids</description>
+		<rom name="SRM00-02P - Demolition Run - Player Aids.pdf" size="281026" crc="66f23f3b" md5="a30a90c230d8abfcd8ba0ba9e74ec993" sha1="988bdf8a9d88a40348193f4143b7af7d2f9a9e43" />
+	</machine>
+	<machine name="SRM00-02S - Demolition Run">
+		<description>SRM00-02S - Demolition Run</description>
+		<rom name="SRM00-02S - Demolition Run.pdf" size="180856" crc="7698be42" md5="d6e2285c9b1090a1576cf97ecd809e73" sha1="b05d750a959fc768ea6d5483d0a7e157595c115f" />
+	</machine>
+	<machine name="SRM00-03P - FORCEd RECON - Player Aids [w]">
+		<description>SRM00-03P - FORCEd RECON - Player Aids [w]</description>
+		<rom name="SRM00-03P - FORCEd RECON - Player Aids [w].pdf" size="1096231" crc="b778f820" md5="13d00c440ffe211e06c57647f31d0dd8" sha1="46e86f6593004ee898eb59cb0821f9c1a79b19d4" />
+	</machine>
+	<machine name="SRM00-03S - FORCEd RECON [w]">
+		<description>SRM00-03S - FORCEd RECON [w]</description>
+		<rom name="SRM00-03S - FORCEd RECON [w].pdf" size="229182" crc="2a9223e8" md5="6e02ae05fc93d88f664dc48dcf700e54" sha1="71142ad5a5e943f6dc1e1b9ee0a7d594546270ca" />
+	</machine>
+	<machine name="SRM00-04P - A Fork in Fate's Path - Player Aids [w]">
+		<description>SRM00-04P - A Fork in Fate's Path - Player Aids [w]</description>
+		<rom name="SRM00-04P - A Fork in Fate's Path - Player Aids [w].pdf" size="537876" crc="e88de92a" md5="94910ddb7858531261da758fb61b97ad" sha1="f6af28f9a43ad1c4b5b1655db3f1359e918a41e2" />
+	</machine>
+	<machine name="SRM00-04S - A Fork in Fate's Path">
+		<description>SRM00-04S - A Fork in Fate's Path</description>
+		<rom name="SRM00-04S - A Fork in Fate's Path.pdf" size="207580" crc="3ee0bc3a" md5="5a8a9fcbfd08df9438aedfb32d0ac0df" sha1="6e15b5e4628ec75084d62fc847fb1f0341e8256f" />
+	</machine>
+	<machine name="SRM00-05P - A Dark and Stormy Night - Player Aids">
+		<description>SRM00-05P - A Dark and Stormy Night - Player Aids</description>
+		<rom name="SRM00-05P - A Dark and Stormy Night - Player Aids.pdf" size="113907" crc="25837ea2" md5="28f312a0817c62a128b39b7d8810b9ef" sha1="9e6e150a42f9dff016947bc92ec781d6237dcf0f" />
+	</machine>
+	<machine name="SRM00-05S - A Dark and Stormy Night">
+		<description>SRM00-05S - A Dark and Stormy Night</description>
+		<rom name="SRM00-05S - A Dark and Stormy Night.pdf" size="181965" crc="ae2fcf31" md5="f3c37b748d030ba818b4a8733d808d09" sha1="a377503cd530d6bc07e98a9afd9e6164acac20d1" />
+	</machine>
+	<machine name="SRM01-01P - Double Cross - Player Aids">
+		<description>SRM01-01P - Double Cross - Player Aids</description>
+		<rom name="SRM01-01P - Double Cross - Player Aids.pdf" size="344743" crc="7288ff54" md5="57ce9e350dbe06add4adaf36baf5c0a9" sha1="dfe8fea8ba9536aae11d216f290bcfd55bd6c1aa" />
+	</machine>
+	<machine name="SRM01-01S - Double Cross">
+		<description>SRM01-01S - Double Cross</description>
+		<rom name="SRM01-01S - Double Cross.pdf" size="189164" crc="06190401" md5="858febf12172697698d5fd7a2ebc5aba" sha1="b39fdc97ac483656ad183902e9ab0420a4307f52" />
+	</machine>
+	<machine name="SRM01-02P - Strings Attached - Player Aids">
+		<description>SRM01-02P - Strings Attached - Player Aids</description>
+		<rom name="SRM01-02P - Strings Attached - Player Aids.pdf" size="426823" crc="7c7b8b16" md5="3f096a8d9a231229578132f593e4ab2f" sha1="aa7fa3d5738056ae7f7f966a2383963f2cba648c" />
+	</machine>
+	<machine name="SRM01-02S - Strings Attached">
+		<description>SRM01-02S - Strings Attached</description>
+		<rom name="SRM01-02S - Strings Attached.pdf" size="223250" crc="c327803e" md5="86b566f1fe5cc5bae79f0541258d663a" sha1="77b6e63968431f8b020c782d27bea0994f6bb65a" />
+	</machine>
+	<machine name="SRM01-03P - Harvest Time - Player Aids">
+		<description>SRM01-03P - Harvest Time - Player Aids</description>
+		<rom name="SRM01-03P - Harvest Time - Player Aids.pdf" size="173342" crc="de45bf27" md5="aa0f98ddbe4642f33a2215e00a24d55e" sha1="90809b70c514da38f5dabedb3b39a5ae0b2d3752" />
+	</machine>
+	<machine name="SRM01-03S - Harvest Time">
+		<description>SRM01-03S - Harvest Time</description>
+		<rom name="SRM01-03S - Harvest Time.pdf" size="228292" crc="deae184f" md5="e3d9286f59569a67b8022d7e4cec4b30" sha1="bc286867e963fab843a235ecc0596f8477d2ab2f" />
+	</machine>
+	<machine name="SRM01-04P - The Gambler - Player Aids [w]">
+		<description>SRM01-04P - The Gambler - Player Aids [w]</description>
+		<rom name="SRM01-04P - The Gambler - Player Aids [w].pdf" size="695026" crc="eb320612" md5="d57ef955ba3ba026d8a9b6356ff465d4" sha1="60ab6835595a03693352c6020dfee08eee933a8b" />
+	</machine>
+	<machine name="SRM01-04S - The Gambler [w]">
+		<description>SRM01-04S - The Gambler [w]</description>
+		<rom name="SRM01-04S - The Gambler [w].pdf" size="333070" crc="553de02a" md5="1b52743e9a1e89d4ec572b6a34eef802" sha1="f1917ea189a64307db7bc1cb731267f20fe3edf6" />
+	</machine>
+	<machine name="SRM01-05P - A Walk in the Park - Player Aids [w]">
+		<description>SRM01-05P - A Walk in the Park - Player Aids [w]</description>
+		<rom name="SRM01-05P - A Walk in the Park - Player Aids [w].pdf" size="236724" crc="c83c47bf" md5="7ded0488041a8a2beeff6af6e9cf795c" sha1="8ef9f7e8c7b8413fe0f54ad9792c8e2b09f64872" />
+	</machine>
+	<machine name="SRM01-05S - A Walk in the Park">
+		<description>SRM01-05S - A Walk in the Park</description>
+		<rom name="SRM01-05S - A Walk in the Park.pdf" size="181163" crc="0ec0a4f4" md5="0b4fa176423a40e2c4a1205403295a06" sha1="3041c5045d11200b23541aaadc311446b966d135" />
+	</machine>
+	<machine name="SRM01-06P - Lost and Found - Player Aids [w]">
+		<description>SRM01-06P - Lost and Found - Player Aids [w]</description>
+		<rom name="SRM01-06P - Lost and Found - Player Aids [w].pdf" size="436927" crc="cc085230" md5="09a55509fd758165f591cfbbe8e6d79e" sha1="808b7901ab01cd87fe762eccb918837fb1c1eacf" />
+	</machine>
+	<machine name="SRM01-06S - Lost and Found">
+		<description>SRM01-06S - Lost and Found</description>
+		<rom name="SRM01-06S - Lost and Found.pdf" size="288375" crc="e2857f55" md5="01ffd7256c6b3e7d7a968405d56f89d7" sha1="3286a89d621d5e90f8bfd2ca30687eb6ee691866" />
+	</machine>
+	<machine name="SRM01-07P - Keys to the Asylum - Player Aids">
+		<description>SRM01-07P - Keys to the Asylum - Player Aids</description>
+		<rom name="SRM01-07P - Keys to the Asylum - Player Aids.pdf" size="687202" crc="e7ed775c" md5="fc2dd015ee101e282c896222aaf3397c" sha1="dc626893983dc5d9188a0eb5fee5be6e4a772d22" />
+	</machine>
+	<machine name="SRM01-07S - Keys to the Asylum [w]">
+		<description>SRM01-07S - Keys to the Asylum [w]</description>
+		<rom name="SRM01-07S - Keys to the Asylum [w].pdf" size="262544" crc="97f2a254" md5="dc7409d417e337e8fdecde72a1b3b885" sha1="8d9fea91b62d2eb31adcce0c72fa23ae3186036d" />
+	</machine>
+	<machine name="SRM01-08P - Duplicity - Player Aids">
+		<description>SRM01-08P - Duplicity - Player Aids</description>
+		<rom name="SRM01-08P - Duplicity - Player Aids.pdf" size="882435" crc="84b6af43" md5="71baf472b839fae1e35ae43da320e0f8" sha1="e98091a153eddcaf26bbef326d4a42c1a8991dd4" />
+	</machine>
+	<machine name="SRM01-08S - Duplicity">
+		<description>SRM01-08S - Duplicity</description>
+		<rom name="SRM01-08S - Duplicity.pdf" size="249981" crc="b752ff54" md5="2a724294276dfedf7bbc5a383552b1f2" sha1="7344b0b2601c0eca67ab26b8fd657538e5a5a42c" />
+	</machine>
+	<machine name="SRM01-09P - For Whom the Bell Tolls - Player Aids">
+		<description>SRM01-09P - For Whom the Bell Tolls - Player Aids</description>
+		<rom name="SRM01-09P - For Whom the Bell Tolls - Player Aids.pdf" size="441295" crc="a20203cb" md5="95e527396dc9802c5a6b49736e6e9b8d" sha1="23f631d789d2dccbc5360f0854e6baceea7317c6" />
+	</machine>
+	<machine name="SRM01-09S - For Whom the Bell Tolls">
+		<description>SRM01-09S - For Whom the Bell Tolls</description>
+		<rom name="SRM01-09S - For Whom the Bell Tolls.pdf" size="187464" crc="aff73391" md5="219c94c2c36006e1784f8cc53112a2c4" sha1="8308798227f30f32550574d5347e07a2548729fb" />
+	</machine>
+</datafile>
