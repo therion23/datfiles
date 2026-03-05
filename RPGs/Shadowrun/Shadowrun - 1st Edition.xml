@@ -60,17 +60,17 @@
 		<description>FASA7110 - Shadowtech [w]</description>
 		<rom name="FASA7110 - Shadowtech [w].pdf" size="49016386" crc="aff62d9f" md5="69cbbc13285c1f9d3ce6201c43100b74" sha1="a1081607cb10ea08d085bba6d250b88441e1dfeb" />
 	</machine>
-	<machine name="FASA7111 - DMZ - Archetypes ">
-		<description>FASA7111 - DMZ - Archetypes </description>
-		<rom name="FASA7111 - DMZ - Archetypes .pdf" size="29172092" crc="9aa999e0" md5="622727876d33dc61158efcad5dc8b76e" sha1="9d70295ac0567cdf076bc108e1636d8221cfd3df" />
+	<machine name="FASA7111 - DMZ - Archetypes">
+		<description>FASA7111 - DMZ - Archetypes</description>
+		<rom name="FASA7111 - DMZ - Archetypes.pdf" size="29172092" crc="9aa999e0" md5="622727876d33dc61158efcad5dc8b76e" sha1="9d70295ac0567cdf076bc108e1636d8221cfd3df" />
 	</machine>
 	<machine name="FASA7111 - DMZ - Downtown Militarized Zone">
 		<description>FASA7111 - DMZ - Downtown Militarized Zone</description>
 		<rom name="FASA7111 - DMZ - Downtown Militarized Zone.pdf" size="97457530" crc="a7c8a236" md5="8a620d989714d92d215573296989d1be" sha1="b956d1e6e33bbed75295eae5b0d4295f16e918d7" />
 	</machine>
-	<machine name="FASA7111 - DMZ - Rulebook ">
-		<description>FASA7111 - DMZ - Rulebook </description>
-		<rom name="FASA7111 - DMZ - Rulebook .pdf" size="44799676" crc="d903cb12" md5="9c79de87264b5736538f03baca0e8f02" sha1="a9a14038e35ac12a5322bdc7502fb1e2439a7976" />
+	<machine name="FASA7111 - DMZ - Rulebook">
+		<description>FASA7111 - DMZ - Rulebook</description>
+		<rom name="FASA7111 - DMZ - Rulebook.pdf" size="44799676" crc="d903cb12" md5="9c79de87264b5736538f03baca0e8f02" sha1="a9a14038e35ac12a5322bdc7502fb1e2439a7976" />
 	</machine>
 	<machine name="FASA7201 - Seattle Sourcebook">
 		<description>FASA7201 - Seattle Sourcebook</description>
