@@ -1,0 +1,987 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>GURPS - 4th Edition</name>
+		<description>GURPS - 4th Edition</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-06</version>
+		<date>2026-03-06</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="_Status">
+		<description>_Status</description>
+		<rom name="_Status.txt" size="162" crc="29a6d056" md5="b778b12c1fdf1b8861578e48258d7c38" sha1="4c26c2415f38a4b3017834637bf8e727ce2b1a9a" />
+	</machine>
+	<machine name="ADB8401 - Prime Directive - Core Rulebook (Second Printing)">
+		<description>ADB8401 - Prime Directive - Core Rulebook (Second Printing)</description>
+		<rom name="ADB8401 - Prime Directive - Core Rulebook (Second Printing).pdf" size="50654663" crc="034f996d" md5="b95079a65bf434d5444cbb1dde208e97" sha1="e234bb114b5be55ef0ff66fae656fabd8c6b4454" />
+	</machine>
+	<machine name="ADB8401 - Prime Directive - Core Rulebook [w]">
+		<description>ADB8401 - Prime Directive - Core Rulebook [w]</description>
+		<rom name="ADB8401 - Prime Directive - Core Rulebook [w].pdf" size="48361998" crc="bd90fff9" md5="ba7945a15c013a109f4edde05be6deb0" sha1="cc25ab9f1061451802814382e683cb6b2f6cd93d" />
+	</machine>
+	<machine name="ADB8402 - Prime Directive - Federation (Revised)">
+		<description>ADB8402 - Prime Directive - Federation (Revised)</description>
+		<rom name="ADB8402 - Prime Directive - Federation (Revised).pdf" size="20720291" crc="8612847c" md5="66d0031c9041e74b38de77bc2b09205f" sha1="3d06ab8589dd6f216643d2452c4e79eec1deb0f6" />
+	</machine>
+	<machine name="ADB8402 - Prime Directive - Federation [w]">
+		<description>ADB8402 - Prime Directive - Federation [w]</description>
+		<rom name="ADB8402 - Prime Directive - Federation [w].pdf" size="7348096" crc="9b40b810" md5="37df89ab1e95305f659e34cbc08e2e0d" sha1="5801eaab45e07f54a81d5b9c39b464e36612095e" />
+	</machine>
+	<machine name="ADB8403 - Prime Directive - Klingons">
+		<description>ADB8403 - Prime Directive - Klingons</description>
+		<rom name="ADB8403 - Prime Directive - Klingons.pdf" size="23067349" crc="cb4f696e" md5="21f1553932bf8b358572e7e98672380e" sha1="e89b1f1f91f74cf9229f3fc18353c21cf3ed26b9" />
+	</machine>
+	<machine name="ADB8404 - Prime Directive - Romulans [w]">
+		<description>ADB8404 - Prime Directive - Romulans [w]</description>
+		<rom name="ADB8404 - Prime Directive - Romulans [w].pdf" size="6279301" crc="c3844de5" md5="fcc0f8342d65720447db98ead4593fee" sha1="22e9edd28be59104748ebe7d6156cfc4e0ef03b7" />
+	</machine>
+	<machine name="SJG01-0001 - Basic Set - Characters (Fourth Edition, First Printing)">
+		<description>SJG01-0001 - Basic Set - Characters (Fourth Edition, First Printing)</description>
+		<rom name="SJG01-0001 - Basic Set - Characters (Fourth Edition, First Printing).pdf" size="28126603" crc="02b49dc3" md5="14a09dbe3c2ff1c82c49a5ebbae90a8d" sha1="87e19c4cdcf2bb676efc58903e3e5b007b07b1ca" />
+	</machine>
+	<machine name="SJG01-0001 - Basic Set - Characters (Fourth Edition, Third Printing)">
+		<description>SJG01-0001 - Basic Set - Characters (Fourth Edition, Third Printing)</description>
+		<rom name="SJG01-0001 - Basic Set - Characters (Fourth Edition, Third Printing).pdf" size="9354646" crc="319f330e" md5="9e72d1d8491b2a7fed82430abb5d8878" sha1="d8333144c32bd5bf2f3778c119a8a7c1d7b60b13" />
+	</machine>
+	<machine name="SJG01-0002 - Basic Set - Campaigns (Fourth Edition, First Printing)">
+		<description>SJG01-0002 - Basic Set - Campaigns (Fourth Edition, First Printing)</description>
+		<rom name="SJG01-0002 - Basic Set - Campaigns (Fourth Edition, First Printing).pdf" size="41443064" crc="dca2a767" md5="cf4e22fde138b19d6a108687974576da" sha1="99b434e0a0eeddea4768ece80c4ae6494f9ffd80" />
+	</machine>
+	<machine name="SJG01-0002 - Basic Set - Campaigns (Fourth Edition, Fourth Printing)">
+		<description>SJG01-0002 - Basic Set - Campaigns (Fourth Edition, Fourth Printing)</description>
+		<rom name="SJG01-0002 - Basic Set - Campaigns (Fourth Edition, Fourth Printing).pdf" size="6175608" crc="e14accb2" md5="9083c12204cb0322f84a6c65ae6c1125" sha1="6a0a675880bc2a705660afb84ce3691490e53bac" />
+	</machine>
+	<machine name="SJG01-0003 - Basic Set - Characters and Campaigns (Deluxe)">
+		<description>SJG01-0003 - Basic Set - Characters and Campaigns (Deluxe)</description>
+		<rom name="SJG01-0003 - Basic Set - Characters and Campaigns (Deluxe).pdf" size="14853928" crc="ab980026" md5="030fb278828552cc76228503325eca56" sha1="d7609b61db896aacae91e78766c32ce1640d7bc4" />
+	</machine>
+	<machine name="SJG01-0004 - Lite">
+		<description>SJG01-0004 - Lite</description>
+		<rom name="SJG01-0004 - Lite.pdf" size="1560922" crc="cd381e46" md5="9e858eb5b700e016a63ce30166632f96" sha1="ec2b280fdae84918bacffabcdbf3f165d6e2f591" />
+	</machine>
+	<machine name="SJG01-0005 - GM's Screen [a]">
+		<description>SJG01-0005 - GM's Screen [a]</description>
+		<rom name="SJG01-0005 - GM's Screen [a].pdf" size="2423151" crc="fc9685e9" md5="edb04fbb202c99e27ccf1dcc007e1de0" sha1="c0d5d65fe934c4dbd1284210408cdb4c53b76abc" />
+	</machine>
+	<machine name="SJG01-0005 - GM's Screen">
+		<description>SJG01-0005 - GM's Screen</description>
+		<rom name="SJG01-0005 - GM's Screen.pdf" size="469635" crc="fcb5ee23" md5="0a3179d4644f679f6e169988f87a5de5" sha1="e3fa28a04aa81977449afa28cde108b213d1be4e" />
+	</machine>
+	<machine name="SJG01-0101 - Magic (w23)">
+		<description>SJG01-0101 - Magic (w23)</description>
+		<rom name="SJG01-0101 - Magic (w23).pdf" size="8384942" crc="704b7cbc" md5="19c7b83c635b6f9649b21b2180639e51" sha1="cb5a2d37fa17230b43dac6cb4173cbc19d28f876" />
+	</machine>
+	<machine name="SJG01-0101 - Magic">
+		<description>SJG01-0101 - Magic</description>
+		<rom name="SJG01-0101 - Magic.pdf" size="4222000" crc="d45b4e54" md5="116fab3d9fa7ac5b6d52aed6505abb6b" sha1="ea0bc48d582c95509b269a155a3008df6d440691" />
+	</machine>
+	<machine name="SJG01-0102 - Powers (w23)">
+		<description>SJG01-0102 - Powers (w23)</description>
+		<rom name="SJG01-0102 - Powers (w23).pdf" size="5674033" crc="9ac8c11f" md5="418d42d19626ba1ecbe9d06936537464" sha1="1590a295fec91fdda55227ba422fa24774931500" />
+	</machine>
+	<machine name="SJG01-0102 - Powers">
+		<description>SJG01-0102 - Powers</description>
+		<rom name="SJG01-0102 - Powers.pdf" size="5591829" crc="b0255081" md5="ab4c4d5ea389564319cea5896b017b56" sha1="930fe8e08a44085f1a345750998abf03e9b7e52f" />
+	</machine>
+	<machine name="SJG01-0103 - Bio-Tech (Errata)">
+		<description>SJG01-0103 - Bio-Tech (Errata)</description>
+		<rom name="SJG01-0103 - Bio-Tech (Errata).pdf" size="34036" crc="c09556b4" md5="2e4c92ccf33348de511a53bd0e984507" sha1="845a09557b9041046f360ea3785df2984d4682b8" />
+	</machine>
+	<machine name="SJG01-0103 - Bio-Tech">
+		<description>SJG01-0103 - Bio-Tech</description>
+		<rom name="SJG01-0103 - Bio-Tech.pdf" size="8377462" crc="01de9394" md5="d2b8534a9ed0f186e9d125044096a8fc" sha1="dac5c9605171c1822778ac4d6aacda18cc68ecb0" />
+	</machine>
+	<machine name="SJG01-0104 - Ultra-Tech (Third Edition, First Printing)">
+		<description>SJG01-0104 - Ultra-Tech (Third Edition, First Printing)</description>
+		<rom name="SJG01-0104 - Ultra-Tech (Third Edition, First Printing).pdf" size="7015674" crc="bb801505" md5="0286389374d02a3c9ef8ec385ee1a616" sha1="6f83a1462944ffada0cf55529f9cbfdfabf6d823" />
+	</machine>
+	<machine name="SJG01-0104 - Ultra-Tech (Third Edition, Second Printing)">
+		<description>SJG01-0104 - Ultra-Tech (Third Edition, Second Printing)</description>
+		<rom name="SJG01-0104 - Ultra-Tech (Third Edition, Second Printing).pdf" size="12791750" crc="ff67d957" md5="f49a85fb4b2c6b07d1e7b7c336216a58" sha1="eca2c0a8815d9dc02cecbed61c3568aa41b38e08" />
+	</machine>
+	<machine name="SJG01-0105 - Martial Arts">
+		<description>SJG01-0105 - Martial Arts</description>
+		<rom name="SJG01-0105 - Martial Arts.pdf" size="3687624" crc="c4cac312" md5="eef923573de2ae658c96c62c4a185ce4" sha1="1f5f4602982f237ca3f549a8b81d9d739769fdf3" />
+	</machine>
+	<machine name="SJG01-0106 - High-Tech (Errata)">
+		<description>SJG01-0106 - High-Tech (Errata)</description>
+		<rom name="SJG01-0106 - High-Tech (Errata).pdf" size="32028" crc="4b1cc4cd" md5="47f17c52ca84c9f0c1a7cc86aff23e4a" sha1="8c77312b0afc2f4920e755a5e8778b8a4be40048" />
+	</machine>
+	<machine name="SJG01-0106 - High-Tech">
+		<description>SJG01-0106 - High-Tech</description>
+		<rom name="SJG01-0106 - High-Tech.pdf" size="4793915" crc="75076247" md5="178daf08f20ee1f8e4beac8dfd67b7a1" sha1="f7fc8a9989a7808eb6b2163d8fd34e4a955ea56a" />
+	</machine>
+	<machine name="SJG01-0107 - Thaumatology">
+		<description>SJG01-0107 - Thaumatology</description>
+		<rom name="SJG01-0107 - Thaumatology.pdf" size="4647366" crc="6a121366" md5="0e9bf0d647edb7ddcfd1d8cb4c852f7f" sha1="92a6d989c7f0d96563969017455640aa8f2b6f6d" />
+	</machine>
+	<machine name="SJG01-0108 - Low-Tech">
+		<description>SJG01-0108 - Low-Tech</description>
+		<rom name="SJG01-0108 - Low-Tech.pdf" size="2963663" crc="1832707f" md5="8443ea84ff66a2d468c10433ea8d4055" sha1="83d7a64103dd79de69116883a9589b01bcf92007" />
+	</machine>
+	<machine name="SJG01-1001 - Fantasy (w23)">
+		<description>SJG01-1001 - Fantasy (w23)</description>
+		<rom name="SJG01-1001 - Fantasy (w23).pdf" size="7277858" crc="c316bbc0" md5="099895cf155f947ef1936f40b31ff7ec" sha1="0ee25a71a69bc25f69d8acd8c664285abcbdfcad" />
+	</machine>
+	<machine name="SJG01-1001 - Fantasy">
+		<description>SJG01-1001 - Fantasy</description>
+		<rom name="SJG01-1001 - Fantasy.pdf" size="7411382" crc="3e1f4dab" md5="b6cca3d6d1b7b62f3dabd47faf4fe1ed" sha1="66728866928229cf103d4840696d425e5b99f90d" />
+	</machine>
+	<machine name="SJG01-1002 - Space (w23)">
+		<description>SJG01-1002 - Space (w23)</description>
+		<rom name="SJG01-1002 - Space (w23).pdf" size="7778861" crc="2c6e4316" md5="d6862b3574a4a16effe2e437db8762f7" sha1="77b9be9909ab7c4e7ef2bb216682a5277a110c56" />
+	</machine>
+	<machine name="SJG01-1002 - Space">
+		<description>SJG01-1002 - Space</description>
+		<rom name="SJG01-1002 - Space.pdf" size="6904847" crc="f7faa476" md5="7a3fd04be8ccc9c3be2beef28720b91c" sha1="595a061532cbc0ecbcdc842b34e692b4d680b6b8" />
+	</machine>
+	<machine name="SJG01-1003 - Horror [w]">
+		<description>SJG01-1003 - Horror [w]</description>
+		<rom name="SJG01-1003 - Horror [w].pdf" size="2582976" crc="6845fb61" md5="ad4dafd8d5451d8b4ccdefac0a70f446" sha1="770734c1faf16586906fa4837fc859b4e5b59e46" />
+	</machine>
+	<machine name="SJG01-1004 - Zombies">
+		<description>SJG01-1004 - Zombies</description>
+		<rom name="SJG01-1004 - Zombies.pdf" size="10953549" crc="6762de46" md5="6a473fcbd97044f9dbb4fb9cfb4c1e55" sha1="2d41e010a1cb8d617dc145fca6f989d01dee26fa" />
+	</machine>
+	<machine name="SJG01-1008 - Pyramid Dungeon Collection">
+		<description>SJG01-1008 - Pyramid Dungeon Collection</description>
+		<rom name="SJG01-1008 - Pyramid Dungeon Collection.pdf" size="36069493" crc="dd3ea3d4" md5="4d31833f783e4cf0fdd71297bc8979c3" sha1="9345a469ace463d55d351fc303949219ce92f62f" />
+	</machine>
+	<machine name="SJG01-2001 - Infinite Worlds">
+		<description>SJG01-2001 - Infinite Worlds</description>
+		<rom name="SJG01-2001 - Infinite Worlds.pdf" size="5391229" crc="c5391c03" md5="e67b6c6594a148488876f83b876556fd" sha1="a8f8a7afe28d8ee8cd9378e78fb7c73477b4f28a" />
+	</machine>
+	<machine name="SJG01-2002 - Banestorm">
+		<description>SJG01-2002 - Banestorm</description>
+		<rom name="SJG01-2002 - Banestorm.pdf" size="11857051" crc="dfafca86" md5="fe2ef3dc88aca247ea6a5d10fcfcbf6c" sha1="85a400492b0ae02b36c72dbcce9834a32bed83d8" />
+	</machine>
+	<machine name="SJG01-2401 - Traveller - Interstellar Wars">
+		<description>SJG01-2401 - Traveller - Interstellar Wars</description>
+		<rom name="SJG01-2401 - Traveller - Interstellar Wars.pdf" size="8411086" crc="760cbb2e" md5="a2ea51854557654bd92497d44606c330" sha1="7cdb2ee46d338d0350f147d5a59525d1882b874c" />
+	</machine>
+	<machine name="SJG01-2490 - Vorkosigan Saga">
+		<description>SJG01-2490 - Vorkosigan Saga</description>
+		<rom name="SJG01-2490 - Vorkosigan Saga.pdf" size="4318604" crc="c4083c4d" md5="bf5c787ff4c53bab5e2c5a24c1c16674" sha1="8bcd9d537a68a3d0dc590c01e7a4109a056769cf" />
+	</machine>
+	<machine name="SJG01-2500 - Discworld (Second Edition)">
+		<description>SJG01-2500 - Discworld (Second Edition)</description>
+		<rom name="SJG01-2500 - Discworld (Second Edition).pdf" size="45220635" crc="d796aa8d" md5="dd215f1f989c77853ee59f3daa3d3353" sha1="9f450f8bd7b27a7834b8f4c341aa8edc8b0c804b" />
+	</machine>
+	<machine name="SJG01-6196 - Tactical Shooting">
+		<description>SJG01-6196 - Tactical Shooting</description>
+		<rom name="SJG01-6196 - Tactical Shooting.pdf" size="2544953" crc="bb244e1c" md5="51436e38435ca13a12ba5914c82e351e" sha1="6b9972673dff082aa8482b0d3dcb8a15f8ec357a" />
+	</machine>
+	<machine name="SJG01-6197 - Mass Combat (Second Printing)">
+		<description>SJG01-6197 - Mass Combat (Second Printing)</description>
+		<rom name="SJG01-6197 - Mass Combat (Second Printing).pdf" size="3213789" crc="70df8b3e" md5="1a2e3cdb4d4427589aa4eefdcc6fc548" sha1="63ddfb30b7c27181f8cae73a7d2b85274aaf9274" />
+	</machine>
+	<machine name="SJG01-6198 - Psionic Powers">
+		<description>SJG01-6198 - Psionic Powers</description>
+		<rom name="SJG01-6198 - Psionic Powers.pdf" size="1825023" crc="389587c4" md5="73ee874619ba79956d011379be2802a4" sha1="29423a73dda36af112fd39b2c87d3c1f055c5391" />
+	</machine>
+	<machine name="SJG01-6199 - Spaceships">
+		<description>SJG01-6199 - Spaceships</description>
+		<rom name="SJG01-6199 - Spaceships.pdf" size="1757999" crc="84ed330a" md5="ae9e251c7d3ade0ec0d9786f73334cad" sha1="dd00816a4ffbef57e04202590131481549a81c64" />
+	</machine>
+	<machine name="SJG01-7998 - Supers">
+		<description>SJG01-7998 - Supers</description>
+		<rom name="SJG01-7998 - Supers.pdf" size="3102913" crc="effd92a4" md5="c597fdcac708d14894046fb22a708db3" sha1="9d508912e29068725a4027f85f3d302ae9aa548b" />
+	</machine>
+	<machine name="SJG01-7999 - Mysteries (Errata)">
+		<description>SJG01-7999 - Mysteries (Errata)</description>
+		<rom name="SJG01-7999 - Mysteries (Errata).pdf" size="31300" crc="f9dceff2" md5="1cc82db8e8d8966c2b0da0a1a98c0afc" sha1="5054dcc77e42abdfe4479ff0ab72eb88ea58127e" />
+	</machine>
+	<machine name="SJG01-7999 - Mysteries">
+		<description>SJG01-7999 - Mysteries</description>
+		<rom name="SJG01-7999 - Mysteries.pdf" size="1559841" crc="80d8933d" md5="9e1abb9a120957a81ae23ff311b105f6" sha1="9e724f06457a866fa25c87c3bcb4ed6fffa814b8" />
+	</machine>
+	<machine name="SJG01-8479 - Transhuman Space - Changing Times [w]">
+		<description>SJG01-8479 - Transhuman Space - Changing Times [w]</description>
+		<rom name="SJG01-8479 - Transhuman Space - Changing Times [w].pdf" size="2174637" crc="5b7c1d49" md5="a326f14e215421f38bac63666852f780" sha1="a62fbd6be57182cd2ac3cc5c28f4518bdc3cd8aa" />
+	</machine>
+	<machine name="SJG01-8971 - Dungeon Fantasy 1 - Adventurers">
+		<description>SJG01-8971 - Dungeon Fantasy 1 - Adventurers</description>
+		<rom name="SJG01-8971 - Dungeon Fantasy 1 - Adventurers.pdf" size="1098464" crc="90ffa6c8" md5="4b7fc52e4e60a289759b1007728c22c9" sha1="6cde929d7fbb57b16d9bdebc4c1168773d2e22a2" />
+	</machine>
+	<machine name="SJG01-8972 - Dungeon Fantasy 2 - Dungeons">
+		<description>SJG01-8972 - Dungeon Fantasy 2 - Dungeons</description>
+		<rom name="SJG01-8972 - Dungeon Fantasy 2 - Dungeons.pdf" size="868069" crc="7ea672f6" md5="83a06b17b7321dc3bfa642fe08759806" sha1="e4f8c1da31eb4654a22fadd3b005656e27ecfc8b" />
+	</machine>
+	<machine name="SJG01-8973 - Dungeon Fantasy 3 - The Next Level">
+		<description>SJG01-8973 - Dungeon Fantasy 3 - The Next Level</description>
+		<rom name="SJG01-8973 - Dungeon Fantasy 3 - The Next Level.pdf" size="1514123" crc="e343ae3f" md5="90ee7e35013b1ba03c12b5727a4b2f91" sha1="35632f7200d2a53523753686cd62a6caa8e42255" />
+	</machine>
+	<machine name="SJG01-8974 - Dungeon Fantasy 4 - Sages">
+		<description>SJG01-8974 - Dungeon Fantasy 4 - Sages</description>
+		<rom name="SJG01-8974 - Dungeon Fantasy 4 - Sages.pdf" size="677184" crc="01fd50d7" md5="0fe026ef4ce2d4d58209cdb79764f9d2" sha1="fa3536cd9c5df2d40bd3d96a099f489262dd75af" />
+	</machine>
+	<machine name="SJG37-0032 - Ultra-Lite">
+		<description>SJG37-0032 - Ultra-Lite</description>
+		<rom name="SJG37-0032 - Ultra-Lite.pdf" size="82278" crc="20c620fe" md5="71819cf336dc1840dd3587b305966683" sha1="ac2f717d239cf2be035ed562b5f3acf396954f4f" />
+	</machine>
+	<machine name="SJG37-0034 - How To Be A GURPS GM">
+		<description>SJG37-0034 - How To Be A GURPS GM</description>
+		<rom name="SJG37-0034 - How To Be A GURPS GM.pdf" size="15037086" crc="12b6dc48" md5="5d3f48c80ed50d01b03071fa028cad65" sha1="41f11fd42b54f3876305b28845767ad20681adc9" />
+	</machine>
+	<machine name="SJG37-0120 - Spaceships">
+		<description>SJG37-0120 - Spaceships</description>
+		<rom name="SJG37-0120 - Spaceships.pdf" size="2107675" crc="ac5f5fc8" md5="114bdd66740b48b90f8b4cab6a94959d" sha1="0a4a703ba8ce83f26c7d7846ae85c907502cda36" />
+	</machine>
+	<machine name="SJG37-0121 - Spaceships 2 - Traders, Liners and Transports">
+		<description>SJG37-0121 - Spaceships 2 - Traders, Liners and Transports</description>
+		<rom name="SJG37-0121 - Spaceships 2 - Traders, Liners and Transports.pdf" size="1208912" crc="a89417c8" md5="e3ddb3dc6f39d063bee5bb29ce608818" sha1="ce37d97fc9ecf132ef6b83c48d56de6f79ab5ef2" />
+	</machine>
+	<machine name="SJG37-0122 - Spaceships 3 - Warships and Space Pirates">
+		<description>SJG37-0122 - Spaceships 3 - Warships and Space Pirates</description>
+		<rom name="SJG37-0122 - Spaceships 3 - Warships and Space Pirates.pdf" size="818006" crc="8fefca72" md5="b886c1ca0de3b9053fe0b07dd0938abe" sha1="ed6aa2a773e18b42ab39693611b43e24ebaca15a" />
+	</machine>
+	<machine name="SJG37-0123 - Spaceships 4 - Fighters, Carriers, and Mecha">
+		<description>SJG37-0123 - Spaceships 4 - Fighters, Carriers, and Mecha</description>
+		<rom name="SJG37-0123 - Spaceships 4 - Fighters, Carriers, and Mecha.pdf" size="757016" crc="18ee4cc8" md5="9a556c3a230f142ec615d9b1c1c2ea35" sha1="87a6ad66450c6a8a06072bd1fcaee38080585582" />
+	</machine>
+	<machine name="SJG37-0124 - Spaceships 5 - Exploration and Colony Spacecraft">
+		<description>SJG37-0124 - Spaceships 5 - Exploration and Colony Spacecraft</description>
+		<rom name="SJG37-0124 - Spaceships 5 - Exploration and Colony Spacecraft.pdf" size="779539" crc="109c8e65" md5="0e9e1fe33b8d223c3c170c781e812e6b" sha1="8a3e49fd7851bb13aeb024b5d576f38d932874cd" />
+	</machine>
+	<machine name="SJG37-0125 - Spaceships 6 - Mining and Industrial Spacecraft">
+		<description>SJG37-0125 - Spaceships 6 - Mining and Industrial Spacecraft</description>
+		<rom name="SJG37-0125 - Spaceships 6 - Mining and Industrial Spacecraft.pdf" size="628190" crc="c0ec2a39" md5="7a6c7bbf41ee6a47acf0d778aebcb1c0" sha1="de870aa48772b4434b612b174109783d19a852d1" />
+	</machine>
+	<machine name="SJG37-0126 - Spaceships 7 - Divergent and Paranormal Tech">
+		<description>SJG37-0126 - Spaceships 7 - Divergent and Paranormal Tech</description>
+		<rom name="SJG37-0126 - Spaceships 7 - Divergent and Paranormal Tech.pdf" size="1621297" crc="69bbb2e9" md5="673f1c3f44515ab3f402e4c0fc9ed90f" sha1="62e61b6cf66de3dc71f7ecf95c0747ac0e05dbd2" />
+	</machine>
+	<machine name="SJG37-0127 - Spaceships 8 - Transhuman Spacecraft">
+		<description>SJG37-0127 - Spaceships 8 - Transhuman Spacecraft</description>
+		<rom name="SJG37-0127 - Spaceships 8 - Transhuman Spacecraft.pdf" size="1160026" crc="c964aa98" md5="19c741e77432cdc06be771e0acaa28bb" sha1="e4ad45dbfdc8bff89ea0b6737e6bfae845fdafca" />
+	</machine>
+	<machine name="SJG37-0128 - Power-Ups 1 - Imbuements">
+		<description>SJG37-0128 - Power-Ups 1 - Imbuements</description>
+		<rom name="SJG37-0128 - Power-Ups 1 - Imbuements.pdf" size="441337" crc="14fabf87" md5="66073cec0759315efac46af80eb22677" sha1="a2beaf7c2b6dc3e8a3da5926d09ee4d72834a256" />
+	</machine>
+	<machine name="SJG37-0129 - Power-Ups 2 - Perks">
+		<description>SJG37-0129 - Power-Ups 2 - Perks</description>
+		<rom name="SJG37-0129 - Power-Ups 2 - Perks.pdf" size="689457" crc="723822c4" md5="29ca0140346c552533c7fb9bb045c5f9" sha1="123f378733f9945fa4460afd4b405ef9811b205c" />
+	</machine>
+	<machine name="SJG37-0130 - Thaumatology - Urban Magics">
+		<description>SJG37-0130 - Thaumatology - Urban Magics</description>
+		<rom name="SJG37-0130 - Thaumatology - Urban Magics.pdf" size="1095979" crc="b10cfccf" md5="3a61b29ee251ece2a76b05f2051eb5e5" sha1="c17b02c74fa48239ee9a45429745ab3374ba2558" />
+	</machine>
+	<machine name="SJG37-0131 - Mass Combat">
+		<description>SJG37-0131 - Mass Combat</description>
+		<rom name="SJG37-0131 - Mass Combat.pdf" size="1010680" crc="09255258" md5="f8c5e1604967eb94664ade4efb2d250e" sha1="34de8623ace9a1cd6814f9f7bd8b02b0265c4114" />
+	</machine>
+	<machine name="SJG37-0132 - Psionic Powers">
+		<description>SJG37-0132 - Psionic Powers</description>
+		<rom name="SJG37-0132 - Psionic Powers.pdf" size="1315087" crc="78bcff77" md5="4e261fa568e8dda9d6bd337bc2ad27b0" sha1="182c1f79e36396ef2a268a2c79215c35214b6253" />
+	</machine>
+	<machine name="SJG37-0133 - Gun Fu">
+		<description>SJG37-0133 - Gun Fu</description>
+		<rom name="SJG37-0133 - Gun Fu.pdf" size="1796694" crc="0fe33b89" md5="c743051ed8757fc9c4c234e084feb589" sha1="ee2c8bfc51f286f971de7cf7e6b395b463faa49c" />
+	</machine>
+	<machine name="SJG37-0135 - Psionic Campaigns">
+		<description>SJG37-0135 - Psionic Campaigns</description>
+		<rom name="SJG37-0135 - Psionic Campaigns.pdf" size="1287661" crc="94b5a81a" md5="387463e65f5b0f6055841c560a971e0a" sha1="d075cfbda62bc3c33ada1e927b52f4b6273f3043" />
+	</machine>
+	<machine name="SJG37-0136 - Magic - Plant Spells">
+		<description>SJG37-0136 - Magic - Plant Spells</description>
+		<rom name="SJG37-0136 - Magic - Plant Spells.pdf" size="1363517" crc="f57f1e6c" md5="7b27c394ad77642553092e9b2571264d" sha1="1356e1b729e7ab13778777093e718d93f3a629ab" />
+	</machine>
+	<machine name="SJG37-0137 - Psis">
+		<description>SJG37-0137 - Psis</description>
+		<rom name="SJG37-0137 - Psis.pdf" size="1363044" crc="de2b0566" md5="bfd64ddea938f7d07839471e8b56dd8f" sha1="9a4f7426d5679a4bb3a7e507dd40aec8e3ff387f" />
+	</machine>
+	<machine name="SJG37-0138 - City Stats">
+		<description>SJG37-0138 - City Stats</description>
+		<rom name="SJG37-0138 - City Stats.pdf" size="1475776" crc="13558996" md5="a6bcc4fe791d21200a4f68a11599ca5a" sha1="4e8784caf0d545b12e820cb37d6440e77a4af987" />
+	</machine>
+	<machine name="SJG37-0139 - Powers - Divine Favor">
+		<description>SJG37-0139 - Powers - Divine Favor</description>
+		<rom name="SJG37-0139 - Powers - Divine Favor.pdf" size="910148" crc="7cf1f0ac" md5="6d53b4aeadd598bc00d4a92ab36dc99f" sha1="9d52438af19cef5cfa7068822cf5a40023e87f7c" />
+	</machine>
+	<machine name="SJG37-0140 - Social Engineering">
+		<description>SJG37-0140 - Social Engineering</description>
+		<rom name="SJG37-0140 - Social Engineering.pdf" size="3548512" crc="776eb0f9" md5="082d3a1b3993edde2f48866655133e6a" sha1="515e8d4a01e15ee975dd6d1474e5474c079a14df" />
+	</machine>
+	<machine name="SJG37-0141 - Power-Ups 3 - Talents">
+		<description>SJG37-0141 - Power-Ups 3 - Talents</description>
+		<rom name="SJG37-0141 - Power-Ups 3 - Talents.pdf" size="1302828" crc="31c551dd" md5="4e77fba2eb5c497a9e06bea717249240" sha1="a14f28f93ee8aed7300ee205e7a5248850133d12" />
+	</machine>
+	<machine name="SJG37-0142 - Power-Ups 4 - Enhancements">
+		<description>SJG37-0142 - Power-Ups 4 - Enhancements</description>
+		<rom name="SJG37-0142 - Power-Ups 4 - Enhancements.pdf" size="1244410" crc="a86a2c64" md5="e1f429ee5e7ddff176808bc76d9aefc6" sha1="35a6e8edb7b680fbd830d72994192875c9d84b8f" />
+	</machine>
+	<machine name="SJG37-0143 - Power-Ups 5 - Impulse Buys">
+		<description>SJG37-0143 - Power-Ups 5 - Impulse Buys</description>
+		<rom name="SJG37-0143 - Power-Ups 5 - Impulse Buys.pdf" size="1532999" crc="ed74c993" md5="9d29cbfc4e8f188cfc507e5d9c78fcb1" sha1="458ad361f58cfdad04eac2481dd4c58f3454be6f" />
+	</machine>
+	<machine name="SJG37-0144 - Underground Adventures">
+		<description>SJG37-0144 - Underground Adventures</description>
+		<rom name="SJG37-0144 - Underground Adventures.pdf" size="2176016" crc="aa8234e1" md5="2ade933943c27e51f07b8bac02a0279c" sha1="67e626479d3f037abeeff3db77e0f7741e091ded" />
+	</machine>
+	<machine name="SJG37-0145 - Power-Ups 6 - Quirks">
+		<description>SJG37-0145 - Power-Ups 6 - Quirks</description>
+		<rom name="SJG37-0145 - Power-Ups 6 - Quirks.pdf" size="1558234" crc="b9eb2d54" md5="5791380f90ab6f91f34e42c36b3b2a33" sha1="2693e3ddbe97741667c8b76b61f940bc28dfa040" />
+	</machine>
+	<machine name="SJG37-0146 - Power-Ups 7 - Wildcard Skills">
+		<description>SJG37-0146 - Power-Ups 7 - Wildcard Skills</description>
+		<rom name="SJG37-0146 - Power-Ups 7 - Wildcard Skills.pdf" size="1430286" crc="84ca8dcb" md5="afcbac5198ce84a79c27ff2f69c27144" sha1="e9c59e8de73a130bc977a4027918112c4e92455b" />
+	</machine>
+	<machine name="SJG37-0147 - Template Toolkit 1 - Characters">
+		<description>SJG37-0147 - Template Toolkit 1 - Characters</description>
+		<rom name="SJG37-0147 - Template Toolkit 1 - Characters.pdf" size="2179698" crc="9d1ea799" md5="63a0bdbace308ed8717f53de0df54703" sha1="35710c337c9e2e7a8638e92cc686ad2d35bccf84" />
+	</machine>
+	<machine name="SJG37-0148 - Magic - Death Spells (v1.1)">
+		<description>SJG37-0148 - Magic - Death Spells (v1.1)</description>
+		<rom name="SJG37-0148 - Magic - Death Spells (v1.1).pdf" size="1107898" crc="bfe73c8e" md5="edd9c4136dafe2d9e42768ab7148ef9c" sha1="ad6358e15a0b2c1462e3c3fe66380a6bf1c4633b" />
+	</machine>
+	<machine name="SJG37-0149 - Power-Ups 8 - Limitations">
+		<description>SJG37-0149 - Power-Ups 8 - Limitations</description>
+		<rom name="SJG37-0149 - Power-Ups 8 - Limitations.pdf" size="1219817" crc="2b69e9ba" md5="2ebf4b87864970303a56d7eb75015cf7" sha1="6f8849a20bfefe9881795d7bca84db8aa7ec2a65" />
+	</machine>
+	<machine name="SJG37-0150 - Powers - Enhanced Senses">
+		<description>SJG37-0150 - Powers - Enhanced Senses</description>
+		<rom name="SJG37-0150 - Powers - Enhanced Senses.pdf" size="1038815" crc="caf48316" md5="69727c94bd39eb69114bc22047242de4" sha1="3565f2aa3860f8e92e92e7ebdac50bfadac4b1d5" />
+	</machine>
+	<machine name="SJG37-0151 - Boardroom and Curia">
+		<description>SJG37-0151 - Boardroom and Curia</description>
+		<rom name="SJG37-0151 - Boardroom and Curia.pdf" size="690969" crc="1aa6722c" md5="7d011f9d5bde9de8e0957f5ee27430b8" sha1="aab3e7b688fa64d3b67e33d0cd1f9de82bd94e6b" />
+	</machine>
+	<machine name="SJG37-0152 - Powers - The Weird">
+		<description>SJG37-0152 - Powers - The Weird</description>
+		<rom name="SJG37-0152 - Powers - The Weird.pdf" size="1623557" crc="3e0e0638" md5="7e3ea1ec445840be01faea655645c5dd" sha1="822ef3d0d39a62df1052cd411943275e4d9d9d7a" />
+	</machine>
+	<machine name="SJG37-0153 - Adaptations">
+		<description>SJG37-0153 - Adaptations</description>
+		<rom name="SJG37-0153 - Adaptations.pdf" size="2715483" crc="7d5c96e4" md5="6f8b40ab05739ab1f3fd8caff774308b" sha1="97d4c7068ad6229c0f759c38be075c4c2dce5f25" />
+	</machine>
+	<machine name="SJG37-0154 - Magic - Artillery Spells">
+		<description>SJG37-0154 - Magic - Artillery Spells</description>
+		<rom name="SJG37-0154 - Magic - Artillery Spells.pdf" size="4852024" crc="8bce10c8" md5="59179999522a68ab1bf06beac5265af4" sha1="9f5a7aca93a300cc4a63684301acc93750d345af" />
+	</machine>
+	<machine name="SJG37-0155 - Powers - Totems and Nature Spirits">
+		<description>SJG37-0155 - Powers - Totems and Nature Spirits</description>
+		<rom name="SJG37-0155 - Powers - Totems and Nature Spirits.pdf" size="1959909" crc="07935435" md5="cc606afc37e28d7eaeb88f1447d8483a" sha1="267d059eb6b3dd2fb617bfa2192a9754745abb76" />
+	</machine>
+	<machine name="SJG37-0156 - Template Toolkit 2 - Races v1.0 [w]">
+		<description>SJG37-0156 - Template Toolkit 2 - Races v1.0 [w]</description>
+		<rom name="SJG37-0156 - Template Toolkit 2 - Races v1.0 [w].pdf" size="9227154" crc="a7cc46d7" md5="d578a2b6626b6c0e0c88a4ee17baeb21" sha1="106b795b9dd48fc6d36dd60ba1fc51979d20f00f" />
+	</machine>
+	<machine name="SJG37-0156 - Template Toolkit 2 - Races v1.1 [w]">
+		<description>SJG37-0156 - Template Toolkit 2 - Races v1.1 [w]</description>
+		<rom name="SJG37-0156 - Template Toolkit 2 - Races v1.1 [w].pdf" size="9219546" crc="f4a1cc92" md5="8a7328f4c9078835577a3d333a20a0d6" sha1="6877cda4f182e99c4541d7d76433c1e02f4766d7" />
+	</machine>
+	<machine name="SJG37-0157 - Power-Ups 9 - Alternate Attributes">
+		<description>SJG37-0157 - Power-Ups 9 - Alternate Attributes</description>
+		<rom name="SJG37-0157 - Power-Ups 9 - Alternate Attributes.pdf" size="5445965" crc="d97b3749" md5="f2f694b57c4172cc7e112652adedf36f" sha1="89b1a09c214ee323bed20fba3ade3ab75af4f4d6" />
+	</machine>
+	<machine name="SJG37-0158 - Template Toolkit 3 - Starship Crew">
+		<description>SJG37-0158 - Template Toolkit 3 - Starship Crew</description>
+		<rom name="SJG37-0158 - Template Toolkit 3 - Starship Crew.pdf" size="4645238" crc="fd31e6bc" md5="24c1abdb4129fc30c9bf4e0141b446ff" sha1="51eaaa251e71e8813530cb9aa259b0b8a8ea628e" />
+	</machine>
+	<machine name="SJG37-0159 - Boardroom and Curia - Tomorrow Rides">
+		<description>SJG37-0159 - Boardroom and Curia - Tomorrow Rides</description>
+		<rom name="SJG37-0159 - Boardroom and Curia - Tomorrow Rides.pdf" size="6265582" crc="8fb660e1" md5="b82917f27e2109e8744bcf81f31b98e8" sha1="5f613e03ae62848b5402ba42b5ac0fb664eaf2a8" />
+	</machine>
+	<machine name="SJG37-0205 - High-Tech - Weapon Tables">
+		<description>SJG37-0205 - High-Tech - Weapon Tables</description>
+		<rom name="SJG37-0205 - High-Tech - Weapon Tables.pdf" size="467245" crc="a8fa86aa" md5="72712cbd37f673adfbf6a16f8a754097" sha1="b54cb361bc7d2d31ec6803c8a06dc64847e7710b" />
+	</machine>
+	<machine name="SJG37-0207 - Ultra-Tech - Weapon Tables">
+		<description>SJG37-0207 - Ultra-Tech - Weapon Tables</description>
+		<rom name="SJG37-0207 - Ultra-Tech - Weapon Tables.pdf" size="1046574" crc="8790eee2" md5="df559dd6f6a7f492454973dce0d62454" sha1="206545bc222124df339f00e0e901d8ea8bdc2265" />
+	</machine>
+	<machine name="SJG37-0307 - Action 1 - Heroes">
+		<description>SJG37-0307 - Action 1 - Heroes</description>
+		<rom name="SJG37-0307 - Action 1 - Heroes.pdf" size="509262" crc="d9ff4cd7" md5="01332ab7a476cd3add02349f18eba83a" sha1="4e03fa8a3d5ff3c7cb46ec0df279fd970a3d07ba" />
+	</machine>
+	<machine name="SJG37-0308 - Action 2 - Exploits">
+		<description>SJG37-0308 - Action 2 - Exploits</description>
+		<rom name="SJG37-0308 - Action 2 - Exploits.pdf" size="680958" crc="b0d9e53c" md5="c35f133b12f2d90dd56837fc35e78d0b" sha1="f4743066c6a63ef219e64628e71bceb1bca82348" />
+	</machine>
+	<machine name="SJG37-0309 - Dungeon Fantasy 5 - Allies">
+		<description>SJG37-0309 - Dungeon Fantasy 5 - Allies</description>
+		<rom name="SJG37-0309 - Dungeon Fantasy 5 - Allies.pdf" size="609427" crc="9d9f3f39" md5="fb6658d4f056767b58e9727180714ba1" sha1="6a3aee6a096805c6d3d73a70274e433e9797835f" />
+	</machine>
+	<machine name="SJG37-0310 - Dungeon Fantasy 6 - 40 Artifacts">
+		<description>SJG37-0310 - Dungeon Fantasy 6 - 40 Artifacts</description>
+		<rom name="SJG37-0310 - Dungeon Fantasy 6 - 40 Artifacts.pdf" size="559623" crc="7f591100" md5="98b2951cb279daf85aeb4db50be3cb9d" sha1="7457c61715b317cae6f031fa866df083e6287f82" />
+	</machine>
+	<machine name="SJG37-0311 - Dungeon Fantasy 7 - Clerics">
+		<description>SJG37-0311 - Dungeon Fantasy 7 - Clerics</description>
+		<rom name="SJG37-0311 - Dungeon Fantasy 7 - Clerics.pdf" size="980201" crc="e160153b" md5="cc703779b024a6cedd370c5c6c0b5090" sha1="70d45e6dead7d6a3bd804a4f94ebdd6e73d2face" />
+	</machine>
+	<machine name="SJG37-0312 - Action 3 - Furious Fists">
+		<description>SJG37-0312 - Action 3 - Furious Fists</description>
+		<rom name="SJG37-0312 - Action 3 - Furious Fists.pdf" size="537884" crc="a4cf313d" md5="0f7ddafe39c8650d30f6c067b3cd659c" sha1="6e7b2c89bb2abaf6ef0e5a47aeec4191d09c6f7b" />
+	</machine>
+	<machine name="SJG37-0313 - Dungeon Fantasy 8 - Treasure Tables">
+		<description>SJG37-0313 - Dungeon Fantasy 8 - Treasure Tables</description>
+		<rom name="SJG37-0313 - Dungeon Fantasy 8 - Treasure Tables.pdf" size="1395261" crc="79e69a4b" md5="cdd5d525de7fefa920d97360a22e400a" sha1="1f24cabd2a927b869d9a921055e380e829105e9c" />
+	</machine>
+	<machine name="SJG37-0314 - Dungeon Fantasy 9 - Summoners">
+		<description>SJG37-0314 - Dungeon Fantasy 9 - Summoners</description>
+		<rom name="SJG37-0314 - Dungeon Fantasy 9 - Summoners.pdf" size="831181" crc="4ec348db" md5="4922f4b4c85d2ffc1bead648700f3ac4" sha1="edff4c45c2d3a079ad858a5d65e9be0334307adf" />
+	</machine>
+	<machine name="SJG37-0315 - Dungeon Fantasy 10 - Taverns">
+		<description>SJG37-0315 - Dungeon Fantasy 10 - Taverns</description>
+		<rom name="SJG37-0315 - Dungeon Fantasy 10 - Taverns.pdf" size="3101030" crc="5b9aba44" md5="53fd6940f721553f33851558e53ebc3d" sha1="5c2dcaed67c237e4577656942c98c0c366c1fd38" />
+	</machine>
+	<machine name="SJG37-0316 - Dungeon Fantasy 11 - Power-Ups">
+		<description>SJG37-0316 - Dungeon Fantasy 11 - Power-Ups</description>
+		<rom name="SJG37-0316 - Dungeon Fantasy 11 - Power-Ups.pdf" size="2782527" crc="6b25d250" md5="c79689608faf56cf9333b4a4fd9b54dd" sha1="f44316ab2339b1413426df67ce6d08399f6de1c6" />
+	</machine>
+	<machine name="SJG37-0317 - Monster Hunters 1 - Champions">
+		<description>SJG37-0317 - Monster Hunters 1 - Champions</description>
+		<rom name="SJG37-0317 - Monster Hunters 1 - Champions.pdf" size="2250580" crc="68b179af" md5="b2c0023ea81b17193387c1fc3154c4cc" sha1="40adcb433e9d7eed48dee6564e99ce2cc43f3d1f" />
+	</machine>
+	<machine name="SJG37-0318 - Monster Hunters 2 - The Mission">
+		<description>SJG37-0318 - Monster Hunters 2 - The Mission</description>
+		<rom name="SJG37-0318 - Monster Hunters 2 - The Mission.pdf" size="1900755" crc="9bd74b8e" md5="d24f53e03c5f80b261d60448123a3b08" sha1="4c2a7a24f4415ca5be5a4f2f49e6bba361c6b0bb" />
+	</machine>
+	<machine name="SJG37-0319 - Monster Hunters 3 - The Enemy">
+		<description>SJG37-0319 - Monster Hunters 3 - The Enemy</description>
+		<rom name="SJG37-0319 - Monster Hunters 3 - The Enemy.pdf" size="2730771" crc="6afa2fd5" md5="437ee944b3eb1e70483de100a5595b2f" sha1="3ec0e4b8347ad01c469312888adf2eba3db17738" />
+	</machine>
+	<machine name="SJG37-0320 - Monster Hunters 4 - Sidekicks">
+		<description>SJG37-0320 - Monster Hunters 4 - Sidekicks</description>
+		<rom name="SJG37-0320 - Monster Hunters 4 - Sidekicks.pdf" size="999241" crc="972f50e6" md5="1f8e28753ba49d8f7abb87b016455e90" sha1="fc27e0894f1db25598d9bdfc864cf6a9d99bb193" />
+	</machine>
+	<machine name="SJG37-0321 - Dungeon Fantasy 12 - Ninja">
+		<description>SJG37-0321 - Dungeon Fantasy 12 - Ninja</description>
+		<rom name="SJG37-0321 - Dungeon Fantasy 12 - Ninja.pdf" size="1177668" crc="0e6ba5e3" md5="05c3555715f1fe4a98056e2e3520ed0f" sha1="fcc9cc9042649869d9602ae4b827e986b341f7c8" />
+	</machine>
+	<machine name="SJG37-0322 - Dungeon Fantasy Monsters 1">
+		<description>SJG37-0322 - Dungeon Fantasy Monsters 1</description>
+		<rom name="SJG37-0322 - Dungeon Fantasy Monsters 1.pdf" size="6382689" crc="64c01e98" md5="078b8350394ea4455cdff0822866c7ea" sha1="9769b18d01681df4e74b39b1ae922b86ea5c72c7" />
+	</machine>
+	<machine name="SJG37-0323 - Dungeon Fantasy 13 - Loadouts">
+		<description>SJG37-0323 - Dungeon Fantasy 13 - Loadouts</description>
+		<rom name="SJG37-0323 - Dungeon Fantasy 13 - Loadouts.pdf" size="1379258" crc="92a25ba7" md5="4ff88f1f66bc1b405dbbd59288c41add" sha1="8fe87ce127eebad5a50c5d08dfc0bc9d699266b2" />
+	</machine>
+	<machine name="SJG37-0324 - Dungeon Fantasy 14 - Psi">
+		<description>SJG37-0324 - Dungeon Fantasy 14 - Psi</description>
+		<rom name="SJG37-0324 - Dungeon Fantasy 14 - Psi.pdf" size="1460491" crc="477cdc60" md5="7e2847199ff0061d4a5256a792e51e76" sha1="006a4fc96d45bd448f027d5125aa12a5cebc3430" />
+	</machine>
+	<machine name="SJG37-0325 - Dungeon Fantasy Adventure 1 - Mirror Of The Fire Demon">
+		<description>SJG37-0325 - Dungeon Fantasy Adventure 1 - Mirror Of The Fire Demon</description>
+		<rom name="SJG37-0325 - Dungeon Fantasy Adventure 1 - Mirror Of The Fire Demon.pdf" size="3507661" crc="2e7aef82" md5="ff96827dc0e47dd4fbe84d5f9361fa73" sha1="0b2d8ed3605b5f008cb2d9467826a4c28a5b5550" />
+	</machine>
+	<machine name="SJG37-0326 - Dungeon Fantasy 15 - Henchmen">
+		<description>SJG37-0326 - Dungeon Fantasy 15 - Henchmen</description>
+		<rom name="SJG37-0326 - Dungeon Fantasy 15 - Henchmen.pdf" size="1778452" crc="537f5089" md5="14f20453c164762bea621c80e963c0a8" sha1="66d4a4be2c849872ae0597ad5c60d1bac2407cf3" />
+	</machine>
+	<machine name="SJG37-0327 - Dungeon Fantasy 16 - Wilderness Adventures">
+		<description>SJG37-0327 - Dungeon Fantasy 16 - Wilderness Adventures</description>
+		<rom name="SJG37-0327 - Dungeon Fantasy 16 - Wilderness Adventures.pdf" size="2338892" crc="4ae044d6" md5="d8d8bb8d13c14ab4343e431e685c364c" sha1="768283aaac293ea8bedab38e824d26b4eebaa780" />
+	</machine>
+	<machine name="SJG37-0328 - Monster Hunters 5 - Applied Xenology">
+		<description>SJG37-0328 - Monster Hunters 5 - Applied Xenology</description>
+		<rom name="SJG37-0328 - Monster Hunters 5 - Applied Xenology.pdf" size="1693079" crc="6a424557" md5="02f3f1a5ed762aaf823b22be454d9903" sha1="b69abd597167c7d0e3bde0ce27c45ef3775a9dee" />
+	</machine>
+	<machine name="SJG37-0329 - Dungeon Fantasy Monsters 2 - Icky Goo">
+		<description>SJG37-0329 - Dungeon Fantasy Monsters 2 - Icky Goo</description>
+		<rom name="SJG37-0329 - Dungeon Fantasy Monsters 2 - Icky Goo.pdf" size="3237630" crc="fd369ed2" md5="b33c2442dcbdc461cc8abce00c8192c1" sha1="7ba393ca95abcecb4efd14b52951900b784e753b" />
+	</machine>
+	<machine name="SJG37-0330 - Dungeon Fantasy Denizens - Barbarians">
+		<description>SJG37-0330 - Dungeon Fantasy Denizens - Barbarians</description>
+		<rom name="SJG37-0330 - Dungeon Fantasy Denizens - Barbarians.pdf" size="1361795" crc="405d9215" md5="75b21d400f5b14cc88b9af5e6bd07611" sha1="cbb67f86c2a412c63b83c6d3e35dc32678c4ddaa" />
+	</machine>
+	<machine name="SJG37-0331 - Action 4 - Specialists">
+		<description>SJG37-0331 - Action 4 - Specialists</description>
+		<rom name="SJG37-0331 - Action 4 - Specialists.pdf" size="1346733" crc="c654ed03" md5="cf8033293a3e862e65e5c68d5339f880" sha1="428da51e5a4d644d4125e9d7a588d5db35ba94b5" />
+	</machine>
+	<machine name="SJG37-0332 - Dungeon Fantasy Treasures 1 - Glittering Prizes">
+		<description>SJG37-0332 - Dungeon Fantasy Treasures 1 - Glittering Prizes</description>
+		<rom name="SJG37-0332 - Dungeon Fantasy Treasures 1 - Glittering Prizes.pdf" size="1379219" crc="01e45f73" md5="e562fc4a0bb438166e7791f212843c1b" sha1="c17e2d1bb302a11e68d8d8e7c48de2cd3e191e13" />
+	</machine>
+	<machine name="SJG37-0333 - Dungeon Fantasy 17 - Guilds">
+		<description>SJG37-0333 - Dungeon Fantasy 17 - Guilds</description>
+		<rom name="SJG37-0333 - Dungeon Fantasy 17 - Guilds.pdf" size="2121490" crc="a2d5cbfe" md5="8dd6d903872e7a95d187f90eb2ac3072" sha1="8fdd1a0e28003e808736dd06a325fe0e5cc3f982" />
+	</machine>
+	<machine name="SJG37-0334 - Dungeon Fantasy 18 - Power Items">
+		<description>SJG37-0334 - Dungeon Fantasy 18 - Power Items</description>
+		<rom name="SJG37-0334 - Dungeon Fantasy 18 - Power Items.pdf" size="860261" crc="72668abd" md5="4628c9ced0110019f386396cf0ae66d1" sha1="91c0a551b920b55213d372a8f237352691f5f1ee" />
+	</machine>
+	<machine name="SJG37-0335 - After the End 1 - Wastelanders">
+		<description>SJG37-0335 - After the End 1 - Wastelanders</description>
+		<rom name="SJG37-0335 - After the End 1 - Wastelanders.pdf" size="2231396" crc="4ad43e1a" md5="e74390102833dbce074ca10647aa8d3a" sha1="ddffa1b9e962cb9ec316f041ff2200fe5c1ff143" />
+	</machine>
+	<machine name="SJG37-0336 - After the End 2 - The New World">
+		<description>SJG37-0336 - After the End 2 - The New World</description>
+		<rom name="SJG37-0336 - After the End 2 - The New World.pdf" size="2580232" crc="1e9de684" md5="c652b6d7d3fbd56ad042181ed342191b" sha1="17051f7f099fe7eef531491d91d2cfb9c17c5ea5" />
+	</machine>
+	<machine name="SJG37-0337 - Dungeon Fantasy Treasures 2 - Epic Treatures">
+		<description>SJG37-0337 - Dungeon Fantasy Treasures 2 - Epic Treatures</description>
+		<rom name="SJG37-0337 - Dungeon Fantasy Treasures 2 - Epic Treatures.pdf" size="884660" crc="7e11fc1f" md5="c89f43e3524fbd29ccc1aad37cdbb31a" sha1="d38f7593ffd7ba2047377690bdfe6281c9d2e693" />
+	</machine>
+	<machine name="SJG37-0338 - Dungeon Fantasy Monsters 3 - Born of Myth &amp; Magic [w]">
+		<description>SJG37-0338 - Dungeon Fantasy Monsters 3 - Born of Myth &amp; Magic [w]</description>
+		<rom name="SJG37-0338 - Dungeon Fantasy Monsters 3 - Born of Myth &amp; Magic [w].pdf" size="3893458" crc="75924fd1" md5="948bea09396f91be5d759751b3a63cb0" sha1="110d452b72ca5c8abc8cb34ea6ede43a5ad90e81" />
+	</machine>
+	<machine name="SJG37-0339 - Steampunk 1 - Settings and Style">
+		<description>SJG37-0339 - Steampunk 1 - Settings and Style</description>
+		<rom name="SJG37-0339 - Steampunk 1 - Settings and Style.pdf" size="2494654" crc="3d85b256" md5="768e0047abfcf911b10d7986e258ae9e" sha1="77ba1ab625a201f0d6c829f0a38f1b199c1c1ac2" />
+	</machine>
+	<machine name="SJG37-0340 - Dungeon Fantasy 19 - Incantation Magic">
+		<description>SJG37-0340 - Dungeon Fantasy 19 - Incantation Magic</description>
+		<rom name="SJG37-0340 - Dungeon Fantasy 19 - Incantation Magic.pdf" size="1551501" crc="05b7e013" md5="6fc131c61d357007741c2e0801f88d5a" sha1="cd82ff4a3d084ff0900891dc2ed6a2bc434a67f6" />
+	</machine>
+	<machine name="SJG37-0341 - Dungeon Fantasy Denizens - Swashbucklers">
+		<description>SJG37-0341 - Dungeon Fantasy Denizens - Swashbucklers</description>
+		<rom name="SJG37-0341 - Dungeon Fantasy Denizens - Swashbucklers.pdf" size="1886007" crc="59335dfc" md5="ef6ba7bf2eeb00d67d8843f7f61017f6" sha1="572db623ca9c95299e387ceed9f703daa80b088a" />
+	</machine>
+	<machine name="SJG37-0342 - Dungeon Fantasy Encounters 1 The Pagoda of Worlds [w]">
+		<description>SJG37-0342 - Dungeon Fantasy Encounters 1 The Pagoda of Worlds [w]</description>
+		<rom name="SJG37-0342 - Dungeon Fantasy Encounters 1 The Pagoda of Worlds [w].pdf" size="5226941" crc="bd651138" md5="cf34d69284d20b56eec6bc281aa4628a" sha1="ef4b7068ae4d06b9280815044c5d4dabbb6d10b1" />
+	</machine>
+	<machine name="SJG37-0343 - Dungeon Fantasy Setting - Caverntown">
+		<description>SJG37-0343 - Dungeon Fantasy Setting - Caverntown</description>
+		<rom name="SJG37-0343 - Dungeon Fantasy Setting - Caverntown.pdf" size="3356353" crc="20c0f4da" md5="0d2f9f39754c7f34ee050956a0671145" sha1="01f35d8da38872cfb82273f2063f7ae2997693f2" />
+	</machine>
+	<machine name="SJG37-0344 - Steampunk 2  - Steam and Shellfire [w]">
+		<description>SJG37-0344 - Steampunk 2  - Steam and Shellfire [w]</description>
+		<rom name="SJG37-0344 - Steampunk 2  - Steam and Shellfire [w].pdf" size="7749926" crc="650c21ce" md5="5ada95b48d1f7ce6c8855bc86c8c2cc4" sha1="062b1b22e075d4058e5f1878ffd4a0b15cf4f210" />
+	</machine>
+	<machine name="SJG37-0345 - Dungeon Fantasy Adventure 2 - Tomb of the Dragon King">
+		<description>SJG37-0345 - Dungeon Fantasy Adventure 2 - Tomb of the Dragon King</description>
+		<rom name="SJG37-0345 - Dungeon Fantasy Adventure 2 - Tomb of the Dragon King.pdf" size="8853432" crc="c073086c" md5="4de13e4c93a73983b7a9163d573dad64" sha1="3ae71c72c0bd1cd091011bf75476eb832cc3bea3" />
+	</machine>
+	<machine name="SJG37-0346 - Dungeon Fantasy Monsters 4 - Dragons">
+		<description>SJG37-0346 - Dungeon Fantasy Monsters 4 - Dragons</description>
+		<rom name="SJG37-0346 - Dungeon Fantasy Monsters 4 - Dragons.pdf" size="2798744" crc="d0f30eae" md5="f5d33e3989416605037ca8e90d48fe38" sha1="bb096619e2c1f6326399ecf019f4e24b9d8f5289" />
+	</machine>
+	<machine name="SJG37-0347 - Monster Hunters 6 - Holy Hunters">
+		<description>SJG37-0347 - Monster Hunters 6 - Holy Hunters</description>
+		<rom name="SJG37-0347 - Monster Hunters 6 - Holy Hunters.pdf" size="1150135" crc="693a96ab" md5="e299a92b021776ee310b8483e9eb43d5" sha1="efd9410b5a87529fef88ad34d4dfe6e3abf31c15" />
+	</machine>
+	<machine name="SJG37-0348 - Action 5 - Dictionary of Danger">
+		<description>SJG37-0348 - Action 5 - Dictionary of Danger</description>
+		<rom name="SJG37-0348 - Action 5 - Dictionary of Danger.pdf" size="2468889" crc="ed04613c" md5="00534bf29ebaf20723a8b29a24f5fd07" sha1="1f607a9224e4821c68f31048740820aed1402b35" />
+	</machine>
+	<machine name="SJG37-0349 - Steampunk 3 - Soldiers and Scientists">
+		<description>SJG37-0349 - Steampunk 3 - Soldiers and Scientists</description>
+		<rom name="SJG37-0349 - Steampunk 3 - Soldiers and Scientists.pdf" size="4235094" crc="bbf50d07" md5="2b386a719e09e93cee82d7d1644aeda9" sha1="99a39c1d44cd0b9ac55474ded896fc914ec24960" />
+	</machine>
+	<machine name="SJG37-0350 - Dungeon Fantasy 20 - Slayers">
+		<description>SJG37-0350 - Dungeon Fantasy 20 - Slayers</description>
+		<rom name="SJG37-0350 - Dungeon Fantasy 20 - Slayers.pdf" size="4748080" crc="f3ca066d" md5="f73db1d2f6fda5b94d352cd41190e56e" sha1="fabe39e376b19595a12c65d59e2f8cfb258678c3" />
+	</machine>
+	<machine name="SJG37-0351 - Dungeon Fantasy Treasures 3 - Artifacts of Felltower">
+		<description>SJG37-0351 - Dungeon Fantasy Treasures 3 - Artifacts of Felltower</description>
+		<rom name="SJG37-0351 - Dungeon Fantasy Treasures 3 - Artifacts of Felltower.pdf" size="2435127" crc="92de2b76" md5="a102f888b276ae42742db11d3127f1d5" sha1="7de20042b28919ec2421d27ffce5f9f42eade61d" />
+	</machine>
+	<machine name="SJG37-0352 - Monster Hunters - Power Ups 1">
+		<description>SJG37-0352 - Monster Hunters - Power Ups 1</description>
+		<rom name="SJG37-0352 - Monster Hunters - Power Ups 1.pdf" size="2632478" crc="bf16015b" md5="e6c539ef8beba60031a29069ff01e293" sha1="673a279ed5b6db9bdbe0567d78ea80e3702bde16" />
+	</machine>
+	<machine name="SJG37-0354 - Steampunk Setting - The Broken Clockwork World">
+		<description>SJG37-0354 - Steampunk Setting - The Broken Clockwork World</description>
+		<rom name="SJG37-0354 - Steampunk Setting - The Broken Clockwork World.pdf" size="4274645" crc="f92ca0a8" md5="8aae688722486592b2d0514012227085" sha1="1eb4fc6a6e14a68f5ecc67f942985590c7acb1b7" />
+	</machine>
+	<machine name="SJG37-0355 - Dungeon Fantasy Adventure 3 - Deep Night and the Star">
+		<description>SJG37-0355 - Dungeon Fantasy Adventure 3 - Deep Night and the Star</description>
+		<rom name="SJG37-0355 - Dungeon Fantasy Adventure 3 - Deep Night and the Star.pdf" size="6333798" crc="2d9462ad" md5="5c61ba6dbdeb4ca910b7400f25293f54" sha1="aa18ae1a0c70bcea1a87a1d0c9827ed05c52ae7b" />
+	</machine>
+	<machine name="SJG37-0356 - Dungeon Fantasy 21 - Megadungeons">
+		<description>SJG37-0356 - Dungeon Fantasy 21 - Megadungeons</description>
+		<rom name="SJG37-0356 - Dungeon Fantasy 21 - Megadungeons.pdf" size="4980484" crc="2e3c9fcd" md5="9a89d36cb06da7eadf1fb897c61a2509" sha1="6fc8cec6b61b69f71db0450c62d869cbc06652ef" />
+	</machine>
+	<machine name="SJG37-0357 - How To Be A GURPS GM - Ritual Path Magic">
+		<description>SJG37-0357 - How To Be A GURPS GM - Ritual Path Magic</description>
+		<rom name="SJG37-0357 - How To Be A GURPS GM - Ritual Path Magic.pdf" size="4098834" crc="d691d9ea" md5="4556ddf956217a5230b969420f197b75" sha1="314462badd4c22344698bc47601816dc1016b5df" />
+	</machine>
+	<machine name="SJG37-0358 - Action 6 - Tricked-Out Rides">
+		<description>SJG37-0358 - Action 6 - Tricked-Out Rides</description>
+		<rom name="SJG37-0358 - Action 6 - Tricked-Out Rides.pdf" size="3525305" crc="9491e785" md5="77ee3ba2b7812c3c79bcabf5572acd41" sha1="61381b85cc340a3df69df2760e3c242636fb51a7" />
+	</machine>
+	<machine name="SJG37-0359 - Action 7 - Mercenaries">
+		<description>SJG37-0359 - Action 7 - Mercenaries</description>
+		<rom name="SJG37-0359 - Action 7 - Mercenaries.pdf" size="3856874" crc="69a57aa7" md5="f502bfdadd8e06f36747539f633191d9" sha1="0550d2c54d2471cdc7a7daea058ac9a3e89174af" />
+	</machine>
+	<machine name="SJG37-0360 - Monster Hunters - Encounters 1">
+		<description>SJG37-0360 - Monster Hunters - Encounters 1</description>
+		<rom name="SJG37-0360 - Monster Hunters - Encounters 1.pdf" size="5128577" crc="9d6d3c6a" md5="e4c68712b5a1733896667bcf905e02bb" sha1="123da523a6be3eaf516707cdd03a20732816b50e" />
+	</machine>
+	<machine name="SJG37-0361 - Dungeon Fantasy - Career Guide">
+		<description>SJG37-0361 - Dungeon Fantasy - Career Guide</description>
+		<rom name="SJG37-0361 - Dungeon Fantasy - Career Guide.pdf" size="3237057" crc="62d107d8" md5="66c96ae4b6be492fbf721a75a9403d65" sha1="55681226159cd49bca0d3fb76ca4101acf47a0a0" />
+	</machine>
+	<machine name="SJG37-0362 - Dungeon Fantasy Encounters 2 - The Room">
+		<description>SJG37-0362 - Dungeon Fantasy Encounters 2 - The Room</description>
+		<rom name="SJG37-0362 - Dungeon Fantasy Encounters 2 - The Room.pdf" size="10954250" crc="83b5e54f" md5="db56223a78a1231441410771b2a5eeae" sha1="b2a1c5ae42942cf1bcd3b764dbfe7a182e62d682" />
+	</machine>
+	<machine name="SJG37-0363 - Dungeon Fantasy Encounters 3 - The Carnival of Madness">
+		<description>SJG37-0363 - Dungeon Fantasy Encounters 3 - The Carnival of Madness</description>
+		<rom name="SJG37-0363 - Dungeon Fantasy Encounters 3 - The Carnival of Madness.pdf" size="5773701" crc="cbda9bdd" md5="d570c0cf5a0b9b93dc42202206b7cc63" sha1="102fae8089affaa770813888603895a92ca89496" />
+	</machine>
+	<machine name="SJG37-0364 - Dungeon Fantasy Treasures 4 - Mixed Blessings">
+		<description>SJG37-0364 - Dungeon Fantasy Treasures 4 - Mixed Blessings</description>
+		<rom name="SJG37-0364 - Dungeon Fantasy Treasures 4 - Mixed Blessings.pdf" size="1811485" crc="e1b04eba" md5="37641db14f869d5a78fed609db24bb9b" sha1="56a24b25abb957d857a049b34cc972e9c2585410" />
+	</machine>
+	<machine name="SJG37-0365 - Furries">
+		<description>SJG37-0365 - Furries</description>
+		<rom name="SJG37-0365 - Furries.pdf" size="2296195" crc="b6df27db" md5="8694c4823596f9beedf108d5abf6693d" sha1="a7b77a8480baece9f806de66f7d544a16096154a" />
+	</machine>
+	<machine name="SJG37-0601 - Casey &amp; Andy">
+		<description>SJG37-0601 - Casey &amp; Andy</description>
+		<rom name="SJG37-0601 - Casey &amp; Andy.pdf" size="2740254" crc="b6e0a427" md5="c6797a2da9e1a40d907affee4676cb38" sha1="220ad0890355fd05eb7d75b80b4f6bc37055d696" />
+	</machine>
+	<machine name="SJG37-0602 - Lands Out Of Time">
+		<description>SJG37-0602 - Lands Out Of Time</description>
+		<rom name="SJG37-0602 - Lands Out Of Time.pdf" size="1443652" crc="21271f78" md5="9655720711a1befeeed27fd17eb4e125" sha1="1e1cacede6efef249597dac31f061214ad68d4bf" />
+	</machine>
+	<machine name="SJG37-0603 - SEALs In Vietnam">
+		<description>SJG37-0603 - SEALs In Vietnam</description>
+		<rom name="SJG37-0603 - SEALs In Vietnam.pdf" size="1568669" crc="403dd8e4" md5="cf6acf3b02aeec6ece01873ec333ff48" sha1="42825cd4c12cd4ca844130ca6d9ba6bca0b738bf" />
+	</machine>
+	<machine name="SJG37-0604 - Tales Of The Solar Patrol">
+		<description>SJG37-0604 - Tales Of The Solar Patrol</description>
+		<rom name="SJG37-0604 - Tales Of The Solar Patrol.pdf" size="9411349" crc="ae04e059" md5="8c61ac60f1367ec6c783aa9a626a6e78" sha1="47077e8b7949bf96bbf48867b5f2a280e5c15fd6" />
+	</machine>
+	<machine name="SJG37-0605 - Infinite Worlds - Britannica-6">
+		<description>SJG37-0605 - Infinite Worlds - Britannica-6</description>
+		<rom name="SJG37-0605 - Infinite Worlds - Britannica-6.pdf" size="1940381" crc="9ad762e6" md5="e721d11814d1eeee003ddc650052cf60" sha1="d2da53d0a93e4619cc1524845180557e1970ebfb" />
+	</machine>
+	<machine name="SJG37-0606 - Infinite Worlds - Collegio Januari">
+		<description>SJG37-0606 - Infinite Worlds - Collegio Januari</description>
+		<rom name="SJG37-0606 - Infinite Worlds - Collegio Januari.pdf" size="922870" crc="d47e2f2b" md5="75a96aa6809876843e4bec84b2373dae" sha1="ecc9aba93bd65e5c7dbf21d9772fe44a138cd7d9" />
+	</machine>
+	<machine name="SJG37-0607 - Thaumatology - Alchemical Baroque">
+		<description>SJG37-0607 - Thaumatology - Alchemical Baroque</description>
+		<rom name="SJG37-0607 - Thaumatology - Alchemical Baroque.pdf" size="1210824" crc="bcebd08e" md5="e9dd5e632a8ec1e6154b77a0ec9a9860" sha1="58c6e88b5524b5aebaeb07cdec5b2edc4cce261f" />
+	</machine>
+	<machine name="SJG37-0608 - Crusades">
+		<description>SJG37-0608 - Crusades</description>
+		<rom name="SJG37-0608 - Crusades.pdf" size="3710826" crc="17b5eed7" md5="c32db7eb677f9152e048407e8132a3bc" sha1="e23534ad5e76311d82d34560d951a6bef7a99056" />
+	</machine>
+	<machine name="SJG37-0609 - Reign of Steel - Will to Live">
+		<description>SJG37-0609 - Reign of Steel - Will to Live</description>
+		<rom name="SJG37-0609 - Reign of Steel - Will to Live.pdf" size="1648877" crc="3d0e58d5" md5="8e2055b5e20f0768464b3260e435eb15" sha1="1a56437ffa4326d5b8e752f23d88489d7719d071" />
+	</machine>
+	<machine name="SJG37-0660 - Hot Spots - Renaissance Florence">
+		<description>SJG37-0660 - Hot Spots - Renaissance Florence</description>
+		<rom name="SJG37-0660 - Hot Spots - Renaissance Florence.pdf" size="1130723" crc="0a7fef86" md5="958a120b73dfc87b762d2f9a2713846c" sha1="bb389cbbe4942cf5fda191791f16f4d4c810f980" />
+	</machine>
+	<machine name="SJG37-0661 - Hot Spots - Constantinople, 527-1204 AD">
+		<description>SJG37-0661 - Hot Spots - Constantinople, 527-1204 AD</description>
+		<rom name="SJG37-0661 - Hot Spots - Constantinople, 527-1204 AD.pdf" size="2054009" crc="3015989a" md5="166d4379ce2046533abcad28d7b8b7be" sha1="757fd8b7b8ad8020cb2bf6c1df24af8a4ce19f9c" />
+	</machine>
+	<machine name="SJG37-0662 - Hot Spots - The Silk Road">
+		<description>SJG37-0662 - Hot Spots - The Silk Road</description>
+		<rom name="SJG37-0662 - Hot Spots - The Silk Road.pdf" size="9284344" crc="17bb0999" md5="415e1428c5daa6f55da39a63bf58df3b" sha1="4479a4dc9ae98ca7965f926a54e8482b2a4cf3f1" />
+	</machine>
+	<machine name="SJG37-0663 - Hot Spots - Renaissance Venice">
+		<description>SJG37-0663 - Hot Spots - Renaissance Venice</description>
+		<rom name="SJG37-0663 - Hot Spots - Renaissance Venice.pdf" size="6268595" crc="d9406a4a" md5="d7a734f7d527aeff264c98779c9c087e" sha1="6167ca311169a422facc45bc4af74d61c55cfcaa" />
+	</machine>
+	<machine name="SJG37-0664 - Hot Spots - The Incense Trail">
+		<description>SJG37-0664 - Hot Spots - The Incense Trail</description>
+		<rom name="SJG37-0664 - Hot Spots - The Incense Trail.pdf" size="4586861" crc="56d2a0d8" md5="646ff56889ba13fe4ba80145ca86726b" sha1="ff5a5bd3cc385dada6c7ec59bd491ec265bbb884" />
+	</machine>
+	<machine name="SJG37-1101 - Lair Of The Fat Man">
+		<description>SJG37-1101 - Lair Of The Fat Man</description>
+		<rom name="SJG37-1101 - Lair Of The Fat Man.pdf" size="2282956" crc="efd1327c" md5="760d365db721a98609ffa37b81304e44" sha1="cecf4db3db8ba82d36cfa631f144a445b2db4579" />
+	</machine>
+	<machine name="SJG37-1102 - Big Lizzie">
+		<description>SJG37-1102 - Big Lizzie</description>
+		<rom name="SJG37-1102 - Big Lizzie.pdf" size="2780726" crc="d999b3e3" md5="e686907975b286dda6909ec9219b40d5" sha1="c7722490b3cbdeb46f1ff07b94853abbd8854b69" />
+	</machine>
+	<machine name="SJG37-1120 - MacGuffin Alphabet">
+		<description>SJG37-1120 - MacGuffin Alphabet</description>
+		<rom name="SJG37-1120 - MacGuffin Alphabet.pdf" size="324233" crc="1d6e8213" md5="10d4b0b55e3c5765a0d4e6b2496ccb1f" sha1="f8ab0fd5bf0d99184542888d341b665bc221c064" />
+	</machine>
+	<machine name="SJG37-1121 - Alphabet Arcane">
+		<description>SJG37-1121 - Alphabet Arcane</description>
+		<rom name="SJG37-1121 - Alphabet Arcane.pdf" size="560954" crc="8e7c5efe" md5="53ec580d5ceae4891757db3a2484f585" sha1="858772e044edb36942a15005b44c4f3d5fbb75e0" />
+	</machine>
+	<machine name="SJG37-1122 - Alphabet Arcane - Lost Serifs">
+		<description>SJG37-1122 - Alphabet Arcane - Lost Serifs</description>
+		<rom name="SJG37-1122 - Alphabet Arcane - Lost Serifs.pdf" size="433558" crc="150ccf1d" md5="aa28482c30ee2bd2a704e8e592bb9163" sha1="970e40d7ca9a25c77974aed579e69851d17a5d8e" />
+	</machine>
+	<machine name="SJG37-1191 - Reign of Steel - Read the Sky">
+		<description>SJG37-1191 - Reign of Steel - Read the Sky</description>
+		<rom name="SJG37-1191 - Reign of Steel - Read the Sky.pdf" size="9696983" crc="02d2f2e6" md5="a445f6b793e2880431523580c9a8ed94" sha1="a2eda2af3febfb0909eec2d34ee75361fc0602db" />
+	</machine>
+	<machine name="SJG37-1192 - Horror - Beyond the Pale">
+		<description>SJG37-1192 - Horror - Beyond the Pale</description>
+		<rom name="SJG37-1192 - Horror - Beyond the Pale.pdf" size="4056273" crc="fd788d2a" md5="2603e32f62d8fc23aef2c9e9c0e14f08" sha1="76ab295b61da0ae723c88580a537c81c71271ff3" />
+	</machine>
+	<machine name="SJG37-1411 - Locations - Metro of Madness">
+		<description>SJG37-1411 - Locations - Metro of Madness</description>
+		<rom name="SJG37-1411 - Locations - Metro of Madness.pdf" size="784010" crc="35f8a63a" md5="05fa86c45295ccb90b4af81d955adc83" sha1="7f311075ecfe4054513f28925d0a8be1fce858d1" />
+	</machine>
+	<machine name="SJG37-1412 - Locations - The Tower of Octavius">
+		<description>SJG37-1412 - Locations - The Tower of Octavius</description>
+		<rom name="SJG37-1412 - Locations - The Tower of Octavius.pdf" size="2043044" crc="5c3fdbfb" md5="1db1d9ae70a4bb1a190644ef9dd1fd54" sha1="49b12a96a2414fded50aca42b3d76efb3839f061" />
+	</machine>
+	<machine name="SJG37-1413 - Locations - Hellsgate">
+		<description>SJG37-1413 - Locations - Hellsgate</description>
+		<rom name="SJG37-1413 - Locations - Hellsgate.pdf" size="1993396" crc="91fd5e91" md5="16d8695dd3f2a6c1621629eefedefca2" sha1="0d3637c044747dc87bd33bf78429f4da4aec03d3" />
+	</machine>
+	<machine name="SJG37-1414 - Locations - Worminghall">
+		<description>SJG37-1414 - Locations - Worminghall</description>
+		<rom name="SJG37-1414 - Locations - Worminghall.pdf" size="2538114" crc="785db2c8" md5="f4ee399113022041fb58b4b1f8340204" sha1="95f0b8a1a3116ce5013a0a9f5ffc508dd3c64a54" />
+	</machine>
+	<machine name="SJG37-1415 - Locations - St. Georges Cathedral">
+		<description>SJG37-1415 - Locations - St. Georges Cathedral</description>
+		<rom name="SJG37-1415 - Locations - St. Georges Cathedral.pdf" size="1665492" crc="a81ad0f7" md5="1c9d0075403c1865e198081bf7f7bd3a" sha1="b78a8dbde4d9493fe49b755591d92dd586633ed0" />
+	</machine>
+	<machine name="SJG37-1540 - Supporting Cast - Age Of Sail Pirate Crew">
+		<description>SJG37-1540 - Supporting Cast - Age Of Sail Pirate Crew</description>
+		<rom name="SJG37-1540 - Supporting Cast - Age Of Sail Pirate Crew.pdf" size="1267002" crc="5fc53d81" md5="12a9760722ecfd366ff5922997216f94" sha1="bec4fdc0ce7fa264bfb209f2db3bac32f24951a3" />
+	</machine>
+	<machine name="SJG37-1560 - Creatures Of The Night - Vol. 1">
+		<description>SJG37-1560 - Creatures Of The Night - Vol. 1</description>
+		<rom name="SJG37-1560 - Creatures Of The Night - Vol. 1.pdf" size="16633985" crc="b9b90eff" md5="ddac7fa0b305f139e10a1c55ae4e62e7" sha1="a6ddcbc8a3d39367e30333bbda003eef0efcafb7" />
+	</machine>
+	<machine name="SJG37-1561 - Creatures Of The Night - Vol. 2 [w]">
+		<description>SJG37-1561 - Creatures Of The Night - Vol. 2 [w]</description>
+		<rom name="SJG37-1561 - Creatures Of The Night - Vol. 2 [w].pdf" size="1086078" crc="1396fb49" md5="aa313f0ea00bfb5c6cd195bd2032365f" sha1="e2e890f8f990600fbffe580f11e06c73a3d59c4e" />
+	</machine>
+	<machine name="SJG37-1562 - Creatures Of The Night - Vol. 3">
+		<description>SJG37-1562 - Creatures Of The Night - Vol. 3</description>
+		<rom name="SJG37-1562 - Creatures Of The Night - Vol. 3.pdf" size="757130" crc="9ee8590c" md5="44605171137fd89d9ab48e8578313b13" sha1="471a2532f7ed404b3bce6d9b458348e2e69fe7d3" />
+	</machine>
+	<machine name="SJG37-1563 - Creatures Of The Night - Vol. 4 [w]">
+		<description>SJG37-1563 - Creatures Of The Night - Vol. 4 [w]</description>
+		<rom name="SJG37-1563 - Creatures Of The Night - Vol. 4 [w].pdf" size="3283916" crc="c8837f31" md5="d22245de9b2237097f783da8eb28ec7d" sha1="713c6a271e1d209e44510684040d6c09aad26053" />
+	</machine>
+	<machine name="SJG37-1564 - Creatures Of The Night - Vol. 5">
+		<description>SJG37-1564 - Creatures Of The Night - Vol. 5</description>
+		<rom name="SJG37-1564 - Creatures Of The Night - Vol. 5.pdf" size="586740" crc="efc4fc35" md5="ec24596a2555f71879e2f2c8033de918" sha1="d1e2efde385fbdbe161c2e2e562e58d13103476e" />
+	</machine>
+	<machine name="SJG37-1580 - Loadouts - Monster Hunters">
+		<description>SJG37-1580 - Loadouts - Monster Hunters</description>
+		<rom name="SJG37-1580 - Loadouts - Monster Hunters.pdf" size="877813" crc="1bd870fe" md5="ef5b360b6f7090bb960790e08525c207" sha1="f419a4a0f131f851e1e329a55a65a67545877898" />
+	</machine>
+	<machine name="SJG37-1581 - Loadouts - Low-Tech Armor">
+		<description>SJG37-1581 - Loadouts - Low-Tech Armor</description>
+		<rom name="SJG37-1581 - Loadouts - Low-Tech Armor.pdf" size="2435695" crc="0775d2a4" md5="5a9317844be57ad71d73855c1f1f51b9" sha1="f3b431f09783a1ae5a090fce8a8b56f058627181" />
+	</machine>
+	<machine name="SJG37-1631 - High-Tech - Pulp Guns - Volume 1">
+		<description>SJG37-1631 - High-Tech - Pulp Guns - Volume 1</description>
+		<rom name="SJG37-1631 - High-Tech - Pulp Guns - Volume 1.pdf" size="953110" crc="61ebedcc" md5="bcc53a76866e6d0d14b82f8f89138acf" sha1="6b3958b569c7768953a98c40a9b18e3fae9c5380" />
+	</machine>
+	<machine name="SJG37-1632 - High-Tech - Pulp Guns - Volume 2">
+		<description>SJG37-1632 - High-Tech - Pulp Guns - Volume 2</description>
+		<rom name="SJG37-1632 - High-Tech - Pulp Guns - Volume 2.pdf" size="1055045" crc="521495ef" md5="4652f9e963bd0ca93b49ed899f592d13" sha1="af2cb44f3d6e38579a960e83132bef284bacced8" />
+	</machine>
+	<machine name="SJG37-1633 - High-Tech - Adventure Guns">
+		<description>SJG37-1633 - High-Tech - Adventure Guns</description>
+		<rom name="SJG37-1633 - High-Tech - Adventure Guns.pdf" size="1996264" crc="9ef89570" md5="abeb1448c86e14c1e7564a55e995dcf1" sha1="3c7362bfd220251e3ea272138acf5d64a12ee995" />
+	</machine>
+	<machine name="SJG37-1634 - High-Tech - Electricity and Electronics">
+		<description>SJG37-1634 - High-Tech - Electricity and Electronics</description>
+		<rom name="SJG37-1634 - High-Tech - Electricity and Electronics.pdf" size="7511712" crc="2c69dec3" md5="0f4773be4ac230948e15fe942790e2f6" sha1="c6827f946903259825a00f4f5c6e0afabe7b91b0" />
+	</machine>
+	<machine name="SJG37-1641 - Martial Arts - Fairbairn Close Combat Systems">
+		<description>SJG37-1641 - Martial Arts - Fairbairn Close Combat Systems</description>
+		<rom name="SJG37-1641 - Martial Arts - Fairbairn Close Combat Systems.pdf" size="751663" crc="ab2d11f9" md5="7087eb0b200419b0c02d6adbe4a39422" sha1="3096695469c34ee549232eb3b618e2553763a915" />
+	</machine>
+	<machine name="SJG37-1642 - Martial Arts - Gladiators">
+		<description>SJG37-1642 - Martial Arts - Gladiators</description>
+		<rom name="SJG37-1642 - Martial Arts - Gladiators.pdf" size="2654443" crc="dad4d58d" md5="de2265b5b784a0772ab740781263d994" sha1="109578770eddecb4ab839dca11bfe3802e3776e8" />
+	</machine>
+	<machine name="SJG37-1643 - Martial Arts - Techniques Cheat-Sheet">
+		<description>SJG37-1643 - Martial Arts - Techniques Cheat-Sheet</description>
+		<rom name="SJG37-1643 - Martial Arts - Techniques Cheat-Sheet.pdf" size="333502" crc="cfc9983a" md5="2ea488583d8aeccb61d779e1313aa2c2" sha1="a8a45ed42624620be413fa69ee6c82f37639a777" />
+	</machine>
+	<machine name="SJG37-1644 - Martial Arts - Technical Grappling">
+		<description>SJG37-1644 - Martial Arts - Technical Grappling</description>
+		<rom name="SJG37-1644 - Martial Arts - Technical Grappling.pdf" size="957090" crc="fe36b824" md5="8ddc86febb57499403ba041d4c6ff184" sha1="9772898ba9c5bd624dc716d468cce8d92eb06a4b" />
+	</machine>
+	<machine name="SJG37-1651 - Thaumatology - Age Of Gold">
+		<description>SJG37-1651 - Thaumatology - Age Of Gold</description>
+		<rom name="SJG37-1651 - Thaumatology - Age Of Gold.pdf" size="919848" crc="19c62a99" md5="437d9d87c7da2742fcd14015624c278a" sha1="87bfeed553ca4edb1f353fde4d40b609ba6d1e2c" />
+	</machine>
+	<machine name="SJG37-1652 - Thaumatology - Magical Styles">
+		<description>SJG37-1652 - Thaumatology - Magical Styles</description>
+		<rom name="SJG37-1652 - Thaumatology - Magical Styles.pdf" size="786192" crc="a8e49f4a" md5="8309301da2306c2f8c1b4b03cc912da7" sha1="b7a037a437325633914c4b5fa6067c2559a9d250" />
+	</machine>
+	<machine name="SJG37-1653 - Thaumatology - Ritual Path Magic">
+		<description>SJG37-1653 - Thaumatology - Ritual Path Magic</description>
+		<rom name="SJG37-1653 - Thaumatology - Ritual Path Magic.pdf" size="1969600" crc="e8eb7325" md5="e5af3c88a7ae1e78eefc842c7baeb095" sha1="24d60faa8efc93ca4a343032beee98696c2e86f9" />
+	</machine>
+	<machine name="SJG37-1654 - Thaumatology - Chinese Elemental Powers">
+		<description>SJG37-1654 - Thaumatology - Chinese Elemental Powers</description>
+		<rom name="SJG37-1654 - Thaumatology - Chinese Elemental Powers.pdf" size="1117945" crc="f9d13586" md5="6e49140cacc01d5e51c10e92da779bfa" sha1="8fa78d77cf9d8ff1ccf1c91b0926a72ae3b57ac4" />
+	</machine>
+	<machine name="SJG37-1655 - Magical Styles - Dungeon Magic">
+		<description>SJG37-1655 - Magical Styles - Dungeon Magic</description>
+		<rom name="SJG37-1655 - Magical Styles - Dungeon Magic.pdf" size="1442793" crc="6265f0c9" md5="a2e5a6c850696e9ef07eda941ca86c46" sha1="6fd7749786380ac4b53de1a541c288cf3e83555a" />
+	</machine>
+	<machine name="SJG37-1656 - Thaumatology - Sorcery">
+		<description>SJG37-1656 - Thaumatology - Sorcery</description>
+		<rom name="SJG37-1656 - Thaumatology - Sorcery.pdf" size="1981480" crc="2f695021" md5="284989a96b19fb520bf25fd0b1319394" sha1="69b6448684d3c1a6d05bbab57222b8bb35eada42" />
+	</machine>
+	<machine name="SJG37-1657 - Thaumatology - Sorcery - Protection and Warning Spells">
+		<description>SJG37-1657 - Thaumatology - Sorcery - Protection and Warning Spells</description>
+		<rom name="SJG37-1657 - Thaumatology - Sorcery - Protection and Warning Spells.pdf" size="856718" crc="39f7ab77" md5="e01a792897839de1c46c0ac21065ed4e" sha1="cb57b707c38480a2800ce8694267d044471db2ff" />
+	</machine>
+	<machine name="SJG37-1658 - Thaumatology - Sorcery - Sound Spells">
+		<description>SJG37-1658 - Thaumatology - Sorcery - Sound Spells</description>
+		<rom name="SJG37-1658 - Thaumatology - Sorcery - Sound Spells.pdf" size="1958746" crc="7277d234" md5="162905c94511c8d510e838b6177580f1" sha1="e61fa61d752066e6cd61dbd57b243fed38fa0e6b" />
+	</machine>
+	<machine name="SJG37-1661 - Low-Tech Companion 1 - Philosophers and Kings">
+		<description>SJG37-1661 - Low-Tech Companion 1 - Philosophers and Kings</description>
+		<rom name="SJG37-1661 - Low-Tech Companion 1 - Philosophers and Kings.pdf" size="3119270" crc="abee3a13" md5="68b2d230900e9f22071a1d6fb8047164" sha1="1e278dff530b5581d7cb5b2b3ce6f620e08862af" />
+	</machine>
+	<machine name="SJG37-1662 - Low-Tech Companion 2 - Weapons and Warriors">
+		<description>SJG37-1662 - Low-Tech Companion 2 - Weapons and Warriors</description>
+		<rom name="SJG37-1662 - Low-Tech Companion 2 - Weapons and Warriors.pdf" size="1881525" crc="916e3070" md5="0803e50ac9a4f6707584f08c7462b43c" sha1="b9b85c19c49b371071f3c1295121bd3fe18a4923" />
+	</machine>
+	<machine name="SJG37-1663 - Low-Tech Companion 3 - Daily Life And Economics">
+		<description>SJG37-1663 - Low-Tech Companion 3 - Daily Life And Economics</description>
+		<rom name="SJG37-1663 - Low-Tech Companion 3 - Daily Life And Economics.pdf" size="1137690" crc="491e31f1" md5="2c851ede2bf6b2edc92a1435134e2972" sha1="70c41d7bde1e03faf55b56362bcd8886ebf5d567" />
+	</machine>
+	<machine name="SJG37-1664 - Fantasy-Tech 1 - The Edge Of Reality">
+		<description>SJG37-1664 - Fantasy-Tech 1 - The Edge Of Reality</description>
+		<rom name="SJG37-1664 - Fantasy-Tech 1 - The Edge Of Reality.pdf" size="1611212" crc="5736333d" md5="17279d3145f906cb85bfbc292c80eca5" sha1="4f62a63bd6185c54532ce672f5b88a1e8af1e068" />
+	</machine>
+	<machine name="SJG37-1665 - Psi-Tech">
+		<description>SJG37-1665 - Psi-Tech</description>
+		<rom name="SJG37-1665 - Psi-Tech.pdf" size="2392321" crc="3c39791e" md5="f4411f1c5a03873a91bf042a364af5d1" sha1="9dd65a3c5733d602b344f34718d1b806cdf57318" />
+	</machine>
+	<machine name="SJG37-1666 - Low Tech - Instant Armor">
+		<description>SJG37-1666 - Low Tech - Instant Armor</description>
+		<rom name="SJG37-1666 - Low Tech - Instant Armor.pdf" size="1020084" crc="61bdb311" md5="8bde5a3dd254559a535f531d5806d00d" sha1="db087231e7b04355ded36a8f9f5e8cfe8d87f67c" />
+	</machine>
+	<machine name="SJG37-1667 - Social Engineering - Pulling Rank">
+		<description>SJG37-1667 - Social Engineering - Pulling Rank</description>
+		<rom name="SJG37-1667 - Social Engineering - Pulling Rank.pdf" size="758500" crc="9e1c64c8" md5="48c534543eff4832e72afc86471deb4e" sha1="eac28faf4228ae415f4999a4bd03b1612a53589b" />
+	</machine>
+	<machine name="SJG37-1668 - Social Engineering - Back to School">
+		<description>SJG37-1668 - Social Engineering - Back to School</description>
+		<rom name="SJG37-1668 - Social Engineering - Back to School.pdf" size="2032601" crc="42c2da9e" md5="dcb69c4f88ededa191df7c9ca739366f" sha1="922613b885dbe4aff2b973b6ac37fd8512bda9ab" />
+	</machine>
+	<machine name="SJG37-1669 - Fantasy-Tech 2 - Weapons of Fantasy">
+		<description>SJG37-1669 - Fantasy-Tech 2 - Weapons of Fantasy</description>
+		<rom name="SJG37-1669 - Fantasy-Tech 2 - Weapons of Fantasy.pdf" size="1391058" crc="7c4fd926" md5="c3917833bfee1bcc0a4a6e45e35eea0b" sha1="9365c2155f663976d5e104272bd0077f0c905f4e" />
+	</machine>
+	<machine name="SJG37-1671 - Infinite Worlds - Lost Worlds">
+		<description>SJG37-1671 - Infinite Worlds - Lost Worlds</description>
+		<rom name="SJG37-1671 - Infinite Worlds - Lost Worlds.pdf" size="602122" crc="68472a7d" md5="764d8602bee1246e466c9d854b13b768" sha1="e18bc0bdaf120940348155e966334785bc6c5bf4" />
+	</machine>
+	<machine name="SJG37-1672 - Infinite Worlds - IST">
+		<description>SJG37-1672 - Infinite Worlds - IST</description>
+		<rom name="SJG37-1672 - Infinite Worlds - IST.pdf" size="251143" crc="fa46a6c5" md5="6ba21705d3f8d6db91e3c26c5e805ad1" sha1="fc10d7eae9afd15fe0e9220fbc064777406bafe0" />
+	</machine>
+	<machine name="SJG37-1673 - Infinite Worlds - Worlds Of Horror">
+		<description>SJG37-1673 - Infinite Worlds - Worlds Of Horror</description>
+		<rom name="SJG37-1673 - Infinite Worlds - Worlds Of Horror.pdf" size="862760" crc="925a4ddb" md5="bf90f559181be80fe44e505f97bfc816" sha1="babdb669f7faf2852087d4d576f4767a10484c53" />
+	</machine>
+	<machine name="SJG37-1680 - Banestorm - Abydos">
+		<description>SJG37-1680 - Banestorm - Abydos</description>
+		<rom name="SJG37-1680 - Banestorm - Abydos.pdf" size="1596620" crc="cd3f976f" md5="b125c5bb34f52943b0f15ad4956caf10" sha1="d5990e386dd2d83a462c5386d150ed083b202c53" />
+	</machine>
+	<machine name="SJG37-1681 - Martial Arts - Yrth Fighting Styles">
+		<description>SJG37-1681 - Martial Arts - Yrth Fighting Styles</description>
+		<rom name="SJG37-1681 - Martial Arts - Yrth Fighting Styles.pdf" size="1306412" crc="69b48460" md5="e42dd4a262385859c0c2a9c371f5546c" sha1="0d456c0c9bfc527299638e8e9a2ec0b91e1c013c" />
+	</machine>
+	<machine name="SJG37-1682 - Horror - The Madness Dossier">
+		<description>SJG37-1682 - Horror - The Madness Dossier</description>
+		<rom name="SJG37-1682 - Horror - The Madness Dossier.pdf" size="2833666" crc="1292933a" md5="1f0efff96d268176ce2639a3f585762f" sha1="2e08da861e5a4bb329048040d2f915cfcc356108" />
+	</machine>
+	<machine name="SJG37-1683 - Zombies - Day One">
+		<description>SJG37-1683 - Zombies - Day One</description>
+		<rom name="SJG37-1683 - Zombies - Day One.pdf" size="2497197" crc="1f24045f" md5="76ed9b050eaa7bc10a7fb224739cea38" sha1="e71820ac7acf1e28783379872192ff321f0d3f61" />
+	</machine>
+	<machine name="SJG37-1684 - Aliens - Sparrials">
+		<description>SJG37-1684 - Aliens - Sparrials</description>
+		<rom name="SJG37-1684 - Aliens - Sparrials.pdf" size="1506951" crc="bcd9382b" md5="630456502cf4ac8923a5001db4b752f8" sha1="4708416f4c4ded6cebddaca4f3326ac5f759ea7d" />
+	</machine>
+	<machine name="SJG37-1691 - Fantasy - Portal Realms">
+		<description>SJG37-1691 - Fantasy - Portal Realms</description>
+		<rom name="SJG37-1691 - Fantasy - Portal Realms.pdf" size="1945829" crc="37e55be9" md5="0dc2085f3463fa205b3fc5743c6f8a53" sha1="ffb708f92e7565fb0ca47a1f8e57753461106c64" />
+	</machine>
+	<machine name="SJG37-1692 - Social Engineering - Keeping in Contact">
+		<description>SJG37-1692 - Social Engineering - Keeping in Contact</description>
+		<rom name="SJG37-1692 - Social Engineering - Keeping in Contact.pdf" size="3109669" crc="0036a564" md5="bb16577dcd1aac99618b847eda5d469f" sha1="6a1e8087b74359e8f21e4c081263d4458c105c82" />
+	</machine>
+	<machine name="SJG37-1710 - Disasters - Meltdown and Fallout [w]">
+		<description>SJG37-1710 - Disasters - Meltdown and Fallout [w]</description>
+		<rom name="SJG37-1710 - Disasters - Meltdown and Fallout [w].pdf" size="1154157" crc="5f0f4fc0" md5="4cf7bd3374976d95b36aa022a14f4128" sha1="566ebb289883ccd08098d91ab5fc0aab2708c5ed" />
+	</machine>
+	<machine name="SJG37-1711 - Disasters - Hurricane">
+		<description>SJG37-1711 - Disasters - Hurricane</description>
+		<rom name="SJG37-1711 - Disasters - Hurricane.pdf" size="9482532" crc="4e2de4df" md5="ccd8ce0a82e6dafebacb488d9e9aa8ea" sha1="deb115c013c05c30044678887a164a346ade5d57" />
+	</machine>
+	<machine name="SJG37-1732 - Vehicles - Transports of Fantasy">
+		<description>SJG37-1732 - Vehicles - Transports of Fantasy</description>
+		<rom name="SJG37-1732 - Vehicles - Transports of Fantasy.pdf" size="6091751" crc="c54e33e5" md5="29bb9ba24f9c2271ef27264fd8cef478" sha1="19abaaddff29f029f1f83ae22c50fd00a8cdf69d" />
+	</machine>
+	<machine name="SJG37-2581 - Pyramid - Dungeon Fantasy Collected">
+		<description>SJG37-2581 - Pyramid - Dungeon Fantasy Collected</description>
+		<rom name="SJG37-2581 - Pyramid - Dungeon Fantasy Collected.pdf" size="13068607" crc="09b96a63" md5="4c0d85157727dde7de44f6834ad4c79a" sha1="0b48a3866923df1c540b5f464dfa2b03cabb5104" />
+	</machine>
+	<machine name="SJG37-6701 - Transhuman Space - Changing Times">
+		<description>SJG37-6701 - Transhuman Space - Changing Times</description>
+		<rom name="SJG37-6701 - Transhuman Space - Changing Times.pdf" size="2222329" crc="d68e80d2" md5="81a305b1e277ae5df2bb7f311786a5c7" sha1="3d8f3a495c80922fafc285728863b1047f9fab44" />
+	</machine>
+	<machine name="SJG37-6702 - Transhuman Space - Shell-Tech">
+		<description>SJG37-6702 - Transhuman Space - Shell-Tech</description>
+		<rom name="SJG37-6702 - Transhuman Space - Shell-Tech.pdf" size="1196393" crc="d55c06c9" md5="f170146e815979f87293f1849d33922b" sha1="9f68e96044ddfe6919107c8680ea6edad5c66766" />
+	</machine>
+	<machine name="SJG37-6703 - Transhuman Space - Personnel Files 2 - The Meme Team">
+		<description>SJG37-6703 - Transhuman Space - Personnel Files 2 - The Meme Team</description>
+		<rom name="SJG37-6703 - Transhuman Space - Personnel Files 2 - The Meme Team.pdf" size="908572" crc="846bda58" md5="ef896bb8b82f6a120971fc0fbcfed8ea" sha1="130505b1372764c1f32ddbbbd717394d41204e44" />
+	</machine>
+	<machine name="SJG37-6704 - Transhuman Space - Personnel Files 3 - Wild Justice">
+		<description>SJG37-6704 - Transhuman Space - Personnel Files 3 - Wild Justice</description>
+		<rom name="SJG37-6704 - Transhuman Space - Personnel Files 3 - Wild Justice.pdf" size="1386917" crc="5b4f6799" md5="76436e1e4d0e770d9921887219fbe9ec" sha1="10422960dea7848a32a71aaaf23034091098ef72" />
+	</machine>
+	<machine name="SJG37-6705 - Transhuman Space - Personnel Files 4 - Martingale Security">
+		<description>SJG37-6705 - Transhuman Space - Personnel Files 4 - Martingale Security</description>
+		<rom name="SJG37-6705 - Transhuman Space - Personnel Files 4 - Martingale Security.pdf" size="583850" crc="e557ea38" md5="61c0b263244020db99e73498ccb26c90" sha1="6d65aefe5f5f0db3696d0b6dc078364751b92cd9" />
+	</machine>
+	<machine name="SJG37-6706 - Transhuman Space - Personnel Files 5 - School days 2100">
+		<description>SJG37-6706 - Transhuman Space - Personnel Files 5 - School days 2100</description>
+		<rom name="SJG37-6706 - Transhuman Space - Personnel Files 5 - School days 2100.pdf" size="467743" crc="03c20a26" md5="ab8be4ef14c32639d897586fb417ff07" sha1="ca4f7f695f9769822f28774c69aff5be3c1cef84" />
+	</machine>
+	<machine name="SJG37-6707 - Transhuman Space - Teralogos News - 2100, Fourth Quarter">
+		<description>SJG37-6707 - Transhuman Space - Teralogos News - 2100, Fourth Quarter</description>
+		<rom name="SJG37-6707 - Transhuman Space - Teralogos News - 2100, Fourth Quarter.pdf" size="326604" crc="7a37888d" md5="715065daa445f62030ca6b21858492d5" sha1="9d27a954a03fe2b565b7c32d2a2033502f78e464" />
+	</machine>
+	<machine name="SJG37-6708 - Transhuman Space - Teralogos News - 2101, First Quarter">
+		<description>SJG37-6708 - Transhuman Space - Teralogos News - 2101, First Quarter</description>
+		<rom name="SJG37-6708 - Transhuman Space - Teralogos News - 2101, First Quarter.pdf" size="249973" crc="45f44a0c" md5="4c0cfd45f2d99a95f601ecd9f90c0913" sha1="79f527cf2b4d900e86c7fcd30b51e5a39676939e" />
+	</machine>
+	<machine name="SJG37-6709 - Transhuman Space - Teralogos News - 2101, Second Quarter">
+		<description>SJG37-6709 - Transhuman Space - Teralogos News - 2101, Second Quarter</description>
+		<rom name="SJG37-6709 - Transhuman Space - Teralogos News - 2101, Second Quarter.pdf" size="521288" crc="d9676012" md5="04533d2a00bc4b18614aafc6a780882d" sha1="06e764be4903c065b57c43d703b0fb70dc10bdf3" />
+	</machine>
+	<machine name="SJG37-6710 - Transhuman Space - Teralogos News - 2101, Third Quarter">
+		<description>SJG37-6710 - Transhuman Space - Teralogos News - 2101, Third Quarter</description>
+		<rom name="SJG37-6710 - Transhuman Space - Teralogos News - 2101, Third Quarter.pdf" size="396684" crc="29f545dc" md5="c0fad50606b43ff78f7eb0ddd011027a" sha1="0d4a2bf9c62a421e9c7114e5e4f99be9249fb97d" />
+	</machine>
+	<machine name="SJG37-6711 - Transhuman Space - Cities on the edge">
+		<description>SJG37-6711 - Transhuman Space - Cities on the edge</description>
+		<rom name="SJG37-6711 - Transhuman Space - Cities on the edge.pdf" size="4456244" crc="70b8ae14" md5="b006f693138baaab50fcbffa4419d7eb" sha1="bab70b03d1441b4d85e504a11a7dd69671a73a55" />
+	</machine>
+	<machine name="SJG37-6712 - Transhuman Space - Transhuman Mysteries">
+		<description>SJG37-6712 - Transhuman Space - Transhuman Mysteries</description>
+		<rom name="SJG37-6712 - Transhuman Space - Transhuman Mysteries.pdf" size="1979433" crc="c2febacb" md5="c365a090196ccd381914321298060163" sha1="6384b65dde634b01f88d866fef2b5f2e9358be65" />
+	</machine>
+	<machine name="SJG37-6713 - Transhuman Space - Martial Arts 2100">
+		<description>SJG37-6713 - Transhuman Space - Martial Arts 2100</description>
+		<rom name="SJG37-6713 - Transhuman Space - Martial Arts 2100.pdf" size="1980907" crc="c65ad5dc" md5="92dbd2603d2bff16e7e9325e4adc03f0" sha1="cce82eda0f2259aa6755046a847630887eefb736" />
+	</machine>
+	<machine name="SJG37-6715 - Transhuman Space - Bioroid Bazaar">
+		<description>SJG37-6715 - Transhuman Space - Bioroid Bazaar</description>
+		<rom name="SJG37-6715 - Transhuman Space - Bioroid Bazaar.pdf" size="1679865" crc="3db4f036" md5="ea2bab6bad769485b33278232c02dd87" sha1="50e9a10eb4124addd2f6d0fca57b703566b9408c" />
+	</machine>
+	<machine name="SJG37-6716 - Transhuman Space - Bio-Tech 2100">
+		<description>SJG37-6716 - Transhuman Space - Bio-Tech 2100</description>
+		<rom name="SJG37-6716 - Transhuman Space - Bio-Tech 2100.pdf" size="1449441" crc="ef1d172b" md5="60f948601836acbc868ebbc14abdfdba" sha1="4aba3e531b37aca51ef40f279811d36ce0336fc0" />
+	</machine>
+	<machine name="SJG6540 - Dragons (Also for Third Edition)">
+		<description>SJG6540 - Dragons (Also for Third Edition)</description>
+		<rom name="SJG6540 - Dragons (Also for Third Edition).pdf" size="46899605" crc="2b3415ca" md5="b6a0d86cb28082a423b2fcd7c8da7050" sha1="f2142eff3aba38067eac6122269bc9a1db9c0eee" />
+	</machine>
+</datafile>
