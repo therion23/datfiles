@@ -6,15 +6,17 @@ Also, there are more in the releases section, namely the ones that are too big t
 
 # DATs
 
-* ArchiveRL - The classic roguelike archive
+* ArchiveRL - The classic roguelike archive.
 * J2ME - Quite a few .dat's to make J2ME collecting easier.
 * NeoKobe - Additions to dsync89's work.
 * Newton - Firmware and updates for Apple's Newton platform.
 * NokiaOvi - Nokia Ovi Store Panic Grab.
 * Symbian - EPOC32, Symbian S60 and related.
+* Timex-Sinclair - Software.
 * eXo - Polished up dir2dat's of the adventure related collections.
 * libretro - Additions and modifications to RetroArch's internal databases.
 
 # Other stuff
 
+* RPGs - Pen and paper style.
 * utils - Work in progress utilities for various things.
