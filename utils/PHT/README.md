@@ -1,11 +1,14 @@
-# Palm Hoarder's Toolkit
+# Palm Hoarder's Toolkit (WIP)
 A glorified GUI version of pHist (really).
 
 ## DISCLAIMER
 No warranties! Use at your own risk! If anything breaks, it's NOT my fault.
 
-## tl;dr:
-![iPreliminary screenshot](0.11.png "Preliminary screenshot")
+## Before you get any fancy ideas
+This is certainly not available to anyone yet. As long as there is even a minimal chance of deleting the wrong files, it stays within my four walls. Don't even ask.
+
+## tl;dr
+![Preliminary screenshot](0.11.png "Preliminary screenshot")
 
 ## The slightly longer version
 Some time ago, i got the fabulous idea of archiving Palm software, TOSEC style.
@@ -37,3 +40,7 @@ p7zip from Homebrew might or might not work on macOS - i will test in the future
 
 ## Inspired and helped by:
 - Nothing and noone - yet ..
+
+## License
+When the time comes, it will be copyrighted, no derivatives allowed, source available. But that's of no concern at the time of writing - still a long way to go.
+
