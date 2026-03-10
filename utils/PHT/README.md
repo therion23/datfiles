@@ -21,8 +21,8 @@ So i got an idea about how to both speed up the process a bit, as well as making
 
 ## How to use
 - Load up a file, folder or archive. Values from the .prc header will be filled in for you.
-- Browse around the resources to fill in the blanks. When you find the missing text, just highlight it and press the button for the field you want to fill.
-- The Dest field will be in red text until enough information is present to fulfill the minimal TOSEC naming convention specs. When black, you can hit "R" and rename your source file.
+- Browse around the resources to fill in the blanks. When you find the missing text, just highlight it and press the button for the field you want to fill. For instance, in the screenshot above, pressing "p" would copy "NuvoStudios" into the "Publisher" field. You can also spot that the computed date is wrong, which can be fixed manually.
+- The Dest field will be in red text, until enough information is present to satisfy the minimal TOSEC naming specs. When black, you can hit "r" and rename your source file.
 
 ## Requirements
 
