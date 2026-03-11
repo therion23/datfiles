@@ -1,6 +1,13 @@
 # Palm Hoarder's Toolkit (WIP)
 A glorified GUI version of pHist (really).
 
+## Status
+
+- Win64 and Linux versions are equally functional (and equally fugly). macOS is so far untested, but should be trivial to port to.
+- Everything you see in the Cheat Sheet above is implemented and works, except for loading folders, which kindasorta works unless you cancel the open dialog at the wrong time.
+- A better component for containing text is needed. TMemo is particularly wonky when double clicking a word in order to select it.
+- Hotkeys for navigating input fields are needed.
+
 ## DISCLAIMER
 No warranties! Use at your own risk! If anything breaks, it's NOT my fault.
 
