@@ -4,9 +4,8 @@ A glorified GUI version of pHist (really).
 ## Status
 
 - Win64 and Linux versions are equally functional (and equally fugly). macOS is so far untested, but should be trivial to port to.
-- Everything you see in the Cheat Sheet above is implemented and works, except for loading folders, which kindasorta works unless you cancel the open dialog at the wrong time.
-- A better component for containing text is needed. TMemo is particularly wonky when double clicking a word in order to select it.
-- Hotkeys for navigating input fields are needed.
+- Everything you see in the Cheat Sheet above is implemented and works. Loading folders might do unexpected things if you cancel the open dialog at the wrong time, but that is a feature, not a bug.
+- A better component for containing text is needed. TMemo is particularly wonky when double clicking a word in order to select it. TRichMemo is slightly better but not optimal.
 
 ## DISCLAIMER
 No warranties! Use at your own risk! If anything breaks, it's NOT my fault.
@@ -15,7 +14,7 @@ No warranties! Use at your own risk! If anything breaks, it's NOT my fault.
 This is certainly not available to anyone yet. As long as there is even a minimal chance of deleting the wrong files, it stays within my four walls. Don't even ask.
 
 ## tl;dr
-![Preliminary screenshot](0.11.png "Preliminary screenshot")
+![Preliminary screenshot](0.17.png "Preliminary screenshot")
 
 ## The slightly longer version
 Some time ago, i got the fabulous idea of archiving Palm software, TOSEC style.
@@ -30,6 +29,9 @@ So i got an idea about how to both speed up the process a bit, as well as making
 - Load up a file, folder or archive. Values from the .prc header will be filled in for you.
 - Browse around the resources to fill in the blanks. When you find the missing text, just highlight it and press the button for the field you want to fill. For instance, in the screenshot above, pressing "p" would copy "NuvoStudios" into the "Publisher" field. You can also spot that the computed date is wrong, which can be fixed manually.
 - The Dest field will be in red text, until enough information is present to satisfy the minimal TOSEC naming specs. When black, you can hit "r" and rename your source file.
+- Ctrl-c inserts "[cr]" into the Optional field, and Ctrl-N will attempt to modify the Publisher field into the TOSEC required lastname, firstname format.
+
+You can specify a single parameter. Either a file, which will then be loaded up right away, or a folder, which will be set as base for any open dialog. The latter is a simple workaround to avoid any configuration.
 
 ## Requirements
 
