@@ -33,8 +33,13 @@ So i got an idea about how to both speed up the process a bit, as well as making
 
 You can specify a single parameter. Either a file, which will then be loaded up right away, or a folder, which will be set as base for any open dialog. The latter is a simple workaround to avoid any configuration.
 
-## Requirements
+## How to build
+Default (win32 widget set for Windows, gtk2 for Linux): lazbuild --build-mode=Release PalmWhatever.lpr
+Using QT (replace qt5 with qt6 at will): lazbuild --build-mode=Release --ws=qt5 PalmWhatever.lpr
 
+A default Lazarus installation should be good enough. On Linux you want to add the right QT bindings though.
+
+## Requirements
 None, unless you want to work with archives. In that case, 7z / 7z.exe must be in your PATH (the Windows version will also look for C:\Program Files\7-Zip\7z.exe).
 
 On Linux you can get rar support by adding the 7zip-rar package (Debian and derivatives) - the Windows version should have this by default.
