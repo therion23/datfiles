@@ -401,7 +401,11 @@ Begin
     scanValue := GetWord(scanBuf, scanPointer);
     Inc(scanPointer, 6);
     WriteLn('Form with ID 0x', IntToHex(GetWord(scanBuf, 40), 4), ' at 0x', IntToHex(pResTable[i].pResOffset, 8));
-    For scanCounter := 0 To (scanValue - 1) Do Begin
+(* Yes, i know, this is really shitty code
+   A form can in fact be 68 bytes long and still contain something, which
+   is obviously not handled here ..
+   However, it unfucks the form scanner, so .. *)
+    If scanPointer < scanBufSize Then For scanCounter := 0 To (scanValue - 1) Do Begin
       pFrmTable[scanCounter].pFrmID := GetWord(scanBuf, scanPointer);
       Inc(scanPointer, 2);
       pFrmTable[scanCounter].pFrmOffset := GetLong(scanBuf, scanPointer);
