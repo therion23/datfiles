@@ -15,6 +15,7 @@ Uses
 {$ENDIF}
   SysUtils,
   StrUtils,
+  LazUTF8,
   LConvEncoding,
 
   CRC;
@@ -113,8 +114,11 @@ Var
   c: Word;
 Begin
   DumpString := '';
-  For c := Offset To (Offset + (Size - 1)) Do
-    If (Buf[c] <> 13) And (Buf[c] <> 10) And (Buf[c] <> 0) Then DumpString := DumpString + Chr(Buf[c]);
+  c := Offset;
+  While (c < (Offset + Size)) And (Buf[c] <> 0) Do Begin
+    If (Buf[c] <> 13) And (Buf[c] <> 10) (* And (Buf[c] <> 0) *) Then DumpString := DumpString + Chr(Buf[c]);
+    Inc(c);
+  End;
 End;
 
 (* *** *)
@@ -204,7 +208,8 @@ Begin
   If IntToHex(mrp.CRC) = IntToHex(crcvalue) Then pFileName := pFileName + '[!]' Else pFileName := pFileName + '[b]';
   pFileName := PFileName + '[' + mrp.FileName + '][' + IntToHex(crcvalue) + ']';
   For i := 1 To Length(pFileName) Do If Pos(pFileName[i], '":\/*?<>|`') > 0 Then pFileName[i] := '_';
-  pFileName := ExtractFilePath(ParamStr(2)) + pFileName + '.mrp';
+  pFileName := UTF8StringReplace(pFileName, '  ', ' ', [rfReplaceAll]);
+  pFileName := UTF8Trim(ExtractFilePath(ParamStr(2)) + pFileName + '.mrp');
   If renameFile Then Begin
     If Not FileExists(pFileName) Then Rename(pFile, pFileName)
     Else WriteLn('File already exists');
