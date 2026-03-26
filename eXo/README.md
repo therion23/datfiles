@@ -1,6 +1,7 @@
 ## Retro eXo
 Origin: https://www.retro-exo.com/scummvm.html
-* eXoScummVM 2.9 split into Games and Content.
+* eXoDOS 6.04 Games only - DOSCenter format modified for RomVault 3.74.
+* eXoScummVM 2026.1.0 split into Games and Content.
 * eXoDREAMM 3.0.1 split into Games and Content.
 * eXoIF 1.0 split into Games and Content.
 
