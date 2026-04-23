@@ -58,7 +58,7 @@ Var
   DRes1,
   DRes2: DWord;
 
-  CkBuf: Array[1..32768] of Byte;
+  CkBuf: AnsiString;
 
   Field,
   Value,
@@ -69,7 +69,12 @@ Var
   Version,
   Help: WideString;
 
+  CertificateDate,
+  ExpirationDate,
+  PhoneNumber: String;
+
   Dummy: Byte;
+  c: Char;
 
   Year: WideString;
 
@@ -114,6 +119,10 @@ Begin
       WriteLn('Metadata section not found in ', DirInfo.Name);
       Valid := False;
     End;
+    108: Begin
+      WriteLn('Metadata section possibly corrupt in ', DirInfo.Name);
+      Valid := False;
+    End;
   End;
 End;
 
@@ -127,6 +136,9 @@ Begin
   Copyright := '';
   Version := '';
   Help := '';
+  CertificateDate := '';
+  ExpirationDate := '';
+  PhoneNumber := '';
 End;
 
 Begin
@@ -150,6 +162,7 @@ Begin
       Magic[0] := #4;
       If Magic <> 'VMGP' Then Err(105) Else Begin
         BlockRead(I, Heap, 4);
+        Heap := (Heap AND $ffff) SHL 2;
         BlockRead(I, Stack, 2);
         Stack := (Stack AND $ffff) SHL 2;
         BlockRead(I, Flags, 2);
@@ -167,7 +180,7 @@ Begin
         While StringTable MOD 4 <> 0 Do Inc(StringTable);
         BlockRead(I, Gunk1, 4);
         BlockRead(I, Gunk2, 4);
-        If (Flags AND $f000 = $f000) Then Begin
+        If (Flags AND $8000 = $8000) Then Begin
           If Lo(Gunk2) = $5a4c Then Compressed := True Else Encrypted := True;
         End;
         If ResDecomp = 0 Then If (Compressed) OR (Encrypted) Then Err(106);
@@ -187,6 +200,9 @@ Begin
             WriteLn('Header    :', 0:10, 40:10);
             WriteLn('Code      :', 40:10, Code:10);
             WriteLn('Data      :', Code + 40:10, Data:10);
+            WriteLn('BSS       :', '-':10, BSS:10);
+            WriteLn('Heap      :', '-':10, Heap:10);
+            WriteLn('Stack     :', '-':10, Stack:10);
             WriteLn('Resource  :', Code + Data + 40:10, Resource:10);
             WriteLn('Pool      :', Code + Data + Resource + 40:10, Pool:10);
             WriteLn('StringTbl :', Code + Data + Resource + Pool + 40:10, StringTable:10);
@@ -199,9 +215,39 @@ Begin
             End;              
           End
           Else Err(107);
-          Seek(I, FilePos(I) + 262);
 
           ClearVars;
+
+          Seek(I, FilePos(I) + 262);
+          If IOResult <> 0 Then Err(102);
+
+(*          While Valid Do Repeat
+            BlockRead(I, Res1, 2);
+            If IOResult <> 0 Then Err(108);
+            BlockRead(I, Res2, 2);
+            If IOResult <> 0 Then Err(108);
+            If (Res1 > 0) AND (Res2 > 0) Then While Valid Do Begin
+              SetLength(Field, (Res1 SHR 1) - 1);
+              If Length(Field) > 0 Then BlockRead(I, Field[1], Res1) Else Seek(I, FilePos(I) + 2);
+              WriteLn(Field);
+              SetLength(Value, (Res2 SHR 1) - 1);
+              If Length(Value) > 0 Then BlockRead(I, Value[1], Res2) Else Seek(I, FilePos(I) + 2);
+              WriteLn(Value);
+              BlockRead(I, Dummy, 1);
+              If IOResult <> 0 Then Err(108);
+              If (Valid) AND (Length(Field) > 0) AND (Length(Value) > 0) Then Begin
+                If Field = 'IMEI' Then IMEI := Value;
+                If Field = 'Title' Then Title := Value;
+                If Field = 'Vendor' Then Vendor := Value;
+                If Field = 'Copyright info' Then Copyright := Value;
+                If Field = 'Program version' Then Version := Value;
+                If Field = 'Help' Then Help := Value;
+              End;
+              WriteLn('Inner: ', Res1, ' - ', Res2);
+            End;
+            WriteLn(Res1, ' - ' , Res2);
+          Until (EOF(I)) OR ((Res1 = 0) AND (Res2 = 0));
+*)
 
           If Valid Then Repeat
             BlockRead(I, Res1, 2);
@@ -222,18 +268,54 @@ Begin
               End;
             End;
           Until (Res1 = 0) AND (Res2 = 0);
+
+//          Halt(0);
+
+          If FileSize(I) < 131072 Then Begin
+            Seek(I, 0);
+            SetLength(CkBuf, FileSize(I));
+            BlockRead(I, CkBuf[1], FileSize(I));
+            If Pos('M001', CkBuf) > 0 Then Begin
+              Seek(I, Pos('M001', CkBuf));
+              Repeat
+                BlockRead(I, c, 1);
+                If (c <> ':') And (c <> #0) Then CertificateDate := CertificateDate + c;
+              Until (c = ':') Or (c = #0);
+              Delete(CertificateDate, 1, 3);
+            End;
+            If Pos('M002', CkBuf) > 0 Then Begin
+              Seek(I, Pos('M002', CkBuf));
+              Repeat
+                BlockRead(I, c, 1);
+                If (c <> ':') And (c <> #0) Then ExpirationDate := ExpirationDate + c;
+              Until (c = ':') Or (c = #0);
+              Delete(ExpirationDate, 1, 3);
+            End;
+            If Pos('M010', CkBuf) > 0 Then Begin
+              Seek(I, Pos('M010', CkBuf));
+              Repeat
+                BlockRead(I, c, 1);
+                If (c <> ':') And (c <> #0) Then PhoneNumber := PhoneNumber + c;
+              Until (c = ':') Or (c = #0);
+              Delete(PhoneNumber, 1, 3);
+            End;
+          End;
         End
         Else Err(102);
       End;
     End;
 
     If (Valid) AND (NOT Encrypted) AND (NOT Compressed) Then Begin
+      If CertificateDate <> '' Then WriteLn('Cert date : ', CertificateDate);
+      If ExpirationDate <> '' Then WriteLn('Expires   : ', ExpirationDate);
+      If PhoneNumber <> '' Then WriteLn('Phone #   : ', PhoneNumber);
+
       If IMEI <> '' Then WriteLn('IMEI      : ', IMEI);
       If Title <> '' Then WriteLn('Title     : ', Title);
       If Vendor <> '' Then WriteLn('Vendor    : ', Vendor);
       If Copyright <> '' Then WriteLn('Copyright : ', Copyright);
       If Version <> '' Then WriteLn('Version   : ', Version);
-      If Help <> '' Then WriteLn('Help      : ', Help);
+      If Help <> '' Then WriteLn('Help text : ', Help);
       If Pos('20', Copyright) > 1 Then Begin
         If Copyright[Pos('20', Copyright) + 1] in ['0'..'9'] Then
         If Copyright[Pos('20', Copyright) + 2] in ['0'..'9'] Then
@@ -256,10 +338,13 @@ Begin
       Else If NOT Encrypted Then OutName := OutName + '[Encr-]'
       Else OutName := OutName + '[Encr+]';
       OutName := OutName + '.mpn';
-      For Res1 := 1 To Length(OutName) Do If Pos(OutName[Res1], '":\/*?<>|`') > 0 Then OutName[Res1] := '_';
+      For Res1 := 1 To Length(OutName) Do If Pos(OutName[Res1], '":\/*?<>|`'#13#10) > 0 Then OutName[Res1] := '_';
     End
+    Else If Encrypted Then OutName := SourcePath + DirInfo.Name + '.encrypted'
+    Else If Compressed Then OutName := SourcePath + DirInfo.Name + '.compressed'
     Else OutName := SourcePath + DirInfo.Name + '.notanmpn';
-    WriteLn(OutName);
+//    If IMEI = '' Then WriteLn(OutName, 'lacks IMEI!') Else
+    WriteLn('Suggested : ', OutName);
 (*
     If NOT FileExists(SourcePath + OutName) Then RenameFile(SourcePath + DirInfo.Name, SourcePath + OutName)
     Else WriteLn(OutName, ' already exists.');
