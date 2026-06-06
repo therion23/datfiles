@@ -24,6 +24,7 @@ Const
 
   dumpFiles: Boolean = False;
   fixFile: Boolean = False;
+  trimFile: Boolean = False;
   renameFile: Boolean = False;
 
 Type
@@ -74,7 +75,7 @@ Begin
       WriteLn;
       WriteLn('Usage : mrpname command filename');
       WriteLn;
-      WriteLn('Command can be one of (r)ename or (f)ix (single letter)');
+      WriteLn('Command can be one of (r)ename, (f)ix or (t)rim (single letter)');
       WriteLn('Extract not implemented yet - it is simply too trivial');
     End;
     2: WriteLn('Open error');
@@ -94,6 +95,7 @@ Begin
   Case UpCase(pc) Of
     'R': renameFile := True;
     'F': fixFile := True;
+    'T': trimFile := True;
     'X': dumpFiles := True;
     Else Err(0);
   End;
@@ -150,7 +152,7 @@ Begin
   if mrp.Magic <> 'MRPG' Then Err(9);
   mrp.FileTable := GetLong(4);
   mrp.FileLen := GetLong(8);
-  If pFileSize <> mrp.FileLen Then Err(8);
+  If (pFileSize <> mrp.FileLen) and (trimFile = False) Then Err(8);
   mrp.IndexTable := GetLong(12);
   mrp.FileName := ReplaceText(DumpString(16, 12), '.mrp', '');
   s := DumpString(28, 24);
@@ -190,6 +192,15 @@ Begin
     Reset(pFile, 1);
     Seek(pFile, 84);
     BlockWrite(pFile, crcvalue, 4);
+    If IOresult > 0 Then Err(7);
+  End;
+
+  If (trimFile) And (FileSize(pFile) > mrp.FileLen) Then Begin
+    Close(pFile);
+    FileMode := 2;
+    Reset(pFile, 1);
+    Seek(pFile, mrp.FileLen);
+    Truncate(pFile);
     If IOresult > 0 Then Err(7);
   End;
 
