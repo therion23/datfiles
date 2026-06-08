@@ -1,0 +1,1752 @@
+
+                         *****   Area: PACK   *****
+
+Archivers, exe-compressors, archiver shells and other related utils
+
+1czip450.exe	1st Choice Zip v4.50 - Windows Explorer-like Zip Archiver Shell
+32lite.zip	32LiTE v0.02d - Executable packer for 32-bit DOS executables
+4arjfast.zip	4ARJFAXT & ARJFACFG - Speeds up ARJ packing under 4DOS
+4dizzy96.zip	4dizzy v0.96 - File_id.diz extractor for DOS and OS/2
+4x4v02a.zip	4x4 multithreaded compressor v0.2a for Win32
+624-11.zip	624 v1.1 - COM program packer
+777004b1.zip	777 v0.04 beta 1 - Experimental version of UFA Archiver
+7z313.exe	7-Zip Archiver v3.12 - File archiver for Win32
+7z442.exe	7-Zip Archiver v4.42 - File Archiver for Win32
+7z465.exe	7-Zip Archiver v4.65 - File Archiver for Win32
+7zip465s.zip	7-zip Archiver v4.65 Command line - Source code
+7zip465x.zip	7-zip Archiver v4.65 Command line - Executables
+7za465.zip	7-Zip Archiver v4.65 - Win32 command line version
+7z466a.exe	7-Zip Archiver v4.66 Alpha - File Archiver for Win32
+7z922.exe	7-Zip Archiver v9.22 - File Archiver for Win32
+7z922x64.msi	7-Zip Archiver v9.22 - File Archiver for Win64
+7z938.exe	7-Zip Archiver v9.38 Beta - File Archiver for Win32
+7z938x64.msi	7-Zip Archiver v9.38 Beta - File Archiver for Win64
+7z1514.exe	7-Zip Archiver v15.14 - File Achiver for Win32
+7z1514x.exe	7-Zip Archiver v15.14 - File Achiver for Win64
+7z1604.exe	7-Zip Archiver v16.04 - File Achiver for Win32
+7z1604x.exe	7-Zip Archiver v16.04 - File Achiver for Win64
+7z1701.exe	7-Zip Archiver v17.01 - File Achiver for Win32
+7z1701x.exe	7-Zip Archiver v17.01 - File Achiver for Win64
+7z1806.exe	7-Zip Archiver v18.06 - File Achiver for Win32
+7z1806x.exe	7-Zip Archiver v18.06 - File Achiver for Win64
+7z1900.exe	7-Zip Archiver v19.00 - File Achiver for Win32
+7z1900x.exe	7-Zip Archiver v19.00 - File Achiver for Win64
+7z1902.exe	7-Zip Archiver v19.02 Alpha - File Achiver for Win32
+7z1902x.exe	7-Zip Archiver v19.02 Alpha - File Achiver for Win64
+7z2002.exe	7-Zip Archiver v20.02 Alpha - File Achiver for Win32
+7z2002x.exe	7-Zip Archiver v20.02 Alpha - File Achiver for Win64
+7z2103.exe	7-Zip Archiver v21.03 Beta - File Achiver for Win32
+7z2103x.exe	7-Zip Archiver v21.03 Beta - File Achiver for Win64
+7zsfx21.exe	7z SFX Builder v2.1 - Tool to create 7z SFX configuration 
+		files
+a3_v500.exe	A3 v5.00 - Archive Shell (in German)
+aapr.zip	<ASP> Advanced ARJ Password Recovery v2.0
+aax.zip		AAX Compression Engine v1.1
+abc_13.zip	ABC v1.3 - Archiver for Win32
+abc_24.zip	ABC v2.4 - Archiver for Win32
+abcmp206.zip	ABComp v2.06 - File Compressor
+abridge6.zip	ARJ-Bridge v6.0 - German ARJ Shell
+ac30.zip	Anti-Crypt v0.30 - Executable files unpacker
+ac311.zip	Archive Converter v3.11
+acb_200c.zip	ACB v2.00c - Russian Packer
+acdzip.exe	ACDZip v1.0 - Compression util for Win32 by ACDSee makers
+ace.zip		MultiArc support for the ACE archiver for FAR manager
+ace26.exe	ACE Archiver v2.6 - Command line version
+ace12b.zip	ACE v1.2b - DOS/Win95 archiver from Germany
+ace12b.exe	ACE v1.2b - DOS/Win95 archiver from Germany (in ACE-SFX form)
+ace204.zip	ACE/2 archiver v2.04 for OS/2
+acepr.zip	<ASP> Advanced ACE Password Recovery v1.01 for Win32
+ackerpck.exe	AckerPack 114 - Tool to compress folder into self-extracting
+		archive
+acr12.exe	Advanced CAB Repair v1.2 - Tool to repair corrupted CAB
+		archives
+act-27.zip	Archive Comparison Table v27
+act50wb3.zip	ACT v2 - Archive Comparison Test - May 2002 (in Quattro Pro
+		format)
+act50xls.zip	ACT v2 - Archive Comparison Test - May 2002 (in XLS form)
+actest41.zip	A.C.T. - Archive Comparison Test - September 1998 (in TXT form)
+actest47.zip	ACT v2 - Archive Comparison Test - March 2000 (in HTML form)
+actfiles.zip	A.C.T. - Testing Files
+acvt_dos.zip	ACVT v1.30 - Archive Converter for DOS (16-bit)
+acvt_o16.zip	ACVT v1.30 - Archive Converter for OS/2 (16-bit)
+acvt_o32.zip	ACVT v1.30 - Archive Converter for OS/2 (32-bit)
+acvt_pm.zip	ACVT v1.30 - Archive Converter for DOS (32-bit)
+acvt_win.zip	ACVT v1.30 - Archive Converter for Win32 (console)
+acvt_gui.zip	ACVT v1.20 - Archive Converter for Win32 (GUI)
+aczar210.zip	<ASP> ACZAR v2.10 for DOS - Archive Shell
+aczar95.exe	<ASP> ACZAR95 beta5 - Archive Shell
+aczaw310.zip	<ASP> ACZAR v3.10 for Windows - Archive Shell
+ad2zip11.zip	ADD2ZIP v1.1 - Adds a specified file to all ZIP/ARJ files
+		in the current directory
+addzip06.zip	addZIP Compression Libraries v0.6 - Windows compression libs
+afarc133.zip	Automatic File Archiver v1.33 - Compression / Backup util for
+		Win32
+afi120.zip	AFI v1.2 - Archive File Inspector for BAT's
+ahcr_200.zip	AHCR v2.00 - EXE Unpacker
+ai11.zip	Ai Archiver v1.1 - 32bit data compression util for Win9x
+ain232.exe	AIN v2.32 - Archiver
+ainpswd.rar	AIN archive password finder
+akt070b5.zip	AKT v.70 beta 5 - Compressor from Hungary (without dox)
+akt32.zip	AKT32 v.70 beta 7 - 32-bit version of compressor from Hungary
+alex60.exe	Aladdin Expander v6.0 - A file decompression util for Win32
+allzip.zip	ALLZIP v1.0 - ZIP utility
+alzip.exe	ALZip v6.32 - Multiformat compression tool for Win32
+am113.zip	ArcMaster v11.3
+amgc22.zip	AMGC v2.2 - Packer
+amg22src.zip	AMGC v2.2 - Source code
+amgc23.zip	AMGC v2.3 - Freeware packer modified by D.Paehl
+amw16.zip	ArcMaster for Windows v1.6
+anti144.zip	AntiAd v1.44 - The ultimate BBS ad detection and removal
+		utility
+antilz.zip	ANTI-UNLZEXE - LZEXE packed files protector
+apack100.zip	aPACK v1.00 - Executable packer
+apak10.zip	APAK v1.0 - Russian Archive Shell
+apcpk106.rar	ActivePC File Packer v1.06 - Japanese compression tool
+aplib044.zip	aPLIB v0.44 - Compression library
+aplib100.zip    aPLIB v1.00 - Compression library
+appnote.zip	Description of ZIP format by PkWare
+ar_110.zip	AR v1.10 - Archiver by H.Okumara modified by T.Melconian
+ar002.zip	AR v0.02 - Archiver by Haruhiko Okumara
+ar712.zip	AR7 v1.2 - Archiver with BIN/ASCII conversion
+arar12.exe	Advanced RAR Repair 1.2 - Damaged RAR (SFX) archive repair tool
+arc-id20.zip	Archive ID v2.0 - File identifier
+arc2arc.zip	ARC2ARC v1.2 - RAR/ZIP/ARJ/LZH command-line converter
+arc602.exe	ARC v6.02 - Older packer
+arca129.zip	ARCA v1.29 by V.Buerg
+arcconv.zip	ArcConvert v0.70 - Archive convertor for Windows by Dirk Paehl
+arcctl21.zip	Archive Control Centre for Win3.1
+arcdet11.zip	Archive Determinate v1.1 - BAT utility
+arcdif16.zip	ArcDiff v1.6 - Win32 tool to compare contents of ZIP, LZH,
+		CAB and RAR archives without melting
+arce41a.zip	ARCE v4.1a by V.Buerg
+arch.zip	ARCH v2.1 - PkZip based back-up utility
+arch103.zip	Archive Utility v1.03 - Archive and Directory List Generator
+		for Win32
+arch10a.zip	Multics Archive Command for OS/2 v1.0 - Archiver
+archivar.exe	PDG ARCHIVARIUS v1.1.5 - Archive manager for Win9x/NT/2000/XP
+archive.zip	Archives Manager for Win95 - Archives shell
+archivr1.exe	Archiver v1.0 - Packer with GUI by JaboSoft
+archpr.zip	Advanced Archive Password Recovery (ZIP,ARJ,RAR,ACE) v4.53
+		for Win32
+archv10.zip	Scorpion's Archive Applications for Win32 - Archive Shell
+archv58b.exe	Archivers v5.8 - Archivers user interface for Windows 3.1/95
+archw103.zip	Archiver for Windows v1.03
+arcid104.zip	ArcID v1.04 by QuickSoft - Archive identifier
+arcid125.zip	Archive Identifier v1.25
+arclds.zip	ARCLDS - Archive List and Date Stamp - DOS utility that lists
+		archiv files and changes their date stamps to the latest file
+arclist2.zip	Archive Lister v2.0beta (RAR,ARJ,ZIP,LZH+SFX)
+arcon2_k.zip	ARCON v2.K - Automatic Archive Format Converter
+arcpk12.zip	Archive Peek v1.2 - File finder inside archives
+arcpk95.zip	Archive Peek v2.2 for Win95 - File finder inside archives
+arcsrc.zip	ARCSRC v1.02a - Archive file searcher
+arcv_7_1.zip	ARCview v7.1 - Russian Archive Viewer
+arcv_7_2.zip	ARCview v7.2 OS/2 Executable of Russian archive viewer
+arcv10b.zip	Archive Viewer v1.00 Beta by Dr.Destiny
+arcw6m12.zip	Archivist v1.22 for MS Word - Compress utility
+arcxl5.zip	Archivist v1.22 for MS Excel - Compress utility
+arcx30.zip	Archive Explorer v3.0 - ZIP/CAB Manipulation Util for Win32
+arg.zip		ARG v1.00.001 beta - DOS Archiver (Static Huffman) with source
+arh323.zip	ARH v3.23 - Archive Viewer (Russian dox)
+arh140.zip	ARHANGEL v1.40 - New packer by George Lyapko
+arid.zip	ARiD v0.06 - Type of archive identifier with support of SFX
+		archives
+arin116.zip	ARIN v1.16 - Archive unpack/search utility
+arj2_278.exe	ARJ for OS/2 v2.78
+arj2_310.exe	ARJ32 for OS/2 v3.10
+arj2r278.exe	ARJ for OS/2 v2.78 (Russian Edition)
+arj20v11.zip	ARJ 2000 - ARJ Shell for MS-DOS
+arj285.exe	ARJ v2.85 - File archiver for DOS
+arj286.exe	ARJ v2.86 - File archiver for DOS
+arj32315.exe	ARJ32 v3.15 - File archiver for Win32
+arj32320.exe	ARJ32 v3.20 - File archiver for Win32
+arjdoc12.zip	ARJ Doc v1.2 - Help file reference for ARJ v2.50a
+arjl365u.exe	ArjFolder v3.65 - Win95/98/NT ARJ shell
+arjhdr.zip	ARJ Hdr v1.1 - Tool to add comments to ARJ archives
+arjm500.exe	ARJ-Manager v5.00 - German ARJ Shell
+arjshl12.zip	ARJ Shell v1.2 - Decompression ARJ Shell for Win95/NT
+arjvw161.zip	ARJ Viewer v1.61
+arjx17.zip	ARJX v1.7 - Freeware ARJ unpacker and SFX maker
+arjz015.zip	ARJZ v0.15 alpha - Russian improved ARJ packer
+ark101.zip	Ark v1.101 - COM archiver and EXE 2 COM converter
+armenu12.zip	ARMENU v1.2 - Archiver's shell for DOS
+arpa_12.zip	ARPA v1.2 - ARJ support utility
+arpr.zip	Advanced RAR Password Recovery v1.52
+arq32.zip	ARQ Crusher! Archive Utility v3.2
+ars.zip		ARS v2.1.1 - SFX file archiver by Stepanyuk Oleg
+artest26.zip	The Art Of Lossless Data Compression - 26th release of the
+		monthly published lossless compressors test
+artst_26.zip	The Art Of Lossless Data Compression - Short version of 26th
+		release of the monthly published lossless compressors test
+arx100.zip	ARX v1.00 - U.S. Packer
+as12.zip	Archive Searcher v1.2 for Win9x/Me/NT/2000 - Util for
+		searching files in a ZIP, RAR, ACE and CAB archives
+asd_linx.zip	ASD Archiver for Linux v0.1.5 by Tobias Svensson
+asd_src.zip	ASD Archiver v0.1.5 - C sources
+asd020.exe	ASD Archiver for DOS/DOS32 v0.2.0 by Tobias Svensson
+ash04a.rar	ASH v0.4a - File archiver
+ashell63.zip	Archiver Shell v6.3 for Win95/98/NT
+ashl1332.zip	ArjShell v1.3 - 32-bit ARJ shell program
+asp100.zip	Archivating Service Program v1.00
+aspck212.zip	ASPack v2.12 - Win32 Executable File Compressor
+aspack.zip	ASPack v2.41 - Win32 Executable File Compressor
+at830.zip	ARCTOOL v8.30 - Archive manager
+atr.exe		Advanced TAR repair v1.4 - Tool for reparation of corrupted
+		TAR archives
+au202.zip	Archive Utilities v2.02
+aup.rar		AUP v1.0 beta - Universal Executable Unpacker
+autocomp.zip	AutoCompress v1.2 - Tool for evaluation of the file(s)
+		compressability
+av911.zip	Archive directory viewer v9.11
+avpck122.zip	AVPACK v1.22 - EXE/COM Compression Program from Russia
+ax_11252.zip	ArchiveXpert v1.1.2.52 - Archive utility for Win95-XP
+axe.zip		AXE v2.2 - Program compression utility
+axsetup.exe	Archive Explorer v1.5 - Compression util for Win9x/NT/2K
+axzip42.zip	AX-ZIP Archiver v4.2 - Compression tool for Windows
+axzip43.exe	AX-ZIP Archiver v4.3 (32-bit) - Compression tool for Win
+axzipex.exe	AX-ZIP Extractor 4.3 (32-bit) - Archive extractor for Win 
+axzipf42.zip	AX-ZIP Finder v4.2 - Tool for finding files packed in ZIP
+		archives
+azc.zip		Attachments Zip Compressor v1.2 - Tool for automatic
+		e-mail attachments compression
+azp32v43.exe	AutoZip98 v4.3 - Tool for extracting zip files directly
+		from Netscape/MSIE
+azip.zip	Alchemy ZIP v1.0 - ZIP/unZIP utility for Win9x/NT
+azip241.exe	AZip v2.41 - Free Zip Archive Manager for Windows
+azpr.zip	<ASP> Advanced ZIP Password Recovery v3.54
+azpzip.zip	Active Zipper Pro - Compression/decompression utility
+azr.exe		Advanced Zip Repairer v1.80 for Win32
+aztouch2.zip	AZTOUCH v2.0 - Comment/redate/test ARJ & ZIP files
+b1fa15.exe	B1 Free Archiver v1.5.86 - Archiver for Windows
+ba101br5.zip	BA v1.01 beta rev.5 - Blocksorting Arithmetic Compressor
+balz115.zip	BALZ v1.15 - Experimental command line file compressor
+bandizip.exe	BandiZip v7.19 - Compression tool for Windows (both 32
+		and 64-bit)
+bandzipx.exe	BandiZip v7.19 - Compression tool for Windows (64-bit)
+bar112.exe	BAR v1.1.2 - BWT algorithm based packer by Frank Jennings
+		(reqs JRE installation)
+barf.rar	BARF - Better Archiver with Recursive Functionality
+barf2.zip	BARF v2.0 - Better Archiver with Recursive Functionality
+bcarch.exe	BCArchive v2.07.0.3 - Compression/encryption utility
+bcm165x.zip	BCM v1.65 - Compression tool by Ilia Muraviev for Win32
+bcomp.zip	BCOMP v0.1 - Command-line version of LZW based packer
+bdsap.zip	BDSAP - Small and fast SFX file creator (OS/2)
+bee078.zip	BEE v0.7.8 - Context mixing method based archiver for Win32
+bee079pl.zip    BEE v0.7.9+ - Archiver for Win32
+beegui.exe      BeeGui - Graphic user interface for BEE archiver
+belon.zip	Belon - Japanese file compressor with GUI for Windows
+berar271.zip	RAR v2.71 for BeOS - Archiver
+bicom101.zip	BICOM v1.01 - Bijective compressor
+bim003.zip	BIM v0.03 - A high performance lossless image compressor
+bioarc19.zip	BioArc v1.9 - Archive manager optimized for text/office
+		documents, executable and MP3 files
+bitlin.lzh	Bitmap Liner for Windows v1.00e - LHA.DLL Utility
+bitser.exe	Bitser v1.5 - Archive and backup software for Windows
+bitzip50.exe	BitZipper v5.0 for Win9x-XP - Compression utility
+bix100b7.zip	BIX Archiver v1.00 Beta 7 - Command Line File Archiver
+		for Win95/98/NT
+bjwflate.zip	BJWFLATE v1.54 - Compression tool by Ben Jos Walbeehm
+blink.zip	BLINK - Fast file compressor and packer for DOS together with
+		beta of Win32 version
+blkarc10.zip	BLKARC v1.0 - Util for use of PkZip to convert sets of files
+		into archives
+bma134b.rar	BMA v1.34 beta - The experimental console archiver for Win
+bmf_1_10.zip	BMF v1.10 - Lossless image compressor
+bmf_2_00.rar	BMF v2.0 - Lossless image compressor by Dmitry Shkarin
+boa058.zip	BOA Constrictor Archiver v0.58b
+booz20.zip	Booz v2.0 - ZOO archives extractor and lister
+boozmenu.zoo	Boozmenu  - Simple GUI for ZOO archiver
+brflz100.zip	BriefLZ v1.00 - Lempel-Ziv algorithm based packer with source
+brzip4en.exe	BraZip v4.0.063 - Archiving tool for Win9x/NT/2000
+bsa.zip		BSA v2.0 (Rel.1.10) - Russian Packer
+bsfx19.exe	BSArc v1.9.3 - Older Russian Packer
+bszipins.zip	BigSpeed Zipper v4.0 - Versatile Zip tool for Win32
+bszipdll.zip	BigSpeed Zip DLL v3.02 for Win32 - Zipping/unzipping library
+bszipocx.exe	BigSpeed Zip OCX v2.1 for Win32 - Zipping/unzipping ActiveX
+		control
+btspk.arj	BTSPK v2.60b - Crypt/packer program by Big Tree Soft
+btpc41.zip	BTPC v4.1 - Graphics compressor based on Binary Tree
+		Predictive Coding
+build101.zip	Archive builder v1.01 - Multivolume packer util
+bunzip.zip	BUNZIP.DLL v1.0 - Freeware bz2/gz (GZIP) and CAB archive
+		unpacker
+bvi170.rar	BVI File Compressor/Decompressor v1.70
+bw5z393s.zip	BinaryWork ZIP Compress OCX v3.093 - VB5 (SP3) version
+bw6z397s.zip	BinaryWork ZIP Compress OCX v3.097 - VB6 (SP3) version
+bwc099d.zip	BWC v0.99 - Compressor based on Burrows-Wheeler Transform
+bwmonstr.zip    BWMonstr v0.02 - Demo compression tool for Win32
+bwtmix.rar      BWTmix v1 - Experimental compression tool
+bwtzip.zip	BTWZIP - Command line packer
+bzip2bin.zip	BZIP2 v1.0.5 - File Compressr (Win32 binaries)
+bzip2dos.zip	BZIP2 v1.0.4 - File Compressor (compilation for DOS)
+bzip2os2.zip	BZIP2 v1.0.4 - File Compressor (compilation for OS/2)
+bzip2w32.exe	BZIP2 v1.0.4 - File Compressor (compilation for Win32)
+bzip2.tgz	BZIP2 v1.0.6 - File Compressor (source + docs)
+bzip2.zip	BZIP2 v1.0.4 - File Compressor (binaries for Linux)
+bzipplug.zip	BZIP2 Support Plug-in for Total Commander
+bztk300s.exe	Batch Zip Toolkit v3.00 - Compression Package for Win32
+cabcomp.exe	HeleCABCompresor v1.6.2.2 - CAB compressor for Win9x/NT
+cabex10.zip	CAB-Extractor v1.0
+cab2003.zip	Microlog Cabinet Manager 2003 for Win9x/NT - Compression tool
+		for .cab files
+cabextr.zip	BeOS Port of MS CAB Extract Utility
+cabpck14.zip	CabPack v1.4 - .CAB files creator
+cabvie11.zip	Cabview.inf v1.1 for Win95/NT
+cachk31.zip	Compressed Archive Checker v3.1 - RAR,ARJ&ACE archive checker
+calcz10b.zip	CALCZIP v1.0B - Calculates required disk space for ZIP
+		archive installation on HD
+canman.exe	Can Manager v1.0 - Compressor for Win32
+car150.zip	CAR v1.50 archiver
+carc101.exe	MS Cabinet Tool v1.01
+carcom11.zip	CAR Comp v1.10 - Compressor
+cazipxp.zip	Computer Associates CAZIPXP v1.4 - Compression tool
+ccc25.zip	Complete Compressor v2.5 - Packer shell
+ccmpr101.zip	CCMPRS - Command-line file compression utility for Win NT
+cczip32.exe	CCZip v5.1 - ZIP application for Windows 95/98/NT
+cdlist34.zip	CD-List v3.4 for DOS/Win - ZIP as a disk unit emulator
+cha1-2.exe	ChArc v1.2 - Older Russian Packer
+chieflz3.zip	ChiefLZ LZ77 compression v3.20 for DOS/Win16/Win32
+chilkatz.zip	Chilkat Zip ActiveX Control v5.0 for Win9x/Me/NT/2000/XP
+chfzip25.zip	Chief's UNZIP v2.50 - Pascal version of Info-Zip's UNZIP
+chiparc.zip	CHIPARC v1.01 - DeARC v2.10 - Compression utils
+chkex117.rar	ChkEXE v1.17 - EXE Packer Identifier
+clearcom.zip	CLEARCOM v2.0 - Removes ZIP comments and resets data of archive
+		to that of the newest file within the ZIP file
+clevrzip.exe	CleverZip v1.2 - Compression tool
+cm_401.zip	Compression Master Suite v4.01 for Delphi/C++ Builder
+cm_640.zip	Compression Master Suite v6.40 for Delphi/C++ Builder
+cm_src.rar	CM - Static context modeling archiver - Source code
+cmcr34.zip	COMAR v3.43 - DOS Archive Shell and File Manager
+cmdzip.zip	AD Command Zip - Simple zipping utility
+cmm4_01e.7z	CMM4 v0.1e - Compression utility
+cmpass16.zip	Compression Assistant v1.61 - MS compress/expand front-end
+com_arc.zip	COM_ARC v0.1 - Commandline archiver with support of formats
+		7-ZIP, LHA and ZIP
+comansi.zip	Compressed ANSI format packer
+comdecom.zip	Compress/Decompress Utility v1.0 for Windows
+comp130.zip	Compressor - Archiver for Win95/NT
+comp16u.zip	COMP16 - UNIX compressed files uncompressor for DOS
+comp430d.zip	Unix-Compatible 16 bit compress/uncompress/zcat for DOS
+compb12.rar	Compress v1.22 - Archiver by Philipp Druyts
+compr412.zip	Unix-Compatible 16 bit compress/uncompress/zcat for OS2
+comprsia.exe	Compressia v1.0 Beta 1 - GUI Archiver for Win32
+compress.zip	NK - BMP/TV format lossless compressor
+conv100.zip	Archive Converter v1.00 (in German)
+conv21b.zip	Convert It! - File Archive Converter
+convert.zip	CONVERTER v1.2 - Archive format converter for Win32
+coolzip.exe	CoolZip v1.01 - Compression Tool for Win32
+coolzip2.exe	CoolZip v2.0 - Compression Tool for Win32
+cpac135.zip	CrossePAC v1.35 for MS-DOS - Data Compression Utility
+cpk51.zip	COMPACK v5.1 - COM/EXE Compactor
+cpshrink.zip	CPShrink by Central Point
+crark15b.rar	cRARk v1.55b - RAR v1.5x password finder
+crark23a.rar	cRARk v2.3a - RAR v2.x password finder
+crkcom.zip	CRACKCOM v0.92 - Generic COM Unpacker
+crunch.zip	Cruncher v1.0 - File compression program (c) 1989
+crush18.zip	<ASP> CRUSH v1.8 - File Compression Tool
+cryptzip.zip	ZIP Crypto support for Total Commander
+csfv140.rar	cSFV v1.40 - Util for CRC32 value calculation and checking
+csr12.zip	CrackStop Remover v1.2
+csys15.zip	CompSys v1.5 - The LiveSystems Object-Oriented Toolbox for
+		using compressed files (.PAS src)
+ct-155.exe	CFAtest v1.55 - Multiple Zip, RAR/MP3 (SFV), Shn/Mpg (MD5)
+		tester
+cts121.zip	Compactic Telescope v1.21 - Fast viewer of archives placed
+		to web servers
+ctw01w32.zip	CTW v0.1 - Context Tree Weighting method based compressor
+ctxf075p.zip	CTXf v0.75 pre-beta - Compression tool
+cunp.zip	CUNP - ROSE's Generic COM file unpacker
+cutezip.exe	CuteZip v2.1 - Compression tool
+camunzip.exe	CAM UnZip v4.42 - Zip format compressor for Windows
+cw349bin.zip	CauseWay Compressor - Command-line compression tool with source
+czp133b.zip	Adding commentary to all zip archives v1.33b
+dac129.zip	DAC v1.29 - German Archive Converter
+dact0839.exe	DACT v0.8.39 - Packer by Roy Keene
+dar2612w.zip	DAR v2.6.12 - Command-line backup and archiving tool for Win64
+dargui10.exe	DarGUI v1.0 - Front end to the Disk ARchive program
+dc124.zip	DC Archiver - Experimental BWT-based archiver for Win32
+dc355pro.zip	DUMPCOM v3.55 PRO - COM Unpacker
+dca101.exe	DCA v1.01 beta - Archiver with GUI
+ddjcompr.zip	DDJ Compress Contest Contributions - HSTEST,SIXPACK,COMPACT...
+dearc31.zip     Pascal source code for deARCing incl. "Squash"ed files
+dec01.zip	DECompress v0.1 - Universal decompressor (ZIP,ARJ,RAR...)
+decay005.zip	DECAY v0.05 - Generic 386 COM Unpacker
+deepf106.exe	DeepFreeze v1.06 - Japanese Win95 archiver with GUI interface
+delphi10.zip	Info on using the PKWARE Data Compression Library for Win
+delphi20.zip	Info on using the PKWARE Data Compression Library for Win32
+delta10.exe	Demo version of ICT Delta Coder v1.0
+delzip12.zip	Delphi ZIP v1.2 - ZIP v2.04g compatible VCL's, examples and
+		DLLs for Delphi v2 and v3
+descit.zip	Batch  file for inserting descriptions to zips
+desdw179.zip	SDW386 v1.79 remover
+dese2b10.zip	DeSCRE2B v1.0 - SCRNCH decompressor
+detrap15.zip	DeTrap v1.51 - Generic TRAP Envelope Remover
+deups97.zip	UnPackStop v0.97 Remover
+dextrct2.zip	D-Extract v2.0 - The archive-to-directory decompression shell
+dfiles31.zip	Do Files v3.1 - Util for creating ZIP using original file name
+diet145f.zip	Diet v1.45f - EXE File Compressor
+dirpack.zip	DirPack - Utility for sub-directory packing
+ditpak10.zip	DitPack v1.0 - Freeware packer with src by Disoft
+diunpack.zip	DIUNPACK v3.03 - Diskette Image Unpacker
+dizl140.zip	DizList v1.4 - File List Creator
+dizvue21.zip	<ASP> DIZVIEW v2.1 - Catalog all of your ZIP files
+dizzy1.zip	Dizzy v1.0 - Scans ZIP files and compiles list of descriptions
+djar95.zip	DJAR v1.02 Beta - JAR Shell for Win95
+djard102.zip	DJARD v1.02 Beta - JAR Shell for DOS
+dkd32.zip	DKD32 - LZSS and LZ-CRUNCH decompressor
+dlc.exe		DLC - Digilinear Compression based utility
+dmc.zip		DMC - Dynamic Markov Compression based utility
+dmcsrc.zip	DMC - Dynamic Markov Compression - Source code
+dmpexe25.zip	Obsession Exe-file expander v2.5
+dos32unp.zip	DOS32 Unpacker v0.01c - Decompressor of DOS32 extender packed
+		executables
+doz.zip		DoZ test/demo program for UNIX-like compression
+dozip151.zip	QZip & DoZip - ZIP Processors
+dp.zip		DP v1.0 - Command line archiver
+dpa11a.zip	DPAE & DEP v1.1a - German DOS Packer (in English)
+dpac10b.zip	DPACKWIN v1.0b - LHARK Shell for Win95
+dpak321.zip	DPACK v3.21 - German Packer (ZIP,ARJ...) Shell
+dpinfo95.zip	DPINFO95.DLL v4.5 by D.Paehl - Archive type identifying DLL
+dprs111.zip	Document Press v1.11 - MS Office document compressor
+dpslit14.zip	DPSLIT v1.4 - Archive file splitter for Win95/NT
+dpzip32.zip	DPZIP32 v1.1a - Freeware PkZip 2.04 compatible packer for Win32
+drp10win.zip	DropStuff v1.0 for Windows - Windows/MAC cross-platform
+		compression and access tool
+drpstf50.exe	DropStuff 5.0 & Aladdin Expander 5.0 - Windows tool
+		for creation StuffIt and ZIP archive formats
+dshar206.tgz	dshar v2.06 - Command line packer
+dshrnk16.zip	DeShrink v1.6 - Shrinker envelope unpacker
+dst09b.zip	DST v0.9b - New compression program (for 1 file only)
+dummyppm.rar	DummyPPM Coder (Method D) - C Source
+dup414.zip	Dragon UnPACKer v4.14 - Quake PAK and other game files
+		extractor
+durilca.rar	Durilca v0.5 - Command-line compression program
+dwc-a510.exe	DWC Rel.A5.10 - Older packer
+dxl_deco.zip	DXL_DECO - DXL files decoder
+dz50.exe	<ASP> Drag And Zip v5.0 for Windows 3.1
+dz95.exe	<ASP> Drag And Zip v3.0g for Win95/NT
+dzip20.zip	DZIP v2.0 - Packer shell (in German)
+dzip29.exe	Dzip v2.9 - GUI version of File Compressor for Win32
+dzipcl29.exe	Dzip v2.9 - Command line version of Cile Compressor for Win32
+dzip_b1.exe	DeluxeZIP Beta - Compression tool with ZIP/RAR format support
+e_wise.zip	E_WISE 2002 - WISE Setup Unpacker
+easyzip.zip	EASYZIP v1.2 by Dirk Paehl - Win32 packer
+easzipse.exe	EASYZIP v1.2 by Dirk Paehl - Win32 packer (SFX file)
+ecl_530.zip	Easy Compression Library v5.30 for Delphi/C++ Builder
+elc10.zip	E_LC10 - LC10 compressed DOS/G[W] programs unpacker
+elfpack.tgz	ELFpack for Linux v1.0
+eli5750.zip	ELI 5750 Demo version - Older Russian Packer
+elite.zip	ExeLITE v1.00 beta F - EXE packer
+elite200.zip	ELITE v2.0 - EXE & data files compressor
+emilcont.zip	Emilcont v0.2 - Packer by Berto Destasio
+enc015.zip	ENC v0.15 - PPMII method based archiver for Win32
+entpack.arj	Entpack - German EXE/COM Unpacker
+entpa301.zip	ENTPACK v3.01 - Universal Unpacker from Germany
+enzip10.zip	ENZIP v1.0 - German PkZip Compatible Freeware Unpacker
+ep2k.exe	EP2K - Command-line unpacking tool for Win9x/NT/2000
+epack16.zip	EPACK v1.6 - Executable file compressor
+epm_9.zip	EPM r9 - Compression tool
+erar173.zip	Easyrar v1.73 - German RAR supporting utility
+eri51fre.zip	ERI32 v5.1 free - Multimedia archiver, freeware version
+erp.zip		ERP v0.97b - Executable Recovery Program (EXE unpacker)
+es13b.zip	ES v1.3b - German Unpacking Shell
+es321.zip	EXESCAN - packed/protected EXE files recognizer
+es95.zip	ES95 v2.63 - Archive Identifier for Win95/98/NT
+esp_v192.exe	ESP v1.92 - Extension-Sort Packer from Hungary
+exe32pck.zip	EXE32PACK v1.42 - EXE packer for Win32 by Steelbytes
+execab32.zip	EXE 2 CAB Converter v3.2 - Converts SFX CAB (EXE) files to
+		non-SFX CAB files
+exei17xb.rar	EXEINFO v1.7XBeta for DOS - EXE Envelope Identifier by ASL
+exepack.zip	EXEPack - EXE Manipulation Tools
+exework.zip	Executable Optimizer v1.055 - Util for optimizing of headers
+exhig101.zip	ExeHigh v1.01 - Executable file compressor
+exp1.zip	Experimental (bzip2 compression engine based) archiver v1
+explz844.exe	Explzh v8.44 - Utility for extracting and creating LZH
+		archives for Windows (32-bit English version)
+exlz844x.exe	Explzh v8.44 - Utility for extracting and creating LZH
+		archives for Windows (64-bit English version)
+extar10.zip	ExTAR v1.0 - TAR extractor
+extpc102.exe	ExtractorPC v1.02 - Compact Pro Expander
+extr10.zip	Extractor! v1.0 - VT VMS_SHARE Encoded Files Extractor
+extranow.exe	Extract Now v4.8.3 - Archive extraction tool for Windows
+extrar.zip	ExtractRAR v1.01 - Freeware add-on for WinRAR
+extrct14.exe	The Extractor v1.4.2.2 - Archive extractor for Windows
+extrct20.exe	The Extractor v2.0 - ZIP/RAR archive extractor for Windows
+ezip30.exe	eZip Wizard for Windows v3.0 - Compression utility
+exwise05.zip	exwise v0.5 - WISE install executables decompressor
+ezace.zip	ACE archive unpacking shell
+ezip45.exe	ExpressZip v4.5 for Win32
+ezr.zip		E.Z.R. v1.0 - ACE,ARJ&RAR Decompression Assistant
+ezsep105.zip	<ASP> EasyZIP Self-Extractor Pro v1.05 for Win'95/NT
+ezzip3.exe	Easy Zip v3.1 - Compression tool
+f_vt100.zip	VIPTRADER v1.00 - ZIP Handling Utility
+fact132.zip	FACT v1.32 - Freeware Archive Conversion Tool
+farccl66.exe    FreeArc v0.666 - Command-line version of Compression tool
+                for Win32
+farc124.zip	FArc v1.24 - File in archives finder
+farcw124.zip	FArc for Windows v1.24 - File in archives finder
+fasti18.zip	FAST INFLATE v1.8 (ZIP,ARJ,LZH)
+fastpack.zip	FASTPACK.DLL - 16-bit DLL with fast compression algorithm
+fi245.zip	FileInfo v2.45 - EXE/COM packer/envelope identifier
+finish26.zip	<ASP> The Finishing Touch v2.6 - Professional software
+		installation program
+flash100.zip	Flash, Fast Library Utility v1.00
+flashzip.zip	Flashzip v0.99 beta 5b - Compression tool
+foxsqz.zip	FOXSQZ v1.9c DEMO
+fpaq0pv5.zip	fpaq0pv3 - Stationary order 0 file compressor
+fpk200.zip	FreePaK v2.00 - SFX archives creator for Win9x/NT/2000
+free_upx.exe	Free UPX v3.1 - Graphical interface for the UPX packer
+freearc4.zip	FreeArc v0.40 - Compression tool for Win32
+frearc66.exe    FreeArc v0.666 - Compression tool for Win32 (install)
+frearc66.zip    FreeArc v0.666 - Compression tool for Win32 (portable)
+freeze10.zip	Freeze! The Windows Compression Utility v1.0
+freeze25.zip	Freeze/Melt Compression Program v2.5
+freezip.exe	FreeZip v1.4.9 - Win95/98/NT free ZIP utility
+fs.zip		File Scanner - EXE Encryptor/Packer Identifier
+fs_tools.zip	Set of additional utils for File Scanner
+fsg133.zip	FSG v1.33 - EXE packer
+fsg20.zip	FSG v2.0 - EXE packer
+fv200.zip	FV v2.00 - Verbose Archive Directory Lister by Vernon D.Buerg
+fvcbm30.zip	FVCBM v3.0 - Displays Commodore 64/128 Archive Files Contents
+fxc_640.zip	FlexCompress v6.40 - Compression Library for Delphi/C++ Builder
+fz2001.exe	FAST Zip 2001 v1.01 - Compression Utility for Win32
+fz302.exe	Filzip v3.02 - Compression utility for Win9x-XP
+fzc105c.zip	Fast ZIP Cracker v1.05c - ZIP password finder
+gas20.zip	GAS File Compression/Decompression Utility v2.0
+gca_v09k.exe	GCac v0.9k - Japanese compression program
+ge250.zip	GetTyp v2.50 - EXE/COM packer/encryptor/compiler... detector
+getdiz30.zip	GetDiz v3.0 - DIZ viewer
+getdiz12.zip	GETDIZ v1.2 - Freeware FILE_ID.DIZ extractor
+getexe.zip	GETEXE v2.0 - EXE Unpacker
+gfe10.zip	GFE v1.0 - General File Extractor
+godzip79.exe	GodeZIP 2000 v7.9 - Program to compress/decompress and crypt
+		files by drag&drop
+grzip.exe	grzip v0.3.0 - Text mode compressor for Windows
+grzip.zip       GRZip v0.7.3 - File compressor based on Burrows-Wheeler
+                Transform and Advanced Weighted Frequency Counting
+grzipiid.zip	GRZipII v0.2.4 - Compressor for DOS by Ilya Grebnov
+grzipiiw.zip	GRZipII v0.2.4 - Compressor for Win by Ilya Grebnov
+gsfx111.exe	GSfx Wizard v1.1.1 - Win32 tool for creation SFX archives
+gt026.zip	GT2000 v0.26 - File format detector for Win32
+gt034.zip	GT2 v0.34 - File format detector for Win32
+gt260.zip	GetTyp v2.60 - Extended file format detector (archives, EXE's)
+gtw260.zip	GetTyp v2.60 for Windows - File format detector
+grepfv10.zip	Grepf v10  - Grep also in ARJ, ZIP ...
+gtar-exe.zip	GNUtar v1.11.2 for DOS
+gtar258.zip	SCSI Tape Backup for OS/2 v2.58
+gth12.zip	Gather v1.2 - Archive several files into one and restore them
+gtui114.zip	GTUI - GetTyp user interface for Windows
+guipex.exe	GUiPeX v1.4 - A UPX Front-End for Win32
+gup10.zip	General Unpacking Shell v1.0 for Windows95
+gus_195.zip	General Unpack Shell v1.95
+gzip124.zip	GNU Zip v1.24
+gzip1312.zip	gzip v1.3.12 - Compression tool
+ha0999.zip	HA v0.999 beta - Packer by Harri Hirvola
+ha_nt.zip	HA v0.999 beta - NT version of packer by Harri Hirvola
+hackrar.zip	RAR.CFG Decoder v1.0
+hamstr20.exe	Hamster Free ZIP Archiver v2.0.1.3
+hamstr30.exe	Hamster Free ZIP Archiver v3.0.0.86
+hamstr40.exe	Hamster Free ZIP Archiver v4.0.0.59
+hanzip.exe	Hanzip v2.0 - Compression tool for Windows
+haozip31.exe	HaoZip v3.1 - Multiformat compression tool for Windows
+hap305bp.com	HAP v3.05 - Packer
+hap306.zip	HAP v3.06 - Packer
+hap40td2.zip	HAP v4.0xTD - Testdrive release
+hav.zip		HAView v0.6 - HA viewer
+have614b.zip	HAVE v6.14 Beta - Older Archive Viewer
+hawcx110.zip	HA Archiver Plugin v1.1.0 for Total Commander
+hhzv30.exe	Ccy HaHaZip v3.0.1 for Win9x-XP - Compression tool
+hipp5819.rar	Hipp v0.5819 - Experimental command line file compressor
+hit.arj		HIT v2.10 - MS-DOS based packer from Romania
+hjz_pack.exe	HJ-Zip v0.4beta - Freeware unzipper
+hook.zip	Hook v1.4 - Open source command line file compressor
+hpa_elr.zip	EXELocker Remover
+hpack79d.zip	HPACK v0.79a0 - Multi-System Archiver (DOS version)
+hpack79o.zip	HPACK v0.79 for OS/2 - Multi-System Archiver (OS2 version)
+hpacomp.zip	HPA Compressor v1.8
+hsr114.zip	HackStop Remover v1.14
+htmllzw.zip	HTML LZW Compression v2.5 for Win9x/NT/2000
+htmlzip.exe	HTMLZip v1.06 - SFX compressed HTML pages creator for Win9x/NT
+hunp101.rar	HUNP v1.01- Executable unpacker
+hyper25.zip	Hyper - Pack Utility v2.5 (the last English version)
+hyper26.zip	Hyper - Pack Utility v2.6 (German version)
+ibmnulib.zip	NuLib v3.24 - Archiver
+i034.zip	IceUnP v0.3.4 - EXE/COM UnPacker by author of Xpack
+i6cmp13b.zip	I6Comp v1.03b - Install Shield v6.x CAB util
+i5comp21.rar	I5comp v2.01 - Install Shield Cabinet Files Maintenance Util
+i6comp02.zip	I6Comp v0.20 - Install Shield v6.x CAB util
+ice102c.zip	ICE v1.02c archiver
+icomp.zip	Install Shield De-Compressor v3.00.061 for MS Windows
+icomp95.zip	Install Shield De-Compressor v3.00.062 for Win95/98/NT
+idar215e.exe	IDArc v2.15 - Archive Identifier - English version
+idarc215.exe	IDArc v2.15 - Archive Identifier - German version
+idchekr2.zip	IDCHECKR - Simple tool to detect type of archive
+idpck315.exe	IDPacker v3.15 - TP6+ Unit for Identification of Archive
+		Formats
+iexe131.zip	InfoExe v1.31 - EXE packer/protector identifier
+iexe135b.zip	InfoExe v1.35 beta
+imp.zip		IMP archiver add-on to FAR file manager settings
+imp112.exe	IMP v1.12 - Command-line file archiver for Win95/NT
+imp110d.zip	IMP v1.10 - DOS version of file archiver
+in-370.exe	Installer v3.70 - Tool for installing single or multi-volume
+		archive file sets
+inf-ux55.zip	UX v0.55 - EXE file unpacker
+inno7zip.zip	Inno7zip - Tool for developers who use InnoSetup, ISTool, ISPP
+		and 7-zip together
+innoextr.exe	InnoExtractor v5.4.5.202 - Tool to extract content of InnoSetup
+		created installators
+innounp.rar	Innounp v0.50 - Inno Setup Unpacker (valid for v2.0.7 - 6.1.2)
+inszip13.zip	InstallZIP v1.3 - Makes easy setup of an application stored
+		in a ZIP archive
+is_al_12.zip	ARCLOG v1.20 - LOG file archiver for DOS/OS2
+isdcc122.zip	isDcc v1.22 - Install Shield Decompiler
+isdiz2.zip	Util which tell you if ZIP file contains FILE_ID.DIZ or not
+its10.zip	BigSpeed InZip Text Search for Win95/98/NT - Find, view and
+		extract info from ZIP archives
+iup067.zip	IUP v0.6.7 - Executable Unpacker
+izarc44.exe	IZArc v4.4 - Compression tool for Windows
+izarc2go.exe	IZArc2Go v4.4 - Portable version of IZArc
+izarccl.exe	IZArc Command Line Add-On v1.1
+izrskbld.zip	IZArc Skin Builder v1.0 - Tool to create skins for IZArc
+izshr045.zip	Zip/UnZip Source Shared Files
+j7z142.exe	J7Z v1.4.2-1 - Alternative 7-Zip GUI for Windows
+jam.zip		JAM/UNJAM - Tiny freeware Chinese packer/unpacker
+jam221.zip	JAM v2.21 - Russian COM/EXE Compressor
+jar102x.exe	JAR v1.02 - File Archiver for DOS and Win95/NT from R.Jung
+jarcs094.exe	JARCS v0.94 - Compression Program
+jarsh111.zip	JarShell v1.11 for Win95/98 - GUI for JAR archiver
+jarwn20b.zip	JarWin v2.0 beta - JAR graphics interface for Windows 95
+javazip.exe	JavaZip v1.0 - Java compression utility
+jcalg1.zip	JCALG1 Compression Library by Jeremy Collake
+jcsrle.zip	Run Length Encoding Utility v0.3 - Compression program
+jdpack.zip	JDPack v1.01 - Win32 EXE/DLL compressor by TLZJ18 Software
+jlsref.zip	JPEG-LS Reference Encoder v1.00 by HP
+jrc110.zip	<ASP> JRCHIVE v1.10 - Compression System
+jrunzp10.zip	JrUnzip v1.0 - Win3.1 Unzip Utility
+jstcl11a.zip	Just Click v1.1a - Archive extraction add-on
+jup170us.zip	Jen's UnPacker v1.70
+jzipv1.exe	jZip v1.3 - Compression tool with support of ZIP, RAR, TGZ
+		and 7-Zip formats
+jzlib98.exe	Zlib98 - ZIP/TAR/GZIP browser for Win95/98/NT
+kboom11.zip	KBOOM v1.1 - LZW file encoder/decoder
+keepit20.zip	Keep-It v2.0 - Revision control system for Win9x/NT
+kgb_arch.exe	KGB Archiver v1.2.1.24 - Compression tool
+kgbarch2.msi	KGB Archiver ver.2 beta 2
+kmtar200.zip	TAR v2.00 for DOS (dox in Japanese)
+kmt201df.zip	TAR v2.01 for DOS (Update)
+kty_13.zip	KTY Archive v1.3 by HyperBeat Software - Japanese archiver
+kurkul.rar	FAR Plugin Calculator
+kzip.exe	KZip - Packer by Ken Silverman
+kzip0_94.zip	KZipper v0.94 - ZIP manager for OS/2
+kzip099e.zip	KAZip v0.99e - ZIP manager for OS/2
+la04b.exe	La v0.4b - Lossless Audio Compression Tool
+larar2.zip	LaRar v2.0 - Program to aid in using UnRAR
+larc333.exe	LARC v3.33
+larch321.zip	LARCH v3.21 - Archive Manager
+larsq.zip	LAR &  SQPC - Older compressors
+ldzip225.zip	LDZIP v2.25 - ZIP with LFN support creator in plain DOS
+lfb10.zip	Large File Backup and Restore v1.0
+lgaf24.zip	LGAFIND v2.4 - Recursive File Finder in Archives (Russian dox)
+lgasp403.rar	LGASPLIT v4.03 - Archive Splitter for DOS (Russian dox)
+lgav609e.zip	LGAVIEW v6.09 - Archive Viewer for DOS/Win by Lyapko George
+lgfv210.zip	LGFV v2.10 - MS-DOS Archives Viewer by Lyapko George
+lgfv4far.zip	LGFV v2.11 for FAR - Archiver Viewer
+lgha11g.zip	LGHA v1.1g - DOS Archiver by Lyapko George
+lglhafix.zip	LGLHAFIX v1.3 - Damaged LZH/ICE files reconstructor
+lglz104e.zip	LGLZ v1.04e - DOS Executables Compressor by Lyapko George
+lgpkv110.exe	LOGPAK v1.10 - Log files archiving util (RAR support)
+lgzsp.zip	LGZSP - Util for stripping paths from ZIP archives
+lh113c.exe	LHArc v1.13c
+lh2_v228.zip	LH/2 v2.28 for OS/2
+lha2-208.zip    LHA OS/2 v2.08 - Command line packer
+lha211_s.exe	LHA v2.11 Source Code
+lha255b.exe	LHA v2.55b - Japanese and English version with Japanese dox
+lha255e.exe	LHA v2.55 - English version
+lha266.exe	LHA v2.66 - Japanese version
+lha266e.exe	LHA v2.66 - English patch and document
+lha267.exe	LHA 32 v2.67 - Japanese version
+lha267e.exe	LHA 32 v2.67 - English patch and document
+lha32106.exe	LHA32 v1.06 by Take (in Japanese)
+lhadll.exe	LHA.DLL for Windows
+lhark04d.zip	LHARK v0.4d - packer by Kerwin F.Medina
+lhasa010.exe	Lhasa v0.1 - LHa Extractor for Win95
+lhavw161.zip	LHA Viewer v1.61
+lhe101.exe	Fast LHA extractor for DOS
+lhex11.zip	LHEX v1.1 - LHA archives extraction add-on
+lhhelp.zip	LHSCAN & LHPICK v0.02 - Corrupt LZH file Rescue Program
+liar40.zip	LIAR v4.0 - Lister of archives
+limit12.zip	Limit v1.2 - Packer
+litca112.zip	LITCAB v1.12 - CAB files manipulator for Win95/98
+licab321.zip	LITCAB32 v1.04 - CAB files manipulator for Win32
+lk031.exe	About Look-at-Me v0.31 - 4DOS batch file to display contents
+		of text files in ARJ format archive
+lnunz15.zip	Long Name Unzip v1.50
+lpac_in.zip	LPAC Archiver plug-in v1.00 for Winamp
+lpacarch.zip	LPAC Archiver v1.41 (with Codec DLL 3.08 and documentation)
+lpacfull.zip	LPAC Full Installation (with Codec DLL 3.09 and command line
+		version 1.40)
+lpaccmd.zip	LPAC Archiver Command Line v1.40 for Win32
+lpacodec.zip	LPAC Archiver v1.41 - Codec DLL v3.08 only
+lpackv10.zip	LPA and LEPA - Packer Shell (in German)
+lpaq1.zip	Lite version of PAQ Compressor
+lpaq1dos.zip	LPAQ1v2 - DOS version of file compressor
+lpaq6dos.zip	lpaq6 for DOS - Compression software
+lpaq8.zip	lpaq8 - Compressor by Alexander Ratushnyak
+lsize252.zip	LSIZE v2.52 - Packed files splitter
+lspsfx20.zip	LSP SFX Builder v2.0 - Single file SFX creator
+lunace20.tgz	UnAce for Linux v2.0a
+lxlt133.zip	LxLite v1.3.3 - An OS/2 Executables Packer
+lxlt133s.zip	LxLite v1.3.3 - Source Code of OS/2 Executables Packer
+lz4x160.zip	lz4x v1.60 - An optimized LZ4 compressor
+lza101.zip	Chief's LZ Archiver for Win3.1x/Win9x/WinNT
+lzalt03.zip	LZALT v0.03 - LZEXE compressed files modifier
+lzap0200.zip	LZAP v0.20.0 - Packer
+lzc.zip		LZC v0.08 - LZ Code based compression tool
+lzds21.zip	LZDS v2.1 - Command-line packer
+lzealt.zip	LZEALT v1.04 - Fast LZEXE un-extractor
+lzefix.zip	LZEFIX - Shell for LZEXE
+lzeshl30.zip	LZESHELL v3.00 - Shell for LZEXE compressor
+lzexe091.zip	LZEXE v0.91 - EXE File Compressor
+lzexe100.zip	LZEXE v1.00 - EXE File Compressor
+lzexemem.zip	Requirement for loading an EXE file compressed with LZEXE
+lzhe100.zip	LZHE v1.00 - List/Text/Extract LZH compressed files by Sydex
+lzhlib.zip	LZHLIB - Compression library by Kerwin F.Medina
+lzhm500.exe	LZH-Manager v5.00 - German LZH Shell
+lzinface.zip	A user interface for Fabrice Bellard's LzExe
+lzip.zip	LCARS-Zip v1.0.24 for Win95 - Zip program with LCARS interface
+		from the Star Trek Series :-)
+lzo108.tgz	LZO v1.08 - A real-time data compression library
+lzo210.tgz      LZO v2.10 - A real-time data compression library
+lzop101l.tgz	LZOP v1.01 - A real-time data compression utility (Linux)
+lzop101d.zip	LZOP v1.01 - A real-time data compression utility (DOS)
+lzop101o.zip	LZOP v1.01 - A real-time data compression utility (OS/2)
+lzop103w.zip	LZOP v1.03 - A real-time data compression utility (WIN)
+lzp2.zip        LZP2 - Fast compressor based on optimised version of
+                predictive LZ algorithm
+lzpm018.zip	LZPM v0.18 = LZ77-based file compressor by Ilia Muraviev
+lzpx15b.zip	LZPX v1.5b - Fast and powerful file compressor
+lzpxj12h.zip	LZPXJ v1.2h - File compressor
+lzs221.zip	LZSDEMO v3.1 by Stac Electrics
+lzss.zip	Simple LZSS implementation v1.0 by Jeremy Collake
+lzssu102.zip	LZSSUNIT v1.02 for Borland (Turbo) Pascal
+lzturbo.zip     Lzturbo v0.94b - High performance lz77 based compressor
+m03.zip         M03 v0.2a - Compression tool by M.Maniscalco
+m99.zip		M99 v2.2.1 - Windows version of packer by M.A.Maniscalco
+macarc.zip	Extract ArcMac's files on PC v1.1a
+mag_zipc.zip	Password guesser to recover PkZipped files when the password
+		has been lost
+makesfx.exe	Make SFX 3.3.27.67 - Tool to create self-extracting archives
+makezexe.zip	MakeZexe - Free SFX ZIP file creator
+makezipe.zip	MakeZip v1.28 - Create ZIP archives with 95/NT self-extractor
+mar.rar		MAr Archiver by Xann / Melting-Pot
+mar10.zip	MAR v1.0 - Micrognosis Compression Archiver
+mar79.zip	Binary Compression 79 v3.0.1 - Command line Win32 
+		compression/decompression tool
+mcpy01v.zip	MCOPY v1.0 - Backup util (ARJ-based)
+md5av.zip	MD5 Archive Validator v1.1.1.6
+mdcd10.zip	MDCD v1.0 - Packer
+megal120.zip	Megalite v1.20a+ - EXE Compressor
+messr.zip	MESS (EXE Envelope) Remover v1.1
+mew11.zip	MEW 11 SE v1.2 - EXE files packer
+mindexp.exe	Mind Expander for Windows - ZIP, SIT, SEA and HQX unpacker
+		for Windows
+minunzip.zip	Minunzip - Simple Free Unzip Program for Win95
+mklist20.zip	Makes FILES.BBS list from ARJ and ZIP description files
+mlp107b.zip	EXE file compressor for DJGPP V2 v1.07
+mlzo104.tgz	Mini version of LZO v1.04 - A real-time data compression
+		library
+mlzo207.tgz     miniLZO v2.0.7 - Subbset of the LZO compression library
+morr.zip	MORR - Universal Password Cracker
+mpc3_00.exe	MPC v3.00 - Archiver
+mpg100.rar	MUp[grade v1.00 - Small upgrade archiver for DOS
+mpgt102.rar	Make Upgrade v1.02 - 32-bit Upgrade Archiver
+mrp04.tgz	MRP v0.4 - Lossless image compression tool from Japan
+mscic65a.zip	MSCIC ed.6.50 - COM/EXE Compressor/Protector Identifier
+mscomp20.zip	MS Compress v2.00
+msext106.zip	Extractor for CAB files by MS
+msfix13.zip	MSFIX v1.3 - Fixes Exepack/some BIOS Conflict
+msxie140.zip	MSXiE v1.40 Pro - High Performance Archiver
+msiunp14.zip	MSI Unpacker v1.4 - Tool to extract MSI files
+mufi144.zip	Multi File Identifier v1.44 (archives, multimedia files)
+multiarc.zip	multiARC v2.2 - Multiarchive extractor for Win9x
+mup122.zip	MUP v1.22 - Multiple Unpacker
+mupg100.zip	Make Upgrade v1.00 - Util for making upgrade archives
+		of programs and databases
+mutawwp.zip	WWPACK Mutator v1.1c - Security WWPACK add-on
+mwwpr100.zip	MutaWWP Remover v1.00
+mydiz055.lzh	MyDiz v0.55 - File_id.diz processor
+mzip15d.zip	Multiple-ZIP-licity v1.5 - Multiple ZIP archives unpacker
+nanozipw.zip    NanoZip for Windows v0.07 - Alpha version of the compression
+                tool
+narc31.zip	NARC v2.1 - Older De-Archive Utility
+nbz20.exe	Brilliant Zip v2.01 - Compression tool for Win32
+ncav48bd.zip	The Norton Commander Archive Viewer v4.8 Beta-D
+ned230.zip	NED v2.30 - NE VB3.0 executable files deshrinker
+nelite.zip	NeLite 2004 - OS/2 NE format executable packer
+neolte20.zip	NeoLite v2.0 - Windows 32-bit EXE & DLL compressor
+neozip14.exe	NeoZip v1.4.0.0 - Compression tool for Windows
+nes_v120.zip	NES v1.20 - DOS shell program with archive support
+newzipse.exe	NEWZIP - Freeware ZIP archiver for Windows by D.Paehl
+nntc.zip	Neural Network Text Compression Programs by Matt Mahoney
+no_hacks.zip	Some anti-hacking tricks for WWPACK
+noah110.zip	NOAH Archive Utility Program v1.1
+noncompr.zip	NonCompressibleFiles v4.01 (32-bit) - Program that allows to
+		create non-compressible files, or maximum compressible files
+noncompx.zip	NonCompressibleFiles v4.01 (64-bit) - Program that allows to
+		create non-compressible files, or maximum compressible files
+nozipdel.zip	Deletes all files except of ZIP,ARJ...
+nsk50.zip	NaShrinK v5.0 - File Compression Utility from India
+ocamyd.zip	Ocamyd v1.66 - Packer by Frank Schwellinger
+ocb220.exe	One-click BackUp v2.20 - Backup tool using WinRAR
+ocsfxp5a.zip	<ASP> OCS Self-Extractor Personal v5.0a - Fast SFX packer
+oearchiv.zip	Outlook Express Archive Pro v2.52 - Save Outlook Express email
+		folder to compressed and password protected archive
+oop23.zip	OOP v2.3 - Archiving Program
+opt_frog.zip	OptimFROG v4.50 alpha - Audio Compressor
+ows.zip		OWS v0.95beta - Lossless Fractal Compression Program -
+		It's only a joke - please don't delete original files !!!
+p7z913.zip	p7zip v9.13 .EXE by Khusraw with full source
+p7z465.zip	p7zip v4.65 - A port of the Windows programs 7z.exe and 
+		7za.exe
+pack201.zip	Pack v2.01 - Executable File Compressor
+packet.zip	PACKET v0.91a Beta - Compression utility
+packuj.zip	PACKUJ v1.0 - Util for creation of 1-file archives
+packvxrx.zip	Packvxrx - Fix and compression for VX/Rexx executables
+packwin.zip	PACKWIN v1.0 - DOS and Windows Executable File Compressor
+packword.exe	PackWord v1.0 - Microsoft Word's Document to SFX Archive
+		Converter
+pacl401.exe	PowerArchiver Command Line Support Add-On v4.01
+pacl601.exe	PowerArchiver Command Line 6.0
+pak1_0.zip	oPAQue (former PAK) v1.0 - Simple but very fast packer for DOS
+pak251.exe	PAK v2.51 - Packer by Nogate Consulting
+pak441.zip	Pack It Up! v4.41 - Archive Shell for Windows'95
+pakexe10.zip	PAKEXE v1.0b - Big executables packer
+pakll106.zip	PAKLEO v1.06 & UNPAKLEO v1.05 - Packing utils by ThunderSoft
+paop203.exe	PowerArchiver Outlook Plug-in v2.03
+paop21.exe	PowerArchiver Outlook Plug-in v2.10
+paop22.exe	PowerArchiver Outlook Plug-in v2.20
+papcp202.exe	AppCompactor v2.02 - Compressor of portable applications
+paq1.zip	PAQ1 - File Compressor
+paq3n.zip	PAQ3 - File compressor/archiver
+paq6v2.exe	PAQ 6v2 - File Compressor
+paq8f.zip	PAQ v8F - Compression tool
+paq8h.zip       PAQ v8H - Compression tool incl source, Windows bin
+                and dictionaries
+paq8l.zip	PAQ v8L - Compression tool
+paqar45.rar	PAQAR v4.5 - Packer by M.Mahoney/A.Ratushnyak
+paqj.zip	PAQJ v6.14 - Polish freeware packer by Marcin Kowalczyk
+paqmenu.zip	PAQ Menu - Simple GUI for PAQ Archiver
+par149b.exe	PAR v1.49b - Compression program for Win32
+par200a.exe	PAR v2.00 beta - Compression program for Win32
+pasqda44.zip    PAsQDa v4.4 - Compression tool by Przemyslaw Skibinski
+patool16.exe	Patool v1.6 - Multiformat archive manipulation tool for Windows
+pax2exe.zip	PAX v2 for DOS - Archiving utility
+pax20-2.zip	PAX v2.0 for OS/2 - Archiving utility
+pc3270.zip	PC/3270 v2.00 - Compression program
+pcarc110.zip	PCArc v1.10f - Archiving program
+pcdezip.zip	PCDE ZIP v1.00 - Packer
+pci-a174.zip	AinView v1.74 - Archive File Viewer
+pci-f215.zip	FID v2.15 - File_id.diz Extractor
+pd32-160.zip	ProcDump32 v1.6 Final - PE files unpacker/dumper
+pdz101.zip	PDZ v1.01 - Experimental PDF compressor
+peaext13.exe	PeaExtractor for Windows v1.3 - Archive Extractor
+peaex13x.exe	PeaExtractor for Win64 v1.3 - Archive Extractor
+peazip82.exe	PeaZip for Windows v8.2.0 - Archiver and file split utility
+peazp82x.exe	PeaZip for Win64 v8.2.0 - Archiver and file split utility
+peazip82.zip	PeaZip for Windows v8.2.0 - Portable version of archiver
+		and file split utility
+peazp82x.zip	PeaZip for Win64 v8.2.0 - Portable version of archiver and 
+		file split utility
+pec2.zip	PECompact v2.98.6 - Win32 Executables Packer
+pec3.zip	PECompact v3.02.2 - Windows Executables Packer
+pecpt184.zip	PECompact v1.84 - Win9x/NT4/W2k Executables Packer
+ped.zip		PEDiminisher v0.1 - Simple PE packer
+pepack10.zip	PE-Pack v1.00 - Win32 Executables Packer
+pcsnk071.zip	Phrozen Crew PE Shrinker v0.71
+pctar11.zip	PC TAR v1.1 - Freeware
+pemg055.zip	PEmultiGUI v0.55 - Win32 EXE packers GUI
+pescan33.zip	pe-scan v3.31 - PE files envelope identifier
+petite22.zip	Petite v2.2 for Win95/NT - Win32 Executable Compressor
+pgmpak14.zip	PGMPAK v0.14 - Program Compress Utility
+pgmpak15.zip	PGMPAK v0.15 - Program Compress Utility (without dox)
+pgnpack.zip	PGNPACK v1.0 - Pack/unpack PGN files
+philkatz.jpg	Picture of Phil Katz - Author of PkZip
+pi29.zip	PI v2.9 - German Packer Identifier
+pibarv.zip	PibARV - Win95/98/NT console program to list the contents of PC
+		compressed files
+pibarx.zip	PibARX - Win95/98/NT console program to extract the contents
+		of PC compressed files
+piczip40.exe	PicoZip v4.02 - Compression tool for Win32
+pigz234.tgz	pigz (parallel mplementation of gzip) - Source code v2.3.4 
+pika.exe	Rabbit LZH file decompression tool
+pim290.exe      PIM v2.90 - Compression utility by Ilia Muraviev (inst.ver)
+pim290.zip      PIM v2.90 - Compression utility by Ilia Muraviev
+pimple.exe	PIMPLE v1.43 beta - Fast PAQ-like encoder with GUI (inst.ver.)
+pimple.zip      PIMPLE v1.43 beta - Fast PAQ-like encoder with GUI
+pimple2.zip	PIMPLE2 - Command line file compressor
+pk250c32.exe	<ASP> PkZip v2.50 Command Line for Win95/NT
+pk250dos.exe	<ASP> PkZip v2.50 for DOS
+pk263w16.exe	<ASP> PkZip for Windows v2.60.03 - 16bit
+pk361.exe	PkPak v3.61
+pkback1a.zip	MAINZEL Backup - PkZip Based Backup Program
+pkl3211.exe	<ASP> PkLite32 v1.1 (Win32 exe compressor)
+pklin251.exe	PkZip for Linux v2.51
+pklin600.sfx	PkZip for Linux v6.00
+pklts201.exe	<ASP> PkLite v2.01 (exe/com compressor)
+pkos2250.exe	<ASP> PkZip for OS/2 v2.50
+pkrar393.exe	RAR v3.93 for Pocket PC - English Edition
+pksmart.rar	PkSmart v1.0b - Executable file compressor from Russia
+pktin162.zip	TinyProg packed files modifier
+pkx35a35.exe	PkArc v3.5
+pkzca201.zip	The PkZip Caller v2.01 - German PkZip utility
+pkzcheck.zip	PKZCHECK - PkZip Password Checker
+pkzf15.exe	<ASP> PkZFIND v1.50 & PkZOOM v1.50 - ZIP utils by PKWARE
+pkzc400s.exe	PKZIP v4.0 Command Line for Win9x/NT/2000
+pkze110s.exe	PKZIP Explorer v1.1 for Win9x/NT/2000
+pkzip80.exe	PkZip v8.0 for Win32
+pmext4pc.arj	PMext v2.2 - .PMA files extractor for DOS
+pmunzip.zip	PMUnZip v1.0 - Unzipper for OS2
+pmwun120.zip	PMWUNLIT.EXE v1.20 - Decompressor for PMODE/W compressed
+		executables
+pmzppr18.zip	PM Zipper v1.8 - OS/2 InfoZip Shell and CD-ROM Manager
+pcr158d.zip	PNGCRUSH v1.5.8 - PNG files packer (executable)
+pcr158s.zip	PNGCRUSH v1.5.8 - PNG files packer (source code)
+pnunp300.zip	PNUNPACK R3.00 from OpenDOS v7.01
+powerarc.zip	PowerArc v1.3.2 - Data Compression Library for Delphi
+pwrc1022.exe	PowerArchiver 2007 v10.22 - Archive file manager
+pw1022sk.exe	PowerArchiver 2007 v10.22 - Slovak edition of archive
+		file manager
+pwrc1103.exe	PowerArchiver 2009 v11.03 - Archive file manager
+pwrc1171.exe	PowerArchiver 2010 v11.71 - Multiformat Archive Manager
+		(English only version)
+pwr1171i.exe	PowerArchiver 2010 v11.71 - Multiformat Archive Manager
+		(International version)
+pwrc1212.exe	PowerArchiver 2011 v12.12 - Multiformat Archive Manager
+		(English only version)
+pwr1212i.exe	PowerArchiver 2011 v12.12 - Multiformat Archive Manager
+		(International version)
+pwrc1303.exe	PowerArchiver 2012 v13.03 - Multiformat Archive Manager
+pwrc1406.exe	PowerArchiver 2013 v14.06.04 - Archiving tool for Windows
+pwrc1504.exe	PowerArchiver 2015 v15.04.03 - Archiving tool for Windows
+pwrc1610.exe	PowerArchiver 2016 v16.10.24 - Archiving tool for Windows
+pwrc1701.exe	PowerArchiver 2017 v17.01.06 - Archiving tool for Windows
+pwrc1802.exe	PowerArchiver 2018 v18.02.02 - Archiving tool for Windows
+pwrc1900.exe	PowerArchiver 2019 v19.00.59 - Archiving tool for Windows
+pwrc2010.exe	PowerArchiver 2021 v20.10.03 - Archiving tool for Windows
+pp219.zip	Pro-Pack v2.19 - Executable Packer
+ppdepack.zip	PowerPacker depacker for DOS
+ppdepwin.zip	PowerPacker depacker for Windows
+ppmdi1.rar	PPMD var.I rev.1 - Fast PPM Compressor for textual data w/src
+ppmn_km.rar	PPMN v1.00b1+ - PPM Compressor by Max Smirnov
+ppmsi1.rar	PPMs - Clone of PPMd compressor
+ppmstar.rar	PPM-star compression algorithm - Source code
+ppmvc10.zip	PPMVC v1.0 - Fast PPMII+VC Compressor
+ppmx009.zip	PPMX v0.09 - Original, small and fast PPM implementation
+ppmy_3c.rar	PPMY v2.00c - Context Mixing-based Data Compressor
+ppmy_9a9.rar	PPM210 Demo v2.02 - Packer (DOS/Win)
+ppmz_4gw.zip	PPMZ - PPM Based Compressor - DOS version
+ppmz_ntx.zip	PPMZ - PPM Based Compressor - Win95/NT version
+ppmz91.rar	PPMZ - PPM Based Compressor - Win32 version
+ppmz2.zip	PPMZ2 v0.8 - File compressor
+ppmz2src.zip	PPMZ2 - Source code of compressor
+prar206p.exe	RAR for OS/2 v2.06 - Polish edition
+prsys.zip	PRSYS - EXE2BIN Relocation Packer for DOS Driver Files
+ps2_202e.exe 	PalmScan v2.02 for OS/2 - The Ultimate Archive Convert Utility
+psa091a.zip	PSA v0.91 - Pretty Simple Archiver
+psa1_43.exe	Secura Archiver v1.43 - Archiving software
+psa91w32.zip	PSA v0.91 - Pretty Simple Archiver (Win32 compilation)
+psav180.zip	PalmSaver v1.80 for Win95/98 - Backup shell over ARJ/RAR/ZIP
+		packers
+pscn202a.zip	PalmScan v2.02 -> 2.02a Patch
+pscn202e.exe	PalmScan v2.02 for DOS - The Ultimate Archive Conv. Utility
+pspd122.zip	PSPEED v1.22 - Packer performance checker (dox in German)
+ptest107.zip	PTEST v1.07 - Packer performance tester
+pucrunch.zip	Pu-Crunch - A Hybrid LZ77 and RLE based packer
+pul32dos.zip	PULL v3.2 - A Cross Platform Tool for File Easy Extracting
+		and Compact Packaging - DOS version
+pul33os2.zip	PULL v3.3 - A Cross Platform Tool for File Easy Extracting
+		and Compact Packaging - OS/2 version
+pun112xn.zip	Pocket UnZip v1.12 GUI app. (Intel)
+purs963.zip	PURSIKKA v96.3 - ARJ, ZIP and LHA archives unpacker
+put347.zip	<ASP> PUT, GET & INSTALL v3.47 by MicroFox
+puzv11.zip	The Powerful UnZipper v1.1 - ZIP utility
+pv105.zip	PV v1.05 - Archive File Viewer for OS/2
+pvd105.zip	PV v1.05 - Archive File Viewer for DOS
+pvadt.zip	PvAdt - Command line archiver v0.1 of ADT format
+plzip700.exe	Planet Zip v7.00 (formerly Wallaby'95) - Archive file shell
+		for Win95/98/NT
+pzip720.exe	PowerZip v7.2 - ZIP Manager for Win32
+qa11.zip	QuickArchive v1.1 - An easy archive wizard for DOS
+qaz_361.zip	QAZ v3.61 - Archive Dir Viewer (many formats...)
+qddos05b.zip	Quick Decompress v0.5beta for DOS
+qezbld10.zip	QEZ v1.2 - Quick and Easy Software Installation
+qfc202c.zip	Quick File Collection v2.02c - TAR-like file storing utility
+qick7zex.zip	Quick 7z Extractor - 7z, RAR,ARJ, CAB, CHM and many other formats
+		extractor
+qkpar091.exe	QuickPar v0.9.1 - Data verification and repair using PAR2
+qlfc6_6w.rar	QLFC 6.6w - Archiver based on Quantized Local Frequency Coding
+qped21.zip	QPed v2.10 - Program to create new and editing existing .pak
+		files for id software's Quake
+qsfv236.zip	Quick SFV v2.36 - SFV Checker for Win32/Win64
+qsich14s.zip	QSichern v1.4s - PkZip based Backup program from Germany
+quad112.zip	Quad v1.12 - Command line file compressor utilizing LZ-based
+		algorithm by Ilia Muraviev
+quant097.zip	Quantum v0.97 - release candidate - Packer
+quark10b.zip	Quark v1.00beta - Russian Packer
+qzip306.exe	QuickZip v3.06.1 - Archiver for Win32
+qzip5111.msi	QuickZip v5.1.11 - Archiver for Windows XP/Vista/7
+qzl145.exe	QuickZip Lite v1.45 - Archive shell for Win32
+r2sfx.exe	Rar2SFX - Tool to convert RAR archive files to executables
+raco04.rar	raVen's Archive Converter v0.4 for DOS/OS2/Win32
+rar_amy.lha	UnRAR for Amiga
+rar_faq.zip	FAQ on RAR
+rar-use.exe	RAR-USE v1.1 - FAQ on how to configure various comm. programs
+		for using RAR
+rar250.exe	RAR v2.50 (DOS)
+rar250d.exe	RAR v2.50 (DOS) - German edition
+rar250p.exe	RAR v2.50 (OS/2)
+rar250pl.exe	RAR v2.50 (DOS) - Polish edition
+rar205pd.exe	RAR v2.05 (OS/2) - German edition
+rar250ru.exe	RAR v2.50 (DOS) - Russian edition
+rar200sa.exe	RAR v2.00 (DOS) - Slovak edition (ACII)
+rar200se.exe	RAR v2.00 (DOS) - Slovak translation of dox to English edition
+rar200sk.exe	RAR v2.00 (DOS) - Slovak edition (Kamenicky)
+rar200sl.exe	RAR v2.00 (DOS) - Slovak edition (Latin2)
+rar202s2.exe	RAR v2.02 (OS/2) - Spanish edition
+rar202sp.exe	RAR v2.02 (DOS) - Spanish edition
+rarbs393.tgz	RAR v3.93 for FREE-BSD Unix - Archiver
+rarbs420.tgz	RAR v4.20 for FREE-BSD Unix - Archiver
+rarbs591.tgz	RAR v5.91 for FREE-BSD Unix - Archiver
+rarbs602.tgz	RAR v6.02 for FREE-BSD Unix - Archiver
+rarb6459.tgz	RAR v5.91 for FREE-BSD Unix x64 - Archiver
+rarb6460.tgz	RAR v6.02 for FREE-BSD Unix x64 - Archiver
+rarbatch.exe	Other formats 2 RAR conversion BAT's (ZIP,ARJ,LZH...)
+rarbrk2.zip	RARBREAK II - Password Cruncher for RAR v2.xx Archives
+rarepair.zip	RAR Repair Tool v3.0 - Tool to repair corrupted RAR
+		archives
+rarex.zip	RAR Multi-Volume File Extract Utility
+rarfaq14.exe	FAQ on RAR v1.4 (in German)
+rarhp.sfx	RAR v2.02 for UNIX (HP)
+rarisimo.zip	Rarissimo v1.0c - Companion tool for WinRAR that preserve
+		NTFS alternate streams
+rarkeyd.exe	RAR Key v6.1 demo - Password Recovery Tool for RAR Archivers
+rarlng.rar	RAR Language files for WinRAR translators
+rarlx393.tgz	RAR v3.93 for Linux - Archiver
+rarlx420.tgz	RAR v4.20 for Linux - Archiver
+rarlx591.tgz	RAR v5.91 for Linux - Archiver
+rarlx602.tgz	RAR v6.02 for Linux - Archiver
+rarl6439.tgz	RAR v3.93 for Linux x64 - Archiver
+rarl6420.tgz	RAR v4.20 for Linux x64 - Archiver
+rarl6459.tgz	RAR v5.91 for Linux x64 - Archiver
+rarl6460.tgz	RAR v6.02 for Linux x64 - Archiver
+rarmc393.tgz	RAR v3.93 for MacOS X - Archiver
+rarmc420.tgz	RAR v4.20 for MacOS X - Archiver
+rarmc591.tgz	RAR v5.91 for MacOS X - Archiver
+rarmc602.tgz	RAR v6.02 for MacOS X (64-bit) - Archiver
+rarm500.exe	RAR Manager v5.00 - German RAR Shell
+rarseq16.zip	RAR Sequence Checker v1.6 - Checks a series of RAR files
+		to see if files are missing
+rarsco.sfx	RAR v2.01 for UNIX (SCO)
+rarshlex.rar	RAR Shell Extension v1.0 for Win95/NT
+rarsparc.sfx	RAR v2.01 for UNIX (SunOS-Sparc)
+rarx393.exe	RAR v3.93 for MS-DOS - Archiver (console version)
+rav250.rar	Remote Archive Viewer v2.5 for RA v2.0/2.5
+rax_102.zip	RAX v1.02 - compression program from Romania
+rb2007.exe      RAR Backup 2007.1.1.9 - Backup tool based on
+                RAR compression format
+rcf38.zip	RCF v3.8 - Archive Viewer
+rcvtw32.rar	The RAR Conversion Utility v1.03 for Win32
+rdm006be.zip	RDMC v0.06b - DMC algorithm based packer (English version)
+rdm006bs.zip	RDMC v0.06b - DMC algorithm based packer (Spanish version)
+reace016.exe	REACE.BAT v0.16 - * -> ACE Converter
+rearc11.zip	Rearc v1.1 - Rearchives all zip files to max. compression and
+		set the date/time of zip file to that of the latest file in it
+recomp01.zip	RECOMP v0.1 - Recompress nested ZIP archives
+recvtrar.exe	Recovery Toolbox for RAR - Tool to recover information from
+		corrupted RAR archives
+reduq.zip	Reduq v1.2 - File compressor
+rengen.zip	RenGen - ZIP packing of dir with LFN files
+renz10.zip	RENZIP v1.0 - Rename files in a ZIP file
+rep10d.exe	Repack v1.00 - Archive Repacker (German version)
+rep10e.exe	Repack v1.00 - Archive Repacker
+repack.zip	REPACKER v1.0 - ZIP/ARJ/RAR... command line repacker
+repck101.zip	VSh Archive Repacker v1.01
+rerar1b2.exe	Re-RAR v1.2 beta-2 - Other formats 2 RAR conversion program
+rerp.rar	RERP - ROSE's EXE Relocation Packer v0.02
+rings.zip	RINGS v1.6  (FCM Fast Context Mixing) file compressor
+rip-167.exe	RipIt v1.67 - Multi-volume archives creation tool
+ripper13.zip	Ripper v1.3 - Multiple File Unzip Utility
+rjc-beta.zip	RJCRUSH v1.10a beta - DOS executable compressor (without dox)
+rjcru110.zip	RJCRUSH v1.10 - DOS Executable Compressor
+rk104a1d.exe	RK File Archiver v1.04.1 alpha for DOS
+rk104a1w.exe	RK File Archiver v1.04.1 alpha for Win32
+rkau107.zip	RKAU v1.07 - Audio codec for WAV compression
+rkc102w.exe	RKC compression test-bed v1.02
+rkgrp106.rar	RKGraph - Compressor-profiling utility v1.06
+rkim106.zip	RKIM v1.06 - Image codec for TGA/RAS compression
+rkuc104.zip	RKUC v1.04 - Universal compression codec
+rkive14.zip	RKIVE v1.4 - File archiver
+rkv192b1.zip	RKIVE v1.92 beta 1 - File archiver
+rle16-sc.zip	Run Length Encoding Program - 16 bit header version
+rle8-sc.zip	Run Length Encoding Program - 8 bit header version
+rle64.zip	Implementation of the Run Length Encoding compression and 
+		decompression algorithm operating with 64 bit entities
+rle96.zip	RLE96 - Compression program with PAS source code
+rosetiny.zip	Rosetiny - Generates unpackable TINYPROG packed files
+roshal.jpg	Eugene Roshal (author of RAR archiver) picture in JPG format
+rpc412.zip	RAR Password Cracker v4.12 for Win32
+rpm306x1.zip	Red Hat rpm for OS/2 v3.06
+rpmv12.lzh	RPMVIEW v1.2 - DOS viewer for Linux RPM files
+rps102.zip	RAR Password Search v1.02 (in German)
+rsunzip.zip	RSUNZIP v2.04b - Freeware DOS Unzipper
+rtd_rp24.zip	Rose Patch v2.4 - TinyProt/Rosetiny Unpacker
+rupp037.rar	ROSE SWE UnPaCKER PaCKaGE (for DOS executables only)
+rurarj.zip	GORUR's Easy Doc's on Using the ARJ Compression Program
+rurpku.zip	GORUR's Easy Doc's on Using PkUnzip Program
+rurpkz.zip	GORUR's Easy Doc's on Using PkZip Program
+rv251.zip	RV - Rview v2.51 - Archive lister
+rvs113.zip	RVS - RView Shell v1.13 - Shell for viewing and extracting
+		contents of archives
+rz-212.exe	RipZip v2.12 - Rar/Ace multi-volume Zipper
+s7z-w32.exe	#7Z v0.9.1 - Archiver for Win32
+s7z-w64.exe	#7Z v0.9.1 - Archiver for Win64
+sal00002.zip	SAL - Salamanders compression/archive utility
+sar1.zip	Streamline Archival Utility v1.00
+sarj121.exe	SARJ v1.21 - General Unpack Shell (ARJ support)
+sav100.exe	SAV v1.00 - Simple Archive Viewer (German version)
+sav100e.exe	SAV v1.00 - Simple Archive Viewer (English version)
+sawzip98.zip	SAWZip v2.0 - DLL for reading, creating and extracting from
+		from ZIP files
+sbc0970d.zip	SBC v0.970 rev.2 for DOS - Secure archiver with built-in
+		encryption options
+sbc0970w.zip	SBC v0.970 rev.2 for Win32 - Secure archiver with built-in
+		encryption options
+sbc970r3.zip	SBC v0.970 rev.3 for Win32 - Secure archiver with built-in
+		encryption options
+sbx14.zip	SBX v1.4 - Compression program and SFX maker for Win95
+scnzip10.zip	ScanZip v1.0 - Zip archives lister
+script22.exe	Scripts v2.2 - German util for RAR SFX scripts creation
+scrnch.zip	SCRNCH v1.02 - A Data Compressor
+sdiz510.zip	Super Diz v5.10 - File_id.diz to Files.bbs importing utility
+sdnv100.zip	The SDNet/works Verification and Extraction Util v1.00
+sear20.zip	Self-Extractor Archive Recovery v2.0
+seau173.exe	SEAU v17.3 - Self-Extracting Archive Utility
+semkr100.zip	SE Maker v1.00 - Win32 ZIP SFX archive compiler
+semone06.zip	SEMONE v0.6 build 02 - Compression util by V.Semenjuk
+sfark_20.zip	sfArk v2.15 - SF2 and SBK soundbank files compressor for Win32
+sfvch119.zip	SFV Checker v1.19 - Multi-volume file archives integrity
+		checker
+sfvch204.zip	SFV Checker v2.04 - File integrity checking tool
+sfx.exe		SFX EXE Creator - Lempel-Ziv Algorithm Based SFX Archive Maker
+sfx252.exe	PowerArchiver SFX Maker v2.5 SR-2 for Win32
+sfxapc17.exe	sfxApp Creator - Application that allows you to create 
+		self-extracting and auto-run programs
+sfxcmp13.exe	SFX Compiler v1.3 for Win95-XP - Tool to add multiple files
+		into one self-extracting file
+sfxedit.exe	SfxEdit - SFX creation package for Delphi
+sfxfc264.exe	SFX-Factory v2.64 - SFX files creation with internal ACE and ZIP
+		compression
+sfxinst3.zip	SFXinstall v3.00 - Archive files extractor
+sfxstubs.zip	ARJ,BH,LHA and ZIP SFX add-on to SfxEdit Package
+sfxwiz.zip	Ultrasoft Self-Extract Wizard v2.6 - ZIP and RAR SFX maker for
+		Win32
+shaid270.zip	SH Archive Identifier v2.70
+sharc860.zip	SHARC v8.60 - Older Shell for ARC's
+shez109.zip	<ASP> SHEZ v10.9
+shezs19c.zip	ShezShow v1.9c - Set of sample BAT files for SHEZ
+short16e.zip	Shorten v2.3a - Waveform files compressor for Win16
+short32e.zip	Shorten v2.3b - Waveform files compressor for Win32
+short360.zip	Shorten v3.6.0 - Waveform files compressor for Win32
+shrinker.exe	Shrinker v3.4 Demo - Win32 EXE packer
+si-105.exe	SFVit v1.05 - Tool to create Sfv's for MP3 (album/CD) and Rar
+		(ISO) file sets
+sib10b16.exe	ShipInBottle v1.0 beta 16 - Packer by Alexander Turikov
+sitex10.exe	SITEX v1.0 - Multiformat Unpacker/Decoder for Windows
+slim110a.zip	<ASP> Slim v1.10a - File Compression System
+skc40g3.rar	SkullCheck v4.00 Gamma 3 - Upload and filebase processor
+sky115.zip	Sky Compressor v1.15 - File Compressor
+skylz100.zip	Sky LZ Library v1.00 for Watcom C 32-bits
+slim0012.zip	Slim! build 12 - File Compressor
+slim0021.zip	Slim v0.021a - File Compressor
+slim022.zip	Slim! v0.22 - PPMII based archiver
+slim023d.zip	Slim! v0.23 - PPMII based archiver
+smpzipse.exe	Simplyzip v1.1b82 - ZIP packer for Windows by Dirk Paehl
+snap30d.zip	SnapShot Prof. v3.0 - EXE Unpacker
+snoopy37.zip	FILE_ID.DIZ inside ZIP/ARJ/LZH viewer
+snrc21i.zip	SONARC v2.1i - Digital Audio Compression Program
+sofcomp2.zip	RESOF v2.0/DESOF v2.0 - Archiving util
+softcomp.zip	Software Compress v1.4 - EXE packer
+solvepwd.zip	ARJ password solver
+spack20.zip	SuperPack v2.0 - Freeware packer (in German)
+splint.zip	Splint v2.1 beta - Data compression program
+splitten.zip	SPLITTEN 95 v1.1 - Data/Archive File Splitter for Win95/NT
+squash.zip	Squash v1.21 - Packing program for DOS
+squeez.zip	Squeez - Win32 Archive Shell
+squeeze.zip	Squeeze - Drag and drop file compressor used with Windows
+		File Manager
+squeezer.zip	Squeezer v1.03 - Exe-Compressor for Win9x/NT/2000
+squid001.zip	SQUID v0.03 - A fast LZP-based file compressor
+squish10.zip	Squish v1.0 - Compress Program
+sqwez23.zip	<ASP> SQWEZ v2.3 - Packer
+sqz1083e.exe	SQZ v1.08.3 - Packer
+sqz1084.exe	SQZ v1.08.4 alpha without dox
+srchzr15.zip	SeaRCHZIPRar v1.5 - Util for looking for files inside ZIP
+		and RAR archives
+sseries.zip	The S Series - Sound File Compressor
+st4_100.zip	DOS executables for an order 4 blocksort program
+strdtzip.zip	StarDotZip v1.0 - Archive Management Tool for Win95/98/NT
+stix.zip	STIX - Decompressor for Stirling InstallShield
+stnpeer.zip	Stone's PE EXE Encryptor v1.13 Remover
+strpr101.zip	StripReloc v1.01
+stuff85e.exe	StuffIt v8.5 for Win32 - File compression util handling
+		Windows ZIP, Macintosh Stuffit/SIT and Unix tar/gzip formats
+sunrar.zip	UnRAR for Sun_Os 5.6, Unix system V rel.4
+sysodeco.zip	SYSODECO - Decompressor for SystemSoft BIOS flash images
+syspack.zip	Syspack - Compression util for device driver files
+szchek11.zip	SmokCHEK v1.1 - Check Archive Files for Errors and Viruses
+szconv11.zip	SmokCONV v1.1 - Convert Archive Formats
+szdesc11.zip	SmokDESC v1.1 - Find File Descriptions within Archives
+szip_111.zip	SZIP/SUNZIP v1.11  - Compression program
+szip112a.zip	SZIP/SUNZIP v1.12a for Win32 - Compression program
+szipw18.zip	Super Zip for Win3.x v1.8 - Zip compatible packing utility
+szview11.zip	SmokVIEW v1.1 - View List of Files within Archive
+s_s30.zip	Space Shifter v3.0 - Archive converter
+t-xc-200.exe	Terminate Multi-Unpacker Command Line Tool
+tar.cab         TAR v1.1 - Tar & bZip2 compression tool
+tar-fix.zip	Program for salvaging info from damaged TAR files
+tar321#4.zip	Portable TAR v3.21 delta - executables for DOS and SRC
+tcm100.zip	The Compression Maximizer v1.00 - ZIP archives optimizer
+tc43.zip	TC v4.3 - LZW based file compressor
+tc51dev5.zip	TC v5.1dev5 - A fast experimental file compressor
+tcn-tp05.zip	T-Pack public beta v0.5 - COM file compressor
+tcom.zip	Turbo Compressor v0.1
+tdfunrar.zip	UnRAR Delphi component - Delphi component wrapper for
+		UnRAR.dll
+terse.zip	TERSE v2.1d (OS/2, 16-bit) - Compression utility
+testzip.zip	TestZip v1.13 - Mass tests zip and other archives (for OS/2
+		and UNIX)
+teu182.lzh	TEU v1.82 - Executable Unpacker
+tfw.zip		TAR GUI for Windows v1.00
+tgzsfx01.zip	TGZ2EXE - tar.gz to exe converter
+thd_13_0.zip	THD Pro-Scan v13.0 for DOS - File/Upload Tester/Converter
+thd213_0.zip	THD Pro-Scan v13.0 for OS/2 - File/Upload Tester/Converter
+tia114.zip	True Date Conversion Utility for Archive Files rev.1.14
+tinlha.exe	Windows LHA file compression/extraction utility
+tinyp39.zip	TINYPROG v3.9 (com/exe compressor)
+tlzrw1.zip	Tlzrw1 v1.01 - Compression component with LZH and LZRW1/KH
+		algorithm
+toexp2.zip	TOEXPAND v2.00 - Utility to expand multiple ??_ archive files
+top4.zip	Top4 v1.03 - Small compress/decompress util
+tornado4.zip	Tornado compressor v0.4a for Win32
+tp10eshr.zip	TinyProt v1.0e - TinyProg compressed files protector
+tpdezip.zip	PasZip - Access ZIPs with Pascal sources
+tplzh031.zip	Huffman Compression Engine w/TP Interface v0.31 - IBM version
+tppf12.zip	TinyProg's Password Finder v1.2
+tpus.zip	Updated TPU files (TPUs) for rjcru110.zip (RJCRUSH utility)
+tqban100.zip	TqBanner - Multiformat banner adding utility
+transfrm.zip	Transform v1.02 - Packer using Burrows-Wheeler transform
+trapr13b.zip	TRAP v1.13b EXE Envelope Remover
+tron130.zip	Tron Professional v1.30 - EXE file unpacker
+tscomp.zip	The Stirling Compressor v1.3.21
+tsfxent3.exe	TurboSFX v3.13 - SFX compressed files creator for Win32
+tsup160.zip	TSUP v1.60 - Russian COM/EXE Unpacker
+ttcomp.zip	File compression/decompression utility by SWFTE Int.
+tunrar.zip	TUnrar Kylix v3 component
+typ_d32.zip	Typ for DOS386 - File type identification program
+typ_dos.zip	Typ for DOS286 - File type identification program
+typ_lnx.zip	Typ for Linux - File type identification program
+typ_os2.zip	Typ for OS/2 - File type identification program
+typ_w32.zip	Typ for Win32 - File type identification program
+tzip.zip	TASKZIP v2.10 - ZIP format based back-up util for Win9x/NT/2000
+tzipent6.exe	TurboZIP for Win32 v6.0 - Compression program
+tzxent20.exe	TurboZIP Express v2.5 for Win9x/NT/2000 - Compression program
+u-arck21.zip	Archive Checker and Repacker v2.1
+uc237b.exe	UltraCompressor II - v2.37 Beta
+uc2pro.exe	UltraCompressor II - rev.3 PRO
+uc2r3.exe	UltraCompressor II - rev.3 (subset of UC2PRO.EXE - only
+		archiver)
+ucfgtr1d.zip	Generic Tracer v1.Df/Dt - COM/EXE Unpacker
+ucfcup34.zip	CUP386 v3.4 - EXE unpacker
+ucffgupx.zip	UCF G-UPX v1.0 alpha - GUI for UPX packer
+ucfpe113.zip	Stone's PE-Exe Encryptor v1.13
+ucfscan2.zip	Scan EXE/COM v2.0 - Security Envelopes Identifier
+ucfcsu10.zip	Crackstop v1.0b Unpacker
+ucfuxsrc.zip	UX v0.55 - Executable File Expander incl. src code
+ucl101.tgz	UCL v1.01 - Portable Lossless Data Compression Library written
+		in ANSI C
+ucp11b.zip	UCPACK v1.1 - German UC2 Shell for Win95
+ucpd101b.zip	UCPD v1.01b - UC2 Shell for DOS
+ucvie111.zip	UCView v1.11 - UC2 viewer
+uda0283e.zip	UDA v0.283 - Packer for Win32
+uda0284s.zip	UDA v0.284 - Packer for Win32 with source code
+uda0301s.zip	UDA v0.301 - Experimental Console Version of Packer for Win
+udax.zip	UDA Extractor 0.301
+ues03.zip	UES v0.3 - German unpacking shell
+ufa000.zip	UFA v0.00 - DOS Archiver by Igor Pavlov
+ufa004b1.zip	UFA 32 v0.04 Beta 1 - Win95/NT Archiver by Igor Pavlov
+uharc06b.zip	UHARC v0.6b - Multimedia archiver
+uharcfmt.zip	UHarc archives addon for FAR Manager
+uharcgui.exe	UharcGUI Beta v0.4 - English version of UHARC GUI for Win32
+uharcgui.zip	UHARC/GUI v4.0.0.2 - GUI version of UHARC archiver
+uhbc10.zip	UHBC v1.0 - New blocksorting file compressor by Uwe Herklotz
+uhic20.zip	UHIC v2.0 - High-performance 24-bit image compressor
+ulha3130.exe	UNLHA32.DLL v1.30 (in Japanese)
+ulhad083.exe	UNLHA.DLL v0.83 (in Japanese)
+ulhae061.exe	UNLHA.DLL v0.61 (in English)
+ulp2_226.zip	Upload Processor/2 for OS/2 v2.26
+ulp_227.zip	Upload Processor v2.27
+ulz102b.zip	ULZ v1.02 beta - Byte-aligned LZ77 compressor a la LZ4/LZOP 
+		with an optimal parsing and ultra fast decompression
+un.zip		UN v1.03 - Unarchiver Shell
+un-pack.arj	UN-PACK v1.0 - COM Unpacker
+un-tmz.zip	TMZ files extractor
+un21.zip	UN - Unpack Util v2.1
+un2pack2.zip	Un2pack v2.0 - Anti-Pklite-Packer
+unaceami.lha	UNACE for Amiga
+unacedll.zip	UNACE DLL v1.2b - UnACE library
+unacepub.zip	UNACE Source v1.2b - UnACE Source Code
+unarj265.exe	UnARJ v2.65
+unas1083.zip	UnASPack v1.0.8.3 - ASPack unpacker
+unaspack.zip	ASPack Unpacker v1.0
+unaz015.zip	UNARJZ v0.15 - Unpacker to ARJZ
+uncom-k.rar	UNCOM - Universal COM unpacker
+uncom123.zip	UnCOM v1.23 - Generic COM unpacker by ROSE
+uncompr.zip	UnCompress for MultiArc Total Commander Plugin v1.0 ME
+undf1001.zip	UnDeflate v1.00 Beta 1 - Deflate data decompressor
+unesp.tgz	UnESP for UNIX v0.1 beta
+unexe.zip	UNEXE v1.0 - COM/EXE Unpacker
+unhki.zip	WinHki Archive Format Unpacker
+unhs11.zip	HackStop Unpacker v1.1
+unilucry.zip	ILUCRYPT Envelope Unpacker
+uniex161.rar	Portable Universal Extractor v1.6.1
+unimp113.zip	UNIMP v1.13 (source code) - IMP format unpacking routine
+unimpdll.exe	Unimp32.dll v0.07 by HyperBeat Software
+unlocx.zip	Unlocx 5 - Softlocx 5 Unwrapper
+unlzx.zip	UnLZX for MultiArc Total Commander plugin v2.12
+unlzexe8.zip	UNLZEXE v0.8 - Uncompressor of files compressed with lzexe
+unmacit.zip	UNMACIT - Unsit & Unhqx for Windows
+unmess.arj 	MESS v1.07 Unpacker
+unmes129.zip	Mess v1.29 Unpacker
+unp411.zip	UNP v4.11 (universal unpacker of files packed by Pklite...)
+unp412b.zip	UNP v4.12 beta without dox
+unpack09.zip	Unpacker v0.9 Beta by VSF&K from Russia
+unpack22.zip	UN-PACK v2.2 freeware - EXE files analyzer/unpacker
+unpacker.zip	Unpacker v1.09 - Win32 GUI Unpacker for ZIP/RAR/ACE/CAB/BZ2/GZ
+		archives
+unpck252.zip	UnPacker v2.5.2 - PAK, GOB, ZFS, ZWP & WDT files unpacker
+unpcom.zip	Generic COM Unpacker/UnEncryptor
+unpes24.zip	UnPES v2.4 - PeShield Unpacker
+unpesh14.zip	UNPE-Shield v0.14 - PE Shield unpacker
+unpsfx.rar	Unpacked SFX modules for those who wish to modify their
+		resources
+unrar-st.lzh	UnRAR for ATARI ST/STE/TT/Falcon
+unrar310.zip	UnRAR v3.10 for BeOS
+unrar343.zip	UnRAR v3.43 for OS/2
+unrar393.zip    UnRAR for DOS
+unraraix.tgz	UnRAR for AIX
+unrardec.rar	UnRAR for Linux DEC Alpha platform
+unrardll.exe	UnRAR.DLL for Windows
+unrargui.zip	UnRAR Library for C++ Builder - Unrar GUI library for Borland
+		C++ Builder 5.0
+unrarins.zip	UnRAR Installation Script for BeOS
+unrarocx.rar	UnRAR.OCX - UnRAR Control for VB6
+unrarsol.rar	UnRAR for Solaris 7 x86 platform
+unrarw32.exe	UnRAR (executable) for Win32
+unrose.zip	UnROSE v0.32 - 386 EXE Unpacker
+usbc970d.zip	UnSBC v0.970 rev.2 for DOS - SBC Unpacker
+usbc970w.zip	UnSBC v0.970 rev.2 for Win32 - SBC Unpacker
+usbc97r3.zip	UnSBC v0.970 rev.3 for Win32 - SBC Unpacker
+unsdw386.zip	SDW Encryptor Remover
+unsit30.zip	UNSIT - StuffIt Archive File Extractor for DOS
+unsitins.exe	UNSTUFF v.11 for DOS compatible computers
+unspis10.zip	UNSPIS-SPIS LZH de-archiver by Luchezar Georgiev
+unsqz.zip	UNSQZ - The Batch Unsqueezer
+untar114.zip	UnTAR v1.14 for DOS
+untgz095.zip	UnTGZ Decompression Utility v0.95
+untiny.rar	UnTiny rel.23 - Unpacker Package by ROSE
+untpack.zip	UNTPACK v1.00 - T-Pack unpacker
+unxlink.arj	UNXLINK - Decompressor for XLINK v2.02 by Jinx!/TC
+unxorer.zip	UnXorer v0.1 - Xorer Unpacker
+unz532d.zip	Info-ZIP's portable UnZip v5.32 - Win3.x DLL
+unz551d2.zip	Info-ZIP's portable UnZip v5.51 - OS/2 32-bit DLL and header
+unz552dn.zip	Info-ZIP's portable UnZip v5.52 - Win95/NT (Intel) DLL
+unz550x.exe	Info-ZIP's portable UnZip v5.50 - DOS executables
+unz550x.zip	Info-ZIP's portable UnZip v5.50 - Linux executables
+unz542x5.zip	Info-ZIP's portable UnZip v5.42 - Linux executables
+unz551x1.exe	Info-ZIP's portable UnZip v5.51 - OS/2 16-bit execs
+unz552x2.exe	Info-ZIP's portable UnZip v5.52 - OS/2 32-bit execs
+unz552x3.exe	Info-ZIP's portable UnZip v5.52 - DOS execs for 386
+unz552xn.exe	Info-ZIP's portable UnZip v5.52 - Win95/NT (Intel) execs
+unz600x3.exe	Info-ZIP's portable UnZip v6.00 - DOS execs for 386
+unz600xn.exe	Info-ZIP's portable UnZip v6.00 - Win32 (Intel) executables
+unz54nlm.zip	Info-ZIP's portable UnZip v5.40 - Novell NLM
+unzdl206.zip	UNZIPDLL.DLL v2.06 - UnZip DLL library for Windows
+unzip101e.zip   Minizip (zip/unzip)package for zLib v1.01
+unzip552.zip	Info-ZIP's portable UnZip v5.52 - Generic C sources
+unzip60.zip	Info-ZIP's portable UnZip v6.00 - Generic C sources
+unzip61b.zip	Info-ZIP's portable UnZip v6.10b Beta - C sources
+unzip312.exe	UnZip Wizard v3.12 - UnZip Util for Windows
+unzip2d.zip	UNZIP2D - ZIP to directory unpacking utility
+unzip95s.exe	Flash Point Windows UnZIP95 rel.2.04.97.10
+unziper2.zip	Softuarium UnZipper v2.0 demo - ActiveX Control
+unzipper.zip	UnZipper for Windows beta - Unzipping Utility
+unzphist.zip	Info-ZIP's history
+up.zip		UP - Universal Compressed Executable Files Decompressor
+upack039.zip	Upack v0.39 - Ultimate PE Packer
+upack10b.zip	UPACK v1.0b - ARJ,ZIP,RAR,UC&JAR Unpacker
+upack399.rar	Ultimate PE Packer v0.399
+upackmax.rar	UPACKMAX - Batch files to optimize LZMA parameters the UPACK
+		executable packer
+upc111.zip	UPC v1.11 - Executables Unpacker
+upx-it.exe	UPX-iT v1.6.1 - Win32 GUI for UPX packer
+upx_gui.zip	UPX v1.01 with GUI - Executable packer
+upx125d.zip	UPX v1.25 - Executable packer (DOS version)
+upx203d.zip	UPX v2.03 - Executable packer (DOS version)
+upx396d.zip	UPX v3.96 - Executable packer (DOS version)
+upx125l.tgz	UPX v1.25 - Executable packer (Linux version)
+upx203l.tgz	UPX v2.03 - Executable packer (Linux version)
+upx396l.txz	UPX v3.96 - Executable packer (i386 Linux version)
+upx125w.zip	UPX v1.25 - Executable packer (Windows version)
+upx203w.zip	UPX v2.03 - Executable packer (Windows version)
+upx396w.zip	UPX v3.96 - Executable packer (Win32 version)
+upx396wx.zip	UPX v3.96 - Executable Packer (Win64 version)
+upxg.zip	UPX Graphical v1.38 - GUI for UPX by Dirk Paehl
+upxgui07.zip	UPX GUI v0.7b
+upxpr101.zip	UPXPR - UPX v1.01 compressed files patcher to prevent unpacking
+upxshell.zip	UPX Shell v3.0.7
+ur2_100b.exe	UnRAR for OS/2
+urar376d.zip	UnRAR v3.70 for DOS32
+urar378d.zip	UnRAR v3.71 Beta for DOS32
+usearj50.zip	USEARJ v5.0 - ARJ Shell for DOS
+uu215e.exe	Universal Unpacker v2.15 - English version
+uu215.exe	Universal Unpacker v2.15 - German version
+uundo.zip	Universal Undo v1.0 - Universal Unpacker
+uup14.zip	UUP v1.4 - Universal exe-file UnPacker
+uzc6130.zip	Ultimate ZIP Cracker v63.0 for Win95/98/NT/2000 - ZIP Archive
+		Password restorer
+uzpc360.zip	Ultra Zip Password Cracker v3.60 - Zip password recovery tool
+uzs551x2.exe	InfoZIP's portable UnZip v5.51 for OS/2 with unShrink support
+uzs552d2.zip	InfoZip's portable UnZip v5.52 for OS/2 with unShring support
+		- Source code
+vacuum.zip	Vacuum v0.01c - COM compressor
+vbdlh02.exe	File compress/extract util using UNLHA.DLL
+vblha1.lzh	VB LHA.DLL programming sample source code
+vdluh132.zip	Unprotect Hackstop v1.32
+vibep103.zip	VIBEPACK v1.03 beta - Arj/PkZip/Rar Win3 Shell
+vice140.zip	Vice v1.40 - JAR archiver graphical interface
+vocpak10.zip	VOCPACK v1.0 - Lossless 8-bit sound compr/decompression util
+vuzip18.exe	VU-ZIP v1.8 - Russian archiver for Win32 using ZIV-algorithm
+vzip12.zip	View Zip v1.2 - Tiny ZIP Viewer
+vzip150.zip	VisualZIP Pro32
+vzr47.zip	Visual Zip Password Recovery Processor v4.71
+w32intro.zip	Win32Intro v0.71 - Universal Win32 Executable Unpacker/Dumper
+wa104.zip	Web Archives Viewer v1.04 - Freeware Internet Explorer plugin
+		for viewing ZIP and RAR archives contents
+warc10.exe      wArc v1.0 - Archive manager for Windows (requires .NET 2.0)
+warpzip.zip	WarpZip v3.5 - OS/2 file unarchiver
+wace269i.exe	WinAce Archiver v2.69 for Win95-XP
+winace15.exe	WinAce Archiver v1.5 Freeware Edition for Win95/98/NT
+wavarc11.zip	Waveform Archiver v1.1
+wavpackd.zip	WavPack v3.4 - Losless wavefile compressor for DOS
+wavpack.zip	WavPack v5.4.0 - Losless wavefile compressor for Win32
+wavpackx.zip	WavPack v5.4.0 - Losless wavefile compressor for Win64
+wavpckfe.zip	WavPack frontend v2.0 - Simple GUI application for 
+		WavPack on Windows
+wbcomp.zip	BCOMP v0.1 for Windows - LZW based packer with GUI
+wczip10.zip	Wild Card Zip v1.0 - PkZip Add-on
+wd107e.zip	WinDIZ v1.07 - File_id.diz extractor for Win95/NT
+wexpand.zip	Bill Reid's WinExpand 16-bit - Microsoft's LZW Compression
+		Scheme Decompressor
+whatis.zip	Utility to identify the archive type of a file
+whatz23.zip	WHATZIP - ZIP archive version identifier
+wic06b.zip	Wavelet Intelligent Compressor v0.6b -
+		It's only a joke - please don't delete original files !!!
+winarj98.zip	Winarj98 by LA Soft - ARJ shell
+winarc20.zip	WinArchi v2.0 - Compress tool from Poland
+winarc48.exe	WinArchiver v4.8 - Multiformat archive manager (32-bit)
+winarx48.exe	WinArchiver v4.8 - Multiformat archive manager (64-bit)
+winarj32.zip	WinArj v8.00 - Archive Shell for Win32
+wincab.zip	WinCAB v1.5.1 - Windows util to create CAB files
+windizzy.zip	WinDIZ v1.2 - File_id.diz extractor
+winexpan.zip	WinExpand v1.0 - Windows Interface to MS DOS Expand Compressor
+wingz12.zip	Windows GZip - GZIP/GUNZIP utility for Win95/98/NT/2000
+wnimp121.exe	WinIMP v1.21 - File archiver for Win9x/NT
+winbzip2.zip	WinBZip2 v1.0 - BZIP2 format based compression tool
+wingzip.zip	WinGZip v1.0 - GZip format based compression tool
+winjar22.zip	WinJar v2.23 - GUI for Jar32 compressor
+winlite1.zip	<ASP> Winlite v1 - Windows executable files packer
+winrarse.exe	Swedish Language Pack for WinRAR compressor
+winrk113.exe	WinRK v1.1.3 - Multi-format file archiver and backup tool
+winrk216.exe	WinRK v2.1.6 - File archiver and backup tool
+winrk312.exe	WinRK v3.1.2 - File archiver and backup tool (32-bit)
+wrk31264.exe	WinRK v3.1.2 - File archiver and backup tool (64-bit)
+winturtl.zip	WinTURTLE v1.6.0 beta - Free compression tool
+winuha20.exe	WinUHA v2.0 RC1 - Compression tool for Win95-XP
+wnhki185.exe	WinHki v1.85 - Compression tool for Windows
+winzip31.exe	<ASP> WinZip v6.3 (SR-1) for Windows 3.1 & Workgroups
+winzip81.exe	<ASP> WinZip v8.1 SR-2 for Windows 9x/Me/NT/2000
+winzip90.exe	WinZip v9.0 SR-1 for Win95-XP
+wnzip100.exe	WinZip v10.0 for Win95-XP
+wnzip112.exe	Winzip v11.2 for Win95-Vista
+wnzip121.exe	WinZip v12.1 for Win95-Vista
+wnzip140.exe    WinZip v14.0 for Windows
+wnzip145.exe    WinZip v14.5 for Windows
+wnzip150.exe	WinZip v15.0 for Windows
+wnzip155.exe	WinZip v15.5 for Windows
+wnzip160.exe	WinZip v16.0 for Windows
+wnzip165.exe	WinZip v16.5 for Windows
+wnzip170.exe	WinZip v17.0 for Windows (32/64-bit install)
+wnzip175.exe	WinZip v17.5 for Windows (32/64-bit install)
+wnzip175.msi	WinZip v17.5 for Windows (32-bit installator)
+wnzpx175.msi	WinZip v17.5 for Windows (64-bit installator)
+wnzip180.exe	WinZip v18.0 for Windows (32/64-bit install)
+wnzip180.msi	WinZip v18.0 for Windows (32-bit installator)
+wnzpx180.msi	WinZip v18.0 for Windows (64-bit installator)
+wnzip185.exe	WinZip v18.5 for Windows (32/64-bit install)
+wnzip185.msi	WinZip v18.5 for Windows (32-bit installator)
+wnzpx185.msi	WinZip v18.5 for Windows (64-bit installator)
+wnzip190.msi	WinZip v19.0 for Windows (32-bit installator)
+wnzpx190.msi	WinZip v19.0 for Windows (64-bit installator)
+wnzip195.msi	WinZip v19.5 for Windows (32-bit installator)
+wnzpx195.msi	WinZip v19.5 for Windows (64-bit installator)
+wnzip200.msi	WinZip v20.0 for Windows (32-bit installator)
+wnzpx200.msi	WinZip v20.0 for Windows (64-bit installator)
+wnzip205.msi	WinZip v20.5 for Windows (32-bit installator)
+wnzpx205.msi	WinZip v20.5 for Windows (64-bit installator)
+wnzip215.exe	WinZip v21.5 for Windows (32-bit installator)
+wnzpx215.exe	WinZip v21.5 for Windows (64-bit installator
+wnzip220.msi	WinZip v22.0 for Windows (32-bit installator)
+wnzpx220.msi	WinZip v22.0 for Windows (64-bit installator)
+wnzip225.msi	WinZip v22.5 for Windows (32-bit installator)
+wnzpx225.msi	WinZip v22.5 for Windows (64-bit installator)
+wnzip230.msi	WinZip v23.0 for Windows (32-bit installator)
+wnzpx230.msi	WinZip v23.0 for Windows (64-bit installator)
+wnzip240.msi	WinZip v24.0 for Windows (32-bit installator)
+wnzpx240.msi	WinZip v24.0 for Windows (64-bit installator)
+wnzip250.msi	WinZip v25.0 for Windows (32-bit installator)
+wnzpx250.msi	WinZip v25.0 for Windows (64-bit installator)
+wnzip260.msi	WinZip v26.0 for Windows (32-bit installator)
+wnzpx260.msi	WinZip v26.0 for Windows (64-bit installator)
+wiz401x.exe	WizUnZip 16-bit UnZip v4.01 DLL + docs
+wiz503.zip	WizUnZip 32-bit UnZip v5.03 src + DLL
+wiz503xn.exe	WizUnZip 32-bit UnZip v5.03 DLL + docs
+wiz401.zip	WizUnZip v4.01 source code
+wlh7021.zip	LH7/Windows 95/98/NT Compression Tools v0.21
+wpack32d.zip	WinPack 32-bit - Archival Utility for Win95
+wpackd.zip	WinPack v0.96 beta - Archival Utility for Windows 3.1
+wrar393.exe	WinRAR v3.93 - English 32-bit Edition
+wrar420.exe	WinRAR v4.20 - English 32-bit Edition
+wrar591.exe	WinRAR v5.91 - English 32-bit Edition
+wrar602.exe	WinRAR v6.02 - English 32-bit Edition
+wrarx393.exe	WinRAR v3.93 - English 64-bit Edition
+wrarx420.exe	WinRAR v4.20 - English 64-bit Edition
+wrarx591.exe	WinRAR v5.91 - English 64-bit Edition
+wrarx602.exe	WinRAR v6.02 - English 64-bit Edition
+wrarun38.exe	WinRAR Unplugged v3.80 - Portable version of WinRAR
+wr393sk.exe	WinRAR v3.93 - Slovak 32-bit Edition
+wr420sk.exe	WinRAR v4.20 - Slovak 32-bit Edition
+wr591sk.exe	WinRAR v5.91 - Slovak 32-bit Edition
+wr602sk.exe	WinRAR v6.02 - Slovak 32-bit Edition
+wrx393sk.exe	WinRAR v3.93 - Slovak 64-bit Edition
+wrx420sk.exe	WinRAR v4.20 - Slovak 64-bit Edition
+wrx591sk.exe	WinRAR v5.91 - Slovak 64-bit Edition
+wrx602sk.exe	WinRAR v6.02 - Slovak 64-bit Edition
+wrip107.zip	WinRip95 v1.07 - ZIP/ARJ/RAR packing/unpacking shell
+wshell25.zip	WinShell v2.5 - ZIP, UUE & PGP Shell for Win
+wtar15u.zip	WinTAR v1.5 - TAR for Windows (16-bit version)
+wtar206u.zip	WinTAR v2.06 - TAR for Windows (32-bit version)
+wtar221u.zip	WinTAR-SCSI v2.21 - TAR for Windows (evaluation copy)
+wupck039.zip	WinUpack v0.39 - Ultimate PE Packer
+wwmut10.zip	WWPACK Mutation Engine v1.00
+wwp304a.zip	WWPACK v3.04a - Superb Polish executable files packing software
+		with its own shell
+wwp304ag.zip	WWPACK v3.04a - German version
+wwp305b5.zip	WWPACK v3.05 beta5
+wwp32120.zip	WWPACK32 v1.20 demo - Win95/NT Executable File Compressor
+wz170-32.exe	WinZip v17.0 - Archiver for Windows (32-bit install)
+wz170-64.exe	WinZip v17.0 - Archiver for Windows (64-bit install)
+wzclean.rar	WinZip SelfExtract File Recover Util (for recovering damaged
+		SFX files for instance after infecting/cleaning of CIH virus)
+wzcln23.exe	WinZip Command Line Support Add-on v2.3
+wzcln31.exe	WinZip Command Line Support Add-on v3.1
+wzcou10.exe	WinZip Companion for Outlook v1.0
+wzcour30.exe	WinZip Courier v3.0 - Tool to compress email attachments
+wzcour40.exe	WinZip Courier v4.0 - Tool to compress email attachments
+wzipico.zip	WinZip Improved Icons
+wzipit23.zip	WinZipit v2.30 - PkZip based backup utility
+wzipse22.exe	WinZip Self Extractor v2.2
+wzipse30.exe	WinZip Self Extractor v3.0
+wzipse40.exe    WinZip Self Extractor v4.0
+wzlst124.zip	Warez Lister v1.24 - Files.bbs creator
+x1dos95a.zip	X1 v0.95a for DOS/Win95 - Packer
+x1lig95a.tgz	X1 v0.95a for Linux (libc6) - Packer
+x1lin95a.tgz	X1 v0.95a for Linux (libc5) - Packer
+x1man94j.zip	X1 v0.94j Manuals
+x1nt95a.zip	X1 v0.95a for NT - Packer
+x1os295a.zip	X1 v0.95a for OS2 - Packer
+x55.zip		X55 v1.3 - X-tractor from Protect! EXE/COM v5.5
+x86arc02.rar	x86arc v0.2 - Util for ARC v2.0 archives manipulation
+xaceplus.exe	XAcePlus v1.8 - Freeware ACE/ZIP/RAR/ARJ... unpacker
+xain.zip	XAIN v0.48 - AIN archives shell
+xceedabs.exe	Xceed Absolute Packager v1.1 - Archive file creation tool
+xceedzip.zip	Xceed Zip Compression Library v4.0
+xe.zip		Xpack for Executable v1.4.5 - COM/EXE packer
+xfse.zip	xFSE - Final Fantasy Security Envelope Remover for Win95/VCPI
+xmess.zip	X-Mess - Unpacker for Mess v1.31
+xoe33c.zip	X-Open v3.30 - Exec File Unpacker
+xpa.zip		XPA v1.4.3 demo by Jau Ming Tseng - Packer
+xpa32.zip	XPA32 file archiver demo v1.0.2
+xpa167m.zip	XPACK v1.67m - COM,EXE,SYS, diskette image compressor for DOS
+xpa167r.zip	XPACK v1.67r - Compressor for DOS (without dox)
+xpagui.zip	Xpa v0.93b - Archiver for Win32
+xpand101.zip	XPAND v1.01 - Front-end for EXPAND.EXE
+xtrac151.zip	X-TRACT v1.51 - EXE files unpacker by Pablo Carboni -
+		Original ASM x86 sources now included
+xtrem106.zip	XTREME v1.06 - Data Compression Tool
+xtri31.zip	EXTRICATE 3 - Multi-format archive extractor for DOS
+xview191.zip	X-View v1.91 - Online File & Archive Viewer (RA support)
+xz521d.zip	XZ Utils v5.2.1 for DOS
+xz523w.zip	XZ Utils v5.2.3 for Windows
+xzxzip11.zip	XZZXIP v0.11b - ZXZIP Extractor
+yaac10.arj	YACC v1.0 - ARJ password finder
+yac102.zip	YAC v1.02 - Yet Another Compressor from Russia
+ybs003fd.zip	YBS v0.03f for DOS - BWT-compressor based on distance coding
+		by Vadim Yoockin
+ybs003fw.zip	YBS v0.03f for Win - BWT-compressor based on distance coding
+		by Vadim Yoockin
+zb12.zip	ZIP Backup v1.2
+zbf122b2.zip	ZIP Brand FAST! v1.22 Beta 2
+zbitzip.zip	ZBit zip-unzip component lite v1.2 - Component for zipping and
+		unzipping files
+zbkup131.zip	ZBackup v1.31 - PkZip Based Backup Program
+zcp301.zip	ZIP Chunker Pro v3.01 - Archive Splitter
+zcr23dn.zip	ZIP v2.3 - Win32 DLL (with encryption)
+zcr23x.zip	ZIP v2.3 - DOS execs (with encryption)
+zcr23x1.zip	ZIP v2.3 - OS/2 16-bit execs (with encryption)
+zcr23x2.zip	ZIP v2.3 - OS/2 32-bit execs (with encryption)
+zcr23xn.zip	ZIP v2.3 - Win95/NT (Intel) execs (with encryption)
+zcrypt29.zip	Info-ZIP's ZCrypt v2.9 - C source
+ze163.exe	ZipExplorer v1.63 - Archive files manager for Delphi developers
+zet010.zip	ZET v0.10b - Russian Packer
+zexpl2.zip	ZEXPL II - ZIP Password Finder
+zexpl2l.zip	ZEXPL II (L ver) - ZIP Password Finder
+zf_640.zip	ZipForge v6.40 - Fast Zip compression library for Delphi/C++
+		Builder
+zfa.zip		ZFA - Zip File Attacher to Other Files
+zfs210b.zip	ZIP File System v2.1b - Free Pascal library allowing access
+		to compressed files in ZIP format
+ziew20.zip	Ziew v2.0 - Zip File Viewer for DOS
+zilite.exe	Z/Install Lite v1.0 - Compression program
+zip_ar26.zip	ZIP-Archive v2.6 - Compression program (in German)
+zip_go52.zip	ZIP & GO v5.2 - Run from ZIP Files
+zip232.zip	ZIP v2.32 - C sources
+zip30.zip	ZIP v3.00 - C sources
+zip31c.zip	ZIP v3.1c Beta - C sources
+zip22d.zip	ZIP v2.2 - Win3 (16-bit) DLL Header Files (no encryption)
+zip232dn.zip	ZIP v2.32 - Win9x/NT (32-bit) DLL Header Files (no encryption)
+zip23hlp.zip	Help on using ZIP v2.3
+zip23xl.zip	ZIP v2.3 - Linux execs (no encryption)
+zip232x.zip	ZIP v2.32 - DOS execs (no encryption)
+zip23x1.zip	ZIP v2.3 - OS/2 16-bit execs (no encryption)
+zip231x2.zip	ZIP v2.31 - OS/2 32-bit execs (no encryption)
+zip232xn.zip	ZIP v2.32 - Win32 (Intel) execs (no encryption)
+zip30xn.zip	ZIP v3.00 - Win32 (Intel) executables
+zip30xnx.zip	ZIP v3.00 - Win64 (Intel) executables
+zip2dir.zip	ZIP2DIR v1.00 - Uncompress ZIP files and make dir for each
+		of them
+zipad10.zip	ZIPAD v1.0 - Adds a specified file into all zip files
+zipada45.zip	Zip-Ada v4.5 - Library for .zip archives management
+zipall20.zip	ZIPITALL v2.0 - Zip and unzip to and from floppy
+zipalot2.zip	ZipALot v2.2 - Unzipping utility
+zipasist.zip	ZIP Assistant v4.6 for Win95-XP - ZIP manipulation util
+zipbuild.exe	ZipBuilder v1.61 - Advanced ZIP compression software
+zipclean.zip	ZipClean v1.1 - Util for removing unpacked files from ZIP
+		archives
+zipcln11.zip	Zip Clean! v1.1 - Removes unwanted files from ZIP's
+zipcon.zip	Executable ZIP Creator v4.1 for Win9x/Me/NT
+zipcrkmq.zip	PkZip encrypted archives password finder
+zipct274.zip	<ASP> RPF ZIP Control for OS/2 v2.7.4
+zipcvt29.zip	ZIP Converter v2.9 (ZIP > max.compr.ZIP)
+zipdec10.zip	ZipDecrypter v1.0
+zipdel10.zip	ZIPDEL v1.0 - Deletes a specified file from all zip files
+zipeg29.exe	Zipeg v2.9.4 - Compression tool for Windows with multiformat
+		support
+zipem13.zip	Zip'em v1.3 - Compressing Tool
+zipenabl.exe	ZipEnable - Tool for deplying and configuring IIS 6.0 built-in
+		compression
+ziperelo.exe	Ziperello v2.0 - Tool to recover lost or forgotten passwords
+		to ZIP archives
+zipfixer.zip	Zip Fixer for Windows
+zipfo201.zip	Zipfo v2.01 - Zipped file information util
+ziphd222.zip	ZIP-HARD v2.22 - Windows PkZip Shell
+zipinf12.zip	<ASP> ZIP file info custom control (VBX)
+zipinst.zip	ZipInstaller v1.21 - Tool for automatized unpacking and
+		installation of files from the ZIP archive
+zipm500.exe	ZIP-Manager v5.00 - German ZIP Shell
+zipman.zip	Chief's ZIP Manager
+zipmax.zip	ZIPMAX v0.50 - Archive size optimizer
+zipme13.zip	ZiPMe v1.3 - 32-bit OS/2 Shell for INFO-Zip's Zip and UnZip
+zipmix.exe      Tool to select best ZIP compression method
+zipmngr.zip	Zip Manager v1.0 - DLL for handling ZIP compressed files
+zipper10.zip	Zipper v1.0 - PkZip compatible compressing utility
+zippi20.zip	Zippi v2.00 - Compression util for sending files via ICQ pager
+		or E-mail
+zippy.zip	ZIPPY - Backup CMD file for INFO-ZIP utils
+ziprep31.zip	Zip Repair Tool v3.1
+zipsc22c.zip	ZipScan v2.2c - File inside the ZIP archives searching util
+zipnsend.zip	Zip-n-Send - Util that zip group of files and send the archive
+		via E-mail message
+zipsh_11.exe	Simple Zip Shell for Win95
+zipshell.zip	Simple Zip Shell for OS/2
+zipsol11.zip	Zip Solution v1.1 - Corrupted parts of ZIP archives downloader
+zipstr15.zip	Zip Strip v1.5 - Adds/Removes ZIP Comments
+ziptouch.zip	ZipTouch v1.0 - Date/time of files inside ZIP archives modifier
+zipvw161.zip	ZipViewer v1.61
+zipw32.zip	ZipWhacker - UnZip for Win'95
+zipwar13.exe	Zipware v1.3 - Tool to extract, create and convert various 
+		archive formats
+zipwav13.zip	ZipWave v1.3 for Win95/98/Me/NT/2000 - Archive Manager
+zipwrk26.exe	<ASP> ZipWorks v2.6 - 32bit ZIP File Utils
+zipx60sh.zip	ZIP Explorer v6.0 - Disk catalog, offline browser and file
+		restore program for Win95/98/NT
+zipzag.exe	ZipZag v1.80 - Advanced compression tool for Win95-XP by
+		Gabriel	Cristescu
+zipzap.zip	PowerTill ZipZap - Zip file manager for Win32
+zlib123.zip	Zlib v1.2.3 - General purpose compression library
+zlib123w.zip	Zlib v1.2.3 - General purpose compression library (Win32 DLL)
+zlib1211.tgz	Zlib v1.2.11 - Source code of compression library
+zm13.zip	ZIPMASTER v1.3 - PkZip/PkUnzip front-end interface
+zm31-10.zip	ZipMagic v1.0 - File Compression Utility for Windows 3.1
+zm37.zip	ZipMaster v3.7 - PkZIP Shell
+zm51.zip	Zip Manager v5.1 - Windows ZIP Shell
+zm95-10.zip	ZipMagic v1.0 - File Compression Utility for Windows 95
+zm98eval.exe	ZipMagic98 v1.00 Evaluation - File Compression Util for Win98
+zms12.zip	Zip Management Suite from Noble Ox Software
+zmw95.zip	ZipMaster v1.1 for Windows'95
+znav203.exe	FlashPoint Windows ZIP Navigator rel.2.03
+zoo210.exe	ZOO v2.10 - Packer
+zpaq715.zip	ZPAQ v7.15 - Compression tool and library
+zpdisk21.zip	ZIPADISK v2.1 - ZIP File Manager
+zpeek10.zip	Zip Peeker v1.0 for Win9x/NT - ZIP management utility
+zpex.exe	ZipExpress v2.5 - Compression utility
+zpf.zip		Zip Password Finder v1 for Win9x/NT
+zpro227.zip	<ASP> ZIP'R Pro For DOS v2.27
+zprow225.zip	<ASP> ZIP'R Pro For Windows v2.25
+zrb1_0.zip	ZRBACKUP - Backup program using PkZip
+zrecompr.zip	zRcompress - Deflate and LZMA recompressor, that supports
+		GZ and SWF file formats
+zs5.exe		ZipStar v5.62.54 - Free archiving application for Windows
+zsfx13.zip	ZSFX v1.3 - TGZ-SFX File Creator for DOS/Win32
+zsp151.zip	ZipSplitter v1.51 - Util for splitting large archive file
+		into smaller self-restoring parts
+zt283.zip	Zip Tool v2.83 (splitting, joining...)
+ztv4ud4.exe	ZipTV Compression Suite v4.6.0 for Delphi 4
+ztv4ud5.exe	ZipTV Compression Suite v4.6.8 for Delphi 5
+ztv4ud6.exe	ZipTV Compression Suite v4.6.8 for Delphi 6
+zwp95.exe	ZipWizardPro v4.0 - Compression tool for Win32
+zxzip.rar	ZX-ZIP/UNZIP v1.02 - Russian compression util for TR-DOS
+zxzip01.rar	ZX-ZIP v0.1 - Russian compression util
+zxzip2.zip	ZX-ZIP v1.0a - Russian compression util
+zz125.zip	ZipZap for OS/2 v1.25 - ZIP integrated utility (32-bit)
+zzip036c.zip	ZZIP v0.36c - A block sorting compression tool for Win9x/NT
+zzlb036c.zip	ZZLIB v0.36c - Library based on ZZIP compressor
