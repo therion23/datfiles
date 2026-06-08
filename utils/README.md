@@ -6,6 +6,6 @@ Well, not true, mrpname works for renaming and fixing up CRC's. Reading its sour
 
 mpnname is getting there - it does get into an endless loop on seemingly intact files, and i have no idea why. But it is a one-shot thing to catalogue whatever is available "out there", so fixing it just for the sake of two or three games is not an incentive. Really.
 
-mifname is also "kindasorta" working by now - it does yield false positives, but flags those with "[b]" as suggestions instead of actually renaming (or, $DEITY forbid, deleting) files. So, yeah, it works .. but needs a blood transfusion and a kind hug.
+mifname is also "kindasorta" working by now - it does yield false positives, but flags those with "[b]" as suggestions instead of actually ignoring (or, $DEITY forbid, deleting) files. So, yeah, it works .. but needs a blood transfusion and a kind hug.
 
 To compile: fpc -B -O2 -Xs -XX -vn- -Fulazutils whatever.pp
