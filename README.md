@@ -12,6 +12,7 @@ Also, there are more in the releases section, namely the ones that are too big t
 * NeoKobe - Additions to dsync89's work.
 * Newton - Firmware and updates for Apple's Newton platform.
 * NokiaOvi - Nokia Ovi Store Panic Grab.
+* SAC - ftp.elf.stuba.sk deathgrabs before SAC took over.
 * Symbian - EPOC32, Symbian S60 and related.
 * Timex-Sinclair - Software.
 * eXo - Polished up dir2dat's of the adventure related collections.
