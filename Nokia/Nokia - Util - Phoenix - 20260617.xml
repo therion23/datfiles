@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Nokia - Util - Phoenix</name>
+		<description>Nokia - Util - Phoenix</description>
+		<category>Standard DatFile</category>
+		<version>2026-06-17</version>
+		<date>2026-06-17</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="phoenix_internal_rd_a04_11_000">
+		<description>phoenix_internal_rd_a04_11_000</description>
+		<rom name="data1.cab" size="1980475" crc="fad365aa" md5="534b3f54595f72eb5005fde009dba46f" sha1="c650fb4b9be98ade91944679ae0349ae01be0596" />
+		<rom name="data1.hdr" size="189525" crc="14dad950" md5="34b7ed923c2fc3198eb50251389c00bf" sha1="59f6550b70dc7464a6fe6f029270b4c6eb5542fb" />
+		<rom name="data2.cab" size="58098883" crc="2171c9bc" md5="26f94bf2a59b5397a2520452e4fa98a2" sha1="63510a15bb2be763458368ff02d94f8df75958c5" />
+		<rom name="ikernel.ex_" size="346602" crc="60f4d3fc" md5="93b63f516482715a784bbec3a0bf5f3a" sha1="2478feca446576c33e96e708256d4c6c33e3fa68" />
+		<rom name="layout.bin" size="417" crc="c599120d" md5="e5e543aee5e11e25d01942d5d3f641fc" sha1="86d86ed76805d52ca4ccfeca0d4902b8cfda1cad" />
+		<rom name="setup.exe" size="56320" crc="7069cd86" md5="1aeb989e361af85f5099de3da25457f4" sha1="4f494142e3fb00c6d6845525cd4540ba3f7be9ef" />
+		<rom name="setup.ini" size="150" crc="130a1f93" md5="80da11fcc87e5cf3f81a6b5b5d0260f7" sha1="85bb6f7ff910a0ce099c673ba9375c8240b579d4" />
+		<rom name="setup.inx" size="218954" crc="4da3da34" md5="94b828ed4ea570e8a55a05cd58fb66f9" sha1="1116160522eb83a2e597957571bb325bb7d1fcb6" />
+	</machine>
+	<machine name="Phoenix Internal Service 2008 v41.4.35870">
+		<description>phoenix_internal_service_software_2008_41_4_35870.exe</description>
+		<rom name="phoenix_internal_service_software_2008_41_4_35870.exe" size="157163883" crc="5eaaf3b9" md5="79f332f42ac975e821bcffc5f65fd154" sha1="805479ff7e0b626e1817dc815dd4da6d0d39eac8" />
+	</machine>
+	<machine name="Phoenix Internal Service 2007 1.0.253">
+		<description>phoenix_internal_service_sw_a_2007_1_0_253.exe</description>
+		<rom name="phoenix_internal_service_sw_a_2007_1_0_253.exe" size="121292664" crc="94ffb04e" md5="8a7a92a2a626cee8d2d9a727437f75f6" sha1="8dac1779efb1559e0a153e11475255eb229010ae" />
+	</machine>
+	<machine name="Phoenix Internal Service 2007 9.1.261">
+		<description>phoenix_internal_service_sw_a_2007_9_1_261.exe</description>
+		<rom name="phoenix_internal_service_sw_a_2007_9_1_261.exe" size="127874392" crc="8ff23950" md5="394938392f2a8c6c34a4157ad3a9d5c9" sha1="a475601ea817330e30e25f73e58156ba6098e6e0" />
+	</machine>
+	<machine name="Phoenix Service Software 2009 12.7.38366">
+		<description>Phoenix_Service_Software_2009_12_7_38366.exe</description>
+		<rom name="Phoenix_Service_Software_2009_12_7_38366.exe" size="137800645" crc="c12318c9" md5="701ec6ecef3afc53540a18c4398b7aad" sha1="54fc1094f6eb7385d1e21285bdadad912bba83ee" />
+	</machine>
+	<machine name="Phoenix Service Software 2009 20.10.39068">
+		<description>Phoenix_Service_Software_2009_20_10_39068.exe</description>
+		<rom name="Phoenix_Service_Software_2009_20_10_39068.exe" size="138039438" crc="5fe236dd" md5="6bea55e18c0caaae1e4b62a26c20e88c" sha1="96c3e2b0e48d99bfb82487803c812c73e3edb671" />
+	</machine>
+	<machine name="Phoenix Service Software 2009 34.10.40495">
+		<description>Phoenix_Service_Software_2009_34_10_40495.exe</description>
+		<rom name="Phoenix_Service_Software_2009_34_10_40495.exe" size="138781324" crc="c5b334c9" md5="2d17beb2506bdc6a7acc8c17cbd99b5e" sha1="a6279a2a70f472b1314d708f4f6298cd5aa0c499" />
+	</machine>
+	<machine name="Phoenix Service Software 2009 34.14.40684">
+		<description>Phoenix_Service_Software_2009_34_14_40684.exe</description>
+		<rom name="Phoenix_Service_Software_2009_34_14_40684.exe" size="139013260" crc="f4017baa" md5="cf18d5c8de930d908caa29326c815d27" sha1="20bd3e7d7b189c763d869cee8776369f26a86170" />
+	</machine>
+	<machine name="Phoenix Service Software 2009 34.6.39750">
+		<description>Phoenix_Service_Software_2009_34_6_39750.exe</description>
+		<rom name="Phoenix_Service_Software_2009_34_6_39750.exe" size="138694262" crc="8beaf8f6" md5="3586b0a40e78eb70cef253ef061d686b" sha1="f22a27f9eb41613a18f3d5f1c3675f74dcf5066c" />
+	</machine>
+	<machine name="Phoenix Service Software 2009 34.7.40015">
+		<description>Phoenix_Service_Software_2009_34_7_40015.exe</description>
+		<rom name="Phoenix_Service_Software_2009_34_7_40015.exe" size="138754188" crc="8852a3b9" md5="efdd553cc81e386f8a8501de27d388bf" sha1="daec8a60f0b49dbcd0f201ccba6532f46926bb6d" />
+	</machine>
+	<machine name="Phoenix Service Software 2009 4.11.37849">
+		<description>Phoenix_Service_Software_2009_4_11_37849.exe</description>
+		<rom name="Phoenix_Service_Software_2009_4_11_37849.exe" size="138417434" crc="0ed84cb5" md5="767e85178a0a8efc1434c67d63c50025" sha1="a1f311383ee31aa1eeff3a9c03b6952079f9dd49" />
+	</machine>
+	<machine name="Phoenix Service Software 2009 4.12.37934">
+		<description>Phoenix_Service_Software_2009_4_12_37934.exe</description>
+		<rom name="Phoenix_Service_Software_2009_4_12_37934.exe" size="138425626" crc="4d941ebc" md5="a955270f85ee8acdcf31337e371a0a57" sha1="0cf63a8436c57eff289e487a1c1ad2e7b5a0fb13" />
+	</machine>
+	<machine name="Phoenix Service Software 2010 38.005.44210">
+		<description>Phoenix_Service_Software_2010.38.005.44210.exe</description>
+		<rom name="Phoenix_Service_Software_2010.38.005.44210.exe" size="142204124" crc="545066ae" md5="94d2f60209a0efeb6d1a30bb4b283577" sha1="a8cf10a07a5c4149a220fea68286997135bdfa65" />
+	</machine>
+	<machine name="Phoenix Service Software 2010 12.11.42838">
+		<description>Phoenix_Service_Software_2010_12_11_42838.exe</description>
+		<rom name="Phoenix_Service_Software_2010_12_11_42838.exe" size="149248264" crc="485e4537" md5="5013ef023db010ee1c69fd346bdd6987" sha1="01bfcc19347617722a3e0b0e1e36cbef51a3d260" />
+	</machine>
+	<machine name="Phoenix Service Software 2010 12.8.42304">
+		<description>Phoenix_Service_Software_2010_12_8_42304.exe</description>
+		<rom name="Phoenix_Service_Software_2010_12_8_42304.exe" size="145427300" crc="ab10854f" md5="fdffdf1957a7de6758dda4e285f19066" sha1="05cad3a90f7a904f6d4788b58176b7aa92d562e2" />
+	</machine>
+	<machine name="Phoenix Service Software 2010 24.3.43250">
+		<description>Phoenix_Service_Software_2010_24_3_43250.exe</description>
+		<rom name="Phoenix_Service_Software_2010_24_3_43250.exe" size="150687442" crc="73c002ac" md5="741f1897a236cc576cd10fedcfcf15df" sha1="fc20f3cfbeae9ac634e70156a748ff9dbcb71e1f" />
+	</machine>
+	<machine name="Phoenix Service Software 2010 24.8.43820">
+		<description>Phoenix_Service_Software_2010_24_8_43820.exe</description>
+		<rom name="Phoenix_Service_Software_2010_24_8_43820.exe" size="151534290" crc="c20d4919" md5="5241f092e4f68308239acb12f72c7dab" sha1="1963f6240ad43887df90d4816bec4cd94cb21a2f" />
+	</machine>
+	<machine name="Phoenix Service Software 2010 48.4.44602">
+		<description>phoenix_service_software_2010_48_4_44602.exe</description>
+		<rom name="phoenix_service_software_2010_48_4_44602.exe" size="142604680" crc="5be2e244" md5="d99dca444edd21de84201e5e8713193c" sha1="8932ca0058c51af3e227b8ec14b7c6ee5c21dd1e" />
+	</machine>
+	<machine name="Phoenix Service Software 2010 8.4.41526">
+		<description>Phoenix_Service_Software_2010_8_4_41526.exe</description>
+		<rom name="Phoenix_Service_Software_2010_8_4_41526.exe" size="139660428" crc="f49c72c5" md5="40c1e0353b54d08ab878ea3558c27cfa" sha1="95b2859744e5eaa8e451753662da85c41fde6d96" />
+	</machine>
+	<machine name="Phoenix Service Software 2011 08.005.45529">
+		<description>Phoenix_Service_Software_2011.08.005.45529.exe</description>
+		<rom name="Phoenix_Service_Software_2011.08.005.45529.exe" size="144072298" crc="8a62390b" md5="e8c83a5a529339f06b50064e567a1984" sha1="01b2fdffd8d61930ba0ab23f05696296a2284500" />
+	</machine>
+	<machine name="Phoenix Service Software 2011 14.003.45843">
+		<description>Phoenix_Service_Software_2011.14.003.45843.exe</description>
+		<rom name="Phoenix_Service_Software_2011.14.003.45843.exe" size="144380640" crc="65e57cdb" md5="78eedf21dc3354d0ed4b5e82fdbe2f4d" sha1="cce1dc91e28a017d9c40e5704bf7e6e4c8cdf7c3" />
+	</machine>
+	<machine name="Phoenix Service Software 2011 14.4.45945">
+		<description>Phoenix_Service_Software_2011.14.4.45945.exe</description>
+		<rom name="Phoenix_Service_Software_2011.14.4.45945.exe" size="144381239" crc="95b96d50" md5="abd69c12f902f184ea4bfcb155b03d13" sha1="5fe60fd51ec880c87919f1169b8ac59c01cc6ab4" />
+	</machine>
+	<machine name="Phoenix Service Software 2011 24.002.46258">
+		<description>Phoenix_Service_Software_2011.24.002.46258.exe</description>
+		<rom name="Phoenix_Service_Software_2011.24.002.46258.exe" size="144823907" crc="242e471c" md5="7dab8eff59de26da649356c6e5043d0a" sha1="4d7da1ac06aa3471dd241502aec8cc812cdb3c6b" />
+	</machine>
+	<machine name="Phoenix Service Software 2011 38.003.46817">
+		<description>Phoenix_Service_Software_2011.38.003.46817.exe</description>
+		<rom name="Phoenix_Service_Software_2011.38.003.46817.exe" size="155933409" crc="929a157a" md5="a9940e8c48753596e7b295937475fad5" sha1="25f54c97f24837e0db5c9648b1e18e40ff793385" />
+	</machine>
+	<machine name="Phoenix Service Software 2011 46.002.47246">
+		<description>Phoenix_Service_Software_2011.46.002.47246.exe</description>
+		<rom name="Phoenix_Service_Software_2011.46.002.47246.exe" size="156727255" crc="d31c16e2" md5="6646cbae83de38d43f5b53463c86d7e7" sha1="f6d42b217c00400479f3eb589a57034cf58445d1" />
+	</machine>
+	<machine name="Phoenix Service Software 2011 46.007.47652">
+		<description>Phoenix_Service_Software_2011.46.007.47652.exe</description>
+		<rom name="Phoenix_Service_Software_2011.46.007.47652.exe" size="156738891" crc="4b86139d" md5="1f98fd4f7f63fffdb0bc49a1cbfc0ed7" sha1="a18277f69981e133ff5539c94f530ac440a58d3d" />
+	</machine>
+	<machine name="Phoenix Service Software 2011 2.0.44842">
+		<description>Phoenix_Service_Software_2011_2_0_44842.exe</description>
+		<rom name="Phoenix_Service_Software_2011_2_0_44842.exe" size="142979604" crc="e3bdaba3" md5="dfe99719465d7166b8924edf0328fa71" sha1="1893c18f4d6748c8567711a1b1a051c32518d693" />
+	</machine>
+	<machine name="Phoenix Service Software 2011 8.3.45122">
+		<description>Phoenix_Service_Software_2011_8_3_45122.exe</description>
+		<rom name="Phoenix_Service_Software_2011_8_3_45122.exe" size="143729263" crc="8925946c" md5="93ee8e389c02cb07f892ebf8a49ff218" sha1="82043d6ede1935016e2fcb65df54c668b10738c8" />
+	</machine>
+	<machine name="Phoenix Service Software 2012 16.004.48159">
+		<description>Phoenix_Service_Software_2012.16.004.48159.exe</description>
+		<rom name="Phoenix_Service_Software_2012.16.004.48159.exe" size="157832901" crc="11b16b24" md5="6ae6a620ab0bee83b8d4a337edcc18f8" sha1="ea94ddb67b582d5c5d721f4ead6be50573ec1401" />
+	</machine>
+	<machine name="Phoenix Service Software 2012 24.000.48366">
+		<description>Phoenix_Service_Software_2012.24.000.48366.exe</description>
+		<rom name="Phoenix_Service_Software_2012.24.000.48366.exe" size="158114057" crc="59cc3ab4" md5="d9158d73827549abd63e70878a088b60" sha1="56e7898aef54d55603e11d22f3c638e66633e3bd" />
+	</machine>
+	<machine name="Phoenix Service Software 2012 50.000.49146">
+		<description>Phoenix_Service_Software_2012.50.000.49146.exe</description>
+		<rom name="Phoenix_Service_Software_2012.50.000.49146.exe" size="157528972" crc="feb778d6" md5="3712cf96040712ebe35cd4df82ff7837" sha1="392eb235bab9fced1a3440b563d9944774458f66" />
+	</machine>
+	<machine name="Phoenix Service Software 2012 50.001.49220">
+		<description>Phoenix_Service_Software_2012.50.001.49220.exe</description>
+		<rom name="Phoenix_Service_Software_2012.50.001.49220.exe" size="157528742" crc="cc8083c5" md5="49ec46e2aceb7529d9f02f723b86bedc" sha1="521e21507ba3fb65d3f45d1b54f8029917c66b3f" />
+	</machine>
+	<machine name="Phoenix Service Software 2012 50.001.49220_Cracked">
+		<description>Phoenix_Service_Software_2012.50.001.49220_Cracked.exe</description>
+		<rom name="Phoenix_Service_Software_2012.50.001.49220_Cracked.exe" size="109803613" crc="973db88b" md5="4217c693b03a9da5fa024b5e5cfc132d" sha1="3fb2b0de7f0c1807977ffc57fef140783e2c9dde" />
+	</machine>
+	<machine name="Phoenix Service Software 2012 4.3.47798">
+		<description>Phoenix_Service_Software_2012_4_3_47798.exe</description>
+		<rom name="Phoenix_Service_Software_2012_4_3_47798.exe" size="157020175" crc="0390f060" md5="dd2270adcd0de2f9a9101c8099a75ef7" sha1="34b867dbc121af96da1f8ec4ca38e6fee6af8484" />
+	</machine>
+	<machine name="Phoenix Service Software 2004 39.7.70">
+		<description>phoenix_service_sw_2004_39_7_70.exe</description>
+		<rom name="phoenix_service_sw_2004_39_7_70.exe" size="70594114" crc="830f146f" md5="61af2d5a8bd57acb07a25605f947b858" sha1="0f2be9d2c0d1c0f5dc99f6b13d8a197ff118314d" />
+	</machine>
+	<machine name="Phoenix Service Software 2005 20.7.98">
+		<description>phoenix_service_sw_2005_20_7_98.exe</description>
+		<rom name="phoenix_service_sw_2005_20_7_98.exe" size="82544680" crc="71970ced" md5="bf075d0d5ad660244bdd0026ebce07c2" sha1="64107b387add1f9468f82fddd51a382a60f757bc" />
+	</machine>
+	<machine name="Phoenix Service Software 2005 36.7.112">
+		<description>phoenix_service_sw_2005_36_7_112.exe</description>
+		<rom name="phoenix_service_sw_2005_36_7_112.exe" size="81882852" crc="91fd6df6" md5="c9212d6d029cc999a8ac44f3912cebee" sha1="95602508e583786ee8625f84597959e49f5d25ac" />
+	</machine>
+	<machine name="Phoenix Service Software 2005 44.7.123">
+		<description>phoenix_service_sw_2005_44_7_123.exe</description>
+		<rom name="phoenix_service_sw_2005_44_7_123.exe" size="82835202" crc="a231dc92" md5="c89aaa47cd810a68e3b87a0422e511e3" sha1="8521b1e253aab2fcb277965f6631b093c12e8ce0" />
+	</machine>
+	<machine name="Phoenix Service Software 2006 04.6.130">
+		<description>phoenix_service_sw_2006_04_6_130.exe</description>
+		<rom name="phoenix_service_sw_2006_04_6_130.exe" size="94312672" crc="a756c686" md5="e490613c876e905825e7bc29b14fb714" sha1="c4506b138dc57aab531d6b7306f4913be7074ede" />
+	</machine>
+	<machine name="Phoenix Service Software 2006 12.5.136">
+		<description>phoenix_service_sw_2006_12_5_136.exe</description>
+		<rom name="phoenix_service_sw_2006_12_5_136.exe" size="95465904" crc="2b61e6f1" md5="b2a8fcf608adc53d6bfb131c15c93d63" sha1="30edf12749f9d565992d8df505fb5d879fd86742" />
+	</machine>
+	<machine name="Phoenix Service Software 2006 12.7.138_upd">
+		<description>phoenix_service_sw_2006_12_7_138_upd.exe</description>
+		<rom name="phoenix_service_sw_2006_12_7_138_upd.exe" size="12393016" crc="1f4cac64" md5="4e5f29c2c847d401d031c35c3a9a1f98" sha1="ae699272c0a26445ecc4408703a892a2a2e2008e" />
+	</machine>
+	<machine name="Phoenix Service Software 2006 20.14.153">
+		<description>phoenix_service_sw_2006_20_14_153.exe</description>
+		<rom name="phoenix_service_sw_2006_20_14_153.exe" size="100358200" crc="ade48815" md5="617e5cac70bd37a22c8e88f849c62f28" sha1="28f1d4cb55d70aa58067436e19d72db8ab780e8e" />
+	</machine>
+	<machine name="Phoenix Service Software 2006 20.9.148">
+		<description>phoenix_service_sw_2006_20_9_148.exe</description>
+		<rom name="phoenix_service_sw_2006_20_9_148.exe" size="100030856" crc="0c43abc9" md5="97dca89cf9bb6f76c1e82e36a5b1be51" sha1="d99aca4c34047af0b6325ba2c8eb261653662940" />
+	</machine>
+	<machine name="Phoenix Service Software 2006 34.2.156">
+		<description>phoenix_service_sw_2006_34_2_156.exe</description>
+		<rom name="phoenix_service_sw_2006_34_2_156.exe" size="101388168" crc="3ce497dc" md5="e4cd5d0ab17b372ed71bc284d361e90e" sha1="8973fdd28178f13ee5e53ef013a44ba5d4aa49e6" />
+	</machine>
+	<machine name="Phoenix Service Software 2006 44.6.163">
+		<description>phoenix_service_sw_2006_44_6_163.exe</description>
+		<rom name="phoenix_service_sw_2006_44_6_163.exe" size="103598160" crc="d702c938" md5="0765f3dff3eb962815e39aacd7d367ce" sha1="6d33b4d5b6eea7cb30fd0a620bac067ba5bc719f" />
+	</machine>
+	<machine name="Phoenix Service Software 2007 44.4.31162">
+		<description>phoenix_service_sw_2007.44.4.31162.exe</description>
+		<rom name="phoenix_service_sw_2007.44.4.31162.exe" size="119823950" crc="bbdf5a67" md5="753d401e8ae6a87ef70c6b5d9bd92cdb" sha1="a50e0e685f2f2ff7136630bc7b2f3b33e6631187" />
+	</machine>
+	<machine name="Phoenix Service Software 2007 04.0.1 patch">
+		<description>phoenix_service_sw_2007_04_0_1_patch.exe</description>
+		<rom name="phoenix_service_sw_2007_04_0_1_patch.exe" size="1884295" crc="d517d56e" md5="a7832991a85e736b2eab086c39098359" sha1="f470500342203c7b10263adc643eb7e96421003f" />
+	</machine>
+	<machine name="Phoenix Service Software 2007 12.6.27689">
+		<description>phoenix_service_sw_2007_12_6_27689.exe</description>
+		<rom name="phoenix_service_sw_2007_12_6_27689.exe" size="111068605" crc="d682ecb0" md5="0cfd82e680f12529a542004d50199da6" sha1="bc34d83473c9d837b69a6c95ec6d9f38a26eba04" />
+	</machine>
+	<machine name="Phoenix Service Software 2007 20.4.28513">
+		<description>phoenix_service_sw_2007_20_4_28513.exe</description>
+		<rom name="phoenix_service_sw_2007_20_4_28513.exe" size="112150461" crc="367ab91e" md5="8f6da62229f6d455ab1a7f5aa495d6dc" sha1="699461dd1e36a9c05466099d35bdc79c7cf79118" />
+	</machine>
+	<machine name="Phoenix Service Software 2007 20.9.28808">
+		<description>phoenix_service_sw_2007_20_9_28808.exe</description>
+		<rom name="phoenix_service_sw_2007_20_9_28808.exe" size="112155069" crc="0fddf2aa" md5="c053c180fe23d5c6060cc401893c7597" sha1="72aa34a31ecfadcbd7cf1ce536f9ba1c66d4946e" />
+	</machine>
+	<machine name="Phoenix Service Software 2007 34.8.30060">
+		<description>phoenix_service_sw_2007_34_8_30060.exe</description>
+		<rom name="phoenix_service_sw_2007_34_8_30060.exe" size="118920780" crc="4a299ca3" md5="41a7e14bd05f599c58958c7772cbd6ad" sha1="3d264d326835a96d3b4b86bde24d3fd0ca4ae2be" />
+	</machine>
+	<machine name="Phoenix Service Software 2007 44.3.30990">
+		<description>phoenix_service_sw_2007_44_3_30990.exe</description>
+		<rom name="phoenix_service_sw_2007_44_3_30990.exe" size="119823438" crc="238e11a8" md5="3ca2281ca17ad72201b0c22872774356" sha1="73125689beb64cbc2be973f8da5c4d41d2f5d058" />
+	</machine>
+	<machine name="Phoenix Service Software 2007 4.6.170">
+		<description>phoenix_service_sw_2007_4_6_170.exe</description>
+		<rom name="phoenix_service_sw_2007_4_6_170.exe" size="110219240" crc="2c549743" md5="f6201db0c07efa2137b27e7c449e3988" sha1="401e1efd49d097bd51304e3119bdbaaa978e9cd5" />
+	</machine>
+	<machine name="Phoenix Service Software 2008 20.9.34260">
+		<description>phoenix_service_sw_2008_20_9_34260.exe</description>
+		<rom name="phoenix_service_sw_2008_20_9_34260.exe" size="133358176" crc="0e385798" md5="e3cd0b4197c1c2332a0fb44a17d90191" sha1="b111e44622236ee3d52a55ff58ed03c556369e5e" />
+	</machine>
+	<machine name="Phoenix Service Software 2008 34.10.36039">
+		<description>phoenix_service_sw_2008_34_10_36039.exe</description>
+		<rom name="phoenix_service_sw_2008_34_10_36039.exe" size="136702234" crc="9976e1f6" md5="ea540f3437a9b7a5f383e87a5a40a3ff" sha1="504134405bbb74e58fd804103783e37a588a969c" />
+	</machine>
+	<machine name="Phoenix Service Software 2008 34.6.35199">
+		<description>phoenix_service_sw_2008_34_6_35199.exe</description>
+		<rom name="phoenix_service_sw_2008_34_6_35199.exe" size="134331674" crc="784540be" md5="0c5763de5ac85834679e506d0c024599" sha1="6ccbed49e3bf37052c39d50bf3342995602b44e0" />
+	</machine>
+	<machine name="Phoenix Service Software 2008 44.5.36625">
+		<description>phoenix_service_sw_2008_44_5_36625.exe</description>
+		<rom name="phoenix_service_sw_2008_44_5_36625.exe" size="137126170" crc="468b3927" md5="daae4083e7dea75148a1e7943886c64e" sha1="d7d4b5291b2fae61a637c79ed075ba6d14cca40a" />
+	</machine>
+	<machine name="Phoenix Service Software 2008 4.7.32837">
+		<description>phoenix_service_sw_2008_4_7_32837.exe</description>
+		<rom name="phoenix_service_sw_2008_4_7_32837.exe" size="129107221" crc="db1eb950" md5="8f1c24a171d74d8b7bb661cd4af26e02" sha1="d776c5a0680ab6ebf1ee0f3af1fb700cfd9dde0d" />
+	</machine>
+	<machine name="Phoenix Service Software a12 2003 50.6.35">
+		<description>phoenix_service_sw_a12_2003_50_6_35.exe</description>
+		<rom name="phoenix_service_sw_a12_2003_50_6_35.exe" size="42675153" crc="3fcf2468" md5="3dbe15a707d1c72cef8c8f363ec64a0a" sha1="88e92a1260ede7d6c6f2bff82665c602464e1554" />
+	</machine>
+	<machine name="Phoenix Service Software a12 2003 50.7.36-Feb10-085637">
+		<description>phoenix_service_sw_a12_2003_50_7_36-Feb10-085637.exe</description>
+		<rom name="phoenix_service_sw_a12_2003_50_7_36-Feb10-085637.exe" size="42675251" crc="06b9bd98" md5="0dc48335ca492653b4a8ee84978b53a3" sha1="12c6c5644c00ee276462148be35253fc03055379" />
+	</machine>
+	<machine name="Phoenix Service Software a14 2004 16.4.47">
+		<description>phoenix_service_sw_a14_2004_16_4_47.exe</description>
+		<rom name="phoenix_service_sw_a14_2004_16_4_47.exe" size="51305322" crc="ab467fa9" md5="7c777a7a8fb1bccdfbc3b2f8a8c77ae9" sha1="1eaa11edefb3bb574fde5272b805921f133c8978" />
+	</machine>
+	<machine name="Phoenix Service Software a15 2004 24.7.55">
+		<description>phoenix_service_sw_a15_2004_24_7_55.exe</description>
+		<rom name="phoenix_service_sw_a15_2004_24_7_55.exe" size="69225074" crc="88f58c45" md5="da4443071ba1705c987794aba18fba38" sha1="bab1e65d506cf1e404f2ad583b753a0f331b1af4" />
+	</machine>
+	<machine name="Phoenix Service Software patch 2006 20.15.154">
+		<description>phoenix_service_sw_patch_2006_20_15_154.exe</description>
+		<rom name="phoenix_service_sw_patch_2006_20_15_154.exe" size="1795272" crc="0dbb9847" md5="c365d7c8c8e6fbff8c8b5c100e3201b0" sha1="e7e57ac3ec9beda9b61062f6d6b5cc1352c233d8" />
+	</machine>
+	<machine name="Phoenix Service Software patch 2006 34.3.157">
+		<description>phoenix_service_sw_patch_2006_34_3_157.exe</description>
+		<rom name="phoenix_service_sw_patch_2006_34_3_157.exe" size="1791172" crc="647bc40b" md5="3a389e8268cdb84c77dd6d2c63ab11ad" sha1="daa2d632db46e80f0f0662e62143222b7c152c8a" />
+	</machine>
+	<machine name="Phoenix Service Software patch 2007 02.0.1">
+		<description>phoenix_service_sw_patch_2007_02_0_1.exe</description>
+		<rom name="phoenix_service_sw_patch_2007_02_0_1.exe" size="1794832" crc="fce52338" md5="5ae1b7cf69f91ddf76cfc276da1bf1a0" sha1="7070873cbc85218de1b9f891c44e8f6bd99204d1" />
+	</machine>
+	<machine name="Tucson 2007.21.3">
+		<description>Tucson 2007.21.3.msi</description>
+		<rom name="Tucson 2007.21.3.msi" size="8425984" crc="607488f1" md5="d6daae71d62fff62cfd49bb748ba166b" sha1="55bf9045a2342688fc48d001157aceecf35c28f6" />
+	</machine>
+	<machine name="Tucson_Add-On_2008_24">
+		<description>Tucson_Add-On_2008_24</description>
+		<rom name="Tucson_Add-On_2008_24.msi" size="1200640" crc="223203fc" md5="0cef8f5997ecb7ed7963ecf8b94d68c7" sha1="12886271203a3d4b88ea3d0334f9428b8d88ed29" />
+	</machine>
+</datafile>

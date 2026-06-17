@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Nokia - Util - Diego</name>
+		<description>Nokia - Util - Diego</description>
+		<category>Standard DatFile</category>
+		<version>2026-06-17</version>
+		<date>2026-06-17</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Diego 02.14 SP1 009">
+		<description>Diego 02.14 SP1 009</description>
+		<rom name="Diego_02_14_SP1_009.exe" size="5393397" crc="9cec0a64" md5="a778ca11a7213cba4c4c89042abd433f" sha1="845079441025b38c94dec9b4cf6ac50a964ab4a8" />
+	</machine>
+	<machine name="Diego 02.14 SP2 002">
+		<description>Diego 02.14 SP2 002</description>
+		<rom name="Diego_02_14_SP2_002.exe" size="1214597" crc="cb8c1306" md5="6ed13213645725e83448e66f421f975d" sha1="f3ec3191ae8ce50018744a866e2ab9af7c3ffec8" />
+	</machine>
+	<machine name="Diego 03.00.024 US">
+		<description>Diego 03.00.024 US</description>
+		<rom name="Diego_03_00_024_US.exe" size="25488284" crc="c2f6061f" md5="8c983e5b8b5b69869f86c204e1faa80f" sha1="1a27f66d86415531112b87e3eb6109fefbf5bc66" />
+	</machine>
+	<machine name="Diego 3.03">
+		<description>Diego 3.03</description>
+		<rom name="Diego_03_03.exe" size="25488568" crc="2d608372" md5="a05afda9f2fecbd20387ee55dbf018f5" sha1="09647e738f850b1cbf3e49e64917c7c458158b70" />
+	</machine>
+	<machine name="Diego 3.06">
+		<description>Diego 3.06</description>
+		<rom name="Diego_3_06.msi" size="36591104" crc="fcbaec0c" md5="fa53cf8d554d7e4b34f10c4783a498f9" sha1="2cb7a3de431e50e504511f05ffd69e43f32b3a31" />
+	</machine>
+	<machine name="Diego 3.09">
+		<description>Diego 3.09</description>
+		<rom name="Diego_3_09.msi" size="30611456" crc="168979dc" md5="db901afb4f93c67bf25fcfc575592785" sha1="bac79aafe505aa255d0dafb0a5771a2ac36b2c17" />
+	</machine>
+	<machine name="Diego Service SW C2 14_004">
+		<description>Diego Service SW C2 14_004</description>
+		<rom name="Diego_Service_SW_C2_14_004.exe" size="17851810" crc="ae09ed15" md5="21bfb6c19a578a6e5520a0f557aaf214" sha1="5142d921b6618e5f7e08ef05d362e3975a2ef683" />
+	</machine>
+	<machine name="Nokia Diego 3.07 Sp2">
+		<description>Nokia Diego 3.07 Sp2</description>
+		<rom name="Nokia Diego 3.07 Sp2.msi" size="28694016" crc="676a12a0" md5="fee63d5c6d795d3cb529bdd29190c38b" sha1="c0829170260859b465bbdc7e633a1c3706a0ee85" />
+	</machine>
+</datafile>

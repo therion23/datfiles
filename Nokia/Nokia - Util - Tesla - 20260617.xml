@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Nokia - Util - Tesla</name>
+		<description>Nokia - Util - Tesla</description>
+		<category>Standard DatFile</category>
+		<version>2026-06-17</version>
+		<date>2026-06-17</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Module - Accessories FaultLog Module Install 2.13">
+		<description>Module - Accessories FaultLog Module Install 2.13</description>
+		<rom name="acc_inst.exe" size="245049" crc="e5b78324" md5="2b67673aa559c38d3837f79690d24205" sha1="cae3a0b7d56ca7e6ca3861e1a5f55472adb32002" />
+		<rom name="FILE_ID.DIZ" size="503" crc="10dba6d3" md5="497f9ba99a9db992fbeedd0e1614f84a" sha1="b7891218c118222fa11a5f8dc79f49fcf331cb44" />
+		<rom name="ROYAL.NFO" size="16077" crc="aa07ed7d" md5="010e87527753dd2fb0478241c0b49bc4" sha1="f7ea350411aa4e94fb719819cc859da71990915f" />
+	</machine>
+	<machine name="Module - AS-MTC Module Installer 3.21.00">
+		<description>Module - AS-MTC Module Installer 3.21.00</description>
+		<rom name="FILE_ID.DIZ" size="499" crc="c8bc6fef" md5="e7930fe80576d76ae2f202bf6c1e9a27" sha1="b6d74d4f16625b0d37092dcaa6d0752edb7c48b3" />
+		<rom name="nsek13i.exe" size="2096640" crc="12a0fee0" md5="495b1686a672ea4d58257f3d757c57fe" sha1="fa9b5d1c962055ca6a0315bd5a839eba4662a58d" />
+		<rom name="ROYAL.NFO" size="18288" crc="be25e9f5" md5="3a59ff51c8d758cec3a826141b7e9449" sha1="7f8a5a3f207512e4e72e682eb9319e178d8ba884" />
+	</machine>
+	<machine name="Module - AS_MTC Support Modules 02.41.00">
+		<description>Module - AS_MTC Support Modules 02.41.00</description>
+		<rom name="_INST16.EX_" size="285324" crc="52b523d9" md5="0a64123db6ac1279ed28727ffed8792d" sha1="267f1f824fb3d3b24b5c2d2dc78c51ab3f0dda9b" />
+		<rom name="_INST32I.EX_" size="290733" crc="dca2e1ed" md5="8db6fa678163e440c9c0328a44a752f1" sha1="3473a8b603b62d073e854961e9223d3e8a8d7ddb" />
+		<rom name="_ISDEL.EXE" size="8704" crc="3f4879ea" md5="cd209af116614554405a336aad013c14" sha1="cc59779528b2aa3bbfbc852fbbc895becfbcc5d4" />
+		<rom name="_SETUP.DLL" size="11264" crc="44bdb7d4" md5="024856bad2071599202cff50fa9aae71" sha1="56915a9f977a4370b1c09a377819e0df6e55c44a" />
+		<rom name="_sys1.cab" size="411166" crc="3602951f" md5="e3b9705c38fc026d7d0848c60448ae54" sha1="1a4d905363520d6750ba049d9318cf17ca9f7d9b" />
+		<rom name="_USER1.CAB" size="45580" crc="1cd182a4" md5="95a36332e79c7309f5b040931203d6f1" sha1="e860061ff2c5367114466fc4d27237b1b6a8891f" />
+		<rom name="DATA.TAG" size="180" crc="76f906b9" md5="7e8179a5d11163db8b3a236cafd01ed6" sha1="ebbf242120318e32aa22c943abdac8de5b14cd7a" />
+		<rom name="DATA1.CAB" size="259623" crc="7a9591ac" md5="d4e1eec97e39625a7f6961252762b968" sha1="d1032e26ba55d86b8494c77384e5fb8ea53e52c2" />
+		<rom name="Data2.cab" size="519467" crc="ca89827f" md5="9c5dec33722a103f1bc5e719fda5b8ab" sha1="2eba7a9b4fbbf9ed40cfded6668ad157995e259a" />
+		<rom name="LANG.DAT" size="4525" crc="a22e9a7e" md5="d0754bcefd6ee3ebc144beaf9e193332" sha1="87b7d26466a3e26a6ad233487397b392f5709bff" />
+		<rom name="LAYOUT.BIN" size="367" crc="83de6aad" md5="25a8701710a98102c6ec95f776c62259" sha1="58916c091d3a5c8ca7149ca3b7230b142d4645fa" />
+		<rom name="OS.DAT" size="417" crc="f9edc7a9" md5="af1d8d9435cb10fe2f4b4215eaf6bec4" sha1="c20e693a53acc586c59a456648df5162f172c27d" />
+		<rom name="SETUP.EXE" size="60416" crc="62937092" md5="38369bacc2bf3c731ccf2c9ed7fac71c" sha1="a420557b48437de7016a0764d29e914ce40e04b9" />
+		<rom name="SETUP.INI" size="69" crc="b5977f62" md5="50e1818aac9d63997e65023b5593f9ec" sha1="e14d4554b3c21ebd9238345bd3ed78442944689b" />
+		<rom name="SETUP.INS" size="68651" crc="32340449" md5="e73d3b00b7cd86860a66b7d29c3dde70" sha1="273af11141fa081d92e737aafd294bf9c24a962f" />
+		<rom name="SETUP.LID" size="49" crc="3637907d" md5="1b79748e93a541cc1590505b6c72828a" sha1="1ddefee04dc9e9b2576dc34eebcfa3de4aa82af9" />
+	</machine>
+	<machine name="Module - DTX-3 DLL 1.00.00">
+		<description>Module - DTX-3 DLL 1.00.00</description>
+		<rom name="DTX-3_inst.exe" size="655815" crc="9c57e4d2" md5="8538333ae3f1c162b91429c9dcba3d7e" sha1="dc209b7be55f4fb188f34292a690a6718301744d" />
+	</machine>
+	<machine name="Module - FastNAM Module Install 2.08">
+		<description>Module - FastNAM Module Install 2.08</description>
+		<rom name="FILE_ID.DIZ" size="493" crc="7e788f74" md5="8bb1689d39a2937378b16a2cae47ba56" sha1="86b6d52b1c9bb320def0b28c479b0297f05ce9c8" />
+		<rom name="fnaminst.exe" size="352850" crc="cfed85a9" md5="b833208d90389c4b9a736f5f76f282fb" sha1="b3ac1581a66c097ef735b8bccfb8b0540b4cdb8a" />
+		<rom name="ROYAL.NFO" size="14971" crc="591200b0" md5="6ef3d103eb2e69cb0d0399ab74a6ed1e" sha1="e5d5ac11a1b74974dce9b76e4eaa53355566a2c2" />
+	</machine>
+	<machine name="Module - FaultLog File Process Installer 1.08">
+		<description>Module - FaultLog File Process Installer 1.08</description>
+		<rom name="FILE_ID.DIZ" size="501" crc="b53a59b0" md5="8f83ea42ed0e75eb14f59d25a681ffa2" sha1="2cf127601193b273fab803463205483406377a91" />
+		<rom name="flp_inst.exe" size="1515549" crc="fb5ef81d" md5="c2a03a6849065d6b4ed55c9b0a7288ea" sha1="dd7b021351b26d95bbe58e100bbca4cec878d010" />
+		<rom name="ROYAL.NFO" size="16077" crc="ca8a2f11" md5="d0c04e4417fb1292dfe8e212ba54f187" sha1="e49a9934f3788d7173b4a5d411a9001873e0f5eb" />
+	</machine>
+	<machine name="Module - Flash Prommer Drivers Installer 1.41">
+		<description>Module - Flash Prommer Drivers Installer 1.41</description>
+		<rom name="FILE_ID.DIZ" size="501" crc="ce60bddf" md5="c9e60f20013ff77aeb71424ab997d93e" sha1="64480671b76d9ae4ffbd0dcf454712acb1024c1f" />
+		<rom name="fps_inst.exe" size="381488" crc="6b9ee21f" md5="206ad8294377e66a82370970e243e33d" sha1="2bcf43b85740e889935c093be7d4181115960898" />
+		<rom name="ROYAL.NFO" size="16077" crc="864c267f" md5="576a6d5915631dd7d77f6c0636359de8" sha1="dcd97d7d6ee1fb3a6eedbdf50dfac1ed0617f849" />
+	</machine>
+	<machine name="Module - FLE-5 Driver Installation 1.92">
+		<description>Module - FLE-5 Driver Installation 1.92</description>
+		<rom name="FILE_ID.DIZ" size="488" crc="935d0fd7" md5="4be30237f280c92f5f143b9d826c578a" sha1="77aadc3e892bef4d34752857eead71d5a7fa1d1b" />
+		<rom name="fle5drv.exe" size="1153314" crc="a7808a7c" md5="31344d998c6573d66e698335f30d8788" sha1="24175c2ca6d19bffd224b432f929d7dbc8a860e5" />
+		<rom name="ROYAL.NFO" size="16077" crc="74229dd8" md5="bef254d112988c2200b14aab8acab92f" sha1="555770e50ee73ca33ed8e409909749c890e7a68e" />
+	</machine>
+	<machine name="Module - FLS-4 Driver Installation 1.34">
+		<description>Module - FLS-4 Driver Installation 1.34</description>
+		<rom name="FILE_ID.DIZ" size="480" crc="d3fc9932" md5="e741c7f62e77cb85e9453fb2f3da7746" sha1="5ce9840b2e165112ab912b9900425bad4d347e05" />
+		<rom name="fls-4drv.exe" size="1391980" crc="a588c9a2" md5="c809b3029b90c8fc1e152af793519794" sha1="8eda0dfafba6dc433247d852c36cec6b90622dd4" />
+		<rom name="ROYAL.NFO" size="15681" crc="56d29627" md5="e476f01499a3466cc02d3a4e81a6934f" sha1="69eb9ee1c511b9cf6e74fe8d8370baeb74623c42" />
+	</machine>
+	<machine name="Module - FLS-X License Update Utilities 1.49">
+		<description>Module - FLS-X License Update Utilities 1.49</description>
+		<rom name="FILE_ID.DIZ" size="499" crc="76761738" md5="f35e0c1294cf8d1752257ada83624055" sha1="6435adc96f2f161546d40a9d2234458d2fb128f2" />
+		<rom name="flsxlic.exe" size="1396189" crc="ab575ab6" md5="7dbf2e638a550042511e714e9c6c7954" sha1="25d6259e2de0c56d9187572303848d7ac4316d3a" />
+		<rom name="ROYAL.NFO" size="16077" crc="ebddd3ee" md5="26abb26b88939e12cd33a4ad6e3a25f0" sha1="f60c4ca2466b4e00888063519babdfc22b860961" />
+	</machine>
+	<machine name="Module - FPS-3 Control Program 0.7">
+		<description>Module - FPS-3 Control Program 0.7</description>
+		<rom name="740flash.exe" size="110192" crc="6f07d3e1" md5="74c5606ec1350b39dc0724db4e8acfd2" sha1="4630a38db60b9a7297d4b9e78395de8dddb56c38" />
+		<rom name="FILE_ID.DIZ" size="487" crc="33357cb5" md5="23aed70f76f9f8f92195e43e54a95d46" sha1="1dddf071297b988752f965541f5210b998bf7c27" />
+		<rom name="ROYAL.NFO" size="14971" crc="a10cd951" md5="ff605b6a4994937e720624f361bae554" sha1="744fe9a01b3a3831655e11e5c51eb709db40e8c5" />
+	</machine>
+	<machine name="Module - FPS-4 and FPS-8 Support Module 1.0">
+		<description>Module - FPS-4 and FPS-8 Support Module 1.0</description>
+		<rom name="FILE_ID.DIZ" size="505" crc="b7de64e3" md5="e84ee864df4aa272574d6624b2dc5f9a" sha1="ac74725b00d890e8e89a6e6ae6cecd6d9d04bcea" />
+		<rom name="fpsxsp.exe" size="1366929" crc="29732d4b" md5="0e6a521d46a1ce85d5f1bdeee621abd0" sha1="4a39f9410263cd6882f3ee0132abaa6574ec660a" />
+		<rom name="ROYAL.NFO" size="14971" crc="f1f54793" md5="53046994c5f026918b24e3d5a1b4e779" sha1="b6e1fb1a63c2ae5bcf179692f0cc6ae20b16fbc6" />
+	</machine>
+	<machine name="Module - GPIB Driver Module Install 2.31">
+		<description>Module - GPIB Driver Module Install 2.31</description>
+		<rom name="FILE_ID.DIZ" size="487" crc="14e547cb" md5="a28fd423f9aa602741afae220953750b" sha1="1a34b7fcaefc36c6bd191fa92daff7697b9332db" />
+		<rom name="gpibinst.exe" size="225603" crc="0c2ddd5c" md5="29108bb4d9a7931374ba5b25b3d1f784" sha1="de2772ad6c109c02be0783f04fa01ea7a196aeac" />
+		<rom name="ROYAL.NFO" size="16077" crc="35194c5b" md5="28aa0bcb1965ab9b7b700656a5e14526" sha1="727d3fef0b86511159357e5299158a105979a956" />
+	</machine>
+	<machine name="Module - HD98X Functionality &amp; UI DLL 2.58 Simplified Flash Operation">
+		<description>Module - HD98X Functionality &amp; UI DLL 2.58 Simplified Flash Operation</description>
+		<rom name="NSD-3 - 2.25.exe" size="1653287" crc="6d8431f7" md5="10212941bc08d74f54e3df6a468c8625" sha1="2ff1f6898a68805e71b3c5bf8c777d93933662c3" />
+	</machine>
+	<machine name="Module - HD98X Functionality &amp; UI DLL 2.59 Simplified Flash Operation">
+		<description>Module - HD98X Functionality &amp; UI DLL 2.59 Simplified Flash Operation</description>
+		<rom name="NSD_W259.EXE" size="1707512" crc="657e57ca" md5="a254e3c920c7eab430ce4031be3749b9" sha1="1cfd23853e369d9656782dcf4f311bd3b4367150" />
+	</machine>
+	<machine name="Module - Label Printing Module 1.60">
+		<description>Module - Label Printing Module 1.60</description>
+		<rom name="lbl_inst.exe" size="239028" crc="779f4374" md5="b2572430ae5db5ad30650c68cb0c0289" sha1="d383d43ae80f1a6dc094ccc4166f95f9d787084b" />
+	</machine>
+	<machine name="Module - NH-1,3,4 DLL 2.00">
+		<description>Module - NH-1,3,4 DLL 2.00</description>
+		<rom name="FIMAIN.EX_" size="70416" crc="da5b58c8" md5="7506086e92780f3fee99ee8e664c52c6" sha1="b409eee5cd89c80063fbb76ca188805ae164adec" />
+		<rom name="INSTALL.EXE" size="35344" crc="3284ddee" md5="ad42726e049eedd7932c0053f0651632" sha1="f8ea58533df4e42400f55079eb1337da8ea82f02" />
+		<rom name="INSTALL.HL_" size="6818" crc="9ebd863d" md5="9117ad1d919a107f420c1f9d29f44c1a" sha1="7ed1cdc5e04733e42777e158346d3ed85d92a71d" />
+		<rom name="LZPUNZ.DLL" size="19984" crc="92f6c22d" md5="b8dc8a87ee9f4444e4d3ff56454533fb" sha1="32d05b5e189c50a51784360ff6dbba8a72156284" />
+		<rom name="NH134.DL_" size="87734" crc="6875452f" md5="53432e9192e291197c9af49b921a8106" sha1="2ad90ff83d4ebdc86148e58b5d0f05275978b1ca" />
+		<rom name="NH134EN.DL_" size="105565" crc="455e7cac" md5="eb0905a545288cd37ee717ae0a356710" sha1="3ad65d6e8a5fee903fd870854b6e7b495a38bfa4" />
+		<rom name="NH134EN.HL_" size="40252" crc="59b7e21d" md5="ef3b8cfb974fb7b9a1b2fdfc3083740c" sha1="2343bcc27280026f25a83fc454684b7575818f69" />
+		<rom name="NH134EN.VA_" size="413" crc="f1e8790d" md5="bc482beb7a2754c0bfcfad40675f0e73" sha1="02f103da1436af81b697db5733f7ec41a5e7bd3d" />
+	</machine>
+	<machine name="Module - NHE-89 DLLs 2.0">
+		<description>Module - NHE-89 DLLs 2.0</description>
+		<rom name="FIMAIN.EX_" size="69676" crc="d1376300" md5="4a2ace0350143a9e07304e3947fefb46" sha1="c3229d975cdec3d663c8565db71e1fdeade82579" />
+		<rom name="INSTALL.EXE" size="35344" crc="5b61089d" md5="63dabc590943085eab76cb30541d5564" sha1="8fa5fa38f7bd90e102371bf4c7094a8a2cc71311" />
+		<rom name="INSTALL.HL_" size="6818" crc="9ebd863d" md5="9117ad1d919a107f420c1f9d29f44c1a" sha1="7ed1cdc5e04733e42777e158346d3ed85d92a71d" />
+		<rom name="LZPUNZ.DLL" size="19984" crc="92f6c22d" md5="b8dc8a87ee9f4444e4d3ff56454533fb" sha1="32d05b5e189c50a51784360ff6dbba8a72156284" />
+		<rom name="NHEK89.DL_" size="78806" crc="975333e0" md5="40da1d7839c73cb9e457610209eee5a6" sha1="c4857461828bd06545dd81cd8ebec9e2eacba3b2" />
+		<rom name="NHEK89EN.DL_" size="93470" crc="6dc62617" md5="0848cdc48d5053b2720d3c9caaa857db" sha1="61b05b3b487e66fb6501ce2ec9265088812ad8f3" />
+		<rom name="NHEK89EN.HL_" size="41865" crc="181b5590" md5="a6e21d81d098cc643116c40c62975ace" sha1="7a70d4af0070fd7d90413692e67ce3a3e27854d1" />
+		<rom name="NHEK89EN.VA_" size="407" crc="376237b7" md5="d9950bc4e4ed1a590dfe725ee4c6696e" sha1="ba667881335d99c3f18dddcde7a60a25c1b913be" />
+	</machine>
+	<machine name="Module - NHEK-56 DLLs 1.9">
+		<description>Module - NHEK-56 DLLs 1.9</description>
+		<rom name="FIMAIN.EX_" size="69765" crc="67e38038" md5="85d910323e1066f04b34535069cedbf4" sha1="ba3c74aebb7868cc0b12cfc5dc680c631ab075b6" />
+		<rom name="INSTALL.EXE" size="35344" crc="c570e569" md5="cb8ebc7886607bb2e42a0d45dcd53d4e" sha1="9c878cbcdaf0d8cb915453199df69707c76658cf" />
+		<rom name="INSTALL.HL_" size="6818" crc="9ebd863d" md5="9117ad1d919a107f420c1f9d29f44c1a" sha1="7ed1cdc5e04733e42777e158346d3ed85d92a71d" />
+		<rom name="LZPUNZ.DLL" size="20592" crc="3a4a73d6" md5="1d61675b22b59b888e686991c196c903" sha1="6dfa7147e64651e24a084cda46725655809d6a7d" />
+		<rom name="NHEK56.DL_" size="79213" crc="26acf80a" md5="8273e4635dabf4781300e06b99c29117" sha1="0b40c57b5a0fd784682a5cc54347ace429f9b2cc" />
+		<rom name="NHEK56EN.DL_" size="97748" crc="d96bb81f" md5="917c84f84ed3e94c8af9d1dcb88ad9cf" sha1="e4bf538d902b2792282501a698d68a7316678d13" />
+		<rom name="NHEK56EN.HL_" size="43573" crc="ac5449a9" md5="8e13c0fadddaa675fc824fbdb7695c83" sha1="3746d9e3fcf6fb71880c583f3c7ff6441f7d94c8" />
+		<rom name="NHEK56EN.VA_" size="350" crc="8fdfebea" md5="6b9da557d6adf42a2cfcb6cba9ea6808" sha1="b9ce52019547f8ec03a87db406f77141dcf6b081" />
+	</machine>
+	<machine name="Module - NHEK-5689 DLLs 3.0">
+		<description>Module - NHEK-5689 DLLs 3.0</description>
+		<rom name="Fimain.ex_" size="71721" crc="2e99d336" md5="9275e5e5899b77a566e496a55f8d7f18" sha1="4bc529388ded621e359fc6b202783cd0387b20ec" />
+		<rom name="Install.exe" size="35344" crc="38d7cbe7" md5="64b99da89200b238e4d372d174087604" sha1="c0f9f8fb95235ca7b11686c6716abb099e280a4b" />
+		<rom name="Install.hl_" size="6818" crc="9ebd863d" md5="9117ad1d919a107f420c1f9d29f44c1a" sha1="7ed1cdc5e04733e42777e158346d3ed85d92a71d" />
+		<rom name="Lzpunz.dll" size="19984" crc="92f6c22d" md5="b8dc8a87ee9f4444e4d3ff56454533fb" sha1="32d05b5e189c50a51784360ff6dbba8a72156284" />
+		<rom name="Nh5689.dl_" size="140333" crc="f4e91886" md5="696adb00af08d7fad71d6773f3c8989f" sha1="10a2221b845dc7401220b064db84c97ee5fadada" />
+		<rom name="Nh5689en.dl_" size="196071" crc="524fd019" md5="a45926e34b50d2deda58ea1b8b6b720c" sha1="b57aa84602083eee3cf0c853de79697ca686a0ad" />
+		<rom name="Nh5689en.hl_" size="44796" crc="0c5694d0" md5="748104331a04e9999907123b6289bebc" sha1="6b51af164e60f72687b7cd9c2a4de7be425b4ff5" />
+		<rom name="Nh5689en.va_" size="389" crc="8c5ce39f" md5="7b1f62dbdf6ef50a2f6f67900f61efcc" sha1="3e406f17198956ffcd92bab86eb4f9ab485692e1" />
+	</machine>
+	<machine name="Module - NHEK-5689 DLLs 3.2">
+		<description>Module - NHEK-5689 DLLs 3.2</description>
+		<rom name="FIMAIN.EX_" size="71937" crc="667241af" md5="73c33a4546631109a6f2b45d5ad8a75b" sha1="a96bf4a2e3801b65781fa0ffe1ab890c31975db3" />
+		<rom name="INSTALL.EXE" size="35344" crc="d0bf05c4" md5="ba0c02e232cf0a965a8822b3fec628bf" sha1="0698a66c59d20a6cf4dcbce1a146c16797dc3e06" />
+		<rom name="INSTALL.HL_" size="6818" crc="9ebd863d" md5="9117ad1d919a107f420c1f9d29f44c1a" sha1="7ed1cdc5e04733e42777e158346d3ed85d92a71d" />
+		<rom name="LZPUNZ.DLL" size="19984" crc="92f6c22d" md5="b8dc8a87ee9f4444e4d3ff56454533fb" sha1="32d05b5e189c50a51784360ff6dbba8a72156284" />
+		<rom name="NH5689.DL_" size="140343" crc="4b017824" md5="17dc24fd00d45b470d62acddfa8f4ba1" sha1="fe70d5105eb86a3f4563f3e3b5df42faecedd980" />
+		<rom name="NH5689EN.DL_" size="196285" crc="3b288ab3" md5="e0dc452282a0fa37aa6419c349a5bb1d" sha1="4b395497d4834352191696996512c1af5559808b" />
+		<rom name="NH5689EN.HL_" size="44193" crc="0841d089" md5="10a82515e92b0f4762bde7c4ce6bf73e" sha1="55dc8b2590f207b27e635e037326225010908a7c" />
+		<rom name="NH5689EN.VA_" size="389" crc="8c5ce39f" md5="7b1f62dbdf6ef50a2f6f67900f61efcc" sha1="3e406f17198956ffcd92bab86eb4f9ab485692e1" />
+	</machine>
+	<machine name="Module - NHM-5 AMSMTC DLL 311.02.00">
+		<description>Module - NHM-5 AMSMTC DLL 311.02.00</description>
+		<rom name="Nhm5.exe" size="961277" crc="4bf1688a" md5="566e4de221f5848df63f6494a87c3a00" sha1="3061fa79265aa090281061afdb019fdd7b0f40c1" />
+	</machine>
+	<machine name="Module - Nokia Service Driver pack 01.10.00">
+		<description>Module - Nokia Service Driver pack 01.10.00</description>
+		<rom name="CB_MMT.DL_" size="7783" crc="36d4cff2" md5="5f71be38c3d938acbff532da7e4de52d" sha1="be9b55d0a826bb092c04325a79f4bf4d9f788ba2" />
+		<rom name="FIMAIN.EX_" size="69312" crc="317ae82c" md5="57bbc15cea0ffc116d636e6ce0225770" sha1="f35f4fcacd73f5d0ca96119d2075198dd88c5e89" />
+		<rom name="FPI.DL_" size="37622" crc="af311deb" md5="0cdfcd271bec7aa78b6d1f42afe2cb86" sha1="94995c1eac61f350fdd353ebaaa3632f264ec4c1" />
+		<rom name="INSTALL.EXE" size="35344" crc="a114e1f0" md5="55bb211755b23eb9b3f854712774d49d" sha1="7f56ba38cbbc95faa0ebb265451f68f6073c41d6" />
+		<rom name="INSTALL.HL_" size="6818" crc="9ebd863d" md5="9117ad1d919a107f420c1f9d29f44c1a" sha1="7ed1cdc5e04733e42777e158346d3ed85d92a71d" />
+		<rom name="LZPUNZ.DLL" size="19984" crc="92f6c22d" md5="b8dc8a87ee9f4444e4d3ff56454533fb" sha1="32d05b5e189c50a51784360ff6dbba8a72156284" />
+		<rom name="MTI.DL_" size="16895" crc="48b3d709" md5="b94ce914b1c8ec50884c0d38ad23db99" sha1="4ae6619104e3c052ecb8e565b485a549faab6b12" />
+		<rom name="PCB_MMT.DL_" size="18708" crc="a4c8cb22" md5="73b8d99cb4368102afea684d0a82b939" sha1="8e987c7c8aaa682b7204b31396ad9be0b10181a3" />
+	</machine>
+	<machine name="Module - NPE-3_NHM-3 AMSMTC DLL 311.01.00">
+		<description>Module - NPE-3_NHM-3 AMSMTC DLL 311.01.00</description>
+		<rom name="Npe3.exe" size="993449" crc="0a101a0a" md5="0af3a3a01a12efe29bf0e90a1ebe3481" sha1="ae2df875afd9a982cbcdc5ef882ad295e3370e70" />
+	</machine>
+	<machine name="Module - NSB-1,NSB-3,NSE-1,NSE-3, NSE-6,NSK-1, NSK-3 and NSM-1 2.05.00">
+		<description>Module - NSB-1,NSB-3,NSE-1,NSE-3, NSE-6,NSK-1, NSK-3 and NSM-1 2.05.00</description>
+		<rom name="CB_MMT.DL_" size="9230" crc="ba26f2d5" md5="3a72572fbaf675699024f8424ec959f1" sha1="2d6c9e01bc0dc58f00a65261607689d756cbd4b0" />
+		<rom name="FIMAIN.EX_" size="74248" crc="dfaddbd6" md5="dad1fdc51339e5c59ed6f5a5a37b3097" sha1="92f09577677ce65aa9611e14e1425772bb241087" />
+		<rom name="FPI.DL_" size="38072" crc="19c660ae" md5="eecb0d7920a9b5c85dc8c291f5fba0c0" sha1="b21cabd773ac8385cd49ffe74f4efe10086ed18d" />
+		<rom name="FPI2.DL_" size="37024" crc="45c59434" md5="813ff3dff9299b7f312290576d03549c" sha1="c5877d20a905967b740748427db7af1647b81f8d" />
+		<rom name="INSTALL.EXE" size="35344" crc="8e2647ef" md5="8fdb1197f263fb18439bf6609ce8033c" sha1="11b95c98d935262581a05555546d11f858d07096" />
+		<rom name="INSTALL.HL_" size="6818" crc="9ebd863d" md5="9117ad1d919a107f420c1f9d29f44c1a" sha1="7ed1cdc5e04733e42777e158346d3ed85d92a71d" />
+		<rom name="LZPUNZ.DLL" size="19984" crc="92f6c22d" md5="b8dc8a87ee9f4444e4d3ff56454533fb" sha1="32d05b5e189c50a51784360ff6dbba8a72156284" />
+		<rom name="MTI.DL_" size="16755" crc="8d0e9c99" md5="745e7ee251d85fbea7964d1be7a3f974" sha1="101f6ba082e3817ec321308e9395da49641745e2" />
+		<rom name="NSEK13.DL_" size="214678" crc="94fb16ae" md5="03eaaa2820f81866ce80443ec9c81d9b" sha1="c45fec55cf1685991cafaea8ae9d75ecfe7b9f49" />
+		<rom name="NSEK13EN.DL_" size="185005" crc="4e25d1ee" md5="e1383015941556158e878fd415cb0f77" sha1="030b149624022465210224ce4878923acc8c3524" />
+		<rom name="NSEK13EN.HL_" size="37733" crc="69ecd0e6" md5="04dac5225bcaa12cf5e347b21adfefa5" sha1="5327910d1b68f91f544f1e373358d69dfb5b0cd2" />
+		<rom name="NSEK13EN.VA_" size="430" crc="dfcc35e0" md5="dc4e36d2c04944325ac969c604218f20" sha1="684808ddecae451143c7bdea759ba6512b2764a5" />
+		<rom name="PCB_MMT.DL_" size="18800" crc="8223c433" md5="52971ebef34cb1965ffb6f1988204b47" sha1="9d4fba7ddb7adb957c02fdce81a0b667faa425b6" />
+		<rom name="README.AS" size="3450" crc="0cb764f1" md5="ac7809612a3bfc985a23a3e0727c2bdf" sha1="cc22fe48eb3b7ef5c38d2fa9156bd4da4a6e9b30" />
+		<rom name="READNSB1.TX_" size="176" crc="6a784ca1" md5="9453069c28d211deb98e7f83bcb08b97" sha1="4d1aea89b758870bc539d5a2445158911109f585" />
+		<rom name="READNSB3.TX_" size="176" crc="40529915" md5="9c9391aede3ceda6e4c3081f193b5423" sha1="fa834447db18bf7b10ffa595e24a56e61d8824ff" />
+		<rom name="READNSE1.TX_" size="176" crc="1e418929" md5="74d106dbd5d9541106536e9a8025d23c" sha1="0e66f693038e79edff00b4f6993ad3abf02c49ad" />
+		<rom name="READNSE3.TX_" size="176" crc="c5f4610e" md5="97aff79a36e2ca5eef1e37d98dc9eba4" sha1="c22e95f898bed96244ba48f680d11959d0f0f448" />
+		<rom name="READNSE6.TX_" size="175" crc="de35dba1" md5="a9976ee5fe746921321b8f8bbd4c1234" sha1="9e000e5ada9c1675b0824595c6b3c83580ad937a" />
+		<rom name="READNSK1.TX_" size="176" crc="217c52d9" md5="8de40f81a3b64acf1570c13cb1c81ce9" sha1="1e49239d17d4214f831bda571a16c49d6af4b59f" />
+		<rom name="READNSK3.TX_" size="176" crc="d7718106" md5="ddbf72d8a91751ad879b256f2f1a0720" sha1="f94ce659f12f537a3c0e8e77862333dbc9fd2d72" />
+		<rom name="READNSM1.TX_" size="176" crc="83b36eba" md5="1da2a4c3ae2abc0eb05537bcfc2f25f3" sha1="66b11fc43d70659cb01622b279f472a6a8d80624" />
+		<rom name="SEC_ACTF.EX_" size="52699" crc="6ed9e480" md5="486a985a85f7641fcc5edd33d93d13ac" sha1="3235007b238ce6e5e6b9c5d12881b7b3f7c93167" />
+	</machine>
+	<machine name="Module - NSE-5 Support Module ASMTC 241.09.00">
+		<description>Module - NSE-5 Support Module ASMTC 241.09.00</description>
+		<rom name="nse5serv.exe" size="934854" crc="0bb31bf7" md5="271e06f75478b6351a51934866ed73b3" sha1="600c00d0bdb5189af3065cfe9c28e2eaa590c692" />
+	</machine>
+	<machine name="Module - NSE-5 Support Module ASMTC 271.02.00">
+		<description>Module - NSE-5 Support Module ASMTC 271.02.00</description>
+		<rom name="nse5serv.exe" size="960253" crc="2646fd54" md5="de03542665c6495085a3820841bd0a9e" sha1="e2c94695582ced03368c61af60df5430c37ba517" />
+	</machine>
+	<machine name="Module - NSE-89 AMSMTC DLL 241.03.00">
+		<description>Module - NSE-89 AMSMTC DLL 241.03.00</description>
+		<rom name="NSE89.EXE" size="926520" crc="bc01a5ac" md5="458f649911bd2cfcc79d1ca956a068d7" sha1="4c4c3567e7b4f0343ae2e96462604ba4b44845c0" />
+	</machine>
+	<machine name="Module - NSEK-3 DLLs 1.75.50">
+		<description>Module - NSEK-3 DLLs 1.75.50</description>
+		<rom name="CB_MMT.DL_" size="7773" crc="9fef579b" md5="fe76d065f84685ff31a62b7c6ec57e5c" sha1="04348a8099c9895c05ddc19d244f3e145ae19314" />
+		<rom name="FIMAIN.EX_" size="71911" crc="3af9bbd2" md5="8a1a40f022b9ffbfd16e5b2c09a688a8" sha1="dfb43f89648f6fc40dd539f2c3e3b90d88d469ad" />
+		<rom name="FPI.DL_" size="38072" crc="19c660ae" md5="eecb0d7920a9b5c85dc8c291f5fba0c0" sha1="b21cabd773ac8385cd49ffe74f4efe10086ed18d" />
+		<rom name="INSTALL.EXE" size="35344" crc="881f342f" md5="6fcc5eb36c007420c7162e2c94fb3a0c" sha1="c9a9869f55e83c27b233de98aa95e3edcd1cb512" />
+		<rom name="INSTALL.HL_" size="6818" crc="9ebd863d" md5="9117ad1d919a107f420c1f9d29f44c1a" sha1="7ed1cdc5e04733e42777e158346d3ed85d92a71d" />
+		<rom name="LZPUNZ.DLL" size="19984" crc="92f6c22d" md5="b8dc8a87ee9f4444e4d3ff56454533fb" sha1="32d05b5e189c50a51784360ff6dbba8a72156284" />
+		<rom name="NSEK13.DL_" size="168661" crc="44370ac9" md5="b66351ccafb2ecb11dabca6fcdaffe94" sha1="8c25501b5b732a25b140cea6dd8f178e3c17e922" />
+		<rom name="NSEK13EN.DL_" size="133128" crc="e05473d6" md5="83c293baf825eb07646bbe9f875d26b0" sha1="33c0eebf19707f196441fa061f6df7a69a75856a" />
+		<rom name="NSEK13EN.HL_" size="47219" crc="35c10bcc" md5="cbff984955ef3ce83d96aeeaae2552ff" sha1="9f42bb651d6095622c5b5457fca5111607561e00" />
+		<rom name="NSEK13EN.VA_" size="362" crc="a183c565" md5="c134abd34b70327bf69027c17a6801fa" sha1="ba45d6fceceeb95cffad7e7b1c8b9db8d06d2d85" />
+		<rom name="SEC_ACTF.EX_" size="52699" crc="6ed9e480" md5="486a985a85f7641fcc5edd33d93d13ac" sha1="3235007b238ce6e5e6b9c5d12881b7b3f7c93167" />
+	</machine>
+	<machine name="Module - NSW NSC DLLs 2.63">
+		<description>Module - NSW NSC DLLs 2.63</description>
+		<rom name="nscw_263.exe" size="910591" crc="7e8045d8" md5="765fb216d4b19140499ff8c29b06a56e" sha1="12a34e3e68ad6db0e584a618b1e09ebf597a2065" />
+	</machine>
+	<machine name="Module - NSW NSC DLLs Installer 2.40">
+		<description>Module - NSW NSC DLLs Installer 2.40</description>
+		<rom name="FILE_ID.DIZ" size="493" crc="be179d4e" md5="bf7eafd2c60c1ddbc67e637594989fea" sha1="bf1024c3d967c8ecf2a47b835dd26971bb90196a" />
+		<rom name="nscw_240.exe" size="664355" crc="79543130" md5="54ffdbd8decd2c1083f96ac149cd1a6c" sha1="59ce6208492298bc8565759c2372d451000c8f1b" />
+		<rom name="ROYAL.NFO" size="14971" crc="ba213782" md5="854809fb2cbafa02ec393aa4fe43f004" sha1="9e1f413dcf9e08b972010092d4afc1c1eaa0555d" />
+	</machine>
+	<machine name="Module - NSW-5 DLLs Installer 1.2">
+		<description>Module - NSW-5 DLLs Installer 1.2</description>
+		<rom name="FILE_ID.DIZ" size="491" crc="08e99a2d" md5="37f839a7ca42df61088320d09e0c50c5" sha1="45b05c942005f96a728e8ee7745d8cc392ff3dbe" />
+		<rom name="nsw5_12.exe" size="683585" crc="0caa147a" md5="5de144fa97dfe0bccd6e28b98e66119e" sha1="02e07ea53dab441a2082752bb95cb7cd25b0d7b0" />
+		<rom name="ROYAL.NFO" size="14971" crc="8617b9b9" md5="001d707e3941de5b00a89e27a5819f7e" sha1="f7f7a7acb2044b0e2725bfe13f3e2e0b1cebc4d5" />
+	</machine>
+	<machine name="Module - PPC Database Installation 2.1">
+		<description>Module - PPC Database Installation 2.1</description>
+		<rom name="FILE_ID.DIZ" size="502" crc="cd3fe3b2" md5="fd2171b3bf9f7aff57753ebcc6d48850" sha1="039e8d4d12ab6cae4e1c1cb52fbfa60caad9c6cf" />
+		<rom name="ppcdbinst.exe" size="4877312" crc="f663f8f7" md5="6b1c1474d369c047d4879b4c3d16c915" sha1="e6419651adf5cb50b724534cf98875ba96ff0d35" />
+		<rom name="ROYAL.NFO" size="14971" crc="ad86d741" md5="8a9d47994ce010c0eb996464d3ba4d4b" sha1="6165ca70301f602c66240454e91856b2fec48777" />
+	</machine>
+	<machine name="Module - RAE-3 Product DLLs 4.00.00">
+		<description>Module - RAE-3 Product DLLs 4.00.00</description>
+		<rom name="Disk1\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Disk1\_inst16.ex_" size="289647" crc="0f56151e" md5="75d7141e8ef8320a8cc9b0dcd430f3fc" sha1="118b25b4ab4ab7fbbd7334688c06ed87fb249f97" />
+		<rom name="Disk1\_inst32i.ex_" size="296674" crc="dc986f18" md5="6229a86a1d291c311da49a7d69a49a1f" sha1="586254e13d8ffdd956f1fb4e6ce858b91a390864" />
+		<rom name="Disk1\_ISDel.exe" size="8704" crc="d4529492" md5="cea5694ec1e700f3900b84fc667b9d94" sha1="d2a672e9776a7372c45427b5426bdefd7184b3dc" />
+		<rom name="Disk1\_setup.dll" size="11264" crc="90f5976f" md5="efe724392ecd07317daf5268d5dc56e9" sha1="9746c820d5b73848cb7e987ffc93deed23ab1b7a" />
+		<rom name="Disk1\_sys1.cab" size="358152" crc="03d2ac6e" md5="e8bc920d556ad525f62fb73329b0fc3b" sha1="d38ab269fdf18059eaa78bb631d19c33d9d9ac39" />
+		<rom name="Disk1\_sys1.hdr" size="4569" crc="ffd9531d" md5="433e95a5121cec4473022809eb6e5f32" sha1="7682e128858e2e445d52fc372e8e5466d404b72d" />
+		<rom name="Disk1\_user1.cab" size="954" crc="9c4d0592" md5="b68bc0e1cbbd9687b355fba28ec7bddc" sha1="890a95c6e92a5eeacc2f424e330b0cbb2c99b8db" />
+		<rom name="Disk1\_user1.hdr" size="4851" crc="69384ff2" md5="b4d617eb63303d3234f536673c019bed" sha1="72b0a8afac6706e3ea6147d1c481494b9c22f480" />
+		<rom name="Disk1\DATA.TAG" size="134" crc="2c9fbd20" md5="095bcd08a458e79c8adf0925f52d969b" sha1="c15e59b156853133a7f228c58486ae0b63409aed" />
+		<rom name="Disk1\data1.cab" size="921188" crc="431f7a03" md5="365ee5d1e3b89bea88ff313c65871fac" sha1="514040535afb01cb78b078ae5418abc8aa4e1d2d" />
+		<rom name="Disk1\data1.hdr" size="5556" crc="f01d3070" md5="1c496c6f90077eefbc390ab6e4a41d6e" sha1="e89482df79db5e623f51b6027f853c0c0c519375" />
+		<rom name="Disk1\lang.dat" size="23541" crc="8ef0daef" md5="70627bd56fe92a5c97027cbbd88bacd0" sha1="9cbdb75947dc561c929b0e799cf022961a7fe074" />
+		<rom name="Disk1\layout.bin" size="611" crc="a08626ad" md5="2f4ffee193af8981dcb21f92f8e5614d" sha1="2ecd6684f0ddc3c95619035ce566c58b7fde6d96" />
+		<rom name="Disk1\os.dat" size="450" crc="2d71e76e" md5="478f65a0b922b6ba0a6ce99e1d15c336" sha1="577bb092378b8e4522eff40335ff7a50040170b7" />
+		<rom name="Disk1\rae3rel.txt" size="10622" crc="8850bbd8" md5="c39d41042f7b0a423db4f95cda724f43" sha1="72f5439cbb78ba845a5c1fe958f8a0cad63767b7" />
+		<rom name="Disk1\Setup.exe" size="61440" crc="73edc657" md5="2b399885b48a0239d4b0480ec3e00c5e" sha1="bbd5891297f1f0419332e7838d13c7695f8d89a4" />
+		<rom name="Disk1\SETUP.INI" size="127" crc="bb007524" md5="eca9a132f4ec1ec775c4a27353e37168" sha1="c58301fd89220f50e5af7eaf80ff734c8f456118" />
+		<rom name="Disk1\setup.ins" size="66147" crc="0250828c" md5="47f6130c735444cc93f2b6b7c51487c6" sha1="fe5b4c85e1d09bd2b491688a12275675fe48108b" />
+		<rom name="Disk1\setup.lid" size="49" crc="3637907d" md5="1b79748e93a541cc1590505b6c72828a" sha1="1ddefee04dc9e9b2576dc34eebcfa3de4aa82af9" />
+		<rom name="FILE_ID.DIZ" size="504" crc="544d96bc" md5="2b2d485dab4cfd45320986438a9afb2c" sha1="baa15d58a903100b6c5771d7fa2681cf8afb8108" />
+		<rom name="ROYAL.NFO" size="15207" crc="6b101b6a" md5="c4b121f58936e2ca56b65d7aa8a457a0" sha1="1a63f117b0c1f7fba5acce583550a5b89718f964" />
+	</machine>
+	<machine name="Module - RPM-1 Product DLLs 6.00 &amp; HW Test DLLs 2.00">
+		<description>Module - RPM-1 Product DLLs 6.00 &amp; HW Test DLLs 2.00</description>
+		<rom name="Disk1\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="Disk1\_inst16.ex_" size="289647" crc="0f56151e" md5="75d7141e8ef8320a8cc9b0dcd430f3fc" sha1="118b25b4ab4ab7fbbd7334688c06ed87fb249f97" />
+		<rom name="Disk1\_inst32i.ex_" size="296674" crc="dc986f18" md5="6229a86a1d291c311da49a7d69a49a1f" sha1="586254e13d8ffdd956f1fb4e6ce858b91a390864" />
+		<rom name="Disk1\_ISDel.exe" size="8704" crc="d4529492" md5="cea5694ec1e700f3900b84fc667b9d94" sha1="d2a672e9776a7372c45427b5426bdefd7184b3dc" />
+		<rom name="Disk1\_setup.dll" size="11264" crc="90f5976f" md5="efe724392ecd07317daf5268d5dc56e9" sha1="9746c820d5b73848cb7e987ffc93deed23ab1b7a" />
+		<rom name="Disk1\_sys1.cab" size="358152" crc="c7d62bb0" md5="71a91a20995ea91f0c00f9d72d45cdc9" sha1="00bec5322d462a3595cd6d859cdd1fce2c29659e" />
+		<rom name="Disk1\_sys1.hdr" size="4569" crc="05d6da4b" md5="425f0928a58a61c16b6d1f78616635ee" sha1="41b158db4524a666fedca5c125a04684da82cee4" />
+		<rom name="Disk1\_user1.cab" size="962" crc="b0f4bde9" md5="dd91726103d79bb9aa645a135ee9aa1a" sha1="90f0ec4839670668b74264a85118f8f12426daf7" />
+		<rom name="Disk1\_user1.hdr" size="4851" crc="968aab26" md5="187feeebb9ab9d5c47c3906bcf0e871f" sha1="677004d3d6260d98dd48e06cbb57552e110eb266" />
+		<rom name="Disk1\DATA.TAG" size="118" crc="3ebb0a7e" md5="04062fc3a6ebe819231fade3b64248ca" sha1="02eed63365583a7629915260a4e2d867abea62a7" />
+		<rom name="Disk1\data1.cab" size="311391" crc="6aee8a0f" md5="3cd72689c09e19a6b90f1f9479bb88d8" sha1="6c79c4f7fbac0844bb5a169059b62b72f3ef2736" />
+		<rom name="Disk1\data1.hdr" size="7082" crc="e198717f" md5="cb83abf3a58e8a1eb10cb3b3cca43472" sha1="e4b2327aa5e22060719aa9522cd13d7d5d2d28e1" />
+		<rom name="Disk1\lang.dat" size="23541" crc="8ef0daef" md5="70627bd56fe92a5c97027cbbd88bacd0" sha1="9cbdb75947dc561c929b0e799cf022961a7fe074" />
+		<rom name="Disk1\layout.bin" size="652" crc="a58fe44d" md5="aae63812d4a471177ce436a704b4b6ec" sha1="d4e15a306eecb8ac144d0a29fff6a3408126f08f" />
+		<rom name="Disk1\os.dat" size="450" crc="2d71e76e" md5="478f65a0b922b6ba0a6ce99e1d15c336" sha1="577bb092378b8e4522eff40335ff7a50040170b7" />
+		<rom name="Disk1\Setup.exe" size="61440" crc="73edc657" md5="2b399885b48a0239d4b0480ec3e00c5e" sha1="bbd5891297f1f0419332e7838d13c7695f8d89a4" />
+		<rom name="Disk1\SETUP.INI" size="119" crc="f336dfa1" md5="557e5082f24f6aec17e6868151b2cd92" sha1="10910b7ec2324f5fc77f21cce8a0cc239cc83a4e" />
+		<rom name="Disk1\setup.ins" size="59759" crc="1c4dfc7f" md5="ae2d49d6dbf9917ded6150f984efff97" sha1="8fb31258a9a906489794d36eccf54f5cae654555" />
+		<rom name="Disk1\setup.lid" size="49" crc="3637907d" md5="1b79748e93a541cc1590505b6c72828a" sha1="1ddefee04dc9e9b2576dc34eebcfa3de4aa82af9" />
+		<rom name="disk2\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="disk2\data2.cab" size="695162" crc="49b35a22" md5="bb2c8191fce81cb40cc81a73957a18a5" sha1="bdfb4c4bbdb0b3335d82073b0b16e7ebf4cc111f" />
+		<rom name="disk2\rpmasrel.txt" size="13620" crc="47070a73" md5="43d3d44370236e30ba50a64032638b14" sha1="7062437c38b9e979c1316c72b57142d5559bbf23" />
+		<rom name="disk2\rpmhwrel.txt" size="2602" crc="23bcbfd2" md5="38515451cda6447cc7368bedacd6eafe" sha1="071d90504a487dd524a81c5ad252d92e30d4bf29" />
+		<rom name="FILE_ID.DIZ" size="497" crc="91748fa1" md5="f92c6175b53baf8c92cc7189f700f31e" sha1="486279da314be4efea6fa9771b1d59f08b0e7638" />
+		<rom name="ROYAL.NFO" size="15681" crc="c62c62c3" md5="572c9fe2914cd2dc3a2783e3de95215a" sha1="0d924a8c198e5ff0263a9e7c107b4ed43263aef3" />
+	</machine>
+	<machine name="WinTesla 4.3">
+		<description>WinTesla 4.3</description>
+		<rom name="BanpaiA.Settings" size="124" crc="5bc9a7f9" md5="bdb7c5df6ce0adbe0f95a94c7e41045c" sha1="8193f174b5323962e0892bd3a69055da882069f4" />
+		<rom name="Bc453rtl.dl_" size="86010" crc="22526cd7" md5="c8a4367cd78b694dbcc8930b0797910b" sha1="ad1927de004d0e1c886efed997bfc970a2458b64" />
+		<rom name="BIDS47.DL_" size="23339" crc="955b4b6c" md5="bfbf61aca6e518d4b3f1d4f494c78e1c" sha1="d9d633db5f094829c6b1c71ea3d2675825dc6584" />
+		<rom name="BWCC.DL_" size="43689" crc="5a4336e9" md5="f2ca09218a2b3ba545b3c60a06d58a51" sha1="0517372576954d8d093ae0a5c3fc24242072effa" />
+		<rom name="CTL3DV2.DL_" size="11800" crc="e27f0327" md5="bf05193f46ef17349be5aeb7d7caa75c" sha1="180b9116288526f34c5b3607e09df64c8bb5e332" />
+		<rom name="DK2.38_" size="3038" crc="bbd41b26" md5="fe8c828d10fdf7424dd86b41c1e8e114" sha1="a955900e6a24b28e40dd5a0ee589d3aa38199683" />
+		<rom name="DK2WIN16.DL_" size="4576" crc="2cdc54fd" md5="910eb640cd98a62d0b4d5cc45db5025d" sha1="c883dcda0f940643f5e746e63503b436c16c347f" />
+		<rom name="FAULTEN.VA_" size="1935" crc="1c5e9b82" md5="c6f85014244d7e9326d3c06fa102803f" sha1="e4ca42159b5b6a531db6cdada5b0cff7ed07c73c" />
+		<rom name="FIMAIN.EX_" size="77526" crc="69154035" md5="09aea046f221ca85aaed0f0e2b198b55" sha1="2fe00b95718b60e0cf6c522ef03b8df5f29bc65a" />
+		<rom name="FPS4.DL_" size="39812" crc="1af74d53" md5="a82876385d677015b2f24dc2f40e51f3" sha1="710a14f3c405fd6eb0d81d3093f94d46dbfe5bbc" />
+		<rom name="GPIBEN.DL_" size="38643" crc="376029be" md5="9c7328fc203373432da23b8ef29ccad6" sha1="241601cb1d1dd14feff5b142629b7ef75be6fb70" />
+		<rom name="INSTALL.EXE" size="35344" crc="c59c6a47" md5="cfbbb2ec4766d6f91be8b1af1f123a0e" sha1="1985dbb4340190e865cb7509717df5a56d9757b4" />
+		<rom name="INSTALL.HL_" size="6818" crc="9ebd863d" md5="9117ad1d919a107f420c1f9d29f44c1a" sha1="7ed1cdc5e04733e42777e158346d3ed85d92a71d" />
+		<rom name="LZPUNZ.DLL" size="19984" crc="92f6c22d" md5="b8dc8a87ee9f4444e4d3ff56454533fb" sha1="32d05b5e189c50a51784360ff6dbba8a72156284" />
+		<rom name="OBJ.TX_" size="101" crc="5a965585" md5="67a5a0fd46c01ed0b546b1d1353367cd" sha1="998796f9aa7b32ac11c0e7d577ac2733c925e6a7" />
+		<rom name="OP_ID.VA_" size="504" crc="73c32402" md5="6e4fbf6db862564d9df50fd083ee969e" sha1="2a489f1e05d7fea3bf446e2fd891a0117adff255" />
+		<rom name="OWL253.DL_" size="200894" crc="6cecf9ae" md5="4924c05cac667264c12811bbabed6fc8" sha1="6c1313f328a09eb723ce7a0780ae44ffbcef83dc" />
+		<rom name="PCB_MMT.DL_" size="14462" crc="64459668" md5="40bc02f8594db8c634509c866f3da7b2" sha1="ce5d24fe48be2700c4c97d8c6a09189c153dbc15" />
+		<rom name="TESLA.IN_" size="260" crc="44528af4" md5="69c3d1601c3e89eaf65f5cd9b350506a" sha1="480c6ab82bbefc155bc37b42c78d51ecbab6f51b" />
+		<rom name="UICMNEN.DL_" size="9451" crc="506232c8" md5="5fce985655eb6507dee03f63dcd31f69" sha1="1a1d2b57087c525755d00121291c3c90fed14a45" />
+		<rom name="UIFPS4EN.DL_" size="4461" crc="21078d3c" md5="7d79b29372a52844c21ffc45c344e02a" sha1="82c23ae5309573dfada55e60f7eceefd58157ee4" />
+		<rom name="WINTESLA.EX_" size="92800" crc="23ab0ee0" md5="96ba92052993bb964df914ac9a70b8e4" sha1="f3539a826e31e7913c7ae685d28a36842421e643" />
+		<rom name="WTHLPEN.HL_" size="22025" crc="943150f3" md5="41322f59037a8d699e83b01136debbb8" sha1="6f1e396c173a72c3ed3af30c975716fa2a425b38" />
+	</machine>
+	<machine name="WinTesla 5.31">
+		<description>WinTesla 5.31</description>
+		<rom name="WT531.EXE" size="829175" crc="d6c7ade2" md5="e0ae7a84207a9ca51fb9297316a10ed7" sha1="61982334208eaaebb839ea8ed27060fa5a0d67a0" />
+	</machine>
+	<machine name="WinTesla 5.38">
+		<description>WinTesla 5.38</description>
+		<rom name="Wt_v538.exe" size="879336" crc="e9ba3859" md5="a3ff924b0df83dcf630cb61cf38e3854" sha1="e0173f1c1e82e4e3c6c36b84651b3a58fa1868f2" />
+	</machine>
+	<machine name="WinTesla 6.03">
+		<description>WinTesla 6.03</description>
+		<rom name="WT603.EXE" size="952665" crc="9e87135b" md5="6d7c3169f7bad8986fc2507e9e3c7d58" sha1="fcc3be029f40b7e07c3ef6003d1e54b2bea36bca" />
+	</machine>
+	<machine name="WinTesla 6.10">
+		<description>WinTesla 6.10</description>
+		<rom name="W610.exe" size="1044820" crc="efb7b514" md5="ffc7c451cd30f45b655ea0a056c528b7" sha1="faff715d5d09ed557f7028f4ef1829b7f89e417d" />
+		<rom name="WinTesla_610.doc" size="41472" crc="9c6dea50" md5="e5ae797550b26ccb6a64a02bf959fcb8" sha1="e563fedd7e090e77b2da6df83cde865a14390a81" />
+	</machine>
+	<machine name="WinTesla 6.43">
+		<description>WinTesla 6.43</description>
+		<rom name="wt_inst643.exe" size="1050407" crc="ea25a7af" md5="b340b25dc3ecf58be235a7a956b7776f" sha1="3d1028c5500df5a0ba37b65e013598b4e974fb4f" />
+	</machine>
+	<machine name="WinTesla 6.46">
+		<description>WinTesla 6.46</description>
+		<rom name="wt_inst-Oct05-092010.exe" size="4364419" crc="0741ed53" md5="48f8380853151525136b21d670479d16" sha1="3f46b95c4fd8f3984d46a0e62372e0702b5c6a1f" />
+	</machine>
+	<machine name="WinTesla 6.48.001">
+		<description>WinTesla 6.48.001</description>
+		<rom name="WT_Inst-6.48.001_Nov01-102041.exe" size="5529610" crc="f91becee" md5="5a3648e7d87dcfa168a4071f2055cbe2" sha1="8646a7eb08ebf3429bb1fe6e82b992f53cff888a" />
+	</machine>
+	<machine name="WinTesla 6.48.003">
+		<description>WinTesla 6.48.003</description>
+		<rom name="WT_Inst-6.48.003.exe" size="5990476" crc="69226286" md5="f32f9ec5d823523bf570e7339e2215aa" sha1="289aa302528430aaa9d4b9cbc995c2f2a0cb262d" />
+	</machine>
+	<machine name="WinTesla 6.50">
+		<description>WinTesla 6.50</description>
+		<rom name="WT_Inst_6.50.exe" size="5990634" crc="ebaf5634" md5="4300ea22a69c73d71164571988a668a4" sha1="cf0e6776a9caf620ad670f882ddac7e4e1a773e9" />
+	</machine>
+</datafile>
