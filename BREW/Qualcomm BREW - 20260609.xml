@@ -6,8 +6,8 @@
 		<name>Qualcomm BREW - Games</name>
 		<description>Qualcomm BREW - Games</description>
 		<category>Standard DatFile</category>
-		<version>20260608</version>
-		<date>2026-06-08</date>
+		<version>20260609</version>
+		<date>2026-06-09</date>
 		<author>t23</author>
 		<email></email>
 		<homepage></homepage>
@@ -994,5 +994,222 @@
 		<rom name="Zuma240.mif" size="6669" crc="81f3fac3" md5="68a373bccc87cb4523ceaba8dc2909c4" sha1="e2e9a3bb9e99e82621ead2cc6b03e6aa908220ad" />
 		<rom name="Zuma240\zuma.bar" size="669470" crc="0055fa55" md5="da1278c9df8b026843b67979803dcdeb" sha1="fa11616fe2bd9167cdb193dec48fb1f271397dd9" />
 		<rom name="Zuma240\zuma.mod" size="98880" crc="226d13bc" md5="c504ec92285972a8adbd593511f4c50d" sha1="3e95b6f3433e84c995c76b076d258557be3b543c" />
+	</machine>
+	<machine name="Alien vs Predator 3D v1.1.1 (2006, FOX, Superscape)[ID 01034789]">
+		<description>Alien vs Predator 3D v1.1.1 (2006, FOX, Superscape)[ID 01034789]</description>
+		<rom name="avp3d.mif" size="7348" crc="6dbaa0a2" md5="f38d71e591f060bc272b2e7667c87b21" sha1="29808dc573b5ae61db875769a2d608d84b91a4b0" />
+		<rom name="avp3d\avp3d.asc" size="38888" crc="93c5fa44" md5="3b3b5ab492181de9fb0633a5e837f80c" sha1="d3dd2767e14d2d37da60bb64056a30eedb7b3708" />
+		<rom name="avp3d\avp3d.asd" size="31339" crc="ed09f61d" md5="a328b654c2f70a0e64b266e07a9eff28" sha1="4062e18c9c4bd212d34ccee8ac05d753eb949475" />
+		<rom name="avp3d\avp3d.bar" size="872947" crc="871e49be" md5="75c5271307ebe738a14e2b2aff5dd5f4" sha1="b673f4d92a28a629c7d725e844982406179d351f" />
+		<rom name="avp3d\avp3d.mod" size="164928" crc="880449c5" md5="b100dbf3ba0fc2889d58bf007c8fb3f1" sha1="412ed8bdbc907e6d822778b5021b168310b71574" />
+		<rom name="avp3d\avp3d.pck" size="69" crc="1de3db57" md5="d757d3acce43a6c93d38714fcc79f7df" sha1="5263f4cab3cfd00f587752a63ae9702f0c78e7fb" />
+		<rom name="avp3d\avp3d.set" size="67" crc="99a4b402" md5="b84a2a62c8aaa3a68aa4c91ee4faa442" sha1="3bd1e4182046b7bd5bc11635a3adc8005f5afcfd" />
+		<rom name="avp3d\avp3d.st" size="8" crc="a6460a65" md5="a69d116166b7ac5776b222afc83d8ff9" sha1="c67831bb07cf1825851204dec432b8a10421c1d8" />
+		<rom name="avp3d\en.stt" size="5968" crc="d709de65" md5="a66d9e1b5fc247e1bb5677d7a7ce531c" sha1="977d2128667cb75873a717daadeaee431d6e5abf" />
+		<rom name="avp3d\level.bar" size="433261" crc="bddf30c2" md5="990d7945f9683437c9c32aa78f1a77ca" sha1="58c5aec082c0640ffaa05f4999886b17fb1edadf" />
+		<rom name="dll_iswerve_2-2-422_565.mif" size="236" crc="836959bd" md5="384a5004b8cc894542ab00b56134eccd" sha1="f21c46472076235303e093d37c63f84bb363583c" />
+		<rom name="dll_iswerve_2-2-422_565\iswerve_2-2-422_565.mod" size="282116" crc="8735b486" md5="dad1b04bb3488b62d56fb81e04b795c6" sha1="217f7ac2fb5a06cc500be701af3f772e8852790d" />
+	</machine>
+	<machine name="BioShock 3D v1.6.1.5 (Indiagames)[ID 01090059]">
+		<description>BioShock 3D v1.6.1.5 (Indiagames)[ID 01090059]</description>
+		<rom name="bio3d.mif" size="4102" crc="23125b0b" md5="8319127eafe3f34442d17b9763607a73" sha1="249df6e036dd39ac2356ecbb5cefaaa01fc13e16" />
+		<rom name="bio3d\bio1.dat" size="2808340" crc="00cd0435" md5="77cc2dede3c30501196555fc40b571b4" sha1="0f6584322cdbdc854d34d4101e2c1c5c448f1569" />
+		<rom name="bio3d\bio2.dat" size="2318641" crc="74891d9d" md5="aad54542522e332b1dbcc3274b27624b" sha1="e788a8015f53c7255436af8b71b415f212b9638a" />
+		<rom name="bio3d\bio3.dat" size="906124" crc="3914bd86" md5="21d9f262799400c2b1fc7fac4efdbc94" sha1="121e38d518d55b08f784e8670a8a05bbbca05c6d" />
+		<rom name="bio3d\bio3d.idx" size="156" crc="e939ff34" md5="17a62a8e0eb6df05b36577c2cedda57d" sha1="4a36f55d55271cb879dae338b49c0ca3bf8f0509" />
+		<rom name="bio3d\bio3d.mod" size="1238336" crc="d2e50b5e" md5="7a1340fc8731878ba16c088fd3d5c904" sha1="487016708047cb2b20c3b86b46bf1aac8b6d8ea0" />
+		<rom name="bio3d\bio4.dat" size="1078801" crc="61fde165" md5="94a31045186aa7f9cae04c2a1ec3c6db" sha1="d257abf9586b450d54eac969faf2de9dc02e62a0" />
+		<rom name="bio3d\bio5.dat" size="39805" crc="664aaa9e" md5="a4a7f0b23f269afc9e396ecb47e6e504" sha1="46ff66d9c2c0eedd4e7695dfe1abf861676b3cee" />
+		<rom name="bio3d\bio6.dat" size="1045932" crc="44841395" md5="0432fe18d10a2b5ca8d00b8f000c4716" sha1="0053a55316815e0c1f2ccb04a3767bf6cd226b7f" />
+		<rom name="bio3d\bio7.dat" size="781702" crc="281a1a23" md5="fa2e53113640c361007a797a0d5fd9f1" sha1="856bcf832dcf45f7951b1a99abf85f0b7679a296" />
+	</machine>
+	<machine name="Camera Phone Darts (2007, GOSUB 60)[ID 010466E2][b]">
+		<description>Camera Phone Darts (2007, GOSUB 60)[ID 010466E2][b]</description>
+		<rom name="cameraphonedarts.mif" size="3492" crc="645d79cc" md5="fa8e4e17cccb9a051f1d0c91d4a8cee8" sha1="39ee1371955f81c388e4b186dbdf2f8b9988e081" />
+		<rom name="cameraphonedarts\downloaded_color.bar" size="47399" crc="6e891582" md5="e3c16b1581c94f5b42af55715f91170d" sha1="4cf85295bb46f4c5dc69d03bbcf0c533a9e1b1eb" />
+		<rom name="cameraphonedarts\gs60cpd.mod" size="107296" crc="3a79091b" md5="05a4237e7e7c9b1c253b8a53008d2c7c" sha1="719182afceb49a7e5da59fa01db5385af3b5daf5" />
+		<rom name="cameraphonedarts\gs60cpd_color.bar" size="91399" crc="9240d8c4" md5="f9a599aea5ce188230cb448140343b66" sha1="86991863691bc1c55235cfc111c304b693c66ef5" />
+		<rom name="cameraphonedarts\gs60cpd_env.bar" size="329567" crc="cebf9912" md5="811143972c164c9e43c78f1109439785" sha1="76f0374c4a5c9b093449f02dc653d1a63600e569" />
+		<rom name="cameraphonedarts\gs60cpd_sound.bar" size="26133" crc="e0b60e45" md5="8574265f33693a1f6c41df4a8fa7ae12" sha1="758c6b7208ac4f47cb58de2789e8a3a5422d61e1" />
+		<rom name="cameraphonedarts\gs60cpd_text.bar" size="22279" crc="96a36735" md5="bad56377e50b5074f860875a577c0484" sha1="bf1ec66317906e5560d0873222bd668b87873d79" />
+		<rom name="dll_eyemocamera.mif" size="266" crc="5099dfa0" md5="fae912929490b418a8ec0ecceaef807f" sha1="82130bbdba68bc0f774d9d056b0388664742c56f" />
+		<rom name="dll_eyemocamera\eyemocamera.mod" size="22868" crc="f8ed4064" md5="7c45f4433280c278b47eb9e9dcdf33ec" sha1="ac5988d0c44725c94cffed24ea0598189d9567d1" />
+		<rom name="dll_eyemorocknroll.mif" size="250" crc="284f6aa9" md5="6cc5c3058302cbdd481b7e2ae9e9db84" sha1="fbf35923083058282aa65e0f3ec2f75a6bba355c" />
+		<rom name="dll_eyemorocknroll\eyemorocknroll.mod" size="19280" crc="f6271af0" md5="1efd3abbca65801ace3c859429f5c845" sha1="428a02bbb9a74dc621735a41541d8c49e61c4591" />
+		<rom name="dll_gcx.mif" size="161" crc="3ecdcfbf" md5="1b47ca50875bcf05668ea323ea4dd777" sha1="c6ee3e8fee1e0c744090b62c21d52a0bd6b0482c" />
+		<rom name="dll_gcx\gcx.mod" size="26864" crc="240dac3f" md5="3978262b0b64216300c0b9ab75309566" sha1="3d07f9925fa57ec6dd727f8f529fac2a6167ba38" />
+		<rom name="dll_iswerve_2-2-422_565.mif" size="236" crc="836959bd" md5="384a5004b8cc894542ab00b56134eccd" sha1="f21c46472076235303e093d37c63f84bb363583c" />
+		<rom name="dll_iswerve_2-2-422_565\iswerve_2-2-422_565.mod" size="282116" crc="8735b486" md5="dad1b04bb3488b62d56fb81e04b795c6" sha1="217f7ac2fb5a06cc500be701af3f772e8852790d" />
+	</machine>
+	<machine name="Doodle Jump Deluxe v1.0.0e (2011, GameHouse)[ID 010DD279]">
+		<description>Doodle Jump Deluxe v1.0.0e (2011, GameHouse)[ID 010DD279]</description>
+		<rom name="doodlejump.mif" size="12747" crc="e4ea8a5e" md5="606ddc556dfbfa123e4179cfcff727ab" sha1="cb33d47153a3c4cff62a706800848cf4c8da1755" />
+		<rom name="doodlejump\doodlejump.bar" size="1157092" crc="aabeab63" md5="18670cddd02eaa8902eb071614d22b92" sha1="a25fb4f1fb163f55bca771652a8d24289f4ed235" />
+		<rom name="doodlejump\doodlejump.mod" size="139844" crc="9b7ed1c5" md5="3525b0bb88abd7834f8cec2ef406f3ef" sha1="ceb210806e450dc6a736c72fbf17a9269e111d86" />
+	</machine>
+	<machine name="DOOM 2 RPG v7.1.73 en.lgax830 (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.1.73 en.lgax830 (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="doom2rpg.mif" size="1544" crc="a1e75ca7" md5="4866010af18e7f3df381bb75cb7e255f" sha1="faf51b54d2ec71bf79777591ed7205d353972d8d" />
+		<rom name="doom2rpg\config.txt" size="33" crc="b3ebfd5a" md5="1895943c64d4d2d9b224b98d929d955c" sha1="89cd99c8aa641b315c67bdaef9b8f34291a94d19" />
+		<rom name="doom2rpg\doom2rpg.bar" size="2067532" crc="f078dbdc" md5="0d7971309a7c8b92f3f24846aeb3f075" sha1="48bb6a86d12654be210ef3eb70fcdde99f9983f7" />
+		<rom name="doom2rpg\doom2rpg.mod" size="373572" crc="11d7c40d" md5="6dd9eb05ae74f84fb5063c2abbf7eb6f" sha1="46a76674d0bb490c7440795f2de94bfce728aeb5" />
+	</machine>
+	<machine name="DOOM RPG v1.0.63b.en.mtv3c (2005, JAMDAT)[ID 01035893][b]">
+		<description>DOOM RPG v1.0.63b.en.mtv3c (2005, JAMDAT)[ID 01035893][b]</description>
+		<rom name="mif\doomrpg.mif" size="1090" crc="ed85d6e5" md5="02b0c3ee3c0463f60d36bc6ea3a7ebdf" sha1="a3952ee49fdee2bde980b715cdc1027af684a6ed" />
+		<rom name="mod\doomrpg\doomrpg.bar" size="548869" crc="d7cf11c5" md5="205627a14ec51cda44a3a2ca5374d080" sha1="d97b632ad0b3ae3c0cb60381979244a9381700d8" />
+		<rom name="mod\doomrpg\doomrpg.mod" size="156016" crc="d3cf89d6" md5="dc1cd21b40599bec336ddfac6647be4e" sha1="f414a5cd4e5a8fa54d37bc07dbdea437ba491cd6" />
+		<rom name="mod\doomrpg\doomrpg.sig" size="2626" crc="b752e4bb" md5="c6898699dc7723e3656c49eaa78833c2" sha1="168b728f0bdceabda045cad3ddc089c49e99ae24" />
+	</machine>
+	<machine name="Earthworm Jim v1.0.4 (2009, Gameloft)[ID 010941AA]">
+		<description>Earthworm Jim v1.0.4 (2009, Gameloft)[ID 010941AA]</description>
+		<rom name="earthwormjim.mif" size="5254" crc="2695b640" md5="8e172e4258cfedd66efd82574b6236e0" sha1="ba67eae08ed3f57532d6d49f67e08bdbfe4b1213" />
+		<rom name="earthwormjim\app.bar" size="489" crc="438ea766" md5="1ccdfbad98349c604ddb7a1b460c6c81" sha1="e1f5467ee0782aaa4d95b031d9870805ece7988f" />
+		<rom name="earthwormjim\data.bar" size="1117860" crc="78805e9f" md5="30499def3d7f53baa71e1db1447b7e2f" sha1="50cb080cb7874fd78369621e167302d14a4a2b21" />
+		<rom name="earthwormjim\gloftewji.mod" size="678304" crc="d4e5e1d3" md5="89b20953fd4547da8a5b4fa6714069a4" sha1="0d6dd8fb727a192aeeb1756159bb5bccc027b321" />
+		<rom name="earthwormjim\igp.bar" size="195562" crc="4be15cd3" md5="3109a2ec4e185ad99b972b76790b23bc" sha1="63659f7b392be5542140e64947597d6afca7449b" />
+		<rom name="earthwormjim\igpconf.bar" size="299" crc="97122c45" md5="f236be0ce4c9b343e6bb0c7e8bda6a71" sha1="ce60922ce1f0ff4795ee718c96a1ab98a8d8bdfc" />
+	</machine>
+	<machine name="Galaxy on Fire 3D v1.0.8 (2008, Fishlabs)[ID 62EDAEBA]">
+		<description>Galaxy on Fire 3D v1.0.8 (2008, Fishlabs)[ID 62EDAEBA]</description>
+		<rom name="gof3d.mif" size="7854" crc="e06121af" md5="e547f0bf2401b29f1b49f24090e6f536" sha1="58826f2b0aa22759e5d19fb59cf24d3df24ffad9" />
+		<rom name="gof3d\config.cfg" size="2450" crc="ed80c783" md5="13c3ada2a2336f0db9632b0b4094d967" sha1="c93dcf947497361d059593b6a2a17054d119e6a0" />
+		<rom name="gof3d\gof.mod" size="405408" crc="e67c6f6f" md5="72cec0882a69fab50834ec1cac7a2a9f" sha1="37d1ba85d83be1eec3a6b4350846515589e123c4" />
+		<rom name="gof3d\res.aez" size="1134924" crc="6dd33bec" md5="d544c0f845dd95a4a951985e2dcc088d" sha1="85c3e7b888372c66c8889f58e5b82f6c1836c24b" />
+	</machine>
+	<machine name="Heli Strike 3D v1.1.7 (2007, Fishlabs)[ID 12324EAB]">
+		<description>Heli Strike 3D v1.1.7 (2007, Fishlabs)[ID 12324EAB]</description>
+		<rom name="helistrike.mif" size="3767" crc="6ee80850" md5="45650eda108697577aae813b7447e0ba" sha1="317c8530e040f6d6192b8360be847b5227b3b54c" />
+		<rom name="helistrike\config.cfg" size="2538" crc="d99e5736" md5="bcb5bd791a3ae2ddb04e6b6b297efbf7" sha1="fab9ea13ba26272858990ebdd231330043cf4929" />
+		<rom name="helistrike\helistrike.mod" size="248496" crc="106aa803" md5="875a37216f373d03a15a5d948fd308d5" sha1="bea26cac35776f6deec1048bc89d50fd5c9de8da" />
+		<rom name="helistrike\res_hs_high.aez" size="720102" crc="5cade96e" md5="5a748b23ee8c2e9cf376f860cbbcb7b9" sha1="23c58cbd36f2361960f16316a3a8a8848f8ea4d0" />
+	</machine>
+	<machine name="Learn to Fly v1.0.64 (2011, Namco)[ID 0109A8A0]">
+		<description>Learn to Fly v1.0.64 (2011, Namco)[ID 0109A8A0]</description>
+		<rom name="learn2fly.mif" size="8413" crc="b3758864" md5="9706c77aaa52171c7aed13e6d6401b24" sha1="24574eee1edfc5f00caf2055c6145129c5ba1596" />
+		<rom name="learn2fly\config.bar" size="1676" crc="8572ee67" md5="20783a12c72be7bfd7ad0abbfa519cc6" sha1="983f89db9adf78082c848ef619e32ebfb73a7c94" />
+		<rom name="learn2fly\fn0.bar" size="9015" crc="ff718229" md5="9bd0d728055b1cc58fabf69910903bcf" sha1="0ee62035748b73eecbf9978325a86d27382c2332" />
+		<rom name="learn2fly\gmgset.bar" size="203" crc="b714b13e" md5="4f984e8e38919b68d0797ea621b06732" sha1="5f131003faeb140d8562c96ef2fd327de915f461" />
+		<rom name="learn2fly\i0.bar" size="45414" crc="e35e136f" md5="67b83831743a9ed927df3a9f2dde90d7" sha1="703298c05a7cf5f3069b2b18f28488a218672161" />
+		<rom name="learn2fly\i1.bar" size="37596" crc="b42489df" md5="3baca7a34305e183e382856585a78a0b" sha1="0cdea263ad76806eb0cd2013c7bee5d5b1e7d6d0" />
+		<rom name="learn2fly\i10.bar" size="21795" crc="9b3dc72f" md5="9878b4eb02d496c81ab108ba5a9cd6af" sha1="730148ebb16bee168db99e8512142145b2002e16" />
+		<rom name="learn2fly\i11.bar" size="590" crc="2ae1d2ab" md5="f113aa6282dca3197c3231c58cf37c82" sha1="4864289e00d558c24741d7a8abb5ae2329c5181c" />
+		<rom name="learn2fly\i12.bar" size="41061" crc="6784b202" md5="4a14233a0a1bd481c528a8c3e94a23eb" sha1="1578b505e8aaa56beb2d800b27e1c494c160116f" />
+		<rom name="learn2fly\i13.bar" size="39770" crc="00ee0330" md5="3521e89288e58db800a67f9e4df10f33" sha1="403e311834e061cc8c6604000e06594b6dec84fa" />
+		<rom name="learn2fly\i14.bar" size="44507" crc="866bae27" md5="1cd1d1ca0efef3bd6e548eca513aa543" sha1="81ce8677671b57f696588fe1cee26ee8331398e6" />
+		<rom name="learn2fly\i15.bar" size="10627" crc="fb048d2e" md5="853433f0bfa13d6adaf687a2be7850bc" sha1="a5252f4cce0f8f474e618b0c5423158b6a94631d" />
+		<rom name="learn2fly\i16.bar" size="11416" crc="647b7700" md5="6dc6e6d1cfdc1ec4a48f28122eb51440" sha1="97e293b9c5dc88d960e2a1aae83f98730883ccc0" />
+		<rom name="learn2fly\i17.bar" size="11731" crc="adb3e595" md5="f3874f38214d9d5f0338eb0066979d82" sha1="3cfe7c28438d4aa67aadbbe24cce7dc120f2e12d" />
+		<rom name="learn2fly\i18.bar" size="22056" crc="2d17101d" md5="8f38b3c3cbb571761d454dceb4aaebfb" sha1="56aa401c3efcd8bd27b57924c4b1261e43453da7" />
+		<rom name="learn2fly\i19.bar" size="1" crc="e96ccf45" md5="7215ee9c7d9dc229d2921a40e899ec5f" sha1="b858cb282617fb0956d960215c8e84d1ccf909c6" />
+		<rom name="learn2fly\i2.bar" size="47471" crc="3f6d5a62" md5="ded055be95edd8b77f6c9bd8a37d3edb" sha1="1cad6d2c7873a9e0bcb881843f89c82d49964b44" />
+		<rom name="learn2fly\i20.bar" size="10266" crc="83a3d982" md5="2eda2f4efe941bb9fdade4759b25eb0e" sha1="eae8e570c71666ec81128ba4ad5c232b226b8def" />
+		<rom name="learn2fly\i3.bar" size="2709" crc="fbc64c83" md5="f4daa8f0ac7432b99b3546f4c92ee8a3" sha1="3b85eabc37e4a534615cf28b39e1dda200def7a1" />
+		<rom name="learn2fly\i4.bar" size="13808" crc="865b0617" md5="544f2b3a722493ac49a8ebf847eba45e" sha1="99f77c624ba22e60a941667370a2aadf7cb5d921" />
+		<rom name="learn2fly\i5.bar" size="15128" crc="755f144b" md5="38eb993be8492cafb0d1e0931cc3a863" sha1="d8f3c35f20c66fa7543dcd76a9d4c08b053d36a5" />
+		<rom name="learn2fly\i6.bar" size="8889" crc="222253c5" md5="a1890e4857563085602d3762884bf6ec" sha1="98870b5e7c9285a1abb5757fc1791d7461a0d1cc" />
+		<rom name="learn2fly\i7.bar" size="7204" crc="b17cec70" md5="6e316cbb2f7ed6d8999bc85cb2b15d87" sha1="1f018568b1a07acba91dad55946799c4c5ec7992" />
+		<rom name="learn2fly\i8.bar" size="5539" crc="dac26039" md5="6feba05c17c45f18dd01fc14cddc9f56" sha1="5a3f4a7cc8264f479ab9ab4ee59d75b6ed7d7e0f" />
+		<rom name="learn2fly\i9.bar" size="13488" crc="8d26de24" md5="a8a208a8ce17b466b381a12bb736e883" sha1="0c5878613e13eef83fd1eb6290d1d890bcc63d50" />
+		<rom name="learn2fly\learn2fly.mod" size="121344" crc="d2c644bb" md5="4342631d471a0dde1f40f6a57f1624c4" sha1="b7111d8969ccb84ff8f5472af1206964573558c9" />
+		<rom name="learn2fly\s0.bar" size="743" crc="92ec9d3d" md5="5e886b149308639ed13f4998334db412" sha1="9527e2e1781a8e0275230bb6e0ecc7d95bfd78b5" />
+		<rom name="learn2fly\s1.bar" size="2233" crc="60149a85" md5="f5b6d3f6b1faa2a05b486a054fcd83e5" sha1="daee5a4c7b3ca9c19ee65bf70dc3a64a3753fac9" />
+		<rom name="learn2fly\s2.bar" size="4380" crc="6a0ceeb6" md5="3dd6f13e0b0d8c49627abe3cc11c88cf" sha1="b041f779d5badf59ca5baef704345ac22eba48ea" />
+		<rom name="learn2fly\s3.bar" size="10384" crc="9497f223" md5="c19d832c65ba78a73f8bd1c7f7138fcc" sha1="45a9fd7c0461fd0d36c72bec64f1222813312c60" />
+		<rom name="learn2fly\snd0.bar" size="204153" crc="d8654d2d" md5="131afd62a85829719b1c97ad1d27cbbd" sha1="58ff58aae565f2ca16b80eea51fd976be81ba15c" />
+		<rom name="learn2fly\txts0.bar" size="3418" crc="0210fcb1" md5="5319260f4d77d152c41e980e688aee2e" sha1="dddc3295dce405caa514b9153c7ee45c562cf43c" />
+	</machine>
+	<machine name="Need For Speed MW2 v4.1.79 en.cac751 (2010, Electronic Arts)[ID 0109F7C4]">
+		<description>Need For Speed MW2 v4.1.79 en.cac751 (2010, Electronic Arts)[ID 0109F7C4]</description>
+		<rom name="nfs11.mif" size="2492" crc="a923c289" md5="6e9a26277ae8b022c3d99bc380c2276c" sha1="d045e9ec8adec543e0656cd1e395d440f98d6be9" />
+		<rom name="nfs11\charmap" size="256" crc="b260c3e1" md5="fbe6a44a1f9b1d3de4e308059af12c65" sha1="98ba3190eb4de269cdcac434037d225fe20ccef5" />
+		<rom name="nfs11\nfs11.mod" size="440240" crc="d85b9339" md5="57353a6e2359cc8bb4ccbdc30c6268d2" sha1="3bc204bd0b25319b699ec0c045cc3c393911ee60" />
+		<rom name="nfs11\projectgen.bar" size="1066593" crc="ea798906" md5="174035396416d5e8992631717d80fdfc" sha1="b062d1f825c1a33a8b27813099dc42c9b33734ab" />
+		<rom name="nfs11\t_en" size="8921" crc="988e420a" md5="970cce2ff1e3205e41d862648df01ab4" sha1="05179b52caa30d49f1039f26b71125d347dda17a" />
+	</machine>
+	<machine name="Need For Speed MW2 v7.3.91 en.cac711vzw a (2008, Electronic Arts)[ID 01074912]">
+		<description>Need For Speed MW2 v7.3.91 en.cac711vzw a (2008, Electronic Arts)[ID 01074912]</description>
+		<rom name="nfs09.mif" size="3053" crc="49f21c7d" md5="9557d227783d4529227b82fe49469700" sha1="21547f5c8c2589c576ede07b39b64a1b07ce1a06" />
+		<rom name="nfs09\charmap" size="256" crc="b260c3e1" md5="fbe6a44a1f9b1d3de4e308059af12c65" sha1="98ba3190eb4de269cdcac434037d225fe20ccef5" />
+		<rom name="nfs09\nfs09.mod" size="411968" crc="7ffc0ca0" md5="667c71e10fc6c14523a0c43df47f093b" sha1="9a2a3f42b2a09eff371b89062b6e689a7c5e7584" />
+		<rom name="nfs09\projectgen.bar" size="1062341" crc="4d3f2da9" md5="2c94f95d84ba134dfeae76c2003414fb" sha1="65a203aff00ad889aad5e5f81997e4b1c0be9545" />
+		<rom name="nfs09\t_en" size="9925" crc="062fb04a" md5="98250a95524d13a798bd2065c8d3ad9b" sha1="e6ef00a8dff8e73bcc8a7a5127f6bb66bee188d7" />
+	</machine>
+	<machine name="Need For Speed ProStreet v7.0.43 en.mtve (2007, Electronic Arts)[ID 01061194][b]">
+		<description>Need For Speed ProStreet v7.0.43 en.mtve (2007, Electronic Arts)[ID 01061194][b]</description>
+		<rom name="nfsps.mif" size="1458" crc="f63147a8" md5="0f2f07a893f5e660e0c48f2d9eef3357" sha1="139fcdba857a36f18295f238bc04762d092347a1" />
+		<rom name="nfsps\gamesett.dat" size="541" crc="e5f111fd" md5="3ca8417d1b2d55754e0df370e7c13042" sha1="345ad400e16fd527df1afb6b46df51ec4cbb3df1" />
+		<rom name="nfsps\nfsps.mod" size="324648" crc="08bd1ef5" md5="b8b7b4cc2f5151c54e3d69df5826fee2" sha1="6992a7c85bf9f812e04970b03606d9fc6a513b3c" />
+		<rom name="nfsps\nfsps.sig" size="2642" crc="48753628" md5="557685cb8ad14d18f35f2d08ef365a7a" sha1="df226189af4f5c97552fce8ca3027757972888fb" />
+		<rom name="nfsps\projectgen.bar" size="907597" crc="22019850" md5="8e36635c9ccebcd1ce5bbd610b4159fa" sha1="e0f454f615d40f6d641484b1cb19be4db731872d" />
+	</machine>
+	<machine name="Need For Speed Shift v4.4.23 en.pn6010 (2011, Electronic Arts)[ID 0109008D]">
+		<description>Need For Speed Shift v4.4.23 en.pn6010 (2011, Electronic Arts)[ID 0109008D]</description>
+		<rom name="nfs10.mif" size="11327" crc="89977d88" md5="e2ce2d4dbb525e77340f9d1d3d5e9c79" sha1="7b4d961cfe5e353c1769968dbdb7a0be9a68e857" />
+		<rom name="nfs10\charmap" size="256" crc="b260c3e1" md5="fbe6a44a1f9b1d3de4e308059af12c65" sha1="98ba3190eb4de269cdcac434037d225fe20ccef5" />
+		<rom name="nfs10\nfs10.mod" size="381468" crc="7d8db09d" md5="cd83014725f468da2ae186b25d9d3996" sha1="340b5fc1fdb7ab5fd1d60cb04b42e944989535ce" />
+		<rom name="nfs10\projectgen.bar" size="779008" crc="74a94cf2" md5="a3b46dca77aa76bc4a608ec5fd199fe9" sha1="d30ec4f0f0852898c7fdd91f8a66c66dcec9c6a5" />
+		<rom name="nfs10\t_en" size="9039" crc="ea3893d1" md5="63f34085e5497641fdc65613feeef682" sha1="6e7a6141dd73fa4a51435ed2bca87990f29387da" />
+	</machine>
+	<machine name="Need For Speed The Run v4.1.92 en.sau650 (2011, Electronic Arts)[ID 010FA44D]">
+		<description>Need For Speed The Run v4.1.92 en.sau650 (2011, Electronic Arts)[ID 010FA44D]</description>
+		<rom name="nfs12.mif" size="9846" crc="9d24a23e" md5="6a0d91ef98b2576547d1c611b2d90f49" sha1="3fe844d923949db5ea6c0a7ef4f03d7ec8c78b5b" />
+		<rom name="nfs12\charmap" size="256" crc="b260c3e1" md5="fbe6a44a1f9b1d3de4e308059af12c65" sha1="98ba3190eb4de269cdcac434037d225fe20ccef5" />
+		<rom name="nfs12\nfs12.mod" size="488288" crc="0391cc7d" md5="e44ba95649e8082485e217c98216a71f" sha1="fa60260ade1b4fc9682fc92041e3e545f10165cd" />
+		<rom name="nfs12\projectgen.bar" size="1170862" crc="ea7d7fe2" md5="d1375653ed030a2cd22534ec5737b561" sha1="078e44a07bf5ac59f5ba1e953a87f14769aaa19e" />
+		<rom name="nfs12\t_en" size="15657" crc="9bdd8b64" md5="6c99942b14aae31c2578fed0efa65864" sha1="ec4e912bbf9197d1eec678ec9e74ec3c010e7ba8" />
+	</machine>
+	<machine name="Orcs &amp; Elves II v7.0.41 en.nk6315i (2007, Electronic Arts)[ID 010619C3][b]">
+		<description>Orcs &amp; Elves II v7.0.41 en.nk6315i (2007, Electronic Arts)[ID 010619C3][b]</description>
+		<rom name="orcsandelves2.mif" size="3195" crc="21b73a12" md5="3abbd8c05a2a37f472686be466efd114" sha1="8a812e2b19f13d4ff7042f8636cba94ec8cd9669" />
+		<rom name="orcsandelves2\orcsandelves2.bar" size="2130702" crc="ad370c54" md5="cffc2fbcc645bdcd0429c6d7962facc4" sha1="b3cc5400b5b2cfecd859ce155c3dbb526b8ab27a" />
+		<rom name="orcsandelves2\orcsandelves2.cfg" size="20" crc="1c91fcac" md5="dc69fe53224b4617a06586a2b2bea13c" sha1="0f1d91aae6bc976c16f9fea913fcee9a7efeffab" />
+		<rom name="orcsandelves2\orcsandelves2.mod" size="292116" crc="1631c7f1" md5="9a0ce4970ada5618796fec02dd2f6ca1" sha1="46dce2b93cd0d2c40f7e03bcc010fd8d9163ec90" />
+	</machine>
+	<machine name="Orcs &amp; Elves v1.0.49.en.mtv325 (2006, Electronic Arts)[ID 0103D72A][b]">
+		<description>Orcs &amp; Elves v1.0.49.en.mtv325 (2006, Electronic Arts)[ID 0103D72A][b]</description>
+		<rom name="orcsandelves.mif" size="3244" crc="c4b4cea6" md5="5e151fd39ef623d2f600d473f7de9f3f" sha1="8371f138532ab74b2ceb29be1a7672255dd12ba1" />
+		<rom name="orcsandelves\orcsandelves.bar" size="2099797" crc="063544a5" md5="52def34c569b93f195ab744b12fad7fc" sha1="3f53c54cdfb6816a8248e44c3ef87f3d3c28d00e" />
+		<rom name="orcsandelves\orcsandelves.mod" size="198280" crc="ac062b45" md5="08f1f05a455e54bf32b9d89b55aaf5e7" sha1="0e2bb14ae94f583da0672928f5e37710f2dd2169" />
+	</machine>
+	<machine name="Pocket God v1.0.0I (2010, Bolt Creative, Bight Games)[ID 010A329E]">
+		<description>Pocket God v1.0.0I (2010, Bolt Creative, Bight Games)[ID 010A329E]</description>
+		<rom name="pocketgod.mif" size="10578" crc="0e24252b" md5="a6e44dc6eed2118309774f318d87b319" sha1="acd06d541c94f3f09c3cde9345823c65e4b824bd" />
+		<rom name="pocketgod\pocketgod.bar" size="1113750" crc="c635f305" md5="72916b8e08f1724277b15b92a6def8cb" sha1="bee22913c176921d226fa55cb9a36932911bfe4e" />
+		<rom name="pocketgod\pocketgod.mod" size="270148" crc="14ac87c9" md5="8f52c0fa59e9c1ea3c8d0dd6bb8c6df9" sha1="76444e317d0639b73e56c8ebf4036d8dc56d6d48" />
+	</machine>
+	<machine name="Soaring Bird v1.4.1 (2014, Cheer Data Limited)[ID 0114739B]">
+		<description>Soaring Bird v1.4.1 (2014, Cheer Data Limited)[ID 0114739B]</description>
+		<rom name="fbird.mif" size="4332" crc="6e1ad4e3" md5="61d73fda40609a7a2808a6abd8286399" sha1="392b5a5dd5eab28aa07d3c192984c01ede898103" />
+		<rom name="fbird\back.mid" size="3786" crc="658f573d" md5="14a59cc6a4f5204800acad68e8022a0a" sha1="e2587ce60052fbade1546e67cc8145b93e854e33" />
+		<rom name="fbird\fbird.bar" size="101225" crc="849b2c7d" md5="da634902e912ffd7e65c84cdea11102a" sha1="fce5a53a3842cebcee912eeb13527e59e1ea4cb3" />
+		<rom name="fbird\fbird.mod" size="88924" crc="809c540b" md5="b86e5819fc0a8ca30e8df4e0f6b35e89" sha1="0cd372a92c08d1842f13ef229e65b01c65a40f2f" />
+	</machine>
+	<machine name="SPORE Creatures v4.1.56 en.lgax265 (2009, Electronic Arts)[ID 01087B13]">
+		<description>SPORE Creatures v4.1.56 en.lgax265 (2009, Electronic Arts)[ID 01087B13]</description>
+		<rom name="spore2.mif" size="3417" crc="14f83bb1" md5="9252b83964fef952e8cb27a3fb62d157" sha1="2d4adcfe335006fd928477fabeed0dbf3afb6bda" />
+		<rom name="spore2\spore2.bar" size="591459" crc="bd169dc0" md5="9b119b6d3df6f6db5589504a8ca7441c" sha1="a6489e16cfe1f10dfc450a17ee1c6dd398b3144b" />
+		<rom name="spore2\spore2.mod" size="344168" crc="b6a5b89c" md5="f4bb500243dee6872256ddc27cccd83b" sha1="7fc123349409efd5ce7b4770097f0080281ef5ed" />
+		<rom name="spore2\sprites.bar" size="256286" crc="7c1914e5" md5="955b5bbd97fecc0791444647cd9b7437" sha1="2546288226b40c8f6ccf1973878f387daf71949c" />
+	</machine>
+	<machine name="Spore v4.5.89 en.lgux700 (2009, Electronic Arts)[ID 010780B5][b]">
+		<description>Spore v4.5.89 en.lgux700 (2009, Electronic Arts)[ID 010780B5][b]</description>
+		<rom name="spore.mif" size="3043" crc="1d6cecb4" md5="462d9c6ef69c2bf61b175a51499ef961" sha1="03ea3c20201228ce48879ecc51fe2662e28da8ca" />
+		<rom name="spore\config.txt" size="184" crc="955409cf" md5="dd4e11d65a12577fb927963bd21c711e" sha1="b455ec8a0673bb75921d7c455dfcc6efedce982b" />
+		<rom name="spore\spore.bar" size="632973" crc="f57a7db6" md5="5979714b57c4b23148dbb144a98e3757" sha1="4a064f0611db8321bae0ffa1aa2257bfa8dbf0f0" />
+		<rom name="spore\spore.mod" size="401940" crc="7a439be1" md5="aff4eadc26aaf247b9e629b716da115b" sha1="7c32b6fe3b94c22caff59145dd56a077ed13649c" />
+	</machine>
+	<machine name="Wolfenstein RPG v7.1.32 en.mtv3cb (2008, Electronic Arts)[ID 01081949]">
+		<description>Wolfenstein RPG v7.1.32 en.mtv3cb (2008, Electronic Arts)[ID 01081949]</description>
+		<rom name="wolfensteinrpg.mif" size="2266" crc="2754463d" md5="3395bef8aa0c952ae13e6a53555d2833" sha1="97d8ac5934b1435635693e1a9c93ddc2fe5c39db" />
+		<rom name="wolfensteinrpg\config.txt" size="31" crc="f8fa6ead" md5="7365cefdd74e08ba728df3aa5d02f9b0" sha1="a49dc54d6f2f6b89a71560ff3efb5b52aebebe06" />
+		<rom name="wolfensteinrpg\wolfensteinrpg.bar" size="2012032" crc="93df7137" md5="4f8554e782111f5aea78df3db0b713b6" sha1="21ec931b4c0c10df8ca56ff5581f699c143acc3b" />
+		<rom name="wolfensteinrpg\wolfensteinrpg.mod" size="349780" crc="ef3e7c5b" md5="a3647a82331e19dbd4e49e1c5689dec2" sha1="e534bb28351cb351d02b0dfe707a1ba2a2d4a310" />
+	</machine>
+	<machine name="YetiSports Games Pack Vol.1 v1.0.1 (Xendex)[ID 0108A7BE]">
+		<description>YetiSports Games Pack Vol.1 v1.0.1 (Xendex)[ID 0108A7BE]</description>
+		<rom name="yeticol1.mif" size="9031" crc="6e6641d0" md5="c79640bd57c07a2cfdad70d431f7d049" sha1="886b49afd4d364dd410fa7f0e90567b2595c9bb5" />
+		<rom name="yeticol1\yeticol1.bar" size="1006340" crc="e59f11a3" md5="104f99d19644d9b7c45e8a324ad652b3" sha1="2c8c01b921ddf195850009939d1d38575dd7fc9a" />
+		<rom name="yeticol1\yeticol1.mod" size="234704" crc="fc0cf465" md5="a74ee5a9b5c9f5919a17cf4ac5878e4c" sha1="737ae3aa06dd98157cbd2cc58d1e3e216b970f57" />
 	</machine>
 </datafile>
