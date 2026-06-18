@@ -6,3 +6,4 @@ This is what i could find for the Qualcomm BREW platform. Very much work in prog
 
 https://lpcwiki.miraheze.org/wiki/Running_unsigned_code_on_BREW_devices has some rather valuable info for running these on real devices.
 
+With thanks to a fellow Killing Joke fan for a ton of titles.
