@@ -3060,4 +3060,343 @@
 		<rom name="4593\asphalt.sav" size="18" crc="9315a10c" md5="9ff2617673e8f50c08573fd78fabf088" sha1="56d5dbb0bd076e4a7e06966d68bec203e5b3feb2"/>
 		<rom name="4593\asphalt.sig" size="10252" crc="fcb0cc5d" md5="3789fa39d621eb029782bf258803532a" sha1="5c94acc8d8581769ccb5207205605027151ebf14"/>
 	</machine>
+	<machine name="Bejeweled Twist v1.0 (PopCap Games)[ID 01088355][176x208]">
+		<description>Bejeweled Twist v1.0 (PopCap Games)[ID 01088355][176x208]</description>
+		<rom name="275306.mif" size="10143" crc="8d80ba8f" md5="406575af518b404502e68f350af57495" sha1="61df789156a04c7e3ab78f5c3135241096fcf9e2"/>
+		<rom name="275306\bjt.mod" size="464288" crc="2f321569" md5="d58a097ec2424b8c5380722705d46506" sha1="1ce7d509c163c2e1ea912f6574018ff877742d19"/>
+		<rom name="275306\bjt.sig" size="2724" crc="08920ecc" md5="715544f6e60de240f96612b100480e1e" sha1="f7494f20d39765a072b36986c4674a4550f0e595"/>
+		<rom name="275306\resources.bar" size="531466" crc="dcc021d8" md5="1a65b704228cec8f626bb46344c2d03d" sha1="db872eb68f7272dc40dc131988f5cf1600f024cd"/>
+	</machine>
+	<machine name="Bejeweled v1.01.000004.EN.T720 (2002, JAMDAT)[ID 010116F7][b]">
+		<description>Bejeweled v1.01.000004.EN.T720 (2002, JAMDAT)[ID 010116F7][b]</description>
+		<rom name="1601.mif" size="5290" crc="3f4a27dd" md5="640d88fa487946188abe7506d1e683cf" sha1="59fdc1a1b9af7bfe8e07726291b2464e3d31687d"/>
+		<rom name="1601\bejeweled.bar" size="34205" crc="57cdfeae" md5="8b35ba3842da38de74012e5dce651838" sha1="daec665e27b30c9b346d55846aa1dfe94f5e78d7"/>
+		<rom name="1601\bejeweled.mod" size="20092" crc="6b9fa522" md5="2a0a6e4c5224905d41f0e19dd2d98626" sha1="9144cd5cf98370b6bd8aa450bceabdd6494ec585"/>
+		<rom name="1601\bejeweled.sig" size="2696" crc="a890925c" md5="a2432a993e298ee97771a2c57b858062" sha1="3968bdada8283b5c2fb6a14442f0dfbbc6ea16d5"/>
+	</machine>
+	<machine name="Bejeweled v1.1.81 l6000-Z710i (2003, JAMDAT)[ID 01014E6D]">
+		<description>Bejeweled v1.1.81 l6000-Z710i (2003, JAMDAT)[ID 01014E6D]</description>
+		<rom name="4051.mif" size="5260" crc="eb44385c" md5="c66460c999e62aaa9aae5dc9dd2f8c5e" sha1="c29b81d279848d5525be7dd066602f3dc26dbc46"/>
+		<rom name="4051\bejeweled.bar" size="35195" crc="85359225" md5="92bf805410ca2ba3ad7696f7023d143c" sha1="e17e8c595f820582548363ee2991822181e43b1a"/>
+		<rom name="4051\bejeweled.mod" size="20128" crc="00a2d083" md5="74c1a485e6a4bfb36ab2ab14bd6cc6d1" sha1="1b57edbcb7d033012a2e21d1f0b71216e548c5c6"/>
+		<rom name="4051\bejeweled.sig" size="4965" crc="86e4c517" md5="040c2aaa6907bf2df5d12570f40bfe6e" sha1="27ffd559ea9efc11b315931d64abe022de9cc24d"/>
+	</machine>
+	<machine name="Bejeweled v2.1.66.en.6235AlltelPP (2006, JAMDAT)[ID 0103F4D7]">
+		<description>Bejeweled v2.1.66.en.6235AlltelPP (2006, JAMDAT)[ID 0103F4D7]</description>
+		<rom name="33360.mif" size="2710" crc="656343b5" md5="b6678601a4854381274db6310bbaccd0" sha1="775da018314d793eca526d9842ae3cc80a8e29ad"/>
+		<rom name="33360\bejeweled.mod" size="33144" crc="78a071cc" md5="96fb272965eb49c472205211189da36b" sha1="6c83880fdbfc8f1cd77ab7972ea83f120880b6b1"/>
+		<rom name="33360\bejeweled.sig" size="2760" crc="e588c780" md5="fd5f0bc7373c8007fd794eef618651ad" sha1="0df57272d50a0a36212af58d021c388cc7601d65"/>
+		<rom name="33360\bejeweled2.bar" size="58536" crc="523a31ad" md5="7d44dbf058cb2d9a357669a6792d475f" sha1="2fe5cb946d3ea584e3aaad77f1c6580a3b748dd1"/>
+	</machine>
+	<machine name="Bejeweled v4.26.26 en.lg5500mp (EA-Mobile)[ID 01073026]">
+		<description>Bejeweled v4.26.26 en.lg5500mp (EA-Mobile)[ID 01073026]</description>
+		<rom name="271826.mif" size="3673" crc="96f81aa7" md5="01a3c103b84cc26b2e2ad8a962edea7c" sha1="eb898ab39c722cfcf3ef4e638140596aa179fc2c"/>
+		<rom name="271826\app.bar" size="114264" crc="1305f8b7" md5="26a410123bd1b175292651fe1438e973" sha1="694951e80e114e29a7b98eff20beb7016745af55"/>
+		<rom name="271826\bejeweled.mod" size="440" crc="46555b77" md5="7a912335a988d55f0f906950ce72130d" sha1="7cfdb7769e8c318b20ecb5a5505f83486235f5ca"/>
+		<rom name="271826\bejeweled.rlb" size="323634" crc="b17cb5c3" md5="3ab86b70f0905f227ad4a6c34893832c" sha1="27368555320123c0987d93234d6899681e1b2676"/>
+		<rom name="271826\bejeweled.sig" size="2744" crc="8fee47d3" md5="4c4ecce2ae2273f30f1d35f761f273b1" sha1="fee8af264c3d215c05315cf989f877e124efc90a"/>
+		<rom name="271826\config.txt" size="75" crc="68c20155" md5="5826c529d32420ee02794318c00ccc6a" sha1="2ef31b894bccd439573efd2e3462015f16b94ffc"/>
+	</machine>
+	<machine name="Bejeweled v5.39.28 en.lgt310 (EA-Mobile)[ID 01073026]">
+		<description>Bejeweled v5.39.28 en.lgt310 (EA-Mobile)[ID 01073026]</description>
+		<rom name="271826.mif" size="2674" crc="73cb48dd" md5="0fc3ec724a4850c7f25848c12d99a01a" sha1="88f6ba4d61ea03f5a79ab2564838f0c307741a96"/>
+		<rom name="271826\app.bar" size="85399" crc="316a550e" md5="c381ade96e71876ac599c924bd334f1e" sha1="7ef24a5e8bd5f7473acf1ceaf785e3d68b4a559b"/>
+		<rom name="271826\app.bin" size="116" crc="fc1c7324" md5="e0d8f8d5b0550c541f8eaeabf45dc4e5" sha1="64fe097e66e4a2b9e8b9a0801be01a537cf86a3d"/>
+		<rom name="271826\bejeweled.mod" size="440" crc="46555b77" md5="7a912335a988d55f0f906950ce72130d" sha1="7cfdb7769e8c318b20ecb5a5505f83486235f5ca"/>
+		<rom name="271826\bejeweled.rlb" size="251651" crc="84cad195" md5="bab26f0f30fe947f64c1f52524060fb0" sha1="583e781b7b83d1255ab8ff2e1d50dcf023595f5a"/>
+		<rom name="271826\bejeweled.sig" size="4396" crc="a794078c" md5="8461a67828daab761aca4c93806ef918" sha1="728cee38162e7f8aec57681f3c4939acaf8660da"/>
+		<rom name="271826\n.bin" size="100" crc="492aebbb" md5="70b5c013557bd1f984c100066ed3eb09" sha1="7b2d4bf649678a9bcb22a200eb749c259379143b"/>
+		<rom name="271826\t.bin" size="100" crc="492aebbb" md5="70b5c013557bd1f984c100066ed3eb09" sha1="7b2d4bf649678a9bcb22a200eb749c259379143b"/>
+	</machine>
+	<machine name="JEOPARDY! 2007 v1.30.1 (2006, Sony)[ID 01041F54][176x220]">
+		<description>JEOPARDY! 2007 v1.30.1 (2006, Sony)[ID 01041F54][176x220]</description>
+		<rom name="35714.mif" size="4142" crc="549b8f13" md5="5b4b1361fdca922a556594618400d150" sha1="15de70425a6b846f7f7568576fe900f16ed48497"/>
+		<rom name="35714\jeopardy.cfg" size="229" crc="91633a9b" md5="a4a09c344fe713a6e3b6eab8b53905b4" sha1="b67c729bf4ea9aba53e883556e3c9ca72f7e3f0a"/>
+		<rom name="35714\jeopardy.mod" size="101912" crc="5849ccdc" md5="bf3c437ed5af1d1afd74a4afa7867e61" sha1="a45560c2dcc6dd97cadb67bf7bdc9373e8dfb2aa"/>
+		<rom name="35714\jeopardy.sig" size="2752" crc="02e3c43b" md5="4879eee7892be60714312566a3af88a3" sha1="9fc5c16b4bbea4d8ed77956366d77864ea36e1d4"/>
+		<rom name="35714\jeopardy_u710.bar" size="179803" crc="facedc22" md5="cdd21ffec5d69523c66b4d8b48e09bfb" sha1="aea34d598f07f554158865d7427fb582b6fb4f1f"/>
+	</machine>
+	<machine name="JEOPARDY! for Prizes v0.10.69 (SPT)[ID 01089814][b][240x400]">
+		<description>JEOPARDY! for Prizes v0.10.69 (SPT)[ID 01089814][b][240x400]</description>
+		<rom name="275170.mif" size="7366" crc="d838f301" md5="a92ba736790b5dff137e29ff3b98f834" sha1="2a3057578e0a3c07e1709f85831f08486ea76192"/>
+		<rom name="275170\jeopardyforprizes.bar" size="204264" crc="6d8a09f9" md5="8e81a9d189d003898867a00cedddba8f" sha1="e60c5425503dda1ebdcac75114e8fe74eab26e3f"/>
+		<rom name="275170\jeopardyforprizes.mod" size="226336" crc="bf2e6b0f" md5="a6256846b7d9026d9f8ee6d948bca527" sha1="1fe525aec4aee79356bbd17c7295eff93313bdc3"/>
+		<rom name="275170\jeopardyforprizes.sig" size="2764" crc="a8b0f846" md5="e70a59967e5e5f940f54f78af5638158" sha1="bddb58125a8aec81816f996624ecc53cd91d2219"/>
+		<rom name="275170\properties.conf" size="5909" crc="613fbafd" md5="efe1881e0c20876afc2bf8138c1e4087" sha1="ae5aaf5fe5dc84da4d9baefd93706e52e0a49226"/>
+	</machine>
+	<machine name="JEOPARDY! v1.0.14 (2010, Sony, SPHE)[ID 0109BA4C][240x320]">
+		<description>JEOPARDY! v1.0.14 (2010, Sony, SPHE)[ID 0109BA4C][240x320]</description>
+		<rom name="279341.mif" size="11516" crc="1fe1b2b0" md5="b86a28cbf2f45e08455b8dbd3726945c" sha1="6a82a4691e834acb6bba6e1dcd63085ba152bfc1"/>
+		<rom name="279341\jeopardy2010.bar" size="1413998" crc="d5c2d00b" md5="f3fd0a04034987a692330f970ae7d2d0" sha1="023c233a779d2be2ee015179402d0557032769b1"/>
+		<rom name="279341\jeopardy2010.mod" size="304400" crc="92b0d8b9" md5="11588b4aba4efd238ecb4d7e46afa790" sha1="660abc9631e5828bb2ddcea34a797fc988a2d751"/>
+		<rom name="279341\jeopardy2010.sig" size="2780" crc="a0388231" md5="c2660108fc7cd344af8e79908c2c844c" sha1="a7d9aa8827962c7768059751a26b6a48f787049f"/>
+		<rom name="279341\properties.conf" size="3969" crc="40da0deb" md5="e1eaf3e6f785c2eec779c5f215dc4355" sha1="ed0a74729d134dc6c4c0046afd04661f93850b55"/>
+	</machine>
+	<machine name="JEOPARDY! v1.0.2 (Sony, Digital Thermite)[ID 01039FE9][176x220]">
+		<description>JEOPARDY! v1.0.2 (Sony, Digital Thermite)[ID 01039FE9][176x220]</description>
+		<rom name="29948.mif" size="2752" crc="3f659096" md5="9f838dbc45fac91be2776d47d4718923" sha1="6a2aba97f9782c200ebacf5bae2ae5bb422342f7"/>
+		<rom name="29948\jeopardy.mod" size="93604" crc="69dec52d" md5="9f038290240db89efb27ddf98c7a915e" sha1="083079f9354d9fad493d42645ab2c78443dc3ed1"/>
+		<rom name="29948\jeopardy.sig" size="2724" crc="0c9066ea" md5="7e04205b910f85bddfdaa2e495bc89a4" sha1="4578151f3a7db353de6b633b90d3dd7fa211c74e"/>
+		<rom name="29948\jeopardy_art.rsp" size="137036" crc="b5cd9e26" md5="6ffd10c941dc1f7d27a28e4db34a2c9e" sha1="dae1c73069830d0700ff38cafc1a94797a696447"/>
+		<rom name="29948\jeopardy_game.rsp" size="11104" crc="746025a7" md5="fb0c885d7e30c0d5f3b46ca16f220718" sha1="c2881dcfae6a0ac0f6b148bd7c4efe21bfae4795"/>
+		<rom name="29948\jeopardy_init.rsp" size="16300" crc="1ce95bbd" md5="a58010fbd87094823da354977d485df8" sha1="7032cd20968468ccc87eaef1aaa134867298a7dd"/>
+		<rom name="29948\jeopardy_q1.rsp" size="5111" crc="8f273596" md5="21b1d07ca98f985f542caf837015d6b0" sha1="b4e0d08a917d360008dbcd33f3736f889403bd42"/>
+		<rom name="29948\jeopardy_q10.rsp" size="5334" crc="b7870dbc" md5="580f93e75c7bfba42974ee8437eb686d" sha1="fe81846263e04196a5838b2bdfb8a5a5ad646887"/>
+		<rom name="29948\jeopardy_q2.rsp" size="5202" crc="86a1f8d3" md5="284c70978faef262c94ab8e5699258bf" sha1="3e68c47c6fc447f4015873a4495384a8b9ecd7fe"/>
+		<rom name="29948\jeopardy_q3.rsp" size="4863" crc="13cf527d" md5="2203bcbfb3e4366b670e909dd245c8d8" sha1="8465481053e8eb54fe39f0e5871eb3c48ea99209"/>
+		<rom name="29948\jeopardy_q4.rsp" size="4576" crc="36fe0224" md5="1e0c11f7e91b1cb9f2accfa3279406ac" sha1="c0eb90bd604ce77d3248a27a1dfe9e0335bf26e6"/>
+		<rom name="29948\jeopardy_q5.rsp" size="5096" crc="4f69dd65" md5="2a8c2af7ee7273f8766938d19f711906" sha1="95bd12ac22844e3e2531fc40875d099af9e98975"/>
+		<rom name="29948\jeopardy_q6.rsp" size="5352" crc="ab57c655" md5="ad1d8782e1a8f839e74b311fd2b87463" sha1="254da8ed69b748bfc7bc1dd75e48ede6029ed21a"/>
+		<rom name="29948\jeopardy_q7.rsp" size="4869" crc="6676ca24" md5="687bfa76a6bb2ca91b0a445d9b779ef5" sha1="4f17c4718eced650da745d3cf4199b30b937521d"/>
+		<rom name="29948\jeopardy_q8.rsp" size="5179" crc="d578a7cd" md5="5450f5985779454429c7cdabb489b479" sha1="de95a1e13efc9b42dfb51089f487c05dcb37e04c"/>
+		<rom name="29948\jeopardy_q9.rsp" size="5178" crc="b09e9c78" md5="d2a13bc8ee0a80fb27b7340a9520d4b8" sha1="8e2439a8a75ff5863e2b0867194c928adb67ea14"/>
+		<rom name="29948\jeopardy_snd.rsp" size="5492" crc="629e8c34" md5="2e6d53fc74edfa84a8ad495229a72318" sha1="da5cb14206fa3fa268fa5bb4c6b462b06f2f2a28"/>
+		<rom name="29948\url.cfg" size="61" crc="33e0e12f" md5="14ba3bd74f78a5e672d711120f0e1280" sha1="b8b66e780d9fbccd253791fedf468ee2f05a31b0"/>
+	</machine>
+	<machine name="Legend of Spyro v1.3.9 (Vivendi)[ID 010421C0][240p]">
+		<description>Legend of Spyro v1.3.9 (Vivendi)[ID 010421C0][240p]</description>
+		<rom name="35629.mif" size="4824" crc="0709d615" md5="cbde84085de63b5a330935e2481453a9" sha1="e8fe7a867831df12a79b1397c5b8eb0da3b6c675"/>
+		<rom name="35629\spyro.cfg" size="61" crc="2da4927c" md5="692d72d97eae992f46238e40633e3543" sha1="008c8fa50a3effd355517f17be80dcd64c45b009"/>
+		<rom name="35629\spyro.mod" size="142700" crc="f8cdf87e" md5="dccd2a249fd42a19583156e74e0b9672" sha1="813ac6a63cd9eb1ea69055a7b55973ea53d3f4f7"/>
+		<rom name="35629\spyro.sig" size="2756" crc="52c7166c" md5="8dbbe448a72703244e779bc9e9c1c783" sha1="20911341da29d8788930ce7159e393087e25a299"/>
+		<rom name="35629\spyro_xl300.bar" size="422255" crc="7ceba6ae" md5="bfab11f46171ac09938fae3f1f6ca286" sha1="cf526334928614c4f0f71c7dccf947bb8b6415ac"/>
+	</machine>
+	<machine name="Rock &amp; Roll JEOPARDY! v0.8.70 (2008, Sony, SPT)[ID 010897D9][240x320]">
+		<description>Rock &amp; Roll JEOPARDY! v0.8.70 (2008, Sony, SPT)[ID 010897D9][240x320]</description>
+		<rom name="275200.mif" size="7425" crc="6a1c43af" md5="58f4d0ef061169d4fcede895a70b2fd2" sha1="72bb436aa8c1a9424e43500f1a0961b1f9747761"/>
+		<rom name="275200\properties.conf" size="6399" crc="a8e61c3d" md5="9ade29c6eccd70e3a6f0da5d7266fbc7" sha1="31785a1ff6387a7ca3fb2b3677d35209663a0ea6"/>
+		<rom name="275200\rnrjeopardy.bar" size="232372" crc="c8c3b7ed" md5="4a073c1536f4c155fd9988130910a5b9" sha1="e816b7438148461ff41bbdaaafa956a0c692446f"/>
+		<rom name="275200\rnrjeopardy.mod" size="186848" crc="8e8aa373" md5="d7c744b58d490bec8b43f6aa0f28a0e2" sha1="3fb1cd2fabcc7ae698c6d72aea2a568f01aad841"/>
+		<rom name="275200\rnrjeopardy.sig" size="2740" crc="95b32cb4" md5="c72c9833bea54af490bf12d4a7311510" sha1="8b0d18ffa07fe9b2583ce8eced6bdd122d3b035d"/>
+	</machine>
+	<machine name="Spyro_ the Eternal Night v1.1.22 (Vivendi)[ID 01061BC2][176p]">
+		<description>Spyro_ the Eternal Night v1.1.22 (Vivendi)[ID 01061BC2][176p]</description>
+		<rom name="265054.mif" size="4724" crc="052e64e2" md5="a835e3c848a74a9df350ae3ad61bcc8d" sha1="f9e0e7e233d17e84393a8d316e8dbb105031b0a9"/>
+		<rom name="265054\spyro.bar" size="471408" crc="98ddcb86" md5="a8cc78b0baebd886a183efb948c457d9" sha1="50800a168687217deabb1e2fc6ec1ad28d3b47be"/>
+		<rom name="265054\spyro.cfg" size="74" crc="58d2bfba" md5="a99d15f0cd9757b2368ef5c78e57143c" sha1="4bfc39f399e8d952df0fdc28e993f79aea9a5ae9"/>
+		<rom name="265054\spyroen.mod" size="218536" crc="98f56f5f" md5="b74fd92ea5f808063d6d1fae5a021889" sha1="1305a227fe4238910fb1cb005804943dd1dba956"/>
+		<rom name="265054\spyroen.sig" size="2752" crc="cd9bf301" md5="a74f00739aae228b4b4fdca5f649fc10" sha1="f27de6cc2f218147e5251402bc5e750389452098"/>
+	</machine>
+	<machine name="Ms. PAC-MAN v1.1.68 (2008, NBGI, Namco)[ID 01088BC2]">
+		<description>Ms. PAC-MAN v1.1.68 (2008, NBGI, Namco)[ID 01088BC2]</description>
+		<rom name="8071.mif" size="15271" crc="d7216d5e" md5="df729642e200fe5e34a6aac03eb1fcf1" sha1="97174f20689522b2063b9b8fec7d1139d54e5cfd"/>
+		<rom name="8071\mspacman.bar" size="88922" crc="372ac80b" md5="27b01ba5f8f0d7a6488e0a2a549b0180" sha1="2bfab87449b4f90e85a09191828b0b424f5c87bd"/>
+		<rom name="8071\mspacman.mod" size="109316" crc="5c3a74e1" md5="1b61b652e4101a287e62a604d5807a8a" sha1="f9f03afd21a1229c9a31cdea238daf527a854342"/>
+		<rom name="8071\mspacman.sig" size="4416" crc="8e0be718" md5="959fe7ec76f266915cb317c8fe4a145a" sha1="e37f14b22e272971330f9b06ad9eca3690e47350"/>
+	</machine>
+	<machine name="Ms.PAC-MAN v1.0.2 (NAMCO, Interactive Brains)[ID 01024BBF]">
+		<description>Ms.PAC-MAN v1.0.2 (NAMCO, Interactive Brains)[ID 01024BBF]</description>
+		<rom name="4308.mif" size="1583" crc="f0521310" md5="0fae0613ec2589ad4e64f31b7b0c893c" sha1="8675719a05d9a6a79cf1eb6f551b2444402de03e"/>
+		<rom name="4308\help.txt" size="1917" crc="e860d352" md5="adfa8e4d6399cf1bcc3e42869c0c2903" sha1="b81dc5139f7e3f0cb13506b7e073ecd99c294b51"/>
+		<rom name="4308\mspacman.bar" size="85243" crc="fed981e8" md5="eefd7be139784da4d9cc21c0751dd14c" sha1="c68b504482a64e6fc2bb74f5bd5612d446897167"/>
+		<rom name="4308\mspacman.mod" size="88508" crc="bca42936" md5="43431227fbef0e06b47f53bf981b1888" sha1="a24f2d1ff5379dcb76fc2cf5e60c0c4e3368fecc"/>
+		<rom name="4308\mspacman.sav" size="23" crc="1da5ba95" md5="1625414d3e4cf8fa198c0fb34867fa84" sha1="dcecf0d27414a48f119dc38ea805bccebf16614e"/>
+		<rom name="4308\mspacman.sig" size="3796" crc="a3c00e89" md5="bc179ac2d8a7939f257418ac243c606d" sha1="ddbd0ba66ba2dcd62d4c7cd477961a7ed2d1c92d"/>
+	</machine>
+	<machine name="PAC-MAN Kart Rally v1.3.0 (2010, NBGI, Namco)[ID 0109C6B0]">
+		<description>PAC-MAN Kart Rally v1.3.0 (2010, NBGI, Namco)[ID 0109C6B0]</description>
+		<rom name="280025.mif" size="5076" crc="879494a2" md5="298764b1843cdb7086074916e56482a7" sha1="0731197e364a923412b2e5296c744519c031b102"/>
+		<rom name="280025\config.bar" size="1959" crc="2b35efba" md5="d98848a6f4adaf7ff5be690d98b67245" sha1="6a447c3ace12ea11eae282a955551c42afcc9a44"/>
+		<rom name="280025\fn0.bar" size="13641" crc="e4da6644" md5="fe7cc4d57169a19a2396f053bc09b9c7" sha1="060e1761b0f8226d1839cd4e90e6c85f187b190e"/>
+		<rom name="280025\gmgset.bar" size="127" crc="b5403022" md5="b5bd50f8b1248c6edabf04ada18f2404" sha1="eb289514371b35fdc08514295c17e90a28d8ca0f"/>
+		<rom name="280025\i0.bar" size="14003" crc="b185de42" md5="9d95a068d26dd27a4998434f0926c611" sha1="392199593ad9bad978918016c2f9553b1ae11bcf"/>
+		<rom name="280025\i1.bar" size="10345" crc="ca72dd31" md5="09c68e7d28adad8ea0b895547a530a23" sha1="ad7d3faa7fb410515539b9a6310ac3902f6a64d8"/>
+		<rom name="280025\i10.bar" size="4682" crc="1bef94c7" md5="0ce402c88a86f36c7e2db1278b6a378e" sha1="91ca8a5e8a3514a04b560708a04de7d82993d509"/>
+		<rom name="280025\i2.bar" size="15050" crc="38da77ad" md5="60b5c653c67d3e845aaddca0718a6eec" sha1="f43617f831d2024d6246d1d27e578a600c2d1833"/>
+		<rom name="280025\i3.bar" size="1600" crc="c89c3190" md5="5acec7038484f0933add45e498c4de92" sha1="21eeaa3c82a944678ac700055be90a6a0470e8bf"/>
+		<rom name="280025\i4.bar" size="6166" crc="d3fb20e0" md5="a1f86a4240d69b754971ca1194eea87b" sha1="3e71ee81ab741fc127b2a090c095c722558d578b"/>
+		<rom name="280025\i5.bar" size="2790" crc="d2347cfe" md5="6a8629ff44edc7b3faf6b4b446b0032d" sha1="6c084451afa3b7a5e143e0fad17021a25ae71c59"/>
+		<rom name="280025\i6.bar" size="13982" crc="32006abc" md5="9e5a289d8d69f0095197b0cd9d07d22c" sha1="8ea699762371896cb53a18911012dd9cda79ec38"/>
+		<rom name="280025\i7.bar" size="1" crc="e96ccf45" md5="7215ee9c7d9dc229d2921a40e899ec5f" sha1="b858cb282617fb0956d960215c8e84d1ccf909c6"/>
+		<rom name="280025\i8.bar" size="15148" crc="923fa005" md5="b97d26866c27ea8349f449b68849f680" sha1="be938c23df8af5e282c1263bbd2b74e6ae2ec024"/>
+		<rom name="280025\i9.bar" size="6986" crc="96936ce7" md5="777bbbb553f6a797bf69ea1dcc91afcf" sha1="f5a45a950b01c9bbd77453fed298550c88bc93f1"/>
+		<rom name="280025\m0.bar" size="1187" crc="1b405bee" md5="2dce98f8b98078f0410ff3bfcf4a8fe5" sha1="71f71b27fee476065219585e977daecd5367a283"/>
+		<rom name="280025\pacmankartrally.mod" size="189456" crc="d86086a6" md5="eda1175ae418dc85d0ce12e20821b92f" sha1="f86bd75b7f33426d83abb454e901f2444c6f513d"/>
+		<rom name="280025\pacmankartrally.sig" size="3084" crc="15546d17" md5="6756285eb0a2c05877c05a71721fc8cd" sha1="13e32ee7bd55d951207c81647baec0724a65ebf0"/>
+		<rom name="280025\profile.bar" size="352" crc="fad48625" md5="25f3247869bb3ba71e723373c0dc937b" sha1="e6acb2ef5da2a6ffe50f8d2e73d0c1ab3f1da8ee"/>
+		<rom name="280025\s0.bar" size="6182" crc="783a83f0" md5="acb2b19f7f32925808b1e902a4939073" sha1="f46a995f0b622ee06f9a68cc9e37e646ca03d0ae"/>
+		<rom name="280025\save" size="2007" crc="a568ea9a" md5="f04cfe611f0aa4d56e7be0284696c7b7" sha1="9ac897069863f3c2c48b7d41ad412982dd61308a"/>
+		<rom name="280025\snd0.bar" size="12349" crc="ae70117d" md5="f5703a580a19ffd7052957ee2f5184bd" sha1="ed610d9666531e03f7469f50bb095418d8d76cc8"/>
+		<rom name="280025\t0.bar" size="27304" crc="5f4fe001" md5="56a14461d2eb71c038353c99866605b3" sha1="7123cc4f611079b7e14d7ed7a401740e9d820a75"/>
+		<rom name="280025\txts0.bar" size="25462" crc="7da36538" md5="8f00cdf00435581548ad04ee6f48456b" sha1="d72504a23e0bb26e2d86b8cc30c0c3fc50f1d292"/>
+	</machine>
+	<machine name="PAC-MAN Pinball DLX v1.1.3 (2008, Namco)[ID 01087408]">
+		<description>PAC-MAN Pinball DLX v1.1.3 (2008, Namco)[ID 01087408]</description>
+		<rom name="275064.mif" size="7424" crc="f66ffbc8" md5="75b2058e7dfbf604a78c70b367db6e44" sha1="b72ef98504710ea35529d01fe22abf98093c9627"/>
+		<rom name="275064\pacmanpinball.bar" size="142214" crc="646d59a1" md5="89bd6ab92e11c0dff69f5704c8492060" sha1="75963fb447189df6709640922a58e56e042de466"/>
+		<rom name="275064\pacmanpinball.mod" size="259952" crc="9748c913" md5="89d9dbe6d6580f2397e7d69dfe113a73" sha1="82476aea367b239d8f45a0c46f8b677e28e4b13c"/>
+		<rom name="275064\pacmanpinball.sig" size="2796" crc="73a7309d" md5="5e0f5d57d3a5d634a981cb5ecf381fce" sha1="6831bfd3ad776fc82dcb0288b62fd89d4fe4fc82"/>
+		<rom name="275064\properties.conf" size="4438" crc="2cbe639e" md5="d787710b3d4d8cca8400026ad9e0f674" sha1="72bcddbf7dec6e893c60bf03d44049fc57012ba1"/>
+	</machine>
+	<machine name="PAC-MAN Pinball v1.2.17 (2003, 2006, Namco)[ID 0103DF75]">
+		<description>PAC-MAN Pinball v1.2.17 (2003, 2006, Namco)[ID 0103DF75]</description>
+		<rom name="16675.mif" size="5596" crc="4ce579b5" md5="f1b5f46ad80ca97be408d05796a2f14c" sha1="211ac93c8e961a29462176d8be5e6f1b2c97fb5c"/>
+		<rom name="16675\pacpinball.bar" size="95739" crc="3a2edf11" md5="2d0912d4f19d5b29b46fadef71bd7e9b" sha1="4370434d00b406fb392363d453b7a21b99bf0232"/>
+		<rom name="16675\pacpinball.mod" size="55016" crc="24db6164" md5="e82023a42f0e68ea07735b5f0795d4eb" sha1="6a4de208a8a9e5b26ca4e8db0e38104be4757fd8"/>
+		<rom name="16675\pacpinball.sig" size="2760" crc="2e81c586" md5="679330c12b8a4300e253dd124200b1ac" sha1="5737dc3645995a80508cffd45ca10c423531c2c8"/>
+	</machine>
+	<machine name="PAC-MAN Puzzle (2004, Namco)[ID 0102E080]">
+		<description>PAC-MAN Puzzle (2004, Namco)[ID 0102E080]</description>
+		<rom name="4606.mif" size="5500" crc="be7be14b" md5="41dd71e1304700a1529a338e65945cd5" sha1="bc63ee7d2bfc1d143d7cd814edf9d17bf4f4c1b8"/>
+		<rom name="4606\pacpuzzle.bar" size="52533" crc="fb1ff92c" md5="eb78426a6ae89b62cbf2584628d22a7d" sha1="af9c8240eb43ce44e00ff6b5ef1d93dcb8fb0db8"/>
+		<rom name="4606\pacpuzzle.mod" size="24044" crc="145bd5dc" md5="a312068b47b40a99006110143a26606d" sha1="3809de939f552d78de3b3c54a71c8530d407cd59"/>
+		<rom name="4606\pacpuzzle.sig" size="2760" crc="4dcbcbc0" md5="41b295b45723e0f67d7859929b4600f8" sha1="d8b1711e99728ef2c766dcce1d9332e121fd86f0"/>
+	</machine>
+	<machine name="PAC-MAN v.1.0.0 (NAMCO, Pronto)[ID 010279C6]">
+		<description>PAC-MAN v.1.0.0 (NAMCO, Pronto)[ID 010279C6]</description>
+		<rom name="4303.mif" size="1583" crc="b4d01f3a" md5="de17f6284deb73889e53e6c3b19b4423" sha1="03fd8afb5d1f9d0a7509bc3fc6d3607cbf65e7a5"/>
+		<rom name="4303\help.txt" size="1907" crc="8403aee5" md5="2582322729615aec8ed410f6fba7e96e" sha1="2df59afd8f4c3d9edeab238eded021691d41b52f"/>
+		<rom name="4303\pac_man.bar" size="48054" crc="57a27122" md5="526891daacdf39a174d61b9e33352ef2" sha1="82ed33767d42ebe9cdc6cf39dbbe5aa7e40d9c50"/>
+		<rom name="4303\pac_man.mod" size="50104" crc="0863f71e" md5="288ad93be29e71ba9f282befb331775d" sha1="452d131343b7068b70edf259afbbce90523ed0e8"/>
+		<rom name="4303\pac_man.sig" size="3792" crc="d64f729f" md5="5d116577ab1f0f2844f2e46e7e62681c" sha1="2a5eba714a092c2f9b58031384db5824ce9ca14f"/>
+	</machine>
+	<machine name="PAC-MAN v.1.0.1 (MAMCO, Interactive Brains)[ID 0101F220]">
+		<description>PAC-MAN v.1.0.1 (MAMCO, Interactive Brains)[ID 0101F220]</description>
+		<rom name="9238.mif" size="1582" crc="7bf14894" md5="92c7bc663cf563ab2a6abe9ff3132ae9" sha1="dac5a9013ecd8df6841671276cffceaa58ca34b6"/>
+		<rom name="9238\pac_man.bar" size="56646" crc="6b1dbf1c" md5="4adcfc763f1e4723705bb80534c27b25" sha1="1895c9e16cbbc6c475daf489f490304f35042d60"/>
+		<rom name="9238\pac_man.mod" size="55884" crc="b70c2ae7" md5="446bf8648f0d1159a9be735fb89c8e94" sha1="5c5d736399b2e56e429b66e79c3522dc78345952"/>
+		<rom name="9238\pac_man.sav" size="23" crc="16119ff8" md5="b10a59557198fb3ce2d1960577954e7d" sha1="42bc0e5219852aee8e698404cc439fa0bb4b6dc4"/>
+		<rom name="9238\pac_man.sig" size="2708" crc="e689f6a9" md5="bccc61a5e8be01f9b39c4ece66e6e21e" sha1="0ac05b9ffc38156d339206343d9beaaeb67c0b7d"/>
+	</machine>
+	<machine name="PAC-MAN v1.0.0 (MAMCO, Interactive Brains)[ID 01016D5A]">
+		<description>PAC-MAN v1.0.0 (MAMCO, Interactive Brains)[ID 01016D5A]</description>
+		<rom name="3807.mif" size="1582" crc="6bfdb57a" md5="28b68a058ba3add4de4c294f25c9e9e3" sha1="a611f9956f41c8b180481335ae9f3897e1c33cdd"/>
+		<rom name="3807\pac_man.bar" size="44500" crc="f8181204" md5="8af6e83277e3484c5809eee4e52e9e67" sha1="998f5754078dad9c3655aa92397a7aad756d22fd"/>
+		<rom name="3807\pac_man.mod" size="54324" crc="2baa385f" md5="0a49fa722b187acc0b133e475121ca45" sha1="773a4b34895ba2029199e16bd20698eaf2b0ac68"/>
+		<rom name="3807\pac_man.sav" size="23" crc="1da5ba95" md5="1625414d3e4cf8fa198c0fb34867fa84" sha1="dcecf0d27414a48f119dc38ea805bccebf16614e"/>
+		<rom name="3807\pac_man.sig" size="4937" crc="2410ef13" md5="d7795b0348eacf46d73fb7a62af9fe69" sha1="7c678d091d95ee0fe392ee108e1d28f2c00d6dfe"/>
+	</machine>
+	<machine name="PAC-MAN v1.0.0 a870 (NAMCO, Pronto)[ID 0103872A]">
+		<description>PAC-MAN v1.0.0 a870 (NAMCO, Pronto)[ID 0103872A]</description>
+		<rom name="6150.mif" size="1575" crc="02af97ab" md5="1ef5ef40c05d329614e9fba9a91820dd" sha1="653c007bff738617b4bd7eb064a4718b70ebd226"/>
+		<rom name="6150\help.txt" size="2099" crc="9a0b34fd" md5="f7dfb902ccef7687d548bf832dbb9dd6" sha1="69b1fd7d8fae3bcc1039fa863591b2e9a9e7b7b3"/>
+		<rom name="6150\pac_man.bar" size="76954" crc="3bef64a2" md5="30433a865e5aed2c45be2c217ff5ce13" sha1="bed38af853f550769ae819d13419d0c1d07c3437"/>
+		<rom name="6150\pac_man.mod" size="54444" crc="1bb01742" md5="ea205cb3d2f064041e68adb152ab045f" sha1="f1505912adfd68810d05a10b64eff518e52555ca"/>
+		<rom name="6150\pac_man.sig" size="3740" crc="a4110abb" md5="6c30d65fc8b3e48e8aac93edc5ed353d" sha1="1c74850e9101e08f74167d3b4fd8ee01797d8165"/>
+	</machine>
+	<machine name="PAC-MAN v1.1.67 (2008, NBGI, Namco)[ID 01088A21]">
+		<description>PAC-MAN v1.1.67 (2008, NBGI, Namco)[ID 01088A21]</description>
+		<rom name="6286.mif" size="1048" crc="01afd82d" md5="01864070677aef04fa512fa19e815b03" sha1="3d0c2a085f8354d655c5aac890444c590998978c"/>
+		<rom name="6286\pac_man.bar" size="94573" crc="02de7ee2" md5="f1240d7e8472dd7964b1ac58afcdd6f7" sha1="88b6352b3b52ebb08eb98700debf1f02101954fa"/>
+		<rom name="6286\pac_man.mod" size="105608" crc="e6e1bc65" md5="78403e94581b9f79df489a3b95e613c1" sha1="0e4aae0d169a17bd138564b71b293454ddd0af5e"/>
+		<rom name="6286\pac_man.sig" size="4400" crc="881c760a" md5="e0c839ab0eda784cba5303804855e317" sha1="b2ee30bde68bced001afe30c640b905227b88c7f"/>
+	</machine>
+	<machine name="SUPER PAC-MAN v1.0.406 (2008, Namco)[ID 0108744D]">
+		<description>SUPER PAC-MAN v1.0.406 (2008, Namco)[ID 0108744D]</description>
+		<rom name="272293.mif" size="5700" crc="251a480b" md5="cef7f1b6fa980f9babaf31a0c36467df" sha1="24933eab6d79d801d549292e94fb8284dbc166db"/>
+		<rom name="272293\clawgrab.bin" size="981" crc="5f65b469" md5="b75a8fd9c618784fb31a1025554e0ab6" sha1="8088aff7459f2bd72c5a76b00260e274eac97cb5"/>
+		<rom name="272293\digdug.bin" size="922" crc="bf64930c" md5="3e99aa46e9682b9df360eba29c140472" sha1="9e4eaa95b641fa8b627ff389156914ffe01d9836"/>
+		<rom name="272293\eur.bin" size="10222" crc="60e14583" md5="3d2c1a81f0b867041e11a18f9049d015" sha1="90e703b5670c31df236f1e21efa643362ab9babe"/>
+		<rom name="272293\galaxian.bin" size="1268" crc="cdb014b7" md5="d434b7bf2e42c81572fea3cd9ada5df7" sha1="2d12ca72af7282565faee37bbfc5d0d9f1aa7a73"/>
+		<rom name="272293\gf.lvc" size="597" crc="b790e8d2" md5="d25633e4ed6aa88d4c43c396afac65ca" sha1="39b271e5bebea4930fc92138bf178db0e8b1e4ca"/>
+		<rom name="272293\gf.lvl" size="671" crc="8fb2d62a" md5="331cad077e1332d9f7dd505b5401cc2f" sha1="3a715944326a9e18922f3fb0da696b7b0a89d2bf"/>
+		<rom name="272293\jpn.bin" size="11794" crc="47726c3b" md5="3b27a26955119cf53488dcea5f93cf06" sha1="e5e95e4ebc045da2ef83c06f837dcdfe599e4d4a"/>
+		<rom name="272293\mg.lvl" size="109" crc="84cb0abc" md5="0c9cf29c511024303f403b7f92055d4f" sha1="088c2803622ca6d34b3fcc91000811b316fee78c"/>
+		<rom name="272293\namcogolf.bar" size="61651" crc="9cc2604e" md5="a11612cd96f6c26f2a9367968dc3617c" sha1="af6456b1c4818316cdcaed8e7bb1157fd26c06ec"/>
+		<rom name="272293\namcogolf.mod" size="222952" crc="98b26713" md5="08f56117cc087ec1dc4a5b2705eba4a8" sha1="6a07adb9cecd94d2b12a9733408f6ea905a92c37"/>
+		<rom name="272293\namcogolf.sig" size="3024" crc="4c11e4e6" md5="03363e83eb46b510d6b88c128a4074af" sha1="bb15ffc1e78ca9adfea104f3ff7ea5ce103d1324"/>
+		<rom name="272293\pacman.bin" size="3482" crc="100a0c06" md5="82968e88406962f49fec987adda3278b" sha1="ac1e5d217b151357105e6a04286559625aaa656f"/>
+		<rom name="272293\sound.bin" size="3669" crc="1858cde8" md5="052eff112aa38602f701389a2a5fd135" sha1="f981b59b4d23cdc9c91739562094d343df920e73"/>
+		<rom name="272293\sprite.bin" size="7928" crc="6d5c7fa3" md5="50cd7828582b7cde7ca0509aba0bff3f" sha1="6264f07ef8a0ab42dcb588e7d5ae0141fe21e23f"/>
+		<rom name="272293\text.bin" size="13075" crc="dbfb0ff0" md5="d377a524092532da1f7c2510088ab40f" sha1="d3365d658359ee79597a84059ff8d014d7691c39"/>
+		<rom name="272293\trigtab.bin" size="288" crc="23ce0546" md5="bd7d2e7dd7ea413868c4f9f61945bd02" sha1="5a60d6054ba9747a24ef43255b267d601f0dc82b"/>
+		<rom name="272293\usa.bin" size="7798" crc="6f1fb517" md5="b898fd02afbf2fc9fa1d77b2ce020027" sha1="7ac37e1ad95e1a292af2986711cfc92bce538fe0"/>
+	</machine>
+	<machine name="SUPER PAC-MAN v1.1.16 (2006, NBGI, Namco)[ID 010438A0][b]">
+		<description>SUPER PAC-MAN v1.1.16 (2006, NBGI, Namco)[ID 010438A0][b]</description>
+		<rom name="34141.mif" size="2576" crc="af3e7279" md5="26dce095f06e6838396cec00699cd1ff" sha1="0c432040b5c04c5b2b7f5ab88ee63a3103b215a7"/>
+		<rom name="34141\superpacman.bar" size="169949" crc="8c0b47e9" md5="7739ba5fdc8233999c0b8592b640a71b" sha1="8a85cc054db50e5b23b2c5356da20cb885599b69"/>
+		<rom name="34141\superpacman.mod" size="143160" crc="1e0ab27c" md5="418296df9ee435888ca30a9b0477addd" sha1="b9a2ee84cca09ed377fc401c2303c4c729f3d351"/>
+		<rom name="34141\superpacman.sig" size="2760" crc="690302ce" md5="2c922c6f1184538975ea29d72748a886" sha1="9b2592cbac605420be4b37a4a68d7167fcbce8ed"/>
+	</machine>
+	<machine name="SimCity Deluxe v1.37.23 en.cac781 a (2011, Electronic Arts)[ID 011301E9]">
+		<description>SimCity Deluxe v1.37.23 en.cac781 a (2011, Electronic Arts)[ID 011301E9]</description>
+		<rom name="282332.mif" size="264" crc="4e681d59" md5="8438a27d9b88ac5a7a6db7b8f2a99999" sha1="61c2e3f370a3c7a5625883134a1e4e951f725fd9"/>
+		<rom name="282332\app.bar" size="158774" crc="0d12d05d" md5="4f7b9e5252e57e88d5b78d6ad940a61b" sha1="a1fe956ecac34746a7a9d4d6cc8ececcfac936c2"/>
+		<rom name="282332\gamelib.rlb" size="236365" crc="0f2768fc" md5="74ef8a56fe1e97121bf2680ab96aeba2" sha1="f56d9e5ae32990cf3bb7f4488652c523f14a6db3"/>
+		<rom name="282332\save0.phf" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f"/>
+		<rom name="282332\save1.phf" size="1" crc="d202ef8d" md5="93b885adfe0da089cdf634904fd59f71" sha1="5ba93c9db0cff93f52b521d7420e43f6eda2784f"/>
+		<rom name="282332\simcitydeluxe.mod" size="440" crc="46555b77" md5="7a912335a988d55f0f906950ce72130d" sha1="7cfdb7769e8c318b20ecb5a5505f83486235f5ca"/>
+		<rom name="282332\simcitydeluxe.sig" size="4404" crc="73730280" md5="3727fb822d63db4a5107406c7af21ff3" sha1="80c949295b5c1304994ef45e785ee13ba8232e19"/>
+	</machine>
+	<machine name="The Sims 2 Castaway v4.5.28 en.cac781 (2012, Electronic Arts)[ID 0113024D]">
+		<description>The Sims 2 Castaway v4.5.28 en.cac781 (2012, Electronic Arts)[ID 0113024D]</description>
+		<rom name="282335.mif" size="306" crc="86ed1dc9" md5="a4983671d44227beaf558ed87207e363" sha1="86c7cdbb68737bda534801430a344b5dd94de131"/>
+		<rom name="282335\simscastaway.bar" size="685639" crc="0d56a796" md5="bf009fb7d4bd36b7ff94417df064c5a4" sha1="c92e3f96e14b7a162c4553e714926f46bf399927"/>
+		<rom name="282335\simscastaway.mod" size="184544" crc="690929c5" md5="b0d3bcb68d9be027727f8995ac8cf178" sha1="bfc12bae2c86cf851d10f10808dd74a978d8189d"/>
+		<rom name="282335\simscastaway.sig" size="4416" crc="960e70f4" md5="6f016502f70ec4afc48be01ed9a491bd" sha1="4ee156816b8ad659928f9f38d6994261ec54266b"/>
+	</machine>
+	<machine name="The Sims 3 World Adventures v4.5.62 en.cac781 (2012, Electronic Arts)[ID 01130225]">
+		<description>The Sims 3 World Adventures v4.5.62 en.cac781 (2012, Electronic Arts)[ID 01130225]</description>
+		<rom name="282333.mif" size="322" crc="a7be476b" md5="a3c8bd03e2da56488e7874c2d473787e" sha1="b8e21c2fa0ca4f43c4fa074ca90c14e9d338b753"/>
+		<rom name="282333\0.bfc" size="6543" crc="bddaf01c" md5="8aa4e05bca5cdcaf8067928fd1828b1f" sha1="010704f8e8d190dac34c34b6ff77da6005a27142"/>
+		<rom name="282333\1.bfc" size="112737" crc="5c699095" md5="b76053958eebdb4d82a4298fb88a2b8f" sha1="3c169807aee0bb5e8e971f6a1a2b23c45a5bfac6"/>
+		<rom name="282333\2.bfc" size="100911" crc="5c8be8f0" md5="9a2dafc7725dcdef16c35641e9fa4483" sha1="d522af36d17ec6ed6bfff268b0101732295931eb"/>
+		<rom name="282333\3.bfc" size="101693" crc="5b6e873b" md5="88d606b5a6862ad8d175e3463b2b8658" sha1="68efb9d76659b77fccebdbe99e6a50613f1f0ed4"/>
+		<rom name="282333\4.bfc" size="95870" crc="14cc0e2a" md5="5295326c49dbf26262c4fb20ad3ecf2d" sha1="f79b281bf867c383cd2ea769e4afcb052018e06c"/>
+		<rom name="282333\5.bfc" size="101029" crc="2414f147" md5="ba2336548578e9723400852e6ca9ef9e" sha1="9ddc9000f894505169db6f870e95a187efbcaa15"/>
+		<rom name="282333\6.bfc" size="44426" crc="62e17053" md5="03469ea07a35703fe3551dde0e8fab0e" sha1="2e802291c8272056e593790f003ab035c4e0c3cc"/>
+		<rom name="282333\charmap" size="256" crc="fba84f74" md5="9b910450b088de1bf68c3663e4c4fdc6" sha1="b7c8e33ec2b7f7fe7d567689cfe309059744e841"/>
+		<rom name="282333\hdr" size="87" crc="684b3e64" md5="f355b631c4e8946e04c19a4d65752751" sha1="d225dbf8ee621b85f81f0ee5d9dbc323dd468fec"/>
+		<rom name="282333\head.bfc" size="1382" crc="eb27c424" md5="f7d3255a51382f51c385e8c1db9b73ef" sha1="ae53207210bf88bf7a73f293fd979d7ff3c4c5a9"/>
+		<rom name="282333\icon.png" size="859" crc="0455ebcc" md5="71b1320c4c110d9b31e5a997db6bf9c6" sha1="de833f4d1543df8c9152075e90fc7fce3deedbdb"/>
+		<rom name="282333\sdkdb_ft.txt" size="11879" crc="60afec77" md5="90fc7b139c0a9c72b06c960ff16d69d9" sha1="29ce65f989ff41914c4c27f51f00880cfe1f3004"/>
+		<rom name="282333\sdkdf.dat" size="18760" crc="7ccd48bd" md5="68eaee56f79a13cbbaae2334af74115b" sha1="887131a6149dca362bdf50b985038cf0cccd32df"/>
+		<rom name="282333\sims3ep.mod" size="332308" crc="ca3a4dda" md5="bc1820aec5db5c6a95ae4ad7ce7e53df" sha1="1b4dc4f3a6bf97297c980fe937e200d24201eda5"/>
+		<rom name="282333\sims3ep.sig" size="4372" crc="afee8b0f" md5="e1f221450d1c3394b76f61a5526edb99" sha1="04f87e8f831ab1103bede5794da015b57d9bbf6f"/>
+		<rom name="282333\t_en" size="37387" crc="e9ca1eb7" md5="99cec8fb29869e56677f0c24cd6499a4" sha1="e460ccb48b267dbd3067ecb532929463f011391b"/>
+	</machine>
+	<machine name="The Sims Collection v1.0.3a (2012, Electronic Arts)[ID 0112AD89]">
+		<description>The Sims Collection v1.0.3a (2012, Electronic Arts)[ID 0112AD89]</description>
+		<rom name="282331.mif" size="9860" crc="220005cd" md5="507f5ec0fb147a34831b2a88b20b2192" sha1="dcaa08ed64b37e38491880506a329f95188c4d31"/>
+		<rom name="282331\simsbundle.mod" size="2192" crc="d30847f3" md5="d4fb983ece8992a75859d46f7b43a382" sha1="727143697b3b85a0e529339d778ffecab630a330"/>
+		<rom name="282331\simsbundle.sig" size="4380" crc="511d2e9c" md5="e070d8a8a46158e2467cdd57296d9e91" sha1="3f36d3d080d744c98ae67e25a14f72c1ae622b0d"/>
+	</machine>
+	<machine name="The Sims Medieval v4.4.2 en.cac781 (2012, Electronic Arts)[ID 01130261]">
+		<description>The Sims Medieval v4.4.2 en.cac781 (2012, Electronic Arts)[ID 01130261]</description>
+		<rom name="282334.mif" size="262" crc="a0b13f17" md5="455ad6d727af7b193ebe8f41fc50455f" sha1="581c79ffc501398dcbe96516ca06e5d4605adcd9"/>
+		<rom name="282334\0.bfc" size="116303" crc="b47f9690" md5="a1ff841f221cfcb2435eeedceb5c6686" sha1="6dea12d2032485ab46130e0c04495dba9a9bb280"/>
+		<rom name="282334\1.bfc" size="130766" crc="369d0bc3" md5="85c33d6fb09c5a978520fba562767d62" sha1="440192da7858edcb565f42460c17c0a0a51fe484"/>
+		<rom name="282334\2.bfc" size="130828" crc="58c32ead" md5="41679478546943c8b71b286c612711e8" sha1="40f656823fff89163e243d860a2463386ee7f59e"/>
+		<rom name="282334\3.bfc" size="130078" crc="2f94dd48" md5="46aa7d4426b8f90978c657f22146d4fa" sha1="e3c57e8672d0370279822b546c9653794e247ae6"/>
+		<rom name="282334\4.bfc" size="37651" crc="dfae6b6d" md5="1911c4ae2a48589b26a8a950b2d9f226" sha1="91842475dc159bb530f68e820c2bbfd5b4081403"/>
+		<rom name="282334\5.bfc" size="187389" crc="60e9dcae" md5="c1bbc472069fa6e43866b6de8e9a7c8a" sha1="c64b63de852001b5d63e6054919ce5bfbb376b1c"/>
+		<rom name="282334\6.bfc" size="121143" crc="cf36abc4" md5="20a9045178cd27a50a1c6f8ac6180fc6" sha1="11395f0e2f6846f18423c2b4ff097937c92b57ef"/>
+		<rom name="282334\7.bfc" size="26663" crc="468927c1" md5="9e2be9f4457bfbd1153a4829d543d3a6" sha1="5ad665e57c20fb03921d514cec2f2c990a21a778"/>
+		<rom name="282334\charmap" size="256" crc="fba84f74" md5="9b910450b088de1bf68c3663e4c4fdc6" sha1="b7c8e33ec2b7f7fe7d567689cfe309059744e841"/>
+		<rom name="282334\dummy.dat" size="6000" crc="fcdc0dc4" md5="9099b3a77b3bb10960115417901fd1a2" sha1="5f64c68bed38a1e171a834e41a246796674ce922"/>
+		<rom name="282334\female_0.qcp" size="3918" crc="0e368fa9" md5="e6702698420d9e5adb2c37b02aba6f4f" sha1="62ad6198dd41bc302857600b26e7f5901ac827f5"/>
+		<rom name="282334\female_1.qcp" size="3890" crc="b5e153cb" md5="bdf53c615fdf14d777b0a1d43c1483b5" sha1="7e92fe01f5f0950b93d2f1be33f7c9ab98449cfc"/>
+		<rom name="282334\female_2.qcp" size="3968" crc="8e32a4b7" md5="6324b02b2e22f2ccc32a57481de75c88" sha1="bab12ab2a159818eedcc457ef25c21b90418843a"/>
+		<rom name="282334\hdr" size="141" crc="315b8b26" md5="91f74d6062077342bb0736ce99ace279" sha1="6abdaaa444c76b431253304f5cd45aa7cf03d398"/>
+		<rom name="282334\head.bfc" size="14402" crc="bc740f01" md5="0d414ad0d7c067811efc289868bbdfdd" sha1="5e4fe172e1420b3f4dad0c939e7c78b02fd41535"/>
+		<rom name="282334\main_menu_music.mid" size="9866" crc="13a9bf47" md5="e8e222b30781f1128455ae40322b5398" sha1="b16cb6afafa4454e75d9fec4aa0140b1c8838588"/>
+		<rom name="282334\male_0.qcp" size="2914" crc="7262eb4b" md5="cdfc7154bf71afc7049d096ba776f564" sha1="2599c101106192b3b23a2cdd975ccb36b95f1ed3"/>
+		<rom name="282334\male_1.qcp" size="4604" crc="e0e6ef44" md5="ec30e2000ec6ddc61093daddeb930486" sha1="62172662c7a2630fc2336da2607b55ad3365d1f9"/>
+		<rom name="282334\male_2.qcp" size="4286" crc="f2885430" md5="400c6d1fba1e7eb7a12d1169eb2b2639" sha1="884798270d0f890c395ad7ae69b24e4720ac37f9"/>
+		<rom name="282334\moregames" size="74" crc="a96674ab" md5="2348cdf3a0bbd1a25b02ac23c7b7634d" sha1="79cdfe9adb37f0d9f7e42b60bf2f4f26d27b265c"/>
+		<rom name="282334\props.bin" size="70" crc="4b1ff1bf" md5="6728b6999b540f7cc1358010fd072eb7" sha1="47186af46c0a925f1b4c0a92fb9b848902e1f9dc"/>
+		<rom name="282334\sdkdf.dat" size="6000" crc="fcdc0dc4" md5="9099b3a77b3bb10960115417901fd1a2" sha1="5f64c68bed38a1e171a834e41a246796674ce922"/>
+		<rom name="282334\sfx_bad_stuff.mid" size="554" crc="70ba74a1" md5="f4400c5da942dd997b1bfe310197e28f" sha1="84ea3c530c9848285c93d50512f1be61c6ab0ec8"/>
+		<rom name="282334\sfx_bell.mid" size="383" crc="1fb69c7e" md5="ef9993251b906515fb96c5e6e3eb2451" sha1="d65b326fb2cbd768a4df6085b4b461c8aa094331"/>
+		<rom name="282334\sfx_bubbly.qcp" size="2100" crc="a9f5bee3" md5="4110676a8404ee82af2828a71652d6b3" sha1="0de5f756375e10ad34cd1fa9ebb3ae6af651f71a"/>
+		<rom name="282334\sfx_complete_chapter.mid" size="1431" crc="e4f42422" md5="d4971645b72d8bb5a02f634913b9e10a" sha1="b3d0d1220d2d4178705e5749978ed6800ae0c4f5"/>
+		<rom name="282334\sfx_crafting.mid" size="2475" crc="05d0d131" md5="2975be5e68986dd7a10dbcaed3c06cfe" sha1="a520a11bd81f9ff088f3eb992653280660f1cf2d"/>
+		<rom name="282334\sfx_drama.mid" size="934" crc="6f5817e2" md5="a9f38c35358af042224e900dfdb5a4d0" sha1="211deb7af6030452d363f85b85c5d381e9fac50c"/>
+		<rom name="282334\sfx_fighting_cheer.mid" size="1179" crc="22353a36" md5="0c510d1e9b3c2f83fe5305c6b88187dc" sha1="ca08d0cc036cfe873c822d360664c73efc2991f0"/>
+		<rom name="282334\sfx_horse_snort.qcp" size="1386" crc="8f25c922" md5="d5c46388e4ad1a1806d099de52298a87" sha1="8950d910fe888b30ec302981202bbdb2637c6334"/>
+		<rom name="282334\sfx_horse_whinny.qcp" size="4006" crc="4801bd69" md5="d2264275c1dfd361377e0188e1b76c3e" sha1="c574e5f08fb416451de202ed89815d1fd5d1684f"/>
+		<rom name="282334\sfx_lose_minigame.mid" size="465" crc="690fc9e4" md5="fdf672bbb68c230408a5ddd02291ba07" sha1="de072cc0ca2f5fbec280143d6e529b1c35eff164"/>
+		<rom name="282334\sfx_metal_clash.qcp" size="690" crc="bcd53b6d" md5="6d290efdb3112b2d23d952dc28c60f1c" sha1="849955086e06bdbbc031bc308852ad3bdd43e971"/>
+		<rom name="282334\sfx_quest_complete.mid" size="659" crc="dce691d1" md5="5cb8543fb7ababcd917d0b70762c921c" sha1="0fc150050c6d97b976ed216c5cec8b744441979b"/>
+		<rom name="282334\sfx_quest_complete_villain.mid" size="893" crc="52005441" md5="58bdb8e788bdf6a053e1f12e3b256c66" sha1="43bac315202220a4dfa752c1c53431dbe3fc63cf"/>
+		<rom name="282334\sfx_romantic.mid" size="1115" crc="3cbab7a1" md5="e76801d718a3e090058746a150510f28" sha1="757e61c19b0cfbd3bc22de47b369694206574009"/>
+		<rom name="282334\sfx_seething.mid" size="3712" crc="6d8d4f09" md5="f7274dcb470aabda4c1621a707c56662" sha1="4b90a44a9ba3ba2e112b8c42ccb139a9870b09b8"/>
+		<rom name="282334\sfx_violin.mid" size="1322" crc="b0396201" md5="0704000a36972696b934f2bac357055f" sha1="9cbed7714bc81068ad4cde8bf8fdf37da497c94c"/>
+		<rom name="282334\sfx_win_minigame.mid" size="661" crc="8ef268f9" md5="f634c8a1a7bb1703bf6e19d233d81bfd" sha1="ebc6225103389e8434a56666f0bec317177cd007"/>
+		<rom name="282334\simsmedieval.mod" size="279404" crc="8db91063" md5="c9c38f3520d90bb4040e54856dcce2c2" sha1="c8145c98044e9e67cba9f78d46bec0945323ead8"/>
+		<rom name="282334\simsmedieval.sig" size="4388" crc="981335f4" md5="78357d54db1fd21c7128d2faeca03ad3" sha1="403053b33d0281d180b127d412b927b76bcc825e"/>
+		<rom name="282334\t_en" size="104661" crc="abd59c34" md5="80895542ae8eecbc69916c9bf31f96b3" sha1="23edc27f0fcd2a16631b418f2e6d04e35a1c9376"/>
+		<rom name="282334\ui_toggle.qcp" size="456" crc="dd2fbebf" md5="6012780db046da8478e093ef2ae1b40e" sha1="03eae12bd308df49c0f70f1e9a1f8ad06225d7c2"/>
+	</machine>
 </datafile>
