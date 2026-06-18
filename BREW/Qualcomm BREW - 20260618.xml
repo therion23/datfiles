@@ -2628,4 +2628,436 @@
 		<rom name="25234\topolon.sig" size="2764" crc="3d9c6156" md5="ad2d3e63eff9d65fdb326b2f67e2f9ce" sha1="5ebbac724bb21afffa155ec137414cdace81528c"/>
 		<rom name="25234\uscl.bar" size="35376" crc="3b9a41c0" md5="d1472921e9ffa8a672759831fe43d327" sha1="a85a846a422417279e05a29617ae944ae7ca9c68"/>
 	</machine>
+	<machine name="DOOM 2 RPG v4.0.16 en.mtw385 vzw (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v4.0.16 en.mtw385 vzw (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1550" crc="17ab19b0" md5="6246c944697e14c744e75ff586845469" sha1="e44a9044a4457ae84256dbc813d121b923b7c154"/>
+		<rom name="277714\doom2rpg.idx" size="442" crc="e495881b" md5="e3c6c5d63b13aa72bc66e152cbde16b0" sha1="420333f6b1d77adcf2fdbf4ba8712d5e6ff4c274"/>
+		<rom name="277714\doom2rpg.mod" size="235032" crc="a32469e2" md5="b96ad46ec6b657e47807fdd558edadb9" sha1="c00d5470b2da4a580018538c7913dd5782bd3b28"/>
+		<rom name="277714\doom2rpg00.bin" size="453300" crc="96fd4eb5" md5="d4e62393ff892b97ad55eccadf27bc77" sha1="37101c2f18a21f7903a55655df8a66b44f65fa11"/>
+	</machine>
+	<machine name="DOOM 2 RPG v7.0.43 en.lgvx9700 vzw (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.0.43 en.lgvx9700 vzw (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1554" crc="da99b1ce" md5="383fb159d278584324f40a4ca6774ff4" sha1="2dabe0ed7c7413798eaab8f8f8eb72c1db13beaa"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="2224428" crc="159d1f67" md5="c2161dbec9faad793a4524bfef546390" sha1="7225d0324b1ffdc6be91aa3b084e17bebda5ef8c"/>
+		<rom name="277714\doom2rpg.mod" size="416112" crc="7a1f113a" md5="65c8179c67002123eae10ae124d70d74" sha1="2b2e5cb012b31f6946a11e465ce99370fbc79d7c"/>
+	</machine>
+	<machine name="DOOM 2 RPG v7.0.54 en.lgvx9900 vzw (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.0.54 en.lgvx9900 vzw (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1554" crc="0d236a5d" md5="ad13e3f8a46a6ca7a8fd1d2089db2981" sha1="9dcd1c54cacf0a8b7a758bbd31b0ab13ab747f17"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="2110616" crc="9586c0a1" md5="893bdfc4e1630779de4b3c88064c8eb8" sha1="6ccd928fab7b4b4a504f0dc8f4f921defdaa4595"/>
+		<rom name="277714\doom2rpg.mod" size="373484" crc="c05db196" md5="800305513e9143347203ebe0393a6598" sha1="d3a3827ef4408606634eaf6e61badeb8305cd9d7"/>
+	</machine>
+	<machine name="DOOM 2 RPG v7.0.97 en.sau490 (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.0.97 en.sau490 (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1542" crc="7b135337" md5="8eaf6aad6d898d97f19df5a7507d552c" sha1="e22d9fc5824d68da7a7f275d2ec0dc41268d023f"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="1988578" crc="5f27da24" md5="a1a30bf4f4c908823fd3ce99ef0dd994" sha1="ada61449a0009af16d89f757ac5ba8aea90b1c5f"/>
+		<rom name="277714\doom2rpg.mod" size="372152" crc="bd900dd5" md5="05bb488fdc60a8ada87b6f3d98adf305" sha1="fe8346050cd482183daba2b41354837516fefffa"/>
+	</machine>
+	<machine name="DOOM 2 RPG v7.0.98 en.lgvx8360 (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.0.98 en.lgvx8360 (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1546" crc="4dadb3dd" md5="1c52151b146ba40b949c61a83807e2cb" sha1="0b94f969ed26ebf329f60be5654c37370014c30c"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="2067512" crc="f10af004" md5="b2c456b318ecc507c1366561bcadd641" sha1="0042d8e871d1c6fe59537b9b8e36f03f7bb65bed"/>
+		<rom name="277714\doom2rpg.mod" size="375348" crc="ba40dc8c" md5="d20a42b6c837ba1e69eca715cc4b8f34" sha1="b961e30b92a7900063ba84017f9e202376a1577e"/>
+	</machine>
+	<machine name="DOOM 2 RPG v7.1.19 en.pn8990 (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.1.19 en.pn8990 (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1542" crc="5891c758" md5="a72adf1afdcd4e1c08e4715d0f017010" sha1="2154ef111ccfd388e12f0223101a01066c270cec"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="1984595" crc="64e782d3" md5="37533c849057ec4b33d8cc0cfd86f211" sha1="1a3feace8438ed465675557fdde702edc672d0fe"/>
+		<rom name="277714\doom2rpg.mod" size="372224" crc="5aa7cdc0" md5="8707670da0ee46ef68433345f67a224a" sha1="54345b9161cef7d29b4b583ed2a316560f5129ed"/>
+	</machine>
+	<machine name="DOOM 2 RPG v7.1.38 en.mtw766 (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.1.38 en.mtw766 (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1542" crc="a8c34389" md5="a6e5d419fcd31488fc9795a598a6fc8b" sha1="51d6e29378fb493bafca1e4ba6ee324469710bad"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="1984592" crc="f56a98a1" md5="c020831f9256e51c7e97e987e1ceccd0" sha1="ec89e28245dfb811ebfb0cef13ee60a12e87cd02"/>
+		<rom name="277714\doom2rpg.mod" size="375904" crc="cdfdfbc5" md5="7e2bafe8efe1225eab15ae5445e9a336" sha1="2efb59e61abe05c9e9c9b80ead09b194292f4c40"/>
+	</machine>
+	<machine name="DOOM 2 RPG v7.1.68 en.sau420 (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.1.68 en.sau420 (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1542" crc="4fb33d49" md5="245acfaaa190357aedd80268535af9de" sha1="fadb05d51777309ad677f850daeda929640de0f5"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="1984607" crc="71659839" md5="08dee495991cac566438cf7ebb9379d0" sha1="d3f992150ee8e3528ef52ecfd7b88ce51a7d12c7"/>
+		<rom name="277714\doom2rpg.mod" size="374740" crc="d1cea5cb" md5="c9da4a351894d2323725f92e25f6deec" sha1="2bf0a750b115336fe69ed22bffb987205aee4906"/>
+	</machine>
+	<machine name="DOOM 2 RPG v7.1.73 en.lgax830 (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.1.73 en.lgax830 (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1544" crc="a1e75ca7" md5="4866010af18e7f3df381bb75cb7e255f" sha1="faf51b54d2ec71bf79777591ed7205d353972d8d"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="2067532" crc="f078dbdc" md5="0d7971309a7c8b92f3f24846aeb3f075" sha1="48bb6a86d12654be210ef3eb70fcdde99f9983f7"/>
+		<rom name="277714\doom2rpg.mod" size="373572" crc="11d7c40d" md5="6dd9eb05ae74f84fb5063c2abbf7eb6f" sha1="46a76674d0bb490c7440795f2de94bfce728aeb5"/>
+	</machine>
+	<machine name="DOOM 2 RPG v7.2.42 en.pn8999 (2010, Electronic Arts)[ID 0109010F]">
+		<description>DOOM 2 RPG v7.2.42 en.pn8999 (2010, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1542" crc="4f78b4a7" md5="8f043e36f8822bea409b58fa2507124f" sha1="2173b5167836fcf8f77e2e1e2219235afa8f9c48"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="2228426" crc="f78c323c" md5="63036f1225d70f4d103e7a9ef3428f1c" sha1="3aefb4e46a87745929ad4109a0921b9b5754ee60"/>
+		<rom name="277714\doom2rpg.mod" size="417648" crc="fcd5a8da" md5="295a9d3fe4e09f4f6427f087e1e681ba" sha1="50bdf55b92acdc12571327c556a123f7f85ae3ef"/>
+	</machine>
+	<machine name="Doom II RPG v4.0.18 en.mtw385 (2009, Electronic Arts)[ID 0109010F][b]">
+		<description>Doom II RPG v4.0.18 en.mtw385 (2009, Electronic Arts)[ID 0109010F][b]</description>
+		<rom name="277714.mif" size="1544" crc="a6bc7ae7" md5="9f3c462ec8ca238bd7e79766b8ed397f" sha1="6b3254d945213b07b87c3074b6ee7417d2337540"/>
+		<rom name="277714\doom2rpg.idx" size="442" crc="b1470b18" md5="f178dc84e42a106ebc5d4b8ed559788d" sha1="de33ca22cd6c09dbab6bc6eb62af7d0562c0ed87"/>
+		<rom name="277714\doom2rpg.mod" size="239568" crc="266f87ef" md5="df9e771155b23d73c415f19771f13730" sha1="75f1121943c00cf700f3456c78152786a108e9b2"/>
+		<rom name="277714\doom2rpg00.bin" size="453451" crc="2b4816dd" md5="2bfb5dcca70e57641e7522b963097aa6" sha1="ac58a46667e9cb44b0f123e6e4237216a22ef880"/>
+	</machine>
+	<machine name="Doom II RPG v4.0.21 en.sau350 (2009, Electronic Arts)[ID 0109010F]">
+		<description>Doom II RPG v4.0.21 en.sau350 (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="2414" crc="a288a1cb" md5="12866bbbb7f6c01e8ac7d74b307a43b7" sha1="2c51f4257a7d35d7e3602b2db0bc07e187fad763"/>
+		<rom name="277714\doom2rpg.idx" size="442" crc="49118cb6" md5="865e3546e8c9f6323ba9cdc285ad6697" sha1="b05e42049299108a7e82d79da6e40bd27aa735a5"/>
+		<rom name="277714\doom2rpg.mod" size="239556" crc="931f0d0e" md5="eb9996f083acd17a22789e2da2b1f54b" sha1="8dea9b8005f6dcc86ff19bce92887b3443195645"/>
+		<rom name="277714\doom2rpg00.bin" size="453452" crc="440490fb" md5="52c1623773ff422c56031cf27f40d2da" sha1="1f87698732cb92ccd5e73dd9d90132b61b99bf2c"/>
+	</machine>
+	<machine name="DOOM II RPG v7.1.24 en.lgvx8575 vzw (2009, Electronic Arts)[ID 0109010F]">
+		<description>DOOM II RPG v7.1.24 en.lgvx8575 vzw (2009, Electronic Arts)[ID 0109010F]</description>
+		<rom name="277714.mif" size="1556" crc="b03023e7" md5="cb558a6982e7bae9eb204f2b918d6aae" sha1="9df2ee6f51e5d8283679dbc8bb1ccfa8c3ec7964"/>
+		<rom name="277714\config.txt" size="33" crc="a4c3999a" md5="a051f83b03035aedadab2e589723d7b6" sha1="f0f3be264b409e1cf8a1dae9d895a73e81ba196b"/>
+		<rom name="277714\doom2rpg.bar" size="2224430" crc="a44ff498" md5="9cc4d65390de5c6c5d496cd9d3ab2314" sha1="98818a0a42f479314883618bec515e0ea9cbd5ce"/>
+		<rom name="277714\doom2rpg.mod" size="422832" crc="65c8d591" md5="601d03a83952a5a7fac54166cca9305e" sha1="0850af298cd25719415c64921b3eef54f05c55f1"/>
+	</machine>
+	<machine name="Metal Slug (euwave)[ID 0102F0CF][b]">
+		<description>Metal Slug (euwave)[ID 0102F0CF][b]</description>
+		<rom name="20874.mif" size="16854" crc="935bd494" md5="a82f6e21972ede49d0b4946f4f1e2cb0" sha1="48c4cca913b59a66ebd25062c71d655767f216ed"/>
+		<rom name="20874\config.pjh" size="8" crc="2e6dcac6" md5="9c68e99293afff366cd08c98ca6e7e98" sha1="623544fe321ef970833fd1535f970e0f848c4546"/>
+		<rom name="20874\img0.bar" size="155500" crc="4c59b539" md5="898fadb69d9c4b883c7c5366bd6bd1bb" sha1="7145fd9c2026835476f0ce15029edd2d640c81a4"/>
+		<rom name="20874\img1.bar" size="72938" crc="dbc39ecb" md5="bd4a4491f1586e4a0c320d7c6326e0ae" sha1="85afe088df2cfacb244e02132c3165d067b8b6bb"/>
+		<rom name="20874\metal.mod" size="87880" crc="1e52bfef" md5="c2736f6da4ed500f83826d622ba94ff8" sha1="fd7d098d607f1b9da9553c1971c8f605147219ea"/>
+		<rom name="20874\metal.sig" size="3842" crc="b2c46301" md5="bc8d4f03572e682983b29a5aca6553f2" sha1="0bf45df3a84659b8766045458a967cac8e62c297"/>
+		<rom name="20874\sound.bar" size="27969" crc="88d331cb" md5="72ed70ba4546386a0c85c371e915f60e" sha1="75749ee97fde5eeb3ab7172200c51bb611907ec9"/>
+	</machine>
+	<machine name="Metal Slug MI (SNK)(I-play)[ID 01031CB2][mx500]">
+		<description>Metal Slug MI (SNK)(I-play)[ID 01031CB2][mx500]</description>
+		<rom name="21244.mif" size="11520" crc="6302b9ad" md5="17e54e1fa5930b892060162475c4f4ca" sha1="a57a6acbe0ba73f1557d2e429e0de190079b6d7d"/>
+		<rom name="21244\data.bar" size="431704" crc="44eed4f1" md5="b4efce9fdedaa90037e8f287222aa4b1" sha1="071ad2e61b5ee704f51075271e083e77e275e101"/>
+		<rom name="21244\ms2.mod" size="103252" crc="9c41da61" md5="5a94ce8c482b90e4a9dda4399b61cef8" sha1="4b2ac283450efe299d1859e07691286d6addd78e"/>
+		<rom name="21244\ms2.sig" size="2740" crc="4cefcd05" md5="50887210b3bf7cad165103cf093544c7" sha1="80ab35bb58de24aa41a5e5b97c7316fc4801f26e"/>
+		<rom name="21244\store.dat" size="108" crc="75f01f27" md5="676db1739fd17ca08d4ed7d56122b9c1" sha1="a65280ca7ddecdc2554e85d193fda114e17051cf"/>
+		<rom name="21244_orig_encrypted.mif" size="11612" crc="f6207916" md5="4ae4b433410f7a692ad7d297a9fd1b85" sha1="25549a067973b8e6d146ebb06108bc1a2eddf158"/>
+	</machine>
+	<machine name="Metal Slug MI (SNK)(I-play)[ID 01031CB2][u420]">
+		<description>Metal Slug MI (SNK)(I-play)[ID 01031CB2][u420]</description>
+		<rom name="21244.mif" size="11520" crc="6302b9ad" md5="17e54e1fa5930b892060162475c4f4ca" sha1="a57a6acbe0ba73f1557d2e429e0de190079b6d7d"/>
+		<rom name="21244\data.bar" size="442544" crc="d9b996b9" md5="df55dea15a7b3f47c457060f2d4d007d" sha1="2d1884655ae5e59b3937c2c754aaee9090171649"/>
+		<rom name="21244\ms2.mod" size="103828" crc="50ef6ca0" md5="240b62b35177be19861b3cea9e7334dd" sha1="3a1c7d6b687fe2a25e00efc31ff5b584fcd0c5ac"/>
+		<rom name="21244\ms2.sig" size="2736" crc="b73aa6ca" md5="b286ea1237ff2d2c9d62dea92168f2dc" sha1="89e7856494023cdd9cb6be557700809cc4a87bdf"/>
+	</machine>
+	<machine name="Metal Slug Mobile 3 v0.0.18 (2007, I-play)[ID 0104AEB5][vx7000]">
+		<description>Metal Slug Mobile 3 v0.0.18 (2007, I-play)[ID 0104AEB5][vx7000]</description>
+		<rom name="262778.mif" size="2687" crc="1e8b8175" md5="0b09782d73f3189fa6c69de365e924b3" sha1="f2d721352a2b79d56612fc84343f1d7ed22df74e"/>
+		<rom name="262778\metalslug3.mod" size="142372" crc="813bd309" md5="64ff4bb9333b69d55e07955276878fde" sha1="33af2d1d74043697730c8ea48cb00f535f9e2ef2"/>
+		<rom name="262778\metalslug3.sig" size="2752" crc="8176f190" md5="addbd9216b74c05ac280d16f5349f6e7" sha1="77c339220c658120b2d9dc85d9d3fea2ac138d3f"/>
+		<rom name="262778\pak.bar" size="356149" crc="3127e8a4" md5="4939db62cb584f3af9e96243930dc5e4" sha1="9105160c999c52161ecbda0e410b7c045d49bfd6"/>
+	</machine>
+	<machine name="Metal Slug Mobile 3 v1.0.2 (2007, I-play)[ID 0104AEB7][a990]">
+		<description>Metal Slug Mobile 3 v1.0.2 (2007, I-play)[ID 0104AEB7][a990]</description>
+		<rom name="262786.mif" size="10312" crc="52dbac48" md5="0de1bfeb119d37d90a8cc3e46a102b47" sha1="c871dfd987eec539bf86b393d43056ab89ad9dec"/>
+		<rom name="262786\metalslug3.bar" size="1539183" crc="60119a6d" md5="2b6449295bc2e96599e67514ff5b6ae6" sha1="8af1e8e121a572e4bbfd81aa8acc0bfccfe456c1"/>
+		<rom name="262786\metalslug3.mod" size="150744" crc="9f146029" md5="99730f2ade725e18fa5085c28718e71e" sha1="9eb9c10fe3227504425a8489a1a7b4f5310afb6e"/>
+		<rom name="262786\metalslug3.sig" size="2752" crc="f95b29d9" md5="41c8454c7760e5cc644b162f34229378" sha1="e3c170ce9aa83893629bd32ffec6c653e2ff5d46"/>
+		<rom name="262786\sys" size="72" crc="c89bd215" md5="602cc33e58c6448dd8ed9e87a913f421" sha1="f8cc415d8b8928fd5b293379a005effdfd545dee"/>
+	</machine>
+	<machine name="Metal Slug Mobile 4 v1.0.0 (2008, I-play)[ID 01079531][w766]">
+		<description>Metal Slug Mobile 4 v1.0.0 (2008, I-play)[ID 01079531][w766]</description>
+		<rom name="274069.mif" size="7345" crc="2a8dd4f9" md5="b73cf655bf4c8a368ab119d8f82ae927" sha1="14b0876d888c42daab6ab824e0eebeee7f56b4c9"/>
+		<rom name="274069\ballast.rms" size="8704" crc="c5b43dd9" md5="d946c4e00b10be82f8d142f508ece41d" sha1="87149ca9fc689d0d02866276f9112adbdeea06f2"/>
+		<rom name="274069\jh.rms" size="4248" crc="8400dcea" md5="17317f4a7a571a8afc5850004e71d831" sha1="de7293bf9a4c3a32e3f1cd0a5032a31ed2af5250"/>
+		<rom name="274069\ji.rms" size="4248" crc="0816d045" md5="1b735e97cc77f55db08dc87801b768de" sha1="e082da7046e48cea6f2d355e6e21364e86fce30a"/>
+		<rom name="274069\metalslug4.bar" size="387251" crc="8aa89299" md5="85b3d1091bc640abacf1ba4259692822" sha1="3725314ef917718b5c53880aca6c5b7a59782a34"/>
+		<rom name="274069\metalslug4.mod" size="405456" crc="d081f691" md5="8c57530450e91aaf5faa51ddfbb036aa" sha1="c8ca2d1992b14e431bfb01180a356bd72cd20c99"/>
+		<rom name="274069\metalslug4.sig" size="2748" crc="5d6dfc39" md5="e8d93439fc69b17525d90d29b4054c53" sha1="bd6fa2153899becb1af1057c03f684ba119de7ef"/>
+	</machine>
+	<machine name="Metal Slug Mobile 4 v1.1.7 (2008, I-play)[ID 01079531][cdm8945]">
+		<description>Metal Slug Mobile 4 v1.1.7 (2008, I-play)[ID 01079531][cdm8945]</description>
+		<rom name="274069.mif" size="7376" crc="17286ef2" md5="6d322b77eadba121f051d35fcc0df32d" sha1="56923849cc1d2f27f81ae4eed1beea099ba5e8ff"/>
+		<rom name="274069\metalslug4.bar" size="379454" crc="e1aad54c" md5="2e166082f48644ccf618097b9eb899dc" sha1="82734f69ba5287690b69549fbf6cd4b83d4c8572"/>
+		<rom name="274069\metalslug4.mod" size="401156" crc="51c3f561" md5="cb8d26e7e69da5e728dff4a9d32cd55c" sha1="866816cf6608b077d6b8987109bb1e12e7eee063"/>
+		<rom name="274069\metalslug4.sig" size="2752" crc="55bfac7c" md5="0a6b90925cc2c25d1171f19d6051bffd" sha1="5756af8a88413e5f9f83bea27cd08b6256bd35df"/>
+	</machine>
+	<machine name="Ratchet &amp; Clank_ Going Mobile v1.17.2 (2005, Sony)[ID 01035370][a645]">
+		<description>Ratchet &amp; Clank_ Going Mobile v1.17.2 (2005, Sony)[ID 01035370][a645]</description>
+		<rom name="22932.mif" size="5544" crc="6ecaa871" md5="d025c51c571996fd7736b6670ce0f610" sha1="2d096e9b2d065c2e92705289ffa8a39a43361511"/>
+		<rom name="22932\ratchet.bar" size="99706" crc="bcb1d806" md5="0bc65f756b9968da2d22740ec88ba398" sha1="25aee6aa295a02ed4267f36cba6b0795f8e0ff16"/>
+		<rom name="22932\ratchet.cfg" size="147" crc="43b079a1" md5="aca97d96b4652345c9efcd992be3b977" sha1="99e8fc77d369ae3e6c60129a3a070b9ceac99312"/>
+		<rom name="22932\ratchet.mod" size="70712" crc="1040df46" md5="ecc7b9ebae409b6fd74246e21e7478e8" sha1="d149fddbd076afaa716401e4229aaf34706772ad"/>
+		<rom name="22932\ratchet.sig" size="2736" crc="90479ae0" md5="ed2ad343f711bf960a96066a0b66a472" sha1="1f3a438bf01fb77e1fcdee427b7850b97ec6d119"/>
+	</machine>
+	<machine name="Ratchet &amp; Clank_ Going Mobile v1.3.1 (2005, Sony)[ID 01034658][6305]">
+		<description>Ratchet &amp; Clank_ Going Mobile v1.3.1 (2005, Sony)[ID 01034658][6305]</description>
+		<rom name="22405.mif" size="5562" crc="a3de05e5" md5="a752f64f3da468471b05589e24ccc825" sha1="4164d68b44a266e0fb3d6c884d6c8c4744432339"/>
+		<rom name="22405\en_us.txt" size="13681" crc="2f0a3277" md5="4f53c77e1c94800c7c8adfcff29f1df8" sha1="9cd5fdf96b9b1cd3e6e001c14adce34a10c39a2f"/>
+		<rom name="22405\ratchet.bar" size="136324" crc="74841bd1" md5="0b9a4855e237f714c8f639775f1f0283" sha1="aedf4a5a3feff9b3195d8b8c1fe921fd369e6016"/>
+		<rom name="22405\ratchet.cfg" size="72" crc="f27132a9" md5="7cbefc7550f9adc232fcb90e2a86ec13" sha1="adf349acb4b89625450d16c58c94a0590e0f96ac"/>
+		<rom name="22405\ratchet.mod" size="108988" crc="ed6eb9ab" md5="c4ef6db816c8f39a509bf3f40b33195f" sha1="91c25f2371ac3588b6537b0b2a5f896e1a19eac4"/>
+		<rom name="22405\ratchet.sig" size="2736" crc="f07de2ec" md5="57e34d3560f0092b8066009e59df578a" sha1="26a5a859d139bb9477db497e0f6a2979ad5be075"/>
+	</machine>
+	<machine name="Ratchet &amp; Clank_ Going Mobile v1.37.1 (2006, Sony)[ID 01042A91][v325]">
+		<description>Ratchet &amp; Clank_ Going Mobile v1.37.1 (2006, Sony)[ID 01042A91][v325]</description>
+		<rom name="36392.mif" size="5564" crc="0f62daae" md5="f16cfd844beb2b7863921e734fcc13dd" sha1="33ea48e314c171a0370d250d3d2ab49017b53c95"/>
+		<rom name="36392\ratchet.bar" size="136324" crc="74841bd1" md5="0b9a4855e237f714c8f639775f1f0283" sha1="aedf4a5a3feff9b3195d8b8c1fe921fd369e6016"/>
+		<rom name="36392\ratchet.cfg" size="72" crc="f27132a9" md5="7cbefc7550f9adc232fcb90e2a86ec13" sha1="adf349acb4b89625450d16c58c94a0590e0f96ac"/>
+		<rom name="36392\ratchet.mod" size="109524" crc="383acae1" md5="58ec1e07f901f960bab437e1fc461c2e" sha1="9bbac66fbb6a3323444d049c73b23d5440351c38"/>
+		<rom name="36392\ratchet.sig" size="2736" crc="231e2607" md5="807e8bb0cfe6d298c880713523736026" sha1="f409a571eac35499fa4168d5b3873edbd6bbba31"/>
+	</machine>
+	<machine name="Asphalt 2 (2005, Gameloft)[ID 0103879C][A870 - 128x128]">
+		<description>Asphalt 2 (2005, Gameloft)[ID 0103879C][A870 - 128x128]</description>
+		<rom name="6134.mif" size="2342" crc="4afdd93e" md5="2a720ec341def473b1eeeeda97c74cf4" sha1="a49aa70414eccd890ef6fe8ae4cdf7a50bc50880"/>
+		<rom name="6134\asphalt2.mod" size="145460" crc="82d025ca" md5="20d2df20c45a97d2414befd2a704ef83" sha1="f4b07ae34eb667ab645a883e941c6d7255cf02b4"/>
+		<rom name="6134\asphalt2.sig" size="3700" crc="76be1527" md5="97d860c9a5d4c9e8f6a8d2f1a09970e9" sha1="c66ad7ff1dcfcc0420b717428bfa1d6c219ef0ba"/>
+		<rom name="6134\data0.bar" size="107037" crc="9a19df1b" md5="2c921c85d079c8748611453b78b8c1e8" sha1="e17d4c49c99a9bbfc8a5aeda6a7ab95ae777213a"/>
+		<rom name="6134\data1.bar" size="108198" crc="c567016f" md5="62bf7c8e959f05e720e565e7228e56c7" sha1="d0c957dce34fd94f5bf07c11deef82c9f13c577d"/>
+		<rom name="6134\params.bar" size="87" crc="95d70783" md5="65d0ef0b789088bcd1a26c9283d0fcc0" sha1="e86bf5f60f23385c58bc6e3786bba7f8bc5a5784"/>
+	</machine>
+	<machine name="Asphalt 2 3D - Tracks and Cars - Addon Data">
+		<description>Asphalt 2 3D - Tracks and Cars - Addon Data</description>
+		<rom name="carsa.bar" size="179698" crc="52101046" md5="ca592f407ccf334f998d4c9e01ea9973" sha1="47d9dbcacb74607bad149d77f898677e58af6d9a"/>
+		<rom name="carsb.bar" size="157971" crc="7edf68cb" md5="57e7a078164787b9725daaf86e839f13" sha1="191954a92e98023db375a97adab0d9e49414938d"/>
+		<rom name="carsc.bar" size="217856" crc="280d53db" md5="f0eaa9ccb17dcc7b4b7d706973e08dc3" sha1="44b03d5a517e7e40a21bac81b09d2391429f6c8f"/>
+		<rom name="carsd.bar" size="359372" crc="73dfe460" md5="57c71d917d249d077a14266976105157" sha1="0fdd73ee7713f90ae72dbb711d037979b18367e1"/>
+		<rom name="carse.bar" size="250145" crc="6cc60b15" md5="78c557eddf2e4c22512f56c6750d1bab" sha1="2d8174d1d54dad9039f164fb5368d469bc8e7998"/>
+		<rom name="carsg.bar" size="224899" crc="f21c5af6" md5="b13783e2cafc6737a9d04b82884142ab" sha1="32ad7f4d71863309020f165d9ac83bce5416e952"/>
+		<rom name="carsh.bar" size="65853" crc="c8e21bb5" md5="d85eda7245dcc825bf48935dc1a5e18d" sha1="d231ab7131620142037104601643e3069e463e4c"/>
+		<rom name="carsi.bar" size="195927" crc="37e5c58c" md5="b905730e332dd43ba60c7b8d2640ce3f" sha1="055f2c8f768ccc0122c99fcf66b0e707e126b410"/>
+		<rom name="carsj.bar" size="239643" crc="cdc06b44" md5="98f5002443403917f1b0a154247efce8" sha1="d31412497654e8b3a83fb3a8e110dcd03e045aef"/>
+		<rom name="carsk.bar" size="451256" crc="0e3bfd7b" md5="f026512d0af42086b8900ae9266304d3" sha1="6639d522799b5cbf73a8ea5566643c7ba595758a"/>
+		<rom name="tracksa.bar" size="61305" crc="d8da2402" md5="db94d49cdad5f299de119c1ba3e27967" sha1="008981a7fe0adb1779d5be01fa62f0101b87ac2e"/>
+		<rom name="tracksb.bar" size="256898" crc="72a708f2" md5="1b6daaef557dfcaf126ead933b277c30" sha1="f7cef9a0393d628291fe4342c107b667ffc44932"/>
+		<rom name="tracksc.bar" size="190645" crc="2085bbfb" md5="2bff6bdd2f9dfbd4c38ab1f1873912f1" sha1="7481f61779411ee00801f82b71a93f75420f1902"/>
+		<rom name="tracksd.bar" size="200018" crc="34882b6c" md5="5e9d17d628e7d8a35b0725914f3101a0" sha1="7d70d16f2fdf5e3ea795217b4f890a0b078ae06d"/>
+		<rom name="trackse.bar" size="292810" crc="92a2cdf5" md5="d677dd4de639eb0c6d9ff493bbd29466" sha1="6f679de0f8808f04408e3cf76ee8c91e6a3d5dd6"/>
+		<rom name="tracksf.bar" size="205940" crc="1be8357a" md5="4c7410a34f9e8dd6dbc3affa412df8a8" sha1="dbea0745a38be069ee7243de7324e0213b5ef0a8"/>
+		<rom name="tracksg.bar" size="286991" crc="43a15b2b" md5="9646bf7c42c51e224b803e93f1cd937d" sha1="6b8167de9f78323de1b533bf131b9228e34a3d1a"/>
+		<rom name="tracksh.bar" size="248808" crc="4ae9be33" md5="d85754a06481abbdd33d62b5c5053a70" sha1="895cf1d22dab51f228c9e331abaf604e915b867e"/>
+		<rom name="tracksi.bar" size="150891" crc="413d50de" md5="b6f1e74ce1c33297003fac49a2870e8e" sha1="6e45ce4604c98e59b822d7af18f7e72fd60af9ca"/>
+	</machine>
+	<machine name="Asphalt 3_ Racing 3D v1.1.0 (2007, Gameloft)[ID 0105B08C][K1C - 176x204]">
+		<description>Asphalt 3_ Racing 3D v1.1.0 (2007, Gameloft)[ID 0105B08C][K1C - 176x204]</description>
+		<rom name="264155.mif" size="5264" crc="ee6e5ef9" md5="f8865ea33b07df9014eeb32c2c12a124" sha1="3e5e6499f3f51f95d408616769de46df34ad7a84"/>
+		<rom name="264155\asphalt3.mod" size="2056" crc="17714b79" md5="201a1ea188cfe3b455336f9d6a1efe9b" sha1="39ff0cc352c7c611e9e9eab7bb359420f1a6aaf9"/>
+		<rom name="264155\asphalt3.sig" size="2728" crc="e1e907c1" md5="0eb6d50390fd3ca877a2b6e1ca6d8466" sha1="7103aa9a31f1b953772102755d9fcabd42aad7ab"/>
+		<rom name="264155\init.bar" size="463147" crc="eb475aaa" md5="a2d38f44e4eaf5ef10f31d3cecbe2a8b" sha1="3b21c3e60ca6d38147dbfbeff22ccfa2873c348b"/>
+		<rom name="264155\mesh.bar" size="190930" crc="f26c249e" md5="3c10b693a62a8a2c9038952da076cc85" sha1="fe310fdff1fe454a4aaec5c97f6b25460d393eee"/>
+		<rom name="264155\res_files.bar" size="447151" crc="b1155da1" md5="2cbac30ff27febfba5d5002bfec3b568" sha1="9d0f37093dbb3d89f1b09a0efce6b89a0e64e6be"/>
+		<rom name="264155\texture.bar" size="213717" crc="9ade3242" md5="0a9d94c71b4dc5d25a1dd54e14f85faa" sha1="d05f7954d488809500cd3d8abd331e95a2f8f80f"/>
+		<rom name="264155\z.bar" size="388853" crc="cb5b2ea2" md5="fd9c4e039138beb44c713cfe857233dc" sha1="4dd25293f97509c3f4549ad2b255fb3e6c319a7b"/>
+	</machine>
+	<machine name="Asphalt 3_ Racing 3D v1.1.0 (2007, Gameloft)[ID 0105B08C][V3A - 176x204]">
+		<description>Asphalt 3_ Racing 3D v1.1.0 (2007, Gameloft)[ID 0105B08C][V3A - 176x204]</description>
+		<rom name="264155.mif" size="5264" crc="ee6e5ef9" md5="f8865ea33b07df9014eeb32c2c12a124" sha1="3e5e6499f3f51f95d408616769de46df34ad7a84"/>
+		<rom name="264155\asphalt3.mod" size="2056" crc="17714b79" md5="201a1ea188cfe3b455336f9d6a1efe9b" sha1="39ff0cc352c7c611e9e9eab7bb359420f1a6aaf9"/>
+		<rom name="264155\asphalt3.sig" size="2728" crc="5087a5cc" md5="a4d1e6d0770aced5bac2208bb4177993" sha1="d41cce9ec4323345703769b9d6d46e1ee81e163c"/>
+		<rom name="264155\init.bar" size="463147" crc="eb475aaa" md5="a2d38f44e4eaf5ef10f31d3cecbe2a8b" sha1="3b21c3e60ca6d38147dbfbeff22ccfa2873c348b"/>
+		<rom name="264155\mesh.bar" size="190930" crc="f26c249e" md5="3c10b693a62a8a2c9038952da076cc85" sha1="fe310fdff1fe454a4aaec5c97f6b25460d393eee"/>
+		<rom name="264155\res_files.bar" size="447151" crc="b1155da1" md5="2cbac30ff27febfba5d5002bfec3b568" sha1="9d0f37093dbb3d89f1b09a0efce6b89a0e64e6be"/>
+		<rom name="264155\texture.bar" size="213717" crc="9ade3242" md5="0a9d94c71b4dc5d25a1dd54e14f85faa" sha1="d05f7954d488809500cd3d8abd331e95a2f8f80f"/>
+		<rom name="264155\z.bar" size="381613" crc="104c2d78" md5="0efb1557d054ca42057d29f4e9d4f9ee" sha1="e56640d8e22fc90b143bcec978764c31f119ed48"/>
+	</machine>
+	<machine name="Asphalt 3_ Racing 3D v1.1.2 (2007, Gameloft)[ID 0105B08C][W385 - 128x160]">
+		<description>Asphalt 3_ Racing 3D v1.1.2 (2007, Gameloft)[ID 0105B08C][W385 - 128x160]</description>
+		<rom name="264155.mif" size="5264" crc="f713df23" md5="e51a6f282b830adeda22f4f0cb0d720d" sha1="11759cb00335a59fb997fb93ff3fd0ffedee13e5"/>
+		<rom name="264155\asphalt3.mod" size="2056" crc="17714b79" md5="201a1ea188cfe3b455336f9d6a1efe9b" sha1="39ff0cc352c7c611e9e9eab7bb359420f1a6aaf9"/>
+		<rom name="264155\asphalt3.sig" size="2728" crc="781e15f8" md5="1ca3c7df0129613e59cf6baa20be0d9e" sha1="4d1091f50e64f56fe10ff26bde362c8d4c1ebce5"/>
+		<rom name="264155\init.bar" size="487382" crc="14b77490" md5="07a777d91241e6636850b7deb9511bb7" sha1="53e13adff8b32192e585f20dafc5d7be33ff1094"/>
+		<rom name="264155\mesh.bar" size="190930" crc="f26c249e" md5="3c10b693a62a8a2c9038952da076cc85" sha1="fe310fdff1fe454a4aaec5c97f6b25460d393eee"/>
+		<rom name="264155\res_files.bar" size="447151" crc="b1155da1" md5="2cbac30ff27febfba5d5002bfec3b568" sha1="9d0f37093dbb3d89f1b09a0efce6b89a0e64e6be"/>
+		<rom name="264155\texture.bar" size="215482" crc="4e7e26b6" md5="dcc16073ea6adf9d9413a0006c681c96" sha1="5a849458109e3a47cf0ec40309c4081bbf18c3cb"/>
+		<rom name="264155\z.bar" size="381859" crc="1db1fd44" md5="314cee528dfbfb9e7abfe3c4fb064a19" sha1="56e1acb36b71dc46c57ae1be534f2d9d0b5b656c"/>
+	</machine>
+	<machine name="Asphalt 4 _ ER v1.0.2 (2008, Gameloft)[ID 01073B52][U550 - 176x204]">
+		<description>Asphalt 4 _ ER v1.0.2 (2008, Gameloft)[ID 01073B52][U550 - 176x204]</description>
+		<rom name="272447.mif" size="4302" crc="9fa91ad8" md5="91b837244e7a7aab5bda1717280624a5" sha1="3d2f6bfc761d4640da93a1e086a6742448af2b12"/>
+		<rom name="272447\0.bar" size="24" crc="b3bbc07f" md5="a534f60a277679bfd7d6506fae7a6f96" sha1="a5aa65f2bfb116179de4cb151900877f5001454d"/>
+		<rom name="272447\1.bar" size="1564" crc="ffe12409" md5="3a89a454b58d3a82ff23f19e2cdfd67f" sha1="fbbe2e1858f7ab2529299d8de8c7a377e65715da"/>
+		<rom name="272447\2.bar" size="958" crc="5f91504c" md5="70a4b88f28674e2e4c87db34e3589ebc" sha1="79de3a4024b6547a747245d574daabbaba33394b"/>
+		<rom name="272447\3.bar" size="35368" crc="ed8b2c0e" md5="c76c97c5297bd8e8cee78559604b3939" sha1="fe7abf7c2229be8bc78b2a9c6ffa926fc31fa0e5"/>
+		<rom name="272447\4.1.bar" size="49124" crc="0b2df4a4" md5="4d1f2686d9a9c6c38436ad7e6e1e518a" sha1="7fc5a91bff3a9944684d7297dd4369000f3d336a"/>
+		<rom name="272447\4.bar" size="150023" crc="54d47760" md5="2b5e35ac041393cf9e05c66d7f3198eb" sha1="0b6e0c6f20f068237e2738582d733dd9668dc0ba"/>
+		<rom name="272447\5.bar" size="21533" crc="e6cf2a1e" md5="4ba7c10e30d846e32c95f9831cce93b8" sha1="d7108c2c2bbd2bc4503fb6e41e13231f02d1f015"/>
+		<rom name="272447\6.bar" size="64268" crc="eb6843aa" md5="3ac085777153be46634bf8bc0d8fd438" sha1="0e7abab0e2c04dde78a2edf78673e9fec3d99f2f"/>
+		<rom name="272447\7.1.bar" size="149853" crc="4e298321" md5="1cf56000ef6d14aa4cb4654aada94146" sha1="d9f7cf74eeda6d83a611c0019a5891cce7a01b0a"/>
+		<rom name="272447\7.2.bar" size="39703" crc="103dcae3" md5="9ac7ffc822e160bacf9b9151596b24f3" sha1="e7646a4ee210044a1268f740c363d11aed351c69"/>
+		<rom name="272447\7.bar" size="150134" crc="84a47777" md5="77ce97ddf115084d24364f9051abcd58" sha1="b4cca33eca7ff90bb3bb1ad89c7e79929ab3046e"/>
+		<rom name="272447\8.bar" size="70328" crc="c4357911" md5="be73c279b3a97ac8603807c14807f4f1" sha1="af5d559c7ff14fe719ea558e9f6040db88d5d3a3"/>
+		<rom name="272447\9.1.bar" size="18006" crc="cd3e2b27" md5="c444013fba72f84109df2ebd47e60b5a" sha1="7f83fc670183a7ce31b253a4035d6726fff910e3"/>
+		<rom name="272447\9.bar" size="150392" crc="65df5a41" md5="2a52369b3be90b16def9a892fd72feb9" sha1="b6f118874cc19743e67fd749ded0d197a6d5273a"/>
+		<rom name="272447\a4" size="658" crc="03d028a2" md5="0a503c2afde133d86d13952346632d32" sha1="0874f4ffe2fc8513654186a017e51b2b2b44bd7e"/>
+		<rom name="272447\asphalt4.mod" size="152528" crc="a4140c2b" md5="d792f44c3f90638920e7c32a68b838ea" sha1="180105ed1b5d131688e836547d4e4394fa139bb4"/>
+		<rom name="272447\asphalt4.sig" size="2720" crc="c8f5b9cf" md5="ee1927713b0a1e56034771ba9456d9c4" sha1="38d6a966f38fa19f69d2cf82c73782ca9df805aa"/>
+		<rom name="272447\en.bar" size="9321" crc="6f83909a" md5="c5ec229ccd79cee55a332ad65b268a57" sha1="37ebc57cfbb7e59379e0a8636c4c44468bccf36e"/>
+	</machine>
+	<machine name="Asphalt 4 _ ER v1.1.0 (2009, Gameloft)[ID 01073B52][W385 - 128x160]">
+		<description>Asphalt 4 _ ER v1.1.0 (2009, Gameloft)[ID 01073B52][W385 - 128x160]</description>
+		<rom name="272447.mif" size="4302" crc="f5c86906" md5="b40fa74fc42048ccad0c817c92cf1653" sha1="92f6ea500bc9c12012bff1c7999bdcaa6f2d353b"/>
+		<rom name="272447\0.bar" size="24" crc="b3bbc07f" md5="a534f60a277679bfd7d6506fae7a6f96" sha1="a5aa65f2bfb116179de4cb151900877f5001454d"/>
+		<rom name="272447\1.bar" size="1564" crc="ffe12409" md5="3a89a454b58d3a82ff23f19e2cdfd67f" sha1="fbbe2e1858f7ab2529299d8de8c7a377e65715da"/>
+		<rom name="272447\2.bar" size="958" crc="3ddec4f0" md5="3dcddf80990307fdce5aefe4921c07f2" sha1="24f1d695fa833c3b982a817fbf19c3b9de6ab870"/>
+		<rom name="272447\3.bar" size="35368" crc="ed8b2c0e" md5="c76c97c5297bd8e8cee78559604b3939" sha1="fe7abf7c2229be8bc78b2a9c6ffa926fc31fa0e5"/>
+		<rom name="272447\4.1.bar" size="49124" crc="0b2df4a4" md5="4d1f2686d9a9c6c38436ad7e6e1e518a" sha1="7fc5a91bff3a9944684d7297dd4369000f3d336a"/>
+		<rom name="272447\4.bar" size="150023" crc="54d47760" md5="2b5e35ac041393cf9e05c66d7f3198eb" sha1="0b6e0c6f20f068237e2738582d733dd9668dc0ba"/>
+		<rom name="272447\5.bar" size="23507" crc="0061f335" md5="c5f2592958ba9f9d523652c5a074d3eb" sha1="815cf155c4d040500f6d7123ec276abe949f61de"/>
+		<rom name="272447\6.bar" size="64290" crc="c5f272ac" md5="e013319c3ef8291287d57babe8a6d7a5" sha1="4fd318e046d11d35935b437c7d073a25f572311e"/>
+		<rom name="272447\7.1.bar" size="57328" crc="6040a819" md5="1e5e9db7da063233302dbaa5bf3fde52" sha1="80941c8715b78950ccba8a19955b8b242d4d6e63"/>
+		<rom name="272447\7.bar" size="147546" crc="de85fbad" md5="061e3c2fbf4386438bd391d68ad8f2b9" sha1="32a5aee65c6588a0516d28cd26c8908f0afcc992"/>
+		<rom name="272447\8.bar" size="9060" crc="406754b2" md5="a9057a677146c3f1af2e9e92aa1e3b0b" sha1="4f173db917f88c71d32c8398d1d5a6678bfdbf27"/>
+		<rom name="272447\9.1.bar" size="18006" crc="cd3e2b27" md5="c444013fba72f84109df2ebd47e60b5a" sha1="7f83fc670183a7ce31b253a4035d6726fff910e3"/>
+		<rom name="272447\9.bar" size="150392" crc="65df5a41" md5="2a52369b3be90b16def9a892fd72feb9" sha1="b6f118874cc19743e67fd749ded0d197a6d5273a"/>
+		<rom name="272447\a4" size="658" crc="03d028a2" md5="0a503c2afde133d86d13952346632d32" sha1="0874f4ffe2fc8513654186a017e51b2b2b44bd7e"/>
+		<rom name="272447\asphalt4.mod" size="169084" crc="b8b1c258" md5="a33d259c77bf7bb8dbded7a30f08d848" sha1="ccb21c18e005464d0bdd6ddc548579a575e072ac"/>
+		<rom name="272447\asphalt4.sig" size="2720" crc="540c37ac" md5="2e53b3e4d684d003d6408f7ea96a05e9" sha1="46aab1df360363015b0676698102767cb4427ff2"/>
+		<rom name="272447\sp.bar" size="9765" crc="1cdd7504" md5="8720938755815d7c563ce9b5d0ad04c4" sha1="ba4058666f08f92aa9d1e6e722819e84c9227e47"/>
+	</machine>
+	<machine name="Asphalt 6 v1.0.7 (2011, Gameloft)[ID 010A7CF8][VN251 - 240x320]">
+		<description>Asphalt 6 v1.0.7 (2011, Gameloft)[ID 010A7CF8][VN251 - 240x320]</description>
+		<rom name="281878.mif" size="8944" crc="4df0e731" md5="b0b9c2435053936948db3ae2d2d5dc09" sha1="d61862f7b1561170d5f0f1de8e1f3f22abc883eb"/>
+		<rom name="281878\app.bar" size="299" crc="4362de7a" md5="e147eb6e5255cfcbf72579b83b67f2dc" sha1="4d69fcbf62bf3db228fff512756b455679d0508b"/>
+		<rom name="281878\data.bar" size="256269" crc="087d6819" md5="03453a683343c03fa568e945b9302507" sha1="adf1bc7747d8f1af6dad0e5ecdee91fe1630388d"/>
+		<rom name="281878\gloftasp6.mod" size="530768" crc="e36c85eb" md5="b5bcf70c509021c458e600e06d8aa88f" sha1="bc3156770726f73a22ea1e2c94566f65499c8ef5"/>
+		<rom name="281878\gloftasp6.sig" size="4372" crc="8193cf80" md5="db969b81f5a104c8b23c1c4ca7c57fd0" sha1="ef397b948f3b20ccbfbc12721f7561dec6e1fbbf"/>
+	</machine>
+	<machine name="Asphalt 6 v1.0.8 (2011, Gameloft)[ID 010A7CF8][E3100 - 240x320]">
+		<description>Asphalt 6 v1.0.8 (2011, Gameloft)[ID 010A7CF8][E3100 - 240x320]</description>
+		<rom name="281878.mif" size="8932" crc="0513788f" md5="16b5ddb5305e57382749a27a24841754" sha1="3cc1a0530c5324d5792903a6529c09a95d5344d1"/>
+		<rom name="281878\app.bar" size="353" crc="fa8cc029" md5="35e796af756b71f26d77fe9fc906b446" sha1="74bcb9517ceca2c744420a75964b165423ec1480"/>
+		<rom name="281878\data.bar" size="325108" crc="6fb1ad41" md5="c036981b6efea8fd84ec86c3e23d8549" sha1="76b87249e31feae03dea54f3ebdb9c6b893d75e4"/>
+		<rom name="281878\gloftasp6.mod" size="564080" crc="1bd6aec1" md5="e3a7dfe29a6e61bcab6cca4363f17d67" sha1="779a409c00a7dcc524669ddb926937b66c50e46f"/>
+		<rom name="281878\gloftasp6.sig" size="2716" crc="153064b2" md5="38983c964592bebd2845202757300f52" sha1="771813b3f9b537c347ddd492ca4d51ee0c9bdc9a"/>
+	</machine>
+	<machine name="Asphalt Urban GT 2 3D v1.0.3 (2005, Gameloft)[ID 01041C84][N5050 - 176x204]">
+		<description>Asphalt Urban GT 2 3D v1.0.3 (2005, Gameloft)[ID 01041C84][N5050 - 176x204]</description>
+		<rom name="6105.mif" size="5298" crc="fe1e1d3f" md5="0dcd8c80191d430080aa22e0bea2cc09" sha1="ed9576a289a63b764b7f84535c82463086954130"/>
+		<rom name="6105\a2.mod" size="1321652" crc="d03af202" md5="e78ff47f20049cce3e9c932153a31d54" sha1="c9d69f25f88b93fa9cc4d974982d7a9b62aa4006"/>
+		<rom name="6105\a2.sig" size="7016" crc="666486cf" md5="708d4b45cb1deac3ddcf15c95b306829" sha1="519b6a896fc69c9972ecfaee4c1c123b9a5cbd6e"/>
+		<rom name="6105\carsa.bar" size="179841" crc="54461bb3" md5="1d4c2331b96e93fe300a05d42e84ab21" sha1="926ed8f90ef883314846b068b4411be6f325f04c"/>
+		<rom name="6105\carsb.bar" size="157971" crc="28db894f" md5="0c2f80cdde216e5dd4d04cf78147d182" sha1="f97f96aae6cb4876c6ab865ca32d0889b3d559f1"/>
+		<rom name="6105\carsd.bar" size="359372" crc="73dfe460" md5="57c71d917d249d077a14266976105157" sha1="0fdd73ee7713f90ae72dbb711d037979b18367e1"/>
+		<rom name="6105\carse.bar" size="250145" crc="6cc60b15" md5="78c557eddf2e4c22512f56c6750d1bab" sha1="2d8174d1d54dad9039f164fb5368d469bc8e7998"/>
+		<rom name="6105\carsg.bar" size="224899" crc="f21c5af6" md5="b13783e2cafc6737a9d04b82884142ab" sha1="32ad7f4d71863309020f165d9ac83bce5416e952"/>
+		<rom name="6105\carsh.bar" size="65853" crc="c8e21bb5" md5="d85eda7245dcc825bf48935dc1a5e18d" sha1="d231ab7131620142037104601643e3069e463e4c"/>
+		<rom name="6105\carsi.bar" size="195927" crc="37e5c58c" md5="b905730e332dd43ba60c7b8d2640ce3f" sha1="055f2c8f768ccc0122c99fcf66b0e707e126b410"/>
+		<rom name="6105\carsj.bar" size="239643" crc="cdc06b44" md5="98f5002443403917f1b0a154247efce8" sha1="d31412497654e8b3a83fb3a8e110dcd03e045aef"/>
+		<rom name="6105\carsk.bar" size="451256" crc="0e3bfd7b" md5="f026512d0af42086b8900ae9266304d3" sha1="6639d522799b5cbf73a8ea5566643c7ba595758a"/>
+		<rom name="6105\cfg.bar" size="15" crc="fca30389" md5="6017ad69faa3b43200e935a9e37ae097" sha1="debfe0728fa591be29909691978581164fc5fea5"/>
+		<rom name="6105\dnlconfig.bar" size="766" crc="e460ef4b" md5="8996b3f2b5b8078b7ec18bc778adb4ed" sha1="9e9100b90110230d39999e0e3ac822ca2a8408fd"/>
+		<rom name="6105\main.bar" size="641784" crc="df9bbb42" md5="46fb3987bd09b4a85b216cc9f41e54ce" sha1="b660a1c40df6a58c17731547a6afedaf994072c7"/>
+		<rom name="6105\tracksa.bar" size="61305" crc="d8da2402" md5="db94d49cdad5f299de119c1ba3e27967" sha1="008981a7fe0adb1779d5be01fa62f0101b87ac2e"/>
+		<rom name="6105\tracksb.bar" size="256898" crc="72a708f2" md5="1b6daaef557dfcaf126ead933b277c30" sha1="f7cef9a0393d628291fe4342c107b667ffc44932"/>
+		<rom name="6105\tracksc.bar" size="190645" crc="2085bbfb" md5="2bff6bdd2f9dfbd4c38ab1f1873912f1" sha1="7481f61779411ee00801f82b71a93f75420f1902"/>
+		<rom name="6105\tracksd.bar" size="200018" crc="34882b6c" md5="5e9d17d628e7d8a35b0725914f3101a0" sha1="7d70d16f2fdf5e3ea795217b4f890a0b078ae06d"/>
+		<rom name="6105\trackse.bar" size="292810" crc="92a2cdf5" md5="d677dd4de639eb0c6d9ff493bbd29466" sha1="6f679de0f8808f04408e3cf76ee8c91e6a3d5dd6"/>
+		<rom name="6105\tracksf.bar" size="205940" crc="1be8357a" md5="4c7410a34f9e8dd6dbc3affa412df8a8" sha1="dbea0745a38be069ee7243de7324e0213b5ef0a8"/>
+		<rom name="6105\tracksg.bar" size="286991" crc="43a15b2b" md5="9646bf7c42c51e224b803e93f1cd937d" sha1="6b8167de9f78323de1b533bf131b9228e34a3d1a"/>
+		<rom name="6105\tracksh.bar" size="248808" crc="4ae9be33" md5="d85754a06481abbdd33d62b5c5053a70" sha1="895cf1d22dab51f228c9e331abaf604e915b867e"/>
+		<rom name="6105\tracksi.bar" size="150891" crc="413d50de" md5="b6f1e74ce1c33297003fac49a2870e8e" sha1="6e45ce4604c98e59b822d7af18f7e72fd60af9ca"/>
+		<rom name="6105\z.bar" size="630460" crc="343f36a9" md5="62994946ea1392bc518571de01718f36" sha1="ca7c63e658953040c6063080013991c12a9676c8"/>
+	</machine>
+	<machine name="Asphalt Urban GT 2 3D v1.0.5_TIM (2005, Gameloft)[ID 0104259B][b][Z630(IT) - 240x320]">
+		<description>Asphalt Urban GT 2 3D v1.0.5_TIM (2005, Gameloft)[ID 0104259B][b][Z630(IT) - 240x320]</description>
+		<rom name="6122.mif" size="3482" crc="f144d233" md5="c3a53cfdb7762f4de7f23f76bb9218e6" sha1="612cc3de43186ed018c9b0139a615179245c14db"/>
+		<rom name="6122\a2.mod" size="1320748" crc="5d78d17b" md5="3a6efc0121defe7c7e3cf9132b947102" sha1="2067bc5c00ab6687f0f644c5f77ae67370e47e7e"/>
+		<rom name="6122\a2.sig" size="2712" crc="bbbaeaaa" md5="edade9a06ccc98951eaa6c0a167a155c" sha1="60233c7890bb670cc44bf5e7952a72202e4f43ac"/>
+		<rom name="6122\carsa.bar" size="179698" crc="52101046" md5="ca592f407ccf334f998d4c9e01ea9973" sha1="47d9dbcacb74607bad149d77f898677e58af6d9a"/>
+		<rom name="6122\carsb.bar" size="157971" crc="28db894f" md5="0c2f80cdde216e5dd4d04cf78147d182" sha1="f97f96aae6cb4876c6ab865ca32d0889b3d559f1"/>
+		<rom name="6122\carsc.bar" size="217856" crc="280d53db" md5="f0eaa9ccb17dcc7b4b7d706973e08dc3" sha1="44b03d5a517e7e40a21bac81b09d2391429f6c8f"/>
+		<rom name="6122\carsd.bar" size="359372" crc="73dfe460" md5="57c71d917d249d077a14266976105157" sha1="0fdd73ee7713f90ae72dbb711d037979b18367e1"/>
+		<rom name="6122\carse.bar" size="250145" crc="6cc60b15" md5="78c557eddf2e4c22512f56c6750d1bab" sha1="2d8174d1d54dad9039f164fb5368d469bc8e7998"/>
+		<rom name="6122\carsg.bar" size="224899" crc="f21c5af6" md5="b13783e2cafc6737a9d04b82884142ab" sha1="32ad7f4d71863309020f165d9ac83bce5416e952"/>
+		<rom name="6122\carsh.bar" size="65853" crc="c8e21bb5" md5="d85eda7245dcc825bf48935dc1a5e18d" sha1="d231ab7131620142037104601643e3069e463e4c"/>
+		<rom name="6122\carsi.bar" size="195927" crc="37e5c58c" md5="b905730e332dd43ba60c7b8d2640ce3f" sha1="055f2c8f768ccc0122c99fcf66b0e707e126b410"/>
+		<rom name="6122\carsj.bar" size="239643" crc="cdc06b44" md5="98f5002443403917f1b0a154247efce8" sha1="d31412497654e8b3a83fb3a8e110dcd03e045aef"/>
+		<rom name="6122\carsk.bar" size="451256" crc="0e3bfd7b" md5="f026512d0af42086b8900ae9266304d3" sha1="6639d522799b5cbf73a8ea5566643c7ba595758a"/>
+		<rom name="6122\dnlconfig.bar" size="766" crc="6f3d37ce" md5="212b7570850ef804a2371ed226c4ca02" sha1="189416391c293b0687741e98463db074ca7db1c7"/>
+		<rom name="6122\main.bar" size="693915" crc="7bc084f4" md5="cc7e854e33ed87d48eff6d4f703a5485" sha1="5f2ca566aacf8dcb4cdfa2625c321828b03c0940"/>
+		<rom name="6122\tracksa.bar" size="61305" crc="d8da2402" md5="db94d49cdad5f299de119c1ba3e27967" sha1="008981a7fe0adb1779d5be01fa62f0101b87ac2e"/>
+		<rom name="6122\tracksb.bar" size="256898" crc="72a708f2" md5="1b6daaef557dfcaf126ead933b277c30" sha1="f7cef9a0393d628291fe4342c107b667ffc44932"/>
+		<rom name="6122\tracksc.bar" size="190645" crc="2085bbfb" md5="2bff6bdd2f9dfbd4c38ab1f1873912f1" sha1="7481f61779411ee00801f82b71a93f75420f1902"/>
+		<rom name="6122\tracksd.bar" size="200018" crc="34882b6c" md5="5e9d17d628e7d8a35b0725914f3101a0" sha1="7d70d16f2fdf5e3ea795217b4f890a0b078ae06d"/>
+		<rom name="6122\trackse.bar" size="292810" crc="92a2cdf5" md5="d677dd4de639eb0c6d9ff493bbd29466" sha1="6f679de0f8808f04408e3cf76ee8c91e6a3d5dd6"/>
+		<rom name="6122\tracksf.bar" size="205940" crc="1be8357a" md5="4c7410a34f9e8dd6dbc3affa412df8a8" sha1="dbea0745a38be069ee7243de7324e0213b5ef0a8"/>
+		<rom name="6122\tracksg.bar" size="286991" crc="43a15b2b" md5="9646bf7c42c51e224b803e93f1cd937d" sha1="6b8167de9f78323de1b533bf131b9228e34a3d1a"/>
+		<rom name="6122\tracksh.bar" size="248808" crc="4ae9be33" md5="d85754a06481abbdd33d62b5c5053a70" sha1="895cf1d22dab51f228c9e331abaf604e915b867e"/>
+		<rom name="6122\tracksi.bar" size="150891" crc="413d50de" md5="b6f1e74ce1c33297003fac49a2870e8e" sha1="6e45ce4604c98e59b822d7af18f7e72fd60af9ca"/>
+		<rom name="6122\z.bar" size="631065" crc="058c417a" md5="b9849aac4ec584616c95d0ba87d25c66" sha1="d292aeda106880e93b7764f3b4eaf0f2ed2a890c"/>
+	</machine>
+	<machine name="Asphalt Urban GT MP v1.1.1 (2005, Gameloft)[ID 01031FB3][vx8000]">
+		<description>Asphalt Urban GT MP v1.1.1 (2005, Gameloft)[ID 01031FB3][vx8000]</description>
+		<rom name="5111.mif" size="2420" crc="84e95399" md5="bdd8274ddf72dc05837e104c7fb97384" sha1="d32138a3cae3a458c36c10932af333fb986e31c8"/>
+		<rom name="5111\asphalt.mod" size="392108" crc="da6abd8c" md5="90112a4d87ca7a50417635cfbebbf30a" sha1="79fe8b95f0bbef66c9ded41067365e4671c2bf19"/>
+		<rom name="5111\asphalt.sig" size="10348" crc="4d17d660" md5="a370f3b31ac36bdc89c18b819004f9e2" sha1="20f3646008a0aa2c6ff874f84ec7cc5aaab45990"/>
+		<rom name="5111\dummy.dat" size="2909" crc="e2dd9834" md5="617a70336913047b0f69b828bfa4d098" sha1="ae93197085fc6fd7b3fefa0c587f75fd39f29d0d"/>
+		<rom name="5111\dummy2.dat" size="2909" crc="e2dd9834" md5="617a70336913047b0f69b828bfa4d098" sha1="ae93197085fc6fd7b3fefa0c587f75fd39f29d0d"/>
+		<rom name="5111\resource_dat.bar" size="1649547" crc="7f489754" md5="330d1e03991575770bf829a2f84590b1" sha1="72279c941c037fa01871bac65951914f060e1132"/>
+		<rom name="5111\resource_off.bar" size="37038" crc="b4a7864b" md5="7978862796ca6ebf04ecb5d6f69571a4" sha1="9bb8011f493ae21a0bc4609836030a6329b1c9b5"/>
+	</machine>
+	<machine name="Asphalt Urban GT v0.0.1 (2004, Gameloft)[ID 0102B64A][s80]">
+		<description>Asphalt Urban GT v0.0.1 (2004, Gameloft)[ID 0102B64A][s80]</description>
+		<rom name="4353.mif" size="5276" crc="2973eb46" md5="34b11dffebc3f3c461ed4461a8a9283a" sha1="9be84b35579d7fd0fbb09aa2c188470c145f4e2e"/>
+		<rom name="4353\asphalt.mod" size="300272" crc="f1897efb" md5="a188c597fc4def2f7be4878eb4cbfe68" sha1="63c8aefa5d29cd280498800c9fd7fdc11085d2df"/>
+		<rom name="4353\asphalt.sig" size="13472" crc="ba23edcb" md5="59b87c5e92de2ea8641ea5731237b32c" sha1="e2ccd790e06ee147fbdfcce23f10d23997a79a23"/>
+		<rom name="4353\resource.dat" size="1703663" crc="17966083" md5="33c869aabd110660bb501094b80bb599" sha1="c30aa65140ff408f7842bfc714bfe47d3b7dccdd"/>
+	</machine>
+	<machine name="Asphalt Urban GT v1.0.16 (2004, Gameloft)[ID 01026E0D][vx8000]">
+		<description>Asphalt Urban GT v1.0.16 (2004, Gameloft)[ID 01026E0D][vx8000]</description>
+		<rom name="4353.mif" size="5278" crc="4d086449" md5="54d7b06e85b5801f51930b867938e419" sha1="ae827bf981cd3e4f3122127af5ff835b7d76252e"/>
+		<rom name="4353\asphalt.mod" size="299928" crc="e066526e" md5="db0a6ffe384a63b6bc698131fdd2f0a8" sha1="774f86f7d0208a9bc8dda5a506b12d9ae4bb317b"/>
+		<rom name="4353\asphalt.sig" size="10252" crc="270b083b" md5="5311ce165006527ac020147ea2a0e1b2" sha1="9b96dad4d80cba93f01b20e1eaa980de11a6dd1a"/>
+		<rom name="4353\dummy.dat" size="4096" crc="6f36362f" md5="5fed275e7617a806f94c173746a2a723" sha1="67d7d9a49119f8d756753695161b2fcfd44e5df6"/>
+		<rom name="4353\resource.dat" size="1625916" crc="1ca5794c" md5="8b56b1f6d9316bbc1460d54fdba7a04b" sha1="9ccc6404f077d7496500169c5842b0cfa625a8ae"/>
+		<rom name="4353\resource.off" size="37411" crc="2c980c25" md5="8dfbfdf264493005bf79341a9b34c4e4" sha1="38c14a0638e31f3635b123980d7f97f87324ab58"/>
+	</machine>
+	<machine name="Asphalt Urban GT v1.0.4 (2005, Gameloft)[ID 010333E0][vx9800]">
+		<description>Asphalt Urban GT v1.0.4 (2005, Gameloft)[ID 010333E0][vx9800]</description>
+		<rom name="5118.mif" size="2394" crc="c0b451dd" md5="9b41794c064f3dc361cb6cae8a64f3da" sha1="b16b2ebba87f3565072816c8087e26811030d150"/>
+		<rom name="5118\asphalt.mod" size="5264" crc="7ea5f807" md5="252c67df603930fd1e61afcebe399ce8" sha1="9fb2c9fc9633bb3c3e479a8034cca47e72e7947a"/>
+		<rom name="5118\asphalt.sig" size="2720" crc="aa10b12f" md5="deff24982dd8a2d4ff0aeac32b50ef6c" sha1="22572c7bf64834f80057a50c253f0dacc3f3d3f2"/>
+		<rom name="5118\res_dat.bar" size="2531387" crc="e72992b4" md5="f4ed9de60d45a98140119965426cc5b3" sha1="12536277bcb945f33f175adbfc814605127a8fd9"/>
+		<rom name="5118\res_off.bar" size="38493" crc="83c4413d" md5="99bb160cc3911ddc88ce8be8eb68253e" sha1="23dab8aa845abf3f25e77ff5c1afb897387a800e"/>
+		<rom name="5118\z_dat.bar" size="121311" crc="80f3cfaa" md5="76f93e4f63e90ad5fdcd711a9cbfc315" sha1="07b03daa0077efd9a75bd64492db6bda5dfb328c"/>
+	</machine>
+	<machine name="Asphalt3 v1.0.1 (2006, Gameloft)[ID 010422E6][Z6C - 240x320]">
+		<description>Asphalt3 v1.0.1 (2006, Gameloft)[ID 010422E6][Z6C - 240x320]</description>
+		<rom name="35699.mif" size="5266" crc="dfb4432e" md5="bc3c1652bc27ab3d6f34b7814df29705" sha1="e59b2ae9d50633e4643e2969a9de9705ac826e1c"/>
+		<rom name="35699\1.bar" size="5192" crc="46a28460" md5="d6fe9ce1c744c7c81e8af9400804486b" sha1="6f770b67ff4ab0bc3828b96debdbbf846d3b10e1"/>
+		<rom name="35699\2.bar" size="40506" crc="a7e7bcad" md5="770d5249741f64c77c32a78a922cfabe" sha1="e6112392996b90f5bf7c4b12e9423b8a5ef65ac0"/>
+		<rom name="35699\3.bar" size="9446" crc="4b7cee1d" md5="3fb8a20298b32a8d877ac2cb86863506" sha1="2c875a5aa7686c71867ef09995d5bae3ffb6d284"/>
+		<rom name="35699\4.bar" size="465018" crc="30133ef0" md5="144d20bf85c27c97e01757a83e8be4fa" sha1="c9c104ef075d890d689108a3c9c79b0df76a5371"/>
+		<rom name="35699\5.bar" size="165019" crc="2d7ce632" md5="529afbf25923fa5dd423a382e56ead68" sha1="1d4d627396707b7568b6dd2b08ac88c9a56bbccd"/>
+		<rom name="35699\6.bar" size="36550" crc="8c28f154" md5="ed6e458e088e65f474760d7fb9fb9502" sha1="50a51d1795b522dec72beb48463e96e9d31946e3"/>
+		<rom name="35699\7.bar" size="2470" crc="3275a23d" md5="5346b4001dd33cabecd51268100fc097" sha1="5d7724d2425979b3eb0bf50352df36049d083540"/>
+		<rom name="35699\asphalt3.mod" size="110064" crc="16ffea1e" md5="d44617be91950e6dbee6a3569d5156be" sha1="afdc4894ae300e1376c15aff4d07652fb0d45864"/>
+		<rom name="35699\asphalt3.sig" size="2728" crc="85d98eab" md5="4dd5c6a1580e6b6eca13e818c17dbc7d" sha1="67c76ba71e2981a798a00a42989fe866d89a292c"/>
+		<rom name="35699\cfg.bar" size="25" crc="1fe930e0" md5="6ae957cfd7a40ec87c86014cb3c743a8" sha1="d3c1817ea9ebd70f325b63039ca8dee43999a178"/>
+	</machine>
+	<machine name="Asphalt3 v1.0.4 (2006, Gameloft)[ID 010422E6][6275 - 240x320]">
+		<description>Asphalt3 v1.0.4 (2006, Gameloft)[ID 010422E6][6275 - 240x320]</description>
+		<rom name="35699.mif" size="5266" crc="0c152d12" md5="4223f3bb5d24334fa7e9e422686b9bcf" sha1="15041aef0adcea1c542e0bfdc1e97e680894a92b"/>
+		<rom name="35699\1.bar" size="5192" crc="46a28460" md5="d6fe9ce1c744c7c81e8af9400804486b" sha1="6f770b67ff4ab0bc3828b96debdbbf846d3b10e1"/>
+		<rom name="35699\2.bar" size="40506" crc="a7e7bcad" md5="770d5249741f64c77c32a78a922cfabe" sha1="e6112392996b90f5bf7c4b12e9423b8a5ef65ac0"/>
+		<rom name="35699\3.bar" size="9462" crc="79805f69" md5="7ed7ea426252b774bfdd3c8af4a796e0" sha1="ae4b3e7e22f795e3f5fc45a11c62d1fbdc820610"/>
+		<rom name="35699\4.bar" size="465018" crc="30133ef0" md5="144d20bf85c27c97e01757a83e8be4fa" sha1="c9c104ef075d890d689108a3c9c79b0df76a5371"/>
+		<rom name="35699\5.bar" size="165019" crc="2d7ce632" md5="529afbf25923fa5dd423a382e56ead68" sha1="1d4d627396707b7568b6dd2b08ac88c9a56bbccd"/>
+		<rom name="35699\6.bar" size="33776" crc="d88d993a" md5="2a3fa7b100c67599fea158bc09dd6a66" sha1="8e59d425f7c5b74122f1a61b03f943811eb30a5a"/>
+		<rom name="35699\7.bar" size="2470" crc="3275a23d" md5="5346b4001dd33cabecd51268100fc097" sha1="5d7724d2425979b3eb0bf50352df36049d083540"/>
+		<rom name="35699\asphalt3.mod" size="109376" crc="1db236a2" md5="f409b313209ab8955cb5cc3fa22d3104" sha1="a10ec6fa337ff4c7c54ab14bbb0e5c6cfdc85860"/>
+		<rom name="35699\asphalt3.sig" size="2728" crc="a4e7d131" md5="49edce88684a11360bfd00f21b32f917" sha1="7eeb06cc87ba694483a722e7c64b8a7db60d01cd"/>
+		<rom name="35699\cfg.bar" size="25" crc="1fe930e0" md5="6ae957cfd7a40ec87c86014cb3c743a8" sha1="d3c1817ea9ebd70f325b63039ca8dee43999a178"/>
+	</machine>
+	<machine name="Asphalt_ Urban GT v1.0.0 (2004, Gameloft)[ID 0102BA8F][ax4700 - 128x128]">
+		<description>Asphalt_ Urban GT v1.0.0 (2004, Gameloft)[ID 0102BA8F][ax4700 - 128x128]</description>
+		<rom name="4410.mif" size="2412" crc="69cf1984" md5="c204100bc5d12a861d5189b594122e8f" sha1="deb37ab0722c5497c9c32de77e56a20938bbff9e"/>
+		<rom name="4410\asphalt.mod" size="108888" crc="b197003b" md5="e69c1a9aee6c53c18aa072051d057514" sha1="dc1bb1f4caaffcd787fe3b660e472f60634004da"/>
+		<rom name="4410\asphalt.pak" size="162940" crc="3c6bc872" md5="f99ee9b774d31e74abb4731a0fa29e4b" sha1="063b4c3f859a3a9b01bb1d1f5251e066d26ee4a5"/>
+		<rom name="4410\asphalt.sav" size="18" crc="9315a10c" md5="9ff2617673e8f50c08573fd78fabf088" sha1="56d5dbb0bd076e4a7e06966d68bec203e5b3feb2"/>
+		<rom name="4410\asphalt.sig" size="2720" crc="b6cb3be3" md5="e10dddbe88373aacdf1693f75bdfa114" sha1="d7cb30291002d200aa8f7fd995eb6592246c42f7"/>
+	</machine>
+	<machine name="Asphalt_ Urban GT v1.0.1 (2004, Gameloft)[ID 0102BCEB][S80 - 176x220]">
+		<description>Asphalt_ Urban GT v1.0.1 (2004, Gameloft)[ID 0102BCEB][S80 - 176x220]</description>
+		<rom name="4593.mif" size="2418" crc="e6cc24f9" md5="adf87a54c921f1e96c420f24fef0d7e9" sha1="2456eb3624a9cf68b37eb708d3e0df462e59e6e6"/>
+		<rom name="4593\asphalt.mod" size="108216" crc="10df1e41" md5="b2ffa9e615dcbf2d9efbb7ec8e9e3f94" sha1="eb472a95956e9ebc607b173b3a67923a39ade203"/>
+		<rom name="4593\asphalt.pak" size="248843" crc="1d21286b" md5="ebf8e942622f4dd5762739d46c1e5404" sha1="eb638b1193e398bf2c2b13cc525c620a9d4c672e"/>
+		<rom name="4593\asphalt.sav" size="18" crc="9315a10c" md5="9ff2617673e8f50c08573fd78fabf088" sha1="56d5dbb0bd076e4a7e06966d68bec203e5b3feb2"/>
+		<rom name="4593\asphalt.sig" size="10252" crc="fcb0cc5d" md5="3789fa39d621eb029782bf258803532a" sha1="5c94acc8d8581769ccb5207205605027151ebf14"/>
+	</machine>
 </datafile>
