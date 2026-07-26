@@ -12,6 +12,7 @@ Also, there are more in the releases section, namely the ones that are too big t
 * Mythroad - Software for the Mythroad platform in .mrp format.
 * NeoKobe - Additions to dsync89's work.
 * Newton - Firmware and updates for Apple's Newton platform.
+* Nokia - Nokia firmware flashers and utilities.
 * NokiaOvi - Nokia Ovi Store Panic Grab.
 * SAC - ftp.elf.stuba.sk deathgrabs before SAC took over.
 * Symbian - EPOC32, Symbian S60 and related.
