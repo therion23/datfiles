@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Magazines - La Lettre de l’Internet et Palm Magazine - Palm Pulp Magazine</name>
+		<description>Magazines - La Lettre de l’Internet et Palm Magazine - Palm Pulp Magazine</description>
+		<category>Standard DatFile</category>
+		<version>20260730</version>
+		<date>2026-07-30</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Palm Pulp Magazine Issue 1">
+		<description>Palm Pulp Magazine Issue 1</description>
+		<rom name="Palm Pulp Magazine Issue 1.pdf" size="2107392" crc="56dcad7a" md5="3f0cfaf77b74ed841418c657ae43ac01" sha1="21681dda874138edd5126098b97831d06bad72d6"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 10">
+		<description>Palm Pulp Magazine Issue 10</description>
+		<rom name="Palm Pulp Magazine Issue 10.pdf" size="862361" crc="51fe1f63" md5="03e979af218eae385fdf52ed553cc526" sha1="74b60d582a07d161644338650f722a2ad6fcd1b0"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 11">
+		<description>Palm Pulp Magazine Issue 11</description>
+		<rom name="Palm Pulp Magazine Issue 11.pdf" size="1140513" crc="25985f9e" md5="bc59ee09ffbf5cad0804cd6e4dc9a558" sha1="5b6e2e87408c1942945d36c0166e44d089322ca0"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 12">
+		<description>Palm Pulp Magazine Issue 12</description>
+		<rom name="Palm Pulp Magazine Issue 12.pdf" size="1084956" crc="4d35a00d" md5="bd5ad12d2a16c6aa5f79e998b1c5dac6" sha1="769744a87f8882a611ee3f9eb651c12d27f13857"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 13">
+		<description>Palm Pulp Magazine Issue 13</description>
+		<rom name="Palm Pulp Magazine Issue 13.pdf" size="687480" crc="775709b5" md5="7f14630856fff54c2b5d67100afb0b82" sha1="88e5906ab28e347aa2c7dc37d2d369d83101c6e5"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 14">
+		<description>Palm Pulp Magazine Issue 14</description>
+		<rom name="Palm Pulp Magazine Issue 14.pdf" size="2295345" crc="72a32cb1" md5="98bfd4973e67846e0c7cae7b09b25962" sha1="9608d7dbef28dda58f53ca08f987d15f5dc6e465"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 15">
+		<description>Palm Pulp Magazine Issue 15</description>
+		<rom name="Palm Pulp Magazine Issue 15.pdf" size="1650707" crc="8330c96b" md5="c1586292c259e20b4b5431dc73c00324" sha1="071b1b5e1d31f7d8e50a3fb1e001eaf33df626be"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 16">
+		<description>Palm Pulp Magazine Issue 16</description>
+		<rom name="Palm Pulp Magazine Issue 16.pdf" size="959380" crc="3ff43483" md5="a50034d4b0be34372fbf5527ce8f861d" sha1="82a019b00bb274443b5798af9417f0af67f6187b"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 17">
+		<description>Palm Pulp Magazine Issue 17</description>
+		<rom name="Palm Pulp Magazine Issue 17.pdf" size="1070928" crc="8f34c734" md5="205f7ca58c6f533ae98bd1c92c6e1fd0" sha1="f29eea011b8eeef493e33dddd2f009e5137ac674"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 18">
+		<description>Palm Pulp Magazine Issue 18</description>
+		<rom name="Palm Pulp Magazine Issue 18.pdf" size="985189" crc="dd816a2a" md5="28a205694fb73b4f0576965825be73bf" sha1="9f826f88b10cb47103081e20cf0e9a5a19b4841f"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 19">
+		<description>Palm Pulp Magazine Issue 19</description>
+		<rom name="Palm Pulp Magazine Issue 19.pdf" size="898280" crc="530bd01d" md5="9e9029afd011f0e36bc1d316025f585e" sha1="633d3c4d7f300c7ea1b0acc85ae05bb897fb3bfc"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 2">
+		<description>Palm Pulp Magazine Issue 2</description>
+		<rom name="Palm Pulp Magazine Issue 2.pdf" size="1419264" crc="1a352225" md5="1b52b4374ec72ca712c5839907a22df0" sha1="f42db8bcf0a26d96b4ff85d86880f4c5ff111f9d"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 20">
+		<description>Palm Pulp Magazine Issue 20</description>
+		<rom name="Palm Pulp Magazine Issue 20.pdf" size="1053664" crc="41f68df1" md5="fd0bb61d103edfb7b4632b1aaa8f0ceb" sha1="54a433a6648fd137ad2eb4b83b41a15262a7dac8"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 3">
+		<description>Palm Pulp Magazine Issue 3</description>
+		<rom name="Palm Pulp Magazine Issue 3.pdf" size="1235888" crc="791628c8" md5="129ecb50d46c5869d9602118bbbe7333" sha1="5b83136f26e92e8107a1e9b31a4b070475ee037f"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 4">
+		<description>Palm Pulp Magazine Issue 4</description>
+		<rom name="Palm Pulp Magazine Issue 4.pdf" size="770342" crc="e1e2fe94" md5="3462c825647259c79f37b4cb0757366e" sha1="f0c04a50dc7bfa7e11a9e1aca3ce8f9b4c495562"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 5">
+		<description>Palm Pulp Magazine Issue 5</description>
+		<rom name="Palm Pulp Magazine Issue 5.pdf" size="880640" crc="fac1d60d" md5="6b1c628c6c003f85a47412da1a3ac480" sha1="8c88b9b44382593d00c08cabcce121ed12858928"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 6">
+		<description>Palm Pulp Magazine Issue 6</description>
+		<rom name="Palm Pulp Magazine Issue 6.pdf" size="1143738" crc="8c466fd1" md5="019e28a0be567a3f36e0652e1fa95e11" sha1="b4786788b048c20bea81473d7395566c7416ca56"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 7">
+		<description>Palm Pulp Magazine Issue 7</description>
+		<rom name="Palm Pulp Magazine Issue 7.pdf" size="1572196" crc="a2ea3664" md5="3c50c33e5df6d20fe0a7a93700b19c89" sha1="8903f32247d87a56983f0f4c51c247ca2c012838"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 8">
+		<description>Palm Pulp Magazine Issue 8</description>
+		<rom name="Palm Pulp Magazine Issue 8.pdf" size="1728930" crc="1bfbf99e" md5="2cf16fb1073b0ec716a714604da641e3" sha1="7b7e351fe3e4b53c9ccce1891cae97089df8d5ae"/>
+	</machine>
+	<machine name="Palm Pulp Magazine Issue 9">
+		<description>Palm Pulp Magazine Issue 9</description>
+		<rom name="Palm Pulp Magazine Issue 9.pdf" size="1181477" crc="5b84aaa9" md5="9402dd01716a756834acfb57cedfe17d" sha1="75829946ab45b57b8b93a32555dceed3e0bba693"/>
+	</machine>
+	<machine name="PalmMagazine0">
+		<description>PalmMagazine0</description>
+		<rom name="PalmMagazine0.pdf" size="883904" crc="a3ba9bb3" md5="7f63305bd11060d4a23fd785df28067a" sha1="df62236f10f153aed39a59ba50b88f727e1f9af6"/>
+	</machine>
+	<machine name="palmpulp00">
+		<description>palmpulp00</description>
+		<rom name="palmpulp00.pdf" size="1704532" crc="b798deb0" md5="fc88f71ce4fcfd8b1831209bd6179960" sha1="dc0afb614cacbc196cd6e4b3a6c8f784ee75a3c3"/>
+	</machine>
+	<machine name="palmtops">
+		<description>palmtops</description>
+		<rom name="palmtops.pdf" size="310658" crc="9b422b54" md5="35f89f092925c2d51161d6b15cabd31b" sha1="845ac36463c91e144da200f560c116ce1d5cf970"/>
+	</machine>
+</datafile>

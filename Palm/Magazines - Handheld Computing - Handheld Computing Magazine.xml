@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Magazines - Handheld Computing - Handheld Computing Magazine</name>
+		<description>Magazines - Handheld Computing - Handheld Computing Magazine</description>
+		<category>Standard DatFile</category>
+		<version>20260730</version>
+		<date>2026-07-30</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Handheld Computing Mag AprilMay 2003">
+		<description>Handheld Computing Mag AprilMay 2003</description>
+		<rom name="Handheld Computing Mag AprilMay 2003.pdf" size="176659401" crc="dfdec1dd" md5="9c7e678180c65b158a28ce74d0a0bf33" sha1="fae389e0963d6423a6fd2679d11469c84c2d8c63"/>
+	</machine>
+	<machine name="Handheld Computing Mag AugustSeptember 2002">
+		<description>Handheld Computing Mag AugustSeptember 2002</description>
+		<rom name="Handheld Computing Mag AugustSeptember 2002.pdf" size="109185698" crc="6d1fe6f2" md5="88a1845670015666b87995216fa16388" sha1="f771fe9227c4f94b463d469b193bd19508d19409"/>
+	</machine>
+	<machine name="Handheld Computing Mag FebruaryMarch 2003">
+		<description>Handheld Computing Mag FebruaryMarch 2003</description>
+		<rom name="Handheld Computing Mag FebruaryMarch 2003.pdf" size="159654215" crc="ca7cfb39" md5="f72d8f3a8c8f1fb5b088b49edf48f90e" sha1="4f4a8fc6bd90792f01f6d03f3c35294b9e725af7"/>
+	</machine>
+	<machine name="Handheld Computing Mag July 2002">
+		<description>Handheld Computing Mag July 2002</description>
+		<rom name="Handheld Computing Mag July 2002.pdf" size="126794567" crc="194f2eec" md5="55d39db3c1b5a75d4eac94d5467fa069" sha1="25812b03d5ba9a19d2107ebcb413583b86835120"/>
+	</machine>
+	<machine name="Handheld Computing Mag June 2002">
+		<description>Handheld Computing Mag June 2002</description>
+		<rom name="Handheld Computing Mag June 2002.pdf" size="145196946" crc="992989a0" md5="3501de81255cae017b0b09976e020b17" sha1="c918fa4a78a591573113202cd0b258e2daae92f9"/>
+	</machine>
+	<machine name="Handheld Computing Mag MarchApril 2002">
+		<description>Handheld Computing Mag MarchApril 2002</description>
+		<rom name="Handheld Computing Mag MarchApril 2002.pdf" size="156163766" crc="ae301ecc" md5="d567c1bf14c18e5d2576ee08abe12e04" sha1="1cf3232bd1886ea6cc900bc388b5c4f95f03dade"/>
+	</machine>
+	<machine name="Handheld Computing Mag OctoberNovember 2002">
+		<description>Handheld Computing Mag OctoberNovember 2002</description>
+		<rom name="Handheld Computing Mag OctoberNovember 2002.pdf" size="144669034" crc="4cfb2329" md5="cc1d6a17ef3742021f7c3c2ed46bb4ab" sha1="8d0d398dcda71827f9c0b7dbd516dbd62e91af8d"/>
+	</machine>
+	<machine name="Handheld Computing mediakit 2004">
+		<description>Handheld Computing mediakit 2004</description>
+		<rom name="Handheld Computing mediakit 2004.pdf" size="624699" crc="153efc89" md5="2b3bd8a791598ab09cc0a230b74c042c" sha1="1851d3ad979af95ca32ef34e3e0083759631ccbb"/>
+	</machine>
+	<machine name="Handheld Computing mediakit 2005">
+		<description>Handheld Computing mediakit 2005</description>
+		<rom name="Handheld Computing mediakit 2005.pdf" size="1669734" crc="4f58d8d3" md5="e5934ef04c4c58c87eb8eba82be04c3a" sha1="bd8d1a1fd40418d15f06dd6f0abac80cf89cc6e8"/>
+	</machine>
+</datafile>

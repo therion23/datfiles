@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Magazines - ASCII - Timeslip Palm Magazine</name>
+		<description>Magazines - ASCII - Timeslip Palm Magazine</description>
+		<category>Standard DatFile</category>
+		<version>20251011</version>
+		<date>2025-10-11</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Cover 1-6">
+		<description>Cover 1-6</description>
+		<rom name="Cover 1-6.pdf" size="558686" crc="772afe5e" md5="e071e1c6b6918f206d8744fd8412e602" sha1="ddde2eeda1c802678b59c52ff9a0ff50eecdde9a"/>
+	</machine>
+	<machine name="Cover 13-24">
+		<description>Cover 13-24</description>
+		<rom name="Cover 13-24.pdf" size="199696" crc="13d22898" md5="c46303226f9322c11a1e1c7dfc793dd0" sha1="ee889d5627a6b41835465013fad283c259875a2c"/>
+	</machine>
+	<machine name="Cover 7-12">
+		<description>Cover 7-12</description>
+		<rom name="Cover 7-12.pdf" size="574138" crc="e4ac87a7" md5="f10b81195f0e2f72cf097e6839bb1e6c" sha1="8969dbcb1666100b6ae2f1fe573059eb9d29acda"/>
+	</machine>
+	<machine name="Palm Magazine Volume 1">
+		<description>Palm Magazine Volume 1</description>
+		<rom name="Palm Magazine Volume 1.pdf" size="20406337" crc="dbd550bb" md5="0f84848e78e985aa791da7f346edccdb" sha1="c4887af1dd3eb2cd7aaafc619ba52843cdbd8633"/>
+	</machine>
+	<machine name="Palm Magazine Volume 10">
+		<description>Palm Magazine Volume 10</description>
+		<rom name="Palm Magazine Volume 10.pdf" size="35108422" crc="d114512b" md5="afcbe5f603f1fb1a2c6e0cb9d1a20bdb" sha1="2dacbd7f99a8de68aa7a40295b6d2cce8ebf1d27"/>
+	</machine>
+	<machine name="Palm Magazine Volume 11">
+		<description>Palm Magazine Volume 11</description>
+		<rom name="Palm Magazine Volume 11.pdf" size="40902175" crc="daefb6d5" md5="28c4a387e4de90594aa8e661c2ae6f15" sha1="8835687926ba7f53e7cf99ae7d85fb0afe9127fe"/>
+	</machine>
+	<machine name="Palm Magazine Volume 12">
+		<description>Palm Magazine Volume 12</description>
+		<rom name="Palm Magazine Volume 12.pdf" size="36971089" crc="b0a1e5a7" md5="c310b6375f80e3515a40b5f030c9add9" sha1="9a8e27ec02afb6954a91b1d4dda41ef9067b2537"/>
+	</machine>
+	<machine name="Palm Magazine Volume 13">
+		<description>Palm Magazine Volume 13</description>
+		<rom name="Palm Magazine Volume 13.pdf" size="23976796" crc="e149593d" md5="d7d54a68e1da447b5174e664c7e1ec1d" sha1="eb03773a5b5b31616ff5942adf5dd41b2966ffde"/>
+	</machine>
+	<machine name="Palm Magazine Volume 14">
+		<description>Palm Magazine Volume 14</description>
+		<rom name="Palm Magazine Volume 14.pdf" size="30298964" crc="48a79ceb" md5="cfd2469788415a2a39a0e7ef48541aa8" sha1="5c56bc8042e11d969d48e4cfe118da12560d9281"/>
+	</machine>
+	<machine name="Palm Magazine Volume 15">
+		<description>Palm Magazine Volume 15</description>
+		<rom name="Palm Magazine Volume 15.pdf" size="24887498" crc="8a04d0ac" md5="4e3de7caf48e072e27ff00fb3d12a1c2" sha1="2ac0a4c8184df05adcc78eb8876330015ca37174"/>
+	</machine>
+	<machine name="Palm Magazine Volume 16">
+		<description>Palm Magazine Volume 16</description>
+		<rom name="Palm Magazine Volume 16.pdf" size="69198225" crc="62cbe382" md5="cb13d76e0c8efecaed528268e99953a6" sha1="9048cd5dea378ce1446986e0dcd00409a80073b5"/>
+	</machine>
+	<machine name="Palm Magazine Volume 17">
+		<description>Palm Magazine Volume 17</description>
+		<rom name="Palm Magazine Volume 17.pdf" size="42510583" crc="438dd424" md5="0dbb9d36184a8f2276d74440b6dcef75" sha1="e3876877b3475807bc103cd69376d71da7a403b0"/>
+	</machine>
+	<machine name="Palm Magazine Volume 18">
+		<description>Palm Magazine Volume 18</description>
+		<rom name="Palm Magazine Volume 18.pdf" size="49391451" crc="2e6abfff" md5="aa440c861ef820a4fd072598f8d751f7" sha1="6eb1d85795ae149e8cebaa112f11f0f885f280b7"/>
+	</machine>
+	<machine name="Palm Magazine Volume 19">
+		<description>Palm Magazine Volume 19</description>
+		<rom name="Palm Magazine Volume 19.pdf" size="43909983" crc="aed75277" md5="4b896bb594a6a01895dee18d1f959c28" sha1="21ca5c067bd33828e7c658888d7e832b750f308b"/>
+	</machine>
+	<machine name="Palm Magazine Volume 2">
+		<description>Palm Magazine Volume 2</description>
+		<rom name="Palm Magazine Volume 2.pdf" size="12529616" crc="7c10c8de" md5="714c54e97e743beae2d4b338e0675232" sha1="d39407c225a600fc177e552e9354b0e16d658de9"/>
+	</machine>
+	<machine name="Palm Magazine Volume 20">
+		<description>Palm Magazine Volume 20</description>
+		<rom name="Palm Magazine Volume 20.pdf" size="59748065" crc="30b77729" md5="5868fc95afdfe67b6ff090e254761e72" sha1="0b032c5587585b835a86ce5403bfffe12cbc77fb"/>
+	</machine>
+	<machine name="Palm Magazine Volume 21">
+		<description>Palm Magazine Volume 21</description>
+		<rom name="Palm Magazine Volume 21.pdf" size="35185749" crc="70a1e49a" md5="0489750dea192ebfe94364c4201b159b" sha1="5fb572bef105654a99417e9ddca5332b7d514f94"/>
+	</machine>
+	<machine name="Palm Magazine Volume 22">
+		<description>Palm Magazine Volume 22</description>
+		<rom name="Palm Magazine Volume 22.pdf" size="33382349" crc="91320786" md5="485a0fa98d325d2be0a682d6b20f7001" sha1="de0f4820fdcabf6113d6cbacb81a7b9a75908505"/>
+	</machine>
+	<machine name="Palm Magazine Volume 23">
+		<description>Palm Magazine Volume 23</description>
+		<rom name="Palm Magazine Volume 23.pdf" size="30103588" crc="4488b396" md5="c0ae8f749bfdb6ec7571bd1c4f3bba32" sha1="51e1d0c6e4601dce83e65f8ac03403bb102cab31"/>
+	</machine>
+	<machine name="Palm Magazine Volume 24">
+		<description>Palm Magazine Volume 24</description>
+		<rom name="Palm Magazine Volume 24.pdf" size="43457002" crc="bf7e02e7" md5="7e839e0b15b3a168ffcb5c4da93a7603" sha1="09e250db55c303abb1143bcfa2a106dac16cdf30"/>
+	</machine>
+	<machine name="Palm Magazine Volume 3">
+		<description>Palm Magazine Volume 3</description>
+		<rom name="Palm Magazine Volume 3.pdf" size="23917651" crc="20aaf67d" md5="a3ebe7308f7cbaeaa53cb0a4253fbaa4" sha1="bc9f95c6c41f39bae0a67a3e424c7781720abccd"/>
+	</machine>
+	<machine name="Palm Magazine Volume 4">
+		<description>Palm Magazine Volume 4</description>
+		<rom name="Palm Magazine Volume 4.pdf" size="18597968" crc="d8699e03" md5="79b04f3361e9e763ede69ea0932d376a" sha1="1f11f0065e058da37d0c21417d94396e1bd42890"/>
+	</machine>
+	<machine name="Palm Magazine Volume 5">
+		<description>Palm Magazine Volume 5</description>
+		<rom name="Palm Magazine Volume 5.pdf" size="20524891" crc="27768b2c" md5="7d5d06d5c2d3494123ad5a204edc82d8" sha1="8928dd1b4c1316ebd95d7648496e11bf7f46f6c4"/>
+	</machine>
+	<machine name="Palm Magazine Volume 6">
+		<description>Palm Magazine Volume 6</description>
+		<rom name="Palm Magazine Volume 6.pdf" size="16134153" crc="982a25ac" md5="0a4084eda4bc3cc335ffc89c7c36ba38" sha1="233644548d377347a8de522dcb9268bbfae61f76"/>
+	</machine>
+	<machine name="Palm Magazine Volume 7">
+		<description>Palm Magazine Volume 7</description>
+		<rom name="Palm Magazine Volume 7.pdf" size="33675987" crc="25392e23" md5="f24c61a71aa4bbdf8b5b8e16141c6775" sha1="5df6f67e0bbf743ebb539729bd9cb5a4bae01709"/>
+	</machine>
+	<machine name="Palm Magazine Volume 8">
+		<description>Palm Magazine Volume 8</description>
+		<rom name="Palm Magazine Volume 8.pdf" size="37820779" crc="1314eac6" md5="b2c9770433b0c28317bac315b212e829" sha1="35bef780d71257596f62476d9fa50d16f7b3f505"/>
+	</machine>
+	<machine name="Palm Magazine Volume 9">
+		<description>Palm Magazine Volume 9</description>
+		<rom name="Palm Magazine Volume 9.pdf" size="40745331" crc="53759f0f" md5="312eb91a985d8693cc1d6d082cf51bb4" sha1="585c3d0a128a2d6bfaf400121d7c86cfc4ae550c"/>
+	</machine>
+	<machine name="PDFについて 1-6">
+		<description>PDFについて 1-6</description>
+		<rom name="PDFについて 1-6.txt" size="66" crc="702f85aa" md5="735b0657d0cf0d5d62fb299e7237ed3c" sha1="297f578447987e5baffae46864c593e9aa85ead8"/>
+	</machine>
+	<machine name="PDFについて 7-24">
+		<description>PDFについて 7-24</description>
+		<rom name="PDFについて 7-24.txt" size="332" crc="a4d6274e" md5="04e5a84dce871b5b268577e15e395a92" sha1="0dac1fdefff65988954894bfd6e1d5ac2a3ff7f1"/>
+	</machine>
+	<machine name="お読みください">
+		<description>お読みください</description>
+		<rom name="お読みください.pdf" size="118584" crc="861b3509" md5="0fe785252b88f55da653c1d5a4acdfd9" sha1="85579f3aa643b579b2c944dedaf731c95ec765a2"/>
+	</machine>
+</datafile>

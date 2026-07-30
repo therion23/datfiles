@@ -1,0 +1,627 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Magazines - ESI - PDA Pratique - Cover Discs</name>
+		<description>Magazines - ESI - PDA Pratique - Cover Discs</description>
+		<category>Standard DatFile</category>
+		<version>20260730</version>
+		<date>2026-07-30</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="PDA Pratique 02 (ESI)">
+		<description>PDA Pratique 02 (ESI)</description>
+		<rom name="PDA Pratique 02 (ESI).iso" size="533207040" crc="79cc93f8" md5="01542b38415b2c638ba0a0e5178c8a63" sha1="c34b7e8c8589c36dcbaef0e390b5f16e150279ef" />
+		<rom name="PDA Pratique 02 (ESI).jpg" size="526288" crc="652f5e8f" md5="628becfe5af5ef12c15daae7b7962be3" sha1="e141844db4415b7b1fbb9f745720924cd31f553e" />
+	</machine>
+	<machine name="PDA Pratique 06 (ESI)">
+		<description>PDA Pratique 06 (ESI)</description>
+		<rom name="PDA Pratique 06 (ESI).iso" size="391572000" crc="75313fe9" md5="78984c4cea181431d7e649eac7e296ac" sha1="95fe18d93569bf5361f8c1098752584854a1c2b9" />
+		<rom name="PDA Pratique 06 (ESI).jpg" size="752918" crc="9b0b357c" md5="b03abb803d9e4e5ff6607b7e8cd205b7" sha1="e105612047278f43c9e64bbca67e38c11b238941" />
+	</machine>
+	<machine name="PDA Pratique 07 (ESI)">
+		<description>PDA Pratique 07 (ESI)</description>
+		<rom name="CD\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\AUTORUN.INF" size="25" crc="7f47a79d" md5="668397e8639dbdd9bc420c556092dd5b" sha1="6bfd7533d6ecf0dea007c3445b8be165e3ac0252" />
+		<rom name="CD\LANCE.EXE" size="42528" crc="83266563" md5="a92474e7fde9a03a6f8080106a81b899" sha1="2e8a5c395d18b2ef68408f1a688a4036107f9612" />
+		<rom name="CD\PDA_Pratique_7\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\ACDSEE.EXE" size="579907" crc="cdbd47fb" md5="e7424ae4add0074afc8c3f22eb3dceb9" sha1="8a43d8646a67af125eb5edb7057837ef112442a6" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\ACDSEE32.CNT" size="2312" crc="606a9441" md5="844981400ef1e68ea30e0b5ab217c85c" sha1="2b5c673a453af995e63576e89c32f74c34c45f30" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\ACDSEE32.EXE" size="785952" crc="c5687b70" md5="cb60c915aa183e3c3946db1ce023cb52" sha1="441f452c61a1f7861fe16f164b286e4e1071d497" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\ACDSEE32.GID" size="14960" crc="bdcd2c8e" md5="a700e170437e7a96515467d8b19c374d" sha1="00087e7e153f9fb99025eaca682f1895b1e6c76e" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\ACDSEE32.HLP" size="74792" crc="43e59a81" md5="ffa14ea95559ce513c784d5d5ff47a51" sha1="b4d628584777268f47b87c3d3546c75b7ec67a6e" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\FINDER.DAT" size="736" crc="accb43f3" md5="1ab45275b88c919b43a565d77e18f2f5" sha1="edb150ab7c5e503859ff2c4a894584501871da0a" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\INSTALL.LOG" size="21256" crc="aa8ef8d6" md5="9117e07e5dd29789790971d6b715c334" sha1="0679445efbffe32661bb07c09d1c39c2b05641ab" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\SPLASH.JPG" size="60774" crc="69d85f6d" md5="2b35a25d6cda37003498b41207be356e" sha1="373cc5e9535ae77cac837d6a731fefd970266808" />
+		<rom name="CD\PDA_Pratique_7\ACDSEE32\UNWISE.EXE" size="59824" crc="27972367" md5="beb21133a103e71ce9ec2327b52cba39" sha1="1c4cc93bf1c16bbefc0daede4d83b4141f5dc8ee" />
+		<rom name="CD\PDA_Pratique_7\data\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\A5\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\A5\A5.exe" size="146488" crc="b7a5c40f" md5="5378ef1d5cf4735fe06aa0922cbd15e3" sha1="0488472e64f563b4ed75e7a05010cda5aec34e85" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\A5\A5.jpg" size="22865" crc="533dc233" md5="d1fee2b6ea26ffeb797e5ecb8e3d67b6" sha1="e9b75eb431ef9e398c73da92429f8e6de6be89a9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\A5\A5.rtf" size="18143" crc="1c58a447" md5="e0ef666fbdb2a026a3f490ac8d33649f" sha1="67e8f14c43a215f28ea024afe839967c190c76f5" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\AJVMP3\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\AJVMP3\AJVMP3.exe" size="83814" crc="9940d30f" md5="c67213d4f2eb925cedb1a052d1f70195" sha1="0331e6331643ea5382930b9d8d0a746924ac49c2" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\AJVMP3\AJVMP3.jpg" size="129295" crc="66b46382" md5="4777b449a6c9a4d2e7471dcba5b4763a" sha1="a36b4e0daa5c13b4d08be17942ba94dae9747492" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\AJVMP3\AJVMP3.rtf" size="16116" crc="85fa3e81" md5="cc2c0d580e4bc8ebefa2a9f9d7f4107b" sha1="eea76f2c88ac92d83da7117e3e43611d1b2dcff9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\CodesPostaux\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\CodesPostaux\CodesPostaux.exe" size="670053" crc="d72b0f65" md5="f0d4072bcd4ce4d7d8653308ed58421b" sha1="1720f7dbc4f42d7cf0b52da617f03a9aa9f764dc" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\CodesPostaux\CodesPostaux.jpg" size="26207" crc="232910b4" md5="2a02e4eba547063d335769f4ccdb9eaa" sha1="fd3d875e90992cc602788de8a2de958b33c54c26" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\CodesPostaux\CodesPostaux.rtf" size="17265" crc="9a3f890a" md5="ac0ef046768846942d3e842fed91f293" sha1="5ff090324ed28a2b4403fc944e0d4f77828693f3" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\KinomaPlayer\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\KinomaPlayer\KinomaPlayer.exe" size="5627854" crc="d337aac6" md5="c916cb21061c4b5b624bc3064fc5643a" sha1="46ad41afd967182d2dc36baa42bca413a73d06fa" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\KinomaPlayer\KinomaPlayer.jpg" size="42853" crc="3bef1bea" md5="6bea8c57c8da3da38ba1cf629e0cef91" sha1="61f7c8289993f87e407b96805829a8be3284c2b3" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\KinomaPlayer\KinomaPlayer.rtf" size="16921" crc="d984214e" md5="00b1e24f7b727ef261b7998103048736" sha1="f15b327b145393d3170b406b73285aa5f451a78e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\MMPlayer\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\MMPlayer\MMPlayer.exe" size="959071" crc="7b9ef622" md5="926bb14819dbe189bf268ad7eb2b47ff" sha1="d66a415a4896147f6f916a589ce40928bdc005ec" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\MMPlayer\MMPlayer.jpg" size="58784" crc="f5f5022d" md5="69d67b577be099b81bd1562d183b494b" sha1="3bf236f5ef586eaf22d8ff2ffd4fca78cbb46dc9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\MMPlayer\MMPlayer.rtf" size="15671" crc="492328c1" md5="fecee21436f08b5aac66869d8d0397df" sha1="aada8322b89b77eab3cff4fe6c817cdb4430bb60" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\NoahLite\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\NoahLite\LoahLite.jpg" size="12572" crc="cdd7ef75" md5="f852430a8c0f13ff2724982ec348d8b2" sha1="aa1260db20138db5097cc371428a679337a2cf43" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\NoahLite\NoahLite.exe" size="1563061" crc="d7a602ed" md5="f503af657c4ac2bd2d5df3f99bd0b0b9" sha1="2290da6f4c41c27ad9c2bc692cc1681776f0017e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\NoahLite\NoahLite.rtf" size="17628" crc="83d8e621" md5="1635322dc6a4f81d07c7132a495dbc0c" sha1="80e3b5fb94526bba8818e351a747ee10a875f6de" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\PalmDesktop\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\PalmDesktop\PalmDesktop.exe" size="17549835" crc="1d5ebf64" md5="27b802c3b3b8e8e5f38eaa01e02a35e9" sha1="047011d80338917e00abdbc74452a6b13063b77d" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\PalmDesktop\PalmDesktop.jpg" size="79618" crc="3729c3ef" md5="96e30f6dc29af22776f9f2459cb782aa" sha1="30f8b14b0f6a48bb7d1358558281f443b779775a" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\PalmDesktop\PalmDesktop.rtf" size="17461" crc="acb61b3b" md5="8b6c8d8a2e00bf5c3f90b411b2ff1339" sha1="884aa1d3185212bbcc3df2c321faa7b76dff7c17" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\TimeCopy\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\TimeCopy\TimeCopy.exe" size="470846" crc="99e1416a" md5="efefc547d80895e6cf4d3a64c020b4d2" sha1="14c8ec1d364494a8c9ab00f674c58fa667eaaaf4" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\TimeCopy\TimeCopy.jpg" size="14982" crc="3a9c8a91" md5="31426fcfeece7665fb3fdc6beb77ecb9" sha1="65cb53c259b8e169128708e3f8f3ddd67f4ae274" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Indispensables_OS\TimeCopy\TimeCopy.rtf" size="16541" crc="2da61d71" md5="568421ff86584915031f4cd924fa16e5" sha1="4923e5e6fc1d661e91e11e3bea102827d464487c" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Aala\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Aala\Aala.exe" size="80815" crc="35c929b5" md5="f58783802004ebed6d8c0209831c6ae3" sha1="125a485ac918e0a39b4ef10a0c5aaa7630d4ab0c" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Aala\Aala.jpg" size="17719" crc="03e0496a" md5="3e0069bccefa594a3e3c8780d9725603" sha1="adf3dcd954122669d8b2d662d7b8e8d58ea6c5c3" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Aala\Aala.rtf" size="15927" crc="919dbaf8" md5="6425892be393a2b5baa170ec3cd8e520" sha1="e2d31cc8ec14c6a4577b1289b8ae1593cf2f6cc9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\BlackJack\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\BlackJack\BlackJack.exe" size="79770" crc="d941c1d8" md5="f4905d313031d5b788fc1525e2a85ff4" sha1="a69b26026dff65a4007ec1b92c8a40fd3c71fc67" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\BlackJack\BlackJack.jpg" size="28712" crc="c62b51ea" md5="ccadfd17afe180d4a0d029e67b56d44e" sha1="81da9f5ea17b862010d2029424da90b03146d3ec" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\BlackJack\BlackJack.rtf" size="16094" crc="bd7f4d66" md5="aacf591f09aa024c795b026a226653da" sha1="f5664c43e11e93f93907c42f77340425d794b20f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\BoxMan\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\BoxMan\BoxMan.exe" size="65988" crc="83b7a453" md5="a38258e5471fa9015fe080e5a009085b" sha1="1b3d85648ddb2e7691cc32c3cd2585643aac236f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\BoxMan\boxman.jpg" size="38384" crc="a3a6cc45" md5="39f7a32132936717b5771ac94db3715f" sha1="0422366fd41d5ec34b16bc08945c3830c35d26ef" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\BoxMan\BoxMan.rtf" size="15959" crc="a94399a8" md5="132c6420072fe8e313fcc1e08cbbb1be" sha1="cc7c7d7341bea3c6f835a6673a6a211aa8ab4eec" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\DesertHunter\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\DesertHunter\DesertHunter.exe" size="265455" crc="4c90cdcf" md5="45a839dcd1ceacd27b8be3e0a8f65858" sha1="d207bd88033d6fed9f01c35ed53f0cc172e64f2b" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\DesertHunter\DesertHunter.jpg" size="102013" crc="6e971015" md5="c75d647bf6e9221f0649e80e0cc89be1" sha1="843e7c59b425f0da9ae83b9542d024818ca4b239" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\DesertHunter\DesertHunter.rtf" size="16264" crc="0b9e7c56" md5="13c5352b9227e9fce06cea4b40e0d907" sha1="a6cc1fa000a083151ccc6388b8214e1392b5eaf2" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Eggs\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Eggs\Eggs.exe" size="305036" crc="26417d00" md5="e29ec01778c176f7ef37bcaba381bbd1" sha1="016dcfa1f49e2546de4319ad2e8768f41ef96526" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Eggs\Eggs.jpg" size="24245" crc="388d624e" md5="88ea1eab012c37c458a7e6858e8151fa" sha1="05c99641e64e17c88f8ac8229440d892401039e9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Eggs\Eggs.rtf" size="16117" crc="b9b872c4" md5="7f0792d914cd5f33a120a1ca3497738d" sha1="23ef23ec6fd9be1bc4a91929e356788631deafe4" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Go\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Go\Go.exe" size="51933" crc="45155c5c" md5="99e46563b75e9c0bc4750ac0159b3136" sha1="509d95f771e87c1aa6dd938ba794d53b2195e22f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Go\Go.jpg" size="42644" crc="cb60f7c9" md5="fdc4fa0df67b88ad12e7b04271a80816" sha1="2f049ba66ce294465fb26f39a6923d58524e8624" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Go\Go.rtf" size="17186" crc="dfbdd3b5" md5="43d4dfee105e252073d75844d7e7da2e" sha1="fa4d957f7f7da866a6c3a4094d0e9e15e90cf22e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Jumpwire\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Jumpwire\Jumpwire.exe" size="46243" crc="73a36f6f" md5="e2dbedf6a08014021060a78e123d6b08" sha1="668b324bb84ecab46727d2e38dd87c23c4d1491f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Jumpwire\Jumpwire.jpg" size="36263" crc="3afbadb2" md5="f0b0c032b64b869a9ae52fa2b1b09c08" sha1="442972f149f07bd1bd69db5ecdb1dbd88a5f0364" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Jumpwire\jumpwire.rtf" size="16210" crc="7ecd44f8" md5="551784edff8a1615e25b270318c72b70" sha1="188a82d6d9ba8e168b1ac84343fcbced96c132b9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\MulgII\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\MulgII\MulgII.exe" size="145580" crc="f5fba2a5" md5="fc763ea546df8e26b83fcd1f506ae44f" sha1="85bc96a2568f483243e9d0eda77f166fae0dc5f5" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\MulgII\MulgII.jpg" size="29011" crc="464a1717" md5="aa284099b25019f9c94baa34a8b45bb9" sha1="9d005e8b0f961b858c2a022117d1477a06b4f28a" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\MulgII\MulgII.rtf" size="16065" crc="fe790dad" md5="59a2a6a4720f1afc2178fa77b49b5861" sha1="b2dd15d1c770126dea4aa2abf3f361be1976aa32" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\NapalmRacing\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\NapalmRacing\NapalmRacing.exe" size="371694" crc="de1fc93b" md5="208390d7cbfdf9339e9f0716e1df9ab3" sha1="fcf97416444cc1735c04ef20ea735fa1eb72fcb9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\NapalmRacing\NapalmRacing.jpg" size="25384" crc="03e636fb" md5="5694245cb35321303aa074e712236e77" sha1="06f1ba91bc8b31e0f458fd48b3964cf580c8793b" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\NapalmRacing\NapalmRacing.rtf" size="16337" crc="ff4d6474" md5="5c2581d5ee944e10e379b80b8df7353e" sha1="093c3390fb1f3c70a15159b372495283cbc0cec4" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\OpenChess\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\OpenChess\OpenChess.exe" size="252627" crc="de3ad0c0" md5="e7f94c8e6cfc36908b5d3338f9bc3b36" sha1="6cc76fbb019a10933a09c757acdbeabd09382b3b" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\OpenChess\OpenChess.jpg" size="37951" crc="902cf5d7" md5="7d4857ad2e3cd7c799a4d47f00d496a8" sha1="e788ade3aa1e087d66785b97857a29537a72f124" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\OpenChess\OpenChess.rtf" size="16093" crc="6772d192" md5="b6ed4a9d8a00e33d4618a9c71aaa3062" sha1="d2a717b86979c26a31a11af7857ae54c64e380c3" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PalmSolitaire\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PalmSolitaire\PalmSolitaire.exe" size="63154" crc="82a3ee52" md5="94413a4e76bcb085000503640afe3e59" sha1="a2202f3a462db0a7d7eeaa649330d7e042775b9e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PalmSolitaire\PalmSolitaire.jpg" size="24542" crc="116c98e3" md5="b906659744efec799e556813526f6059" sha1="24e742f1841ac0af6f80302a71fc171de06befcc" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PalmSolitaire\PalmSolitaire.rtf" size="16217" crc="b2ed93a8" md5="c2ac956a90c41898ec25887c14882021" sha1="ef412abde84607e7138d589d375dec4e245630df" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PocketCity\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PocketCity\PocketCity.exe" size="149741" crc="9164f83c" md5="857ef7c3028071a5c0bce7c28b5b9a57" sha1="a5b47978106a5ceb3d5409c0a8645923cf19a6d1" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PocketCity\PocketCity.jpg" size="36490" crc="80fbbecf" md5="3ef33bc510e4058b489a850eacacb18f" sha1="a2542b020e25243f4262d3efd94334b52f46b38c" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PocketCity\PocketCity.rtf" size="16263" crc="578c103f" md5="0bc80ba750c57a21b8c96272a40099d1" sha1="4b7d1b4cb90d9156f169c2b1955a978387c8941c" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PocketCityDev\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PocketCityDev\PocketCityDev.exe" size="210682" crc="b8142a18" md5="9c649a75213fd3eaf5c7c8fccb4738fa" sha1="cf07cca660d3a6737229e17bd2e3f4ce91775813" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PocketCityDev\PocketCityDev.jpg" size="36490" crc="80fbbecf" md5="3ef33bc510e4058b489a850eacacb18f" sha1="a2542b020e25243f4262d3efd94334b52f46b38c" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\PocketCityDev\PocketCityDev.rtf" size="16376" crc="e5da3969" md5="99ad2b918176d41e0c577205b33a9d71" sha1="c124f52d6207f05cbbc023d03e2965e7b635924d" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Pyramid\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Pyramid\Pyramid.exe" size="60829" crc="e83be155" md5="f83d38f3757787a41405b044f0f93f2d" sha1="c7286d41031ef037462d8eea48514a8b22012813" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Pyramid\Pyramid.jpg" size="31653" crc="432a8203" md5="cc50f74940078cc1ed43efc57c906241" sha1="d38d58f55eb258bfe5f258e4cbe0d3a10b611ec8" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\Pyramid\Pyramid.rtf" size="16614" crc="a84a90e2" md5="1429824185562513e468fc3124243a87" sha1="558a406dc075788e3d10384218baeed6e0e3b919" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\SolFree\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\SolFree\SolFree.exe" size="168097" crc="d2b81e95" md5="923b916285098f0314cd7d2e1681262b" sha1="97288049ab79a3bd33ea74ff724fec0e7b07396e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\SolFree\SolFree.jpg" size="25278" crc="1c1b4a65" md5="912cae1dad6635c08be2a422edf2373d" sha1="5158ccbc30afbddac847999de5548e37cc49f0cd" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\SolFree\SolFree.rtf" size="15746" crc="52eab3e2" md5="611277799c1ed777eb36a03e1bd3a35e" sha1="b76fc7616cf4a4af5cf457cdf0a29cc79018f5c9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\SpaceTrader\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\SpaceTrader\SpaceTrader.exe" size="469620" crc="c4e85dd0" md5="7e5324c35423f5f798237358ab25657d" sha1="3139bde2c918f7352ca806e6bdea575d3c58f090" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\SpaceTrader\SpaceTrader.jpg" size="27650" crc="0ebec252" md5="d12182401ac0892896718152ccb426c7" sha1="70d570e345c6b4695500865b4c8edf0022848691" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\SpaceTrader\SpaceTrader.rtf" size="16156" crc="1be3bc5e" md5="a12f5515673ac26b018eb5a36b4f29d4" sha1="6ef88460d3fd78278a0ff582e8c58a84bf3ed918" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\TimeBomb\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\TimeBomb\TimeBomb.exe" size="80876" crc="1eecbfcd" md5="a80975d05314ca90032b945be0358509" sha1="bb7e1d37ddb075b8a91114681fe2eea42a3319ef" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\TimeBomb\TimeBomb.jpg" size="17381" crc="012241c9" md5="77c383b1d72a1d60056fa2f337b10195" sha1="500903f928b92032ed7a82f6e823089d71315b57" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Jeux_OS\TimeBomb\TimeBomb.rtf" size="16959" crc="49b9bfb8" md5="d45ac98288f0aecac47416511dbdb1fd" sha1="00f08521e6663b34f1315472194159bb94ab5da7" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\AlcoolTest\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\AlcoolTest\alcoolTest.exe" size="73938" crc="471be4fd" md5="d144a936daa7bc9512b5c14b477e9b0d" sha1="4b41f7f48316d1fc2ac127d32f6578cec4dbe1e5" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\AlcoolTest\alcoolTest.jpg" size="24423" crc="c786f6da" md5="35e2883afe454645cff8fc8b4013e9f7" sha1="1cca9f7e5f8ac3d53d1f362679b2fe0263896cdb" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\AlcoolTest\alcoolTest.rtf" size="16856" crc="7b7ea3d8" md5="222e8420625bbeb3982baf280c315d54" sha1="192bd8d018c5744ce3518f4d7792cafea88651e8" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\Clocher\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\Clocher\clocher.exe" size="186724" crc="ee6246c7" md5="1f0ed1a3b4e9b3bd1760cb9cb7e494a3" sha1="c0c8ab23f4a6cd683abb336dd46a7f17f31b72d4" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\Clocher\Clocher.jpg" size="28509" crc="699b46ad" md5="75def9f09f21a72fd227cbbee6d5ee05" sha1="5b7ec7482995b08bc57263f22bf3df1fb83f6cd0" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\Clocher\Clocher.rtf" size="17445" crc="b659ee8b" md5="912ff173edf23235d2953d8d6cc671b0" sha1="fcf1998ded9cfda7ba5592e28cefa25b0208a95a" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\Euro2004\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\Euro2004\Euro2004.exe" size="818158" crc="cfa93679" md5="f2267dd4e12b7622e760cfed9e9093ff" sha1="7fe0616e22bd4ab56df15b9b6d9f477a147ddcda" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\Euro2004\Euro2004.jpg" size="37575" crc="05b6ec24" md5="b1a0b411fb179aae0cf6a7025bfdcda3" sha1="077721b6ff03c05488cd3b73439355927b6a446e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\Euro2004\Euro2004.rtf" size="17407" crc="0bf572ee" md5="bfa1a4aaa4ef63e95b9c8b1a2c012834" sha1="3bed714161da55a7b6b1818fc71a156c381c92eb" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\F1guide\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\F1guide\F1Guide.exe" size="260953" crc="5b8a0ce1" md5="9226913d25678d5905f6743a27baa540" sha1="786ab571827481d0fd5ea6e6f702af4deb4cf292" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\F1guide\F1guide.jpg" size="29332" crc="28bcb5f2" md5="8b58080e66891b1f58f4b6a8e49e7205" sha1="f68309e9b9c0829ffe79c5d50d8404c08a34e5a6" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\F1guide\F1guide.rtf" size="16265" crc="182aa11b" md5="68a75336c5b530721fc34d1e2a3af208" sha1="885128a2a13d44345cecb1c52c79c35d968c7721" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\H\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\H\H.exe" size="79578" crc="8fbcce41" md5="a65f2d1255445fe1618d1273325f2644" sha1="0fbf61945cdf5f0c7d996b44f092f5a36b369148" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\H\H.jpg" size="24342" crc="5bcf3a61" md5="22a3f4432a2786b8c8c1eaa0d2517c48" sha1="8f645b209cfe5d20b0ea446e92c5d57c11dea953" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\H\H.rtf" size="16372" crc="1488c9c1" md5="562c7ab17187b82b0c538a2baea48aee" sha1="a0ea340d3ad3ae7b1a831f9f4a4c953748a1aa89" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\JoursFeries\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\JoursFeries\JourFeries.exe" size="57789" crc="5c958d6f" md5="bdf8a78808a801c0c9e54019a5d591d3" sha1="e01bbb2227efbb731087c44a37c091e105604529" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\JoursFeries\JoursFeries.jpg" size="84957" crc="ab0300ab" md5="751b4164841ef6f7cef30697b9142451" sha1="cb1bf7cbbff53f2127b724179ececc4c6422ad31" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Loisirs_OS\JoursFeries\JoursFeries.rtf" size="17231" crc="fc0317bb" md5="2dcc4b4ea3fa3d911d18f8f98017a37b" sha1="3b195d280ee081247d24ecd75337d50c15b15efd" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Archimedes_Palm\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Archimedes_Palm\Archimedes_Palm.exe" size="3237273" crc="318d069a" md5="1c0cf2276e93f8a2496e88b2c42b9920" sha1="73c5a2367309395611e06676e2c899f7de64497f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Archimedes_Palm\Archimedes_Palm.jpg" size="70660" crc="e441eabc" md5="5fc59d97c48cbef44eeb6e085e6b9689" sha1="3977b85a33758ba2db2648939d5d78ab5b2ec65e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Archimedes_Palm\Archimedes_Palm.rtf" size="16791" crc="163d9eb6" md5="db6a61b21ef0f11dd7b5c297b88f06e0" sha1="2f8731eb5f77f3cd5eade237fca3d005462f0f62" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\LyMe\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\LyMe\LyME.exe" size="613557" crc="da5a4cb0" md5="12b9e4f88e7bce9e691ddab8b9bb06a9" sha1="66e6189b2455b451ff6fdf1c2a0e85c07e72426e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\LyMe\LyMe.jpg" size="24504" crc="94fd6e03" md5="f10cc32d79f7d9ec645a689c549a1c38" sha1="ba8ff55370abc8f3d334b751a5b3da9a20f14e74" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\LyMe\LyME.rtf" size="17446" crc="31dca522" md5="faa65055974d3df4c8f2040746520033" sha1="01eb09cc12c6e13e31678077516f5e373b367637" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\MedCalc\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\MedCalc\MedCalc.exe" size="143491" crc="cf88b6ef" md5="95a8b576c7dab47278f36da1eb11b2dc" sha1="31588bfd321e4c6ff4b6b26e0df63f86669d9a0f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\MedCalc\MedCalc.jpg" size="28023" crc="a05d5f67" md5="1544b8df7f7b67c96474f728436aed12" sha1="ba5c89e54fbb4972eb1c071762eda573fe39fe96" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\MedCalc\MedCalc.rtf" size="16874" crc="07609bf8" md5="f1548ed405263b9afad5076d0253c59a" sha1="7ff7852ffb2e7cce23c4646d4ffd98f6f765b675" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\NasaMemorial\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\NasaMemorial\NasaMemorial.exe" size="209533" crc="2f8851e4" md5="07e0c78cbc4e04e82e9c882ec0eb4048" sha1="bc7227200551e9948ea3335581c3a02261c466b6" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\NasaMemorial\NasaMemorial.jpg" size="28668" crc="14d76d79" md5="1e02fbae30618a0a8dd6648044469331" sha1="dc2f38cfef21e98a41e2e6b812ecc3cbf4c554f6" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\NasaMemorial\NasaMemorial.rtf" size="15826" crc="b72a572c" md5="17bef5c3cd6da75f5bb0451570588b58" sha1="3048f4748455bdba29908e49fe03d7ed6200e749" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\PhysConst\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\PhysConst\PhysConst.exe" size="64370" crc="2c69f2f5" md5="0bdf625c776977736c27ee82cee29f17" sha1="36bab921c31c163dbdc49d4d21608f210af2178f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\PhysConst\PhysConst.jpg" size="77214" crc="95ff83a7" md5="c645eea91e26a5153f52e871c226b81b" sha1="48e1c3782290b277b33c5196ccff5c2aae3d0cde" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\PhysConst\PhysConst.rtf" size="16847" crc="2427d57b" md5="6af22087318eaf35049ec4fb43b55142" sha1="3dd1a76e2c6e202d0ff7edda68033ee681be1961" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Planetarium\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Planetarium\Planetarium.exe" size="591029" crc="a166d00c" md5="d4f3d98b07a5715b537c8e73d5a5e272" sha1="48d5d1e56a7dca2fc23b6d4d704de34cdc6648f3" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Planetarium\Planetarium.jpg" size="34514" crc="b70b20db" md5="d3d08d384f77523570a06a8e6ddcb920" sha1="981ad5e3d1339d2143092e20b64e0ec2f31c0ce9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Planetarium\Planetarium.rtf" size="17173" crc="c488719c" md5="7711a25c6ed99d349c1add8dd88a4c98" sha1="2cd0567c9ea36178c4444f3b2ba416f2755eb5e9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_Beta\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_Beta\Power48_Beta.exe" size="361263" crc="ff9512e9" md5="dac45e66a052f679f20f34809047ef70" sha1="55de0472d1b534fa7af43eb3b22242ed3a3ececa" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_Beta\Power48_Beta.jpg" size="66253" crc="fbbf2046" md5="59d423ba5d1bcff102e4d28e62c46743" sha1="0dfd423743af78f53c98498ade690772f39d3491" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_Beta\Power48_Beta.rtf" size="17561" crc="e59e6e09" md5="5aede68dd0a1cc549a9f3c835c117f97" sha1="1a6fd6ad137ed056db48ea78d025d3fdb705adb8" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_OS4\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_OS4\Power48_OS4.exe" size="1974057" crc="43579eca" md5="cab9311eae77f4a2e8e9bc6ccdfff88d" sha1="7119aca8b828d59447ff15973f0758d32c7b1cbe" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_OS4\Power48_OS4.jpg" size="56258" crc="3720b92f" md5="e3dbacb8f4a7959f0da995d9e29a63f6" sha1="850cfdf79d4319a791db42c648878de8d936cd72" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_OS4\Power48_OS4.rtf" size="17290" crc="d74f0a1f" md5="79422910c56359109fe3a10d09d5cfab" sha1="b48565a38a3e1c77df2a4f6b0934da9407a358fd" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_OS5\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_OS5\Power48_OS5.exe" size="2030260" crc="8edcae6d" md5="73d776ea8ab439bb4d87e5d0f7a449f8" sha1="28f541db282787441023fbec2eb6cb7427f1a547" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_OS5\Power48_OS5.jpg" size="66253" crc="fbbf2046" md5="59d423ba5d1bcff102e4d28e62c46743" sha1="0dfd423743af78f53c98498ade690772f39d3491" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\Power48_OS5\Power48_OS5.rtf" size="17236" crc="dc26acba" md5="9f8008e8b96f9bfdc3ed08f46e94a1a9" sha1="96b61716d022a8e948117c0881f5d6eabed6e7f9" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\SC-103PC\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\SC-103PC\SC-103PC.exe" size="441229" crc="aa81a929" md5="113b7fd7b0d1833fa8b2e2851154eb78" sha1="8666f64f3dc9c337a8d18cd2b0e4d53772fbcbd1" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\SC-103PC\SC-103PC.jpg" size="43466" crc="f9e31148" md5="fc646184a3c75019ce3abde7c8912682" sha1="558298db50aad752ebbb88d6dc62bc4a0114b52e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\SC-103PC\SC-103PC.rtf" size="16341" crc="b034cf2b" md5="116a9c9cecdaa3ff064632100c3ac909" sha1="1fd01f63ca8bc160d21949132cbd01d6509bc4d2" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\TideTool\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\TideTool\TideTool.exe" size="902435" crc="35421fe3" md5="6fa4088e2268e3d5e257dd1b9066b135" sha1="c54627562a7e3064c2368f61e40a77bb00cec8eb" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\TideTool\TideTool.jpg" size="24909" crc="fa15bf35" md5="a8cd65a28a6e2bcbe4efcc14e6c96f9c" sha1="c76780f1d7df8a1829d80e03c18b90c4b177db00" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Sciences_OS\TideTool\TideTool.rtf" size="17322" crc="9e49d40b" md5="1c187dcba3393659ce8359e9730ff02f" sha1="df389513c1cdb5ccbee664ffbd76850e9ae28692" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\BatteryTrace\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\BatteryTrace\BatteryTrace.exe" size="57454" crc="e29221f1" md5="4e2b9a218278222c696387c8aa27abfd" sha1="874cfb6d9a6280ce8d67f673d2bf302b43597114" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\BatteryTrace\BatteryTrace.jpg" size="25357" crc="06c5900b" md5="fdb381df73c163f7b267f1da963893dd" sha1="15c5a9f3f613e58fb218b488e0f0509351bbdc6f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\BatteryTrace\BatteryTrace.rtf" size="15908" crc="d75d392b" md5="9e4a426eb8eed32194d05397dc03b5b9" sha1="fd469635bef5a8f3727f532795327ef56d25003a" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\Crash\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\Crash\Crash.exe" size="377898" crc="d87680dd" md5="eb912d987a303032b6bc46cb1a1f6e6c" sha1="b68e0b409b554bd90303285df7eeb511cda436c4" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\Crash\Crash.jpg" size="23358" crc="995f9bbc" md5="05536fb522c675f5211f1ae51937675e" sha1="0af037846cc595d15bfcf5f73d7f9a1c792cf592" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\Crash\Crash.rtf" size="18032" crc="e2f1bdbc" md5="485fe72bf4be6fe842e4296210526a46" sha1="2411db2fc5a7b658dbc689478324ea24f6e0f348" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\ldserlib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\ldserlib\ldserlib.exe" size="35358" crc="6278a810" md5="0a6c3fc201e3afa93bfe528f6859f5ec" sha1="2b85e7bd5b6e8589b667b4c83848be338e62fae5" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\ldserlib\ldserlib.jpg" size="8198" crc="b69b1293" md5="72063eebd0c9e43eced1f9d749e2e235" sha1="b8361e2a3a25ad4abd59d09f799dcabcf615a93b" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\ldserlib\ldserlib.rtf" size="17102" crc="0395cc67" md5="308ac0c3ac2095d7b8e4c407088e2832" sha1="d9e8f9ded7caf17fd2fdec39c3103cda847ea30d" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\MathLib\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\MathLib\MathLib.exe" size="87639" crc="864dc6c3" md5="def8c9956bb6608776789f8b2f7ffaa3" sha1="2204e69bda80801284b4840c09f1e588ef5049bc" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\MathLib\MathLib.jpg" size="8198" crc="b69b1293" md5="72063eebd0c9e43eced1f9d749e2e235" sha1="b8361e2a3a25ad4abd59d09f799dcabcf615a93b" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\MathLib\MathLib.rtf" size="17028" crc="672d63ed" md5="15ea3cb4e4d23784dd52179c0d43cfbd" sha1="fcb3c0a874cd63ece7a5cea45ea9fbd90faf6cbc" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\Tungsten_T3DIA_Compatibility\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\Tungsten_T3DIA_Compatibility\Tungsten_T3DIA_Compatibility.exe" size="69698" crc="21aba90e" md5="7691b7356233e9faf608ef32d0a47a8d" sha1="1206fc212db930ae995e11d2b20f1d3d1a909d8e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\Tungsten_T3DIA_Compatibility\Tungsten_T3DIA_Compatibility.jpg" size="110685" crc="06d53e20" md5="5abf14096810d694eb7b43f2052a17b6" sha1="77d275411ca2b7041ca7ba128ab32c076c4cde77" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Système_OS\Tungsten_T3DIA_Compatibility\Tungsten_T3DIA_Compatibility.rtf" size="17334" crc="da498ef1" md5="029ac5d9dfe63b008ae6c0d6db67e1df" sha1="9604ee67598cf8947199fcc5bcb8f3d94fddd795" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\InstMsiA_Palm\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\InstMsiA_Palm\InstMsiA_Palm.exe" size="1709160" crc="94e518d8" md5="22098231992c8c808543825e19dc9454" sha1="e739c40d747e7c27aacdb07b50925b1635ee7366" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\InstMsiA_Palm\InstMsiA_Palm.jpg" size="103381" crc="0c5b2378" md5="7fc125ac4d826e2b393ac3a7ad1792a4" sha1="cda16497de1278caa964e0375417ad64e7aa2d45" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\InstMsiA_Palm\InstMsiA_Palm.rtf" size="15188" crc="b84d581c" md5="98d26349b049f9e19925c37e776266a7" sha1="5cf76aa71c4878a178f62e1faca5154812fa1e24" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\PowerArchiver_Palm\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\PowerArchiver_Palm\PowerArchiver_Palm.exe" size="2384458" crc="6cd12b8e" md5="7536add8adedd796e394c5d1d4eb1ebc" sha1="fd8e6bfe95d532378f3c0f3097f3abbc2242fcf6" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\PowerArchiver_Palm\PowerArchiver_Palm.jpg" size="86366" crc="0ad2a8dd" md5="b05198f94cf8922336350802b1898b21" sha1="a1801cf5dc803ca5805cf028fb631c518ebd1010" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\PowerArchiver_Palm\PowerArchiver_Palm.rtf" size="15830" crc="b2051aba" md5="cb83f5533594cced8e22801fd84aa615" sha1="14cfa840ab8aa96fe9c456c272fdf6fdcc854d01" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\StuffIt_Palm\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\StuffIt_Palm\StuffIt_Palm.exe" size="5732328" crc="cea2bbb3" md5="b1a02b3a9ce013e8cd5c99a2c92eb642" sha1="4df32b15c667b0ed011e01bbc5d5fc06bf841da3" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\StuffIt_Palm\StuffIt_Palm.jpg" size="93386" crc="e6840c7f" md5="4fb7ecdb6dcf42e4d5032727af4fb9f0" sha1="6c8d0123ff07a95128c3749d0033d50ce67313a3" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\StuffIt_Palm\StuffIt_Palm.rtf" size="15989" crc="bc9c7e5a" md5="810348441741d5bc42a0b6ed4b8f4866" sha1="c12f2da8bfab36dda8e55f9b35e2324f9a1b8deb" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\TotalCommander_Palm\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\TotalCommander_Palm\TotalCommander_Palm.exe" size="1473856" crc="e59aac5c" md5="03acf43f8cb423bdead16ced8af1945f" sha1="b14923d94efa5ced77d60144106e538975d7e835" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\TotalCommander_Palm\TotalCommander_Palm.jpg" size="173705" crc="0d084be7" md5="7b959c4613b3afa501aa08dced6569f2" sha1="e65e3e1fecbfb494cfa7b3a81f89eed18f4bf0c1" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\UtilitairesPC_OS\TotalCommander_Palm\TotalCommander_Palm.rtf" size="16202" crc="9953d726" md5="1d83187b36ca904e9880503c41473497" sha1="8bb5807e381016e25f9185d4f99705d740ac873e" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\AirFranceCabines_Palm\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\AirFranceCabines_Palm\AirFranceCabines_Palm.exe" size="264002" crc="1b63544c" md5="9def15e384d382e78d83323c7c3d188d" sha1="27d632bd8f24e05fa271c42f17af51f899c3e06a" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\AirFranceCabines_Palm\AirFranceCabines_Palm.jpg" size="24254" crc="438d3adf" md5="26c2d4845162b5c874395d700b917615" sha1="282361345de775826483be4ca454d9b86dec3133" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\AirFranceCabines_Palm\AirFranceCabines_Palm.rtf" size="17029" crc="93dd1392" md5="d45654d58eea01b977218577d97598ea" sha1="1016d7f81d99dfbbe3809096db9e3bec7e69d546" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\AirFranceGuide_Palm\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\AirFranceGuide_Palm\AirFranceGuide_Palm.exe" size="363551" crc="f3b51b24" md5="a58e213c6a3956d1ddc65a97a4b3b45b" sha1="56640c25e7f2127c7bc4d502bb5dbe740ddbfdf3" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\AirFranceGuide_Palm\AirFranceGuide_Palm.jpg" size="39383" crc="8e504d44" md5="b014d00f2b6a04f08e5b23c24dae4921" sha1="eb9ee6bc53b78bfca081b1f7928d0d6db4ee3f84" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\AirFranceGuide_Palm\AirFranceGuide_Palm.rtf" size="18023" crc="acb4514a" md5="5f0a23696f4403ee4fa70fb0fba30075" sha1="5154d41382dde9353f7dc74ab40551909339fab0" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\CetusGPS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\CetusGPS\CetusGPS.exe" size="126056" crc="d02b49b4" md5="09a3e263ade1b37d8b585f78b18d97f0" sha1="9afd18b1f638e17af98defb66f9cfe155048681f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\CetusGPS\CetusGPS.jpg" size="25796" crc="ebe679cb" md5="ffc01d857195e4f7ddb55135a7cac1ee" sha1="d19344ffb3e0b596e2eb387a879254635318c079" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\CetusGPS\CetusGPS.rtf" size="17872" crc="82989b80" md5="15f6b81a9b9c86df4466f66d12b4a479" sha1="59fc7dd161e77aee572e4a1a72e3b6af9b7f3443" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\CodeBateau\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\CodeBateau\CodeBateau.exe" size="243934" crc="73dca4b2" md5="8b9eb52a3c2262b7c7f509b4ed10ecd2" sha1="6069647651cacd1c1afbda0f5975c2cdf5186bb8" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\CodeBateau\CodeBateau.jpg" size="39171" crc="843a3981" md5="1e07066d9cf707cf977ebab1e0a1d8ce" sha1="d56cb05f07b9427fb7556ea95ef412c5f604b0b7" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\CodeBateau\CodeBateau.rtf" size="17030" crc="f5ade692" md5="fd6d629791d2559cf3fc5f09f5542962" sha1="110c7b9d62989e5d416b87fea60972e28b59167d" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\ConsoVec\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\ConsoVec\ConsoVec.exe" size="55926" crc="da53b936" md5="44085731cc834687514b33c73fec85c4" sha1="d658e32d1bb7ba69fb3182652486682a43babfe3" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\ConsoVec\ConsoVec.jpg" size="35415" crc="49ced431" md5="0e39435d775276d1f44fa2bb9c345b3f" sha1="9ef5ba04685fd58d7f15646d1bdd7c94e519c319" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\ConsoVec\ConsoVec.rtf" size="16316" crc="29ec182f" md5="cdade92356866aafd1df92972c43e008" sha1="1b561d252468a1895dffb96eebc77569503bd53a" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Currency\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Currency\Currency.exe" size="69256" crc="9b24aa9c" md5="3fe7ff9f907528d09db39942cf4efa45" sha1="fc96bca69ed2ef665005fbeccfe91933684c4bc4" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Currency\Currency.jpg" size="20470" crc="83ca1a8b" md5="a570c5286340c38f18f22b5c97cc2064" sha1="5fbe07fd5d40bdb42dd100756b5819ee833e6274" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Currency\Currency.rtf" size="16982" crc="2ecf3b61" md5="76c21507360b1a048a81dd952740f18e" sha1="1e7fc2ed92bd24c6eb00f302a30c71c174f529e1" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\LufthansaTimetable_Palm\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\LufthansaTimetable_Palm\LufthansaTimetable_Palm.exe" size="222943" crc="38155ba9" md5="5a6c745677a63ee0016018c65fd343f4" sha1="fa56c24fe84112a6239f86efe996d06bebe6b89f" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\LufthansaTimetable_Palm\LufthansaTimetable_Palm.jpg" size="72605" crc="66bc6a6a" md5="a3959bf6cc23c309d2fdcd41ab784acf" sha1="be662fe87ef36dfe67c6ad581caf69346223e576" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\LufthansaTimetable_Palm\LufthansaTimetable_Palm.rtf" size="16029" crc="cfa4d09a" md5="c8a739136b141e7b41d7cbf439c441ef" sha1="c9ede6ad4efbb402ca7387c3c5f759c2e8bcf834" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Metro_Palm\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Metro_Palm\metro_Palm.exe" size="3951203" crc="3e6c9156" md5="4fe944fbac7ab82c31079237a303ab99" sha1="6d6eff0e01493d7b417a208b9597155a5fe0897c" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Metro_Palm\Metro_Palm.jpg" size="32678" crc="ed9e5916" md5="d388fc9599cf348e7e483f24ed4cad34" sha1="d51db9bdde7b507dcd61faaf5ff38c98688a36c8" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Metro_Palm\Metro_Palm.rtf" size="17309" crc="93c2142c" md5="21c455099f76c4da6fcfe47e4cef6735" sha1="cf8e19f4b6a5263c208e03209006b3bc592680f6" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Navigator\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Navigator\Navigator.exe" size="1768840" crc="62ae313f" md5="6231b834b6b40a72a5f2b54f95f29c59" sha1="33f8ec7ad6fe349aa66a13a2e6e652d38b4aa926" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Navigator\Navigator.jpg" size="19627" crc="c59f4203" md5="975da8493b98bae6b3cb7b8ef86151af" sha1="b3d5cb19f370cc5ea7171aab86001d991d8f0e50" />
+		<rom name="CD\PDA_Pratique_7\data\Palm_OS\Voyages_OS\Navigator\Navigator.rtf" size="16288" crc="194850dd" md5="c4e98cc7226db4462fb21535b5c34c8a" sha1="285b028ac34b1bbfda95bfb23f9643796bc5eb8d" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\AcrobatReader\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\AcrobatReader\AcrobatReader.exe" size="8771297" crc="9004e3f3" md5="ed07a1750a76da10a92c66f7084a841b" sha1="e05240cf8043550e5827c0531cf21f8b32619b15" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\AcrobatReader\AcrobatReader.jpg" size="47587" crc="93a98422" md5="36b9886217ae3981f2e58dc197ba948a" sha1="c3dac3b723888b42940dafaf17216e64f2e300cf" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\AcrobatReader\AcrobatReader.rtf" size="10896" crc="210b5d20" md5="bfa063bc92d8b08cbad9285cbc6897cb" sha1="d06591ad5482853f7469a90e4acaa08eb387da36" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\AdvancedExplorer\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\AdvancedExplorer\AdvancedExplorer.exe" size="903691" crc="d1e4c2fa" md5="57ab2c176d69fa435366c02819ce2d86" sha1="9055b100078248637a1b6a3c3020b8bd082c7761" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\AdvancedExplorer\AdvancedExplorer.jpg" size="60454" crc="32bb84c6" md5="847561a55348782f441222e0f40554d2" sha1="fce8c6c9fe085e0cef54913449e93822b4b8f386" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\AdvancedExplorer\AdvancedExplorer.rtf" size="11487" crc="a0dd5525" md5="19cd46e7ff89b4573bd669cea38e8c77" sha1="b27b00afa9971ddcf4798228004a4ccf68403eb6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\BatMemTime2002\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\BatMemTime2002\BatMemTime2002.exe" size="105130" crc="8efe62bc" md5="0f9a3350407418e29019b608bd565ab7" sha1="19465d52de369058a0a4e79de4c386087192c6b5" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\BatMemTime2002\BatMemTime2002.jpg" size="63031" crc="73b40f6e" md5="74c60705519e81048ad816cde1aafa55" sha1="5ebfef892f8ac68504dff7bccc0cb0aabb8e870f" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\BatMemTime2002\BatMemTime2002.rtf" size="16096" crc="e9cd1533" md5="748e48b23e81c9f167f917ba64150ba1" sha1="606d6792b0bd860af778a9ba1f2f115e18154e65" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\BatMemTime2003\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\BatMemTime2003\BatMemTime2003.exe" size="126012" crc="764a7497" md5="0b81eeee3de0c13af71f573480cbb9b3" sha1="8816bbc4be2dd0f8a13041c6bf721b084f3e4b90" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\BatMemTime2003\BatMemTime2003.jpg" size="62487" crc="5915434a" md5="042a3580d54cd8a53e3a69301c41b129" sha1="ab0eb87e75f881e985e6c87285863408aaef929c" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\BatMemTime2003\BatMemTime2003.rtf" size="16028" crc="e30a7c1c" md5="3dbb450aa735f2a197d6b5e71530ab27" sha1="fa370806ef02e5e99d86a2e015b1636b646b114c" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\CabInstl\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\CabInstl\CabInstl.exe" size="105521" crc="075b8d23" md5="34b0f4c62731d663a08649a335953293" sha1="3d5cc399dbbdc77526c0f13ca441644c2ea1cf48" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\CabInstl\CabInstl.jpg" size="84141" crc="f9919b68" md5="f7826e5421b4c427b8c273e08c6df36c" sha1="1d97a0c3eb605cecb7096c02365d0c3b9d23ed48" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\CabInstl\CabInstl.rtf" size="10959" crc="d46329be" md5="4caa5b64370d3e5ab2c0622a6698f145" sha1="144e0bd848a3605da902a71ecb04fe75b3d71407" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\DTSysView\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\DTSysView\DTSysView.exe" size="337437" crc="3e3f3f60" md5="5d9fe1860cd79ad856752d9f9c07899a" sha1="540348018baf77a3f1074b10c9f6e4e0152bc424" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\DTSysView\DTSysView.jpg" size="80783" crc="3fa60b23" md5="c446a0e98752c0ab34eaad4d69378d50" sha1="52fdf23f85c2a6311a648019de99f391e98aa34f" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\DTSysView\DTSysView.rtf" size="17511" crc="e0b57fc8" md5="7343887baebeb70fa85bfff640d9b6f3" sha1="19333c79cb6cfb9113ce053776d8a5a7c7b66da6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\FileCrypto\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\FileCrypto\FileCrypto.exe" size="2479172" crc="4ad3ac6b" md5="71de85987850d47169d7c0efc303561d" sha1="f45f00ed9ba998ef929d7531f89271ac2f11b575" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\FileCrypto\FileCrypto.jpg" size="42622" crc="0b335904" md5="c3a29a0f51073ebfc3c1487b588e307a" sha1="db97eb19806b1706bdade6e9dd5d714149dab8c6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\FileCrypto\FileCrypto.rtf" size="16633" crc="4638d108" md5="15048ac1777d9bf1c4e94722e6278774" sha1="8dbac99baac861f880158e052ad4454ffc9be9c7" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\FlashPlayer\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\FlashPlayer\FlashPlayer.exe" size="482304" crc="bb60bb70" md5="514cb4bc0dd4d2d3b93fe015079b36cd" sha1="1aa710a784beccbf028e31ec2f4dbef4c0493ae1" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\FlashPlayer\FlashPlayer.jpg" size="56829" crc="7fb6580b" md5="86910b2b50d341bed3e60b65acbb0133" sha1="a1e1ecde32e7c139d3f11775fa22c977b2d605a6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\FlashPlayer\FlashPlayer.rtf" size="10718" crc="9aeaba0a" md5="72954173889f1df3a443344238f804cc" sha1="9bdb2e51e481bce23a207fa3f456e3489596a534" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\PocketRAR\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\PocketRAR\PocketRAR.exe" size="209709" crc="4dffac12" md5="6771fa98d0b4801c3573d942ee20d8c8" sha1="320a9db5dc8f91b48f35e6feccc36033b07d347b" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\PocketRAR\PocketRAR.jpg" size="52837" crc="d02ef86a" md5="68c45800e7ec51704d2286edce4e7b7a" sha1="25180327f79b9f7af2a1f624c3dae6eed77fe4cb" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\PocketRAR\PocketRAR.rtf" size="16107" crc="0f99bb5b" md5="0a194aa5e313d5b59c70f92e4049db66" sha1="dd368d42d0786d702971195b8f61351049185b3e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\Remover\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\Remover\remover.exe" size="186109" crc="ae4a2a4b" md5="044ce7fee8ef220eb833670eb01fde3a" sha1="dd1b111820d59b97f8a356774bf5c8d8d0ba7c90" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\Remover\Remover.jpg" size="51687" crc="828b8240" md5="64aa8bb84b2d7bd06f4b363cc0e35243" sha1="cc841c6fb76963538dd36244d65c01f478ae1db5" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\Remover\Remover.rtf" size="11039" crc="c9204af2" md5="4cabb4af94763bf43f25e745c91eca96" sha1="0fe67621bbe09c4affb78461ca266c63f799f860" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\TotalCommander\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\TotalCommander\TotalCommander.exe" size="418906" crc="048cae76" md5="1de1957ccac6f47302ec08907ed64237" sha1="b4985eb72e4eea6f1ce4de3fdeac84faa9bef0f9" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\TotalCommander\TotalCommander.jpg" size="71402" crc="98c429a0" md5="abe9d74c6ed2a0fb021dc1d57c5705cf" sha1="285c2c16bbfce95796c8a600f234ce6f06469d9e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\TotalCommander\TotalCommander.rtf" size="11835" crc="7b37c195" md5="9e847a48f17c48f3844128bfc2bbbadc" sha1="2591d5ad2b1c3b036b8c67b0b71bc600fc9b6664" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\Unzip\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\Unzip\Unzip.exe" size="282106" crc="bbab1128" md5="da4336e933c7381af2b9be365f0fd91c" sha1="60ca555cea2f03f3ba150a171d3fdafba1c301b6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\Unzip\Unzip.jpg" size="43054" crc="d418b5c7" md5="e8f1c7c4d1df727e072f5d5541826c36" sha1="4b168730e822e86ac207d75ccb7cfea505ca1b56" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\Unzip\Unzip.rtf" size="11294" crc="da43ef82" md5="7d7048193cbb86c825250e8b7f9f8dc4" sha1="e3587943769a70d3a882cad08a3a04f678febf6c" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\VoiceClock\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\VoiceClock\VoiceClock.exe" size="1242745" crc="f5ab6f12" md5="8ad8777caba11cbd36b3f8bdcc864055" sha1="86510d669616ac4606fae48ee3a3fcf5cae9b0de" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\VoiceClock\VoiceClock.jpg" size="51083" crc="f5b4eb8c" md5="0afe46c283198842ad09dee1c643d41f" sha1="4eb1b1f661c90dd6481300a38bfa0e39f89ed80e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\VoiceClock\VoiceClock.rtf" size="16470" crc="4f4ff925" md5="e3f5699c89aa58184c17f88740dde8d3" sha1="6e635509a5cfdb2ca559531ad2636ebc4842f012" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\WorldToday\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\WorldToday\WorldToday.exe" size="35328" crc="ac50974d" md5="d39b05370938178d340cd068dc31400f" sha1="973286ecc3de854fd25bec0ef2f20c9e17c5d512" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\WorldToday\WorldToday.jpg" size="61371" crc="4a9024ee" md5="3c412635dce1742d24fe58711fca72b2" sha1="3a4196e9e2063830714636504691e469c2ae20d1" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Indispensables\WorldToday\WorldToday.rtf" size="10976" crc="9df5cf02" md5="7fd487fbae1c822188d1a2eda78ae0bf" sha1="1d75b6ffd792b99333d9eebf33200b43904ebefd" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Aala\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Aala\Aala.exe" size="158527" crc="4544845f" md5="b8d9e70a6fcf6bc2cc4b9e881406bcbd" sha1="dde7d0e7d5b21e2fee5cc9078647fd72549cded8" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Aala\Aala.jpg" size="53338" crc="df343b62" md5="0a2f0a02f500147b52e5e234c768751d" sha1="5a893437a7af17b857d1d36a0f82c40bce2dd363" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Aala\Aala.rtf" size="15927" crc="919dbaf8" md5="6425892be393a2b5baa170ec3cd8e520" sha1="e2d31cc8ec14c6a4577b1289b8ae1593cf2f6cc9" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\ChessPPC\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\ChessPPC\ChessPPC.exe" size="332318" crc="03ae7930" md5="ba9194a0214a0fb98469b24074cc80f7" sha1="774f56bf156f108d4f8788cb0aabf708ed2f9ad1" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\ChessPPC\ChessPPC.jpg" size="26029" crc="e7da46fd" md5="fbf9217a44c28a4548cd6d5af97da268" sha1="d06359fa3cecff508c250e6353af68d573523454" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\ChessPPC\ChessPPC.rtf" size="16149" crc="0cf367f6" md5="fbfb5700fb438eeb5ccb00801257efb8" sha1="eb3d5e4eae4418aa79c2e8b5a7e1c0963f57566d" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Crafty\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Crafty\Crafty.exe" size="229741" crc="823ab6cd" md5="a78b2b2ed92dcf05fd2f9790bd7867f2" sha1="f2303e6900f10b660e50f7102a4f14726f13ab52" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Crafty\Crafty.jpg" size="51731" crc="d0860b22" md5="9dc07eabe22fa491d86603fabc9bebd7" sha1="bb25b5e65abfbc7cec60a918808377dea27d2926" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Crafty\Crafty.rtf" size="16237" crc="2c7489ea" md5="ce588909d56426609a4cddc83fe374b0" sha1="cc44c7615a435094381135a644b4346728021884" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Dava2002\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Dava2002\Dava2002.exe" size="210432" crc="9d73cdd3" md5="82dc11ccad7a04f6bd9e1dfc13fc37b5" sha1="710521ca192ceb8694f6bfaf5743f1eb41c7efac" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Dava2002\Dava2002.jpg" size="21244" crc="a7bcd606" md5="7dce6a236b8dfef1f99346f8a9481f47" sha1="6b4f906ffcefb841145f4135e04d73c8e8f54b22" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Dava2002\Dava2002.rtf" size="15135" crc="a62393a8" md5="859621882ab11237bd4a19fedcb992ed" sha1="d8cda619f4cdb48a5763a7d20eb2688889416d68" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Dava2003\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Dava2003\Dava2002.jpg" size="21244" crc="a7bcd606" md5="7dce6a236b8dfef1f99346f8a9481f47" sha1="6b4f906ffcefb841145f4135e04d73c8e8f54b22" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Dava2003\Dava2002.rtf" size="15159" crc="e94b3d5b" md5="c978d8a4ec310b75b5f25d82da6534df" sha1="ce3b5ed3be4042d0ac79ee397368c04cf9f994af" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\Dava2003\Dava2003.exe" size="211968" crc="02e60078" md5="5579f07ec3d45d1ad38515ef6668d4e1" sha1="13049d13fba949ab70933cf82a11b0d9de0e42b4" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\MSN_Messenger\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\MSN_Messenger\MSN_Messenge.rtf" size="15466" crc="d3eb284c" md5="73c8ab7fcab12548854d253db37f5e68" sha1="3a02b9d3f3f4273417232f99ea691722636357ed" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\MSN_Messenger\MSN_Messenger.exe" size="5507424" crc="744ee78d" md5="eb2fd05ffee7d0048371d06d742a18a5" sha1="215ad2062caf3c2ae0449b64c0eba9c28ef115f0" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\MSN_Messenger\MSN_Messenger.jpg" size="42425" crc="e1e6fb4a" md5="304827fe21319cf5ec3913a91e05ddd1" sha1="832ba32f0e59a016f92e1bee0c10a41325689bac" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketCounter\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketCounter\PocketCounter.exe" size="45568" crc="fdd379f3" md5="13fd61d30f995c318d19d38d0b16005c" sha1="4e79be11b8cbd8eaac3b4c2055dc1bd3e6df6a2a" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketCounter\PocketCounter.jpg" size="54275" crc="20949ce0" md5="bd4b39e0d045105144a2672f120e4586" sha1="cbee8903ca7887af15e14142165285a960e8048b" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketCounter\PocketCounter.rtf" size="16154" crc="f515a947" md5="ea1c6daef977d40633ecfba4a174f3e4" sha1="68409c0754a24c6f783c59dc25f95d5b913e2515" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketDVD\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketDVD\PocketDVD.exe" size="199680" crc="0ff1afbf" md5="08aaceb1b15ab7c462296cb343911ae7" sha1="d5b63fd8c2b9fe495de718b3249a399f049cb12f" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketDVD\PocketDVD.jpg" size="61237" crc="edab5eae" md5="5833018ea0558e6fd925985bbd95851e" sha1="5d5c55764acaa490d642f92911b1665fe17641a9" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketDVD\PocketDVD.rtf" size="16903" crc="b6dbef78" md5="a3cfca481b3a696ede21eb47acf51139" sha1="c6595d96e34e6163fb0a698d1775be2209007fc5" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketGNUGo\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketGNUGo\PocketGNUGo.exe" size="663552" crc="85e031ca" md5="e175051129433514bed3c5784f0d926a" sha1="2ad0f826168a30ab1d6f99ac2468c3a8f5af83ec" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketGNUGo\PocketGNUGo.jpg" size="36688" crc="8e4ed191" md5="80da1b737ff0de200da89de6bc8f7fa4" sha1="0f54941db394edfed10c7f804abf68a02650f8b1" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketGNUGo\PocketGNUGo.rtf" size="16240" crc="9c76dc76" md5="1c69f500d5a6ef201d4ff425e351c9d6" sha1="b64d908b57c867d35b9d17a54a186ba0674f9308" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketMusic\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketMusic\PocketMusic.doc" size="387072" crc="aac90a75" md5="40a6ae1e5f5cebc7f2fb7435289c623b" sha1="61e1be870cc8396ae02aa7ebae3688aab85f843e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketMusic\PocketMusic.exe" size="4137472" crc="376376cb" md5="7b616c74b6c8b5d0dc344dbee7c1c8ad" sha1="466b8206a7a2594ea097900c6c7a7398027b8ba4" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketMusic\PocketMusic.jpg" size="74824" crc="80be677c" md5="8746888728ca917d0d1b17ab85014200" sha1="e30352db76df91592ba74971f746f9f8f514a336" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketMusic\PocketMusic.rtf" size="16356" crc="db0ea496" md5="7ea452d84d970eb7485468634af6d53b" sha1="4858c58cd257771e0f5bf239b1975075a0fe1beb" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketTV\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketTV\PocketTV.exe" size="493568" crc="3e7cae44" md5="bd181c1e9a73eb23dea32c622ddfe43f" sha1="facbafbf45ae9a9db04c4e6901a4fcfb4d97fc24" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketTV\PocketTV.jpg" size="57183" crc="8b7855af" md5="34a33e86830b0f4db613a020ee3b6555" sha1="ad3e2420d5c6c1fefb6e91e9297930533f943f94" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\PocketTV\PocketTV.rtf" size="16156" crc="b1dccac8" md5="bcaf717b2dc334fb7365a4c60d25808c" sha1="468d429ed6764ec90b31d69d0660ce1518cb77b0" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\SpaceTrader\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\SpaceTrader\SpaceTrader.exe" size="225280" crc="09cdf8bd" md5="c87542bf77e6a7f9125457844e97cf6c" sha1="a0b529e97764256fa217d01fac2af808674e6f0a" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\SpaceTrader\SpaceTrader.jpg" size="50423" crc="d85fa458" md5="3b1f3ea4694c32f4461ed30d29b6cac3" sha1="0f94af06ffec93beb32a15938fc028c95e36a4f0" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Loisirs\SpaceTrader\SpaceTrader.rtf" size="16144" crc="6330e10a" md5="a2c5c7fe75ed7acac8bef21cbeee1eda" sha1="cbd71b2a2385e87e91fb430b231d23f56f36ecc7" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Archimedes_Pocket\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Archimedes_Pocket\Archimedes_Pocket.exe" size="7418693" crc="e6f9fd05" md5="91bde2fc3a9a27f044bbb877e149bca2" sha1="55708e78afa5c98f0cc661952de9858025f41f42" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Archimedes_Pocket\Archimedes_Pocket.jpg" size="46982" crc="2baa959f" md5="afb080b44e76e080ab41d218abf72389" sha1="31866ddc28b0c32c53caa1b45208d44e5e722335" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Archimedes_Pocket\Archimedes_Pocket.rtf" size="16632" crc="14a3ea49" md5="ad5c8dd1528216e97e7bde7438db3daa" sha1="f067624456765a5f094f4d463c0e426ac50bacf1" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Kagaku\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Kagaku\kagaku.exe" size="1432403" crc="7b923606" md5="445c87d52dbbf67cb4e8855f9549be72" sha1="1efcdbd077b18b829f62f93777a9a4d789cbfa08" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Kagaku\Kagaku.jpg" size="63136" crc="ae929587" md5="9090ecc5766b5816ea5919fce69aee31" sha1="aa3774052b14086a6d77e0cbc5e5ba08b6c093f0" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Kagaku\Kagaku.rtf" size="11047" crc="89601c0c" md5="cbd3d98569311dcdf3e1205cbf6aec62" sha1="2fcd8f1d934dce84d179af7aa7553ef61d22cb43" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\MazarFarsiDictionary\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\MazarFarsiDictionary\FarsiDictionary.exe" size="3456281" crc="abf6ad9d" md5="12fd2dfe517865198442f26ad5f61c0a" sha1="724e097a1c274b95ed4eaa66e9a0192ec41ea730" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\MazarFarsiDictionary\FarsiDictionary.jpg" size="43071" crc="d809e9c0" md5="b3fa073ef92c9628eccd7efda862104b" sha1="5444762f462bde4ee8ff76cd6af1f61eb161657a" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\MazarFarsiDictionary\FarsiDictionary.rtf" size="15564" crc="d7a78704" md5="cab5f5581e7497a7b04757484f83f5c9" sha1="82e1efec7ddfaa419265e6d5e0f49ba6a30dcf33" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\OliveTreeBible\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\OliveTreeBible\OliveTreeBible.exe" size="2495666" crc="c8efff1f" md5="998d3707694239508a8fbe6424f8933d" sha1="658ac888d99ab0c2149ef45be284fcf923bf918f" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\OliveTreeBible\OliveTreeBible.jpg" size="81895" crc="7c84ee12" md5="12965a9008fc5c96250bd8cd28a45b03" sha1="884163255fd3b1b2a29d32ddfe58a41d64e5dde7" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\OliveTreeBible\OliveTreeBible.rtf" size="16009" crc="a4c63c19" md5="046943208c93f28ba3cfaefd3730cbad" sha1="6f8152a41936d42d72e9a7197021608c1d2c158e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Orionic\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Orionic\Orionic.exe" size="798720" crc="79daeae2" md5="cd65a65f709fa318f4b9d198ff99cc5e" sha1="bfc7d1e020f5230cd9016aa5284dd514be68069b" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Orionic\Orionic.jpg" size="50524" crc="2afd78b7" md5="02757b50567b6b05d1731f64a2e06bb1" sha1="b035a485accc49ac254651bfd0a7dbb456ddd1ba" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Orionic\Orionic.rtf" size="17042" crc="827dfddc" md5="f9c4b6ba6992ee86c9838c1b6ea40337" sha1="8caa01a3f5e51624ad09efa255ac752c92954416" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\PacketPeriodicTable\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\PacketPeriodicTable\PacketPeriodicTable.exe" size="92672" crc="3d84b6a9" md5="03afbcf7b0aa91224c3870eba5f3c0be" sha1="0a040bb2a92115f103e949e056786757edf40250" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\PacketPeriodicTable\PacketPeriodicTable.jpg" size="84918" crc="35482004" md5="c1c5b04c9cc386ced49932d8039c08b2" sha1="ffdb010d185e15622d1e045803cf7c66defce5b6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\PacketPeriodicTable\PacketPeriodicTable.rtf" size="15532" crc="93289634" md5="7de8f83980a3a4a550c6c258384a1ffe" sha1="e86dc92a4582bfd1f46aa53fe56b8324f8e0b6e8" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\PocketPeriodicTable\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\PocketPeriodicTable\PocketPeriodicTable.exe" size="105984" crc="1cab395b" md5="349083c40c4e9f6915be050f495892ac" sha1="e72846b6ed89ebb2930f6de3c8ce9a7853ddeb4e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\PocketPeriodicTable\PocketPeriodicTable.jpg" size="90305" crc="84774325" md5="3031241aba85ef7dcd0bda62a5097516" sha1="ddd9826a74c2609104f9da19e4f9509c530e4ae8" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\PocketPeriodicTable\PocketPeriodicTable.rtf" size="16290" crc="450fbc35" md5="d3bc851bf0d08db6dc7b76d2e5d5d942" sha1="9eb7162bdcf34af6bd063db6f054ec98ec9d9d21" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Tayoukei\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Tayoukei\Taiyoukei.exe" size="3421987" crc="e8c7d9e2" md5="c6bf2e83ce665c7407c2012aef1eca1b" sha1="e5cc5c48acc2c6c89aeec8a78be59652ca4c24c7" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Tayoukei\Taiyoukei.jpg" size="51943" crc="ba4d1b73" md5="7be97ece4094edb7e09b0b8873be0397" sha1="b9acbeb9e3112a2fc8a745dcbc15e5bfe0d13ed6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Sciences\Tayoukei\Taiyoukei.rtf" size="15753" crc="963c3d2c" md5="1b8d7233a9e5a26185b371a3e6806742" sha1="e586f13193c57a0953668b559ab542eb398e2c86" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\CheckNotifications\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\CheckNotifications\CheckNotifications.exe" size="48640" crc="ea2a96de" md5="2ba7db2ed08882f727e819f4c7b526f4" sha1="4fafe724ea5ef2a437c1f285967d50799b9cb9b5" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\CheckNotifications\CheckNotifications.jpg" size="94197" crc="6529d4ea" md5="ec066bc6ecaaee6a35c2c85c737d34a5" sha1="242c63ab88512c40e98b0ca135cc58b16e3fa04f" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\CheckNotifications\CheckNotifications.rtf" size="17722" crc="2e29bf77" md5="9832582e5b9424e380f72ca077539f64" sha1="b587922952f3b2a116d9c3274c19c4eae358a446" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\CPU\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\CPU\CPU.exe" size="56395" crc="50a9e5e5" md5="a2919b2a2b94c633e0f335b7647d3f36" sha1="a302d078d148306ede1643135083f141c2c32886" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\CPU\CPU.jpg" size="49598" crc="6966427c" md5="c548ca19eefee556cf24542d7a0d9d53" sha1="63bed157d2f5a4c7485a565b496b49620e15f951" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\CPU\CPU.rtf" size="15924" crc="4b8a5b30" md5="dd65e0f7b059588d76584bba750b2def" sha1="4f69c4eadb4c184d094a3b2acc3a5ca1cee307f7" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\EmbededVBruntime2002\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\EmbededVBruntime2002\EmbededVBruntime2002.exe" size="573440" crc="b481750a" md5="15890db35e26d008ecdb489398bb3a78" sha1="42daf5d72c8bac116f2c0d544e8652f86ec01dc1" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\EmbededVBruntime2002\EmbededVBruntime2002.jpg" size="70869" crc="25ca214e" md5="c0022c743777455b6d11d8bab7088604" sha1="d77af3004a575e6e5a076f94114197eb3cdfffb8" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\EmbededVBruntime2002\EmbededVBruntime2002.rtf" size="16570" crc="177827ef" md5="1b3df96363dbf656c17daa7bde56b7f5" sha1="ccd59f279e42c86a7e410234a5fa0a2de3249585" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\EmbededVBruntime2003\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\EmbededVBruntime2003\EmbededVBruntime2003.exe" size="1186816" crc="d966483e" md5="c274beb63ac086df0638a2b6a28f1a13" sha1="bfa9d837ba5eac2d835f599bc075bebb11747073" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\EmbededVBruntime2003\EmbededVBruntime2003.jpg" size="70869" crc="25ca214e" md5="c0022c743777455b6d11d8bab7088604" sha1="d77af3004a575e6e5a076f94114197eb3cdfffb8" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\EmbededVBruntime2003\EmbededVBruntime2003.rtf" size="16359" crc="090e8da8" md5="72a4dd79fd23ba6f5bc2507df1ee5e76" sha1="8b786cb7573d4a02c27b463a25026de979f0b495" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\NotificationClearFix\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\NotificationClearFix\NotificationClearFix.exe" size="35840" crc="0471d25f" md5="273319b510b58bff2bd4836e3d5c939f" sha1="8e6308f1b5f9815c8387a5c4aaf2a65d91883a48" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\NotificationClearFix\NotificationClearFix.jpg" size="51083" crc="f5b4eb8c" md5="0afe46c283198842ad09dee1c643d41f" sha1="4eb1b1f661c90dd6481300a38bfa0e39f89ed80e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\NotificationClearFix\NotificationClearFix.rtf" size="16995" crc="db64df55" md5="8011b0167022c5aee936227b4f8399f0" sha1="4b7a2b3d744e851c9b15e4eaf386f1f5ad481668" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\PocketSetupCreator\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\PocketSetupCreator\PocketSetupCreator.exe" size="237568" crc="902b4c14" md5="be44f42f610998b34bf4baeb5562ae1e" sha1="c3e76f2e11169f634093e6b402a5969d625cdd27" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\PocketSetupCreator\PocketSetupCreator.jpg" size="58306" crc="b68fd70c" md5="b0fd62ccee9e7486dfe4f8830ccb34e4" sha1="1d55d38b4a5eb9daa9465da723b1328b23ed1742" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\PocketSetupCreator\PocketSetupCreator.rtf" size="17517" crc="19ade7ed" md5="5f5cd101fe8ea664d18251541bc0dd90" sha1="1b86b51c15191bf4f78873aa03a3a751e63b2e71" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\PointNET_CF\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\PointNET_CF\PointNET_CF.exe" size="15010390" crc="7f69a231" md5="4cb89c826c23db5ff540ada10f8cf8d3" sha1="8de633483612b1e4d8e810c10ffd5655a99179ba" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\PointNET_CF\PointNET_CF.jpg" size="100731" crc="e19f3528" md5="dd918bce80e7f3cb9835551bc19ffc70" sha1="c465d19b9f6fe510e4f83c78dc9c7c02cf5f7634" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\PointNET_CF\PointNET_CF.rtf" size="16861" crc="102fdc27" md5="44f9b2d2b11e35f284d67d3d4a7267ed" sha1="38b206aafcb56167b87e7501ff17cf8565788456" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\SocketBluetooth\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\SocketBluetooth\SocketBluetooth.exe" size="5191168" crc="379a5112" md5="e2d5f5f9ebede6c6eb814552687294b2" sha1="8acf3dba4a37ba127bd83d2141f8f80b19e62805" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\SocketBluetooth\SocketBluetooth.jpg" size="53017" crc="e9a3426c" md5="4f55bd137498604593298bf700fcb878" sha1="16dd2e17c5c8b9f35de5ba70edc4ba0c4fee756c" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\SocketBluetooth\SocketBluetooth.rtf" size="16245" crc="6fa18eab" md5="932fd57ed88bac6f0ed86e2eb2860848" sha1="11479a3f4639cd0bd998e7b2fa130356c0f8b1ed" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\SQLServerCE\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\SQLServerCE\SQLServerCE.exe" size="841216" crc="2cd09cad" md5="37dd0bd8d1372ca139fff28f856a21aa" sha1="c76ccda3756ffbbb9257d2cafd3cfd67504fbda3" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\SQLServerCE\SQLServerCE.jpg" size="51083" crc="f5b4eb8c" md5="0afe46c283198842ad09dee1c643d41f" sha1="4eb1b1f661c90dd6481300a38bfa0e39f89ed80e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\SQLServerCE\SQLServerCE.rtf" size="16433" crc="6f279375" md5="53195112e1c34009c33c8ba14a86fc28" sha1="bfb56d501213d200637c09eae9d036cad6b8cda6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\WakeUpTweak2003\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\WakeUpTweak2003\WakeupTweak2003.exe" size="520974" crc="27a5cd56" md5="94c2660a8a22f4bfa60c59cbe0b73768" sha1="35162c44d9750913d62bddbead02109f342b953c" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\WakeUpTweak2003\WakeupTweak2003.jpg" size="51940" crc="8f2fb05c" md5="80fc442493b081fee34a08f71ee90454" sha1="9ac03e3e5c8ece030f3a09e8b76fd652d105eb1c" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Système\WakeUpTweak2003\WakeUpTweak2003.rtf" size="17988" crc="360a5b08" md5="97aef3af4f21a7b9ad44f912f010b3a5" sha1="0da30475e69b965929be077c12111b9ae32b7e30" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\ActiveSyncToggle\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\ActiveSyncToggle\ActiveSyncToggle.exe" size="623616" crc="3d3da7f9" md5="2dba716d43258abe2de9d3ac0298c808" sha1="12387b7c90fa956cdd408ab8c4ce954591c19163" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\ActiveSyncToggle\ActiveSyncToggle.jpg" size="44127" crc="4e131f4e" md5="6d40d94120c1249db01d2fbf43f21a00" sha1="42e2aeba881aae1ddf8a042c0ff9453ce43a66fd" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\ActiveSyncToggle\ActiveSyncToggle.rtf" size="10747" crc="c7f0903f" md5="5e4436e01295fb89974f56732ed54cc2" sha1="d23c1a1f6db78311c0fcd564babb182701f5dac0" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\InstMsiA_Pocket\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\InstMsiA_Pocket\InstMsiA_Pocket.exe" size="1709160" crc="94e518d8" md5="22098231992c8c808543825e19dc9454" sha1="e739c40d747e7c27aacdb07b50925b1635ee7366" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\InstMsiA_Pocket\InstMsiA_Pocket.jpg" size="103381" crc="0c5b2378" md5="7fc125ac4d826e2b393ac3a7ad1792a4" sha1="cda16497de1278caa964e0375417ad64e7aa2d45" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\InstMsiA_Pocket\InstMsiA_Pocket.rtf" size="15188" crc="b84d581c" md5="98d26349b049f9e19925c37e776266a7" sha1="5cf76aa71c4878a178f62e1faca5154812fa1e24" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\KillActiveSync\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\KillActiveSync\killActiveSync.exe" size="610001" crc="99745b5d" md5="a28965b5146d4f86dde550ddbea47b54" sha1="7cdf9047b29d3def874aa1454861902ef33466eb" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\KillActiveSync\KillActiveSync.jpg" size="19602" crc="88526721" md5="17f31776d309db8084ae2c3138b904a1" sha1="dfc8705febcdeb5c43d59e86940afc6f0bd6af65" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\KillActiveSync\KillActiveSync.rtf" size="11174" crc="a092c06c" md5="d5d1c805e133e45255d04748681a40fb" sha1="a78d7fba3e66087e5e44725504e478429b91a2b4" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\Microsoft_ActiveSync\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\Microsoft_ActiveSync\Microsoft_ActiveSync.exe" size="3960616" crc="f524fb76" md5="4a2a7503d164a9c458c3858893589757" sha1="04aa8db2f636e646d356129cc57ed9952c1c42bd" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\Microsoft_ActiveSync\Microsoft_ActiveSync.jpg" size="89839" crc="60867a14" md5="50d95ff3ae362aeea331ce30f57021e6" sha1="537c9c1c740726c2cbb27c3b6aaa3508ce6039ee" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\Microsoft_ActiveSync\Microsoft_ActiveSync.rtf" size="12156" crc="5a4be839" md5="e432cf4ffcf4a5976cff77a4c5ace5d4" sha1="452ce567d4fb75050d841b619cf4e23faa32ac59" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\PowerArchiver_Pocket\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\PowerArchiver_Pocket\PowerArchiver_Pocket.exe" size="2384458" crc="6cd12b8e" md5="7536add8adedd796e394c5d1d4eb1ebc" sha1="fd8e6bfe95d532378f3c0f3097f3abbc2242fcf6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\PowerArchiver_Pocket\PowerArchiver_Pocket.jpg" size="86366" crc="0ad2a8dd" md5="b05198f94cf8922336350802b1898b21" sha1="a1801cf5dc803ca5805cf028fb631c518ebd1010" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\PowerArchiver_Pocket\PowerArchiver_Pocket.rtf" size="15722" crc="399e5dac" md5="76766dc5503b13c9fcfa3e4acd030b7d" sha1="0ec8c830af539e795617d093cc7fe9996a08758f" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\ReSync\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\ReSync\ReSync.exe" size="549888" crc="191660bd" md5="78c1082a97930055005c8cfb51dffa13" sha1="cd346e8298629128aad7ec5a99e145773c6ab184" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\ReSync\ReSync.jpg" size="76980" crc="d7a2655b" md5="dfc10b4faef7940b55bc42fe13a26a6f" sha1="c435a7dcdea1fd49020fd28ac63d36ea6708a15b" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\ReSync\Resync.rtf" size="15301" crc="86fec3ce" md5="fabda99d39e88ef0f8525f25b54d25f5" sha1="4da6acc96306391701430ab153593c99fe4647ab" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\SpaceTrader\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\SpaceTrader\SpaceTrader.exe" size="3795404" crc="ae899082" md5="ec37c35fdd55b545e1fe5b5383efa8e6" sha1="eb2e63e6081e8e8e26ed7245187e48e35ebfb93e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\SpaceTrader\SpaceTrader.jpg" size="29678" crc="0efefbba" md5="3428335933c575cdbf656fc2e739ad8c" sha1="03b82f472b3cbbbf6bcbee702bb2882e1846ac1e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\SpaceTrader\SpaceTrader.rtf" size="16196" crc="72148d40" md5="b2631757b620c5dce350086c4d8f1f8d" sha1="6203917eb9bde9671281f3cc8ea0c07967aeb8f1" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\StuffIt_Pocket\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\StuffIt_Pocket\StuffIt_Pocket.exe" size="5732328" crc="cea2bbb3" md5="b1a02b3a9ce013e8cd5c99a2c92eb642" sha1="4df32b15c667b0ed011e01bbc5d5fc06bf841da3" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\StuffIt_Pocket\StuffIt_Pocket.jpg" size="93386" crc="e6840c7f" md5="4fb7ecdb6dcf42e4d5032727af4fb9f0" sha1="6c8d0123ff07a95128c3749d0033d50ce67313a3" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\StuffIt_Pocket\StuffIt_Pocket.rtf" size="16223" crc="b1e84588" md5="c9e3efe47e7a45dc2df3a66dcec0d390" sha1="ab0b75bf44f8e42e4e363d781f53fa4d2dc577d2" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\TotalCommander_Pocket\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\TotalCommander_Pocket\TotalCommander_Pocket.exe" size="1473856" crc="e59aac5c" md5="03acf43f8cb423bdead16ced8af1945f" sha1="b14923d94efa5ced77d60144106e538975d7e835" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\TotalCommander_Pocket\TotalCommander_Pocket.jpg" size="173705" crc="0d084be7" md5="7b959c4613b3afa501aa08dced6569f2" sha1="e65e3e1fecbfb494cfa7b3a81f89eed18f4bf0c1" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\UtilitairesPC\TotalCommander_Pocket\TotalCommander_Pocket.rtf" size="16202" crc="9953d726" md5="1d83187b36ca904e9880503c41473497" sha1="8bb5807e381016e25f9185d4f99705d740ac873e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\AirFranceCabines_Pocket\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\AirFranceCabines_Pocket\AirFranceCabines_Pocket.exe" size="555767" crc="a7c52e39" md5="e9a92fe22e637c1da95adf8bcd8aba5d" sha1="f87ac75d1fad8bfb0c009fcaf750db3963d87f64" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\AirFranceCabines_Pocket\AirFranceCabines_Pocket.jpg" size="46278" crc="a09584af" md5="7035939bba57d106c6c48b52cd68554a" sha1="49c9c1149fdff69f9cc32996a7773220ef7eb10a" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\AirFranceCabines_Pocket\AirFranceCabines_Pocket.rtf" size="17029" crc="93dd1392" md5="d45654d58eea01b977218577d97598ea" sha1="1016d7f81d99dfbbe3809096db9e3bec7e69d546" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\AirFranceGuide_Pocket\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\AirFranceGuide_Pocket\AirFranceGuide_Pocket.exe" size="350471" crc="782cc83b" md5="a723330b81647d79ea06e393bf887d37" sha1="73abd7a0d6204067d5669e88deff1e89d85f9801" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\AirFranceGuide_Pocket\AirFranceGuide_Pocket.jpg" size="62008" crc="8f985991" md5="45d5408b590d4a676a826aef0dd2b1ce" sha1="f5ca50b5c18e26e271cf2f599a4b6b55af75ba0d" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\AirFranceGuide_Pocket\AirFranceGuide_Pocket.rtf" size="16633" crc="e288d890" md5="7e0eb75d06839a06f2dcec5cf849828c" sha1="715aef3b3603ca5b2ef6c9c5108fbd96332fd927" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\GPSDash\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\GPSDash\GPSDash.exe" size="173568" crc="cf9bea4c" md5="f7832852dbb25e908c0a94fecd432be7" sha1="df4f094891cc36a94be57459414cbd6ef4b033da" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\GPSDash\GPSDash.jpg" size="82208" crc="ad20f2f2" md5="183a4fd9266ced6cfc87d641208ecf23" sha1="9b71e886b5c32fa5c391670c561b473ee6fbba5c" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\GPSDash\GPSDash.rtf" size="17220" crc="2b907bdb" md5="1ef356b5ddcd7f27431fb8e75b11b8cf" sha1="a1f48900940c1b73b2b4c2d243020f1a0cd2f4fd" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\GPSEngine\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\GPSEngine\GPSengine.exe" size="660414" crc="be38f620" md5="3bf8faf16321a1c20c2147e884db69b4" sha1="95b8ee60cf7af10b07853d6a26c8968e87675343" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\GPSEngine\GPSEngine.jpg" size="55259" crc="51d6b839" md5="0c5bef8d7c6945b830ba9753e28487a8" sha1="0e27c4cc3aa979a0fc1de43cee0a9ae929c870bf" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\GPSEngine\GPSEngine.rtf" size="16896" crc="b067558d" md5="a466be19f8b0bd6b836f3d3068d43aba" sha1="15a8036bd4bfdbf899461911de8f016382cbfdbc" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\LufthansaTimetable_Pocket\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\LufthansaTimetable_Pocket\LufthansaTimetable_Pocket.exe" size="1107141" crc="7bc6a0f6" md5="817441831fe1cfc7555aa046f029c550" sha1="7f28fe7d22b86cbd3693411c0356800daff0dced" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\LufthansaTimetable_Pocket\LufthansaTimetable_Pocket.jpg" size="57068" crc="c9e84ff3" md5="d10db77d960c10f4b7e25db43aca68e0" sha1="6b49394f6e8e0e52acbbc0df9cd64477f19e9411" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\LufthansaTimetable_Pocket\LufthansaTimetable_Pocket.rtf" size="16148" crc="ea72475f" md5="4a2e3e49765b5cbb74e93ac140d9d78e" sha1="0a4d6e283f92a10dd9041c0f1e44ff55f249622b" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\Metro_Pocket\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\Metro_Pocket\metro_Pocket.exe" size="3951203" crc="3e6c9156" md5="4fe944fbac7ab82c31079237a303ab99" sha1="6d6eff0e01493d7b417a208b9597155a5fe0897c" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\Metro_Pocket\Metro_Pocket.jpg" size="73991" crc="00681697" md5="0668a1dc4c8e6f4f87f55c2ddcbcd832" sha1="5184e712f0e11308fd33615eb04305fda486dfa9" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\Metro_Pocket\Metro_Pocket.rtf" size="17309" crc="93c2142c" md5="21c455099f76c4da6fcfe47e4cef6735" sha1="cf8e19f4b6a5263c208e03209006b3bc592680f6" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\VisualGPSce\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\VisualGPSce\VisualGPSce.exe" size="262656" crc="599df0d2" md5="d52582b544faf525c8e325d269a3e594" sha1="e830d8029288c524cea90b36d527e2b253ad3e7e" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\VisualGPSce\VisualGPSce.jpg" size="81624" crc="53bef522" md5="83d06378f4137fc2bcd23370577a632a" sha1="9cfb88e280dfca98a887cfbf9f9bc0de45d72ed1" />
+		<rom name="CD\PDA_Pratique_7\data\Pocket_PC\Voyages\VisualGPSce\VisualGPSce.rtf" size="16613" crc="364fb488" md5="b0ff2802ab3ecf5c789b6388850c6a57" sha1="c5e846244351b32f0e0ae1025afd81d827252e29" />
+		<rom name="CD\PDA_Pratique_7\Film\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\Film\BlueDesert.exe" size="178259109" crc="8faf4f09" md5="b7a77b4d9070ea284a2afaff8fe420fd" sha1="8073882183fe2ac4462a972edc0caf3957164fe5" />
+		<rom name="CD\PDA_Pratique_7\JPG.cxt" size="54186" crc="b8c5c7b5" md5="a45daa06baeb409b4bd576af476e4fdb" sha1="d2cea5c042df7c245d348f18a99824d5ca9802f4" />
+		<rom name="CD\PDA_Pratique_7\KIT_NET\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\KIT_NET\SosConnexion.exe" size="328426" crc="a65628be" md5="35d8b1d9d629846133f22a7b15934d8c" sha1="afea7b823917f978c9528e037923309d446fad4a" />
+		<rom name="CD\PDA_Pratique_7\Lance.dxr" size="21142" crc="27af27de" md5="68fcb2585fa1dc958030d7e264346739" sha1="dafeadc83f8e8ee8c5f4f873ab8ff8c158b304b3" />
+		<rom name="CD\PDA_Pratique_7\MCITEMP.MPG" size="206113" crc="4e2bbce5" md5="b2ad02ba3ea9778b5d6ee56519e30a1c" sha1="c9405e9cbd45360a7ac5b5dc25a62eb7df979374" />
+		<rom name="CD\PDA_Pratique_7\PDA_Pratique_7.exe" size="3372840" crc="1bbf3705" md5="f76d75d65d0bcfbb11d37435f376fa76" sha1="5a2c72d906eda5eca5552189da630ea2b14b40bc" />
+		<rom name="CD\PDA_Pratique_7\somm.dxr" size="8473375" crc="0392da69" md5="361d8f0d571d1bc184296e2d58be0745" sha1="405161de7192d549c9598d3d3ee633ef637ce4b1" />
+		<rom name="CD\PDA_Pratique_7\Sos.dxr" size="252960" crc="b674bac3" md5="9f67d69f6d594875938a8b0177ac6478" sha1="5b7e51fc55e39ce6b38b0823c0a7fae612cb4486" />
+		<rom name="CD\PDA_Pratique_7\TEXTE.cxt" size="753943" crc="9f5b9f63" md5="38783351da99c92da4608b7f02f33b79" sha1="bf1ae55c221752bab77a01a25da37c4ff4e662d3" />
+		<rom name="CD\PDA_Pratique_7\utile.cxt" size="219527" crc="f968a206" md5="320b6621b5020e8c12d9dea15c0f0d62" sha1="7cf93a76028e7fd89ef9f810928b4df7875758fc" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\" size="0" crc="00000000" md5="d41d8cd98f00b204e9800998ecf8427e" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\ActiveX.x32" size="152064" crc="54461788" md5="942d92fa5b73828f3c21ccae39a99e82" sha1="1e3a316ae5399fe574eba8dcf67f54dead82a3e2" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\Animated GIF Asset.x32" size="45056" crc="89f06a11" md5="cf61848d29d71ef7b51cec29d03c66f7" sha1="7a62e68f11e4fd492ee1e410fa77a77f7ccf693f" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\Animated GIF Options.x32" size="102400" crc="68d2bc06" md5="b1a6e9dc2d12d4bff3479bf76130aa08" sha1="afc7942d8684710228f634ff79f0c40390d0bae9" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\DirectMediaXtra.x32" size="323584" crc="dd89a131" md5="bf69dd9bbacf2a14488aa84e1db1cf77" sha1="297f087ee73ff16f84b8462110f2404eaf9501c1" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\DirectOS.x32" size="233472" crc="1d3cc769" md5="cca80a869373315f7299067e530a8fb7" sha1="8c0781c1966539f3b9ae2fc93ddec3a8b12a3ccf" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\FileXtra3.x32" size="238280" crc="f6c3c313" md5="e1df2f887fc218e4da7e4d5d8ffb2dcf" sha1="5aed9dbae9ecbb1a9c67c573e7fe3d4c99f94232" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\Flash Asset.x32" size="385024" crc="4d79d548" md5="aad339fcfab70e135e682abcb6c2948d" sha1="928be0c46e94fa538eb5d9dc1a175d809dda4b3b" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\Font Asset Dialog.x32" size="135168" crc="0ecff05c" md5="db1ea59d974401e5ef53b98c221e8f3d" sha1="67946d76b690d5afc08175f10c33868c1e921432" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\Font Asset.x32" size="81920" crc="6744eba4" md5="15675515ee0cdee8516fa53d1829d33e" sha1="04e6ee56f0d7c573d6d1cdacfced570f522b2b27" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\Font Xtra.x32" size="286720" crc="f5af7ca8" md5="273cfe8300510b627217b7b178031f81" sha1="2ed810fd1a7a52099cba164fe7acb0a006defa87" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\GIF Import.x32" size="65024" crc="1d79349a" md5="e76e504c159b5f49eee26ffba37ab859" sha1="9ba3d0e156f3279441d00cc04163c8e25c4d9f98" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\Text Asset.x32" size="77824" crc="18b4acc9" md5="372636614aa6ca9b1b288061c3b9d04b" sha1="8a109b079424e16020365eb7aa8cf3386ea0d206" />
+		<rom name="CD\PDA_Pratique_7\XTRAS\TextXtra.x32" size="405504" crc="2af37e6a" md5="ecd21dda45af221669c31c1c9a545c13" sha1="34556817910df9a6aa6af7fb96a5f74ced9439be" />
+		<rom name="CD\PDA_Pratique_7\zoom.dxr" size="52302" crc="5063f7a0" md5="ccd4e511ea3fc81ffddf571fb6a0f65e" sha1="feabb6bbc8af25fccece094086d16a2fdc51d73f" />
+		<rom name="PDA Pratique 07 (ESI).jpg" size="628614" crc="ec082033" md5="0384c9fd946f5346139daf44c3433fe3" sha1="3b176a425231914d3996fdeb27f40d58f4b50446" />
+	</machine>
+	<machine name="PDA Pratique 08 (ESI)">
+		<description>PDA Pratique 08 (ESI)</description>
+		<rom name="PDA Pratique 08 (ESI).iso" size="480333824" crc="44ab319b" md5="e51800d2ca36e2de12f27836c57898cd" sha1="324c68ebaf3f54d9164b3c0635089a8afd041c85" />
+		<rom name="PDA Pratique 08 (ESI).jpg" size="542642" crc="cb84694f" md5="01d8f32434546d951230c28769e77509" sha1="04e869be5cfe38744a319f3842d096bbc9e5a04d" />
+	</machine>
+	<machine name="PDA Pratique 09 (ESI)">
+		<description>PDA Pratique 09 (ESI)</description>
+		<rom name="PDA Pratique 09 (ESI).iso" size="644446208" crc="8c74f992" md5="79ac2d25d864a7c229e9c1352c1ddc54" sha1="a1903f16b5654a55118ee6003f2563bb1c28510a" />
+		<rom name="PDA Pratique 09 (ESI).jpg" size="546438" crc="c931a6e1" md5="917f35136bc9d11be1c618e157f571cf" sha1="f2ccdeeac89c080ed7ac6dea142f491b240ddd11" />
+	</machine>
+	<machine name="PDA Pratique 13 (ESI)">
+		<description>PDA Pratique 13 (ESI)</description>
+		<rom name="PDA Pratique 13 (ESI).iso" size="690978816" crc="2e6fadae" md5="d3f41a58cdd22d8ae8d546a4e925c6a6" sha1="3e5c345387af1c36266d1d0785281b4840bd96e2" />
+		<rom name="PDA Pratique 13 (ESI).jpg" size="583115" crc="23bb67fd" md5="8445f03847656fa65cb8c80a7e2fafa1" sha1="e9fc25d25052eaa3734ce0ac34a153d8e8fae43a" />
+	</machine>
+	<machine name="PDA Pratique 14 (ESI)">
+		<description>PDA Pratique 14 (ESI)</description>
+		<rom name="PDA Pratique 14 (ESI).jpg" size="710937" crc="d277fccd" md5="45ad5037e1f78ea981a65253198ce0dd" sha1="e33bfdd75c20cbefaf635b118d005be34c313be3" />
+		<rom name="PDA Pratique 14 CD1 (ESI).iso" size="661256192" crc="397480e6" md5="3cfa227c4cd2d91f5bd27c7d921a4a5e" sha1="67f3153079b9769477be06200f5dd7d65632a053" />
+		<rom name="PDA Pratique 14 CD2 (ESI).iso" size="704573440" crc="7efceb22" md5="03918131a3355b3ef69c387cdaa6f48b" sha1="24ada98dda19b066224120cade65f572c6bdd51d" />
+	</machine>
+	<machine name="PDA Pratique 15 (ESI)">
+		<description>PDA Pratique 15 (ESI)</description>
+		<rom name="PDA Pratique 15 (ESI).iso" size="658845696" crc="e98e590e" md5="79941e0c83e1b685b166b6bcb7a9948b" sha1="531a1a470ddeb43694629cfcedecf9d6f29ed9d5" />
+		<rom name="PDA Pratique 15 (ESI).jpg" size="600603" crc="8b484fd0" md5="c21622ca92cef8f9e2af26e7d06cdb90" sha1="20a7dc9135d4b6a539beec42225789543a84b364" />
+	</machine>
+	<machine name="PDA Pratique 17 (ESI)">
+		<description>PDA Pratique 17 (ESI)</description>
+		<rom name="PDA Pratique 17 CD1 (ESI).iso" size="605405184" crc="53dc04ed" md5="eaf46974c53e569291597907849eb8b4" sha1="b0dab1a77080f047974e2171a6ebec6ebb7df039" />
+		<rom name="PDA Pratique 17 CD1 (ESI).jpg" size="609797" crc="d85d4a8e" md5="48e767a02b964a6c9ebb59ed14a43b89" sha1="8d2fbf498967df9a2b54b33bbfd330b471c559c2" />
+		<rom name="PDA Pratique 17 CD2 (ESI).iso" size="609857536" crc="0cd27aff" md5="ad7e6e720dd7d7b4eb0af85161779fba" sha1="594dcb50d7ae13fcca9298c164cd39b95c07cf03" />
+		<rom name="PDA Pratique 17 CD2 (ESI).jpg" size="683834" crc="2cbb860b" md5="85ce19b1d5d8e9a7ab96fc1143fb2429" sha1="da1b8d0bb2fc70d14cf66e0e2acaa7ca871f605d" />
+	</machine>
+	<machine name="PDA Pratique 19 (ESI)">
+		<description>PDA Pratique 19 (ESI)</description>
+		<rom name="PDA Pratique 19 CD1 (ESI).iso" size="481912832" crc="a7be0c42" md5="bf12db55d9bb96a3dba2b54d3c63a303" sha1="a573ee41d862f9e41a76a49aebc97756a3c123fa" />
+		<rom name="PDA Pratique 19 CD1 (ESI).jpg" size="610260" crc="e2b663c3" md5="8a66297d013f4f21101cf5107e29f0f3" sha1="f291316965c809301fa3da5858407fd48fe840e6" />
+		<rom name="PDA Pratique 19 CD2 (ESI).iso" size="488015872" crc="6501f6a5" md5="7bbd8ccffe1446cc49808cae501b1aba" sha1="91fe7f03cd5ea6474665132682998ebd4e204d16" />
+		<rom name="PDA Pratique 19 CD2 (ESI).jpg" size="591272" crc="3a2ba406" md5="79339b09a1dea95c7038baa880cd023e" sha1="968cf10878595b25ab3600cdfbbb047929ee8428" />
+	</machine>
+	<machine name="PDA Pratique 27 (ESI)">
+		<description>PDA Pratique 27 (ESI)</description>
+		<rom name="PDA Pratique 27 CD1 (ESI).iso" size="593494016" crc="0ab11fa0" md5="0504c7fe22a8ab5d9599fddcb5fb1873" sha1="4d6602d396ee0c9e38de8227ac920fa63f3d84cd" />
+		<rom name="PDA Pratique 27 CD1 (ESI).jpg" size="924190" crc="32416a39" md5="e932b80abced1fd95414ad07a73af68e" sha1="67808f2ca0f41288b4eb032980feddbaa224e7be" />
+		<rom name="PDA Pratique 27 CD2 (ESI).iso" size="508022784" crc="d44d6096" md5="fca08a57a2dacef84944373c0e3e8014" sha1="1e341f368d55193b6f9e08950cabc3d309ddbd49" />
+		<rom name="PDA Pratique 27 CD2 (ESI).jpg" size="849756" crc="cf320095" md5="42d0f8530a54d342e9f5e30c991125d9" sha1="d598e1f8a47d5114af10965a366d62639522222a" />
+	</machine>
+	<machine name="PDA Pratique Hors Série (ESI)">
+		<description>PDA Pratique Hors Série (ESI)</description>
+		<rom name="PDA Pratique Hors Série CD1 (ESI).iso" size="527798272" crc="8cc82b4c" md5="fa86af514f25d1d844c4288c77919805" sha1="38710d142b9b4a7d4f7f84be3443103de42a8c0a" />
+		<rom name="PDA Pratique Hors Série CD1 (ESI).jpg" size="739176" crc="2e12ca58" md5="c3d53c856d3a9953e2d350513fd19717" sha1="14dc57852983e14f1a18fe320fe75aa6d0b3c53e" />
+		<rom name="PDA Pratique Hors Série CD2 (ESI).iso" size="278867968" crc="d6c7df12" md5="7aaa2395a134716c1b95292f72380209" sha1="b64e20b55b147883e17d0a915c6a320709076e9c" />
+		<rom name="PDA Pratique Hors Série CD2 (ESI).jpg" size="838280" crc="c520bc85" md5="c93aa5d2e1692a7f40b87090af3f9246" sha1="d4bb5c7744eb625944bf35d45a27b7153fd67305" />
+	</machine>
+	<machine name="PDA Pratique Hors Série 01 bis (ESI)">
+		<description>PDA Pratique Hors Série 01 bis (ESI)</description>
+		<rom name="PDA Pratique Hors Série 01 bis (ESI).iso" size="400240640" crc="9a3f85be" md5="667901e77496260c40d826914de6389c" sha1="a262f745c5275adbc56947bf76d23c1b45f1b304" />
+		<rom name="PDA Pratique Hors Série 01 bis (ESI).jpg" size="907082" crc="db30cfbe" md5="91d78531b9b9f90b61f7bd7c3cf40156" sha1="ccd1efcebc470577235ec3ae6b6d1897ba20e86f" />
+	</machine>
+</datafile>

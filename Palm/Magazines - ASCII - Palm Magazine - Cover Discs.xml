@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Magazines - ASCII - Palm Magazine - Cover Discs</name>
+		<description>Magazines - ASCII - Palm Magazine - Cover Discs</description>
+		<category>Standard DatFile</category>
+		<version>20260730</version>
+		<date>2026-07-30</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="ASCII Palm Magazine 01">
+		<description>ASCII Palm Magazine 01</description>
+		<rom name="ASCII Palm Magazine 01.iso" size="20103168" crc="734dcd44" md5="f25c86bd778556d643abfd2a42cae3e7" sha1="82bfe12389c02ee3f16d00960060bceec781acd6" />
+	</machine>
+	<machine name="ASCII Palm Magazine 02">
+		<description>ASCII Palm Magazine 02</description>
+		<rom name="ASCII Palm Magazine 02.iso" size="160622592" crc="6f114ddd" md5="87326af27ab01e072a9d5b982514eb45" sha1="dcfa78456ef21ad18c445b8756f3857bf81966df" />
+	</machine>
+	<machine name="ASCII Palm Magazine 03">
+		<description>ASCII Palm Magazine 03</description>
+		<rom name="ASCII Palm Magazine 03.iso" size="192417792" crc="32d9a404" md5="8a08c389d71718f333afb875a1ab563a" sha1="20ef7a440376f3b7656ec748bbe3ca5e8f45faf3" />
+	</machine>
+	<machine name="ASCII Palm Magazine 04">
+		<description>ASCII Palm Magazine 04</description>
+		<rom name="ASCII Palm Magazine 04.iso" size="203698176" crc="cab67250" md5="46123e12341d06686a78d316edebef2a" sha1="cd158e1ad40927c1b3c2ac8246d4770b3c4f1c91" />
+	</machine>
+	<machine name="ASCII Palm Magazine 05">
+		<description>ASCII Palm Magazine 05</description>
+		<rom name="ASCII Palm Magazine 05.iso" size="250177536" crc="95fd1164" md5="df802340920efb4eb3d8859e79e4f52f" sha1="41ce11fc1fdbb1dc571260b12305cf4dce771232" />
+	</machine>
+	<machine name="ASCII Palm Magazine 06">
+		<description>ASCII Palm Magazine 06</description>
+		<rom name="ASCII Palm Magazine 06.iso" size="231510016" crc="75a7f4c4" md5="833835b8a73789fdf8a3171a9cbef8cc" sha1="390af507635fa3c3c7f1d548839850c0036805f2" />
+	</machine>
+</datafile>

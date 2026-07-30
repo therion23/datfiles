@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Magazines - Posse Press - Team Palmtops - Cover Discs</name>
+		<description>Magazines - Posse Press - Team Palmtops - Cover Discs</description>
+		<category>Standard DatFile</category>
+		<version>20260730</version>
+		<date>2026-07-30</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Team Palmtops 01">
+		<description>Team Palmtops 01</description>
+		<rom name="Team Palmtops 01 Front.jpg" size="229074" crc="42e11d2e" md5="4cbb15eea28d3ea1a35cf362d366701a" sha1="31624bc2defbb2a71dd1c79dc8baa4ba29e8192b"/>
+		<rom name="Team Palmtops 01 Rear.jpg" size="284645" crc="2014a2ce" md5="b1d9fbdb09bfe7c767b6d55516d201d7" sha1="5cb0110ebaf294df643c6fa7e39ab74f1efd1a70"/>
+		<rom name="Team Palmtops 01.iso" size="667154432" crc="a4eb00e0" md5="d24eb6798a1850905837cebc927f1caf" sha1="9eddf9e710084a3b797fd7f7e72ed788d9f8e262"/>
+	</machine>
+	<machine name="Team Palmtops 03">
+		<description>Team Palmtops 03</description>
+		<rom name="Team Palmtops 03 Front.jpg" size="223905" crc="ced74f04" md5="e957cd757506b8f7755baf6ec3511e09" sha1="99f745f719f11c53e335418c1d93e1e1a776e996"/>
+		<rom name="Team Palmtops 03 Rear.jpg" size="292946" crc="f32fa147" md5="f6ebb880c29788d78af50bc6772cf778" sha1="4364984ae9251a221dd9c8c68441e7aa848fd4d0"/>
+		<rom name="Team Palmtops 03.iso" size="599560192" crc="78673a7f" md5="e7adc25ac3c53bee8701cac4e8365fe2" sha1="56d13a635ee82aa2c66e88c8183572e04b33cc3d"/>
+	</machine>
+	<machine name="Team Palmtops 05">
+		<description>Team Palmtops 05</description>
+		<rom name="Team Palmtops 05 Front.jpg" size="294017" crc="a782b17b" md5="e440795bc7b5277890023c3a275f3802" sha1="81238e7c0d25007fc66fe856050cd6b0d13860b7"/>
+		<rom name="Team Palmtops 05 Rear.jpg" size="210569" crc="8f81814f" md5="78bff3183e94d5439035916b2afcd436" sha1="18b5fe1b4a5c59b1de8e886318d4fcb0a5200ebd"/>
+		<rom name="Team Palmtops 05.iso" size="627607552" crc="fa8a4e98" md5="d2d8a5cbc13b618b647a1e8d24e9941b" sha1="d833dc0b677f7f2d7181ecfddf4cba29c194ed69"/>
+	</machine>
+	<machine name="Team Palmtops 06">
+		<description>Team Palmtops 06</description>
+		<rom name="Team Palmtops 06 Front.jpg" size="286440" crc="e2ecf970" md5="acdccb7e07df9f5b33fa0a51f8f12b80" sha1="594c013408f5c5f3edbb01012547903f30f6fc39"/>
+		<rom name="Team Palmtops 06 Rear.jpg" size="220766" crc="9dd8b410" md5="2b0694e3045ccdfeed25d70bf5a9ba49" sha1="2a75ebff26d71b38c42e2eacb355c464c889c75a"/>
+		<rom name="Team Palmtops 06.iso" size="648968192" crc="511e2115" md5="2a1d3c1d77e7e9f98f3fe864c3e082cb" sha1="4c9adf152b3a0f95080ec15791750203ae52a8b9"/>
+	</machine>
+	<machine name="Team Palmtops 07">
+		<description>Team Palmtops 07</description>
+		<rom name="Team Palmtops 07 Front.jpg" size="238604" crc="f1852427" md5="a86bd62bb3138ffa23031218111394c8" sha1="d86fab649759d9aeefc1659bd363f0b7d1cc2755"/>
+		<rom name="Team Palmtops 07 Rear.jpg" size="302498" crc="1283b406" md5="3fcb310cb4bcd221f32076461e10843d" sha1="7ed1d5b73c4e4473150e669e3caf9238faa6e546"/>
+		<rom name="Team Palmtops 07.iso" size="673460224" crc="5c0afea4" md5="7fcdccfb46bd425a09eeb8f1b0081ee7" sha1="d9500691e2b151b336859c37d7fda9457d1f1c06"/>
+	</machine>
+	<machine name="Team Palmtops 08">
+		<description>Team Palmtops 08</description>
+		<rom name="Team Palmtops 08 Front.jpg" size="234550" crc="d7c0ada7" md5="b2e7e91cfd82efe7090dc3d26250c520" sha1="6e2e3cd8db7838b7ed6fe83a48c1149317634de4"/>
+		<rom name="Team Palmtops 08 Rear.jpg" size="321491" crc="3575e8fb" md5="25a321ab29ab4fa1ba140f18b41978a5" sha1="497a69f17c6f77a3b0148ccd27079449f90b1a41"/>
+		<rom name="Team Palmtops 08.iso" size="629952512" crc="4457cc53" md5="fc1db7a48e26a6510284afc4760a5fb8" sha1="edd516226cf4d8926cd39b0cc2cde13622ada5dd"/>
+	</machine>
+	<machine name="Team Palmtops 09">
+		<description>Team Palmtops 09</description>
+		<rom name="Team Palmtops 09 Front.jpg" size="243880" crc="8acb4186" md5="cda3d9eaabaa8d8cc6a2b1a3597d8838" sha1="0c70779c81e22f83d994d0260878c558561d64d8"/>
+		<rom name="Team Palmtops 09 Rear.jpg" size="194332" crc="940f933d" md5="fd43b4ff7d6f025b3046d5fc9a9bdcd2" sha1="29c38df3c615627b66cf3041de58ddc1839835b2"/>
+		<rom name="Team Palmtops 09.iso" size="540782592" crc="b02e3b43" md5="3aa72e31f25e4c6f0c1360f6bfec76d6" sha1="8d435daeee9ca89f4c4314e4be32d180d6172720"/>
+	</machine>
+	<machine name="Team Palmtops 10">
+		<description>Team Palmtops 10</description>
+		<rom name="Team Palmtops 10 Front.jpg" size="242757" crc="0265d235" md5="bed32b740b7c88c034a92bbe41854fc0" sha1="14448b6d214c3a9e45333bcfb50085a9db46c2f5"/>
+		<rom name="Team Palmtops 10 Rear.jpg" size="233317" crc="3f05a008" md5="208adbe2767de903569afbf8361463ed" sha1="7dad49f9c0af0528cd1eb4be61f30636f42ae9e4"/>
+		<rom name="Team Palmtops 10.iso" size="665239552" crc="c08c4a28" md5="00fd153241a440cd84c51efd0e359f0f" sha1="60d50cd3dd59eb3b9ac45c8265862181fb05a6d8"/>
+	</machine>
+	<machine name="Team Palmtops 11">
+		<description>Team Palmtops 11</description>
+		<rom name="Team Palmtops 11 Front.jpg" size="728061" crc="d69d195f" md5="3c3c020ed2704d7c5143eea840ce8576" sha1="91e669485931618cb81df6cd10dbd5f70436d237"/>
+		<rom name="Team Palmtops 11 Rear.jpg" size="712651" crc="a3d81eb8" md5="2b2b64dc56847e6e0eb6e658f787e9fe" sha1="c6aa9b28d6d15db15109549ce86c81ffe4543f6e"/>
+		<rom name="Team Palmtops 11.iso" size="640294912" crc="f0f4bd8f" md5="acd15c9004dac5829127de3d9dc89a55" sha1="8946c03fc51d93a7e6f1b12e5739aa133aab9d38"/>
+	</machine>
+	<machine name="Team Palmtops 12">
+		<description>Team Palmtops 12</description>
+		<rom name="Team Palmtops 12 Front.jpg" size="646574" crc="e2682ffe" md5="22a9b76f4b306137e4f8b7be7f2eed2c" sha1="38375001cb198abb9adb12d48c443ba6c7259688"/>
+		<rom name="Team Palmtops 12 Rear.jpg" size="1070226" crc="654504ef" md5="3c806e7e435a5caf59ed6969ba137863" sha1="40c8ed95dac54d1e7517543afa2fdab0aee2c8a3"/>
+		<rom name="Team Palmtops 12.iso" size="639803392" crc="5c9a5da6" md5="7943cfa16283e5a9375cbdaa6a99821c" sha1="2b39ffa63d23705d727a59b56aa0d2a9a9e9bec9"/>
+	</machine>
+	<machine name="Team Palmtops 13">
+		<description>Team Palmtops 13</description>
+		<rom name="Team Palmtops 13 Front.jpg" size="972926" crc="98039fb6" md5="e6be203c4176d5e60c69d207190e0623" sha1="06e336a1550fc71fcc728f7dd0ff55a0fafd2552"/>
+		<rom name="Team Palmtops 13 Rear.jpg" size="815957" crc="4c3802cc" md5="5d32fb19510d8c071b91bca8cacfaaba" sha1="497e94776f695f4e6c7f701484522ce8fa34e195"/>
+		<rom name="Team Palmtops 13.iso" size="679856128" crc="4fb71333" md5="274350d113d0814bc0fb27d00d2f943f" sha1="307c7116429ea4cb897a417cf6f5f0f72ec87f23"/>
+	</machine>
+	<machine name="Team Palmtops 14">
+		<description>Team Palmtops 14</description>
+		<rom name="Team Palmtops 14 Front.jpg" size="654739" crc="b64a62e9" md5="1bad394fbcf760659c317abf5d5743de" sha1="28f6c430c67f4e2a2f6c01524b10bab241348f2b"/>
+		<rom name="Team Palmtops 14 Rear.jpg" size="914493" crc="db703fb7" md5="3c46032440716cd49408174ba564cc09" sha1="a6e8e2c2425a3497e544560c684eeaa37e963f11"/>
+		<rom name="Team Palmtops 14.iso" size="676075520" crc="8302ac8c" md5="02c2f34b52f33d987009d3cbd6c16b97" sha1="b4cb8ee5ce4f0aad6485ca9a7fb9920bfbd891e6"/>
+	</machine>
+	<machine name="Team Palmtops 15">
+		<description>Team Palmtops 15</description>
+		<rom name="Team Palmtops 15 Front.jpg" size="1006185" crc="05249368" md5="58a90423226dd29ada15a1857d78ccd4" sha1="3de61deaf7ff3d5e803fea66a1915db98f8d4028"/>
+		<rom name="Team Palmtops 15 Rear.jpg" size="662499" crc="ef5db0bf" md5="8d4c43e4203683385dd65fe0319d31e0" sha1="c9d66b12053b1d61a669743e997388f9f7d36141"/>
+		<rom name="Team Palmtops 15.iso" size="659494912" crc="3623787d" md5="baba230315d65ed5cd8ec81eeb7256ab" sha1="a55ae14f5ef4d13a6b2493f2cdb279de312b3fe5"/>
+	</machine>
+	<machine name="Team Palmtops 16">
+		<description>Team Palmtops 16</description>
+		<rom name="Team Palmtops 16 Front.jpg" size="1007726" crc="a1f7576e" md5="61d96ed120129454d6dd0f2e686ce71e" sha1="74b33a0042b20cd67122bb0dba184a770ec2b0c0"/>
+		<rom name="Team Palmtops 16 Rear.jpg" size="902344" crc="8a6b4763" md5="9beb18d5a72ee0e6aaa7107ec0ff95a5" sha1="f6348ca21185a7ca8ca4dde7df08d1b75f285015"/>
+		<rom name="Team Palmtops 16.iso" size="678803456" crc="ba5a96af" md5="5fb260e1d37dc47711f65f748cd68f9a" sha1="53f7f1a3899f2e05834cd0c31f46ddb04962a063"/>
+	</machine>
+	<machine name="Team Palmtops 17">
+		<description>Team Palmtops 17</description>
+		<rom name="Team Palmtops 17 Front.jpg" size="716062" crc="12663cd3" md5="76bc87e8d569716f946c8a3faf3bb32f" sha1="92515937bd099b25ecb9a7edbe1d3ec4bf0f3b09"/>
+		<rom name="Team Palmtops 17 Rear.jpg" size="1149939" crc="a77ee3a3" md5="65de2948c2fb12d6d7455bd33dd8780d" sha1="9288209d314f8c59b2df88df1efabc5ccee3be17"/>
+		<rom name="Team Palmtops 17.iso" size="680904704" crc="008560a7" md5="da881f1a2986a6c464e6d911f0d5f3f2" sha1="43c8d9a6386e92995c58c160bce1997b5d001ce1"/>
+	</machine>
+	<machine name="Team Palmtops 18">
+		<description>Team Palmtops 18</description>
+		<rom name="Team Palmtops 18 Front.jpg" size="932246" crc="2eec38a0" md5="331ca6c649f3c850f5309fb08c999582" sha1="78e60f0e3bb3d6024ddfb82adce4a5cb59eed2e0"/>
+		<rom name="Team Palmtops 18 Rear.jpg" size="1139639" crc="1edf5eb2" md5="31165702f48bf70185b3c35d4dcc060c" sha1="4b3b120fc6abbb586da5f9b8d5fbd0f0b76fe198"/>
+		<rom name="Team Palmtops 18.iso" size="681285632" crc="25f5e83b" md5="16223ad6b17c8145953eef329e58a519" sha1="c4077f60004e4e55a5badd70499f8b71dcf93610"/>
+	</machine>
+	<machine name="Team Palmtops 19">
+		<description>Team Palmtops 19</description>
+		<rom name="Team Palmtops 19 Front.jpg" size="711512" crc="499135d5" md5="198c7ddab02072ba2a1108c633ac0b6a" sha1="5fa0d6203f8307ecb3d9505e76b806f0a805c145"/>
+		<rom name="Team Palmtops 19 Rear.jpg" size="641009" crc="cce5f3dd" md5="0a4911dcc53c81b2b6fedf1518ff7226" sha1="ace62f82881cd73d2a080ade74b6f2c57dfd070c"/>
+		<rom name="Team Palmtops 19.iso" size="680273920" crc="da86af60" md5="f97acbe86c2e1dae31e783846ad4f64e" sha1="11ed8b27db87761e0dd2a4f1cf5b5855403b2764"/>
+	</machine>
+	<machine name="Team Palmtops 20">
+		<description>Team Palmtops 20</description>
+		<rom name="Team Palmtops 20 Front.jpg" size="749041" crc="5cbd4ac9" md5="6fcd376cbee1dd8d1d33694102d071fb" sha1="dcd5f647ecc28b540d0c25efaf2ec851e77eea76"/>
+		<rom name="Team Palmtops 20 Rear.jpg" size="1065973" crc="cb998dbc" md5="60c58115b0a194341a7d9389674c903c" sha1="0524ca999fdbfa276ff7a2b57510e64d8ae4ad20"/>
+		<rom name="Team Palmtops 20.iso" size="614690816" crc="3e3c1658" md5="a4fc721c691e9d5af82affbdcb179d20" sha1="c3cf908adb0b26290198172f3186241fecf6d870"/>
+	</machine>
+	<machine name="Team Palmtops 21">
+		<description>Team Palmtops 21</description>
+		<rom name="Team Palmtops 21 Front.jpg" size="689618" crc="008d8928" md5="d52e6647e543cad974920bfac8f8bd6d" sha1="91c6d86bd2655d5280c428b3bce9979ecd54e5f1"/>
+		<rom name="Team Palmtops 21 Rear.jpg" size="785151" crc="1f1f66a3" md5="429b61e67a7675f6d6b754febf921a66" sha1="459e9ce836e835964d19a846a051f365f6d59b7d"/>
+		<rom name="Team Palmtops 21.iso" size="634744832" crc="ca92351a" md5="3dc15788e2835b459885bf5528700985" sha1="8714fc8701deef9a9597ec910ad932cbb7fed069"/>
+	</machine>
+	<machine name="Team Palmtops 22">
+		<description>Team Palmtops 22</description>
+		<rom name="Team Palmtops 22 Front.jpg" size="907707" crc="e49c59eb" md5="ef8a58be947256fcd76c23dad15393fe" sha1="886aa2b8e04ec7e90beca006ec768041158032f4"/>
+		<rom name="Team Palmtops 22 Rear.jpg" size="633373" crc="b5e3f253" md5="4a62ada2a8198ba3a5cd52f792dbb73e" sha1="767db6647f9f613643ba2a7e6af91beb7637ff0d"/>
+		<rom name="Team Palmtops 22.iso" size="664870912" crc="7a38ddca" md5="ed3cc431844cc03a4edc290a36644b89" sha1="835b89087f10bb4759aefbbf1308602c02e2fb61"/>
+	</machine>
+	<machine name="Team Palmtops 23">
+		<description>Team Palmtops 23</description>
+		<rom name="Team Palmtops 23 Front.jpg" size="725400" crc="cbed55c6" md5="f11bb0242a8b3667ca2801d50efd5fed" sha1="c912efc41e6b020df8dcbf199c2150da8454c604"/>
+		<rom name="Team Palmtops 23 Rear.jpg" size="789639" crc="5eae9b71" md5="b6062a47637538154d3ab40f599c0291" sha1="e8772d5f8a59fb3a13bbd91c1f6a4bf17836268d"/>
+		<rom name="Team Palmtops 23.iso" size="676898816" crc="3309069c" md5="e39872044fe6b84c07e8b53a2f362f4b" sha1="9c0ee8d07a81ddd0ff49bd9f0baf235529f542b9"/>
+	</machine>
+	<machine name="Team Palmtops 24">
+		<description>Team Palmtops 24</description>
+		<rom name="Team Palmtops 24 Front.jpg" size="552587" crc="9c037b0b" md5="d707ba06d96905b1427a0469c31a9ed5" sha1="ad838f208c29f35bacfca514fa770f3650282f19"/>
+		<rom name="Team Palmtops 24 Rear.jpg" size="504181" crc="9c3f969a" md5="7c5dc5c73e0283fd189e48a3e5086a3e" sha1="afc94b308ec0bcb7d342e458e4c018bac1ccdfb1"/>
+		<rom name="Team Palmtops 24.iso" size="679368704" crc="3b685a23" md5="091d9ef422c69f0c2bfddec3a87e376d" sha1="8ad4e6e4ac9eaa4429c8095d283fb5994dfca638"/>
+	</machine>
+	<machine name="Team Palmtops 25">
+		<description>Team Palmtops 25</description>
+		<rom name="Team Palmtops 25 Front.jpg" size="622957" crc="a0f7f58d" md5="68b6a88f8d69428ea43345c71b027a23" sha1="742b10f55624023348a497c727884aed14baecfd"/>
+		<rom name="Team Palmtops 25 Rear.jpg" size="450192" crc="ed05aced" md5="0922f256e1c18e441394846e1cfb0dd6" sha1="9b6e58d9baa963988981c437146474ab35ae23f6"/>
+		<rom name="Team Palmtops 25.iso" size="641785856" crc="760649a7" md5="16a0c5e9e4a762ecdabefb6d90d792d6" sha1="4cedbf9b63f9ea056296f600c6f39621a6644e72"/>
+	</machine>
+	<machine name="Team Palmtops 26">
+		<description>Team Palmtops 26</description>
+		<rom name="Team Palmtops 26 Front.jpg" size="632896" crc="727b575a" md5="6e01fdef507619464dbde2890c61e9c2" sha1="039d7775aa31c20808ea932b8b1b217f03c4668d"/>
+		<rom name="Team Palmtops 26 Rear.jpg" size="766303" crc="43946d88" md5="2f139d14b37921e368cde2e2a1cbc096" sha1="99173630cf87ae52ed881b61211a227003b82855"/>
+		<rom name="Team Palmtops 26.iso" size="667764736" crc="bb094b00" md5="f542eeca5d449ad22f32773c1ea5aa3a" sha1="ca410d92c49eee7a0fd1a8f2024a48c1c37df8cf"/>
+	</machine>
+	<machine name="Team Palmtops 27">
+		<description>Team Palmtops 27</description>
+		<rom name="Team Palmtops 27 Front.jpg" size="619407" crc="f8d25d0b" md5="c6de4fe5a14493574b3b3e1cdcc94c95" sha1="87373a062942ef7044d9eea50ca3af11eb0558cb"/>
+		<rom name="Team Palmtops 27 Rear.jpg" size="660659" crc="4874b943" md5="2a780fecfc49ffe6b606c1a903377445" sha1="6ec4e62fba75a1bf1a8836b8b211c695378f040e"/>
+		<rom name="Team Palmtops 27.iso" size="634140672" crc="2415a44b" md5="24a2f1b4363a214e2c4c0c8e0bfa29f8" sha1="55c1dd6b97caf7a55e2b3b75efaa9c5e42765a23"/>
+	</machine>
+	<machine name="Team Palmtops 28">
+		<description>Team Palmtops 28</description>
+		<rom name="Team Palmtops 28 Front.jpg" size="658623" crc="d7d25b08" md5="acf2d2022dd5d10ec44d3adc15104e20" sha1="7227d342795caf6bd29ea55c46a8a9a0213d521d"/>
+		<rom name="Team Palmtops 28 Rear.jpg" size="747486" crc="08434d68" md5="02c01a606270a23e21311ae4246d34ea" sha1="a32a0df44727591b9947acbaf391f630f6e6c13c"/>
+		<rom name="Team Palmtops 28.iso" size="664416256" crc="7678e76d" md5="09c0244da0edee300ec79de0c3bd6e26" sha1="fb3f819d6050aa62b3a638d80fcbfbe3915bbd99"/>
+	</machine>
+	<machine name="Team Palmtops 29">
+		<description>Team Palmtops 29</description>
+		<rom name="Team Palmtops 29 Front.jpg" size="941732" crc="fa3319e3" md5="64cf318a8f7d97fbe96ac0c879bd2cb7" sha1="6f189d5d1eb69815d9f5fae42c7124a5e37a4468"/>
+		<rom name="Team Palmtops 29 Rear.jpg" size="535453" crc="5f07bec7" md5="202eeab873daf91aa327170179e9f477" sha1="857e4ba11bd7585399c0876375532da1674385db"/>
+		<rom name="Team Palmtops 29.iso" size="628201472" crc="bb6a0fdc" md5="a8fffd8daee5d69879a6d8d5d5169484" sha1="d44606ba6875174614312d6d0f5ff9ad39abc953"/>
+	</machine>
+	<machine name="Team Palmtops 30">
+		<description>Team Palmtops 30</description>
+		<rom name="Team Palmtops 30 Front.jpg" size="927793" crc="2bbb3d6f" md5="de0d84ccbc5f6eced8e3e3b65eda910a" sha1="34c9b50b6203a1776281cbd961d8678d1a97a5ba"/>
+		<rom name="Team Palmtops 30 Rear.jpg" size="750928" crc="c56e8b62" md5="54b86cc78c3e63e80f6a2899736a9f22" sha1="74f9c4a7559a15a68ba08e804fcbdda5b03df9c9"/>
+		<rom name="Team Palmtops 30.iso" size="649322496" crc="328c9611" md5="ecbe70136e8bb4039de99636b5351bd1" sha1="0b04aaf7ab47a56cc3f27e89ecd00a42c45219be"/>
+	</machine>
+	<machine name="Team Palmtops 31">
+		<description>Team Palmtops 31</description>
+		<rom name="Team Palmtops 31 Front.jpg" size="655398" crc="472cfaf3" md5="57bf04e940c3c876afe82a761f4d4e36" sha1="05ae31cacc42e98df933436bafac194e1baf2a90"/>
+		<rom name="Team Palmtops 31 Rear.jpg" size="786254" crc="13d6294c" md5="fe1d80bc192f217bacd7d48038b2193d" sha1="7db5033d43ea5c63e5c266978d6496220ab40648"/>
+		<rom name="Team Palmtops 31.iso" size="664815616" crc="76f24bd9" md5="daaf1565f80f8bd26ba2237d5b16b9b7" sha1="92d80279670edcc063e435ae0355bd2f9c3d22d0"/>
+	</machine>
+	<machine name="Team Palmtops 32">
+		<description>Team Palmtops 32</description>
+		<rom name="Team Palmtops 32 Front.jpg" size="2469271" crc="496c75e6" md5="0a4d4e4b8d2a55129c76c603bb082496" sha1="7db1a6a647f9289188334bf34093b73f3b270533"/>
+		<rom name="Team Palmtops 32.iso" size="656234496" crc="5c01d795" md5="43ad72e6e2f63c461e1fef21270bbf99" sha1="00f9e2a1e254ed88b5d886997fa227ae723aaab4"/>
+	</machine>
+	<machine name="Team Palmtops 33">
+		<description>Team Palmtops 33</description>
+		<rom name="Team Palmtops 33 Front.jpg" size="75794" crc="5358df9d" md5="e9391360948d3ed16304455b4b19096a" sha1="d487a756054fffcdd654d96ed460669774040d87"/>
+		<rom name="Team Palmtops 33 Rear.jpg" size="28878" crc="fb843aa4" md5="512196bc2c5030ca1b2dc217718ccb8d" sha1="ebfedef8f6e18064bbfb738e002690254eb306f0"/>
+		<rom name="Team Palmtops 33.iso" size="658579456" crc="03e1ef45" md5="67a1d8af7849213fb57990e88d2a46df" sha1="60a6338f3e492c9f09f3738da29f06ee976cd113"/>
+	</machine>
+	<machine name="Team Palmtops 34">
+		<description>Team Palmtops 34</description>
+		<rom name="Team Palmtops 34 Front.jpg" size="3900961" crc="026810a3" md5="0dd0a091e16d22b4c96b828867a41b91" sha1="c95fe59bb71a47770cc674e539e5bdd632146ea3"/>
+		<rom name="Team Palmtops 34.iso" size="603467776" crc="b597e584" md5="2793a6e626e7f99354f80674ea926a83" sha1="49870e54325c9ae4f8c4aa7a3566fa37863690e2"/>
+	</machine>
+	<machine name="Team Palmtops 35">
+		<description>Team Palmtops 35</description>
+		<rom name="Team Palmtops 35 Front.jpg" size="661548" crc="5ff0c805" md5="ec0ef2d166599dd68d1e32476a9a269d" sha1="303c5aabcd2e6e8139c38ef394cfb418f5c674ad"/>
+		<rom name="Team Palmtops 35 Rear.jpg" size="481464" crc="5ba0cbe0" md5="1dd2516b6f2f32df066c70198cf0f3a3" sha1="53f451c00279dcfd2fef7cb5ad75a4a686ebc01e"/>
+		<rom name="Team Palmtops 35.iso" size="505165824" crc="c28ffc27" md5="f98d32cf3018315be4d4e4526818761f" sha1="7f747842ffcfe8cf58dc18c22e2b5441b9941a74"/>
+	</machine>
+	<machine name="Team Palmtops 36">
+		<description>Team Palmtops 36</description>
+		<rom name="Team Palmtops 36 Front.jpg" size="662365" crc="f1ec715c" md5="af1b52dba55a849f0e08993a696ad29b" sha1="c1bf998813317cc57d2b9e987638cc241bb677ac"/>
+		<rom name="Team Palmtops 36 Rear.jpg" size="470288" crc="149f3e1a" md5="c5c3138989fcb9cae0e3bfda56d36a56" sha1="8a5a0f95997ef3de55f98da91fd901985ce56b97"/>
+		<rom name="Team Palmtops 36.iso" size="477362176" crc="8946f7cb" md5="b8a5b49e8f6e5ff44fb2bb95a2fcea37" sha1="46378fcc591bfe81cc30faefd96c91fc009cbfc8"/>
+	</machine>
+	<machine name="Team Palmtops 37">
+		<description>Team Palmtops 37</description>
+		<rom name="Team Palmtops 37 Front.jpg" size="617853" crc="1cdd5857" md5="7497a55486a166eaa38d64bb2b8e05ee" sha1="3f3c28e9de684a94d8dabb809878034867de88cd"/>
+		<rom name="Team Palmtops 37 Rear.jpg" size="811327" crc="bd462251" md5="6cba96a1e34734352c25feb3afd20250" sha1="946e5182f9ac4f440f1eff08b4239786c74e0fe0"/>
+		<rom name="Team Palmtops 37.iso" size="475387904" crc="f5568cbe" md5="03f69d5a86729c22b00653c616fe0129" sha1="8bf9bacff3aac58fd431d8cb501114bdc33ab030"/>
+	</machine>
+	<machine name="Team Palmtops 38">
+		<description>Team Palmtops 38</description>
+		<rom name="Team Palmtops 38 Front.jpg" size="62560" crc="38a62bad" md5="5060514d785a6827cf2de5ea96407889" sha1="0a4ee8e05116374f16764ab27dabc415f9096f0e"/>
+		<rom name="Team Palmtops 38 Rear.jpg" size="26403" crc="7f071bb8" md5="2606915f00e53ffededf7629178195b3" sha1="99e0b8ad73bdfbc4eb8d9bf0c708226bc50b0c1e"/>
+		<rom name="Team Palmtops 38.iso" size="524060672" crc="71402a03" md5="665b2ab39175bc8f7b16a8d224011f62" sha1="08b349f8833ed1afd793b7f483dc23b80fe4d7e1"/>
+	</machine>
+	<machine name="Team Palmtops 39">
+		<description>Team Palmtops 39</description>
+		<rom name="Team Palmtops 39 Front.jpg" size="618545" crc="6047ff37" md5="6a15f78f64f619458ffb19c4cd093f61" sha1="cc0e3fe683d117d8b32720231cd72ada2064f483"/>
+		<rom name="Team Palmtops 39 Rear.jpg" size="694750" crc="09efa004" md5="37024fbe1aba1ec525b9d785ff04f42a" sha1="32e80661e94de4f206be6955221e415b4897ae4c"/>
+		<rom name="Team Palmtops 39.iso" size="465094656" crc="b71981f3" md5="7f5c1502488d7e01602818d3181d64f1" sha1="87589141683e7172839a9e01a029022d402718b6"/>
+	</machine>
+	<machine name="Team Palmtops 40">
+		<description>Team Palmtops 40</description>
+		<rom name="Team Palmtops 40 Front.jpg" size="882704" crc="96abc079" md5="7f90aa64767d68cc84a36768fcde0434" sha1="57ff63d9293cf6d83dfbe718347ab4607962b1d9"/>
+		<rom name="Team Palmtops 40 Rear.jpg" size="493979" crc="8a826438" md5="1afb99974435ac29dbb3da44b04b4ce4" sha1="02fb2d673ed5541beb9344b51ce016e6d46a6ede"/>
+		<rom name="Team Palmtops 40.iso" size="463685632" crc="2c21ac23" md5="a96e9664ffe494836efef5d30271ea3c" sha1="ce48c1cb62081ba522209dec76acb77ce5eacc58"/>
+	</machine>
+	<machine name="Team Palmtops 41">
+		<description>Team Palmtops 41</description>
+		<rom name="Team Palmtops 41 Front.jpg" size="883281" crc="6cd5800a" md5="80f79400bede36a27dba29a305380737" sha1="ac7521bccd2ba6c48deacdb90781b5165ef7e2cf"/>
+		<rom name="Team Palmtops 41 Rear.jpg" size="657378" crc="9574751c" md5="12b9eef52b88fe2bae8128d6b7665530" sha1="042b33b9c0145576bb3c02db418288a4ef57344c"/>
+		<rom name="Team Palmtops 41.iso" size="488179712" crc="914c9534" md5="35312ed8f8a8725053a7185c13c43c5f" sha1="ee6c50ee2b2539c5ce32cd8412e934931deac4a3"/>
+	</machine>
+	<machine name="Team Palmtops 42">
+		<description>Team Palmtops 42</description>
+		<rom name="Team Palmtops 42 Front.jpg" size="76597" crc="c7c4a877" md5="60eafdaa85154e15114ff664a6b65468" sha1="42c21308906b35496a5e21aafa72e4e02e672efa"/>
+		<rom name="Team Palmtops 42 Rear.jpg" size="42419" crc="c31a49e9" md5="1ccc6e35d82dd2875860711769bd0922" sha1="c4045097b2049930066ee0fe8936df4a1d3e21e0"/>
+		<rom name="Team Palmtops 42.iso" size="623128576" crc="aeb7563d" md5="55bba974d1bd2b7ba43645f020af3df9" sha1="262496ebdcdffe8aa3717c8ea6227932abc532c8"/>
+	</machine>
+	<machine name="Team Palmtops 43">
+		<description>Team Palmtops 43</description>
+		<rom name="Team Palmtops 43 Front.jpg" size="737192" crc="45ae28ec" md5="cb060105b355990837b1c75c6ef436f1" sha1="9edef9fadd5bed03d627aa4b55794dc9b1d9ac96"/>
+		<rom name="Team Palmtops 43.iso" size="517175296" crc="108a1067" md5="5c9d444cda256cb2447700fe61794cfa" sha1="1659f89957bc107b8878523d456e9f24b176b4f3"/>
+	</machine>
+	<machine name="Team Palmtops 44">
+		<description>Team Palmtops 44</description>
+		<rom name="Team Palmtops 44 Front.jpg" size="756195" crc="161c154a" md5="f5c105e556d582cef47f799a519c9872" sha1="2e71db3fccc62e4e169c859028e82a869055a186"/>
+		<rom name="Team Palmtops 44 Rear.jpg" size="696269" crc="df3eb82b" md5="9143e12701f0c31b2d8bbc096055cc23" sha1="eb2cf587b96902ca4a1b4086983cffb5c72ade5d"/>
+		<rom name="Team Palmtops 44.iso" size="611270656" crc="6e2196b9" md5="5b7c32ed7bca703d9d70b1470f170847" sha1="fc4834f030cd67964023c18933189931cb1bcfc3"/>
+	</machine>
+	<machine name="Team Palmtops 45">
+		<description>Team Palmtops 45</description>
+		<rom name="Team Palmtops 45 Front.jpg" size="948284" crc="a148966c" md5="38d925d7e1652eb1b2f739f650e73045" sha1="5d5fd34868f4f2b4a01a4bf7b1e5c4aad657d730"/>
+		<rom name="Team Palmtops 45 Rear.jpg" size="548727" crc="6c836647" md5="579904720b596bd3050b75f511ed27ac" sha1="5f3607bbe7170e9ab5cf968773ea742356ca664c"/>
+		<rom name="Team Palmtops 45.iso" size="587339776" crc="8ebc9b50" md5="b94568c8967c854dba70ac6021eefc64" sha1="d32e2f6c7b784837a20f4df57b071888829f14a3"/>
+	</machine>
+	<machine name="Team Palmtops 46">
+		<description>Team Palmtops 46</description>
+		<rom name="Team Palmtops 46 Front.jpg" size="960456" crc="fd544f82" md5="22e3af6e7467ea2f739592b0dba66f70" sha1="af837d2c0501d9446c4516f4d4508c9a01b4cb2a"/>
+		<rom name="Team Palmtops 46 Rear.jpg" size="532389" crc="e3345356" md5="030132fdb2f7d7019a722e39590b44bd" sha1="e36484fa0d1732d666070a755dcf46822e4499e6"/>
+		<rom name="Team Palmtops 46.iso" size="535980032" crc="38178ad4" md5="316bdcc3468e38e424c445c380941460" sha1="c2c7dc36fe091a78bc1c79cac41d966c837deb90"/>
+	</machine>
+	<machine name="Team Palmtops 47">
+		<description>Team Palmtops 47</description>
+		<rom name="Team Palmtops 47 Front.jpg" size="702139" crc="d3953ee2" md5="90c4353b0491b7eceaa016fbd7a458ac" sha1="9bd64b2f096a3372721baf269903d2ef692330e6"/>
+		<rom name="Team Palmtops 47 Rear.jpg" size="504127" crc="af726d4a" md5="17c4a778a5689a9bcd57e0e1477946bb" sha1="bd02d94783173c267eb97abe90cb2cc4a937f459"/>
+		<rom name="Team Palmtops 47.iso" size="582742016" crc="6661585c" md5="d127fbafc3b85fd63ee113d8ddd52b86" sha1="f374b6b232a328151906a6167960503a87bb9098"/>
+	</machine>
+	<machine name="Team Palmtops 48">
+		<description>Team Palmtops 48</description>
+		<rom name="Team Palmtops 48 Front.jpg" size="730808" crc="5fa6e24f" md5="e2a17cb5f9d8a420626fc13a2012b349" sha1="12c8c0478556daaa2b82216d506bcf1a6ee15853"/>
+		<rom name="Team Palmtops 48 Rear.jpg" size="777460" crc="cbea1651" md5="c4c39e57e5a5c28715def98234d62f95" sha1="0d68b0e04214cd3ab93b6cf72dfd06b2386a2335"/>
+		<rom name="Team Palmtops 48.iso" size="510003200" crc="fc64366b" md5="3ece6c50fa326aa1818d3212b4b122fb" sha1="4e44399fc488ee025267fbb5f258e12fd7c37c97"/>
+	</machine>
+	<machine name="Team Palmtops 49">
+		<description>Team Palmtops 49</description>
+		<rom name="Team Palmtops 49 Front.jpg" size="728314" crc="a313d184" md5="c82e3cc84483caa80c60979ca55d3180" sha1="e61c245e67426e7363d5c98925df0c1fa301d330"/>
+		<rom name="Team Palmtops 49 Rear.jpg" size="499820" crc="b6c370b6" md5="2e5d140994dc53980f9f6d60774a303c" sha1="4dd3f896581670955c3f46feb0c839acdb730859"/>
+		<rom name="Team Palmtops 49.iso" size="438790144" crc="a2409114" md5="211055b939db13f97e3a7f3cb0e24cb4" sha1="c3aaa647b97c11a2588b8dd63e214579b792e5fd"/>
+	</machine>
+	<machine name="Team Palmtops 50">
+		<description>Team Palmtops 50</description>
+		<rom name="Team Palmtops 50 Front.jpg" size="749918" crc="51c20a0d" md5="c3a2bcac95a0459cdd1db6e246d89a9b" sha1="89133a6c73e9a52ae8660488bd276b5d560fd42e"/>
+		<rom name="Team Palmtops 50 Rear.jpg" size="513589" crc="57ef8ccb" md5="863fe7ea0f2d5734ab10f0ff54745ac5" sha1="9a1daf23b821dfcc8dc13626b662dc961543f4c1"/>
+		<rom name="Team Palmtops 50.iso" size="638478336" crc="7f6d2174" md5="55cdaa0734d431ecfcbbaab65eabae61" sha1="fe91a2fa93333411c4f5e72d7c5aa8a10ab76d0a"/>
+	</machine>
+	<machine name="Team Palmtops 51">
+		<description>Team Palmtops 51</description>
+		<rom name="Team Palmtops 51 Front.jpg" size="774247" crc="3bc34261" md5="dbff68b6a8f7c83c2fd59d3d0faeeef8" sha1="469a9aa277287171a344d1fab2768e472630f249"/>
+		<rom name="Team Palmtops 51 Rear.jpg" size="518902" crc="9ffb063f" md5="7eb7f90235ab77069b269baa1435ae83" sha1="3ad52cd0815ee5b0e945536d72f0fa1bfe72f0ca"/>
+		<rom name="Team Palmtops 51.iso" size="499050496" crc="7fe18742" md5="6478f841f2dfc46fb433e64ae66090c0" sha1="06cc23fc82ee19a42ab54cb2a29622bca267d21f"/>
+	</machine>
+	<machine name="Team Palmtops 52">
+		<description>Team Palmtops 52</description>
+		<rom name="Team Palmtops 52 Front.jpg" size="962200" crc="7e240c47" md5="a25f5222f5b385fd588ee09f995ce85b" sha1="c9a720db58a5533500b8e6c3f367b9e1db9bd4ce"/>
+		<rom name="Team Palmtops 52 Rear.jpg" size="725998" crc="0fc0cd0f" md5="76824c352277faff701d09f8bdb65c16" sha1="47fc24d3f5426c9750ade891f23dbbf9c9137d8b"/>
+		<rom name="Team Palmtops 52.iso" size="511379456" crc="96b6f101" md5="380e776bf380b9f8aebcc007f32d91db" sha1="255fdc2d77eb4cabecfbe215c0375298db6f4da1"/>
+	</machine>
+	<machine name="Team Palmtops 53">
+		<description>Team Palmtops 53</description>
+		<rom name="Team Palmtops 53 Front.jpg" size="610761" crc="a9fbaf84" md5="c2156697b01a88b1cc4df092fb1b760d" sha1="5b6b27f6feaa479892630595e2271668dd570e79"/>
+		<rom name="Team Palmtops 53 Rear.jpg" size="488148" crc="2102b193" md5="c154d649379a7461fdb9db767fd3c018" sha1="29365fc90957299da9107d652ac1b2c27496f561"/>
+		<rom name="Team Palmtops 53.iso" size="514336768" crc="a33b2f7e" md5="30f0ee095dc03e2a5d0fc691a4ac1c27" sha1="c5fe12fc350f0f5b1cf14826a7b921a4e16c3daa"/>
+	</machine>
+	<machine name="Team Palmtops 54">
+		<description>Team Palmtops 54</description>
+		<rom name="Team Palmtops 54 Front.jpg" size="872047" crc="47e19061" md5="df68fd5eb6e7985d42144e84a28bddfa" sha1="64451abbacabc59cc4f95a709262a88c02b38365"/>
+		<rom name="Team Palmtops 54.iso" size="473847808" crc="a411e05d" md5="f75b6bf67a9620426d7e430ff96a6a19" sha1="082926271ad006e933c1236875ed485ac2865994"/>
+	</machine>
+	<machine name="Team Palmtops 55">
+		<description>Team Palmtops 55</description>
+		<rom name="Team Palmtops 55 Front.jpg" size="876748" crc="3284f49c" md5="838721d5311c43f224cc8f57b58e3388" sha1="1ccb6e90d7176924a76f9445100d3c7e6db39711"/>
+		<rom name="Team Palmtops 55 Rear.jpg" size="721142" crc="aafaae52" md5="c917d3d56c697e7d8ecc18a72aa7703b" sha1="2045cecb5d30d22b04e20448771057a7ba6a55bf"/>
+		<rom name="Team Palmtops 55.iso" size="522446848" crc="1ec7bef4" md5="29245e80df857ad60e7b867cfa6c1787" sha1="e883b0d12239631936b6c463e4ba202f247be196"/>
+	</machine>
+	<machine name="Team Palmtops 56">
+		<description>Team Palmtops 56</description>
+		<rom name="Team Palmtops 56 Front.jpg" size="712962" crc="9f59dbf5" md5="95638759668a4ccd171b106b9fb7d089" sha1="8ded1e7c7a495230f5bb670add637d216901b8fb"/>
+		<rom name="Team Palmtops 56 Rear.jpg" size="698555" crc="e8ab22de" md5="73fdb20714c5089773af0bd6fca08255" sha1="52290a2597e619f001b697b62c8c83c9c567f7d2"/>
+		<rom name="Team Palmtops 56.iso" size="703129600" crc="5e52fd50" md5="942e63f096b8d66b5c2d55f43095c246" sha1="85b1216863e9d7948886c33b05ee7a926df6acec"/>
+	</machine>
+	<machine name="Team Palmtops 57">
+		<description>Team Palmtops 57</description>
+		<rom name="Team Palmtops 57 Front.jpg" size="880917" crc="ea4e24cc" md5="ff220f0d393a99038229c86ac50b1d6e" sha1="a56dcf4e980f9be4ef2b8c2b097eb08364ebaad9"/>
+		<rom name="Team Palmtops 57 Rear.jpg" size="717211" crc="3bb010a6" md5="1fca2523d116b5d797163baa6009bce7" sha1="e9b9aa241f2f0cec6ea1c5bb7b5c4ee89ee351c4"/>
+		<rom name="Team Palmtops 57.iso" size="644038656" crc="48a72dcf" md5="daa364fc0a89cefd4d2ef43691281e0d" sha1="0badda329d5cf8498882d9115e927f2f95a466ca"/>
+	</machine>
+	<machine name="Team Palmtops 58">
+		<description>Team Palmtops 58</description>
+		<rom name="Team Palmtops 58 Front.jpg" size="626459" crc="cf31f51c" md5="ce587264bedf85ea668ba63b1173b982" sha1="d5300a1868b50761deba07b05b4905512bdd9226"/>
+		<rom name="Team Palmtops 58 Rear.jpg" size="683997" crc="b7fb84aa" md5="fcf99e549a7c51bb37854b22d3de329e" sha1="f4f117843ebdbf1987a0408814e4018c54d10015"/>
+		<rom name="Team Palmtops 58.iso" size="711706624" crc="65ddaede" md5="ad330926e7d1d2207303f328393b8854" sha1="c115e905a8e2c908877014e0a18da6a6ff72e77c"/>
+	</machine>
+	<machine name="Team Palmtops 59">
+		<description>Team Palmtops 59</description>
+		<rom name="Team Palmtops 59 Front.jpg" size="931873" crc="0db7ec50" md5="10765da19dd059343177eff312843248" sha1="551d02bda9fc860dd4554679c04ee16e9e7d6abd"/>
+		<rom name="Team Palmtops 59 Rear.jpg" size="493862" crc="1982ebd3" md5="f8b3804773712e9665bb3e1eb37a07fa" sha1="6239c5fd36854bf8c5a972c5cb295e3fbc3589ab"/>
+		<rom name="Team Palmtops 59.iso" size="623620096" crc="8049eb87" md5="0238eac5929afae229794a58a2ec99a2" sha1="52d7981ee469f6fa60aed1b9d8a60edf6a1fc73b"/>
+	</machine>
+	<machine name="Team Palmtops 60">
+		<description>Team Palmtops 60</description>
+		<rom name="Team Palmtops 60 Front.jpg" size="618074" crc="ea00a895" md5="8d88fa98cec109f45b3c5db2bbafe6a0" sha1="b050b76ca18940356704d46921acd3fac568b241"/>
+		<rom name="Team Palmtops 60 Rear.jpg" size="788833" crc="21f71506" md5="4554e0efd3dc0ab3be7be9f1bdc83ef6" sha1="827d5aef3d5688070b6b34febc99d9cb4624dc24"/>
+		<rom name="Team Palmtops 60.iso" size="609714176" crc="9fd6474c" md5="78dbd51c227607dda387145522064104" sha1="54cd2c7f730bcdb405bb49f94a41b40b4d430385"/>
+	</machine>
+	<machine name="Team Palmtops 61">
+		<description>Team Palmtops 61</description>
+		<rom name="Team Palmtops 61 Front.jpg" size="703768" crc="f6ec727d" md5="9947e6280eec9a8d285e342183b3cd67" sha1="7366436e5b7ff0665df554df260d94116683bbbf"/>
+		<rom name="Team Palmtops 61 Rear.jpg" size="775833" crc="04fdc3c5" md5="7aa021ee838f42b03b4a27680f523ffc" sha1="104dedb98b99fbc2be7902e5521681235345607e"/>
+		<rom name="Team Palmtops 61.iso" size="694110208" crc="264edaf5" md5="75e26e1ced29fe4f0f72805863015ed7" sha1="fbdaa5cf9e075c385f912a50e3fceb162418f314"/>
+	</machine>
+	<machine name="Team Palmtops 62">
+		<description>Team Palmtops 62</description>
+		<rom name="Team Palmtops 62 Front.jpg" size="845704" crc="e96c944e" md5="e49bba6e202310c0fc0306a0315105cd" sha1="745e39a751a078a5a0ff00c92ba26daccca70d0a"/>
+		<rom name="Team Palmtops 62 Rear.jpg" size="738479" crc="ec1d40b1" md5="3c57711f7ac90793b6ed2d3fb3618c05" sha1="52b07950dffd7f6fbfac4b121c1b630655edfbb4"/>
+		<rom name="Team Palmtops 62.iso" size="647888896" crc="df4e6574" md5="01397e9a748451cdc3667e9a5a08383b" sha1="4706bb7fe5860aa9ee7bb4e80c6a1788d697b93f"/>
+	</machine>
+	<machine name="Team Palmtops Hors Série 02">
+		<description>Team Palmtops Hors Série 02</description>
+		<rom name="Team Palmtops Hors Série 02 Front.jpg" size="673955" crc="0da7e429" md5="118bb0eaf9b6308a636641e83e765af3" sha1="ff6c138efb4baac73133595b846d28b43e0a4833"/>
+		<rom name="Team Palmtops Hors Série 02 Rear.jpg" size="702166" crc="4e70b67c" md5="35def1de4bc85252a156efe6950e8a7a" sha1="53f245ebbc253bf8573488311f0a86670ebb8d80"/>
+		<rom name="Team Palmtops Hors Série 02.iso" size="678926336" crc="8b989632" md5="b55c5c12f71a05a8e78926ed69fb221e" sha1="48f5227cf6874f87cf42fc2755ff7ca36a33f9d9"/>
+	</machine>
+	<machine name="Team Palmtops Hors Série 03">
+		<description>Team Palmtops Hors Série 03</description>
+		<rom name="Team Palmtops Hors Série 03 Front.jpg" size="664466" crc="f8285719" md5="3e2ab8978fd1f40d70077747e8f39e55" sha1="088aab193db84899fa68bf006446714118405aa7"/>
+		<rom name="Team Palmtops Hors Série 03 Rear.jpg" size="507311" crc="4645fdc3" md5="8daacaa9934a6feac85273d8a3c9957e" sha1="dd5b3b8e75dcd3a01df6ac80dbd291466679a131"/>
+		<rom name="Team Palmtops Hors Série 03.iso" size="658825216" crc="7b0980e7" md5="297586d00bf2835214a4a56446a7888b" sha1="afc9f866da70da55ef509f24ad22f6042bb6efad"/>
+	</machine>
+	<machine name="Team Palmtops Hors Série 05">
+		<description>Team Palmtops Hors Série 05</description>
+		<rom name="Team Palmtops Hors Série 05 Front.jpg" size="651491" crc="df08086a" md5="20e833783b54bf8c1f1bd1d98743b551" sha1="5067db43354caf5f1fb566f854f829b0442341bb"/>
+		<rom name="Team Palmtops Hors Série 05 Rear.jpg" size="739172" crc="9d1a8edb" md5="0bb7e26ac131155ce7e753cc4bcdb4a9" sha1="f3fe2bc168c2abadd80b7a379b277222ba7431b9"/>
+		<rom name="Team Palmtops Hors Série 05.iso" size="729270272" crc="25663d32" md5="aa4815b42656cef64d329c7329a45bd3" sha1="a4771f1d6668c2d2a16435c2c39484d070358901"/>
+	</machine>
+	<machine name="Team Palmtops Hors Série 06">
+		<description>Team Palmtops Hors Série 06</description>
+		<rom name="Team Palmtops Hors Série 06 Front.jpg" size="784901" crc="9123b1a9" md5="ac67eefb51721ecc32b433d75cc9725c" sha1="359e3c282f12a3025092fb7bf42cebac64ec834e"/>
+		<rom name="Team Palmtops Hors Série 06 Rear.jpg" size="529133" crc="ae179fce" md5="bceacbf7426a0795ef859f7a5db3dff3" sha1="213a31c5e65f09488b67bec5f2b3c86348bc3dec"/>
+		<rom name="Team Palmtops Hors Série 06.iso" size="727508992" crc="eb135cd4" md5="dc6a80f0889b7aaa71903781f3931358" sha1="a58b0d95ecfddc79f6e0ae82fcbf47d7b9da4064"/>
+	</machine>
+	<machine name="Team Palmtops Hors Série 08">
+		<description>Team Palmtops Hors Série 08</description>
+		<rom name="Team Palmtops Hors Série 08 Front.jpg" size="831496" crc="fc444739" md5="97d7ff8268115cda817b7b9a39b855e5" sha1="3ef48641710ebe1d91dcdead6ef7cfa89f0d208d"/>
+		<rom name="Team Palmtops Hors Série 08.iso" size="719214592" crc="4eb859bf" md5="64a940f9ea90f4a95d1d6800366662fa" sha1="cfca32958b052fc29c46885debdaf3f5d3a56d40"/>
+	</machine>
+</datafile>
