@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile>
+	<header>
+		<name>Aquaplus P-ECE - Software</name>
+		<description>Aquaplus P/ECE - Software</description>
+		<category>Standard DatFile</category>
+		<version>2026-07-30</version>
+		<date>2026-07-30</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://aquaplus.jp/piece/</homepage>
+		<url>https://archive.org/details/@uncletrunks</url>
+		<comment></comment>
+	</header>
+	<machine name="猪名川で売ろう！！ (2001-12-27)(Aquaplus)">
+		<description>猪名川で売ろう！！ (2001-12-27)(Aquaplus)</description>
+		<rom name="inauro.fpk" size="149043" crc="ab1cfeab" md5="51c53a405e871ebf9334a2ad50f214ec" sha1="2649df15ac10cb0c2c5912273e124874016b26b5" />
+		<rom name="inauro.pex" size="119612" crc="d99d7010" md5="180afad954437dc59226e5f091be6cc6" sha1="95fcdd9c352241984738bc77145f5affabfbbf29" />
+		<rom name="inauro.pfs" size="36" crc="5ade8120" md5="0383528be6954f8a1065cc7bc331f596" sha1="73e6a74e1d631f9c02a69e8109847004f41b139a" />
+		<rom name="inauro.sav" size="2800" crc="d93bbc7d" md5="f75adb321185db7a843125040e075794" sha1="ad54a4af9d5d549baa33236c1e4bdb084db7288d" />
+		<rom name="操作説明.txt" size="3100" crc="4682b519" md5="72949a308cbdb44aea8cc3ea847f4574" sha1="5c0941a294e73aeff5e17f17b7cca8dcfa59a711" />
+	</machine>
+	<machine name="Ｐ・Ｋ・Ｏ (2017-11-15)(ZuraChu)">
+		<description>Ｐ・Ｋ・Ｏ (2017-11-15)(ZuraChu)</description>
+		<rom name="drum.arc" size="29433" crc="2078c3dc" md5="f571eeef343c8540292485878eb91418" sha1="f6fc96d2afd257f503cb931c77205ac48ca1529f" />
+		<rom name="images\kamyu1.gif" size="473" crc="d395efb4" md5="d25c1cbd0d00b729555fde0c3a6923ce" sha1="8cfd137830cfc4f28b14f6d248328b26c0bf58e3" />
+		<rom name="images\kamyu2.gif" size="445" crc="42bc9eb7" md5="27f58ae8a7ef1e299d531406cd699931" sha1="af8cff39df32fdfbcfc50b7809066a07e95611e4" />
+		<rom name="images\kamyu3.gif" size="1511" crc="1eee5bfd" md5="9d23250b07ef8f7732cb24ebb18dbd21" sha1="606536b3783a696fab05b61ddf17d8443a55cda1" />
+		<rom name="images\pko.jpg" size="127714" crc="ad999327" md5="f092dcce7c81635a795cfc80110fa58a" sha1="91077eff0613d5d99183513f9dfc301ede543d89" />
+		<rom name="images\uruto1.gif" size="437" crc="71071e0f" md5="ef6a707f005528ff6e424cd99898f17c" sha1="48ff35f0f43eb03b6cf654e4318b9b0fbf99acd3" />
+		<rom name="images\uruto2.gif" size="549" crc="adbd4442" md5="0a8a7af80d4db4e60dbd32093fd0cf55" sha1="6bf526b8c2795c429bd175019a0c6de74b5e2771" />
+		<rom name="images\uruto3.gif" size="1200" crc="5094ceaf" md5="196f4401ca1b99291e7e293e6422e824" sha1="4b3a92165fc416c80eb0d444d30053e8901332f9" />
+		<rom name="LICENSE" size="3158" crc="bc7ecd72" md5="adc3d32ef7d168572330f3bc762a8c31" sha1="2986c79db70de6f5dd8e3e63a34f27352dacb166" />
+		<rom name="pko.dat" size="40308" crc="adab069e" md5="d92701d15354c31b6a41dd191f5df3d3" sha1="32517d15da2e3f0ce4438cc17c61f0a9a513bf8c" />
+		<rom name="pko.pex" size="29705" crc="ccbbf32d" md5="2a44d5d782b14ccb91edd8a7f701c31c" sha1="493e35692aac2ec38c629373c0fa3943618edab5" />
+		<rom name="pko.pfs" size="37" crc="2554402d" md5="6282d9e64d1b4d217c6819ee242367e6" sha1="276cfae87a1c365e98cabdd7e8cd776652fe02bd" />
+		<rom name="pko.sav" size="120" crc="9c3a0820" md5="f2f930b609c3f443378abe5ea07229fa" sha1="73e651bb59bc29f9d342514692c419224efa5829" />
+		<rom name="readme.html" size="9210" crc="96164e4b" md5="329cd74706baac35ad036a69c9f93b37" sha1="6fdd4ca39b159171155409cdf60e9fcebd2f8d70" />
+	</machine>
+	<machine name="3Dドライブゲーム (2003-05-31)(Hanai, Akiyoshi)">
+		<description>3Dドライブゲーム (2003-05-31)(Hanai, Akiyoshi)</description>
+		<rom name="drivef.pex" size="28000" crc="d41bcbcb" md5="3a7614b87ed0d5abdf4bdd8841e3cb4d" sha1="0cd77242038dbe194041fa98cd3db713db831e03" />
+		<rom name="readme\drivef.html" size="2445" crc="d3322b33" md5="e2bb42cb2a7ec4bb47d016776865f9a0" sha1="6a5fdbd2e5f509393a444da5f67c2882e68d2f8b" />
+		<rom name="readme\drivef00.png" size="803" crc="71acbdd8" md5="422d44cbd4ad60be7cf014ee9ce13d9e" sha1="9dce015cac849b8f7151a0eb516a53f397f88ee4" />
+	</machine>
+	<machine name="破魔絵馬師　乃梨兎 (2002-12-31)(Golzy)">
+		<description>破魔絵馬師　乃梨兎 (2002-12-31)(Golzy)</description>
+		<rom name="遊び方.txt" size="661" crc="daca6d8d" md5="478bee977d979dccb284cd310f77d6c5" sha1="0188644126c36448391f92aa770183d121d91e76" />
+		<rom name="norito.pex" size="32836" crc="edaf71b4" md5="992db6f3a6b04cbd5e7d78d419f30f3e" sha1="8ab8665bc2b1a0eb4ae69f6063091ea7b5b4d201" />
+	</machine>
+	<machine name="Barrage Reactor v0.1 (2003-05-25)(ABA)">
+		<description>Barrage Reactor v0.1 (2003-05-25)(ABA)</description>
+		<rom name="br.pex" size="122412" crc="dbede178" md5="911c2d02bfa32e29bb67bf7bfbc62c8a" sha1="eb72c45de0cf59e21c5dd65568bf3072312ec01e" />
+		<rom name="readme.txt" size="2440" crc="eb8787a0" md5="96b165f76e7c0658c8f680da83f17fcf" sha1="7c5eb12476e678d16a6147037fa0039c3f8e208b" />
+		<rom name="src\bml_aim.h" size="829" crc="fe813ebd" md5="7da67a001b098de5db92780e9323609b" sha1="79e199db5656712412499de4135129715b6a64f8" />
+		<rom name="src\bml_allround.h" size="1942" crc="1d1484b3" md5="b488bb5b6bff701f70d1798188df6fdf" sha1="c7cfe8f7cb6b1f0261ce2a292baae8d49b58549a" />
+		<rom name="src\bml_changeaim.h" size="3901" crc="e8a380d2" md5="d17e9d9a01e48bd12ee90e6b83ed6288" sha1="1f1323c37d887a601980cea2b3de2aeace4ceac6" />
+		<rom name="src\bml_extendfast.h" size="2334" crc="1a82dcaf" md5="646309cef49d5d75b662383a150719e5" sha1="46c6f780cbfbeb40d8fe485ee8930cbef8214aae" />
+		<rom name="src\bml_growexpand.h" size="3120" crc="86599eda" md5="881c684a13ce7ad77d295a0ded4820e1" sha1="a621d68ba2e92549f7a78e4f34de5f5ffa4096e4" />
+		<rom name="src\bml_nway.h" size="2592" crc="694ec8e1" md5="54d4c24372b4632361c1ab3acc7f509a" sha1="45e8337b304e9d94b52d1ef3a7d1fcbbc4921741" />
+		<rom name="src\bml_rollslow.h" size="3122" crc="1ae14046" md5="82f96066b919f228cbea89d93bcde05d" sha1="9828280297f5fc09882cd3c32abb3e3375a32796" />
+		<rom name="src\bml_scatter.h" size="1148" crc="0dcefeb9" md5="63bdc5ae590ea937abb31285c6a07f70" sha1="0df4b34f77cff84941f6221f0dc5e60f4543cc42" />
+		<rom name="src\bml_traceshot.h" size="3306" crc="70bb7c63" md5="027e9c14061133f1dc6a48dacfbf7b88" sha1="95e9d28cb5c9baff680dbd00e32917fb91e51a9d" />
+		<rom name="src\bml_vertical.h" size="1086" crc="0aa173ab" md5="e05e807c9e68652aa47967cb4fb6da8b" sha1="e66faabbae2f99a7d8a99a65185b88221108b0bd" />
+		<rom name="src\bmldata.h" size="444" crc="0c26e047" md5="448770825f88c11b216a1b8c9da88223" sha1="02df896b6e471de6642854ad2dc5b4f2bd30fd73" />
+		<rom name="src\bmlmng.c" size="13768" crc="4bdf9f53" md5="73a573ab5121bda14e216fe9d6235963" sha1="544085cbd3616e045b68e3d7d0ff8152619f8027" />
+		<rom name="src\bmlmng.h" size="1124" crc="4172292a" md5="54dc04f33d119c7cc9fb4e38fae4452c" sha1="a2c62915b6421aff37d8ec4690e572f02f30a0b8" />
+		<rom name="src\bmlprs.c" size="11634" crc="c03ce5de" md5="fd0b45a69adac7be97d4ebe1df0d671f" sha1="8c99d23b2d59209cf829828e3e5c99586e8a19f8" />
+		<rom name="src\bmlprs.h" size="3738" crc="0891953b" md5="dd3ba9c9c82b59d0986a17a9891fa8c1" sha1="8e6c184428e7e96c55b8a33b67acb28989737c07" />
+		<rom name="src\br.c" size="2561" crc="5b2eb6c3" md5="36a706b296c10dcb7c21279570d5effb" sha1="2f15c9549c0601a9b2fd6a2f2c4ff868aca17343" />
+		<rom name="src\br.h" size="236" crc="69b4b110" md5="24b3be255e3894930998802ecef3f76c" sha1="197d009c7b17ceb2bf7200290d194c3dd296e598" />
+		<rom name="src\br_icon.pid" size="256" crc="ec14bc44" md5="f7afa37a8c9be50be9f5e5f49387e5a4" sha1="f9a9bb2026cf2cb9d796707f77dbd3ff11d87ad9" />
+		<rom name="src\brgmng.c" size="1254" crc="22b51b73" md5="8c8a088a602c79d53723ebdd72a40921" sha1="d643fc20d71609362c3c626067381bc4717a84ef" />
+		<rom name="src\brgmng.h" size="394" crc="6eb057a3" md5="433af1db405486aaac01273581801b53" sha1="5b3676c31545de6c8c12074adc22af02bdb3bfda" />
+		<rom name="src\degtable.h" size="9165" crc="5f85a345" md5="04b4f99822ad22d33b13cc3190fddc1f" sha1="c00d99cd87fd5ae433aae243ddbd950b7dcb101e" />
+		<rom name="src\degutil.c" size="2261" crc="a06e4555" md5="3dd9e192ed92491a58f3f06d9f7735d0" sha1="37f4abb66938fead25a66262c21f6df47c642fc1" />
+		<rom name="src\degutil.h" size="321" crc="8cc6e944" md5="5dd3cd1da76e158385d2ea0a68713d04" sha1="7e69c1b11788091eec5983f8ea94f6d321788007" />
+		<rom name="src\expression.c" size="1269" crc="04e3ce62" md5="33dce92526739a5ef175aa3f8d1d01f1" sha1="54d1c8d0b99631489a3235bf20076a85d5b4b795" />
+		<rom name="src\expression.h" size="654" crc="9bfca291" md5="175e38f4a267a972dbd994b996e1cf10" sha1="6ec83246e9c8bcd94a9ade6c683ecda29027a91b" />
+		<rom name="src\foe.c" size="6639" crc="087d3538" md5="fc822c0c524d41cd5049b9e632b9d709" sha1="742af8c1cecff8d6569e76b60266d127331e2739" />
+		<rom name="src\foe.h" size="1430" crc="452d0880" md5="1123446ed5ec6c9bbbb820beb3eabd9c" sha1="be8d32af798114b1ef486d2f84aa681e6d8c865d" />
+		<rom name="src\frag.c" size="2856" crc="6e1cdb34" md5="703dfadc10dfd0ad7ef6bf38f471ffaf" sha1="ece73ede2754d3154928812e0d322e5d9108e240" />
+		<rom name="src\frag.h" size="475" crc="43aa2643" md5="bcc4b81895a8ed5728fce871c3321f97" sha1="c8ee9dbedb644b42edcfb7da417afce170a56827" />
+		<rom name="src\gamemanager.c" size="6056" crc="6028f566" md5="078e25f6eb29cd5668d1e3b2ec4681a9" sha1="6a78a296fb0621330f5ab0646285b1a09650efa6" />
+		<rom name="src\gamemanager.h" size="646" crc="ab57a4eb" md5="1f0cd4ba3a2f368d81c79fd0597aa726" sha1="fe71c67579101710f48b7b2831afbf81d85b47a9" />
+		<rom name="src\genmcr.h" size="399" crc="c61eb2ad" md5="8a52d1d5ce794db49b9db0a36a7ff03c" sha1="48f538c98e5054aed8b083294cdb11a55f40a2b8" />
+		<rom name="src\letterdata.h" size="8679" crc="511d5065" md5="baaba6734fc00633453eb908eadf488b" sha1="72b59f5778333d08f2e3a94fb20de092258bce15" />
+		<rom name="src\letterrender.c" size="3544" crc="1578f19a" md5="2d3cb5d3608cff395e0c21849623ddab" sha1="2d7c1a7c01cb36f0f95b495899a29b8369e046b9" />
+		<rom name="src\letterrender.h" size="335" crc="e3d71335" md5="a5cc0ae5acd809bcf79216dafd8bf9e3" sha1="c680105234f9c29254ce17f47eed20645867b8cf" />
+		<rom name="src\Makefile" size="1075" crc="1ffe2eb6" md5="61658f68d545a6b161833058bb42369c" sha1="5c684616e33d9edd5437c156b4f3596feedd07c4" />
+		<rom name="src\Makefile.sdl" size="717" crc="ad56d28a" md5="ef60760807fbe94573d04094945bf6e1" sha1="1204a39b463a743b373ad2093907dfd53cd60f6c" />
+		<rom name="src\media.c" size="5430" crc="3d20775c" md5="3c0697be04632da35052985c15b1966d" sha1="234b64569284ef4f27032568920b35d347e28c86" />
+		<rom name="src\media.h" size="869" crc="1a8d4346" md5="09642395c51452b36eb55c9c51e21d6a" sha1="9af1fa47e660d432551ac5daaf7b3d15d00ae660" />
+		<rom name="src\pcm_blbrk.c" size="7827" crc="f63e7497" md5="ae7d30eb97f3ef1958940ba7c8d96440" sha1="25864f1361828ea957f12542d6b93fd21783981a" />
+		<rom name="src\pcm_bonus.c" size="2392" crc="34d38989" md5="31bf51853ba4c09a50a034790d363af9" sha1="c2c166723101c086904809d499dca33144b7813e" />
+		<rom name="src\pcm_extend.c" size="37471" crc="73b90646" md5="3681c4dc8f509f12667aae16bfef0465" sha1="235b226562996d91bddde44189a6c34624d5260a" />
+		<rom name="src\pcm_hit.c" size="6981" crc="421ef943" md5="22ea20bc833411fd401aa5d1e9759f95" sha1="f15ba3009071869c85765170dd6c10bbe67fe3d5" />
+		<rom name="src\pcm_miss.c" size="26787" crc="5dda9e45" md5="40fa0493b322ca3f91984c1f0fe16870" sha1="2152430bc68d6bb8e370e2affa0cf6b04f0aebd7" />
+		<rom name="src\pcm_r1.c" size="164256" crc="31426cbc" md5="10264ffc8404c0ab89830296d7a2edce" sha1="0984dfc529c3421f54ea2b6a714e60044a1b75f2" />
+		<rom name="src\pcm_r2.c" size="164256" crc="5c0735d1" md5="ad5aa61dcd39f311ed9d264a939a1bca" sha1="025ad69a0c6c6f32c3af66f5415f9b9d2646b70f" />
+		<rom name="src\pcm_r3.c" size="164256" crc="122c7ccf" md5="40bdaeb347e99ff974b07972c9ce2f40" sha1="3f5a70a6e0626b0613af02ecf66c447aa218f758" />
+		<rom name="src\pcm_sdbrk.c" size="16743" crc="8c310adf" md5="5bdb89ca55a8497538a8d6903c61af53" sha1="5645452116b1e4f03bb732d72f20bd8aebca2373" />
+		<rom name="src\piece2sdl.c" size="8113" crc="f42e5059" md5="106cf0c5ba19ae9c60eaa332ab4d7b15" sha1="5aa9e6f8293160cf64579762e08a5fad39dabb56" />
+		<rom name="src\piece2sdl.h" size="2138" crc="c304eaff" md5="63199614090c5ae5fb356ce9c41b49cb" sha1="e04c780040764700f67a0b44c2ca2f28ef735dfb" />
+		<rom name="src\rand.c" size="251" crc="ffd443b9" md5="c64507468ecc12c3be6a4c2def921dfa" sha1="e775b6721f5e778c94b31e76541b2689ba850566" />
+		<rom name="src\rand.h" size="194" crc="4b16a5da" md5="d6b45ae5b35bab30b1408cab60da6957" sha1="fde559a36be79d45630a6202c0db073d93a386e7" />
+		<rom name="src\reactor.c" size="6224" crc="49d36982" md5="568bb4ab82b611f25f40a922a6b55c9a" sha1="257dd5d846755a8fba9ebd5681c59150f815aa5f" />
+		<rom name="src\reactor.h" size="629" crc="09ada2b2" md5="0936f8c868e5fe2facd83a120ba67433" sha1="caaa8bcedc127e2ea3050a3947f998c881add6c5" />
+		<rom name="src\seed.c" size="6202" crc="6f37f35c" md5="f603fd006d4282bfc5f1dd8793d5889a" sha1="a176d303ed3cb5c6035198d7d1ec62b8242803e8" />
+		<rom name="src\seed.h" size="836" crc="39e352d0" md5="70fbc19c30456cd02c9b99844d59fa26" sha1="60c8a70409378802697eeebf48cb87da3840329b" />
+		<rom name="src\ship.c" size="3383" crc="2aed902d" md5="155fe02dc578616c835d48c7e855c3ab" sha1="ad53eb4d08541d4718b39cf675a1c5c3a05ac435" />
+		<rom name="src\ship.h" size="457" crc="5a0dcdbf" md5="4a7ef6e2fa7c1e941ce00309ff6bb5ee" sha1="f126eece3f98ffbb83eb5652a2aba7a0d8626f78" />
+		<rom name="src\shot.c" size="1862" crc="21fa33b2" md5="eb5800838ef9f66d4cc137ed03bc185b" sha1="7e35e12b3099d432e20c11e72f2b54b43a20b472" />
+		<rom name="src\shot.h" size="375" crc="44a28949" md5="2daa48e363e143493c337534f6e85674" sha1="ffe714e5baeba2fdb31c74044a1eb2f9199fb613" />
+		<rom name="src\vector.c" size="1657" crc="f6a82de5" md5="aff9553607303790f2c1ad3050bfd2e6" sha1="e3a0c9881634fac46063720f587c9ed4cbc2961f" />
+		<rom name="src\vector.h" size="617" crc="45e3557c" md5="61df76b3b08e1783a21cba694d22c9cb" sha1="c3ac9cf4107196d99f5bf4a0abcf427c046268a9" />
+	</machine>
+	<machine name="BlackWings (2001-11-13)(Aquaplus)">
+		<description>BlackWings (2001-11-13)(Aquaplus)</description>
+		<rom name="BlackWings.htm" size="10933" crc="306baafa" md5="12e201887c4101518b806fbe9b19bd67" sha1="a5456ecb449c2e710d348ec94cbff3c986c6ae7e" />
+		<rom name="bwings.fpk" size="206152" crc="9c8df4a1" md5="ddbb220012b653215567e5346b6d82d9" sha1="3bfb5e1befb9e77721ebc0d45ff9b36aa7e0bf6c" />
+		<rom name="bwings.pex" size="117823" crc="aec53062" md5="422c1b747f51485d1b7d7d1c255d56b4" sha1="c3e25a77410c94b70d5ee41cbd143c365c136742" />
+		<rom name="bwings.pfs" size="36" crc="a35b42a7" md5="093915dba4b7e65d8726f387849def54" sha1="c825e07f4949984ad487cc1816207e963edc4c06" />
+		<rom name="bwings.sav" size="1486" crc="14433180" md5="00ccc1a1fb109f91b632bb7f1dcb3d46" sha1="1fef46ecaa9c3800b520c0d539d501caaa0f8489" />
+	</machine>
+	<machine name="Fencer v1.0 (2002-12-30)(Kuni)">
+		<description>Fencer v1.0 (2002-12-30)(Kuni)</description>
+		<rom name="fencer.pex" size="3950" crc="cfbb15a3" md5="d416c30f056a7779439dee16a5e453b1" sha1="7040d088197a0254e5708b5ec967debd34ef0a54" />
+		<rom name="fencer10.htm" size="1768" crc="2193958a" md5="c84caf8d77f4e473b008cbef107aa222" sha1="530a2374deee47a585c403ec741ef3c66f3b26a1" />
+	</machine>
+	<machine name="FERILL for P-ECE vBeta3 (2002-11-08)(P.R.ism)">
+		<description>FERILL for P-ECE vBeta3 (2002-11-08)(P.R.ism)</description>
+		<rom name="ferill.pex" size="14299" crc="dd678043" md5="19c00fc849e220b60b632607c1249cb1" sha1="280f8307f1de757873050ad3e43197ecd9beacdb" />
+		<rom name="ferill.txt" size="3954" crc="285d04a8" md5="d7cec7e8066fa3efae4001ae0472d3c8" sha1="5cef51771fec2056a0f92ecbf1ab04c6f0a19c98" />
+		<rom name="mml\break.mml" size="558" crc="b3a03a91" md5="c748bf8d64c55c50d345e05559791445" sha1="282af9e237000180340279965b658a18eeb4de8f" />
+		<rom name="mml\clear.mml" size="334" crc="929d7164" md5="0d03fb256f700fde391722e78205706a" sha1="c8986f12a41f18e40a419f05a7145325e3c8c46e" />
+		<rom name="mml\ending.mml" size="1096" crc="0a59e2e6" md5="3d81f39890fb612452128fc7b7956d9a" sha1="057ee085f3e8a42628fd009df74fcfdeaefe2a07" />
+		<rom name="mml\main.mml" size="1220" crc="30c252dc" md5="237eb1a733e0f70ef47367989ff1ebbd" sha1="4625d832a7f57d27960aa50edf8c63dce2f34823" />
+		<rom name="mml\main2.mml" size="404" crc="87c57fd9" md5="d5301ab393f038754192c0a391ae3752" sha1="cf8774cb0a9fe20454c69e609c42dda32e8907fc" />
+		<rom name="mml\main3.mml" size="768" crc="f4c12f58" md5="260017f6c2e4acbdd0ec63ce1d4adff4" sha1="a826d5d58440514bfe84407607fb967203ef3f78" />
+		<rom name="mml\miss.mml" size="219" crc="d2d28507" md5="87dcf301615a814973d1a05d6e49e505" sha1="114084953e9b19c2e0615d0617c508821911ed3b" />
+		<rom name="mml\over.mml" size="323" crc="40c8de2a" md5="5f5fdc6e33de565420fb3c46e7653874" sha1="b6f90fae1345a6d4835a67333851bfcf6ff1c56e" />
+		<rom name="mml\title.mml" size="760" crc="8da3dbc1" md5="b2a29d475aea14fb7249b62b8a40c567" sha1="84d6f7c5b1fa796fccf72608381dd8c02a78b079" />
+	</machine>
+	<machine name="Fukuro v0.1 (2002-10-19)(ABA)">
+		<description>Fukuro v0.1 (2002-10-19)(ABA)</description>
+		<rom name="fukuro.pex" size="31303" crc="8147b140" md5="3e3430faa8119facf9579ea7897214d4" sha1="60f9bce66a8f09337823bb8375fc0629993e60be" />
+		<rom name="readme.txt" size="2402" crc="1b80fbc4" md5="b96b708a2a11e6a137567f491c5ffc15" sha1="a1e4f62d834a35a705c72b33a063d789d78c082c" />
+		<rom name="src\degutil.c" size="1857" crc="02921e86" md5="e99048a1e03cd2efed8f6539624149b0" sha1="863cb1a395ecc5ee5a08a8f30c40b6992b77f81c" />
+		<rom name="src\degutil.h" size="398" crc="a09238ec" md5="faa80302eca56564c3024dab68f00987" sha1="301a5b867b96ca53008b83461516829a30114194" />
+		<rom name="src\fukuro.c" size="2485" crc="beb233fc" md5="945708c11c7712030ddb5ec476551556" sha1="b9e43aad0b62b81637ecfe9acbac455589ae523c" />
+		<rom name="src\fukuro.h" size="562" crc="2e3645ce" md5="9e830a10e2928b08afccc4e02a900c23" sha1="495fb031173952e331233923bf421f55d2c38545" />
+		<rom name="src\fukuro_icon.pid" size="256" crc="3b5199d2" md5="d5c9afa20e48858912b6891db5e4364e" sha1="5b8fb4a5291d3a5adaeb65fbf6e94e3772461cac" />
+		<rom name="src\fukuroengine.c" size="6333" crc="e1820337" md5="b74933c6c75edb721517403108341513" sha1="ebf8d17e84f76f9ea2e8468949ca2201c7ab558e" />
+		<rom name="src\fukuroengine.h" size="831" crc="9652bca4" md5="91b3f8e171950da572ec879172f0d56f" sha1="0cb8e72142e93ab68e37992a0e2c2e78b29e8d72" />
+		<rom name="src\hero.c" size="5385" crc="7a8fcdf3" md5="45a8754819dff75901fe9aaa518a73fb" sha1="f740613e48ad2c1e6f40ecd54daa24a4aa79a155" />
+		<rom name="src\hero.h" size="362" crc="a14b512c" md5="608ed5aa31f2e7076c482f3339296f8b" sha1="85364a00c7439a438dcc544460540fcd411fa84e" />
+		<rom name="src\img_title.c" size="1676" crc="efe76fcc" md5="b1e7c3de859e66033eadb10aec281053" sha1="b770dba36cd6b899d666d4b266311e8b6da075f0" />
+		<rom name="src\Makefile" size="905" crc="8f57033f" md5="bb12fd4ebdc15ca499305d7f0a268e9e" sha1="d932b21daee203069bb869450f89d22224a8bf7d" />
+		<rom name="src\media.c" size="2784" crc="f5aa06b0" md5="c0142167ac0b1bc7d27a4b17e29d373c" sha1="c853d4f7b35722b6572019aa0c1b47ceac8a124a" />
+		<rom name="src\media.h" size="694" crc="5377cbca" md5="0e4aa76e20cf31071ae7fbbafe4bd69c" sha1="03a6fd4eca15210925dc10ec36dc81f7c67cc831" />
+		<rom name="src\se_bgm.c" size="82256" crc="9630bada" md5="34f9c0fca958de03bc299c2845bd7a46" sha1="7bf7c32206fede8c80b41c83844f97dcd863dce0" />
+		<rom name="src\se_hit1.c" size="8991" crc="4362c34b" md5="2cc038630424509ec05cd879304c4466" sha1="be2e6cba2c7dfcfdf0576dfd67b00a0f692d39ce" />
+		<rom name="src\se_hit2.c" size="9277" crc="70bf3afe" md5="50b8789f5e94240efa00916192145840" sha1="a4867749582e9ad51dca738e8094541a9ddb834c" />
+		<rom name="src\se_punch1.c" size="18343" crc="2c1ae42b" md5="abc302b1e4227899c28d6a72566a89b1" sha1="8c1e2fa56a1ddb9fe0f83e8e3e1ff76f198703c5" />
+		<rom name="src\se_punch2.c" size="13321" crc="0ad88f68" md5="78cb338bf0f2ce724215fdd00907a2e2" sha1="5ded1f6bd09b8eee6c8d990656adf9d9958ed715" />
+	</machine>
+	<machine name="Ignite v1.0 (2001-12-30)(Kuni)">
+		<description>Ignite v1.0 (2001-12-30)(Kuni)</description>
+		<rom name="ignite.pex" size="3783" crc="2d282d23" md5="7e37bd9c9d2eae9bd4c4e61bed3a24b5" sha1="98802d9901c08104e9784f888e1752ccf77c8d26" />
+		<rom name="ignite10.htm" size="1865" crc="8c2e858c" md5="fc41d8ff69053cf3f627821cf5298cef" sha1="6f256f6ec6b7a9506ecbf9aec021ae5201da2a5d" />
+	</machine>
+	<machine name="お嬢様は魔女ミニ (2001-12-21)(Aquaplus)">
+		<description>お嬢様は魔女ミニ (2001-12-21)(Aquaplus)</description>
+		<rom name="ojyomini.pex" size="63337" crc="959c8f88" md5="e53d01cf288c325c9b3305da7b3f8db4" sha1="82609798d22dd4357bbb08bc07e945da4300e9f1" />
+		<rom name="マニュアルのようなもの.txt" size="1558" crc="aec30693" md5="9452d6b817ba99532ceb5d7096e34560" sha1="2d818fd916c9f731e9e380fb2706c30414248825" />
+	</machine>
+	<machine name="おでかけマルチ (2002-04-16)(Aquaplus)">
+		<description>おでかけマルチ (2002-04-16)(Aquaplus)</description>
+		<rom name="fnt.pak" size="1443762" crc="9448b6a4" md5="688b2f9cbecfb681effc55323e94501c" sha1="d6696a459047cd0ecc93ffde70dffc80bdc7bf8e" />
+		<rom name="grp.pak" size="17046104" crc="1b0b5cac" md5="51971b920f8c5c59d479bbdb88bafeca" sha1="430b8b7e8838c9b431ce85480933120e76bcb218" />
+		<rom name="inst\odemaru.grp" size="172524" crc="8d0fc3f7" md5="da04899fb1d17f5e39a049bee5dd6bc5" sha1="91278b9b5dc81a821149a742e9daa785d1ed2dfb" />
+		<rom name="inst\odemaru.pex" size="87822" crc="c20cb52a" md5="3207cf422641418b04063bbe97e21490" sha1="1a4c7372617dcfa73c2656ce00e1928938a15ce5" />
+		<rom name="inst\odemaru.sav" size="4096" crc="c71c0011" md5="620f0b67a91f7f74151bc5be745b7110" sha1="1ceaf73df40e531df3bfb26b4fb7cd95fb7bff1d" />
+		<rom name="inst\odemaru.scr" size="24544" crc="909adba2" md5="451aa17714c77e1b36281cde39339341" sha1="10803471323d4c77cc0472c5fe6eb14c4a628948" />
+		<rom name="おでかけマルチ.exe" size="729177" crc="22cc5206" md5="29223288ecd1ea221003a543da9241c7" sha1="705620f2ed87b9f1c5bbb826c8a30b4e472210e2" />
+		<rom name="pieceif.dll" size="57344" crc="251a0922" md5="f59e864e541ffa67879cb387fcbf4ec3" sha1="90bbd7d6a91170395cbcc8e8ce5db6d730e08db1" />
+		<rom name="ueb.pak" size="5524854" crc="4c8e72c8" md5="d9e301ee5f22bcb092399e4f33560d65" sha1="e0d6047fe06fb5b254974fdbaeb99d7f80a60e9f" />
+		<rom name="よくあるトラブル.txt" size="1599" crc="e03bc34d" md5="7d9bb90d061413eef09d76e28a9c5488" sha1="28da028ae1679e814220819fbaa797ab39cef78f" />
+		<rom name="説明書\html\challenge.html" size="7126" crc="b1fd95f7" md5="b83927880d23208931385415de8e234d" sha1="1f0692741a786f2b2c7a40fbf19d952321494f0b" />
+		<rom name="説明書\html\frame.html" size="591" crc="567e92c9" md5="6d3415e64825dca623b488980bc1f50f" sha1="b01a78851d7ed3634e4e55e1deb21e88894caf57" />
+		<rom name="説明書\html\index.html" size="672" crc="f2a82d55" md5="89bedd470d1546d1be1a3b86f9a92eef" sha1="382711402c4bcac1acd55a0612e5f88323ae648b" />
+		<rom name="説明書\html\install.html" size="4910" crc="42d9cc6d" md5="21d0790659ce5bf2cc3aa7b3b1b24f0c" sha1="eb132b32b389db3ae1b79b5fb191237217344785" />
+		<rom name="説明書\html\item.html" size="6774" crc="917df11e" md5="81e18c7e9a661d390f3739e2a9b638a9" sha1="565e3dc9db691aed9015008b59a5177b33669bed" />
+		<rom name="説明書\html\lab.html" size="4876" crc="b10aafdb" md5="030fa5b99a0323d788ae27fff4f91b51" sha1="0681d34d5b5c1374e67b994ba289f85de9188d9e" />
+		<rom name="説明書\html\menu.html" size="2474" crc="cf14b55e" md5="121719cf8c7816ec0faef86f0535a5ba" sha1="ec2c84bfe3b3b9342726122076ee33791f42d515" />
+		<rom name="説明書\html\odekake.html" size="4244" crc="8ec3fb2e" md5="ebf38705033821990576f2af5c431182" sha1="90dab8fbe3dff03fe0111e058257eaa8124eabe5" />
+		<rom name="説明書\html\odemaru.html" size="5080" crc="ecc8638f" md5="1d958d8ea267a0430a467432c9621144" sha1="ad8a320bfbabad5ae1bfc3ca096bf02b436db68a" />
+		<rom name="説明書\html\play.html" size="4279" crc="f4bfd256" md5="81ae28480f2b4598ab32e5868e154b5f" sha1="f31964b608702feda820b3a95aeb24a1ae1fe2d3" />
+		<rom name="説明書\html\support.html" size="3387" crc="d53352be" md5="58f5fad623afce364292180ad823b126" sha1="cd1bffe0b2924525d830b57f5b0dd2e4e213e678" />
+		<rom name="説明書\html\system.html" size="5369" crc="a06075ec" md5="8fa232005eac46c2427b9569778f3030" sha1="bdbdfb84f5d689c8c529fef0e221e51bf782dfb5" />
+		<rom name="説明書\img\_menu_play.gif" size="6204" crc="5e3ee323" md5="ab652c65cb5c88df38582adfe83b6c5e" sha1="e1182acfa031015186d1e687f473b566c1d3f2a7" />
+		<rom name="説明書\img\aruki.gif" size="6589" crc="f3f23bdd" md5="323b7096d46f3b5f8cc4e58677bcbb63" sha1="3b645464049dcfb03199458d315209aefeaf6594" />
+		<rom name="説明書\img\back.gif" size="617" crc="a199e58d" md5="ecd91d3471e1498fa5a140a97203d260" sha1="9dc1348fffd72538870e2502f1d59307d61850ec" />
+		<rom name="説明書\img\bg.gif" size="133" crc="280d8d97" md5="9f060cd3708e997a7d837a88e720ee5d" sha1="0ce71cb7c246fa69d51d679c9c259798bccafb0b" />
+		<rom name="説明書\img\bg_menu.gif" size="1921" crc="49f2fb71" md5="8744b6c16d7a99293fac49e8aef545b3" sha1="c6eb9bbf8125e0b291409aaf8b3aa51485a8c2cc" />
+		<rom name="説明書\img\menu_chibi.gif" size="3786" crc="52ac7886" md5="b2c5405411b281c53dc3ed6034cb3333" sha1="e3f170a84b5f96383be66597e1fd028c5d33a896" />
+		<rom name="説明書\img\menu_inst.gif" size="3509" crc="2b963e6b" md5="a785e7809303e3abcb49fe9aa84f7974" sha1="c6d8fec882a25f6b0c3b266973e5eb621714b021" />
+		<rom name="説明書\img\menu_odemarutowa.gif" size="4006" crc="f411eecb" md5="68ce9824bcb91c6411c0720afafdad93" sha1="350716ed574e0972d12652c7bf8a27b9ee314dfb" />
+		<rom name="説明書\img\menu_play.gif" size="6529" crc="28c97686" md5="05dcf0d9fb4cae81ad4576b0d35ecaf5" sha1="0621026fdf9adb971beacc14841e625557a83b0c" />
+		<rom name="説明書\img\menu_support.gif" size="3328" crc="71f16adf" md5="b959652c8a1097829721ddbaae8ac560" sha1="1e0e41674cf8d6226c6f7a76054c717381552099" />
+		<rom name="説明書\img\play.gif" size="3639" crc="4e61533e" md5="71d37f19241a1853ddb978ca24820894" sha1="809959f494e51ef77ee825e9f915ed5ce47d1871" />
+		<rom name="説明書\img\t1-0.gif" size="460" crc="32159701" md5="986642db1a720e5fb9d8285699f5cadc" sha1="cf23f6e07cfb9d9f12d54f39decb3b4f5de0aadc" />
+		<rom name="説明書\img\t1-1.gif" size="372" crc="c6a6a267" md5="7648fefaf5db12d2729c77d7a3dcbfc7" sha1="666db856bfd1558c64b1173055745280a880a25a" />
+		<rom name="説明書\img\t1-2.gif" size="388" crc="572455c1" md5="f3a63544aac73c67b103b15fb596ce22" sha1="70195101408a66e7439c285cda0e773fa7b0e77b" />
+		<rom name="説明書\img\t2-0.gif" size="451" crc="7eec99a6" md5="4e2aa84fba5a2fc88132ee214a6e48c0" sha1="f361d7bd1ee0c27d8672182e2867d80393cc6035" />
+		<rom name="説明書\img\t2-1.gif" size="259" crc="aeb4fedd" md5="24aacf40c8b8f11d77ba084e43b1d3ac" sha1="b8e310ed5b0e8624a3acb18b6e34eeab0fc623f0" />
+		<rom name="説明書\img\t2-2.gif" size="262" crc="3b842a5b" md5="83e393786b9c82024b22ea5dbb278ff4" sha1="111b4a93e0813592a77622086c6426d5930c05e5" />
+		<rom name="説明書\img\t3-0.gif" size="462" crc="157210ee" md5="6ea8f8d1145a71aadf4ad55a0087d3b9" sha1="6116f74d482f418aafdb8e1bcf6c931d4592906d" />
+		<rom name="説明書\img\t3-1.gif" size="259" crc="50a3d496" md5="d59176f9343ddba6331687a99c0d574e" sha1="ad350ef92e189040383f4ca3d058ef169c288799" />
+		<rom name="説明書\img\t3-2.gif" size="256" crc="717d570c" md5="a220f954cd24eec991f7ce6201a11580" sha1="035cb054c512d6f7690424ce7d327efca718c0ee" />
+		<rom name="説明書\img\t4-0.gif" size="456" crc="a4d93692" md5="e9584e2866ea8385d36a400e9b7e2b25" sha1="dd7863eba9da3bef4dd6226283dd9fb3cedb0ab5" />
+		<rom name="説明書\img\t4-1.gif" size="263" crc="457c94b7" md5="e2362bd40ffa03898167e1eb9320f54c" sha1="469deddff21552435649180735ac5d43338ca695" />
+		<rom name="説明書\img\t4-2.gif" size="249" crc="f5904664" md5="852a9e9b66112094346a4787b31af3db" sha1="35424cadb5c544d2eff93c7e53659f0913235587" />
+		<rom name="説明書\img\tf-b.gif" size="61" crc="1a034bbb" md5="cd0554a5a5b86958c8d281a98cfd1772" sha1="5c645017bc5031b23ae67194e664590231484253" />
+		<rom name="説明書\img\tf-l.gif" size="88" crc="b9e5dbdd" md5="abf0514ae5805ae451c61b06094a4ef9" sha1="ed0d93a71d2d4329a7572f34deac2ee36f160ecf" />
+		<rom name="説明書\img\tf-r.gif" size="68" crc="f40214d1" md5="3f9784116eb05b45dd93e47ee99930cd" sha1="bfba840cc4b8ed71bd0f4497f3fa1283b8184108" />
+		<rom name="説明書\img\tf-t.gif" size="61" crc="855bd3f2" md5="748963a19ba1568c8fe1be394d360f33" sha1="90eac676a0d3641fa9337011e62af93a9d793b3a" />
+		<rom name="説明書\img\title.gif" size="9439" crc="c1b56dc3" md5="2ebaad94bdbeb2b88055b90406909a27" sha1="31167eb60ac0911c172c4d5076cad315919904a7" />
+		<rom name="説明書\img\title.jpg" size="27609" crc="e0964256" md5="de10539c46354f084fdd177fe887a644" sha1="043996bc78a184056d5b26052399ba7c39b5c6a2" />
+		<rom name="説明書\index.html" size="1114" crc="5d537dbd" md5="e562f83c1d379f2190331829e900d8f5" sha1="c65de9aa88e1a846714de9c2bba9c3d80c6392b1" />
+	</machine>
+	<machine name="Kudan v1.0 (2003-05-31)(Kuni)">
+		<description>Kudan v1.0 (2003-05-31)(Kuni)</description>
+		<rom name="kudan.pex" size="5306" crc="1078202a" md5="f233d1e7e067b2d96790be69a8ce30c2" sha1="bb96a8abaed3a798919aa7ae390fd600e5ad3330" />
+		<rom name="kudan10.htm" size="1965" crc="776ff9da" md5="a7c12f1a9dd9da4896efb14261885ad6" sha1="89a8f68dbb223eab9984572b134097aa3b6a4bbf" />
+	</machine>
+	<machine name="くるんくる (2001-12-16)(Hanai, Akiyoshi)">
+		<description>くるんくる (2001-12-16)(Hanai, Akiyoshi)</description>
+		<rom name="base.c" size="3132" crc="44244631" md5="a5483c2fad2e5ff6ebcd04abbb2fb205" sha1="a8353c86194cb553ddfb9942a6498f357994c798" />
+		<rom name="base.h" size="1217" crc="d943a06c" md5="4db1762194624b1f50c928c0b704b0ff" sha1="4a88774f83e677b040ac8b2bfa44492c180da291" />
+		<rom name="icon\icon.bmp" size="630" crc="8811e763" md5="188b6b35799bc1e8e8288ceeaa1ed9fd" sha1="1c0b87a912ade331004937bee6b7790aac84f6c9" />
+		<rom name="icon\icon.pid" size="256" crc="48167334" md5="95d5386e260c8df51fb2f4c9823a9e5a" sha1="cad671bfd4dff57b37b156e52cbf082a8de20231" />
+		<rom name="kurun.c" size="10051" crc="cd40c640" md5="20a9f901239eb94155a8fdd40d354b4d" sha1="71280f318df632b0fbbcab1653914aee4bcd2a74" />
+		<rom name="kurun.pex" size="7893" crc="721bd7d4" md5="99975fcc449bf88ee187bef2f25f4d93" sha1="d84b4b54d28d060f4ba40215192873ff7b7cb6a8" />
+		<rom name="makefile" size="912" crc="c752b517" md5="7f72b4b43407ede1d2fb89c2b6668b8b" sha1="31f5970475e52e79231e8522784be04589e4d118" />
+		<rom name="pattern.c" size="17142" crc="548483e7" md5="9abb2d2691bd9b0759bc7bae8a24f2c3" sha1="b2997eb7db679cf026900cc6dbc5b29682035948" />
+		<rom name="pattern.h" size="190" crc="e4b6b175" md5="7d966b70cd4525c7fa90d58977011835" sha1="fc93a6808094c38e85e872052d721e21308f5f15" />
+		<rom name="seq.c" size="4641" crc="9c3c692a" md5="1aeccae0f554a10870f1524abad57d4d" sha1="a6bc2dd553e0187f099d5c769e7f948367dc58cb" />
+		<rom name="seq.h" size="195" crc="43d40359" md5="dab47c10217faa1e36c7cc64d2537a35" sha1="c65d03eb570d4292dc745f7995d403b02f9f8df1" />
+		<rom name="seq\Kw14.mml" size="1312" crc="419dfe5d" md5="af98ac510f8ef91e31e6a1a7c8bd9822" sha1="9eee304e8cba9dea1260837cebfd7d3a22a74a3c" />
+		<rom name="seq\Kwclr.mml" size="306" crc="7984ec0e" md5="e85e3f8a1762a33fce8cc5af34f1bd8b" sha1="e9c91d1ae19f87e6813955080490e71fbcfd403f" />
+		<rom name="snd\i_DEFSND.h" size="1382" crc="ef728a78" md5="dd0b1063e87c4161b6f27c78c0f21a40" sha1="7f34e8f7e28f8c8b34377148a56ebfe0f86df27d" />
+		<rom name="sprite\back.bmp" size="5750" crc="f4a764b0" md5="bc766dcf42ad0ca8b4fc85226cb95fc4" sha1="85ea27c6d55b8d571ad1c928834314faf921b039" />
+		<rom name="sprite\kurun.bmp" size="2550" crc="b7be2294" md5="1ee5195de20cc32e3ee7fee32c87f3b0" sha1="44e4b14c70ef09cd3b80ee32b0ef21c586c8dc8b" />
+		<rom name="wavetbl.c" size="877" crc="de7992f4" md5="5955f13f358a7ceb6335f050393cb706" sha1="2e0069325c1eec07bbd726f7d44037cd1a659dc3" />
+	</machine>
+	<machine name="くるんく・るっぱ  (2005-01-06)(Hanai, Akiyoshi)">
+		<description>くるんく・るっぱ  (2005-01-06)(Hanai, Akiyoshi)</description>
+		<rom name="readme\ruppa.html" size="3346" crc="59bf6d89" md5="4e373c3e522bfeff2d400c3ae685f135" sha1="f4349a4a2ac8180d2477b76e6a854aa89fad8a9d" />
+		<rom name="readme\ruppa.png" size="1653" crc="1ae3136c" md5="baea39cd51a48aa0ff5b738d39c4d45e" sha1="40a326bdae5a5788bf89892df08a312851ac2bf9" />
+		<rom name="readme\ruppa01.png" size="365" crc="c4edb6f2" md5="fba0242375f02d1db5f65de79ff78df9" sha1="2b5fd34ec5020e56bc70dfc668c1b60366413695" />
+		<rom name="readme\ruppa02.png" size="381" crc="cc40b4de" md5="51356c12745b3c5b320cd93186d7ce3d" sha1="24b53d0bce7b025538e03387475a8f637542581f" />
+		<rom name="readme\ruppa03.png" size="488" crc="50ad5954" md5="3d9320bfd495102b38881bcf592daf8b" sha1="0527fa1ba260490e389b480b09f54189d1c665cf" />
+		<rom name="readme\ruppa04.png" size="391" crc="f5c5f435" md5="77375e9e26335b0b32ebdc27163ab89e" sha1="d59144d44b9629aae84eb6c2dd058c48375f1295" />
+		<rom name="ruppa.pex" size="22563" crc="066e4e26" md5="7bd0cb3e9809ac4fc7bd41ed6b11d04c" sha1="bc8c01c1ed31c3e0a2fb4b0c3d24fc9e87a887a4" />
+	</machine>
+	<machine name="はんてーな (2002-01-20)(Hanai, Akiyoshi)">
+		<description>はんてーな (2002-01-20)(Hanai, Akiyoshi)</description>
+		<rom name="hantena.pex" size="16677" crc="8938f718" md5="783faa6d1dc70f1e63b8bd75c81580e8" sha1="cb3c49194fc5b9aebe9b713ad1264733f09525fb" />
+		<rom name="Source\base.c" size="3236" crc="08b8ee60" md5="d18d5984c703f7a2c7517e798953ee9d" sha1="8f40792f20ead66e7a73dd6fadb136c2cd92866e" />
+		<rom name="Source\base.h" size="1271" crc="a38a4672" md5="2443cde284177abcc0eac435a144e9dc" sha1="448c84bed67a32be013e0a14e8b66f79175f7ca6" />
+		<rom name="Source\hantena.c" size="9478" crc="bb6eba38" md5="334f1aa2f5d0b9613521baba6dfe6341" sha1="549d66ca2d3fa683aeac815a0ecf7c2c9e425ac5" />
+		<rom name="Source\icon\icon.bmp" size="582" crc="de9632bc" md5="cb1a87b1e01315a23f978fdc3f45b3d3" sha1="f331cdb8ef73b82260ed3ad62b7ebf275f5c4c83" />
+		<rom name="Source\icon\icon.pid" size="256" crc="c82bd5c0" md5="29fbd6ca73f146d88834d8095aceb6bc" sha1="4eb2dbb77e7c9916da0323d0b360187e2bbbce81" />
+		<rom name="Source\makefile" size="922" crc="d0bc8742" md5="5c53a0d5d9356a3c466b14928f074416" sha1="e713faa22ae9adff39afa32a22a10fe789c403b3" />
+		<rom name="Source\pattern.c" size="50043" crc="7f63c567" md5="b2cabf7fd0c880bbc7afd1a24faf41be" sha1="142487f47ef6a2a387787eead8821fa947e557e9" />
+		<rom name="Source\pattern.h" size="247" crc="3f7a2163" md5="85991ba0a47eaba6a532f542419a7be6" sha1="7e9d386425a40efdf924f3a0b20055f3d3ea4f80" />
+		<rom name="Source\seq.c" size="7124" crc="e071bbb5" md5="d2be0c81cd6938fde1a8e0633c54091c" sha1="8528caa77267fa3434ae06f49f4db0881fd73d09" />
+		<rom name="Source\seq.h" size="195" crc="43d40359" md5="dab47c10217faa1e36c7cc64d2537a35" sha1="c65d03eb570d4292dc745f7995d403b02f9f8df1" />
+		<rom name="Source\seq\kwclr2.mml" size="339" crc="c78b2eff" md5="04a1edf227a5556cc97cf0a6e6db8577" sha1="62fcbdf5daa1926300f4db7c51eefb8985cc815b" />
+		<rom name="Source\seq\mura1.mml" size="2405" crc="b824e593" md5="4bd99adbe6cc7ca36ef5a9e3a4c7b9ee" sha1="2754ef71b651362feeee10c0e40df4f6a7dbeee8" />
+		<rom name="Source\snd\i_BD909.h" size="9543" crc="3a52d464" md5="9c0b47ac83c8beaa7f96016de2f885cc" sha1="51d9f1fe384d3c139ef76b16736a5615b0a8bcc1" />
+		<rom name="Source\snd\i_DEFSND.h" size="1382" crc="ef728a78" md5="dd0b1063e87c4161b6f27c78c0f21a40" sha1="7f34e8f7e28f8c8b34377148a56ebfe0f86df27d" />
+		<rom name="Source\snd\i_HC909.h" size="5071" crc="c77b1bde" md5="1d1b441c27a920e8b2f3762e673d53da" sha1="927c98eb4faf59881c7846e7d7a04eecf4605204" />
+		<rom name="Source\snd\i_SD909.h" size="6916" crc="3f15ac32" md5="7d59dabe672a3b3f39ba3c87776bf4f4" sha1="736094208194af4fc0825288118c1359ac4b77f7" />
+		<rom name="Source\sprite\hantena.bmp" size="1610" crc="07526daa" md5="6051d01ed1a51ab9c410694fb9223519" sha1="37e1b3c70415a525334de1e3582da43aca9c9f73" />
+		<rom name="Source\sprite\pic0.bmp" size="5702" crc="dc65d3e7" md5="15f40cb02c8f03627b452c1bc77b31a0" sha1="729c00f233a3428917f2902eaf11b4371099fe08" />
+		<rom name="Source\sprite\pic1.bmp" size="5702" crc="b9645348" md5="994b4f3c13ce936ccb624506de6fcddc" sha1="1c1f88e23ee05df5310480026a54e27349337c90" />
+		<rom name="Source\sprite\pic2.bmp" size="5750" crc="01ecb441" md5="183a2ec2a64385c8ac7d1102a532bbd9" sha1="ec99898c6a3d843d55897ad08e96d319458b9952" />
+		<rom name="Source\wavetbl.c" size="606" crc="3a101ca8" md5="62b32b325ee9ba229d83f95b0c9fc5a5" sha1="493b739f650af405f9d940233392281a576697da" />
+	</machine>
+	<machine name="P-山水 v1.1 (2001-12-31)(Kuni)">
+		<description>P-山水 v1.1 (2001-12-31)(Kuni)</description>
+		<rom name="psan.pex" size="3725" crc="56770e90" md5="dc5d445ef8cee089ca43fcef0fdab457" sha1="8f11d2ce25c9e7ce9efb6fc5a30a8a85e1bccd95" />
+		<rom name="psan11.htm" size="1133" crc="acb7d021" md5="1b84c9a5b96f3d93d75cee6a74cadcd9" sha1="8176140f213998e3f720ad7ef839c0ab21ebeaae" />
+	</machine>
+	<machine name="Place of The Perfect Planet, The (2002-03-28)(Golzy)">
+		<description>Place of The Perfect Planet, The (2002-03-28)(Golzy)</description>
+		<rom name="遊び方.txt" size="3027" crc="4f4b61af" md5="b403ac08165cfb47a3ebab0625d4a1b6" sha1="a35631527cdc6aecb27bac3148cc9b57ffdf9ae2" />
+		<rom name="ppplanet.pex" size="28035" crc="3cb9715e" md5="fdc6c18c0f7dd2dc13af8fdcb99c2f99" sha1="828b231a3e96e0d5bad8156928dec2210183cc70" />
+		<rom name="ppplanet.pfs" size="26" crc="3c81ae45" md5="715e812dea3abadbc31e55885cd789b7" sha1="1f2cea4c967decddc23e99172cab51f6fc211cbf" />
+		<rom name="ppplanet.sav" size="4096" crc="63de9bc5" md5="f64ad5249e46db1148f7bde818ac79c3" sha1="fd959f88854e095638f416790fad1fa080982af1" />
+	</machine>
+	<machine name="Qulipp for P-ECE (2002-05-24)(P.R.ism)">
+		<description>Qulipp for P-ECE (2002-05-24)(P.R.ism)</description>
+		<rom name="qulipp.pex" size="11810" crc="fe1f16e5" md5="9b7418d83177d5767805e83d9c264611" sha1="da3fbe53c3f5688a00655a39706ed543b04a8680" />
+		<rom name="Qulipp.txt" size="2838" crc="b09b9762" md5="8f094c5acbdb411845cecd738a3c461d" sha1="f288833a2fec087f7cb383fc92f8ed210fa3559c" />
+	</machine>
+	<machine name="Re_ W32-Badtrance v1.0 (2001-12-22)(ABA)">
+		<description>Re_ W32-Badtrance v1.0 (2001-12-22)(ABA)</description>
+		<rom name="re.pex" size="196735" crc="928e1353" md5="39b06e94c6932fad2c73624ab16f2afd" sha1="5ce86fa987037452ad5507065c4064caa0ef8818" />
+		<rom name="readme.txt" size="2671" crc="7cec0174" md5="990ce060cbe2ba5f01a20c968498cc79" sha1="86c293861e0ca0f478fb5a023bc613984485a845" />
+		<rom name="src\attractmanager.c" size="1143" crc="c14f1f22" md5="b9682a713da6672dbee051115e679d35" sha1="96f33758b1303fabca05fe9d94426709e9b2990a" />
+		<rom name="src\attractmanager.h" size="257" crc="1d3d61b7" md5="499acb3ac3e75e40b800751d2a90b7e5" sha1="ecf468c61dcc26661b3d336172532cd274da4725" />
+		<rom name="src\bgm1.c" size="164252" crc="87f4e8d5" md5="06839b0c724e68370c35c508d6340da3" sha1="5103704fa4d688b5a666d5e6f1204662c1786740" />
+		<rom name="src\bgm2.c" size="164252" crc="b4e9ec7a" md5="26cacbdaa55b182375f6d95084fbb4dd" sha1="5e84f13bf71072774c1e2bfe9ce84fc185c45dfa" />
+		<rom name="src\bgm3.c" size="164252" crc="d2c67063" md5="d452aee4b290e8ccaf295930809df371" sha1="5ecd02a1a2feed78863dcd0bf3f0536d2d4172d2" />
+		<rom name="src\bgm4.c" size="164252" crc="c589c92d" md5="15791be8a17a76a730f616865a136205" sha1="c6df0734a52217b61ac7d9bc66754e290294205a" />
+		<rom name="src\bgm5.c" size="164252" crc="4507c543" md5="bafa985c7a10e25d1bd6db136d4f1c58" sha1="9dbb086901609d76fe9a85392c54abe9a7d71993" />
+		<rom name="src\cap1.c" size="21839" crc="3876f960" md5="87b1c87fdc52c3f6e78eba753141957c" sha1="f4633af71fc1c607d68c44569b4b63a8e665bd63" />
+		<rom name="src\cap2.c" size="21839" crc="2ac075fe" md5="e9ad05f8d0ce1c51a282a13f55740c9b" sha1="5fcbd09c85cc4845bfd9d7e50c5fc200234a830f" />
+		<rom name="src\cap3.c" size="21839" crc="67e803b5" md5="38abf41a0b0750a669031e2f2674b1cf" sha1="40836d3591e295d2248c992b440f6010e9ba31be" />
+		<rom name="src\cap4.c" size="21839" crc="076792ca" md5="dc9b8cea886051f7f53589be5bdd187c" sha1="b5c080de04371ab41be060abaa5f12e89aac8e32" />
+		<rom name="src\cap5.c" size="21839" crc="69f9e26e" md5="7fefb162ee3e15277c1971daa218465a" sha1="00329675b0246603128c71d708afac66dc4b75f3" />
+		<rom name="src\down1.c" size="10237" crc="1d328bc1" md5="73efd92a9734da84b3203028fcf56194" sha1="eac84fa2843da5ede3959f94af4e452a7ca1fa07" />
+		<rom name="src\down2.c" size="10361" crc="ba52a99e" md5="582a86ad6d2de458455fd7d9f2de0171" sha1="49a17c2057b905f059c1940250130949a5b946cc" />
+		<rom name="src\down3.c" size="10361" crc="f8d083e9" md5="eaa3d8ea7789cbb35365ae6da18eac25" sha1="2be7d1c60f2706ea9a0b613be8341fc33be3b32c" />
+		<rom name="src\down4.c" size="10237" crc="6f0482ad" md5="56857fa62e57df6a8a143deaad3a6ef5" sha1="522068bc2b1d6d9b9ac3691a7c66b987c23996d3" />
+		<rom name="src\eig.c" size="309" crc="372b0a3c" md5="c103a9fd3141b3826592d9cc9a01c62a" sha1="1a240ea4823f2436884969c60702019636fb3c55" />
+		<rom name="src\fill.c" size="164252" crc="43c991a3" md5="9350486daf8bba1478379393f1d1927a" sha1="7570eb41366d2c202843c0ee6613090612195016" />
+		<rom name="src\fiv.c" size="309" crc="8d7d137d" md5="127e4bb4b4f01a18f2ddf0d0fc184eb7" sha1="1bc06db6a2d6e0c12bca9169481d1a9072663e0d" />
+		<rom name="src\fou.c" size="309" crc="76495051" md5="a24a0dd07a1aec80752014ad1b2ff734" sha1="87873527d72b330cb81538fab58c2ee1864f4d7f" />
+		<rom name="src\gamemanager.c" size="18905" crc="5003209e" md5="a83555d6a6ebe5ff140c24ef97eed1a9" sha1="5faf66c688d676f7fd7158438f65a0221564d416" />
+		<rom name="src\gamemanager.h" size="1204" crc="4ba23dc9" md5="6af698bdfd7e65bcf71dfa3dfb407cf3" sha1="9530df4cddd939637fea04486be6a03d592d117b" />
+		<rom name="src\gov.c" size="1664" crc="7f7ac7c8" md5="51189c6c75a6a7b740066fc9e7490f67" sha1="55c9fc126938caff23b6d5d81e592b68d51dbbdd" />
+		<rom name="src\hit.c" size="51890" crc="0723e8bc" md5="56a27a43ff59d1d97e129d67243e3118" sha1="22a8c18f14d21a2c63486abdf197b8176e794959" />
+		<rom name="src\kick.c" size="1440" crc="5b83daaf" md5="0d8709079d257e4320d703aba5b050c8" sha1="41d723db5ac80503a80d57c0880717a0c0777314" />
+		<rom name="src\kick2.c" size="21615" crc="92526238" md5="9751692b8fe214f0a3f7e4fa87bcaf3c" sha1="2c8d6630b49b2c2a1bd7ef26c080dd3e848ba943" />
+		<rom name="src\makefile" size="1064" crc="b16ee9b9" md5="f334a24969fc016c81c773e2a2f75ed3" sha1="6b0821f8c8bd1aadaa370f5608d34e45ae019f49" />
+		<rom name="src\nin.c" size="309" crc="59f70cd9" md5="787fe5f42aeaafdb84d5ba1126728db9" sha1="89fe69084a4a0a2a2d59a3d5d2372a8ca7aac1a6" />
+		<rom name="src\nlk.c" size="680" crc="7bcd2d3d" md5="7140c38695b0b1dfac3e215c820b663a" sha1="ea3d9a12d4555d2836b4293ad4e113df86add2a8" />
+		<rom name="src\ol.c" size="2154" crc="a5dd7ca0" md5="f143302dd58b22585982fa05ace46945" sha1="c0373b0958718ec1fe5505cb52687b6cf941c71f" />
+		<rom name="src\one.c" size="309" crc="d59f5fea" md5="42b166967a3ef6ab936af1d505cba4d8" sha1="59e04c9a92b3b0f8915201b8f34f5647c72c0c6b" />
+		<rom name="src\pl.c" size="307" crc="9c73db50" md5="0718dc64a495b615e406ffa487181015" sha1="9d41be483c70230543b4d27d22c0ded2e5407c98" />
+		<rom name="src\re.c" size="5033" crc="43428c69" md5="63acea427f906f6430e46e32ffee8273" sha1="15d780ad6c8978cc9a4a4fc6f33067ba71656e7a" />
+		<rom name="src\re.h" size="1083" crc="f64fe5ca" md5="ddfc10c8eb78c3756ed9318bd4958744" sha1="c020c12ef958cbb49d3e241e84fd46d4ffc8b8b5" />
+		<rom name="src\re1.c" size="371" crc="cd3dee0b" md5="e1b7bced38a64d7f21bcd62d2ff3805b" sha1="b6ae25090628c5a5f5c976f2bc56ad3d1d49c528" />
+		<rom name="src\re2.c" size="463" crc="6800063a" md5="9d3296b0797c71af0a2c9ace33f18891" sha1="944959e9aec854f97239b95c3debe1730d99f323" />
+		<rom name="src\re3.c" size="648" crc="a28666db" md5="248ac25ef8f9e5a701d1349a9fb13d11" sha1="17700f129e71702edbe897cf99c45a5356ef1388" />
+		<rom name="src\re4.c" size="1048" crc="e58b6bd7" md5="7d3c777ecddd113789e38e3e98b3040e" sha1="7dfc73bb036baa50d3450490718a98d8cba0f9dc" />
+		<rom name="src\re_icon.pid" size="256" crc="cf579252" md5="442cafd650bd4aa29c4920fc13100cd3" sha1="b579bb27630dc88f8b0672be2e50fc009e3e37d0" />
+		<rom name="src\render.c" size="3025" crc="104a96fb" md5="c9c6bd0ef584fd8499054ace3d6e9dde" sha1="779e8fcc6bf642b9f81f18ba5b4f40ac496e9c5d" />
+		<rom name="src\render.h" size="308" crc="0159f8ee" md5="19cc3dfe18e73940e5f945ac7742b0eb" sha1="0c268b07b43d43db945e7ffedf3591fca814114a" />
+		<rom name="src\score.c" size="930" crc="6fef8072" md5="e3248f53f95d8a41ace3d2f3701bc743" sha1="2bf2441176c9544c408deafd470847b7b6e6747e" />
+		<rom name="src\sev.c" size="309" crc="450ff955" md5="595c177e520c8a69186594e453ea1dd8" sha1="02f8ef1b7afbe0ee9f9cd9e4fa240c3351db6eed" />
+		<rom name="src\six.c" size="309" crc="4fdaffa5" md5="eaabc76bf35fcb3b18f6635e0e7eea85" sha1="7b374cc852536dd6289beab6863a1c47567dc03f" />
+		<rom name="src\start.c" size="1668" crc="c64a403b" md5="b0350f6ae21944b9ec36fa64f56078a9" sha1="8ae204bcaf6c9fb875ca39ccb34f68a02b3e490f" />
+		<rom name="src\thr.c" size="309" crc="24a4ddb1" md5="dc10c0e81a3d928f70d6fe80364fde2d" sha1="e5eaf25d6485a84d77f6f0f0e960a397d8af7f17" />
+		<rom name="src\trg.c" size="680" crc="75466382" md5="a17a2109d4dc838ef47ad6bfe48c6301" sha1="da797cae6243357cbac1fcc9fbd0bad73f031bc0" />
+		<rom name="src\ttl.c" size="11013" crc="cd06fce7" md5="556aa07633480fd605aea35a6ac011ce" sha1="1634b35056c0b7ad68aea108ffab142e96a2cac7" />
+		<rom name="src\two.c" size="309" crc="461e9688" md5="0299c33b3393b8e261e6560f881c1678" sha1="b16e4ffea951a23e8fc3b83985a1d8071eeb9905" />
+		<rom name="src\vector.h" size="286" crc="8f745fa7" md5="8eeb3a88f6e62a208dfcac5199dcf4f0" sha1="dc5c66183664d7926017e851935b78418ea3fd77" />
+		<rom name="src\zer.c" size="309" crc="f9321862" md5="ea25872b891a608b591666f2581445be" sha1="1a05a0a49a3dfc017636096020a6e18ed5368881" />
+	</machine>
+	<machine name="Sokoban for P-ECE (2002-06-18)(P.R.ism)">
+		<description>Sokoban for P-ECE (2002-06-18)(P.R.ism)</description>
+		<rom name="grig2001.psb" size="33600" crc="0fbe080a" md5="cfdc832ef29f68e550cc0b62bb70f3f9" sha1="f9d294be6b31b8fb9288e9be353cd4745c227c53" />
+		<rom name="levelset.txt" size="538" crc="873f380f" md5="b895af001c57bf47f8199ee7976d73a5" sha1="9cd4751636de06dc66ace7e6be69687fa52a4a0f" />
+		<rom name="sokoban.pex" size="4159" crc="84915b29" md5="34e514bccbd55c27b52d60f293432b15" sha1="0657b55ac3bd9ee5bf34fac61891a14bfa39a35a" />
+		<rom name="sokoban.txt" size="567" crc="8d9af1e7" md5="9e25cc590d9c7565f6a1985e04824a55" sha1="595b8927ea28729e7fa99a183ffa3840aa04c5fe" />
+		<rom name="xsb2psb\screen.1" size="245" crc="88cf72b1" md5="b7ec39e89dca344c2324816f9a3b36c6" sha1="a450629875b14dbd385675acfc9167090b0f1118" />
+		<rom name="xsb2psb\xsb2psb.exe" size="115201" crc="178d77be" md5="7d200ad2246c51d28e3e308e213a2f65" sha1="f7865dd09d980d9eaaafbeaa259bf0203c738f95" />
+		<rom name="xsb2psb\xsb2psb.txt" size="3362" crc="393dd73e" md5="43ff1924e491445471298ffb0ae9a05b" sha1="378008f3e1ff9b29dc8fcd2d7ac19d9bc0a2ea36" />
+		<rom name="xsokoban.psb" size="30240" crc="c8f64bf1" md5="3d3f91c17f457a79b7cbc3b2525b9a47" sha1="4221534dd9fb6eaa8232752999da0edfe67e7da2" />
+		<rom name="yos_hand.psb" size="18144" crc="3be14956" md5="6e840ff51121918f3eef6690e5070a43" sha1="65273c3ac727a5e13255537f527bfa2a4c8a6df5" />
+		<rom name="yos_week.psb" size="17472" crc="1fe40831" md5="69bf685aef84c42f0f7f6fb4626330e3" sha1="7c2504cc3aa9d89c71916d818e42ced95a2e1db8" />
+	</machine>
+	<machine name="Speed Barricade v1.1 (2002-03-14)(ABA)">
+		<description>Speed Barricade v1.1 (2002-03-14)(ABA)</description>
+		<rom name="readme.txt" size="4214" crc="ea7aea50" md5="b5209e830b1e968f4cd143c2f815aad2" sha1="3323b1eea39a2f68b6df04b0bf09ce8ab422cfab" />
+		<rom name="sbrg.pex" size="106293" crc="6024cf5a" md5="1aa1600ebb9f726c95a5487196d96fbf" sha1="052706ff2b3d9b9b3111224ca6fe279ca9c2d5f2" />
+		<rom name="sbrg_live\env.bmp" size="196664" crc="629080d1" md5="c22386f0c0f1f66fff5a342e917f0628" sha1="d167bf91deb586295458b5c8ced697aa3e23fee8" />
+		<rom name="sbrg_live\live.bmp" size="49208" crc="ddd3d34a" md5="fa6e42c87896f3c72d2ca617637b9a7c" sha1="2e942cc85154a6c59ad14d2f43928613f78c1a65" />
+		<rom name="sbrg_live\noinput.bmp" size="49208" crc="82d96329" md5="bd5e9f4443abbcd6fdbbd381f29e75e5" sha1="ff9126eeda470a82a5f8bc0b9967976d709ee68d" />
+		<rom name="sbrg_live\pillar.bmp" size="7736" crc="f260bbba" md5="41f44f5ca13355db53f726d779332f43" sha1="c21350e9a8dbce5cf9595aed6d9e18a2d27c576b" />
+		<rom name="sbrg_live\sbrg_live.exe" size="301271" crc="594b58a4" md5="c26aa9b4455357b7145f3bf17d28e4f8" sha1="c0d48295c12a312b6091bdfd8f5ac59ca0edeff0" />
+		<rom name="sbrg_live\SDL.dll" size="221184" crc="85dec421" md5="348dbf2a3f2c877bb248e1e5f6d38996" sha1="780a5b39bf82718baa7007bd0456228eba4c9ea8" />
+		<rom name="sbrg_live\star.bmp" size="49208" crc="3e071536" md5="c45373efa8931dda0bc9f1f79d830d79" sha1="b4095c10ec6962d99cc4dae9badb768eb0bf7dc4" />
+		<rom name="sbrg_live\tile.bmp" size="49208" crc="4ff74e3f" md5="39148d57668d0b08a0201e0b9b18bfca" sha1="3007198e7c26b6b86dac704495dd2bf3dc5aa213" />
+		<rom name="src\sbrg\gamemanager.c" size="20866" crc="d1915c4c" md5="d70640b28356384ad1a4bba1e366ac59" sha1="5fc46521767d2796e0944a43a9e36c2cbabc40bc" />
+		<rom name="src\sbrg\gamemanager.h" size="856" crc="426f1d0f" md5="092298f4140fc0d0926aa068f41c8c17" sha1="2d7e26bea16e5a07eef7a600ff359abe1d2a8d57" />
+		<rom name="src\sbrg\img_beat.c" size="690" crc="dd55be67" md5="203bf0b9e729393ef2b10686f8c4ae77" sha1="8eb6e5523bbad2a41ace121f3d23ea5ee7e1fb9a" />
+		<rom name="src\sbrg\img_eight.c" size="445" crc="33285424" md5="e277c4e107b49f9a7c9a497a8f310e16" sha1="369c4f597719ba2c10d8c0b689c90ea16e5a157e" />
+		<rom name="src\sbrg\img_five.c" size="443" crc="e1f97c54" md5="940a3f7a1e21a9c079f9afa718527d76" sha1="13f2617ae23eee29adda55b60868d5d4e2f27778" />
+		<rom name="src\sbrg\img_four.c" size="443" crc="0d594aa0" md5="0f06d598c0150711765591ac754bb7b9" sha1="063898f73353f39666424766af896569d5729c4e" />
+		<rom name="src\sbrg\img_nine.c" size="443" crc="de6272c0" md5="5dabe48f3364e7674d446ff2c51c3ea7" sha1="4580c6f51d2c876455d7d6e0794ec1fce18d382d" />
+		<rom name="src\sbrg\img_one.c" size="441" crc="636021d5" md5="e0ca7cc5201a38245dcf5b5722482591" sha1="07e904a6135db02c2d3c04c5184467a8b1193bf3" />
+		<rom name="src\sbrg\img_opp.c" size="810" crc="9f04fcd2" md5="c0f9ded8dba4f2f0a703bcb65cc93cae" sha1="0a165f75cd7c96f2adb04ef07b1c097a78bf3803" />
+		<rom name="src\sbrg\img_seven.c" size="445" crc="370c0c05" md5="745ba1ae137ca22662635c67770a2310" sha1="9f5dadec1bfc2afce057b01267383e87de52d4ac" />
+		<rom name="src\sbrg\img_six.c" size="441" crc="fd60cba3" md5="0545c7508ae215c14eadd3a3325f0f60" sha1="afabdab71ddbaf0b0b11d97ef75dacd22d2154ba" />
+		<rom name="src\sbrg\img_start.c" size="938" crc="33a54d3a" md5="1b7383be306e8ae18084ac8ad7907038" sha1="0e30b8b19a57c23fa0333d85d5c8c5e5c9985482" />
+		<rom name="src\sbrg\img_three.c" size="445" crc="922a86e4" md5="f0423caf8e6e61205f8394eabc032cc6" sha1="715b4390900ef3d62de9b2b0c9ef236e93cfd7c8" />
+		<rom name="src\sbrg\img_title.c" size="1184" crc="5ac17fd7" md5="f0146963320f50940bee3a377d3152a6" sha1="b9c290b48ff85d15898302e28e8ca588cf3067ba" />
+		<rom name="src\sbrg\img_two.c" size="441" crc="008f6012" md5="7f69bb665432c185eaae932eb728b2c1" sha1="4e1c6eea559b769296a40ddd3adaebd10c496dd6" />
+		<rom name="src\sbrg\img_zero.c" size="443" crc="07fd9dea" md5="cae0fbf86b502286ee11faf348a68c2f" sha1="679140598e345c76499628eee87d6a9081ac47c4" />
+		<rom name="src\sbrg\Makefile" size="1129" crc="8e6fe4c4" md5="e203f6a6ad6405ef59bc686c34632215" sha1="3f6adeb5f14c02749d2596eb16fe6a5eb1c87342" />
+		<rom name="src\sbrg\render.c" size="5376" crc="f376aca0" md5="f83a2926ed7dec5c21b7365e7d8c49cd" sha1="132dc17bec0a3bd25e9fd86b453c6609b4fe14db" />
+		<rom name="src\sbrg\render.h" size="605" crc="dde9841e" md5="f84ebab0737d17d1ea2f25fd93329134" sha1="fd3a5ca8022ec6f9815355825b782f8986a1e880" />
+		<rom name="src\sbrg\sbrg.c" size="3983" crc="a38b1384" md5="396052a6b41493e58b662a1e6f2639be" sha1="b81207354f582580ba49ac8ee3070fd3ffc412c8" />
+		<rom name="src\sbrg\sbrg.h" size="947" crc="379eca62" md5="dc5a256445e3607b65ebcf7916cb1807" sha1="7342220ec276e67b4e7608805e72872c15738354" />
+		<rom name="src\sbrg\sbrg_icon.pid" size="256" crc="13ead01c" md5="4f7a169e93c28430664d33937d341416" sha1="6897aeadfaf08bc71b522317214da9f8698a41c6" />
+		<rom name="src\sbrg\se_bgm1.c" size="61758" crc="e3e4372c" md5="9f2d899c8fbe0c9211958f2ba49828cc" sha1="fd768d403e94a14d0c3b68084158a6f7239e75a6" />
+		<rom name="src\sbrg\se_bgm2.c" size="61758" crc="0e9d4452" md5="3559b9859578126d8a51d3f75ffea591" sha1="435edc3fe94d3fd8f4d5fece1d1fc4311252e21e" />
+		<rom name="src\sbrg\se_bgm3.c" size="61758" crc="afe48d3b" md5="9553002e0cc30ffdd7f7c2d874bcdab9" sha1="07bb3a062a126cb1cc25a847485b9fb6bc8c1997" />
+		<rom name="src\sbrg\se_bgm4.c" size="61758" crc="57c09aed" md5="75f74b66230e325bc9f25d8f929278fc" sha1="d51a8dee2809c29bba90d86831f4d98d0fa14ef1" />
+		<rom name="src\sbrg\se_bgm5.c" size="61758" crc="ce8b0f34" md5="9c848dbed6305b401bdeb9d6d66ae241" sha1="8d3452c816f7131bdb79845d2a4b9aadddf8d276" />
+		<rom name="src\sbrg\se_bgm6.c" size="61758" crc="b2dd2c0b" md5="d8e73a5b8986c7908ba2456c226d17cb" sha1="4c8dd66169dc0b438f777d5ffe2ae9b387bce1e7" />
+		<rom name="src\sbrg\se_bgm7.c" size="61758" crc="01ed2ea7" md5="4b2f36b03ef90485112d7c1072ceaa70" sha1="a0cb6712be6de928ee73af938820d0ac89b1933a" />
+		<rom name="src\sbrg\se_bgm8.c" size="61758" crc="2fc0c9e9" md5="7b777f640f708fca0ab9b4999cd0877b" sha1="fabbe3ef5f618b15596a6044bf267830b3d207c9" />
+		<rom name="src\sbrg\se_crash.c" size="27893" crc="5261d31e" md5="1128b7baabba01cc7936916f8b2b1ef2" sha1="35874f7e2cff7e67cc5164124299870921802f85" />
+		<rom name="src\sbrg\se_damage.c" size="24883" crc="55ade6f1" md5="aff2599c18ef50bd0ea8de86e3a2ff4e" sha1="0d3618f1656a5216ffb26dddff7b616add3c4eaf" />
+		<rom name="src\sbrg\se_left.c" size="7269" crc="bd23c8b8" md5="4bfa5cd29bacd06804e77e4510e4b62c" sha1="084aa31143501e9d83298d2f165293ba2453e54c" />
+		<rom name="src\sbrg\se_right.c" size="7989" crc="4873eab5" md5="08a933cfb02cf1a069d04fadef09cbcc" sha1="debd27ea9e9af7627b3944fdc51880c3d3ad2a26" />
+		<rom name="src\sbrg\sincos.c" size="1906" crc="9e805606" md5="206f8f6f4f8cb65ef77f191ecc1c7113" sha1="217f0a53a31ae89cfc877a558ebe320a259234da" />
+		<rom name="src\sbrg\sincos.h" size="278" crc="68d3b67a" md5="69e8d890454713d7926a83dda5fb5389" sha1="16576dc0edd99a4c47edfd33678c5a0ff7ee609b" />
+		<rom name="src\sbrg\usb.c" size="4566" crc="37a6ce93" md5="632844cc276ee5f5fa762ea103510a50" sha1="ff7c32698bc764e00c33d7aac29e9a7a52e0fe88" />
+		<rom name="src\sbrg\usb.h" size="559" crc="bc8f3b7b" md5="7abe9f9f831b2725283b7173502cd2d2" sha1="73dda3cc5493d3564dde2285aadb9ce3490f5c0b" />
+		<rom name="src\sbrg\vector.h" size="286" crc="62454270" md5="dd9c5efb55cfd6a40b7ea4ea541f9c4d" sha1="65840b3cf4fd36724451009651628013620cee17" />
+		<rom name="src\sbrg_live\livemanager.c" size="8914" crc="8b99930b" md5="2ba47d1ad7279fd950abb940aa8edb3d" sha1="4666837c2e4112b9662552f71a2955afc53fbffe" />
+		<rom name="src\sbrg_live\livemanager.h" size="954" crc="d012e0b4" md5="900ec51ac1f7f769ac359a764739e36f" sha1="e27bdd86c81726f3909deee4742701c6bf19b9d0" />
+		<rom name="src\sbrg_live\Makefile" size="761" crc="8ff1fb93" md5="7f7f32a42fbb7eb178cdd9cbeb245bdd" sha1="2497362b114f76302aa8eda0973a8482c571500c" />
+		<rom name="src\sbrg_live\pieceif.c" size="8718" crc="a563591f" md5="704248011595704e84eda63a3b6c4e55" sha1="b514083402e4d4bbac547db66d6caaab478ac59f" />
+		<rom name="src\sbrg_live\pieceif.h" size="3165" crc="283c5b0a" md5="66130f61d6bd4fd762a636e611420460" sha1="dda237b78ea823ba2322635f7470de0aa369b848" />
+		<rom name="src\sbrg_live\sbrg_live.c" size="4469" crc="079ae4b1" md5="ae8fa92ecf9afe12ff620d9d9aab0289" sha1="8445e37f9b7d348e11409c3a7d3438909a43e849" />
+		<rom name="src\sbrg_live\sbrg_live.h" size="363" crc="d015032c" md5="8c36b1cb873892205c90a23e42e27656" sha1="2ad6a6459a765b75f338722820b0a658becf90c9" />
+		<rom name="src\sbrg_live\screen.c" size="9120" crc="87f16e7e" md5="4612415d1445bfa2aef5fdb16deb6b55" sha1="b966dd579e3d8af7760d33a65fe076c742724b0a" />
+		<rom name="src\sbrg_live\screen.h" size="889" crc="651c02bf" md5="675c9e7b560018ebe1df96602fb85273" sha1="0f56d69d7a197f255f294c7a768858c532da9315" />
+		<rom name="src\sbrg_live\setupapi.h" size="3187" crc="aae8ead8" md5="ff2796406ae58d1077216bbdd2f2c6ae" sha1="997e6519041bf965446ac213bd33e9e31ec5871c" />
+		<rom name="src\sbrg_live\setupapi.lib" size="4714" crc="59c854b9" md5="fe2a0af502e76b09ab858e9c3ee3b200" sha1="43616a2841ccb27b949f1265214ee48203e25c3b" />
+		<rom name="src\sbrg_live\sincos.c" size="1906" crc="dd0d32dd" md5="3a831428fff9cb3260761306fc1a51fa" sha1="c4ad578a3dfc04f2ca64c8dd78f3cd794d3d7ba4" />
+		<rom name="src\sbrg_live\sincos.h" size="278" crc="4c76b9eb" md5="4df6d99eea95a72fbebde17929c2dfac" sha1="de0891e5bb19d04a752e30c81b44ccb5e28b6b82" />
+		<rom name="src\sbrg_live\usbdrvif.c" size="3410" crc="b348ac27" md5="2f3b918f087a9aad6a546263162ebbfb" sha1="5a0cc4849ecef6c37d928f4b2231fa1d572cfac1" />
+		<rom name="src\sbrg_live\usbdrvif.h" size="622" crc="1e5ae50e" md5="836a7822a9b86307e8d837f7b6430d12" sha1="cb3f619fe20a1aa8fb75308a4526bc1be3972f5a" />
+		<rom name="src\sbrg_live\usbio.c" size="6246" crc="37ce8431" md5="8bc441615443b0de5f70c181f89dd4df" sha1="2a1fee03b32056f758530092a6e9baadf18ffdc8" />
+	</machine>
+	<machine name="Spout v1.1 (2002-10-12)(Kuni)">
+		<description>Spout v1.1 (2002-10-12)(Kuni)</description>
+		<rom name="font.h" size="15840" crc="a03e9e61" md5="b3207534bd7e054268eb3ff4341adad7" sha1="ed099ca66ff2c6ae6501a74c4c2d1025b5ed4efd" />
+		<rom name="makefile" size="569" crc="a74491f6" md5="ee5911e154776dd5206a03b9294b4b01" sha1="cbe296dc655a27dbd706772d36c8a268f22c5e7b" />
+		<rom name="SDL\font.h" size="15840" crc="a03e9e61" md5="b3207534bd7e054268eb3ff4341adad7" sha1="ed099ca66ff2c6ae6501a74c4c2d1025b5ed4efd" />
+		<rom name="SDL\license.txt" size="1072" crc="77e9cd80" md5="16711e34dc028d69ed71e0f4759e6f91" sha1="dbabd8bf38d7baaa1dda4e21d7a39acd27c696f9" />
+		<rom name="SDL\makefile" size="559" crc="bd72ac43" md5="dab8208ed5c789e95c8bd09127370a93" sha1="4f08d1454812987af7463c6d9b961c43f99f307d" />
+		<rom name="SDL\piece.c" size="5037" crc="98a1544c" md5="d20698ddc56e00a050128c28edf04a74" sha1="d6c5ed5acdffb26bce8c31e7ddd9e1e44c33755c" />
+		<rom name="SDL\piece.h" size="1318" crc="ac900f8b" md5="9e8b2dea9618b5f250e29e1052ef342a" sha1="45b01ad397037ffeedb69d8880225c152fbe50e2" />
+		<rom name="SDL\SDL.dll" size="225280" crc="8ab841e4" md5="d24ce805982c4705a0a4e46f9e9c6550" sha1="afc5a107e048ca2d9782f0e08e4ed83d46a21032" />
+		<rom name="SDL\sintable.h" size="6638" crc="2fc6d144" md5="72694acc1af32f9fcb02dbb4beef1695" sha1="dac769c0b3387fb83ecd29ea57b19321d26f806c" />
+		<rom name="SDL\spout.c" size="16422" crc="eb0d220b" md5="1a6450c24d63ed769edc05ab4ab1c0ac" sha1="b6b39613e8d9b7041e6807802524514e855fd26e" />
+		<rom name="SDL\spout.exe" size="318196" crc="83ab11d1" md5="fd6a0fb8001d37fb3d219676c9d6d514" sha1="9471ae0d219fccc4310d52363e68419d9a226a65" />
+		<rom name="sintable.h" size="6638" crc="2fc6d144" md5="72694acc1af32f9fcb02dbb4beef1695" sha1="dac769c0b3387fb83ecd29ea57b19321d26f806c" />
+		<rom name="spout.c" size="16422" crc="eb0d220b" md5="1a6450c24d63ed769edc05ab4ab1c0ac" sha1="b6b39613e8d9b7041e6807802524514e855fd26e" />
+		<rom name="spout.pex" size="6058" crc="4f0f8ad5" md5="c37eb6dcc083ba66b43383d62900479c" sha1="73e97be5ae57d91cc3f82ba490fcfd100779d715" />
+		<rom name="spout.pid" size="256" crc="6bb0ff7c" md5="9049c5d66ff18997d8b5afc69e80fd3a" sha1="14a98cca8ebe7a3dc69a5e32fdc380664b8cd9d8" />
+		<rom name="spout11.htm" size="2333" crc="eb0a740d" md5="f36247e542b410a6403da84b3df4ec5c" sha1="abb7d56eebdd82934ad2b284c143f159e43091fb" />
+	</machine>
+	<machine name="TIDE (2002-02-13)(Hirock)">
+		<description>TIDE (2002-02-13)(Hirock)</description>
+		<rom name="Data\01北海道\abashiri.td2" size="979" crc="080191d6" md5="952691430579fa5e755dc04882c9a8af" sha1="65cacaaa8390731a72d0097672e1de409d20965a" />
+		<rom name="Data\01北海道\hakodate.td2" size="969" crc="d3fef885" md5="b0a3615539840e3ef3eb388fc38c9302" sha1="b5e9cb0f86499c2b29e12e5a0914d0f9dc7b3488" />
+		<rom name="Data\01北海道\hanasaki.td2" size="979" crc="8611813b" md5="6e5b057a9ca4d442e3d82cd6fe3c8460" sha1="0e4c253a403159faeea2fac888a76691bc0960f2" />
+		<rom name="Data\01北海道\kushiro.td2" size="979" crc="89b4a3a1" md5="fc6fe8041608af673479320d1d4571ee" sha1="a0c6b8108070fa21cdebb252e4bfb8b552040925" />
+		<rom name="Data\01北海道\monbetsu.td2" size="979" crc="4b43d46c" md5="b91daf176abe06e9c7a8a154c65993c5" sha1="055afc4dac06ecd145b2f2ea93fb8bf3c508133b" />
+		<rom name="Data\01北海道\muroran.td2" size="979" crc="02d50c28" md5="8f311682ec747302d20ca44a6d9b1298" sha1="ed4e934a95716b340d38eb43a4892fdaddb2a0c7" />
+		<rom name="Data\01北海道\oshoro.td2" size="979" crc="fbb0e204" md5="77f117d32bcbbf41662aeb69f65ca8f0" sha1="3ce943592a70402d4944b5af897791aa0216bfaa" />
+		<rom name="Data\01北海道\otaru.td2" size="979" crc="2a6d3b90" md5="c7b4af9fda2afc3974d860d0b6e610cb" sha1="7d8c530248cca732bc515573625899aff9ed6b9f" />
+		<rom name="Data\01北海道\rumoi.td2" size="979" crc="8cfad56c" md5="7929ac6e8903f893f6356159fb4343d0" sha1="bd476c03a51455c1ccd7d3aeb9dbe2ebdd64876e" />
+		<rom name="Data\01北海道\tomakomai.td2" size="979" crc="64a98ae9" md5="6de6b99104a59172a85c35c6870e54c5" sha1="6ff618e14be6dc3471da74f9bf943722b5db6f64" />
+		<rom name="Data\01北海道\urakawa.td2" size="979" crc="c4f6cd0e" md5="f489929ae361660aa93fdb238a5addef" sha1="c5e1bc7b3d410d0507bbd7602702c67bdbd19dd0" />
+		<rom name="Data\01北海道\wakkanai.td2" size="979" crc="ae77ae2d" md5="f5e02afa8daf55a3ad5106d4f87599fb" sha1="8069d6cbbad0b08914b66151208ebbe354ca0447" />
+		<rom name="Data\01北海道\yoshioka.td2" size="979" crc="f60b8aca" md5="b79ecfaddbcb8312c6f0f73cfc2f85d2" sha1="f8a38efc3892479ed21b4731a42c8f343f0a4823" />
+		<rom name="Data\02青森\ajigasawa.td2" size="967" crc="8a01fe1c" md5="411f58362c018ad2467c2989023ed755" sha1="efef400dc90418551a13e3e1d15be4208955f50f" />
+		<rom name="Data\02青森\aomori.td2" size="979" crc="9ee4680f" md5="bcd9f5512095279dd9ffdedd886db180" sha1="025f60fcdfcb75c9e640f585deae23ed2844f676" />
+		<rom name="Data\02青森\asamushi.td2" size="979" crc="48cc5788" md5="2a645ec25b074da06d4f51cda3d509f4" sha1="6459c7285d7d4284ff9aee04aedd28d9f6983736" />
+		<rom name="Data\02青森\fukaura.td2" size="979" crc="d38bcba9" md5="fb7f8801caff66c6eef5fb2222c65176" sha1="dd04582db1138b49527ea60936999de033dc4a67" />
+		<rom name="Data\02青森\hachinohe.td2" size="979" crc="92b290a3" md5="74fa5642b3e070ba3ed9077795eafd47" sha1="8dcb35eec62f54bbbe7c49d283b64fdfd96372d1" />
+		<rom name="Data\02青森\iwasaki.td2" size="979" crc="11c37e54" md5="b8575b3de8d9a0be3d403e052b147e68" sha1="df2c440389804639ba575a5afa7c9a9b4ab9f6dd" />
+		<rom name="Data\02青森\kodomari.td2" size="947" crc="350833eb" md5="a369342edec043f9d1d0a51a303f68d6" sha1="83e4fa003af75f27dde93b53ad50fa81080b0c2e" />
+		<rom name="Data\02青森\kominato.td2" size="966" crc="92aa3da6" md5="9b45f0d81031eeddaa2519dc548f7e58" sha1="0524fb353fca57749fc15a04155cf517f7833456" />
+		<rom name="Data\02青森\minmaya.td2" size="972" crc="776cb4db" md5="b1735de9dab6427317e6ccbd17ed5a68" sha1="c3ea3760bb0fc0d3dc132ae08e72293bc8121af0" />
+		<rom name="Data\02青森\moura.td2" size="966" crc="0e117c15" md5="c39e185b4a4f9effd8747878c874cef4" sha1="709c2b9aedcf0648c65cd5badb4e1b6b0956814c" />
+		<rom name="Data\02青森\noheji.td2" size="968" crc="f13cd5cc" md5="b0620a36745e640d6a401f0af3abda27" sha1="7069648716cac0dbf1cd1fe3127f942052f2a7f4" />
+		<rom name="Data\02青森\oohata.td2" size="966" crc="5303ed24" md5="58844aabc121183ecd1b66f75e329f0b" sha1="46c1128518c0948df0d1c70184819ac88255b8ae" />
+		<rom name="Data\02青森\ooma.td2" size="966" crc="1608bf42" md5="810d2c146bfcee87d39a281a008afd0f" sha1="da6419e1ceb1a4022a3b617342ca5dde1d472dd7" />
+		<rom name="Data\02青森\oominato.td2" size="979" crc="3ffe0ae2" md5="0918e5f52b68e75f0ea78f2ee8018b81" sha1="16e2367fe5f48505633d74e0c74506d5273907a1" />
+		<rom name="Data\02青森\ryuuhi.td2" size="979" crc="9a32c221" md5="baddb358e36caca9b8bcfaf610d99262" sha1="0e98036e40ca2a7d70e6bfde5b8883d605b41a13" />
+		<rom name="Data\02青森\ryuuhizaki.td2" size="968" crc="45b5a3b5" md5="35ad499953a1c78ab52e65aa5d47985c" sha1="b4524404a24d4925c9e6554ba294f7b81133871e" />
+		<rom name="Data\02青森\sekinehama.td2" size="979" crc="389ad039" md5="6d59884d327a1b6b32a987fa9fa78136" sha1="22daf250195c386cfe4fbc0fda726ec90ce82f79" />
+		<rom name="Data\02青森\shiranuka.td2" size="966" crc="adaa7fd2" md5="ab29a316755e4dc5d31cee9920e948f5" sha1="410af2020523db42e2e3287e0a99ae9a41a58693" />
+		<rom name="Data\02青森\shiriya.td2" size="966" crc="9d1838b3" md5="9b85f59906b1be13a0fa68727c34c3d2" sha1="abcb38fe2c97a04c771b0c2c4558e9764ac8f19b" />
+		<rom name="Data\02青森\shiriyazaki.td2" size="968" crc="43b5c5a8" md5="eb8ab01ded38031372f5d50cc56befee" sha1="ab2aeda3d57c24f0590277576c555440e28cb13c" />
+		<rom name="Data\02青森\tomari.td2" size="964" crc="d9e8d149" md5="577a6f135a3fa167e71eb32b7dbbf414" sha1="2989d29a5dbd5b7105cae29bb9ac7d104bdf235b" />
+		<rom name="Data\03岩手\kamaishi.td2" size="979" crc="507e5974" md5="77c569f14dfbce8bfb3abd65872d59ba" sha1="8db4515456690be62771058885ae8c336626b3cc" />
+		<rom name="Data\03岩手\kuji.td2" size="966" crc="ed59c570" md5="da4dd1004087657922ff71f25e77eb47" sha1="da03a32dae9e40010cf274922635bbdfc44d4755" />
+		<rom name="Data\03岩手\miyako.td2" size="979" crc="6feac247" md5="f6a03c4076c049928518cf562133f609" sha1="5474cb1ae897888425966d884fa4f7f4edee6eb3" />
+		<rom name="Data\03岩手\oofunato.td2" size="979" crc="270f19c8" md5="9c8b4bccc3791db5580cf14d91a28a84" sha1="f00c1c20a44080b157ed82677ee953cccdae736d" />
+		<rom name="Data\03岩手\yagi.td2" size="966" crc="befd8421" md5="5e127ad090095481950e8ac834ea1d6e" sha1="693510a8da0a39efce0fbaea0acdaf526b559f06" />
+		<rom name="Data\03岩手\yamada.td2" size="966" crc="a27865f3" md5="21d5eb8d4953fc06a5c5e9a39871d750" sha1="8bdf663e7ba700251a7e7f2f8708a10554391537" />
+		<rom name="Data\04宮城\ayukawa.td2" size="979" crc="5b0575ca" md5="7681d0f13dce0bc5f6e9dca2a5232145" sha1="b9fa13a783fe118c733cdba5a41a5afc391516ff" />
+		<rom name="Data\04宮城\funakoshiwan.td2" size="968" crc="76d246a4" md5="531c396817e1878135495c625c351b53" sha1="1f718a6ccbc2346bb53b565103c69bd19a66ac32" />
+		<rom name="Data\04宮城\hanafuchihama.td2" size="979" crc="df3764c7" md5="446a4a7c6b722e11f51daf17d102fb25" sha1="712c067b0c915de748f4358af48dcec827c3e643" />
+		<rom name="Data\04宮城\ishihama.td2" size="973" crc="ccd57f80" md5="c624faeed2bbc975f077a277031d426a" sha1="599cd3fc9ade647e44c38804e6944c659d32323e" />
+		<rom name="Data\04宮城\ishinomaki.td2" size="966" crc="de280333" md5="25e3245828e8b6732ade24b022b266c2" sha1="1f673d7794aec7f73aa6431c4068af1bb8356565" />
+		<rom name="Data\04宮城\kesennuma.td2" size="968" crc="9e774e5c" md5="cabf52cfd7ae29b20fed957d9d025250" sha1="226fe64e692acb82626bcbba26e7fc2b8818239c" />
+		<rom name="Data\04宮城\minatobashi.td2" size="979" crc="bcd51e40" md5="0f00b1b27d888cb3fcb45de158dc2b60" sha1="453be603435a60ad1cbf0e810f619c40419941e1" />
+		<rom name="Data\04宮城\nobiruwan.td2" size="968" crc="3d5ef9c9" md5="a40e189bccb7109eb815cabccfdd3691" sha1="21e24d4499e26633972f4abdde0a66383e3083fe" />
+		<rom name="Data\04宮城\oginohama.td2" size="966" crc="b511113f" md5="4cd5470c45e6272fbeba8b0f30870847" sha1="8e44bd658a1856d6470fc7b80c0474824935949f" />
+		<rom name="Data\04宮城\onagawa.td2" size="966" crc="31abe115" md5="718c99bbabce760e992d335f879b7e3d" sha1="91ea8381c20ec256f021486d4f2efda417d3e17c" />
+		<rom name="Data\04宮城\sendai.td2" size="979" crc="d2bdfb5b" md5="27f04b3fd3d3dd8b7cd03e9f1818b746" sha1="9f2adac38b7ea6c24c89f0a12eea6889d510c1ff" />
+		<rom name="Data\04宮城\shiogamakou.td2" size="1034" crc="4218a8f0" md5="029c422680b984bf98eb38c49ea41e10" sha1="03aab2838bb17ac4623ffa4b9a416d65df894e9a" />
+		<rom name="Data\04宮城\shiogamasen.td2" size="1030" crc="5aff3e26" md5="4c0b54ad15c4979b78f54772ff9e366e" sha1="f023fc441b8856bd3fad465e599116cac271d746" />
+		<rom name="Data\04宮城\shizugawa.td2" size="968" crc="d6911ef3" md5="ae416699cdeba64ac688ff41488f7271" sha1="78c12b7f3b6008884346374e90ec8a553e264bb4" />
+		<rom name="Data\04宮城\yuriage.td2" size="973" crc="80f23d48" md5="8aec56c2c6afbf4e7c5e74b65b974351" sha1="5f09711c38b67f112661b5d113b6a7a3163425ce" />
+		<rom name="Data\05秋田\akita.td2" size="979" crc="c4ba0d03" md5="62f81dfa43d4db4c88bb32370fdb2fdd" sha1="0b240090bc296d9c11e4c1aaf36f8aeb8ff5875c" />
+		<rom name="Data\05秋田\iwadate.td2" size="966" crc="be89addf" md5="167630ca1beadc0acb6ddfb3fee39319" sha1="ff0f6ef493ac488095b310f395defcf964541d4c" />
+		<rom name="Data\05秋田\konoura.td2" size="966" crc="6eb3656e" md5="847d279e4c518b152cfc4bca17588dfa" sha1="8ebed35063abe842556b5a5b6f672fd87c6704dc" />
+		<rom name="Data\05秋田\oga.td2" size="979" crc="1e483900" md5="df387338a750ae5d5b969d2b14d73d65" sha1="39e0667f5ca58fb79063d9c051c3c5f9a87ad49e" />
+		<rom name="Data\06山形\kamo.td2" size="966" crc="b31c9d88" md5="c1d84713da2bbf427be0e5beb634af1d" sha1="20faec6cf9c1a2d9e8a3021fa642d0e31c03cb30" />
+		<rom name="Data\06山形\nezugaseki.td2" size="979" crc="cc92cf4a" md5="c71c7979f082e4b2748585ae4c52a5a4" sha1="0fd3f7acc57d25d02f8f58fde941ab1d6073b3a1" />
+		<rom name="Data\06山形\sakata.td2" size="967" crc="d8cb11ec" md5="56e942ffdc46eb1991056d1129f02eb6" sha1="93675297051cf2ff849430e60005becd13e2dcdb" />
+		<rom name="Data\06山形\yura.td2" size="966" crc="1e2e3520" md5="a338eb3eed01fb1d744dd02ea6e7d742" sha1="61de712faf5107294deb762b7697dbecd9b6dc8d" />
+		<rom name="Data\07福島\fusawa.td2" size="966" crc="3da5619b" md5="62b6a636986a9879de7964e8af0ccc4a" sha1="2e36257e079ebcaa93e0194d1439aa151acb5422" />
+		<rom name="Data\07福島\matsukawaura.td2" size="979" crc="20908a12" md5="b7394edefd79590342c730a119bfe90d" sha1="a0088f79351d29adc6effeec8ef66962ce92f3c7" />
+		<rom name="Data\07福島\onahama.td2" size="979" crc="77b18207" md5="58b246120f446b2894167dc1c2715547" sha1="9527e1e190d178ec5edbea6ec9e64c4f5383840b" />
+		<rom name="Data\07福島\souma.td2" size="979" crc="1d398991" md5="0ebbc19351da2f87a3afeade59fd27ed" sha1="bbabc3053230628a173c7addc6041e2b41d854dd" />
+		<rom name="Data\07福島\tomioka.td2" size="971" crc="b617e500" md5="b45ca1f59c57b30dea0eb8014a71ee4c" sha1="704065fef3ced4ce1dca9faf40e3697b5beed3a0" />
+		<rom name="Data\07福島\yotsukura.td2" size="966" crc="dcdf68f7" md5="f9fab5b3abdc68b67eed3b5e4d2da3c9" sha1="111e000329007be4b55a7724e4a50b9ec901cb4c" />
+		<rom name="Data\08茨城\hitachi.td2" size="979" crc="c84d3c06" md5="9b029b6617f7b15c996d1d9d6c36a0b1" sha1="1b95dc79600f50c2e49955020d0e8fb2830ec927" />
+		<rom name="Data\08茨城\kashima.td2" size="979" crc="1280ddae" md5="3e8dcfb85ec88adad11401779ebcdec9" sha1="a46067d0a4545d935ac9c789abf3639782b38d9e" />
+		<rom name="Data\08茨城\nakaminato.td2" size="968" crc="54e9586c" md5="1557cab62ae3da092034e887270bc873" sha1="33dee714c6d109cf8680dbf9ba2ec8302bb65a86" />
+		<rom name="Data\08茨城\ooarai.td2" size="979" crc="d4ff59db" md5="2e66c4883ca6cfbb4b2f59259de4bf09" sha1="b3126d6fb6d600e8ec0f81f2b74eb9c9fc3c501e" />
+		<rom name="Data\08茨城\ootsu.td2" size="966" crc="1e472b23" md5="de3710d6b5ae279e29e229b366b0e8da" sha1="ccc7a61a818b4e1a4c88ccb754cae03095afff0f" />
+		<rom name="Data\12千葉\anesaki.td2" size="967" crc="a4a0aac5" md5="aba4348316dfe2350d408e39ee23d78c" sha1="c77389ca95e5a53f5d84cbd163ca36d19d8e28c5" />
+		<rom name="Data\12千葉\chibatou.td2" size="979" crc="2210be89" md5="86915c4ff0ee24e1a556385648ec4259" sha1="9393baa0ccad37e529618fe10b6f1d2b7a06b455" />
+		<rom name="Data\12千葉\choushi.td2" size="970" crc="a257b276" md5="06e878ccae755e4d86217bd5af7fc6e9" sha1="adc46cb5ababd8027b3da6801c2566a7012ad421" />
+		<rom name="Data\12千葉\choushikou.td2" size="979" crc="65af4651" md5="d7928fd608565ac6b215ff6e0f87ac4b" sha1="3f6397c926036a4138bfbe61a49007d5f7c8437e" />
+		<rom name="Data\12千葉\choushishin.td2" size="970" crc="f5808539" md5="1cb5761d142a24baaaa0f44578ea8556" sha1="2c94cdca0662ef39ff3254fffd27a452a4c2e4a7" />
+		<rom name="Data\12千葉\funabashi.td2" size="967" crc="f38b1571" md5="ee101dbea6948eae8ddaf72d58d5efa7" sha1="e9e0dab94cfc05a7ec3100c8743b440c0cd2a271" />
+		<rom name="Data\12千葉\fura.td2" size="979" crc="ebc3f50a" md5="b294ae5c9962b3f0e478ac772bca5eb7" sha1="93e3710a4ea38cd7da76ab6f2079ac5056f5463e" />
+		<rom name="Data\12千葉\ichihara.td2" size="967" crc="64e41889" md5="1ab8798e633903b1115beb37f0bf4756" sha1="25fc9ecf52599ebe69ac381ed296dd449e544573" />
+		<rom name="Data\12千葉\ichikaihou.td2" size="971" crc="6a9b549d" md5="7bccc9f3f4f52d38ef711126c5052ce7" sha1="e3b27b58ecbdb7d1982d7a1d73d06c36bd72ab9c" />
+		<rom name="Data\12千葉\ichikawa.td2" size="967" crc="e90dc247" md5="a5bb3170948158a5552da513664b23f4" sha1="7498763142d73b99801bb696193050fa808935f4" />
+		<rom name="Data\12千葉\inubouzaki.td2" size="968" crc="2ee9a102" md5="ed2f162c42c61d589a00590f3c65db73" sha1="aae350cd54488d6f4620ce9a85496dde0e22934d" />
+		<rom name="Data\12千葉\iwaibukuro.td2" size="969" crc="c4fe918e" md5="ddbae97c993dfa126bf02f5ffaf1411b" sha1="a2b494ada402eb907f7a4cf53e1c00568b62f34b" />
+		<rom name="Data\12千葉\kamogawa.td2" size="966" crc="65c4e262" md5="9bc59b426e85d023268adc49f24c4e49" sha1="66b073b1fac5f9573d89605a4f09618ef38c8029" />
+		<rom name="Data\12千葉\katsuura.td2" size="967" crc="be6f596d" md5="2dbfa6961c95f5ce2725309a5219364c" sha1="87232e923c93f43bc21de6998ac4006911631ac9" />
+		<rom name="Data\12千葉\kazusakatsu.td2" size="979" crc="4cfc1f20" md5="a132c0b4f679c24e330eb1144355f103" sha1="4b1d7d287518eb4bd05632d09d3b9c5b77266e86" />
+		<rom name="Data\12千葉\kimitsu.td2" size="979" crc="79c4b22f" md5="815752eca2ba10a0a46d0ebeb3b1bf97" sha1="b7ea94c7f9f504320214e2ca2806430dc7fee22c" />
+		<rom name="Data\12千葉\naarai.td2" size="979" crc="46117034" md5="f5738275f4ee10c4cec9ad20e2bac1d1" sha1="ed70341e689b3c9aa1f4aeeee822e32aaf7cf6d9" />
+		<rom name="Data\12千葉\samukawa.td2" size="972" crc="a2bc0cab" md5="da1137152a2e69e05de9210fa5506e0e" sha1="15541c7f1c8e567d8c772d8bb046978a3c6fcc51" />
+		<rom name="Data\12千葉\shirahama.td2" size="972" crc="38fb83a1" md5="9389a54d51a18846c5af313e9f623df8" sha1="cb7e3d58759a71687e64badee5ac7af4aef2b214" />
+		<rom name="Data\12千葉\tateyama.td2" size="967" crc="336c7ef5" md5="576f449e563cf362037829911bdf0d01" sha1="fb643d10325455b9493cbac77b151ab6c9c20f12" />
+		<rom name="Data\13東京\ako.td2" size="979" crc="dd4107cd" md5="ec93837b60d23d16a5b0510712d12457" sha1="c336989e2df8b534362eddf48d1302d58d3e150c" />
+		<rom name="Data\13東京\chichijima.td2" size="966" crc="069c72cf" md5="284db7daf4f7c41884ca43116ca48006" sha1="c791638343e0754a7fe4c5e0d53cbcd288bca896" />
+		<rom name="Data\13東京\futami.td2" size="979" crc="0c704c42" md5="7945206fbf1e90289432204fbcc1a51c" sha1="f38c4062fe2c064bf4b53b5b29aa385a6ef4d691" />
+		<rom name="Data\13東京\habu.td2" size="975" crc="e9d4bc2b" md5="3dc9a63f71fb9566c43a45c05c44de35" sha1="1b9766107e8ae08c5b60993330b67c860228b430" />
+		<rom name="Data\13東京\hahajima.td2" size="972" crc="8502c270" md5="3674c3804ddc7cb8f08e7ca83d937059" sha1="f14ff8933e537c2b25b12a4141469fa5c88d41bd" />
+		<rom name="Data\13東京\haneda.td2" size="967" crc="56e26884" md5="4556e0d5909bd16dda10b461628bc3ac" sha1="7ab7e1d2ded9aa40787cd560f1bf7412dc91252d" />
+		<rom name="Data\13東京\harumi.td2" size="979" crc="3c3bd572" md5="9b88f8291e59bda6fb6b5c75a8473b6b" sha1="f76629321c36e6f7b972ca938a215f980cf80988" />
+		<rom name="Data\13東京\ioujima.td2" size="972" crc="8b504e20" md5="91b891e9042b0f3c099542f6546dcdf6" sha1="3fa8590d5f2c86502fbabe5a3d3ce367881e587f" />
+		<rom name="Data\13東京\kounominato.td2" size="979" crc="968d6d71" md5="25542c551f78dca00b79b48ac51b4607" sha1="e73bb7e279a9cb2f495b5f7e77c8a1fa395af743" />
+		<rom name="Data\13東京\kouzushima.td2" size="979" crc="ebce7565" md5="90ee7b0dbad5f93b0d47453a2827a0a9" sha1="c67584bcc00c8c64f56b5cfdb15e6362000e443d" />
+		<rom name="Data\13東京\miyakejima.td2" size="975" crc="d52d117c" md5="4623f33a277d5191a02c64094171c5de" sha1="d3c1ea9f6deaa242d59b65d063c28f28c1a10b35" />
+		<rom name="Data\13東京\okada.td2" size="979" crc="cc74c3ef" md5="ee17c563cf9cd4651c9d4075147c11e0" sha1="7459b35b1c80fa58d24a7cbb07da99c059e770dd" />
+		<rom name="Data\13東京\shibaura.td2" size="969" crc="b279c6e6" md5="6bf5298386a5bfb57fa7b55b61b1003d" sha1="6633180239615dabb2bf3ca746e505e9f352b798" />
+		<rom name="Data\13東京\shikinejima.td2" size="947" crc="903af86f" md5="41ed1d6e7485be1034a1070ca6c70347" sha1="e3c30648cb5fffb5e8f855ddeccafa02b4f45fc8" />
+		<rom name="Data\13東京\torishima.td2" size="966" crc="60f93803" md5="11186da753e956895208ec89ac17fd3a" sha1="2ca6112dbd40211a73461f1ed4bd2a42aaa1f75a" />
+		<rom name="Data\13東京\tsukiji.td2" size="979" crc="a2002f17" md5="f6338b08334e1937dc729e02ba74b044" sha1="1c5bfcc2e1e8f456455b5be480d3693bdf2450f8" />
+		<rom name="Data\13東京\yaene.td2" size="979" crc="8f2edb6e" md5="fae4c2919f14e0b31ebc6d6d93e0cc9f" sha1="3951ca3f9800363be70e147a5f6e254663dead82" />
+		<rom name="Data\14神奈川\aburatsubo.td2" size="979" crc="f4e03413" md5="f0b300c94441eb1545d874cceee9f978" sha1="0c13b1f6aa0508653db3069fcfe63c1506466229" />
+		<rom name="Data\14神奈川\enoshima.td2" size="1033" crc="79ff40e7" md5="d3ea56a24255ebf5dde48e31c52f8199" sha1="76b67c645106dd3cb0dd89aba21b48ee38bd6a21" />
+		<rom name="Data\14神奈川\hashirimizu.td2" size="967" crc="a414841f" md5="dcb23104ff61c847773168f50c4bf135" sha1="e4363b185b31bca71323f5cb74e949655a33eb2c" />
+		<rom name="Data\14神奈川\kanedawan.td2" size="969" crc="6814f890" md5="8fa07fc3d3fca480b78e0a3e3e1701ce" sha1="355c816372311bfbbbb5e6fe1f9a67549ee3c294" />
+		<rom name="Data\14神奈川\kawasaki.td2" size="977" crc="690c5f06" md5="f7d34fbdaae21f98a7d19318a084b222" sha1="637408ac748d95228c066687c0cce7b647f06048" />
+		<rom name="Data\14神奈川\maguchi.td2" size="967" crc="a8cffdae" md5="dea6ccd8374d026ca50a5e8b944d12e4" sha1="41eebb1edae772278ff9520ca978c4f9aac55282" />
+		<rom name="Data\14神奈川\manaduru.td2" size="967" crc="4be35a75" md5="bebc2ce6bc599a46092db6b55d451d06" sha1="d012d34c49c0856f89bdc2dce4c771e84f2e9428" />
+		<rom name="Data\14神奈川\mukakesaki.td2" size="974" crc="9273559e" md5="32949413dc0a8cab92b22fcee0ed6c76" sha1="10e4d212f1cfd22fbf00955872c55cf4cac62b8f" />
+		<rom name="Data\14神奈川\nagaura.td2" size="974" crc="f44c2ea5" md5="a2c62eb50a1b10fd127f2c9dd6472424" sha1="02a63c766d5b40a18cf22bd01ee9a48e4175c857" />
+		<rom name="Data\14神奈川\negishi.td2" size="967" crc="0d933fcd" md5="b1b8914b30acec0ca1d0e694fa1f86e0" sha1="36032dea2a5a90cbbd262c62b920a138ae1bdfa6" />
+		<rom name="Data\14神奈川\odawa.td2" size="970" crc="de99e5ef" md5="98ff07933e619a2ca34499e9ee45ece7" sha1="3930d7896310f99151abd92cafb14e07e6d88f1a" />
+		<rom name="Data\14神奈川\shinjukuwan.td2" size="974" crc="3f0ce7f5" md5="211e9f9be049690adb6d3b0549f13345" sha1="eae054923803e45fe7f702fc7bd1350651dd70f1" />
+		<rom name="Data\14神奈川\shinkou.td2" size="979" crc="7abcf531" md5="407ecf987bd659861c8025e26dbeb3c8" sha1="7da8fe5c5f5d548df196d2aed2169ec9e7669936" />
+		<rom name="Data\14神奈川\shinyamashita.td2" size="979" crc="0589d050" md5="f2b6b964148f37051bb3f0230db3d8fa" sha1="60bc69c591ad6f072324af44fa3cf3e277b2a75f" />
+		<rom name="Data\14神奈川\shiohamaun.td2" size="979" crc="777ebc37" md5="8789539f3d14b8998ae609838fe5eaa2" sha1="1a3098e22766ffc9696e6f2a2b81b28a7bc829da" />
+		<rom name="Data\14神奈川\suehiro.td2" size="973" crc="25da393b" md5="d0f84d979c8d348d8ff903cf0176d37b" sha1="46707b59ae7176bc702ef40e0d9c42ecca4b7e5e" />
+		<rom name="Data\14神奈川\yokohama.td2" size="974" crc="21850cce" md5="883801fc6725492710e4e17afe7468ca" sha1="219b23a587fcf37a728cb640ac570ae99a428e85" />
+		<rom name="Data\14神奈川\yokohamashin.td2" size="971" crc="9c5ba364" md5="a994e594d0bad6849bbce2ac7c10b9aa" sha1="626581304714796f70c2c5ded4b3d6bcbd86559d" />
+		<rom name="Data\14神奈川\yokosuka.td2" size="979" crc="c0851897" md5="3887d09a30544a7be3b47ca41be8acf1" sha1="dfb7c6678b9dcc8932fc1c874382c7f3b73074d6" />
+		<rom name="Data\15新潟\awashima.td2" size="975" crc="104cb9cc" md5="5a6d9a6578576da3258f1780b9b28295" sha1="d8dda1bcadfb490ddb63cd1d598e3d3c726dfc95" />
+		<rom name="Data\15新潟\kashiwazaki.td2" size="979" crc="50b972ae" md5="1f80274facc1af6bc7947d36d24d324d" sha1="c079384e4c5202638917b5783972b8d6ca1eae02" />
+		<rom name="Data\15新潟\naoetsu.td2" size="968" crc="e985c06d" md5="57ad2724da5011219e61648e4355e428" sha1="8e11e7b2e6a8d750b4d26ee699e9ebe7ae3fa281" />
+		<rom name="Data\15新潟\niigatahigashi.td2" size="979" crc="6eeae9c3" md5="1cef3f9e95242825a606056262b44fe0" sha1="3f5e9f9e527e12142cd9f24ed8497950947936fb" />
+		<rom name="Data\15新潟\niigatanishi.td2" size="979" crc="ed33bf91" md5="8ce4380d295db467a51e17551c88ef3d" sha1="affe11ed0539cf8d8366613dc50a248f91406a53" />
+		<rom name="Data\15新潟\nou.td2" size="1110" crc="9e986341" md5="be39605b8aa1f7bf2a96725c5e0c06e4" sha1="195934de374e0fb3930af491e3d4a2256487a8c2" />
+		<rom name="Data\15新潟\ogi.td2" size="979" crc="343fa631" md5="0db3aacfed60a3f757e4575eb36e4b9e" sha1="8b923e3c4310adc674fc2a2d2e48b16652dc8bfa" />
+		<rom name="Data\16富山\fushiki.td2" size="1024" crc="8bb03bb1" md5="97786b318e39c73a676050ef8fad7c72" sha1="35689ddf256425643a683a904e9a5902974c9658" />
+		<rom name="Data\16富山\toyama.td2" size="979" crc="54b033ab" md5="344cf80c16e0813b6617ba08308ee897" sha1="62a4b14caf58c949dc6f7bc05aac477fd469d2da" />
+		<rom name="Data\17石川\kanazawa.td2" size="979" crc="182a172c" md5="0119b708289a7967f0201ab4b3b9d5f2" sha1="954d0555d1be42b5c758490da5b148af51713787" />
+		<rom name="Data\17石川\wajima.td2" size="979" crc="574b5e62" md5="e4603020507982f579729e929ec96de9" sha1="20966e5e5395cde39dd7ef8ba90068fb64019572" />
+		<rom name="Data\18福井\fukui.td2" size="966" crc="50d92f5d" md5="f142c22534b1c9f557d9c61da27fdd49" sha1="44209f64c191f062dbb1e66eb87b7e730849cd79" />
+		<rom name="Data\18福井\mikuni.td2" size="979" crc="b87e4c7d" md5="de5dbc3050577f0daa4348e3767d4ec0" sha1="7fb9e13d2e6dfcd642359e55daa942642674589e" />
+		<rom name="Data\18福井\obama.td2" size="967" crc="5a868e1d" md5="6b0b1caaf3a3f087291df73a7b092ffb" sha1="7b57978bdb23e08422301f736eed41e761074003" />
+		<rom name="Data\18福井\tsuruga.td2" size="967" crc="685c2143" md5="67950468f3bf1a284db97a3e55da0260" sha1="9cb9e89e29b9ba94c02639229a2578d58a69f646" />
+		<rom name="Data\18福井\uchiurawan.td2" size="966" crc="d69d0cd3" md5="bc9d76f80601e124eaac6d56ce3b75b8" sha1="1fe9b2d7bbeac0903436c80acd65ce9273491091" />
+		<rom name="Data\22静岡\ajiro.td2" size="1034" crc="dc11e77c" md5="340c2d872a8420da6e68314c3f8f9023" sha1="47fc1292b41a3e07f50f22d5afdf460d3c8d6d6b" />
+		<rom name="Data\22静岡\enoura.td2" size="1021" crc="1d57dce3" md5="b6ded365a6a9737f9ccab40bf3002c49" sha1="9cc3e52889e862a1322c66efe2f62951b6f7bdd3" />
+		<rom name="Data\22静岡\itou.td2" size="979" crc="1be117d4" md5="33b05c86e97c0b3046d20e1b392dd031" sha1="c49e2c1b1e99e0057b0afe3552d45c0656f693dc" />
+		<rom name="Data\22静岡\kawana.td2" size="966" crc="7b5e3955" md5="39ded7d1e8cd6a184eeb9911c1301acf" sha1="e45e4b6ad95f0742ce6bf087a214782ba648ec16" />
+		<rom name="Data\22静岡\maisaka.td2" size="979" crc="fdb76488" md5="6119cb54229eec77ccc1e189e713c437" sha1="49d4af3b5a887ac791aeae2b8eba6d001f8eed75" />
+		<rom name="Data\22静岡\mera.td2" size="971" crc="86f08bf2" md5="d1ad77380daac7114a7e7c89640e9ea4" sha1="6418773b4fd8e1be2486a96c126cb8dc89024230" />
+		<rom name="Data\22静岡\miho.td2" size="966" crc="e18a9c95" md5="6dc8dc10e7edd67a0b6b2c93003d4f73" sha1="ff4fb7a21b5e50d5a58a5671c3a8dd632a254e2d" />
+		<rom name="Data\22静岡\minamiizu.td2" size="979" crc="ce67da88" md5="8230fb87e63112aebd8ab2361ac55248" sha1="e925849cb905e8979b3bbf9c3ec50f14c03144b1" />
+		<rom name="Data\22静岡\mito.td2" size="972" crc="d2943c84" md5="0896a5a99548af410e220762ebc798fc" sha1="831f84602d50434917893f2b9645606241533570" />
+		<rom name="Data\22静岡\mitsu.td2" size="979" crc="d166bbb5" md5="f8c6fe488494f3dcc533fa674bce9b0f" sha1="e2f1ae0f569a874c3824618322c873e7b71253ce" />
+		<rom name="Data\22静岡\okitsu.td2" size="966" crc="f227f50c" md5="09accec7135ff86fb0c0cd1e8a03bf18" sha1="ab21a73dc9ba42d136ddc33809490111e4927cd0" />
+		<rom name="Data\22静岡\omaezaki.td2" size="979" crc="b5463c20" md5="8b29a70abe539c22fdead2a4d516aca9" sha1="f7ee654e41556de531ed598fee2e2a72c366f541" />
+		<rom name="Data\22静岡\sagara.td2" size="967" crc="187e21bd" md5="bb006da74396049f2d9efa72478dd330" sha1="4463b1ef5932b467e6a73e287918f14c859d9f90" />
+		<rom name="Data\22静岡\shimizu.td2" size="979" crc="0b914ece" md5="0eceb9f619b3c1895b37415018f04837" sha1="6f7507e65dece3e18e7e0a938f7b713d8f1adeaa" />
+		<rom name="Data\22静岡\shirahama.td2" size="973" crc="6a356f01" md5="8d71bfee42d8dd4d87f0d051658cdc76" sha1="11f64cc8c1caa7aa6dea0bd1dcbfdabadea9c3ec" />
+		<rom name="Data\22静岡\tagoura.td2" size="1036" crc="e820c75f" md5="6c291e6f9a8cad23010ef598d232f395" sha1="7d90f82efec909c2cf82a94454aa973ce25c07fd" />
+		<rom name="Data\22静岡\takko.td2" size="967" crc="5935a859" md5="4c144b68b1a4c80b7b3945e9eb0e2236" sha1="f281c4e737de077f71f0cfc023ee867d58ad4f7b" />
+		<rom name="Data\22静岡\ugusu.td2" size="967" crc="9f30f0e4" md5="8e1c759b0bc545b4afa584fc743c143c" sha1="ff5fa7e37f221c5c5c7a955f0d18a7c0596b998e" />
+		<rom name="Data\22静岡\yaizu.td2" size="979" crc="658baae6" md5="c2822560485b2f1c78ceec3defb97a8b" sha1="48154cdbf5c8d8fb01bdfe9e9d43982e4f64854e" />
+		<rom name="Data\23愛知\akabane.td2" size="969" crc="9f1f854e" md5="c7090f59cd0f9280896498fbacd67117" sha1="c8ee8fee3d79c50919b5cad5b7181b6ee53ffefe" />
+		<rom name="Data\23愛知\gamagoori.td2" size="967" crc="2f659e13" md5="59ffaa7196ff637aee9ebc9e50cb2bca" sha1="5073703377243e83ae441c8c84cdbd4b78a47d3d" />
+		<rom name="Data\23愛知\irako.td2" size="1033" crc="9d6edbdd" md5="9ea7ed18ce340911b241d6c2aa6ae095" sha1="1a76b226d30c01cabaac526458a2260651a66415" />
+		<rom name="Data\23愛知\kamishima.td2" size="971" crc="1e54608b" md5="c6d40f4ddce7b24a3416e664b7f9429c" sha1="0da661d98399dbcf8b7063a30a962f06e1997855" />
+		<rom name="Data\23愛知\morozaki.td2" size="979" crc="37bcbb86" md5="0a30156c3d130c3925e9cbe9e1bde57a" sha1="79b0c5fd6fd66617bc95e8880414a344008234ed" />
+		<rom name="Data\23愛知\nagoya.td2" size="979" crc="df97af4c" md5="efccba56da59fbfee19133ed8546e93f" sha1="de6b502b2569236aa25b7c7d582d0e9a938c10a4" />
+		<rom name="Data\23愛知\onizaki.td2" size="979" crc="e7dc0998" md5="b0fcaa10005059f623340cdc415467bb" sha1="d7e65cca28fba48e0f543a393035f403e91e1627" />
+		<rom name="Data\23愛知\taketoyo.td2" size="979" crc="9a446308" md5="8bb8a12ac48ba4f8b840da417b6606ce" sha1="8170cd8a1ca5a34f9783715e273cf0029f42e2c6" />
+		<rom name="Data\23愛知\toyohashi.td2" size="967" crc="204c8f0c" md5="5a30a6eacdc7b2547891fff99c2d70de" sha1="0bc396c8d5b8cd585e6dddb51cd770edd9e62eec" />
+		<rom name="Data\24三重\gokasho.td2" size="968" crc="bca46099" md5="a6b4a7e6633270a915ed998f37b2e4d0" sha1="c83f44f24c12b54b613807b41bb4ba3c52ee69e5" />
+		<rom name="Data\24三重\matoya.td2" size="967" crc="205e6efb" md5="06f3c96f23d439a0042b12b8e4284b4e" sha1="ce1dd6004e7cb04789a8e8015ee30289383c4d05" />
+		<rom name="Data\24三重\matsuzaka.td2" size="979" crc="ac078c62" md5="4bd97f2fd3d8e198931b4f729fc8ed22" sha1="8afdc750465f8fed68cbea613a8bd86b70983aba" />
+		<rom name="Data\24三重\nagashima.td2" size="979" crc="b694be5e" md5="e0c9665927b5665f832455d07a0816d5" sha1="98021e23d7805edc68c06033e13186eaac477680" />
+		<rom name="Data\24三重\owase.td2" size="979" crc="133c192e" md5="61f121038afe5afa35f619f2efbcd5f7" sha1="e1dae083cb627afb696e5e6828a52ab8f7ff2b57" />
+		<rom name="Data\24三重\toba.td2" size="979" crc="e3e67f4e" md5="5d78092f25d65ba67e44d3e4897bed4a" sha1="9708456d97c92abb8d13511bd33207db67eb0669" />
+		<rom name="Data\24三重\yokkaichi.td2" size="979" crc="cf2f390e" md5="5b05d68ebd7b2138c4281b932d5bc2fe" sha1="61cbf81f0b65b0436c546f748d44e5cca59d5392" />
+		<rom name="Data\26京都\maiduruhigashi.td2" size="979" crc="fd2b9c6a" md5="b6ae1fcef6e4558b558c99005576b236" sha1="4c4d3f7073415b71cc3d103d18440c829161d544" />
+		<rom name="Data\26京都\maidurunishi.td2" size="979" crc="9c8d48d0" md5="ea23b3b8d6cc07d689c11d7cbb934052" sha1="d32dce76b137a2bf889bd2b5abe139c1980bcba4" />
+		<rom name="Data\26京都\shimazaki.td2" size="970" crc="a24fbe4c" md5="40c3d9fc1eff4d9e90bbd51b294e1c74" sha1="1f8e3fa79f15437f4c39a105986099920de02fc7" />
+		<rom name="Data\27大阪\izumiootsu.td2" size="979" crc="300b7c38" md5="ebd6efe551e114720a8a181f9b279287" sha1="cb6fbe96c1146e60fefa2b91387c590ed50519bc" />
+		<rom name="Data\27大阪\kishiwada.td2" size="979" crc="db4981f6" md5="6910da0bc5ae83e3a8c940ec9e3be660" sha1="f5f86c9ca21f1403aae2684265b719fee3028a83" />
+		<rom name="Data\27大阪\osaka.td2" size="979" crc="8b00ef01" md5="7691cc9d11e3fdde5ac081306a6a5e20" sha1="33f88de5cafdf341ff8cf8180e81807fcd459097" />
+		<rom name="Data\27大阪\sakai.td2" size="979" crc="ecd36474" md5="6de2f596aec853997a24483a380e0219" sha1="7ca9899029adb1cebee49bec08859807f5c89e59" />
+		<rom name="Data\27大阪\tannowa.td2" size="979" crc="78c7d83b" md5="6b37cc706d02506ab5bcfad41645892d" sha1="fd47b82e94a2e7756e8267265f0a17e4ca2e4177" />
+		<rom name="Data\28兵庫\akashi.td2" size="979" crc="403c9477" md5="7e3e4911563e21ce20e73fe2f7e9c356" sha1="1c9c0b565c848391b710ba77767dd6151359592b" />
+		<rom name="Data\28兵庫\amagasaki.td2" size="979" crc="55fc7113" md5="58bcf5089e2840e5092f82ca971371b0" sha1="ada9c5d8e82fb64b942683913ac3bc120fffde6f" />
+		<rom name="Data\28兵庫\ei.td2" size="979" crc="5292789c" md5="4260f6eda17f48797d15064547375ef3" sha1="3c3b5c2dcf446ccd3719613aaa9c1eadc6e0626c" />
+		<rom name="Data\28兵庫\esaki.td2" size="979" crc="61e51b38" md5="701eba485991c6a40b013291b6f6f470" sha1="e1f708c15e6a083d57b81e77c5d24d8f6772c0ca" />
+		<rom name="Data\28兵庫\fukura.td2" size="1029" crc="510f98fe" md5="b2249305b65df3217aaf0313f9807373" sha1="71684146971863b77700c769beb2c48c093a168f" />
+		<rom name="Data\28兵庫\ieshima.td2" size="979" crc="9a198fdf" md5="78a0a9fb0638fea3e4aff796df435574" sha1="09f66f2c1d2ab1acbbcdfa95c3f0eaea4f611097" />
+		<rom name="Data\28兵庫\iwaya.td2" size="1040" crc="ec5af84c" md5="c50d73fd6d08030a27c54f77dc12bb20" sha1="aea2212acd18f00050fd16bcdd227ea603653213" />
+		<rom name="Data\28兵庫\koube.td2" size="979" crc="67cccc8a" md5="c312f961f7d03de7acb56288f43bf5bb" sha1="262c08ccefece3b6e6cc96636412b92d3fb1227c" />
+		<rom name="Data\28兵庫\murotsu.td2" size="1032" crc="0615c4ce" md5="e5aa820f53c325338226928a8e408677" sha1="6bf19151adc8fc6bb6ab3c8ae468dce36bfccedb" />
+		<rom name="Data\28兵庫\shikama.td2" size="979" crc="e2eadfcc" md5="05839475ae37949196924e6b9e51fa0a" sha1="6ae9b0fb8c85f4978f23c8e30cb4b9cb64df8f7d" />
+		<rom name="Data\28兵庫\sumoto.td2" size="979" crc="5969c7ca" md5="166f626006a0bfa144bc80abe3e2ad02" sha1="1ddbfbeb8bf64ebb515664c53e5da45de93ba439" />
+		<rom name="Data\28兵庫\takasago.td2" size="979" crc="15bdfd6c" md5="88f936e9a455646271b36715d89a9ddf" sha1="8cf5844a173c85bd80464e7d691d5547a258592e" />
+		<rom name="Data\28兵庫\tarumi.td2" size="979" crc="59b046c9" md5="1416d2009146c5e06a20b0da9f0c11e1" sha1="53846df78665528c3592ddeaa42f7f519f4c05df" />
+		<rom name="Data\28兵庫\yura.td2" size="979" crc="0f6a8e17" md5="20383df647f89f5eab531d623923bce8" sha1="3aa978e8dccf0b5a4ad1ce5e7cba714f055d4b4b" />
+		<rom name="Data\30和歌山\kainan.td2" size="979" crc="144d5ff5" md5="06a587a48eac4a7bd8d9cccf739a6a3e" sha1="32e139cc9fe2016ded04bcdb48a75a792ac376dd" />
+		<rom name="Data\30和歌山\kushimoto.td2" size="979" crc="66ff4307" md5="0ca490081393bbf9881d370e60a4bff2" sha1="c567ccdaba0e05038ae67bc0f300a4d53f0c155c" />
+		<rom name="Data\30和歌山\okinoshima.td2" size="979" crc="b356c94e" md5="89a2209555f48fa3c6079c48a42b38d0" sha1="71c490bbb1760d31d8b8aa4b031aec4e1d192b5a" />
+		<rom name="Data\30和歌山\shimotsu.td2" size="979" crc="7f00a0b8" md5="bd073e1542cee160f172506ec868b451" sha1="826b74c275aa0dc899e8d7780f060419f429a64b" />
+		<rom name="Data\30和歌山\tanabe.td2" size="979" crc="601e2a05" md5="293b57612eb1bc8cbac56876f8243daa" sha1="97b960c8eb7ace9c2d09b6f903f43a64e406f8ce" />
+		<rom name="Data\30和歌山\uragami.td2" size="979" crc="8346e61b" md5="617c7ad70ccec0fdac1f10013f50d776" sha1="8421c532d8613e6c1caa6ea675d5d5824f486982" />
+		<rom name="Data\30和歌山\wakayama.td2" size="979" crc="9f5ba81d" md5="9dd2c8e9c515b22de3e125eb39a4427f" sha1="4fef15aa9362b12dac078432810e9b34115972af" />
+		<rom name="Data\31鳥取\sakaiminato.td2" size="979" crc="b891610d" md5="a6b7fc732bfc3d0b17082247ab0232d1" sha1="1e158178588d54d63ecc10f56d8d19c47c889122" />
+		<rom name="Data\31鳥取\tajiri.td2" size="979" crc="7aeb10fa" md5="3922406905777bd836d0a34056c7bfb4" sha1="7e2e4737fd3ffec104ecad7fd01578680dc89b2c" />
+		<rom name="Data\32島根\saigou.td2" size="979" crc="ee587266" md5="07628e25da08f9a4b2f1fa1d608c6064" sha1="4dbe8ca943550ddd7e8eab2039d6a4c2719703bf" />
+		<rom name="Data\32島根\tonoura.td2" size="979" crc="432fdc17" md5="4ddf9064281455936c54646b067675a9" sha1="8e45dde09197ad6ea099b7fbfbfe2b09a3698fdb" />
+		<rom name="Data\33岡山\kasaoka.td2" size="967" crc="db9cf120" md5="9fbb917fad650aee0115292eb472494e" sha1="5dcdd35635afc49e7c40f03b514a85c5a54cec22" />
+		<rom name="Data\33岡山\mizushima.td2" size="979" crc="d1d4d803" md5="d50483dfb513b71b24280d70dfed3770" sha1="c3491f4a9a940d405d2cb9370e369b4b7001a35f" />
+		<rom name="Data\33岡山\uno.td2" size="979" crc="949ec615" md5="bb778ae35dd4812c02085c95ab9ec309" sha1="eb5679986be962248cc0ccfa7ef22daf13ce4610" />
+		<rom name="Data\34広島\fukuyama.td2" size="1075" crc="2c9e8ba8" md5="5aabdffc5cbd7ae23ebe02bf0ae21939" sha1="d0990c0319d2f9bb18e042305b3df91c96abfd07" />
+		<rom name="Data\34広島\hiroshima.td2" size="979" crc="3290d309" md5="4b4cf356ce073fcdcd38762970d2a3d9" sha1="9ae03c3739c4096a193833364e065c0af71222aa" />
+		<rom name="Data\34広島\itozaki.td2" size="979" crc="403dd600" md5="7b6511a589c48532ad64d246f0de5bae" sha1="3b7ae6ee4e546a9f53fded0b7d28dbe76c0bab30" />
+		<rom name="Data\34広島\itsukushima.td2" size="967" crc="bd3319cc" md5="f673e669e749f2feace8fc01f15c8270" sha1="03ae34794a6abcb2b43b2fd929ce36752624d7ba" />
+		<rom name="Data\34広島\kure.td2" size="979" crc="5df0851c" md5="5a09fb7c68dba73a1846f1ee2e733605" sha1="003d9e346e9464569f1129bec6cb9c153518d8ca" />
+		<rom name="Data\34広島\onomichi.td2" size="969" crc="664b0d1f" md5="30b4ae5f0cad11f76d617799fb07eab5" sha1="6814823fc195701bfdcb7eaea46c9e1ef04e97a5" />
+		<rom name="Data\34広島\takehara.td2" size="967" crc="a1975270" md5="2a40279d86433cb5d533aa90123bc60d" sha1="eb4b1ce94df944c7617068fad8110ae8f4e631e2" />
+		<rom name="Data\35山口\choufu.td2" size="979" crc="8d9eb3e9" md5="272154ddbbfec67a34173062c483a4bc" sha1="01693b0e4f711c41c29f3dabdf1c0e590cc82d8c" />
+		<rom name="Data\35山口\dannoura.td2" size="971" crc="5b910084" md5="931b485bfce86eef98da1c3aacad1b6f" sha1="a353fddc8dc84813c693e0d91ec522d22196ba74" />
+		<rom name="Data\35山口\dejimatsu.td2" size="979" crc="3f2c05de" md5="eb050862a905ceab1c7c941e52e19b02" sha1="f1b00afda51b1ab0a26a6b4a817a1e1384c55e53" />
+		<rom name="Data\35山口\haedomari.td2" size="979" crc="e9478f08" md5="1fa9208ae26a8f19b4d40e751c3d769f" sha1="76d2ac62c0144da77f5c0079ec3f3f847d28d0a6" />
+		<rom name="Data\35山口\hagi.td2" size="979" crc="2c442b63" md5="4e6f5bb9cca9ac463eadd20299edde0c" sha1="af10e882a432f0de292544d63c88067ad039352e" />
+		<rom name="Data\35山口\higashiage.td2" size="971" crc="05cc888c" md5="ee1cef3da7f79124f39bd0bbca3d0c00" sha1="33a01f19b7e626acc81c2c29339b8f2d9e9224a8" />
+		<rom name="Data\35山口\iwakuni.td2" size="967" crc="4aab5e9b" md5="94cfbd3706c89b4cf03e0c677f12e344" sha1="ed42dbee63f1fea775999aa9125d0e0289231d28" />
+		<rom name="Data\35山口\kaminoseki.td2" size="969" crc="6244b847" md5="cd4e7e705911ddcfa66e65336dd7327d" sha1="95495f563cf177c44f1412f95a3afb588b3504c9" />
+		<rom name="Data\35山口\mitajiri.td2" size="979" crc="ca454b05" md5="7879b90379fb99e18b0719ab12c2e73b" sha1="e345d66d5313ab56d3d0cd14e984663283248845" />
+		<rom name="Data\35山口\okikamuro.td2" size="971" crc="e1874ee5" md5="d76919e2e9f1e258e5fcbe8bffc79214" sha1="1b09ce65eb9846c09c39d5a0b798773a088fef5b" />
+		<rom name="Data\35山口\oodomari.td2" size="972" crc="50615a33" md5="f555e2b55080f1b67071e4c0f57e54d1" sha1="170c8c6dae4f7749d599d316d2eccee128303ab8" />
+		<rom name="Data\35山口\ooyamanohana.td2" size="970" crc="e96d407d" md5="dc4f5868eab59d63604bc0fd63fab0be" sha1="8c7a3ae4f4434a9a0e90f5358e8a03a4fc5b1242" />
+		<rom name="Data\35山口\ryougenda.td2" size="969" crc="d3d2e773" md5="cb21495d18177d350e4f2b993cc27b90" sha1="9b1d2415361b90711b76b98fb4b5492822edd86b" />
+		<rom name="Data\35山口\shimonosekisan.td2" size="971" crc="153be8bd" md5="e348e352c213e70281f00a0dc5e6e4a7" sha1="bde86b1292bf6c8389c3babe7bf61381fca24c23" />
+		<rom name="Data\35山口\tanokubi.td2" size="979" crc="ff0ba0d9" md5="7f771cb01d016d571db29b5019e9ac56" sha1="dcd4caa71ab67696585832822aed0874113d09f2" />
+		<rom name="Data\35山口\tokuyama.td2" size="979" crc="922363c2" md5="8da48f59a7e6fec34bdf6b4fb67fec15" sha1="f7272b2f60880db6bb3caca7453ac93dfafa9cff" />
+		<rom name="Data\35山口\ube.td2" size="979" crc="3940607d" md5="533cbaa50ed74dc4d4ec2869ecdec3ad" sha1="0b66bf89d5ebfa50076af8ffc8c4ef1d89d8a30e" />
+		<rom name="Data\35山口\yuya.td2" size="967" crc="3d6cee16" md5="decad04fd62fd6aa6e4e5d7e4c18e9fe" sha1="a8763f1fa5b71a35c7e2e8765f13b0f2843eeaad" />
+		<rom name="Data\36徳島\dounoura.td2" size="968" crc="51a09c36" md5="55e5c32f3d77f2a561b0ebd49b773d5e" sha1="38519fbbcd9c3900db3cc1851dee016607d398f3" />
+		<rom name="Data\36徳島\komatsushima.td2" size="979" crc="636515f9" md5="4c48863a791857d28adff24c7f6fc2a4" sha1="46887707045de79e5d96f501f3517586ef540dd2" />
+		<rom name="Data\37香川\aoki.td2" size="979" crc="6ec66270" md5="f5b90731630c7454f1c8d9d61b636efd" sha1="5157a9fa6c0f1a84997278fbee306191a82ff265" />
+		<rom name="Data\37香川\awashima.td2" size="979" crc="51f47632" md5="bf7c99bba7f4a9844ab218364149c5eb" sha1="b01e744ce416f893610555d6378b1466fc2e9953" />
+		<rom name="Data\37香川\hikida.td2" size="979" crc="b9f69139" md5="cc28f2725d913cbea97810cfda1c35e7" sha1="9ae65e48da6ad94be8cc68fd4e2eb1eb8d706d10" />
+		<rom name="Data\37香川\ogijima.td2" size="979" crc="b2c14e1e" md5="a061a0005df128dd4186f4564ae4554f" sha1="a05cea05f43613a22f327257ea2274526ecc4866" />
+		<rom name="Data\37香川\sakaide.td2" size="979" crc="56375514" md5="7006f5a3935eade724b94eb8ad567428" sha1="216afe43805f98427b8483e3b9fc8dc149a85671" />
+		<rom name="Data\37香川\sakate.td2" size="979" crc="eab26783" md5="77197255dd9d37da577ae4bbe11d50e7" sha1="fbeb95a8fb554a292b02593e01a594192b607d80" />
+		<rom name="Data\37香川\sanagi.td2" size="979" crc="9d25cd62" md5="fd0cf2fd7c7152f56842ccd206269283" sha1="a011b3c795d5a225cc2e328b269ac952c2ed7dd9" />
+		<rom name="Data\37香川\takamatsu.td2" size="979" crc="6647a5ff" md5="5770bc2342740a3248f579d050d3d08d" sha1="450bbedb9daf427e9fe1962349244ccda15f333b" />
+		<rom name="Data\37香川\yoshima.td2" size="979" crc="f366ae55" md5="dbb48b2bd12bed6652faf45da4e49e4e" sha1="a2648e87f48e271eb435af312efae902add94060" />
+		<rom name="Data\38愛媛\aoshima.td2" size="967" crc="c4c85e40" md5="a486a085614c5c8b5945ca5e13f4ceba" sha1="9d7fcce4def2ab739084f182643d6804b15d6d6c" />
+		<rom name="Data\38愛媛\gogoshima.td2" size="969" crc="f241b449" md5="818ced26302648e6f48dff231457e02f" sha1="306290fa84f973e465669c270dbd442a552830c6" />
+		<rom name="Data\38愛媛\hanaawase.td2" size="975" crc="9dee1262" md5="7ee96158a400d7890fef1e49393a4680" sha1="5092c0210ccfd495d28f7b92fda29503863936eb" />
+		<rom name="Data\38愛媛\hatohama.td2" size="979" crc="01b4a684" md5="1192297dbbc226658920a98bc77a5b6f" sha1="f01748023be6dc2721c3b5509c6263b8e5ccd162" />
+		<rom name="Data\38愛媛\hiburijima.td2" size="969" crc="eb774bb9" md5="ea230f841b6fd59c879a4f3cb751b42b" sha1="41ea147ccb7e660e5daa1248b4b6cb725b8a8c4e" />
+		<rom name="Data\38愛媛\imabari.td2" size="966" crc="acfcc570" md5="cb73aca7f2a2fff4bf19d7e055fb7f15" sha1="aceb5b621bd1dc404578501f41ea735668398df6" />
+		<rom name="Data\38愛媛\kikuma.td2" size="966" crc="7f933504" md5="0e132953ec847533c6ee5ad5d2a69cca" sha1="d59b18eb51efe6014e0316494734f2e2f6b4c3a3" />
+		<rom name="Data\38愛媛\kojima.td2" size="979" crc="41aa2507" md5="89f1a215df034000f15346b1bb268856" sha1="fce0f92754831235c2f6fcaf330a1e8bcc56efc0" />
+		<rom name="Data\38愛媛\matsuyama.td2" size="979" crc="c84cce4b" md5="0352cc541712e699c2528f57de98cb57" sha1="5b4b529772643efcb72234af0a2562df8c63f247" />
+		<rom name="Data\38愛媛\mishima.td2" size="967" crc="e9b952f9" md5="24efbff3d399a19eb521c3001d823fbe" sha1="0cc8f118d0f4407dd60f60fd3351f59c94155f8d" />
+		<rom name="Data\38愛媛\mitsukue.td2" size="979" crc="803562d5" md5="a84fd1b18a15bfadcd693c34e7b596c4" sha1="aebecdc795e0ab77750180ac97a8c08a5c976864" />
+		<rom name="Data\38愛媛\nagahama.td2" size="979" crc="a5628508" md5="b51293c090973e436271376de67993ad" sha1="3ba3b5f8d78b026ebf0f3193e069a83d735a3f26" />
+		<rom name="Data\38愛媛\niihama.td2" size="979" crc="97ea4f49" md5="9025eed79a2a303a09c290fa57f258a6" sha1="8ab2c8eff93370577f8f350552865a216945f341" />
+		<rom name="Data\38愛媛\saijou.td2" size="969" crc="1b1578be" md5="398293a32af5c33e8c163d808e4d0203" sha1="ef880e7f435d69245e4f177b8a7924a11a933a12" />
+		<rom name="Data\38愛媛\uwajima.td2" size="979" crc="134baaca" md5="4b2ace3b4bbb0982d1b9b3b792ae33d1" sha1="0d8b1c8d63f5aa3f945302a5a7f252e390f337ce" />
+		<rom name="Data\38愛媛\yawatahama.td2" size="969" crc="08892707" md5="4ff82c8a6f07092e1cfa40ab24736f93" sha1="59b06c13480d1dc611f7cbf6d91a79d5ffb37045" />
+		<rom name="Data\39高知\kouchi.td2" size="979" crc="ac4ef4b9" md5="d11d40d871db9f1a2e0a485df578c941" sha1="e891e11bee42b6f532a0663492f15a3f32a3dc2d" />
+		<rom name="Data\39高知\murotomisaki.td2" size="969" crc="f15af80c" md5="f104bf261b775d50c902ece41c5fc2fe" sha1="30e0e1fe55463c3c065c412e19d67ecdc59b8fe0" />
+		<rom name="Data\39高知\tosashi.td2" size="979" crc="2e751ca3" md5="249a8bb582375c9e8fa90a413297e771" sha1="592c79c40e8a6f65b728038fabc512118bdc2a56" />
+		<rom name="Data\40福岡\aohama.td2" size="979" crc="cb0b1472" md5="56d8ce7dac3a382feb71e61dc3795dce" sha1="60e0e874cf116eb9df88822d02fe0f22719304c5" />
+		<rom name="Data\40福岡\fukuokafune.td2" size="979" crc="cc078ffe" md5="5040f609ed8468f2ffab2e3a638dbf36" sha1="c1fc1de7cdf645cb7544ae8033a3e672eb9e12fa" />
+		<rom name="Data\40福岡\hakatabune.td2" size="979" crc="19752627" md5="80051e4b1831d33f8eae506b71ddc71a" sha1="d72ce18502c918c374bbc3fa8a7efd9ad14f2625" />
+		<rom name="Data\40福岡\kanda.td2" size="979" crc="7488d2f6" md5="3731083089443b1dfc7dc5621efd9871" sha1="ccfe6eb933400168b7a023708ff51623c15d95e4" />
+		<rom name="Data\40福岡\kyuumoji.td2" size="979" crc="5eac8773" md5="832057eaa78a13cf105e09a88abb4127" sha1="79abb3c9752b8d7bfebe0c52a5fa11d5981be92e" />
+		<rom name="Data\40福岡\miike.td2" size="979" crc="e4372057" md5="f197bde315754845a88208c76360ce6d" sha1="88fe658866f9ac27fb1bc65429cfe8f72a93e694" />
+		<rom name="Data\40福岡\murotomisaki.td2" size="979" crc="6a0098f2" md5="1ee2bebaf81e801c5de2c9db26b952d0" sha1="e47f2bb900abeca79e1849b771e51829ed743b3b" />
+		<rom name="Data\40福岡\nichimei.td2" size="979" crc="5064e130" md5="b99f0398da33b03d24f7b0f914ca97ee" sha1="af7e29ef50fbd4cdb2be93ec8ac6df75dce14fbf" />
+		<rom name="Data\40福岡\nishikaigan.td2" size="979" crc="ae43b576" md5="8d5424a7c545daaf496e006edc0c2e39" sha1="88dce50be3d92cff229cf8b8eb01ec29809777eb" />
+		<rom name="Data\40福岡\sunatsu.td2" size="979" crc="909642be" md5="53a69c4ab8415601a3357e97af075f85" sha1="48c144c1831c819afee30a964c989a0255e57313" />
+		<rom name="Data\40福岡\wakamatsu.td2" size="979" crc="959b46f5" md5="dd4eb3795f95ea3015470d4f63a6a1dd" sha1="4bcc13e54834fc75c2166274a957df234dfa0b38" />
+		<rom name="Data\40福岡\yahata.td2" size="979" crc="9552bab3" md5="602fd5035ae5e750763ba593e7a9f288" sha1="bd8897d11953c362de42bd265b288f32f43a2435" />
+		<rom name="Data\41佐賀\karatsu.td2" size="979" crc="493d3053" md5="149cefb33f0321c3891352430dfe8b5b" sha1="eb329d9f24a179bb90b7aec2b13de3fdcb27a01a" />
+		<rom name="Data\41佐賀\kariya.td2" size="979" crc="0d3e0b01" md5="2930f56a7d59236fa631c4ed6200bcfc" sha1="57d4ce96b8d50bcbee8eb0f6db3a6812746cb241" />
+		<rom name="Data\41佐賀\takezakijima.td2" size="979" crc="548828d4" md5="61692ede99bc51255aba509f24942e91" sha1="5d45fa2a0aeadf15c9e4348f67ca49132a1d61e5" />
+		<rom name="Data\42長崎\aokata.td2" size="979" crc="23d6864f" md5="f280c6330bc50d605beb08edd7dcf4a2" sha1="95b3a197ae34dd779854d2ce5c00134597015ea6" />
+		<rom name="Data\42長崎\ashibe.td2" size="979" crc="d735edcc" md5="63e2fbbbcc791976e30e9a4c2f18c1e2" sha1="68a2bdb36e541ecc9d37552f5123705fde137a29" />
+		<rom name="Data\42長崎\fukahori.td2" size="979" crc="c899cdbe" md5="9df1ba3269764561d5f041fe8d2d7bae" sha1="5504408b66a32aaa4429d55d0cde6e627f6e59c2" />
+		<rom name="Data\42長崎\fukue.td2" size="979" crc="a2a7cd5c" md5="1ec906c5b3f061476781d16bf36f686e" sha1="283a70a7e54348fa243fd0a6fd890aebfb470a18" />
+		<rom name="Data\42長崎\gounoura.td2" size="979" crc="113de50f" md5="fedfe7dd055729df8a242bf7dfff5057" sha1="25b4a1873db00d30f9b439e25bf59d64acab3f1b" />
+		<rom name="Data\42長崎\izuhara.td2" size="979" crc="05dd1a12" md5="c3ed24373ef3137eb1761487fc34ad6e" sha1="89dab45109d5ab417ff46479eb4ab17c5a353bbe" />
+		<rom name="Data\42長崎\kamoise.td2" size="979" crc="3b37a22a" md5="1d79961d771d501b1e82e5881bc3cc4a" sha1="8973dc7e8d65a4d7e3a45155693b85cdd1548346" />
+		<rom name="Data\42長崎\kuchinotsu.td2" size="979" crc="53694ceb" md5="567f52069283a949cb609e8392d4b9de" sha1="40ffeb891f6b7a4eed4a53bdcf9d2126727d8e2f" />
+		<rom name="Data\42長崎\kunehama.td2" size="979" crc="5fc2c344" md5="fc385b3c1444389ad2758c0d1be87e58" sha1="aa94ca7929544bcb6259b7e72cc51c3d88318050" />
+		<rom name="Data\42長崎\matsugae.td2" size="979" crc="4018a57c" md5="04e17d231f08bf7f83e05f4ae5edb813" sha1="a45d85a800b282de5caf3b17ccc7fb48b96753f7" />
+		<rom name="Data\42長崎\matsuura.td2" size="979" crc="93fc758f" md5="65a3689b130a22fc03712ab108a332ed" sha1="e9ce9beacc758150b42438ec6c988124dd87e45e" />
+		<rom name="Data\42長崎\saga.td2" size="979" crc="fe77367f" md5="696f5032085da4effc422f1beaefbeaf" sha1="5fc7f555586c214172fe2baad0cfb3f915cc8a1a" />
+		<rom name="Data\42長崎\sasebo.td2" size="979" crc="4329e862" md5="7e63ff5c7a3a0d1bb55664ac76af599c" sha1="c64bc1ed416a0d159f12e0b611a629baab761cac" />
+		<rom name="Data\42長崎\sasuna.td2" size="979" crc="1172e059" md5="5ba101cd09ca3e9bc4acc205931634fc" sha1="34e94b68e2ba476f04df93b697f9c02df6f7400c" />
+		<rom name="Data\42長崎\shijiki.td2" size="979" crc="bf86dd1a" md5="edd9c76fbedacbdf363754153d16da5e" sha1="7843e9d7be8bd004063ff15725538a1daaf915ec" />
+		<rom name="Data\43熊本\fukuroura.td2" size="973" crc="8f099fad" md5="81a3d900e83f6264bab90aba6d583abe" sha1="e021f6f1c93eee20630e21d2b5b066f1ce63c5a3" />
+		<rom name="Data\43熊本\hondo.td2" size="979" crc="f4be52c5" md5="437d1a8e0e6d8369d5c7fbf6f53941e3" sha1="a980d1018d6d8729fbab6185ab6f3507708efff6" />
+		<rom name="Data\43熊本\ikenoura.td2" size="977" crc="8847723d" md5="cd3f76834538dde206e0c80741ea1183" sha1="6b83664a5bcfa88a51dca63df76cbf8e29b4bde9" />
+		<rom name="Data\43熊本\kumamoto.td2" size="979" crc="62ab98c5" md5="4a5c9b1fa5391bfced0c6c306092dfe0" sha1="f68f19b0e81c4cbd9e546a99e1e52a190540dd93" />
+		<rom name="Data\43熊本\minamata.td2" size="979" crc="7533b34b" md5="f37fd7dd518fe5c5d094d690fe24d88f" sha1="dc5b49b88bb90bc5996ec6c5970aedae436b29c5" />
+		<rom name="Data\43熊本\misumi.td2" size="979" crc="9c248a4f" md5="dd44f5aa76c65815fa96b8d470fbb093" sha1="c5967fde74f65682cb9ea682ef217cfce0529160" />
+		<rom name="Data\43熊本\nagasu.td2" size="973" crc="661e27b6" md5="730a6d5ffbf14b0ac22f61dcbd14647b" sha1="e228f9101f445b1b9a6ebc6eeb43e7a9353180e8" />
+		<rom name="Data\43熊本\tomioka.td2" size="973" crc="959fbc99" md5="40f1448088a4bf4828b298b158b54d70" sha1="b370211ec918546a59539de5c8952de45336a97b" />
+		<rom name="Data\43熊本\ushibuka.td2" size="973" crc="e272f7b9" md5="bffe649c626ea02c0c3be768d343822c" sha1="fd59dcff29d5588f341f65faa318bf72a3c919fa" />
+		<rom name="Data\43熊本\yanagiseto.td2" size="977" crc="22b9f6e6" md5="12002135aed454a900d8db63de0e084a" sha1="bec0fc12a448dd4a9d3b020658a0da2806b8d306" />
+		<rom name="Data\43熊本\yashiro.td2" size="979" crc="34ab6ddd" md5="8da6fde2ab6e53c20af46d01dd7b3168" sha1="fea9d1c797c0a7b999adcd85ec2b6ed38d1fa8c3" />
+		<rom name="Data\44大分\himeshima.td2" size="979" crc="a2bd9c4f" md5="1c934f8e923cfe7a2b88b1b745447e56" sha1="38e81277c1c0cfd635eae37e90a4dc2084e4cf06" />
+		<rom name="Data\44大分\nagashima.td2" size="979" crc="8877d0b2" md5="f5387871de8edfd50a399d2686b0252d" sha1="1c9468107a17311dd1f75f55a2b6d5cfe25e2a63" />
+		<rom name="Data\44大分\nishiooita.td2" size="979" crc="70a55822" md5="c0a0f4d3a92331b2b27586efbd691f51" sha1="f29f496039593ef7f078eb0c650d733e2b9607c9" />
+		<rom name="Data\44大分\shitaura.td2" size="979" crc="f4db24c9" md5="c535b5a4b6e0877c5f5c3ceccd834bfa" sha1="bc37f1d67b49847ee3bee366af6e33dc1b46ac08" />
+		<rom name="Data\44大分\takada.td2" size="979" crc="f660e786" md5="95be1aa69b07554bc1511458853fe793" sha1="72eb84ffbf45db857c1cb34fe6b24ec4d3dba604" />
+		<rom name="Data\44大分\tsurusaki.td2" size="979" crc="b3cfe4d7" md5="975e5ced2678fddeb23a8d13ea436c6e" sha1="8872bfd22b9a65dafc491ded840be726ff9c1030" />
+		<rom name="Data\45宮崎\aburatsu.td2" size="979" crc="582dc39a" md5="511234bfc0f58e5bfdfcd39708edbe07" sha1="28f5b301b87b70ed52deb2231486ac51ec67221c" />
+		<rom name="Data\45宮崎\hososhima.td2" size="979" crc="dc68267d" md5="819dd51378d393f461ee488e191b5a95" sha1="06e18b8472a52ffc5adbc5b31668980934121a0a" />
+		<rom name="Data\45宮崎\miyazaki.td2" size="979" crc="16eb3517" md5="53d52b92158f1c15e906834d2dbb92a3" sha1="dc04e0b0135ac42c8b761cd5ae40aa988cbb6c83" />
+		<rom name="Data\46鹿児島\akune.td2" size="979" crc="836a0556" md5="243aa1eccbaee0d859ffdfc0f31b6234" sha1="ac32f7ddd117f02be4e389bca7b752c0589208ad" />
+		<rom name="Data\46鹿児島\kagoshima.td2" size="979" crc="30fdf3dc" md5="f62c35b9b1ec171746960e38fd21d3b0" sha1="ab92cd3546d1200bed702dbaf93cf18ce1671a5f" />
+		<rom name="Data\46鹿児島\kiire.td2" size="979" crc="d8d45f46" md5="025c4f83568c58a940abcf9a895137ff" sha1="3a3fbdb3758077318e4b497efd8735de99525585" />
+		<rom name="Data\46鹿児島\koniya.td2" size="979" crc="f5567e1a" md5="a6f8eced3b2073fa00c668a2a59319d5" sha1="dd3dd2d60b6f644dd6a5716b63f29a2a2e65a768" />
+		<rom name="Data\46鹿児島\makurazaki.td2" size="979" crc="f4be182a" md5="7e3d569729c636dd8b8053266e28a3cd" sha1="fe1bb97df5d0ecbf8af93f754bfa60074e5d30e2" />
+		<rom name="Data\46鹿児島\nakanoshima.td2" size="979" crc="d4be4dc4" md5="c53d2985e8335fb2f96c4cde0f025c94" sha1="a9b3c0cca83277980ccc231741a90672b3fa0366" />
+		<rom name="Data\46鹿児島\naze.td2" size="979" crc="d71e4553" md5="28a3f6bd49f6af02e14e025027b4bd10" sha1="299b1082a4f15a39b5d3e72588f7efd0ac22c95f" />
+		<rom name="Data\46鹿児島\nishinoomote.td2" size="979" crc="af71a507" md5="bbf4aa59c98ea21945ee7e645283e5c9" sha1="a177537dcaf59756b111d25c5109b5742151c0e0" />
+		<rom name="Data\46鹿児島\oodomari.td2" size="979" crc="650aa217" md5="ae1747f5e202030e6b9fb564b9171c6b" sha1="05ac8b2dffd0aba652aa1a544e49537d25eb1369" />
+		<rom name="Data\47沖縄\hateruma.td2" size="971" crc="38d89c82" md5="a64db9ad78f2ba188da3a4d38221fcc6" sha1="0ba9a7736fea57e5776f58ebf392403987292d82" />
+		<rom name="Data\47沖縄\hirara.td2" size="979" crc="d3b2b8a2" md5="d36fbd88dff40c7cde67fb66f3b437dd" sha1="ce9c96e29dcb62f250daa94b07eced6bb47739f0" />
+		<rom name="Data\47沖縄\iriomotejima.td2" size="975" crc="d1c562f7" md5="0c663bee6be6ced92884f08c9274750d" sha1="65ef77a8b478915a1369af65993f2a5801a66f56" />
+		<rom name="Data\47沖縄\ishigaki.td2" size="979" crc="bb95f9d4" md5="36182728b8ca2a59c2d2f3dcfce23c86" sha1="14c91440e3a8f408a5406c73a0b865f833e81777" />
+		<rom name="Data\47沖縄\ishikawa.td2" size="979" crc="359cc21f" md5="961c4ef12e8371cbd5081cc4613b9716" sha1="bca3d090628d873099ef96148d69fe13debfe84b" />
+		<rom name="Data\47沖縄\naha.td2" size="979" crc="4bfc1336" md5="14872d7d16a824ac0d2532972ef7ecc1" sha1="8f69a8135800739c8bb820c426a3bb60bfc21379" />
+		<rom name="Data\80その他\cebu.td2" size="955" crc="8b64562e" md5="6f6e1245af8a287a957227a521503fed" sha1="e1cc87152edae00ae40a3db90797d3410c6d2683" />
+		<rom name="Data\80その他\kataokawan.td2" size="971" crc="64a9e756" md5="40b406fe73afcce23e19ba4d5742747a" sha1="6f8d82de9b4891b4b6225d807ab07a69abcce002" />
+		<rom name="Data\80その他\pohnpei.td2" size="949" crc="082b9e8d" md5="9a395a07d459747852fe587870454af6" sha1="e7fd8dd311b5f33f3f672eb18a95b272c74b78b4" />
+		<rom name="Data\80その他\saipan.td2" size="951" crc="d467753f" md5="8c0265e21991fdaf83d8e21291a4feb4" sha1="52efc6bf855d8481d80bed08104bd6eb0b331b62" />
+		<rom name="readme.txt" size="1270" crc="86d6b9d4" md5="2dcc28c6f874f37ed028c3563225e085" sha1="a40a5d7b4829dae31f95c4ee6e0de460bc76ce32" />
+		<rom name="tide.pex" size="24664" crc="ecdc0933" md5="0341633e5802993ac8292a22c96c79e4" sha1="896bdba3fd88d76ee0bfecddf026f733b7aa2fbf" />
+	</machine>
+	<machine name="Tiny伺か v2.00 (2003-05-30)(MZK)">
+		<description>Tiny伺か v2.00 (2003-05-30)(MZK)</description>
+		<rom name="readme.txt" size="3394" crc="63566d0a" md5="2707400f2a12660195de9390e81d1aa2" sha1="2502781d60b16c4890765e0edc6ddd6b93440280" />
+		<rom name="shiori.4th" size="4826" crc="b063c853" md5="392d2c1c98f738d29cbdf6c43f5e0286" sha1="ba0fbfff809e3eedbee0be0129ad22ac07ec9116" />
+		<rom name="sn100.pgd" size="2060" crc="22944661" md5="c0e2790951b3143f114bcf8c5c2101d1" sha1="7176b957e865a0ca8e3ea6fb9f76500ad4c455e7" />
+		<rom name="sn101.pgd" size="2060" crc="f57e24dc" md5="c9bf4eb7d01a079dae6334276bcd337e" sha1="643698de2b0b0dba2cf63eab5356266103cc5795" />
+		<rom name="sn102.pgd" size="2060" crc="14cd49be" md5="e508edc8b0969014dcef219129362580" sha1="510932c1c81e5cbb5495ff46da2b88a7fad65f5d" />
+		<rom name="sn103.pgd" size="2060" crc="0bba5ccc" md5="2b928be4188e96ec02a2c5a9bc8cc1af" sha1="0af7ab3bb543915cd0281214879174850cf65b3c" />
+		<rom name="sn104.pgd" size="2060" crc="68813a9e" md5="eb0e3e6ca0baa2e5a165679de23c308c" sha1="1e22ab8ca7acfdf3ba2cf2993ff6525590970541" />
+		<rom name="sn105.pgd" size="2060" crc="2aa37816" md5="b326ddc817e671f129e4f32b49ec8dbd" sha1="d4c7dd1ee251c06133a810c60505b901a5faefc2" />
+		<rom name="source\lib.4th" size="2974" crc="8bfa7fef" md5="40ac63d99df7634aa172304898fb5af1" sha1="60c22c8d2254cd92679c30f356b3ac7d5f132905" />
+		<rom name="source\main.mk" size="1565" crc="b5f4d107" md5="734e8ccde58574fba2f040ecc26d32c4" sha1="8d801c0f7648978a7a56e6b3e0260ddc6ea8e586" />
+		<rom name="source\makenative.rb" size="813" crc="de0573f1" md5="0cf74d9db1890e3345c5f870ea565e71" sha1="2e19812fb2f9d51c95fac6da25fdbcf689c70f86" />
+		<rom name="source\memo.txt" size="7263" crc="3e63976e" md5="3892780470750a3eab5bf4553ad6830d" sha1="cfdd14b9c264d6f1c4c5321b0050e9c79a62e7c5" />
+		<rom name="source\nativeword.c" size="8908" crc="c68774d3" md5="f2e4442d2930d9e869a37cf974ce84ea" sha1="9672ab2b8559b6c132e78ab5e253415dbb6d8088" />
+		<rom name="source\piece\dummy.c" size="1221" crc="7225ae73" md5="d76144ac26959c88e5a506d97cb6c9c4" sha1="28a119a5bb614d73289df85b0f16f18b51908714" />
+		<rom name="source\piece\dummy2.c" size="1338" crc="85c44a9b" md5="3ffdccff3873b1b19278fcd62563f6a2" sha1="cf7fa33e1b033d5ac0094d96742e231037d4c74d" />
+		<rom name="source\piece\event.c" size="6535" crc="303d99e0" md5="825376869d1c91b850a53996b1df1025" sha1="1e8e0c8c171a9416b83441f2f806397202e9e6ff" />
+		<rom name="source\piece\event.h" size="1463" crc="bc1b5822" md5="02a35a4138ec9ce5f637abafd77433ec" sha1="fff07feff2ef305ce389508fdefae98219d76a25" />
+		<rom name="source\piece\icon.bmp" size="586" crc="d01aaacc" md5="6170260c2394ea3dedba7654d37b245e" sha1="142ed60d8802824568e79a187671151f6b440cc4" />
+		<rom name="source\piece\icon.pid" size="256" crc="c4d6efc8" md5="880b658edefbc78c4a6f918a2e0a9089" sha1="6cbf318a19765a1357e620f414f1cd2b7cb8401a" />
+		<rom name="source\piece\main.mk" size="1642" crc="789c98f1" md5="f82c99439fbe0bdd9d1f68503fde26e1" sha1="196376975042fb5c228585ab4e469da7b1899e2d" />
+		<rom name="source\piece\Makefile" size="1172" crc="4cbfc216" md5="c7f8c866decf6f483f9040d53e9ba7a7" sha1="cf7cebba2179398293bed1c0ed7f698611f46ad4" />
+		<rom name="source\piece\Makefile.sakura2" size="1031" crc="30d3dce0" md5="36e51125bb23b0647baf41b2337d73b3" sha1="948adf90d02f3cd99ac43efa9627aa3520f8a17a" />
+		<rom name="source\piece\Makefile2" size="1198" crc="b3a6ff0b" md5="7e55f8e0baf0b295ef1bc4eb43b934bc" sha1="ba712fee8ffc81b78197610463c1a3af59fd781d" />
+		<rom name="source\piece\md.c" size="2128" crc="d7ab4e61" md5="4c4c094aceee411ab52b7f9bed384446" sha1="aaabc89bf79e82bd1a5be241bc8e3b938a4d2de6" />
+		<rom name="source\piece\md.h" size="1588" crc="3a6abcfe" md5="bb5079a354e574b483f204933c229054" sha1="ff37c5fcba09c16e1d8db331279750b78669642c" />
+		<rom name="source\piece\md_native.c" size="4227" crc="79cd8f72" md5="b9d50b778818fc9fbbee307f68be9a97" sha1="eda14e5eef1ea191ce74654ce6fa742af83ce64a" />
+		<rom name="source\piece\pcc.rb" size="734" crc="7d2f5415" md5="927f146d2e4257b39fd8e6d46c443d2d" sha1="e47955030177513e80c3aed0edd68f9d8e4b133d" />
+		<rom name="source\piece\shiori.4th" size="4325" crc="1a0d5209" md5="63ef8b481f91ba10627d7c68a8949090" sha1="b5c809efac50e2bd720f6ef44f408c939d1610a1" />
+		<rom name="source\piece\tinyskr2.c" size="2313" crc="723c791b" md5="cf84b82553eaf5d93a6c7cbbc0f97b3b" sha1="386da20d923620d439d8acb50e86d90a4d82e536" />
+		<rom name="source\piece\tinyskr2.pex" size="7802" crc="84ccdafa" md5="05a9189aae629ad20b0c1de01280dbee" sha1="87e7e8c6b27aa465e8a7161f8802d317cbda2b59" />
+		<rom name="source\piece\tinyskr2.srf" size="12568" crc="ca44cb1e" md5="51cb54c6a8a8d380b40dda2f30337185" sha1="7fc75e190d2b8c4353b54a2575c7323ffcf29568" />
+		<rom name="source\readme.txt" size="3105" crc="028d21a2" md5="774a7f34e13f9b24e893cda65e834cc1" sha1="52c80c060414ed2a74104a79b49c2e041c62e5d9" />
+		<rom name="source\tinyforth.c" size="10655" crc="6d038357" md5="7d4066ca363717aef6ed856996a19c36" sha1="bab39446b3bae16244dd606ee89131836c0ced16" />
+		<rom name="source\tinyforth.h" size="3717" crc="9919e139" md5="351d293b54c89f978c4082868fb215a0" sha1="f0a308e0ebb7101d51259b52a331a6322167b39e" />
+		<rom name="source\unix\a.exe" size="12288" crc="1d56d942" md5="3ec575fc3f0e88e7404a152fda679232" sha1="8861ebf47e352c7a3479b2009b7029f92342a4d6" />
+		<rom name="source\unix\dummy.c" size="855" crc="2ad008c3" md5="598e7ba8979533f40961187e141630a7" sha1="ccbb57369185512c422d5d37a1486d021955a584" />
+		<rom name="source\unix\Makefile" size="968" crc="30ad32c9" md5="172978ce5de90fa31d2fca2378eeecf1" sha1="d5c7af2df12ff73cb6764f47ad3b8af4d2bfe61b" />
+		<rom name="source\unix\md.c" size="1499" crc="d88e78cc" md5="10adddfbfadbbe7f5963d86b67f32fbd" sha1="0a95c6674eaf962279bd7e73b8ca448ed470a7cb" />
+		<rom name="source\unix\md.h" size="1570" crc="c351c67d" md5="3e3c86f18e129e43452a5f4c77b68401" sha1="8f1fb68e383aa84eda089dbaf8f41d005fc7df73" />
+		<rom name="source\unix\md_native.c" size="54" crc="6be12a99" md5="60e2200a4e20f5dbea49608e8f29dd3e" sha1="3001ba36030efc6bb7b68dea2bb4b30241fbfc48" />
+		<rom name="source\util.c" size="8225" crc="fadd4971" md5="2c6d524d726c612c697cfc188417b134" sha1="6f9b166a0368f815d50b2a71a13aa06f0bb24765" />
+		<rom name="tinyforth.txt" size="8849" crc="c48ad9cd" md5="208920102183ce3c73bd0be052bad585" sha1="499c3c41490681bc76c10f06b298a019ccc690ec" />
+		<rom name="tinyskr2.pex" size="7797" crc="4a9f2b66" md5="7cceb330897d800767b310adf796d943" sha1="2e3eb199987ad53e413ce6d683d2388d9eed50a7" />
+	</machine>
+	<machine name="WIRE ROBO v1.00 (2002-08-05)(TeamDangeroude)">
+		<description>WIRE ROBO v1.00 (2002-08-05)(TeamDangeroude)</description>
+		<rom name="manual\gamen_p.png" size="7324" crc="9120b07e" md5="b76e0ba6d690d04379e0d3a8b7ac7dd6" sha1="a17f7e5fa508bf393b724a83149d14b4a92daac8" />
+		<rom name="manual\icon_p.png" size="1140" crc="788a8442" md5="817182c24820c159e202743686f21d74" sha1="6551f3f4a351ded64c5223360d09f11a9c0fb21d" />
+		<rom name="manual\index.html" size="6030" crc="af04dff2" md5="2c2194f3e60eed0174fddc53d2642b7a" sha1="73a6c60d4fbbd640787c7de914f9d5a7ee3b56ac" />
+		<rom name="manual\title_p.png" size="14993" crc="eff93333" md5="8429c7184eb6caea19763271bc6b5851" sha1="1fe084f0ec2ea3c026dc3dfafcb395f9ce0cf765" />
+		<rom name="wr.pex" size="81179" crc="5ba50954" md5="f3dfd36c57a9b9787f9995b66f2a804c" sha1="6a51c9d62c44c5ed66bb962f15adce4939947c9c" />
+	</machine>
+	<machine name="Yomuyamo (2021-09-12)(Hanai, Akiyoshi)">
+		<description>Yomuyamo (2021-09-12)(Hanai, Akiyoshi)</description>
+		<rom name="Readme\yom_ex0.png" size="1771" crc="b67e5c2a" md5="f9fdc1be555fea8670d6a033a2b9db89" sha1="da864ef8b35fca629cadaf2b4d30c6717796afdd" />
+		<rom name="Readme\yom_ex1.png" size="1087" crc="0841db3c" md5="28e3c355c22cdebf2c68fd790fab8b2f" sha1="0135d3f907ff0be2bb50cf6f3273ad56d34f7bb4" />
+		<rom name="Readme\yom_ex2.png" size="1214" crc="e565dd38" md5="551672ce1bf2f7f1340fdfcfedc59fc6" sha1="56840a3a99abbecb35c4f0db3cfadb6a30a84edd" />
+		<rom name="Readme\yomyamo - en.html" size="8998" crc="c48d4107" md5="1e701d893c54a54c278ad6acdcacd94c" sha1="bcf6924e6fae080000796453acc098e2bb04c653" />
+		<rom name="Readme\yomyamo - jp.html" size="8960" crc="054b87d4" md5="062689b036309471c1f6a081a2965a5d" sha1="69505355b0dd9a996948866ce96a30c028bdd714" />
+		<rom name="Readme\yomyamo3.png" size="2218" crc="294841f3" md5="accc317197f1a7480736311c744865ea" sha1="6a2ae232f1f4694dbf3933ef2df847e434b36ddd" />
+		<rom name="yomyamo.pex" size="41913" crc="cf7847a5" md5="d2a5101c6ad477a038c6c0e7d8ac19b1" sha1="7507ce30b248455e7b61c34e2f3d36cb97e406d6" />
+	</machine>
+	<machine name="よこぎろ (2002-05-06)(Hanai, Akiyoshi)">
+		<description>よこぎろ (2002-05-06)(Hanai, Akiyoshi)</description>
+		<rom name="readme\yoko_ex0.png" size="1063" crc="9897231d" md5="855a4c4b21b364ca93a9c2beaa0b6717" sha1="b45c93f0f7cc97f492aa9b46b066d04b8a1efe73" />
+		<rom name="readme\yoko_ex1.png" size="1101" crc="f3843be6" md5="5f763d9bb041dcdf557d968ee0350542" sha1="b9782fad990a694cb10a76d590a00824eb20e6de" />
+		<rom name="readme\yoko_ex2.png" size="1123" crc="4dedef0c" md5="23fc669d1f8d61b54ed5c00e36345d0d" sha1="015354f9f6546083bcd7dfd1ae07218d30647411" />
+		<rom name="readme\yokogiro.html" size="2432" crc="a7479554" md5="5e13207795fbd32cf47af3a03b798095" sha1="df810b1671671c38117a9312d44f2c0caf76d691" />
+		<rom name="readme\yokogiro.png" size="1458" crc="d0e08d34" md5="b211885dc32302ac39400e8a6242fce1" sha1="331bee3e15f05925529a9fc11d8e3babc877ad88" />
+		<rom name="source\base.c" size="4563" crc="0dbbc323" md5="ca9e58e134f38d45d4a7e8bbf8a7cebb" sha1="5eee28029801348f74d9a4fbf77d7dba26682df4" />
+		<rom name="source\base.h" size="1556" crc="8948da00" md5="e6148729ba3ce07223220c004db6b346" sha1="f460e6aedb8efd388e87305bf48ac29520305df7" />
+		<rom name="source\makefile" size="959" crc="349fd70e" md5="f509092a04d8e2b1a292960f905e2871" sha1="fe52c2f237b69ef4e869822cd150611dfb98256b" />
+		<rom name="source\pattern.c" size="306" crc="8fe4fc9d" md5="24879dd2e7db9427b31ec2a9bb2a604f" sha1="669c24cfbb4fce30ad7bd036d6356e3770f986b5" />
+		<rom name="source\pattern.h" size="121" crc="c0c774c1" md5="6534bbb235c745d77e053667205a8db0" sha1="2284cea13ad5db3a09e26533b35c9cb66975cdea" />
+		<rom name="source\seq\c350.c" size="3595" crc="22d0cad5" md5="4862887c4b8d14ddff9d2b9aa2613e20" sha1="e78677f035b7470e78e36ba638cf949316e89391" />
+		<rom name="source\seq\c350.mml" size="1497" crc="113fa001" md5="f9955fda2efcbc97ad5f53a0aac709d9" sha1="59b9a922d5c1b7d3420d3f5f513fd74d985cdf03" />
+		<rom name="source\seq\c571.c" size="3906" crc="395f2d0e" md5="2577661cb243e48cfa0248fa5dd79b06" sha1="8e0a2393cda9a480229adbb4d10e42c95a048d71" />
+		<rom name="source\seq\c571.mml" size="1677" crc="7c4ddac5" md5="ff5ad37201dd2287d54e3973a12d6d1a" sha1="91c4ea6712e4cae3dc494d70e0d9094284051794" />
+		<rom name="source\seq\mk.bat" size="42" crc="9c0d125f" md5="d9d782cc51a8f392f13092fb26074805" sha1="aed956807f7e4c298d74c2cf159f0fa34f175f4e" />
+		<rom name="source\snd\i_BD909.h" size="9543" crc="3a52d464" md5="9c0b47ac83c8beaa7f96016de2f885cc" sha1="51d9f1fe384d3c139ef76b16736a5615b0a8bcc1" />
+		<rom name="source\snd\i_DEFSND.h" size="1382" crc="ef728a78" md5="dd0b1063e87c4161b6f27c78c0f21a40" sha1="7f34e8f7e28f8c8b34377148a56ebfe0f86df27d" />
+		<rom name="source\snd\i_HC909.h" size="5071" crc="c77b1bde" md5="1d1b441c27a920e8b2f3762e673d53da" sha1="927c98eb4faf59881c7846e7d7a04eecf4605204" />
+		<rom name="source\snd\i_HO909.h" size="18001" crc="2b61c713" md5="9addc6d99bcf12cb89f7a7a6d3c45aec" sha1="dbfc8c127a072201ecd98168da0253ddd4af11a0" />
+		<rom name="source\snd\i_SD909.h" size="6916" crc="3f15ac32" md5="7d59dabe672a3b3f39ba3c87776bf4f4" sha1="736094208194af4fc0825288118c1359ac4b77f7" />
+		<rom name="source\snd\i_SDGATE.h" size="19225" crc="7d081498" md5="25218e7694d6a76651730924ade73df4" sha1="e26c429c143ba2b0c3e60d6df939d3e8e205539c" />
+		<rom name="source\sound.c" size="417" crc="6494fed3" md5="854fc8127d864805bb38e4707640644a" sha1="361e9a42d429fb4a75adff956347e33e42e717de" />
+		<rom name="source\sound.h" size="195" crc="43d40359" md5="dab47c10217faa1e36c7cc64d2537a35" sha1="c65d03eb570d4292dc745f7995d403b02f9f8df1" />
+		<rom name="source\sprite\icon.c" size="1398" crc="953639e9" md5="544ced336a992cb6144b49e3927e447d" sha1="23a2ce398222d7921c97f5b65211c5093a85e0bc" />
+		<rom name="source\sprite\icon.pid" size="256" crc="e59432d2" md5="ed7897fe40243229ec44261e7fd3653d" sha1="dcdd9afabe104950b5524a223000cc9f8588d564" />
+		<rom name="source\sprite\icon\icon.bmp" size="630" crc="35e6c575" md5="3f0deb15f8c7a3153e4c336d6d3ba2bf" sha1="d3327583749f20add03d5b78a8c84bece7cfcc3a" />
+		<rom name="source\sprite\pat_yokogiro.bmp" size="2374" crc="bcc1997e" md5="320f6a34383c5d1562a809e8e51e9402" sha1="36d4b7a3370e5a7672595315f17900f91b431d59" />
+		<rom name="source\sprite\pat_yokogiro.c" size="8877" crc="0ca84151" md5="054b5c6a9b6dc718d34f0830f48ad668" sha1="bfba0aeffba757cb2f495b39438189d024af9783" />
+		<rom name="source\wavetbl.c" size="676" crc="b8999254" md5="556fbcc2149377c3464052cfb5849b18" sha1="b80cf36ec184e8b4af8d249bc1a34eb68b98e0a8" />
+		<rom name="source\yokogiro.c" size="13224" crc="4b0b301c" md5="54d242a261f22e77935ebda883dcd721" sha1="c076bdc49be5c1df129b24e38f7b1f3bf0f3ea8d" />
+		<rom name="yokogiro.pex" size="22716" crc="99718ea8" md5="5eb0acde077f93e59b44819148ead47e" sha1="4b46a2e42d8e7aef72a848a28a6c5444830ad85e" />
+	</machine>
+	<machine name="よむやも (2002-03-24)(Hanai, Akiyoshi)">
+		<description>よむやも (2002-03-24)(Hanai, Akiyoshi)</description>
+		<rom name="Readme\yom_ex0.png" size="1771" crc="b67e5c2a" md5="f9fdc1be555fea8670d6a033a2b9db89" sha1="da864ef8b35fca629cadaf2b4d30c6717796afdd" />
+		<rom name="Readme\yom_ex1.png" size="1087" crc="0841db3c" md5="28e3c355c22cdebf2c68fd790fab8b2f" sha1="0135d3f907ff0be2bb50cf6f3273ad56d34f7bb4" />
+		<rom name="Readme\yom_ex2.png" size="1214" crc="e565dd38" md5="551672ce1bf2f7f1340fdfcfedc59fc6" sha1="56840a3a99abbecb35c4f0db3cfadb6a30a84edd" />
+		<rom name="Readme\yomyamo.html" size="8960" crc="054b87d4" md5="062689b036309471c1f6a081a2965a5d" sha1="69505355b0dd9a996948866ce96a30c028bdd714" />
+		<rom name="Readme\yomyamo3.png" size="2218" crc="294841f3" md5="accc317197f1a7480736311c744865ea" sha1="6a2ae232f1f4694dbf3933ef2df847e434b36ddd" />
+		<rom name="Source\base.c" size="4117" crc="92f0c5b3" md5="f502a51fa0ff517ce31dc2160f222c10" sha1="50fb4f4a57666dab0aa14d586edd8a710535fca6" />
+		<rom name="Source\base.h" size="1521" crc="12821f3a" md5="476140b6a69f92da0ea74d74d794d1b9" sha1="1283ad1644f5b61f31d6470429ca148c24e98f78" />
+		<rom name="Source\makefile" size="981" crc="e576868a" md5="7b38270ebbfe746eade132947f6ff741" sha1="f0251d829622d9f3fd78cbb278c181b5129ccc6b" />
+		<rom name="Source\pattern.c" size="364" crc="d013c255" md5="c8fa0ff8bc56360f93bc886dbf35f230" sha1="e95e604fc502312880aabe7ac0f795031c22b651" />
+		<rom name="Source\pattern.h" size="205" crc="8e8033e6" md5="9e9638af078e1c4d861f03347e429da4" sha1="a9f2f991ea2d513294ecba23824766d92cdaef52" />
+		<rom name="Source\seq\battle1.c" size="10604" crc="3f7d3e11" md5="77c27c229e1d363aae681f11801f461f" sha1="102f1fd6ca3a561b20207e8fff337fe5483c5723" />
+		<rom name="Source\seq\battle1.mml" size="3828" crc="fb38e92e" md5="a2d681014e4719e2cdd09821d903fdb4" sha1="d1dd01491b7c0c094b7f49b31b473eb375114a13" />
+		<rom name="Source\seq\kwover2.c" size="1001" crc="361bc6e8" md5="9efb409e41bef19b80231b4aafe3eeee" sha1="28e9e4c0d4ac0d0853b0ac619acc16a832c80242" />
+		<rom name="Source\seq\kwover2.mml" size="344" crc="85d338f0" md5="f3d67c578093445d4c2bb733fa53d6d3" sha1="e60bcb3684e1a4083fe50d9f5d3b7e817366134f" />
+		<rom name="Source\seq\mk.bat" size="78" crc="75d29a85" md5="ce3cd413a21ef0beacacd41684d9d023" sha1="c80547540676c2bde83baf604762eb2df5729c46" />
+		<rom name="Source\seq\title.c" size="2975" crc="b2ac60cf" md5="a53f81ec2f7a7271523e78132d938e44" sha1="ca8158c3c74a81adfa124839a61bc8f40a2f517d" />
+		<rom name="Source\seq\title.mml" size="1195" crc="5b9e3d37" md5="d789e3b964b7581592bf505f2fc24cab" sha1="621b639e3275d40740d880143bfa138735257da7" />
+		<rom name="Source\snd\i_BD909.h" size="9543" crc="3a52d464" md5="9c0b47ac83c8beaa7f96016de2f885cc" sha1="51d9f1fe384d3c139ef76b16736a5615b0a8bcc1" />
+		<rom name="Source\snd\i_DEFSND.h" size="1382" crc="ef728a78" md5="dd0b1063e87c4161b6f27c78c0f21a40" sha1="7f34e8f7e28f8c8b34377148a56ebfe0f86df27d" />
+		<rom name="Source\snd\i_HC909.h" size="5071" crc="c77b1bde" md5="1d1b441c27a920e8b2f3762e673d53da" sha1="927c98eb4faf59881c7846e7d7a04eecf4605204" />
+		<rom name="Source\snd\i_HO909.h" size="18001" crc="2b61c713" md5="9addc6d99bcf12cb89f7a7a6d3c45aec" sha1="dbfc8c127a072201ecd98168da0253ddd4af11a0" />
+		<rom name="Source\snd\i_SD909.h" size="6916" crc="3f15ac32" md5="7d59dabe672a3b3f39ba3c87776bf4f4" sha1="736094208194af4fc0825288118c1359ac4b77f7" />
+		<rom name="Source\snd\i_TOMH1.h" size="8050" crc="0e6c1817" md5="bc0ebf8db86d5c4787833723a1ce7a99" sha1="95abefa39c5922717858b9e3814b246c0d920430" />
+		<rom name="Source\snd\i_TOML1.h" size="15093" crc="0ba655cd" md5="d36286881b27741ba87f7a0dbef930d9" sha1="81c75122d24113c690a1be5201dce8e866b9910a" />
+		<rom name="Source\snd\i_TOMM1.h" size="10540" crc="43ede82f" md5="c28b871fbf3368d5598c8fca71a4be2b" sha1="a975e1f5ffe5fa199a1e0b2192560990cfe1bcec" />
+		<rom name="Source\sound.c" size="807" crc="061ebce2" md5="258a03f163597a2e716a5aa4cc9862df" sha1="72e33415eb8c2be6f39cba0214feace39aece850" />
+		<rom name="Source\sound.h" size="302" crc="60b4f76e" md5="44681fa66c62153d49432e3038617b4d" sha1="f841ff748fe6fda0ee3a92ddd3e7041b08934ac3" />
+		<rom name="Source\sprite\icon.c" size="1398" crc="d178a8bc" md5="f75b8c24c05684855834b3dfebed0d48" sha1="05ac8be1be93a06972dd13eca31dcccd89fc119f" />
+		<rom name="Source\sprite\icon.pid" size="256" crc="6739a4f2" md5="d525f0414f3ddbad378b26c078d4c146" sha1="977aca3afcce847da231b6606723c9299c5bfae5" />
+		<rom name="Source\sprite\icon\icon.bmp" size="630" crc="f638c5d6" md5="dda400f94bfe0c4fce17b0ce9bbd2ffa" sha1="36dc5bc5988e27c5d4734c952ea0ff01e5e053f2" />
+		<rom name="Source\sprite\mask\pat_pose.bmp" size="7286" crc="294f3095" md5="c2e56a4918b51c648ea468bbb6a1c46d" sha1="a97ef6e008559e4319090f2e28b927012f3fff31" />
+		<rom name="Source\sprite\mask\pat_yomyamo0.bmp" size="3830" crc="fe7aadfe" md5="1e734a8c4900aba8cf58a92740715aa9" sha1="32444c9bc4c98c11f95edadbd067c86bee29a7e1" />
+		<rom name="Source\sprite\non_mask\pat_yomyamo1.bmp" size="5938" crc="8039e20f" md5="ed9d746e37ce1d143c1aab288be6a6d5" sha1="156c5e2a78e7ac4370f974de16610c54ea015e00" />
+		<rom name="Source\sprite\pat_pose.c" size="27751" crc="ac673f27" md5="14ff78d21c494fabfda5ab818374f240" sha1="51c51d3678e8327597f1a11094149dd429797b23" />
+		<rom name="Source\sprite\pat_yomyamo0.c" size="14475" crc="69f82119" md5="095f724dc9b830192296ea2b02085817" sha1="3e0053ae6e96bdcd5d57a48a98a85fc9e8a1063a" />
+		<rom name="Source\sprite\pat_yomyamo1.c" size="15121" crc="89358e01" md5="3c89ba16b7c81b510e7acce1fcd1910f" sha1="7bbb0d722a056bc813f945220a5ed66992f7444b" />
+		<rom name="Source\wave\adpcm_attack.c" size="17591" crc="35f672ac" md5="539006b0de28904433e58a9a810ee7ff" sha1="126d76109b72a96432e98f5b4ebcf25efbce0cbd" />
+		<rom name="Source\wave\adpcm_attack.wav" size="13590" crc="bcd3bb80" md5="172bb4ca7ad411fe25afbe619ed03466" sha1="2382a393a1e45e4948c4073ebbb647e8aaf6f60a" />
+		<rom name="Source\wave\adpcm_guard.c" size="11335" crc="c9632ef1" md5="45773e39917bd9c4adf758fae5c526ff" sha1="c2f8fde10d57c7cbd6d510ad7424d97596563fa8" />
+		<rom name="Source\wave\adpcm_guard.wav" size="8700" crc="e6b361d6" md5="e0874cd6b02036d0b7d759201011245b" sha1="44076ce9a0575b91881baac46ea94b064e062fa4" />
+		<rom name="Source\wave\adpcm_move.c" size="2170" crc="48172acd" md5="f7bbb4c3a57c88cee31addc45f263a71" sha1="2edbca389676fbb2152300b2dfd98df0f4a3946e" />
+		<rom name="Source\wave\adpcm_move.wav" size="1558" crc="80ea0b56" md5="a37d716a11b6ce6b17a324b4f5ab5e43" sha1="7ca14bf7c339741b0da4379d139e0525d72097bc" />
+		<rom name="Source\wave\adpcm_pass.c" size="980" crc="a0f4f819" md5="e703b8cdf2dd276026aab6b5b47a41cb" sha1="4c089d70dda7496c6fe54dba68cacbfdbb221f15" />
+		<rom name="Source\wave\adpcm_pass.wav" size="616" crc="9f802388" md5="040c2aaf85a19b39f6949fd861a08ace" sha1="be717f907f697ea0c5337e61092ec66442efdca2" />
+		<rom name="Source\wave\adpcm_select.c" size="9145" crc="dd839452" md5="429642b59a9e860d3972dd55b9611e34" sha1="5acd64f75b34efc7a58e2bebc9bf8edda89841b8" />
+		<rom name="Source\wave\adpcm_select.wav" size="6986" crc="0155883b" md5="567a7ba058936658042a241933bee5d5" sha1="a203d8427b166c1927ceb73b2701906cf6f92df9" />
+		<rom name="Source\wavetbl.c" size="738" crc="67d275ed" md5="e89bd9a6b33a3a96b9724fe23d1e9246" sha1="763dc0c7d9d6933442ca4beab104c5a490a787da" />
+		<rom name="Source\yomyamo.c" size="30850" crc="6fd90944" md5="cf29ecc95efaa44516fd761ca8782300" sha1="ea03b65caf230b3fe9d7e7a807dec2b7d58e386d" />
+		<rom name="yomyamo.pex" size="41952" crc="67eceba9" md5="5e356135958af12219f3768b7cdb6e32" sha1="bebf8429d3253541f1ed0debb0652b89feedbe86" />
+	</machine>
+	<machine name="タンクバトル (2002-04-16)(Aquaplus)">
+		<description>タンクバトル (2002-04-16)(Aquaplus)</description>
+		<rom name="alpha.tnk" size="1236" crc="510b543d" md5="779358b0844b711c1d1b55fdbb6577ee" sha1="d3c364eaa98639a92dc88b3ed53cc26b079ca361" />
+		<rom name="beta.tnk" size="1236" crc="510b543d" md5="779358b0844b711c1d1b55fdbb6577ee" sha1="d3c364eaa98639a92dc88b3ed53cc26b079ca361" />
+		<rom name="sample01.tnk" size="1236" crc="79df4be0" md5="2573014265687a6f795baf10c92b6ddf" sha1="f5803136d600a85a1a937422ae74568cefe34e40" />
+		<rom name="Tank.htm" size="56078" crc="372be0f2" md5="7a4ac442d8a2eff9a616e93611362361" sha1="0a12721409fac52e0f742a8677b517dc44a4eb18" />
+		<rom name="tank.pex" size="89395" crc="6317ca35" md5="895099f77f92b6036f3e64c3ce26f963" sha1="9b0609c5f9e4b6b33082e8a62607aaff07348369" />
+		<rom name="tank.pfs" size="29" crc="bc295919" md5="7990d06b49a062b988976d6a6fc9404c" sha1="9983efe7291a038a681befce23dc2f32271d00ed" />
+		<rom name="TANK_DATA\KIMURA.tnk" size="1236" crc="22548dc7" md5="df873e6f1f9384fa1fcd0ec65837d8de" sha1="fd1b6a5c3e8871b087f1f4bcea8860de2994f7d9" />
+		<rom name="TANK_DATA\muratti.tnk" size="1236" crc="0561648f" md5="dc1cb914fd50e0aca786cf5d799df7d5" sha1="7f50593977767ad31537251474b2527dacce5d6a" />
+		<rom name="TANK_DATA\romyu.tnk" size="1236" crc="db233b78" md5="120d7c20640edb01d94ae3e93746102b" sha1="37d7ca6b10ed26b56f3e5d1681693ccf6156ea75" />
+		<rom name="TANK_DATA\takemin.tnk" size="1236" crc="fe6f1ee8" md5="a349a9347811de73ef665b2472543438" sha1="a9590111b4c9c21531db9c771235b31deb547481" />
+		<rom name="tank_image\I0-6.png" size="67105" crc="54eb06aa" md5="ab4dd31fb5cc62e4f6126d843fd8b7c5" sha1="7b84ac33b58ba3f854a7cade23e9ec642a9359de" />
+		<rom name="tank_image\play_image.gif" size="2741" crc="26dd3b73" md5="696993924a0a02cd4cfafc0a5cc2a711" sha1="09b086aaef1e0458b4a35a6a191fc98ce0c36533" />
+		<rom name="tank_image\sampli01.gif" size="2603" crc="56a41e35" md5="f033da7d36bb3ac5b9921e688c9fb365" sha1="f3b8bb26c4010b62f50904a65c48439568cd66ac" />
+		<rom name="tank_image\tank.gif" size="105" crc="58666e07" md5="271e35e97e4cf074e88288e27315c44f" sha1="3d3b55a83870febf1d3129fde070d4780907b102" />
+		<rom name="tank_image\tank_e.gif" size="104" crc="14c778d3" md5="67452b37f34834506fb134a201713c95" sha1="28cba2d7a2ddb8768436713a7ee5b4ac1e3518d6" />
+		<rom name="tank_image\tank_muki.png" size="1052" crc="754f5a54" md5="40397a4a3413dc1bcb9e2c0dd005c263" sha1="7b892226f4587f8823003e7e2bf86ec8db9d9882" />
+		<rom name="tank_image\unit_r1.png" size="1752" crc="aa14b02b" md5="040014f9e8837aa1fcaa03993dae570d" sha1="360e77561958c0ae06d93912c8b5132a2fb89f0d" />
+		<rom name="tank_image\unit_r2.png" size="2540" crc="ddc84f68" md5="e7068fa4e296d441e8328183f3c19e9a" sha1="59ed7ef3aa73b9b14f06c216a505bfff17e5690e" />
+		<rom name="tank_image\unit_r3.png" size="4688" crc="54de7e3d" md5="e96950b72c4c94a25237e6eb00dea842" sha1="512f3e4a5f5d76969e20cd5f848b69983122afc9" />
+	</machine>
+	<machine name="盆栽君 v1.1 (2001-12-31)(Kuni)">
+		<description>盆栽君 v1.1 (2001-12-31)(Kuni)</description>
+		<rom name="pbon.pex" size="2917" crc="5270cb8e" md5="30f699260d6008a455e9cd6fa53d6219" sha1="b818b6d49be362b9cb756c8139ccb27eb958459a" />
+		<rom name="pbon11.htm" size="959" crc="4c99142e" md5="db89a60a399968b0586d1b739d353144" sha1="1de4b4fd0a3a1ffdbd03f3872df53c27096f3611" />
+	</machine>
+	<machine name="ドラム音色分離キット v2.10 (2004-01-14)(Randomist)">
+		<description>ドラム音色分離キット v2.10 (2004-01-14)(Randomist)</description>
+		<rom name="drum.arc" size="29433" crc="2078c3dc" md5="f571eeef343c8540292485878eb91418" sha1="f6fc96d2afd257f503cb931c77205ac48ca1529f" />
+		<rom name="drum.bin" size="39758" crc="d0a1a840" md5="a2f3121eae30ce9291f352dd6bef5558" sha1="e27e773cf5b448f53d58209efaf2f874f250aa1a" />
+		<rom name="readme.html" size="4200" crc="cf90d743" md5="459b94ff76159c019b5ea23cb07a8c58" sha1="e952dbf642df38e0396825c462f73331e080cb59" />
+		<rom name="sample\instdef2.c" size="6857" crc="289d37a3" md5="ee6b0ef5bd7e3291859092a688cd9bf9" sha1="d85af69243605b28b1aeed56f02a2ae7e9d99178" />
+		<rom name="sample\makefile" size="758" crc="fc531e73" md5="fb5698a6b2c076e5b14b207df4676b6c" sha1="22ee198064e3a4ef6a94bc5490ca911f95e2fc2d" />
+		<rom name="sample\muslib2.h" size="109" crc="eeb93409" md5="cbeda7a2bc521f0b54ead571130c6bb5" sha1="cb809a235752c8e812ee678dabb4e6bf59204438" />
+		<rom name="sample\sample.c" size="9486" crc="a3858763" md5="898e39bfa2f4593f46d5aa98ee7ea850" sha1="22d7500b8e1890af1f3d4bc49674b374b599918f" />
+		<rom name="sample\sample.pex" size="5050" crc="e5f606ab" md5="dce0daacfb2a8cf17da4b5c6050897af" sha1="a9005b058631b81252857d26587a326267920781" />
+	</machine>
+	<machine name="ロロ助危機一髪 (2003-02-26)(Aquaplus)">
+		<description>ロロ助危機一髪 (2003-02-26)(Aquaplus)</description>
+		<rom name="PIECE_GAME.txt" size="1179" crc="e6fb2aa6" md5="994ee19b14e2a357982f49eab77a6a24" sha1="07d74186b9298093d0fda0b9340b3995829c3c93" />
+		<rom name="roro.pex" size="78538" crc="a77922df" md5="f1b666967fb1c3d8a7e7a528c83c24bc" sha1="6125dbea05acd6b396764b21e97737d5ace2c50c" />
+	</machine>
+	<machine name="四手沙参 (2004-12-31)(Golzy)">
+		<description>四手沙参 (2004-12-31)(Golzy)</description>
+		<rom name="gs_shide.pex" size="30815" crc="35d7fac0" md5="008ed2c779ecee259b85e93b3c643522" sha1="0c3494ee69ded9c552fdd222612e4cea02e507e5" />
+		<rom name="遊び方.txt" size="508" crc="51909a46" md5="3d3b90c012f68a3db62537d6e2fc770a" sha1="d2b3260b39ed50a28029a9a8aca1fd9be5c4c813" />
+	</machine>
+	<machine name="ＭＭ音楽館 v1.0 (2005-04-24)(Madoka)">
+		<description>ＭＭ音楽館 v1.0 (2005-04-24)(Madoka)</description>
+		<rom name="ＭＭ音楽館　Ver_1_0.files\ird_1.jpg" size="13440" crc="d71ea3d8" md5="3b6e6517bc3ad9e3af62204e7e39de5e" sha1="a364b0a72c303f893e2c07321d93885939eadfe5" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\ird_2.jpg" size="13936" crc="125f9b5d" md5="25b1a7ad66c5f31cb94e96b9f2e63bf5" sha1="de540895c3a3fd05d1a3e7b88a70bcc551b59f03" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\v10gamen1.gif" size="1776" crc="03a0680d" md5="cc4785b266a8b4317506d1fb37b2bfa3" sha1="8e6b7996c22fe18bc4ea0f59f0e6d3e1e4514c37" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\v10gamen2.gif" size="2001" crc="4a4f5e8d" md5="5f454b6c81deb8b7af577f5b45eea741" sha1="ba584a7b6627b62476d1a26ce2c79509ec2af883" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\v10gamen3.gif" size="1944" crc="cce489b8" md5="69e541ad52f50e40b8a2fd731e6363e7" sha1="49ebbf95fb5b8556dd1ad7493916e1e1c1730268" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\v10gamen4.gif" size="2099" crc="38dc2307" md5="57cf16c998a6c0010b1a237ca6f77df7" sha1="452d387103b1c4cf8eab6a0ab1d7f71fe364ea13" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\v10gamen5.gif" size="1877" crc="33d2d8de" md5="20657b8234ef91c81ac2195d8a5d8a7b" sha1="004408d1e68427a792366bdcf39371e144e7588b" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\v10gamen6.gif" size="1872" crc="0472c46b" md5="f3a627880d2366c21f6ca39ed42fe539" sha1="39fa6c3ec934fd5625b39f6c2eeea70672dacca2" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\v10gamen7.gif" size="1440" crc="83da3b36" md5="d7061fb92ee9d6604629b89c5277b010" sha1="7294ce6af1ddf8a9a2ef5ea9859515bd7b83d876" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\v10gamen8.gif" size="1828" crc="9e886566" md5="c6e4196f46c97df628638ff3c3e395fa" sha1="5119df263f2c588d99d0ff4a62aecf7915d14dd1" />
+		<rom name="ＭＭ音楽館　Ver_1_0.files\v10gamen9.gif" size="2182" crc="27766327" md5="7a84a523f08a8ef6e92c617e71211468" sha1="6ba140fbf8bdd9c75a1b1ae088ef103336cb6caf" />
+		<rom name="ＭＭ音楽館　Ver_1_0.htm" size="17799" crc="0769d4fb" md5="14f1e3150606b9eed7e4e2530d6ae03a" sha1="da4b88da90d8f4086407cfbd94cdd543c53d2dec" />
+		<rom name="C2Binary.exe" size="40960" crc="affd2ed2" md5="f79e95363482367f30bcc5c657625f5a" sha1="5495405f1d0abfde3bbb84d45c5b65475efbb084" />
+		<rom name="mmmh.pex" size="13932" crc="dfe08501" md5="22eb2fb95300967ff2e4334f998c7fae" sha1="e79a5deffae687e1e8e8c464dfc29f7de9f7f2a6" />
+		<rom name="ver.1.0\Auto.bat" size="18" crc="cf280757" md5="fb47ff1b94d437ccecf1e33f2c5bd595" sha1="a1e9e3289f864871ea7497b46cadac2dda3f6a9e" />
+		<rom name="ver.1.0\Cursor1.bmp" size="3202" crc="189137d8" md5="9cf67c0a8efdc79265dadb5de425fe9d" sha1="6d9c07c1dfddf5ab86110a41c9117daa0596238b" />
+		<rom name="ver.1.0\Cursor2.bmp" size="3202" crc="a695a12a" md5="76a18d95175e48303ec715f2314dffbf" sha1="4c22f423bc9e7ebdb839218111ac7ca4755dc9d6" />
+		<rom name="ver.1.0\define.h" size="7119" crc="5e94ed59" md5="effe2c61e385c2eec79f8ad83f89b994" sha1="742809d090d58c3bbb708e79922dfea583d23eb9" />
+		<rom name="ver.1.0\draw.c" size="26157" crc="c8c41f76" md5="f66964d51c6ae923b07b972ba650e6ea" sha1="eccdfdec91840f2aea9bc51354dd68742e16c0b9" />
+		<rom name="ver.1.0\draw.h" size="1589" crc="919ba558" md5="6f81b83e1ebdf64096311d49ec3eb21b" sha1="551fdfaa43e308b6b496fc089714a339f20cf0df" />
+		<rom name="ver.1.0\draw.o" size="31297" crc="2c309c69" md5="e175fc607d989e4db2c3a1a1bcf14192" sha1="8835f5b26273b38461acabaf4987e7fcd6659649" />
+		<rom name="ver.1.0\file.c" size="15313" crc="a9a65344" md5="3e74ad67a577734eb435e60f39b46465" sha1="244612e1cefdc753bdf57d7a82c24e78317afc16" />
+		<rom name="ver.1.0\file.h" size="2144" crc="5de3d0c9" md5="a0dd253819357087e10704c5d365c3fc" sha1="d232b8764aeaa32013d243a1cd73c5fde63eb4a6" />
+		<rom name="ver.1.0\file.o" size="20261" crc="d3225dbd" md5="026b78c6306b81ea7775fee6d056910c" sha1="65bd8c3933f328c0efb23d6b7ed2c2088664dd88" />
+		<rom name="ver.1.0\Init_MML\Init_MML.c" size="351" crc="4783d9e4" md5="936eb8204222b71e17e2b99522b27bf7" sha1="4a5ff6431dfabb923af3177982573f02635eccd1" />
+		<rom name="ver.1.0\Init_MML\Init_MML.mml" size="37" crc="4c0c9278" md5="134fa2c4acbfe6acce0f767ed5c04a68" sha1="18bb7b0cf481671db8e301961bbb6057a63d2908" />
+		<rom name="ver.1.0\Init_MML\Init_MMLの使い道.txt" size="463" crc="6fb42cbf" md5="971c0b03a52bc33aaef1671038911e10" sha1="d62097ae671e9c641c47a2ed43d925ce6f524375" />
+		<rom name="ver.1.0\Init_MML\make.bat" size="28" crc="350ade16" md5="7d4a21ec1da15facaadd785597da8fbe" sha1="3b5260c3f520ac1d753de747dae79cb2b9071622" />
+		<rom name="ver.1.0\instdef2.c" size="6857" crc="289d37a3" md5="ee6b0ef5bd7e3291859092a688cd9bf9" sha1="d85af69243605b28b1aeed56f02a2ae7e9d99178" />
+		<rom name="ver.1.0\instdef2.o" size="11825" crc="795f9f45" md5="46308104a2db5b952035ab54d47671db" sha1="1060ef6ec7ef692d21750d9eab1ea8cab57bdd42" />
+		<rom name="ver.1.0\ird.c" size="34601" crc="5b1f29a9" md5="4896b53261ef1d64ad1cb2766f38ba2f" sha1="14426a02e8c5478982dbc02d9a3442c21206c56d" />
+		<rom name="ver.1.0\ird.h" size="3308" crc="c12817c8" md5="5a6c57164a09c753f9baa211bf70dc0e" sha1="13bdf295368b57e81290b6129a81fc928e269c29" />
+		<rom name="ver.1.0\ird.o" size="34560" crc="58581b7c" md5="afe2841f9d80d638750585d67b4754ee" sha1="2af46ac065cff3d80dc8dea427e32eea992947a1" />
+		<rom name="ver.1.0\makefile" size="1028" crc="081c3ee3" md5="80a880a17e4cbf167bc2cf589be59f71" sha1="e7ab1015b79db61408be073b16c1e01d3e6f36c1" />
+		<rom name="ver.1.0\MMMH.c" size="22171" crc="fbfb0f1b" md5="f25daf0fa22d821a3f681520e423d49f" sha1="f2f1beff50503490b575584c7f4154171b1e322c" />
+		<rom name="ver.1.0\mmmh.map" size="18219" crc="a0ef2c19" md5="ad0cfaf89aee61e58185798ca113beba" sha1="e3ef323a9d69fc4a70f0b00a5b8023991ccb2c53" />
+		<rom name="ver.1.0\mmmh.o" size="30141" crc="5611a72a" md5="ca1abb4b1fd69065cd0686069fd06998" sha1="46a6d4a2c7da3ba2f27dba610ea4a06e62e11908" />
+		<rom name="ver.1.0\mmmh.pex" size="13932" crc="dfe08501" md5="22eb2fb95300967ff2e4334f998c7fae" sha1="e79a5deffae687e1e8e8c464dfc29f7de9f7f2a6" />
+		<rom name="ver.1.0\mmmh.pid" size="256" crc="7cc9ced2" md5="0f0928cd55a6f7ac63f4d47c7262471f" sha1="816d3460e2db60b661293abb6d8b566c3b21982e" />
+		<rom name="ver.1.0\mmmh.srf" size="125494" crc="80f6a6ef" md5="d71dadefd3e37fc6ffb6ad7f5daf14c3" sha1="69c9be95a2b77363dbd7c78d82ee60c8d492f710" />
+		<rom name="ver.1.0\mmmh.sym" size="53814" crc="0f77628c" md5="0cf93157efaa1badee863bd8a4497c7a" sha1="ad2eb642d55c8d4a8e0a55ab6712638420611e9e" />
+		<rom name="ver.1.0\muslib2.h" size="109" crc="eeb93409" md5="cbeda7a2bc521f0b54ead571130c6bb5" sha1="cb809a235752c8e812ee678dabb4e6bf59204438" />
+		<rom name="ver.1.0\pad.c" size="16508" crc="b21c3371" md5="509a52fbaa7a5dce51a603dda812f283" sha1="578b741d3ca66c766acf9ff36521178236e80b06" />
+		<rom name="ver.1.0\pad.h" size="1071" crc="5c7e90d6" md5="ff27244db4ce9e1361f9302e53734a24" sha1="4469ad66c4468e179ba9f6e96af24e4d8b0d7b96" />
+		<rom name="ver.1.0\pad.o" size="20505" crc="647771a4" md5="c499049b5ea2c0aeaff2100f351994c8" sha1="5432dcd5f1af6c44adefd0d3c0db217a0c7807aa" />
+		<rom name="ver.1.0\pi.c" size="924" crc="99858d69" md5="2c6304e137bd0647f57047896dd430e0" sha1="4523bbb39dca9b7d90ceb951645274deafe34a34" />
+		<rom name="ver.1.0\pi.o" size="552" crc="6cf83427" md5="8ab36301b0b14b68e31e69bb1a162e92" sha1="763b27afebfbf99147b58df22ee47f5efa9136c9" />
+		<rom name="ver.1.0\ReadMe.txt" size="1032" crc="c4442ebb" md5="fe4a2021e1fdc53e53e46b46b41ffd5a" sha1="cf2db104b50ca07a242d1aaa3dd92c978bc7eea3" />
+	</machine>
+	<machine name="ちょこまかスモーキー - Comiket Version (2002-08-29)(BLACK FTZ)">
+		<description>ちょこまかスモーキー - Comiket Version (2002-08-29)(BLACK FTZ)</description>
+		<rom name="LICENSE.txt" size="638" crc="a6fc6ab5" md5="4368ac229c5d72b3829e1907696e8c47" sha1="54af4ab0b00398a3a6d024c5524d89f175606eba" />
+		<rom name="readme.txt" size="4301" crc="34ad0270" md5="a58d27afe420469b18244e301519fed7" sha1="1b68cc2d45049eef78361394250970fcba32e556" />
+		<rom name="smokee.pex" size="32622" crc="3904e5d6" md5="03492617f300161a2b1dcd4d910f82e7" sha1="c2faf5f8bf574bb7efe9d6148de7121f87dc8cfd" />
+		<rom name="src\disttbl.c" size="2503" crc="dc152f05" md5="b7fe1384758377cce603d10907c5588a" sha1="5532bb3746f6efaf4926c29826024900ae694f22" />
+		<rom name="src\game.c" size="9325" crc="242a1e41" md5="6a50244bce4c3ab24dccfe412dbc2ff7" sha1="b77c09e6ab961075724ca1cecbc65c218e262fe4" />
+		<rom name="src\icon.pid" size="256" crc="c57a1454" md5="d49181fd8a3ffc8ecc6b17e09b1ee2a6" sha1="3c97cc3bc7b006267993c36893327bdf4354b307" />
+		<rom name="src\io.c" size="46470" crc="234061a4" md5="8b1f3c8079c9145e36efd1dd4a58408c" sha1="d93b669a34adeef3db74acd6aa0b6f2941ac0203" />
+		<rom name="src\local.h" size="6583" crc="e4596c0f" md5="77c2332d363d9c61af6181e3bcb0f802" sha1="6161bcfff52b43c6c341c7ab2a4e8eec76e642f8" />
+		<rom name="src\main.c" size="463" crc="c7b71471" md5="f681b7eb5ec55dbd5f11bfdc85bd9052" sha1="345c6f9b3ea15e7ae9aa578a9a78859bb32c5330" />
+		<rom name="src\makefile" size="1249" crc="ab137007" md5="b9b73e9cba509a0551f19b83909fbc63" sha1="3aefd1aacd4f2bf3f5a45b3ffce7de78bb37bb69" />
+		<rom name="src\math.c" size="1086" crc="383156e1" md5="f8449fc5a6d1bdab89e069f0c32a3dcb" sha1="3182ffd20708b0b5e5fb2bda6dce8105ba6d9669" />
+		<rom name="src\mem.c" size="2862" crc="e2a6aaf1" md5="dd0de4d07f8325454491fa317e67908e" sha1="70c49b3c173e3200a15717bd0011e6366f777017" />
+		<rom name="src\mus.c" size="34" crc="e9742bba" md5="4848816382472f65f7fd40178be6f684" sha1="bc042814a67dd86cfa392cba030331e13099497c" />
+		<rom name="src\mus.h" size="85" crc="92367dbf" md5="69329452bf754a2e585a820cc00d040d" sha1="a98c869a0fb4a08027660de973d8bdbd5048443e" />
+		<rom name="src\music.c" size="1629" crc="4a6d0b84" md5="89ddb575358d9f13d037fbea9bb5d4a4" sha1="ba4e97c3e3bfa2e1a0d4cca0f1f6d5e798880abf" />
+		<rom name="src\obj.c" size="94196" crc="fae0c34f" md5="355d21e089643c6566e219529c2195a9" sha1="103805ad7763e7ca6a77aac743439360cb5a2910" />
+		<rom name="src\obj.h" size="1227" crc="6d6c1e44" md5="904b44d5c9033e187f6da044c2db9cfd" sha1="bd3cddf004f6dd61a12eb9ab595afbb7b8016fe2" />
+		<rom name="src\object.c" size="1986" crc="c58f4700" md5="fdfdfc64f81ffb3899f9dcbed5e5e9dc" sha1="d75906d2c44b74170b96f5d8229275672b86b972" />
+		<rom name="src\sintbl.c" size="3188" crc="86d524b3" md5="f2b9b52282e2321e01a72385e4e0e266" sha1="fbab4dc4da978d34e0f71944f2152d8753c31a30" />
+		<rom name="src\snd.c" size="55982" crc="1213d941" md5="887a8fe28031d835a027b0769ec8696c" sha1="faa9370790840ba27578aefbf3b9948ada5586a0" />
+		<rom name="src\snd.h" size="324" crc="0090cf93" md5="7e4ab3a477f509795254804a0484971c" sha1="a039c5f64b7f54cb30fe7a95bdeb8594a5f8335b" />
+		<rom name="src\sound.c" size="1920" crc="cc4ac737" md5="75aaa80f6b250636e6c53ed95a93160b" sha1="8e1cda691bd46135b787800755813bcb868754cc" />
+		<rom name="src\task.c" size="26431" crc="b38f8c5d" md5="7f9d5128aea9be46169c85f86002f03c" sha1="7e076a5f463f8a71a6aa79137107887dcdda12c6" />
+		<rom name="src\wavetbl.c" size="807" crc="6c9cb8c3" md5="6f03b00eb1518643e3160ad7301573b7" sha1="3c1d1c876dbd47f603b0899d5076f1b28c663388" />
+	</machine>
+	<machine name="ちょこまかスモーキー - Prior Version (2002-08-08)(BLACK FTZ)">
+		<description>ちょこまかスモーキー - Prior Version (2002-08-08)(BLACK FTZ)</description>
+		<rom name="readme.txt" size="2617" crc="124fd4d3" md5="c8f1a48694e3427bd043def0cc3194b0" sha1="aa1892b91b49f4b5ab8ccd647be7bad996f14994" />
+		<rom name="smokee.pex" size="33087" crc="04b16360" md5="3f15203053681d41ec73b713205efcb5" sha1="0313fffc47a6be4ddae2f29064fa6cd8bd1c0c85" />
+	</machine>
+	<machine name="CIRCUIT v1.0 (2002-05-30)(Hafupon)">
+		<description>CIRCUIT v1.0 (2002-05-30)(Hafupon)</description>
+		<rom name="circuit.pex" size="4925" crc="a5ad9846" md5="a638bc35806756b3aadc60da951e1bce" sha1="81ec0462b8c2e25c029861969109fd280f5de054" />
+		<rom name="picture\menu.gif" size="5485" crc="1950288d" md5="de88cd1839df2b3f72ca54d84c255296" sha1="c20784d5c6c8c2c2b4989f40171ccd018ad22263" />
+		<rom name="picture\play.gif" size="4657" crc="c35de308" md5="afe1a4c17bdbfe4e6c75ab7cb47b88e7" sha1="525d32a30a843f3bb71e59771499bab2c2554479" />
+		<rom name="picture\title.gif" size="4644" crc="af76103e" md5="6b0a5326e16584fc55d1459573388367" sha1="4794331831f5d3af1ae0f237817a2397fb6f2508" />
+		<rom name="readme.html" size="3376" crc="9f5c344d" md5="665524823f14f75e031aecbdfa67ce8e" sha1="7c0f198d8e560a3875e9ac6e922c8591f6373c5b" />
+		<rom name="source\circle.c" size="704" crc="4ee9f9c7" md5="6ec7a2ca7d77307b5bfa14dd08f85141" sha1="9c87ace783d1a829caa7a0760c4e80c85288330a" />
+		<rom name="source\circle.h" size="118" crc="0d5590c9" md5="9d850c011efb8d70d7954d173c3fad2b" sha1="cf1487cb85234f552cbfa1690cfb3a268ca48dde" />
+		<rom name="source\circuit.h" size="262" crc="af4cc738" md5="da82dbce86112a3bdde136f78e6dcddc" sha1="2967f477f4b413de13c471801e4d2cba87299735" />
+		<rom name="source\draws.c" size="7880" crc="9d3e9736" md5="342f94433f604990e9f10496bd4bfd9f" sha1="e2ce54b7ea890e18634288a3aba530755dcd1a17" />
+		<rom name="source\draws.h" size="1200" crc="6dec840e" md5="c43e525d8d8ad0b07b8ac4a49bb8a469" sha1="b11209087fad87dd869adfb863b89544ceef29ed" />
+		<rom name="source\main.c" size="1285" crc="a97e39a2" md5="c7439e636ffa28131c5b5b9a538b2af5" sha1="8d564448816b1d030e1ee79dad1eff43690f4b03" />
+		<rom name="source\makefile" size="794" crc="f000ddd8" md5="33d050a0a3920caf8dd7f978ff0c8c1f" sha1="81ebc53b680799bf769b195069929c158037a300" />
+		<rom name="source\menu.c" size="1776" crc="31733ae8" md5="c2d00fee47c733972cadee3bfedd3515" sha1="bbef9335ad5e0ace3be5f48a7f19eb3619aca79b" />
+		<rom name="source\stage.c" size="16684" crc="48c42824" md5="c4f18047ec32d782f73bc4745f7e850a" sha1="203d628ffa25d6952cafaeb49158eb3e0183ca00" />
+		<rom name="source\title.c" size="1059" crc="db556eb8" md5="d3550702c4560e80d962f0e5cba3b9ef" sha1="fbcdfcaf97704e43055a80f0c6ab6e4be716d53d" />
+	</machine>
+	<machine name="GANMAN v1.0 (2002-04-17)(Hafupon)">
+		<description>GANMAN v1.0 (2002-04-17)(Hafupon)</description>
+		<rom name="gunman.pex" size="5743" crc="28c38d88" md5="266e73a7dc83f69faaa7b95da03dc5da" sha1="7b411a91335c87498c981f52a495246fc029dd70" />
+		<rom name="play.gif" size="2076" crc="20c298f6" md5="be838cb42f01a78288d76f792ece82eb" sha1="1debbd919c2d3ebe9cf8dde4764cbacb18c8abc4" />
+		<rom name="readme.html" size="3956" crc="9e4c336c" md5="09c13cda6d623acc1f05bb4b5d7c225b" sha1="87cb1d3f9b3344a91fe28e97f1fcd79ab19b6eb0" />
+		<rom name="readme.nso" size="24149" crc="4e01d787" md5="3d75618d686eb9f475a46c10d72ed205" sha1="f1a3ecf74ef1f8cda59b5096ccb4b83d13c4f35a" />
+		<rom name="result.gif" size="2404" crc="b10fbb93" md5="cdf73dba9a2354ac4abdff332eb22a3b" sha1="2fdbed6913a3ca76d24b880a516713386d4cede9" />
+		<rom name="source\draws.c" size="2401" crc="1eba0470" md5="05cba833ed0d2c46202266a233276482" sha1="66816837b9f2228aa2bc7eb0f9520595b729fb04" />
+		<rom name="source\draws.h" size="445" crc="894a8710" md5="4e0d4da2ce839f984c737539b7b1044e" sha1="f3d7032cbb10cb8e7ecb35a94c1591b63a03bb68" />
+		<rom name="source\gsresult.c" size="2368" crc="b2da7081" md5="a0b0fe11e3ed669c3a8b5837c518d986" sha1="92be38f173e0358b74e0a2a92abb9046e4f4ad83" />
+		<rom name="source\gsstage.c" size="9297" crc="bbc381f4" md5="3e5d91a5a005c974d3609a962cad70d2" sha1="0de5aa0116d8b218dbc14a9aaad9064b85116081" />
+		<rom name="source\gstitle.c" size="1617" crc="31c0c362" md5="0f43da607a4a30adff5ca5f167337354" sha1="64f0a81b03bdee8b5bb5c22c61cd9de2dca91ada" />
+		<rom name="source\gunman.h" size="1078" crc="d604a43c" md5="538118a89c6b5e0699423afeddc9d0f5" sha1="36af5a56043b96de5d696955b77a3df7f9ae3373" />
+		<rom name="source\gunman.srf" size="49135" crc="4d40546e" md5="031d179726d393bc7546176a17a7e939" sha1="bb365c64677c45643a8f66b34e988bc6d20dcec9" />
+		<rom name="source\icon.pid" size="256" crc="cbb6f717" md5="b9583aad72f6c7ff6c515b1cbcbe9018" sha1="32711e7ece80a62aa8aa8c7555f5f3598c90ec78" />
+		<rom name="source\main.c" size="4368" crc="8530d55c" md5="9cca1e9829ab2cb4ae127b0fddbd2129" sha1="f11e9862b649daa69919ee8f0448d0b99de05233" />
+		<rom name="source\makefile" size="817" crc="ef430d95" md5="c5fb4930bf97014ab5fc24f02b7301b1" sha1="2b153b7d74df9e2fab1950cb0c7d12624e238f42" />
+		<rom name="source\picture.c" size="25154" crc="22af730c" md5="5c25fb1391cf2c231b2f312e1e93581d" sha1="72b006cd417991fb5c164f73f1f6c506f45ce68b" />
+		<rom name="source\sound.c" size="9699" crc="faba0b01" md5="9adebede907d89d280239559e69149df" sha1="298891bc7f4168f585b30d5a7910b8e4b95ec51d" />
+		<rom name="title.gif" size="2256" crc="211ba0dd" md5="afda3191c670e629cf7ffd9a5c017de7" sha1="a6d858abcfdb926065f30ec5e0dbff052285dcf4" />
+	</machine>
+	<machine name="Hen v2.1.023 (2002-06-17)(Hafupon)">
+		<description>Hen v2.1.023 (2002-06-17)(Hafupon)</description>
+		<rom name="edit.html" size="3965" crc="de5f6381" md5="8eaa8bdd3ffc6dc7eec2f931f7432174" sha1="7f844ce5eaa11c73da4b6c128adac28d8d1b7cd2" />
+		<rom name="hen.pex" size="23583" crc="2a9cf4b9" md5="69ab18c3f55093597efd99eed22415ec" sha1="c30b6832792e02f14bde9570c8a9b011e691e335" />
+		<rom name="picture\e_make.gif" size="7964" crc="10a32663" md5="3470d5e317ec69c56e35f1daa3aa47d2" sha1="fc54e5932b56d552e222002f3f1147e2c454b8bf" />
+		<rom name="picture\e_menu.gif" size="7945" crc="446b57fb" md5="4577f632735b4cf4eaa71efdea485a5f" sha1="a48db081aff385bbc094151ba7bb9535bff76f7a" />
+		<rom name="picture\e_select.gif" size="7637" crc="30903091" md5="d5475725fdd8481235b7392dc45084b9" sha1="c84bbef8f583cf6030d9a703f731a1f91ba4c91f" />
+		<rom name="picture\e_stage.gif" size="7780" crc="d6e362ba" md5="f1f4008081c86134598952254745b569" sha1="4602aa48ecd6f4663aead2846f68104007b9326f" />
+		<rom name="picture\fence.gif" size="912" crc="b53a420b" md5="60d211a03ef56b649a17409ddb03f96f" sha1="0485bc5915f7d03d801f8797cf61db197166603c" />
+		<rom name="picture\hen.gif" size="944" crc="f739ff11" md5="53449bc9e3ef947af3266ee3a814bd08" sha1="333d5cc9ce0c70dab1048397792b403694fc5a1e" />
+		<rom name="picture\house.gif" size="951" crc="19ec8595" md5="3148dc17986e78f2c0eb7debed3e63c8" sha1="3f3758adcc4d4cb7d71737126563cb63ef4dbe12" />
+		<rom name="picture\pi.gif" size="906" crc="121ad884" md5="8b76daa8a749b6219457450f727506c7" sha1="19e8ae975b50d493de2570576d15012536f890e4" />
+		<rom name="picture\stage.gif" size="7570" crc="565c7989" md5="e9486973f55644eb504a1f001a8afa06" sha1="b37e52cd9fe25916dd7e8038a97838c994702578" />
+		<rom name="picture\stone.gif" size="925" crc="de47fa91" md5="39951af1a65805bf59dd3c2ab5dc22c5" sha1="38f8bd23daab2b5f88ad1958ffc60d7f7082afe7" />
+		<rom name="picture\title.gif" size="3377" crc="4fd05f22" md5="73c332e6e9efeeff69e317e71f42c8c6" sha1="3f3693b6ddd6d2841c2bf7b5af37ea24029ba379" />
+		<rom name="picture\tree.gif" size="964" crc="fb1efc13" md5="a92a41df174635f008f822fcdc6a576b" sha1="e8d70d3a046407f55a0a6385716292fb50d10f29" />
+		<rom name="picture\water.gif" size="919" crc="10226b65" md5="7515f95d15044a16294b1b76acf50b39" sha1="37f0e80200e8fcf38c8fa57f2377113d3ddf2d5b" />
+		<rom name="readme.html" size="5260" crc="8a348b7b" md5="940ce9fe90ebf402ece06899c6e827fe" sha1="9f8d89699a90bc7cd6e2693eae47505352724991" />
+	</machine>
+	<machine name="かむかむこかみん (2002-03-14)(m_nekomi)">
+		<description>かむかむこかみん (2002-03-14)(m_nekomi)</description>
+		<rom name="ccc.pex" size="21049" crc="98dec0e8" md5="45bca3faef8728a43ecece7a445765a6" sha1="a9022aad3237a9abdcf725bd0d971aaa0523cb51" />
+		<rom name="ccc.pfs" size="18" crc="bcc89868" md5="18487f20f804d827f803e183b660ded6" sha1="5c6a69d2aa117e2c5f793224211460f4b32df803" />
+		<rom name="ccc.sav" size="4084" crc="08131530" md5="3b38d6b644025054e08cd87c21542bbd" sha1="ef71feb341ccc5f39d8bed5670b7b973e4c419b4" />
+	</machine>
+	<machine name="Monaco 120% v2002 Winter (2002-12-31)(GAMEOVER)">
+		<description>Monaco 120% v2002 Winter (2002-12-31)(GAMEOVER)</description>
+		<rom name="image\manu02.png" size="2191" crc="39b0ef37" md5="e92b6338dd0e4d00fa27e0dbac08226a" sha1="9d6beb7bd4dc67d0ad5614f0f7d063e5b2121f84" />
+		<rom name="image\mntitle.png" size="1094" crc="9c08aa64" md5="18ec4aad54113de42fb15dbaf37571dd" sha1="4045abaa537cd91152e33274ae467107a6d5a4de" />
+		<rom name="mn.htm" size="1928" crc="05ae222b" md5="addc3c1a2ea39e12aae6c2ca353edd0e" sha1="848f0a740c0ada2ad7965d459360bb893af96f3a" />
+		<rom name="mn.pex" size="5205" crc="86d85732" md5="f5685bf9617cc8dbc975af3e3ed79c1c" sha1="6a8bd1591a3e0dcf49ed78692a7d90e555a78b83" />
+	</machine>
+	<machine name="しょうか v0.5 (2002-11-01)(Madoka &amp; Hebojirushi)">
+		<description>しょうか v0.5 (2002-11-01)(Madoka &amp; Hebojirushi)</description>
+		<rom name="syouka.pex" size="49000" crc="643823f3" md5="2574fa213834ccbd31a231477e43287f" sha1="19364bdd620ad67f5f1ae4a2b9b1bb7eba359335" />
+		<rom name="syouka.srf" size="141757" crc="d5d9b011" md5="9c48f4732e45ddcf05bfa90a4ee81892" sha1="966a664db1d204999ec6447b2ab89d44480ad3b4" />
+		<rom name="syouka_help.files\Block_Manual.jpg" size="3860" crc="edb88bee" md5="0473c53558a466f8bec15a1dde3a9222" sha1="59a31287bd62ff91a1420bdb187d1cfe42e143cd" />
+		<rom name="syouka_help.files\syouka_file.jpg" size="4839" crc="5f8e64e4" md5="e4edfcb434585bf5eed21b928715c968" sha1="5d4fcb6b9ac1566a5ca2d8781729e7e039707ed6" />
+		<rom name="syouka_help.files\syouka_game.jpg" size="5875" crc="2530c171" md5="cad6de93cf43e45b2a7bece65d28a805" sha1="6e6e142a963754998844dd31fadaf7cbb04de5f9" />
+		<rom name="syouka_help.files\syouka_title.jpg" size="5220" crc="358bccb6" md5="d89fd9aa850809bb795b081bc388bf77" sha1="d64a19ebbf80942a3a9ce4dc5d436e3fbc78ebee" />
+		<rom name="syouka_help.htm" size="7725" crc="f2108b01" md5="3585c5c3f6337ff20e4677c4b05ef532" sha1="c74b92a100a8d5498279776315a115bc0ab7ecf7" />
+		<rom name="Ver.0.5_src\Auto.bat" size="22" crc="fb06a0b3" md5="35536d1810724a1b75f51172ef2e6c40" sha1="029c31aecfc8caa86f479828bd07706d3821d982" />
+		<rom name="Ver.0.5_src\Auto_NoBGM.bat" size="37" crc="e436085f" md5="061e6f4d601ef067ff94f0f2f7f307f3" sha1="486652ab380731929d9e840713db004fd1c83fad" />
+		<rom name="Ver.0.5_src\BGM無しバージョンのコンパイルについて.txt" size="2160" crc="c9d22486" md5="c322bdaccc5a639036fa429bbfc86d49" sha1="5d82eb13aa251acc99c50a48f70f361ef03f6706" />
+		<rom name="Ver.0.5_src\bgm.c" size="2703" crc="4ef47031" md5="fb42e58ee2239abab1acfc715474056a" sha1="f7c8855cb2e3f2348a279baa46e300bcf61c7918" />
+		<rom name="Ver.0.5_src\chip.bmp" size="3126" crc="747ed36a" md5="8cba8bbd9a3e0bb0dcf1b89007392c18" sha1="a255ad21302ee72535c68e2a4f453321b4fc1b39" />
+		<rom name="Ver.0.5_src\chip.c" size="4126" crc="35551cec" md5="f7385c10e60e30c16d1174c2a0788878" sha1="9329a5c88ceedaa7190bb24429bffb55e2a1f6c3" />
+		<rom name="Ver.0.5_src\define.h" size="5879" crc="b02f6bd8" md5="a720c94c9bac512b240540f9e415951c" sha1="8b8dff6d49319125ea9be2ec0d3eb3eb0135937b" />
+		<rom name="Ver.0.5_src\Draw.c" size="14153" crc="923bb830" md5="51d0dd6bca5de02762b46f2f0cb343bc" sha1="6407c1f333d9c9454dd30c80295d64202eee2f26" />
+		<rom name="Ver.0.5_src\Draw.h" size="2049" crc="e56fb126" md5="3c1beb1744fb9acd42ae5333895e2735" sha1="361891e8c96d1c6ccf873d011e891fddb5cf5596" />
+		<rom name="Ver.0.5_src\Effect.c" size="8059" crc="1b9cb61a" md5="31a228164bcf7c775cd3ceb1380f05b2" sha1="5aabf9e3539c7303bbd0a798f876192a47aa2ed9" />
+		<rom name="Ver.0.5_src\Effect.h" size="1802" crc="d1f68950" md5="25dfc79fddcb5b01891d477ec95a44a6" sha1="6c06c8f88e38c4a14810ce2c1a5ffc857b5f97fa" />
+		<rom name="Ver.0.5_src\end.c" size="14621" crc="81569304" md5="b8fa26889c7576ce5fc837828f5fb878" sha1="8ade77b50fc311ed5f93be369d77c16adbffb431" />
+		<rom name="Ver.0.5_src\Game.c" size="18336" crc="271ba703" md5="01932a801a2f8897c5ea436f999b84b7" sha1="062cb6121695107811ac88909cdef7b1a4532546" />
+		<rom name="Ver.0.5_src\Game.h" size="3438" crc="2962a889" md5="16d7aa735f1b6b68679edce86951b4e7" sha1="aedc8a0a130273f78155a8229bac4ffb6fca9b23" />
+		<rom name="Ver.0.5_src\kesi.c" size="12551" crc="474c23a2" md5="8b612d5f3ff0ff5c9d2a655c3ba26862" sha1="b84befa79f09776a719d606a440e8647fd3b23f5" />
+		<rom name="Ver.0.5_src\makefile" size="1104" crc="aed23419" md5="48f67dc65cd4d8632fb574197862ab6e" sha1="e3db5df3f6b755719653b6487e76d83d977ddba5" />
+		<rom name="Ver.0.5_src\makefile_NoBGM" size="1103" crc="8dc6975b" md5="467aa25afc1df4e970761b693c575fce" sha1="458cc42cb9e6e77a72b9ef4fae2e89e50d1c163a" />
+		<rom name="Ver.0.5_src\piko.c" size="4350" crc="aab871da" md5="5c3a5c3530644d63661becbf0607a290" sha1="40a2040ea2507db0534559c1da8c52c1d78d8a21" />
+		<rom name="Ver.0.5_src\pup.c" size="9741" crc="427f0663" md5="3015ef98abbe3aacc93c3180a9407cf5" sha1="0788faa16493d8bec0b052e7827bd61d9d895930" />
+		<rom name="Ver.0.5_src\snd\i_BD909.h" size="9543" crc="3a52d464" md5="9c0b47ac83c8beaa7f96016de2f885cc" sha1="51d9f1fe384d3c139ef76b16736a5615b0a8bcc1" />
+		<rom name="Ver.0.5_src\snd\i_CYMBD.h" size="30941" crc="441ae967" md5="8453ae8c92635dabed80aaa391b22c7a" sha1="5406e3ec5a275fe83a5579ad9160ba728b23e85e" />
+		<rom name="Ver.0.5_src\snd\i_DEFSND.h" size="1382" crc="ef728a78" md5="dd0b1063e87c4161b6f27c78c0f21a40" sha1="7f34e8f7e28f8c8b34377148a56ebfe0f86df27d" />
+		<rom name="Ver.0.5_src\snd\i_HANDCLAP.h" size="6519" crc="f096fc19" md5="ed7f47c751ee4a86f50efff767889be7" sha1="518250a3d939bb9a0e6facd903f81ccc4e9d8f40" />
+		<rom name="Ver.0.5_src\snd\i_HC909.h" size="5071" crc="c77b1bde" md5="1d1b441c27a920e8b2f3762e673d53da" sha1="927c98eb4faf59881c7846e7d7a04eecf4605204" />
+		<rom name="Ver.0.5_src\snd\i_HO909.h" size="18001" crc="2b61c713" md5="9addc6d99bcf12cb89f7a7a6d3c45aec" sha1="dbfc8c127a072201ecd98168da0253ddd4af11a0" />
+		<rom name="Ver.0.5_src\snd\i_SD909.h" size="6916" crc="3f15ac32" md5="7d59dabe672a3b3f39ba3c87776bf4f4" sha1="736094208194af4fc0825288118c1359ac4b77f7" />
+		<rom name="Ver.0.5_src\snd\i_SDGATE.h" size="19225" crc="7d081498" md5="25218e7694d6a76651730924ade73df4" sha1="e26c429c143ba2b0c3e60d6df939d3e8e205539c" />
+		<rom name="Ver.0.5_src\snd\i_TOMH1.h" size="8050" crc="0e6c1817" md5="bc0ebf8db86d5c4787833723a1ce7a99" sha1="95abefa39c5922717858b9e3814b246c0d920430" />
+		<rom name="Ver.0.5_src\snd\i_TOML1.h" size="15093" crc="0ba655cd" md5="d36286881b27741ba87f7a0dbef930d9" sha1="81c75122d24113c690a1be5201dce8e866b9910a" />
+		<rom name="Ver.0.5_src\snd\i_TOMM1.h" size="10540" crc="43ede82f" md5="c28b871fbf3368d5598c8fca71a4be2b" sha1="a975e1f5ffe5fa199a1e0b2192560990cfe1bcec" />
+		<rom name="Ver.0.5_src\stage.c" size="4221" crc="148cfde7" md5="73ef18ba8d6a252329c453f26967bd0a" sha1="9d353f461793221547e6439178e80a22b8a4137f" />
+		<rom name="Ver.0.5_src\syoico.bmp" size="2102" crc="7d254e18" md5="fde61f7d76a0e2e950be40ed214755bb" sha1="3c03c4b07125883d62d5d7c2e92e84387f220427" />
+		<rom name="Ver.0.5_src\syouka.c" size="11825" crc="ca243561" md5="c53d0b45f1c32a8940f4a6d33f366d60" sha1="18eb1ed25948d1d0bec06735d71132e92f020ed2" />
+		<rom name="Ver.0.5_src\syouka.pid" size="256" crc="a6e1e193" md5="87a4caa0e2eefd2deff4b1309e15402f" sha1="0f3a9c608718fc100bad2e110f2a914d37db4a65" />
+		<rom name="Ver.0.5_src\title.bmp" size="12342" crc="d67e8bd5" md5="2b736b2915c214f42b536d82c405ab81" sha1="f5eee5c9d5584ab94b4b04bb6d44e65c856893ee" />
+		<rom name="Ver.0.5_src\title.c" size="14625" crc="1e08e2eb" md5="6f2bfbfb185da8acbfda815b9352c713" sha1="bf68bb487d204d4ea34f107705654aea67179d8b" />
+		<rom name="Ver.0.5_src\water.c" size="8945" crc="fc5aba8d" md5="ce5f6d7f1c04a3a8866102831945f32d" sha1="8ba7d21d9e6d6d228a2fb56ee7345b78d0b0f9c0" />
+		<rom name="Ver.0.5_src\wavetbl.c" size="847" crc="0d36e80b" md5="47d15cdb9aad2e173b7bfab2d0362d52" sha1="2390bdce68c2ddd79a3e98becd9a8ba36406d1e0" />
+	</machine>
+	<machine name="ぽぽりん　えすけいぷ (2021-01-19)(BLACK FTZ)">
+		<description>ぽぽりん　えすけいぷ (2021-01-19)(BLACK FTZ)</description>
+		<rom name="LICENSE.txt" size="638" crc="a6fc6ab5" md5="4368ac229c5d72b3829e1907696e8c47" sha1="54af4ab0b00398a3a6d024c5524d89f175606eba" />
+		<rom name="poporing.pex" size="39094" crc="22a7a666" md5="7c337a91e213896cda4b1536cb7e80b8" sha1="35a6a4452ab2d201e007f44aeb021032eccaad32" />
+		<rom name="README.TXT" size="3598" crc="3b86fea9" md5="78b35b100649d237bcee2346bfd8908d" sha1="2645a331a3a191fb7c1bab81edb35293332a92c6" />
+		<rom name="SRC\game.c" size="14994" crc="bc6ed1fe" md5="de0d3d9df2733dcbc3364e57e41f5082" sha1="9e5b29dfc46a1e6519312156dfb51bc1df5c8068" />
+		<rom name="SRC\icon.pid" size="256" crc="ea39f0b5" md5="e41fd480e174db91db0414f8287bcbeb" sha1="f959024e39e590f8b5eaa8c5c6b6b4770f5ca43e" />
+		<rom name="SRC\io.c" size="47610" crc="afba9992" md5="c7b05d9cfa057cf031d9c1a206173d31" sha1="f0f140d917409ac1b39af13ee27ddb287baa6f06" />
+		<rom name="SRC\local.h" size="6385" crc="8612b9f8" md5="e12f629a3442957e48703d688b0bcd82" sha1="6e3756dd6e493ed8cb2e53115d06447013714084" />
+		<rom name="SRC\main.c" size="463" crc="c7b71471" md5="f681b7eb5ec55dbd5f11bfdc85bd9052" sha1="345c6f9b3ea15e7ae9aa578a9a78859bb32c5330" />
+		<rom name="SRC\makefile" size="1225" crc="b164ef18" md5="b1256270927dca9917bcb98aea5bf260" sha1="9f5b8c72a445c133471134cabc398c55303dd45f" />
+		<rom name="SRC\math.c" size="1098" crc="ff212ca6" md5="52d32e4b99e451193f360c50a2e9da77" sha1="7dfeab4c4e65296eb8eeac89be6f45a3458dadf6" />
+		<rom name="SRC\mem.c" size="2852" crc="7ed2c22e" md5="f9cac9f13eb635297b5043e185974f58" sha1="ee913f2838b24790c844a9bdf41307ad3da632b3" />
+		<rom name="SRC\mus.c" size="34" crc="e9742bba" md5="4848816382472f65f7fd40178be6f684" sha1="bc042814a67dd86cfa392cba030331e13099497c" />
+		<rom name="SRC\mus.h" size="85" crc="92367dbf" md5="69329452bf754a2e585a820cc00d040d" sha1="a98c869a0fb4a08027660de973d8bdbd5048443e" />
+		<rom name="SRC\music.c" size="1629" crc="4a6d0b84" md5="89ddb575358d9f13d037fbea9bb5d4a4" sha1="ba4e97c3e3bfa2e1a0d4cca0f1f6d5e798880abf" />
+		<rom name="SRC\obj.c" size="100775" crc="8329f81f" md5="43a3319fbacb522e7ca706f6b870b5bf" sha1="fa7f5f3b5ea9e0aefbcc2af3b9a999dd14b6e01a" />
+		<rom name="SRC\obj.h" size="1102" crc="a8080363" md5="cc7d41526374e72fc33108accc672b46" sha1="af210dd80a4f83656767102919ddec0742266562" />
+		<rom name="SRC\object.c" size="1629" crc="5688a56d" md5="4d76c5542cf1840eaa172b7945302eff" sha1="fd4dac32de2d41fbc120a327ae216cfdf2c6a6aa" />
+		<rom name="SRC\sintbl.c" size="3202" crc="727c9e7d" md5="be62f54fa978bf1ba233cbbdebc5c744" sha1="c960a33bfe3bf1af9add31a7c9b9a7a7326b25b0" />
+		<rom name="SRC\snd.c" size="88232" crc="2c3f3f5d" md5="b1776d44eb572fed2af408e5a4618b3d" sha1="f0b69e6c7f234f1f75fb1a7ddae2315ddc1f00c5" />
+		<rom name="SRC\snd.h" size="394" crc="1607d91b" md5="4af4b137b05b46410929a208fd6baff8" sha1="c4d37af1539d70c04c145e5c574146362c4da0f3" />
+		<rom name="SRC\sound.c" size="1920" crc="cc4ac737" md5="75aaa80f6b250636e6c53ed95a93160b" sha1="8e1cda691bd46135b787800755813bcb868754cc" />
+		<rom name="SRC\task.c" size="29553" crc="73840219" md5="f2c5dd20825c9032495a6d77882e9d36" sha1="b429f6c376e0cd46db4dc84ccc4cb2abf073bba7" />
+		<rom name="SRC\wavetbl.c" size="807" crc="6c9cb8c3" md5="6f03b00eb1518643e3160ad7301573b7" sha1="3c1d1c876dbd47f603b0899d5076f1b28c663388" />
+	</machine>
+	<machine name="ぽりんＤＡＳＨ - Complete Version (2002-04-02)(BLACK FTZ)">
+		<description>ぽりんＤＡＳＨ - Complete Version (2002-04-02)(BLACK FTZ)</description>
+		<rom name="LICENSE.txt" size="638" crc="a6fc6ab5" md5="4368ac229c5d72b3829e1907696e8c47" sha1="54af4ab0b00398a3a6d024c5524d89f175606eba" />
+		<rom name="poring.pex" size="26383" crc="e55cddc8" md5="401fece499f79c2211597061db620ffa" sha1="450a42526715b7a5f1be647d637e643320cbcb71" />
+		<rom name="readme.txt" size="4175" crc="18f71aab" md5="22a5f76366e187131aa1b23fb4a18aef" sha1="e74d1b9d85d5b0a3ffd7aef8201099b0ae1b0b64" />
+		<rom name="src\game.c" size="14528" crc="6012130e" md5="59807a495e101c41ac4160d5b74f21a3" sha1="c765a486029edbce795e97bc78bbfca6111539cf" />
+		<rom name="src\icon.pid" size="256" crc="18764adf" md5="2ade74216de2a69073a9f6e3ed0d6fb3" sha1="1ea6d894095de814c393b0adee8f323ba97f5c52" />
+		<rom name="src\io.c" size="47900" crc="cfbc4afd" md5="5e1fc9cee9922eae614d7b068c7bca09" sha1="a048dd9991e98003579ca25be5c9cb62748a98c2" />
+		<rom name="src\local.h" size="5822" crc="bff967b7" md5="00b114cdb24ec54b7cc035134038fc92" sha1="9989a92f09af80bf0ac78935f723cecbe71068fa" />
+		<rom name="src\main.c" size="463" crc="c7b71471" md5="f681b7eb5ec55dbd5f11bfdc85bd9052" sha1="345c6f9b3ea15e7ae9aa578a9a78859bb32c5330" />
+		<rom name="src\makefile" size="1219" crc="59500880" md5="fba5e9da172d286169f746a05ab8569c" sha1="b2322512210f4bc0d5c488dd92e40df260eda9c6" />
+		<rom name="src\math.c" size="1086" crc="383156e1" md5="f8449fc5a6d1bdab89e069f0c32a3dcb" sha1="3182ffd20708b0b5e5fb2bda6dce8105ba6d9669" />
+		<rom name="src\mem.c" size="2859" crc="ec84b3f1" md5="638ee3a7425738e878dc56fc29f27910" sha1="02fc3aac48e6b48c2d60e0c69e2a65814895d18e" />
+		<rom name="src\mus.c" size="34" crc="e9742bba" md5="4848816382472f65f7fd40178be6f684" sha1="bc042814a67dd86cfa392cba030331e13099497c" />
+		<rom name="src\mus.h" size="85" crc="92367dbf" md5="69329452bf754a2e585a820cc00d040d" sha1="a98c869a0fb4a08027660de973d8bdbd5048443e" />
+		<rom name="src\music.c" size="1629" crc="4a6d0b84" md5="89ddb575358d9f13d037fbea9bb5d4a4" sha1="ba4e97c3e3bfa2e1a0d4cca0f1f6d5e798880abf" />
+		<rom name="src\obj.c" size="128163" crc="07a1c06f" md5="b3e39836d5d7b05113dd65e79d061a6a" sha1="dcb1691fcba9a2cfd4a78fd6b48075e31b10a095" />
+		<rom name="src\obj.h" size="1059" crc="54023c16" md5="df770019af68c615c82c6ac92d0a9255" sha1="a9f07282340b9c33da78b0f65160f0db3d42735b" />
+		<rom name="src\object.c" size="1091" crc="9ff16e29" md5="69ff0671bfe8b67ccafaa8f3b7ef3016" sha1="ecdcd59c5d22718a7c3675716cefa627fd3d31cd" />
+		<rom name="src\sintbl.c" size="3188" crc="86d524b3" md5="f2b9b52282e2321e01a72385e4e0e266" sha1="fbab4dc4da978d34e0f71944f2152d8753c31a30" />
+		<rom name="src\snd.c" size="10643" crc="46fc065f" md5="8cd5113a5680deef6d593eaa612f2473" sha1="cb710e7a8630bbd8458f321e621419c0b46e2935" />
+		<rom name="src\snd.h" size="358" crc="439914c6" md5="3ba9b5d84e2f0dc388bf726778f894ee" sha1="dc1dcb29ae31aec68a155e944a352be7204034e7" />
+		<rom name="src\sound.c" size="1920" crc="cc4ac737" md5="75aaa80f6b250636e6c53ed95a93160b" sha1="8e1cda691bd46135b787800755813bcb868754cc" />
+		<rom name="src\task.c" size="26304" crc="39a1be1b" md5="d9b99b4b9f4865f6ec31150bb8910a45" sha1="1ff89974ab3ec6320a03b0194685b7b2245ffddf" />
+		<rom name="src\wavetbl.c" size="807" crc="6c9cb8c3" md5="6f03b00eb1518643e3160ad7301573b7" sha1="3c1d1c876dbd47f603b0899d5076f1b28c663388" />
+	</machine>
+	<machine name="ぽりんＤＡＳＨ - Pickup Version (2002-04-02)(BLACK FTZ)">
+		<description>ぽりんＤＡＳＨ - Pickup Version (2002-04-02)(BLACK FTZ)</description>
+		<rom name="poring.pex" size="24265" crc="34a7add2" md5="99e6dbdd70aae78084dc9fb6f6403115" sha1="d39681e415a1284dab1d24118c44d86755f3a041" />
+		<rom name="readme.txt" size="2685" crc="b99650f9" md5="96f8bc0539a3f6c37f0d17a0157feac4" sha1="fcba3fb2be2f5d7fa6c6993d714d360b476df12f" />
+		<rom name="src\game.c" size="14130" crc="98a8680d" md5="176c00237bbc06fc569866e0b607e0bb" sha1="6b2d4ed9c35f8ef57cab674ee9ec0a912aa396a6" />
+		<rom name="src\icon.pid" size="256" crc="18764adf" md5="2ade74216de2a69073a9f6e3ed0d6fb3" sha1="1ea6d894095de814c393b0adee8f323ba97f5c52" />
+		<rom name="src\io.c" size="47900" crc="cfbc4afd" md5="5e1fc9cee9922eae614d7b068c7bca09" sha1="a048dd9991e98003579ca25be5c9cb62748a98c2" />
+		<rom name="src\local.h" size="5822" crc="bff967b7" md5="00b114cdb24ec54b7cc035134038fc92" sha1="9989a92f09af80bf0ac78935f723cecbe71068fa" />
+		<rom name="src\main.c" size="463" crc="c7b71471" md5="f681b7eb5ec55dbd5f11bfdc85bd9052" sha1="345c6f9b3ea15e7ae9aa578a9a78859bb32c5330" />
+		<rom name="src\makefile" size="1217" crc="337f06ea" md5="79fab045078ad862c85c1d8377899590" sha1="6247713f8a25e24d687d0bd02d52911df08ce556" />
+		<rom name="src\math.c" size="1086" crc="383156e1" md5="f8449fc5a6d1bdab89e069f0c32a3dcb" sha1="3182ffd20708b0b5e5fb2bda6dce8105ba6d9669" />
+		<rom name="src\mem.c" size="2859" crc="ec84b3f1" md5="638ee3a7425738e878dc56fc29f27910" sha1="02fc3aac48e6b48c2d60e0c69e2a65814895d18e" />
+		<rom name="src\mus.c" size="34" crc="e9742bba" md5="4848816382472f65f7fd40178be6f684" sha1="bc042814a67dd86cfa392cba030331e13099497c" />
+		<rom name="src\mus.h" size="85" crc="92367dbf" md5="69329452bf754a2e585a820cc00d040d" sha1="a98c869a0fb4a08027660de973d8bdbd5048443e" />
+		<rom name="src\music.c" size="1629" crc="4a6d0b84" md5="89ddb575358d9f13d037fbea9bb5d4a4" sha1="ba4e97c3e3bfa2e1a0d4cca0f1f6d5e798880abf" />
+		<rom name="src\obj.c" size="91357" crc="dc323c6b" md5="b6844591197b9391f73da22538ca3b91" sha1="0a47a229b792e27cb184073edb070f0027387f7e" />
+		<rom name="src\obj.h" size="954" crc="2e1b5b89" md5="a18ff6d94b0ddc8a8ee3fa52ffda6f47" sha1="ffb7f5a9318c0ea31beb62d8db4710cd40d6cb96" />
+		<rom name="src\object.c" size="1091" crc="9ff16e29" md5="69ff0671bfe8b67ccafaa8f3b7ef3016" sha1="ecdcd59c5d22718a7c3675716cefa627fd3d31cd" />
+		<rom name="src\sintbl.c" size="3188" crc="86d524b3" md5="f2b9b52282e2321e01a72385e4e0e266" sha1="fbab4dc4da978d34e0f71944f2152d8753c31a30" />
+		<rom name="src\snd.c" size="10643" crc="46fc065f" md5="8cd5113a5680deef6d593eaa612f2473" sha1="cb710e7a8630bbd8458f321e621419c0b46e2935" />
+		<rom name="src\snd.h" size="358" crc="439914c6" md5="3ba9b5d84e2f0dc388bf726778f894ee" sha1="dc1dcb29ae31aec68a155e944a352be7204034e7" />
+		<rom name="src\sound.c" size="1920" crc="cc4ac737" md5="75aaa80f6b250636e6c53ed95a93160b" sha1="8e1cda691bd46135b787800755813bcb868754cc" />
+		<rom name="src\task.c" size="26531" crc="42209754" md5="f73dfaf70ae0f2d359a4ba0a083f0c4e" sha1="1bb52166e607c265184b1a9ab80420009748cf8e" />
+		<rom name="src\wavetbl.c" size="807" crc="6c9cb8c3" md5="6f03b00eb1518643e3160ad7301573b7" sha1="3c1d1c876dbd47f603b0899d5076f1b28c663388" />
+	</machine>
+	<machine name="ろ　すごろく (2021-01-05)(BLACK FTZ)">
+		<description>ろ　すごろく (2021-01-05)(BLACK FTZ)</description>
+		<rom name="LICENSE.txt" size="638" crc="a6fc6ab5" md5="4368ac229c5d72b3829e1907696e8c47" sha1="54af4ab0b00398a3a6d024c5524d89f175606eba" />
+		<rom name="readme.txt" size="5389" crc="a9577341" md5="da6f7ebcb40bca62cd67bf9d6154098f" sha1="8981dfab93ab76d2cdedf4b265961ca7f7bd6ae7" />
+		<rom name="src\icon.bmp" size="1100" crc="8c8d93c8" md5="dafb30f62f608e0976aa15ebad99ed8f" sha1="aac696c4363f9e99e168a06abce839971eb66a34" />
+		<rom name="src\makefile" size="1014" crc="0605410f" md5="75450ac8aa465270e5f358b27adcb181" sha1="91e074ed106c62570824549d529a2f5a470663a2" />
+		<rom name="src\pat.bmp" size="16460" crc="52084319" md5="653f39f37170933c4bc5ce550710a091" sha1="9c64f3a73d55d1e02500fe447358488bdcf2ec0b" />
+		<rom name="src\prog.c" size="36320" crc="e0584293" md5="f0c07202d5e5bbb281c08a235124cd16" sha1="e18c299f3a18a15dd9849f50a42f0d7b16305b45" />
+		<rom name="src\s4s.c" size="5539" crc="1c0cad67" md5="69fefb8a9cb75588a760ae9234dc4cbc" sha1="40fcf224dba14477b48b3f1ef8d3403079928e00" />
+		<rom name="src\s4s.WAV" size="1078" crc="df61b0dd" md5="37e9a79e29f5631b4716b61deea3b6b5" sha1="5bd4731d8f389a1f4cd6d00f11e9d73ad9a3b2bd" />
+		<rom name="src\title.bmp" size="16460" crc="486e5490" md5="82f1d63090735d57cfa86dd45ebffbb0" sha1="bdff86c40c4ca73123d28542be2d27c05c6d2c83" />
+		<rom name="sugoroku.pex" size="26343" crc="390cbdb7" md5="028ff6af92e7dd546354722e784b63e2" sha1="86b40d4db819d7f92b3d840ee9b6cb1cc7f91232" />
+	</machine>
+	<machine name="雀斑お試し版 v6809 (2002-10-07)">
+		<description>雀斑お試し版 v6809 (2002-10-07)</description>
+		<rom name="image\manu01.png" size="2224" crc="0cf93e8f" md5="bba12e72192ce1cf01f67f79c69d00f8" sha1="63d8868a22b77d36a97192c2f0610d26e06ee80c" />
+		<rom name="image\sbtitle.png" size="1565" crc="c5fd2124" md5="88af5a4ee5a495a142a5d3dfe645b988" sha1="0d42c082921efbcc526971970bb01dc5e8d16d63" />
+		<rom name="sbtry.pex" size="38370" crc="ffc87f17" md5="2f65def1ceb388c36bc4292b4555c52f" sha1="fc1d5b9cb8ac23ff724c4d2b635b99d378deee7d" />
+		<rom name="マニュアル.htm" size="2566" crc="074670ba" md5="f07556513ba6f59c44a7d68fb93ba01e" sha1="cc5d1106fbd0e37d2cb9396811dbda036c83030a" />
+	</machine>
+	<machine name="BiGBug (2001-12-09)(chaba)">
+		<description>BiGBug (2001-12-09)(chaba)</description>
+		<rom name="bigbug.pex" size="8929" crc="dd1f96c2" md5="bf227e6878acd72ed73a9eda5135cb6b" sha1="77db89386fe102653901daab01a1def93877f013" />
+	</machine>
+	<machine name="HORE-HOLE (2001-12-06)(chaba)">
+		<description>HORE-HOLE (2001-12-06)(chaba)</description>
+		<rom name="hole.pex" size="3171" crc="54343bce" md5="317e99cc35df38d59be07f8d451335f9" sha1="0793a7463a7a69091b1cc65b8fb3404292a9e7c1" />
+		<rom name="mapdata" size="1014" crc="2700e439" md5="aa37be6cf16d569649aca5587366b4bc" sha1="447f44f86c4ab58c910caff59545e3811a15903c" />
+	</machine>
+	<machine name="miniTENNIS (2001-12-16)(chaba)">
+		<description>miniTENNIS (2001-12-16)(chaba)</description>
+		<rom name="mten.pex" size="6635" crc="976c1dfa" md5="e6611bac7a272125e5ef204dcbe531c0" sha1="464f47b51842e05d8407048589355bf42c3f3514" />
+	</machine>
+	<machine name="OLIMP-ECE-02 (2002-03-04)(chaba)">
+		<description>OLIMP-ECE-02 (2002-03-04)(chaba)</description>
+		<rom name="olp02.pex" size="6869" crc="499ef729" md5="1037a39079a8f7ffb6948f66b2610663" sha1="eb6058058793a2e560a20ff06504e21627c7a269" />
+	</machine>
+	<machine name="OLIMP-ECE-04 (2002-03-04)(chaba)">
+		<description>OLIMP-ECE-04 (2002-03-04)(chaba)</description>
+		<rom name="olp04.pex" size="7401" crc="8a45403b" md5="2c43476ba0576ce03a8efb6b485f99eb" sha1="0e968850ce2e9f2e833aa41d4e1f2190c4217a40" />
+	</machine>
+	<machine name="OLIMP-ECE-13 (2002-04-05)(chaba)">
+		<description>OLIMP-ECE-13 (2002-04-05)(chaba)</description>
+		<rom name="olp13.pex" size="5480" crc="12a16fae" md5="0b002fab8d817a5cc9fb7743402d5f15" sha1="74dfbefabf0ccc53d903d0d98eb29b7626566211" />
+	</machine>
+	<machine name="PANEL_Y-P (2001-12-04)(chaba)">
+		<description>PANEL_Y-P (2001-12-04)(chaba)</description>
+		<rom name="panel.pex" size="3449" crc="d8be07e8" md5="edbe4d2a2827acbd447a05fd9b0e176d" sha1="6e010ead4461f5d01edd71cbc87a7acb357f6683" />
+	</machine>
+	<machine name="RALLY-P (2001-12-11)(chaba)">
+		<description>RALLY-P (2001-12-11)(chaba)</description>
+		<rom name="rallyp.pex" size="6691" crc="04adcd5a" md5="483a361684f0e073f4a62a930b28dda6" sha1="6a67d937dcb077cea54e7d0814d2c8e4f73834a8" />
+	</machine>
+	<machine name="四面楚歌 (2002-04-14)(chaba)">
+		<description>四面楚歌 (2002-04-14)(chaba)</description>
+		<rom name="shimen.pex" size="8183" crc="aed8b501" md5="16ff802c95b93f7d58827565759577a6" sha1="0ee3e1e9e9b357f6190c9a9e3db08e7fc5818c5c" />
+	</machine>
+</datafile>

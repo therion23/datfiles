@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile>
+	<header>
+		<name>Aquaplus P-ECE - System and Documentation</name>
+		<description>Aquaplus P/ECE - System and Documentation</description>
+		<category>Standard DatFile</category>
+		<version>2026-07-30</version>
+		<date>2026-07-30</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://aquaplus.jp/piece/</homepage>
+		<url>https://archive.org/details/@uncletrunks</url>
+		<comment></comment>
+	</header>
+	<machine name="P-ECE Handbook Volume 1 (2002)(Aquaplus)">
+		<description>P-ECE Handbook Volume 1 (2002)(Aquaplus)</description>
+		<rom name="P-ECE Handbook Volume 1 (2002)(Aquaplus).iso" size="103907328" crc="450bfae8" md5="e2b20ca515f860c5335deb70cb6478ea" sha1="51a620243d41d63d9fda64e0976ccac5a70476b7" />
+	</machine>
+	<machine name="P-ECE Handbook Volume 2 (2002)(Aquaplus)">
+		<description>P-ECE Handbook Volume 2 (2002)(Aquaplus)</description>
+		<rom name="P-ECE Handbook Volume 2 (2002)(Aquaplus).iso" size="125163520" crc="db7d7947" md5="e8b11133cbb04bff9e375d044865a454" sha1="1071f4319fa59a821cd991543c3e6773ba0e25a4" />
+	</machine>
+	<machine name="P-ECE Update 1.12a (2001)(Aquaplus)">
+		<description>P-ECE Update 1.12a (2001)(Aquaplus)</description>
+		<rom name="update112a.exe" size="377594" crc="fe184179" md5="4f05089b4217c49946ea9e1591063dde" sha1="8ab1d0f0d358ece60020d1aec7a05bd45c486126" />
+	</machine>
+	<machine name="P-ECE Update 1.20 (2003)(Aquaplus)">
+		<description>P-ECE Update 1.20 (2003)(Aquaplus)</description>
+		<rom name="up118to120.txt" size="20869" crc="ab637605" md5="b353152e3f549ba19d14528ac4ebd54f" sha1="016ba6fcb0678539ef46329589ce849fde9738eb" />
+		<rom name="update120.exe" size="1089378" crc="5b4d0bc2" md5="06cb5e57112a858b487b61bc44900586" sha1="03e68c8098e768ba04233336d18fed22854602c6" />
+	</machine>
+	<machine name="P-ECE User's Manual (2001)(Aquaplus)">
+		<description>P-ECE User's Manual (2001)(Aquaplus)</description>
+		<rom name="P-ECE User's Manual (2001)(Aquaplus).iso" size="158570496" crc="388ebfb4" md5="24fc1e6ab8ee96730f4252bbff4901f7" sha1="7660ef119f1df175f02f9a3a878ec5bd8a48a574" />
+	</machine>
+	<machine name="S1C33000 Core CPU Manual (2001)(Seiko Epson)">
+		<description>S1C33000 Core CPU Manual (2001)(Seiko Epson)</description>
+		<rom name="id000569.pdf" size="1021143" crc="c605aa8c" md5="c0423e78c3c841d18e46336639f4b41a" sha1="7adab80c59016d6c718c0b1e1d2d58a09495abe2" />
+	</machine>
+	<machine name="S1C33209-221-222 Technical Manual (2001)(Seiko Epson)">
+		<description>S1C33209-221-222 Technical Manual (2001)(Seiko Epson)</description>
+		<rom name="id000859.pdf" size="3164630" crc="fdfc8867" md5="bf25074126c0249ebcb8e12083730068" sha1="3ea533bb7dd3fd08c70bb4238a2717a2bd58c54c" />
+	</machine>
+</datafile>

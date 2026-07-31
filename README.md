@@ -6,6 +6,7 @@ Also, there are more in the releases section, namely the ones that are too big t
 
 # DATs
 
+* Aquaplus - P/ECE content.
 * ArchiveRL - The classic roguelike archive.
 * BREW - Qualcomm BREW content.
 * J2ME - Quite a few .dat's to make J2ME collecting easier.
