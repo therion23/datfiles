@@ -7,3 +7,5 @@ This means no frequent updates for this dat set. It was complete at the time i p
 
 Note that you will end up with a few "\_0" entries. This is because a few (very few though) of them have the same names but with different casing. Also, expect a few zips within the dats - again, a bare minimum.
 
+The nomenclature is TOSEC compliant - with a twist. if you concatenate machine name with rom name, you get the TOSEC compliant version of both.
+
