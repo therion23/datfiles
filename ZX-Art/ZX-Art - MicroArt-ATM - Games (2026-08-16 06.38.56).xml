@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - MicroArt-ATM - Games</name>
+		<description>ZX-Art - MicroArt-ATM - Games</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Edge Grinder (2014)(Blade)">
+		<description>Edge Grinder (2014)(Blade)</description>
+		<rom name="(EN)(BaseConf).scl" size="80951" crc="d2e3f6ef" md5="8ce51312aec0c52d559a113753fef5ad" sha1="227067fc1c8ba826cc961290313278beba6c1eb9" />
+	</machine>
+	<machine name="Goblins (1994)(Micro ART)">
+		<description>Goblins (1994)(Micro ART)</description>
+		<rom name="(ATM2, BaseConf)(File 1 of 2)[tr EN 2012 Savelij13].bin" size="34464" crc="43f85d87" md5="33253e6b1dce1b4575ebf50c63f6b7af" sha1="2bd91740cda5730f61e16b6b2e895b8f91066379" />
+		<rom name="(ATM2, BaseConf)(File 2 of 2)[tr EN 2012 Savelij13].$c" size="785" crc="5c9aec6c" md5="cadee23389cdc90b081f59ed6fa64247" sha1="1178ec78e7997133dcfddfc04f2a84c18e21c7ee" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\DISK1.STK" size="367232" crc="3dea4d59" md5="f5da6868764b542a7170d05d2b4dea4c" sha1="f2212631ccbd9b3cba2fbe9cbf1016055aee31b2" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\DISK2.STK" size="336768" crc="9589c787" md5="cace33ebac02f88f332393914beb53c3" sha1="4d9e810525a7f4abbad973e1c1d6a648cf41f8ea" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\DISK3.STK" size="317312" crc="957fedf4" md5="3183bf45c6fc3b8ee934fd8fea285d9f" sha1="0d70e0d4e71049498c0c2389b75852c5eea008c6" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\DISK4.STK" size="362752" crc="0e7457bf" md5="31985b70fc63b11c62d403ece8b5579e" sha1="55f146c8485b0bd5573564bc305818d20181a585" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\GOB.$C" size="24593" crc="bf075442" md5="87d17b4e211935a55fa58b8258557a96" sha1="32b7534328b88f2e0157ebc1687b1d5133fdb58b" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\GOB2.COM" size="34560" crc="b089c9ce" md5="ad56b5b5e4847cfabe668cf62c196be0" sha1="35ad115455902c734e5bab68746e91c8ee6b9dda" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\GOB2M.COM" size="34560" crc="cadaa87b" md5="c91b057f694a3bbb66c6d6cecf36f3e0" sha1="947c659bd7f773013d3825f2306be1d067e70283" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\GOB_M.$C" size="24593" crc="32521e47" md5="d7c8992578bd4545e7f0b59246a3ddbb" sha1="bfe51ebfbc6a2e07d2358ee0d261df42287c3b34" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\GOBLINS.CFG" size="128" crc="421b0ec3" md5="02a9b976d65c3c2783030e0757311546" sha1="f1be86141ad73649ecdb3f712c93c665937016bd" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\GOBLINS.OV2" size="21760" crc="f89538e9" md5="672865904f4bdd8273402d8b3468d9d5" sha1="28590ecb32b769f4f8838d569c810a64ee759575" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\INTRO.STK" size="137728" crc="e604e099" md5="12a47371ffcc87f82f690931593d7398" sha1="9ce7751bad4b55ce187bb1326b33b56cf5bec225" />
+		<rom name="(ATM2, BaseConf)[tr EN 2012 DimkaM]\README.TXT" size="3584" crc="b58e31ce" md5="edcc3db8ebf66f04632b063a4733ef9b" sha1="1624613db9d8eb427dbadd46557abb2a268ccf06" />
+		<rom name="(BaseConf)\DISK1.STK" size="367232" crc="3dea4d59" md5="f5da6868764b542a7170d05d2b4dea4c" sha1="f2212631ccbd9b3cba2fbe9cbf1016055aee31b2" />
+		<rom name="(BaseConf)\DISK2.STK" size="336768" crc="9589c787" md5="cace33ebac02f88f332393914beb53c3" sha1="4d9e810525a7f4abbad973e1c1d6a648cf41f8ea" />
+		<rom name="(BaseConf)\DISK3.STK" size="317312" crc="957fedf4" md5="3183bf45c6fc3b8ee934fd8fea285d9f" sha1="0d70e0d4e71049498c0c2389b75852c5eea008c6" />
+		<rom name="(BaseConf)\DISK4.STK" size="362752" crc="0e7457bf" md5="31985b70fc63b11c62d403ece8b5579e" sha1="55f146c8485b0bd5573564bc305818d20181a585" />
+		<rom name="(BaseConf)\GOB.$C" size="24593" crc="bf075442" md5="87d17b4e211935a55fa58b8258557a96" sha1="32b7534328b88f2e0157ebc1687b1d5133fdb58b" />
+		<rom name="(BaseConf)\GOB2.COM" size="34560" crc="b089c9ce" md5="ad56b5b5e4847cfabe668cf62c196be0" sha1="35ad115455902c734e5bab68746e91c8ee6b9dda" />
+		<rom name="(BaseConf)\GOB2M.COM" size="34560" crc="cadaa87b" md5="c91b057f694a3bbb66c6d6cecf36f3e0" sha1="947c659bd7f773013d3825f2306be1d067e70283" />
+		<rom name="(BaseConf)\GOB_M.$C" size="24593" crc="32521e47" md5="d7c8992578bd4545e7f0b59246a3ddbb" sha1="bfe51ebfbc6a2e07d2358ee0d261df42287c3b34" />
+		<rom name="(BaseConf)\GOBLINS.CFG" size="128" crc="421b0ec3" md5="02a9b976d65c3c2783030e0757311546" sha1="f1be86141ad73649ecdb3f712c93c665937016bd" />
+		<rom name="(BaseConf)\GOBLINS.OV2" size="21760" crc="f89538e9" md5="672865904f4bdd8273402d8b3468d9d5" sha1="28590ecb32b769f4f8838d569c810a64ee759575" />
+		<rom name="(BaseConf)\INTRO.STK" size="137728" crc="e604e099" md5="12a47371ffcc87f82f690931593d7398" sha1="9ce7751bad4b55ce187bb1326b33b56cf5bec225" />
+		<rom name="(BaseConf)\README.TXT" size="3584" crc="b58e31ce" md5="edcc3db8ebf66f04632b063a4733ef9b" sha1="1624613db9d8eb427dbadd46557abb2a268ccf06" />
+	</machine>
+	<machine name="Gravibots Evolution (2021)(RetroSouls)">
+		<description>Gravibots Evolution (2021)(RetroSouls)</description>
+		<rom name="(EN)(ATM2).scl" size="34857" crc="d3aaa42a" md5="dc1fbed58d2d12263bbb6b06e7f4e26f" sha1="858dd125490729f039b37e93b59b5ab84d382b60" />
+	</machine>
+	<machine name="Hi-Color Hero+ (2026)(Plastmassovyy Mir)">
+		<description>Hi-Color Hero+ (2026)(Plastmassovyy Mir)</description>
+		<rom name="(EN, RU)(BaseConf)(PD).tap" size="55520" crc="84e28bb7" md5="7033a03b6ea109ffaa1834883a017032" sha1="40f8dbf958787905359d43256e8f98b8c3e164f3" />
+	</machine>
+	<machine name="Innsmouth (2012)(hippiman)">
+		<description>Innsmouth (2012)(hippiman)</description>
+		<rom name="(EN)(ATM2).scl" size="230469" crc="182dcad1" md5="cd6db07c77a827c8e6b22c5a7553902f" sha1="146f9881667f43af9581420763e2e19f8ea078d6" />
+		<rom name="(EN)(BaseConf).scl" size="230213" crc="900599a1" md5="afe4bd5a4c42a5fb35ed8650dfd54263" sha1="4abe9445b872a58cc38aeedf7f5a098bf45efc61" />
+	</machine>
+	<machine name="Luch nadezhdy (2024)(Roman Skorik)">
+		<description>Luch nadezhdy (2024)(Roman Skorik)</description>
+		<rom name="22.01.25(RU)(ATM2, BaseConf).scl" size="195965" crc="d7ebd6ae" md5="143308313c24ef6ee07ef1e407aba8e7" sha1="676772ab82ad2340256d4a5a25ec5c8552385860" />
+		<rom name="23.12.24(RU)(ATM2, BaseConf).scl" size="196221" crc="00bc4f85" md5="18fa38855c25392e67f75ad0cacda74c" sha1="f15d8fac8ed6a157fbccfa1a1cd375bf71500409" />
+	</machine>
+	<machine name="Ninjajar! (2014)(Blade)">
+		<description>Ninjajar! (2014)(Blade)</description>
+		<rom name="(EN)(ATM2, BaseConf).scl" size="140101" crc="f782ba5d" md5="c63d1db87c1930148c3556af65a4b0ed" sha1="a32abed04fa74c4a7fcbd9bff6fbc6cc613433f7" />
+	</machine>
+	<machine name="Pang 16C (2005)(Alone Coder)">
+		<description>Pang 16C (2005)(Alone Coder)</description>
+		<rom name="(EN)(ATM2)(Disk 1 of 2).scl" size="47955" crc="4d939358" md5="348a788503ec4f970746fab1d515d9c5" sha1="07874cb71fe39f5e93ded37ab2541bb9d20aa0b2" />
+		<rom name="(EN)(ATM2)(Disk 2 of 2).scl" size="74683" crc="b6290f21" md5="5d1ce994adea96df212592179413a590" sha1="b971e564f154a0be2399032d7cc0edb7e3ec5ce0" />
+	</machine>
+	<machine name="Prince of Persia (1994)(Micro ART)">
+		<description>Prince of Persia (1994)(Micro ART)</description>
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\BUG.COM" size="13312" crc="28a227be" md5="7f2f0d6a174e0eae08dff79e598ce465" sha1="c49c4b83971a1ab031f4fb11bfe7d199a1cdb733" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\CONFIG.DAT" size="128" crc="6e17b5de" md5="70133775180275001d254001a0db57b4" sha1="8ca4731760f3dc13727a4205643a132e03be39aa" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\DATASEG.DAT" size="7552" crc="7fe528d9" md5="595f97adf7f132aa9b2edaeae0ffec18" sha1="9e02ef8ce065bcd597fd68f393639059454f4319" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\DUNGEON.DAT" size="10240" crc="3bf00a29" md5="a36d88f48f097a47ea6f7de6661bbf4c" sha1="04e57f1eabec38152f49dc698dfc10c1832b450f" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\FAT.DAT" size="6528" crc="6a3cf5f0" md5="a00e0ae071784eda8778e1a05b3b631a" sha1="6eadb5c1b34c6f1177c7ab1aa0ad603db13e2e92" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\GUARD.DAT" size="7040" crc="e0b0d35a" md5="6a40817c93b3e616e21a4babc42bc8da" sha1="1da32c4a2f9f302500304ab8c40507db5ad136ee" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\GUARD1.DAT" size="128" crc="e9a0e859" md5="c3536d442769f86c7c819ebd482f11da" sha1="2c93a716f0b272057e879f48be3822c3b7a82d4a" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\GUARD2.DAT" size="128" crc="ef84690f" md5="b7e64cd403de06578f9e234b55c4f54c" sha1="251f05677226a0750e20685626f1c49c060b95f8" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\INFO.DAT" size="1536" crc="0cf5458e" md5="76895eb1ba7e28d7919c9f1a24c381fd" sha1="7c64d0688353e86156463949c27ecd067302f1e9" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\KID.DAT" size="37248" crc="d1a53c38" md5="250d9a8eb834e88f2a9836ab076b2a72" sha1="f4bc06e0e12117121bc164f68e65d39c1a693297" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\LEVELS.DAT" size="37120" crc="2bf5358f" md5="58f4bca8b104fecd304fce3c24f70b22" sha1="faaf959f3367c3a52229908db94e4f815d82de29" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PALACE.DAT" size="13952" crc="ae6b67d8" md5="a35bd37cfb8c1a2b3997857064c2c011" sha1="7da06f01fdcc59d81e50cd48d2f1784a222cdbeb" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PR.COM" size="21504" crc="0bb9dd99" md5="181459faf87fdc1a386260861710c058" sha1="17c98ba210111843928654061eb4f151e6d0f80a" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PR2.COM" size="21504" crc="b0125911" md5="15aed919d0b7366cb388f1eee90add38" sha1="4ada44d90d20d5174ab196d98866398b869c0220" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\prince.$c" size="24593" crc="0f66b2d0" md5="31bf81f4883e03809c8998c97bf39109" sha1="dcfd996dbb7b3b6a415f34ec47021951c6ce6d49" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE.DAT" size="3328" crc="2e3c21df" md5="45bd37b75faeeef64603e92ce2bdac91" sha1="572630df506eb41ee625efba8544f9676e23f2e9" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE.DOC" size="11904" crc="8fd3694b" md5="aa6c2cbf01008bf3f09e141b3028aef1" sha1="28a4cd2af15446ba2ca16b64bc7d11f038a72da6" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE.HOF" size="128" crc="8ce1c732" md5="177cc00d8ea681086eaaa038fe54f072" sha1="9d43cf0547d22660350ded474b0476f05fa5dd08" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE.NFO" size="3840" crc="56f2e74b" md5="4d3ab36831a4d406c35d92f6892e44e2" sha1="5eba4738193d231c9b284cc7f1db62f96313800f" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE0.FNT" size="2048" crc="1e7a052e" md5="1b127bcdf898d7a1d5c52942ef96d277" sha1="b7741652e4c0afdc2dfae13a9d3174beff5e2333" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE1.FNT" size="2048" crc="ea5e799f" md5="e9c2dbd22ba7794413643867075a9bd6" sha1="d7b90313d7da148fa008c95bf23363ce547150ff" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE1.OVL" size="7936" crc="1d49cefc" md5="ae570ef4266f8cd81f9f118c5d3552a4" sha1="8eaf180e123a3931dc8bb1cb57577612c23af65a" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE2.FNT" size="2048" crc="344bc73d" md5="bd390e61ff938b747190cda3177fc8f5" sha1="9a226c0f1f1ecd63a3eaec39babdd6703ed03960" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE2.OVL" size="19200" crc="22759cea" md5="ed58af64509aa50b9150388971b7671c" sha1="dac5eed69e611225e5d75888c2ce9cd7c4d0c049" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE3.FNT" size="2048" crc="e582fcd0" md5="8da265bca3a917a792ab913f49f2124b" sha1="de401726e50ebb5f75667705e26217185525d338" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE3.OVL" size="7936" crc="cd74cd6e" md5="eef411e76b66aae866ed0aebf49127f2" sha1="d1f9b1f3b0fd1cf974e3087876f1096a97890576" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE4.FNT" size="2048" crc="ebe02d1d" md5="dda317ff9823ed6a3a77b069895bbce9" sha1="59cec2d1df12bdb2b8f97d742fd2d4fbecf98337" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE4.OVL" size="19200" crc="061844ff" md5="a9136ebbde99f26f45631fed67fcb584" sha1="df52d92b4db30df595e1d7ba496d4635b17cd54c" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE5.FNT" size="2048" crc="2d2f1419" md5="424aac83ae64c6d81c334f24f052a145" sha1="62cea373991db457a35151fdbfeab85066877f52" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE6.FNT" size="2048" crc="b8cec6ff" md5="1002e0e3a93f2930844a589c2533aa61" sha1="18ff58722726a3310400626946c6ada550be9f33" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE7.FNT" size="2048" crc="2638b69d" md5="142cbacfc40709746ea1bb4b7520bce4" sha1="168af63306a5469d72bdf320daaf4bd3675b129e" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE8.FNT" size="2048" crc="0e0c9c10" md5="e33063bba7c358f46bde1d57eefea6b4" sha1="cf60d55a6fa53f2224f73db5f845c8461ed451e2" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCE9.FNT" size="2048" crc="e6b33014" md5="ce33e7e0eda0bea7e22e9343d4fcd9e3" sha1="0e01c63fb270beab005747a6740e559afe721507" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCEA.FNT" size="2048" crc="9e9d98ec" md5="d7b57739973f09baef0599586d6e5d4c" sha1="d681807115a1f01a83dd8c9cc712f449e5a13172" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PRINCEB.FNT" size="2048" crc="1e3593e9" md5="d7d95779b8de245e05d72268ae01a4b4" sha1="e978e68e2a8a85808d89f847ad9c9ca3602609d8" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PV.DAT" size="25856" crc="8fb1d613" md5="d5fa6a919226e3ade3daf66559a0ef02" sha1="c5e3476250db4ad7f47ad787243573548b35fb7c" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\PV1.DAT" size="32128" crc="5a72a55b" md5="5e2f1c81dd61bc46b6cfee7cf1a2ea54" sha1="9907c1d55bf5eab306be0f7c4d6d7de01dd60cf6" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\READ.ME" size="6272" crc="72fd6750" md5="a05e7ccc6923453809f47f4e8e87df7f" sha1="7f27a0b8f58529a3be84d96e527454771b7cc6d1" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\SHADOW.DAT" size="4736" crc="0df523ad" md5="70fdc721129a003ed7ecf5c60764d53a" sha1="defbe94d26ff126d37a0699acadf9e809d89f0bf" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\SKEL.DAT" size="3968" crc="9a46ce75" md5="a53ef4b878fbab801f70fa607e54b793" sha1="b65f4190abf7a05257a21fea8bef32395668dc7f" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\SOUND.DAT" size="8192" crc="b1ab3671" md5="7487ef3938054bfe78555a7f00e7cd7d" sha1="a35fdf6e9530780941ad8a9e4e0d2bdc0a031e91" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\TITLE1.DAT" size="39936" crc="5c771324" md5="229e0ac053dfd406ed51b59e971de81e" sha1="2d05dcf1ed33d3b28f2204f47f8a0a6ca1d6c1ba" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\TITLE2.DAT" size="42368" crc="5eff4ea3" md5="ed826d1304892aaa93bc24ea363b1817" sha1="4d8d10990d9b02dc048a87490a33974bd26a962d" />
+		<rom name="(EN)(ATM2, BaseConf)[h 2012 DimkaM]\VIZIER.DAT" size="6144" crc="2113ff9f" md5="4e3e5378f381ade87ada893e8c13928f" sha1="1e02272ce3e4e0ad1291d00662e9653c7dc860cd" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\BUG.COM" size="13312" crc="28a227be" md5="7f2f0d6a174e0eae08dff79e598ce465" sha1="c49c4b83971a1ab031f4fb11bfe7d199a1cdb733" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\CONFIG.DAT" size="128" crc="6e17b5de" md5="70133775180275001d254001a0db57b4" sha1="8ca4731760f3dc13727a4205643a132e03be39aa" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\DATASEG.DAT" size="7552" crc="7fe528d9" md5="595f97adf7f132aa9b2edaeae0ffec18" sha1="9e02ef8ce065bcd597fd68f393639059454f4319" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\DUNGEON.DAT" size="10240" crc="3bf00a29" md5="a36d88f48f097a47ea6f7de6661bbf4c" sha1="04e57f1eabec38152f49dc698dfc10c1832b450f" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\FAT.DAT" size="6528" crc="6a3cf5f0" md5="a00e0ae071784eda8778e1a05b3b631a" sha1="6eadb5c1b34c6f1177c7ab1aa0ad603db13e2e92" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\GUARD.DAT" size="7040" crc="e0b0d35a" md5="6a40817c93b3e616e21a4babc42bc8da" sha1="1da32c4a2f9f302500304ab8c40507db5ad136ee" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\GUARD1.DAT" size="128" crc="e9a0e859" md5="c3536d442769f86c7c819ebd482f11da" sha1="2c93a716f0b272057e879f48be3822c3b7a82d4a" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\GUARD2.DAT" size="128" crc="ef84690f" md5="b7e64cd403de06578f9e234b55c4f54c" sha1="251f05677226a0750e20685626f1c49c060b95f8" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\INFO.DAT" size="1536" crc="0cf5458e" md5="76895eb1ba7e28d7919c9f1a24c381fd" sha1="7c64d0688353e86156463949c27ecd067302f1e9" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\KID.DAT" size="37248" crc="d1a53c38" md5="250d9a8eb834e88f2a9836ab076b2a72" sha1="f4bc06e0e12117121bc164f68e65d39c1a693297" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\LEVELS.DAT" size="37120" crc="2bf5358f" md5="58f4bca8b104fecd304fce3c24f70b22" sha1="faaf959f3367c3a52229908db94e4f815d82de29" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PALACE.DAT" size="13952" crc="ae6b67d8" md5="a35bd37cfb8c1a2b3997857064c2c011" sha1="7da06f01fdcc59d81e50cd48d2f1784a222cdbeb" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PR.COM" size="21504" crc="0bb9dd99" md5="181459faf87fdc1a386260861710c058" sha1="17c98ba210111843928654061eb4f151e6d0f80a" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PR2.COM" size="21504" crc="b0125911" md5="15aed919d0b7366cb388f1eee90add38" sha1="4ada44d90d20d5174ab196d98866398b869c0220" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\prince.$c" size="24593" crc="0f66b2d0" md5="31bf81f4883e03809c8998c97bf39109" sha1="dcfd996dbb7b3b6a415f34ec47021951c6ce6d49" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE.DAT" size="3328" crc="2e3c21df" md5="45bd37b75faeeef64603e92ce2bdac91" sha1="572630df506eb41ee625efba8544f9676e23f2e9" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE.DOC" size="11904" crc="8fd3694b" md5="aa6c2cbf01008bf3f09e141b3028aef1" sha1="28a4cd2af15446ba2ca16b64bc7d11f038a72da6" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE.HOF" size="128" crc="8ce1c732" md5="177cc00d8ea681086eaaa038fe54f072" sha1="9d43cf0547d22660350ded474b0476f05fa5dd08" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE.NFO" size="3840" crc="56f2e74b" md5="4d3ab36831a4d406c35d92f6892e44e2" sha1="5eba4738193d231c9b284cc7f1db62f96313800f" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE0.FNT" size="2048" crc="1e7a052e" md5="1b127bcdf898d7a1d5c52942ef96d277" sha1="b7741652e4c0afdc2dfae13a9d3174beff5e2333" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE1.FNT" size="2048" crc="ea5e799f" md5="e9c2dbd22ba7794413643867075a9bd6" sha1="d7b90313d7da148fa008c95bf23363ce547150ff" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE1.OVL" size="7936" crc="1d49cefc" md5="ae570ef4266f8cd81f9f118c5d3552a4" sha1="8eaf180e123a3931dc8bb1cb57577612c23af65a" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE2.FNT" size="2048" crc="344bc73d" md5="bd390e61ff938b747190cda3177fc8f5" sha1="9a226c0f1f1ecd63a3eaec39babdd6703ed03960" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE2.OVL" size="19200" crc="22759cea" md5="ed58af64509aa50b9150388971b7671c" sha1="dac5eed69e611225e5d75888c2ce9cd7c4d0c049" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE3.FNT" size="2048" crc="e582fcd0" md5="8da265bca3a917a792ab913f49f2124b" sha1="de401726e50ebb5f75667705e26217185525d338" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE3.OVL" size="7936" crc="cd74cd6e" md5="eef411e76b66aae866ed0aebf49127f2" sha1="d1f9b1f3b0fd1cf974e3087876f1096a97890576" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE4.FNT" size="2048" crc="ebe02d1d" md5="dda317ff9823ed6a3a77b069895bbce9" sha1="59cec2d1df12bdb2b8f97d742fd2d4fbecf98337" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE4.OVL" size="19200" crc="061844ff" md5="a9136ebbde99f26f45631fed67fcb584" sha1="df52d92b4db30df595e1d7ba496d4635b17cd54c" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE5.FNT" size="2048" crc="2d2f1419" md5="424aac83ae64c6d81c334f24f052a145" sha1="62cea373991db457a35151fdbfeab85066877f52" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE6.FNT" size="2048" crc="b8cec6ff" md5="1002e0e3a93f2930844a589c2533aa61" sha1="18ff58722726a3310400626946c6ada550be9f33" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE7.FNT" size="2048" crc="2638b69d" md5="142cbacfc40709746ea1bb4b7520bce4" sha1="168af63306a5469d72bdf320daaf4bd3675b129e" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE8.FNT" size="2048" crc="0e0c9c10" md5="e33063bba7c358f46bde1d57eefea6b4" sha1="cf60d55a6fa53f2224f73db5f845c8461ed451e2" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCE9.FNT" size="2048" crc="e6b33014" md5="ce33e7e0eda0bea7e22e9343d4fcd9e3" sha1="0e01c63fb270beab005747a6740e559afe721507" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCEA.FNT" size="2048" crc="9e9d98ec" md5="d7b57739973f09baef0599586d6e5d4c" sha1="d681807115a1f01a83dd8c9cc712f449e5a13172" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PRINCEB.FNT" size="2048" crc="1e3593e9" md5="d7d95779b8de245e05d72268ae01a4b4" sha1="e978e68e2a8a85808d89f847ad9c9ca3602609d8" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PV.DAT" size="25856" crc="8fb1d613" md5="d5fa6a919226e3ade3daf66559a0ef02" sha1="c5e3476250db4ad7f47ad787243573548b35fb7c" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\PV1.DAT" size="32128" crc="5a72a55b" md5="5e2f1c81dd61bc46b6cfee7cf1a2ea54" sha1="9907c1d55bf5eab306be0f7c4d6d7de01dd60cf6" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\READ.ME" size="6272" crc="72fd6750" md5="a05e7ccc6923453809f47f4e8e87df7f" sha1="7f27a0b8f58529a3be84d96e527454771b7cc6d1" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\SHADOW.DAT" size="4736" crc="0df523ad" md5="70fdc721129a003ed7ecf5c60764d53a" sha1="defbe94d26ff126d37a0699acadf9e809d89f0bf" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\SKEL.DAT" size="3968" crc="9a46ce75" md5="a53ef4b878fbab801f70fa607e54b793" sha1="b65f4190abf7a05257a21fea8bef32395668dc7f" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\SOUND.DAT" size="8192" crc="b1ab3671" md5="7487ef3938054bfe78555a7f00e7cd7d" sha1="a35fdf6e9530780941ad8a9e4e0d2bdc0a031e91" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\TITLE1.DAT" size="39936" crc="5c771324" md5="229e0ac053dfd406ed51b59e971de81e" sha1="2d05dcf1ed33d3b28f2204f47f8a0a6ca1d6c1ba" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\TITLE2.DAT" size="42368" crc="5eff4ea3" md5="ed826d1304892aaa93bc24ea363b1817" sha1="4d8d10990d9b02dc048a87490a33974bd26a962d" />
+		<rom name="(EN)(BaseConf)[h 2012 DimkaM]\VIZIER.DAT" size="6144" crc="2113ff9f" md5="4e3e5378f381ade87ada893e8c13928f" sha1="1e02272ce3e4e0ad1291d00662e9653c7dc860cd" />
+	</machine>
+	<machine name="Project R.O.B.O. (2012)(hippiman)">
+		<description>Project R.O.B.O. (2012)(hippiman)</description>
+		<rom name="(RU)(ATM2).trd" size="655360" crc="2f8f4373" md5="56be4599d4e383d05f6a6b3da8d6effe" sha1="c539e9d5e753eaf0e06bb4748f44ece1da14e6fc" />
+		<rom name="(RU)(BaseConf).scl" size="448879" crc="68055127" md5="4228d6ee4bcf9745703e4b4d249bbf70" sha1="65270cd51332a1ecfe5023cd9dd0f427d3fe8bfb" />
+	</machine>
+	<machine name="Strana mifov (1996)(Fantasy)">
+		<description>Strana mifov (1996)(Fantasy)</description>
+		<rom name="v2.0m(RU)(128K, KM, ATM, ATM2)[h 2010 Stars of Keladan, Dart Alver].trd" size="655360" crc="fbb7d94b" md5="1cf5d52668b0636a81e03fa4a0ea7175" sha1="9c214e1a4e78e8ba0e743a8368c805d307433b3c" />
+	</machine>
+	<machine name="Three Sisters' Story (2013)(Triumph Game Labs)">
+		<description>Three Sisters' Story (2013)(Triumph Game Labs)</description>
+		<rom name="(RU)(128K, ATM, ATM2)(Disk 1 of 2).trd" size="655360" crc="8a8d671c" md5="4a6bbba83ec4da18d3873cac63e161b1" sha1="e53b90ecf600c8e9d07117e478bb00435217c161" />
+		<rom name="(RU)(128K, ATM, ATM2)(Disk 2 of 2).trd" size="655360" crc="864fc40a" md5="6f3314dd5c88ffbddfe0317a4a8b4bee" sha1="43f50f4ea321af507ceffd22e54c95da30f5eff9" />
+	</machine>
+	<machine name="Time Gal (2006)(Alone Coder)">
+		<description>Time Gal (2006)(Alone Coder)</description>
+		<rom name="(EN)(ATM2)(File 1 of 2).iso" size="194652160" crc="b82126a6" md5="19c5206b1ec297938cc9203b74ac44ef" sha1="54274fef0ea5c8154c38a058ecf0264417092793" />
+		<rom name="(EN)(ATM2)(File 2 of 2).$b" size="785" crc="654ee1ca" md5="90340a667369d35052ad90c034d1f22e" sha1="a6a27c82aaa83ac25b9061ce1f25ae3571f3364f" />
+		<rom name="(EN)(ATM2).scl" size="795" crc="3acd17f2" md5="c189f5a96115844abe20357c78152444" sha1="9300a725a1b9b10b2ea9c2123b79ed1c169ce770" />
+		<rom name="(EN)(BaseConf).iso" size="194332672" crc="c7a4088d" md5="20cea51c3d90a3cde7f9854b3d37ae53" sha1="41c9fa5a37c37931d60a4ead4ba3afabaf11e85c" />
+	</machine>
+	<machine name="Uwol, Quest for Money (2013)(Alone Coder)">
+		<description>Uwol, Quest for Money (2013)(Alone Coder)</description>
+		<rom name="(EN)(ATM2).scl" size="132435" crc="7d8f4957" md5="966fafe0a814c49d3f9b16b6107d3031" sha1="ec4e0461267dc1aacbceda917d926a70656ed890" />
+	</machine>
+	<machine name="XNX (2012)(Shiru)">
+		<description>XNX (2012)(Shiru)</description>
+		<rom name="(EN)(BaseConf).scl" size="227653" crc="4363432f" md5="db4401921e66fb159e1cd434a074fafe" sha1="2b2a9645aaa3a52b5d67b2bcd850e21c22db54be" />
+	</machine>
+</datafile>

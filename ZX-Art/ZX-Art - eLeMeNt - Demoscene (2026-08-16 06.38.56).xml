@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - eLeMeNt - Demoscene</name>
+		<description>ZX-Art - eLeMeNt - Demoscene</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Alienate (2003)(Hooy-Program)">
+		<description>Alienate (2003)(Hooy-Program)</description>
+		<rom name="[h 2020]\ALIEN-0.COD" size="7333" crc="282d77ab" md5="8901d52a8e15ede1b6a38cb799d1c4f5" sha1="0fe0ab28cc93361a1374562d71193f7980988ad9" />
+		<rom name="[h 2020]\ALIEN-1.COD" size="5564" crc="8ffe2d6a" md5="9887857f22835cb0581253e45629430f" sha1="a3f0a378d4c86f2a05aa550735562b91d6a780df" />
+		<rom name="[h 2020]\ALIEN-10.COD" size="30875" crc="b140c266" md5="a82c8c20669cb41c488f17caa9afe42e" sha1="71095cbf0dc9979349536de49cd83672dab495ec" />
+		<rom name="[h 2020]\ALIEN-11.COD" size="2264" crc="177b559d" md5="bdec19fc6eb829e19c6f5d44657f6605" sha1="c2dad5e5ad0d69550cfa085942cd2388c453aa89" />
+		<rom name="[h 2020]\ALIEN-12.COD" size="4435" crc="3da7582d" md5="d445ea73c260fa2c452fa7881774834a" sha1="bfb6fadab9e29d43ef8b00dbf5bfa7544e4bcda3" />
+		<rom name="[h 2020]\ALIEN-13.COD" size="8110" crc="33bd4e56" md5="d829d8cff8c0dde1128c18843fe11721" sha1="f0b4a00f56ce8f017c2c3cfbc7902b1e5273b340" />
+		<rom name="[h 2020]\ALIEN-14.COD" size="8977" crc="d6d8ab5a" md5="52e8ff8d06c606db577975b752862436" sha1="1d6b2c3885a89d96c2fe0dc8189a8ab90d3c8b1e" />
+		<rom name="[h 2020]\ALIEN-15.COD" size="5920" crc="68cb4513" md5="771c5dad47344ee0db91f6f2cd6f55b5" sha1="41f4a09044c0e2c069ba243538b6485e38ff1352" />
+		<rom name="[h 2020]\ALIEN-16.COD" size="2477" crc="4617f995" md5="0d6c8dd727763aaec9ef1b54b63f5dc0" sha1="391de5b255621ff608df3e65e825abed390dd8d1" />
+		<rom name="[h 2020]\ALIEN-17.COD" size="3341" crc="96debd40" md5="5e23e60abdfaf15d0bcdda0a69e03db2" sha1="553934c359bb31275bafe2a089719e3c14300d4c" />
+		<rom name="[h 2020]\ALIEN-18.COD" size="3344" crc="df379914" md5="ce9ee144eaebf7bd4d3e14ad87e30441" sha1="536620d6c8a2dcd056d0645969bf3b7269f6e992" />
+		<rom name="[h 2020]\ALIEN-19.COD" size="3337" crc="5ac30bb5" md5="a362ab0d204762498c352642c31f3eed" sha1="6354498ffadccc161227c4b975243516a9ad7afc" />
+		<rom name="[h 2020]\ALIEN-2.COD" size="21820" crc="28451501" md5="e9f9bcc7cc41aee62a992a99303b409d" sha1="4ad1829d644ff8ed1008891232d62aebcd8087b3" />
+		<rom name="[h 2020]\ALIEN-20.COD" size="2635" crc="c32e44fa" md5="5037df297f1fd837f3912d2bb1e04be8" sha1="9e41370ff3d468f6fd1e8a4ceb9ceca55b8391c9" />
+		<rom name="[h 2020]\ALIEN-21.COD" size="3247" crc="fd711d84" md5="72a21abe1cf3e151ab0d348257d29ff2" sha1="4d6a402a2e1ec87060cd3b18c444981783c8485a" />
+		<rom name="[h 2020]\ALIEN-22.COD" size="3251" crc="5059f783" md5="ce6a4efe3bf10baba49ecdcde69c8f6d" sha1="d3a67ac8ae87d7dd8db9346058ef900c4393a499" />
+		<rom name="[h 2020]\ALIEN-23.COD" size="3245" crc="665a2c3e" md5="eff68d95a1d437562611f15a89f028a1" sha1="c818e31acbfcf3d011400e253a4d6b083cfdc980" />
+		<rom name="[h 2020]\ALIEN-24.COD" size="6711" crc="6feefcb0" md5="069b5abbae5306f3b57b63516c290804" sha1="c40594e9c5f2e5bdea98a30013ca34f65b2d82ba" />
+		<rom name="[h 2020]\ALIEN-25.COD" size="3615" crc="93f6aa3e" md5="209115862647bc2978a0ebb8d829e5bf" sha1="38ff3d4a3218af0d720d85d6a95e0e62ecbd6f80" />
+		<rom name="[h 2020]\ALIEN-3.COD" size="12507" crc="495c461c" md5="e009ecfad66e4dd985c7942f9d2531b9" sha1="15ed78d4688da42da20cc99df1ed82f8e092872f" />
+		<rom name="[h 2020]\ALIEN-4.COD" size="25504" crc="ef6c93a7" md5="18e2dd333d522891502d45a1bb03fad6" sha1="e799b30df87d91aaefd54bf1f91bd5bc2e84ea97" />
+		<rom name="[h 2020]\ALIEN-5.COD" size="22997" crc="ebaa4385" md5="9f71fe7d97ce97c43f9bd7285e111c7c" sha1="9e6828d7ebdbbbf8dccfce6bf83b8a13876df36e" />
+		<rom name="[h 2020]\ALIEN-6.COD" size="17139" crc="86187bd7" md5="4cf70fa14a15c1a1402f4b34a7d25e34" sha1="be7c411d3a3298c6166bff7110cc814d3a680ee7" />
+		<rom name="[h 2020]\ALIEN-7.COD" size="27604" crc="008f6546" md5="4d27719dd12ebc7b33a424759a6eebc8" sha1="f2a874f2e875d734a32f275be7c721387f198662" />
+		<rom name="[h 2020]\ALIEN-8.COD" size="17209" crc="28aa3828" md5="8e735926102e432233a07bd4aa0c12a3" sha1="b2b4fedd011afc0fbb1e14706a67007d67fa6e7d" />
+		<rom name="[h 2020]\ALIEN-9.COD" size="31713" crc="a710310a" md5="ab761ae14f9120c4eea187776f473285" sha1="c0642f581e4cd14af7e057f7d597fff48040d240" />
+		<rom name="[h 2020]\ALIENATE.BAS" size="224" crc="37a7801c" md5="ce54993babec905cbfe8490a3f933167" sha1="64726ef9dd6c6f6f7b6390b75627a610e3e48f16" />
+		<rom name="[h 2020]\ALIENATE.NFO" size="300" crc="8a5ceef7" md5="a613a3b620ec2124c668ee9cf59ee939" sha1="4dbad08c2666b369b0dc5e0fe9a891f613dfb9bd" />
+	</machine>
+	<machine name="subliminal extacy #4 preview (2002)(Raww Arse)">
+		<description>subliminal extacy #4 preview (2002)(Raww Arse)</description>
+		<rom name="[h SCjoe]\SE4PREV.BAS" size="197" crc="3905219f" md5="8bc5dc567dd230424fa34e86c095ef35" sha1="c108ec682fe69b5bd5e460c2350f0e5e54e2e27f" />
+		<rom name="[h SCjoe]\SE4PREV.COD" size="7531" crc="04a77d19" md5="86cf265942f84176fe489972a9bad804" sha1="46e9b92a76b12b36621b879d8ad853e390db7858" />
+	</machine>
+</datafile>

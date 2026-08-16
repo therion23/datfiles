@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair QL - System Software</name>
+		<description>ZX-Art - Sinclair QL - System Software</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Etch A Sketch Dulux (2024)(-)">
+		<description>Etch A Sketch Dulux (2024)(-)</description>
+		<rom name="(EN)\EtchASketch.mdv" size="174930" crc="89caafee" md5="396f4e68622cbcf3a4b6d2aeffe82c27" sha1="86056748b755cb108e6b36d21a967b8e195dd29c" />
+	</machine>
+</datafile>

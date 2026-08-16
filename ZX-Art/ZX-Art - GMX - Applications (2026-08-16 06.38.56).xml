@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - GMX - Applications</name>
+		<description>ZX-Art - GMX - Applications</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="ZX Word 3 (2024)(-)">
+		<description>ZX Word 3 (2024)(-)</description>
+		<rom name="v3.00gmx(EN)(GMX)[h 2024 PLM].$c" size="12305" crc="8e7fdf74" md5="7d17cdbca0983669bf1caba661ec0bee" sha1="f1d971f262f09eaf8eb8b7e7de2f4dd1d59bfe38" />
+		<rom name="v3.00gmx(EN)(GMX)[h 2024 PLM].trd" size="655360" crc="caa38c7e" md5="b31257e7c3952a952c79f7ea985c480d" sha1="36fa7971af563ca65f1b66f886ff7fc275ce6c45" />
+		<rom name="v3.10hdd.570(EN)(GMX)[h 2024 PLM].$c" size="18193" crc="fb676279" md5="609d62b01e93ed36abd2d13a24e17990" sha1="0e9dd9f433d387076a3d6514718defaf3f5e7454" />
+		<rom name="v3.10hdd.570(EN)(GMX)[h 2024 PLM].trd" size="655360" crc="27feb8bb" md5="badd4adb0b281d6c9f14b01a42ce40d5" sha1="f54dd2c598fd0261ac9893fc72a6e5b8cff8a0df" />
+	</machine>
+</datafile>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair ZX81 - Applications</name>
+		<description>ZX-Art - Sinclair ZX81 - Applications</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Aerofoil Directory (1983)(Placet Software)">
+		<description>Aerofoil Directory (1983)(Placet Software)</description>
+		<rom name="(EN)[a].tzx" size="5500" crc="ac0a445b" md5="3896a79cf650f9c77c7000e7f1d06a48" sha1="9b37e765cfd8ed4435e66c3b0f40e40fc002537c" />
+	</machine>
+	<machine name="Calendar (1987)(ZX Computing)">
+		<description>Calendar (1987)(ZX Computing)</description>
+		<rom name="(EN)(File 1 of 2).p" size="14760" crc="22d5a88f" md5="1eb79331ab9a975602149bf324cf1604" sha1="c9006dc0fcc63411bd03efdbb52e41377d567598" />
+		<rom name="(EN)(File 2 of 2).p" size="1586" crc="98940a53" md5="298ee10e682ef441791a6f85ff032771" sha1="7846bbfa8bb3a8dd8abaea8266abbb26d35cd91a" />
+	</machine>
+	<machine name="Macro-Life (1986)(ZX Computing)">
+		<description>Macro-Life (1986)(ZX Computing)</description>
+		<rom name="(EN)(File 1 of 2).p" size="7919" crc="f55506c0" md5="490534dd9b8a73fb62be44072e91aa54" sha1="2d6c1903cb48326ee18ed7253d2d475a07991472" />
+		<rom name="(EN)(File 2 of 2).p" size="8826" crc="9f685226" md5="77f776fe46c6c1af5b8048c73a56f17a" sha1="08acda774d9b7dbdd6c80aaecc098c4476e5389d" />
+	</machine>
+	<machine name="Morse Decoder (1984)(Michael Schramm)">
+		<description>Morse Decoder (1984)(Michael Schramm)</description>
+		<rom name="(EN).tzx" size="3583" crc="a7469d50" md5="c405ec6412f19c7c3192781049464086" sha1="3e12b0409829cd9c1a454b52db8ebf289dd43f02" />
+	</machine>
+	<machine name="Multifile (1983)(KD Software)">
+		<description>Multifile (1983)(KD Software)</description>
+		<rom name="(EN)[a 1981 Bug-Byte Software Ltd].tzx" size="5740" crc="d364b82b" md5="8181d6ce41b763f98aa7d3aefecc8813" sha1="e5f6ec4dc314a37da2512d58fcd3dd3ce7ff14c9" />
+	</machine>
+	<machine name="Resumo de facturas (1982)(LOG [2])">
+		<description>Resumo de facturas (1982)(LOG [2])</description>
+		<rom name="(PT).p" size="29203" crc="52af5fc6" md5="a9f3c7e3bbe12bb42c23aadc3054c480" sha1="5342bcd325635a1f7ea69b66ba1f5793daf491a1" />
+		<rom name="(PT).z81" size="23438" crc="2d3be9c2" md5="49d1ad33a9c8002f8932b24b53c79e8d" sha1="21ae8c2ca72c139ae957a576686012b2d7bca4c3" />
+		<rom name="(PT)[a 1982 LOG [2]].z81" size="23432" crc="6ba86ef4" md5="f6947e8e41c3d6c723c2eac7b8b6d569" sha1="f033ccefe2c4b881dac487b3d1616f3643b2c27e" />
+		<rom name="(PT)[a2 1982 LOG [2]].z81" size="22997" crc="9a5efbd2" md5="586e224d4a3fe388b89b09a193e1e587" sha1="8fe8a95efef4d3d9e6b07d9e76db44bfa82c5ea7" />
+		<rom name="(PT)[a3 1982 LOG [2]].z81" size="23450" crc="e98c2c3a" md5="ad0b4dec5be65f80b91d6beb0dc5b8a3" sha1="c6816dbf9c378d8b7ed3bb5e7be89519bb6ce325" />
+	</machine>
+	<machine name="Slicer 2 (1984)(Hartmut Seba)">
+		<description>Slicer 2 (1984)(Hartmut Seba)</description>
+		<rom name="(EN).p" size="840" crc="8eae1c27" md5="8cc1674c7ad92fdc308b0f31adc9e837" sha1="b4316688f7a9754ae4c5d65d2b2ee05ad977fee1" />
+	</machine>
+	<machine name="Stock de Produtos (1982)(LOG [2])">
+		<description>Stock de Produtos (1982)(LOG [2])</description>
+		<rom name="(PT).p" size="14903" crc="c968fb3f" md5="b1c219cc9905a0f89e19a084b019a926" sha1="443d7c41385a6b689dae14bd5680528b641b14f1" />
+		<rom name="(PT).z81" size="29297" crc="58c3300c" md5="821e97f3feec0cd7ade38a8100e0ef93" sha1="f75dcb857ee82ce3a56f199fd493018a7f14c1da" />
+	</machine>
+</datafile>

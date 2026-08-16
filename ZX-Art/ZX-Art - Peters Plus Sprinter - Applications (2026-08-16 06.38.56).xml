@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Peters Plus Sprinter - Applications</name>
+		<description>ZX-Art - Peters Plus Sprinter - Applications</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="ZX Word (1991)(Vladimir Eliseev)">
+		<description>ZX Word (1991)(Vladimir Eliseev)</description>
+		<rom name="v2.5m(EN)[h 1996 Sergey Kokunov]\readme.rus" size="211" crc="5dbd8126" md5="26a0243d254b5611f48c290b633f2649" sha1="d28b298c5bcdeb3895c863f1bcefcc4514da22ff" />
+		<rom name="v2.5m(EN)[h 1996 Sergey Kokunov]\zxword.trd" size="63744" crc="5588aa5c" md5="655710ad28e838256ded384bdd57a51a" sha1="fdf0918075911bd2c867e87b783601a81aca0e0b" />
+	</machine>
+</datafile>

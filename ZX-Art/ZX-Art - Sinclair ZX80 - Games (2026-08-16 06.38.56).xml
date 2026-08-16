@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair ZX80 - Games</name>
+		<description>ZX-Art - Sinclair ZX80 - Games</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Golf 80 (1983)(Sinclair Programs)">
+		<description>Golf 80 (1983)(Sinclair Programs)</description>
+		<rom name="(EN).o" size="801" crc="e7a35e1f" md5="08894254c3ca728fc3b738825f1532af" sha1="112c95c54ecbbcf707f955be4aa7bed12bf9ff56" />
+	</machine>
+	<machine name="Kong (2010)(Paul Farrow)">
+		<description>Kong (2010)(Paul Farrow)</description>
+		<rom name="(File 1 of 2).o" size="12861" crc="2a8392ff" md5="539ea4601b5379ceadde9da079cdfe94" sha1="7378b003602a08dc7bc45c71a6485d55cca9c9a1" />
+		<rom name="(File 2 of 2).o" size="573" crc="45eb47f6" md5="b0132dd89610ed2e3eb190c1088c06d9" sha1="f33e3f964801a932627042d40fc94ef34bc20653" />
+	</machine>
+</datafile>

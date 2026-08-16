@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - eLeMeNt - Games</name>
+		<description>ZX-Art - eLeMeNt - Games</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Hi-Color Hero+ (2026)(Plastmassovyy Mir)">
+		<description>Hi-Color Hero+ (2026)(Plastmassovyy Mir)</description>
+		<rom name="(EN, RU)(BaseConf)(PD).tap" size="55520" crc="84e28bb7" md5="7033a03b6ea109ffaa1834883a017032" sha1="40f8dbf958787905359d43256e8f98b8c3e164f3" />
+	</machine>
+	<machine name="Mag the Magician (2017)(Radastan)">
+		<description>Mag the Magician (2017)(Radastan)</description>
+		<rom name="[h 2021 SCjoe]\MAGMAGIC.BAS" size="202" crc="4b83fa4c" md5="a848a2c210570e94defc799285a9c1f9" sha1="7ca459e32b48c7800726a855c8ea73085c5146d0" />
+		<rom name="[h 2021 SCjoe]\MAGMAGIC.COD" size="21998" crc="33719209" md5="187fa5853de720dff5f2e5a2b8ecf005" sha1="0f97d26602ca9c123b925597a2029b097cca44de" />
+		<rom name="[h 2021 SCjoe]\MAGMAGIC.TXT" size="1245" crc="4afe9f77" md5="f6ee20cfaefdd78f50cfd8521a86af93" sha1="ec0c75d55332774807367b3a10cd526ae46c9cc1" />
+	</machine>
+	<machine name="Nextipede (2016)(Jonathan Cauldwell)">
+		<description>Nextipede (2016)(Jonathan Cauldwell)</description>
+		<rom name="(EN)[h 2019]\NEXTIPED.BAS" size="177" crc="89cb4fce" md5="1186f4cabbe246f26887a4590c41a673" sha1="b8cfcaa47282f5080163791a49eb1bbdb875b33d" />
+		<rom name="(EN)[h 2019]\NEXTIPED.COD" size="3993" crc="17834e4f" md5="8df2b1645bc418d317425b8d9edfaf11" sha1="d37b9c44e419aebd1413a6eb583641e0cbbcb1e9" />
+	</machine>
+	<machine name="Return to Holy Tower (2017)(Hark0)">
+		<description>Return to Holy Tower (2017)(Hark0)</description>
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\CONFIG.BIN" size="2" crc="58c223be" md5="25daad3d9e60b45043a70c4ab7d3b1c6" sha1="0e356ba505631fbf715758bed27d503f8b260e3a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDING\H1.SCR" size="12352" crc="8e22a6ec" md5="dd090c3c839dddadacc8f206f61b2095" sha1="54fa7f649160f311520719efddb815ff6b6774a0" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDING\H2.SCR" size="12352" crc="b3ead480" md5="989c30afd79d50c2df5c3863b04d1aec" sha1="14cf306cee347edd9601771cc992753ea3f60250" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDING\H3.SCR" size="12352" crc="7b1439ef" md5="45fae12561918f7713a947efcfecdc06" sha1="2d051901ab55d1acfffde14179a5af2320e21b1b" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDING\H4.SCR" size="12352" crc="e1f3a25e" md5="2a1ea9368e68d0de1706620fbc039bb6" sha1="a71cfed5435654af2318369d4401cc2f3400c18f" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDING\M1.SCR" size="12352" crc="b83bcbea" md5="5f6c5aa1695bcee166f32682c0f6dc5c" sha1="a7d4be23e7a72df80623393879a9b0a9f1a970e5" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDING\M2.SCR" size="12352" crc="7f8741a8" md5="06d3a62936c63e9757efaf3119fa1967" sha1="b50ed6322387e9770ff4551a6e52fcfe093f48d4" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDING\M3.SCR" size="12352" crc="7138b0de" md5="9781831174f396abdbc021a665127a0f" sha1="6a532ef9bf023a1d156cf534d33a4ba699a99a75" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDING\M4.SCR" size="12352" crc="bf6d8c4b" md5="9a57269fd7c0cb6477e6b981b2ac7de8" sha1="0549037feeba4acb1b5e56517302c2891b00bc56" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDING\WINNER.SCR" size="12352" crc="5f3c30bd" md5="6cb1f6b7b09910b88ae786c4764d48e2" sha1="b961ad91a7a7d4ff28fd60f4c14556312d8eddc7" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDINGS.BAS" size="247" crc="88577f90" md5="a94f94fea6b9a85ab3acc7fed918e363" sha1="4b8ac73fc0f921f91d627e530a6eebeff25b9175" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\ENDINGS.COD" size="1655" crc="0b8ec7e0" md5="a4b17806cc2dc29dfa9ca75c04e71093" sha1="889491b14eb142eaa43fdbe2bca1a8ec72ad978c" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\FX\BEEPFX-S.BIN" size="916" crc="a12739ed" md5="ff6823b15e14672d06efe4dc34221789" sha1="4c236c31b6b97ed1044090e00ff77dfd0ae8cb3d" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000000" size="176" crc="f16bdef2" md5="88edfcef3c8b1e55bd23711b8f4c1361" sha1="3fef0fa4c6008d4619e6f1c05330224cf470c50b" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000001" size="176" crc="9d46a424" md5="faf92b2e9dd209eae22c383e1df32076" sha1="863ffe3fad2455e607683b0dc444f6344b315623" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000002" size="176" crc="cf75b7f9" md5="46f985a27c6a3201ff14ca95b4d16474" sha1="7c6c6269083fc8959e7d154e76ebb530e6a4e1ae" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000003" size="176" crc="334dc768" md5="163d1f566fb794604ffc28ecb962c40b" sha1="8c366d2b6ac24eb52bbb5eab4f8c40e5efc38a06" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000004" size="176" crc="052314b5" md5="fb0d358920af429ee3152240a6affa73" sha1="eb5f6f491ace273768e7a9d5286e74b1bdf17324" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000005" size="176" crc="b74f3b80" md5="5da6b7c2e56da1455861c5a98c392b2f" sha1="4a7d0d14b1f29c8560fa5be4a3c0f2c538575236" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000006" size="176" crc="bd8d034e" md5="4395292d60f9b391fc96e49ada5978fd" sha1="89ac7ebf3a60ecc18231d0a903a71125c5703ea0" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000007" size="176" crc="168fb69d" md5="780d459be29d61334ef63e58692a61c7" sha1="c4263588beeb45cb98d5a3bcd6eb65621e89ab0c" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000008" size="176" crc="bcea666e" md5="41b4f2aa6605918bb29edf6930573e40" sha1="c10280f52d9d6806d14d3b5f90ccf6c68014134c" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000009" size="176" crc="6a9fad98" md5="a20332677aab78410887276b7e20f4e6" sha1="358c8d3914ccb27a3a4b87fd9af1689c6001aa1e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000010" size="176" crc="3210c4a1" md5="59bf170110433bae0900096d0e95e524" sha1="d1b16eeff87ec734e1b2697530a850e8bb7c7ac1" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000011" size="176" crc="a035b193" md5="ba0bc87362ff31b93956dae98355fb4a" sha1="bb5a452a6eea653c5882dce946e4cca046cf1444" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000012" size="176" crc="6196abff" md5="ebcfce7ac46a45dd930ea1146b39771b" sha1="ef9de63419d917f2b133da044187e435316e56c3" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000013" size="176" crc="99a0fe6c" md5="79b24bc5c9a4bf66b3014f77381241b5" sha1="415b12b269cf46611a359d76e245b327ff2256ee" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000014" size="176" crc="84bf99cd" md5="16d431118e51b83d95279b0716c8b0c1" sha1="78b7969f2646225645d4799baca9d96dd268307c" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000015" size="176" crc="3dfa768e" md5="11b58c387c9fd95341488fffa61eefb7" sha1="918a3a06a697c808df55826a91f4260e1e3914f4" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000016" size="176" crc="d8c61311" md5="eb9966d8516ce1dcaf13f029569a3fbf" sha1="5366eb1f87317c0ae9c9c41eed07c01ef82910f6" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000017" size="176" crc="2d003b35" md5="e17e294c77c31717e875ccd164ae54b8" sha1="8c3f7d0f968ca954973f78077c87c024dbd9148d" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000018" size="176" crc="a2f573f4" md5="615be486c2b348ec8de77f8d864a91d2" sha1="f668c26ad9fec7e9918b248e0a8f29d98423acf7" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000019" size="176" crc="b10dd7aa" md5="3565d09856744678efe34b96e45ebeca" sha1="91d1019164e7a63c3ddebc71dfab6b2f8247eed0" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000020" size="176" crc="8f8c12d2" md5="8698e7f3ba6868723d44f322088316fe" sha1="9b2ff11813e5172e5481649b5734ee44627424d6" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000021" size="176" crc="4ef04883" md5="7fc4be21756a04e35fd0d143f488f6d4" sha1="abd0796c8df4cd790b8c720449eae9de22ef890e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000022" size="176" crc="1b988b56" md5="bdc139398c4bac731f74253cd076a03d" sha1="38da632ba7af5df5079d2ff4dd245a45c6c41f3e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000023" size="176" crc="6c3a9dd9" md5="1c6fd70e3d0852561976b4769fb09378" sha1="38498abda009b493cb85f46145c37c0cf72b8e4f" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000024" size="176" crc="9bb4714c" md5="2ecdd659428d891b7bff2f9ddeab8ad3" sha1="23889cf1c4a8c509741c431e23b7c5519d0eb77e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000025" size="176" crc="0b5418bb" md5="3a912b80e078c2aa6a54041dacae429f" sha1="682fdd56959dfece11b5cbd57fe7378ab55003df" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000026" size="176" crc="fc754395" md5="53db563db0c28100b29de5adb8827faa" sha1="2cda321101ec0868300f17436d05eb330aeead2e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000027" size="176" crc="6413378e" md5="ce03aa0530d884619dedeb49540b5e53" sha1="e29a02635f808205449851f7ac59121d2ead26cf" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000028" size="176" crc="6f4dffdd" md5="ee3c4804975845c5c8ea294576c957e7" sha1="f0ed84710883f4b8f97b111b1e579a0f89000f63" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000029" size="176" crc="358ecc02" md5="a1de1734c9166abebb9fb2f14d99302c" sha1="b4f51f4c90f142a0686fede27078ba81f64be46c" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000030" size="176" crc="180c4cd7" md5="2d2168bcd9256dad60230b59622297b4" sha1="435d048a843988c1710c1ab74e008ad815f184fa" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000031" size="176" crc="673e4493" md5="9bd87d1986452bac4071aa2952dfb346" sha1="77335bc83767f5cef792bc67f32a3fd2b87e46f2" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000032" size="176" crc="b909b2b9" md5="3a2347b686b7a9c388f5440babd1fd14" sha1="e5ead4a4b8d4a07e382469a181a8ff488b798db6" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000033" size="176" crc="bf8e8544" md5="adb588625b2a62c9ab3e817deeba2e09" sha1="85b3fb8f5da78758f113b96f7979ae285e0a70d6" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000034" size="176" crc="586c6114" md5="78a6869ec71aa74297743c8b314476fa" sha1="162640eedc1800565fb70fe672165a27ce4c347c" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000035" size="176" crc="1f0b6c13" md5="bccb6076c0336398b2ba04f6b3f59261" sha1="5f806d10786e0a0af21e56c5584a29794baeb6dd" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000036" size="176" crc="3e812c43" md5="aa123e60a248f455357793388aef7395" sha1="4bb52112d1f5e10fe8cc67ec6e80f993069ed8e3" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000037" size="176" crc="95d31fec" md5="c67143b6a78ad22f50a143af8b5b5994" sha1="52228d3097e0469a497ffcd86cc1aa9b4a673a65" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000038" size="176" crc="fe3353a1" md5="5a84868b44bffffaf953c2eee63124bc" sha1="4daed8cd07a2c7822b36989988302eb723fd6746" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000039" size="176" crc="8dde7347" md5="097d959aaf59c12a9b3d4e69f1696bc7" sha1="3aeedf5278f4df9a76671f1dae1807dfb2de7a19" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000040" size="176" crc="d6db5754" md5="835d34e780cafc84dd73c2daaa7cb2ad" sha1="06f2c25f6a307fda44a2db49bc51ea8f8bfc6d25" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000041" size="176" crc="6352c32a" md5="a4dbd81ecf64c3ca609607d9b34ecfe8" sha1="123edd7a23f0a330256f1e25f08532a7f07e815a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000042" size="176" crc="a798cc7f" md5="37aac4c1f0921ab6e711279d202b6c0a" sha1="ca1691516f11df089a9249902fa40a1e47720c15" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000043" size="176" crc="669ded0a" md5="8a9ea43be330a1b5b8be92cc70a250a0" sha1="7ecb13bb010c40b662edbb0fee515117ca1e4279" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000044" size="176" crc="fac62209" md5="a20d8f2a52c05d7bf3eb277167dddb09" sha1="1f902faa01c491a517eae13ee80522d914dafe2f" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000045" size="176" crc="ee13fcfc" md5="94a6f6816dd998b82c79fb075ded2ec1" sha1="65ea535769f6c4c03f29f6f2949c5ee57e8f9278" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\AVE\00000046" size="176" crc="244cfe1e" md5="f867b0562f7009e433e4644e8c01e346" sha1="07f12e526eda61fc802769659d5d4e304fa2cc80" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000000" size="176" crc="e8d49505" md5="fb8ea6a7b17b270ffe12d09665071da7" sha1="42a3e0fe6e38767ff434d31febeac44f4f213304" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000001" size="176" crc="9fcb3cb7" md5="bee231fd8b0d0dfdf0595e55cf190538" sha1="fbf2612cfdbaa02a4aa45d6933648221ae8c2dc8" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000002" size="176" crc="7339c443" md5="96adafbc1dcf9c53fe853d03f3750989" sha1="7a1a7779f7138200850b6d467f30df8451f22a58" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000003" size="176" crc="6521cd23" md5="18f6916d73a0861175f384d96eedf23c" sha1="7dcf3df77ae9fec9c2d46886590c5db383a867a0" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000004" size="176" crc="66b096fc" md5="fb0818e55cce4e3284d91386065f95b0" sha1="8a2e8b4883a3a680246ba999b8e63c61bcc8eb61" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000005" size="176" crc="f172366a" md5="dd21c0ffbf72563b4b9eb864f762eedf" sha1="0da8e4dd69d0625dc303c94f6167254402eccf3f" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000006" size="176" crc="20e37197" md5="2c4b577b376abe07080ab068d3a8909b" sha1="687447885ee12374e11b6bd90432c0be844c5f80" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000007" size="176" crc="0b47a455" md5="3b3f5d2ac863630149d3edd5f4b2f883" sha1="386a6039ba05cea82cc011cbe794aa9fefae264e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000008" size="176" crc="0b47ad42" md5="b08de822666b57c74914c5f7fe883ed8" sha1="ec4bd8c360f6ff06e3bbe9fccc72bd02e0f2389b" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000009" size="176" crc="db3aa6e4" md5="1d0c963dc7e262a165de53dc6f43dadb" sha1="198b5f64b56f596200840a3387a44365c87d5215" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000010" size="176" crc="679edd01" md5="0f3bd8d927e34a5cf21c131cb41dd705" sha1="bfb9ed11d3a1034d55a7c3397ce26aac5727b6fb" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000011" size="176" crc="a2d9ad5f" md5="3066fcda4ce95f9130473e4874b024f7" sha1="2ccc784f9779daab9a8bacb4021682d2e49378c8" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000012" size="176" crc="c5f9833b" md5="863dca17487255638c61d9b0f8840769" sha1="c7d7d4cb76af98a1ba8f7dafe2d712e85876a7e4" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000013" size="176" crc="11f83e52" md5="75730a468e7bd7dc301b09e683175a86" sha1="4e553f3fd867f7823b87e7f0e79eb8743f1d33d8" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000014" size="176" crc="e50f499c" md5="d7174ddf82e6020aa53dae353b75bfc5" sha1="e59c3fa5146c04c4898e2ce07c1ad74bf70df837" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000015" size="176" crc="0471f280" md5="39ff62c60f5ddcd1c842176140db9fb8" sha1="fc9abb870ce23c9b5ec1db6ea33a68da5a04752a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000016" size="176" crc="365da184" md5="a572b77a0528527041d9b357c669f204" sha1="36d21982a62381036a6df406788350ffbe0c6d72" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000017" size="176" crc="239023ed" md5="2b633413d07ac49987d70adc7c4e29af" sha1="da73ebfbc6c5d81598e3b025019054027b05ddbf" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000018" size="176" crc="4c0364ec" md5="68d6e87191eedea111bab1cf56eef395" sha1="b66754ea685a165bbed0fe321f25c4dfb5388e50" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000019" size="176" crc="ee960391" md5="f15eda0cbc06e84a3a99912a8bffea57" sha1="7d09014c4007adfa469a8a94dd06bf2225f7a985" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000020" size="176" crc="d716e5f6" md5="ac977c3b80dda078deb7473245f37846" sha1="352d468fd89da4753bd8e2f0f3fb7e1bb6e5e02b" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000021" size="176" crc="1aa90b0e" md5="3854a6cf5e2453b808ce0e88a3ffad07" sha1="c06942748e6ddfe0f56b8789e2d489572138e3f4" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000022" size="176" crc="3a8f7141" md5="b9270fd2f6cad398b326b1d179097ca0" sha1="8a5f1945c925c00bbabf309414a0627d9a57d697" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000023" size="176" crc="5ce89469" md5="690cdd99da940e33931cc9703299652a" sha1="7845076e5989a69bab3dd4ecf6b86e726f094224" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000024" size="176" crc="9895418f" md5="b027d21b541b8678437efeb257d6d4ac" sha1="ffaa0d2607b5342b9ccd4412f2aff83fd6b2efec" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000025" size="176" crc="99d4603d" md5="6cd213b059d3376a3153ac632a82e55c" sha1="488305fc0f9de53a45c816bd8bf67731ccce486a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000026" size="176" crc="a948fa51" md5="8ce8540299624eee011aeea7ad0a73d3" sha1="ec107df1d99a2d85285eb9fd5ac79078a9e1d725" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000027" size="176" crc="88d938fd" md5="0b49f38b2d79566119e68a65eef18b31" sha1="1e4aae3bc9491976ea16d17e4dfed66d223f6598" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000028" size="176" crc="29957c74" md5="312094c6dbcb6a4eb21bb3834d885bc0" sha1="3f9640cade51c13bfa60ef6143ec95f7bc4efb08" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000029" size="176" crc="6b14e1bb" md5="05970eca80b5f7841771a0b3e92781d7" sha1="58279d2b6880c12a449d1b9be61ec57b5f4ac52a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000030" size="176" crc="92f32580" md5="05d8751b7dc171556352aead7fb311e9" sha1="a0086c75b8822e21082c364979fe7256e2c3ade0" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000031" size="176" crc="e6ec603f" md5="c98336b90bfd15f3ad3edc20a76189d0" sha1="7df56e726b9f8bb1c44c7866980ee46063815d92" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000032" size="176" crc="a260253f" md5="534893800e7bc0cc560c8987d102b9c3" sha1="b2f0a4219d442c86066c5a7f363b28339d09403d" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000033" size="176" crc="ba781357" md5="578dcb9dc09d0780c17bf0b19923a8cf" sha1="9342eb677bdadc202912446fb846db2ccb29716f" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000034" size="176" crc="9a44e76b" md5="1724313d3157d1b720a981f6ea61072b" sha1="e7a95dd3c097c4a89972600cd9b208d9128d4771" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000035" size="176" crc="3585b00f" md5="697bc0207f620785ac80d99d31d02ba0" sha1="0f59c0a540e1c322ceae4542a620e1db3457e4c5" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000036" size="176" crc="abed9fa6" md5="fa1f65735f1cf12b5f349e5a85ae2686" sha1="dd9467added65bb44d7624e6f2d06455dcd888cb" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000037" size="176" crc="dd6a6d7d" md5="56b44638c7f15e553e797fecb3c57914" sha1="a66a5bf6179e0234c04a4b67900fb9bfdb9e0365" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000038" size="176" crc="413dd553" md5="775facf3b4c7486b97596e16e5f12094" sha1="bb9d765b18f517686d437f81ae05b968ef3822e9" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000039" size="176" crc="0789ae97" md5="6032cd91f13c44e659c1dc42cf4a4c19" sha1="c8f4becd4ea7b1ea9c24a381fcc5857cb24cfa44" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000040" size="176" crc="15536f55" md5="ea7bfdeea7a7db10c8310ae79acf0af8" sha1="d976d8271b7f6d0b2cb7efa040f221888b7e088a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000041" size="176" crc="45403879" md5="3acb28d35b04ff28875c72fb7a3a9952" sha1="1355cc4a4b5d0f85fe2e8493b593683597adaab8" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000042" size="176" crc="e00f230a" md5="a0b24288faa358d203d843da2ca0109e" sha1="7e7c1289f796ca6693f956e84983e973cbfbd3bb" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000043" size="176" crc="6e75ce31" md5="2c7974e299b21711e53cf1abbe83796a" sha1="08e0e05bcd5c52a572df358c9eef297eab6716dc" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000044" size="176" crc="eb2053e5" md5="083e8b4790eba218fde2a458398d7cdb" sha1="f0cc08efe437ad61c462b7b57b15c40ef8d0da37" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000045" size="176" crc="1d9f689a" md5="710f9c6488390dafebdb11f7c1035f2a" sha1="7c028965c4f2418c4087c0e70a4d6e93914a6035" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000046" size="176" crc="8bddb01a" md5="d494d96a3b11e38e585590941c950dc7" sha1="5f6c027cdf9a23bb1d0bc2133e3dd112a3bf544d" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000047" size="176" crc="ceda3917" md5="ed504328333753f7c285fd3a3a1b60f7" sha1="9c60d7a18fa22be7a89ddb2782e6876374a8ff1f" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000048" size="176" crc="994cfe6f" md5="7e0ad7451bbd5150aef6057e1c9c62db" sha1="804e67583d325b2672ece327715d0a84be88fdcf" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000049" size="176" crc="5cfac9fe" md5="82844333dec399d4fbfb8aff753f952c" sha1="a7e4f4853b453bfb5d827d1ae86245125f907621" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000050" size="176" crc="2f20950b" md5="04a5c3b4d7d017b8053668faa39aa03a" sha1="45271e32a1eebaa77ca3d82e073f95744778cbc6" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000051" size="176" crc="2f4ed2bb" md5="497f63237b637468341525e6a8615a1f" sha1="1591cfd151ca45b69718b24ff46181f9cabbbce6" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000052" size="176" crc="d395075a" md5="d0bb955cfedb2130572d31980d1d8c7b" sha1="5131332b98dc555b2e592ac33b4d3e32ae2cfadc" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000053" size="176" crc="f4a94327" md5="db7644d9c069f008d4b18dc77559e170" sha1="6172643652140ad4dd62615970ae2c36f26aec6d" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000054" size="176" crc="d85bd21c" md5="e232d70eab970c7f830013f786095ce9" sha1="debd5f17cc724957642258e04ceee4c2a43433b4" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000055" size="176" crc="eadc8c07" md5="40a842e0826b3a1f2ffc7fc62bc54abb" sha1="0290d012fd96e7557a5babd3bc974b983182b018" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000056" size="176" crc="f34fd56a" md5="d0c07a269797776e61168721bdcd336c" sha1="33327ce37fc3bc9593500aefdafb0606afa401cc" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000057" size="176" crc="787fb3cf" md5="fda633f15f1181f73703b67955ce7098" sha1="9a5a887ea93c0332eaee2a216c467153195562e6" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000058" size="176" crc="b91152c4" md5="9a36c52bf175c5c4b048c050b06f6e8b" sha1="cb4a4eeb96c7d5e7d834857572ba0cc17d75c777" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000059" size="176" crc="b2c7e9b4" md5="e22f88ab005e72350a0859b7480089b0" sha1="458a33ebe76009824c440b1f0b533113f7450d08" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000060" size="176" crc="75120ee0" md5="6d488533e0c895a938422d5b84bd6c1d" sha1="b32d6b146018cb815aa20725c26718d9a3d6b2dc" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000061" size="176" crc="1997868e" md5="8ef87575db501effeb68c4fd8f27b0d4" sha1="28fcd3adcbf8fe1cdcbe5ebc51e56f984915f93d" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000062" size="176" crc="1d729d5e" md5="ee4ad6bfddced71d60f207d545fbfa47" sha1="e98be4fe7f2691e5676e7d194ff2b49f04b2536c" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000063" size="176" crc="13a9ff5c" md5="0006ab5dfae372543216083d0ff6139c" sha1="899009413102ebe3c1c0c9483ccfcfc854a9a3cd" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000064" size="176" crc="3fcecb33" md5="1ade5864a3cefac3293628dd009d0d94" sha1="6972489f832385eb2cf560fddbe4770bb65aa55a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000065" size="176" crc="bdc3e11f" md5="87a3df3d36a08610caf90605cfa1e9e1" sha1="22e3ba1f03a65ea193740ca7400d26d3cac38591" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000066" size="176" crc="14a93c5c" md5="fbad12aaa42a02819d85554cb871f6dd" sha1="1f7b14d27e46a5b2b9a017d0b06cc5b5afc35c9e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000067" size="176" crc="028363a2" md5="4474aaadad9de6f6dd296ffdad373d49" sha1="ca68b2928dbbdfa55a68efcfe1ba085f0adcd0d1" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000068" size="176" crc="3c1efcb1" md5="86a412deff6abfb07a5200499eaf5207" sha1="60040d1c918762317f37b37f7bad1879e3e4cd92" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000069" size="176" crc="f0536fbe" md5="936ec701f551f90baed2dfe56bd7b80f" sha1="929fa2db6de355176b9766fc2c7ff4d661249a04" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000070" size="176" crc="d54f77f4" md5="7a5235aeab6a358c68a5d062c1fd839f" sha1="2a97dbb4a324b012cf3bd1dfdfe7dc01f65d3aed" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000071" size="176" crc="f1ec8d53" md5="3042f31f1db2ac9a74555acd0c37cca2" sha1="cd7b8d4d1be68f75988d852785bf85fd34410eb0" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\MAPA\MSK\00000072" size="176" crc="2697e65a" md5="497393af097ef45d37d80bf91e98da52" sha1="9bdc17067f60ce9b3f7ed453e68a7b5fbf3ac3c7" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\1.BIN" size="6144" crc="7a5617ff" md5="7c8e1cfeef8bb6a78f4ec14a4ab312c9" sha1="61bf741da5ed6be0905c8bc3026d4cc14ac4140a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\10.BIN" size="6144" crc="0423fdb0" md5="363775ec97998c834435dd693653c441" sha1="2c2ff819f79c88cea1e56497913584232262c880" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\11.BIN" size="6144" crc="6a4623b2" md5="f50136c23409f43000eff657a13cdf21" sha1="2c9f9f6b8e33316e41bf401626266086cab18cff" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\12.BIN" size="6144" crc="313a9d1f" md5="811a8c48c520f8f4006698a65d34ed87" sha1="0fa69473a08cdb50fbc71e274bd7f409e4a36c6a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\13.BIN" size="6144" crc="e0e0ef7b" md5="9bfc514de90223056925679367e51927" sha1="9ae2119e7f9f6e2da781e1c93b4f4eb28e1cbff3" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\14.BIN" size="6144" crc="a1da1998" md5="279d708d83dbc84473b476520deb01d2" sha1="c074019bc24c4de3a39129d9dbc6bc31d8861b1b" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\15.BIN" size="6144" crc="7c9da52c" md5="288d05d6c1c244ca6888a4f931e7aafa" sha1="4d1224650f445d25455c735e2a7733528369237d" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\16.BIN" size="6144" crc="3e18830f" md5="830e253a0b6bf9ca1e980d8255d4cab9" sha1="287ffbc063feab9504e017bd8d8dc10f5e331567" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\17.BIN" size="6144" crc="d4329a5a" md5="361ba93a4a198f2950d928fff58162e1" sha1="de48cd742e7c23c697e46e6cdca697305b5b441a" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\18.BIN" size="6144" crc="5b70a2d9" md5="342ca07d3d5cfcea0cc5f5942b42bdeb" sha1="94de22176605ecb1d8cbb74a65d5aed21cc0bee0" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\19.BIN" size="6144" crc="4f01d9bc" md5="f1697d7af27490240e113309a7a83d8b" sha1="fcbafb79129010aef45f3ade0023b35c364a3d4e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\20.BIN" size="6144" crc="8bba3036" md5="7e12b7456be1106b7c9c7170adf2dac0" sha1="fc7303b92a7029538ef1edf1127bf348d38d1749" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\21.BIN" size="6144" crc="714c8b58" md5="3375717836d3508649bac5c383d3d7b8" sha1="b27d3416e6cd2740e182a76eaf174ad498d742e3" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\22.BIN" size="6144" crc="59b3c60e" md5="86804b584354380c43df6f98f4d5e514" sha1="d092e8f28d28ec8379ae2087d595878772c56b14" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\23.BIN" size="6144" crc="4858b86f" md5="4bc7a86da75686278756963d408f9d55" sha1="2d25ec6b0295805295c3f37bf7f6c5f049a406bd" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\24.BIN" size="6144" crc="2a4ad900" md5="4a2e2db1b41638166bbd252d164c9783" sha1="ee733f712408a9c94207b15bf242dda372fd5e9e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\25.BIN" size="6144" crc="88c0bbac" md5="e903c48ea76ae9e9410499e4bc75c959" sha1="69d82be9c08f320ed8a07b5baebabc00d8211e7e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\26.BIN" size="6144" crc="75def0cb" md5="bceab4c87057f4ab20e3fe581a24a7f8" sha1="f29e09717b44c29fc8f49bce5aa2155181c08fd8" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\3.BIN" size="6144" crc="47d6d6bf" md5="2127b0537a516d9e9a3dae890084433a" sha1="64546142fd468a65a634e2b5daadd4520adc0a6e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\4.BIN" size="6144" crc="34e9fdef" md5="28095caf2aae1c97a2033af06fee8132" sha1="a2480b8b9277152b1731eea8d4796ef3b27957a0" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\5.BIN" size="6144" crc="8e3859d6" md5="caabe9aa5051bc1217332bdaefb48030" sha1="157e4cffebcd7003258838bfe289730f89ff98bc" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\6.BIN" size="6144" crc="5cb0ef73" md5="8e690908af3ceede76ca46c542a143cd" sha1="39f5ae1be6c67639060310ef78458d33419a604e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\7.BIN" size="6144" crc="05942fbd" md5="7cb6774129627d2e90f41b569083a702" sha1="c2ec5155de758dd10805d69df232bb6bae10e824" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\8.BIN" size="6144" crc="58622a02" md5="01a479631deb89a571447845ba44c665" sha1="d7f506ebaf2f6be9df2b964555e6354d815f5356" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\9.BIN" size="6144" crc="3358c7b0" md5="7b93fb4b80a000355f96c43dcc2a6f7a" sha1="3b9e3569e133665808b80d3125d7b6accb420b06" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\CREDITOS.BIN" size="32768" crc="1b15cb3c" md5="050060f4d1a8d0e5d14e61c11c857d3e" sha1="6284da0233067d44c58edde4a8972469435efddf" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\SPLASH20.BIN" size="2048" crc="8bce0f53" md5="a35b2af42d44511e039f9a27d34435d4" sha1="e6d3f295f842ee014bee24ed4fdf960d5a8e0a48" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\SPLASHFL.BIN" size="2048" crc="ff1712d0" md5="68d8ace4956407898b8af246c4ad19e7" sha1="0b1bf07a864535006317b95fea3c8876299ceb31" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\SPLASHIM.BIN" size="2048" crc="0ed238ca" md5="6f3d31fec1eb55c20eafb8009b044669" sha1="33fb55c5bcdc65202baffa1649aa95a75e4bb7da" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\SPLASHRP.BIN" size="2048" crc="c8b2c976" md5="d2c5f20e2fd8815386256b7c7c99bc95" sha1="dbe7eb6deb3be3f6b381786bba5d546bcfcd0547" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\GAMEDATA\SCR\ES\ZXUNO.SCR" size="6912" crc="a1352eba" md5="5b0148dd992f4cd14ee4e5c14fc21e78" sha1="9c920bfe242a61e438f340a0156fbd609fbcbd1c" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\HOLYTOW2.BAS" size="239" crc="6d6d2e67" md5="943dfdc57db8ef749f0eeacab63e61ef" sha1="25374d53188e6cb027484c2365a5a165711c2e16" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\HOLYTOW2.COD" size="37936" crc="0dc4ac08" md5="779eaef0c6e28e460292a782c1dafb79" sha1="274ac91f858e887e48974b747a31802404576de1" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\HOLYTOW2.TXT" size="20907" crc="21039973" md5="a4f2e1c37daec1cccbbb2a26b476970d" sha1="78d9abc70b34084ee39da70cda326b07231902ef" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\LEEME.SCR" size="6912" crc="1bf66c80" md5="8013a00cbbd43dbdf675398ec75076b4" sha1="9b5157b9c7f492c43d39d4a41bb17a15f51cea9e" />
+		<rom name="(EN)[tr ES 2022 SCjoe]\LEEME.TXT" size="938" crc="6e79c4de" md5="a9afc6a214f1d6a0f3a62d7f01acead2" sha1="d1b62c3cc3865b194aaeb217323e4a65553b2ea1" />
+	</machine>
+	<machine name="Ship Fix (2016)(yombo)">
+		<description>Ship Fix (2016)(yombo)</description>
+		<rom name="(ES)(TS)[h 2022 SCjoe]\SHIPFIX.BAS" size="204" crc="c11eed8e" md5="460dee2871f2252bbb0023dd01f1519b" sha1="f9c2e9967cbbeb7aabefa287b0a5c91b402d53cb" />
+		<rom name="(ES)(TS)[h 2022 SCjoe]\SHIPFIX.TXT" size="1843" crc="d42de7cc" md5="792092ed1059b01c6594331d7b998212" sha1="9933a8e249bd4f8bac657cbdcf34779f8619fe5a" />
+		<rom name="(ES)(TS)[h 2022 SCjoe]\SHIPFIX1.COD" size="8627" crc="84037494" md5="20919e2672238c906e1a9daab1fa4bc4" sha1="6f000f1c6b5771f77706787205116a8bb53c4f2c" />
+		<rom name="(ES)(TS)[h 2022 SCjoe]\SHIPFIX2.COD" size="29260" crc="a63f5d6d" md5="4eb4d2b3bf148a6f1bd578fef65c6d4c" sha1="972832ea47db11884e0745be9c148bf37aa6ed4e" />
+	</machine>
+	<machine name="SLAMtris (2019)(Cheveron Group)">
+		<description>SLAMtris (2019)(Cheveron Group)</description>
+		<rom name="(EN)(ULAPlus, TS)(PD).tap" size="97419" crc="6b19a121" md5="725940bbdf655e70e0bdc8af329b5f24" sha1="b7edb1558ca40537dad68ced041950e32cd5158e" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-1.COD" size="14986" crc="56815f60" md5="9b3a2a5e5e999dde00ebcad10aaede40" sha1="fc9d4f7f0066826704a244295aa29d69ca9018fa" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-2.COD" size="640" crc="5916df1f" md5="2174cf25122ac2d89c099dfcebbcc59a" sha1="d7ada3ad894497cdd093ddaa9b253b77c054128a" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-3.COD" size="16512" crc="7e073c65" md5="ca0c43d2bc51e4f7fb3b5ecff876aaf1" sha1="f6cc9ef71d08f662078eed705afc7cb1837e6791" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-4.COD" size="16512" crc="3cae3cb6" md5="8f7c3ee241dead928bbb771a4e7fcc4c" sha1="d220c3e52c68d4c7dc5c8fc27be2d4cd4b12aa10" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-5.COD" size="16512" crc="30bcd158" md5="94dbf53cf1508cfd41fe284690c1f3c3" sha1="cd5038c2cea51426ba1ee59ac661ea4318834c9a" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-6.COD" size="16512" crc="b44650c9" md5="9a5449c30d343024aac5c684e6a12f66" sha1="b8969329a519873f2a2bba7400305d3f8ca2c66e" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-7.COD" size="16035" crc="b2ee88ec" md5="e967a5d81e05ead8cc5c85aed68c9de4" sha1="537d0687111b93dfd73fd0a8e1698c3984a828d9" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTRIS.BAS" size="707" crc="0af2792a" md5="340bc899d147a6e4fde7ae2298ce5628" sha1="8778f8b63be8a43586acb0e9b8f201ee97bd702f" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTRIS.TXT" size="516" crc="3752aa71" md5="9f1e1057134f7da5f158a52dd12b030e" sha1="33a65b88a285b1898d3a337680aea3cefb1c6a3e" />
+	</machine>
+</datafile>

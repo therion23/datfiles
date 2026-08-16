@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair QL - Games</name>
+		<description>ZX-Art - Sinclair QL - Games</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Connect 4 (1985)(Your Computer)">
+		<description>Connect 4 (1985)(Your Computer)</description>
+		<rom name="(EN)\Connect4.mdv" size="174930" crc="381b591a" md5="73717a4f1059bc4192c5890cb418e326" sha1="056952edbfec053c629fe57fd63d43dffca4e4f1" />
+	</machine>
+	<machine name="Ring of the Inka, The (2018)(Volker Bartheld)">
+		<description>Ring of the Inka, The (2018)(Volker Bartheld)</description>
+		<rom name="(EN)\inka.mdv" size="190593" crc="811daed0" md5="2c88b7c1c9df2ab198ce9103a6feaaa4" sha1="2756da00d61180c0f35c8e2302fea901b3cb5ed1" />
+	</machine>
+</datafile>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - ZX Evolution TS-Config - Games</name>
+		<description>ZX-Art - ZX Evolution TS-Config - Games</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Street Fighter 2 (2023)(ZX Online)">
+		<description>Street Fighter 2 (2023)(ZX Online)</description>
+		<rom name="1.1(EN)(KJ8b, TS, TSConf)\Street_Fighter_2.url" size="66" crc="ffb2152e" md5="f0aad086d420abd215144b970d238289" sha1="e52a05868af213c5a1a4f6c77e860724027e4fe0" />
+		<rom name="1.1(EN)(KJ8b, TS, TSConf)\Street_Fighter_2_1_1_ALL_v1_1.zip" size="4885066" crc="62c4277b" md5="4aeb4b03c261830b96188eebc9caa026" sha1="dfb64621f775f1e027a29962083b2dad632736c0" />
+		<rom name="v1.0(demo)(EN)(KJ8b, TS, TSConf)\Fighting_Street_Demo_TS_1_0_TRD_v1_0.trd" size="655360" crc="c75713a5" md5="f794d31bff0a61ca203faf78214ebeaf" sha1="c5dcfe84221b615b152c5a068241581d3f12941c" />
+		<rom name="v1.0(demo)(EN)(KJ8b, TS, TSConf)\Street_Fighter_2.url" size="66" crc="ffb2152e" md5="f0aad086d420abd215144b970d238289" sha1="e52a05868af213c5a1a4f6c77e860724027e4fe0" />
+		<rom name="v1.0(demo)(EN)(KJ8b, TSConf)\Fighting_Street_Demo_AY_1_0_TRD_v1_0.trd" size="655360" crc="118b6192" md5="a339cc95e83fd77db445ab964f46b7ad" sha1="a81e29b89b63d3328739b7d5b629c39905762f59" />
+		<rom name="v1.0(demo)(EN)(KJ8b, TSConf)\Street_Fighter_2.url" size="66" crc="ffb2152e" md5="f0aad086d420abd215144b970d238289" sha1="e52a05868af213c5a1a4f6c77e860724027e4fe0" />
+	</machine>
+</datafile>

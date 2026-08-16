@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - MicroArt-ATM - Applications</name>
+		<description>ZX-Art - MicroArt-ATM - Applications</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="ZX Word 3 (2024)(-)">
+		<description>ZX Word 3 (2024)(-)</description>
+		<rom name="v3.10hdd.570(EN)(ATM2, BaseConf)[h 2024 PLM].$c" size="17169" crc="6dbd6c5f" md5="b89d5e83709717d5a5185f39bbdae791" sha1="aa73149ad06ff4ab4b357031da98ab6c9805f507" />
+		<rom name="v3.10hdd.570(EN)(ATM2, BaseConf)[h 2024 PLM].trd" size="655360" crc="e3dd7167" md5="64036eefbb23aaf3a432c1d31e1da0d5" sha1="d5e1b2e50d2e2f7a5112e9a84155b34d915e649f" />
+	</machine>
+</datafile>

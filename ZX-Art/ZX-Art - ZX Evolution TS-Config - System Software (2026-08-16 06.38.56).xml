@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - ZX Evolution TS-Config - System Software</name>
+		<description>ZX-Art - ZX Evolution TS-Config - System Software</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Proteus File Manager (2023)(-)">
+		<description>Proteus File Manager (2023)(-)</description>
+		<rom name="2.31.5587(EN)(GS, 128K, ATM, ATM2, BaseConf, TSConf).zip" size="1598711" crc="60093ba5" md5="474a8987d833bccf732eb41b7c83c03f" sha1="2f50da28e3aa3dc28e7d42ab2e39bf0aea12750c" />
+		<rom name="v2.00.1298(EN)(128K, GMX, BaseConf, TSConf).zip" size="161674" crc="b87e79e9" md5="e0726b966a5b77f07bbfefec0adf5669" sha1="1c3bea0efd28ee09f03ed7445267cd0eb0807d6f" />
+		<rom name="v2.00.1378(EN)(128K, GMX, ATM2, BaseConf, TSConf).zip" size="202634" crc="0ca355ff" md5="ce3e5e885ebb1f65ae1fe71a5b2a7419" sha1="3ae17b4f3b7a109950ec3c2c742cc392794eda86" />
+		<rom name="v2.22.3216(EN)(128K, GMX, ATM2, BaseConf, TSConf).zip" size="358309" crc="18c06b61" md5="0b74562b84b684af1803713fe76489db" sha1="c26229433007efdc4c10a7cca1b65116b4247ae4" />
+		<rom name="v2.23.3294(EN)(128K, GMX, ATM2, BaseConf, TSConf).zip" size="368148" crc="9534a52f" md5="542d2d1d3732a573cf67743a1656cb20" sha1="fb18a866f09524f6d5c1fd408b18c4f8308b6874" />
+		<rom name="v2.23.3381(EN)(128K, GMX, ATM2, BaseConf, TSConf).zip" size="368738" crc="0020e212" md5="82532826bf7e8cab5cf24879699d9d85" sha1="0ccc8850617f47e8c0b9df5eb7f9ad36d505dffd" />
+	</machine>
+</datafile>

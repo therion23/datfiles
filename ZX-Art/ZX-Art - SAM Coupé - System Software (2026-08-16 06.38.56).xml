@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - SAM Coupé - System Software</name>
+		<description>ZX-Art - SAM Coupé - System Software</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Apple I Emulator (2007)(Thomas Goering)">
+		<description>Apple I Emulator (2007)(Thomas Goering)</description>
+		<rom name="(EN).dsk" size="819200" crc="16edccad" md5="6fc58a86540c4674fc7027dbadac1a7e" sha1="3f7fd06d161cce27d648489f60b67917d6bfb952" />
+	</machine>
+</datafile>

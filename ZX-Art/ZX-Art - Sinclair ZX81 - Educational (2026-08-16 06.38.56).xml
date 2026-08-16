@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair ZX81 - Educational</name>
+		<description>ZX-Art - Sinclair ZX81 - Educational</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Aritmeticas Basicas (1984)(Investronica S.A.)">
+		<description>Aritmeticas Basicas (1984)(Investronica S.A.)</description>
+		<rom name="(EN).p" size="8672" crc="bb3060cb" md5="fa9544cccecf891060abb13dc87d2a3a" sha1="0c46309c73be30e3f03cbec891c111e2c4de5672" />
+	</machine>
+	<machine name="Constellation (1982)(J. Rogers, J. Hodgson)">
+		<description>Constellation (1982)(J. Rogers, J. Hodgson)</description>
+		<rom name="(EN)[a Bug-Byte Software Ltd].tzx" size="15662" crc="8313a37b" md5="b64c6843c5a014caccd4fad6b2a65d9d" sha1="507acdeb8eaff8c3628ed33661e5684c1171a20d" />
+	</machine>
+	<machine name="O'Level - CSE Chemistry (1982)(Calpac Computer Software)">
+		<description>O'Level - CSE Chemistry (1982)(Calpac Computer Software)</description>
+		<rom name="(EN).tzx" size="14059" crc="7b38c634" md5="7011bc35787d3ace9ada21c22776765d" sha1="2b0b486f141a5ffe17cb6e257c1c00943419ffce" />
+		<rom name="(EN)[a 1982 Calpac Computer Software].tzx" size="12047" crc="50142eb4" md5="11c6f82963958501d2a45ca48f616c24" sha1="b17c57f851e56fdff49172f2513fdad32f6dfa10" />
+		<rom name="(EN)[a2 1982 Calpac Computer Software].tzx" size="13942" crc="815a6712" md5="ac62c7f5e451bc7aabae42c00b9ecd6f" sha1="dac9945f38b8903e71fb863a4cb3ed5e1db6198c" />
+		<rom name="(EN)[a3 1982 Calpac Computer Software].tzx" size="12766" crc="3b88303e" md5="dfcbc5eef8a940d4343504715732f297" sha1="0bf7252c0ade827e2eb0773f783851774c63a171" />
+		<rom name="(EN)[a4 1982 Calpac Computer Software].tzx" size="15869" crc="ce6f14d3" md5="30febb9cdd96a76e8e135d7be7f4d3f7" sha1="96322e14cb5e10f2d518d24df5e2c87c120bbde4" />
+	</machine>
+</datafile>

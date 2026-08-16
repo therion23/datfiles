@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair ZX Spectrum - Series</name>
+		<description>ZX-Art - Sinclair ZX Spectrum - Series</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="21 Erotic (1995)(JardaSoft)">
+		<description>21 Erotic (1995)(JardaSoft)</description>
+		<rom name="(CS).tap" size="10336" crc="80cb68c0" md5="46a5a9647d0d603cf223a4125cb57c63" sha1="35ac40ff03936f18f1aa7044d4d7b98d77e30155" />
+		<rom name="(CS)[h 2020 tiboh].scl" size="10537" crc="1171356e" md5="15e3f5df6de3f4b317993d4bea89797a" sha1="866ed77b8b65d3914415e5071a70965617f836c2" />
+	</machine>
+	<machine name="Cursed Castle (2023)(Fransoul's)">
+		<description>Cursed Castle (2023)(Fransoul's)</description>
+		<rom name="(EN).tap" size="47687" crc="15819503" md5="e06c983401e5b77cd6b07e363dc788b6" sha1="e9307bea188d0e7b584becb88a4bc9292aa895bc" />
+	</machine>
+	<machine name="Cybernoid (parts1 &amp; 2) (2007)(SG-Team)">
+		<description>Cybernoid (parts1 &amp; 2) (2007)(SG-Team)</description>
+		<rom name="(EN).scl" size="97591" crc="c7dbb39d" md5="540a1c51a67639f60dd0c2d3f0c75a37" sha1="f8e5c07715630b0298a95101f7dfa2d9a8b200a9" />
+	</machine>
+	<machine name="Exploding Fist (19xx)(-)">
+		<description>Exploding Fist (19xx)(-)</description>
+		<rom name="(EN)[h Gun].tap" size="36592" crc="0be2bb33" md5="015fb0448f88acfc8ac0f071e2ff8d77" sha1="7414bea31af58ca448231050a2e517a71f4b2628" />
+		<rom name="(EN)[h IMP].tap" size="34839" crc="325f29e7" md5="f406a50ca416054f01fe39ae2b6b9d6a" sha1="4ea9e08b39df0e6c703f2257847c62ad65c82850" />
+		<rom name="(EN)[h Livsoft].tap" size="34841" crc="4678d3b2" md5="ec315963aa7e11e7fadc04d1da14a607" sha1="e87c3df5adbd20eaefe3259537f5251dfedd8fc2" />
+		<rom name="(EN)[h].tap" size="34494" crc="213490bc" md5="a99546e9869bd9c18495786edadbea45" sha1="9c7e1fdf9ab5d8435d884f992d7a2841c2accf70" />
+	</machine>
+	<machine name="Hedgehogs (2013)(kas29)">
+		<description>Hedgehogs (2013)(kas29)</description>
+		<rom name="(EN).scl" size="19995" crc="e9aa80fb" md5="4c5daf936c06b357c2286d0d9acaccb7" sha1="a33c57514ba32e1991316e6f465c84b81c5c9fbc" />
+		<rom name="(EN).tap" size="19811" crc="99852192" md5="2d1c7b0326dd1d657e8e8220ac44ec77" sha1="a8b1d6c4398d37b6d99556e76da34033d9299b58" />
+		<rom name="(EN)[a].scl" size="22057" crc="38374eea" md5="fbfdd4773d94ba7fa50cbd7c497aa6ce" sha1="1fce55d53980fbfa973aaea96066a2a194225b0c" />
+	</machine>
+	<machine name="Last Warrior, The (1991)(Jorge Peralta, Luis Peralta)">
+		<description>Last Warrior, The (1991)(Jorge Peralta, Luis Peralta)</description>
+		<rom name="(ES).tap" size="44118" crc="c6ac40f0" md5="386b4cefaa0703bbd5736716594bf9eb" sha1="4ec993087e658521a66e335235b67ffcc4e7c218" />
+		<rom name="(ES).z80" size="41409" crc="a08ea10c" md5="8c1007c615d6bc657c40ddc078cab4ab" sha1="2c2abc2b23369fa5eb3f467f2c3fd50a91eaa655" />
+	</machine>
+	<machine name="Mijadore Vase, The (2023)(Cajonnostalgia)">
+		<description>Mijadore Vase, The (2023)(Cajonnostalgia)</description>
+		<rom name="[h 2023 Slider].scl" size="50743" crc="41a9f4f6" md5="5a11a2abc0a004331f90aa3014d58289" sha1="c50c0c93bbfaa7ffb7630982bcacb73c8ff0d29f" />
+	</machine>
+	<machine name="Shvetsov Compilation (1994)(-)">
+		<description>Shvetsov Compilation (1994)(-)</description>
+		<rom name="Shvetsov Compilation.trd" size="655360" crc="29fcc5de" md5="b43078d3b7bdfdd09918c138b42a224f" sha1="1b87bb0a374fa279b5d0b894dc08c4e6679fe264" />
+	</machine>
+	<machine name="Space Thunder (2021)(Isaias Diaz)">
+		<description>Space Thunder (2021)(Isaias Diaz)</description>
+		<rom name="(EN).tap" size="47073" crc="a11f0963" md5="c236d1fcae9a60c5f268628b0e5851c4" sha1="80f86c2ea89a5252bb3e1c9e63e2fd86b46bdae8" />
+	</machine>
+	<machine name="Uranus Penetrator III The Hunt For Number Two (2022)(p13z)">
+		<description>Uranus Penetrator III The Hunt For Number Two (2022)(p13z)</description>
+		<rom name="(EN).sna" size="49179" crc="81854052" md5="e2646ad20f75ad82c20783d099724ac7" sha1="8eb4167f92318ecea7daa1fbbd9245da799929a6" />
+	</machine>
+	<machine name="Uridium, Uridium Plus (2007)(Slider)">
+		<description>Uridium, Uridium Plus (2007)(Slider)</description>
+		<rom name="[h 2016 Slider].scl" size="50217" crc="8cd1f9ce" md5="02858ed67279ad3030d6464b255d2b5b" sha1="65ccdd43895f55e12f5ffd75dd76d47631d0258c" />
+	</machine>
+	<machine name="VaGBPTrack 5 (1987)(Morley Davies Associates)">
+		<description>VaGBPTrack 5 (1987)(Morley Davies Associates)</description>
+		<rom name="(EN).sna" size="131103" crc="f00361cd" md5="a2f24048dc88279a634d074578362476" sha1="2d77da0f630ffbd4b68ea7f7fa97a48e8cb633de" />
+		<rom name="(EN).tap" size="39065" crc="e8bf70d7" md5="e74a71c58be68241a89462012c6c9154" sha1="2386cc3187b12b68a4c5828b3b0fedf5b2eca375" />
+	</machine>
+	<machine name="Virus (1995)(Sergey Kukovyakin)">
+		<description>Virus (1995)(Sergey Kukovyakin)</description>
+		<rom name="(EN).trd" size="30208" crc="491e89de" md5="005439b5a7f42b3d1d8dc103153a9dd7" sha1="4180d685e0d141e03f899cad8c5e8f73dd1978cf" />
+		<rom name="(instructions)(RU).trd" size="9216" crc="e6d721f7" md5="7993e2c797b8d62898d819ad23b86a00" sha1="cb800ed3260e7d43cce148bc752578c9cd13ea23" />
+		<rom name="[a 1995 Omega Hackers Group].scl" size="25115" crc="f7e2cb88" md5="1832551e18a5eb0a6ccb5b85430cf245" sha1="1791d31a4525c8ea3726b45c39fe02afce497cc3" />
+		<rom name="[a Scorpion, A.S.].scl" size="36379" crc="cf028ef2" md5="c3db6e40d49f8e3b8298135fcb397af5" sha1="fccaa1c1391d90472ae3e2d9d317b773cc9837e1" />
+		<rom name="[h 1998 Msoft, Hunter].scl" size="26139" crc="97b9d81d" md5="f3b0386ed56986880a32a88b57ffd9bf" sha1="ad5e87768554551af8282568a772abd111eb98de" />
+		<rom name="Virus.scl" size="30533" crc="ca2f1568" md5="13b3d47ebce5aecf58b47f5d84192255" sha1="937f99c3cc2dea864d2853379c09558760dee599" />
+	</machine>
+	<machine name="Wolfgang 1 (The Castle of Doom) (1995)(Mecosoft)">
+		<description>Wolfgang 1 (The Castle of Doom) (1995)(Mecosoft)</description>
+		<rom name="(EN).tap" size="30831" crc="d6863f13" md5="dc3c22faa08c385a32d2cc201dab96b9" sha1="0471d8e6bdc51c911019edd31bbb89ff9a9efefa" />
+	</machine>
+</datafile>

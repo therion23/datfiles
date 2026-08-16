@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - eLeMeNt - System Software</name>
+		<description>ZX-Art - eLeMeNt - System Software</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="ALASM (1997)(Alem)">
+		<description>ALASM (1997)(Alem)</description>
+		<rom name="v5.08(EN)[h 2016 Hood]\runable\GRUZ_128.TAP" size="68272" crc="f452fec6" md5="7eba41dc476d9394f02cdabba5153a22" sha1="1f7c4152bfa58f3ff922e930006d42bad4493b27" />
+		<rom name="v5.08(EN)[h 2016 Hood]\runable\GRUZ_PEN.TAP" size="68624" crc="a756e868" md5="4f5cc962a9df864c0002660d9221a1c7" sha1="4480be7d96a24654d36d4f6d3e5504e611d4202a" />
+		<rom name="v5.08(EN)[h 2016 Hood]\source\GRUZ_SOU.TAP" size="463" crc="33b51c48" md5="abce08ef0abeb577b234263ccd00b8f8" sha1="d25b5d995c938ba89081b14371aca4a08942ac6e" />
+	</machine>
+	<machine name="LnxCopy (2020)(Lanex)">
+		<description>LnxCopy (2020)(Lanex)</description>
+		<rom name="1.2b(EN).tap" size="13709" crc="6cd0a309" md5="741f30713e227707cf46ee36eb2943d5" sha1="4efc1322ba86a2df1458c4ac0d70fc8abc98068d" />
+		<rom name="1.2b(EN)[h 2021]\LNXCP12B.BAS" size="219" crc="00c194e3" md5="957fca28f7f500dae5a949505fac7258" sha1="52672df94ea54aa433200bce7272e3d63f939785" />
+		<rom name="1.2b(EN)[h 2021]\LNXCP12B.COD" size="13709" crc="5cc133a6" md5="3ed2fcf80cb5a56f2b23f10c7ce47522" sha1="5554f52f3173238c6389f33d26594708cc14722e" />
+		<rom name="1.3(EN).tap" size="13709" crc="0f6067a6" md5="d9710747c3f361a13a4ecc1a92959f0f" sha1="e89e20a9f09be65c19d37f239f8f9b05077df27f" />
+		<rom name="1.3(EN)[h 2021]\LNXCP13.BAS" size="218" crc="fa10d703" md5="285d01e2b799c6031198b05b2bf73070" sha1="572fd5c4c6481b98a4472584a891f142e5c2501b" />
+		<rom name="1.3(EN)[h 2021]\LNXCP13.COD" size="13709" crc="ea6945e5" md5="d2648fe62aa5b4286f72b272bda7cf77" sha1="0f99829c1e8522181872452b805ae77d7750259b" />
+		<rom name="1.4(EN).tap" size="14221" crc="ebc1959f" md5="c13454b463b90d0962ebd0bb0cddac74" sha1="7e478b577d099395355ca943397f96e7cb0c5bc7" />
+		<rom name="1.4(EN)[h 2022]\LNXCP14.BAS" size="218" crc="1b3edd67" md5="2cae68e9ffbf136d7231982b6717876f" sha1="44d1d816f2005a228eb82188b66ab2377dd04c0c" />
+		<rom name="1.4(EN)[h 2022]\LNXCP14.COD" size="14221" crc="4651209b" md5="2ab1a0692b4f8964a60e05de65e7d84a" sha1="9ace9c6acc74644bb72d421e0322173b9660ff5c" />
+		<rom name="1.5(EN).tap" size="14221" crc="6e7ea5c3" md5="64f4d1ec288bbf008de5bd489059bed5" sha1="69f8fdb800dc1b5dff789df23dd477b0bfee5a3c" />
+		<rom name="1.5(EN)[h 2022]\LNXCP15.BAS" size="218" crc="f46c6b86" md5="5e9f0ce9237d3de526ebe571d30bc008" sha1="651569d54c414ede0933de697153745a07dd1f29" />
+		<rom name="1.5(EN)[h 2022]\LNXCP15.COD" size="14221" crc="9c51a4a7" md5="cc17278fc696f221267f937821e59a45" sha1="299d35bc261169314386c8b597124f362933e8de" />
+		<rom name="1.6(EN).tap" size="14221" crc="8156324a" md5="2b7cc36f5afbdb4ed3d17f6e25e3e74a" sha1="cb051f9a9c80064aeae558f5d97187fa10284c93" />
+		<rom name="1.6(EN)[h 2023]\LNXCP16.BAS" size="218" crc="1eeab6e4" md5="2cbe0b0e8122434ed708079c5520c5a7" sha1="643076dc877484c9449a3867085341ad26a81a2c" />
+		<rom name="1.6(EN)[h 2023]\LNXCP16.COD" size="14221" crc="61d60711" md5="59f47c60132ae39441882a7f3116bf4a" sha1="2a926622bebdcb8268345e34eddb9c5eaac56bd9" />
+		<rom name="1.6.1(EN).tap" size="14229" crc="44e8c2f1" md5="dab5030b797d40ff5c256795eef12f99" sha1="0d2da723853d521cceecc7d2c30f53a12c226f18" />
+		<rom name="1.6.1(EN)[h 2023]\LNXCP161.BAS" size="219" crc="ca47d02b" md5="8c6fa2c2cbccfc6ab7c6436cc0c6bc0c" sha1="2619922ddafa2b7673cb0b3399388326d6fa8a83" />
+		<rom name="1.6.1(EN)[h 2023]\LNXCP161.COD" size="14221" crc="311471f0" md5="2b88ee15bd1514d43038a575fa09ecc0" sha1="8efbefbfc6fed84e52178fa009b630b7882314e3" />
+		<rom name="1.7.3(EN).tap" size="14504" crc="4ef8d07e" md5="c00719914a2bc10fb653804e0c056c3c" sha1="a157579dbeb7bfafd751c84280f38ac4b1572dab" />
+		<rom name="1.7.3(EN)[h 2024]\LNXCP173.BAS" size="246" crc="311334d9" md5="bb83c4d189e80c4550235a2f5fe4f376" sha1="2106704e36ab5d5562dd01cfea02f237a17b9560" />
+		<rom name="1.7.3(EN)[h 2024]\LNXCP173.COD" size="14464" crc="d65e4e79" md5="d8310422e29076ebeb68e83152e170a8" sha1="40a1f4a60015cada39b115beda1ab0b16f69196a" />
+		<rom name="1.7.6(EN).tap" size="14720" crc="28fb91bd" md5="e69e714738644a1a9372672bf0d86bcd" sha1="fa3b2eb26e2745c64655c2a1a5e4a6926ebb23f9" />
+		<rom name="1.7.6(EN)[h 2025]\LNXCP176.BAS" size="246" crc="d5e9553e" md5="f551bfcbca0746e1bb398dfef19bb998" sha1="671342564652e2f6f548573dc6899cdac0492b66" />
+		<rom name="1.7.6(EN)[h 2025]\LNXCP176.COD" size="14720" crc="21e3155d" md5="d2a6adcb06a4257cd843ca079b6cf219" sha1="a3441da97186fbe25cfa2c88620016b280119a02" />
+		<rom name="2023(EN)\LNXCP161.BAS" size="219" crc="ca47d02b" md5="8c6fa2c2cbccfc6ab7c6436cc0c6bc0c" sha1="2619922ddafa2b7673cb0b3399388326d6fa8a83" />
+		<rom name="2023(EN)\LNXCP161.COD" size="14221" crc="311471f0" md5="2b88ee15bd1514d43038a575fa09ecc0" sha1="8efbefbfc6fed84e52178fa009b630b7882314e3" />
+	</machine>
+	<machine name="NSID Player (2020)(-)">
+		<description>NSID Player (2020)(-)</description>
+		<rom name="R0632(EN)(128K, TS, ATM, ATM2).zip" size="3706108" crc="3dfdaa52" md5="ef39c4289b867bbbaec8472feda50159" sha1="d032c2b6f6fd5c8c3c3fad53209a1d651b6c6c76" />
+	</machine>
+	<machine name="NSID Player Pro (2021)(-)">
+		<description>NSID Player Pro (2021)(-)</description>
+		<rom name="R0650(PD)\S650MB03.TRD" size="655360" crc="831cf602" md5="8fd9ca8cb1c1f8c63c7641ecb9c9009d" sha1="6e24c7c6ed54075ef8e2d85f24b16a36682c2716" />
+		<rom name="R0650(PD)\S650PEN2.TRD" size="655360" crc="3215b45e" md5="e86cf7651e5cd841f2abbf086bb93e09" sha1="4231ebe87d3914d6bf3e02ce36bfcfd2a6c27198" />
+		<rom name="R0650(PD)\S650PENT.TRD" size="655360" crc="ca5dbb09" md5="f06930a9c6fe4737ee86cee7dd0d80f8" sha1="7b06f60ed87b07037e7c27b37338fcb406e2476f" />
+	</machine>
+</datafile>

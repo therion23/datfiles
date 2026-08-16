@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Peters Plus Sprinter - Games</name>
+		<description>ZX-Art - Peters Plus Sprinter - Games</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="MERGED! (2022)(Dimon)">
+		<description>MERGED! (2022)(Dimon)</description>
+		<rom name="1.03(EN)(GS)(PD).trd" size="655360" crc="ec73b893" md5="5a19d052f115679998a915f790d846a1" sha1="087c5483c31a628bfc036d1af2021067f57d581f" />
+	</machine>
+</datafile>

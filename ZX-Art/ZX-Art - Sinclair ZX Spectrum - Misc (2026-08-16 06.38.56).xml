@@ -1,0 +1,1103 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair ZX Spectrum - Misc</name>
+		<description>ZX-Art - Sinclair ZX Spectrum - Misc</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="1K ZX Chess (1982)(Artic Computing Ltd)">
+		<description>1K ZX Chess (1982)(Artic Computing Ltd)</description>
+		<rom name="1K ZX Chess.p" size="941" crc="590d40ec" md5="4ab43cb0e609895a0928ea7b25e7e74a" sha1="6d6cb577211d0cfd1d9d0e1f85ea7bddbc0a3bf4" />
+	</machine>
+	<machine name="3D Mover (19xx)(-)">
+		<description>3D Mover (19xx)(-)</description>
+		<rom name="(EN).p" size="3963" crc="0c9c132d" md5="c04f05df5374f413849a022deefdf1f8" sha1="a712b26584f1e00b1adb5057623660999a471ec0" />
+	</machine>
+	<machine name="3D Space Ninja (19xx)(-)">
+		<description>3D Space Ninja (19xx)(-)</description>
+		<rom name="[a].dsk" size="195635" crc="54cb6540" md5="3b7126da6bfd8763b54813562d8cb049" sha1="d1ce594f362504125cac1c1cd8013d7325f3cba7" />
+	</machine>
+	<machine name="8-Bit Wars, The (2023)(Cronosoft)">
+		<description>8-Bit Wars, The (2023)(Cronosoft)</description>
+		<rom name="(EN).p" size="7907" crc="00b3aeae" md5="4fed3cdb1d84ffc744d37d03bb8f3dbd" sha1="5cf6fd1d1bb15b3e12f054e76afcc0e4dd07901b" />
+		<rom name="keyfix(EN)[h 2023 Dr BEEP].p" size="7907" crc="e562275e" md5="ed8cc3d69a5f673d1f84f8ea4e878b13" sha1="9d63c54aef0450cda41eb2e0119dc41bddedc26e" />
+	</machine>
+	<machine name="84 Caves, The (19xx)(-)">
+		<description>84 Caves, The (19xx)(-)</description>
+		<rom name="(EN).p" size="16045" crc="a09ca03b" md5="d24a1a226845a6b078658fb0caa0feeb" sha1="1357d8da5f7cc4df7ddc4f48408249bec7bdf025" />
+		<rom name="(EN)[a].p" size="16045" crc="a09ca03b" md5="d24a1a226845a6b078658fb0caa0feeb" sha1="1357d8da5f7cc4df7ddc4f48408249bec7bdf025" />
+		<rom name="Auto-run version(EN).p" size="16008" crc="45af5f31" md5="f52272c2b4a543d383a0c756ddc56c16" sha1="bed9996e36fec0f7642df23e85120ad0411872b0" />
+		<rom name="Auto-run version(EN)[a].p" size="16008" crc="45af5f31" md5="f52272c2b4a543d383a0c756ddc56c16" sha1="bed9996e36fec0f7642df23e85120ad0411872b0" />
+	</machine>
+	<machine name="Addictive Addition (19xx)(-)">
+		<description>Addictive Addition (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="2999" crc="417a6e56" md5="c0c7344b04d9efee097f7e00e91a0193" sha1="42c3d0612468e3c60eab8c093bb860328f61ffe7" />
+	</machine>
+	<machine name="Admiral Graf Spee (1982)(Temptation Software Ltd)">
+		<description>Admiral Graf Spee (1982)(Temptation Software Ltd)</description>
+		<rom name="(EN).tzx" size="17024" crc="edc644bd" md5="96706e0e5a1420d5778963bc8789cd5f" sha1="58c04e4420ab002c9bc79e6b938102d513f1070f" />
+	</machine>
+	<machine name="Alien (1982)(PSS)">
+		<description>Alien (1982)(PSS)</description>
+		<rom name="(EN).tzx" size="11943" crc="0fff629d" md5="bc07d37a36261d33241b81e1aec6b00c" sha1="31efe9ce7bbe46f0b5f89771cd47d46a878ce963" />
+	</machine>
+	<machine name="Alien Planet Underwater Research (2021)(Frederick352)">
+		<description>Alien Planet Underwater Research (2021)(Frederick352)</description>
+		<rom name="(EN).tap" size="18087" crc="598f5413" md5="a178213d78b639a85f5efd8e3721d650" sha1="9d4eac2b7d5753dfd3781e5108d3691b4004677d" />
+		<rom name="Version 2(EN).tap" size="22182" crc="164dadf1" md5="a44d9d31f40cd580aed472291c2fce0c" sha1="05fc73ce2e0d8ec85e0b819bdb0a2c0fd259a9ec" />
+	</machine>
+	<machine name="Alien Rain &amp; Outrider (1983)(CRL Group PLC)">
+		<description>Alien Rain &amp; Outrider (1983)(CRL Group PLC)</description>
+		<rom name="(EN).tzx" size="5592" crc="96ddbc9d" md5="01fdd0065e5880d1d9c8a9490eeefc15" sha1="63619e714816b077117d858cd04327bc86c4e024" />
+		<rom name="(EN)[a 1983 CRL Group PLC].tzx" size="5707" crc="d0ba5622" md5="ab282b0c8fbaca06b7788dcb1a53db85" sha1="8bef49ca3f324b4795827a16710ad7587faaecd5" />
+	</machine>
+	<machine name="Alley Cat (19xx)(Destr)">
+		<description>Alley Cat (19xx)(Destr)</description>
+		<rom name="[a Destr].sna" size="49179" crc="fc33b1b5" md5="618e6305897a1df73b1bb81e78d136b7" sha1="ae235a140a8a209a4d4b64047672275100dc0a74" />
+	</machine>
+	<machine name="Alphaprobe (19xx)(Artic Computing Ltd)">
+		<description>Alphaprobe (19xx)(Artic Computing Ltd)</description>
+		<rom name="(EN).tzx" size="11252" crc="635c8870" md5="ac70c7d65b4cc8e75f4d47ef78fefa9c" sha1="e2b9aa34b694fe99bbf7a0e817b868039890dc88" />
+	</machine>
+	<machine name="Analiser (1984)(MC-TV)">
+		<description>Analiser (1984)(MC-TV)</description>
+		<rom name="(NL).p" size="1133" crc="6e544e35" md5="7660381c6dd588c7095f6365ed85473a" sha1="75cbf4a29a3452e689b86e91897ec8f52e9da2d4" />
+	</machine>
+	<machine name="Andres y su Fusil de Aliespres (2023)(Paco Vespa)">
+		<description>Andres y su Fusil de Aliespres (2023)(Paco Vespa)</description>
+		<rom name="(ES).tap" size="11165" crc="1af73b25" md5="78dd6f611f12e8687435961076fab24b" sha1="676e469ffc50b55950764cdee7fb33f6f58aabb1" />
+	</machine>
+	<machine name="Andrew's (19xx)(-)">
+		<description>Andrew's (19xx)(-)</description>
+		<rom name="(EN).sna" size="49179" crc="580ea86e" md5="3ae756425ed0549ff02973379e26915f" sha1="edfc646ed1e6b982621c4ca14c3ff3c540d1451c" />
+	</machine>
+	<machine name="Aquamoose (19xx)(Climacus)">
+		<description>Aquamoose (19xx)(Climacus)</description>
+		<rom name="[a Climacus].z80" size="35834" crc="b16cb540" md5="fa24929fedb60ba792ededf488b4193e" sha1="3ee5f1c0f84a2e2050bac4a30e5145cd7d2f59df" />
+	</machine>
+	<machine name="Asteroids (1982)(Silversoft Ltd)">
+		<description>Asteroids (1982)(Silversoft Ltd)</description>
+		<rom name="(EN).p" size="3542" crc="7484ac13" md5="0a392517e1d78420e0a5b5aafefe0c39" sha1="27d633e47d4e5a6b1594b16103e6a7ea12b5d0a7" />
+		<rom name="(EN).tzx" size="3776" crc="939e50e5" md5="5f4836d37cb10b4bb5c7c71bb857409a" sha1="85047ab187bfcd02195f00150419cee1bfc07a5f" />
+	</machine>
+	<machine name="Asteroids (19xx)(Software Farm)">
+		<description>Asteroids (19xx)(Software Farm)</description>
+		<rom name="(EN).tzx" size="8207" crc="78680eff" md5="4c678b067b21c278479ad4c6bcb5ba32" sha1="6c57e6af3fef7f81e99aa1e8fc638844e0f91486" />
+	</machine>
+	<machine name="Atic Atac Next (2023)(9bitcolor)">
+		<description>Atic Atac Next (2023)(9bitcolor)</description>
+		<rom name="(EN)(KJ8b)\ATICATAC.CFG" size="195" crc="1c3347e6" md5="3afa3eacf3286a4f8a07bac72a901922" sha1="15e7a26082eae49dde3742a548e38e2ab1ee23ee" />
+		<rom name="(EN)(KJ8b)\ATICATAC.NEX" size="111673344" crc="7ddf0f15" md5="d0f9bd2b90329d8f229388d9ce2941f3" sha1="1edb27c30af0d97e265c9c11df8524d8525525ce" />
+		<rom name="(EN)(KJ8b)\ATICATAC.png" size="5311617" crc="bec0ac1c" md5="0de77b1303dc97064b13af5bffdec1f5" sha1="6d68a1e2bb3026117ed0e32368c2e97e2949f840" />
+	</machine>
+	<machine name="Ator The ABC Gator (19xx)(Timex Computer Corporation)">
+		<description>Ator The ABC Gator (19xx)(Timex Computer Corporation)</description>
+		<rom name="(EN)(File 1 of 2).p" size="16294" crc="6ef192c2" md5="d814fb7602db1cb3bb91dfa557945114" sha1="2726ff41e25984ac8784a96c11aaa2097625cdde" />
+		<rom name="(EN)(File 2 of 2).p" size="14216" crc="bc19fe6d" md5="01877fa8c4095fe92cb1566e9f109f50" sha1="f94f5ff726e915df1f68c3f42b1b59a976a427bb" />
+	</machine>
+	<machine name="Avenger (1982)(Abacus Programs)">
+		<description>Avenger (1982)(Abacus Programs)</description>
+		<rom name="Avenger.p" size="7184" crc="05157ecf" md5="10a6ed4a247a3bc615ab16f156ccda74" sha1="42af4018be25b06b12ecce794eae8c386492f8f0" />
+	</machine>
+	<machine name="Battle of Broken Bridge, The (1984)(5D Software)">
+		<description>Battle of Broken Bridge, The (1984)(5D Software)</description>
+		<rom name="(Paintcraze!   The Battle of Broken Bridge   Icarus Igginbotham)(EN).tzx" size="15228" crc="24605256" md5="717fadb26f2bf8075f1efbf064422393" sha1="f0f14ee6af91e9c09b1293eaaf7a9ec44a962666" />
+	</machine>
+	<machine name="Battleships (1982)(JRS Software Ltd)">
+		<description>Battleships (1982)(JRS Software Ltd)</description>
+		<rom name="(EN).tzx" size="12944" crc="37f693fb" md5="892b2a9522b2b47eb85f2c880435a2d0" sha1="1a0df19df7562be4cdb36f92d066af2fc32d01b8" />
+	</machine>
+	<machine name="Belagerung (19xx)(-)">
+		<description>Belagerung (19xx)(-)</description>
+		<rom name="(DE).tap" size="6470" crc="6d19ba99" md5="3a6695832f816a95919b848c78dd0362" sha1="107d922b27d4e8c0faccb8922f9faf38e6f71057" />
+	</machine>
+	<machine name="Big Program, A (19xx)(-)">
+		<description>Big Program, A (19xx)(-)</description>
+		<rom name="(EN).p" size="1288" crc="a928ec34" md5="ac5a54c911ae0f790fbf5bc0de76eedb" sha1="39be51bb617540c9c31f3c13b0eec0a015e54ecd" />
+	</machine>
+	<machine name="Biorhythumus (19xx)(-)">
+		<description>Biorhythumus (19xx)(-)</description>
+		<rom name="(NL).p" size="3014" crc="d3c4a090" md5="cac390efc6c7a524989d2ff2a26cbf2e" sha1="d44bb5b936f84af2165002b15df8aedafead85c2" />
+	</machine>
+	<machine name="Biorythme (19xx)(-)">
+		<description>Biorythme (19xx)(-)</description>
+		<rom name="(NL).p" size="8296" crc="f96d7445" md5="5c8956a026f0582359634922c7ceb0ea" sha1="740a2c60f15113ce6daecbcf2f6b7c6450535261" />
+	</machine>
+	<machine name="Black Crystal (1982)(Carnell Software Ltd)">
+		<description>Black Crystal (1982)(Carnell Software Ltd)</description>
+		<rom name="(File 1 of 8).p" size="15732" crc="5d52cd30" md5="4923b9d984907a6712d714ef80c9351f" sha1="fafed249bd44d1ae8c0416f7b79d619cf320947d" />
+		<rom name="(File 2 of 8).p" size="16158" crc="19e6be9d" md5="3a7992f1081cd7a0afa7f00f592999f8" sha1="0398487e650e38b2ad7ffb9ab45ceb63c5b306d3" />
+		<rom name="(File 3 of 8).p" size="16209" crc="8988a4f1" md5="aa87892688ce216c3a0ba69c3b0b6efa" sha1="f8017f3fbadc675c3dde488685b1fb19e5373181" />
+		<rom name="(File 4 of 8).p" size="16206" crc="472dd5f3" md5="2a7fe31142102a5ec5101d79dfcc5420" sha1="619f45a37005c9e3450fa15e095c70f61108da18" />
+		<rom name="(File 5 of 8).p" size="16223" crc="3aff901a" md5="50f2e96b8c7a47a22a726636e09fabc3" sha1="d1c57705e39c13f335a7b1fcbf6e17efda4f77a1" />
+		<rom name="(File 6 of 8).p" size="16244" crc="761ea690" md5="5123d1afab539353ff0c8182bd53b236" sha1="302fc4e75a6d68d76ebe6cd71d76fb40256e6957" />
+		<rom name="(File 7 of 8).p" size="1017" crc="474b9e02" md5="91b338c154c91aab15de35672106d92c" sha1="4ed9aa3d8c680546c455bf45fc7c0a477e0e20f6" />
+		<rom name="(File 8 of 8).p" size="16197" crc="33b33992" md5="d396a10836139a7af745fa66b2887cc7" sha1="3d1ea6225295a88b8f1ba7173b53eb7a85768568" />
+	</machine>
+	<machine name="Boom (2019)(Biland)">
+		<description>Boom (2019)(Biland)</description>
+		<rom name="Boom.trd" size="655360" crc="9b94461d" md5="b84f9a993ddcb994f168ef5d766ed6c1" sha1="625cea7a8247d23b421157631c9ad037cf4bf42b" />
+	</machine>
+	<machine name="BoxODLites (19xx)(-)">
+		<description>BoxODLites (19xx)(-)</description>
+		<rom name="(EN).sna" size="49179" crc="3cafaa3a" md5="c6fa96c4b70856fca04b21eaf96a441a" sha1="216c5305defa81c4782dc3e3fab78f93cded1ddf" />
+	</machine>
+	<machine name="Breakhouse (19xx)(-)">
+		<description>Breakhouse (19xx)(-)</description>
+		<rom name="(EN).tap" size="18339" crc="ef2a39b7" md5="6f691269d4928ba9a6a318a9abb8da59" sha1="4f5f9e915ef2272739bc0718ed566e5f0a8db4c9" />
+	</machine>
+	<machine name="Buzo, El (19xx)(-)">
+		<description>Buzo, El (19xx)(-)</description>
+		<rom name="(ES).tzx" size="3458" crc="0096b426" md5="4c9021949033e3df786a5092136ce23f" sha1="8f9f67f0754308994262ab2c917a9cd375eca268" />
+	</machine>
+	<machine name="Campo de Forcas (19xx)(-)">
+		<description>Campo de Forcas (19xx)(-)</description>
+		<rom name="(PT).tap" size="2499" crc="d3de63fd" md5="3a1ec2ec1d0ec73f483439c9a9ae3675" sha1="3cc1fe828f83131801d0c3471f81b6e2f75d795a" />
+		<rom name="(PT).z80" size="3821" crc="6a11b7e3" md5="52995a7f136a05a1389f9bb4e3b57d42" sha1="3d3261abd8bc79d82341a2265dc68dfe7806a036" />
+	</machine>
+	<machine name="Cassini's Division (1989)(Eclipse)">
+		<description>Cassini's Division (1989)(Eclipse)</description>
+		<rom name="(EN).tap" size="13099" crc="e9ff5576" md5="a95eac4612b54cbe683b47494fbd967a" sha1="ff13613a4fa9cdf0604dd99390a8bf3e7cb53812" />
+		<rom name="(EN).tzx" size="13133" crc="b093cab5" md5="5e57bf1ccad0b372fccb28654e2efd7a" sha1="2d11992bd44424673c7f8a8b7de2205b12ad29d6" />
+	</machine>
+	<machine name="Ceviche Chef (2023)(-)">
+		<description>Ceviche Chef (2023)(-)</description>
+		<rom name="(EN).z80" size="11724" crc="b175b18d" md5="a39c3b48480b77f8b5a0fe7339859c83" sha1="8c2c11b3b62938bbc7168261d87c57789ac51b91" />
+	</machine>
+	<machine name="Challenge (19xx)(ICL)">
+		<description>Challenge (19xx)(ICL)</description>
+		<rom name="(FR)[a Direco International].tzx" size="1019" crc="7060293c" md5="a9c8f0024d952194de0f65d73d3f49ec" sha1="9c565ea742d0803682fafeced24fdaa258e38212" />
+	</machine>
+	<machine name="Chars (19xx)(-)">
+		<description>Chars (19xx)(-)</description>
+		<rom name="(Joystick issue 8702)(EN).tap" size="11975" crc="dfb48abf" md5="869536f9ab53d218fa641a9ee64e5022" sha1="0d1e57596e5fd1b4210eb6db08dc129fde756bb4" />
+	</machine>
+	<machine name="Christmas Magazine Hunt (19xx)(-)">
+		<description>Christmas Magazine Hunt (19xx)(-)</description>
+		<rom name="(EN).tap" size="39515" crc="3326bc25" md5="db0a34c1e67560b10d38baf72bb4db09" sha1="2e6071b6c53693b02ce9549696a12ccc1fcde0a5" />
+	</machine>
+	<machine name="Christmaze (19xx)(-)">
+		<description>Christmaze (19xx)(-)</description>
+		<rom name="(EN).tap" size="32692" crc="3bc84a53" md5="5736d9f2c76312312a5003d5059e338f" sha1="2c1987a59abe7e3d18aa443852c68b3d30bddecd" />
+	</machine>
+	<machine name="Chunky Graphics Compressor (19xx)(-)">
+		<description>Chunky Graphics Compressor (19xx)(-)</description>
+		<rom name="v1.5(EN).tap" size="4774" crc="9bd0c36b" md5="8872d812c60ae7387785802563565fda" sha1="609cbc45b9b1664844f61f999afea33358daae17" />
+	</machine>
+	<machine name="Cicibanova Abeceda (1984)(ZOTKS)">
+		<description>Cicibanova Abeceda (1984)(ZOTKS)</description>
+		<rom name="(SL).tap" size="49513" crc="14fd5305" md5="dea3da291513a80ada6ead89ea8cd88a" sha1="cecccadd3fd7b0e683103600dfd0bd80e80de15d" />
+		<rom name="(SL)[h MiS Studio].scl" size="25627" crc="99b4725f" md5="86328ed4b3cbafe532be744f2625c837" sha1="3618f447d71e08ecb90538bdf872790207add960" />
+	</machine>
+	<machine name="City of Xon (1982)(Pleasantrees)">
+		<description>City of Xon (1982)(Pleasantrees)</description>
+		<rom name="(EN).p" size="15507" crc="e853667c" md5="82a04afaf98222545389663888140b7b" sha1="2111223fd0cab96c1aca585430336e60d501017f" />
+		<rom name="(PT)[a Plansoft].p" size="7513" crc="3749343c" md5="8b093b797c97674451d9a6d8e01ad59c" sha1="214eebb4fd8207d9cac2b5478ce1e7f36542fd57" />
+		<rom name="(PT)[a2 Plansoft].p" size="15402" crc="9f1bfc41" md5="f5645fbf45b7b40b6989d57d91956086" sha1="f2bd52dcb5bc21a9023c149c459802e444b87d13" />
+	</machine>
+	<machine name="Clerky (1984)(Unique Computer Services)">
+		<description>Clerky (1984)(Unique Computer Services)</description>
+		<rom name="(EN)(Tape 1 of 2, Side 1).tzx" size="42615" crc="8e5d651e" md5="8c3c7cecf33957a978c09b717a2eb470" sha1="97e19a435b96983abfd30f24e428c0a617eb4f0c" />
+		<rom name="(EN)(Tape 2 of 2, Side 2).tzx" size="42615" crc="6d022cf4" md5="3a9775c3ade968de95b55e5898b7b9c0" sha1="36b12bc2c136297067376aa18c84cdd4575d5675" />
+		<rom name="(EN).tap" size="42238" crc="086255b2" md5="24cdbed3c10fb3a6f19f0e0e6e4f7cce" sha1="ee613f9d3af4f3672de6ef4b0b5c15a61a093009" />
+	</machine>
+	<machine name="Col. Llamas (1985)(VideoSpectrum)">
+		<description>Col. Llamas (1985)(VideoSpectrum)</description>
+		<rom name="(VideoSpectrum issue 12)(ES).tzx" size="3666" crc="c779bd20" md5="206e2a9e7515b4833ac2c9f2dd59e2bf" sha1="3ba1137f6447c275d97804dda4ec5a73ef5e2ef8" />
+	</machine>
+	<machine name="Compte Bancaire (1984)(No Man's Land)">
+		<description>Compte Bancaire (1984)(No Man's Land)</description>
+		<rom name="Side A(FR).tzx" size="1377" crc="7fe8ac6c" md5="52241d68cd5a1aa9799009fd174f98b5" sha1="d44b440bdb5c395f07c7d487d9717bd0ad414d23" />
+		<rom name="Side B(FR).tzx" size="15843" crc="39330899" md5="3a727ceb6bd56c6a9dc4eb81272b8152" sha1="10aca3b67bf9547ff68f8b1d730aa86b507db886" />
+	</machine>
+	<machine name="Computer Term Glossary (19xx)(-)">
+		<description>Computer Term Glossary (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="8139" crc="2a979b99" md5="0dad702f883c71e927490703aff003c8" sha1="d668f5c8b39bc1e8f2a9d2442b8c4d092ecc8525" />
+	</machine>
+	<machine name="Concurso (19xx)(-)">
+		<description>Concurso (19xx)(-)</description>
+		<rom name="(Enter Spectrum issue 04)(ES).tzx" size="2811" crc="0a7d7719" md5="0458345e918e39d808337327f9f68895" sha1="cb4c09de6801c15b2f82b9919334cd2cdfd5316b" />
+	</machine>
+	<machine name="Cosmic Guerilla (1983)(Quicksilva Ltd)">
+		<description>Cosmic Guerilla (1983)(Quicksilva Ltd)</description>
+		<rom name="(EN).tzx" size="7543" crc="53bf2b99" md5="ddbaa86739d8ab16785e4d17857eb0a7" sha1="a2a9fa7511c826e610dedad5a2073c210c7ce2ec" />
+	</machine>
+	<machine name="Counter Attack (19xx)(Woodside Software)">
+		<description>Counter Attack (19xx)(Woodside Software)</description>
+		<rom name="(EN).tzx" size="7219" crc="df9f6b30" md5="ef40e9d03a3e6d8c63f1f543c5ab4ce8" sha1="03825f4bfd2ae20faaddb4b11e6f526bb113bb13" />
+	</machine>
+	<machine name="Creepy Crawley (1985)(C&amp;VG)">
+		<description>Creepy Crawley (1985)(C&amp;VG)</description>
+		<rom name="(EN).tap" size="6649" crc="74b26470" md5="900d1bf326bd65117f72ad4f68373c5b" sha1="29411af9025c7e16bdc970d14c51a181d77e83b1" />
+	</machine>
+	<machine name="Cronopios y Famas (2013)(Alessandro Grussu)">
+		<description>Cronopios y Famas (2013)(Alessandro Grussu)</description>
+		<rom name="(DE).tap" size="28761" crc="57e13c21" md5="0d880e1e194cf88152e5adb824974e03" sha1="0a50f14fb632c43ddff6df2f438835f8525a21c9" />
+		<rom name="(DE, EN, ES, FR, IT, PT)[h 2013 Slider].scl" size="45865" crc="762ecb33" md5="5695d71d823d3d4421784058fcda02de" sha1="6da5c49265bf93f6e14c201e08c7df22f80fed83" />
+		<rom name="(DE, EN, ES, FR, IT, PT)[h 2021 Slider].scl" size="52535" crc="b1d306d0" md5="b9703f0497e815ec7bb1cf04f2edfac7" sha1="465d85e3e40a143fa3362e75f147ba857735b189" />
+		<rom name="(EN)(128K).tap" size="42169" crc="c64db30e" md5="b9e282a0b7f0f04474605ce19d62d33c" sha1="3fb6beee588a8ebaaa882284b8644e49aa501997" />
+		<rom name="(EN).tap" size="28678" crc="d8d0400c" md5="b826041a9ae3a92bc36c736fdf90dbd5" sha1="837c237f079ed594926328ff00b5e8705dd6ff7e" />
+		<rom name="(ES)(128K).tap" size="42169" crc="306e3003" md5="ecb24a45b54c121144f6f1632ba13bef" sha1="7a9f491a6bd5339d63ba41eb322b41b72eacb880" />
+		<rom name="(ES).tap" size="28720" crc="f17b6006" md5="30f59dcfe5f901b59c9100fbb7e35de2" sha1="fa575a92eb93801cbd4fb8d2c301b6a4971f7571" />
+		<rom name="(FR)(128K).tap" size="42169" crc="61fb2ea9" md5="5e927337aecdfa1fc0b7ef1ff18a6d0f" sha1="269eccc3aa83e370d95ff2575ac228856e8130a7" />
+		<rom name="(FR).tap" size="28747" crc="843b56e1" md5="1d725bec06c4a19033368816a10aed96" sha1="16ccba3a30cce74012f650fe58c04771a962db7d" />
+		<rom name="(IT)(128K).tap" size="42169" crc="a28f595b" md5="d9f45787ace07af77bf18ec77c351ac8" sha1="d5a580c4571aac1694881b3c10ebaa8b5910a417" />
+		<rom name="(IT).tap" size="28678" crc="c887483c" md5="1b1f352948ccb7cfb56c397062162fa1" sha1="0d83e8059e2ccebfa1db32d0d860930a47f7b67f" />
+		<rom name="(PT)(128K).tap" size="42169" crc="11902f8d" md5="a2c34b3a995b156f8c23880acae42aa8" sha1="8bc163b52fca0cb63eeb707a0c938345dc8f7601" />
+		<rom name="(PT).tap" size="28711" crc="dee8fcea" md5="96f8f6e0ab9e55cd1223ea5ee2ea76be" sha1="e808063fc32edd6c8432ee149b71be0e1dd09beb" />
+	</machine>
+	<machine name="Cross Horde (2021)(Fabrizio Caruso)">
+		<description>Cross Horde (2021)(Fabrizio Caruso)</description>
+		<rom name="(EN).tap" size="14273" crc="a6e5bf48" md5="b53f451db3c7a5e596970602313c5f23" sha1="fe92c93344edc64c00530c2d0ecf34ad54c5e85d" />
+	</machine>
+	<machine name="Crossfire (1983)(Timex Computer Corporation)">
+		<description>Crossfire (1983)(Timex Computer Corporation)</description>
+		<rom name="(EN).tzx" size="5196" crc="2f5e8947" md5="be26214adb72955fea55ff2cf7fc0e74" sha1="e2317f08998e643e4247dc8414e2aee46d15ef7c" />
+	</machine>
+	<machine name="CVC (19xx)(-)">
+		<description>CVC (19xx)(-)</description>
+		<rom name="(Enter Spectrum issue 04)(ES).tzx" size="4378" crc="04bf6eb8" md5="88ce580bdcfcf1a21341f684efa0fe5c" sha1="da74edcced8e6e43d6e6aab88bdbc306e12b8a55" />
+	</machine>
+	<machine name="Czarny sport (2014)(Jerzy Skrzypczak)">
+		<description>Czarny sport (2014)(Jerzy Skrzypczak)</description>
+		<rom name="(PL).tap" size="12151" crc="6f8c98d5" md5="51a67148578272449cb4d1bfa619006c" sha1="7356324411e7b273327c8dff0ecb7562f61f416f" />
+	</machine>
+	<machine name="Day-Night (19xx)(Climacus)">
+		<description>Day-Night (19xx)(Climacus)</description>
+		<rom name="[a Climacus].z80" size="31081" crc="715bf586" md5="badd4e4c958c7d2fbcab6250e70ec636" sha1="c1a8a28be28d2cd86be017f6d5eb4914ce16a81e" />
+	</machine>
+	<machine name="DEMO (19xx)(-)">
+		<description>DEMO (19xx)(-)</description>
+		<rom name="DEMO.p" size="8536" crc="fee6820f" md5="d715f814fc7e24b6e62774fd254a2cf4" sha1="3c2bbede1aa1e682ddaa2dad6927dbd71f79ee77" />
+	</machine>
+	<machine name="Dice, The (19xx)(-)">
+		<description>Dice, The (19xx)(-)</description>
+		<rom name="Dice, The.p" size="282" crc="4b3bb0d8" md5="df03aba350d47276666377e8bfebaa20" sha1="58545c301c09ba38cd1fdde8a660cb85f59449be" />
+	</machine>
+	<machine name="Dick (19xx)(Ian Commander)">
+		<description>Dick (19xx)(Ian Commander)</description>
+		<rom name="(RU).trd" size="18688" crc="bc1368f2" md5="1e58a4708d20f1badf4db90ec5208f00" sha1="0686bb0fd45738d4aab4fa1b8e952541765b7b0f" />
+	</machine>
+	<machine name="Do Not Pass Go (19xx)(Work Force)">
+		<description>Do Not Pass Go (19xx)(Work Force)</description>
+		<rom name="Do Not Pass Go.tzx" size="28046" crc="e8bb4bba" md5="b9da12446c8c0999538e17f2f4968fec" sha1="8083917b1cab629cdf2ed0fb1393f842a01d258a" />
+	</machine>
+	<machine name="Dolina Smerti. Khozhdenie po Trupam (2002)(Green Bit Group)">
+		<description>Dolina Smerti. Khozhdenie po Trupam (2002)(Green Bit Group)</description>
+		<rom name="(demo)(EN)[a2].scl" size="19753" crc="7d14aaa9" md5="d88f2940fde064bf3a6ac89e0010f039" sha1="bbdcb5138a29a43670aa072f67e34c0d6086bf00" />
+		<rom name="(demo)(EN)[a].scl" size="54043" crc="ef247e0a" md5="b926834c0e18dadcbe3f4bf39b748204" sha1="5cef0522e4ef84033c3b0a0bec71f2139b9f39f1" />
+		<rom name="(EN)[a 2003 Green Bit Group].trd" size="58368" crc="573c3649" md5="b3340632c06a49c1e969bb2fb2c09952" sha1="e265d56dd40821abbac4822596adf577038fbb7a" />
+	</machine>
+	<machine name="Doodle (19xx)(ICL)">
+		<description>Doodle (19xx)(ICL)</description>
+		<rom name="(EN).p" size="561" crc="586f170f" md5="5355eabd8e2b587d9aa10d893623ded0" sha1="ad710ffc63878f2254e377ba965698b0ded3a704" />
+	</machine>
+	<machine name="Draft (1983)(-)">
+		<description>Draft (1983)(-)</description>
+		<rom name="(EN).p" size="10331" crc="a02b6e03" md5="4a4f4c37812d73c6e171cf7a2f8dc85d" sha1="0d1ebf74638a4375637589c8925dd5e38a77f8a1" />
+	</machine>
+	<machine name="Drugsy (19xx)(-)">
+		<description>Drugsy (19xx)(-)</description>
+		<rom name="(EN).tap" size="9582" crc="343eaeef" md5="213f947280bfd231a8b0b04e4ec1dc95" sha1="83d489d5d9e33e6b0e6fe6894935667291a2fa26" />
+	</machine>
+	<machine name="Duel Cabbageway (1983)(Interface Publications Ltd)">
+		<description>Duel Cabbageway (1983)(Interface Publications Ltd)</description>
+		<rom name="(EN).tap" size="1849" crc="fa0360ba" md5="a2783675b45cde646d897314f465ed9f" sha1="eb24b38a866c39f486daf5c0403543f58efb1689" />
+	</machine>
+	<machine name="Editor (19xx)(-)">
+		<description>Editor (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="1916" crc="6978809c" md5="24baecceb2d5b48478107128d033541b" sha1="503d341d4b42282635bce8f0f1785be77ec39686" />
+	</machine>
+	<machine name="EEUWKALE (19xx)(-)">
+		<description>EEUWKALE (19xx)(-)</description>
+		<rom name="EEUWKALE.p" size="1779" crc="f2de048e" md5="eea3d3e407274dce93fbb70e65e94975" sha1="b3c8aec37e09b026aa16e2f35f39b10a8374de7b" />
+	</machine>
+	<machine name="Elite Planet Browser (2019)(RobertK)">
+		<description>Elite Planet Browser (2019)(RobertK)</description>
+		<rom name="(EN).p" size="12746" crc="7ce1bdbf" md5="2cfa81522cf010478e5e5038b2847b2d" sha1="5aabeafee2bc29e4e5afda607ebd4d813bbc06b6" />
+		<rom name="(EN).tap" size="14457" crc="fe195b14" md5="f62c7f45ec857dc8986a68c53b487bce" sha1="06bf46e413ddf8eaf60df27090dbf0667d2f2853" />
+	</machine>
+	<machine name="Elite Planet Browser (2025)(RobertK)">
+		<description>Elite Planet Browser (2025)(RobertK)</description>
+		<rom name="(EN).mgt" size="819200" crc="9a754b72" md5="53b6a2364d3ecbbf284c4809c6f0cdd3" sha1="c107789fa1e752b8da48267b04f45e8013ae237a" />
+	</machine>
+	<machine name="ELRA-TEL (19xx)(-)">
+		<description>ELRA-TEL (19xx)(-)</description>
+		<rom name="ELRA-TEL.p" size="1408" crc="28cbdf8a" md5="26cda65a3aaba3159d659cf2ff8ef04d" sha1="cd3e0296e6ccaa32f205addcd979026134397c59" />
+	</machine>
+	<machine name="EN (1982)(Pixel Productions)">
+		<description>EN (1982)(Pixel Productions)</description>
+		<rom name="(EN).p" size="15852" crc="7606c499" md5="5bf7e8c6f86843ca28521baa7b8adfd1" sha1="1300fad3432fc84873d5545e13798ee1320e3766" />
+	</machine>
+	<machine name="English Literature 1 (1982)(WH Smith)">
+		<description>English Literature 1 (1982)(WH Smith)</description>
+		<rom name="Side A(EN)[a 1982 Sinclair Research Ltd].tzx" size="11341" crc="4db36e18" md5="04cc9a1884acbf008ce6e376ae9fa7f0" sha1="aef86fbc1f569306893b0cbd3cbb791b4853c361" />
+		<rom name="Side B(EN)[a 1982 Sinclair Research Ltd].tzx" size="11360" crc="1b501b9b" md5="dfe166337d20aa18973ce805b7eefa49" sha1="a6a82ec3f970b7f7863d55a2c0c29ffb17eefbd4" />
+	</machine>
+	<machine name="Escalada (1985)(VideoSpectrum)">
+		<description>Escalada (1985)(VideoSpectrum)</description>
+		<rom name="(VideoSpectrum issue 09)(ES).tzx" size="5284" crc="163a0cd2" md5="9c2d2ee5004d37ec651bf91c7ed782a1" sha1="5975bfd04c21a8e850270e6e9e72e1a7a614d9b6" />
+	</machine>
+	<machine name="Escher Boys (19xx)(-)">
+		<description>Escher Boys (19xx)(-)</description>
+		<rom name="(NL).p" size="12558" crc="58c7b78d" md5="f704b0886f8595105c8cb93cec679fda" sha1="05a2337947aa760eddd8b95b18151e35082926ea" />
+	</machine>
+	<machine name="Extended BASIC (19xx)(Level 3)">
+		<description>Extended BASIC (19xx)(Level 3)</description>
+		<rom name="Extended BASIC.p" size="6768" crc="7707fbd0" md5="bce2528136324632b206ac91ae90c4da" sha1="0e32a82bc6af899e9d248636492ef3cb83e99706" />
+	</machine>
+	<machine name="Fantasy Games (1981)(Psion Software Ltd)">
+		<description>Fantasy Games (1981)(Psion Software Ltd)</description>
+		<rom name="Perilious Swamp(FR).p" size="10487" crc="eeb73ca2" md5="347b4015175e3f7362c220020e2b8d1c" sha1="8f6b003b96e634e5c94a0a7b6f00eff82d2670ae" />
+		<rom name="Sorcerer&amp;#039;s Island(FR).p" size="15841" crc="8e3df660" md5="799724ac7e1b72a9235073f32c854c87" sha1="747b9afb0f23e1eb2d37645867cc1962209540c9" />
+	</machine>
+	<machine name="Fast Load Save (1982)(Musamy Software)">
+		<description>Fast Load Save (1982)(Musamy Software)</description>
+		<rom name="(EN).p" size="1296" crc="c92ca6fd" md5="9bf52c5505ae6bb96d293b58cb433379" sha1="c4bf48a0690c5ddf3d1263041a5b893b91c936f3" />
+		<rom name="(EN)[a 1982 Musamy Software].p" size="1296" crc="aaee1f42" md5="f6fa5d4fe44f5840e8ea7f9af60427b7" sha1="0ac5d064ddacf95ad8a253bf6cc23361d9725924" />
+		<rom name="(EN)[a2 1982 Musamy Software].p" size="1296" crc="ad08f7a8" md5="1efe64a462047362ddbcdedc0fbe73e2" sha1="d6e7e2095d6e85bc0174a67805ef17c17b0a9ff0" />
+		<rom name="(EN)[a3 1982 Musamy Software].p" size="2135" crc="d6436f0f" md5="88877f999f22588d79f9a0918b954120" sha1="1d58120f98accdb71be3185cbed0f54f2387583b" />
+		<rom name="(EN)[a4 1982 Musamy Software].p" size="4285" crc="3b4ad87c" md5="3054163fbeea5c63476b52c7f3d8ba91" sha1="ab83cad319f60f453cf3fdf9ea7d8b78c08592ee" />
+	</machine>
+	<machine name="Festive UDGs (2024)(Stonechat Productions)">
+		<description>Festive UDGs (2024)(Stonechat Productions)</description>
+		<rom name="(EN).tap" size="18235" crc="55d07213" md5="1347031f9e2f9f44197e3aa4c77a904b" sha1="ff728e0c0b2d50236dfe47ee9f8f7607408267b0" />
+	</machine>
+	<machine name="Fireman Sam (1992)(Alternative Software Ltd)">
+		<description>Fireman Sam (1992)(Alternative Software Ltd)</description>
+		<rom name="(EN)(Tape 1 of 2, Side 1).tzx" size="48508" crc="81c8764c" md5="4f0c905c6cefa573e7705de0f0735d4f" sha1="b59abccc1c822ad327cd14dd72ca7a3def3f3f4f" />
+		<rom name="(EN)(Tape 2 of 2, Side 2).tzx" size="39589" crc="b25d8709" md5="3cde4bb621c4edad52ddf712b75dc4eb" sha1="99a36b958b6a83fa6907765d04670f631b1026a5" />
+		<rom name="(EN).slt" size="70628" crc="7b7b72fb" md5="fe77ee568e913d42771252432ae2e5a2" sha1="a871ff0557085985dc64a852a82b2f6c1046e99f" />
+		<rom name="(EN).tap" size="87975" crc="b813c820" md5="00175a847b12b9113a62b5bf23c8ec47" sha1="cdfbdaa55c3c79ea4484ff1bf3c4c5e94267dea8" />
+		<rom name="(EN)[a 1992 Alternative Software Ltd].slt" size="70628" crc="7b7b72fb" md5="fe77ee568e913d42771252432ae2e5a2" sha1="a871ff0557085985dc64a852a82b2f6c1046e99f" />
+		<rom name="(EN)[a2 1992 Alternative Software Ltd].slt" size="70628" crc="7b7b72fb" md5="fe77ee568e913d42771252432ae2e5a2" sha1="a871ff0557085985dc64a852a82b2f6c1046e99f" />
+		<rom name="(EN)[h 1998 Flash].scl" size="44571" crc="aee90133" md5="d1ae907c62d1a86b603fa25b83664540" sha1="a842f43f07f969357684bb5cc38e43cac40081cf" />
+		<rom name="(EN)[h Fatality].scl" size="41499" crc="6d78a067" md5="49f8428f9ab2a5d43fb34da88faf5e4c" sha1="3fa81efc5491cfd4582642469ead7e2d1332081e" />
+	</machine>
+	<machine name="Fruit (19xx)(-)">
+		<description>Fruit (19xx)(-)</description>
+		<rom name="(EN).sna" size="49179" crc="693c7ea8" md5="51286c833279cdec750bcc803f06939a" sha1="1026182be98cd166be27da11120338053fffdca7" />
+	</machine>
+	<machine name="G.C.E. O Level French Revision (1982)(Rose Cassettes)">
+		<description>G.C.E. O Level French Revision (1982)(Rose Cassettes)</description>
+		<rom name="(EN).tzx" size="40274" crc="8801dc85" md5="946968ecd69300a43cef3feead644c25" sha1="64d6ace0fdd1fb60f4f05fb68c9a2fc6b5bba525" />
+		<rom name="(EN)[a 1982 Rose Cassettes].tzx" size="35402" crc="fa437d9e" md5="3e2050989533771e360214b7a881a109" sha1="396b439843aede39ad9aaecb7edf177f6bb7082b" />
+	</machine>
+	<machine name="Galactic Attack in Stereo 3D (1984)(Olaf Hartwig)">
+		<description>Galactic Attack in Stereo 3D (1984)(Olaf Hartwig)</description>
+		<rom name="(DE).tap" size="6198" crc="84597787" md5="ccd96b902b1912ae9e462f9fa994e33c" sha1="de82c3c6c2e77ad28d02c1d1b9449a31e0344f5d" />
+	</machine>
+	<machine name="Galius (19xx)(Climacus)">
+		<description>Galius (19xx)(Climacus)</description>
+		<rom name="[a Climacus].z80" size="27493" crc="73cb7069" md5="0a48632f9a7bb8d6a2f809d435b066fc" sha1="94f94ee531e041f9c72e5b3106c5a3d09ffaed7a" />
+	</machine>
+	<machine name="Game 2 (19xx)(-)">
+		<description>Game 2 (19xx)(-)</description>
+		<rom name="(NL).p" size="6720" crc="eeb941a0" md5="22e77afe203395fdf333ac9f87a30262" sha1="90750dae5662709a228df0d641ceff3ef728e1dc" />
+	</machine>
+	<machine name="Game 6 (19xx)(-)">
+		<description>Game 6 (19xx)(-)</description>
+		<rom name="(NL).p" size="1700" crc="c25e00e7" md5="87911742442565d097ac1e858b5c5c95" sha1="30d03d509251d36e50899f15feffb878cc1be92d" />
+	</machine>
+	<machine name="Games 1 (1981)(Sinclair Research Ltd)">
+		<description>Games 1 (1981)(Sinclair Research Ltd)</description>
+		<rom name="(EN).p" size="837" crc="c4968f90" md5="1d62fad9cb6f72d99b7e61851710b496" sha1="8964d172603762a48d142f2b450aa99ddedfb540" />
+		<rom name="(EN)[a 1981 Sinclair Research Ltd].p" size="630" crc="521a7508" md5="b5e6cb575cb73f9f3ea1edafac8e03cd" sha1="24a36b358fcb748a18a5b8a2d6e4738fda13bb7b" />
+		<rom name="(EN)[a2 1981 Sinclair Research Ltd].p" size="699" crc="1bceb0b7" md5="e8e25a92f9481ea95a35e874f50c3ab1" sha1="8d6a467dc55a26d88b2141730187d835f51e29b1" />
+		<rom name="(EN)[a3 1981 Sinclair Research Ltd].p" size="763" crc="e083f733" md5="c50a6f023ee820d6578e8cceb09f4e21" sha1="5b925c4043b3859c9137763c4a0a3698a749185c" />
+		<rom name="(EN)[a4 1981 Sinclair Research Ltd].p" size="784" crc="947a99fd" md5="65d9cd803ef7fd8fb755d0ea0d391537" sha1="c7b4f03194328a70219248c19d06a43ee9ae8319" />
+		<rom name="(EN)[a5 1981 Sinclair Research Ltd].p" size="807" crc="2db0a3e3" md5="dc47582b78a9a92ecbf357867954c57d" sha1="8ba278c5072e41e9176b4c7f82a4a707fb3a6fde" />
+	</machine>
+	<machine name="Giant Spiders (19xx)(-)">
+		<description>Giant Spiders (19xx)(-)</description>
+		<rom name="(EN).tap" size="2150" crc="93194845" md5="9b21ffa149c84f92d6bea4bdbfd37372" sha1="e3f63124758f2707a8679f10a325eebf12264ef6" />
+	</machine>
+	<machine name="GM Test (19xx)(-)">
+		<description>GM Test (19xx)(-)</description>
+		<rom name="(NL).p" size="1407" crc="5190136c" md5="d45c8dfc3d16bd93a4c266ca8e994ffa" sha1="d778258c7ddf78a4115cb00552ae26fa7f3250c4" />
+	</machine>
+	<machine name="Gobbleman int.chars (1982)(Artic Computing Ltd)">
+		<description>Gobbleman int.chars (1982)(Artic Computing Ltd)</description>
+		<rom name="(EN).p" size="1831" crc="2eb5cf12" md5="1c99891adca6fd47c8baa74e22965990" sha1="00b1428b84c69e438404c1384abe9873ccda0733" />
+	</machine>
+	<machine name="Gobbleman int.chars (19xx)(-)">
+		<description>Gobbleman int.chars (19xx)(-)</description>
+		<rom name="Gobbleman int.chars.p" size="1833" crc="06e8e8a9" md5="8fcc80840b2f5522969f25795130a324" sha1="ffc99cb4e10a111c6eb6c9170e9f9d192104287c" />
+	</machine>
+	<machine name="GRAF. ROM ROUTINE (19xx)(-)">
+		<description>GRAF. ROM ROUTINE (19xx)(-)</description>
+		<rom name="(NL).p" size="2255" crc="7c36d3e8" md5="b449b5b1288538551cb99191d538b8e3" sha1="10af45b39e8e9f4642d5e58e51eaa06deb4b770e" />
+	</machine>
+	<machine name="Graph (19xx)(-)">
+		<description>Graph (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="4178" crc="0d4cd1c0" md5="b7a93ecc8055c59923e43908b08d0f79" sha1="960669d453bc16a5ba18e50db2800539fb188ae7" />
+	</machine>
+	<machine name="Gridrunner (19xx)(-)">
+		<description>Gridrunner (19xx)(-)</description>
+		<rom name="(EN).tap" size="7292" crc="3eb1fb22" md5="aea6d6a7b55eda9cfbfb4d93616cfb07" sha1="6d3966cef9d10f6ae19853ad63b76f2d7c91d840" />
+	</machine>
+	<machine name="GUP (2017)(Jon Burton)">
+		<description>GUP (2017)(Jon Burton)</description>
+		<rom name="(EN).tap" size="48508" crc="40fad8e9" md5="97f0290bf0177564cf0cfae12167a681" sha1="bcedd924f34ed0b75d2dd204cf2ce1f5a86e4a4f" />
+		<rom name="(EN).tzx" size="48590" crc="7d08f58b" md5="b0843b19173d2574180aa3a3cc5bab12" sha1="f68c700b17c91336d23542d4eb008ea95cd97416" />
+		<rom name="(EN).z80" size="42397" crc="76db44f2" md5="24fbd1278f77822cddb83756c6a0eee5" sha1="eed0d7c60e096b427e84b5c563f4b48c752ff755" />
+	</machine>
+	<machine name="GUUS-FLA (19xx)(-)">
+		<description>GUUS-FLA (19xx)(-)</description>
+		<rom name="(NL).p" size="7406" crc="debeb048" md5="7aa4227350b6095c5e830fd0be666276" sha1="14bdfe7c2398fb8f49e9111c7e606bc3c97d865a" />
+	</machine>
+	<machine name="Hex Dumper (2001)(Jim Grimwood)">
+		<description>Hex Dumper (2001)(Jim Grimwood)</description>
+		<rom name="(EN).tap" size="2076" crc="1e3f8516" md5="63f02ed1e8732dfe9c7f4c6fd7f952ba" sha1="80b08e9510ffbfbbd13105f350b11cab1be8bb9b" />
+	</machine>
+	<machine name="Hi-Rise Hive (19xx)(Hogroprog)">
+		<description>Hi-Rise Hive (19xx)(Hogroprog)</description>
+		<rom name="(EN).p" size="5881" crc="8bab1768" md5="e6efa3e88ca1fe2bffc1792c8ae2bd26" sha1="d841a9d2963e7b9b9b779b00420ceef6936650b7" />
+	</machine>
+	<machine name="Hide the Sausage (19xx)(-)">
+		<description>Hide the Sausage (19xx)(-)</description>
+		<rom name="(EN).p" size="3772" crc="db34b265" md5="dc230068254f5b90ff85c1c38854f896" sha1="584e9b8c7868e84bfb80bff037fd23c4d40eca9b" />
+	</machine>
+	<machine name="High Res (1981)(Macronics Systems Ltd)">
+		<description>High Res (1981)(Macronics Systems Ltd)</description>
+		<rom name="(EN).p" size="10763" crc="c2982f88" md5="f9bb2997ab9913e739e102773df90c9f" sha1="62eed97b8c0c5f8c9e30cd5f8c8c320df539aec3" />
+		<rom name="(EN).tzx" size="10985" crc="dba35936" md5="2ce07223033d60f5d0f29b7fb5ffce53" sha1="2e1b9f9a4cbe5d737d622ac4c1c8e1744719b68f" />
+	</machine>
+	<machine name="High Resolution (1983)(CRL Group PLC)">
+		<description>High Resolution (1983)(CRL Group PLC)</description>
+		<rom name="(EN).tzx" size="6999" crc="91f52c1b" md5="97d334628b633dfec84968e6a2539012" sha1="ed27619ae83af14f81a923685793b40f9ad43a0b" />
+	</machine>
+	<machine name="Home Runner (1984)(Britannia Software Ltd)">
+		<description>Home Runner (1984)(Britannia Software Ltd)</description>
+		<rom name="(EN).tap" size="23805" crc="bde9f072" md5="9d6086683b5114272cfa223c4f754eb1" sha1="a556883c421ec2df37e5f20662e279e7edf97236" />
+		<rom name="(EN).tzx" size="23891" crc="0d5895c1" md5="adbe74d02167fd1eac69f37ef689889b" sha1="3ccb85bc436f768755e674508aa52c57aed99442" />
+	</machine>
+	<machine name="Igor (1987)(Grupo de Trabajo Software S.A.)">
+		<description>Igor (1987)(Grupo de Trabajo Software S.A.)</description>
+		<rom name="(Soft Spectrum issue 23 [1])(ES).tzx" size="15879" crc="e531110e" md5="9f7c5443ff110de9181be43ff50c8719" sha1="905ab199064dbbe28b758c62ceb7db50850a289e" />
+	</machine>
+	<machine name="Intercepteur Cobalt (1984)(ERE Informatique)">
+		<description>Intercepteur Cobalt (1984)(ERE Informatique)</description>
+		<rom name="For 16K. Side A, first program from tape. Instructions.(FR).p" size="2340" crc="a5621dbd" md5="7560a9cf943628f37335ec0c4d46e945" sha1="f37d541a2db118854e25b12308ac1fea8995a0f2" />
+		<rom name="For 16K. Side A, second program from tape.(FR).p" size="15054" crc="846b9ac7" md5="83023174f8f782930f870d962febe77b" sha1="98a2f2b3a5adb3a6e4c9331a412b10ba5c7764ce" />
+		<rom name="For 32K RAM. Side B, first program. Instructions(FR).p" size="3571" crc="31653be1" md5="6b7d16840637b11ab376869ff087f263" sha1="3dbb5c3ca3e7135060f60b4edf74c5e454e95a8e" />
+		<rom name="For 32K RAM. Side B, second program of tape.(FR).p" size="19978" crc="7c13bb1d" md5="b51bd6528e59378638aefee03452c13a" sha1="0315c6540cbee53fd3a20a96dcefeb287d38b99e" />
+	</machine>
+	<machine name="Intermediate English 2 (1981)(Rose Cassettes)">
+		<description>Intermediate English 2 (1981)(Rose Cassettes)</description>
+		<rom name="(EN).tzx" size="26527" crc="01a929e2" md5="a3f8630dc6c2e6407323163f9035472a" sha1="a2bfb6ee4c974f9608648e3e3a10af0b3b9b0d37" />
+		<rom name="(EN)[a 1981 Rose Cassettes].tzx" size="30977" crc="9849b308" md5="cd7420ffc5022a025ac1e3368846617d" sha1="7c92e660675bda630e3e862f8539cf2894a073a4" />
+	</machine>
+	<machine name="Interpide (1983)(ZX-Power)">
+		<description>Interpide (1983)(ZX-Power)</description>
+		<rom name="(DA).z80" size="12621" crc="af9921a3" md5="a92e5326579819e68734a39208abd0e2" sha1="ae0fd2e32e3b86a572548858bb1cba95c713e7f4" />
+	</machine>
+	<machine name="Invasion from Jupiter (19xx)(ICL)">
+		<description>Invasion from Jupiter (19xx)(ICL)</description>
+		<rom name="(EN).p" size="678" crc="0d985b51" md5="e44d80e694017e3583d2a2113c7857dd" sha1="51ef127f5b8b30d248d0df2cc39742b72e9228bb" />
+	</machine>
+	<machine name="Invisible Invader, The (1982)(Sinclair Research Ltd)">
+		<description>Invisible Invader, The (1982)(Sinclair Research Ltd)</description>
+		<rom name="(Games 3)(EN).tzx" size="1726" crc="5c0914ce" md5="49026e2aab40f8d975dc894963ed6497" sha1="1e8ec56408739eeb5686aa0546ce6500c432d7d1" />
+	</machine>
+	<machine name="J.D.Arcades (1982)(CRL Group PLC)">
+		<description>J.D.Arcades (1982)(CRL Group PLC)</description>
+		<rom name="(EN).tzx" size="8764" crc="cdc48e2f" md5="32e3c8dfeea4a96a90777426f7ce8e24" sha1="e98fa792e0d2298b9a8f870590b41a1fd08b7c02" />
+	</machine>
+	<machine name="Jawz (1983)(Elfin Software Ltd)">
+		<description>Jawz (1983)(Elfin Software Ltd)</description>
+		<rom name="(EN).tzx" size="25199" crc="b4e4a49e" md5="6189ac43f50c55023b0fd414de8180d2" sha1="58d361705e3c45c0c4051d3b2a8e105c567433a0" />
+		<rom name="(EN)[a 1983 DK'Tronics Ltd].tap" size="12530" crc="3fede27f" md5="b7312ed038312a774ed171509e3517fb" sha1="603a211e1bf2090f48181cf476c12db37f088cc9" />
+		<rom name="(EN)[a 1983 DK'Tronics Ltd].tzx" size="12313" crc="2fbee4c9" md5="c949a1b949ef5eba1ec45f4d2f9f4beb" sha1="82f544591fd0942ecef03ca224794df4900a8658" />
+		<rom name="(EN)[a 1983 PRISM Micro-informatique S.A.].tzx" size="12327" crc="a138f4a6" md5="88df52efcce07b81cb4222d90a4db90f" sha1="493fb7421f2e0492f07495a0fd9d16c7d4710c2c" />
+		<rom name="(EN)[a Profisoft].tzx" size="12618" crc="66466bd2" md5="e495693aa3db4f0d44b51c54503d041c" sha1="117896d7d14135a41402ef764c7ae923660be06f" />
+	</machine>
+	<machine name="Juggly (1985)(Jorgen Bech)">
+		<description>Juggly (1985)(Jorgen Bech)</description>
+		<rom name="(EN).tap" size="4702" crc="ad1481cd" md5="728968d96f47d4b24b2448e73a89e193" sha1="fd926f956e182ef97f52bb2105aa085b05215987" />
+	</machine>
+	<machine name="Keyhero 50 (2011)(Weird Science Software)">
+		<description>Keyhero 50 (2011)(Weird Science Software)</description>
+		<rom name="(EN).tzx" size="53135" crc="001bf4d9" md5="0fb36b5d62048c0844ffb0da3d5ad3c9" sha1="0116225a04147d686acff5ded183bf024fdf5650" />
+	</machine>
+	<machine name="Kim (19xx)(ICL)">
+		<description>Kim (19xx)(ICL)</description>
+		<rom name="(EN).p" size="758" crc="5ad1b5c3" md5="7ef05cc604ae0280583eee21ec0ac05e" sha1="6fb22409f901aa6c56ef418501169c12fdc93c38" />
+	</machine>
+	<machine name="KRAAKROU (19xx)(-)">
+		<description>KRAAKROU (19xx)(-)</description>
+		<rom name="(EN).p" size="1124" crc="9bd9f318" md5="b6b6ad5300ed94de6957b76eeeae83e3" sha1="bcb39459022199b92a2c92d986f18d19b31cfecc" />
+	</machine>
+	<machine name="Labyrinth (1981)(Axis Software)">
+		<description>Labyrinth (1981)(Axis Software)</description>
+		<rom name="(EN).p" size="10722" crc="46400a6f" md5="0a3f962c532cb046d7a71998cc29d412" sha1="8ad0df41d206ad534aeed2be3fe208bb00f99bb6" />
+		<rom name="(EN).tzx" size="10938" crc="ea55d06f" md5="bc017730d207cc9792927d9757907c58" sha1="080582b82806bd9cbe1de07822b84a5f536c0308" />
+	</machine>
+	<machine name="Lazer Fighter (1993)(Darryl LeCount)">
+		<description>Lazer Fighter (1993)(Darryl LeCount)</description>
+		<rom name="(EN).tzx" size="8453" crc="65aab205" md5="d21565397bedee9bbc8cc74665600c5a" sha1="22ccfd7d71a6925d49b1dcf12a53a604dd4f03ba" />
+	</machine>
+	<machine name="Line Editor II (19xx)(-)">
+		<description>Line Editor II (19xx)(-)</description>
+		<rom name="Line Editor II.p" size="3477" crc="8cd6a793" md5="8182cb3661a393a99e53fbe3f18cc65f" sha1="b62201c45e4f5ef269402328290bd3685d397c9b" />
+	</machine>
+	<machine name="Liquid Capacity (19xx)(ICL)">
+		<description>Liquid Capacity (19xx)(ICL)</description>
+		<rom name="(EN).p" size="686" crc="dd7776a0" md5="5c5c940ab063f0a6730366fb7544e032" sha1="5cbc10e1b565b5b7e3df0e82578c208d5d92f310" />
+	</machine>
+	<machine name="Little Man Computer (2020)(+3code)">
+		<description>Little Man Computer (2020)(+3code)</description>
+		<rom name="(EN).tap" size="4292" crc="d5070c87" md5="1f7a2d497729abe91937a6bc72630998" sha1="2c705c278bb412622743b011dc1edc248e19f187" />
+	</machine>
+	<machine name="LOAD (19xx)(-)">
+		<description>LOAD (19xx)(-)</description>
+		<rom name="LOAD.p" size="1214" crc="6001c8e3" md5="9cba7471e732e7891ba805402609ce11" sha1="9408cdb7a70e4cd4e2fb61ca42deeed1e376587a" />
+	</machine>
+	<machine name="Looptekst (19xx)(-)">
+		<description>Looptekst (19xx)(-)</description>
+		<rom name="(NL).p" size="6237" crc="55c116cd" md5="647a84aece00add5abe3870359abd3be" sha1="3cd834942a70a006ce0b73e1fdc6b04c377026c7" />
+	</machine>
+	<machine name="Luner (19xx)(-)">
+		<description>Luner (19xx)(-)</description>
+		<rom name="(EN).p" size="7437" crc="031543db" md5="7c9467db3986d3d078ffb06ba510ebf5" sha1="bdbfb95fe96658eab08d8bcc58a4ae7cf520e2bf" />
+		<rom name="(EN)[a].p" size="7437" crc="031543db" md5="7c9467db3986d3d078ffb06ba510ebf5" sha1="bdbfb95fe96658eab08d8bcc58a4ae7cf520e2bf" />
+	</machine>
+	<machine name="Magic Square (19xx)(ICL)">
+		<description>Magic Square (19xx)(ICL)</description>
+		<rom name="(EN).p" size="627" crc="b9d62d5a" md5="7d4e05e877fe1b2c13d5b6eace47a2ab" sha1="7b7b882d2f59e364dc2223007d8ac5378c420e3e" />
+	</machine>
+	<machine name="Magisches Quadrat (19xx)(-)">
+		<description>Magisches Quadrat (19xx)(-)</description>
+		<rom name="(DE).p" size="2296" crc="b156b9c2" md5="06d9871e5690144c8c1444000229dace" sha1="c9bb728113f4d2dc4d04ab1eea25ecade88bf45a" />
+	</machine>
+	<machine name="Mahagoni (19xx)(-)">
+		<description>Mahagoni (19xx)(-)</description>
+		<rom name="(DE).p" size="1367" crc="c16f350f" md5="3bc97fd1a701384d3fec3933ccafd097" sha1="af0ff0fecaf1ce16fbd7a8922fa2a89b2de3fc09" />
+	</machine>
+	<machine name="Maze Death Race (1982)(PSS)">
+		<description>Maze Death Race (1982)(PSS)</description>
+		<rom name="(EN).tzx" size="12308" crc="1236d35d" md5="0b5372c24a1948029e99811cd576b01a" sha1="701017efd8ca739e982e17954639c83b0a0547bb" />
+	</machine>
+	<machine name="Meditor Kalkulation (1983)(-)">
+		<description>Meditor Kalkulation (1983)(-)</description>
+		<rom name="Meditor Kalkulation.p" size="2372" crc="91f935c3" md5="69ca046ea76b9bb6e39e02aa3e03e3e8" sha1="1212903d53c340ed2693ebb59c9fb4631cb39eb8" />
+	</machine>
+	<machine name="Memory Monitor (19xx)(-)">
+		<description>Memory Monitor (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="643" crc="0c54bb92" md5="8fb83082ac1b5a586654679020c0e37b" sha1="45878193934d86e558e5dd67ac8bbadf66ad0837" />
+	</machine>
+	<machine name="MEMORY-M (19xx)(-)">
+		<description>MEMORY-M (19xx)(-)</description>
+		<rom name="(NL).p" size="1621" crc="d020df73" md5="154c2ab613716db2268e8586d34b8202" sha1="9f7e84db6103924762bf3393bed024a42c80c3a7" />
+	</machine>
+	<machine name="MF2 (19xx)(-)">
+		<description>MF2 (19xx)(-)</description>
+		<rom name="(EN).tap" size="516" crc="acc694bd" md5="1c1319a876b6d977d96935c893ef478c" sha1="b5bd0b075c67f56b6baab38d6c29d24104ae116a" />
+	</machine>
+	<machine name="Mickey Movie (2024)(Zarsoft)">
+		<description>Mickey Movie (2024)(Zarsoft)</description>
+		<rom name="Mickey Movie.tap" size="805058" crc="3d1b3f00" md5="ffab1d42621772d5fbae8b0c35d779fc" sha1="2a04a545676b1bbad3c51e7dbd85294aa71e6cfe" />
+	</machine>
+	<machine name="Missile (1984)(Sinclair Programs)">
+		<description>Missile (1984)(Sinclair Programs)</description>
+		<rom name="(EN).tap" size="1410" crc="be94ab10" md5="8da1c8153eca4fd0649e7bcaef0cd176" sha1="36f9e4c84b02bed4c64bebe35788e218a0062c71" />
+	</machine>
+	<machine name="Missile Defence (1986)(Magnum Computing)">
+		<description>Missile Defence (1986)(Magnum Computing)</description>
+		<rom name="(60 Spectrum Games)(EN).tzx" size="8839" crc="71479296" md5="7d29c0293583effa2c1059e61b5f7f94" sha1="861691939bb0fd1f43ecac4e60fe56b36ecbeac0" />
+		<rom name="(EN).z80" size="9030" crc="075b0c98" md5="a70c09adbd70a13444efec0a61f10d79" sha1="68e9ed3fd9450005aad6b8e0850f05deb8793fbf" />
+	</machine>
+	<machine name="Monster Mine (1982)(Gem Software)">
+		<description>Monster Mine (1982)(Gem Software)</description>
+		<rom name="(EN)[a 1982 Richard Shepherd Software Ltd].tzx" size="8372" crc="7a1bd09b" md5="a6de49a6bac31ac733d85adb261fb7a6" sha1="b0eb84e75b9d5596c3b709971b28d91b893b8ae2" />
+		<rom name="v1(EN).tzx" size="8402" crc="59fca04e" md5="d4e41ee47200175fe7ebcd5180067aef" sha1="90735c3dcefae394bb75b071f88a90206a6ad2a3" />
+		<rom name="v2(EN).tzx" size="8461" crc="f952e87f" md5="ff5a8bcc84b5e35eca2d712da4a7957e" sha1="f3bf5d760e58255563b079b1699df26175efc3e7" />
+	</machine>
+	<machine name="MORSE-ON (1984)(B.H. Baily)">
+		<description>MORSE-ON (1984)(B.H. Baily)</description>
+		<rom name="MORSE-ON.p" size="1435" crc="ba53a356" md5="f5f4dbce21ac98e7de2cc501458dba34" sha1="09314cd06d8cfc2d2585a006ead7302aab111ee6" />
+	</machine>
+	<machine name="Mothership (1982)(Softsync Inc)">
+		<description>Mothership (1982)(Softsync Inc)</description>
+		<rom name="(EN)[a 1982 Sinclair Research Ltd].p" size="9627" crc="ca3d2536" md5="da60e156f22ec411c2347e98272c9ddd" sha1="e9aeab28f5d659b3fb60d2c8e9eb9b94e727f362" />
+	</machine>
+	<machine name="Munchees (1983)(Quicksilva Ltd)">
+		<description>Munchees (1983)(Quicksilva Ltd)</description>
+		<rom name="(EN).tzx" size="7759" crc="16d584d2" md5="126308e86ac649aee3430636499d896a" sha1="22b641a51dcea3a7c7aa648f3371cfae7ccaa708" />
+	</machine>
+	<machine name="Mutations (1986)(Tynesoft)">
+		<description>Mutations (1986)(Tynesoft)</description>
+		<rom name="(EN).tap" size="17294" crc="f14a08ee" md5="e38a4e8fb39913238a7a98de01dd1a17" sha1="5fe8f1bae4f72214d9c586fc07cfaf80370c9c32" />
+		<rom name="(EN).tzx" size="17345" crc="d705e701" md5="6087593a28b31696a4a05540bffd3d6c" sha1="3712f1958b1e38c8287d04c868c8e821f43d348b" />
+		<rom name="(EN)[h Flash].scl" size="11035" crc="eb8710a4" md5="dc186421a66bdf304d13ef1dc7c6ac5c" sha1="0bc7e84634a6bbc92f86e30b2971258df577b07e" />
+	</machine>
+	<machine name="Netwerk (19xx)(-)">
+		<description>Netwerk (19xx)(-)</description>
+		<rom name="Netwerk.p" size="1743" crc="3ceec3c5" md5="78c73813e72c25bec2a53e51c3d762ec" sha1="8684edd2c1f4d655c0423b0c414407d5b7ead506" />
+	</machine>
+	<machine name="New York (19xx)(-)">
+		<description>New York (19xx)(-)</description>
+		<rom name="(EN).tzx" size="4765" crc="e6f041d7" md5="bd997996d77fc8a2a917f39cc45fd1a1" sha1="faed098432d0d19cabf4ea165ab406168507a9a7" />
+		<rom name="(EN).z80" size="8095" crc="d382a9c3" md5="767683813b2e21679f7fdd7310d79c9e" sha1="aa4662590b95b2a22c73fa730879a54677b730d4" />
+	</machine>
+	<machine name="Non Graphic Escape (2020)(Ivo Perich)">
+		<description>Non Graphic Escape (2020)(Ivo Perich)</description>
+		<rom name="(EN).tap" size="9557" crc="fc6ce864" md5="7d6b41ee7087f662c696b8b39a5b81af" sha1="f4cd22ef3e72da7a3d226dba56e425ad68824fc3" />
+	</machine>
+	<machine name="Ocean Trader (1982)(Quicksilva Ltd)">
+		<description>Ocean Trader (1982)(Quicksilva Ltd)</description>
+		<rom name="(EN).p" size="11716" crc="ebc4d447" md5="744ea026dc47182ddf6d104aae0bca6a" sha1="9c7587399a8789510de470769b7fc043d88db5ba" />
+	</machine>
+	<machine name="Ogerox en los Dominios del Fuego (1988)(MicroHobby)">
+		<description>Ogerox en los Dominios del Fuego (1988)(MicroHobby)</description>
+		<rom name="(ES).tap" size="41542" crc="f3e12c27" md5="13277817b27fff0a73603f08b40417b6" sha1="c987860420c7266b9a5bd5a43fa6e8fa57822707" />
+	</machine>
+	<machine name="Olli &amp; Lissa (1986)(Firebird Software Ltd)">
+		<description>Olli &amp; Lissa (1986)(Firebird Software Ltd)</description>
+		<rom name="(EN).tap" size="44155" crc="a3d4c88f" md5="28331ad0453bf65eefed462c30408653" sha1="79830cde82c5135b4401c5c7b93a19492381d167" />
+		<rom name="(EN).tzx" size="44060" crc="8a7e8155" md5="0bdd2f6ca2237e727e93a90903f9b25b" sha1="f9537fb28a99e13152aaad570e7e30820fdf3be3" />
+		<rom name="(EN)[h 1993 Brissoft].scl" size="58395" crc="c0b4ef12" md5="e128ac65fec56635684a7543ca7936cd" sha1="ee9e1dc49c68e0ca061085aa3c22dcad790e209a" />
+		<rom name="(EN)[h 1994 KSA, Stever].scl" size="53019" crc="9e4d2ba0" md5="d8a5d5fa4177a8699ceadb51d56f17c1" sha1="77afd9709c5f48777060592757bcc194f7be73b3" />
+		<rom name="(EN)[h Helium].tap" size="40732" crc="5ff73fea" md5="baaac816481f48e6e5091cd93ff23fbd" sha1="580c040111bb51116163d54cbc6ae81ec690e4bb" />
+		<rom name="(EN)[h Ice].tap" size="56384" crc="eed82390" md5="2b7dbac76716e34a380a49d7c4b15397" sha1="797afaaf28975be880f93555a216e6748ac5e23a" />
+		<rom name="(EN)[h Pokes].tap" size="39094" crc="7f6bcfbf" md5="7472001c95e92c204346e43f7406edb6" sha1="deb836f8981047d7cab53934b584fdf75cab2a42" />
+		<rom name="(EN)[h Prospekt].tap" size="41275" crc="7e57cbee" md5="ab7e0f3487213810d08f946d688b5a47" sha1="8dfa7dc734b9fe319e8db5f3e14af791dc1e9991" />
+		<rom name="(EN)[h Sliders Creative &amp; Hackers Group].scl" size="24859" crc="4b9b7eba" md5="c49030d8c8485b6c4eed287fb7877ed2" sha1="116cd00d5d6435c28870e37abc9b2ac17c01a34f" />
+		<rom name="(EN)[h2].tap" size="44027" crc="331696dc" md5="22939270229a11309fb8926f610f493e" sha1="9a63b22e165fb35ca9fba4885e2290e659e2c1cf" />
+		<rom name="(EN)[h].tap" size="57100" crc="edecd8e9" md5="c73883e47c1e030b07776c146553bb01" sha1="84585d592f60af72031c69dcb1197f5562cfda52" />
+		<rom name="(EN)[tr RU 1991 NII Geliy].scl" size="41001" crc="af1faa38" md5="39ac5b56cf0e3277b20c3bf0fca2cd91" sha1="5d6ad0db874125fc05fcf98f061a20ffbdbc24e1" />
+	</machine>
+	<machine name="Pacman (2010)(Paul Farrow)">
+		<description>Pacman (2010)(Paul Farrow)</description>
+		<rom name="(EN).tap" size="35600" crc="66102102" md5="347d152a31c0f81f2e01f16b43af8468" sha1="8b11123ba76c6cc29e461d728dc2d936cb121f2c" />
+	</machine>
+	<machine name="Pangolin (2019)(-)">
+		<description>Pangolin (2019)(-)</description>
+		<rom name="(EN).tap" size="1867" crc="60e7f796" md5="a58ee0dab7559ac47d9a3fd854ba2341" sha1="b75d6b7f40b0c5cb3447abc9b61bad3851b4cd16" />
+	</machine>
+	<machine name="Parachute (19xx)(-)">
+		<description>Parachute (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="3555" crc="2c56e47d" md5="0c3a6c9588d9e682783fbe71504c496d" sha1="315f806f174d849dfd8587903c96b706da65a542" />
+	</machine>
+	<machine name="Paranoid Pete (1984)(Ubik Software)">
+		<description>Paranoid Pete (1984)(Ubik Software)</description>
+		<rom name="(EN).tap" size="50253" crc="5d949a93" md5="ffaa207a26aaee5f580edbc599cdb07f" sha1="d777110cc41986fcc4f2d50d38ee4f01ebce2fa0" />
+		<rom name="(EN).tzx" size="50308" crc="2d43f5db" md5="5d252472a9a118f1616d3aa35e650478" sha1="f0cc60c9c1a363ce801390572f2bfcab65c51dda" />
+		<rom name="(EN)[a 1984 Ubik Software].tzx" size="50308" crc="7d61ee35" md5="90bdec89ac22ec53a866843c27e3978a" sha1="38820c586ca9a7b557126814ecd4b9a969758e09" />
+	</machine>
+	<machine name="Peloponnesian War (1982)(MC Lothlorien Ltd)">
+		<description>Peloponnesian War (1982)(MC Lothlorien Ltd)</description>
+		<rom name="(EN).p" size="16121" crc="f44dec8b" md5="1bc0299b676a7656670585fc0199772c" sha1="a3f5b184568ac4ea26ae03f9e737e9fd1d4eac53" />
+		<rom name="(EN).tzx" size="16341" crc="f56e0c9d" md5="7a8ab89f6173649c5bbc0a6a9bf4d62d" sha1="94ebc1a99152a5441238ad242da19b4c9ccee699" />
+	</machine>
+	<machine name="Personal Banking System (1982)(Jack P. Gibbons)">
+		<description>Personal Banking System (1982)(Jack P. Gibbons)</description>
+		<rom name="[a 1982 Jack P. Gibbons].p" size="15736" crc="33478722" md5="7d977968b57425c205bb83f25f5d9952" sha1="b7b18da4306f684dc54af975c97a97cb22daa3cf" />
+		<rom name="[a2 1982 Jack P. Gibbons].p" size="16100" crc="dfdc152f" md5="c95a933a160154d21bdc923ba8bbf16a" sha1="f90e3874620aaeacdf759b9eaef9dd5c5aa5de7f" />
+		<rom name="Personal Banking System.p" size="15844" crc="6594472b" md5="292098d4d6f2e2d5be96ebb96ec0a163" sha1="6838c47fb2804b514f45fc5d4a444e5f10113bdd" />
+	</machine>
+	<machine name="Phoskito y la Especia Dorada (2020)(Raul Piqueras)">
+		<description>Phoskito y la Especia Dorada (2020)(Raul Piqueras)</description>
+		<rom name="(ES).tap" size="37220" crc="941d21ef" md5="72d7d8596c5d2179bf2bd4622eb1f5d5" sha1="0928849177573c1be5934ca8ce2f50080cc0b4a3" />
+	</machine>
+	<machine name="Pie Chart (19xx)(-)">
+		<description>Pie Chart (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="2382" crc="8e3f23bb" md5="4cc6d21f08987d5be670500c64895bea" sha1="efc77a6074f34df5eaa4ef546a87584c17decec5" />
+	</machine>
+	<machine name="Piggy in the Woods (2025)(-)">
+		<description>Piggy in the Woods (2025)(-)</description>
+		<rom name="(EN)\piggy.bas" size="6696" crc="fe9fc28d" md5="5ffce07a1f84b58fda2acd789910c708" sha1="6824f04f26acf4ea251aaf73323b16ab0e6d448d" />
+		<rom name="(EN)\piggy.spr" size="16384" crc="6471c7cf" md5="f644228f66f31a77f19b41127d5e9185" sha1="410ecca58243ff6ed09c3087e321a194a54ac856" />
+	</machine>
+	<machine name="Pioneer Trail (1983)(Quicksilva Ltd)">
+		<description>Pioneer Trail (1983)(Quicksilva Ltd)</description>
+		<rom name="(EN).tzx" size="15664" crc="6e1610f4" md5="c34a46b6155995b997cc204ac7a71c34" sha1="2cd50fb0dfc189389e99ecab50d03fdf5f9a0ce4" />
+	</machine>
+	<machine name="Plaga, La (1986)(Grupo de Trabajo Software S.A.)">
+		<description>Plaga, La (1986)(Grupo de Trabajo Software S.A.)</description>
+		<rom name="(Libreria de Software Spectrum issue 12)(ES).tzx" size="5305" crc="92ec956e" md5="d4de80fcf5c57f1d34d0cb361c097649" sha1="87dffc62582147d08c52dbdf83e4696b5ca0c1e6" />
+	</machine>
+	<machine name="Plockman (19xx)(-)">
+		<description>Plockman (19xx)(-)</description>
+		<rom name="(Joystick issue 8612)(SV).tap" size="5284" crc="0c80e74e" md5="399c6e4e605f842a28d951b1926dfd70" sha1="079218cc01ef3794622fafe34b921bcc1ade8ec3" />
+	</machine>
+	<machine name="Popcorn (2019)(Biland)">
+		<description>Popcorn (2019)(Biland)</description>
+		<rom name="Popcorn.trd" size="655360" crc="e9c56ee0" md5="3d605e552b820b8e05072a12ffe40162" sha1="38b793785a8bbabb305b45a19a196d9b6ce74a9a" />
+	</machine>
+	<machine name="Presa, La (1985)(RUN)">
+		<description>Presa, La (1985)(RUN)</description>
+		<rom name="(RUN Casete N. 08)(ES)[a 1985].tzx" size="4459" crc="5e13af10" md5="e9c9463b8ca764cce149df2e0a3924d3" sha1="df874453ef93e3573348e4e1d67ecae610291d26" />
+	</machine>
+	<machine name="Puckman (1981)(Hewson Consultants Ltd)">
+		<description>Puckman (1981)(Hewson Consultants Ltd)</description>
+		<rom name="(ES)[a Indescomp S.A.].tzx" size="10733" crc="6873583c" md5="1cf5d2d6f1455a1a0466d5e3846b7a86" sha1="a4dadc4289729e990196a99cce4dfb3fe2900226" />
+	</machine>
+	<machine name="Pusher (19xx)(Climacus)">
+		<description>Pusher (19xx)(Climacus)</description>
+		<rom name="[a Climacus].z80" size="21275" crc="4ebc70a4" md5="5da83ed728651d9afddf151bc45aa9c8" sha1="59aef9ac2e54578f0b4c7c45f28e210554eaa301" />
+	</machine>
+	<machine name="Pythagoras im Urlaub (19xx)(-)">
+		<description>Pythagoras im Urlaub (19xx)(-)</description>
+		<rom name="(DE).p" size="6906" crc="b598838f" md5="6824cc701ce9ffdc30d541df8640aa53" sha1="8dd8ec0fd91f95c10e9d2566cdf2bd52bdb4549b" />
+	</machine>
+	<machine name="QS Scramble (1982)(Quicksilva Ltd)">
+		<description>QS Scramble (1982)(Quicksilva Ltd)</description>
+		<rom name="Main game(EN).p" size="3998" crc="a9901d2f" md5="78d659adaef2e2fc6869cb65f8b343a8" sha1="841278200853343fbfd004988c1f77278975435a" />
+		<rom name="Main game(EN).tzx" size="6299" crc="1c1c86e4" md5="dc05551c4bf0249b182d3249cf41cde6" sha1="acc284aae82e0682197675a7e3e7fa06981c5bdc" />
+		<rom name="QS Characters Board programming(EN).p" size="1963" crc="c8c3d077" md5="bf5409c424bbb94d901fe395e882aac0" sha1="50da8e4cbe9d67baf46290f2757ae37ebd96e84c" />
+	</machine>
+	<machine name="Quill Review (19xx)(-)">
+		<description>Quill Review (19xx)(-)</description>
+		<rom name="(Spectrum Computing 11)(EN).tzx" size="2795" crc="e84e654a" md5="017c82426d9dc44a6652ca80033d973c" sha1="666c02e488b07ca0cd9950721373daba3878b53a" />
+	</machine>
+	<machine name="Quiz (19xx)(-)">
+		<description>Quiz (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="2255" crc="a31ab1f1" md5="1c724f78c4d29c4bf904116bc4227b46" sha1="07454212cd63d5ed6805f17baa12d9b2996291ed" />
+	</machine>
+	<machine name="Raider (1983)(Artic Computing Ltd)">
+		<description>Raider (1983)(Artic Computing Ltd)</description>
+		<rom name="(EN).p" size="15125" crc="7a1b6f5e" md5="1fcb1e9b7686948c0da658d54e785042" sha1="9ca4c844bead627cc0b30aa965b44a51558424cc" />
+		<rom name="(EN)[a].p" size="15125" crc="7a1b6f5e" md5="1fcb1e9b7686948c0da658d54e785042" sha1="9ca4c844bead627cc0b30aa965b44a51558424cc" />
+	</machine>
+	<machine name="Raiders (19xx)(-)">
+		<description>Raiders (19xx)(-)</description>
+		<rom name="Raiders.p" size="2877" crc="e2de9c26" md5="43ccd67271e929aaed542e134e64263c" sha1="af33a903172eed7d7de6891f98c7102e65b846cb" />
+	</machine>
+	<machine name="Rally (19xx)(-)">
+		<description>Rally (19xx)(-)</description>
+		<rom name="(Joystick issue 8702)(SV).tap" size="9813" crc="037acd96" md5="c6d5afe4344ca8e6cf8121214c230aa7" sha1="5988554ba6dc8a8be3572e10aab47ac94f3a1e94" />
+	</machine>
+	<machine name="Rally Xmas (19xx)(-)">
+		<description>Rally Xmas (19xx)(-)</description>
+		<rom name="(EN).tap" size="18073" crc="b79df77f" md5="6dd4ffa456cffe918eef1e1493514ae1" sha1="12e01f290a3908a6aac3937a9f427a599492bd7c" />
+	</machine>
+	<machine name="Ramcheck (19xx)(MiCROL)">
+		<description>Ramcheck (19xx)(MiCROL)</description>
+		<rom name="(EN).tzx" size="41180" crc="403af96c" md5="83bc2f8f87692938f82fd2525b7211a5" sha1="a632092b576747c9e7e20e58f8c3493880ef8b05" />
+	</machine>
+	<machine name="Rastreator (19xx)(Climacus)">
+		<description>Rastreator (19xx)(Climacus)</description>
+		<rom name="[a Climacus].z80" size="18417" crc="c6db2583" md5="1436ed7f57111dd23b9e9735060f41a2" sha1="aa47b29c2d7016a92c30d8338f0886a28278df41" />
+	</machine>
+	<machine name="Request in' Peace (2013)(Climacus)">
+		<description>Request in' Peace (2013)(Climacus)</description>
+		<rom name="(EN).dsk" size="194816" crc="721aa255" md5="4fead5359161e13275ae238d162241de" sha1="2b904d56cdaaff343c7d34d9e731adf1c8f8fb1d" />
+		<rom name="(EN).scl" size="43413" crc="e48c4c0d" md5="4001bbd9df19537668159d0e20afcd53" sha1="7dd34b8da4aeaef1247baf9fb3307a3cfb5f2bec" />
+		<rom name="(EN).tap" size="42115" crc="b53a76e9" md5="a08b02f9268c5e32561c18c9887672f2" sha1="2e7657cf684c985ee18459d455e677a768271195" />
+		<rom name="(EN).trd" size="47384" crc="e5f8f599" md5="e0c8f9107bcacaa964e22dd520d177d9" sha1="41bbd00cb1a7ae67209bd94e8ab501e8ddf35a84" />
+		<rom name="(EN).tzx" size="42178" crc="a4840aae" md5="40ebd64f7a44804736ad930b88fbbad5" sha1="258d44a690d70062028eff75fc109d36ee058c45" />
+		<rom name="(EN)[h 2013 Slider].scl" size="48937" crc="b7a3dee0" md5="092bff4267c578b9deb621876f1c29eb" sha1="9a2da22863f40e94c774d6a035d8799fcd297be6" />
+	</machine>
+	<machine name="Robot Attack (1989)(Mastertronic Ltd)">
+		<description>Robot Attack (1989)(Mastertronic Ltd)</description>
+		<rom name="(EN).tzx" size="56329" crc="663c3cbb" md5="d9b60927dcf7d212c33e9929a2c02c47" sha1="0edb287539d8f6a07a57cc340cb0139a9aaa9c1f" />
+		<rom name="(EN).z80" size="24462" crc="55cfdb87" md5="7daf57860c99fb89dc9d738c0730e664" sha1="53c8e0a8540da8d49b6a66d3d00d2846330d9e02" />
+	</machine>
+	<machine name="Rock, Paper, Scissors, Pudding, Drop! (19xx)(-)">
+		<description>Rock, Paper, Scissors, Pudding, Drop! (19xx)(-)</description>
+		<rom name="(EN).tap" size="39856" crc="76d05b1c" md5="78ea02904cb5da4fb0f0c0ee2a1988ac" sha1="bbcaf23a32e8804df72cf651becf68f77484a81f" />
+	</machine>
+	<machine name="Rockfall II (1991)(Crash)">
+		<description>Rockfall II (1991)(Crash)</description>
+		<rom name="(Crash issue 91 covertape)(EN).tzx" size="47755" crc="288fdbaf" md5="28767404b376da33daaa0ecd8bb8f55d" sha1="99ffe4117f89f21c2b6ba0f111593c55dfab6ba2" />
+		<rom name="(EN).z80" size="34697" crc="eedcf83f" md5="86ae18a815529f505b8445323701bd9c" sha1="5f8a5a4672473038074756266049bba4e41abfd2" />
+		<rom name="(EN)[h 1995 Rapeware Corporation].scl" size="29723" crc="e1dcea69" md5="9252113d955e649ffb5bf990f7873ec3" sha1="d339c37b0f646b445656e3998249eef226318f48" />
+		<rom name="(EN)[h Fatality].scl" size="26907" crc="ad509244" md5="a9641734833797967ec532699c0ca7b6" sha1="a452f65bd03783092b88885d4aaf8167f3cf8d3b" />
+	</machine>
+	<machine name="Rotatie Programma (19xx)(-)">
+		<description>Rotatie Programma (19xx)(-)</description>
+		<rom name="(NL).p" size="8324" crc="3af11a95" md5="e71d2b918ee40846f183097d5f9277de" sha1="402a209e06426bd719bca64fd62377277fc9f518" />
+	</machine>
+	<machine name="RTTY (19xx)(JEP Electronics Ltd)">
+		<description>RTTY (19xx)(JEP Electronics Ltd)</description>
+		<rom name="(EN).tzx" size="14503" crc="cc0694c8" md5="113281b163da48fced4e3e989025515e" sha1="ee02d5c2a2b70184f6377373791267aad2bf9408" />
+	</machine>
+	<machine name="RYTHM (19xx)(-)">
+		<description>RYTHM (19xx)(-)</description>
+		<rom name="(EN).p" size="1473" crc="e8776d25" md5="40e7a1badf8062e38b54975e4d4baf17" sha1="5cb2a837137d8c0958e94585218a979835fc313b" />
+	</machine>
+	<machine name="S.O.S. (1985)(Grupo de Trabajo Software S.A.)">
+		<description>S.O.S. (1985)(Grupo de Trabajo Software S.A.)</description>
+		<rom name="(Libreria de Software Spectrum issue 04)(ES).tzx" size="10759" crc="7cfb13a9" md5="74b6d4dbecd0fce2df423edf4c06f5e7" sha1="fd603aab9326e199f58b210e65f94bec14467076" />
+	</machine>
+	<machine name="Santa's Quick Drop (19xx)(-)">
+		<description>Santa's Quick Drop (19xx)(-)</description>
+		<rom name="(EN).tap" size="29027" crc="7a4a0d64" md5="0cd85d9c3adbfbd8a5368bf732268100" sha1="43dd5f7c88e7af2e1013b5b4ab2e4a74f28e9798" />
+	</machine>
+	<machine name="Saturno 2 (1986)(MicroHobby)">
+		<description>Saturno 2 (1986)(MicroHobby)</description>
+		<rom name="(MicroHobby Semanal 109-112)(ES).tzx" size="20257" crc="55276716" md5="81aad97a632f7a17b3bb8c6fe9ea32fc" sha1="78f27a1dd9eb46ded9e3a821e5b3f07b84ff257e" />
+	</machine>
+	<machine name="Saurer Regen (1982)(-)">
+		<description>Saurer Regen (1982)(-)</description>
+		<rom name="(DE).p" size="2572" crc="c495d426" md5="b7fb6f6c675950f3e492f24c774eed63" sha1="9570f75b05e451761ed9a2eda89e6cc4c7c5551a" />
+	</machine>
+	<machine name="Scherm Vulling (19xx)(Logical Computers)">
+		<description>Scherm Vulling (19xx)(Logical Computers)</description>
+		<rom name="(NL).p" size="1874" crc="5d507ecd" md5="86243523f1c4ffc11f4b6c35527d6192" sha1="17184d86b97ec12cc9e1a54faf2f704871fb0747" />
+	</machine>
+	<machine name="Screen Designer (19xx)(-)">
+		<description>Screen Designer (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="3877" crc="9f0371c4" md5="871a2fca39616b53f7638d22ac20c7ad" sha1="680b2767a78f6ea3fbc7fc6255b72ca6ef9b327b" />
+	</machine>
+	<machine name="Screen Kit (19xx)(Picturesque)">
+		<description>Screen Kit (19xx)(Picturesque)</description>
+		<rom name="Screen Kit.p" size="1896" crc="c386ffe7" md5="214f82b20c15e8abd541c85a8838c21b" sha1="6e7d028abfb9161afd06dcc78aaad3804de5e480" />
+	</machine>
+	<machine name="Sentences (19xx)(-)">
+		<description>Sentences (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="5659" crc="ec62fb79" md5="7d07d2c98d5f19c633aac5664d047e66" sha1="14eafe36139a24c8419465ad4d26c06a1e3d17ff" />
+	</machine>
+	<machine name="Sesamo (1987)(MicroSete)">
+		<description>Sesamo (1987)(MicroSete)</description>
+		<rom name="(PT).tzx" size="2543" crc="2a6804bb" md5="ece4be4f64392df9151a30075f2bec3b" sha1="023427a6969e703e062ec523061b000f501ee0cc" />
+		<rom name="(PT).z80" size="5666" crc="e2582d10" md5="4932cd004c0b024ffd881f052d3840be" sha1="c467f438041b773c0a68e329b97ad865cc54e4ed" />
+	</machine>
+	<machine name="Shutdown (1987)(Video Images)">
+		<description>Shutdown (1987)(Video Images)</description>
+		<rom name="(EN)[a 2009 SG-Team].scl" size="23323" crc="c0aba963" md5="220ea81e80de9d7ab7fd4683b5c5355b" sha1="b93d864cf815976f306f52cca612e8b84954f212" />
+		<rom name="(EN)[a Video Images].tzx" size="47405" crc="d75480cf" md5="0ccf8f3c84f1e38a70070ad890fa33aa" sha1="53b8d3b64dc728485b0dfced48cad49dd613da8b" />
+		<rom name="(EN)[a].tzx" size="47405" crc="d75480cf" md5="0ccf8f3c84f1e38a70070ad890fa33aa" sha1="53b8d3b64dc728485b0dfced48cad49dd613da8b" />
+	</machine>
+	<machine name="Simple Roulette (19xx)(Jay Simpson)">
+		<description>Simple Roulette (19xx)(Jay Simpson)</description>
+		<rom name="(EN).tap" size="18208" crc="32afaab9" md5="e01c34e8f2ac3dd0c87a2617acb01664" sha1="3358c044af17feb6d41e9551376b72bb78fdd28f" />
+	</machine>
+	<machine name="SKETCHPA (19xx)(-)">
+		<description>SKETCHPA (19xx)(-)</description>
+		<rom name="SKETCHPA.p" size="2208" crc="f408b84a" md5="44b518c0a5df487cadd0349bfe90531c" sha1="3815704a575dc4a0f6bade4be9887f5a0ef7f874" />
+	</machine>
+	<machine name="Skier, The (19xx)(-)">
+		<description>Skier, The (19xx)(-)</description>
+		<rom name="(EN).szx" size="5640" crc="e13bae65" md5="a4b8064c35a23d2abbf064c665a14b64" sha1="0e497ceb3b5b21069bc5b45cce69b7d7a9fe5057" />
+	</machine>
+	<machine name="Skittles (19xx)(ICL)">
+		<description>Skittles (19xx)(ICL)</description>
+		<rom name="(EN).p" size="652" crc="95eb1e86" md5="e177045f1180e3d3b7fe8abd57c67528" sha1="66407ba7aa5ba70d921259352582fedd4878a0a4" />
+	</machine>
+	<machine name="Slap-Slop (19xx)(Woody)">
+		<description>Slap-Slop (19xx)(Woody)</description>
+		<rom name="(EN).tap" size="3384" crc="0c10c8a8" md5="e1f3c8b3953ac77b289189e0b73faa77" sha1="dd55ba0498a0ef11e093eea873d4c54940c2d06e" />
+	</machine>
+	<machine name="Solitario de la Cruz, El (1985)(MicroHobby)">
+		<description>Solitario de la Cruz, El (1985)(MicroHobby)</description>
+		<rom name="Cut from MicroHobby Cassette 08(ES).tzx" size="28188" crc="497eb918" md5="1edb584acf128e0d9e0223097c066902" sha1="287caf42c6177eb3835e65a0db021d18a917563d" />
+	</machine>
+	<machine name="Sort (19xx)(-)">
+		<description>Sort (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="3064" crc="647d227b" md5="6b488685f78dad9d1c91ca564a9bb47a" sha1="83e6ef3de94e69d2fe5017d9b86262ada9f960a8" />
+	</machine>
+	<machine name="Space Invaders 3K (1981)(Macronics Systems Ltd)">
+		<description>Space Invaders 3K (1981)(Macronics Systems Ltd)</description>
+		<rom name="[a 1981 Macronics Systems Ltd].p" size="2854" crc="c656b4bb" md5="65fb488953e84b82f3ce2308fabea7f9" sha1="a70dda98418f3cbbe8ff08fa7f63ab543721adec" />
+		<rom name="Space Invaders 3K.p" size="2854" crc="b7fd5473" md5="8e9558d76dc177cf11dfa4c3808d9714" sha1="a08a34999d0a71d260e7746016bfeea3d1fd1726" />
+	</machine>
+	<machine name="Space Raiders also BOMBER (1982)(Sinclair Research Ltd)">
+		<description>Space Raiders also BOMBER (1982)(Sinclair Research Ltd)</description>
+		<rom name="(EN).p" size="2796" crc="e737f969" md5="532c2a84a0bf61af6e45d4169aa792e0" sha1="76cfae4a901fe30ed9ea4de4a330634106be5455" />
+		<rom name="(EN)[a 1982 Sinclair Research Ltd].p" size="2458" crc="cd1381bd" md5="d67f84372ea67908e2ffa654e1f2df49" sha1="c21ec8214cd94f2f7fd0a32440892e41c881afd1" />
+	</machine>
+	<machine name="Space Sludge (2019)(Bumfun Software)">
+		<description>Space Sludge (2019)(Bumfun Software)</description>
+		<rom name="(EN)[p 2019 Bumfun Software].tap" size="8365" crc="dea551a7" md5="6543714ed06a8b9f7e323ea7b9e9c989" sha1="d15cb8b268408bb0e0e3702ce7f15c5d0e2ea9d6" />
+	</machine>
+	<machine name="Spaceship (1984)(Zarsoft)">
+		<description>Spaceship (1984)(Zarsoft)</description>
+		<rom name="(PT).tap" size="19316" crc="44827db5" md5="82fd9d5644d23344f627947585a6510b" sha1="5987d5a1e26f03413bfb6fd1a32e430d9d60368d" />
+		<rom name="(PT)[a 1984 Zarsoft].tap" size="19316" crc="44827db5" md5="82fd9d5644d23344f627947585a6510b" sha1="5987d5a1e26f03413bfb6fd1a32e430d9d60368d" />
+	</machine>
+	<machine name="SpecDaleks (19xx)(-)">
+		<description>SpecDaleks (19xx)(-)</description>
+		<rom name="(EN).sna" size="49179" crc="7582df32" md5="5512d4ef404c811b43a642161bd2f885" sha1="6ea9baa0e3925633ab47c4301b89bf04235d7e3d" />
+	</machine>
+	<machine name="Spritemaker (19xx)(-)">
+		<description>Spritemaker (19xx)(-)</description>
+		<rom name="(EN).tap" size="12921" crc="af569860" md5="e1dc789b17ad694fc247f0e6b39b15b0" sha1="285ab444f95bba5b6ce5ac3add7e50fc37aeef57" />
+	</machine>
+	<machine name="Squares (1983)(Interface Publications Ltd)">
+		<description>Squares (1983)(Interface Publications Ltd)</description>
+		<rom name="(EN).tap" size="8095" crc="b5234a8c" md5="e8bbbfb07691268b0e9e1bc0a18bfed4" sha1="99dd16fc7fa2b82ca1adfa3e76ce6ca21f1f3d3f" />
+	</machine>
+	<machine name="Stamp Collector, The (1982)(Timex Computer Corporation)">
+		<description>Stamp Collector, The (1982)(Timex Computer Corporation)</description>
+		<rom name="Stamp Collector, The.p" size="14449" crc="2a38e112" md5="9329dee03b6620d5000dd3ffc9643068" sha1="69daaab88aec472f12910bb0c3b56c188b5c05ad" />
+	</machine>
+	<machine name="Starfighter (1986)(Magnum Computing)">
+		<description>Starfighter (1986)(Magnum Computing)</description>
+		<rom name="(60 Spectrum Games)(EN).tzx" size="3205" crc="7a1d5e54" md5="72615cd75e27db1431f60de44ed99b45" sha1="ebbc3af412375870e9244f2a2deeadc8f02b3b65" />
+		<rom name="(EN).z80" size="4555" crc="a9d429fd" md5="3cdd9caeb9fa71b1e98e988ee430d951" sha1="c3ed5ff9ba768050d962f53423253b88486aa72a" />
+	</machine>
+	<machine name="Ste Nichol's Tunes 2016 (19xx)(-)">
+		<description>Ste Nichol's Tunes 2016 (19xx)(-)</description>
+		<rom name="(EN).tap" size="19252" crc="fdaafb5d" md5="c245e963055e5074bbfa593e2bfcc294" sha1="b75958f00fbf932dbee28db4f6c2abf1ed93d269" />
+	</machine>
+	<machine name="Stock Car (1984)(Informatique Service)">
+		<description>Stock Car (1984)(Informatique Service)</description>
+		<rom name="(FR).p" size="9047" crc="3301ba9c" md5="6df238ea6229b15d6d06213a51cd49da" sha1="068d2d62a4d103ca45209e624f005b38356a6447" />
+		<rom name="(FR).tzx" size="8432" crc="9d9157d7" md5="a80d76081da5983386c0c3955d566df5" sha1="e0660060af579851e66fdb81721813782c657e8e" />
+	</machine>
+	<machine name="Super Amazing Filler II Turbo - Attack of the Graffiti Monsters (19xx)(-)">
+		<description>Super Amazing Filler II Turbo - Attack of the Graffiti Monsters (19xx)(-)</description>
+		<rom name="(EN).sna" size="49179" crc="4da64d8a" md5="3a7b5d213ccdedb787eb7f5e5c1e5841" sha1="d9b096b7898fb09bf5cfdc573ea832738338d9c8" />
+	</machine>
+	<machine name="Super Scramble (1982)(Software Farm)">
+		<description>Super Scramble (1982)(Software Farm)</description>
+		<rom name="Super Scramble.p" size="9077" crc="2355457e" md5="0e6b3a9d3d6df2dbb24639e18a33c870" sha1="3d2791139a20c0a682d73cf91311cdf1096f2891" />
+	</machine>
+	<machine name="Supermaze (1982)(Timex Computer Corporation)">
+		<description>Supermaze (1982)(Timex Computer Corporation)</description>
+		<rom name="Supermaze.p" size="16196" crc="b552a5e1" md5="f5aa5b5c2fea6fc23dab23160027123f" sha1="5b1d76cf7010b96df0dcafbf0d0142e6ef38c7b8" />
+	</machine>
+	<machine name="Tank (19xx)(-)">
+		<description>Tank (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="4453" crc="f5029ece" md5="86c0cf749b55f39011a2209c779454e5" sha1="07bb673bbffdc86f35bf31b83fcc5ce73638da9f" />
+	</machine>
+	<machine name="TEKENEN (19xx)(-)">
+		<description>TEKENEN (19xx)(-)</description>
+		<rom name="TEKENEN.p" size="9442" crc="52c42801" md5="197290f3bd00599a6afe339e649873f9" sha1="873d7725d689bcff6c08fdc68c2386e62c89ddaa" />
+	</machine>
+	<machine name="Terminal (19xx)(-)">
+		<description>Terminal (19xx)(-)</description>
+		<rom name="Terminal.p" size="2340" crc="592023e1" md5="6c8713f1a555694a8751440cc17e8f3c" sha1="07f05a3fa8c3052697436733eddc725cd8a4353b" />
+	</machine>
+	<machine name="Tesoro del Dragone, Il (1987)(Load 'n' Run)">
+		<description>Tesoro del Dragone, Il (1987)(Load 'n' Run)</description>
+		<rom name="(IT).tzx" size="62559" crc="80265a41" md5="e26243d2bb111362fa07096337b6809b" sha1="a75f00374163cebfe1ac80fcd18a47d4c211d9cd" />
+	</machine>
+	<machine name="Thingummy (2021)(Sheer Logic)">
+		<description>Thingummy (2021)(Sheer Logic)</description>
+		<rom name="(EN).z80" size="35427" crc="4dce9d4c" md5="19f4d1d01474af6f2c257b0fcf29c275" sha1="3af2e22190ae7f82c664470edcaa4b66d9bbfb4a" />
+	</machine>
+	<machine name="This is CYAN (2020)(AsteroideZX)">
+		<description>This is CYAN (2020)(AsteroideZX)</description>
+		<rom name="(IS).tap" size="13944" crc="490a83ed" md5="fa79eb8ea48642109b8348f9324bd3e8" sha1="488ca45f551d765737faeee33d2219f64e038f25" />
+	</machine>
+	<machine name="Thunderbirds (1985)(Firebird Software Ltd)">
+		<description>Thunderbirds (1985)(Firebird Software Ltd)</description>
+		<rom name="(EN).tzx" size="52582" crc="167c1d59" md5="6754468cd5595edca59d8a1dc3a9eafb" sha1="aa913ec0398a5cdb272d38c6b083699647a2599c" />
+		<rom name="(EN).z80" size="45708" crc="e27c9fe2" md5="c0dba7968ea3c603f5ba87113252a117" sha1="3041b97ce44175e58088257a30fe3711ff9890c7" />
+		<rom name="(EN)[h 1995 ZDW].scl" size="44315" crc="d363c121" md5="91c62481dfe4ea11073f4492e3afef35" sha1="e1ee1c8382b7a36d2f7aad6677cc9d86dcb91e0e" />
+		<rom name="(EN)[h 2010 TomCaT].scl" size="51739" crc="54e310c3" md5="81e704afae4f9885431eb9b87dde9c48" sha1="acc34fa03c937ce98d895cc820f010af13b0ec26" />
+	</machine>
+	<machine name="Tira-Pared (1984)(VideoSpectrum)">
+		<description>Tira-Pared (1984)(VideoSpectrum)</description>
+		<rom name="(VideoSpectrum issue 02)(ES).tzx" size="4048" crc="68f4194f" md5="6dd4540091de18b35dc00515e1100da2" sha1="8a9f5460f1b5503e92f4043c64f0ddcaf49c8d14" />
+	</machine>
+	<machine name="Toolkit [2] (19xx)(Artic Computing Ltd)">
+		<description>Toolkit [2] (19xx)(Artic Computing Ltd)</description>
+		<rom name="Toolkit [2].p" size="3620" crc="641d17e0" md5="f4a3ba7a541dee93c91a3ed68ab855e3" sha1="cd0f3b7d43a8a81fad575314518223ef575d1ea3" />
+	</machine>
+	<machine name="TOONGENE (19xx)(-)">
+		<description>TOONGENE (19xx)(-)</description>
+		<rom name="TOONGENE.p" size="1066" crc="81f5bc72" md5="63cc8f11dffaaa38d2a5aae8246b6752" sha1="ffc11fe06c2747e9143022b6ac588eb7049a38b7" />
+	</machine>
+	<machine name="Topo Mix Game (2017)(Topo Siglo XXI)">
+		<description>Topo Mix Game (2017)(Topo Siglo XXI)</description>
+		<rom name="(ES).tap" size="37851" crc="e020abf0" md5="8c82e9472b776ad7f47e40b0504fe3c3" sha1="bd7067acae01889cc3e838384a396c766cefd8f8" />
+	</machine>
+	<machine name="Trader (1982)(Pixel Productions)">
+		<description>Trader (1982)(Pixel Productions)</description>
+		<rom name="(DA)[a Trimp].tzx" size="49550" crc="f032cbca" md5="8606e9bd41543874c2a8229a6d063d84" sha1="539f6ba9ac853cae19cbcb4b6af1052448106374" />
+	</machine>
+	<machine name="TRADER-I (19xx)(Pixel Productions)">
+		<description>TRADER-I (19xx)(Pixel Productions)</description>
+		<rom name="(EN).p" size="1494" crc="dc9bc19e" md5="4995326ee73202d07223e2e8a3061675" sha1="59ef4b76d233891cc250b5cba2934d9b635a4dd2" />
+	</machine>
+	<machine name="Traffic (1984)(Loriciels)">
+		<description>Traffic (1984)(Loriciels)</description>
+		<rom name="(FR).p" size="6800" crc="b40d7fa0" md5="66919861847fb1dae81487de697b1c74" sha1="0d91bd4b6f1abaec8882b2b360e144ef2a523137" />
+		<rom name="(FR).tzx" size="7030" crc="be09c247" md5="2f644a8598a84813fdc38bbab38d080f" sha1="44626d460f9c918c4bc9e0611737b50215c73a3c" />
+	</machine>
+	<machine name="Transportrum (19xx)(Climacus)">
+		<description>Transportrum (19xx)(Climacus)</description>
+		<rom name="[a Climacus].z80" size="18580" crc="c2493ef6" md5="889230f31159429dca03cd918b299c7a" sha1="f38729a6d22b826391a8c9f4d79fc29bc6b5ed19" />
+	</machine>
+	<machine name="Trickfilmmenue (19xx)(-)">
+		<description>Trickfilmmenue (19xx)(-)</description>
+		<rom name="(DE).p" size="7431" crc="4c6ce971" md5="f0a538a5c495dc3ccfd75a07f6221c7d" sha1="fc81f71b26b21bd829aedc2099ec86f57b1163f4" />
+	</machine>
+	<machine name="Trojan Dragon (19xx)(Fawkes Computing)">
+		<description>Trojan Dragon (19xx)(Fawkes Computing)</description>
+		<rom name="Trojan Dragon.p" size="9116" crc="df935d97" md5="73cbf1be8e42493bfd8921cb78334147" sha1="08518db2057a60ffd4e256333c485efa57fbd4d2" />
+	</machine>
+	<machine name="Truco (19xx)(-)">
+		<description>Truco (19xx)(-)</description>
+		<rom name="(Enter Spectrum issue 13)(ES).tzx" size="2117" crc="e090a5de" md5="1c649f22849c7c1cc0f172b6fca20658" sha1="3ebf3dbdcbc3d0010484e5b63e967a67d964a6e2" />
+	</machine>
+	<machine name="TsveTochek (2018)(-)">
+		<description>TsveTochek (2018)(-)</description>
+		<rom name="TsveTochek.scl" size="49179" crc="744dfae1" md5="de5fcdc8982249bc6b2e525dbfe1c94a" sha1="d826d35968f29c2a69f3975f701a3f64e123818d" />
+		<rom name="TsveTochek.sna" size="131103" crc="48d95feb" md5="6270a97467c40349d5063f63ffc036ab" sha1="d6a67fad4fde87a1aee8afe74bf381394e8633b8" />
+		<rom name="TsveTochek.tap" size="32906" crc="6eb8b053" md5="7f5e009b0b7d83c164dcdfed87e615ba" sha1="11cb548fb08bafd2bf9f69747069d3e3c1053ed8" />
+	</machine>
+	<machine name="Twelve Games of ZXMas, The (19xx)(-)">
+		<description>Twelve Games of ZXMas, The (19xx)(-)</description>
+		<rom name="(EN).tap" size="17856" crc="36b4ada1" md5="750a883c6ce1b363507ea51a188fc3ea" sha1="58facd9de45715af881b3d0b195f2ce00aac7be3" />
+	</machine>
+	<machine name="Tyrant of Athens (1982)(MC Associates)">
+		<description>Tyrant of Athens (1982)(MC Associates)</description>
+		<rom name="(EN)[a 1982 MC Lothlorien Ltd].p" size="12848" crc="00039ed3" md5="40c8cfd3ebeb9510f04115b34be32097" sha1="347c589d6d9a22794f863d6e61be0ce8c31ec485" />
+		<rom name="(EN)[a 1982 MC Lothlorien Ltd].tzx" size="13068" crc="fc3fd4f8" md5="c3f5e5d0f379fe1529a27596a8d5b13f" sha1="882b644962f09d68bc813563478d773c3a07115b" />
+	</machine>
+	<machine name="UFO + 3D Maze (1982)(Babtech)">
+		<description>UFO + 3D Maze (1982)(Babtech)</description>
+		<rom name="(EN).tzx" size="7947" crc="440c7b27" md5="687e5f698edd35a4389c0bc60195be13" sha1="37897e8e7b7cb19c20ba93606dbf9971b4b59f33" />
+	</machine>
+	<machine name="Variables Monitor (19xx)(-)">
+		<description>Variables Monitor (19xx)(-)</description>
+		<rom name="(Use and Learn)(EN).tzx" size="915" crc="01ca0d0c" md5="2757b905baf850f5437654ac3d521d5f" sha1="b1d92d7a64e894612169ff5c20f6383f6f565950" />
+	</machine>
+	<machine name="Who is This an ASCII Picture of (19xx)(-)">
+		<description>Who is This an ASCII Picture of (19xx)(-)</description>
+		<rom name="(EN).tap" size="2230" crc="248771c7" md5="4070b84ebee2ca30b8de2b6827ea7f1d" sha1="1726ca7e4b44660bfaeec9381ec5aa8e045f2bbc" />
+	</machine>
+	<machine name="Writing Adventures (19xx)(-)">
+		<description>Writing Adventures (19xx)(-)</description>
+		<rom name="(Spectrum Computing 11)(EN).tzx" size="3858" crc="c1e99127" md5="acc47ec2f318335b302860d6c357ea54" sha1="376e04ce5e61c81e628581d61282491c1ea289fc" />
+	</machine>
+	<machine name="Wurmer (19xx)(-)">
+		<description>Wurmer (19xx)(-)</description>
+		<rom name="(EN).tap" size="7753" crc="04045058" md5="6d3bf0c12050b43da5f8d4678324135b" sha1="baeabe59e7e97a5feb22771606cbcc05a0105c13" />
+	</machine>
+	<machine name="Yatzy (19xx)(-)">
+		<description>Yatzy (19xx)(-)</description>
+		<rom name="(Joystick issue 8612)(SV).tap" size="4360" crc="8a365cff" md5="888e874d592d2c7b3784055c5a7cf12e" sha1="97caf350861b7fea9e7524a1fb65c0c86039d37a" />
+	</machine>
+	<machine name="Zaraks (1983)(CRL Group PLC)">
+		<description>Zaraks (1983)(CRL Group PLC)</description>
+		<rom name="(EN).tzx" size="3905" crc="d4679b27" md5="2475587dbf16ffb27fb5ac5c6ea12d80" sha1="1dc9b4cb5ea9f8f8dc0f24c0a040721fec44e02d" />
+	</machine>
+	<machine name="ZEESLAG (19xx)(-)">
+		<description>ZEESLAG (19xx)(-)</description>
+		<rom name="(NL).p" size="3099" crc="eaff8c1b" md5="a105d27df50424370d0a01106a0e2722" sha1="31471f97e7b47b56881053891d49439c7abdc441" />
+	</machine>
+	<machine name="Zuckman (1982)(DJL Software Ltd)">
+		<description>Zuckman (1982)(DJL Software Ltd)</description>
+		<rom name="Black Inlay variant(EN).tzx" size="10151" crc="8ae3c55a" md5="151949d9d0d31c82c8c15d7725973140" sha1="144c4f5e254d38361c5ba01d21ecaace2ec75666" />
+		<rom name="White Inlay variant(EN).tzx" size="10151" crc="ca87cd1d" md5="f8745bc468643f1b7d2ca2b64ff9f2a7" sha1="33b2ee6f935001256d7991e244f83b513e277421" />
+	</machine>
+	<machine name="ZX Forth (1982)(Artic Computing Ltd)">
+		<description>ZX Forth (1982)(Artic Computing Ltd)</description>
+		<rom name="(EN).p" size="7697" crc="3844b145" md5="1e9ef5344438ab4bc743961e58ec3626" sha1="39af8f0520b1807e8dd96660af6f2d47c6434cc0" />
+	</machine>
+	<machine name="ZX User #02 (1996)(-)">
+		<description>ZX User #02 (1996)(-)</description>
+		<rom name="(RU).scl" size="26907" crc="9b5165b3" md5="58dd74a9b8b1235bce162153074dc278" sha1="4b18f8c65923548e73a557d259d2e1cce417de0b" />
+	</machine>
+	<machine name="ZX-Panel (19xx)(-)">
+		<description>ZX-Panel (19xx)(-)</description>
+		<rom name="(EN).p" size="2214" crc="0577c1cf" md5="96afc2d3875b35534def0241341b84a5" sha1="07f06e3687bcab8ee7e7e2ee316c1d66209e9d14" />
+	</machine>
+	<machine name="ZXAS (1981)(Bug-Byte Software Ltd)">
+		<description>ZXAS (1981)(Bug-Byte Software Ltd)</description>
+		<rom name="ZXAS.p" size="5648" crc="97b09029" md5="ebd31db3f3d4b7769833db71cb9de789" sha1="3b6c13b213e4a5f87d629ff5c4cbbb33e9265702" />
+	</machine>
+	<machine name="Zzzappp (19xx)(-)">
+		<description>Zzzappp (19xx)(-)</description>
+		<rom name="(Joystick issue 8702)(SV).tap" size="3891" crc="4fdeda1f" md5="80b963f15ef2930cb04f3128e100e943" sha1="17e443e005b535f89f648e886c6bf66469b59fac" />
+	</machine>
+</datafile>

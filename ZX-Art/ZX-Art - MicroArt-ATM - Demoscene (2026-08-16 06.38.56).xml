@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - MicroArt-ATM - Demoscene</name>
+		<description>ZX-Art - MicroArt-ATM - Demoscene</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="ASCiI'2008 Demoparty Invitation (2008)(FishBone Crew, simbols)">
+		<description>ASCiI'2008 Demoparty Invitation (2008)(FishBone Crew, simbols)</description>
+		<rom name="(EN)(128K, ATM2)(PD)[h].trd" size="655360" crc="dbdb67aa" md5="ae1e74c64410198034585e61cc3b968c" sha1="06e4a7a099a2bc39bcfe4cbaec092dc92ce4ca00" />
+		<rom name="(EN)(GS, 128K, ATM2)(PD)[h].scl" size="77111" crc="6e4f679b" md5="e6a072818beed27bcbf6a69e17cd8860" sha1="1f0d7ac062cf8b5a270f01af1dc754d323eb7323" />
+	</machine>
+	<machine name="Board 2, The (2013)(Mayhem, Hooy-Program)">
+		<description>Board 2, The (2013)(Mayhem, Hooy-Program)</description>
+		<rom name="(ATM2)(File 1 of 2).rom" size="524288" crc="e75f76b4" md5="541851507fd23bc0a125513d5e1e4dba" sha1="56d2810cdfee5676232d7a659aefc6d80dc3b8a0" />
+		<rom name="(ATM2)(File 2 of 2).rom" size="524288" crc="0202237a" md5="2dd9a2c11530d69d14e7d16342d62be6" sha1="3889a8e2ed8d1eb2d1768207d1a70ab73774ebd0" />
+		<rom name="(ATM2).trd" size="655360" crc="ff053ba0" md5="1b0358c7d67e9fb612165eb756f19425" sha1="fe8958c6188ce64e88934ebb4049d4e44336beb6" />
+	</machine>
+	<machine name="Borntro 2008 (2008)(FishBone Crew)">
+		<description>Borntro 2008 (2008)(FishBone Crew)</description>
+		<rom name="(128K, ATM2)(PD)[h].scl" size="53587" crc="d71bd613" md5="c0877df317ceb5f76ce38556f02844eb" sha1="8d6a61deba7b49277295b17659634e1dc9e6143b" />
+	</machine>
+	<machine name="Gift 2018 (2018)(-)">
+		<description>Gift 2018 (2018)(-)</description>
+		<rom name="(ATM2, BaseConf).scl" size="64539" crc="d55ede08" md5="1a37e8161fb76b38f8451b04924e153b" sha1="7e65eebf5b50e401f2cc21b2ef72a55e35d04575" />
+	</machine>
+	<machine name="Krazy Shaos (2013)(NedoPC)">
+		<description>Krazy Shaos (2013)(NedoPC)</description>
+		<rom name="(ATM2, BaseConf).scl" size="1321" crc="110c95c7" md5="ed7a5816a5c7cc96960cd4670641ad24" sha1="9b170a7cf234839892d04b627f3eb52517909e7a" />
+	</machine>
+	<machine name="Personal Nightmare (2008)(Omega Hackers Group)">
+		<description>Personal Nightmare (2008)(Omega Hackers Group)</description>
+		<rom name="(ATM).scl" size="312929" crc="e8bf5e2b" md5="8265db8ed08cfe74deb7579963c3fec7" sha1="515eb9b36344da056cfd11980637ef22bdff06d8" />
+		<rom name="(ATM2).scl" size="312417" crc="f6dda3f7" md5="9972396b5b1758e0090ce204d2f97935" sha1="91b9d4421624bfea15ad764200df4b9c3e4c7032" />
+		<rom name="(BaseConf).trd" size="655360" crc="295806ef" md5="62c6d6a542727df62666464d3c9ccbde" sha1="22cf3ec49a9e97351c3650410646608b52fcbe9f" />
+	</machine>
+	<machine name="Rechnoy reyd (2026)(Plastmassovyy Mir)">
+		<description>Rechnoy reyd (2026)(Plastmassovyy Mir)</description>
+		<rom name="(RU)(GS, BaseConf)(PD).scl" size="52507" crc="ba1c0d2e" md5="4e9f9a2da995986e660b3bf9fd351341" sha1="bed0459e03f2c49cb9f920af9fac1613c00f9ab0" />
+	</machine>
+	<machine name="Timmy (2014)(Speccy.pl)">
+		<description>Timmy (2014)(Speccy.pl)</description>
+		<rom name="(BaseConf)[tr EN 2026 Plastmassovyy Mir, aGGreSSor].scl" size="40731" crc="6df5117b" md5="71a037b5120ca417ee10730f096ab9d3" sha1="a37375f4a6a1690e120e4c31c1e5274825f0a3a4" />
+	</machine>
+	<machine name="vD14F (2008)(FishBone Crew)">
+		<description>vD14F (2008)(FishBone Crew)</description>
+		<rom name="(EN)(128K, ATM2)(PD)[h].scl" size="49491" crc="34b2e574" md5="cf166f7bb8e49f111cb06f767713f639" sha1="0efa09a76496401a8bb6293e5a9812490a16c1b0" />
+	</machine>
+</datafile>

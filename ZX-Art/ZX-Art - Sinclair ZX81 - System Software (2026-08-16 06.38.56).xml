@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair ZX81 - System Software</name>
+		<description>ZX-Art - Sinclair ZX81 - System Software</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Billboard (1984)(Orange Enterprizes)">
+		<description>Billboard (1984)(Orange Enterprizes)</description>
+		<rom name="Display a scrolling sign. Timex(EN)[a].p" size="2078" crc="e5d9d06b" md5="7d9975c66773019cce0f6884003e6b79" sha1="83cef7f34634abfa2a7769d61a27a4713d2bfb90" />
+	</machine>
+	<machine name="FORTH (1983)(Abersoft)">
+		<description>FORTH (1983)(Abersoft)</description>
+		<rom name="(PT).p" size="8266" crc="07d4bd8d" md5="2f4bf6ac1d805f7e98e76fe2f9db9785" sha1="2ada0db572660259b7ab951e047def6c4f7a0e17" />
+	</machine>
+	<machine name="Forth (1985)(Your Computer)">
+		<description>Forth (1985)(Your Computer)</description>
+		<rom name="(EN).p" size="4135" crc="f79502cd" md5="6cf476787becfd3fe2283a29a08d6a22" sha1="b64d8b91efa36ef195c1f3828ab999088766e767" />
+	</machine>
+	<machine name="HRG-ms (19xx)(Matthias Swatosch)">
+		<description>HRG-ms (19xx)(Matthias Swatosch)</description>
+		<rom name="v2.8(EN).p" size="5474" crc="b8a21dc2" md5="32846f244eb5c69c4c574ca66300b9e8" sha1="0f47bc24a4580d702f353304e57381a55675a378" />
+		<rom name="v2.8(EN)[a Matthias Swatosch].p" size="5463" crc="740ff8ba" md5="c96347ebeae9fb8f566e9c99c55d578b" sha1="c16384bf3bb8c62c47b9f79990ae04637ccf2895" />
+	</machine>
+	<machine name="Ordidactic (1984)(ERE Informatique)">
+		<description>Ordidactic (1984)(ERE Informatique)</description>
+		<rom name="(FR).tzx" size="13405" crc="18d4164b" md5="3dad7406160e3d74f5b7787c9290f39e" sha1="2d13a2130c3e7dff6f174285a1ab4a963a3990fe" />
+	</machine>
+	<machine name="Salarios (1982)(LOG [2])">
+		<description>Salarios (1982)(LOG [2])</description>
+		<rom name="(PT).p" size="15714" crc="1dc25b0d" md5="d7af3395c1c497c6bf57811a296c4726" sha1="12896c3193eda62c1832ba31dd89a61aa6191bdc" />
+		<rom name="(PT)[a 1982 LOG [2]].p" size="25156" crc="888a94f1" md5="148115ec0a4a90d29e962df241f02ce6" sha1="de64482294e8a9a9ba1829fdb7fa87c03b4ff7fd" />
+	</machine>
+</datafile>

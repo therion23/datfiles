@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - ZX-Uno - Demoscene</name>
+		<description>ZX-Art - ZX-Uno - Demoscene</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Rechnoy reyd (2026)(Plastmassovyy Mir)">
+		<description>Rechnoy reyd (2026)(Plastmassovyy Mir)</description>
+		<rom name="(RU)(PD).tap" size="51740" crc="779599d5" md5="ac529358aa69487de89b397f7f97e546" sha1="f0b9d14e3c9484411b9caa1a75ce7227e88f0b1c" />
+	</machine>
+</datafile>

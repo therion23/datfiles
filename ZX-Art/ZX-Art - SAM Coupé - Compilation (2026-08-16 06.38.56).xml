@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - SAM Coupé - Compilation</name>
+		<description>ZX-Art - SAM Coupé - Compilation</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="CSSCGC Crap Games Competition 2013 (2013)(R-Tape)">
+		<description>CSSCGC Crap Games Competition 2013 (2013)(R-Tape)</description>
+		<rom name="Sam Coupe version(EN).dsk" size="819200" crc="04180a60" md5="aee4d31577d20318e2a0e50599bdd522" sha1="03b5cb440a45535dfe60d7f521232952aeb055f5" />
+	</machine>
+</datafile>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair ZX81 - Demoscene</name>
+		<description>ZX-Art - Sinclair ZX81 - Demoscene</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Invader (1988)(Daton Software)">
+		<description>Invader (1988)(Daton Software)</description>
+		<rom name="(DA)[a Scan Bit Software].p" size="3092" crc="f723b188" md5="942c16c5cfa64ca8bdb1231a83514046" sha1="4e12409a14ef0d869bb8bfd18606d7cb61a90cb0" />
+		<rom name="(DA)[a Scan Bit Software].tzx" size="3304" crc="0abd6c66" md5="1eaacf3b930ce8d1b29f12f3d1693625" sha1="6e90a49bdcd555f4444ecb5e0a8baeb325910c8b" />
+	</machine>
+	<machine name="Money (1990)(Kassoft)">
+		<description>Money (1990)(Kassoft)</description>
+		<rom name="(EN).p" size="9966" crc="f35a24c4" md5="0c9ec3488d9e02b9bfc259b9aea49e76" sha1="0ae41bd1df3b5d8687957399b3c28d94d8af24c1" />
+		<rom name="(EN).z81" size="27800" crc="e5a3d02f" md5="688ebe68590c4897e863d4f8580e4d34" sha1="b457bc5edda36e61115da9ea06add4fd703b5124" />
+	</machine>
+	<machine name="rezurrection (2006)(Bodo Wenzel)">
+		<description>rezurrection (2006)(Bodo Wenzel)</description>
+		<rom name="(EN)(File 1 of 6).p" size="159" crc="d5b5d2b0" md5="253f007c00f08777014863ee4e079712" sha1="6aa49520c84a2ccbdbb7175ff766e86c1fa38804" />
+		<rom name="(EN)(File 2 of 6, Part 1).p" size="505" crc="8fe6b05d" md5="46a9a95c888cafa42859ab56c58104cd" sha1="c29bbeecbf762e2804744c9bbd62850cbba416d1" />
+		<rom name="(EN)(File 3 of 6, Part 2).p" size="844" crc="c5b64f3e" md5="b8416142ef4239f8aa888b611b2c7cd1" sha1="9c81fc7fa94082f5ad42e64695a5df25a3976e43" />
+		<rom name="(EN)(File 4 of 6, Part 3).p" size="832" crc="596ba1f2" md5="5227d3b37ff945643dd596e09bf60ebb" sha1="739d2922767fe0ce238d2ad21559afcbe2999622" />
+		<rom name="(EN)(File 5 of 6, Part 4).p" size="693" crc="1e2522a7" md5="55e30631831741043dbd91c92cd9b33a" sha1="6fadf4bd998d7bcacb7cf4e918254dde76d19b2c" />
+		<rom name="(EN)(File 6 of 6, Part 5).p" size="956" crc="cb436b12" md5="d138ebc6d7b6cf05a61df4396ead183a" sha1="4874d84f3da823bc55e6ed4b35b4c9831b3ccdf5" />
+	</machine>
+	<machine name="SCONNEX (2025)(ORAC81)">
+		<description>SCONNEX (2025)(ORAC81)</description>
+		<rom name="(EN)(PD).p" size="9211" crc="ff4d7789" md5="05806baa145bdd84b24860f88637004c" sha1="570752e8d92c1949f2adb8b09f5b599cfaf247e1" />
+		<rom name="(EN)(PD).tap" size="7756" crc="b581cae8" md5="8dd43dddbfc473ff7ddb0695e7bbc802" sha1="ca904d9829e8713c7e720960ba2376aba790292f" />
+	</machine>
+</datafile>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Peters Plus Sprinter - System Software</name>
+		<description>ZX-Art - Peters Plus Sprinter - System Software</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Advanced Art Studio (1986)(Rainbird Software Ltd)">
+		<description>Advanced Art Studio (1986)(Rainbird Software Ltd)</description>
+		<rom name="v2.01(EN)[h 1999 Anton Enin]\artstutio128_for_sprinter-km.trd" size="655360" crc="dafb4261" md5="06da9e663ae6e75030624d36335601b1" sha1="472bb8351a546315e59100e3571712a92521cc95" />
+		<rom name="v2.01(EN)[h 1999 Anton Enin]\readme.eng" size="305" crc="357c4dec" md5="fa36c5010baad182f92dd2271d74028d" sha1="2b8e64bb2f981ecaf01d323535782c41896797e4" />
+	</machine>
+</datafile>

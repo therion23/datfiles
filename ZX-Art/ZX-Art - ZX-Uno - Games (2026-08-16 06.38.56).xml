@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - ZX-Uno - Games</name>
+		<description>ZX-Art - ZX-Uno - Games</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Hi-Color Hero+ (2026)(Plastmassovyy Mir)">
+		<description>Hi-Color Hero+ (2026)(Plastmassovyy Mir)</description>
+		<rom name="(EN, RU)(BaseConf)(PD).tap" size="55520" crc="84e28bb7" md5="7033a03b6ea109ffaa1834883a017032" sha1="40f8dbf958787905359d43256e8f98b8c3e164f3" />
+	</machine>
+	<machine name="Nextipede (2016)(Jonathan Cauldwell)">
+		<description>Nextipede (2016)(Jonathan Cauldwell)</description>
+		<rom name="(EN)[h 2019]\NEXTIPED.BAS" size="177" crc="89cb4fce" md5="1186f4cabbe246f26887a4590c41a673" sha1="b8cfcaa47282f5080163791a49eb1bbdb875b33d" />
+		<rom name="(EN)[h 2019]\NEXTIPED.COD" size="3993" crc="17834e4f" md5="8df2b1645bc418d317425b8d9edfaf11" sha1="d37b9c44e419aebd1413a6eb583641e0cbbcb1e9" />
+	</machine>
+	<machine name="Ship Fix (2016)(yombo)">
+		<description>Ship Fix (2016)(yombo)</description>
+		<rom name="(ES)(TS)[h 2022 SCjoe]\SHIPFIX.BAS" size="204" crc="c11eed8e" md5="460dee2871f2252bbb0023dd01f1519b" sha1="f9c2e9967cbbeb7aabefa287b0a5c91b402d53cb" />
+		<rom name="(ES)(TS)[h 2022 SCjoe]\SHIPFIX.TXT" size="1843" crc="d42de7cc" md5="792092ed1059b01c6594331d7b998212" sha1="9933a8e249bd4f8bac657cbdcf34779f8619fe5a" />
+		<rom name="(ES)(TS)[h 2022 SCjoe]\SHIPFIX1.COD" size="8627" crc="84037494" md5="20919e2672238c906e1a9daab1fa4bc4" sha1="6f000f1c6b5771f77706787205116a8bb53c4f2c" />
+		<rom name="(ES)(TS)[h 2022 SCjoe]\SHIPFIX2.COD" size="29260" crc="a63f5d6d" md5="4eb4d2b3bf148a6f1bd578fef65c6d4c" sha1="972832ea47db11884e0745be9c148bf37aa6ed4e" />
+	</machine>
+	<machine name="SLAMtris (2019)(Cheveron Group)">
+		<description>SLAMtris (2019)(Cheveron Group)</description>
+		<rom name="(EN)(ULAPlus, TS)(PD).tap" size="97419" crc="6b19a121" md5="725940bbdf655e70e0bdc8af329b5f24" sha1="b7edb1558ca40537dad68ced041950e32cd5158e" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-1.COD" size="14986" crc="56815f60" md5="9b3a2a5e5e999dde00ebcad10aaede40" sha1="fc9d4f7f0066826704a244295aa29d69ca9018fa" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-2.COD" size="640" crc="5916df1f" md5="2174cf25122ac2d89c099dfcebbcc59a" sha1="d7ada3ad894497cdd093ddaa9b253b77c054128a" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-3.COD" size="16512" crc="7e073c65" md5="ca0c43d2bc51e4f7fb3b5ecff876aaf1" sha1="f6cc9ef71d08f662078eed705afc7cb1837e6791" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-4.COD" size="16512" crc="3cae3cb6" md5="8f7c3ee241dead928bbb771a4e7fcc4c" sha1="d220c3e52c68d4c7dc5c8fc27be2d4cd4b12aa10" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-5.COD" size="16512" crc="30bcd158" md5="94dbf53cf1508cfd41fe284690c1f3c3" sha1="cd5038c2cea51426ba1ee59ac661ea4318834c9a" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-6.COD" size="16512" crc="b44650c9" md5="9a5449c30d343024aac5c684e6a12f66" sha1="b8969329a519873f2a2bba7400305d3f8ca2c66e" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTR-7.COD" size="16035" crc="b2ee88ec" md5="e967a5d81e05ead8cc5c85aed68c9de4" sha1="537d0687111b93dfd73fd0a8e1698c3984a828d9" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTRIS.BAS" size="707" crc="0af2792a" md5="340bc899d147a6e4fde7ae2298ce5628" sha1="8778f8b63be8a43586acb0e9b8f201ee97bd702f" />
+		<rom name="(EN)(ULAPlus, TS)(PD)[h 2019]\SLAMTRIS.TXT" size="516" crc="3752aa71" md5="9f1e1057134f7da5f158a52dd12b030e" sha1="33a65b88a285b1898d3a337680aea3cefb1c6a3e" />
+	</machine>
+</datafile>

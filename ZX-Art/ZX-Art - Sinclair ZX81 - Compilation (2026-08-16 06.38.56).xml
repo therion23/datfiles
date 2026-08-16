@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair ZX81 - Compilation</name>
+		<description>ZX-Art - Sinclair ZX81 - Compilation</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Family Fun (1983)(Meow Micros)">
+		<description>Family Fun (1983)(Meow Micros)</description>
+		<rom name="side A(EN)[a 1983 Meow Micros].tzx" size="16817" crc="3baa2945" md5="6435b4212f1e02ed47ccd88470c0f848" sha1="4d1587655603a7f71af10619da711bab3951388a" />
+		<rom name="side B(EN)[a 1983 Meow Micros].tzx" size="16222" crc="2da00e16" md5="cb8b02f4967ddd3fb79c970270cc2041" sha1="35da914651ec1bd8e09508d1e25514958e9f42a4" />
+	</machine>
+	<machine name="Gamespack (1984)(Sagittarian Software Ltd)">
+		<description>Gamespack (1984)(Sagittarian Software Ltd)</description>
+		<rom name="(EN)[a Mikro-Gen Ltd].tzx" size="2765" crc="ac29e717" md5="4ea79f08aa13ce99f63904cf3eef30fb" sha1="b958c8aa31610e87102fa449727c5b5e2e7b2bc3" />
+	</machine>
+	<machine name="QuickSilva Games (2010)(Toddy Software)">
+		<description>QuickSilva Games (2010)(Toddy Software)</description>
+		<rom name="(EN).p" size="6933" crc="0d0454e3" md5="430477cd7b9a87bbc35522b13aef3d9d" sha1="86228a10adae103407ff5551f4cab26da03a039b" />
+	</machine>
+	<machine name="Stormforce + Starbuster (1983)(Meow Micros)">
+		<description>Stormforce + Starbuster (1983)(Meow Micros)</description>
+		<rom name="side A(EN)[a 1983 Meow Micros].tzx" size="11659" crc="2efa4854" md5="c1244cc5da168514f0ce57d14262ec65" sha1="2af2719f9e837e9288edff0d823b326b82c7da3a" />
+		<rom name="side B(EN)[a 1983 Meow Micros].tzx" size="5741" crc="ccb7933b" md5="62f56ea4873b8d92704df96f4296e020" sha1="574376c6b80d1aebe89b63396fc5f8352ac756ee" />
+	</machine>
+</datafile>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - Sinclair ZX81 - Misc</name>
+		<description>ZX-Art - Sinclair ZX81 - Misc</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Doodle (19xx)(ICL)">
+		<description>Doodle (19xx)(ICL)</description>
+		<rom name="(FR)[a Direco International].tzx" size="763" crc="bd45330c" md5="80d6c0a05feca5d45372372e5868f458" sha1="c4febe8cec2c07b5e239e12b0653611b4d8c9daa" />
+	</machine>
+</datafile>

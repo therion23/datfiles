@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - eLeMeNt - Press</name>
+		<description>ZX-Art - eLeMeNt - Press</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Subliminal Extacy #00 (1994)(Extacy-3)">
+		<description>Subliminal Extacy #00 (1994)(Extacy-3)</description>
+		<rom name="(EN)[h SCjoe]\SE0-1.COD" size="13983" crc="7eac3bf8" md5="83d683f87dcb3f64aefb7572eb893838" sha1="c1e11658eee82f0ce3aeaa3f0a01e6e5d382952b" />
+		<rom name="(EN)[h SCjoe]\SE0-2.COD" size="36066" crc="0d272a3b" md5="9d872cd2440a5dc01654b6e6608bb7eb" sha1="0cc9e5968dfb9731bc0a2ea90ec5d3c945a0591f" />
+		<rom name="(EN)[h SCjoe]\SE0.BAS" size="274" crc="6286c2d0" md5="b9209c64f12da2f387559ad885118d64" sha1="fe068877bdc819077642c749a73850419d7d42e6" />
+	</machine>
+	<machine name="Subliminal Extacy #01 (1995)(Extacy-3)">
+		<description>Subliminal Extacy #01 (1995)(Extacy-3)</description>
+		<rom name="(EN)[h SCjoe]\SE1-1.COD" size="17503" crc="3af6a04c" md5="b8c2e474bbed611c69db169a857b1484" sha1="65494ca575241ad9ace6441074484c40294b2024" />
+		<rom name="(EN)[h SCjoe]\SE1-2.COD" size="31907" crc="4e01d466" md5="d9aa6bc8d3e4142beccdb4e7e9820b20" sha1="06e6d9eaa1fbe6c52bf8da9f90c88a2951c97bb3" />
+		<rom name="(EN)[h SCjoe]\SE1-3.COD" size="32297" crc="ea4572c8" md5="3c11a9037c204baa5e2f98c4a2afccb1" sha1="e62280b370b5e8bd462916512f9eb5a3067f9a7b" />
+		<rom name="(EN)[h SCjoe]\SE1-4.COD" size="29150" crc="660d914b" md5="3185846ba3e41b8b94a0e6d13c65d38f" sha1="83f2f4c1b035533d6c7ca2f9accbe4f70ebbca07" />
+		<rom name="(EN)[h SCjoe]\SE1.BAS" size="653" crc="4f787bcc" md5="ee691dc86acace71748e836fc6abca95" sha1="dfd35f36bcd997cbb34ea0b6873588fedf03be0a" />
+	</machine>
+	<machine name="Subliminal Extacy #02 (1995)(Extacy-3)">
+		<description>Subliminal Extacy #02 (1995)(Extacy-3)</description>
+		<rom name="(EN)[h SCjoe]\SE2-1.COD" size="20470" crc="ba6913da" md5="41c89e19d3ac9dc6a06fe4a05630ca75" sha1="bd1f4670246feecece69dd905c8a967ad01c81c8" />
+		<rom name="(EN)[h SCjoe]\SE2-2.COD" size="32589" crc="7187c54f" md5="1c1351ea931cba998d41876daf93d62b" sha1="ec087af631e6c3a11f16e4fbe509b7a9f34827c6" />
+		<rom name="(EN)[h SCjoe]\SE2-3.COD" size="32614" crc="c78ef8fe" md5="6e0536d7e3b74f52328b694c27a6c27c" sha1="0b0169faafd40b11c2ebe0ee531e9ae0d4c623dd" />
+		<rom name="(EN)[h SCjoe]\SE2-4.COD" size="29701" crc="ad1b06ef" md5="20a70e45b82f4caab32c98df309cbb92" sha1="ae3d68dd0ce3f3a537c7e0c389e73c07314dbc2b" />
+		<rom name="(EN)[h SCjoe]\SE2.BAS" size="665" crc="b78c0707" md5="3f16b29b4402197c3fb9a2440138bc72" sha1="2aac9a773614880615397907776b92c829d0400d" />
+	</machine>
+	<machine name="Subliminal Extacy #03 (2001)(Extacy-3)">
+		<description>Subliminal Extacy #03 (2001)(Extacy-3)</description>
+		<rom name="(EN)[h SCjoe]\SE3-0A0.BIN" size="2554" crc="2561d571" md5="b250887f615f2ce238f12508ef8dc3db" sha1="59edfb2d82d914a03a90f5d036b15a5fc3775ed4" />
+		<rom name="(EN)[h SCjoe]\SE3-0B0.BIN" size="2048" crc="1961fea5" md5="76b010cbda1b30ed16f63c6767962bd7" sha1="76be2ca5508e740fe3471902aeb1d7f0506d5609" />
+		<rom name="(EN)[h SCjoe]\SE3-0C0.BIN" size="1689" crc="a230ff92" md5="a1e0d32ad6dd013496b96800550cf364" sha1="6d4ad4bbca4e0d77f48e96b94b2b4f62adc59135" />
+		<rom name="(EN)[h SCjoe]\SE3-0D0.BIN" size="1923" crc="4d5fbae0" md5="93263a1eaac30cded189b7fb7ba41046" sha1="80fa182981c8b06c1a523b84fc2b94a629b656a5" />
+		<rom name="(EN)[h SCjoe]\SE3-1A0.BIN" size="3194" crc="18a6b47b" md5="b2fbd67e287512a10ed5534b9d42f20b" sha1="fa76d73e85580dfa5dac671d0d35b00861ed810b" />
+		<rom name="(EN)[h SCjoe]\SE3-1B0.BIN" size="950" crc="58b9cc9e" md5="1a9843ad6d0bc0fa5f42afd87b999364" sha1="cab8d0010598b870af78ec587be257cbab56bd07" />
+		<rom name="(EN)[h SCjoe]\SE3-1C0.BIN" size="2796" crc="6d755ede" md5="84df8833bca9beb95b7acfbe72e9b52f" sha1="d20ca6eeb674f0af98211af3f29bc20a19b89a9a" />
+		<rom name="(EN)[h SCjoe]\SE3-1D0.BIN" size="4853" crc="b0a9e146" md5="c7e256719b4e9e9bb6064698f7d35146" sha1="4b5ac98da4f4853bc4c93ee73a2401fbb89de962" />
+		<rom name="(EN)[h SCjoe]\SE3-1E0.BIN" size="1426" crc="296bc630" md5="afa12f5ed891b4049525bd6beeac6cde" sha1="a5ff5e585eed80d8367b7394458630827b6d1735" />
+		<rom name="(EN)[h SCjoe]\SE3-1F0.BIN" size="2403" crc="65b00e41" md5="3cdeafd9820d093b2b20a46d3c9fdc92" sha1="4814d6264c61b1517815c970bdd6b2da0f611d2f" />
+		<rom name="(EN)[h SCjoe]\SE3-2A0.BIN" size="3164" crc="a328c447" md5="a39963afa6ba4fbe62cd94576e5c56f4" sha1="cb2cfb31a19a68f703cee3800bd8a45606532df4" />
+		<rom name="(EN)[h SCjoe]\SE3-2B0.BIN" size="3768" crc="2639a1a8" md5="d89646d3f6418b1f246d44c39d9a23b2" sha1="2123c261561723788bedbd86808a4b7a36ddf832" />
+		<rom name="(EN)[h SCjoe]\SE3-2C0.BIN" size="2987" crc="5ecbac13" md5="6300a972f9e436f4b9bf8739b37669ee" sha1="84a0a1b5f9460ebddba65882bb071cfa700da809" />
+		<rom name="(EN)[h SCjoe]\SE3-2D0.BIN" size="373" crc="2007f68d" md5="337c3c5e59f825e0b494e39f9b66dd3a" sha1="31f7bd3f876b212cf46d39facdf6dd0ad1de0473" />
+		<rom name="(EN)[h SCjoe]\SE3-2E0.BIN" size="3758" crc="834ac585" md5="5c623fab6f73c1e0d42cf69c797e7188" sha1="7ce47b66476b6c159b4615b33dd2159ea9663aa9" />
+		<rom name="(EN)[h SCjoe]\SE3-2F0.BIN" size="3087" crc="bf8f08f4" md5="6a893479b33dc8297eae37395f9f21b1" sha1="09d71e6b2177846b4ab7d80282dc017c31d5fdcb" />
+		<rom name="(EN)[h SCjoe]\SE3-2G0.BIN" size="2058" crc="2fcc7883" md5="be197edaea38849ed539a93ed1c0c30e" sha1="1cc7fdde49b7ddc72070079267451356b996a01d" />
+		<rom name="(EN)[h SCjoe]\SE3-2H0.BIN" size="3259" crc="52fc12d3" md5="7f1c605e6d90abe987af7904efd2efe2" sha1="1a72d10d80aed40d615029201d4d4d1379f4e52b" />
+		<rom name="(EN)[h SCjoe]\SE3-3A0.BIN" size="1614" crc="6fd39f4c" md5="0759c57eca655fcbcb3daeb5d8cd594d" sha1="ffddb5c3303c72c7085296298b8b059aa130907e" />
+		<rom name="(EN)[h SCjoe]\SE3-3B0.BIN" size="5512" crc="4871970c" md5="d8012e5ef7f8b1785814847274b989b8" sha1="d46f805ea23c643df505ad417ec9f2827f78b89c" />
+		<rom name="(EN)[h SCjoe]\SE3-3C0.BIN" size="1679" crc="0bf257cb" md5="7a3ad1943ea377e7716fa300be7dd775" sha1="4fe39240c67eef75ab135df35394c36ec6abda72" />
+		<rom name="(EN)[h SCjoe]\SE3-4A0.BIN" size="3393" crc="3891cb70" md5="529adee920979a4f86817af7ef6ef894" sha1="e27ad1f27f66117e57589d721632badf5595ca5f" />
+		<rom name="(EN)[h SCjoe]\SE3-4B0.BIN" size="2894" crc="e789e691" md5="e1b33ce5039378daa384e4db20c584dd" sha1="6ef1f7f5d88c69c157b6ddd33f7c7abab659ec5b" />
+		<rom name="(EN)[h SCjoe]\SE3-4C0.BIN" size="3420" crc="b26a9f07" md5="64717bfe5adbfe382a63f9ab4913457e" sha1="5d97796b7054a5059195732dc07e44b39f63c680" />
+		<rom name="(EN)[h SCjoe]\SE3-5A0.BIN" size="1976" crc="c3e1cbd8" md5="940aa285ef2c40b379dda4f1158c043b" sha1="da19718916780445188f9075adbb5d02b74424cb" />
+		<rom name="(EN)[h SCjoe]\SE3-5B0.BIN" size="2448" crc="be638212" md5="938eca03a85b2f73650c7ca26aae324c" sha1="f649d7a8f81a05a0c1928d98b98e7d31ffd3e8f0" />
+		<rom name="(EN)[h SCjoe]\SE3-5C0.BIN" size="4615" crc="50c39964" md5="6cb482fb39469d4b69d9280a839fd8a7" sha1="07f9b175fde5bf33147bbf656f35fa1e03066478" />
+		<rom name="(EN)[h SCjoe]\SE3-6A0.BIN" size="2632" crc="e740111d" md5="473ed022c665bc351848afcc67564169" sha1="8a198f0fdf72ee9f50a8e6d203ad11c2c9dcb69e" />
+		<rom name="(EN)[h SCjoe]\SE3-6B0.BIN" size="2394" crc="adab3cda" md5="82c202086265c310f4c9a27c786914fc" sha1="d09d1dc29ec86101066dbf20a51a7d6da91236a8" />
+		<rom name="(EN)[h SCjoe]\SE3-6C0.BIN" size="4445" crc="ddb18a2b" md5="b5a0e1252de7caf1397c1870f7817a3c" sha1="5d22c0fd111570613a586b5be1eaab58db1af713" />
+		<rom name="(EN)[h SCjoe]\SE3-6D0.BIN" size="3343" crc="41d8898e" md5="6968eb36a2de6aa226e8e389983f7855" sha1="cc631097bda57e2ba78904570c04c9c38b5a1c45" />
+		<rom name="(EN)[h SCjoe]\SE3-6E0.BIN" size="8704" crc="71dea059" md5="bcd1c6c904e1a6947df4c2192fd61650" sha1="80c3cd9abb185c1145599707b37f67fe2f5042af" />
+		<rom name="(EN)[h SCjoe]\SE3-6F0.BIN" size="4199" crc="d1087809" md5="76b0070402da89dce6a5d9e8c4b1cc8e" sha1="4f6cc046c83dc938c0e61e6e54f63a5283c7092d" />
+		<rom name="(EN)[h SCjoe]\SE3-6G0.BIN" size="1940" crc="46f09ddd" md5="35f32b00163448399791c8dc271c2037" sha1="e34de9b1cb0d8da07b59f86bdbba789de2ec500b" />
+		<rom name="(EN)[h SCjoe]\SE3-6H0.BIN" size="3487" crc="24158cc5" md5="103b15aae5819205f5b7443ded05af37" sha1="98569faa682f3cc5cdc394b3cfff12a45d0877b0" />
+		<rom name="(EN)[h SCjoe]\SE3-6I0.BIN" size="3372" crc="8365121b" md5="ab2b9dd89015bbace00a68f2daf96a3e" sha1="7e14681fa43b11d569553ab64d41f07eb72df2e0" />
+		<rom name="(EN)[h SCjoe]\SE3-7A0.BIN" size="2047" crc="b4796ebc" md5="845ad36b1fc1258186a29f0ba4337ece" sha1="e481b4f1e48aae5200e71bed81c5f9c0d37ec941" />
+		<rom name="(EN)[h SCjoe]\SE3-7B0.BIN" size="3038" crc="2e73b4f2" md5="62ca27f4ac2ca81aacdcfc614d98f36f" sha1="08489c9d2394ee58659245be0415ae6cee903f54" />
+		<rom name="(EN)[h SCjoe]\SE3-7C0.BIN" size="5849" crc="b70e78cf" md5="944af573460fcf414861a048d7193cda" sha1="1166ebab7ddcefcadc38676e4d0fea737666f715" />
+		<rom name="(EN)[h SCjoe]\SE3-7D0.BIN" size="720" crc="db2ffaf8" md5="6d8fab7a4f391a8b8a3d64c2471c5c27" sha1="99bb7d27e1ab969878c3e410293a322c0e896e5f" />
+		<rom name="(EN)[h SCjoe]\SE3-7E0.BIN" size="991" crc="5d3473d4" md5="48dde2448a8037f02cd4db83416fc81e" sha1="f305cedce897c1ea3399d1ad68d1223e7926075a" />
+		<rom name="(EN)[h SCjoe]\SE3-8A0.BIN" size="4783" crc="269922ce" md5="c93010474968abee00578034ecf9ae82" sha1="2deacb114804623dafc7b5abda906c5a5606b414" />
+		<rom name="(EN)[h SCjoe]\SE3-8B0.BIN" size="1662" crc="d64630b0" md5="cecc8e04ab6cffb87b63c85b0db2d246" sha1="49dcd7dd7a1db0f56f8717737e4f9e1a7ef20494" />
+		<rom name="(EN)[h SCjoe]\SE3-8C0.BIN" size="1817" crc="4da0a641" md5="bd94e4d67328a091790c5355903b3389" sha1="a676078aef00f2144f43a80bb974559daf229360" />
+		<rom name="(EN)[h SCjoe]\SE3-8D0.BIN" size="2918" crc="b2300a92" md5="54f14c9b03a81bb59e2fceb5ac893616" sha1="f895f50acf8c1e627a6dd9f551b49dae0610103c" />
+		<rom name="(EN)[h SCjoe]\SE3-8E0.BIN" size="1563" crc="9b34dc8f" md5="f87aa2562307d3a501810f27d43c2e0d" sha1="9660c48908ac52dc176674fd7b7bb6de09bb5e2c" />
+		<rom name="(EN)[h SCjoe]\SE3-C00.BIN" size="5968" crc="a673c12e" md5="523309cb1bb78e9af21f19d5c76e9630" sha1="d38f1ee742cca08f9ea93deeae970c258f4373f6" />
+		<rom name="(EN)[h SCjoe]\SE3-C01.BIN" size="5968" crc="a815a753" md5="aca69d1f2a88021855f9577e866f79b8" sha1="e73da42ccbb044ad03dace3e1e10c82a2ef797b0" />
+		<rom name="(EN)[h SCjoe]\SE3-M00.BIN" size="1557" crc="defc3678" md5="9c92e7d33b6cba8792f32f2b03012291" sha1="d652ac379f537050f4c57192d0790a080f5a9fd4" />
+		<rom name="(EN)[h SCjoe]\SE3-M01.BIN" size="489" crc="7dfe4664" md5="943c70f3567dd06a7597f4702c921df3" sha1="31e7dfe2c5d693cb8c48e9e7e29af4a01abd39b0" />
+		<rom name="(EN)[h SCjoe]\SE3-M02.BIN" size="1034" crc="765bc6d0" md5="3145c3c2610a27cbb1e9063e8f2f20f9" sha1="e65b4708539b209d8ffe2534a84b5a8b4a39afb7" />
+		<rom name="(EN)[h SCjoe]\SE3-M03.BIN" size="2327" crc="4277bb79" md5="55417ee25efd980b900dfe6fe4b4a2b7" sha1="569bdf150cb78397df3ed935e86e84d1e7c6158e" />
+		<rom name="(EN)[h SCjoe]\SE3-M04.BIN" size="1446" crc="aa143b55" md5="fccf6ef9051462bc97446954b0be3207" sha1="14febdf3b0702404469b304529ffbb938b679f06" />
+		<rom name="(EN)[h SCjoe]\SE3-M05.BIN" size="1613" crc="c44adc07" md5="46a43c1e345c8be433feaf1edb22517c" sha1="a06af5957509e3d62e4d881a54931d30e7bf5ea5" />
+		<rom name="(EN)[h SCjoe]\SE3-M06.BIN" size="3414" crc="5381c34c" md5="a6e98da1e9049a7f26bc5ea4a2a8004d" sha1="3838b0ad307438a542d0377a9dda1cda942ae74d" />
+		<rom name="(EN)[h SCjoe]\SE3-M07.BIN" size="1424" crc="3fa821cf" md5="65a6ca41c6ba33d9e5678456d9730743" sha1="24f955b86d6c5038c986178e5db735c948306c2d" />
+		<rom name="(EN)[h SCjoe]\SE3-M08.BIN" size="728" crc="c9607209" md5="f78b9dd827b61501d140ea556d577160" sha1="03f616df274f3dfde86146332edbdd3526a6faf6" />
+		<rom name="(EN)[h SCjoe]\SE3-M09.BIN" size="1599" crc="f0f08f44" md5="a052b712552cab9b7afeb1d125c93c8f" sha1="b7672d8b2adf92ae276eb42e118351502540fd6b" />
+		<rom name="(EN)[h SCjoe]\SE3.BAS" size="438" crc="6e3704ee" md5="b0a6e9c00b2859778b7ab35680474fcb" sha1="0560c291a0ba719b58d14386b6e9592fcb1033a1" />
+		<rom name="(EN)[h SCjoe]\SE3.COD" size="17650" crc="866de7b9" md5="c9519a6f9a22ea241c740ab5090778a8" sha1="a8efc453d1d382924bd31ae9af2c018bd329c764" />
+		<rom name="(EN)[h SCjoe]\SE3.SCX" size="1908" crc="4ed61d71" md5="ea88916fc1a83227df0127aa84ef8622" sha1="1ec40c6d66b28f6ab25d9067e8a78cd770b88b2b" />
+	</machine>
+	<machine name="Subliminal Extacy #04 (2021)(Papaya Dezign)">
+		<description>Subliminal Extacy #04 (2021)(Papaya Dezign)</description>
+		<rom name="(EN).tap" size="80663" crc="616c3b36" md5="900b375db3d70428e7b9edb3e5abefa4" sha1="628e9bd931570fe7d58ebd39f0a8fc84c74776a8" />
+		<rom name="(EN)[h 2021 SCjoe]\SE4512-1.COD" size="16465" crc="d33c08eb" md5="771e63f47ca0f22a3859e84eb6f64e39" sha1="c0362fef25a3606593b7eab6037b85d0691d127a" />
+		<rom name="(EN)[h 2021 SCjoe]\SE4512-2.COD" size="16452" crc="395ef72c" md5="115878293d02027af762d965d6619270" sha1="2eafde68a89f54987ee3f1aa632ceacc122b4b00" />
+		<rom name="(EN)[h 2021 SCjoe]\SE4512-3.COD" size="8525" crc="ca5286ed" md5="56912cb754e8c2b4819e9af4c035a2de" sha1="674259e5265466fb0219d28dbc5a33aa1eaa0f8a" />
+		<rom name="(EN)[h 2021 SCjoe]\SE4512-4.COD" size="9041" crc="006acc3d" md5="9ca9d8a080bdc10916177ca37207949f" sha1="34a8e0d4ae753b68dcdf497628ab4ee9f3aadeab" />
+		<rom name="(EN)[h 2021 SCjoe]\SE4512-5.COD" size="29048" crc="2290a756" md5="e2c894c4535a6ba4a5c00ef545eb342a" sha1="530956a7af4965ec4cfe20a28599f311d76a8781" />
+		<rom name="(EN)[h 2021 SCjoe]\SE4512.BAS" size="386" crc="adf5dd2c" md5="61826e2ccf1763282b931989f341a1a5" sha1="b497cf776f17c63628a1f9c020fdced1f344aa7b" />
+		<rom name="(EN)[h 2021 SCjoe]\SE4512.SCX" size="1445" crc="d3c273f0" md5="a856e28b4799be3e811799e578a43535" sha1="302b88fe834a466f233cd261f874d00c9276f7c8" />
+		<rom name="(EN)[h 2021 SCjoe]\SUBXTC4.NFO" size="1012" crc="884d6b47" md5="f102b86ee020d2e6933c7451a0d4c46f" sha1="1f1c0faee94dca07e74dbfb8b9a327dd2b1735a7" />
+		<rom name="(EN)[h2 2021 SCjoe]\SE4-1.COD" size="16465" crc="d33c08eb" md5="771e63f47ca0f22a3859e84eb6f64e39" sha1="c0362fef25a3606593b7eab6037b85d0691d127a" />
+		<rom name="(EN)[h2 2021 SCjoe]\SE4-2.COD" size="16452" crc="395ef72c" md5="115878293d02027af762d965d6619270" sha1="2eafde68a89f54987ee3f1aa632ceacc122b4b00" />
+		<rom name="(EN)[h2 2021 SCjoe]\SE4-3.COD" size="8525" crc="ca5286ed" md5="56912cb754e8c2b4819e9af4c035a2de" sha1="674259e5265466fb0219d28dbc5a33aa1eaa0f8a" />
+		<rom name="(EN)[h2 2021 SCjoe]\SE4-4.COD" size="9041" crc="006acc3d" md5="9ca9d8a080bdc10916177ca37207949f" sha1="34a8e0d4ae753b68dcdf497628ab4ee9f3aadeab" />
+		<rom name="(EN)[h2 2021 SCjoe]\SE4-5.COD" size="29081" crc="eee2c105" md5="600154c73a34919efc745a6cf024a364" sha1="1113e61f7a18d0763a4844a83773d3e830efe3f1" />
+		<rom name="(EN)[h2 2021 SCjoe]\SE4.BAS" size="380" crc="a964d46a" md5="e2348f037c68c7afcfda8824b24ac616" sha1="caa10e02859ab8fd920324546c994cecb36316da" />
+		<rom name="(EN)[h2 2021 SCjoe]\SE4.SCX" size="1445" crc="d3c273f0" md5="a856e28b4799be3e811799e578a43535" sha1="302b88fe834a466f233cd261f874d00c9276f7c8" />
+		<rom name="(EN)[h2 2021 SCjoe]\subxtc#4.nfo" size="1012" crc="884d6b47" md5="f102b86ee020d2e6933c7451a0d4c46f" sha1="1f1c0faee94dca07e74dbfb8b9a327dd2b1735a7" />
+	</machine>
+	<machine name="Subliminal Extacy #05 (2023)(Papaya Dezign)">
+		<description>Subliminal Extacy #05 (2023)(Papaya Dezign)</description>
+		<rom name="(EN).tap" size="77458" crc="d349e37a" md5="16d0fe981ccfcda07f13746e866a8df3" sha1="690ff2da1c545a8672445c438c991ac6ebbf5839" />
+		<rom name="(EN)[h 2023 SCjoe]\SE5-0.COD" size="16113" crc="ae02b391" md5="cdc78288a250c92e3ddb5cdc63d0507e" sha1="3065a9b228d2ce96a9019682e60f10c93b3e99f8" />
+		<rom name="(EN)[h 2023 SCjoe]\SE5-1.COD" size="15790" crc="6328365b" md5="ed57693f87c6af6c8fbb5761f0539599" sha1="123ea3b74ab8549fc879c2296522dc79d60448fb" />
+		<rom name="(EN)[h 2023 SCjoe]\SE5-2.COD" size="6122" crc="426c00fd" md5="eefcee1f0927ffe9a35efa5bdcd86b47" sha1="32a7d77f31d2c4759b9b5184b920fb6e204fd7d9" />
+		<rom name="(EN)[h 2023 SCjoe]\SE5-3.COD" size="9135" crc="0957aff3" md5="b38fcea42d9840ad01bec0e120d09fae" sha1="aa1bfe3b89eeb4e4baec40519fd9cbf619a85e1c" />
+		<rom name="(EN)[h 2023 SCjoe]\SE5-4.COD" size="28301" crc="58a432cc" md5="d9eb2839fa8a3d92cb0cd0335508c8e3" sha1="35f5b9a3122e461366e5e2a4e0db724531cd2beb" />
+		<rom name="(EN)[h 2023 SCjoe]\SE5.BAS" size="352" crc="20b11316" md5="b6d099dee0ff75a555e1229586346342" sha1="a64f426201425e9acdb5857a13110549a519876c" />
+		<rom name="(EN)[h 2023 SCjoe]\SE5.NFO" size="965" crc="46c06179" md5="886707dfa10f1e04e8e7cd26b91d4289" sha1="8e361c4fb1fa7e8c96838bc05bac6cb02e32d40a" />
+		<rom name="(EN)[h 2023 SCjoe]\SE5.SCR" size="6912" crc="7ea0da7f" md5="daecb1a418dc896b90239f8a5e11d9ca" sha1="3198eac50d4b1fa295022695e1ceff03ef2a52c5" />
+		<rom name="(EN)[h2 2023 SCjoe]\SE5.NFO" size="965" crc="46c06179" md5="886707dfa10f1e04e8e7cd26b91d4289" sha1="8e361c4fb1fa7e8c96838bc05bac6cb02e32d40a" />
+		<rom name="(EN)[h2 2023 SCjoe]\SE5512-0.COD" size="16113" crc="ae02b391" md5="cdc78288a250c92e3ddb5cdc63d0507e" sha1="3065a9b228d2ce96a9019682e60f10c93b3e99f8" />
+		<rom name="(EN)[h2 2023 SCjoe]\SE5512-1.COD" size="15790" crc="6328365b" md5="ed57693f87c6af6c8fbb5761f0539599" sha1="123ea3b74ab8549fc879c2296522dc79d60448fb" />
+		<rom name="(EN)[h2 2023 SCjoe]\SE5512-2.COD" size="6122" crc="426c00fd" md5="eefcee1f0927ffe9a35efa5bdcd86b47" sha1="32a7d77f31d2c4759b9b5184b920fb6e204fd7d9" />
+		<rom name="(EN)[h2 2023 SCjoe]\SE5512-3.COD" size="9135" crc="0957aff3" md5="b38fcea42d9840ad01bec0e120d09fae" sha1="aa1bfe3b89eeb4e4baec40519fd9cbf619a85e1c" />
+		<rom name="(EN)[h2 2023 SCjoe]\SE5512-4.COD" size="28265" crc="53073385" md5="58cef8684e3181a4ab544ea928a626b0" sha1="a3463a483753a523ae948e65b305ac1d8f73b19c" />
+		<rom name="(EN)[h2 2023 SCjoe]\SE5512.BAS" size="358" crc="14722be7" md5="af260457b2945cee02413adf85c5c0b8" sha1="d535cc7cd8a7d4d5b22c5859bf55108e30f60f5c" />
+		<rom name="(EN)[h2 2023 SCjoe]\SE5512.SCR" size="6912" crc="7ea0da7f" md5="daecb1a418dc896b90239f8a5e11d9ca" sha1="3198eac50d4b1fa295022695e1ceff03ef2a52c5" />
+	</machine>
+	<machine name="Subliminal Extacy #06 (2024)(Papaya Dezign)">
+		<description>Subliminal Extacy #06 (2024)(Papaya Dezign)</description>
+		<rom name="(EN)[h 2024 SCjoe]\SE6.NFO" size="816" crc="15974f04" md5="9e5d6661fb720e676cf1a28f7638e8c7" sha1="8135716b75720faa4ff099f2f7a82ad28e838961" />
+		<rom name="(EN)[h 2024 SCjoe]\SE6512-0.COD" size="14139" crc="911891b0" md5="21878fee864de592e00d0112d16f4716" sha1="4010725ac162142e1f255a0b6214298cc641c210" />
+		<rom name="(EN)[h 2024 SCjoe]\SE6512-1.COD" size="11847" crc="d6a37190" md5="05941d4c47d84b685c1f28275dec36d3" sha1="22cb3c801e231b1987440174d0f7cffa3d1d0497" />
+		<rom name="(EN)[h 2024 SCjoe]\SE6512-2.COD" size="5221" crc="a032b7f7" md5="0c2791f262a3361f9a3721d3395598ee" sha1="5bf5733cd247a3d6b28c443db759c8e6a9b46e9b" />
+		<rom name="(EN)[h 2024 SCjoe]\SE6512-3.COD" size="24598" crc="12c6a21d" md5="1e2505531db77483aad937cef045dc4c" sha1="466730733ff3c93e2b2298d9b0eeeda5302a695c" />
+		<rom name="(EN)[h 2024 SCjoe]\SE6512.BAS" size="320" crc="c998b8f8" md5="c3cdebfc2959f79ac36c3734f44f71e5" sha1="4ba68f7e3623c895ca768489d657cae9f0af0d26" />
+		<rom name="(EN)[h 2024 SCjoe]\SE6512.SCR" size="6912" crc="dd88e778" md5="0a47ad5404082385f834ec0a722f91c8" sha1="1d04027210eb32e7993a4e98a2464fe4fefb1ff1" />
+		<rom name="Hi-Res 512x192 version for MB03  and eLeMeNt ZX(EN).tap" size="60040" crc="9068a321" md5="4686250942586df902d1d7c735a132b7" sha1="9688e84b17070bf22f591aa5b5a8d2c91fab4398" />
+	</machine>
+</datafile>

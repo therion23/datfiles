@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - SAM Coupé - Games</name>
+		<description>ZX-Art - SAM Coupé - Games</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Hot Pursuit (19xx)(Sinclair User)">
+		<description>Hot Pursuit (19xx)(Sinclair User)</description>
+		<rom name="(EN).dsk" size="819200" crc="565b8462" md5="003e0b341ca744f4f8ed2edd8faa7723" sha1="02f2849b5286e5ef2164acce03e706b0c6ec8645" />
+	</machine>
+	<machine name="Super Golf (1992)(Format Publications)">
+		<description>Super Golf (1992)(Format Publications)</description>
+		<rom name="(EN).mgt" size="819200" crc="6f394929" md5="7bfd239dffb483c5e3535df09d637caf" sha1="6bcfde22f8e266d837b88a8129b3d2d5dbe1ba48" />
+	</machine>
+</datafile>

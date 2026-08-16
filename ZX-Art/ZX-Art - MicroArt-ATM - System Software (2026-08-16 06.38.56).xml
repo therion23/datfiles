@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - MicroArt-ATM - System Software</name>
+		<description>ZX-Art - MicroArt-ATM - System Software</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="ABCD Copy (1996)(-)">
+		<description>ABCD Copy (1996)(-)</description>
+		<rom name="1.3(EN)(ATM, ATM2).scl" size="34387" crc="2ed0b7da" md5="bc7c4d4fa172e495a948e1dfb21ed518" sha1="c53f2753f79f6d4ae3c6dc7c8354ff91344a1b75" />
+	</machine>
+	<machine name="ALASM (1997)(Alem)">
+		<description>ALASM (1997)(Alem)</description>
+		<rom name="5.09 ZX Evo Edition(EN)(BaseConf).trd" size="655360" crc="217f4d40" md5="58fbbf46d634cb6605bf9a34b2f0c02c" sha1="842e6d8b88b487ffac222b71a8c673da269c96fc" />
+		<rom name="v4.42 STALL EDITION(EN)(128K, ATM).scl" size="95111" crc="e1ac901f" md5="7dbbfcda63e5217ca1b60f4492ebb066" sha1="4d08af27939b2d25b515903e0d13565938fc4026" />
+	</machine>
+	<machine name="FDISK (2013)(Witchcraft Creative Group)">
+		<description>FDISK (2013)(Witchcraft Creative Group)</description>
+		<rom name="v0.2(EN)(ATM2).scl" size="23393" crc="9dfdb921" md5="bd98637901da1ce9c7dd52556714b325" sha1="ca3fb10922507d5c9ac99053988664844e0c741d" />
+	</machine>
+	<machine name="Honey Commander (1995)(Micro ART)">
+		<description>Honey Commander (1995)(Micro ART)</description>
+		<rom name="v4.00 (ATM)(RU)(ATM)[h 1995].scl" size="209747" crc="c6945b1c" md5="2bd6293dce210185c6165b871afc9076" sha1="0507aa87a15285161530c71a941e7f53dc33b5c2" />
+	</machine>
+	<machine name="Neo8Tracker (2018)(Omega Hackers Group)">
+		<description>Neo8Tracker (2018)(Omega Hackers Group)</description>
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\2ND_PM.S3M" size="600860" crc="d01ff28f" md5="8a19a2cebf0e7ae3dcae38a6633bebb6" sha1="db0d80984abca47d5442bc4de467f9ccd300f186" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\_CYBER.S3M" size="183584" crc="5ffe962b" md5="d8e0762530e5ab4cbd33dd05c4bb2666" sha1="dcbf82b58f5225aa370b44c053dbc8533d5f801d" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\_EXPLOAR.S3M" size="221406" crc="6f1e7465" md5="9c4d7e94a462f95ec0dc5cba32f7c1e1" sha1="7bdb6eb93f85fcc8119740c60ccf7fc575ddd572" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\_EXPRES.S3M" size="372490" crc="161e63df" md5="15dc58154eda1df1c7bdad64d962f234" sha1="c5109ce3f57d8284cb932453c65ec4f47333a876" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\_INSIDE.S3M" size="157584" crc="5b5ce68d" md5="30ac20c3405dca26c776ba7adff92067" sha1="df70a73acf555452a2cdabfffbdca30e85934cf0" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\_PLASTIC.S3M" size="64774" crc="4c49927c" md5="29758b93b32f78be3f3e14ca13ce0db0" sha1="5f63d80b5cbcd138dd02220f0cd7acf8d681b8cd" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\_SPRING.S3M" size="120474" crc="7dd4e0cc" md5="6f1c3226e61d5331c29b5350f62a9f39" sha1="5af090be5d816128ce6dfd467d98769317f65570" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\_STRSHIN.S3M" size="298755" crc="1ab2f528" md5="7054d03e68e5a4971be621114163ff3c" sha1="fac43ef1949c7541f3a689edb7f82e3979ee6255" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\MOON.s3m" size="159632" crc="3e5e693e" md5="412b48e92cc3c1a59d4c12071f384338" sha1="cad55ae4f5ed8bf12a72b8b102f77c2cbcae16d6" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\MOON2.s3m" size="267344" crc="cdd54d53" md5="304faa9db3e8d1ae5d659dc2842869c3" sha1="6d58c03bc38733703e4e8ac12fa1a809a4a7571f" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\MOSKOV.S3M" size="1109184" crc="a5751ee8" md5="c806425d91aacfbecfa07af08d9d0c3b" sha1="1512ff3c8c627687258afece0e6bebd09c204da8" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\SUN.s3m" size="275680" crc="dffdeb36" md5="ecc10e0880fb1ea38cad5959b9dcbbc2" sha1="32b52265f1d8f02e53202d0410df1816e046d74a" />
+		<rom name="v1.50(EN)(BaseConf)\EXAMPLE\TETRIS.S3M" size="342128" crc="3f9537df" md5="1b14ddb3bcf095fabcdee6b8922bcd70" sha1="7af8374878e8ea3539a5106734d40c9dedf089d9" />
+		<rom name="v1.50(EN)(BaseConf)\NeoTrack.$c" size="12049" crc="55f71c28" md5="0143f8124989e2def179f7356cfc9eda" sha1="155f5982b2cd9c5b53275c75754a9bc2bf824ab3" />
+		<rom name="v1.50(EN)(BaseConf)\neotrk1.C" size="19065" crc="52e511bf" md5="5025b394a61b2bc1e608a0c64d5a0599" sha1="4a4502fb7addb4409150c6f08ff3358f4f3c1804" />
+		<rom name="v1.50(EN)(BaseConf)\neotrk2.C" size="10437" crc="789ae325" md5="fd4b8a25d535c63005827ad410c5e3b8" sha1="364ce97091b1e02e5f1a3c64c310aa039c52df4d" />
+		<rom name="v1.50(EN)(BaseConf)\ngsdrv1.C" size="12950" crc="67dd5ed8" md5="2e4a70ada86ae76c48cd7ba4595d4efa" sha1="0072382f9ca668781c8001fc41ad90d0edeaa45b" />
+		<rom name="v1.50(EN)(BaseConf)\ngsdrv2.C" size="7272" crc="989196cc" md5="1db098f89b84c4743f0631122feccf43" sha1="26d16d4b8c35f4aac622d44d1907cfd0e2d59793" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\ACOBS60A.wav" size="5662" crc="7a8d0c51" md5="04af9837146122a545f1423839055c6f" sha1="6d5b114c5403f0fbb2679784b2030bc9a6df9d49" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\BASPM.wav" size="2128" crc="18ac181d" md5="c46f35f7e5987bee011bc2d2f97043e5" sha1="1efb91cb7600719f442a583f6c4cbf4078b8fc37" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\BASPM2.wav" size="2160" crc="8a773579" md5="61a3acd6a5e8cc558b4aafcff167b812" sha1="6e73d758ef072443ce971e7955f7b984927a1465" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\BASS1.wav" size="11212" crc="d185ec64" md5="7bba59890a70a71b477e5e7f81ab94d1" sha1="24225c6d3ffe2a7a4ac2271279540288e2d5a628" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\FRTLS48A.wav" size="11240" crc="51c11042" md5="c52573649d51e15c1a90ab46c2316d08" sha1="15238d37c864b3e9648462749c2c0dd3acd3b38c" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\MMBAS62.wav" size="2476" crc="40f1cb60" md5="8da9480cb2d5b15b27c72e2b5f9bbe26" sha1="dd5d50b92000367420c15f80bfa00b71d2c77c62" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\PCKBS50A.wav" size="7610" crc="ae9810e0" md5="46df7716d38434d76528ee2a62546ce6" sha1="55e4e823bc0e04f75c0849e8175a3626edcbe31d" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\SLPBS43.wav" size="11188" crc="701460d3" md5="1235d7beda2eb46e59fa1421ec7b0c42" sha1="fc07d46683bbb55892341609cba4ca8e25b7b593" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\SLPMT52A.wav" size="3808" crc="7682835e" md5="0246cf170e68e541d5d24daa6ac13505" sha1="68c46f486a82fd8eb8f648eeaabc314995158863" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\SYBS148A.wav" size="7504" crc="b839e702" md5="09ec5f89360bebab2db8bbea72fd85e1" sha1="72e8c0581c66247343693db342c34c92a94a42d1" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BASS\SYBS248A.wav" size="6430" crc="27548d8b" md5="97bf7528488052cc80d6d911b68d0ddd" sha1="25c4ece8a6240b9188d4dabdca2cf58b3ccff104" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BRASS\BRASS64.wav" size="11956" crc="6268409f" md5="7248ca8680f226296965c5638661e58e" sha1="0eaafbc1b5eb0fa6286a410efc3fc8397c416059" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BRASS\FHORN60.wav" size="11770" crc="8860873e" md5="d86ceb9d95b6a2a7b08274b9d68a3dc0" sha1="d19c58b04c58b9d0b0e69d50d8e70673a3507682" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BRASS\MUTTP64B.wav" size="8578" crc="5c033981" md5="c24efd9b35ecd8aa5574f0a41968aa51" sha1="85b48834751fbbb17647b3de28c5a1a942339285" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BRASS\SBRS160A.wav" size="12254" crc="fec37d6e" md5="3524b9720a5a9e86e4e781f206f9ca78" sha1="9fe699fd0a52869d745764691cb14e17f317e927" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BRASS\SBRS255.wav" size="11724" crc="1023848e" md5="823773c876556e1ceb8d502c4f21c217" sha1="7d519dfca82ad7d7c4c759cc6540d093de32992c" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BRASS\TRMBN62A.wav" size="4198" crc="a4346a0c" md5="8c2815fb8f0cbb37beae4cd251d581b0" sha1="8d67eafd26c90ce09bafc7c86b0afa770557151d" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\BRASS\TRMPT65.wav" size="3018" crc="8c62b70d" md5="dd55e97b1d2814b3372fc28040face91" sha1="ef8aa50b81e1a11813c11310a6915cf034756309" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\CHPERCUS\CELST77.wav" size="1302" crc="d6eaf3f1" md5="186e6c040d578fe2e6d973d7c7e1ce9b" sha1="a088b03bed14e889a4d3ab2ea01c32c14bae5715" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\CHPERCUS\GLKN285.wav" size="1102" crc="67facbf0" md5="2f5996cff72adffd542761d82de0cac5" sha1="af382870d5f84bc408ec700d3304435077072f76" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\CHPERCUS\M_BOX82.wav" size="1806" crc="dfe9bb18" md5="0b817b6b99e83d3cab4742d8f984fb0a" sha1="167019f6a83b2a5fc527b1b3c247cfa2e67e30d3" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\CHPERCUS\MRMBA62.wav" size="3418" crc="851083f7" md5="cb10704df8d1ed902802e39b662e4d6e" sha1="54022ebdda85a8215576e4b1d1fab7b0b04eda99" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\CHPERCUS\SANTR74.wav" size="3258" crc="e1421dfe" md5="f55760496babfa4890352cfaef49297d" sha1="1630846eec6509cef0ffb38581b61b3b15a066a1" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\CHPERCUS\TUBLR84.wav" size="2546" crc="ab1bcd4f" md5="990cddf4ce198283404c8fbf6f1c5b77" sha1="dc0d385f2469468c09f0b154488200d7b5ba882c" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\CHPERCUS\VIBE_64A.wav" size="12158" crc="0f859fb5" md5="de679f46d5c84278dd64ea12c8a1d612" sha1="a7181e8ff1708661b6e330cb61b5e153bddc8cb1" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\CHPERCUS\XYLO_72.wav" size="2382" crc="782cc249" md5="ca4b439895921b8ed76db762d54819bf" sha1="f98087b449f703d5ac53d3cd71ba93b77e9e50fd" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\AGOGO60.wav" size="3266" crc="d4bea14a" md5="becccd79b39c442decca364ddde6beb5" sha1="a2fb82e4f0de3328ab527fdb541b42dc6070b8df" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\APPLS64A.wav" size="14740" crc="e54a3845" md5="b74f0bc369755d2c3e8cb00260469dd0" sha1="dfa566fb8bbabefc5ed7572cc70a624842b4876c" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\BELTR60.wav" size="7308" crc="a95e4fe7" md5="54109fdbcf5f9de98c545d6d0cd249bb" sha1="cf251f8c7ac90adc865ce5acfee7f8d59111af88" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\BIRD_60.wav" size="8258" crc="411e30f5" md5="0854da0b9ccf313c5d9098b82343520b" sha1="bc5f9dc98cad608c4f06373c35d9394e5c3b4f31" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\BUBLE68A.wav" size="14616" crc="68d7be41" md5="0e8db281788334418382af39644ba96c" sha1="83d536397bf6a95428a7098a9c82d66dd19307f8" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\CAST_60.wav" size="938" crc="8a6d5e52" md5="28da07ecc2ba299284887a269337bf71" sha1="df91343742a3bc2a096b1fdefde8ccae32c61c55" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\CHINA60A.wav" size="18426" crc="5675cfba" md5="339be2a1a6dfaa485a43db4573a3d4af" sha1="d1ac82b2b9b0ddcfa1ef9047d2fd9a20100f5a84" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\CLAVE60.wav" size="968" crc="d5858f75" md5="08fd470e75836c3411a133f31e9ef5fd" sha1="466c453ddd41de8415498358f89b796aa2e4e76f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\CLICK60.wav" size="322" crc="3229d481" md5="044c6abb60397864242652e67bdb289e" sha1="c6b5750336a4aa81dc38b7558fad64b7bf51d38c" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\CPASS64.wav" size="13240" crc="c08ebe33" md5="abf9c8c662dcde2ca0648257fa474935" sha1="833ef840d5fad76894890753f83b8d94b4803e09" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\CRASH65.wav" size="12180" crc="ec6d26c2" md5="4033d88139c2de3a18113df00c22b2c5" sha1="7fb421aaaf2bc680d0ce0052d0f28f4d4cab7e0b" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\CREAK64.wav" size="10546" crc="9d4616f2" md5="3e843810448d8fe05cb9bc40e5085531" sha1="3a0a3fa0304876e274e74665fe68c3ea30a78198" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\CSTOP64.wav" size="6144" crc="ea90a418" md5="6f550b374b09e1c71bc0e153e6aa7ac2" sha1="174bc1fd5c626de77a1bbe3662295c957457724f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DOGBW60.wav" size="4332" crc="7da6a7e1" md5="60480e2e789fad340ed5e9abf0017909" sha1="eb2c24425ec71d870cdc3786e24f38305e3169ff" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\BSLAP60.wav" size="3774" crc="e30ed2a5" md5="a59245a2c10f85d55c3b491ebce062c2" sha1="b5786c342bda31018558dff0d2f76262f7745574" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\COWBL66.wav" size="4418" crc="0da439a6" md5="2d01865df42b1a2562f152bfd67c238f" sha1="6b55b64323bd63813d2e801fac2cd8b05a611784" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\FATSD60A.wav" size="8742" crc="7cd6a73b" md5="77b7dffae60296f02da8133a5857b54f" sha1="edf39a596f5006a26bfd7c7b58c1e665e56ef871" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\HBNGO60.wav" size="2872" crc="602e95e2" md5="f7f47371adf7b36fe9342a6c3077e287" sha1="63a3a85fb081593a2eb2e095fc36eb6fcf349d20" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\HI_Q_60.wav" size="1470" crc="80e182fb" md5="3039e80133e2dc4ffb40aa4bd26bd4aa" sha1="42e4384845a058f120184dbcb627301d3e0f6801" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\KICK264.wav" size="2258" crc="394f1aea" md5="2ef208810c33947d2404fc45e9ea3d85" sha1="214f73d9c0c58554618a1833251d5c61c6f88e74" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\LBNGO60.wav" size="4750" crc="4a4899be" md5="b278f6d6a4594120b22d0ddd3e3ccbee" sha1="2970358453ee6ea75fa2ac4eee7b7310d6dc2edc" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\OCNGA60.wav" size="5762" crc="89ff4b13" md5="fe09eb1b4359811efe6c660786c7580f" sha1="ee24cb20bd7f141e98eb24d8ea481457bdcc1aec" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\SIDE_60.wav" size="2588" crc="4b3b44f8" md5="1c0befd06f17a00660fd7f84679f85c6" sha1="1d5db84043c5f576259898eddd8d2d7b79db460a" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\SOLKK60A.wav" size="5118" crc="027db867" md5="97b5213058f2fa71bc1165a612e80fdd" sha1="11ce73857b6c0dd5b6bd5eeb601b8f92d670e552" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\SURDO60.wav" size="9996" crc="62f7f5c9" md5="155ddf055819046381b71734b30b5f96" sha1="c9639aac082f18a8713a48c6c605a5621a7dcbdb" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\T_SNR60A.wav" size="6104" crc="0ea5decd" md5="f2648b1fb29bb85114730f3244bfc213" sha1="d87d407e8cc15f318c143e4f8a360f20b01e2d84" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\TIMBL60.wav" size="8110" crc="b1b55184" md5="137e3e93a19d07ab6d58e61b3f8bfc06" sha1="c5ba1540b62c3c4816800d7fbc164554114c3fd9" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\TMPNI47.wav" size="13726" crc="3d5c4962" md5="f3ab8da63f8e3a66225c9c0530c2c453" sha1="1a7d0686106b09cc05f5c7eae57c409f6c30c8cb" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\TOM__60.wav" size="13146" crc="8d5a7401" md5="8e6ae95e984c8fdbd161a553bd6ef3c9" sha1="ec4401bddc41c7004d6e8dca6fd622187e74e63f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\untitled.wav" size="40254" crc="39682e24" md5="7283771c44513b55d3269fe683dcc7aa" sha1="64ca0d8e77bc3378f76ad19d63e81e87ab934a6e" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DRUMS\WODBK60.wav" size="3650" crc="26837dbd" md5="f6ce58db9c1066d0262993938fe4e1e5" sha1="ce4ad47e10f3ce7e973f39896b38e34177cee873" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\DWCUT60.wav" size="1224" crc="01d16bd1" md5="14f9d3987fcff00ed9f7bf08091ebff9" sha1="ff36a1acaf270450e9ba61666fce83bc51b1c1e2" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\ENGIN64.wav" size="14108" crc="f48fa0d8" md5="aa18120f20766c2e15d9566810a4aa2d" sha1="5eef8222432349b29a6622a4e708a0167303495a" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\GFRET69.wav" size="5164" crc="e9b43439" md5="a756be8b8ccc811603065cbce2a40ac4" sha1="214044279e2a9183826597220b5175187c6b2699" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HCLAP60.wav" size="5036" crc="f17d5f24" md5="e58eaa68aaed3874b4cd6cc04bf8dcf8" sha1="6f3ad729e45f5523ee3a22da43d1115f77fde4b2" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HEART64.wav" size="3084" crc="a5fa2b3c" md5="4aba6fa6f58cf4105ef7db755941dff4" sha1="b231b2643b15bf1854c17c88eafaaaa02c2cb01c" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HELI_60.wav" size="7984" crc="73034990" md5="9b5edd124ff632a2ccf9e63130025584" sha1="2cdb546ba5cac07c6cac015061d83f25477f44b9" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\808MC64.wav" size="1870" crc="77730bfb" md5="c84cab8c34a2338acd77e4fc75001f05" sha1="0e4dc79c0ad1f2d490e5c9fa5cc68bebfb067f1a" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\CABA_60.wav" size="2402" crc="03fd3ec1" md5="10fea6968e3117a5f64a8568fbcc035a" sha1="840e5559e677a9b640d520a5eef5cf2ab8a9d343" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\CHH__60A.wav" size="2876" crc="1206c24c" md5="02ef412e031ad21a58be861c95ab897b" sha1="c9175c7b8ee41d767094ba6dee41ed0e31e504d8" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\CRASH60B.wav" size="16796" crc="fdea215b" md5="4c42f94351344f8eba82b8a453bb2a2e" sha1="ff74a5d0ddbf6961d60c5302acb2e5503fa82313" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\MARCS60.wav" size="2522" crc="27a5dea5" md5="f429b80fa182c48bc4afd1d2707b083b" sha1="c67aacb12d967cdb3cb6c0c8bfc7b92f0695688b" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\OHH__60B.wav" size="19352" crc="caa5b89d" md5="5b72dd5b7786fde2c6aabc7e6fa9ff7c" sha1="9f28068c5e9b619f2816a4f9495e18c887c15157" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\RDBEL64B.wav" size="18086" crc="164f4d74" md5="416e2d404d43d46c1db9a14baabfb9f0" sha1="e342081b4455640a40e7f72025546c70d1d34718" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\RDCYM60B.wav" size="18266" crc="d49e504b" md5="44bbdc06f545be08736a2ebb507dd980" sha1="61bc58a5af2799697c6e509b5d8900d7e3418b72" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\STICK64.wav" size="3304" crc="13b2bc32" md5="18f4e97fcc5c4bb543e3ee2592283667" sha1="dcac89f40345eb11e94c78609a123e1a553569df" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HETS\TAMBO60.wav" size="4574" crc="962e81e9" md5="01079d77fb270e9e8a1592bae90ab443" sha1="a24e719eb49721274836427c93f68d21bf951018" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\HORSE64.wav" size="7820" crc="6e43488c" md5="ef3f85c18017c070ffb17f0e74a1d436" sha1="8a4e390947c339fbda57073e60c8ad7800a86ebf" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\JBELL60.wav" size="11304" crc="7ee77a55" md5="09a15493c804d8dcf1957a4ef05a6a52" sha1="1d23b4e8eeb7cf2531e01ea27b937cf07f0ec9d8" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\KEY__60.wav" size="470" crc="8be54d0a" md5="1576619bfb608aaf5bb3cc8a5fd5c537" sha1="e052bff5045d72c964def0b3a89880663b411b3f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\LASER64A.wav" size="10976" crc="e7d94812" md5="9316b6e42014d0442e3762a1ef0385a9" sha1="3a2e39a5b1e132e533ef1189f39c87a865ed0f25" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\LAUGH59A.wav" size="35056" crc="c34b5c15" md5="8eda4c2941b2653d394957b682b7a0e1" sha1="242135c1c2c5343bf2376d8f08e42982efa439e0" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\LGUIR60.wav" size="8942" crc="d222fa56" md5="4b503ef7a3be93750954d09ccdebc128" sha1="eca03ef6c2ecb22ce1a2429ccdfa1561641d5653" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\LWHSL60A.wav" size="15816" crc="d713d164" md5="cd15092cbb0d1679706357a0a8b5e4ea" sha1="ce97aae54c015fd5c4641936f9abb20f27fb5404" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\M_GUN64.wav" size="1896" crc="8db4a24a" md5="62deb893b502df6429c30c734e01b60d" sha1="3b068e1867954c72c7a6af64441732e40728d2e5" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\MCNGA60.wav" size="1458" crc="ab03d2c6" md5="a002cccbe5061338aa0bd7517657c59f" sha1="fb6a612bcfa4de7f570a55581e522eb03e5323fe" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\MCUIC60.wav" size="4248" crc="2bd6a958" md5="dccf4d1fc7987dd5ce6fc13da1ada529" sha1="1e5bf821d7f9f0246e32ce8408d9ab6f730d12bf" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\METRO60.wav" size="1972" crc="110242d6" md5="080eb2b86fe29786e28ae89508f1e9cd" sha1="94b4be0ac5f2da2080565ce0998166bd65347fd2" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\OCUIC60.wav" size="5138" crc="bd1ff07b" md5="b9a4c177045e6b55f7415b54839982ec" sha1="f0ea1d68302d18210780a6e1916b5501df6595f1" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\PISTL60.wav" size="8432" crc="2a1e47fd" md5="1232066da80b603ebdce08962413b659" sha1="6fd86a21cc84fabd4b49ebf48bfaf7d8385d42df" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\PUNCH64.wav" size="6406" crc="65c3447f" md5="a005e84b476853234b8bf4d9c3ac90fb" sha1="d4dadbd14ce16c4b0bd1ca30ebfd8a27b765febf" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SCRCH64.wav" size="13138" crc="4f79df89" md5="12db22106e5f756065fdcc175549cc8b" sha1="849c188a61bbb86ad4d3ba9949359b3c183c876a" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SCREM64A.wav" size="18254" crc="ea368a6c" md5="6b8584dde8450c83185ec778f8fe346f" sha1="8712bb6f689064a818578d2dafe0318608ebb718" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SDOOR64.wav" size="8282" crc="f8e72cdc" md5="89340c9a7a4e9906d5c5716211da9678" sha1="b42f52e28af534b829269ab49be42cd6d56c97b8" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SEA__60.wav" size="27550" crc="3fea9726" md5="d1c6a111064b3f19145204bbf7251271" sha1="7c85b36b8a3042b58ae7dbbfedad11163f8db750" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SGUIR60.wav" size="1552" crc="cf570c9b" md5="620edd0a7295e7f6945c0170a594e850" sha1="e3683057a2c9fa1615774bdc4eb6af79a45b8bdc" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SIREN64.wav" size="3384" crc="160c977b" md5="8f5f8ca8ac77ea249ecd2fb8dddfc253" sha1="72780a9440a6290fb391fbdf733ac758c35c81a4" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SLAP_60.wav" size="5916" crc="6c6733a4" md5="135bfc968f9aa9ded5424a45a49ff8f8" sha1="a905e716862ff7879bc63f1b7c92e0840ec2398e" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SPULL60.wav" size="3844" crc="2f038000" md5="b11057986d73bbd07eac71f4ddbfd691" sha1="0283988391ee6f31dc8b4d7e09200534ebe71946" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SPUSH60.wav" size="3220" crc="e6ac7eb9" md5="403c4b64e10a7fdda381a372c9a6fe27" sha1="1834b958a5f42aed0e9f743c6eea0ed5fbbaf661" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\STEPS64.wav" size="2440" crc="aeee33b3" md5="90033dec16c8b78449424a429276bc21" sha1="e1d92c06dd6279a8cd9503b060011e010cb4014f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\STREM67B.wav" size="19304" crc="1989808d" md5="9c67003e57cb273932ec6c485bda7759" sha1="7098a14802bfe42b8ed66cb624fdfe0d1bd871ad" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\STSHP64.wav" size="3246" crc="5fac87a5" md5="5293e5af756db48a365da7e8aba51663" sha1="14b365a34965f8555315388af47815e63a9d6202" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\SWHSL60A.wav" size="3924" crc="4caa2b08" md5="70d73abb1ad688cb52ba34494210c970" sha1="a6258f0e751cf34ac034d98b23a237da0befdf04" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\THUND64.wav" size="16170" crc="c6214c49" md5="0b58ec806fc9f303972897992ead4b3d" sha1="e02d4291d325c08ada14e4b9613fed8d9f21f467" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\TRAIN64.wav" size="14580" crc="3bd559b0" md5="237d17515e0553492d51427cd6da58cc" sha1="5383eeffec9989793c6bf0c1f8ee3f3d06df1f9e" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\TRI__60.wav" size="3802" crc="8fa9fb6c" md5="293d54eb58dbe1be62c5746bd76873bd" sha1="dbdd8ab64928eafcc794cb77cb6e90b4e4c8362a" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\VBSLP64.wav" size="8310" crc="1fbea0ad" md5="a7619256a499e39a22387c08a21282d0" sha1="798d50cef6504cf59c76321a10e96eda573e279f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\WCHIM60A.wav" size="26614" crc="3ff81639" md5="c0e6c0d05e0437851580f914235236e5" sha1="2e0e4ddfd34b281021014b8d59236bb9ee8ca9c6" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\DRUMKITS\WIND_60.wav" size="18980" crc="4bf87a43" md5="fccd9dc9701b3a287813320eb784d5ad" sha1="bb6be0013c7d05af1738df59fd0c362cd6313448" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\EFFECTS\APPLS64A.wav" size="14740" crc="382cdf8d" md5="4b1b21426f33dc9a1c966821e76c56cf" sha1="c2d61cb611311937d5286d78550e52fd9ebcfd99" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\EFFECTS\BIRD_60.wav" size="8258" crc="5313779b" md5="1581d8083013b495694be7cbe26633b3" sha1="26ee112860af8d6246b5ed65b7231531c5c5381e" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\EFFECTS\GFRET69.wav" size="5164" crc="6000a7ba" md5="e0b865eebf9fdeca3bcc7d2769dce575" sha1="d6d831573fd5f79d7f32e673fa69d67b3aec72be" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\EFFECTS\HELI_60.wav" size="7984" crc="b932ff80" md5="aa3f1d2ae852d69ace5458f0891b60db" sha1="a8bf78c2d7b23b36b115633a5d37c4881d4a3234" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\EFFECTS\HOR.wav" size="20245" crc="01bd82e2" md5="96081925da10b0ce45d4f31ab322e8d7" sha1="623a0c9b5ede8e326446358dd283719fe0d4914a" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\EFFECTS\PANNS84.wav" size="3778" crc="b154eee5" md5="642a8b9419a30ba5c3a54943066b19db" sha1="ed5feedc23c8d15243091c0a9130a57e4b9d7372" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\EFFECTS\PISTL60.wav" size="8432" crc="42121d8c" md5="1884af4c743269e001581ca1b526ff28" sha1="f3b9589ded5ee22013a4002c071e5fc7ace26e59" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\EFFECTS\SEA__60.wav" size="27550" crc="97ef1686" md5="c76cb7a8fc29466fb9f5d5a937f25122" sha1="227749be9dfaddb1d478b8ff0fb955db9e2ccf9d" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\EFFECTS\TELE_60.wav" size="3244" crc="2e4a7b63" md5="e0d3fd6f3c366ab72607cd05df166235" sha1="bd235db92c0587654aeea5259d8815e260f34bf8" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ENSEMBLE\CHOIR65A.wav" size="25016" crc="efe657b3" md5="c40183c7ab6b4d4f4f27b5f175505224" sha1="3084ffecb8ff26f4c57c29f659b36532eb016650" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ENSEMBLE\O_HIT68.wav" size="30996" crc="34cb3eb7" md5="670e87554e9e4b43e150df678ccacf30" sha1="1c33768111b9d4f6d0327202eb867e5d33f3203d" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ENSEMBLE\POPVX64A.wav" size="5550" crc="d79f14a9" md5="38d91519f9f89dcf8fc3ecb3b91f86da" sha1="395968345d95d5e14e23234d895fa0ee365920f2" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ENSEMBLE\SSTR162A.wav" size="22264" crc="da175572" md5="144d13907f51109f80d8a0820ea0e827" sha1="c8b913d7ae0609e025aebae3f79b1b3956b7e9d7" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ENSEMBLE\STRNG71B.wav" size="23052" crc="c1aaa450" md5="897a4a5faff2022e8bce9ab6fbba82f9" sha1="08649fd260d4b366bba05763d6b2328bc4b20a73" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ENSEMBLE\SYNVX70.wav" size="10970" crc="023daa5c" md5="f1558313944efb8cf0158419e162cbb1" sha1="e26f1df94f09df1949d1157dce752e839f6d45f2" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ETHNIC\BAGPP64A.wav" size="5776" crc="9e01a03b" md5="0aaeba006cf02b606b9041a9da65c1a0" sha1="8e6072f22b6f622a94ee1cabe52b39789bdbfc47" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ETHNIC\BAGPP74A.wav" size="3864" crc="11cc54cf" md5="204250c416108ba0c3df406adcb28e9f" sha1="7a24de3bb0ad22ae5f3bbc9ff63a5636434d9deb" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ETHNIC\BANJO60.wav" size="2258" crc="96d204b5" md5="32bd599e02d73992fd7e30b8889c105d" sha1="f8c191688d7f2c307d89902f53bdf201580f27f6" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ETHNIC\KLMBA70.wav" size="3202" crc="ec4897e9" md5="b9adcfcc4e6fa7d89991b70b25583f73" sha1="7f145edd83c8ef4ccd9c84530b3c482f5ef92ab0" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ETHNIC\KOTO_57.wav" size="3900" crc="abde2923" md5="5111c4ecf1db3a771db1938a1bddc86d" sha1="755b3ee0773dc8f57d4532b4d505d962ebf720ac" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ETHNIC\SHAMI65.wav" size="1930" crc="c3f8f03f" md5="18789d33ee70dbbce48292a54ebf879b" sha1="22b99a4d83d0f335b17a57bf74c1cd5fb3392554" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ETHNIC\SITAR60.wav" size="1318" crc="ecd67842" md5="2a1d22e17c2982f1e512717cd8b8b6c4" sha1="d4a4140c48bd066099f47f4e5bcf4110e1d10055" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ETHNIC\VIOLN68.wav" size="3108" crc="8c07aa43" md5="241aba4b4e534b026aa7a487b60cfe9e" sha1="a9a0ae371288fcfcec451cee91f36fdd082b8e39" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\GUITAR\CLNGT60.wav" size="7754" crc="731ed110" md5="0e411f30182af1dad9d784b886359d47" sha1="3566279181b0d2d726cc6a92a683e379664b99bb" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\GUITAR\DSTGT64.wav" size="3822" crc="141a9164" md5="909dddb5a14c6cfa527955cf929fa3b9" sha1="c131966fa43ff8db3943790d5a8372922e60bbd8" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\GUITAR\HRMGT52.wav" size="1924" crc="aef0e93b" md5="2f0c6a66fe5f88586feb6eb6caa83c51" sha1="6296ec8d6274809573980a42f93d8259b49b8df5" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\GUITAR\JAZGT59A.wav" size="13000" crc="2b9e2426" md5="1bf68aac2f1e37a8d619e2681985fcc4" sha1="de8c01cd49435350aab84ff1e121aafaa68bf9d4" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\GUITAR\MUTGT43.wav" size="3032" crc="212b437c" md5="bc0d44cdc50d821ad2e32ba7f1f02e60" sha1="7d2844acf0b7fda315f7bde98cb60f779c852593" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\GUITAR\NYLON57A.wav" size="8548" crc="989d977b" md5="d1632ddbbe1f64486c09084cba30e66b" sha1="61239656241ec360dc663a41d62f239105f6ff39" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\GUITAR\OVDRV60A.wav" size="8932" crc="b6a207c2" md5="4c3e63ce50321a28f1d27c762bca2acf" sha1="62f89d15ebcdf151bae30b24213ee261403589d3" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\GUITAR\STLGT57B.wav" size="10264" crc="cf9cd6aa" md5="d1ab5d395789b22035bbbfcbfabdb1c6" sha1="4794be4e6fef3ae51193d427537022920de8dc5b" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ORGAN\ACCFR68A.wav" size="7736" crc="a85844c6" md5="35a530b55bbdc1fb5b5668f143bf38a4" sha1="2bd2170c2d8ec6ec734a0409e9639bd6d1938bd4" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ORGAN\BANDO64.wav" size="1794" crc="20d25930" md5="cd89b29d50ade846a02cd22e42377d06" sha1="265da85a830554287a15ddcfc24304d673b3b90f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ORGAN\C_ORG56A.wav" size="3296" crc="53d4365d" md5="faab99e6ce16acb88777f6bd20bf1010" sha1="6db09629774df2057261ba50315327b1af6c547c" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ORGAN\EORG173.wav" size="1302" crc="810699c8" md5="e87c00db039c409654b08df541ca4987" sha1="527d213244258bc3263ef49e78ae8a52d51efe31" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ORGAN\EORG253.wav" size="8084" crc="d0a9a941" md5="fc7ba1cdcb4b4d315b3f91452c0f29a2" sha1="b61cb77f713e003be836a976ac1270c2826f34a0" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ORGAN\EORG379.wav" size="7554" crc="399fe586" md5="5ac0bec35f351f9bd3cb59084f04d916" sha1="47308c1a06dc4c4a99e8673b9827e4a353a76cac" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ORGAN\HARMO68.wav" size="430" crc="686bbd86" md5="4022d40c52ecca985c7617e0e04c5f20" sha1="454737cf1e046cfeb56e58adf2c8fe616b55d6d4" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\ORGAN\R_ORG53.wav" size="804" crc="153182ee" md5="a6ce3d5f9506e31f22dd26a62c0cea14" sha1="8fea4dc61890956f2cb36457bfd89298e8b2b229" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PERCUSSV\AGOGO60.wav" size="3266" crc="a04939da" md5="87fa91c63593f670502ded1dfffac106" sha1="f37585cd51108f361d6edd0b31778dd655994ec0" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PERCUSSV\CRASH60B.wav" size="16796" crc="b127175b" md5="547539edd3a42a9c1393e5678f70b366" sha1="166219c62a9bdebb5affdeb3e2e19424a82d80de" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PERCUSSV\STLDR72.wav" size="6458" crc="825048cd" md5="cc8cfa874e3d66cf1f218aff66720934" sha1="a3f6736091d3ec8d334a4c9b0f88400537d73d25" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PERCUSSV\SURDO60.wav" size="9996" crc="33555e6d" md5="f1aa68233aaf5440871e5c1c6ae37db8" sha1="4d7358f2ec42adac07960e3a4764f389f6c70f63" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PERCUSSV\SYNDR56.wav" size="2084" crc="3231adce" md5="123f08a094759e20ab23a5d1eb988ba0" sha1="7438cb1659c121e20fd30c3368147d0b72a4650c" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PERCUSSV\TNKBLA5.wav" size="672" crc="14baff38" md5="8e5487a3313fc4051fa9b239d9ba6fd5" sha1="e107aa9671447388be8d749278698298579b4012" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PERCUSSV\TOM__60.wav" size="13146" crc="20d0ff67" md5="0f7de161946ed000208ac12bdae6df2e" sha1="5920861121e5df79adbac3b907ac8734c28015a3" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PERCUSSV\WODBK60.wav" size="3650" crc="381f788f" md5="db69cf19dce884bec294b94f2f0a09c7" sha1="1dbaaffcf8f57027ae8fa3e8dbf76bc86f91c059" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIANO\CLAVI60.wav" size="962" crc="7be5a7be" md5="0b79b36e1e3e5ae2482470e48162825f" sha1="71417dc5f3e61df44af16e352b14c030fa7c7fc3" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIANO\ELP1_56.wav" size="1890" crc="7aa4dd7f" md5="910afa824e659471f9800fdaa648ab2c" sha1="e55094845714d7e2c9af2140e2dad16c6ac4603b" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIANO\ELP2_60.wav" size="4220" crc="c4a5426a" md5="be30cd5884990d350f02db59dc1756e7" sha1="61b965f9642021a341709cf12b24fdab8d20d142" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIANO\HONKY62B.wav" size="6060" crc="0098f5a2" md5="1ce0810aa591e7e357e79cbce705bb17" sha1="a78837dba31086d8da0c147f476e89795c1c3fc4" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIANO\HRPSI60A.wav" size="10564" crc="a48cf0e4" md5="531dfcb28fa1b6fa372d58d205f71073" sha1="c876ee41ad8a72c7f58653d2e7289a42bf4b6080" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIANO\PIANO56.wav" size="19806" crc="7805d53c" md5="e46402580631602c2a2d9bb862dd7757" sha1="a34e33f17adcaf6506cd86e023fe6c4eae54fb37" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIANO\PIANO64.wav" size="21244" crc="60c5f78e" md5="95de723645fda7883a316eddb63ab285" sha1="7fda16260ce06c97472d18f1fd4c71d5859f5c1f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIPE\BOTTL72.wav" size="4264" crc="020d1a7c" md5="85eed808eb825f0ddd2bb6b62e96f0e3" sha1="f96782f38e93a2b3f0acafb6abba6a2b6afbb1b6" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIPE\FLUTE65A.wav" size="4182" crc="0c838057" md5="cba94bd250d540361e9b0b380ced0a62" sha1="f299784f68df24feabe6131dcfba8ba6360e4667" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIPE\OCARI72A.wav" size="6462" crc="d650f3e8" md5="ff716b6d768ebe67d1c7d6ec6a03057c" sha1="f7483b015020c3b647038ad7604d828ccbb5b58b" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIPE\PICLO79.wav" size="2608" crc="86faa4c1" md5="a641cb216e3513959ade57dc6c811500" sha1="6e08741cd57122d0b4264362ec2abd93b86ac2fe" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIPE\PNFLT72.wav" size="7904" crc="55ca5c34" md5="0f7bbb43697eb923034ea3cfd1a2626f" sha1="341643265bc07cebd230cfb4e38902418800033b" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIPE\RECDR66A.wav" size="2202" crc="d353a134" md5="0d02fb021ed6a6a943fd2964f6dad445" sha1="6419ca484ddcb646e8d7b1f05948ab63b91fce3f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIPE\SHAKU63.wav" size="12004" crc="8595d13f" md5="2dc44e511eee908f19279e0bdccde94f" sha1="f401bcad5563ac71032ade5f4993ff9301534abd" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\PIPE\SINE_64.wav" size="450" crc="1dc66e7b" md5="031ae6b13bc8a99a136a5f995d21a7d1" sha1="566e468a5b11163e677854e4a6aad40b61b01ada" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\REED\A_SAX63.wav" size="2724" crc="d36bce84" md5="ac3d76f049299ca270a72333942bb95b" sha1="d879c3f0cecc9e042cb3aa0741947402a158e8d3" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\REED\B_SAX59.wav" size="1536" crc="afe072d5" md5="2b9a9a4c774b19779076a5d0746458d4" sha1="c689fc5741de532f2896b85f208508a252adf8c7" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\REED\BASSN69.wav" size="722" crc="22f00a5b" md5="dd1407da31c6af2f562fe9ff51adfd2c" sha1="97e585ee59176ef7a2126491c8900a1c407731f9" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\REED\EHORN61A.wav" size="2018" crc="cb7477d5" md5="ff0c1700b10bee3a35c0826d24e2e383" sha1="72e4de9ab6fd9b2ff1addbd6407aab99b9e9421f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\REED\OBOE_61A.wav" size="4704" crc="975772e0" md5="327213230c0d459b040e390527882d80" sha1="54ab0081bb9579b99c6517bdfd4423674d532a53" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\REED\S_SAX70.wav" size="4116" crc="2adbd4c8" md5="eb4bfc9054ff802e15d8470b742d6520" sha1="067390b666903fb36e5fc47ec99a38b01478a992" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\REED\SYNCL64.wav" size="490" crc="5a41ee45" md5="052bd7276ad25093cf0a2b6b47c74668" sha1="3f9151b125a7764c1e035cc6b9d8303bbd1d88f8" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\REED\T_SAX63.wav" size="2210" crc="de4a1762" md5="eceb5bae1c4c7d23dc9bbbe9073cebd2" sha1="9a2caf8947e862bd55d922b656373dee52880e87" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\STRINGS\CELLH64.wav" size="1806" crc="c1eb1d17" md5="b338ec32ca5d39da4e34aa37bf07dc7e" sha1="3ccf1255f19f7c86580b1f718ed08a5bcf45de94" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\STRINGS\CONBH41.wav" size="1244" crc="52e03e64" md5="ff467d7bb0aff966d034f70cd1b9f4bd" sha1="a378d3666d1ad33e90404ae9182c83d54151f1da" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\STRINGS\HARP_57A.wav" size="7896" crc="7865c9a0" md5="f8f2b4f4c1d3df761001ac16748c2cee" sha1="4d59140760d6f85c82e12800e1dd516e9fdf2c6b" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\STRINGS\PIZZ_71.wav" size="5156" crc="93500f80" md5="278663702f9a98452647892918c952c8" sha1="b2fd69680b27c042a1b9436cd3c6f592f9657aed" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\STRINGS\STRNG71B.wav" size="23052" crc="18ddd181" md5="e467b3ae7be8066e339e5d172c8a26db" sha1="a4ff1642a9eb80b3de3d4bc399fd91d16b942f12" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\STRINGS\TMPNI47.wav" size="13726" crc="7322b4d7" md5="6bc642da27174a53760f4d70382852a9" sha1="48158db0b40a916cf032bd778f56c4aaf86a950a" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\STRINGS\VIOLN68.wav" size="3108" crc="8b571374" md5="4a20921c0708d6ebd367215592852a7b" sha1="92229320fbff4ee6a53b1468c37520b0b2398f55" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNEFECT\ATMOS60A.wav" size="10408" crc="1986cca3" md5="db48b2f6f461f6891e1de3d518c3d24d" sha1="023cc0f52edaec7ea9a0d7c342e1991e49b2cba3" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNEFECT\CHOIR65A.wav" size="25016" crc="fbedfaf2" md5="f467ed25154f338b0a7b87e89aa82069" sha1="2ce95b6790c506664f641d622133911020ea544e" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNEFECT\FMVOX66A.wav" size="6654" crc="a960b8d0" md5="3f1b3f5bcba9bbb51e744e833693a4e3" sha1="0746d91160a8b9cbef4e727372c961cdc9878aca" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNEFECT\FNTBL53C.wav" size="3472" crc="0dfd6e02" md5="53f230bded08870d019734c4265e85f1" sha1="1a1fe950326bbd8f8a5bbf41e9798fc761d32a43" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNEFECT\GOBLN84A.wav" size="12748" crc="0979183e" md5="77346104919ec17e21f352296b8e37f6" sha1="1152a285d4606fb64bebb2e19e8b4a46675b00e7" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNEFECT\ICE__60A.wav" size="9720" crc="45c59b15" md5="7afea05acf738390915616b92b35641d" sha1="7d82925b538bb3cdabfa0ade5db93c9d1c0d44ee" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNEFECT\SOUND60.wav" size="23784" crc="9b28ee86" md5="fa57e6c547071d46c9581da572aa6df3" sha1="288bcb63c0583ac184626bda18dc017854ae6704" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNEFECT\STAR_60A.wav" size="9416" crc="c52a08fa" md5="8460314df3cc15fb2b29e9ba3884b0e4" sha1="fd0ce11f0b93844310d2e181ab06118d2b274119" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNLEAD\5_SAW81.wav" size="15568" crc="9a330db5" md5="29c383d367c0e44b2daa9ed75477bbcf" sha1="387b91fa22fb362698e0ab34cea37ab4fa778373" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNLEAD\BS_LD48.wav" size="6978" crc="e9c42939" md5="baedddf0fec841bf20edf4e4fdaa7cfb" sha1="a5b0adb13cd28e82fb8869f4a2f4b39f746c4dc2" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNLEAD\CALLI72.wav" size="11482" crc="9cc5d7ef" md5="a9713527fcd990afa3cf451b861b475f" sha1="b2f19bf840f933211e15b35bec3c9493e53fb259" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNLEAD\CHFFR72A.wav" size="11382" crc="8355dcc2" md5="5f2f1db9134c25fdeddfb25e84fd0eef" sha1="a9f5a3fa4865b7c943cf69404022821bd69c50f4" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNLEAD\CHRNG60.wav" size="12478" crc="d3c6208a" md5="3c30179a21f32c23f0496ecbd887b3bb" sha1="51eb8257482276a9749752136014861daee0d991" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNLEAD\FMVOX66A.wav" size="6654" crc="bc759925" md5="ef483fb1f5762df3f71556f135c07580" sha1="5ab2e4bc9aaa3b4b61adc7135cdcd268873fcf26" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNLEAD\SAW0_60.wav" size="20836" crc="13e239aa" md5="93e2fab20d473b3df3b02668f426866d" sha1="05a412b8dd6173e0f9394b15e8f464d968b8212f" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNLEAD\SQUAR60.wav" size="15316" crc="9021a5b9" md5="84e741b23bc1765b0125cf8e3e687a05" sha1="70683bfeae7593ef9f5408a2d83a757785a05803" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNPAD\CHOIR65A.wav" size="25016" crc="4e48ae5e" md5="f7c56fd8deb9d04542e98c8d00a56a1b" sha1="8e42bc5d50549c1a6a9360c0c2ca4d62e689327b" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNPAD\ELP1_56.wav" size="1890" crc="6530584d" md5="d1629a7f34924e316ff2fbc94bdba911" sha1="d16b7e4a6fa0e20d918b2408bf54390a71fd5f4d" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNPAD\FANTA53.wav" size="11144" crc="1f641fb5" md5="ca6b663f203d4a0f0bf9f009d62c5ae5" sha1="6ec0ce88a07e04e81a50195bd3741883c1ef6a7e" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNPAD\HONKY62B.wav" size="6060" crc="b7fe7476" md5="0346e638b9c625f05b7acc573ccec4d9" sha1="3d91f07841f38b6f9907fe96cc4be1e219f72cb1" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNPAD\POLY_60A.wav" size="11808" crc="3984d94b" md5="bddb42590fac11a3665ba172db4256dd" sha1="ffe5f4a63088ffb083e93360aa8c95903c1ef0d5" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNPAD\SPACE79.wav" size="13344" crc="6fa6cfea" md5="202d4095fcb5e05fabf6000dc0b8ed60" sha1="c2ffeda7affd995764beb9f4faf4c6231a5e5263" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNPAD\SSTR162A.wav" size="22264" crc="16946ed8" md5="3b1b5ac90bbcb2a13497457c6225ea31" sha1="623cbe7a4552d67e82c95346b601b3e484d994aa" />
+		<rom name="v1.50(EN)(BaseConf)\SAMPLES\SYNPAD\WRMPD72A.wav" size="11772" crc="d3cc3b74" md5="cbce050393fceabb524a8dc4da3ee49c" sha1="a0099e565487c0c9379b4ac0dbdee0da5b928594" />
+	</machine>
+	<machine name="NSID Player (2020)(-)">
+		<description>NSID Player (2020)(-)</description>
+		<rom name="R0632(EN)(128K, TS, ATM, ATM2).zip" size="3706108" crc="3dfdaa52" md5="ef39c4289b867bbbaec8472feda50159" sha1="d032c2b6f6fd5c8c3c3fad53209a1d651b6c6c76" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 01 of 10).trd" size="655360" crc="f45ab4bc" md5="95659f2c480135d66a5f7b311c4300da" sha1="b1122a90ce2785d725a87bf1f8b79161e62c1aab" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 02 of 10).trd" size="655360" crc="56028ab9" md5="ec5dde50c3a00bd1e5042800265412b4" sha1="339dcd8e46eae20c511f51b688d09a232d532349" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 03 of 10).trd" size="655360" crc="8185c9b2" md5="9061d5392743c12a570139c8f87accec" sha1="5d0480bb4a9f39abe87bdba37e9c8a80478a604f" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 04 of 10).trd" size="655360" crc="5741fb37" md5="e51eee81cd7ad028f3668fb5681ee59c" sha1="816df8cc1d0c61f01c96bbb8f989c549d77d365c" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 05 of 10).trd" size="655360" crc="db4ddef0" md5="9da70f3883c91cff416481e20df36d66" sha1="67907962305d6b6ddf456747a75875d270e53f32" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 06 of 10).trd" size="655360" crc="734285da" md5="ca32893f0677f2a89a096d4a8dff24c0" sha1="3cc717eb74664ff4c6bf4d8fd4f6cf9512ea8030" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 07 of 10).trd" size="655360" crc="56ec91c3" md5="233acb9bb2e08a8fde8650a5fb30689f" sha1="3652e05caa8c8614f09c16a3529f96ccd736ad3f" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 08 of 10).trd" size="655360" crc="8ea2c288" md5="9ed7a38b51aa498ae6b020008cbab775" sha1="9ffbce34ade599e23dfb0240738846fdb52a8ee6" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 09 of 10).trd" size="655360" crc="28a5d6cc" md5="59733c8dc10817140c0745672042923a" sha1="c7fa37359f16a697dd7159e9e7643e9b2b2ebf2b" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 10 of 10).trd" size="655360" crc="a8e620fb" md5="d522e434034cbc4cd62d6ee6a784128a" sha1="55a8d6b04bace395ae03c33c05767060c9a43abc" />
+		<rom name="R0641(EN)(128K, ATM, ATM2).tap" size="623277" crc="6de28e8c" md5="8ffc64799ca03abef6adc288baddd8e2" sha1="1763e1fc8e5fdc39ac75e4b20d6394ceadb1478f" />
+	</machine>
+	<machine name="NSID Player Pro (2021)(-)">
+		<description>NSID Player Pro (2021)(-)</description>
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 01 of 10)(PD).trd" size="655360" crc="d7c80e1d" md5="c22bc9a201afea31d9be334daa9d2ab0" sha1="e80f33ae6a164b14cae0f6160bc4f328033efc0d" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 01 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="8659eb45" md5="f3ecd06d6c00b0d696887b2623ff7a37" sha1="733fb5c121cc94a1727b4c90fe5ab4dad06f8bf1" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 02 of 10)(PD).trd" size="655360" crc="723cbb5d" md5="9322ddfb345f5cae81db65e392896231" sha1="ba89d0ed9422f72644a95e9dee27c785442adae9" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 02 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="72dcb9d8" md5="0693f1e8d91509b3b9016c3e6b3c601a" sha1="6a0fee4f326f621c5c9e4132f5556790d5421411" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 03 of 10)(PD).trd" size="655360" crc="6ec58935" md5="ccf48cb0c47544a9e1ac97974769681f" sha1="2b7bc79bc88eae8bf86e5b0ec7cb004200f560fe" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 03 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="46ebabf2" md5="c56da25b4d3006167b7f1b233911109e" sha1="ab7753ca0fcceb3ef2d46fad0a0eff02c7ff5d74" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 04 of 10)(PD).trd" size="655360" crc="d4073c46" md5="5aaa954eff4cebeae054a77129967727" sha1="1b8836c7da62439d48a673c3081dadfedf397b20" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 04 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="714859d9" md5="177d6177a1967480f21c761471f4c7eb" sha1="669d447188f2126eca3aa06a11cc13076b7698d0" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 05 of 10)(PD).trd" size="655360" crc="f809daae" md5="09e5c126f1c2c68fdfee6d8ec012f81b" sha1="89ed6b03ec62300077c6a7a6621a038420453fde" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 05 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="ecdedad3" md5="b0581207b5ac88bb76d3fde6da40f393" sha1="ca175fda4b8500245da4485da82800346675585d" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 06 of 10)(PD).trd" size="655360" crc="7603159e" md5="e53b48494a9ecc8fe7094f2eea63a5a5" sha1="5de08f2e971681772abf485f1466796df4cf1edc" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 06 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="bd8d0507" md5="fb9c82cd4bc30416f708ec7b985a173e" sha1="6abad6a601d781635b33668abd53052d8f720fb8" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 07 of 10)(PD).trd" size="655360" crc="bcbd8391" md5="dbc94fc21787f1c01d9428b44cccc0c9" sha1="920821df41357fcd6bca8bb7032b33d4e1ce075f" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 07 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="7cb6e502" md5="0dd2ad185d3f32fc63e252fba013b032" sha1="745d144571d06d8402bfa4eaa3f6a7a8947a69e4" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 08 of 10)(PD).trd" size="655360" crc="82f40d74" md5="05e96b82317a239673977421390291f8" sha1="e533bc8daa3c2809d3b96639c5e6ab7ebfd79b55" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 08 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="12031db6" md5="c81a06bb05603d6c00ac313a6d40140b" sha1="3a3c6626022db078a3793388573c02136af2f28d" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 09 of 10)(PD).trd" size="655360" crc="b4b37f57" md5="729058a5a156411d67b840055d120053" sha1="e0b5349a68858affc9ca4d6935f964ea546e3f13" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 09 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="e6a3b756" md5="6eb7594eaaa8a153ac32e17cbe89d59c" sha1="06833a3b005e03577466f3f586016886ca43bb8b" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 10 of 10)(PD).trd" size="655360" crc="cae991c5" md5="2c64c91600ac7465d0f9202c3d831a85" sha1="24680f4b82bf7092cfb045838f2ac111578a3f75" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(Disk 10 of 10)(PD)[a NEO SPECTRUMAN].trd" size="655360" crc="6a593766" md5="31dc865c2143ee28177362425c653075" sha1="4eca1992a62853b6016bb84bfdb914161af296f5" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(PD).tap" size="620274" crc="26cb9003" md5="b4af305c35a0d49e85549b794c9669db" sha1="2710f7a3aefc491d92762df62e81e9a992090218" />
+		<rom name="R0633(EN)(128K, ATM, ATM2)(PD)[a NEO SPECTRUMAN].tap" size="620353" crc="5b4a3040" md5="439624f9b4ecb67589651604071b71c7" sha1="4c934cd37207fb99145f03e92646da48f78060b9" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 01 of 10)(PD).trd" size="655360" crc="6c281fc9" md5="66bce1bf521b66439b49ab8d6d24c567" sha1="4599e6352fedd651c508a6b4e585e245440d08d4" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 01 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="363e4075" md5="93a2691e82a93e59b07f1142f4d8088a" sha1="6b5d01466b832a2d6edb92ae3e3c516e8109c56e" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 02 of 10)(PD).trd" size="655360" crc="fc1ce990" md5="37b19b385911af96ef6174e981d97795" sha1="b5a30e8b20c13119734dbcde4560b9cc88c96576" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 02 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="124fd494" md5="1bf74996a4a8651d21f96d72bb74583a" sha1="c1d77a25828e5df50bcbb26b403b674c518b3b88" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 03 of 10)(PD).trd" size="655360" crc="333bd683" md5="2970cfae9bbe710a4b38a9bd02257146" sha1="b2ef3dcffe59a8de09e74302c4df05f2293d77a2" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 03 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="890000f9" md5="1c89d2622483122d6ea95ad6b2183bf7" sha1="84f831372ba055bff6c66bac67307e5f28bf5c6e" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 04 of 10)(PD).trd" size="655360" crc="db7cc8c8" md5="0e5ad1a67778985d57f83bfe49a3733c" sha1="892e77ee7db75ecce3b226768cbf6f50392f069f" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 04 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="b56c033b" md5="53bbb8856c78b11376c3757aae69b836" sha1="0cd3071ba08d2fb0135656ef77e141a4a7352fc3" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 05 of 10)(PD).trd" size="655360" crc="a3aff22f" md5="2efd3feae81c411c7a35dc2be8a300a0" sha1="82bff27c1c02e8aa9902c5b5417adc685763aee5" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 05 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="445fbca3" md5="30f25009a773a086cdc51e94e0cb3da2" sha1="ed2fc089a778b1a38db6f3692b7e837f975582b9" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 06 of 10)(PD).trd" size="655360" crc="ebe3651f" md5="746cb4eb15c97b70f51993b427a847c0" sha1="1cb4081a4a4e033d0c6e313d9007f2f92290fc8d" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 06 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="7d4a6dc9" md5="e776a38cf2b8b57d1d5de817b3822083" sha1="013f50eb970d62ad8169124286d825b3437c32c9" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 07 of 10)(PD).trd" size="655360" crc="9fa1ebdc" md5="70f70dc426f95b8090c7afeab6c4e9e3" sha1="d5335051efc74ee1ca9631fc089088deb6962708" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 07 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="5b7b28bc" md5="106e85e5cdc69c90b50687212f86da8e" sha1="8a9b577d08f5540c1e15448e345f6e8dae24fb72" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 08 of 10)(PD).trd" size="655360" crc="9867dc65" md5="28831c3b884f6a964328d2eb84a5290f" sha1="d7d2100e86ab3162a5bec33d4fe050795c7aa628" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 08 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="c5672d7d" md5="a7ee4641bf6a6b1d97f4a5f4d8b82c24" sha1="0f8aba6a47b9d71e95f0d6a9258669dcb2d42280" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 09 of 10)(PD).trd" size="655360" crc="1d0ceb87" md5="d4ffe602ca7df35e09a683e62935ec84" sha1="4734a147d8da1de11bcea26c0824326f00d95bf2" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 09 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="d9d628e7" md5="66ccbfe26be912133d6550387d09d8db" sha1="5208798b0953e8a5005471627717cf0d2383f33f" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 10 of 10)(PD).trd" size="655360" crc="323c5f49" md5="70ada4edc7897166bb2b7525e70695f4" sha1="d25001034f8c365a008f34170107997d973eccf4" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(Disk 10 of 10)(PD)[a 2021 NEO SPECTRUMAN].trd" size="655360" crc="f37912ef" md5="a459879c60e3edffb3acc23ac3cdaf3c" sha1="3e7cd670bfb6c4054978606d48f07e9475fa14fd" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(PD).tap" size="618678" crc="e52383f7" md5="75289021c73a315c4e65d325ad61ef1d" sha1="7bcec8edecc35d7bae4b5db30a1beb7907b629d1" />
+		<rom name="R0641(EN)(128K, ATM, ATM2)(PD)[a 2021 NEO SPECTRUMAN].tap" size="618711" crc="7ed7d93e" md5="95f9084582da122538b75ea6989ef76d" sha1="3dff72d4adefdfe7cb0782b24e38574f2fff2df5" />
+	</machine>
+	<machine name="Picasso (1999)(IS-DOS Support Team, Iskra Soft Ltd)">
+		<description>Picasso (1999)(IS-DOS Support Team, Iskra Soft Ltd)</description>
+		<rom name="v1.03(ATM2)[h IS-DOS Support Team].fdi" size="826011" crc="6f9462d5" md5="93f14d93daf4997e015658069d9cc96e" sha1="0d8deb53e9a97278a8e3867657ac2b30a5526a29" />
+	</machine>
+	<machine name="Proteus File Manager (2023)(-)">
+		<description>Proteus File Manager (2023)(-)</description>
+		<rom name="2.31.5587(EN)(GS, 128K, ATM, ATM2, BaseConf, TSConf).zip" size="1598711" crc="60093ba5" md5="474a8987d833bccf732eb41b7c83c03f" sha1="2f50da28e3aa3dc28e7d42ab2e39bf0aea12750c" />
+		<rom name="v2.00.1298(EN)(128K, GMX, BaseConf, TSConf).zip" size="161674" crc="b87e79e9" md5="e0726b966a5b77f07bbfefec0adf5669" sha1="1c3bea0efd28ee09f03ed7445267cd0eb0807d6f" />
+		<rom name="v2.00.1378(EN)(128K, GMX, ATM2, BaseConf, TSConf).zip" size="202634" crc="0ca355ff" md5="ce3e5e885ebb1f65ae1fe71a5b2a7419" sha1="3ae17b4f3b7a109950ec3c2c742cc392794eda86" />
+		<rom name="v2.22.3216(EN)(128K, GMX, ATM2, BaseConf, TSConf).zip" size="358309" crc="18c06b61" md5="0b74562b84b684af1803713fe76489db" sha1="c26229433007efdc4c10a7cca1b65116b4247ae4" />
+		<rom name="v2.23.3294(EN)(128K, GMX, ATM2, BaseConf, TSConf).zip" size="368148" crc="9534a52f" md5="542d2d1d3732a573cf67743a1656cb20" sha1="fb18a866f09524f6d5c1fd408b18c4f8308b6874" />
+		<rom name="v2.23.3381(EN)(128K, GMX, ATM2, BaseConf, TSConf).zip" size="368738" crc="0020e212" md5="82532826bf7e8cab5cf24879699d9d85" sha1="0ccc8850617f47e8c0b9df5eb7f9ad36d505dffd" />
+	</machine>
+	<machine name="Stalker Stealth Monitor (1994)(Inforkom)">
+		<description>Stalker Stealth Monitor (1994)(Inforkom)</description>
+		<rom name="v7.5(128K, ATM)[h 2013 Alone Coder].scl" size="31273" crc="24933505" md5="272e0e6c046dc22fbf394db0bd46d7c2" sha1="e64c55ba2a4cfec080317c645539bd66284ae656" />
+	</machine>
+	<machine name="TASiS (2005)(NedoPC Team)">
+		<description>TASiS (2005)(NedoPC Team)</description>
+		<rom name="v5.40(ATM2).fdi" size="825993" crc="ddda660a" md5="ce38ecfdaef4791bb8b3d9e9400c87cc" sha1="ae182f09b486771ee17d13ffca2844f2aab447ce" />
+		<rom name="v5.41(ATM2)(File 1 of 2).fdi" size="825935" crc="e22a63dd" md5="996c567aa227e7f974c896ccd4434094" sha1="6db949b43a009cb33eb8698a048228b07f318943" />
+		<rom name="v5.41(ATM2)(File 2 of 2).fdi" size="825935" crc="41039bde" md5="fc2715953bdbf29a24bd877818fa9b45" sha1="8ae4f9adf434d4a8cc2b45241ca3c3534f155b74" />
+		<rom name="v5.41(BaseConf)(File 1 of 2).fdi" size="825935" crc="6026161d" md5="7c0ac076b2bed94c0aa229de26f41a9f" sha1="0a5629cc5210a11b1bec10e34903f98356c9dd88" />
+		<rom name="v5.41(BaseConf)(File 2 of 2).fdi" size="825935" crc="a4e10916" md5="a48f4a0de1ad2b12ccbd13b069e2603c" sha1="ba0ae3ef23e33db1fff4fff74afb3bf7db1e86e8" />
+	</machine>
+</datafile>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - SAM Coupé - Demoscene</name>
+		<description>ZX-Art - SAM Coupé - Demoscene</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Grey Screen With No Music (2018)(D.T.A. Software Studio)">
+		<description>Grey Screen With No Music (2018)(D.T.A. Software Studio)</description>
+		<rom name="Grey Screen With No Music.mgt" size="819142" crc="3482e336" md5="e5970c6598542f50162e769afd7e0921" sha1="23b679f6e9ec081b9616120229b5846bd2948680" />
+	</machine>
+	<machine name="No Future (2021)(D.T.A. Software Studio)">
+		<description>No Future (2021)(D.T.A. Software Studio)</description>
+		<rom name="(EN)(PD).dsk" size="860416" crc="8066ddfb" md5="e6ca2eebda3589c08927295bbc01d45c" sha1="edd5a693fb3d9bbf87b8d826a092f607d65c6bfe" />
+	</machine>
+	<machine name="Touch Me (19xx)(The Lords)">
+		<description>Touch Me (19xx)(The Lords)</description>
+		<rom name="(EN).dsk" size="819200" crc="a42e5674" md5="7d4919c90fc1730c8cefefc19a9045a8" sha1="f85c24d12683fd002c88e7e71a151403d5e42a0b" />
+	</machine>
+</datafile>

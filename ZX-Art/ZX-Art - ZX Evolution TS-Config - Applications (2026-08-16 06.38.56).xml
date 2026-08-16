@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - ZX Evolution TS-Config - Applications</name>
+		<description>ZX-Art - ZX Evolution TS-Config - Applications</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="ZX Word 3 (2024)(-)">
+		<description>ZX Word 3 (2024)(-)</description>
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 1 of 2)[h 2024 PLM]\2_5m_hlp.txt" size="9279" crc="36f6c07e" md5="e014b10078433f8bd65d1c551fe7d64e" sha1="c3beff91ef890d6df2404546efa79732da169b84" />
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 1 of 2)[h 2024 PLM]\DrvPrinter.txt" size="512" crc="3a20d4eb" md5="aded9f26a87f617d8681ac058d16df83" sha1="e613be29cfaccb9cb4aea35b6fbe4823ca212d87" />
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 1 of 2)[h 2024 PLM]\file_id.diz" size="202" crc="8fd64f83" md5="5bdc8fe165ca38bfc71bc479bc5310f4" sha1="822310b1c259760f82bb91dbb94d03cd4cda7519" />
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 1 of 2)[h 2024 PLM]\ReadMe.docx" size="16131" crc="75a9d496" md5="89db3763f6c249a63ab7661023bbef84" sha1="4af7f8d03dfa4579603dec1bba66ad491ffc481c" />
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 1 of 2)[h 2024 PLM]\ReadMe.pdf" size="56040" crc="6650b41e" md5="8e14405b5d5f4ce9348b7a28b4abf892" sha1="7b438821b68ffacb338a8be332e1e3c1160fa8a4" />
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 1 of 2)[h 2024 PLM]\SetUp.txt" size="725" crc="08d5a942" md5="21d37b522e14109cfdf9ae7941120303" sha1="b51ca5c57b3da4c5ae4026b2f9e45495e3552cbe" />
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 1 of 2)[h 2024 PLM]\ZXW2_5.txt" size="19568" crc="83f30795" md5="3788cee849d387024ab8560c0022a8f2" sha1="541fdc26c703aa78f26a5176454cc36b79e2c8df" />
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 1 of 2)[h 2024 PLM]\zxwordTS.$C" size="17937" crc="669783ca" md5="aa80edc106b55c1da6815706a279b388" sha1="ec9ce0c628b5809acb765d97d283b9fea1110a52" />
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 1 of 2)[h 2024 PLM]\zxwordTS.trd" size="655360" crc="2a7f7a38" md5="406a0b8e6b8b877fd8cd9ec97556f97d" sha1="fd7127018152cfe3a6c8d6410b1b100c8a9c1f8b" />
+		<rom name="v3.10hdd.570(EN)(TSConf)(File 2 of 2)[h 2024 PLM].$c" size="17937" crc="669783ca" md5="aa80edc106b55c1da6815706a279b388" sha1="ec9ce0c628b5809acb765d97d283b9fea1110a52" />
+	</machine>
+</datafile>

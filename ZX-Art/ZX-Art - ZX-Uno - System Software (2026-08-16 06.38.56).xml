@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>ZX-Art - ZX-Uno - System Software</name>
+		<description>ZX-Art - ZX-Uno - System Software</description>
+		<version>2026-08-16 06:38:56</version>
+		<date>2026-08-16 06:38:56</date>
+		<url>https://zxart.ee/</url>
+		<author>t23</author>
+	</header>
+	<machine name="Long Filename Browser for esxDOS (2020)(Bob Fossil)">
+		<description>Long Filename Browser for esxDOS (2020)(Bob Fossil)</description>
+		<rom name="v0.24(EN)(128K).zip" size="238721" crc="2a26eea1" md5="fd7b212a5d9edd218d44c79d92bc5d3d" sha1="41695b29847ae0bd7123169f71cfbfc8cb6702f7" />
+		<rom name="v0.99 TEST 5(EN)(128K).zip" size="234737" crc="b168382d" md5="8e527ad10d66a6d6f8befa81b2a3b547" sha1="c08bb88466eb89a7294598667363b7959e376892" />
+		<rom name="v1.0(EN)(128K).zip" size="250302" crc="8b049b3d" md5="17cbb4ed826b2fd6d9719d5e50c52ec5" sha1="e9b75d2b36b1912787fdfef95c862a82c439897c" />
+		<rom name="v1.01(EN)(128K).zip" size="274796" crc="91525883" md5="79221a3880efe5c8ab1dc904b99bedc3" sha1="8d2c8ba5511cbdef117c070433b75000af27ea62" />
+		<rom name="v1.02(EN)(128K).zip" size="281407" crc="bea9f934" md5="503105db609bdf6f467057c5cf76612d" sha1="b05d603215a6d4eccd64455801f3cecc5787da3b" />
+	</machine>
+</datafile>
