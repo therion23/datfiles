@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Synergetix Interactive - Mophun 3D (Decrypted &amp; Decompressed)</name>
+		<description>Synergetix Interactive - Mophun 3D (Decrypted &amp; Decompressed)</description>
+		<category>Standard DatFile</category>
+		<version>2026-08-18</version>
+		<date>2026-08-18</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://emulation.gametechwiki.com/index.php/Mophun</homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="American Racing 3D v1.0 (20xx)(MH Games)">
+		<description>American Racing 3D v1.0 (20xx)(MH Games)</description>
+		<rom name="American Racing 3D v1.0 (20xx)(MH Games).mpn" size="252280" crc="e7bcaf15" md5="9fc2ea1aee10188812f7e78d306553a7" sha1="c1bab0a75a98cdb46875d0a9e8f19c64f35b71d9" />
+	</machine>
+	<machine name="Anarchy Boxing 3D v1.60 (2004)(Anarchy Games)">
+		<description>Anarchy Boxing 3D v1.60 (2004)(Anarchy Games)</description>
+		<rom name="Anarchy Boxing 3D v1.60 (2004)(Anarchy Games).mpn" size="304780" crc="8884c786" md5="337ee1bf2f049d4128b0008059fb5201" sha1="71e0e4f4b981846ce063b963a5bab053fb0dbc6f" />
+	</machine>
+	<machine name="Carmageddon Mobile 3D v1.1 (Green Blood) (2005)(Kampo Interactive)">
+		<description>Carmageddon Mobile 3D v1.1 (Green Blood) (2005)(Kampo Interactive)</description>
+		<rom name="Carmageddon Mobile 3D v1.1 (Green Blood) (2005)(Kampo Interactive).mpn" size="478368" crc="b339bed8" md5="e462fdb5188aca266bbc14f812f0598a" sha1="52c4d77fd7682b3602c3f0f6e4b3ebf4ff388279" />
+	</machine>
+	<machine name="Carmageddon Mobile 3D v1.2 (Red Blood) (2005)(Kampo Interactive)">
+		<description>Carmageddon Mobile 3D v1.2 (Red Blood) (2005)(Kampo Interactive)</description>
+		<rom name="Carmageddon Mobile 3D v1.2 (Red Blood) (2005)(Kampo Interactive).mpn" size="495116" crc="72460f46" md5="2e603da54a777be78019830a7179b02a" sha1="7446f10522a735042682c2a7d3a20a90b947c3f7" />
+	</machine>
+	<machine name="Da Vinci Code 3D v1.0.2 (2006)(Blaze)">
+		<description>Da Vinci Code 3D v1.0.2 (2006)(Blaze)</description>
+		<rom name="Da Vinci Code 3D v1.0.2 (2006)(Blaze).mpn" size="931168" crc="c2eaa12c" md5="2dd2e0ae60e4f66d2a52e66e834e9022" sha1="c36b4e507e4de474bed35659a966f532a3947bc4" />
+	</machine>
+	<machine name="Fatal Arena v1.00 (2004)(Progressive Media)">
+		<description>Fatal Arena v1.00 (2004)(Progressive Media)</description>
+		<rom name="Fatal Arena v1.00 (2004)(Progressive Media).mpn" size="256772" crc="78ada425" md5="f3f1a4c58271fb3d4b06fb7414495030" sha1="154c01047c070bc25ece9bb40e156bded2902298" />
+	</machine>
+	<machine name="Football Pro Contest v1.0.4 (2005)(Synergenix Interactive)">
+		<description>Football Pro Contest v1.0.4 (2005)(Synergenix Interactive)</description>
+		<rom name="Football Pro Contest v1.0.4 (2005)(Synergenix Interactive).mpn" size="569064" crc="e349710f" md5="49eb43745faf2b2898fc9ad039c063e8" sha1="42c1ffedc0a9521b214f9ca10813105dfaf05505" />
+	</machine>
+	<machine name="Golf Pro Contest 2 v1.0.1 (2006)(Synergenix Interactive)">
+		<description>Golf Pro Contest 2 v1.0.1 (2006)(Synergenix Interactive)</description>
+		<rom name="Golf Pro Contest 2 v1.0.1 (2006)(Synergenix Interactive).mpn" size="526488" crc="f2bffa44" md5="70a102abfbeaf694d1ccafa4b185a174" sha1="52657e4fd84b818549962b1538cc04d33e70786e" />
+	</machine>
+	<machine name="Golf PRO Contest v1.2 (2005)(Dining Philosopher)">
+		<description>Golf PRO Contest v1.2 (2005)(Dining Philosopher)</description>
+		<rom name="Golf PRO Contest v1.2 (2005)(Dining Philosopher).mpn" size="284492" crc="06b46467" md5="243901033f71c3210d3b627152fb2ed4" sha1="1b7ef1ff495dc87eab64da2aa9989a262bb36514" />
+	</machine>
+	<machine name="Heli Attack 2 v1.0 (2004)(Maratron)">
+		<description>Heli Attack 2 v1.0 (2004)(Maratron)</description>
+		<rom name="Heli Attack 2 v1.0 (2004)(Maratron).mpn" size="357740" crc="f371813a" md5="0a90bc51e361e797efcc92edd223e003" sha1="22277f960832e81ac9346939038d51ed0e8b3d2c" />
+	</machine>
+	<machine name="Heli Attack 2 v1.02 (2004)(Maratron)">
+		<description>Heli Attack 2 v1.02 (2004)(Maratron)</description>
+		<rom name="Heli Attack 2 v1.02 (2004)(Maratron).mpn" size="378240" crc="1e7ad817" md5="167507ccafc118a6ab1de59c1cf9ff45" sha1="4ad4b96a615aca1c176782a8153b8dc633a3f119" />
+	</machine>
+	<machine name="Joe's Treasure Quest v1.0 (2004)(Kampo Interactive)">
+		<description>Joe's Treasure Quest v1.0 (2004)(Kampo Interactive)</description>
+		<rom name="Joe's Treasure Quest v1.0 (2004)(Kampo Interactive).mpn" size="199696" crc="f75588fd" md5="b8c60edd7b67497799db569547a6f27c" sha1="820425086023567ebccc59796789f096db2a605f" />
+	</machine>
+	<machine name="Lock'n Load 2 v0.9.0 Beta (2006)(Synergenix Interactive)">
+		<description>Lock'n Load 2 v0.9.0 Beta (2006)(Synergenix Interactive)</description>
+		<rom name="Lock'n Load 2 v0.9.0 Beta (2006)(Synergenix Interactive).mpn" size="531352" crc="92ce95fb" md5="a70a88a666c27db633d63ec947ff3a19" sha1="03c17fc9327f119e346fe7ec1835b42890c2ee1c" />
+	</machine>
+	<machine name="Lock'n Load 2 v1.1.0 (2006)(Synergenix Interactive)">
+		<description>Lock'n Load 2 v1.1.0 (2006)(Synergenix Interactive)</description>
+		<rom name="Lock'n Load 2 v1.1.0 (2006)(Synergenix Interactive).mpn" size="531604" crc="3c9ead7a" md5="a7313ba6afcd4c3e4e5cca94da7d40ec" sha1="807b791ca26392eccf8accddbf9e8f590990359c" />
+	</machine>
+	<machine name="Lock'n Load 2 v1.2.0 (2006)(Synergenix Interactive)">
+		<description>Lock'n Load 2 v1.2.0 (2006)(Synergenix Interactive)</description>
+		<rom name="Lock'n Load 2 v1.2.0 (2006)(Synergenix Interactive).mpn" size="531604" crc="f044bced" md5="c99a86d90537871703747d8be025a035" sha1="62ae4f27b63bef61f2af877ec5ff830410ecfaa2" />
+	</machine>
+	<machine name="Lock'n Load_ Combat Arena v1.20.0 (2004)(Synergenix Interactive)">
+		<description>Lock'n Load_ Combat Arena v1.20.0 (2004)(Synergenix Interactive)</description>
+		<rom name="Lock'n Load_ Combat Arena v1.20.0 (2004)(Synergenix Interactive).mpn" size="194460" crc="7c546cb8" md5="e45362540d95d801ece26bc4c372f3b9" sha1="c06b1bc2a129420db15c3868a922b646a82f1508" />
+	</machine>
+	<machine name="Lock'n Load_ Rise of war v1.01 (2004)(Synergenix Interactive)">
+		<description>Lock'n Load_ Rise of war v1.01 (2004)(Synergenix Interactive)</description>
+		<rom name="Lock'n Load_ Rise of war v1.01 (2004)(Synergenix Interactive).mpn" size="187100" crc="87c38310" md5="faddee6562058b827ceb323bce7ba879" sha1="19c69ee029124b98b5b85767b888972ae0f43089" />
+	</machine>
+	<machine name="Martial Arts 3D v1.0 (2005)(Wireless Dreams)">
+		<description>Martial Arts 3D v1.0 (2005)(Wireless Dreams)</description>
+		<rom name="Martial Arts 3D v1.0 (2005)(Wireless Dreams).mpn" size="557524" crc="c0f45375" md5="6e39d8a596563906eaebf31ad7f949c3" sha1="a0ef3acee125403d8438546cc43ce72d9508df29" />
+	</machine>
+	<machine name="Rally Pro Contest v1.30 (2003)(Synergenix Interactive)">
+		<description>Rally Pro Contest v1.30 (2003)(Synergenix Interactive)</description>
+		<rom name="Rally Pro Contest v1.30 (2003)(Synergenix Interactive).mpn" size="195620" crc="49c31bbb" md5="25fe5ecb4a8d7afca3949c284cdfd60a" sha1="cd853c36665f813984cd9ff0bc7bd3434754bfa5" />
+	</machine>
+	<machine name="Worms World Party v1.0.0 (2006)(THQ Wireless)">
+		<description>Worms World Party v1.0.0 (2006)(THQ Wireless)</description>
+		<rom name="Worms World Party v1.0.0 (2006)(THQ Wireless).mpn" size="2899740" crc="9b389686" md5="d2413ed9a1c1d7baf8241ccce06b5785" sha1="5449846a041fa7f0193a4f0a739ddcebccf54bec" />
+	</machine>
+</datafile>
