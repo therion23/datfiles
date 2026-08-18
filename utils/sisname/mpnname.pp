@@ -221,34 +221,6 @@ Begin
           Seek(I, FilePos(I) + 262);
           If IOResult <> 0 Then Err(102);
 
-(*          While Valid Do Repeat
-            BlockRead(I, Res1, 2);
-            If IOResult <> 0 Then Err(108);
-            BlockRead(I, Res2, 2);
-            If IOResult <> 0 Then Err(108);
-            If (Res1 > 0) AND (Res2 > 0) Then While Valid Do Begin
-              SetLength(Field, (Res1 SHR 1) - 1);
-              If Length(Field) > 0 Then BlockRead(I, Field[1], Res1) Else Seek(I, FilePos(I) + 2);
-              WriteLn(Field);
-              SetLength(Value, (Res2 SHR 1) - 1);
-              If Length(Value) > 0 Then BlockRead(I, Value[1], Res2) Else Seek(I, FilePos(I) + 2);
-              WriteLn(Value);
-              BlockRead(I, Dummy, 1);
-              If IOResult <> 0 Then Err(108);
-              If (Valid) AND (Length(Field) > 0) AND (Length(Value) > 0) Then Begin
-                If Field = 'IMEI' Then IMEI := Value;
-                If Field = 'Title' Then Title := Value;
-                If Field = 'Vendor' Then Vendor := Value;
-                If Field = 'Copyright info' Then Copyright := Value;
-                If Field = 'Program version' Then Version := Value;
-                If Field = 'Help' Then Help := Value;
-              End;
-              WriteLn('Inner: ', Res1, ' - ', Res2);
-            End;
-            WriteLn(Res1, ' - ' , Res2);
-          Until (EOF(I)) OR ((Res1 = 0) AND (Res2 = 0));
-*)
-
           If Valid Then Repeat
             BlockRead(I, Res1, 2);
             BlockRead(I, Res2, 2);
@@ -268,8 +240,6 @@ Begin
               End;
             End;
           Until (Res1 = 0) AND (Res2 = 0);
-
-//          Halt(0);
 
           If FileSize(I) < 131072 Then Begin
             Seek(I, 0);
@@ -334,9 +304,9 @@ Begin
       OutName := OutName + ' (' + Year + ')';
       If Vendor <> '' Then OutName := OutName + '(' + Vendor + ')'
       Else OutName := OutName + '(' + Copyright + ')';
-      If NOT Compressed Then OutName := OutName + '[Comp-]'
-      Else If NOT Encrypted Then OutName := OutName + '[Encr-]'
-      Else OutName := OutName + '[Encr+]';
+//      If NOT Compressed Then OutName := OutName + ''
+//      Else If NOT Encrypted Then OutName := OutName + '[Compressed]'
+//      Else OutName := OutName + '[Encrypted]';
       OutName := OutName + '.mpn';
       For Res1 := 1 To Length(OutName) Do If Pos(OutName[Res1], '":\/*?<>|`'#13#10) > 0 Then OutName[Res1] := '_';
     End
@@ -345,11 +315,9 @@ Begin
     Else OutName := SourcePath + DirInfo.Name + '.notanmpn';
 //    If IMEI = '' Then WriteLn(OutName, 'lacks IMEI!') Else
     WriteLn('Suggested : ', OutName);
-(*
     If NOT FileExists(SourcePath + OutName) Then RenameFile(SourcePath + DirInfo.Name, SourcePath + OutName)
     Else WriteLn(OutName, ' already exists.');
     If IOresult <> 0 Then WriteLn('Error renaming!');
-*)
   Until FindNext(DirInfo) <> 0;
   FindClose(DirInfo);
 End.
