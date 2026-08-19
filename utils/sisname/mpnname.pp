@@ -50,13 +50,16 @@ Var
 
   Encrypted,
   Compressed,
-  Valid: Boolean;
+  Valid,
+  Found: Boolean;
 
   Res1,
-  Res2: Word;
+  Res2,
+  ResTablePtr: Word;
 
   DRes1,
-  DRes2: DWord;
+  DRes2,
+  ResTableOfs: DWord;
 
   CkBuf: AnsiString;
 
@@ -189,90 +192,99 @@ Begin
 
     If IOResult <> 0 Then Err(103);
 
+    Found := False;
+
     If (Valid) AND (NOT Encrypted) AND (NOT Compressed) Then Begin
-      Seek(I, Code + Data + 40);
+      ResTableOfs := Code + Data + 40;
+      ResTablePtr := 0;
+      Seek(I, ResTableOfs);
       If IOResult <> 0 Then Err(102) Else Begin
-        BlockRead(I, DRes1, 4);
-        Seek(I, FilePos(I) + (DRes1 - 4));
-        If IOResult = 0 Then Begin
-          BlockRead(I, DRes2, 4);
-          If DRes2 = $4154454d Then Begin
-            WriteLn('Header    :', 0:10, 40:10);
-            WriteLn('Code      :', 40:10, Code:10);
-            WriteLn('Data      :', Code + 40:10, Data:10);
-            WriteLn('BSS       :', '-':10, BSS:10);
-            WriteLn('Heap      :', '-':10, Heap:10);
-            WriteLn('Stack     :', '-':10, Stack:10);
-            WriteLn('Resource  :', Code + Data + 40:10, Resource:10);
-            WriteLn('Pool      :', Code + Data + Resource + 40:10, Pool:10);
-            WriteLn('StringTbl :', Code + Data + Resource + Pool + 40:10, StringTable:10);
-            Write('Filesize  :', FileSize(I):10);
-            If FileSize(I) > Code + Data + Resource + Pool + StringTable + 40 Then WriteLn(' (Extra data at end)')
-            Else If FileSize(I) = Code + Data + Resource + Pool + StringTable + 40 Then WriteLn(' (Valid)')
-            Else Begin
-              WriteLn(' (Truncated)');
-              Valid := False;
-            End;              
-          End
-          Else Err(107);
-
-          ClearVars;
-
-          Seek(I, FilePos(I) + 262);
+        Repeat
+          BlockRead(I, DRes1, 4);
+          Seek(I, ResTableOfs + DRes1);
           If IOResult <> 0 Then Err(102);
+          BlockRead(I, DRes2, 4);
+          If DRes2 = $4154454d Then Found := True Else Begin
+            ResTablePtr := ResTablePtr + 4;
+            Seek(I, ResTableOfs + ResTablePtr);
+            If IOResult <> 0 Then Err(102);
+          End;
+        Until (DRes1 = 0) Or (Found = True);
 
-          If Valid Then Repeat
-            BlockRead(I, Res1, 2);
-            BlockRead(I, Res2, 2);
-            If (Res1 > 0) AND (Res2 > 0) Then Begin
-              SetLength(Field, (Res1 SHR 1) - 1);
-              If Length(Field) > 0 Then BlockRead(I, Field[1], Res1) Else Seek(I, FilePos(I) + 2);
-              SetLength(Value, (Res2 SHR 1) - 1);
-              If Length(Value) > 0 Then BlockRead(I, Value[1], Res2) Else Seek(I, FilePos(I) + 2);
-              BlockRead(I, Dummy, 1);
-              If (Length(Field) > 0) AND (Length(Value) > 0) Then Begin
-                If Field = 'IMEI' Then IMEI := Value;
-                If Field = 'Title' Then Title := Value;
-                If Field = 'Vendor' Then Vendor := Value;
-                If Field = 'Copyright info' Then Copyright := Value;
-                If Field = 'Program version' Then Version := Value;
-                If Field = 'Help' Then Help := Value;
-              End;
-            End;
-//          Until (Res1 = 0) AND (Res2 = 0);
-          Until Res1 = 0;
+        If Not Found Then Err(107);
 
-          If FileSize(I) < 131072 Then Begin
-            Seek(I, 0);
-            SetLength(CkBuf, FileSize(I));
-            BlockRead(I, CkBuf[1], FileSize(I));
-            If Pos('M001', CkBuf) > 0 Then Begin
-              Seek(I, Pos('M001', CkBuf));
-              Repeat
-                BlockRead(I, c, 1);
-                If (c <> ':') And (c <> #0) Then CertificateDate := CertificateDate + c;
-              Until (c = ':') Or (c = #0);
-              Delete(CertificateDate, 1, 3);
-            End;
-            If Pos('M002', CkBuf) > 0 Then Begin
-              Seek(I, Pos('M002', CkBuf));
-              Repeat
-                BlockRead(I, c, 1);
-                If (c <> ':') And (c <> #0) Then ExpirationDate := ExpirationDate + c;
-              Until (c = ':') Or (c = #0);
-              Delete(ExpirationDate, 1, 3);
-            End;
-            If Pos('M010', CkBuf) > 0 Then Begin
-              Seek(I, Pos('M010', CkBuf));
-              Repeat
-                BlockRead(I, c, 1);
-                If (c <> ':') And (c <> #0) Then PhoneNumber := PhoneNumber + c;
-              Until (c = ':') Or (c = #0);
-              Delete(PhoneNumber, 1, 3);
+        WriteLn('Header    :', 0:10, 40:10);
+        WriteLn('Code      :', 40:10, Code:10);
+        WriteLn('Data      :', Code + 40:10, Data:10);
+        WriteLn('BSS       :', '-':10, BSS:10);
+        WriteLn('Heap      :', '-':10, Heap:10);
+        WriteLn('Stack     :', '-':10, Stack:10);
+        WriteLn('Resource  :', Code + Data + 40:10, Resource:10);
+        WriteLn('Pool      :', Code + Data + Resource + 40:10, Pool:10);
+        WriteLn('StringTbl :', Code + Data + Resource + Pool + 40:10, StringTable:10);
+        Write('Filesize  :', FileSize(I):10);
+        If FileSize(I) > Code + Data + Resource + Pool + StringTable + 40 Then WriteLn(' (Extra data at end)')
+        Else If FileSize(I) = Code + Data + Resource + Pool + StringTable + 40 Then WriteLn(' (Valid)')
+        Else Begin
+          WriteLn(' (Truncated)');
+          Valid := False;
+        End;
+
+        ClearVars;
+
+        Seek(I, FilePos(I) + 262);
+        If IOResult <> 0 Then Err(102);
+
+        If Valid Then Repeat
+          BlockRead(I, Res1, 2);
+          BlockRead(I, Res2, 2);
+          If (Res1 > 0) AND (Res2 > 0) Then Begin
+            SetLength(Field, (Res1 SHR 1) - 1);
+            If Length(Field) > 0 Then BlockRead(I, Field[1], Res1) Else Seek(I, FilePos(I) + 2);
+            SetLength(Value, (Res2 SHR 1) - 1);
+            If Length(Value) > 0 Then BlockRead(I, Value[1], Res2) Else Seek(I, FilePos(I) + 2);
+            BlockRead(I, Dummy, 1);
+            If (Length(Field) > 0) AND (Length(Value) > 0) Then Begin
+              If Field = 'IMEI' Then IMEI := Value;
+              If Field = 'Title' Then Title := Value;
+              If Field = 'Vendor' Then Vendor := Value;
+              If Field = 'Copyright info' Then Copyright := Value;
+              If Field = 'Program version' Then Version := Value;
+              If Field = 'Help' Then Help := Value;
             End;
           End;
-        End
-        Else Err(102);
+//        Until (Res1 = 0) AND (Res2 = 0);
+        Until Res1 = 0;
+
+        If FileSize(I) < 131072 Then Begin
+          Seek(I, 0);
+          SetLength(CkBuf, FileSize(I));
+          BlockRead(I, CkBuf[1], FileSize(I));
+          If Pos('M001', CkBuf) > 0 Then Begin
+            Seek(I, Pos('M001', CkBuf));
+            Repeat
+              BlockRead(I, c, 1);
+              If (c <> ':') And (c <> #0) Then CertificateDate := CertificateDate + c;
+            Until (c = ':') Or (c = #0);
+            Delete(CertificateDate, 1, 3);
+          End;
+          If Pos('M002', CkBuf) > 0 Then Begin
+            Seek(I, Pos('M002', CkBuf));
+            Repeat
+              BlockRead(I, c, 1);
+              If (c <> ':') And (c <> #0) Then ExpirationDate := ExpirationDate + c;
+            Until (c = ':') Or (c = #0);
+            Delete(ExpirationDate, 1, 3);
+          End;
+          If Pos('M010', CkBuf) > 0 Then Begin
+            Seek(I, Pos('M010', CkBuf));
+            Repeat
+              BlockRead(I, c, 1);
+              If (c <> ':') And (c <> #0) Then PhoneNumber := PhoneNumber + c;
+            Until (c = ':') Or (c = #0);
+            Delete(PhoneNumber, 1, 3);
+          End;
+        End;
       End;
     End;
 
