@@ -239,7 +239,8 @@ Begin
                 If Field = 'Help' Then Help := Value;
               End;
             End;
-          Until (Res1 = 0) AND (Res2 = 0);
+//          Until (Res1 = 0) AND (Res2 = 0);
+          Until Res1 = 0;
 
           If FileSize(I) < 131072 Then Begin
             Seek(I, 0);
