@@ -1,0 +1,2119 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Synergetix Interactive - Mophun 2D</name>
+		<description>Synergetix Interactive - Mophun 2D</description>
+		<category>Standard DatFile</category>
+		<version>2026-08-19</version>
+		<date>2026-08-19</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://emulation.gametechwiki.com/index.php/Mophun</homepage>
+		<url></url>
+		<comment>Thanks to sCZther for the game packs.</comment>
+	</header>
+	<machine name="1849 Gold Rush (2003)(Max Artists)[128x160]">
+		<description>1849 Gold Rush (2003)(Max Artists)[128x160]</description>
+		<rom name="1849 Gold Rush (2003)(Max Artists)[128x160].mpn" size="73704" crc="c2f53e3c" md5="3404b7284826a0d817284c2db09d317c" sha1="8079e64e8761beee6b660f269e41835dbaf2d886" />
+	</machine>
+	<machine name="4in1 v1.0 (2003)(Mobile Interaction)">
+		<description>4in1 v1.0 (2003)(Mobile Interaction)</description>
+		<rom name="4in1 v1.0 (2003)(Mobile Interaction).mpn" size="58076" crc="d67b707f" md5="691f10fdcb08a3ab3e0430164bf21ebb" sha1="4992f61b5e69a7b9a059ab6b9b5c73025d5e2abb" />
+	</machine>
+	<machine name="5-5 Football v1.0 (2003)()[101x80][IMEI]">
+		<description>5-5 Football v1.0 (2003)()[101x80][IMEI]</description>
+		<rom name="5-5 Football v1.0 (2003)()[101x80][IMEI].mpn" size="59560" crc="a85c17e0" md5="468a1f61d1ae52560586b97492f25709" sha1="4f6cf63aa3e49214f2366266120b33dd9a951272" />
+	</machine>
+	<machine name="5-5 Football v1.0 (2003)()[cr][a][Multiscreen][Phone#][IMEI]">
+		<description>5-5 Football v1.0 (2003)()[cr][a][Multiscreen][Phone#][IMEI]</description>
+		<rom name="5-5 Football v1.0 (2003)()[cr][a][Multiscreen][Phone#][IMEI].mpn" size="80264" crc="196b8f3b" md5="9005d4022b30e24f924349450adcb5b6" sha1="192c1f242c9107069609c7a0a203c540bf636505" />
+	</machine>
+	<machine name="5-5 Football v1.0 (2003)()[cr][Multiscreen][Phone#]">
+		<description>5-5 Football v1.0 (2003)()[cr][Multiscreen][Phone#]</description>
+		<rom name="5-5 Football v1.0 (2003)()[cr][Multiscreen][Phone#].mpn" size="80264" crc="7eb8d818" md5="5d7b41d55cb50a82cd7afe70c2449792" sha1="b2727ae1facaf2286c769425c41713f5ec758423" />
+	</machine>
+	<machine name="5-5 Football v1.0 (2003)()[Multiscreen][Expired][Phone#][IMEI]">
+		<description>5-5 Football v1.0 (2003)()[Multiscreen][Expired][Phone#][IMEI]</description>
+		<rom name="5-5 Football v1.0 (2003)()[Multiscreen][Expired][Phone#][IMEI].mpn" size="80264" crc="997fabac" md5="bb0f95f64fa623981b40674947a8bdf4" sha1="445a76a45c5ba2ec8feb84b10b044ed538d4d4d7" />
+	</machine>
+	<machine name="Aank City v1.0 (20xx)()[Multiscreen]">
+		<description>Aank City v1.0 (20xx)()[Multiscreen]</description>
+		<rom name="Aank City v1.0 (20xx)()[Multiscreen].mpn" size="58932" crc="4f63edd4" md5="8474f15e8a26cf05057322592a0e29fb" sha1="194a8aa4a8e26d577f62a45229e799242021efc6" />
+	</machine>
+	<machine name="Aardvark Antics v1.0 (2003)(Ellams Software)[128x160]">
+		<description>Aardvark Antics v1.0 (2003)(Ellams Software)[128x160]</description>
+		<rom name="Aardvark Antics v1.0 (2003)(Ellams Software)[128x160].mpn" size="68920" crc="1c493102" md5="bef8e47469b5fa3fae8d7312e2bdd194" sha1="39f63c5e214de762e8f636c513edf5c02fb076b9" />
+	</machine>
+	<machine name="Ace Of Spades v1.07 (2002)(Sony Ericsson)[101x80]">
+		<description>Ace Of Spades v1.07 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Ace Of Spades v1.07 (2002)(Sony Ericsson)[101x80].mpn" size="40456" crc="240982f4" md5="4a44c8d6c9e4388c044fa18501814483" sha1="e772cbd9c53e67a62898e1b8a89b19d6c8d308de" />
+	</machine>
+	<machine name="Ace Of Spades v1.11 (2002)(Sony Ericsson)[128x160]">
+		<description>Ace Of Spades v1.11 (2002)(Sony Ericsson)[128x160]</description>
+		<rom name="Ace Of Spades v1.11 (2002)(Sony Ericsson)[128x160].mpn" size="66452" crc="58a054f6" md5="8ea7704e5b3b8c5633fb84bbed2742e7" sha1="37cffc193003312c24c167730f37cc66ffc65fdb" />
+		<rom name="language" size="6864" crc="be1fbba6" md5="f91bd8f116ed8671449f8611a1d48e90" sha1="3a8bc997c1639eff5309e15e44719342c4f84ef9" />
+	</machine>
+	<machine name="ACE v1.4.0 EN (2002)(KerbyWare)[cr][Multiscreen][Phone#]">
+		<description>ACE v1.4.0 EN (2002)(KerbyWare)[cr][Multiscreen][Phone#]</description>
+		<rom name="ACE v1.4.0 EN (2002)(KerbyWare)[cr][Multiscreen][Phone#].mpn" size="59508" crc="0a009bc0" md5="af79550cc84b734e100eb001f21a5cfa" sha1="66ba59f18a941266272d9b0405f4b34ca799777d" />
+	</machine>
+	<machine name="ACE v1.4.0 EN (2002)(KerbyWare)[Multiscreen]">
+		<description>ACE v1.4.0 EN (2002)(KerbyWare)[Multiscreen]</description>
+		<rom name="ACE v1.4.0 EN (2002)(KerbyWare)[Multiscreen].mpn" size="59508" crc="57e6c6fc" md5="a3543dbc679f3db8f7adea9c6f50f6fa" sha1="ba3625ceeab7150ce89de529cdb3a1b13d456f3b" />
+	</machine>
+	<machine name="ACE v1.4.0 EN (2002)(KerbyWare)[Multiscreen][Expired][Phone#]">
+		<description>ACE v1.4.0 EN (2002)(KerbyWare)[Multiscreen][Expired][Phone#]</description>
+		<rom name="ACE v1.4.0 EN (2002)(KerbyWare)[Multiscreen][Expired][Phone#].mpn" size="59508" crc="0bc21443" md5="65ea0da6fc760e79bee41d7c1222a179" sha1="73d6741be847c31c9757195b725b204dfeeef575" />
+	</machine>
+	<machine name="Agikomix v1.0 (demo) (2003)(Csaba Markus)[Multiscreen]">
+		<description>Agikomix v1.0 (demo) (2003)(Csaba Markus)[Multiscreen]</description>
+		<rom name="Agikomix v1.0 (demo) (2003)(Csaba Markus)[Multiscreen].mpn" size="59196" crc="5299322c" md5="d6179d8b0edd09a8ef3873a049ff6b8f" sha1="c882ccce2b2098db5c0e3fe15488c04b7226050c" />
+	</machine>
+	<machine name="Alien Assault v1.0 (20xx)(Andersson, Mikael)[101x80]">
+		<description>Alien Assault v1.0 (20xx)(Andersson, Mikael)[101x80]</description>
+		<rom name="Alien Assault v1.0 (20xx)(Andersson, Mikael)[101x80].mpn" size="59420" crc="492ed41e" md5="519d4bed4c7622dd1554d15137f7333c" sha1="a84dc5d938fef0b14971dc595716da4f7c672264" />
+	</machine>
+	<machine name="Alien Scum v1.04 (2002)(Sony Ericsson)[101x80]">
+		<description>Alien Scum v1.04 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Alien Scum v1.04 (2002)(Sony Ericsson)[101x80].mpn" size="54084" crc="96eb60e1" md5="e76a4cc574ab3d8aa599899a35e8a524" sha1="6aee0b9c02bbeda89090c7546506830da731a61a" />
+	</machine>
+	<machine name="Alien Scum v2.11 (2002)(Sony Ericsson)[Multiscreen]">
+		<description>Alien Scum v2.11 (2002)(Sony Ericsson)[Multiscreen]</description>
+		<rom name="Alien Scum v2.11 (2002)(Sony Ericsson)[Multiscreen].mpn" size="75336" crc="ae8761f3" md5="7b453cc4d1962d4c635812ec5d5c0db5" sha1="2e397e9eb7ecd52bca5d91ffc6554f85f3e1503f" />
+		<rom name="language" size="5066" crc="4fecfa1f" md5="a2bb370ddcb46a82a080ab1df0101345" sha1="39117cd97bbd66c63e0b9fa6ec4aa49f44dcf7ae" />
+	</machine>
+	<machine name="Alpha Attack v1.1 (2003)(Mirandow)[cr][Multiscreen][Phone#]">
+		<description>Alpha Attack v1.1 (2003)(Mirandow)[cr][Multiscreen][Phone#]</description>
+		<rom name="Alpha Attack v1.1 (2003)(Mirandow)[cr][Multiscreen][Phone#].mpn" size="56840" crc="e54ced63" md5="7ca1b9e996a8cdfce7fe80a9512d33b5" sha1="100eebd94217feb2a3f28a1d99789609cd4d4d48" />
+	</machine>
+	<machine name="Alpha Attack v1.1 (2003)(Mirandow)[Multiscreen][Expired][Phone#]">
+		<description>Alpha Attack v1.1 (2003)(Mirandow)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Alpha Attack v1.1 (2003)(Mirandow)[Multiscreen][Expired][Phone#].mpn" size="56840" crc="0ce840d1" md5="e7553c9d92b6b0471d5c8ea67375f664" sha1="69adca3dbe46144cf5b0d04aa1f02e5e71d51fac" />
+	</machine>
+	<machine name="Alpine Ski v1.1 (2002)(InstantCom)[101x80]">
+		<description>Alpine Ski v1.1 (2002)(InstantCom)[101x80]</description>
+		<rom name="Alpine Ski v1.1 (2002)(InstantCom)[101x80].mpn" size="56808" crc="11b42db5" md5="5e4c5c550dd010fdd4688b1ef80fa18f" sha1="40808ac5311b1be240786890ef171fd85416a972" />
+	</machine>
+	<machine name="Alpine Ski v1.1 (2002)(InstantCom)[101x80][Expired][Phone#]">
+		<description>Alpine Ski v1.1 (2002)(InstantCom)[101x80][Expired][Phone#]</description>
+		<rom name="Alpine Ski v1.1 (2002)(InstantCom)[101x80][Expired][Phone#].mpn" size="56808" crc="0d17ffef" md5="48e9f48aa2bc20a999fd24da1ece443d" sha1="76518f85d4672f1cddb0d01b7495c9fada9f5097" />
+	</machine>
+	<machine name="Alpine Ski v1.1 (2002)(InstantCom)[cr][101x80][Phone#]">
+		<description>Alpine Ski v1.1 (2002)(InstantCom)[cr][101x80][Phone#]</description>
+		<rom name="Alpine Ski v1.1 (2002)(InstantCom)[cr][101x80][Phone#].mpn" size="56808" crc="6939513f" md5="a07f69252cdb7b5c449b34dd382108c7" sha1="cf2d1d36eeb86a7b93d7aa085bb86f96dc478d81" />
+	</machine>
+	<machine name="Alpine Ski v1.1 (demo) (2002)(InstantCom)[101x80]">
+		<description>Alpine Ski v1.1 (demo) (2002)(InstantCom)[101x80]</description>
+		<rom name="Alpine Ski v1.1 (demo) (2002)(InstantCom)[101x80].mpn" size="56808" crc="c04e86a6" md5="6deb1c97270f0d298ea5918e365c52d0" sha1="5c53d45f169d0788e1710a9129b85e0bc4390359" />
+	</machine>
+	<machine name="Ant Assault (2002)(NET-VR)[101x80]">
+		<description>Ant Assault (2002)(NET-VR)[101x80]</description>
+		<rom name="Ant Assault (2002)(NET-VR)[101x80].mpn" size="53820" crc="32fa3945" md5="47c36e6a9d3122fe8ef47e5ea7281e79" sha1="28f3aae801a40806175ef55e0a4255534bca315f" />
+	</machine>
+	<machine name="Ant Assault (2002)(NET-VR)[128x160]">
+		<description>Ant Assault (2002)(NET-VR)[128x160]</description>
+		<rom name="Ant Assault (2002)(NET-VR)[128x160].mpn" size="55704" crc="9ff8f2c4" md5="47528ba37008df5b2a6f519c9742eed4" sha1="ce58fa176dffc3ca80bd5680c67c623b7791b8cf" />
+	</machine>
+	<machine name="Ant Assault (20xx)(dex0r)[101x80][Expired][Phone#]">
+		<description>Ant Assault (20xx)(dex0r)[101x80][Expired][Phone#]</description>
+		<rom name="Ant Assault (20xx)(dex0r)[101x80][Expired][Phone#].mpn" size="53820" crc="cdd14a5c" md5="3a5dc496c5e31c11442e01853da46bed" sha1="8dc862d51dbdb958964e8d8a80ce6af5ca299efc" />
+	</machine>
+	<machine name="Ant Assault (20xx)(dex0r)[cr][101x80][Phone#]">
+		<description>Ant Assault (20xx)(dex0r)[cr][101x80][Phone#]</description>
+		<rom name="Ant Assault (20xx)(dex0r)[cr][101x80][Phone#].mpn" size="53820" crc="594c0df9" md5="3f122067f3c4878dafcdd9604ddba13c" sha1="0e26839bf080bebebca486d0f207c522b1ce5c9e" />
+	</machine>
+	<machine name="ATC v1.1 (2004)(Lunagames)[128x160]">
+		<description>ATC v1.1 (2004)(Lunagames)[128x160]</description>
+		<rom name="ATC v1.1 (2004)(Lunagames)[128x160].mpn" size="88628" crc="c0a66933" md5="7f15f10749e06136c38d239e851db7b9" sha1="81320a6d815851596c961d1d9759b0de2bdfaccb" />
+	</machine>
+	<machine name="Barry Bonds HRH v1.4 (2004)(Mforma)[128x160]">
+		<description>Barry Bonds HRH v1.4 (2004)(Mforma)[128x160]</description>
+		<rom name="Barry Bonds HRH v1.4 (2004)(Mforma)[128x160].mpn" size="97016" crc="48883d6e" md5="dfc71a102c352a299e230c4ddca8f214" sha1="aab365755580169c38874755665f6dae471259f1" />
+	</machine>
+	<machine name="Basketball Challange SE v0.6 (2003)(Jungie Entertainment)[128x160][Phone#]">
+		<description>Basketball Challange SE v0.6 (2003)(Jungie Entertainment)[128x160][Phone#]</description>
+		<rom name="Basketball Challange SE v0.6 (2003)(Jungie Entertainment)[128x160][Phone#].mpn" size="67444" crc="d240c5c3" md5="058dbf2f3e112d9f4a2cf069a168e558" sha1="762cb6126544e16e045630172320f02137403f38" />
+	</machine>
+	<machine name="Basketball Challange v1.2 (2003)(Jungie Entertainment)[101x80]">
+		<description>Basketball Challange v1.2 (2003)(Jungie Entertainment)[101x80]</description>
+		<rom name="Basketball Challange v1.2 (2003)(Jungie Entertainment)[101x80].mpn" size="55460" crc="0fff4e33" md5="f3f986580fd5ea853ae2b1d10029a367" sha1="585b7f3f8cc9e0d46a68c0b3618537807cf8d289" />
+	</machine>
+	<machine name="Beach Rivals v1.0 (2003)(same)[101x80]">
+		<description>Beach Rivals v1.0 (2003)(same)[101x80]</description>
+		<rom name="Beach Rivals v1.0 (2003)(same)[101x80].mpn" size="48440" crc="1f4df5d1" md5="5faebce8c2b16440b75c9dc59df4e201" sha1="4e573d1b01134a6952b14ea9d093abf3faa8d29d" />
+	</machine>
+	<machine name="Berserko Blocks v1.4 (2003)(Skyrank)[101x80]">
+		<description>Berserko Blocks v1.4 (2003)(Skyrank)[101x80]</description>
+		<rom name="Berserko Blocks v1.4 (2003)(Skyrank)[101x80].mpn" size="58988" crc="27a78160" md5="9e86a56b987536bbfb12fdc423c27f26" sha1="15c425a11e617802df9739170d17e3f9d6614225" />
+	</machine>
+	<machine name="Black Deal v1.07 (2002)(Sony Ericsson)[101x80]">
+		<description>Black Deal v1.07 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Black Deal v1.07 (2002)(Sony Ericsson)[101x80].mpn" size="43204" crc="541039fc" md5="6a87303042855716f748f06f687ee871" sha1="b873337ebd0065b616f749a5584ede2bcac45331" />
+	</machine>
+	<machine name="Black Deal v1.22 (2002)(Sony Ericsson)[Multiscreen]">
+		<description>Black Deal v1.22 (2002)(Sony Ericsson)[Multiscreen]</description>
+		<rom name="Black Deal v1.22 (2002)(Sony Ericsson)[Multiscreen].mpn" size="50672" crc="11ebfd54" md5="a80e6b047576580697e8c366df18528f" sha1="3905fd83aa1a91c8bb2c52ae024a36f40880d642" />
+		<rom name="language" size="6218" crc="b605d593" md5="bdc316ba2313e553833ce7c412dab8e5" sha1="1e06be906d307488b46209186c7e1ad6cfc4e83a" />
+	</machine>
+	<machine name="Black Jack v1.4 (2004)(Mforma)[128x160]">
+		<description>Black Jack v1.4 (2004)(Mforma)[128x160]</description>
+		<rom name="Black Jack v1.4 (2004)(Mforma)[128x160].mpn" size="56920" crc="04b49dc4" md5="ed8a08e73cdc4369fe8fa75538aaff07" sha1="b2d54b951bb64245e85dade87311dcbef692dece" />
+	</machine>
+	<machine name="BombJack(tm) v1.05 (2003)(Elite)[cr][Multiscreen][Phone#]">
+		<description>BombJack(tm) v1.05 (2003)(Elite)[cr][Multiscreen][Phone#]</description>
+		<rom name="BombJack(tm) v1.05 (2003)(Elite)[cr][Multiscreen][Phone#].mpn" size="87464" crc="a61242ff" md5="865315118dfd0f055439027f387b6b95" sha1="909fc7cfef759d40c9f7e9d90f2ed8fc492f436a" />
+	</machine>
+	<machine name="BombJack(tm) v1.05 (2003)(Elite)[Multiscreen]">
+		<description>BombJack(tm) v1.05 (2003)(Elite)[Multiscreen]</description>
+		<rom name="BombJack(tm) v1.05 (2003)(Elite)[Multiscreen].mpn" size="87464" crc="4bf484ac" md5="43243e99641e251a26d1b30d58ddfb40" sha1="b89995843e22aaa4702c112ba1a069e6dd0d07ec" />
+	</machine>
+	<machine name="BombJack(tm) v1.05 (2003)(Elite)[Multiscreen][Expired][Phone#]">
+		<description>BombJack(tm) v1.05 (2003)(Elite)[Multiscreen][Expired][Phone#]</description>
+		<rom name="BombJack(tm) v1.05 (2003)(Elite)[Multiscreen][Expired][Phone#].mpn" size="87464" crc="0c429aa4" md5="3aa96182ea452672642d1d22446fca2a" sha1="7dc56e6a1051118595bd10d0c330bdaf7d6a9aad" />
+	</machine>
+	<machine name="Bone Idol v1.31 (demo) (2003)(Binary Graffitti)[Multiscreen]">
+		<description>Bone Idol v1.31 (demo) (2003)(Binary Graffitti)[Multiscreen]</description>
+		<rom name="Bone Idol v1.31 (demo) (2003)(Binary Graffitti)[Multiscreen].mpn" size="80664" crc="24ca71d6" md5="f0f181432cc645f5851be4229a7b27e0" sha1="1a3d259a2d24d85cb22b96c547fc16d65ce74b8d" />
+	</machine>
+	<machine name="Bone Idol v1.32 (2003)(Binary Graffitti)[128x160]">
+		<description>Bone Idol v1.32 (2003)(Binary Graffitti)[128x160]</description>
+		<rom name="Bone Idol v1.32 (2003)(Binary Graffitti)[128x160].mpn" size="72612" crc="d99a8013" md5="4f4265770be46d82a4d1cc8e4508481b" sha1="d3c5186e63c08d1f848aa30762a8c7f86466a205" />
+	</machine>
+	<machine name="Bone Idol v1.32 (2003)(Binary Graffitti)[Multiscreen]">
+		<description>Bone Idol v1.32 (2003)(Binary Graffitti)[Multiscreen]</description>
+		<rom name="Bone Idol v1.32 (2003)(Binary Graffitti)[Multiscreen].mpn" size="72612" crc="d99a8013" md5="4f4265770be46d82a4d1cc8e4508481b" sha1="d3c5186e63c08d1f848aa30762a8c7f86466a205" />
+	</machine>
+	<machine name="Boulder Dash - M.E. v1.0 (2003)(InstantCom)[101x80][Expired][Phone#]">
+		<description>Boulder Dash - M.E. v1.0 (2003)(InstantCom)[101x80][Expired][Phone#]</description>
+		<rom name="Boulder Dash - M.E. v1.0 (2003)(InstantCom)[101x80][Expired][Phone#].mpn" size="59460" crc="03a84d82" md5="6f4d3cb693adf355122742e0103cdefa" sha1="b7863d110671bd013909e56c2873734a3a91d805" />
+	</machine>
+	<machine name="Boulder Dash - M.E. v1.0 (2003)(InstantCom)[cr][101x80][Phone#]">
+		<description>Boulder Dash - M.E. v1.0 (2003)(InstantCom)[cr][101x80][Phone#]</description>
+		<rom name="Boulder Dash - M.E. v1.0 (2003)(InstantCom)[cr][101x80][Phone#].mpn" size="59460" crc="85391d25" md5="7fe68641134c11d903f72f5158be9051" sha1="245649587e3e24fb7365a85410e6f2ee6adbc183" />
+	</machine>
+	<machine name="Boulder Dash - M.E. v1.0 (demo) (2002)(InstantCom)[101x80]">
+		<description>Boulder Dash - M.E. v1.0 (demo) (2002)(InstantCom)[101x80]</description>
+		<rom name="Boulder Dash - M.E. v1.0 (demo) (2002)(InstantCom)[101x80].mpn" size="86964" crc="96a58fe5" md5="b5b8af9603b43f52447c5a4025e28a54" sha1="05a7fb8b84953a6b172cedaa15c12b69e32c543a" />
+	</machine>
+	<machine name="Boulder Dash - M.E. v1.1 (2003)(InstantCom)[128x160]">
+		<description>Boulder Dash - M.E. v1.1 (2003)(InstantCom)[128x160]</description>
+		<rom name="Boulder Dash - M.E. v1.1 (2003)(InstantCom)[128x160].mpn" size="93744" crc="e2c16292" md5="78eeb7a8df1a555a3509b44372647b74" sha1="1b4cf353e18df7df519cc1ebcca778c06da9430f" />
+	</machine>
+	<machine name="Bouncy v1.2 (2002)(Carbello)[101x80]">
+		<description>Bouncy v1.2 (2002)(Carbello)[101x80]</description>
+		<rom name="Bouncy v1.2 (2002)(Carbello)[101x80].mpn" size="52476" crc="a034d8c6" md5="4ef22c0d4548d26b699f2681bab923b5" sha1="899d7ca38fc315b1585dd29afb32e7e2ec246feb" />
+	</machine>
+	<machine name="Bouncy v1.2 (demo) (2002)(Carbello)[101x80]">
+		<description>Bouncy v1.2 (demo) (2002)(Carbello)[101x80]</description>
+		<rom name="Bouncy v1.2 (demo) (2002)(Carbello)[101x80].mpn" size="58408" crc="39c55a32" md5="fdc68806edaa991176e1865e106ae992" sha1="d372f93c68a01f19153616b53be26cc8215b0adb" />
+	</machine>
+	<machine name="Brain Vita v1.0 (2003)(Synergenix Interactive)[101x80]">
+		<description>Brain Vita v1.0 (2003)(Synergenix Interactive)[101x80]</description>
+		<rom name="Brain Vita v1.0 (2003)(Synergenix Interactive)[101x80].mpn" size="35820" crc="534aefd7" md5="f57fce97da9e0c4ef3d93f67687a9d94" sha1="73cb1d4fc9bfabde77c2b04fd090478e3f2a3843" />
+	</machine>
+	<machine name="Bubble Trouble v1.0 (2003)(Big Blue Bubble)[101x80]">
+		<description>Bubble Trouble v1.0 (2003)(Big Blue Bubble)[101x80]</description>
+		<rom name="Bubble Trouble v1.0 (2003)(Big Blue Bubble)[101x80].mpn" size="40224" crc="b592122b" md5="63f5a250887c237ea510b3de02c61d01" sha1="a344893a75175b579fdacfada3b7fadd8fc39b61" />
+	</machine>
+	<machine name="Burger Matic v1.0 (2002)(Synergenix Interactive)[101x80]">
+		<description>Burger Matic v1.0 (2002)(Synergenix Interactive)[101x80]</description>
+		<rom name="Burger Matic v1.0 (2002)(Synergenix Interactive)[101x80].mpn" size="61336" crc="fca29fd4" md5="ad7278f8522a67ac2079fa8b4be55571" sha1="c292e6037fa0baa360c1ae1cf35479dabd9ea17e" />
+	</machine>
+	<machine name="Burger Matic v1.4 (2003)(Skyrank)[101x80]">
+		<description>Burger Matic v1.4 (2003)(Skyrank)[101x80]</description>
+		<rom name="Burger Matic v1.4 (2003)(Skyrank)[101x80].mpn" size="59652" crc="55735b5a" md5="d0ac83b89a36aeb26f9021982ac9bb0e" sha1="05d8954261205c637278b35d078835282971af05" />
+	</machine>
+	<machine name="Canfield v1.3 (2003)(Mirandow)[Multiscreen]">
+		<description>Canfield v1.3 (2003)(Mirandow)[Multiscreen]</description>
+		<rom name="Canfield v1.3 (2003)(Mirandow)[Multiscreen].mpn" size="59260" crc="285325a5" md5="af9ca4a87319d6baa8d456b764e4c372" sha1="6391093bcd4015d3ae8661d7cd79f20441e13db1" />
+	</machine>
+	<machine name="Captain Lunar v1.0 (2003)(Big Blue Bubble)[128x160][Phone#]">
+		<description>Captain Lunar v1.0 (2003)(Big Blue Bubble)[128x160][Phone#]</description>
+		<rom name="Captain Lunar v1.0 (2003)(Big Blue Bubble)[128x160][Phone#].mpn" size="116864" crc="43f71e8e" md5="3a7fef4fff1e1d719209e131297dcae9" sha1="c1f099c690145caf0a1b78a9525ab394d3fe5535" />
+	</machine>
+	<machine name="Captain Lunar v1.0 (2003)(Big Blue Bubble)[cr][128x160][Phone#]">
+		<description>Captain Lunar v1.0 (2003)(Big Blue Bubble)[cr][128x160][Phone#]</description>
+		<rom name="Captain Lunar v1.0 (2003)(Big Blue Bubble)[cr][128x160][Phone#].mpn" size="116864" crc="ccf3b44f" md5="d72a229ad162da4ae38ed95513c48731" sha1="7ec086e38c8f6c42f0e95c79d86014486621e268" />
+	</machine>
+	<machine name="Captain Lunar v1.1 (2003)(Big Blue Bubble)[101x80]">
+		<description>Captain Lunar v1.1 (2003)(Big Blue Bubble)[101x80]</description>
+		<rom name="Captain Lunar v1.1 (2003)(Big Blue Bubble)[101x80].mpn" size="58492" crc="c5ddbb15" md5="3fa7456fde244e56880eb790e2e11cbd" sha1="e66c56adb6d8f746651999d26587bb5fd9f0e0c9" />
+	</machine>
+	<machine name="Care The Monster v1.0 (2003)(SystemCap)[128x160]">
+		<description>Care The Monster v1.0 (2003)(SystemCap)[128x160]</description>
+		<rom name="Care The Monster v1.0 (2003)(SystemCap)[128x160].mpn" size="95944" crc="63638441" md5="19905abb03f5508282d92dcf26429d68" sha1="828ba1b31adb2ad8c5c084da6baa86e4f9b87787" />
+	</machine>
+	<machine name="Casino Wheel v1.08 (2002)(Sony Ericsson)[101x80]">
+		<description>Casino Wheel v1.08 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Casino Wheel v1.08 (2002)(Sony Ericsson)[101x80].mpn" size="53208" crc="01a701d5" md5="46f822cb79dcd1eb54fd4819750ce8ed" sha1="ab692cb6e07ea6f28556fe4d8484eacfc31f31ed" />
+	</machine>
+	<machine name="Casino Wheels v1.2 (2002)(Sony Ericsson)[128x160]">
+		<description>Casino Wheels v1.2 (2002)(Sony Ericsson)[128x160]</description>
+		<rom name="Casino Wheels v1.2 (2002)(Sony Ericsson)[128x160].mpn" size="52644" crc="4704e4fb" md5="e7c5c4a044ae8b559365ea7608810dfc" sha1="9bc6376b9b6cc3252f5dc6dfa4d0bae45cfef5ae" />
+		<rom name="language" size="5422" crc="f10f530d" md5="701aba5f8763d84764bae2b6a314d311" sha1="d8c3e5767e414703f9a1415b4aef66560f706a67" />
+	</machine>
+	<machine name="Changs Orbhunt v1.0 (2002)(Synergenix Interactive)[101x80][Expired]">
+		<description>Changs Orbhunt v1.0 (2002)(Synergenix Interactive)[101x80][Expired]</description>
+		<rom name="Changs Orbhunt v1.0 (2002)(Synergenix Interactive)[101x80][Expired].mpn" size="108772" crc="d90c2d5a" md5="d6ce673a100044afb6499d3f8ba07297" sha1="e5be5f15c3fe19ba135a4dd817cb52b3dc0ea70a" />
+	</machine>
+	<machine name="Changs Orbhunt v1.0 (2004)(Synergenix Interactive)[cr][101x80][Phone#]">
+		<description>Changs Orbhunt v1.0 (2004)(Synergenix Interactive)[cr][101x80][Phone#]</description>
+		<rom name="Changs Orbhunt v1.0 (2004)(Synergenix Interactive)[cr][101x80][Phone#].mpn" size="108772" crc="c2269321" md5="a68b04504a7acfa67174b589da56800b" sha1="a513b88ab1a40421458239b1c4114ade9d0f8d00" />
+	</machine>
+	<machine name="Chaos Realms (2003)(Peck, Paul)[cr][101x80]">
+		<description>Chaos Realms (2003)(Peck, Paul)[cr][101x80]</description>
+		<rom name="Chaos Realms (2003)(Peck, Paul)[cr][101x80].mpn" size="58444" crc="2214a7f4" md5="a6b0219d54f7360ebea07f05470e0318" sha1="ecd7dd7aea09a2c65853ce0635f369a39e3473d4" />
+	</machine>
+	<machine name="Chaos Realms X v1.2 (2003)(Peck, Paul)[128x160][Phone#]">
+		<description>Chaos Realms X v1.2 (2003)(Peck, Paul)[128x160][Phone#]</description>
+		<rom name="Chaos Realms X v1.2 (2003)(Peck, Paul)[128x160][Phone#].mpn" size="80364" crc="cd31e911" md5="ea1b9c0300b1268aa405ef023a3d3f30" sha1="8bfe4af9809c716cbf10b9398d64d4b0d0f9067d" />
+	</machine>
+	<machine name="Chaos Realms X v1.2 (2003)(Peck, Paul)[cr][128x160][Phone#]">
+		<description>Chaos Realms X v1.2 (2003)(Peck, Paul)[cr][128x160][Phone#]</description>
+		<rom name="Chaos Realms X v1.2 (2003)(Peck, Paul)[cr][128x160][Phone#].mpn" size="80364" crc="fba82a2a" md5="d2da86a540560d7d009cf5f814afb437" sha1="8e8ba72eaeacf7fc203e9f0b33d5f5e7295f0557" />
+	</machine>
+	<machine name="Checker Connector v1.0 (2003)(Yanin, Ivan)[Multiscreen]">
+		<description>Checker Connector v1.0 (2003)(Yanin, Ivan)[Multiscreen]</description>
+		<rom name="Checker Connector v1.0 (2003)(Yanin, Ivan)[Multiscreen].mpn" size="26784" crc="61f7a9d7" md5="43a41cb6ba8936fae15dcdbaf87ee32c" sha1="236c66b0df69ea59cf27f074634d66620ce9ef86" />
+	</machine>
+	<machine name="Cheezy Race (20xx)(Lefab)">
+		<description>Cheezy Race (20xx)(Lefab)</description>
+		<rom name="Cheezy Race (20xx)(Lefab).mpn" size="60004" crc="aa66d793" md5="1b3a5780c5abbf6960526ee99359ede5" sha1="78dd8e1d426bb101fa4a50eadacf9636a75eb262" />
+	</machine>
+	<machine name="Cheezy Race v1.0.16 (20xx)(Lefab)[101x80]">
+		<description>Cheezy Race v1.0.16 (20xx)(Lefab)[101x80]</description>
+		<rom name="Cheezy Race v1.0.16 (20xx)(Lefab)[101x80].mpn" size="60004" crc="e673d075" md5="90d792a627782e717f3421e0f2510787" sha1="6f19bf6f45e5c985f0c5f6a59b3009b5de66f898" />
+	</machine>
+	<machine name="Cheezy Race v1.0.17 (20xx)(Lefab)[101x80]">
+		<description>Cheezy Race v1.0.17 (20xx)(Lefab)[101x80]</description>
+		<rom name="Cheezy Race v1.0.17 (20xx)(Lefab)[101x80].mpn" size="61100" crc="0ce70d66" md5="742901636c3142613f78c53acdf1c3c1" sha1="8b0afa7ce8bdde57d30b3539125a8ec3954272e0" />
+	</machine>
+	<machine name="Chesswizz v1.11 (demo) (2002)(Kerbyware)[Multiscreen]">
+		<description>Chesswizz v1.11 (demo) (2002)(Kerbyware)[Multiscreen]</description>
+		<rom name="Chesswizz v1.11 (demo) (2002)(Kerbyware)[Multiscreen].mpn" size="96976" crc="9e54c670" md5="66ed5dd4c0b75505023e0932d1101d0c" sha1="5d96966ca482f2353e8d26d744c234d2ebf8def9" />
+	</machine>
+	<machine name="Chesswizz v1.32 (2003)(KerbyWare)[cr][Multiscreen][Phone#]">
+		<description>Chesswizz v1.32 (2003)(KerbyWare)[cr][Multiscreen][Phone#]</description>
+		<rom name="Chesswizz v1.32 (2003)(KerbyWare)[cr][Multiscreen][Phone#].mpn" size="97816" crc="8254f686" md5="82efc990b3d93501ea9b6119b7be40c7" sha1="498824e6fc274374b63d98e4a3da8151c4aaddfc" />
+	</machine>
+	<machine name="Chesswizz v1.32 (2003)(KerbyWare)[Multiscreen][Expired][Phone#]">
+		<description>Chesswizz v1.32 (2003)(KerbyWare)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Chesswizz v1.32 (2003)(KerbyWare)[Multiscreen][Expired][Phone#].mpn" size="97816" crc="08f688c7" md5="55b238713c56d68897e17f0a4ef55e6e" sha1="4d9939eb701df2c0f5d5ae4aa09a4130ae2b4a73" />
+	</machine>
+	<machine name="Chesswizz v1.4.1 (2003)(KerbyWare)[101x80]">
+		<description>Chesswizz v1.4.1 (2003)(KerbyWare)[101x80]</description>
+		<rom name="Chesswizz v1.4.1 (2003)(KerbyWare)[101x80].mpn" size="56996" crc="50b766fe" md5="880132229d63b1fa58de3b5c5b943612" sha1="cd1bef0180325a831a0ee1e781a0a0c9bf0219b7" />
+	</machine>
+	<machine name="Chesswizz v1.4.1 (2003)(KerbyWare)[101x80][Expired][Phone#]">
+		<description>Chesswizz v1.4.1 (2003)(KerbyWare)[101x80][Expired][Phone#]</description>
+		<rom name="Chesswizz v1.4.1 (2003)(KerbyWare)[101x80][Expired][Phone#].mpn" size="56996" crc="0f521f23" md5="3427c92ec438a47076c5eeff1b8159a0" sha1="965d048623d4ea0895b394065ade10b2466ca523" />
+	</machine>
+	<machine name="Chesswizz v1.4.1 (2003)(KerbyWare)[cr][101x80][Phone#]">
+		<description>Chesswizz v1.4.1 (2003)(KerbyWare)[cr][101x80][Phone#]</description>
+		<rom name="Chesswizz v1.4.1 (2003)(KerbyWare)[cr][101x80][Phone#].mpn" size="56996" crc="86b6406f" md5="3aad24a6b74518c6342f06d3a96d1714" sha1="4779b241ed791cb67726458fcf9b1bcc648f1609" />
+	</machine>
+	<machine name="Chewz v1.0 (2003)(Centaur Games)[128x160]">
+		<description>Chewz v1.0 (2003)(Centaur Games)[128x160]</description>
+		<rom name="Chewz v1.0 (2003)(Centaur Games)[128x160].mpn" size="78988" crc="04c7497f" md5="0cd5b429ac73fe53d83f8c1c5e64b8e3" sha1="13e5a6fcee1023f85b49b1b55d570333c29542de" />
+	</machine>
+	<machine name="City Auto v1.1 (2003)(Blomhall)[Multiscreen]">
+		<description>City Auto v1.1 (2003)(Blomhall)[Multiscreen]</description>
+		<rom name="City Auto v1.1 (2003)(Blomhall)[Multiscreen].mpn" size="50664" crc="f36ef63e" md5="606ba9c909980101d26263de19f44516" sha1="6272b7ab31e7119f61c343794cb341329703091c" />
+	</machine>
+	<machine name="Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[101x80]">
+		<description>Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[101x80]</description>
+		<rom name="Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[101x80].mpn" size="58796" crc="e7ea3fb2" md5="046abe46d1651ed060bb848aad73774d" sha1="7cd34bbb42f09f9733dff5c145404242e291f4cf" />
+	</machine>
+	<machine name="Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[128x160][Expired][Phone#]">
+		<description>Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[128x160][Expired][Phone#]</description>
+		<rom name="Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[128x160][Expired][Phone#].mpn" size="106700" crc="a81fb0d6" md5="8f320de25f02da05800a50a45be7ef8e" sha1="f7b0019f90ab83a197edb28aa778692d396df744" />
+	</machine>
+	<machine name="Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[128x160][Phone#]">
+		<description>Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[128x160][Phone#]</description>
+		<rom name="Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[128x160][Phone#].mpn" size="106700" crc="479968dc" md5="60bc5e5e57aadd051d585928de5886a4" sha1="3dfdfc0a8ba66cc29c2cfe0a9cea2b428d3dbbf1" />
+	</machine>
+	<machine name="Conflict Vietnam v0.96 (2002)(Synergenix Interactive)[128x160]">
+		<description>Conflict Vietnam v0.96 (2002)(Synergenix Interactive)[128x160]</description>
+		<rom name="Conflict Vietnam v0.96 (2002)(Synergenix Interactive)[128x160].mpn" size="95592" crc="820b1a01" md5="c83acfd21933b397fecc214a1f2d46af" sha1="82fe044d1ec534863c3119698d45a5aeaf040979" />
+	</machine>
+	<machine name="Connect Four v1.0 (2004)(Mforma)[128x160]">
+		<description>Connect Four v1.0 (2004)(Mforma)[128x160]</description>
+		<rom name="Connect Four v1.0 (2004)(Mforma)[128x160].mpn" size="46724" crc="e7462fc7" md5="22b0b2a2fbc52bcaa1e0f76672e0f7d8" sha1="d1624330f0b1e8fc2016a29b8cb6675cc2fa0904" />
+	</machine>
+	<machine name="Corners v1.1 (2003)(V_D_V)[101x80]">
+		<description>Corners v1.1 (2003)(V_D_V)[101x80]</description>
+		<rom name="Corners v1.1 (2003)(V_D_V)[101x80].mpn" size="23120" crc="41e5e856" md5="1ea5cb03f516cc99561070261c15cd04" sha1="bcf2ad0564651430970c883aba64250d54410849" />
+	</machine>
+	<machine name="Corners v1.2 (2003)(V_D_V)[128x160]">
+		<description>Corners v1.2 (2003)(V_D_V)[128x160]</description>
+		<rom name="Corners v1.2 (2003)(V_D_V)[128x160].mpn" size="26952" crc="5b568d4a" md5="5384bf980c41c754fd6b72b7976f60ac" sha1="bd34f417417933169af15b5b89461e73f811eda8" />
+	</machine>
+	<machine name="Courier Bob v1.2 (20xx)()[cr][Multiscreen][Phone#]">
+		<description>Courier Bob v1.2 (20xx)()[cr][Multiscreen][Phone#]</description>
+		<rom name="Courier Bob v1.2 (20xx)()[cr][Multiscreen][Phone#].mpn" size="43816" crc="0e2e2e33" md5="e386b25bdf72c553cd50c4dc716b5cd7" sha1="defca355d946618d54d101f40c60bcc72502075a" />
+	</machine>
+	<machine name="Courier Bob v1.2 (20xx)()[Multiscreen][Expired][Phone#]">
+		<description>Courier Bob v1.2 (20xx)()[Multiscreen][Expired][Phone#]</description>
+		<rom name="Courier Bob v1.2 (20xx)()[Multiscreen][Expired][Phone#].mpn" size="43816" crc="26ed3700" md5="078ec3b482b91adfed98ec70634a11b6" sha1="c7ea0e1b03e1209613418810e812d54959ff3140" />
+	</machine>
+	<machine name="Cranebit v1.0 (demo) (20xx)(Psycho World)[Multiscreen]">
+		<description>Cranebit v1.0 (demo) (20xx)(Psycho World)[Multiscreen]</description>
+		<rom name="Cranebit v1.0 (demo) (20xx)(Psycho World)[Multiscreen].mpn" size="59384" crc="a6bb9ddb" md5="6720da983e5fead8bbba4553eab5a01f" sha1="af033905a78ca1de1c5c361db113d4fc8e07dfe2" />
+	</machine>
+	<machine name="Crazy Jump (demo) v1.2 (2003)(Zeroware)[128x160]">
+		<description>Crazy Jump (demo) v1.2 (2003)(Zeroware)[128x160]</description>
+		<rom name="Crazy Jump (demo) v1.2 (2003)(Zeroware)[128x160].mpn" size="41744" crc="4a7c89d4" md5="cbe1443e1832efb0d479f85fc0c4b24b" sha1="919183a46709f894f3077db3fed7cf6f13c48af4" />
+	</machine>
+	<machine name="CrazyBombs v0.2 (2004)(FUCAPI)[128x160]">
+		<description>CrazyBombs v0.2 (2004)(FUCAPI)[128x160]</description>
+		<rom name="CrazyBombs v0.2 (2004)(FUCAPI)[128x160].mpn" size="97984" crc="fd403bac" md5="91ffba8186670fb04ff18ddcca89e07a" sha1="702bc1e1f77f8cfeef04d0e0975b517ffe6e1e32" />
+	</machine>
+	<machine name="Cubed v1.0 (2002)(Synergenix Interactive)[101x80][Expired][Phone#]">
+		<description>Cubed v1.0 (2002)(Synergenix Interactive)[101x80][Expired][Phone#]</description>
+		<rom name="Cubed v1.0 (2002)(Synergenix Interactive)[101x80][Expired][Phone#].mpn" size="55628" crc="14f014cc" md5="f6a606ea71eba526250881bcf4dc3225" sha1="940d894e6a4c440b803dfaad761eca2c740bfe0e" />
+	</machine>
+	<machine name="Cubed v1.0 (2002)(Synergenix Interactive)[cr][101x80][Phone#]">
+		<description>Cubed v1.0 (2002)(Synergenix Interactive)[cr][101x80][Phone#]</description>
+		<rom name="Cubed v1.0 (2002)(Synergenix Interactive)[cr][101x80][Phone#].mpn" size="55628" crc="db9822b3" md5="fb201080883829fb13a68fe30559837e" sha1="576389a6bbd66f63f5b969b653a30a12d447b500" />
+	</machine>
+	<machine name="Cubed v1.0 (demo) (2002)(Synergenix Interactive)[101x80]">
+		<description>Cubed v1.0 (demo) (2002)(Synergenix Interactive)[101x80]</description>
+		<rom name="Cubed v1.0 (demo) (2002)(Synergenix Interactive)[101x80].mpn" size="54264" crc="57b8e996" md5="fbd7a6c1f89bc349758c0b07ab6939ec" sha1="e021f132229949d95e84818f4b1c7590f608ffc4" />
+	</machine>
+	<machine name="Dawn Of The Vampire v1.0 (2003)(Maratron)[Multiscreen]">
+		<description>Dawn Of The Vampire v1.0 (2003)(Maratron)[Multiscreen]</description>
+		<rom name="Dawn Of The Vampire v1.0 (2003)(Maratron)[Multiscreen].mpn" size="53204" crc="b4f0be64" md5="25428e80ea6ab9918e4bf866d2b74ddb" sha1="9943982eda98ae2efff9920642bfab5c8ab536c6" />
+	</machine>
+	<machine name="Deep Abyss v1.1 (2002)(Sony Ericsson)[101x80]">
+		<description>Deep Abyss v1.1 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Deep Abyss v1.1 (2002)(Sony Ericsson)[101x80].mpn" size="59760" crc="ada23040" md5="3063978d75d695a3f9461887b0d2902f" sha1="f32bfe4f50093315ea180ecc49669104a284bdac" />
+	</machine>
+	<machine name="Deep Abyss v1.4 (2002)(Sony Ericsson)[a][Multiscreen]">
+		<description>Deep Abyss v1.4 (2002)(Sony Ericsson)[a][Multiscreen]</description>
+		<rom name="Deep Abyss v1.4 (2002)(Sony Ericsson)[a][Multiscreen].mpn" size="67300" crc="6f03dfcc" md5="1064d5676ffd6c17c211921a8f1f66ad" sha1="7ab15d15ebe0cc0c54397eb0f2a0e94b9974a459" />
+	</machine>
+	<machine name="Deep Abyss v1.4 (2002)(Sony Ericsson)[Multiscreen]">
+		<description>Deep Abyss v1.4 (2002)(Sony Ericsson)[Multiscreen]</description>
+		<rom name="Deep Abyss v1.4 (2002)(Sony Ericsson)[Multiscreen].mpn" size="67300" crc="83035e13" md5="62ced546e9e072e37656e509e5e3db47" sha1="2ee8e17be3736c62e0d9f3534c2322f5ed326df6" />
+		<rom name="language" size="9088" crc="ad9a3426" md5="f1b3bde8429b62b65537be6fc05ea4eb" sha1="8998df3ce18811362d6e8df99459169c6ff308d6" />
+	</machine>
+	<machine name="Diamond Hunter (2003)(Binary Graffitti)[101x80]">
+		<description>Diamond Hunter (2003)(Binary Graffitti)[101x80]</description>
+		<rom name="Diamond Hunter (2003)(Binary Graffitti)[101x80].mpn" size="51808" crc="53a1f936" md5="354ca3797d788d0802cb68e2312c546b" sha1="32c41af7d7734ee1a8ad826d3f9b8c467ad97b91" />
+	</machine>
+	<machine name="Diastima v1.1 (2003)(Max Artists)[128x160]">
+		<description>Diastima v1.1 (2003)(Max Artists)[128x160]</description>
+		<rom name="Diastima v1.1 (2003)(Max Artists)[128x160].mpn" size="78880" crc="2938313e" md5="bbc4b9f698688aefd3bb50a0f26cc0c1" sha1="ff3455a5f238c1f89b4e299a57fc84289688f06b" />
+	</machine>
+	<machine name="Diastima v1.1 (2003)(Max Artists)[128x160][Expired][Phone#]">
+		<description>Diastima v1.1 (2003)(Max Artists)[128x160][Expired][Phone#]</description>
+		<rom name="Diastima v1.1 (2003)(Max Artists)[128x160][Expired][Phone#].mpn" size="78880" crc="194f46c6" md5="0c70bad0b90e1a4e2c44e21dce70f92c" sha1="a0e6182e027fa79642914dde83a1b48a0eae83a8" />
+	</machine>
+	<machine name="Diastima v1.1 (2003)(Max Artists)[cr][128x160][Phone#]">
+		<description>Diastima v1.1 (2003)(Max Artists)[cr][128x160][Phone#]</description>
+		<rom name="Diastima v1.1 (2003)(Max Artists)[cr][128x160][Phone#].mpn" size="78880" crc="756f4ba1" md5="d4ee7eba7a4e4ad18dc5217c11275bc1" sha1="6ea88e57f5946fcb1cd218a620c9d86c6f991b34" />
+	</machine>
+	<machine name="Dog City (2002)(Synergenix Interactive)[cr][Multiscreen][Phone#]">
+		<description>Dog City (2002)(Synergenix Interactive)[cr][Multiscreen][Phone#]</description>
+		<rom name="Dog City (2002)(Synergenix Interactive)[cr][Multiscreen][Phone#].mpn" size="59624" crc="761bc59b" md5="1541e324a839bd23e76c8a3bc95fb61c" sha1="43ab585dff664ec0ccc90b8e7013a3ba6abf0659" />
+	</machine>
+	<machine name="Dog City (2002)(Synergenix Interactive)[Multiscreen][Expired][Phone#]">
+		<description>Dog City (2002)(Synergenix Interactive)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Dog City (2002)(Synergenix Interactive)[Multiscreen][Expired][Phone#].mpn" size="59624" crc="d880fbcf" md5="545e61b8220fb7e6b5134c9f73c15d3f" sha1="aa2995916a95306adc78575728ca4205f5c92278" />
+	</machine>
+	<machine name="Dogfight v1.0.0 C1 (2004)(Kerbyware)[101x80]">
+		<description>Dogfight v1.0.0 C1 (2004)(Kerbyware)[101x80]</description>
+		<rom name="Dogfight v1.0.0 C1 (2004)(Kerbyware)[101x80].mpn" size="59480" crc="4b964655" md5="dcef7d8211934a753e2f85dad4b9ae28" sha1="c1540adbf8b95bc5bf3a62298d94130943613a5d" />
+	</machine>
+	<machine name="Dogfight v1.0.0 C2+ (2004)(Kerbyware)[128x160]">
+		<description>Dogfight v1.0.0 C2+ (2004)(Kerbyware)[128x160]</description>
+		<rom name="Dogfight v1.0.0 C2+ (2004)(Kerbyware)[128x160].mpn" size="99100" crc="427794cf" md5="fe2b2db201a1e2e6361714929e9c52bf" sha1="de3b9e7840e91264398535c0116409f1a332e9d5" />
+	</machine>
+	<machine name="Dots And Dashes v1.0 (20xx)(Barton, Jonathan)[Multiscreen]">
+		<description>Dots And Dashes v1.0 (20xx)(Barton, Jonathan)[Multiscreen]</description>
+		<rom name="Dots And Dashes v1.0 (20xx)(Barton, Jonathan)[Multiscreen].mpn" size="29920" crc="bf36f00d" md5="b5fa13b5b3e6e7cf507a19a274cd6989" sha1="6301163dc9ab3974422aa5f89df950cb87bae7ba" />
+	</machine>
+	<machine name="Dragon Tale C1 v1.0 (demo) (2002)(Spark Creative)[101x80][IMEI]">
+		<description>Dragon Tale C1 v1.0 (demo) (2002)(Spark Creative)[101x80][IMEI]</description>
+		<rom name="Dragon Tale C1 v1.0 (demo) (2002)(Spark Creative)[101x80][IMEI].mpn" size="86716" crc="66075581" md5="da0706cc7600d7534301cdfafe044074" sha1="c070c9c855000931821c82676d49a7b7b7b127f7" />
+	</machine>
+	<machine name="Dragon Tale C1 v1.0 (demo) (2002)(Spark Creative)[a][101x80][IMEI]">
+		<description>Dragon Tale C1 v1.0 (demo) (2002)(Spark Creative)[a][101x80][IMEI]</description>
+		<rom name="Dragon Tale C1 v1.0 (demo) (2002)(Spark Creative)[a][101x80][IMEI].mpn" size="86716" crc="6cb5a1b4" md5="a276ff1664d65a6a60b9bb81ae127e27" sha1="50b3a3771fba3e194135d2c0031231da5aecc13a" />
+	</machine>
+	<machine name="Dragon Tale C2 v1.0 (demo) (2002)(Spark Creative)[Multiscreen][IMEI]">
+		<description>Dragon Tale C2 v1.0 (demo) (2002)(Spark Creative)[Multiscreen][IMEI]</description>
+		<rom name="Dragon Tale C2 v1.0 (demo) (2002)(Spark Creative)[Multiscreen][IMEI].mpn" size="87316" crc="ec3b0541" md5="bbbe32b9bc9184b8f4915d665e779436" sha1="6ea522c6e4b8de6da88114ffcdf9523f7a522e7a" />
+	</machine>
+	<machine name="Dragon Tale v1.2 (2003)(Spark Creative)[101x80]">
+		<description>Dragon Tale v1.2 (2003)(Spark Creative)[101x80]</description>
+		<rom name="Dragon Tale v1.2 (2003)(Spark Creative)[101x80].mpn" size="59920" crc="bd8446aa" md5="b3f466ecef3966c11a120e316b055270" sha1="f128d8bc2e409f831e494a9ab87c23444caa3865" />
+	</machine>
+	<machine name="Dragon Tale v1.2 (2003)(Spark Creative)[128x160][Expired][Phone#]">
+		<description>Dragon Tale v1.2 (2003)(Spark Creative)[128x160][Expired][Phone#]</description>
+		<rom name="Dragon Tale v1.2 (2003)(Spark Creative)[128x160][Expired][Phone#].mpn" size="83760" crc="c963866d" md5="936ed3275513c1716757637077f3bd1b" sha1="8f5b4fe5852f2492a3cdb91292c815b4b793a71f" />
+	</machine>
+	<machine name="Dragon Tale v1.2 (2003)(Spark Creative)[cr][128x160][Phone#]">
+		<description>Dragon Tale v1.2 (2003)(Spark Creative)[cr][128x160][Phone#]</description>
+		<rom name="Dragon Tale v1.2 (2003)(Spark Creative)[cr][128x160][Phone#].mpn" size="83760" crc="a2049539" md5="8e820d7af55d6706b3885bb695e6263d" sha1="ffe938b21e672923a0f92992d7d79c1a1ccc77e7" />
+	</machine>
+	<machine name="Drop Down v1.0 (2003)(Jeff Schmidt)[101x80]">
+		<description>Drop Down v1.0 (2003)(Jeff Schmidt)[101x80]</description>
+		<rom name="Drop Down v1.0 (2003)(Jeff Schmidt)[101x80].mpn" size="36824" crc="6d19a8da" md5="ccdde0924c6f461515949f659a5526fc" sha1="5ed0c86c25b0d11d4f7e188462e6c2da4fb2181c" />
+	</machine>
+	<machine name="Ducati Extreme v1.2 (2004)(Big Blue Bubble)[128x160]">
+		<description>Ducati Extreme v1.2 (2004)(Big Blue Bubble)[128x160]</description>
+		<rom name="Ducati Extreme v1.2 (2004)(Big Blue Bubble)[128x160].mpn" size="112356" crc="a1078f64" md5="dace5157fef9e00c59c1cc8e48651d61" sha1="7d6d82a57e9dc1969e97985a0f9bc1c05e70cc26" />
+	</machine>
+	<machine name="Egg Attack v1.0 (20xx)(CSP)[128x160][Expired][Phone#]">
+		<description>Egg Attack v1.0 (20xx)(CSP)[128x160][Expired][Phone#]</description>
+		<rom name="Egg Attack v1.0 (20xx)(CSP)[128x160][Expired][Phone#].mpn" size="59216" crc="6f5365ae" md5="454b42b29814b4e1a7da290b20dca666" sha1="f5f74334bf12599027e8f80ee5735ee923324906" />
+	</machine>
+	<machine name="Egg Attack v1.0 (20xx)(CSP)[cr][128x160][Phone#]">
+		<description>Egg Attack v1.0 (20xx)(CSP)[cr][128x160][Phone#]</description>
+		<rom name="Egg Attack v1.0 (20xx)(CSP)[cr][128x160][Phone#].mpn" size="59216" crc="d7097cc1" md5="3d03cd7f1efdfbde4af3f584e9cfd22d" sha1="7e04b10080f6bd02c638443d4b07acebe78ba13b" />
+	</machine>
+	<machine name="Eggo v1.2 (2003)(Ionic Studios)[128x160]">
+		<description>Eggo v1.2 (2003)(Ionic Studios)[128x160]</description>
+		<rom name="Eggo v1.2 (2003)(Ionic Studios)[128x160].mpn" size="57832" crc="b03fb02f" md5="a1bdb8605c2a599b62c3b8638c15b157" sha1="ef7c747483433756a7c8f937bc49d7e137f60412" />
+	</machine>
+	<machine name="Erix v1.0 (2002)(Sony Ericsson)[Multiscreen]">
+		<description>Erix v1.0 (2002)(Sony Ericsson)[Multiscreen]</description>
+		<rom name="Erix v1.0 (2002)(Sony Ericsson)[Multiscreen].mpn" size="39736" crc="5dfc6944" md5="5a1aae7f516862f0915213f80f44af87" sha1="ec95402242198c102e899630242ede3c3b07bdae" />
+	</machine>
+	<machine name="Evac (2004)(dex0r)[101x80][Expired][Phone#]">
+		<description>Evac (2004)(dex0r)[101x80][Expired][Phone#]</description>
+		<rom name="Evac (2004)(dex0r)[101x80][Expired][Phone#].mpn" size="59752" crc="44b99405" md5="6987aa25035d26efe15c7f42b28fee32" sha1="62162726dadf5b4ee3075708605af37351cf3d9d" />
+	</machine>
+	<machine name="Evac (2004)(dex0r)[cr][101x80][Phone#]">
+		<description>Evac (2004)(dex0r)[cr][101x80][Phone#]</description>
+		<rom name="Evac (2004)(dex0r)[cr][101x80][Phone#].mpn" size="59752" crc="90a91610" md5="81491943146034069f62b4b72c6cedc4" sha1="3080d59ac028e17edd20db56e9ffde69bb8dcb05" />
+	</machine>
+	<machine name="Evac 610 v1.1 (2003)(Max Artists)[128x160][Expired][Phone#]">
+		<description>Evac 610 v1.1 (2003)(Max Artists)[128x160][Expired][Phone#]</description>
+		<rom name="Evac 610 v1.1 (2003)(Max Artists)[128x160][Expired][Phone#].mpn" size="74020" crc="60147b43" md5="a7d8e444264c944366261c810d0646fc" sha1="fa530b9eacf0afc38a0123136450a79e4c75f460" />
+	</machine>
+	<machine name="Evac 610 v1.1 (2003)(Max Artists)[128x160][Phone#]">
+		<description>Evac 610 v1.1 (2003)(Max Artists)[128x160][Phone#]</description>
+		<rom name="Evac 610 v1.1 (2003)(Max Artists)[128x160][Phone#].mpn" size="74020" crc="a805c941" md5="fc7f9717c0c09f31a9ee533a8c86295f" sha1="e37fb9dec88b72b64be3f16e1347662b91de073a" />
+	</machine>
+	<machine name="Evac 610 v1.1 (2003)(Max Artists)[cr][128x160][Phone#]">
+		<description>Evac 610 v1.1 (2003)(Max Artists)[cr][128x160][Phone#]</description>
+		<rom name="Evac 610 v1.1 (2003)(Max Artists)[cr][128x160][Phone#].mpn" size="74020" crc="93b16ebf" md5="225e21a2c0435381f114bb9f761aba69" sha1="163dfc14a1c51bc8202aff37822562425a1319f6" />
+	</machine>
+	<machine name="Evil Mirror v003 (2003)(ITE)[cr][Multiscreen][Phone#]">
+		<description>Evil Mirror v003 (2003)(ITE)[cr][Multiscreen][Phone#]</description>
+		<rom name="Evil Mirror v003 (2003)(ITE)[cr][Multiscreen][Phone#].mpn" size="92160" crc="e93c0023" md5="5fecc8870263fe4ca3de0e84a3bdab98" sha1="721ef59a541d6967d0b7076ad59440f0afa30999" />
+	</machine>
+	<machine name="Evil Mirror v003 (2003)(ITE)[Multiscreen][Expired]">
+		<description>Evil Mirror v003 (2003)(ITE)[Multiscreen][Expired]</description>
+		<rom name="Evil Mirror v003 (2003)(ITE)[Multiscreen][Expired].mpn" size="92160" crc="137e447c" md5="2bb9b1aef6b76b90b26e084e6152a651" sha1="4866b7c91f3f9f0fc0b92c8bf3b52ba096390c48" />
+	</machine>
+	<machine name="Evil Mirror v003 (demo) (2003)(ITE)[Multiscreen][Phone#]">
+		<description>Evil Mirror v003 (demo) (2003)(ITE)[Multiscreen][Phone#]</description>
+		<rom name="Evil Mirror v003 (demo) (2003)(ITE)[Multiscreen][Phone#].mpn" size="92160" crc="a38a2dae" md5="9b7ad024c983358e95deb123ff030cbf" sha1="800e6395a7448cfb12020f0b3ec5c4d446067607" />
+	</machine>
+	<machine name="Fifa 2003 v0.1.5 (2003)(Distinctive)[128x160][Expired][Phone#]">
+		<description>Fifa 2003 v0.1.5 (2003)(Distinctive)[128x160][Expired][Phone#]</description>
+		<rom name="Fifa 2003 v0.1.5 (2003)(Distinctive)[128x160][Expired][Phone#].mpn" size="115016" crc="24113d98" md5="b833eac9e858a3dbd7e5f1339f51ea31" sha1="a41b42a5180b56565fda16c6ac3e30c2661c2979" />
+	</machine>
+	<machine name="Fifa 2003 v0.1.5 (2003)(Distinctive)[128x160][Phone#]">
+		<description>Fifa 2003 v0.1.5 (2003)(Distinctive)[128x160][Phone#]</description>
+		<rom name="Fifa 2003 v0.1.5 (2003)(Distinctive)[128x160][Phone#].mpn" size="115016" crc="ddf54ba2" md5="42c7b173a62e5009b09fe8397618040f" sha1="e4841a42fb6d4731df9518337d1889052a3b7754" />
+	</machine>
+	<machine name="Fifa 2003 v0.1.5 (2003)(Distinctive)[cr][128x160][Phone#]">
+		<description>Fifa 2003 v0.1.5 (2003)(Distinctive)[cr][128x160][Phone#]</description>
+		<rom name="Fifa 2003 v0.1.5 (2003)(Distinctive)[cr][128x160][Phone#].mpn" size="115016" crc="f767923f" md5="6356316a726356f1a3c4ab7223f87e54" sha1="ee630c8ba3671511d5efcd4db72fbdac270ede66" />
+	</machine>
+	<machine name="Final Hit v1.3 (2003)(Wlodarczyk, Karol &amp; Wlodarczyk, Mariusz)[101x80]">
+		<description>Final Hit v1.3 (2003)(Wlodarczyk, Karol &amp; Wlodarczyk, Mariusz)[101x80]</description>
+		<rom name="Final Hit v1.3 (2003)(Wlodarczyk, Karol &amp; Wlodarczyk, Mariusz)[101x80].mpn" size="59620" crc="5c76df4f" md5="66ff6bb5262a3792dd18c5e0bca9ec0f" sha1="e557ffd7b671cb3f55bcc20396b654c9f5207d1d" />
+	</machine>
+	<machine name="Final Hit v1.4 (2003)(Wlodarczyk, Karol &amp; Wlodarczyk, Mariusz)[128x160]">
+		<description>Final Hit v1.4 (2003)(Wlodarczyk, Karol &amp; Wlodarczyk, Mariusz)[128x160]</description>
+		<rom name="Final Hit v1.4 (2003)(Wlodarczyk, Karol &amp; Wlodarczyk, Mariusz)[128x160].mpn" size="59652" crc="afbdcfd0" md5="2d922f4ea7589c5dcc065ccf66d1a631" sha1="5b995bbcd8b73896fcff950cff934c6743292fd7" />
+	</machine>
+	<machine name="Fire Power v1.0 (2003)(Georgios, Chiotis)[101x80]">
+		<description>Fire Power v1.0 (2003)(Georgios, Chiotis)[101x80]</description>
+		<rom name="Fire Power v1.0 (2003)(Georgios, Chiotis)[101x80].mpn" size="58944" crc="9a14cd6d" md5="fc9f82af2c95a01db8eb0936922cd7e7" sha1="5b0ad9bf65212b577d85efd7d796441fa0701370" />
+	</machine>
+	<machine name="Fire Power v1.0 (2003)(Georgios, Chiotis)[128x160]">
+		<description>Fire Power v1.0 (2003)(Georgios, Chiotis)[128x160]</description>
+		<rom name="Fire Power v1.0 (2003)(Georgios, Chiotis)[128x160].mpn" size="59356" crc="8a519655" md5="b650cac22eee91b1a3ce2778e1112678" sha1="25fec61ea23bad1b8d28decb80752fefe4d79279" />
+	</machine>
+	<machine name="Fire Shark (2004)(Binary Graffitti)[128x160]">
+		<description>Fire Shark (2004)(Binary Graffitti)[128x160]</description>
+		<rom name="Fire Shark (2004)(Binary Graffitti)[128x160].mpn" size="99440" crc="fd05a810" md5="8f34947d6009ed2d86a66e7b1ec63550" sha1="d64d5df56d2fd2d138d8d0d17013cd1e388c517c" />
+	</machine>
+	<machine name="Five Stones v1.07 (2002)(Sony Ericsson)[101x80]">
+		<description>Five Stones v1.07 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Five Stones v1.07 (2002)(Sony Ericsson)[101x80].mpn" size="51884" crc="80cdd3bd" md5="d317282eb1a18d148be346ce6fa5877b" sha1="e447c8b0d9c1ad185fc8d7f96bff18bffed7f0d9" />
+	</machine>
+	<machine name="Five Stones v2.6 (2002)(Sony Ericsson)[Multiscreen]">
+		<description>Five Stones v2.6 (2002)(Sony Ericsson)[Multiscreen]</description>
+		<rom name="Five Stones v2.6 (2002)(Sony Ericsson)[Multiscreen].mpn" size="52364" crc="f27cd851" md5="8aaca2a4012ba34d5e1340805a1c796f" sha1="3da0cccad90e58051b2313a8cc9a62034df225f0" />
+		<rom name="language" size="8378" crc="0dca52eb" md5="36d816594b02225574a4c6fdae2f2b18" sha1="2ab5d609699944a9d22cc6ed37f860573acda75a" />
+	</machine>
+	<machine name="Fling Jack v1.1 (2003)(Flandish)[128x160]">
+		<description>Fling Jack v1.1 (2003)(Flandish)[128x160]</description>
+		<rom name="Fling Jack v1.1 (2003)(Flandish)[128x160].mpn" size="84920" crc="94a9ceda" md5="872849bfd9a9100b0cc3377a8133f806" sha1="90412dc323ef7371c2c9e00c9eb90653ec6766eb" />
+	</machine>
+	<machine name="Fornax v1.0 (2003)(Nanogames)[101x80]">
+		<description>Fornax v1.0 (2003)(Nanogames)[101x80]</description>
+		<rom name="Fornax v1.0 (2003)(Nanogames)[101x80].mpn" size="46208" crc="afdaf630" md5="6d304f40e64f6a03198b0df764f0cfda" sha1="187b1e2bd9e31d1a8bb1e4785cc2e9bd86b8ecdf" />
+	</machine>
+	<machine name="Fornax v1.0 (2003)(Nanogames)[128x160]">
+		<description>Fornax v1.0 (2003)(Nanogames)[128x160]</description>
+		<rom name="Fornax v1.0 (2003)(Nanogames)[128x160].mpn" size="58980" crc="2288c76d" md5="7f0bdf1698e660d8df41d85b6129a367" sha1="b7f7b1ab3440296f9191352a652b05e5f6af19fb" />
+	</machine>
+	<machine name="Frankie Jumpy v1.2.1 (2003)(impressionware)[128x160]">
+		<description>Frankie Jumpy v1.2.1 (2003)(impressionware)[128x160]</description>
+		<rom name="Frankie Jumpy v1.2.1 (2003)(impressionware)[128x160].mpn" size="54108" crc="b3353a30" md5="ba8385ebbc8c935cfa4038f7719f3a42" sha1="1f5652d3cb52d234a6127b37055427bef38f49d1" />
+	</machine>
+	<machine name="Fruit Juice v1.0 (2002)(Potion)[Multiscreen]">
+		<description>Fruit Juice v1.0 (2002)(Potion)[Multiscreen]</description>
+		<rom name="Fruit Juice v1.0 (2002)(Potion)[Multiscreen].mpn" size="57116" crc="16529a3f" md5="5b1c088665e53f6f22f9a4bcfae40a44" sha1="8d2a7f71116d1a3b00d5f0c1424f7df1004f61f0" />
+	</machine>
+	<machine name="Gemmy Dancer (2003)(Gemmy Planet)[101x80]">
+		<description>Gemmy Dancer (2003)(Gemmy Planet)[101x80]</description>
+		<rom name="Gemmy Dancer (2003)(Gemmy Planet)[101x80].mpn" size="86336" crc="56b96d3f" md5="0f5d47adaf040777bf5a90731fc6431a" sha1="69a7afe918c5e6e2d560b72a18fee9c0a0f1793d" />
+	</machine>
+	<machine name="Gemmy Dancer (demo) (2003)(Gemmy Planet)[101x80]">
+		<description>Gemmy Dancer (demo) (2003)(Gemmy Planet)[101x80]</description>
+		<rom name="Gemmy Dancer (demo) (2003)(Gemmy Planet)[101x80].mpn" size="86336" crc="828ff9a0" md5="b72d02d39e0f397307b1663c782ac1e2" sha1="192158e3aa406d3ca5f1b8a8d184bab3c014b988" />
+	</machine>
+	<machine name="Get-Away v1.0 (20xx)(MH Games)[101x80][IMEI]">
+		<description>Get-Away v1.0 (20xx)(MH Games)[101x80][IMEI]</description>
+		<rom name="Get-Away v1.0 (20xx)(MH Games)[101x80][IMEI].mpn" size="59940" crc="07ea1a80" md5="b6d9caaa626c460cb36843fa34a8fd7d" sha1="f667e68d1c574a982fa40412dd9ed1c359a3d25b" />
+	</machine>
+	<machine name="Get-Away v1.1 (20xx)(MH Games)[128x160]">
+		<description>Get-Away v1.1 (20xx)(MH Games)[128x160]</description>
+		<rom name="Get-Away v1.1 (20xx)(MH Games)[128x160].mpn" size="56548" crc="0176d2aa" md5="67313b868f76b6bb04d01497c15b3f83" sha1="8b5906605c4db39d43acd64d82f523eb804deb81" />
+	</machine>
+	<machine name="Graveyard Adventure v1.0 (2004)(Vesterlund, Marcus)[128x160]">
+		<description>Graveyard Adventure v1.0 (2004)(Vesterlund, Marcus)[128x160]</description>
+		<rom name="Graveyard Adventure v1.0 (2004)(Vesterlund, Marcus)[128x160].mpn" size="60520" crc="8db75215" md5="84d0b1bb69cf78e4ff082e542ed1aa0b" sha1="78d1c952b764acd421c45d69ef8f5a9e5f9e2b86" />
+	</machine>
+	<machine name="Graviation v1.0 (2002)(Awesume Interactive)[101x80]">
+		<description>Graviation v1.0 (2002)(Awesume Interactive)[101x80]</description>
+		<rom name="Graviation v1.0 (2002)(Awesume Interactive)[101x80].mpn" size="59700" crc="f5b8ecf6" md5="4b5cbe1bfb72109b236372792b62c1dd" sha1="ad3208ff213bccd38a5ee5a104008693cc5ca7fb" />
+	</machine>
+	<machine name="Graviation v1.0 (2002)(Awesume Interactive)[128x160][Phone#]">
+		<description>Graviation v1.0 (2002)(Awesume Interactive)[128x160][Phone#]</description>
+		<rom name="Graviation v1.0 (2002)(Awesume Interactive)[128x160][Phone#].mpn" size="59824" crc="96684fe0" md5="87bb8ac25b9fcf0b7f6d801aad6e2c5b" sha1="2f18605e551b5f5fd38ce4601977394a245d832b" />
+	</machine>
+	<machine name="Graviton v1.0 (2003)(Synergenix Interactive)[101x80]">
+		<description>Graviton v1.0 (2003)(Synergenix Interactive)[101x80]</description>
+		<rom name="Graviton v1.0 (2003)(Synergenix Interactive)[101x80].mpn" size="40036" crc="4ce3d773" md5="83b36226fd28b01ace02b99cd7f16c0d" sha1="ccf612634f8492f5b9a7b2b763593bc405d38753" />
+	</machine>
+	<machine name="Graviton v1.0 (2003)(Synergenix Interactive)[128x160][Expired][Phone#]">
+		<description>Graviton v1.0 (2003)(Synergenix Interactive)[128x160][Expired][Phone#]</description>
+		<rom name="Graviton v1.0 (2003)(Synergenix Interactive)[128x160][Expired][Phone#].mpn" size="43480" crc="98eb8efa" md5="025a7656e36ec74f86ec1fa84033cfad" sha1="ac77f77c32e32afecd3d5bb9f6e1986b3015a0e6" />
+	</machine>
+	<machine name="Graviton v1.0 (2003)(Synergenix Interactive)[cr][128x160][Phone#]">
+		<description>Graviton v1.0 (2003)(Synergenix Interactive)[cr][128x160][Phone#]</description>
+		<rom name="Graviton v1.0 (2003)(Synergenix Interactive)[cr][128x160][Phone#].mpn" size="43480" crc="321aa50f" md5="fd0c4f9c0ed898fac2c47d2c6c3232ae" sha1="c14668d6d1241b15c5416ace169cccedcf3c6d20" />
+	</machine>
+	<machine name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[128x160][Expired][Phone#]">
+		<description>Gun Carnage v1.0 (20xx)(Capricorn Studios)[128x160][Expired][Phone#]</description>
+		<rom name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[128x160][Expired][Phone#].mpn" size="118788" crc="849fe03c" md5="b2282dd66f991098205f862f5f5d39f5" sha1="313336c6d9bd70511c294d446a59f17b44a64e95" />
+	</machine>
+	<machine name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[128x160][Phone#]">
+		<description>Gun Carnage v1.0 (20xx)(Capricorn Studios)[128x160][Phone#]</description>
+		<rom name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[128x160][Phone#].mpn" size="118788" crc="dbc152e6" md5="22c9f5854e9da862748db49994a4cfa6" sha1="add73e8dc90b92f9bb3032f5ee71049c469313f6" />
+	</machine>
+	<machine name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[cr][128x160][Phone#]">
+		<description>Gun Carnage v1.0 (20xx)(Capricorn Studios)[cr][128x160][Phone#]</description>
+		<rom name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[cr][128x160][Phone#].mpn" size="118788" crc="df690aa0" md5="87c6a53c61e5b74acbd60006f965a18e" sha1="d5b58914e8ef09c79fa5c9daf20bef7d569b5136" />
+	</machine>
+	<machine name="Hearts v1.0 (20xx)(Martincevic, Miroslav)[101x80]">
+		<description>Hearts v1.0 (20xx)(Martincevic, Miroslav)[101x80]</description>
+		<rom name="Hearts v1.0 (20xx)(Martincevic, Miroslav)[101x80].mpn" size="52500" crc="2ac026e8" md5="8c74a557f8d7554b2e2d3a3ad36aba3d" sha1="9a08ae45a421364a744d472f22aa1942924ef262" />
+	</machine>
+	<machine name="Honey Cave 2 v1.0 (2003)(Sony Ericsson)[Multiscreen]">
+		<description>Honey Cave 2 v1.0 (2003)(Sony Ericsson)[Multiscreen]</description>
+		<rom name="Honey Cave 2 v1.0 (2003)(Sony Ericsson)[Multiscreen].mpn" size="64641" crc="5d78b55f" md5="d8416c4728d15edf23a8929cd65aeae7" sha1="4ad92b402cf2f1365e331f1f2f3581f1353d84f0" />
+	</machine>
+	<machine name="Honey Cave 2 v1.0 (2003)(Sony Ericsson)[ru][Multiscreen]">
+		<description>Honey Cave 2 v1.0 (2003)(Sony Ericsson)[ru][Multiscreen]</description>
+		<rom name="Honey Cave 2 v1.0 (2003)(Sony Ericsson)[ru][Multiscreen].mpn" size="64641" crc="bd8c7330" md5="1c44deb00f8c3dd2182542f76e28f8d1" sha1="87774832d4ea63d8d52deaca778b725538dd6575" />
+	</machine>
+	<machine name="Honey Cave v1.06 (2002)(Sony Ericsson)[101x80]">
+		<description>Honey Cave v1.06 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Honey Cave v1.06 (2002)(Sony Ericsson)[101x80].mpn" size="58308" crc="290ac248" md5="05855948f729e6af33a9428210e53901" sha1="5d7c053b358d5e6e33a808ae9779cbc379892ad7" />
+	</machine>
+	<machine name="Hopper (2003)(Max Artists)[128x160][Expired][Phone#]">
+		<description>Hopper (2003)(Max Artists)[128x160][Expired][Phone#]</description>
+		<rom name="Hopper (2003)(Max Artists)[128x160][Expired][Phone#].mpn" size="101108" crc="eac74630" md5="e71356e1e18967bbfa8104734cff8a74" sha1="e271f320fdb3a40c1b5e0d38d4948a15d9f2338d" />
+	</machine>
+	<machine name="Hopper v1.1 (2003)(Max Artists)[cr][128x160][Phone#]">
+		<description>Hopper v1.1 (2003)(Max Artists)[cr][128x160][Phone#]</description>
+		<rom name="Hopper v1.1 (2003)(Max Artists)[cr][128x160][Phone#].mpn" size="101108" crc="d734958e" md5="1ff4a69d681aaca28a24fb9a028a21d8" sha1="d510e4ba785bd0a79d3fc034c9c175f82c6a557e" />
+	</machine>
+	<machine name="HUNTING SEASON v1.0 (2004)(Maratron)[101x80]">
+		<description>HUNTING SEASON v1.0 (2004)(Maratron)[101x80]</description>
+		<rom name="HUNTING SEASON v1.0 (2004)(Maratron)[101x80].mpn" size="60116" crc="1aa479df" md5="93755c4cdac6e2a0d82a29d11d89c0f7" sha1="6041756b369fb12843b65383dc39422bc9c87150" />
+	</machine>
+	<machine name="HUNTING SEASON v1.0 (2004)(Maratron)[128x160]">
+		<description>HUNTING SEASON v1.0 (2004)(Maratron)[128x160]</description>
+		<rom name="HUNTING SEASON v1.0 (2004)(Maratron)[128x160].mpn" size="79896" crc="2a82cb88" md5="9071ad41f4032f1535e2f958e4717e36" sha1="9f174abfb7d23fa8c3f3631565206bceea47174a" />
+	</machine>
+	<machine name="Huntsman v1.2 (2003)(Mirandow)[cr][Multiscreen][Phone#]">
+		<description>Huntsman v1.2 (2003)(Mirandow)[cr][Multiscreen][Phone#]</description>
+		<rom name="Huntsman v1.2 (2003)(Mirandow)[cr][Multiscreen][Phone#].mpn" size="56800" crc="f4e2a2e4" md5="bc8bf97f6743977eabd4cce7cfc405b6" sha1="a4b65347f633b319e0a03cab88d7a991138f3ad8" />
+	</machine>
+	<machine name="Huntsman v1.2 (2003)(Mirandow)[Multiscreen]">
+		<description>Huntsman v1.2 (2003)(Mirandow)[Multiscreen]</description>
+		<rom name="Huntsman v1.2 (2003)(Mirandow)[Multiscreen].mpn" size="56800" crc="28e8e745" md5="133c24ee0364bd5ea2fea0271343ead3" sha1="c1b3a01a4c259724da0a27e90963bc90426395a7" />
+	</machine>
+	<machine name="Huntsman v1.2 (2003)(Mirandow)[Multiscreen][Expired][Phone#]">
+		<description>Huntsman v1.2 (2003)(Mirandow)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Huntsman v1.2 (2003)(Mirandow)[Multiscreen][Expired][Phone#].mpn" size="56800" crc="c4e66803" md5="41cf4eab85ddb9dd6d0d1964c2bf63e8" sha1="ddc418901b998a4a5713863addd62fb6995c49e4" />
+	</machine>
+	<machine name="Hyper Apocalypse v1.0 (2003)(Bergström, Björn)[cr][Multiscreen][Phone#]">
+		<description>Hyper Apocalypse v1.0 (2003)(Bergström, Björn)[cr][Multiscreen][Phone#]</description>
+		<rom name="Hyper Apocalypse v1.0 (2003)(Bergström, Björn)[cr][Multiscreen][Phone#].mpn" size="35880" crc="86c4c570" md5="8be7c510e9a9dfb981aa56b52263557c" sha1="d32a4a91294fae368cea405506e90f9eb0e3e877" />
+	</machine>
+	<machine name="Hyper Apocalypse v1.0 (2003)(Bergström, Björn)[Multiscreen][Expired][Phone#]">
+		<description>Hyper Apocalypse v1.0 (2003)(Bergström, Björn)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Hyper Apocalypse v1.0 (2003)(Bergström, Björn)[Multiscreen][Expired][Phone#].mpn" size="35880" crc="92e68636" md5="5f709b93fdd0771ff4931c0926a0e7d2" sha1="2392441ff1bc67afee89b15a290438fdcdfc65f8" />
+	</machine>
+	<machine name="Ice Digger v1.07 (2002)(Sony Ericsson)[101x80]">
+		<description>Ice Digger v1.07 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Ice Digger v1.07 (2002)(Sony Ericsson)[101x80].mpn" size="58312" crc="066eb2ce" md5="414f21e42cf44dfc1b7fc2c0234cd478" sha1="8485ec9630d6813df559241b176691414ea86123" />
+	</machine>
+	<machine name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[101x80][Expired][Phone#]">
+		<description>Iceblox Plus v1.01 (2002)(Synergenix Interactive)[101x80][Expired][Phone#]</description>
+		<rom name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[101x80][Expired][Phone#].mpn" size="39680" crc="88ae2272" md5="3b7aedfe333b1c71fbd1c8b7847b9dc0" sha1="28b52d6d7cd1db182ec46805425baa0f395fc037" />
+	</machine>
+	<machine name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[cr][101x80][Phone#]">
+		<description>Iceblox Plus v1.01 (2002)(Synergenix Interactive)[cr][101x80][Phone#]</description>
+		<rom name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[cr][101x80][Phone#].mpn" size="39680" crc="d6ede29d" md5="346edd451207f6fd2618536997e85e8b" sha1="a7da4f7c7d70478cbcaf30e03d72fdca60e6872f" />
+	</machine>
+	<machine name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[cr][128x160][Phone#]">
+		<description>Iceblox Plus v1.01 (2002)(Synergenix Interactive)[cr][128x160][Phone#]</description>
+		<rom name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[cr][128x160][Phone#].mpn" size="50784" crc="495966c7" md5="d0c5d3f7fd1fec4e4fe809ff6795faf8" sha1="5bdb59c17c70331a4bec7446e7fde87d74cb574a" />
+	</machine>
+	<machine name="Incoming v1.2 (20xx)()[cr][Multiscreen][Phone#]">
+		<description>Incoming v1.2 (20xx)()[cr][Multiscreen][Phone#]</description>
+		<rom name="Incoming v1.2 (20xx)()[cr][Multiscreen][Phone#].mpn" size="37436" crc="820f252a" md5="0b642b7ca737622042afdb2a788e4e52" sha1="d2b1755fc5856daeec3e601b6bc7d9ffe8384474" />
+	</machine>
+	<machine name="Incoming v1.2 (20xx)()[Multiscreen][Expired][Phone#]">
+		<description>Incoming v1.2 (20xx)()[Multiscreen][Expired][Phone#]</description>
+		<rom name="Incoming v1.2 (20xx)()[Multiscreen][Expired][Phone#].mpn" size="37436" crc="669bcdba" md5="3005b73a2edba24d6555c7dd4e37436c" sha1="ec4bd5174de863f9ced38d4f1739f105d06ca4c8" />
+	</machine>
+	<machine name="Inferno VolI v1.0 (2003)(KerbyWare)[101x80]">
+		<description>Inferno VolI v1.0 (2003)(KerbyWare)[101x80]</description>
+		<rom name="Inferno VolI v1.0 (2003)(KerbyWare)[101x80].mpn" size="59872" crc="b33c3da3" md5="64aa7dc2727f537b0cc30f0fd7668d67" sha1="c4d5de13bc8d6d6c064944e2e037b3c9634796fe" />
+	</machine>
+	<machine name="Iron Waters v1.0 (2003)(impressionware)[128x160]">
+		<description>Iron Waters v1.0 (2003)(impressionware)[128x160]</description>
+		<rom name="Iron Waters v1.0 (2003)(impressionware)[128x160].mpn" size="63500" crc="e0561337" md5="3a8415c5c4bf4361ff3c8243f3742baa" sha1="de66169c5628662073bc4be49147a9b0c679effe" />
+	</machine>
+	<machine name="Iron Waters v1.0 (2003)(impressionware)[a][128x160]">
+		<description>Iron Waters v1.0 (2003)(impressionware)[a][128x160]</description>
+		<rom name="Iron Waters v1.0 (2003)(impressionware)[a][128x160].mpn" size="63500" crc="75d3e499" md5="0e108bd2e570c24963457dc3fd8bb3b0" sha1="9ec98c0093660c65979b07a3db7d149d24a65daa" />
+	</machine>
+	<machine name="Ishido v0.9 (20xx)(Szasz, Pal)[101x80]">
+		<description>Ishido v0.9 (20xx)(Szasz, Pal)[101x80]</description>
+		<rom name="Ishido v0.9 (20xx)(Szasz, Pal)[101x80].mpn" size="28112" crc="7dd8310c" md5="9c4f08c38f956942bc7a739551b43809" sha1="ade6bcd54fac82544ad76d332604cf609eb155a9" />
+	</machine>
+	<machine name="Ishido v0.9 (20xx)(Szasz, Pal)[128x160]">
+		<description>Ishido v0.9 (20xx)(Szasz, Pal)[128x160]</description>
+		<rom name="Ishido v0.9 (20xx)(Szasz, Pal)[128x160].mpn" size="40892" crc="9b2036fd" md5="bbe057ad831ec4480305ea7514ba1bb5" sha1="b14d7fe3540b0a2d1bc1806b13be8e8ebd13cd46" />
+	</machine>
+	<machine name="Italian Job v0.30 (2004)(Synergenix Interactive)[128x160]">
+		<description>Italian Job v0.30 (2004)(Synergenix Interactive)[128x160]</description>
+		<rom name="Italian Job v0.30 (2004)(Synergenix Interactive)[128x160].mpn" size="95520" crc="eabeba2f" md5="0df216c394c04e0e30a4f96b83cd1396" sha1="7d3d09feaa441537c3e3002a4aa68f3401523037" />
+	</machine>
+	<machine name="Italian Job v0.38 (2004)(Synergenix Interactive)[101x80]">
+		<description>Italian Job v0.38 (2004)(Synergenix Interactive)[101x80]</description>
+		<rom name="Italian Job v0.38 (2004)(Synergenix Interactive)[101x80].mpn" size="93296" crc="bca9fd79" md5="6cdd992b1e9b936a59c5e19a81c2a6cd" sha1="89db0651d076b9298c1fb1574f4763e540d921f1" />
+	</machine>
+	<machine name="Jeff v1.0 (20xx)(MH Games)[Multiscreen]">
+		<description>Jeff v1.0 (20xx)(MH Games)[Multiscreen]</description>
+		<rom name="Jeff v1.0 (20xx)(MH Games)[Multiscreen].mpn" size="59360" crc="183a0576" md5="08d25344f499efd7268b2a712ba346ee" sha1="d32d93cc162951342f67597c55fef277ab6eb807" />
+	</machine>
+	<machine name="Jeopardy! #1 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #1 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #1 (2003)(Sony Pictures)[Multiscreen].mpn" size="59024" crc="beca9351" md5="a37e97a561847c2b5f625e72852eb2af" sha1="47f0062e6ece345ccfb367c870acac4a7abad552" />
+	</machine>
+	<machine name="Jeopardy! #10 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #10 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #10 (2003)(Sony Pictures)[Multiscreen].mpn" size="58976" crc="1dd05c94" md5="928a82b5fcf4b31607efc7c53c2056e8" sha1="59a8f97ee1fa83bbd1f6f0d97ebea9f96fe5d3f2" />
+	</machine>
+	<machine name="Jeopardy! #11 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #11 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #11 (2003)(Sony Pictures)[Multiscreen].mpn" size="58708" crc="2720a246" md5="280299834a34f5f8daa1c4b4d7f7cce3" sha1="9e77a85224326a4beeec6dc834e895a6d4e6e12a" />
+	</machine>
+	<machine name="Jeopardy! #12 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #12 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #12 (2003)(Sony Pictures)[Multiscreen].mpn" size="58632" crc="7057c869" md5="78b5600d7a973f4b6e94569470490e2c" sha1="77b29c8a2408896150f018d3702f0c855cc538c5" />
+	</machine>
+	<machine name="Jeopardy! #2 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #2 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #2 (2003)(Sony Pictures)[Multiscreen].mpn" size="58548" crc="1fc0b063" md5="6e34d8c9e3ecfd94401bc033ec4ab357" sha1="f64d888e33ee091772a1c2162f61220b90802f0c" />
+	</machine>
+	<machine name="Jeopardy! #3 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #3 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #3 (2003)(Sony Pictures)[Multiscreen].mpn" size="58660" crc="588f6088" md5="c93b9f324bf27828b21f1f3eb57f1039" sha1="6ae7cd7679d2ea890ad0c5ded241bc0451494f1b" />
+	</machine>
+	<machine name="Jeopardy! #4 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #4 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #4 (2003)(Sony Pictures)[Multiscreen].mpn" size="58340" crc="8ca647a7" md5="fba8a7fb2376bb4fa971e81ec834d959" sha1="576fb146b0512076cb00f237cf4daa6bd4cfa0de" />
+	</machine>
+	<machine name="Jeopardy! #5 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #5 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #5 (2003)(Sony Pictures)[Multiscreen].mpn" size="59120" crc="874a4b77" md5="5bf11fe5dc7faac868711368bf568862" sha1="b9803105834cbaf527e4bce5091f5b51c46ea640" />
+	</machine>
+	<machine name="Jeopardy! #6 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #6 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #6 (2003)(Sony Pictures)[Multiscreen].mpn" size="59172" crc="1fd4d2d5" md5="d9b94369af448b4595a11069e400ed6c" sha1="503530749265fe3e13b8bc5c4e4d6d25969385d8" />
+	</machine>
+	<machine name="Jeopardy! #7 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #7 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #7 (2003)(Sony Pictures)[Multiscreen].mpn" size="58864" crc="90d0c8de" md5="b8ba7ac828b0dd9d8ce2371f73167477" sha1="bc56071e9f47c4bb67506432754b660e798d4f06" />
+	</machine>
+	<machine name="Jeopardy! #8 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #8 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #8 (2003)(Sony Pictures)[Multiscreen].mpn" size="59612" crc="d9ac6318" md5="fd48eb019b6fd9abb147f968a2a440e6" sha1="d83d8be0fa315690f8ab15234e5be08b41b3c8a4" />
+	</machine>
+	<machine name="Jeopardy! #9 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Jeopardy! #9 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Jeopardy! #9 (2003)(Sony Pictures)[Multiscreen].mpn" size="58892" crc="b255f82a" md5="d97a187190431c1ca13373935b83b43f" sha1="abf7b1f39eccc15fe814d23be555495630f06f91" />
+	</machine>
+	<machine name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[128x160][Expired][Phone#]">
+		<description>Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[128x160][Expired][Phone#]</description>
+		<rom name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[128x160][Expired][Phone#].mpn" size="81160" crc="11af0ddd" md5="a2ae015c9994040bc33da911313a7246" sha1="debd82f61e9cc9d733d4487596f54cac1f044173" />
+	</machine>
+	<machine name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[128x160][Phone#]">
+		<description>Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[128x160][Phone#]</description>
+		<rom name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[128x160][Phone#].mpn" size="81160" crc="a1c91106" md5="8ed560b771a5d64b69b1e2cdb574b657" sha1="5826af376ec97064c000068081d09cd3db186ba5" />
+	</machine>
+	<machine name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[cr][128x160][Phone#]">
+		<description>Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[cr][128x160][Phone#]</description>
+		<rom name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[cr][128x160][Phone#].mpn" size="81160" crc="a2432a05" md5="0a5ae627e31ad01c8e1b8f5ebc13d300" sha1="4fd2f9efb6e3086dda1bb43e6ebaa7371a9c25c1" />
+	</machine>
+	<machine name="Karaophun! (demo) v2.20 (2003)(Vini, Vidi, Vinci)[128x160]">
+		<description>Karaophun! (demo) v2.20 (2003)(Vini, Vidi, Vinci)[128x160]</description>
+		<rom name="Karaophun! (demo) v2.20 (2003)(Vini, Vidi, Vinci)[128x160].mpn" size="84892" crc="c16d19aa" md5="cbaba709bf6329016ee2a80a6c655a31" sha1="c83abc2137125c70435c6c9900e5587fdd212dea" />
+	</machine>
+	<machine name="Karaophun! v2.20 (2003)(Vini, Vidi, Vinci)[128x160][Expired][Phone#]">
+		<description>Karaophun! v2.20 (2003)(Vini, Vidi, Vinci)[128x160][Expired][Phone#]</description>
+		<rom name="Karaophun! v2.20 (2003)(Vini, Vidi, Vinci)[128x160][Expired][Phone#].mpn" size="84892" crc="ede8c54c" md5="22b3dd87402b602f9e02f359ab0ea461" sha1="f2e1cb17a0048394887ef85165eb5e3418c2c6ba" />
+	</machine>
+	<machine name="Karaophun! v2.20 (2003)(Vini, Vidi, Vinci)[cr][128x160][Phone#]">
+		<description>Karaophun! v2.20 (2003)(Vini, Vidi, Vinci)[cr][128x160][Phone#]</description>
+		<rom name="Karaophun! v2.20 (2003)(Vini, Vidi, Vinci)[cr][128x160][Phone#].mpn" size="84892" crc="5f2a585b" md5="3835a376fa3c8935af173b8ad8d97af7" sha1="38ebc8546e4fc9729f80b27b742ba6e1963a7af8" />
+	</machine>
+	<machine name="Karaophun! v2.21 (2003)(Vini, Vidi, Vinci)[101x80][Expired][Phone#]">
+		<description>Karaophun! v2.21 (2003)(Vini, Vidi, Vinci)[101x80][Expired][Phone#]</description>
+		<rom name="Karaophun! v2.21 (2003)(Vini, Vidi, Vinci)[101x80][Expired][Phone#].mpn" size="59672" crc="246b7b5f" md5="54202ec7c698cd3be45724e938ef9b02" sha1="d96522fb8069aa7aa0bc38018961643215e47d57" />
+	</machine>
+	<machine name="Karaophun! v2.21 (2003)(Vini, Vidi, Vinci)[cr][101x80][Phone#]">
+		<description>Karaophun! v2.21 (2003)(Vini, Vidi, Vinci)[cr][101x80][Phone#]</description>
+		<rom name="Karaophun! v2.21 (2003)(Vini, Vidi, Vinci)[cr][101x80][Phone#].mpn" size="59672" crc="ae14a703" md5="dd8ade0f594fe3892464f843e7cd19de" sha1="533b6512f692f216ec9d7c12fddc64c97ba1cbed" />
+	</machine>
+	<machine name="Karnak v1.00 (2003)(Apeiron)[128x160]">
+		<description>Karnak v1.00 (2003)(Apeiron)[128x160]</description>
+		<rom name="Karnak v1.00 (2003)(Apeiron)[128x160].mpn" size="116220" crc="75f637e6" md5="5f72259b0ce6c81f04b1860090862eab" sha1="6034d72b4a6d40b33c9fe75324f152c63a45b367" />
+	</machine>
+	<machine name="Karnak v1.06 (2002)(Apeiron)[101x80]">
+		<description>Karnak v1.06 (2002)(Apeiron)[101x80]</description>
+		<rom name="Karnak v1.06 (2002)(Apeiron)[101x80].mpn" size="106696" crc="8e24f6b4" md5="76c94dca3a59056a2da60be039c6dcc2" sha1="99401804930e704f5e74c40f7e3b46a253b5efc6" />
+	</machine>
+	<machine name="Keep Ups v1.0 (2004)(Oldwest Innovations)[Multiscreen]">
+		<description>Keep Ups v1.0 (2004)(Oldwest Innovations)[Multiscreen]</description>
+		<rom name="Keep Ups v1.0 (2004)(Oldwest Innovations)[Multiscreen].mpn" size="60472" crc="1e2694cf" md5="bebae2ec4371c05a92e99fec977a575e" sha1="9de99ef44ff0281c8bd88041434527ba6267dd38" />
+	</machine>
+	<machine name="Klaps v1.0 (2003)(V_D_V)[101x80]">
+		<description>Klaps v1.0 (2003)(V_D_V)[101x80]</description>
+		<rom name="Klaps v1.0 (2003)(V_D_V)[101x80].mpn" size="22040" crc="80596588" md5="c8dad60035c1861704098a0d67e6826e" sha1="8fa7f9e799aa3ffc8ea14044bb921783dca8d998" />
+	</machine>
+	<machine name="Klondike v1.1 (2003)(Mirandow)[Multiscreen]">
+		<description>Klondike v1.1 (2003)(Mirandow)[Multiscreen]</description>
+		<rom name="Klondike v1.1 (2003)(Mirandow)[Multiscreen].mpn" size="58892" crc="20eafb70" md5="2775fb3311d1e5e460f2497429e3fa13" sha1="94b81f65257fcfced9bebf9452d21a030bbe9bd4" />
+	</machine>
+	<machine name="Kool Pool v1.0A (2003)(Lemon Team)[128x160]">
+		<description>Kool Pool v1.0A (2003)(Lemon Team)[128x160]</description>
+		<rom name="Kool Pool v1.0A (2003)(Lemon Team)[128x160].mpn" size="60760" crc="880b6f2c" md5="0b3cc1efb4ef33236f0cf23f46ac8bfb" sha1="9fa7b2435f22793d18aba77aeacb302d1d0e761b" />
+	</machine>
+	<machine name="KSPS v5.2 (2003)(JAMDAT)[128x160][Expired][Phone#]">
+		<description>KSPS v5.2 (2003)(JAMDAT)[128x160][Expired][Phone#]</description>
+		<rom name="KSPS v5.2 (2003)(JAMDAT)[128x160][Expired][Phone#].mpn" size="119504" crc="0900c258" md5="4c4726c80e2d9b31ab66ccf44c87f1ea" sha1="20a75e589c72da3aacc43258fff37257936b628d" />
+	</machine>
+	<machine name="KSPS v5.2 (2003)(JAMDAT)[128x160][Phone#]">
+		<description>KSPS v5.2 (2003)(JAMDAT)[128x160][Phone#]</description>
+		<rom name="KSPS v5.2 (2003)(JAMDAT)[128x160][Phone#].mpn" size="119504" crc="941ebf86" md5="4d1bd964d800d3ec6f36eda32d9eefa9" sha1="5ed50d0abf3a3a8ec36e642ef423c94139468aa9" />
+	</machine>
+	<machine name="KSPS v5.2 (2003)(JAMDAT)[cr][128x160][Phone#]">
+		<description>KSPS v5.2 (2003)(JAMDAT)[cr][128x160][Phone#]</description>
+		<rom name="KSPS v5.2 (2003)(JAMDAT)[cr][128x160][Phone#].mpn" size="119504" crc="6d9da124" md5="18b9ab5bd344055117d17eabcc740ab9" sha1="1f34856553578b3b945008ab5f03098f52fbc182" />
+	</machine>
+	<machine name="Laser Maze v1.0.01 (2004)()[128x160]">
+		<description>Laser Maze v1.0.01 (2004)()[128x160]</description>
+		<rom name="Laser Maze v1.0.01 (2004)()[128x160].mpn" size="41800" crc="8f375885" md5="24cd0ba2258165a9adecf048b4176d3e" sha1="f8c991cf85c0aef341f69d7329a35f4da1c9df0b" />
+	</machine>
+	<machine name="Lavirinthos T610 v1.2 (2003)(Peck, Paul)[128x160]">
+		<description>Lavirinthos T610 v1.2 (2003)(Peck, Paul)[128x160]</description>
+		<rom name="Lavirinthos T610 v1.2 (2003)(Peck, Paul)[128x160].mpn" size="73908" crc="5968a027" md5="3315f79b034788a9e1c38a6674427752" sha1="2b8c00b3e09841c90ff1797264a1f413448c6283" />
+	</machine>
+	<machine name="Lavirinthos v1.1 (2003)(Peck, Paul)[101x80]">
+		<description>Lavirinthos v1.1 (2003)(Peck, Paul)[101x80]</description>
+		<rom name="Lavirinthos v1.1 (2003)(Peck, Paul)[101x80].mpn" size="57960" crc="119d85d5" md5="e16c3989c73b5e9a046f48e00678aab4" sha1="f8f7c683835eb15c5cc26f0a6cb3f3adcbebf78d" />
+	</machine>
+	<machine name="Lemtris v1.0 (20xx)(Stressed Factory)[128x160]">
+		<description>Lemtris v1.0 (20xx)(Stressed Factory)[128x160]</description>
+		<rom name="Lemtris v1.0 (20xx)(Stressed Factory)[128x160].mpn" size="84440" crc="ebeaec3c" md5="e481d8fab3113bb4c05150a282f93548" sha1="d75fdd84360d2e6ff01cf4957b5da701a417cf0f" />
+	</machine>
+	<machine name="Lines v1.0 (2004)(Yanin, Ivan)[Multiscreen]">
+		<description>Lines v1.0 (2004)(Yanin, Ivan)[Multiscreen]</description>
+		<rom name="Lines v1.0 (2004)(Yanin, Ivan)[Multiscreen].mpn" size="33200" crc="6a6e9cdb" md5="3e050ae5f06c1df7619400ded2f09571" sha1="c10be08b84fec718f899681be940dd0ef21a58e4" />
+	</machine>
+	<machine name="Lisa v1.0 (2003)(Maroon games)[cr][Multiscreen][Phone#]">
+		<description>Lisa v1.0 (2003)(Maroon games)[cr][Multiscreen][Phone#]</description>
+		<rom name="Lisa v1.0 (2003)(Maroon games)[cr][Multiscreen][Phone#].mpn" size="60068" crc="0bb50691" md5="33658f38fc7c1445a0eac3370e6d4283" sha1="def172202a33bc236be56d7ce50f63b6f2495d16" />
+	</machine>
+	<machine name="Lisa v1.0 (2003)(Maroon games)[Multiscreen][Expired][Phone#]">
+		<description>Lisa v1.0 (2003)(Maroon games)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Lisa v1.0 (2003)(Maroon games)[Multiscreen][Expired][Phone#].mpn" size="60068" crc="c88b0008" md5="915945e665749ef876b379cf4299a7ca" sha1="d6e09ed34d9d6acd2d659c4fa65ab234fd692899" />
+	</machine>
+	<machine name="Little Indians v1.2 (20xx)(MediTech Interactive)[cr][Multiscreen][Phone#]">
+		<description>Little Indians v1.2 (20xx)(MediTech Interactive)[cr][Multiscreen][Phone#]</description>
+		<rom name="Little Indians v1.2 (20xx)(MediTech Interactive)[cr][Multiscreen][Phone#].mpn" size="98068" crc="b73b95ba" md5="d5a0fab016490aa47be14dbcfacce5e0" sha1="08c48c34cc16487b7dd216ddded6780ddd44b75f" />
+	</machine>
+	<machine name="Little Indians v1.2 (20xx)(MediTech Interactive)[Multiscreen][Expired][Phone#]">
+		<description>Little Indians v1.2 (20xx)(MediTech Interactive)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Little Indians v1.2 (20xx)(MediTech Interactive)[Multiscreen][Expired][Phone#].mpn" size="98068" crc="d061cd6d" md5="974ab1aa9c540aea5e57079f83bbd95e" sha1="112980e253e3df1e6f71fc9f06eb204cb8096dbd" />
+	</machine>
+	<machine name="Lost In The Forest v1.00 (2004)(FUCAPI)[128x160]">
+		<description>Lost In The Forest v1.00 (2004)(FUCAPI)[128x160]</description>
+		<rom name="Lost In The Forest v1.00 (2004)(FUCAPI)[128x160].mpn" size="115612" crc="ae195d44" md5="16e399a7eaf3630a8dec1e602eb0c01f" sha1="0f1eccbb3ff7c5b6cb3be3c07dc37e9a1a87b292" />
+	</machine>
+	<machine name="Love From Above (2003)(Max Artists)[101x80]">
+		<description>Love From Above (2003)(Max Artists)[101x80]</description>
+		<rom name="Love From Above (2003)(Max Artists)[101x80].mpn" size="62892" crc="6f5d44ca" md5="847055f279cddac33a8f566e27699149" sha1="a7c283141870b016ffda5bee6db1fce21e4d3606" />
+	</machine>
+	<machine name="Love From Above (2003)(Max Artists)[128x160]">
+		<description>Love From Above (2003)(Max Artists)[128x160]</description>
+		<rom name="Love From Above (2003)(Max Artists)[128x160].mpn" size="71872" crc="540a9c41" md5="4e980ee1eae5ae1f8fd4ffe11ca0705a" sha1="a768c6a8fccffa57704f854a185fa315ca566a8b" />
+	</machine>
+	<machine name="Magic Puz v1.2 (2004)(Magic Productions)[128x160]">
+		<description>Magic Puz v1.2 (2004)(Magic Productions)[128x160]</description>
+		<rom name="Magic Puz v1.2 (2004)(Magic Productions)[128x160].mpn" size="81912" crc="e25172d5" md5="78bb4f269f0c7b56d6da6a2a2f49f9cc" sha1="4e598958d2f01271850f6e8e1956ca054f3ea2ca" />
+	</machine>
+	<machine name="Mahjongg MINI v1.1 (2004)(Alunze)[128x160]">
+		<description>Mahjongg MINI v1.1 (2004)(Alunze)[128x160]</description>
+		<rom name="Mahjongg MINI v1.1 (2004)(Alunze)[128x160].mpn" size="72176" crc="9c11bddb" md5="11c77bb014d12bd88dd4ee7da3eb4326" sha1="d142aaf062f96cfbafc9e0f514de58501a3b91c6" />
+	</machine>
+	<machine name="Micro War v1.0 (2004)(_Mis Studio)[Multiscreen]">
+		<description>Micro War v1.0 (2004)(_Mis Studio)[Multiscreen]</description>
+		<rom name="Micro War v1.0 (2004)(_Mis Studio)[Multiscreen].mpn" size="122196" crc="a127cccf" md5="9bf8baf8c90b289cae5d3e3fe8d14567" sha1="2b6f47b84fd1f6fc952d8dcc1458b9c6662ef12a" />
+	</machine>
+	<machine name="Micro War v1.1 (2004)(_Mis Studio)[Multiscreen]">
+		<description>Micro War v1.1 (2004)(_Mis Studio)[Multiscreen]</description>
+		<rom name="Micro War v1.1 (2004)(_Mis Studio)[Multiscreen].mpn" size="115924" crc="e976e610" md5="b04b251f494b31bde839a0f6854dd6b8" sha1="afbf0d0b8306b102feacca8d5c2585f9186752fb" />
+	</machine>
+	<machine name="Minigolf v1.04 (2002)(Sony Ericsson)[101x80]">
+		<description>Minigolf v1.04 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Minigolf v1.04 (2002)(Sony Ericsson)[101x80].mpn" size="56056" crc="ec2c2825" md5="048adae65ad836a82a7888147840b331" sha1="1187a9c18062f7d8928eb5f20d3923edb95c4cdc" />
+	</machine>
+	<machine name="Minigolf v2.4 (2002)(Sony Ericsson)[128x160]">
+		<description>Minigolf v2.4 (2002)(Sony Ericsson)[128x160]</description>
+		<rom name="language" size="7786" crc="f53a0633" md5="f53a13df26037dbfd6e945426993abde" sha1="3f0bbfa9ccda43f5e9f2d5b9f0b0cfb6836b94ff" />
+		<rom name="Minigolf v2.4 (2002)(Sony Ericsson)[128x160].mpn" size="60396" crc="a1b68b3d" md5="656ec3581be99efa7676e53f32482e8f" sha1="714834794e471c49872c8dfa414f17555209cc13" />
+	</machine>
+	<machine name="MoDarts v2.15 (20xx)()[101x80]">
+		<description>MoDarts v2.15 (20xx)()[101x80]</description>
+		<rom name="MoDarts v2.15 (20xx)()[101x80].mpn" size="32980" crc="aca8707f" md5="c35f1ea264eae37e6eb6076c72b73aa1" sha1="90b233c5f06a9deb7e18981dd15ffc0d37c919ad" />
+	</machine>
+	<machine name="Monkey Business v1.2 (2003)(Ellams Software)[101x80]">
+		<description>Monkey Business v1.2 (2003)(Ellams Software)[101x80]</description>
+		<rom name="Monkey Business v1.2 (2003)(Ellams Software)[101x80].mpn" size="51332" crc="b30038f2" md5="1e98ddd00b5b9a89953bf7495875fe15" sha1="2593981b68a62506f6d2bb2c731bfd14ecddcee2" />
+	</machine>
+	<machine name="Monkey Business v1.2 (demo) (2003)(Ellams Software)[101x80]">
+		<description>Monkey Business v1.2 (demo) (2003)(Ellams Software)[101x80]</description>
+		<rom name="Monkey Business v1.2 (demo) (2003)(Ellams Software)[101x80].mpn" size="51332" crc="fecb5442" md5="fab28d8e5d9e197a2675be4341e68a76" sha1="03819243d0e8658fe32d8c83ff92c8b2281c1f31" />
+	</machine>
+	<machine name="Mooktown Tennis 04 v1.0 (2004)(Mooktown Games)[128x160]">
+		<description>Mooktown Tennis 04 v1.0 (2004)(Mooktown Games)[128x160]</description>
+		<rom name="Mooktown Tennis 04 v1.0 (2004)(Mooktown Games)[128x160].mpn" size="119444" crc="ceb96d5f" md5="afaa62e47c449d434c784ad5be3388ee" sha1="5a027f4c74d2394fd3df99d42e8e6951d4f02e2d" />
+	</machine>
+	<machine name="Mooktown Tennis v3.0 (2005)(Mooktown Games)[128x160]">
+		<description>Mooktown Tennis v3.0 (2005)(Mooktown Games)[128x160]</description>
+		<rom name="Mooktown Tennis v3.0 (2005)(Mooktown Games)[128x160].mpn" size="127432" crc="66e9a4ff" md5="7fd29b267251401347c5dcebc9de2416" sha1="111e1b7e07ae6c2e78a598995a96d3d7febd02a1" />
+	</machine>
+	<machine name="Mophjong Solitaire v1.0 (2003)(Digital Fluff)[Multiscreen]">
+		<description>Mophjong Solitaire v1.0 (2003)(Digital Fluff)[Multiscreen]</description>
+		<rom name="Mophjong Solitaire v1.0 (2003)(Digital Fluff)[Multiscreen].mpn" size="58488" crc="3311434d" md5="cc17d6798cb486aac85870493e818457" sha1="182e936a7e7dfe90589f4ce8bf99e87f749c3873" />
+	</machine>
+	<machine name="MOTORCYCLING EXTREME v1.0 (2003)(Stokowski, Daniel &amp; Pietruszka, Tomek)[101x80]">
+		<description>MOTORCYCLING EXTREME v1.0 (2003)(Stokowski, Daniel &amp; Pietruszka, Tomek)[101x80]</description>
+		<rom name="MOTORCYCLING EXTREME v1.0 (2003)(Stokowski, Daniel &amp; Pietruszka, Tomek)[101x80].mpn" size="59772" crc="2963e378" md5="a3c1c4ba95c8746b076a90ae2b9c5a3f" sha1="33b94cd57e7ae769d40354b51d07dd974d4190af" />
+	</machine>
+	<machine name="My Karaoke Xmas 1 (2003)(PT Informasi)[101x80]">
+		<description>My Karaoke Xmas 1 (2003)(PT Informasi)[101x80]</description>
+		<rom name="My Karaoke Xmas 1 (2003)(PT Informasi)[101x80].mpn" size="49336" crc="10843c9a" md5="2bacab0285e75a5ede2900173193f60a" sha1="96afd1fa4cb45c41d0023974c70a29e7c75fac25" />
+	</machine>
+	<machine name="My Karaoke Xmas 1 (2003)(PT Informasi)[128x160]">
+		<description>My Karaoke Xmas 1 (2003)(PT Informasi)[128x160]</description>
+		<rom name="My Karaoke Xmas 1 (2003)(PT Informasi)[128x160].mpn" size="52792" crc="544b1dd7" md5="1a89fe2baf99e98ea589e0ea5398c23f" sha1="0f35bb73bdca0675494d1404e75cbe3604eb59a7" />
+	</machine>
+	<machine name="No Refuge v1.12 (2003)(Mobile Interaction)">
+		<description>No Refuge v1.12 (2003)(Mobile Interaction)</description>
+		<rom name="No Refuge v1.12 (2003)(Mobile Interaction).mpn" size="59988" crc="f552c3f7" md5="3e22127971c87c7d037636e18ae37745" sha1="a580d32e159be8967013fd5b39e29edf87c60704" />
+	</machine>
+	<machine name="No Refuge v1.12 (2003)(Mobile Interaction)[cr][Multiscreen]">
+		<description>No Refuge v1.12 (2003)(Mobile Interaction)[cr][Multiscreen]</description>
+		<rom name="No Refuge v1.12 (2003)(Mobile Interaction)[cr][Multiscreen].mpn" size="59988" crc="c00aad44" md5="109d0e4b5aeaad5edfbb5289cfd26313" sha1="091f3b4e8ae2bb5497463d89ae292b60c8a21228" />
+	</machine>
+	<machine name="No Refuge v1.12 (2003)(Mobile Interaction)[Multiscreen][Expired]">
+		<description>No Refuge v1.12 (2003)(Mobile Interaction)[Multiscreen][Expired]</description>
+		<rom name="No Refuge v1.12 (2003)(Mobile Interaction)[Multiscreen][Expired].mpn" size="59988" crc="9780361f" md5="2099cd46dd6573d79d7da4aea7478f72" sha1="bcd651bff80483d12931382589d8baeea270ba63" />
+	</machine>
+	<machine name="No Refuge v1.13 (2003)(Mobile Interaction)">
+		<description>No Refuge v1.13 (2003)(Mobile Interaction)</description>
+		<rom name="No Refuge v1.13 (2003)(Mobile Interaction).mpn" size="59888" crc="f61b6a2e" md5="a6c4398bd338630ac5699f4e1560b1d3" sha1="0bc241dead87351c8aba4f96c95336580c8aac24" />
+	</machine>
+	<machine name="Noid v1.0 (2004)(Belmonte, Francisco Santos)[128x160]">
+		<description>Noid v1.0 (2004)(Belmonte, Francisco Santos)[128x160]</description>
+		<rom name="Noid v1.0 (2004)(Belmonte, Francisco Santos)[128x160].mpn" size="59744" crc="eadb5ccf" md5="4f8d220d74d6ee7a37abd0454627ea86" sha1="7e554c221fc013cc98607678f78ccea11ebf3773" />
+	</machine>
+	<machine name="Nostalgia Ball v1.1 (2003)(V_D_V)[101x80]">
+		<description>Nostalgia Ball v1.1 (2003)(V_D_V)[101x80]</description>
+		<rom name="Nostalgia Ball v1.1 (2003)(V_D_V)[101x80].mpn" size="33372" crc="e7525378" md5="01073de42e27cc9e54ed154e5ea54559" sha1="863615f3b7a09dfd8c9ec3841ded4c5c7a0971c1" />
+	</machine>
+	<machine name="Number Drop v1.0 (2003)(Spooky Tornado)[101x80]">
+		<description>Number Drop v1.0 (2003)(Spooky Tornado)[101x80]</description>
+		<rom name="Number Drop v1.0 (2003)(Spooky Tornado)[101x80].mpn" size="48336" crc="f0e8351d" md5="f2a961af22ecf53a6907bfb4bcae7f2b" sha1="84cdb66d184340779431a43f39d4f017eb834319" />
+	</machine>
+	<machine name="Number Drop v1.1 (2003)(Spooky Tornado)[128x160]">
+		<description>Number Drop v1.1 (2003)(Spooky Tornado)[128x160]</description>
+		<rom name="Number Drop v1.1 (2003)(Spooky Tornado)[128x160].mpn" size="53796" crc="03a3bebb" md5="6f2b34dcc67e07ac0b31c3c4fd1b2e4e" sha1="d8389cdf75bf1055d2da244094e6a26ee92c72f0" />
+	</machine>
+	<machine name="Operation v1.3 (2004)(Big Blue Bubble)[128x160]">
+		<description>Operation v1.3 (2004)(Big Blue Bubble)[128x160]</description>
+		<rom name="Operation v1.3 (2004)(Big Blue Bubble)[128x160].mpn" size="102908" crc="63d0efd5" md5="615cc8d8c036042f6928ba9618085d6c" sha1="2560bb35292747f997de808f77ab6e7df0f04474" />
+	</machine>
+	<machine name="Patience v1.2 (2003)(Mirandow)[Multiscreen]">
+		<description>Patience v1.2 (2003)(Mirandow)[Multiscreen]</description>
+		<rom name="Patience v1.2 (2003)(Mirandow)[Multiscreen].mpn" size="51824" crc="8e8a90bb" md5="0844005255ca3e597eea3eff88b864bc" sha1="783599938e5753e2422b2a5e8d92972140390b26" />
+	</machine>
+	<machine name="Patience v1.2 (demo) (2003)(Mirandow)[Multiscreen]">
+		<description>Patience v1.2 (demo) (2003)(Mirandow)[Multiscreen]</description>
+		<rom name="Patience v1.2 (demo) (2003)(Mirandow)[Multiscreen].mpn" size="53860" crc="3eb524bf" md5="907771fd2b13c80c7c29bd9de7c5e61d" sha1="91aac4cfde630d1d653b4132e8760f0543c130b3" />
+	</machine>
+	<machine name="Pegs! v1.0 (demo) (2003)(Demsky, Alexander)[Multiscreen]">
+		<description>Pegs! v1.0 (demo) (2003)(Demsky, Alexander)[Multiscreen]</description>
+		<rom name="Pegs! v1.0 (demo) (2003)(Demsky, Alexander)[Multiscreen].mpn" size="45932" crc="4ed420ce" md5="c35f04c831d34695a08dc1405796e36a" sha1="d1af7cf0985d3a3c287876b480c34a0f80a47bbe" />
+	</machine>
+	<machine name="Pet Fight v1.0 (2003)(Psycho World)[Multiscreen]">
+		<description>Pet Fight v1.0 (2003)(Psycho World)[Multiscreen]</description>
+		<rom name="Pet Fight v1.0 (2003)(Psycho World)[Multiscreen].mpn" size="111476" crc="72933b6e" md5="946acb6c1cb2b8de6c6e958c069253ae" sha1="6ba21f2e46f29f942e89e706d4e7c22bad4fe7fd" />
+	</machine>
+	<machine name="Pexoso v1.0 (2003)(Yanin, Ivan)[101x80]">
+		<description>Pexoso v1.0 (2003)(Yanin, Ivan)[101x80]</description>
+		<rom name="Pexoso v1.0 (2003)(Yanin, Ivan)[101x80].mpn" size="30760" crc="75f942a6" md5="377c19f9e3c6ec28e20a8e6e475ab335" sha1="cf6f03d0932f00a6095ae085e07a7e915eff1cf4" />
+	</machine>
+	<machine name="Phun Marbles v1.0 (2003)(Fulkod)[Multiscreen]">
+		<description>Phun Marbles v1.0 (2003)(Fulkod)[Multiscreen]</description>
+		<rom name="Phun Marbles v1.0 (2003)(Fulkod)[Multiscreen].mpn" size="37404" crc="721823e5" md5="c6c478a54942f125e1992f325d637095" sha1="7227e5536b161c2a128a7a5406883ae47e5b7346" />
+	</machine>
+	<machine name="Pipes'n'Robots v1.0 (2004)(crazygaze)[101x80]">
+		<description>Pipes'n'Robots v1.0 (2004)(crazygaze)[101x80]</description>
+		<rom name="Pipes'n'Robots v1.0 (2004)(crazygaze)[101x80].mpn" size="59624" crc="b8d63e86" md5="096244e06bdfb68b257e84eacffa05af" sha1="2b408ead1f9fd91f350fcdcdf6e2fd44214af215" />
+	</machine>
+	<machine name="Pocket Tennis v1.0 (20xx)(Isler, Ramsey)[101x80]">
+		<description>Pocket Tennis v1.0 (20xx)(Isler, Ramsey)[101x80]</description>
+		<rom name="Pocket Tennis v1.0 (20xx)(Isler, Ramsey)[101x80].mpn" size="59232" crc="19c660b7" md5="62d0e8f08fe99b2092cc2bfcfbeff17e" sha1="fc2ab0dc913b0fb2237736991ccd9a4b6f9aee31" />
+	</machine>
+	<machine name="Poker Showdown (2003)(Binary Graffitti)[128x160][Expired][Phone#]">
+		<description>Poker Showdown (2003)(Binary Graffitti)[128x160][Expired][Phone#]</description>
+		<rom name="Poker Showdown (2003)(Binary Graffitti)[128x160][Expired][Phone#].mpn" size="85292" crc="9b32da15" md5="183516892edc3a732ca58170a16fa231" sha1="6f0a5d1e765fbeda0f302810e658f5ca5103492c" />
+	</machine>
+	<machine name="Poker Showdown (2003)(Binary Graffitti)[cr][128x160][Phone#]">
+		<description>Poker Showdown (2003)(Binary Graffitti)[cr][128x160][Phone#]</description>
+		<rom name="Poker Showdown (2003)(Binary Graffitti)[cr][128x160][Phone#].mpn" size="85292" crc="882cc9f3" md5="71b313919af5a07d935518394d1f055d" sha1="aedcf652d5c5e99d8f9c308913e9d615f93150c3" />
+	</machine>
+	<machine name="Poker Showdown v1.0 (2003)(Binary Graffitti)[101x80]">
+		<description>Poker Showdown v1.0 (2003)(Binary Graffitti)[101x80]</description>
+		<rom name="Poker Showdown v1.0 (2003)(Binary Graffitti)[101x80].mpn" size="62804" crc="8137ee77" md5="9cbd3512af2fc58daa839485b123f21b" sha1="649bd9f690eb2756510ac4310411ca74766ace44" />
+	</machine>
+	<machine name="Poker Showdown v1.0 (2003)(Binary Graffitti)[128x160][Phone#]">
+		<description>Poker Showdown v1.0 (2003)(Binary Graffitti)[128x160][Phone#]</description>
+		<rom name="Poker Showdown v1.0 (2003)(Binary Graffitti)[128x160][Phone#].mpn" size="85292" crc="f2a7a33a" md5="9fcaa6db41bdfbc02a3b9a72b8f54c7a" sha1="fc291e3b9ebf9a4407acfa06e90c19b62220dab9" />
+	</machine>
+	<machine name="PokerDice v1.0 (2004)(Synergenix Interactive)[128x160]">
+		<description>PokerDice v1.0 (2004)(Synergenix Interactive)[128x160]</description>
+		<rom name="PokerDice v1.0 (2004)(Synergenix Interactive)[128x160].mpn" size="66172" crc="3c0e3a07" md5="3ce001141e1d138e5afe69d56189b096" sha1="551c0d858fbc976742b8f5a0ff59cadbdab79328" />
+	</machine>
+	<machine name="PoP-A-HooP v1.0 (2003)(TC Cons)[101x80]">
+		<description>PoP-A-HooP v1.0 (2003)(TC Cons)[101x80]</description>
+		<rom name="PoP-A-HooP v1.0 (2003)(TC Cons)[101x80].mpn" size="26092" crc="8f0e7da7" md5="530c8c5ee3b597d8cb0b04ad6079d6f3" sha1="7452ac690a0045968cea58210c29023f6775ea66" />
+	</machine>
+	<machine name="Popeye v1.2 (2004)(Big Blue Bubble)[128x160]">
+		<description>Popeye v1.2 (2004)(Big Blue Bubble)[128x160]</description>
+		<rom name="Popeye v1.2 (2004)(Big Blue Bubble)[128x160].mpn" size="81748" crc="133262e8" md5="72c5ca951a9992972263d1e8e7a58a4b" sha1="d4fe981cbc5fc7737e4416830652cccf0bb38009" />
+	</machine>
+	<machine name="Prehistorik Man v1.1 (20xx)(Eye One)[101x80][Expired][Phone#]">
+		<description>Prehistorik Man v1.1 (20xx)(Eye One)[101x80][Expired][Phone#]</description>
+		<rom name="Prehistorik Man v1.1 (20xx)(Eye One)[101x80][Expired][Phone#].mpn" size="108564" crc="e39aa12a" md5="17d231bf59fb74264d44458fc759b4b6" sha1="5c5c870a44fbda8d95a313aec0b2f34066cf184e" />
+	</machine>
+	<machine name="Prehistorik Man v1.1 (20xx)(Eye One)[cr][101x80][Phone#]">
+		<description>Prehistorik Man v1.1 (20xx)(Eye One)[cr][101x80][Phone#]</description>
+		<rom name="Prehistorik Man v1.1 (20xx)(Eye One)[cr][101x80][Phone#].mpn" size="108564" crc="a81f5eb7" md5="48d0f5435975d7d462785f9d75e67045" sha1="9bb558a3efbecd04c0b68ec1caac62bf5ec42064" />
+	</machine>
+	<machine name="Puzzle Mania v1.00 (2003)(Synergenix Interactive)[101x80]">
+		<description>Puzzle Mania v1.00 (2003)(Synergenix Interactive)[101x80]</description>
+		<rom name="Puzzle Mania v1.00 (2003)(Synergenix Interactive)[101x80].mpn" size="33352" crc="95294049" md5="434449f7ab42f8862e26d77da95a7bca" sha1="5951837b311df31d186b9c4402f7c6fe84d2f644" />
+	</machine>
+	<machine name="Puzzle Slider v1.3 (2002)(Sony Ericsson)[101x80]">
+		<description>Puzzle Slider v1.3 (2002)(Sony Ericsson)[101x80]</description>
+		<rom name="Puzzle Slider v1.3 (2002)(Sony Ericsson)[101x80].mpn" size="12548" crc="112dad1a" md5="df8f0f4d318f42ad01dea331bee9b37b" sha1="4b7e72e00ec483b0dec447a5aebaa28b960630bb" />
+	</machine>
+	<machine name="Puzzle Slider v2.31 (2002)(Sony Ericsson)[128x160]">
+		<description>Puzzle Slider v2.31 (2002)(Sony Ericsson)[128x160]</description>
+		<rom name="language" size="5098" crc="4c757a10" md5="8b470d47608245201de3b2bd963e089d" sha1="985584204d225335dd08ee210df3db7adb8b2a99" />
+		<rom name="Puzzle Slider v2.31 (2002)(Sony Ericsson)[128x160].mpn" size="21436" crc="1fe1cfe3" md5="e58f3e565ec5d524afc2ec449b1dc792" sha1="fbc4435575bd69c2ad2b50a519f8e55661255a79" />
+	</machine>
+	<machine name="Q_bert v1.02 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Q_bert v1.02 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Q_bert v1.02 (2003)(Sony Pictures)[Multiscreen].mpn" size="49836" crc="d7e73604" md5="440e021ea1ee4615d5d0acc1aee7e4b1" sha1="0f3bd03bce78049886e4ab68da8001dd9af0bd08" />
+	</machine>
+	<machine name="QB Challenge v1.0 (20xx)(mProviso)[101x80]">
+		<description>QB Challenge v1.0 (20xx)(mProviso)[101x80]</description>
+		<rom name="QB Challenge v1.0 (20xx)(mProviso)[101x80].mpn" size="45092" crc="9b6cdfc1" md5="9f5e87490d8ed9a77d97418d95a06499" sha1="e40db80f0c1047cd47ee3d05ab2997dd888aa3ca" />
+	</machine>
+	<machine name="Qsoccer v1.00 (demo) (2002)(q u b e)[Multiscreen]">
+		<description>Qsoccer v1.00 (demo) (2002)(q u b e)[Multiscreen]</description>
+		<rom name="Qsoccer v1.00 (demo) (2002)(q u b e)[Multiscreen].mpn" size="93856" crc="44f8f4d7" md5="3acee111798d3b0eaeed411544c5f47e" sha1="d925368324c81c3f3c9ac862a43e29dbf43551c6" />
+	</machine>
+	<machine name="Qsoccer v1.03 (2002)(q u b e)[cr][Multiscreen][Phone#]">
+		<description>Qsoccer v1.03 (2002)(q u b e)[cr][Multiscreen][Phone#]</description>
+		<rom name="Qsoccer v1.03 (2002)(q u b e)[cr][Multiscreen][Phone#].mpn" size="58932" crc="bbc487e1" md5="9be6ec51f1a24e666cb1f10c40cbf1d9" sha1="9199d8d178b5c64f1e42b29e77873591f8d0ce5b" />
+	</machine>
+	<machine name="Qsoccer v1.03 (2002)(q u b e)[Multiscreen][Expired][Phone#]">
+		<description>Qsoccer v1.03 (2002)(q u b e)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Qsoccer v1.03 (2002)(q u b e)[Multiscreen][Expired][Phone#].mpn" size="58932" crc="aa674ace" md5="5f4af24900bd41ec4bce850a1a11f888" sha1="36bf60d52718a3a4de992bf2572be99314f15204" />
+	</machine>
+	<machine name="Qsoccer v1.03 (demo) (2002)(q u b e)[Multiscreen]">
+		<description>Qsoccer v1.03 (demo) (2002)(q u b e)[Multiscreen]</description>
+		<rom name="Qsoccer v1.03 (demo) (2002)(q u b e)[Multiscreen].mpn" size="58932" crc="fe0cf32d" md5="e2c59f2be7a9cc683c450efb73654249" sha1="fa7126bceec8236a499bcb4ac1af9c370940fe7c" />
+	</machine>
+	<machine name="Rally (2002)(Synergenix Interactive)[cr][Multiscreen][Phone#]">
+		<description>Rally (2002)(Synergenix Interactive)[cr][Multiscreen][Phone#]</description>
+		<rom name="Rally (2002)(Synergenix Interactive)[cr][Multiscreen][Phone#].mpn" size="59896" crc="0f262711" md5="a30a5601e0cd3a445c9be08754616418" sha1="f1b0bf88223daf6a089d906aa7a9f93dea8c604b" />
+	</machine>
+	<machine name="Rally (2002)(Synergenix Interactive)[Multiscreen][Expired][Phone#]">
+		<description>Rally (2002)(Synergenix Interactive)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Rally (2002)(Synergenix Interactive)[Multiscreen][Expired][Phone#].mpn" size="59896" crc="17cf0f06" md5="f141e8ac90d8654e983b9db54d24a489" sha1="5a451bc05f07fc2534f4791ca0164adcb8bec66d" />
+	</machine>
+	<machine name="Rally (demo) (2002)(Synergenix Interactive)[Multiscreen]">
+		<description>Rally (demo) (2002)(Synergenix Interactive)[Multiscreen]</description>
+		<rom name="Rally (demo) (2002)(Synergenix Interactive)[Multiscreen].mpn" size="59896" crc="8cba12be" md5="87979e035193d3500992cc759d01b72d" sha1="b62b1465f318764f424d7d2223171fb77399cacd" />
+	</machine>
+	<machine name="Rally Racers v1.0 (2003)(TC Cons)[101x80]">
+		<description>Rally Racers v1.0 (2003)(TC Cons)[101x80]</description>
+		<rom name="Rally Racers v1.0 (2003)(TC Cons)[101x80].mpn" size="77400" crc="71c069f1" md5="655261f449b09cc66b53debff44e2c48" sha1="c268b33b6c813d1cc11c1028acc9ed76fe7316bd" />
+	</machine>
+	<machine name="Reversi v1.3 (2003)(Rusek, Milan)[Multiscreen]">
+		<description>Reversi v1.3 (2003)(Rusek, Milan)[Multiscreen]</description>
+		<rom name="Reversi v1.3 (2003)(Rusek, Milan)[Multiscreen].mpn" size="39412" crc="bc9a0b78" md5="4944320afc3facfd3a00e4a373d870e1" sha1="11559df12c7eb04f33799987e3cc5549e311e74c" />
+	</machine>
+	<machine name="Revs! v1.0 (2003)()[Multiscreen][Phone#][IMEI]">
+		<description>Revs! v1.0 (2003)()[Multiscreen][Phone#][IMEI]</description>
+		<rom name="Revs! v1.0 (2003)()[Multiscreen][Phone#][IMEI].mpn" size="59688" crc="123127d1" md5="7ca0cd74a748dbfa404c9e3d753a6b95" sha1="387deb8dc6288b4c0d8f48dc54a22d3038ff31b1" />
+	</machine>
+	<machine name="Rotopuzzle (20xx)(AIM Productions)[Multiscreen]">
+		<description>Rotopuzzle (20xx)(AIM Productions)[Multiscreen]</description>
+		<rom name="Rotopuzzle (20xx)(AIM Productions)[Multiscreen].mpn" size="44184" crc="21ca8c60" md5="3c64a983bcb30bc071555694f265f294" sha1="8448ed12940ea8941c31a2830e23ac98ce6873b7" />
+	</machine>
+	<machine name="Roulette v1.3 (2004)(Mforma)[128x160]">
+		<description>Roulette v1.3 (2004)(Mforma)[128x160]</description>
+		<rom name="Roulette v1.3 (2004)(Mforma)[128x160].mpn" size="62124" crc="57d39f7a" md5="e0f52d2f7c8f4b7c136b972300c80156" sha1="99e58123cfd7b65ce5350f458b80d4e9beb3b5fc" />
+	</machine>
+	<machine name="RussPack v1.1 (2003)(World's Epsilon)[a][Multiscreen]">
+		<description>RussPack v1.1 (2003)(World's Epsilon)[a][Multiscreen]</description>
+		<rom name="RussPack v1.1 (2003)(World's Epsilon)[a][Multiscreen].mpn" size="59640" crc="da834f30" md5="552bcb6498cd84c76603a523a472b454" sha1="b7b1e2ceafc8dad986cb77a651c22f3b16c6063c" />
+	</machine>
+	<machine name="RussPack v1.1 (2003)(World's Epsilon)[cr][Multiscreen][Phone#]">
+		<description>RussPack v1.1 (2003)(World's Epsilon)[cr][Multiscreen][Phone#]</description>
+		<rom name="RussPack v1.1 (2003)(World's Epsilon)[cr][Multiscreen][Phone#].mpn" size="59640" crc="e15e0000" md5="1ab51af32c0ab31c771e0f3f943acf04" sha1="96c64bd186c104f2d3c5bbf01d4cedcbeb50ae77" />
+	</machine>
+	<machine name="RussPack v1.1 (2003)(World's Epsilon)[Multiscreen][Phone#]">
+		<description>RussPack v1.1 (2003)(World's Epsilon)[Multiscreen][Phone#]</description>
+		<rom name="RussPack v1.1 (2003)(World's Epsilon)[Multiscreen][Phone#].mpn" size="59640" crc="cf7f427b" md5="a3385c4d3ed5cd5c2248337ad9970821" sha1="829c948c917d711025c126b6f90511ec2ecd434c" />
+	</machine>
+	<machine name="S.A.A.F. v1.2 (2004)(Synergenix Interactive)[101x80]">
+		<description>S.A.A.F. v1.2 (2004)(Synergenix Interactive)[101x80]</description>
+		<rom name="S.A.A.F. v1.2 (2004)(Synergenix Interactive)[101x80].mpn" size="69576" crc="6dd3bb6d" md5="232f7087a3b6a20139d022e0f758ae6b" sha1="f93267f9fcfec879014c62fd9151942788368781" />
+	</machine>
+	<machine name="S.A.A.F. v1.2 (2004)(Synergenix Interactive)[128x160]">
+		<description>S.A.A.F. v1.2 (2004)(Synergenix Interactive)[128x160]</description>
+		<rom name="S.A.A.F. v1.2 (2004)(Synergenix Interactive)[128x160].mpn" size="106404" crc="c71c478f" md5="717bba4e33dc03739057f93e3e74ea01" sha1="faf1af81cf5eca0ea9c5264b1bb480dfb5a06c97" />
+	</machine>
+	<machine name="S.A.A.F. v1.2 (2004)(Synergenix Interactive)[a][128x160]">
+		<description>S.A.A.F. v1.2 (2004)(Synergenix Interactive)[a][128x160]</description>
+		<rom name="S.A.A.F. v1.2 (2004)(Synergenix Interactive)[a][128x160].mpn" size="105048" crc="24d638e1" md5="6284b95bbf314e1ca81465954849261b" sha1="7a0b682dd78dd06c78ddec6089d7bcbcf1a5de6a" />
+	</machine>
+	<machine name="Samurai's Adventure v1.0 (2004)(Pietruszka, Tomasz &amp; Ignasiak, Przemyslaw)[a][Multiscreen]">
+		<description>Samurai's Adventure v1.0 (2004)(Pietruszka, Tomasz &amp; Ignasiak, Przemyslaw)[a][Multiscreen]</description>
+		<rom name="Samurai's Adventure v1.0 (2004)(Pietruszka, Tomasz &amp; Ignasiak, Przemyslaw)[a][Multiscreen].mpn" size="58944" crc="436c0147" md5="13aa28044e0c01b58d4ef8ba88949723" sha1="d57d5c18accbba201ca421a243dae481c6f977a1" />
+	</machine>
+	<machine name="Samurai's Adventure v1.0 (2004)(Pietruszka, Tomasz &amp; Ignasiak, Przemyslaw)[Multiscreen]">
+		<description>Samurai's Adventure v1.0 (2004)(Pietruszka, Tomasz &amp; Ignasiak, Przemyslaw)[Multiscreen]</description>
+		<rom name="Samurai's Adventure v1.0 (2004)(Pietruszka, Tomasz &amp; Ignasiak, Przemyslaw)[Multiscreen].mpn" size="58944" crc="2ee9861e" md5="6b8de2352d45b5a44fdde12ed4ec63cf" sha1="2356b994ba5b9ac5eb5b021f6b8a68e2dca7244b" />
+	</machine>
+	<machine name="Santa Mania (20xx)()[101x80]">
+		<description>Santa Mania (20xx)()[101x80]</description>
+		<rom name="Santa Mania (20xx)()[101x80].mpn" size="59320" crc="4cd2e5f9" md5="e5f1e09a7a44eadefea219cb7434a9a2" sha1="be7008f13cae5a982ab5175d8a11ed258f8dbff3" />
+	</machine>
+	<machine name="Santa v1.1 (2003)(Ellams)[Multiscreen]">
+		<description>Santa v1.1 (2003)(Ellams)[Multiscreen]</description>
+		<rom name="Santa v1.1 (2003)(Ellams)[Multiscreen].mpn" size="58564" crc="3f9ff61c" md5="1641a760f5dc2286fb3ad1622b3155e9" sha1="8912409af3d0c89b62a8e9448070578eabed52a4" />
+	</machine>
+	<machine name="SCRAMBLY v1.0 (2004)(Bevilacqua, Simone)[Multiscreen]">
+		<description>SCRAMBLY v1.0 (2004)(Bevilacqua, Simone)[Multiscreen]</description>
+		<rom name="SCRAMBLY v1.0 (2004)(Bevilacqua, Simone)[Multiscreen].mpn" size="59860" crc="e323c476" md5="adedd4b232ddf5934f4263c4d16d8419" sha1="c150e8ac2d091e62e27087393e0fad890862cc8f" />
+	</machine>
+	<machine name="SCRAMBLY v1.0 (demo) (2004)(Bevilacqua, Simone)[Multiscreen]">
+		<description>SCRAMBLY v1.0 (demo) (2004)(Bevilacqua, Simone)[Multiscreen]</description>
+		<rom name="SCRAMBLY v1.0 (demo) (2004)(Bevilacqua, Simone)[Multiscreen].mpn" size="59860" crc="c6b2c0ff" md5="740494b3636c93b20edafb80b5e6da26" sha1="b296ef182c900802cc3fe875c2811fffab01db99" />
+	</machine>
+	<machine name="Sheep Mania v1.01 (demo) (2002)(Progressive Media)[101x80]">
+		<description>Sheep Mania v1.01 (demo) (2002)(Progressive Media)[101x80]</description>
+		<rom name="Sheep Mania v1.01 (demo) (2002)(Progressive Media)[101x80].mpn" size="41272" crc="e1d9cef6" md5="8802ce9043bb375708bc3e1eb013bdfa" sha1="31702ebdf096721f43676454b625285c767cc065" />
+	</machine>
+	<machine name="Sheep Mania v1.2 (2002)(Progressive Media)[128x160][Expired][Phone#]">
+		<description>Sheep Mania v1.2 (2002)(Progressive Media)[128x160][Expired][Phone#]</description>
+		<rom name="Sheep Mania v1.2 (2002)(Progressive Media)[128x160][Expired][Phone#].mpn" size="71024" crc="eb4a1cb1" md5="2bcd9c834533d1c5defd0ac16137588c" sha1="33eec3453f4e9242fc8c8d21a31e5b82a9abc3e9" />
+	</machine>
+	<machine name="Sheep Mania v1.2 (2002)(Progressive Media)[128x160][Phone#]">
+		<description>Sheep Mania v1.2 (2002)(Progressive Media)[128x160][Phone#]</description>
+		<rom name="Sheep Mania v1.2 (2002)(Progressive Media)[128x160][Phone#].mpn" size="71024" crc="50ff96ab" md5="020db51362c05c72021a1cb4fce67a4b" sha1="a65261c5705690eed6db7cb2d1ffc9287b8ac51e" />
+	</machine>
+	<machine name="Sheep Mania v1.2 (2002)(Progressive Media)[cr][128x160][Phone#]">
+		<description>Sheep Mania v1.2 (2002)(Progressive Media)[cr][128x160][Phone#]</description>
+		<rom name="Sheep Mania v1.2 (2002)(Progressive Media)[cr][128x160][Phone#].mpn" size="71024" crc="dcc7ed4d" md5="2f1c4d5fb3fddd268a3e42ad8959079c" sha1="949121d9c6b13c168630c6300618f11bec24c139" />
+	</machine>
+	<machine name="Sheep Mania v1.3 (2002)(Progressive Media)[101x80]">
+		<description>Sheep Mania v1.3 (2002)(Progressive Media)[101x80]</description>
+		<rom name="Sheep Mania v1.3 (2002)(Progressive Media)[101x80].mpn" size="42548" crc="00deb68a" md5="34e7e75c8a39b8a7020b1de8772f9acc" sha1="6720dce0023423e9af3696499f670b8f80d732bd" />
+	</machine>
+	<machine name="Shooting Star v1.3 (2003)(Mirandow)[cr][Multiscreen][Phone#]">
+		<description>Shooting Star v1.3 (2003)(Mirandow)[cr][Multiscreen][Phone#]</description>
+		<rom name="Shooting Star v1.3 (2003)(Mirandow)[cr][Multiscreen][Phone#].mpn" size="51916" crc="ec36b383" md5="25e8b5edd0cd8d95ac997a79c4ee18ae" sha1="41e7969dae8c158f1a07a4384ab05b82d4134aea" />
+	</machine>
+	<machine name="Shooting Star v1.3 (2003)(Mirandow)[Multiscreen]">
+		<description>Shooting Star v1.3 (2003)(Mirandow)[Multiscreen]</description>
+		<rom name="Shooting Star v1.3 (2003)(Mirandow)[Multiscreen].mpn" size="51916" crc="2be7156f" md5="aa10200348188478f722cfe10898cdee" sha1="096c5bbeb7d4b567272e94704db7bcba1fd76780" />
+	</machine>
+	<machine name="Shooting Star v1.3 (2003)(Mirandow)[Multiscreen][Expired][Phone#]">
+		<description>Shooting Star v1.3 (2003)(Mirandow)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Shooting Star v1.3 (2003)(Mirandow)[Multiscreen][Expired][Phone#].mpn" size="51916" crc="5445d1ee" md5="f3afda79d5cfb52abbb972cd27259aa2" sha1="1e04ca771778fb2a5d9266822c23f702d14c25c3" />
+	</machine>
+	<machine name="Snakebite v1.0 (2003)(mProductions)[128x160]">
+		<description>Snakebite v1.0 (2003)(mProductions)[128x160]</description>
+		<rom name="Snakebite v1.0 (2003)(mProductions)[128x160].mpn" size="45792" crc="84890615" md5="e35ec064cf6a741d8d09d8389373a799" sha1="a35de2995bbf487013f92ae21bb924ab6d385f3c" />
+	</machine>
+	<machine name="Snooz v1.0 (20xx)(GameXtend)[128x160][Expired]">
+		<description>Snooz v1.0 (20xx)(GameXtend)[128x160][Expired]</description>
+		<rom name="Snooz v1.0 (20xx)(GameXtend)[128x160][Expired].mpn" size="136972" crc="7fdc8481" md5="8aa9bceb8d12d61c19b8b5b8771d5c8c" sha1="891286c4c2cfca1aa246fb8f42f48b4a6d821877" />
+	</machine>
+	<machine name="Snooz v1.0 (20xx)(GameXtend)[cr][128x160]">
+		<description>Snooz v1.0 (20xx)(GameXtend)[cr][128x160]</description>
+		<rom name="Snooz v1.0 (20xx)(GameXtend)[cr][128x160].mpn" size="136972" crc="563d7b75" md5="740105a84618daefda0cba94af1f98ad" sha1="73763aab13888d735a2518ee5f977773a0b8de99" />
+	</machine>
+	<machine name="Snowboard Bob v1.0 (2003)(Ellams)[101x80]">
+		<description>Snowboard Bob v1.0 (2003)(Ellams)[101x80]</description>
+		<rom name="Snowboard Bob v1.0 (2003)(Ellams)[101x80].mpn" size="56432" crc="be4f4905" md5="1d38a3d129019ba196ab4b9d72531da6" sha1="bb794478f4fe59c17c91570e482d38d4e204f5f5" />
+	</machine>
+	<machine name="Snowboard X v1.5 (2002)(Distinctive)[101x80]">
+		<description>Snowboard X v1.5 (2002)(Distinctive)[101x80]</description>
+		<rom name="Snowboard X v1.5 (2002)(Distinctive)[101x80].mpn" size="58712" crc="ac91317e" md5="8cb5b8d0298647cdd06fb66998ede88f" sha1="6a5a816cbbe037f6d492bfa39d9ba64f6b4eaaa2" />
+	</machine>
+	<machine name="Snowboard X v1.5 (2002)(Distinctive)[101x80][Expired][Phone#]">
+		<description>Snowboard X v1.5 (2002)(Distinctive)[101x80][Expired][Phone#]</description>
+		<rom name="Snowboard X v1.5 (2002)(Distinctive)[101x80][Expired][Phone#].mpn" size="58712" crc="788d20fc" md5="dd7eb77e335eb7ebaa2f2678489e9de4" sha1="3bdebf6cfe7d523320de315fb9e4b7453a706fa8" />
+	</machine>
+	<machine name="Snowboard X v1.5 (2002)(Distinctive)[a][101x80]">
+		<description>Snowboard X v1.5 (2002)(Distinctive)[a][101x80]</description>
+		<rom name="Snowboard X v1.5 (2002)(Distinctive)[a][101x80].mpn" size="58712" crc="bc7eccb7" md5="f5eb0012725b42f0015247338afd4ce2" sha1="27efb73e65d8fed013d959d6ea7b9877bbe59ea9" />
+	</machine>
+	<machine name="Snowboard X v1.5 (2002)(Distinctive)[cr][101x80]">
+		<description>Snowboard X v1.5 (2002)(Distinctive)[cr][101x80]</description>
+		<rom name="Snowboard X v1.5 (2002)(Distinctive)[cr][101x80].mpn" size="58712" crc="dc80ea49" md5="a62a5cff11425c065a3e862b48efd0dd" sha1="846a781f229a4e373f47d709160aa6426ddb3da0" />
+	</machine>
+	<machine name="Snowboard X v1.5 (demo) (2002)(Distinctive)[101x80][Phone#]">
+		<description>Snowboard X v1.5 (demo) (2002)(Distinctive)[101x80][Phone#]</description>
+		<rom name="Snowboard X v1.5 (demo) (2002)(Distinctive)[101x80][Phone#].mpn" size="58712" crc="366ad6e7" md5="bf81c5299c7c4347eb39139b0d1719ae" sha1="a338e2575716271a7021c41a0996810f475c5640" />
+	</machine>
+	<machine name="Solitaire v1.0 (2003)(mProductions)[Multiscreen]">
+		<description>Solitaire v1.0 (2003)(mProductions)[Multiscreen]</description>
+		<rom name="Solitaire v1.0 (2003)(mProductions)[Multiscreen].mpn" size="49176" crc="893a33ad" md5="592bc11d61479eaa28dab7083cbd9075" sha1="9e01f993e08e1b97b7d6deb30863703d48f8fcbb" />
+	</machine>
+	<machine name="Something Fishy v1.0 (2003)(West of Pluto)[128x160]">
+		<description>Something Fishy v1.0 (2003)(West of Pluto)[128x160]</description>
+		<rom name="Something Fishy v1.0 (2003)(West of Pluto)[128x160].mpn" size="60460" crc="86a05af2" md5="e0923faca9866d3167930383def7faff" sha1="422cd8be737b00af8e4a169c2de33fb7baf56f11" />
+	</machine>
+	<machine name="Space Box v1.01 (2003)(Graczyk, Tomasz)[101x80]">
+		<description>Space Box v1.01 (2003)(Graczyk, Tomasz)[101x80]</description>
+		<rom name="Space Box v1.01 (2003)(Graczyk, Tomasz)[101x80].mpn" size="51748" crc="84f4c326" md5="eecd838f60881f97b94cf18d1cec4088" sha1="a957010cd8f9107f57b177d7a727fe74b077a549" />
+	</machine>
+	<machine name="Space Box v1.01 (2003)(Graczyk, Tomasz)[128x160][Expired][Phone#]">
+		<description>Space Box v1.01 (2003)(Graczyk, Tomasz)[128x160][Expired][Phone#]</description>
+		<rom name="Space Box v1.01 (2003)(Graczyk, Tomasz)[128x160][Expired][Phone#].mpn" size="60220" crc="81585fe8" md5="ad048d725bd8ae455b869354d47b4610" sha1="89617ec6f109e0639cb1211aee0cb48c4fd1a289" />
+	</machine>
+	<machine name="Space Box v1.01 (2003)(Graczyk, Tomasz)[128x160][Phone#]">
+		<description>Space Box v1.01 (2003)(Graczyk, Tomasz)[128x160][Phone#]</description>
+		<rom name="Space Box v1.01 (2003)(Graczyk, Tomasz)[128x160][Phone#].mpn" size="60220" crc="dac6a9d3" md5="5d775a752d490d274803818b178e8c21" sha1="fe277de5d545668d5c9e1e41e9d37d606c848979" />
+	</machine>
+	<machine name="Space Box v1.01 (2003)(Graczyk, Tomasz)[cr][128x160][Phone#]">
+		<description>Space Box v1.01 (2003)(Graczyk, Tomasz)[cr][128x160][Phone#]</description>
+		<rom name="Space Box v1.01 (2003)(Graczyk, Tomasz)[cr][128x160][Phone#].mpn" size="60220" crc="7bf7110b" md5="c755aded932305206dbdb2be1b6b84c9" sha1="cf4df05daefba6744e342280e1477361cafa3f78" />
+	</machine>
+	<machine name="Space Debris v1.0 (2003)(Digital Fluff)[Multiscreen]">
+		<description>Space Debris v1.0 (2003)(Digital Fluff)[Multiscreen]</description>
+		<rom name="Space Debris v1.0 (2003)(Digital Fluff)[Multiscreen].mpn" size="59776" crc="8a3e52b1" md5="2d0e98c5a1a5664f378027fc0a50d6f5" sha1="d6efba580d86aa1a3411262a71828691a378c6d5" />
+	</machine>
+	<machine name="Space Explorer v1.0 (2003)(Impressionware)[Multiscreen]">
+		<description>Space Explorer v1.0 (2003)(Impressionware)[Multiscreen]</description>
+		<rom name="Space Explorer v1.0 (2003)(Impressionware)[Multiscreen].mpn" size="61156" crc="c38605cf" md5="27d48eb53ed5f74fd4a576df881ce696" sha1="e31c6b7d461bdaab0685b4fc4eec2c262d197d43" />
+	</machine>
+	<machine name="Space Explorer v1.1 (2003)(impressionware)[cr][Multiscreen][Phone#]">
+		<description>Space Explorer v1.1 (2003)(impressionware)[cr][Multiscreen][Phone#]</description>
+		<rom name="Space Explorer v1.1 (2003)(impressionware)[cr][Multiscreen][Phone#].mpn" size="59576" crc="f6f9f799" md5="1494de07933fb2acdea930a40e3e87d7" sha1="57927152de6c8a2ce3b7b961b9756b0d0b1e82c7" />
+	</machine>
+	<machine name="Space Explorer v1.1 (2003)(impressionware)[Multiscreen][Expired][Phone#]">
+		<description>Space Explorer v1.1 (2003)(impressionware)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Space Explorer v1.1 (2003)(impressionware)[Multiscreen][Expired][Phone#].mpn" size="59576" crc="44d7b6d9" md5="5ecd5cba995cbb522f38fa4ccb55aadd" sha1="29c8d3ef9c93298260adc770e0d0805d6811ce74" />
+	</machine>
+	<machine name="Spark v1.0 (2003)(V_D_V)[101x80]">
+		<description>Spark v1.0 (2003)(V_D_V)[101x80]</description>
+		<rom name="Spark v1.0 (2003)(V_D_V)[101x80].mpn" size="24848" crc="f12821df" md5="f1b7b0921a392b796bc3350975883568" sha1="45afca54368f27f7ef8ba52b4beafefad311a22d" />
+	</machine>
+	<machine name="Spinner C2 v1.0 (2003)(ÅRS Fooware)[128x160][Expired][Phone#]">
+		<description>Spinner C2 v1.0 (2003)(ÅRS Fooware)[128x160][Expired][Phone#]</description>
+		<rom name="Spinner C2 v1.0 (2003)(ÅRS Fooware)[128x160][Expired][Phone#].mpn" size="60892" crc="45fb97d3" md5="6230b350602de76ff4661b994e9133cc" sha1="acd42af5451246265044e6fbba646485bea047ef" />
+	</machine>
+	<machine name="Spinner C2 v1.0 (2003)(ÅRS Fooware)[cr][128x160]">
+		<description>Spinner C2 v1.0 (2003)(ÅRS Fooware)[cr][128x160]</description>
+		<rom name="Spinner C2 v1.0 (2003)(ÅRS Fooware)[cr][128x160].mpn" size="60892" crc="118b7eda" md5="6d0b2eb07db14cc4032dd057e06102a2" sha1="543eb471bf94b1c27d4e49ffa7f7fbbfe68f5e32" />
+	</machine>
+	<machine name="Star Trek Nemesis v0.4 (2004)(Synergenix Interactive)[101x80]">
+		<description>Star Trek Nemesis v0.4 (2004)(Synergenix Interactive)[101x80]</description>
+		<rom name="Star Trek Nemesis v0.4 (2004)(Synergenix Interactive)[101x80].mpn" size="53004" crc="b0c8d9bd" md5="8ef9e3d20052b5973f56c923e0a98c71" sha1="60781596f12279243758ca1c4781cf842729c2f2" />
+	</machine>
+	<machine name="Star Trek Nemesis v0.4 (2004)(Synergenix Interactive)[128x160]">
+		<description>Star Trek Nemesis v0.4 (2004)(Synergenix Interactive)[128x160]</description>
+		<rom name="Star Trek Nemesis v0.4 (2004)(Synergenix Interactive)[128x160].mpn" size="59628" crc="92b398bb" md5="4da50281675f2ba1537182633d45d213" sha1="39142a898195405eac31b01ad1c8d80e1f9f26df" />
+	</machine>
+	<machine name="Stonker v1.0 (2003)(PsychoWorld)[Multiscreen]">
+		<description>Stonker v1.0 (2003)(PsychoWorld)[Multiscreen]</description>
+		<rom name="Stonker v1.0 (2003)(PsychoWorld)[Multiscreen].mpn" size="81600" crc="8701e044" md5="78019b2eea90dc1c96c9dd2346b9dd40" sha1="e65079d1303c235b857d87c6d02bc7061874cc20" />
+	</machine>
+	<machine name="Street Chase v1.0 (2002)(InstantCom)[128x160]">
+		<description>Street Chase v1.0 (2002)(InstantCom)[128x160]</description>
+		<rom name="Street Chase v1.0 (2002)(InstantCom)[128x160].mpn" size="103696" crc="f3c04dfe" md5="063b8c3c21e249243de14d9e83275680" sha1="042e4f150c79c0ff7bf1db1f74dad684092fb243" />
+	</machine>
+	<machine name="Street Chase v1.2 (2002)(InstantCom)[101x80]">
+		<description>Street Chase v1.2 (2002)(InstantCom)[101x80]</description>
+		<rom name="Street Chase v1.2 (2002)(InstantCom)[101x80].mpn" size="59780" crc="ebb6665d" md5="ece3887c541edf4a846bed929f086a45" sha1="920f1bf5df1fa927734f7ae75f72abaedecb2de3" />
+	</machine>
+	<machine name="Strike Out v1.0 (2003)(Demsky, Alexander)[cr][Multiscreen][Phone#]">
+		<description>Strike Out v1.0 (2003)(Demsky, Alexander)[cr][Multiscreen][Phone#]</description>
+		<rom name="Strike Out v1.0 (2003)(Demsky, Alexander)[cr][Multiscreen][Phone#].mpn" size="55844" crc="4babf888" md5="380fa1fe194cdf925322716193f46bbb" sha1="27940d45e6b2dae8f5ce5f5d40850808c519f09d" />
+	</machine>
+	<machine name="Strike Out v1.0 (2003)(Demsky, Alexander)[Multiscreen][Expired][Phone#]">
+		<description>Strike Out v1.0 (2003)(Demsky, Alexander)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Strike Out v1.0 (2003)(Demsky, Alexander)[Multiscreen][Expired][Phone#].mpn" size="55844" crc="30bd3bbc" md5="ac8c16c56367a9bc8a66d18922807cae" sha1="ec986a24c364bb5618daddc4f2b2bf13ea73f56f" />
+	</machine>
+	<machine name="Strippoker Adriana v1.0 (2004)(Cherrysoft)[101x80]">
+		<description>Strippoker Adriana v1.0 (2004)(Cherrysoft)[101x80]</description>
+		<rom name="Strippoker Adriana v1.0 (2004)(Cherrysoft)[101x80].mpn" size="59576" crc="eb503864" md5="884f74103de34250a9d0d25d7ca2b7ac" sha1="663cee5e9c4db80203d50f7558354654e1fc991f" />
+	</machine>
+	<machine name="Strippoker Adriana v1.0 (2004)(Cherrysoft)[128x160]">
+		<description>Strippoker Adriana v1.0 (2004)(Cherrysoft)[128x160]</description>
+		<rom name="Strippoker Adriana v1.0 (2004)(Cherrysoft)[128x160].mpn" size="87456" crc="bf1597f2" md5="318ca6a25004986149403ecb1f4e8e9c" sha1="b8d2a1740f6a790aba31bb7f2967274448571632" />
+	</machine>
+	<machine name="Strippoker Katharina v1.0 (2004)(Cherrysoft)[101x80]">
+		<description>Strippoker Katharina v1.0 (2004)(Cherrysoft)[101x80]</description>
+		<rom name="Strippoker Katharina v1.0 (2004)(Cherrysoft)[101x80].mpn" size="59356" crc="d815d770" md5="7fa914c4936a76bea1394586599458fe" sha1="b15015fd3c59224378aff5cbecec4ff33a1731e6" />
+	</machine>
+	<machine name="Strippoker Katharina v1.0 (2004)(Cherrysoft)[128x160]">
+		<description>Strippoker Katharina v1.0 (2004)(Cherrysoft)[128x160]</description>
+		<rom name="Strippoker Katharina v1.0 (2004)(Cherrysoft)[128x160].mpn" size="82216" crc="295951cd" md5="1e71604272024b8c23a714b4fcfce10e" sha1="8094795508aff31466f31abf4afd83d25df8c67a" />
+	</machine>
+	<machine name="Strippoker Phoebe v1.0 (2004)(Cherrysoft)[101x80]">
+		<description>Strippoker Phoebe v1.0 (2004)(Cherrysoft)[101x80]</description>
+		<rom name="Strippoker Phoebe v1.0 (2004)(Cherrysoft)[101x80].mpn" size="59480" crc="0b798f90" md5="3ebf871a6f3ca9d8a4508175e3c2a739" sha1="f2db6ba9df43313055da346cba49be2446e70456" />
+	</machine>
+	<machine name="Strippoker Phoebe v1.0 (2004)(Cherrysoft)[128x160]">
+		<description>Strippoker Phoebe v1.0 (2004)(Cherrysoft)[128x160]</description>
+		<rom name="Strippoker Phoebe v1.0 (2004)(Cherrysoft)[128x160].mpn" size="81872" crc="184171a0" md5="3a5ea7d9118ff43627fe312e268009a0" sha1="2b5fd6f0e6bdcd7e1a782441b28e9725071257c1" />
+	</machine>
+	<machine name="Strippoker v1.0 (2003)(Cherrysoft)[101x80][Phone#]">
+		<description>Strippoker v1.0 (2003)(Cherrysoft)[101x80][Phone#]</description>
+		<rom name="Strippoker v1.0 (2003)(Cherrysoft)[101x80][Phone#].mpn" size="102972" crc="4a092284" md5="f8fb14273764a5166fa49dcf09aab002" sha1="eb490d84237085de7af20ef4e87bd72022496e83" />
+	</machine>
+	<machine name="Strippoker v1.0 (demo) (2003)(Cherrysoft)[101x80][Phone#]">
+		<description>Strippoker v1.0 (demo) (2003)(Cherrysoft)[101x80][Phone#]</description>
+		<rom name="Strippoker v1.0 (demo) (2003)(Cherrysoft)[101x80][Phone#].mpn" size="59560" crc="d8d5dfe7" md5="c609a0483e3b5566ef448088b2f609c4" sha1="feea9dcb8af8981f1d4af4f2ef30503893e423c4" />
+	</machine>
+	<machine name="Subhunt v1.2 (2003)(Digital Fluff)[Multiscreen]">
+		<description>Subhunt v1.2 (2003)(Digital Fluff)[Multiscreen]</description>
+		<rom name="Subhunt v1.2 (2003)(Digital Fluff)[Multiscreen].mpn" size="30212" crc="3d50616c" md5="e2369a01f510576797e7fd4c15b70cd2" sha1="558a7649a3bd147af04af3a6ff917f7e24de90bd" />
+	</machine>
+	<machine name="Supah Worm (2003)(Max Artists)[101x80]">
+		<description>Supah Worm (2003)(Max Artists)[101x80]</description>
+		<rom name="Supah Worm (2003)(Max Artists)[101x80].mpn" size="77248" crc="05051218" md5="8d6258d584f29099ffbfbe2aabe33259" sha1="58391490fe8866401669bc5b64e9fc506109a63c" />
+	</machine>
+	<machine name="Supah Worm v1.2 (2003)(Max Artists)[128x160]">
+		<description>Supah Worm v1.2 (2003)(Max Artists)[128x160]</description>
+		<rom name="Supah Worm v1.2 (2003)(Max Artists)[128x160].mpn" size="94904" crc="12f5945c" md5="5a5cbcfe1bb743f48045ce49a7a7e3bb" sha1="4dd5b1c702b33960709d79664c45d1b012c0301a" />
+	</machine>
+	<machine name="Supermarine Spitfire v1.0 (2004)(Nanogames)[101x80]">
+		<description>Supermarine Spitfire v1.0 (2004)(Nanogames)[101x80]</description>
+		<rom name="Supermarine Spitfire v1.0 (2004)(Nanogames)[101x80].mpn" size="51904" crc="73bd240c" md5="a6e5eaaa38a080a17051d96649952229" sha1="5320a286db9b2fe157f687793aa1fb2756c093b1" />
+	</machine>
+	<machine name="Supermarine Spitfire v1.0 (2004)(Nanogames)[128x160]">
+		<description>Supermarine Spitfire v1.0 (2004)(Nanogames)[128x160]</description>
+		<rom name="Supermarine Spitfire v1.0 (2004)(Nanogames)[128x160].mpn" size="59344" crc="65a7c621" md5="7f48e35fec870850fc356ea884b713ed" sha1="b00f47e995441ef1db313129663f378b9cf39200" />
+	</machine>
+	<machine name="Sushi Fighter v1.0 (2003)(escape)[128x160]">
+		<description>Sushi Fighter v1.0 (2003)(escape)[128x160]</description>
+		<rom name="Sushi Fighter v1.0 (2003)(escape)[128x160].mpn" size="92556" crc="8e010474" md5="561e2951b249ac707278dfd6b1795b0d" sha1="efe02075d91e04211c8977a209633d5a36c4f482" />
+	</machine>
+	<machine name="Sweet Dreams v1.0 (2003)(Capricorn Studios)[101x80]">
+		<description>Sweet Dreams v1.0 (2003)(Capricorn Studios)[101x80]</description>
+		<rom name="Sweet Dreams v1.0 (2003)(Capricorn Studios)[101x80].mpn" size="57728" crc="b80b1e86" md5="359e45673ea4133857b9277f8a6c1aa0" sha1="917c6bc1a26587af16b39fa642624caa1909a5dd" />
+	</machine>
+	<machine name="Sweet Dreams v1.1 (2003)(Max Artists)[128x160][Phone#]">
+		<description>Sweet Dreams v1.1 (2003)(Max Artists)[128x160][Phone#]</description>
+		<rom name="Sweet Dreams v1.1 (2003)(Max Artists)[128x160][Phone#].mpn" size="69692" crc="ba4e679d" md5="e6229ada4dcf214a30929c021be60ff4" sha1="44840e6d03d17367afe7b15a79e6f9b72deb07a7" />
+	</machine>
+	<machine name="Sweet Dreams v1.1 (2003)(Max Artists)[a][128x160][Phone#]">
+		<description>Sweet Dreams v1.1 (2003)(Max Artists)[a][128x160][Phone#]</description>
+		<rom name="Sweet Dreams v1.1 (2003)(Max Artists)[a][128x160][Phone#].mpn" size="69692" crc="3a91304f" md5="b9c3d3c524eccbb1d990a8f66809b7fe" sha1="c8b17bdc9ac87d87a805c05c701109f0447bc2a4" />
+	</machine>
+	<machine name="Syndroid (2002)(Synergenix Ineractive)[cr][Multiscreen][Phone#]">
+		<description>Syndroid (2002)(Synergenix Ineractive)[cr][Multiscreen][Phone#]</description>
+		<rom name="Syndroid (2002)(Synergenix Ineractive)[cr][Multiscreen][Phone#].mpn" size="51240" crc="2fc2f042" md5="6d6a33722346e3b9e9319b821753e84e" sha1="e2907fd5da24a732779dc47251ebbf317cd39d21" />
+	</machine>
+	<machine name="Syndroid (2002)(Synergenix Ineractive)[Multiscreen][Expired][Phone#]">
+		<description>Syndroid (2002)(Synergenix Ineractive)[Multiscreen][Expired][Phone#]</description>
+		<rom name="Syndroid (2002)(Synergenix Ineractive)[Multiscreen][Expired][Phone#].mpn" size="51240" crc="07d6621c" md5="d1a3cd0081cb969dc90f8ba5278b5dd6" sha1="17f0b69534539b84be49c55b64fea5772c42126a" />
+	</machine>
+	<machine name="Test File v1.0 (2003)(Synergenix Interactive)[Multiscreen]">
+		<description>Test File v1.0 (2003)(Synergenix Interactive)[Multiscreen]</description>
+		<rom name="Test File v1.0 (2003)(Synergenix Interactive)[Multiscreen].mpn" size="3768" crc="8ec5f7bd" md5="0bcd9856bfbe9d4b40e7a3725f3e2e6f" sha1="aeb3c780af4e47e1d913a7bb6ac8390edf078f08" />
+	</machine>
+	<machine name="The FlintStones v1.1 (20xx)(Macrospace)[cr][Multiscreen][Phone#]">
+		<description>The FlintStones v1.1 (20xx)(Macrospace)[cr][Multiscreen][Phone#]</description>
+		<rom name="The FlintStones v1.1 (20xx)(Macrospace)[cr][Multiscreen][Phone#].mpn" size="59756" crc="e60559dc" md5="2aade599619bbf802e013f3cc975c303" sha1="e411dc19cee15547d9e23a20edf9e60d55c6dab1" />
+	</machine>
+	<machine name="The FlintStones v1.1 (20xx)(Macrospace)[Multiscreen][Expired][Phone#]">
+		<description>The FlintStones v1.1 (20xx)(Macrospace)[Multiscreen][Expired][Phone#]</description>
+		<rom name="The FlintStones v1.1 (20xx)(Macrospace)[Multiscreen][Expired][Phone#].mpn" size="59756" crc="5e4e30d9" md5="8a4894a519e2d03e28648355823afa0e" sha1="c5f48f3bb510dcae6b9211938c0de7ec37531dd6" />
+	</machine>
+	<machine name="The FlintStones v1.1 (20xx)(Macrospace)[Multiscreen][Phone#]">
+		<description>The FlintStones v1.1 (20xx)(Macrospace)[Multiscreen][Phone#]</description>
+		<rom name="The FlintStones v1.1 (20xx)(Macrospace)[Multiscreen][Phone#].mpn" size="59756" crc="a276eaf4" md5="52f7e7e531aad5054a9b74848e4c6d58" sha1="980068ecc0568008a78b41f3dc6a80a10491589e" />
+	</machine>
+	<machine name="The Mummy v1.02 (2002)(Apeiron)">
+		<description>The Mummy v1.02 (2002)(Apeiron)</description>
+		<rom name="The Mummy v1.02 (2002)(Apeiron).mpn" size="105004" crc="72731098" md5="a7b733fffb916ba3b4aae0441a49ac1d" sha1="6fc4365f87da221ddc43df807d4ee8d3b82d689f" />
+	</machine>
+	<machine name="Tony Hawk v1.01 (2003)(JAMDAT)[a][Multiscreen][Phone#]">
+		<description>Tony Hawk v1.01 (2003)(JAMDAT)[a][Multiscreen][Phone#]</description>
+		<rom name="Tony Hawk v1.01 (2003)(JAMDAT)[a][Multiscreen][Phone#].mpn" size="115732" crc="816b8141" md5="b34df2cbbc956927bef37009014b3453" sha1="8ded595bcd915173b297df2756253a05deb8b5a7" />
+	</machine>
+	<machine name="Tony Hawk v1.01 (2003)(JAMDAT)[Multiscreen][Phone#]">
+		<description>Tony Hawk v1.01 (2003)(JAMDAT)[Multiscreen][Phone#]</description>
+		<rom name="Tony Hawk v1.01 (2003)(JAMDAT)[Multiscreen][Phone#].mpn" size="116596" crc="34630d71" md5="591741ae0e7e4feab0c55fb3c9cf06e4" sha1="cac1f0e89cb466946a44b2c92c4c3c21e094624e" />
+	</machine>
+	<machine name="Top Gun 2 v1.4 (2004)(Big Blue Bubble)[128x160]">
+		<description>Top Gun 2 v1.4 (2004)(Big Blue Bubble)[128x160]</description>
+		<rom name="Top Gun 2 v1.4 (2004)(Big Blue Bubble)[128x160].mpn" size="108924" crc="f8e01ed8" md5="de5fc150d50ce5db07658d4cc6bd3e4c" sha1="098f82657ade5b5541a364a42da629ccecca4c89" />
+	</machine>
+	<machine name="Torpedo v1.2 (2003)(Dickinson, Patrick)[Multiscreen]">
+		<description>Torpedo v1.2 (2003)(Dickinson, Patrick)[Multiscreen]</description>
+		<rom name="Torpedo v1.2 (2003)(Dickinson, Patrick)[Multiscreen].mpn" size="59004" crc="6b0cf880" md5="4953399c5e5f87ec800188e47bbd735b" sha1="2def892ac60d9a0863cc476f7920569d6124805a" />
+	</machine>
+	<machine name="Toys Factory v1.0 (2003)(Gemmy Planet)[128x160]">
+		<description>Toys Factory v1.0 (2003)(Gemmy Planet)[128x160]</description>
+		<rom name="Toys Factory v1.0 (2003)(Gemmy Planet)[128x160].mpn" size="50744" crc="ed80a6d2" md5="fab12ccd733e444e5895dd0a1b1b4c6c" sha1="0d9e099b5ad68ed1ba6c44c2f91f47051e932c3d" />
+	</machine>
+	<machine name="Trapped Ball v0.9 (20xx)(Szasz, Pal)[a][Multiscreen]">
+		<description>Trapped Ball v0.9 (20xx)(Szasz, Pal)[a][Multiscreen]</description>
+		<rom name="Trapped Ball v0.9 (20xx)(Szasz, Pal)[a][Multiscreen].mpn" size="51312" crc="63e0191c" md5="0df155d5ce4c615414cb9d9a198d064d" sha1="e0b88d441caa02d8e826959039eee6cecbacc295" />
+	</machine>
+	<machine name="Trapped Ball v0.9 (20xx)(Szasz, Pal)[Multiscreen]">
+		<description>Trapped Ball v0.9 (20xx)(Szasz, Pal)[Multiscreen]</description>
+		<rom name="Trapped Ball v0.9 (20xx)(Szasz, Pal)[Multiscreen].mpn" size="51312" crc="4aee0c7a" md5="579267eaa8f7694f6ea75a4a58b6a121" sha1="9ef59f974866361f9fe28004fc63fe7a7f481947" />
+	</machine>
+	<machine name="Treasure Slots v1.1 (2004)(Mforma)[128x160]">
+		<description>Treasure Slots v1.1 (2004)(Mforma)[128x160]</description>
+		<rom name="Treasure Slots v1.1 (2004)(Mforma)[128x160].mpn" size="62128" crc="cc639113" md5="292572e7deca9720e021f0caad413dd3" sha1="ab04287577f1db2c8572c66e6d1d48bd2ec8cfb8" />
+	</machine>
+	<machine name="Vegas Xtreme v1.1 (2003)(Peck, Paul)[101x80]">
+		<description>Vegas Xtreme v1.1 (2003)(Peck, Paul)[101x80]</description>
+		<rom name="Vegas Xtreme v1.1 (2003)(Peck, Paul)[101x80].mpn" size="57176" crc="b8a3eade" md5="3e7e1847f1b85073c46144cc7652672a" sha1="2885d6d13454d5eed94f03b4022af2385fead7f3" />
+	</machine>
+	<machine name="Vegas Xtreme X v1.1 (2003)(Peck, Paul)[128x160][Phone#]">
+		<description>Vegas Xtreme X v1.1 (2003)(Peck, Paul)[128x160][Phone#]</description>
+		<rom name="Vegas Xtreme X v1.1 (2003)(Peck, Paul)[128x160][Phone#].mpn" size="57840" crc="3b1a805c" md5="5eb635dda0a8a30a80b68a9cbab4972e" sha1="8746ee76ced7305a0751008143c6577992497e80" />
+	</machine>
+	<machine name="Video Poker v1.4 (2004)(Mforma)[128x160]">
+		<description>Video Poker v1.4 (2004)(Mforma)[128x160]</description>
+		<rom name="Video Poker v1.4 (2004)(Mforma)[128x160].mpn" size="50088" crc="80b0319a" md5="8893bbff58247224bbaeecdd7b6c4f48" sha1="6286c3c9a95bd2b4f114d6651b808facea64149d" />
+	</machine>
+	<machine name="Viking Winter Games 1005 (2004)(Synergenix Interactive)[128x160]">
+		<description>Viking Winter Games 1005 (2004)(Synergenix Interactive)[128x160]</description>
+		<rom name="Viking Winter Games 1005 (2004)(Synergenix Interactive)[128x160].mpn" size="121764" crc="8c7e148c" md5="1718c197dad32278ccad5410f1905876" sha1="fae9b7c804038d6f9601348a578fe4bb0bf3b12a" />
+	</machine>
+	<machine name="Virtual Strippoker (demo) v1.0 (2003)(Cherrysoft)[128x160][Expired][Phone#]">
+		<description>Virtual Strippoker (demo) v1.0 (2003)(Cherrysoft)[128x160][Expired][Phone#]</description>
+		<rom name="Virtual Strippoker (demo) v1.0 (2003)(Cherrysoft)[128x160][Expired][Phone#].mpn" size="68680" crc="7940cfa6" md5="040255aa491200531f187984c3d26df1" sha1="99836635d54fd25647cc2b41f8e8778848814be9" />
+	</machine>
+	<machine name="Virtual Strippoker (demo) v1.0 (2003)(Cherrysoft)[cr][128x160]">
+		<description>Virtual Strippoker (demo) v1.0 (2003)(Cherrysoft)[cr][128x160]</description>
+		<rom name="Virtual Strippoker (demo) v1.0 (2003)(Cherrysoft)[cr][128x160].mpn" size="68680" crc="cd51200c" md5="88025be0c2c2d1f33089683e1f6c8fa6" sha1="df51238a1a069896dc222d5374cb8f8a83a21312" />
+	</machine>
+	<machine name="Warships v1.0 (2003)(Apeiron)[128x160][Phone#]">
+		<description>Warships v1.0 (2003)(Apeiron)[128x160][Phone#]</description>
+		<rom name="Warships v1.0 (2003)(Apeiron)[128x160][Phone#].mpn" size="77124" crc="d899f1bf" md5="639cacf9096a4fa671fe555cde6ced40" sha1="25a2851f7eebb991b4581dbbea2b3d345936d364" />
+	</machine>
+	<machine name="Warships v1.1 (2003)(Apeiron)[101x80]">
+		<description>Warships v1.1 (2003)(Apeiron)[101x80]</description>
+		<rom name="Warships v1.1 (2003)(Apeiron)[101x80].mpn" size="57180" crc="112f3471" md5="bac4b7719354658510a4f0d411ec08c8" sha1="953276bc378c6528339a021619388b605937c34a" />
+	</machine>
+	<machine name="Warships v1.1 (demo) (2003)(Apeiron)[101x80]">
+		<description>Warships v1.1 (demo) (2003)(Apeiron)[101x80]</description>
+		<rom name="Warships v1.1 (demo) (2003)(Apeiron)[101x80].mpn" size="57180" crc="b889365f" md5="01056f2289fde5b28f79d29595a0bc9e" sha1="a2ca3cae21e22705fd19ba891b0006e7319d8352" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 1 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 1 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 1 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47184" crc="2c637094" md5="e1adc9e81fbdc5981bd45f11acecac7e" sha1="f5f891c454deaf9a646f3b3672bc13df28ec55bc" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 10 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 10 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 10 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47544" crc="0ab13ca6" md5="1b6091ff7eb237c627632181099eea39" sha1="fce3eaecd2bfa49fc7191f8f30a21078f274e9fd" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 11 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 11 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 11 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47328" crc="91a5fb2d" md5="4084bfb8ded92cb280ce4f0be89d3605" sha1="95ae895725e3fa68316ffdce5c1db84e93fd94a6" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 12 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 12 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 12 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47348" crc="6646372d" md5="fb55e9c11939b0468e441c7dd816db7d" sha1="68a079b71b1a4061e7d4c59564c694685e5056e5" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 2 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 2 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 2 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47320" crc="01774518" md5="85ea9ebc58a4e4804430170d28f76c85" sha1="3372ac2cd18696e62e40b11a951d6ea86944af6a" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 3 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 3 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 3 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47244" crc="8471e81b" md5="3520107a9c1455a2414a3d315b719b44" sha1="ba21a233fc2109ebd24587024ff0adfb0b067e76" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 4 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 4 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 4 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47052" crc="cc7af55a" md5="f3e62dd2987b12da23fbbca9162d4cf2" sha1="1e0fd11c0bff4dd2eabd8274147518fa3353e7f4" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 5 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 5 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 5 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47092" crc="f25214a9" md5="b4903ce3562e0ba58d8f4e63e64bb744" sha1="8f45876f00866aa0d8b433cd909cd576e17679b3" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 6 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 6 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 6 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47236" crc="f5534bce" md5="2fccf0f1b57928cbcd29e043c041c2a3" sha1="f65c0cbf111d6b10aee6b65e24be89303f3a46b7" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 7 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 7 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 7 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="46928" crc="d5dd1dcc" md5="7235894a8eefb5a0d262651df04b3bee" sha1="4d91e33ad37cbc770de7de99b4b2eaaa40d3a11f" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 8 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 8 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 8 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47188" crc="f907645c" md5="a2b986aa7b83d89701824f8ed62f0f5e" sha1="650db79ee631932453e63ef611f76ed9dc38523d" />
+	</machine>
+	<machine name="Wheel Of Fortune Vol. 9 v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>Wheel Of Fortune Vol. 9 v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="Wheel Of Fortune Vol. 9 v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="47376" crc="f0a7a87d" md5="344c6dd145dfa9ad8f231c875035c99a" sha1="5bab35dfc9416d25458a6d181df1eb2796e47ed4" />
+	</machine>
+	<machine name="Wilione v1.02 (2003)(same)[128x160][Phone#]">
+		<description>Wilione v1.02 (2003)(same)[128x160][Phone#]</description>
+		<rom name="Wilione v1.02 (2003)(same)[128x160][Phone#].mpn" size="93920" crc="d258dc39" md5="0178d6ddc8f2a134aef488f722c21479" sha1="b20575a700238f46ca5098aa988a3a241a89eff2" />
+	</machine>
+	<machine name="Word Panic v1.01 (2003)(Synergenix Interactive)[101x80]">
+		<description>Word Panic v1.01 (2003)(Synergenix Interactive)[101x80]</description>
+		<rom name="Word Panic v1.01 (2003)(Synergenix Interactive)[101x80].mpn" size="58324" crc="c47e7cbf" md5="cfc3c0b2497e4c6e4151c29caf65233a" sha1="ad4694dedff4f99692fe572517a4c50cda2cc4e7" />
+	</machine>
+	<machine name="Word Panic v1.01 (2003)(Synergenix Interactive)[128x160]">
+		<description>Word Panic v1.01 (2003)(Synergenix Interactive)[128x160]</description>
+		<rom name="Word Panic v1.01 (2003)(Synergenix Interactive)[128x160].mpn" size="66012" crc="0e1a574c" md5="85f155fa6d1d0ae19e6fc4d8f5fb632f" sha1="0c681848838be234ab1d7f460410aea23fe49e02" />
+	</machine>
+	<machine name="Wordfinder v1.1 (2003)(Digital Fluff)[Multiscreen]">
+		<description>Wordfinder v1.1 (2003)(Digital Fluff)[Multiscreen]</description>
+		<rom name="Wordfinder v1.1 (2003)(Digital Fluff)[Multiscreen].mpn" size="47960" crc="f9ad7aa8" md5="68a85ed618f170cab8d75d0bae7cac6a" sha1="97363e7ac60c3c2573834e572197b21469a4d07c" />
+	</machine>
+	<machine name="WOW v1.0 (2003)(Ord.Musik)[101x80]">
+		<description>WOW v1.0 (2003)(Ord.Musik)[101x80]</description>
+		<rom name="WOW v1.0 (2003)(Ord.Musik)[101x80].mpn" size="58864" crc="38cea347" md5="559d4f0a2be1e30413a29095ee20eead" sha1="6ef75fedfa20c84a093d7724be6f9710294360b8" />
+	</machine>
+	<machine name="X Probe v1.0 (2004)(Ivona, Giovanni)[Multiscreen]">
+		<description>X Probe v1.0 (2004)(Ivona, Giovanni)[Multiscreen]</description>
+		<rom name="X Probe v1.0 (2004)(Ivona, Giovanni)[Multiscreen].mpn" size="52892" crc="8e479d7c" md5="4f7b94908f8a66f44084e0507a19c7ce" sha1="9546a895d31ce05707236c06b9bb4a7f8b393040" />
+	</machine>
+	<machine name="X-Downhill v1.0 (2003)(Fireport)[128x160]">
+		<description>X-Downhill v1.0 (2003)(Fireport)[128x160]</description>
+		<rom name="X-Downhill v1.0 (2003)(Fireport)[128x160].mpn" size="71320" crc="e2b7db3b" md5="e5790dd02870b6264498c863c585fac7" sha1="022648952b8c68670cafdec5a4e17ad4e7abb90b" />
+	</machine>
+	<machine name="X-Downhill v1.0 (2003)(Fireport)[a][128x160]">
+		<description>X-Downhill v1.0 (2003)(Fireport)[a][128x160]</description>
+		<rom name="X-Downhill v1.0 (2003)(Fireport)[a][128x160].mpn" size="71320" crc="5291375c" md5="203cf79954448ece834f6ed17232e1c7" sha1="a4748f3e7732f76517bc2770bec1d3f24078d676" />
+	</machine>
+	<machine name="Xfinity (20xx)(Synergenix Interactive)">
+		<description>Xfinity (20xx)(Synergenix Interactive)</description>
+		<rom name="Xfinity (20xx)(Synergenix Interactive).mpn" size="119871" crc="52c5ec4f" md5="149915441f6040ec384d940913166556" sha1="dc62bbe08b5c4248c2f5ed87d39a4d04988ce133" />
+	</machine>
+	<machine name="Xfinity (20xx)(Synergenix Interactive)[101x80]">
+		<description>Xfinity (20xx)(Synergenix Interactive)[101x80]</description>
+		<rom name="Xfinity (20xx)(Synergenix Interactive)[101x80].mpn" size="117572" crc="ddc84b31" md5="9df8263a2155cb1135ccf699e4c04a38" sha1="fbf79b95a3312bc3e0e7293e78fed363a6308645" />
+	</machine>
+	<machine name="Xfinity (20xx)(Synergenix Interactive)[128x160]">
+		<description>Xfinity (20xx)(Synergenix Interactive)[128x160]</description>
+		<rom name="Xfinity (20xx)(Synergenix Interactive)[128x160].mpn" size="122996" crc="fe8cf635" md5="cd023e76c6202d7edb8abb3e0962cfeb" sha1="56c8b30697b554cacb727e67b6290ff33705e34b" />
+	</machine>
+	<machine name="Xfinity (20xx)(Synergenix Interactive)[a][101x80]">
+		<description>Xfinity (20xx)(Synergenix Interactive)[a][101x80]</description>
+		<rom name="Xfinity (20xx)(Synergenix Interactive)[a][101x80].mpn" size="117572" crc="c0f763e3" md5="3170d0ef7433a677f8f0ef49037f1cfb" sha1="0b597041930dec50629806744f01fc31bef47405" />
+	</machine>
+	<machine name="Xfinity (20xx)(Synergenix Interactive)[Multiscreen]">
+		<description>Xfinity (20xx)(Synergenix Interactive)[Multiscreen]</description>
+		<rom name="Xfinity (20xx)(Synergenix Interactive)[Multiscreen].mpn" size="122996" crc="fe8cf635" md5="cd023e76c6202d7edb8abb3e0962cfeb" sha1="56c8b30697b554cacb727e67b6290ff33705e34b" />
+	</machine>
+	<machine name="xXx v1.0 (2003)(Sony Pictures)[Multiscreen]">
+		<description>xXx v1.0 (2003)(Sony Pictures)[Multiscreen]</description>
+		<rom name="xXx v1.0 (2003)(Sony Pictures)[Multiscreen].mpn" size="56612" crc="b2265609" md5="278ee67c7c779f1854d8afbbe4e6f0f0" sha1="ce546bacb397573f8aad5b15b22f323acbdc6304" />
+	</machine>
+	<machine name="1849 Gold Rush (2003)(Max Artists)">
+		<description>1849 Gold Rush (2003)(Max Artists)</description>
+		<rom name="1849 Gold Rush (2003)(Max Artists).mpn" size="62704" crc="418cee27" md5="58209d098549315d3a604a53707b56c2" sha1="0982e569a7d8e9757ae11fb711c8ff3605a4c340" />
+	</machine>
+	<machine name="Aank City v1.0 (20xx)()">
+		<description>Aank City v1.0 (20xx)()</description>
+		<rom name="Aank City v1.0 (20xx)().mpn" size="58932" crc="b28d194e" md5="dabad6866e813ecc74749d64cf4955a6" sha1="434ed63983cc0c0dbae1a086aa9eac48aabb87aa" />
+	</machine>
+	<machine name="ACE v1.2.1 (2002)(KerbyWare)">
+		<description>ACE v1.2.1 (2002)(KerbyWare)</description>
+		<rom name="ACE v1.2.1 (2002)(KerbyWare).mpn" size="108100" crc="b3cd32ff" md5="9c286a8e52ea263cfb6aea9ebf72d436" sha1="a9ecfeacf0df6d2b32b42125b8997908627f58f1" />
+	</machine>
+	<machine name="ACE v1.4.0 EN (2002)(KerbyWare)">
+		<description>ACE v1.4.0 EN (2002)(KerbyWare)</description>
+		<rom name="ACE v1.4.0 EN (2002)(KerbyWare).mpn" size="59508" crc="82b54422" md5="2f48161291b2581f71835cb4682dbb8b" sha1="13a6ab380981db7a2d870911320bfe83bcbe0e94" />
+	</machine>
+	<machine name="Alpha Attack v1.1 (2003)(Mirandow)">
+		<description>Alpha Attack v1.1 (2003)(Mirandow)</description>
+		<rom name="Alpha Attack v1.1 (2003)(Mirandow).mpn" size="56840" crc="b48ff36b" md5="de46b48cbea5ac1188d5f46cc82c5760" sha1="97a4e3f2dd1bf556d5d7c0704fcdb7bde8a0a175" />
+	</machine>
+	<machine name="Alpha Attack v1.2 (2003)(Mirandow)">
+		<description>Alpha Attack v1.2 (2003)(Mirandow)</description>
+		<rom name="Alpha Attack v1.2 (2003)(Mirandow).mpn" size="55180" crc="cc92d655" md5="8a6dc76f2f9299468c09832305fdca7e" sha1="ef34c3282bf5fad4b470802479fb7ce7e6353985" />
+	</machine>
+	<machine name="Alpha Attack v1.5 (2003)(Mirandow)">
+		<description>Alpha Attack v1.5 (2003)(Mirandow)</description>
+		<rom name="Alpha Attack v1.5 (2003)(Mirandow).mpn" size="57076" crc="3e6da334" md5="1a674ea3e0f7d41b4a549c0533bb069f" sha1="b8d473a795f72871c03b1cca7f0522f70ff3cc9d" />
+	</machine>
+	<machine name="Ant Assault (2002)(NET-VR)">
+		<description>Ant Assault (2002)(NET-VR)</description>
+		<rom name="Ant Assault (2002)(NET-VR).mpn" size="53820" crc="8ab3e648" md5="3c39455748d186c13c99e20c859d9d58" sha1="5d3f7dbae776bced8adada36e8967e809461ddb4" />
+	</machine>
+	<machine name="Ant Assault (2002)(NET-VR)[a]">
+		<description>Ant Assault (2002)(NET-VR)[a]</description>
+		<rom name="Ant Assault (2002)(NET-VR)[a].mpn" size="56964" crc="fd7fca92" md5="ac39644b977a48ddf392493abeb47132" sha1="7b5d6f1b0d3492589b7af625a4fa595229395e4b" />
+	</machine>
+	<machine name="Ant Assault (20xx)(dex0r)[Phone#]">
+		<description>Ant Assault (20xx)(dex0r)[Phone#]</description>
+		<rom name="Ant Assault (20xx)(dex0r)[Phone#].mpn" size="53820" crc="e3e2c0b1" md5="dc36f66178ec2e669dfa872567438e83" sha1="2cec1cb69d2fbde10df4fda54dfd4db105bbbe6b" />
+	</machine>
+	<machine name="ATC v1.1 (2004)(Lunagames)">
+		<description>ATC v1.1 (2004)(Lunagames)</description>
+		<rom name="ATC v1.1 (2004)(Lunagames).mpn" size="57204" crc="3761a5d8" md5="750a88f9b6f1b23d2185c07d44acbce3" sha1="13d66f64cabf04d74fae3ccdc7656b230317b77e" />
+	</machine>
+	<machine name="Basketball Challange SE v0.6 (2003)(Jungie Entertainment)[Phone#]">
+		<description>Basketball Challange SE v0.6 (2003)(Jungie Entertainment)[Phone#]</description>
+		<rom name="Basketball Challange SE v0.6 (2003)(Jungie Entertainment)[Phone#].mpn" size="67444" crc="ee4c1fb4" md5="82aaa81f2ab31445390da8bacc0a9491" sha1="0955c6c811e3c1eaf96518689cd8931c7c10aced" />
+	</machine>
+	<machine name="Berserko Blocks v1.1 (2002)(Synergenix Interactive)">
+		<description>Berserko Blocks v1.1 (2002)(Synergenix Interactive)</description>
+		<rom name="Berserko Blocks v1.1 (2002)(Synergenix Interactive).mpn" size="58312" crc="c7bbabd0" md5="432650fb0dc5cea481b7e30e2914a784" sha1="4212a32cfabdabedd1fc0dd04c478d8f1031cd5f" />
+	</machine>
+	<machine name="Berserko Blocks v1.4 (2003)(Skyrank)">
+		<description>Berserko Blocks v1.4 (2003)(Skyrank)</description>
+		<rom name="Berserko Blocks v1.4 (2003)(Skyrank).mpn" size="58988" crc="564f642c" md5="fd17546355883bb6ff92ef2d7c63ba7d" sha1="5818168a4a05074f2d4d0b85f1d5ca8aedba8fb5" />
+	</machine>
+	<machine name="Bubble Trouble v1.0 (2003)(Big Blue Bubble)">
+		<description>Bubble Trouble v1.0 (2003)(Big Blue Bubble)</description>
+		<rom name="Bubble Trouble v1.0 (2003)(Big Blue Bubble).mpn" size="50780" crc="6f6a0934" md5="7f644a857a8f17d79aa3345ce0ac868a" sha1="738a23e89f05603bd59ef9e8531c75e1113577c5" />
+	</machine>
+	<machine name="Burger Matic v1.4 (2003)(Skyrank)">
+		<description>Burger Matic v1.4 (2003)(Skyrank)</description>
+		<rom name="Burger Matic v1.4 (2003)(Skyrank).mpn" size="59652" crc="2c559a3a" md5="a4f1c4d60d33f581026e513b4ffa556a" sha1="1155a6a9fb38cf2b2873463b5070740d048b4c0b" />
+	</machine>
+	<machine name="Canfield v1.3 (2003)(Mirandow)">
+		<description>Canfield v1.3 (2003)(Mirandow)</description>
+		<rom name="Canfield v1.3 (2003)(Mirandow).mpn" size="59260" crc="e5d98885" md5="9b1c669603f43c2b7e3d5b22c68af4e3" sha1="d64984cc8fc990e5a950d9e06b76d44fe9eff497" />
+	</machine>
+	<machine name="Captain Lunar v1.0 (2003)(Big Blue Bubble)">
+		<description>Captain Lunar v1.0 (2003)(Big Blue Bubble)</description>
+		<rom name="Captain Lunar v1.0 (2003)(Big Blue Bubble).mpn" size="116864" crc="8f0d38ae" md5="624d22dcc0ec1773c32cb9a620901398" sha1="18eea620be974ea0311cd8189f7746bc60c1a7e0" />
+	</machine>
+	<machine name="Captain Lunar v1.0 (2003)(Big Blue Bubble)[Phone#]">
+		<description>Captain Lunar v1.0 (2003)(Big Blue Bubble)[Phone#]</description>
+		<rom name="Captain Lunar v1.0 (2003)(Big Blue Bubble)[Phone#].mpn" size="116864" crc="78c1572c" md5="58302df31c1785040b9a89607a44eab8" sha1="7d86b4a9f61b56403fe24b6835c34cb4a3c3d1e0" />
+	</machine>
+	<machine name="Changs Orbhunt v0.1 (2002)(Synergenix Interactive)">
+		<description>Changs Orbhunt v0.1 (2002)(Synergenix Interactive)</description>
+		<rom name="Changs Orbhunt v0.1 (2002)(Synergenix Interactive).mpn" size="50920" crc="1ee3659c" md5="b69340790768459f74bfcc4e01198c3d" sha1="afeef9b4fc38680efd4c951fdbf8ed1b28a9c32e" />
+	</machine>
+	<machine name="Changs Orbhunt v1.0 (2004)(Synergenix Interactive)[Phone#]">
+		<description>Changs Orbhunt v1.0 (2004)(Synergenix Interactive)[Phone#]</description>
+		<rom name="Changs Orbhunt v1.0 (2004)(Synergenix Interactive)[Phone#].mpn" size="108772" crc="340b3c3b" md5="9788a20035ef09b8c988ec05d3a33c15" sha1="14dbddb23e474e5e3b687ba5511a26609248ee8d" />
+	</machine>
+	<machine name="Chaos Realms X v1.2 (2003)(Peck, Paul)[a][Phone#]">
+		<description>Chaos Realms X v1.2 (2003)(Peck, Paul)[a][Phone#]</description>
+		<rom name="Chaos Realms X v1.2 (2003)(Peck, Paul)[a][Phone#].mpn" size="80364" crc="6fcf2605" md5="37dc0a8e6f039d3f668971e781646dfb" sha1="cd200abc8829073a6ce9301b5458c19868a875ae" />
+	</machine>
+	<machine name="Chaos Realms X v1.2 (2003)(Peck, Paul)[Phone#]">
+		<description>Chaos Realms X v1.2 (2003)(Peck, Paul)[Phone#]</description>
+		<rom name="Chaos Realms X v1.2 (2003)(Peck, Paul)[Phone#].mpn" size="80364" crc="b4e12caa" md5="dcddef99ad75877e21222fe6445dd8b7" sha1="124d5890cf21504b3be458284d11582d96edb6bf" />
+	</machine>
+	<machine name="Charlies Angels (2003)(Sony Pictures)">
+		<description>Charlies Angels (2003)(Sony Pictures)</description>
+		<rom name="Charlies Angels (2003)(Sony Pictures).mpn" size="59724" crc="aba3532d" md5="400de438e0bbbd5eb4d3a25931974ba2" sha1="a336c4444505a8482acb7dd903b53210451afbfc" />
+	</machine>
+	<machine name="Charlies Angels (2003)(Sony Pictures)[a]">
+		<description>Charlies Angels (2003)(Sony Pictures)[a]</description>
+		<rom name="Charlies Angels (2003)(Sony Pictures)[a].mpn" size="59724" crc="195b3e18" md5="f236e555ace8d26263a291c2c4ce72fc" sha1="aebd488cb09610846d34b093842f86247714aa06" />
+	</machine>
+	<machine name="Chesswizz v1.4.1 T6XX EN (2003)(KerbyWare)">
+		<description>Chesswizz v1.4.1 T6XX EN (2003)(KerbyWare)</description>
+		<rom name="Chesswizz v1.4.1 T6XX EN (2003)(KerbyWare).mpn" size="59676" crc="0a2e58e3" md5="e0aad22d53c138eb4e8230b38a116347" sha1="a2a835adad3d466b0d666b7f90f2b45e94fa20a7" />
+	</machine>
+	<machine name="Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[Phone#]">
+		<description>Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[Phone#]</description>
+		<rom name="Colin McRae Rally 4 v1.0 (2004)(Synergenix Interactive)[Phone#].mpn" size="106700" crc="f497df96" md5="d3861e096573d1a6694a1decd435ba73" sha1="6ae08065139cf4fa5728e563b2df94fa44f3dbe0" />
+	</machine>
+	<machine name="Connect Four v1.0 (2004)(Mforma)">
+		<description>Connect Four v1.0 (2004)(Mforma)</description>
+		<rom name="Connect Four v1.0 (2004)(Mforma).mpn" size="40708" crc="195a25c4" md5="f6623bf3520e86d3298316a78738415e" sha1="86d39f39fcdb66472aa8a08a7427da5ac0b9f221" />
+	</machine>
+	<machine name="Cranebit v1.0 (20xx)(Psycho World)">
+		<description>Cranebit v1.0 (20xx)(Psycho World)</description>
+		<rom name="Cranebit v1.0 (20xx)(Psycho World).mpn" size="59384" crc="203f3eb9" md5="58a9867541be84d3581b3f055b54be96" sha1="8d0dad799118982125e6a4c4c308543470e1f122" />
+	</machine>
+	<machine name="Dawn Of The Vampire v1.0 (2003)(Maratron)">
+		<description>Dawn Of The Vampire v1.0 (2003)(Maratron)</description>
+		<rom name="Dawn Of The Vampire v1.0 (2003)(Maratron).mpn" size="56388" crc="a3ea6d12" md5="c876f33e383bc88cda1f8ebf2262879f" sha1="79ba35e2f576b46df33e1547680b4f177299ad44" />
+	</machine>
+	<machine name="Dog City (2002)(Synergenix Interactive)">
+		<description>Dog City (2002)(Synergenix Interactive)</description>
+		<rom name="Dog City (2002)(Synergenix Interactive).mpn" size="59624" crc="238b6dd7" md5="9c45a8815f9d1a30c189172c65fd8189" sha1="686442978a6e419f948ec7dfc7af155b3b1a6a05" />
+	</machine>
+	<machine name="Dragon Tale v1.2 (2003)(Spark Creative)">
+		<description>Dragon Tale v1.2 (2003)(Spark Creative)</description>
+		<rom name="Dragon Tale v1.2 (2003)(Spark Creative).mpn" size="83760" crc="ba9ea42c" md5="1656e8eef94cbe6355f1443c62028a92" sha1="3a0aaa390c50ae1fa76babef93d486f0d0b59bf1" />
+	</machine>
+	<machine name="Ducati Extreme v1.3 (2004)(Big Blue Bubble)">
+		<description>Ducati Extreme v1.3 (2004)(Big Blue Bubble)</description>
+		<rom name="Ducati Extreme v1.3 (2004)(Big Blue Bubble).mpn" size="106092" crc="82a66247" md5="71884643c5cfd609b519a20d94a5e96c" sha1="a81c762eda520d7af33bb29bd1e39c4fb2380e2c" />
+	</machine>
+	<machine name="Evac (2003)(Max Artists)">
+		<description>Evac (2003)(Max Artists)</description>
+		<rom name="Evac (2003)(Max Artists).mpn" size="59752" crc="5863a8c3" md5="7e1ef8f0ea85e9b0abb10f586cb725be" sha1="7b580819118f7ecdfa6d902be093b4ccc99e5a14" />
+	</machine>
+	<machine name="Evac v1.0 (2003)(Binary Graffitti)[IMEI]">
+		<description>Evac v1.0 (2003)(Binary Graffitti)[IMEI]</description>
+		<rom name="Evac v1.0 (2003)(Binary Graffitti)[IMEI].mpn" size="85660" crc="ad4a9153" md5="7169b222a20d195b9f404af6f498d2ff" sha1="eedf8e252ec2ec3edf10733ca2aa1ff6ebaeab40" />
+	</machine>
+	<machine name="Final Hit v1.3 (2003)(Wlodarczyk, Karol &amp; Wlodarczyk, Mariusz)[Phone#]">
+		<description>Final Hit v1.3 (2003)(Wlodarczyk, Karol &amp; Wlodarczyk, Mariusz)[Phone#]</description>
+		<rom name="Final Hit v1.3 (2003)(Wlodarczyk, Karol &amp; Wlodarczyk, Mariusz)[Phone#].mpn" size="59620" crc="1945f5e7" md5="5e91009002bc9c425ec19bdd59a99c6e" sha1="955faa544e810a32ce4459be5ba70e18999d7851" />
+	</machine>
+	<machine name="Fire Power v1.0 (2003)(Georgios, Chiotis)">
+		<description>Fire Power v1.0 (2003)(Georgios, Chiotis)</description>
+		<rom name="Fire Power v1.0 (2003)(Georgios, Chiotis).mpn" size="59356" crc="11ea0e91" md5="eaf3b6addded0cf702e13835ce2f0ac6" sha1="eca34415c23d1633f7c85fb7e024aa7c95ad8600" />
+	</machine>
+	<machine name="Frankie Jumpy v1.2.1 (2003)(impressionware)">
+		<description>Frankie Jumpy v1.2.1 (2003)(impressionware)</description>
+		<rom name="Frankie Jumpy v1.2.1 (2003)(impressionware).mpn" size="54108" crc="3e2002fa" md5="469aa49479011cfe1cf00ae3ed59726a" sha1="4187f32daf0c9af1bb3cc338a465bab5c0dc5ffd" />
+	</machine>
+	<machine name="Fruit Juice v1.0 (2002)(Potion)">
+		<description>Fruit Juice v1.0 (2002)(Potion)</description>
+		<rom name="Fruit Juice v1.0 (2002)(Potion).mpn" size="52768" crc="1216596d" md5="048e113eb44e4a948e8ce00415a1a643" sha1="a44d100578c0b63e7e79cd88c9637f5de5a6e776" />
+	</machine>
+	<machine name="Get-Away v1.1 (20xx)(MH Games)">
+		<description>Get-Away v1.1 (20xx)(MH Games)</description>
+		<rom name="Get-Away v1.1 (20xx)(MH Games).mpn" size="56548" crc="09b03840" md5="28fe9fe6de40a11022dc6a69403285f7" sha1="b5bdd14bb8fe27ff04943f939c72d708dbf0c5ae" />
+	</machine>
+	<machine name="Graviation v1.0 (2002)(Awesume Interactive)">
+		<description>Graviation v1.0 (2002)(Awesume Interactive)</description>
+		<rom name="Graviation v1.0 (2002)(Awesume Interactive).mpn" size="59824" crc="68033ba2" md5="563dbe64c20baf58c4e14eb16766c57f" sha1="63dc26fad379a7ed608e669943f610baf104427d" />
+	</machine>
+	<machine name="Graviation v1.0 (2002)(Awesume Interactive)[Phone#]">
+		<description>Graviation v1.0 (2002)(Awesume Interactive)[Phone#]</description>
+		<rom name="Graviation v1.0 (2002)(Awesume Interactive)[Phone#].mpn" size="59824" crc="be87ef9a" md5="a100910696a98862f8e48d3bf8baeeb1" sha1="357dcdb159749af1615383d66f1cb088e543fe68" />
+	</machine>
+	<machine name="Graviton v1.0 (2003)(Synergenix Interactive)">
+		<description>Graviton v1.0 (2003)(Synergenix Interactive)</description>
+		<rom name="Graviton v1.0 (2003)(Synergenix Interactive).mpn" size="43480" crc="b680b46f" md5="3f9bbb93feabd57da95d788a28411b41" sha1="7f0ef4b48dcfb06f18d58504453813b0f9acfefd" />
+	</machine>
+	<machine name="Graviton v1.0 (2003)(Synergenix Interactive)[a]">
+		<description>Graviton v1.0 (2003)(Synergenix Interactive)[a]</description>
+		<rom name="Graviton v1.0 (2003)(Synergenix Interactive)[a].mpn" size="40036" crc="13405640" md5="d9e4832bfdf9d232a2ad54dc769bafaa" sha1="349f563097a04a208c54a768f99f870b9c9fe10c" />
+	</machine>
+	<machine name="Graviton v1.0 (2003)(Synergenix Interactive)[Phone#]">
+		<description>Graviton v1.0 (2003)(Synergenix Interactive)[Phone#]</description>
+		<rom name="Graviton v1.0 (2003)(Synergenix Interactive)[Phone#].mpn" size="43480" crc="df8d65dd" md5="00116f09b3157207142280f8669a51f8" sha1="349f3737095dc49341f9a1efac19173ed4acf74c" />
+	</machine>
+	<machine name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[a][Phone#]">
+		<description>Gun Carnage v1.0 (20xx)(Capricorn Studios)[a][Phone#]</description>
+		<rom name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[a][Phone#].mpn" size="118788" crc="dccb6aaf" md5="aa7b1d692734b2ca94804d9e9d9e623e" sha1="c78396b0f6cc8986228a8acf88edaa3455c40d20" />
+	</machine>
+	<machine name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[Phone#]">
+		<description>Gun Carnage v1.0 (20xx)(Capricorn Studios)[Phone#]</description>
+		<rom name="Gun Carnage v1.0 (20xx)(Capricorn Studios)[Phone#].mpn" size="118788" crc="7822206f" md5="d8c21e9e7281791788c1cc805443ca33" sha1="aaf2cd7971ebcc0c1cca92238ddf60eab04029bf" />
+	</machine>
+	<machine name="Honey Cave 2 v1.0 (2003)(Sony Ericsson)">
+		<description>Honey Cave 2 v1.0 (2003)(Sony Ericsson)</description>
+		<rom name="Honey Cave 2 v1.0 (2003)(Sony Ericsson).mpn" size="64788" crc="1622afde" md5="80a5629305dfba8a19ab0890404e385a" sha1="5cfc04dc1c3c165bd1c3287ac628294fcddb2856" />
+	</machine>
+	<machine name="Huntsman v1.2 (2003)(Mirandow)">
+		<description>Huntsman v1.2 (2003)(Mirandow)</description>
+		<rom name="Huntsman v1.2 (2003)(Mirandow).mpn" size="56800" crc="fd57abe4" md5="c8cdf9f8f2e4eef9a797a94de5c7742e" sha1="277dba491bc04659933f95f5a2a2ebff8e73897d" />
+	</machine>
+	<machine name="Huntsman v1.3 (2003)(Mirandow)">
+		<description>Huntsman v1.3 (2003)(Mirandow)</description>
+		<rom name="Huntsman v1.3 (2003)(Mirandow).mpn" size="56212" crc="3234be6c" md5="afe5f153c70a0e6d1f0e8864045ee5d0" sha1="29011f99c2d68aeb932b32e8a074ff80036161fe" />
+	</machine>
+	<machine name="Huntsman v1.4 (2003)(Mirandow)">
+		<description>Huntsman v1.4 (2003)(Mirandow)</description>
+		<rom name="Huntsman v1.4 (2003)(Mirandow).mpn" size="57652" crc="c3424770" md5="10b702b67b6bebda4790134323b2a8ab" sha1="174ddb3c80735465eb0ed642868e976513f5d705" />
+	</machine>
+	<machine name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)">
+		<description>Iceblox Plus v1.01 (2002)(Synergenix Interactive)</description>
+		<rom name="Iceblox Plus v1.01 (2002)(Synergenix Interactive).mpn" size="50784" crc="dd3a733d" md5="157a686c22420604fef26631df4a26d5" sha1="95d11de55f4bf0da3dcef177b6beb4050906a155" />
+	</machine>
+	<machine name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[a]">
+		<description>Iceblox Plus v1.01 (2002)(Synergenix Interactive)[a]</description>
+		<rom name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[a].mpn" size="52248" crc="7eb92632" md5="e25b035a5e09b052872fa51a05042285" sha1="43efa3162ceb2c28d52668a39c1bebdd3894ac96" />
+	</machine>
+	<machine name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[Phone#]">
+		<description>Iceblox Plus v1.01 (2002)(Synergenix Interactive)[Phone#]</description>
+		<rom name="Iceblox Plus v1.01 (2002)(Synergenix Interactive)[Phone#].mpn" size="50784" crc="dd8d275d" md5="54a93af38ad07be2a166881558d95031" sha1="102377d9d2891ef2ebd4716b058402c9385a15ee" />
+	</machine>
+	<machine name="Jeopardy v1.0 (2003)(Sony Pictures)">
+		<description>Jeopardy v1.0 (2003)(Sony Pictures)</description>
+		<rom name="Jeopardy v1.0 (2003)(Sony Pictures).mpn" size="58636" crc="6d6a2a25" md5="da5aa1b33fe4e7f5485fdeda14b0d508" sha1="0608d4aded75e568404c9215e5b1bbecc8a48af3" />
+	</machine>
+	<machine name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[a][Phone#]">
+		<description>Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[a][Phone#]</description>
+		<rom name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[a][Phone#].mpn" size="81160" crc="5901f6fb" md5="1122823df3d943728096d35a311b7830" sha1="a85dc4a3ac0ff7ec8368b1536252d7cf1f65b3dc" />
+	</machine>
+	<machine name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[Phone#]">
+		<description>Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[Phone#]</description>
+		<rom name="Jumping Bubble v1.03 (20xx)(Victor, Dudea Sorin)[Phone#].mpn" size="81160" crc="92b5c476" md5="c55a2c83f3ca504783b97cb7b7fca41d" sha1="c0a01028cf68bf79e433ab6ed6e534073918d0cf" />
+	</machine>
+	<machine name="Klondike v1.2 (2003)(Mirandow)">
+		<description>Klondike v1.2 (2003)(Mirandow)</description>
+		<rom name="Klondike v1.2 (2003)(Mirandow).mpn" size="58548" crc="8f23b765" md5="77589b8a9694d8623f1cb500f8730299" sha1="19c291bc05ffde817b75477b08e30c6a4e20b634" />
+	</machine>
+	<machine name="KSPS v5.2 (2003)(JAMDAT)[Phone#]">
+		<description>KSPS v5.2 (2003)(JAMDAT)[Phone#]</description>
+		<rom name="KSPS v5.2 (2003)(JAMDAT)[Phone#].mpn" size="119272" crc="6778369c" md5="fbea835e52121a21925088ac3db96edd" sha1="f8363b45dc5ef27e2d8d08176916d99603188d44" />
+	</machine>
+	<machine name="Lisa v1.0 (2003)(Maroon games)">
+		<description>Lisa v1.0 (2003)(Maroon games)</description>
+		<rom name="Lisa v1.0 (2003)(Maroon games).mpn" size="59720" crc="00eb880b" md5="3d7a0f4ab97e8e25246028144935cb06" sha1="5c77572b87bcc1373f6db355a318694b223930e8" />
+	</machine>
+	<machine name="Litl Indians v1.0 (20xx)(MediTech Interactive)">
+		<description>Litl Indians v1.0 (20xx)(MediTech Interactive)</description>
+		<rom name="Litl Indians v1.0 (20xx)(MediTech Interactive).mpn" size="95660" crc="140cf729" md5="6d9ec63ed606c969b999a07f162a3373" sha1="874cc08dbd230ae91e08cd3c1e4420b35204ca6c" />
+	</machine>
+	<machine name="Litl Indians v1.0 (20xx)(MediTech Interactive)[a]">
+		<description>Litl Indians v1.0 (20xx)(MediTech Interactive)[a]</description>
+		<rom name="Litl Indians v1.0 (20xx)(MediTech Interactive)[a].mpn" size="95640" crc="d29450c0" md5="4af7fdb91ac6bb3a250ed150f2ef9b02" sha1="d0f61144ede41a3ff85065171dd63acfbf0f3f65" />
+	</machine>
+	<machine name="Little Indians v1.2 (20xx)(MediTech Interactive)">
+		<description>Little Indians v1.2 (20xx)(MediTech Interactive)</description>
+		<rom name="Little Indians v1.2 (20xx)(MediTech Interactive).mpn" size="98068" crc="2431d389" md5="d01fd73fc30c180b179442ccb9e30d8a" sha1="f0762db6789f5b72d81ddeb5f9ba76704caf4bd3" />
+	</machine>
+	<machine name="Micro Post Client v29-06-05 (2005)(Akulov Mikael)">
+		<description>Micro Post Client v29-06-05 (2005)(Akulov Mikael)</description>
+		<rom name="Micro Post Client v29-06-05 (2005)(Akulov Mikael).mpn" size="32440" crc="4a4bc1fe" md5="7c50dd0169ae9cac4409befc24e9a013" sha1="7be75fe3a719291838d68f048b9e1d2733b32fde" />
+	</machine>
+	<machine name="Mophjong Solitaire v1.0 (2003)(Digital Fluff)">
+		<description>Mophjong Solitaire v1.0 (2003)(Digital Fluff)</description>
+		<rom name="Mophjong Solitaire v1.0 (2003)(Digital Fluff).mpn" size="58488" crc="868d5fdf" md5="1d3c09979b0d64602cc9185507853253" sha1="7d0d0990c30e9f01503fcec38192b1198f27bba9" />
+	</machine>
+	<machine name="Pexoso v1.0 (20xx)((c) Ivan Yanin, 2003)">
+		<description>Pexoso v1.0 (20xx)((c) Ivan Yanin, 2003)</description>
+		<rom name="Pexoso v1.0 (20xx)((c) Ivan Yanin, 2003).mpn" size="30760" crc="7b9be9f6" md5="781f840678b2314b3d47c76ca5edc4c7" sha1="52d8759f52e192d9843a5e518e843bcd70239f74" />
+	</machine>
+	<machine name="PhunMarbles v1.0 (2003)(Fulkod)">
+		<description>PhunMarbles v1.0 (2003)(Fulkod)</description>
+		<rom name="PhunMarbles v1.0 (2003)(Fulkod).mpn" size="37404" crc="190a07c7" md5="4d29d5b543a6b637df3c6ec7a60afa40" sha1="246fc448dec56d959eabd01bf4c107032cd9f2a2" />
+	</machine>
+	<machine name="Poker Showdown v1.0 (2003)(Binary Graffitti)">
+		<description>Poker Showdown v1.0 (2003)(Binary Graffitti)</description>
+		<rom name="Poker Showdown v1.0 (2003)(Binary Graffitti).mpn" size="62804" crc="6aed1b7e" md5="03d5832fde568e036723763731788b23" sha1="18e8e9e0dd5115cf3182ad2a5d645c0712447872" />
+	</machine>
+	<machine name="Poker Showdown v1.0 (2003)(Binary Graffitti)[a]">
+		<description>Poker Showdown v1.0 (2003)(Binary Graffitti)[a]</description>
+		<rom name="Poker Showdown v1.0 (2003)(Binary Graffitti)[a].mpn" size="85292" crc="33dffc5c" md5="d15170685d7716bc24920756a975b645" sha1="43729befb0ca47d6aae43a5cc7ba63dbddea595a" />
+	</machine>
+	<machine name="Prehistorik Man v0.1 (20xx)(Eye One)[IMEI]">
+		<description>Prehistorik Man v0.1 (20xx)(Eye One)[IMEI]</description>
+		<rom name="Prehistorik Man v0.1 (20xx)(Eye One)[IMEI].mpn" size="111908" crc="267a89a9" md5="29953d0a93483ca93a6e5dbe3bb87d6a" sha1="db22142d1bf5d819be36403bfb463ef257420178" />
+	</machine>
+	<machine name="Puzzle Mania v1.00 (2003)(Synergenix Interactive)">
+		<description>Puzzle Mania v1.00 (2003)(Synergenix Interactive)</description>
+		<rom name="Puzzle Mania v1.00 (2003)(Synergenix Interactive).mpn" size="33352" crc="aa9ee5f6" md5="05f0ecfc221bb5c59636205b4d23a869" sha1="f577ccc5c313efa37dd017c0e42175ff046557dc" />
+	</machine>
+	<machine name="Q_bert v1.0 (2003)(Sony Pictures)">
+		<description>Q_bert v1.0 (2003)(Sony Pictures)</description>
+		<rom name="Q_bert v1.0 (2003)(Sony Pictures).mpn" size="48576" crc="d15bc461" md5="c8b91479e71e1d5d75b2e6ea5baf75b6" sha1="dcc1b4e4759231969d836f9c21140854c15eea02" />
+	</machine>
+	<machine name="Q_bert v1.03 (2003)(Sony Pictures)">
+		<description>Q_bert v1.03 (2003)(Sony Pictures)</description>
+		<rom name="Q_bert v1.03 (2003)(Sony Pictures).mpn" size="49528" crc="b2aa4d62" md5="9bf66f8a153ffe016326d494da22ed6c" sha1="355da4980ffc2cc8c68ebef28d695e2b3aa03026" />
+	</machine>
+	<machine name="Qsoccer v1.00 (2002)(q u b e)">
+		<description>Qsoccer v1.00 (2002)(q u b e)</description>
+		<rom name="Qsoccer v1.00 (2002)(q u b e).mpn" size="93856" crc="a6d5090a" md5="53a4ac795d26caa5f23180ab70f51af0" sha1="7f2d13d93caa45ca5d1cba287fff371258c5c285" />
+	</machine>
+	<machine name="Qsoccer v1.03 (2002)(q u b e)">
+		<description>Qsoccer v1.03 (2002)(q u b e)</description>
+		<rom name="Qsoccer v1.03 (2002)(q u b e).mpn" size="58932" crc="57ae1002" md5="a8a9ecb4bcb4eafbf26b324a939021be" sha1="3d41b35654f637b86339f938d2fbf870b06f2840" />
+	</machine>
+	<machine name="Qsoccer v1.03 (2002)(q u b e)[Phone#]">
+		<description>Qsoccer v1.03 (2002)(q u b e)[Phone#]</description>
+		<rom name="Qsoccer v1.03 (2002)(q u b e)[Phone#].mpn" size="58932" crc="fc1d05d1" md5="5cfa91989945a7c910285bec049b3cba" sha1="0cb2e5bab08d9244a8e3ea9d9a7134a78433a9c6" />
+	</machine>
+	<machine name="Rally (2002)(Synergenix Interactive)">
+		<description>Rally (2002)(Synergenix Interactive)</description>
+		<rom name="Rally (2002)(Synergenix Interactive).mpn" size="58692" crc="003cf688" md5="76bdc2f6b134bc58292285426798e836" sha1="8efad9812f3f40e46cc09b7502ccf1ffc29ae307" />
+	</machine>
+	<machine name="Rally v1.02 (2002)(Synergenix Interactive)[Phone#]">
+		<description>Rally v1.02 (2002)(Synergenix Interactive)[Phone#]</description>
+		<rom name="Rally v1.02 (2002)(Synergenix Interactive)[Phone#].mpn" size="68980" crc="83204d92" md5="47882e38dc3e6a8aca5010ed4baf560f" sha1="4d316c437e82732a98c9ff72c1045cd3856fc918" />
+	</machine>
+	<machine name="RC Battle v1.2 (2003)(Mobile Interaction)">
+		<description>RC Battle v1.2 (2003)(Mobile Interaction)</description>
+		<rom name="RC Battle v1.2 (2003)(Mobile Interaction).mpn" size="58728" crc="5941ca06" md5="21810e73c2b838dcdfcddd67e858af22" sha1="156aa7ef975c08f4fcb50b4c11539d92b4c19a98" />
+	</machine>
+	<machine name="RC Battle v1.2 (2003)(Mobile Interaction)[a]">
+		<description>RC Battle v1.2 (2003)(Mobile Interaction)[a]</description>
+		<rom name="RC Battle v1.2 (2003)(Mobile Interaction)[a].mpn" size="58728" crc="ec1ca2c7" md5="0f9ac98006a040fc9dff1279ee4688c7" sha1="0c427426ee3a3a75f8dfb271c3b495856a40cb5c" />
+	</machine>
+	<machine name="Reversi v1.3 (2003)(Milan Rusek)">
+		<description>Reversi v1.3 (2003)(Milan Rusek)</description>
+		<rom name="Reversi v1.3 (2003)(Milan Rusek).mpn" size="39412" crc="1e4fc480" md5="020e11a00c2e4d5ae0f081cf9f23b924" sha1="65ff905c4c39ce6b3213e8b6675a0f5180300472" />
+	</machine>
+	<machine name="Revs! v1.0 (2003)()[a][Phone#][IMEI]">
+		<description>Revs! v1.0 (2003)()[a][Phone#][IMEI]</description>
+		<rom name="Revs! v1.0 (2003)()[a][Phone#][IMEI].mpn" size="59688" crc="c3f7ecdf" md5="ef1f96588d85e1f03e94f60648dfe135" sha1="018014e7e22239be1b2783bc64954d6e1c330e33" />
+	</machine>
+	<machine name="Revs! v1.0 (2003)()[Phone#][IMEI]">
+		<description>Revs! v1.0 (2003)()[Phone#][IMEI]</description>
+		<rom name="Revs! v1.0 (2003)()[Phone#][IMEI].mpn" size="59688" crc="f85fcf26" md5="87662040535a177065278eb88e8689d2" sha1="cdd02d39d779d2f324ac8955495312f91c0032ea" />
+	</machine>
+	<machine name="Rows Blaster v1.0 (2004)(Magic Productions)">
+		<description>Rows Blaster v1.0 (2004)(Magic Productions)</description>
+		<rom name="Rows Blaster v1.0 (2004)(Magic Productions).mpn" size="58072" crc="3dd1c50d" md5="b738911884d6aaa3d6e212faad15c038" sha1="6b964cd5c03027894a8fa2998d5a050a4b532c47" />
+	</machine>
+	<machine name="RussPack v1.1 (2003)(World's Epsilon)">
+		<description>RussPack v1.1 (2003)(World's Epsilon)</description>
+		<rom name="RussPack v1.1 (2003)(World's Epsilon).mpn" size="59640" crc="a5f4b38f" md5="d4f636921186d32064046d69db20a20a" sha1="5ce4a0f9aff897c429572bc2c11ee3fea9af8d15" />
+	</machine>
+	<machine name="RussPack v1.1 (2003)(World's Epsilon)[Phone#]">
+		<description>RussPack v1.1 (2003)(World's Epsilon)[Phone#]</description>
+		<rom name="RussPack v1.1 (2003)(World's Epsilon)[Phone#].mpn" size="59640" crc="410076d9" md5="3ea4af38e234d3686b0d00205a73f077" sha1="ae2e35c6ab1cb99d3368cdb1136368c66a63ca3a" />
+	</machine>
+	<machine name="S.A.A.F. v1.1 (2004)(Synergenix Interactive)">
+		<description>S.A.A.F. v1.1 (2004)(Synergenix Interactive)</description>
+		<rom name="S.A.A.F. v1.1 (2004)(Synergenix Interactive).mpn" size="69896" crc="1c7c680b" md5="7082223861b475fcfb05abdc406a32e5" sha1="02ed48c96fae68770624b9216bc35418a69d3a7c" />
+	</machine>
+	<machine name="Sheep Mania v1.2 (2002)(Progressive Media)[Phone#]">
+		<description>Sheep Mania v1.2 (2002)(Progressive Media)[Phone#]</description>
+		<rom name="Sheep Mania v1.2 (2002)(Progressive Media)[Phone#].mpn" size="71024" crc="603600c5" md5="1f11bc6e0fe17a68ce5c0a7047963df6" sha1="e2380232974d0a3e29076423a960303b3059ebb3" />
+	</machine>
+	<machine name="Sheep Mania v1.3 (20xx)(dex0r)[a][Phone#]">
+		<description>Sheep Mania v1.3 (20xx)(dex0r)[a][Phone#]</description>
+		<rom name="Sheep Mania v1.3 (20xx)(dex0r)[a][Phone#].mpn" size="42548" crc="b66dd810" md5="38a53277ec9844a66539713d1faee2c9" sha1="43d5cb2535bcbc11d4bcfcc77dce8df4312a7bbd" />
+	</machine>
+	<machine name="Sheep Mania v1.3 (20xx)(dex0r)[Phone#]">
+		<description>Sheep Mania v1.3 (20xx)(dex0r)[Phone#]</description>
+		<rom name="Sheep Mania v1.3 (20xx)(dex0r)[Phone#].mpn" size="42548" crc="1e150e5c" md5="a5db60d338e7eb9c4f663af555f738f2" sha1="d9e04ce2ed77dd4e9f966bc4c042ba5353e2f319" />
+	</machine>
+	<machine name="Shooting Star v1.3 (2003)(Mirandow)">
+		<description>Shooting Star v1.3 (2003)(Mirandow)</description>
+		<rom name="Shooting Star v1.3 (2003)(Mirandow).mpn" size="51916" crc="43348d38" md5="ce38c08614d93cc3910fbb23c1df8d64" sha1="3129a7745f5e7c5ac3a4b2648abce047907827ae" />
+	</machine>
+	<machine name="Shooting Star v1.5 (2003)(Mirandow)">
+		<description>Shooting Star v1.5 (2003)(Mirandow)</description>
+		<rom name="Shooting Star v1.5 (2003)(Mirandow).mpn" size="44536" crc="bdb4e761" md5="adb02b4b936195e0947bcfe19ee50603" sha1="a1a0729c40849941224f7956282aa49854432843" />
+	</machine>
+	<machine name="Solitaire v1.0 (2003)(mProductions)">
+		<description>Solitaire v1.0 (2003)(mProductions)</description>
+		<rom name="Solitaire v1.0 (2003)(mProductions).mpn" size="49176" crc="a9d06b91" md5="d440420dc84c9446ab70cfe5179c3c20" sha1="36a7905f81616f015050387da8c47089c8e77f7f" />
+	</machine>
+	<machine name="Something Fishy v1.0 (2003)(West of Pluto)">
+		<description>Something Fishy v1.0 (2003)(West of Pluto)</description>
+		<rom name="Something Fishy v1.0 (2003)(West of Pluto).mpn" size="58992" crc="83d7dc6b" md5="a0664375c1cfc436363dfc02fdc39401" sha1="55e63056ca9b2307170982287ae97f314a1fd15b" />
+	</machine>
+	<machine name="Space Box 3D v2.0 (2003)(Graczyk, Tomasz)">
+		<description>Space Box 3D v2.0 (2003)(Graczyk, Tomasz)</description>
+		<rom name="Space Box 3D v2.0 (2003)(Graczyk, Tomasz).mpn" size="118632" crc="d46f4737" md5="74ba9c3cc2b79bbfb9ff7083db54a433" sha1="0667e954d9b802c2371378a567997232c372bc28" />
+	</machine>
+	<machine name="Space Box 3D v2.0 (2003)(Graczyk, Tomasz)[a]">
+		<description>Space Box 3D v2.0 (2003)(Graczyk, Tomasz)[a]</description>
+		<rom name="Space Box 3D v2.0 (2003)(Graczyk, Tomasz)[a].mpn" size="118632" crc="87ed5a7f" md5="b58b4b691dd3cd0548fa100351191791" sha1="20fc5bd648990916301700be05c93050beadc51e" />
+	</machine>
+	<machine name="Space Box v1.01 (2003)(Graczyk, Tomasz)[Phone#]">
+		<description>Space Box v1.01 (2003)(Graczyk, Tomasz)[Phone#]</description>
+		<rom name="Space Box v1.01 (2003)(Graczyk, Tomasz)[Phone#].mpn" size="60220" crc="f6cd5351" md5="f431ce2ff361ed81f24f422aa24cbc17" sha1="fa05b5a648b44ff8c412177f46b1b9e401d95ee7" />
+	</machine>
+	<machine name="Space Debris v1.0 (2003)(Digital Fluff)">
+		<description>Space Debris v1.0 (2003)(Digital Fluff)</description>
+		<rom name="Space Debris v1.0 (2003)(Digital Fluff).mpn" size="59776" crc="bea07ed4" md5="2839f11131a762b17a1e0346cfff504e" sha1="f2cd57f26ea3eed7cf88e714791726faf97e24f8" />
+	</machine>
+	<machine name="Space Explorer v1.1 (2003)(impressionware)">
+		<description>Space Explorer v1.1 (2003)(impressionware)</description>
+		<rom name="Space Explorer v1.1 (2003)(impressionware).mpn" size="59576" crc="c78f3df7" md5="2a55f4bea4c61d79c81f2a7481602878" sha1="7fff4371b405cfded6fde1c784acf50a142dbc96" />
+	</machine>
+	<machine name="Stonker v1.0 (2003)(PsychoWorld)">
+		<description>Stonker v1.0 (2003)(PsychoWorld)</description>
+		<rom name="Stonker v1.0 (2003)(PsychoWorld).mpn" size="81600" crc="1500cc61" md5="3e8fa645d1e1e8e04d6535f2298f4637" sha1="a546c6fede24ebe2b15e482ca77be4b75c90ed18" />
+	</machine>
+	<machine name="Stonker Xmas v1.0 (2003)(PsychoWorld)">
+		<description>Stonker Xmas v1.0 (2003)(PsychoWorld)</description>
+		<rom name="Stonker Xmas v1.0 (2003)(PsychoWorld).mpn" size="59656" crc="99451569" md5="81ba0e952e7de690417c8471d9248244" sha1="606ab915bf3fdddf2da486e34e55d0d148b77534" />
+	</machine>
+	<machine name="Stonker Xmas v1.0 (2003)(PsychoWorld)[a]">
+		<description>Stonker Xmas v1.0 (2003)(PsychoWorld)[a]</description>
+		<rom name="Stonker Xmas v1.0 (2003)(PsychoWorld)[a].mpn" size="59656" crc="6f15ae17" md5="ef7b05873fc145653f06e6e1e97e4015" sha1="9277dcddf44be8db98d20c89617c0c7d3fc20e74" />
+	</machine>
+	<machine name="Street Chase v1.0 (2002)(InstantCom Ltd.)">
+		<description>Street Chase v1.0 (2002)(InstantCom Ltd.)</description>
+		<rom name="Street Chase v1.0 (2002)(InstantCom Ltd.).mpn" size="86955" crc="406aff08" md5="8f0c1028308f2455e56301c6a8cd62a5" sha1="8b68a252beb58d555d93df26ed4eb94abef6158a" />
+	</machine>
+	<machine name="Strike Out v1.0 (2003)(Demsky, Alexander)[a][Phone#]">
+		<description>Strike Out v1.0 (2003)(Demsky, Alexander)[a][Phone#]</description>
+		<rom name="Strike Out v1.0 (2003)(Demsky, Alexander)[a][Phone#].mpn" size="55844" crc="4bdf93ac" md5="4307462353d37a9859e5406fb727d670" sha1="6f782109e7b5516a82b0af6b5b8696bb20e25ef8" />
+	</machine>
+	<machine name="Strike Out v1.0 (2003)(Demsky, Alexander)[Phone#]">
+		<description>Strike Out v1.0 (2003)(Demsky, Alexander)[Phone#]</description>
+		<rom name="Strike Out v1.0 (2003)(Demsky, Alexander)[Phone#].mpn" size="55844" crc="22476663" md5="33db0dc2c0f2d386242fac3c751fca75" sha1="a0825dc37ce995c5e1ed3fabae8164e0e8223301" />
+	</machine>
+	<machine name="Subhunt v1.2 (2003)(Digital Fluff)">
+		<description>Subhunt v1.2 (2003)(Digital Fluff)</description>
+		<rom name="Subhunt v1.2 (2003)(Digital Fluff).mpn" size="30212" crc="8005169a" md5="dc5b32f8203a9daaf11a130e321d959f" sha1="c8c124885fd972ac3c133f79e12a5b281dc84dcd" />
+	</machine>
+	<machine name="Supah Worm (2003)(Max Artists)">
+		<description>Supah Worm (2003)(Max Artists)</description>
+		<rom name="Supah Worm (2003)(Max Artists).mpn" size="94904" crc="0ffe47db" md5="7e14fff0a9fc8a65e2d7d535696dc2d3" sha1="da30d05e2727524e060241934b64311f713006ef" />
+	</machine>
+	<machine name="Sweet Dreams v1.1 (2003)(Max Artists)[Phone#]">
+		<description>Sweet Dreams v1.1 (2003)(Max Artists)[Phone#]</description>
+		<rom name="Sweet Dreams v1.1 (2003)(Max Artists)[Phone#].mpn" size="69692" crc="73120788" md5="8602262c8b825076afbf60acb4867e19" sha1="f9c78637f47a62f83cdbec8d17cdd47e8e3db55f" />
+	</machine>
+	<machine name="Syndroid (2002)(Synergenix Interactive)">
+		<description>Syndroid (2002)(Synergenix Interactive)</description>
+		<rom name="Syndroid (2002)(Synergenix Interactive).mpn" size="42252" crc="c69fc2d9" md5="4285760d9cc0c2dc5be471901cce47b7" sha1="ba453ec6d5eaa1111d7be526ab886e58fd2e9fa6" />
+	</machine>
+	<machine name="Syndroid (2002)(Synergenix Interactive)[a]">
+		<description>Syndroid (2002)(Synergenix Interactive)[a]</description>
+		<rom name="Syndroid (2002)(Synergenix Interactive)[a].mpn" size="51240" crc="4e4ecf19" md5="72d7367f8701ae9b52d6aadfaa178f09" sha1="1d7acf3431b49b0c47dab663e75573e32ec49799" />
+	</machine>
+	<machine name="Tony Hawk v1.01 (2003)(JAMDAT)[a2][Phone#]">
+		<description>Tony Hawk v1.01 (2003)(JAMDAT)[a2][Phone#]</description>
+		<rom name="Tony Hawk v1.01 (2003)(JAMDAT)[a2][Phone#].mpn" size="116596" crc="394a8111" md5="e212d5669445856f4dd4e15af0e2bdd2" sha1="fcb19e1cb182bca2e5b02a9c4b4056cca2ad1c0b" />
+	</machine>
+	<machine name="Tony Hawk v1.01 (2003)(JAMDAT)[a3][Phone#]">
+		<description>Tony Hawk v1.01 (2003)(JAMDAT)[a3][Phone#]</description>
+		<rom name="Tony Hawk v1.01 (2003)(JAMDAT)[a3][Phone#].mpn" size="116596" crc="528c37b8" md5="5dfa4a28f6c95ff9d495b88ef5660b6f" sha1="cb8ccf440d370eef4fafe97d7c87b2bf378ee827" />
+	</machine>
+	<machine name="Tony Hawk v1.01 (2003)(JAMDAT)[a][Phone#]">
+		<description>Tony Hawk v1.01 (2003)(JAMDAT)[a][Phone#]</description>
+		<rom name="Tony Hawk v1.01 (2003)(JAMDAT)[a][Phone#].mpn" size="114644" crc="71b6fad1" md5="9c0251b42cc86dd66aa8777aa32f97eb" sha1="aca5088df820142ce2a4c1a6a5c86d718ef73b15" />
+	</machine>
+	<machine name="Tony Hawk v1.01 (2003)(JAMDAT)[Phone#]">
+		<description>Tony Hawk v1.01 (2003)(JAMDAT)[Phone#]</description>
+		<rom name="Tony Hawk v1.01 (2003)(JAMDAT)[Phone#].mpn" size="115732" crc="4ed789bf" md5="7cee9333b18fa89d3b6c1727bf9fa1a7" sha1="a7b4590862520b176290f14fe39b40d0ad38fea6" />
+	</machine>
+	<machine name="Torpedo v1.2 (2003)(Dickinson, Patrick)">
+		<description>Torpedo v1.2 (2003)(Dickinson, Patrick)</description>
+		<rom name="Torpedo v1.2 (2003)(Dickinson, Patrick).mpn" size="59004" crc="67a0de90" md5="9ce8202b16d806765cddac924fc5e4a4" sha1="593de0ee7c448537fc7703186fe235464d1702c8" />
+	</machine>
+	<machine name="Trapped Ball v0.9 (20xx)(Szasz, Pal)">
+		<description>Trapped Ball v0.9 (20xx)(Szasz, Pal)</description>
+		<rom name="Trapped Ball v0.9 (20xx)(Szasz, Pal).mpn" size="51312" crc="3f706add" md5="9bd2ad9645b35478be71e62de0a729f0" sha1="86963bc49cb4f713f8e0f3ca6cfa331c17e79a9b" />
+	</machine>
+	<machine name="V-Rally2 vRC14EU (2003)(Atari)[Phone#]">
+		<description>V-Rally2 vRC14EU (2003)(Atari)[Phone#]</description>
+		<rom name="V-Rally2 vRC14EU (2003)(Atari)[Phone#].mpn" size="94256" crc="ce4f3162" md5="4fa44a9b06352fdda16cb74021c5e941" sha1="ef71cadba35900ca1ff34874ee75566b44412adb" />
+	</machine>
+	<machine name="VegasXtremeX v1.1 (2003)(Peck, Paul)[Phone#]">
+		<description>VegasXtremeX v1.1 (2003)(Peck, Paul)[Phone#]</description>
+		<rom name="VegasXtremeX v1.1 (2003)(Peck, Paul)[Phone#].mpn" size="57840" crc="696f63f6" md5="a27470cf43c1e5fea2e9c2578461889f" sha1="c50157c4bcddb0056533a299f00fe448fc244119" />
+	</machine>
+	<machine name="Virtual Strippoker v1.0 (2003)(Cherrysoft)">
+		<description>Virtual Strippoker v1.0 (2003)(Cherrysoft)</description>
+		<rom name="Virtual Strippoker v1.0 (2003)(Cherrysoft).mpn" size="108716" crc="4b6efb01" md5="0752a27ef187655497d070aaf082374d" sha1="67862012ad9e831646d8294c49815cff64528864" />
+	</machine>
+	<machine name="Warships v1.0 (2003)(Apeiron)">
+		<description>Warships v1.0 (2003)(Apeiron)</description>
+		<rom name="Warships v1.0 (2003)(Apeiron).mpn" size="77124" crc="8e521382" md5="8bd6211d9631ba5ea02415d10756b137" sha1="0305e276035d6afbc69feaf01cc798e8e9b6f610" />
+	</machine>
+	<machine name="Warships v1.1 (2003)(Apeiron)">
+		<description>Warships v1.1 (2003)(Apeiron)</description>
+		<rom name="Warships v1.1 (2003)(Apeiron).mpn" size="77808" crc="51d5339a" md5="b8bae32fe9a38123022b3b9b4a238393" sha1="1266c19f538330a46127a6d4cb9bfb9d1c317887" />
+	</machine>
+	<machine name="Wheel Of Fortune v1.0 (2003)(Sony Pictures)">
+		<description>Wheel Of Fortune v1.0 (2003)(Sony Pictures)</description>
+		<rom name="Wheel Of Fortune v1.0 (2003)(Sony Pictures).mpn" size="44704" crc="7e9c4fc6" md5="d65b99534b097fb447b2a781ba88cdba" sha1="c8e16257a66d86937eb67fd923d7df308c6af5da" />
+	</machine>
+	<machine name="Wilione v1.02 (2003)(same)[a][Phone#]">
+		<description>Wilione v1.02 (2003)(same)[a][Phone#]</description>
+		<rom name="Wilione v1.02 (2003)(same)[a][Phone#].mpn" size="93920" crc="b97f4f23" md5="adc5389362d6d72bbd2dabf2a5853085" sha1="8d9be623bf541b44d155ce94bf8f39dafd81cd5c" />
+	</machine>
+	<machine name="Wilione v1.02 (2003)(same)[Phone#]">
+		<description>Wilione v1.02 (2003)(same)[Phone#]</description>
+		<rom name="Wilione v1.02 (2003)(same)[Phone#].mpn" size="93920" crc="ba481643" md5="81e458bc2489e8c90fd547fe827d4afd" sha1="2520ac76b6d91510ca0c589bdc200fb9042ed69c" />
+	</machine>
+	<machine name="Wilione v1.04 (2003)(same)">
+		<description>Wilione v1.04 (2003)(same)</description>
+		<rom name="Wilione v1.04 (2003)(same).mpn" size="59244" crc="4b6dfb8d" md5="f4ed55de7c694cf3d30bdc4fa0985ece" sha1="097c9e6d2d625efb99dd06035d312b2330696148" />
+	</machine>
+	<machine name="Wordfinder v1.1 (2003)(Digital Fluff)">
+		<description>Wordfinder v1.1 (2003)(Digital Fluff)</description>
+		<rom name="Wordfinder v1.1 (2003)(Digital Fluff).mpn" size="47960" crc="0604a4db" md5="bdd18e1b8813afaacd4ff545dab44f31" sha1="f248d2d5a10ffac47a1270c1544b114b96651c12" />
+	</machine>
+	<machine name="WOW v1.0 (2003)(Ord.Musik)">
+		<description>WOW v1.0 (2003)(Ord.Musik)</description>
+		<rom name="WOW v1.0 (2003)(Ord.Musik).mpn" size="58864" crc="c3784cc3" md5="1e89d567c8fb21c88009b8320dd197d0" sha1="60ee96cf20fbc455e4b9ea1e207553abd3931677" />
+	</machine>
+	<machine name="Xfinity (20xx)(Synergenix Interactive)[a]">
+		<description>Xfinity (20xx)(Synergenix Interactive)[a]</description>
+		<rom name="Xfinity (20xx)(Synergenix Interactive)[a].mpn" size="119868" crc="abe64ded" md5="032c20ec8e9db00d9bbca7b8aa6b8dcf" sha1="af68ade07f37a88b98beff891da83075a3ad19dc" />
+	</machine>
+	<machine name="xXx v1.0 (2003)(Sony Pictures)">
+		<description>xXx v1.0 (2003)(Sony Pictures)</description>
+		<rom name="xXx v1.0 (2003)(Sony Pictures).mpn" size="56612" crc="0e79ced7" md5="bd4bc0b7d90c36e811c9a6e6036cb275" sha1="f660e2499c254146d5c4c83a70174c98f44ab396" />
+	</machine>
+	<machine name="yCalendar-05 (2005)(Tagiltsev, Yuriy)">
+		<description>yCalendar-05 (2005)(Tagiltsev, Yuriy)</description>
+		<rom name="yCalendar-05 (2005)(Tagiltsev, Yuriy).mpn" size="4924" crc="445beccb" md5="2abb1bf0980b1628ca61e24c6e3f2f17" sha1="e94f9dcbf38f172d6d6562d9d1a1987e0e4d2fc8" />
+	</machine>
+</datafile>
