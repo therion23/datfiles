@@ -1,0 +1,14 @@
+These files were broken on archive.org:
+
+C5-03 RM-697\RM-697_EMEA_10.0.031_v2.05.exe
+C5-03 RM-697\RM-697_EUROPE_10.0.031_v2.04.exe
+C7-00 RM-675\RM-675_NAM_013.016_v3.03.exe
+C7-00 RM-675\RM-675_RUSSIA_014.002_v4.03.exe
+E5-00 RM-632\RM-632_UMA_044.100_v2.01.exe
+N8-00 RM-596\RM-596_SEAP_013.016_v2.07.exe
+
+201 RM-799
+C3-01.5 RM-639
+
+If you can find installers for either of them (or any missing ones), do get in touch.
+- t23
