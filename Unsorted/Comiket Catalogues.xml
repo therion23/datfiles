@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Comiket Catalogues</name>
+		<description>Komikku Māketto catalogue discs</description>
+		<category>Standard DatFile</category>
+		<version>2026-08-27</version>
+		<date>2026-08-27</date>
+		<author>t23</author>
+		<email></email>
+		<homepage>https://www.comiket.co.jp/</homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="Comiket 56">
+		<description>Comiket 56</description>
+		<rom name="Comic Market 56 Catalog (1999-08).iso" size="283916288" crc="2f0e1061" md5="8c69944ec10d4365a7675eea158fabc1" sha1="0788a03c82fb938bd6f8142587701d2a484f8b72" />
+		<rom name="Comic Market 56 Catalog (1999-08).png" size="1812148" crc="0065cf17" md5="cb43abc0ad85ecac7a8562e1452d526b" sha1="1f14b82e3a284b1418e3a93f32e0dcb0cc801a20" />
+	</machine>
+	<machine name="Comiket 57">
+		<description>Comiket 57</description>
+		<rom name="Comic Market 57 Catalog (1999-12).iso" size="269922304" crc="5d801581" md5="d92b8d0ef0be2d93fa1a92c2a83b82c4" sha1="bb578d554cafbbfe007fd3f80d92227bfb1a885f" />
+		<rom name="Comic Market 57 Catalog (1999-12).png" size="12594888" crc="074cfe4a" md5="7c7116cc228eb75f8bb9fadd7d583d72" sha1="3d2ddd665d1d32882953026ee7a00ed88120119f" />
+	</machine>
+	<machine name="Comiket 58">
+		<description>Comiket 58</description>
+		<rom name="Comic Market 58 Catalog (2000-08).iso" size="641546240" crc="585cb3e1" md5="e38efe30fbdfda276cb4e5e98995f0e9" sha1="f5afb459e20f3b91f8f3a69fbf9fcc3b8b8c0c95" />
+		<rom name="Comic Market 58 Catalog (2000-08).png" size="4984290" crc="6062187c" md5="3f33c167b476847e26bbef90286bb390" sha1="c70258062c7857e31d166c8c17252a8710e94321" />
+	</machine>
+	<machine name="Comiket 59">
+		<description>Comiket 59</description>
+		<rom name="Comic Market 59 Catalog (2000-12).png" size="4999151" crc="acb8f1fb" md5="fa3775723051907404bb74c4f00199b8" sha1="aa00e180d0b3a78714f88294482d3455f96725b3" />
+		<rom name="Comic Market 59 Catalog Disc A (2000-12).iso" size="328771584" crc="c5354853" md5="a294d9141ef2f6ce9c64b8baf3ade8e4" sha1="61ca8bb169a8755fae961375deaf9b72bb1ecb4b" />
+		<rom name="Comic Market 59 Catalog Disc B (2000-12).iso" size="116131840" crc="468ec44c" md5="1826e430454008135c7feb79b2650c51" sha1="a42b9b3e7548e2d2a41cd2f27453d43be0d70042" />
+	</machine>
+	<machine name="Comiket 60">
+		<description>Comiket 60</description>
+		<rom name="Comic Market 60 Catalog (2001-08).png" size="5434312" crc="e5322901" md5="c32d44bdd9fd1d94458605a5ef0212db" sha1="9dfc35e691a241f124d857acb36777e01238c0ef" />
+		<rom name="Comic Market 60 Catalog Disc A (2001-08).iso" size="563179520" crc="45730054" md5="28f81ca3f4666543b4201b976215d9e3" sha1="26348cba5b4481f41f97c0e11473b1c44ed86592" />
+		<rom name="Comic Market 60 Catalog Disc B (2001-08).iso" size="332902400" crc="3124ab13" md5="a4038cb7a09ee2191014fda7d6f6205f" sha1="6434d88156055adebfa9794e4f2261e2b060bb50" />
+	</machine>
+	<machine name="Comiket 61">
+		<description>Comiket 61</description>
+		<rom name="Comic Market 61 Catalog (2001-12).png" size="5254563" crc="f4e26701" md5="d6535f51098e0d47bc486f9359323823" sha1="3310afdf4b20df09ca5116d8ce6a64e42e3cf441" />
+		<rom name="Comic Market 61 Catalog Disc A (2001-12).iso" size="418756608" crc="19c6dc06" md5="50c2ceda9e313bdb8459cbd2a6fb705e" sha1="f75a906f9c50e9aa129d723e35a6f472bb349966" />
+		<rom name="Comic Market 61 Catalog Disc B (2001-12).iso" size="360513536" crc="202ad60b" md5="80173bf2a384d15a3fc33871610a4b2d" sha1="c387d59a4b1615fe1bcaf00c81dd72f4259eec30" />
+	</machine>
+	<machine name="Comiket 62">
+		<description>Comiket 62</description>
+		<rom name="Comic Market 62 Catalog (2002-08).png" size="4901460" crc="9ab810ef" md5="eed3b2b237da1251fb9f6d1c4bffadc8" sha1="7783441f5517d9123ef442c5b019a2b449c37d66" />
+		<rom name="Comic Market 62 Catalog Disc A (2002-08).iso" size="620007424" crc="962d0a4b" md5="c89a6cd5be385b642fa528f427cde2cc" sha1="0802548e07ef6610ba6f17b89e94b34974a36abc" />
+		<rom name="Comic Market 62 Catalog Disc B (2002-08).iso" size="662884352" crc="5cafd0c6" md5="508445d6cb785b738cfbf7151a6502e1" sha1="cde0d69a980233d91677887528a385b723700aed" />
+	</machine>
+	<machine name="Comiket 63">
+		<description>Comiket 63</description>
+		<rom name="Comic Market 63 Catalog (2002-12).png" size="5254595" crc="2fe1d71e" md5="f907d1ab3308e7853c80d6769ee0e5c0" sha1="2a69b05ba58666afe334082f640a1722fb83c7b6" />
+		<rom name="Comic Market 63 Catalog Disc A (2002-12).iso" size="721020928" crc="ae8fbcb5" md5="e8d0c76e70dc6e448e8627d2c335ec6b" sha1="8022ff6bc3cf98370fc1b328a3a7ddab9154a77b" />
+		<rom name="Comic Market 63 Catalog Disc B (2002-12).iso" size="683323392" crc="f5c66f95" md5="b71de45281bdb5a0e588555d1887b0de" sha1="0e4beb1100df70a2fa7c2ca72a9f0f4e46ac9256" />
+	</machine>
+	<machine name="Comiket 64">
+		<description>Comiket 64</description>
+		<rom name="Comic Market 64 Catalog (2003-08).png" size="3742951" crc="144a517b" md5="42d8a8b5dd0bc0b9a4fe7b44315e9d7e" sha1="c6141b1baf47f8c63eaea32850554ccb96d96a63" />
+		<rom name="Comic Market 64 Catalog Disc A (2003-08).iso" size="585455616" crc="0bf99af6" md5="46655a08c306f1125b13866039214647" sha1="fcb53cc2d0a4c60739752793d71bf9f80a5a8772" />
+		<rom name="Comic Market 64 Catalog Disc B (2003-08).iso" size="360677376" crc="d7dad4ff" md5="764bd5944fd7c25cb620cdc9386d5d85" sha1="ec874a2857bf0e23215ee47b6df32edde4949e73" />
+	</machine>
+	<machine name="Comiket 65">
+		<description>Comiket 65</description>
+		<rom name="Comic Market 65 Catalog (2003-12).png" size="3460106" crc="86e20cc3" md5="6a7150b72e79f64c990bf0e89f75b679" sha1="6db5cf4f25ca74a3a630637f114beb4591a3b7e0" />
+		<rom name="Comic Market 65 Catalog Disc A (2003-12).iso" size="551999488" crc="12e50671" md5="3579c47bee44b34c79a9370c51c36d5e" sha1="160cd52c07b06470c76c6da259807f2ed10da9d0" />
+		<rom name="Comic Market 65 Catalog Disc B (2003-12).iso" size="427032576" crc="ae914f90" md5="c05de6eb23f812cbf93bd7301fb085b1" sha1="23cc5e7b0348fe3319d6f8e3f6e2e5d8f103e6c5" />
+	</machine>
+	<machine name="Comiket 66">
+		<description>Comiket 66</description>
+		<rom name="Comic Market 66 Catalog (2004-08).png" size="4449988" crc="d5288e20" md5="33f1ae5d6d12827e47707ac9d03a29f6" sha1="f4e97694fead8594511eb04321a408cfa84172e3" />
+		<rom name="Comic Market 66 Catalog Disc A (2004-08).iso" size="636346368" crc="a812578b" md5="720d13cb39ae7fac776927cc41ddc55b" sha1="14e38399de2c7bb7cf7b78fbb02bf3167c368c0a" />
+		<rom name="Comic Market 66 Catalog Disc B (2004-08).iso" size="569196544" crc="f86dc62d" md5="da49f470cc52060dd0589164fc817393" sha1="48649d3307c51f75ece96dead65a417d9e7905a9" />
+	</machine>
+	<machine name="Comiket 67">
+		<description>Comiket 67</description>
+		<rom name="Comic Market 67 Catalog (2004-12).png" size="5325609" crc="20bce470" md5="030c26428f94f7897ec2a63f9d881aac" sha1="d536f0fd496e197825dd09e302f819f61e380aad" />
+		<rom name="Comic Market 67 Catalog Disc A (2004-12).iso" size="473112576" crc="cdad7a45" md5="f3a0fc5e40d0617b5a5861982d7ff99b" sha1="15038d9ccda11e96cea2a9496d79efe4cf6b8c1d" />
+		<rom name="Comic Market 67 Catalog Disc B (2004-12).iso" size="270256128" crc="d8197820" md5="b1a4d56785a45e2afd9d87f6cbf3b293" sha1="5cde9c977a05118b322ce77c9649dea78197ec14" />
+	</machine>
+	<machine name="Comiket 68">
+		<description>Comiket 68</description>
+		<rom name="Comic Market 68 Catalog (2005-08).png" size="5064637" crc="e70ed3ab" md5="2c9bff0ff650f8e469eb3411847bb2dd" sha1="24cfd6d3ca2d92b8215799ac54bc44fe9a70b02c" />
+		<rom name="Comic Market 68 Catalog Disc A (2005-08).iso" size="598194176" crc="088885b4" md5="fec955774e58d9ce15acc124b4bf75d6" sha1="7bd0395c9436b20e6db08388aa8442c182c9bbf2" />
+		<rom name="Comic Market 68 Catalog Disc B (2005-08).iso" size="227833856" crc="428d6682" md5="41c0e5b398e493692dd8225f4bb56036" sha1="2abcc76019deac535e7125ebe457c5502564bb5f" />
+	</machine>
+	<machine name="Comiket 69">
+		<description>Comiket 69</description>
+		<rom name="Comic Market 69 Catalog (2005-12).png" size="4871256" crc="c95f8dd0" md5="5deba56f2a58051c05321b1c9654db97" sha1="8cb20a3c9fa50514b55f3ce5cf66c171663e0ece" />
+		<rom name="Comic Market 69 Catalog Disc A (2005-12).iso" size="452395008" crc="e3793682" md5="db9abc89f782736ee7b1d413ded10ff5" sha1="04a28b26f3543fadf530c2d20cd92cf181f92c37" />
+		<rom name="Comic Market 69 Catalog Disc B (2005-12).iso" size="348585984" crc="63e186db" md5="4b38b721a152e4a7a275782aee09960c" sha1="806d87173ad757fa64889c6dc89d99e5156602ce" />
+	</machine>
+	<machine name="Comiket 70">
+		<description>Comiket 70</description>
+		<rom name="Comic Market 70 Catalog (2006-08).png" size="4172346" crc="98d8796f" md5="c9aaa81722bbc6ccd300e101050e89b6" sha1="5f030039ded02a38c716ae18cfca54cf4f27fe5e" />
+		<rom name="Comic Market 70 Catalog Disc A (2006-08).iso" size="702670848" crc="3a643bc5" md5="4942cfeb941d132205244fd6a6a13d11" sha1="e1c5ae99be19ea1d55598959cad14b05ff53c706" />
+		<rom name="Comic Market 70 Catalog Disc B (2006-08).iso" size="376428544" crc="db6ba703" md5="10e4f10befef3c6b923f9473f56e3b8a" sha1="92b43831c79a42ca1a23eda97df17e8b74551f25" />
+	</machine>
+	<machine name="Comiket 71">
+		<description>Comiket 71</description>
+		<rom name="Comic Market 71 Catalog (2006-12).png" size="771097" crc="a144a74e" md5="1bca02dc1aed6761b67fd5e95d8ed8af" sha1="22ad6bdd4449f82ae84e200e704f15f6bafc1a02" />
+		<rom name="Comic Market 71 Catalog Disc A (2006-12).iso" size="659765248" crc="c9c09489" md5="8ea6c3f4952d6a6202cd4168ec76b1fa" sha1="6d4c04f470aadf878ff0d8f983e6e1db830b87db" />
+		<rom name="Comic Market 71 Catalog Disc B (2006-12).iso" size="284823552" crc="2f704a34" md5="129d73a502b905c3d2e59343a189b905" sha1="ec48da4a9408aa7b2f182253df31786ad70e4e4e" />
+	</machine>
+	<machine name="Comiket 72">
+		<description>Comiket 72</description>
+		<rom name="Comic Market 72 Catalog (2007-08).png" size="443250" crc="29ec6356" md5="d03f84648c7b7e84aca08f5f684565a8" sha1="fabad96f21b0b81963fbbb2e6d0ee4f17b5be299" />
+		<rom name="Comic Market 72 Catalog Disc A (2007-08).iso" size="659120128" crc="91261628" md5="8f8a17da479b795ac29de6f27b86b46a" sha1="39ccc2ae4342876455eb4505cb7670355f4c565d" />
+		<rom name="Comic Market 72 Catalog Disc B (2007-08).iso" size="20004864" crc="18737798" md5="f1ced326d34bac9dcbd941d4bc81e9ce" sha1="1c184a1d21e4391a14b1d15843db76944ed746d3" />
+	</machine>
+	<machine name="Comiket 73">
+		<description>Comiket 73</description>
+		<rom name="Comic Market 73 Catalog (2007-12).png" size="398256" crc="bfcb9067" md5="830341229f1c0fcc762d36a21c7eee53" sha1="979b7af8c92bf61fcf80d92083e58c6e6e71fa06" />
+		<rom name="Comic Market 73 Catalog Disc A (2007-12).iso" size="706920448" crc="7c001856" md5="b435c95b3c0de4502df4494107699ab8" sha1="5c00b35bcd10f9505ccfd81736018d3c8352fcc1" />
+		<rom name="Comic Market 73 Catalog Disc B (2007-12).iso" size="328884224" crc="f18ca421" md5="a6d5980b5bf7f8d69924e6eb1cb3a99e" sha1="0a6df768da3856fc4b7ac7429ca5b50bfc470d7e" />
+	</machine>
+	<machine name="Comiket 75">
+		<description>Comiket 75</description>
+		<rom name="Comic Market 75 Catalog (2008-12).png" size="373123" crc="cfaa8a3f" md5="4642b6599597c6760e5a80e525f08006" sha1="c5dae9727169662ecd9ac01787fa6dd2f4c0bbc5" />
+		<rom name="Comic Market 75 Catalog Disc A (2008-12).iso" size="718129152" crc="b6a41df3" md5="39c644499ba3bac84338451668296424" sha1="d59dbcb5b5359e2d61ef5642641a24f2d561e4e0" />
+		<rom name="Comic Market 75 Catalog Disc B (2008-12).iso" size="264716288" crc="210af46c" md5="906e57cf654730e278caaa715ebe02a5" sha1="854618364db61e79b018102006f1d294804e0b72" />
+	</machine>
+	<machine name="Comiket 76">
+		<description>Comiket 76</description>
+		<rom name="Comic Market 76 Catalog (2009-08).png" size="442466" crc="80de141d" md5="060373bda5627c4a04d50e9ea8a92c12" sha1="f242604fd4e9f951a427a5067223ba8d2ca7bd9d" />
+		<rom name="Comic Market 76 Catalog Disc A (2009-08).iso" size="405536768" crc="699bafeb" md5="308715e14b10ded755e2d1a6afb6e62f" sha1="c6a009a61b59aac711bca01b9e192c5109e13726" />
+		<rom name="Comic Market 76 Catalog Disc B (2009-08).iso" size="45367296" crc="63a2feda" md5="5a3372e08f743e4f2c42b5f8705a8729" sha1="9c66aa19d57f021fc3523de6cedbf9ce7e4ff197" />
+	</machine>
+	<machine name="Comiket 77">
+		<description>Comiket 77</description>
+		<rom name="Comic Market 77 Catalog (2009-12).jpg" size="9581306" crc="a504f360" md5="13ea99a0d3c2c02290ef456e06ca7a45" sha1="b0087c86e6f016ce89e17ddba65750fd177cc26d" />
+		<rom name="Comic Market 77 Catalog Disc A (2009-12).iso" size="404246528" crc="9bbc8403" md5="6c585f46475f0ebf52751ad565503dd6" sha1="7d7dd455fbe6c13f1f9e1d7423cce5b4402a7e5f" />
+		<rom name="Comic Market 77 Catalog Disc A (2009-12).jpg" size="2572682" crc="aaac1d13" md5="02389951932f32baf4efa223b8579d29" sha1="b53e11126b39f9394851535febe6956c3083d6d7" />
+		<rom name="Comic Market 77 Catalog Disc B (2009-12).iso" size="174309376" crc="432b7216" md5="08a1a0f01d5ced14e716c1c531fdc9ff" sha1="c9ada99ee3f2017c9cf45c3d7fa5878f4ab0b42b" />
+		<rom name="Comic Market 77 Catalog Disc B (2009-12).jpg" size="2361099" crc="c018cd27" md5="1b3f0d9c8dbcbde78db5e75ba9840513" sha1="ec5578b3e279b4e2008cca3506f2bdaba2971686" />
+	</machine>
+	<machine name="Comiket 79">
+		<description>Comiket 79</description>
+		<rom name="Comic Market 79 Catalog (2010-12).png" size="781408" crc="66454ded" md5="a4290fec08451a865e2c2aa9f8965dee" sha1="810badb15aac09a7c02a3c7ebbc73121da0bf118" />
+		<rom name="Comic Market 79 Catalog Disc A (2010-12).iso" size="572301312" crc="0688c219" md5="f4d0c502a8e1defc6d55f9794fb952bf" sha1="0ba6ce2ef0c1c8b6bd53d0a217b5b6f6ab600288" />
+		<rom name="Comic Market 79 Catalog Disc B (2010-12).iso" size="377788416" crc="3b71b707" md5="e09a51a988a5c39156892da179271aec" sha1="35b38dce63792291a4b9b8909929662ded7474e1" />
+	</machine>
+	<machine name="Comiket 80">
+		<description>Comiket 80</description>
+		<rom name="Comic Market 80 Catalog (2011-08).png" size="676661" crc="7c687570" md5="78f4d961baf4ab716bb2cdd7fe613369" sha1="e8cb406bca6ad9cc255ad0003920f54a3aa988d4" />
+		<rom name="Comic Market 80 Catalog Disc A (2011-08).iso" size="582651904" crc="91186b17" md5="42bdde599ef038ae05eb12c1f6118126" sha1="745fc2e7c313fa7ea0985f258e8c3701ff06fe2d" />
+		<rom name="Comic Market 80 Catalog Disc B (2011-08).iso" size="594255872" crc="d60fc091" md5="85e7e253003471eb18e21f867f3e8dd8" sha1="fb5ecc875154188f4181b14cab09a9003c1ec79b" />
+	</machine>
+	<machine name="Comiket 81">
+		<description>Comiket 81</description>
+		<rom name="Comic Market 81 Catalog (2011-12).iso" size="1975615488" crc="c5d55479" md5="1a9382e8d000b924c207bebacb695428" sha1="50870d0c21f44829455e9381964fc656d8034a07" />
+		<rom name="Comic Market 81 Catalog (2011-12).png" size="816784" crc="ebf682e2" md5="a6aa8ff411fe8c98e5d5e01b96950c3a" sha1="4479e4d7a03fba256ad8a213855c6be6a7a74afa" />
+	</machine>
+	<machine name="Comiket 82">
+		<description>Comiket 82</description>
+		<rom name="Comic Market 82 Catalog (2012-08).iso" size="1281982464" crc="19afb7b8" md5="58095db7b4c9bf24b2c65721051ade11" sha1="74b6029088bc2ab9fc2bd640e4e16bb5c5983100" />
+		<rom name="Comic Market 82 Catalog (2012-08).jpg" size="2316812" crc="1802e365" md5="534d88d703354b7b26d1d7f6f24aaec1" sha1="3975e9bc41e290477bb14dab52107e6f80b33383" />
+	</machine>
+	<machine name="Comiket 86">
+		<description>Comiket 86</description>
+		<rom name="CM86_NOACTI_SELF.EXE" size="1044711" crc="73e2a230" md5="8da97ea65fd26da02b5f17f43f1eaa4f" sha1="ee82c30f29a1777fa83100aa7db939eef081d4bd" />
+	</machine>
+	<machine name="Comiket 87">
+		<description>Comiket 87</description>
+		<rom name="CM87_NOACTI_SELF.EXE" size="1045713" crc="17aa6787" md5="4f0eb1d5da117b88d2d85e6ab057933f" sha1="dc23b0eec5e5c492015775ee784cf1b5368f1a79" />
+	</machine>
+	<machine name="Comiket 88">
+		<description>Comiket 88</description>
+		<rom name="CM88_NOACTI_SELF.EXE" size="1045581" crc="c9747733" md5="ae149c34172a636641e0661b53fb92c5" sha1="48636080c75f84fe549b496dffedcae0a7804d88" />
+	</machine>
+	<machine name="Comiket 89">
+		<description>Comiket 89</description>
+		<rom name="CM089SJIS\UPDATE.TXT" size="546812" crc="2c760351" md5="ecbae49784910952cb2aeb31f5edc41a" sha1="76df004a820c523ffe5f554a64f5e317055c735c" />
+		<rom name="CM89_NOACTI_SELF.EXE" size="1045620" crc="3a4a64ef" md5="467fd2285657b5af1ace775642dfaf0b" sha1="f1fb3ba70d18fcf9402f3cddecbb32a59b018445" />
+		<rom name="Comic Market 89 Catalog (2015-12).iso" size="1236336640" crc="be859d55" md5="5dda02ce136ba7459a85a4f01a635c9b" sha1="f16048b695b01184d8b39d84e6aa170154f0ddd7" />
+		<rom name="Comic Market 89 Catalog (2015-12).jpg" size="176123" crc="54095848" md5="0458fbe8e99feef989205ea73c1fe15e" sha1="9bd56b253e18e098388958728927daceaa02bafb" />
+	</machine>
+	<machine name="Comiket 90">
+		<description>Comiket 90</description>
+		<rom name="CM090SJIS\UPDATE.TXT" size="1448484" crc="194db414" md5="efc96dc61cf3b14911836dbab8fc5b4c" sha1="82a25f5bd6dc6b03ef878d91687cb2bafc0ec284" />
+		<rom name="CM90_NOACTI_SELF.EXE" size="1065472" crc="4a5f5a28" md5="d72088c6cb146062092b6b48c4603f96" sha1="9f45eaee9df8c37dc72156e2845c0f70f3fdaf61" />
+		<rom name="Comic Market 90 Catalog (2016-08).iso" size="1208414208" crc="11ee4db8" md5="5cb1e373febedb355f67fe4e79b6542e" sha1="b3f547b55409f41648e461ed561a33f9e7087717" />
+		<rom name="Comic Market 90 Catalog (2016-08).jpg" size="239797" crc="2b81be9c" md5="2f819e52d30d5e8d8d683c3685859c09" sha1="c2482d0d59f6905fbaf313b15b902b81b9d96b90" />
+	</machine>
+	<machine name="Comiket 91">
+		<description>Comiket 91</description>
+		<rom name="CM091SJIS\UPDATE.TXT" size="1326852" crc="95e81386" md5="5e6dfc07f655b0215e321f93efb170c9" sha1="d4ae37dc90eb7fcc7c517679da1aa90464fbfcc3" />
+		<rom name="Comic Market 91 Catalog (2016-12).jpg" size="259063" crc="199a0dd7" md5="718d7efeb3a39255e9d5fe5778ff5f18" sha1="fd1313a0d7bb752199266fead83c85f674f748ad" />
+		<rom name="NOACTI91_SELF.exe" size="1067663" crc="5aad22a3" md5="0d29bac7143f945b8c6605d80bc5bd10" sha1="bf22000177afd171cb43b866f795a156aa41c9b5" />
+	</machine>
+	<machine name="Comiket 92">
+		<description>Comiket 92</description>
+		<rom name="CM092SJIS\UPDATE.TXT" size="1177861" crc="22f8a3c3" md5="bb956ae06c13fe9560d6ecca2a993445" sha1="d2ebfca66882157778bdde0da053523675f21dfb" />
+		<rom name="Comic Market 92 Catalog (2017-08).iso" size="1162182656" crc="cc23b9aa" md5="a317d2c9ef34c83c93aff5eb8ce37401" sha1="512a04d05bb4128b2ef5307a8b5aaf1265ea6fd6" />
+		<rom name="Comic Market 92 Catalog (2017-08).jpg" size="273743" crc="8d31513a" md5="bffcfa6b604c35621fd0ada7dee154ee" sha1="283d11723309a99765bac341f81a35090d407749" />
+		<rom name="NOACTI92SELF.exe" size="1067665" crc="8fb8c528" md5="bb9e74cc604c0a90863d8b0dafef219e" sha1="888c7e545a579c6e96d65c0d476a9bf77c187e08" />
+	</machine>
+	<machine name="Comiket 93">
+		<description>Comiket 93</description>
+		<rom name="NOACTI93self.exe" size="1071053" crc="7be47bcf" md5="2858ed4f13b7e619d4aa7793783995d7" sha1="7a4709ef9900309f5422eae5c9d37f632df42d38" />
+	</machine>
+	<machine name="Comiket 94">
+		<description>Comiket 94</description>
+		<rom name="Comic Market 94 Catalog (2018-08).iso" size="1248516096" crc="fbd09ccd" md5="671c76e609e1569b9f988f43f558b324" sha1="8ff8d80e1c5b5ac2f42b6dce441e4646b4ee5d7e" />
+		<rom name="NOACTI94SELF.EXE" size="1071382" crc="a98417d3" md5="ae902e0c38fabd5f2a7c1d198e8fbe63" sha1="0527b8a31e8a3f6886f831dc3f81fd16da846e13" />
+	</machine>
+	<machine name="Comiket 95">
+		<description>Comiket 95</description>
+		<rom name="NOACTI95SELF.exe" size="1071602" crc="d7bfc8b6" md5="514b7ab354bbbb58dd1ae9d090ba4836" sha1="9f2af7d7cc20f7dca4b7b88bb135c16430ef0dc6" />
+	</machine>
+	<machine name="Comiket 96">
+		<description>Comiket 96</description>
+		<rom name="ccatalog.exe" size="2349056" crc="2bf328c7" md5="09195d412fa75a0a8e32a9f43502f2bd" sha1="413aa8b84979d1ce7ed28d613a296379667907dd" />
+		<rom name="Comic Market 96 Catalog (2019-08).iso" size="1186496512" crc="a9ed4bd8" md5="0b029bfc1e1bc177007e3084125539c8" sha1="99bedc950e2d7d069d5e7640dde96e300e8628a2" />
+	</machine>
+	<machine name="Comiket 97">
+		<description>Comiket 97</description>
+		<rom name="Comic Market 97 Catalog (2019-12).iso" size="1183809536" crc="ac96830c" md5="3a03647cef74098291b430cf2a41f0e1" sha1="c2fdd12b51e88b68a58cf4946b7886030a459c4c" />
+		<rom name="NOACTI97SELF.exe" size="1073011" crc="145bf33c" md5="db10c6ef214ca0d3316103e702f67694" sha1="6bb4f79a309969aee09108fe16bf5881f342dd5d" />
+	</machine>
+</datafile>
