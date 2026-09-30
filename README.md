@@ -17,6 +17,7 @@ Also, there are more in the releases section, namely the ones that are too big t
 * NokiaOvi - Nokia Ovi Store Panic Grab.
 * SAC - ftp.elf.stuba.sk deathgrabs before SAC took over.
 * Symbian - EPOC32, Symbian S60 and related.
+* TexturePacks - Texture packs for DuckStation.
 * Timex-Sinclair - Software.
 * eXo - Polished up dir2dat's of the adventure related collections.
 * libretro - Additions and modifications to RetroArch's internal databases.
