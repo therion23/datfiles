@@ -1,0 +1,135 @@
+DOSCenter (
+	Name: Geoworks Ensemble
+	Description: Geoworks Ensemble
+	Version: 2026-11-21
+	Date: Saturday, November 21, 2026@20:45
+	Author: t23
+	Homepage: Whatever
+	Comment: https://archive.org/details/@iamxray?query=meimei%27s+bbs
+)
+game (
+	name "[GEOS2-1] Geoworks Ensemble V2.01 [1-2]"
+	file ( name AUSTRAL.INI size 1477 date 1993/08/27 11:41:00 crc 36eb3ea8 sha1 c069def6975a55819bf3760458ffdceb7171b57d )
+	file ( name CANADA.INI size 1594 date 1993/08/27 11:41:14 crc ef226993 sha1 d7cd9e0b35b5722ab1751a977b4c82ae728ca099 )
+	file ( name DIRECTRY.LST size 56 date 1994/01/11 09:06:36 crc f0f9fa5a sha1 1f88f2baa09188bb4c7a8b35a61b56dd2bb611c3 )
+	file ( name FATE.NFO size 9010 date 1995/07/17 04:54:52 crc 94c6aafd sha1 45deb30d24667bcbf2585d72e886f80f6229fee7 )
+	file ( name FILE_ID.DIZ size 0 date 1995/07/17 11:36:08 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name GEOS.01 size 137 date 1994/01/12 11:23:20 crc 6a471576 sha1 b43d445db2ac289b7e9bd91d05bf9c2a2917d308 )
+	file ( name GEOS.INI size 1865 date 1994/06/01 15:27:46 crc 93834755 sha1 37a46072cb66cd756af7fbd6c522c4512dc12c79 )
+	file ( name GEOWORKS.001 size 1177888 date 1995/05/19 15:35:56 crc 50396e83 sha1 c1f9feff580e0586ea7505b97f158912094f080d )
+	file ( name GETSPACE.EXE size 13024 date 1994/01/11 10:07:56 crc 55e3ff48 sha1 b53462c92404c99ed4e98ac342e1fb0360c3d285 )
+	file ( name HEY THER.E size 0 date 1995/07/16 06:22:44 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name INIMODI.EXE size 12736 date 1994/03/11 12:28:16 crc 6b05a4ea sha1 be8749d2c7123e185ae1347118e546deb91ba633 )
+	file ( name INSTALL.EXE size 199559 date 1994/12/19 12:26:44 crc 1f6a0f00 sha1 96ba1840f22f87e7a9f9b4e7e0245c55b188af01 )
+	file ( name README.TXT size 22550 date 1995/05/19 11:05:18 crc 3c5a78ec sha1 c68cb34df966dd4a262bed4c7e78c33650355c4a )
+	file ( name UNINSTAL.EXE size 13552 date 1993/05/06 10:09:48 crc 66d6bea0 sha1 7cabe386942098f0d12856a9afc6b5d9d74c52f7 )
+	file ( name UNITEDK.INI size 2267 date 1993/08/27 11:40:48 crc ee3e2d90 sha1 041101864f2bc421878f3e9c9d31912617678bd2 )
+)
+game (
+	name "[GEOS21P1] Geoworks update patch [1-4]"
+	file ( name 50714557.TXT size 1302 date 1994/06/14 14:03:50 crc 1bae91cd sha1 6c744a7a0ef2189255ded457c1a6fbfb48e348e6 )
+	file ( name ASSEMBLE.BAT size 1148 date 1994/06/08 03:13:54 crc dd5671f3 sha1 550aa0b3acb914129831641b69e605e27afe6312 )
+	file ( name ((BROS)).DIZ size 0 date 1994/05/16 15:17:16 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name eÇdtA¢¥.-O- size 755 date 1994/05/12 01:44:18 crc 4b335358 sha1 48686d2816c77b31f320f01dee36a73316ad766d )
+	file ( name FILE_ID.DIZ size 119 date 1994/06/08 16:19:12 crc f39bf73d sha1 973eddeb216fb6d39a1a85f4a28654f1f3bbc5eb )
+	file ( name GAtDEÑ·.°¦° size 755 date 1994/05/12 01:44:18 crc 4b335358 sha1 48686d2816c77b31f320f01dee36a73316ad766d )
+	file ( name GEOS21P1.EXE size 573813 date 1994/06/08 03:18:16 crc a0911b4e sha1 2c9b9a70957c6c1cf5209f4f6ac1d7da0df8d104 )
+	file ( name TPC.EXE size 6331 date 1994/01/14 00:00:00 crc 46dbe506 sha1 75012ab3d450d6849fd34b41f251f0419c1099fd )
+)
+game (
+	name "[GEOS21P2] Geoworks update patch [2-4]"
+	file ( name 10241661.TXT size 1302 date 1994/06/14 14:04:20 crc 1bae91cd sha1 6c744a7a0ef2189255ded457c1a6fbfb48e348e6 )
+	file ( name ((BROS)).DIZ size 0 date 1994/05/16 15:17:16 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name eÇdtA¢¥.-O- size 755 date 1994/05/12 01:44:18 crc 4b335358 sha1 48686d2816c77b31f320f01dee36a73316ad766d )
+	file ( name FILE_ID.DIZ size 119 date 1994/06/08 16:20:18 crc 49e1673a sha1 8381c46fd8807a5bc40b957c96fa5b89b6241373 )
+	file ( name GAtDEÑ·.°¦° size 755 date 1994/05/12 01:44:18 crc 4b335358 sha1 48686d2816c77b31f320f01dee36a73316ad766d )
+	file ( name GEOS21P2.EXE size 591947 date 1994/06/08 03:22:42 crc ecb08b54 sha1 24ce7d7d2d94377bdf2d2f2ecd766778edfc4aad )
+	file ( name TPC.EXE size 6331 date 1994/01/14 00:00:00 crc 46dbe506 sha1 75012ab3d450d6849fd34b41f251f0419c1099fd )
+	file ( name TUW!.pFF size 1134 date 1994/05/30 13:47:32 crc efcdd50e sha1 bb266ee05b5aa17a01902edeb749d362dbc84e98 )
+)
+game (
+	name "[GEOS21P3] Geoworks update patch [3-4]"
+	file ( name 38777056.TXT size 1302 date 1994/06/14 14:04:52 crc 47145dd2 sha1 f8c4a3b21083f4a14af86b1f695ac39d629e57bb )
+	file ( name ((BROS)).DIZ size 0 date 1994/05/16 15:17:16 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name eÇdtA¢¥.-O- size 755 date 1994/05/12 01:44:18 crc 4b335358 sha1 48686d2816c77b31f320f01dee36a73316ad766d )
+	file ( name FILE_ID.DIZ size 119 date 1994/06/08 16:20:50 crc 96e7eaf8 sha1 1d42894f20df04f4b7d35d292a1a54d62824b386 )
+	file ( name GAtDEÑ·.°¦° size 755 date 1994/05/12 01:44:18 crc 4b335358 sha1 48686d2816c77b31f320f01dee36a73316ad766d )
+	file ( name GEOS21P3.EXE size 594351 date 1994/06/08 03:44:30 crc c72c0590 sha1 5fac93e62bdfbe132bf58ecb99aa74f072708bc5 )
+	file ( name TPC.EXE size 6331 date 1994/01/14 00:00:00 crc 46dbe506 sha1 75012ab3d450d6849fd34b41f251f0419c1099fd )
+	file ( name TUW!.pFF size 1134 date 1994/05/30 13:47:32 crc efcdd50e sha1 bb266ee05b5aa17a01902edeb749d362dbc84e98 )
+)
+game (
+	name "[GEOS21P4] Geoworks update patch [4-4]"
+	file ( name 46502224.TXT size 1302 date 1994/06/14 14:05:22 crc 47145dd2 sha1 f8c4a3b21083f4a14af86b1f695ac39d629e57bb )
+	file ( name ((BROS)).DIZ size 0 date 1994/05/16 15:17:16 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name eÇdtA¢¥.-O- size 755 date 1994/05/12 01:44:18 crc 4b335358 sha1 48686d2816c77b31f320f01dee36a73316ad766d )
+	file ( name FILE_ID.DIZ size 119 date 1994/06/08 16:21:26 crc e6654175 sha1 3c082e2da74a68d67d8930f8feb7b1c28451a391 )
+	file ( name GAtDEÑ·.°¦° size 755 date 1994/05/12 01:44:18 crc 4b335358 sha1 48686d2816c77b31f320f01dee36a73316ad766d )
+	file ( name GEOS21P4.EXE size 496380 date 1994/06/08 08:47:46 crc 9e1781f7 sha1 b4d7f0244cb921f4241e6c25f2abc23664c0c341 )
+	file ( name TPC.EXE size 6331 date 1994/01/14 00:00:00 crc 46dbe506 sha1 75012ab3d450d6849fd34b41f251f0419c1099fd )
+	file ( name TUW!.pFF size 1134 date 1994/05/30 13:47:32 crc efcdd50e sha1 bb266ee05b5aa17a01902edeb749d362dbc84e98 )
+)
+game (
+	name "[GEOS2-2] Geoworks Ensemble V2.01 [2-2]"
+	file ( name FATE.NFO size 9010 date 1995/07/17 04:54:52 crc 94c6aafd sha1 45deb30d24667bcbf2585d72e886f80f6229fee7 )
+	file ( name FILE_ID.DIZ size 0 date 1995/07/17 11:36:34 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name GEOWORKS.002 size 1457664 date 1995/05/19 15:37:10 crc 9192fe85 sha1 51e3bbb580ed8bb99b9eb5fc2ed91943fd48be10 )
+	file ( name HEY THER.E size 0 date 1995/07/16 06:22:44 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+)
+game (
+	name "[GEOS2-1] Geoworks Ensemble v2.0 [1-7]"
+	file ( name _._ size 4 date 1993/06/07 16:13:02 crc 8bc21544 sha1 66928e6cbb59c3a3bce606959ef4a865fe04e642 )
+	file ( name AUSTRAL.INI size 1524 date 1993/04/29 18:19:38 crc 8ea51c86 sha1 ae60c371f83711f19066939da7e300353b94592d )
+	file ( name CANADA.INI size 1641 date 1993/04/29 18:19:24 crc af4753f2 sha1 fa39e2bec9e9038dbd406626fba0cfe8caea3390 )
+	file ( name DISK.ID size 32 date 1993/05/11 17:59:40 crc 3ba3db6a sha1 3d9d6efc4ab767780d0687dd216a40b45db96d91 )
+	file ( name GEOS_1 size 0 date 1993/05/11 17:59:42 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name GEOS.INI size 1792 date 1993/05/11 15:33:42 crc 42816e64 sha1 3a13e98a727213ad6a844049ce0b634af87a4ec4 )
+	file ( name GEOWORKS.001 size 506464 date 1993/05/11 18:09:16 crc 7fa65d00 sha1 81314cafd0bfc8833e3026fb37b2a7a961272601 )
+	file ( name GETSPACE.EXE size 13120 date 1993/05/05 14:11:48 crc 2a61ab7c sha1 ee0f9d2e229ed446f807b5ff04758a035799da9c )
+	file ( name INSTALL.EXE size 169886 date 1993/04/07 08:29:52 crc 69931298 sha1 b582c551c2ce3130307b49503fe25944ff562d4d )
+	file ( name README.TXT size 6098 date 1993/05/04 12:27:20 crc ddab51ef sha1 f6f6f786c4bc1b2c31b71c25a7be4cf070f7e502 )
+	file ( name UNINSTAL.EXE size 13552 date 1993/05/06 10:09:48 crc 66d6bea0 sha1 7cabe386942098f0d12856a9afc6b5d9d74c52f7 )
+	file ( name UNITEDK.INI size 2314 date 1993/04/29 18:19:50 crc def77a31 sha1 a6df583300205178a45ce35550a26c8722ade388 )
+)
+game (
+	name "[GEOS2-2] Geoworks Ensemble v2.0 [2-7]"
+	file ( name _._ size 4 date 1993/06/07 16:13:02 crc 8bc21544 sha1 66928e6cbb59c3a3bce606959ef4a865fe04e642 )
+	file ( name DISK.ID size 32 date 1993/05/11 18:01:58 crc 39e56533 sha1 e48197efd30175baf5c145dd7d0df6f5cb62ac15 )
+	file ( name GEOS_2 size 0 date 1993/05/11 18:02:00 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name GEOWORKS.002 size 729088 date 1993/05/11 18:02:54 crc 3798f762 sha1 1534d1605c1c4e4db0f2621662acae5489eb0e03 )
+)
+game (
+	name "[GEOS2-3] Geoworks Ensemble v2.0 [3-7]"
+	file ( name _._ size 4 date 1993/06/07 16:13:02 crc 8bc21544 sha1 66928e6cbb59c3a3bce606959ef4a865fe04e642 )
+	file ( name DISK.ID size 32 date 1993/05/11 18:03:12 crc 38270f04 sha1 d97d1be2459786b8b3e074fa8dd0c20334b6f2dc )
+	file ( name GEOS_3 size 0 date 1993/05/11 18:03:12 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name GEOWORKS.003 size 729088 date 1993/05/11 18:04:06 crc ac186fef sha1 2198da9c318c25244eb6d8ec57ce013eceb1fd6a )
+)
+game (
+	name "[GEOS2-4] Geoworks Ensemble v2.0 [4-7]"
+	file ( name _._ size 4 date 1993/06/07 16:13:02 crc 8bc21544 sha1 66928e6cbb59c3a3bce606959ef4a865fe04e642 )
+	file ( name DISK.ID size 32 date 1993/05/11 18:04:30 crc 3d681981 sha1 9776c26220127297b7f951a6001383c816e7b27c )
+	file ( name GEOS_4 size 0 date 1993/05/11 18:04:32 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name GEOWORKS.004 size 729088 date 1993/05/11 18:05:26 crc 94ffb0c1 sha1 31375283f8e4beaf12aee72dda1859de28b2841a )
+)
+game (
+	name "[GEOS2-5] Geoworks Ensemble v2.0 [5-7]"
+	file ( name _._ size 4 date 1993/06/07 16:13:02 crc 8bc21544 sha1 66928e6cbb59c3a3bce606959ef4a865fe04e642 )
+	file ( name DISK.ID size 32 date 1993/05/11 18:05:46 crc 3caa73b6 sha1 49c67a2618a1fe798fbab40af6aa8c57a6702dd8 )
+	file ( name GEOS_5 size 0 date 1993/05/11 18:05:46 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name GEOWORKS.005 size 729088 date 1993/05/11 18:06:42 crc 431e0632 sha1 85bbd641f22cb63adbdb9fa13e8092d703a72ef6 )
+)
+game (
+	name "[GEOS2-6] Geoworks Ensemble v2.0 [6-7]"
+	file ( name _._ size 4 date 1993/06/07 16:13:02 crc 8bc21544 sha1 66928e6cbb59c3a3bce606959ef4a865fe04e642 )
+	file ( name DISK.ID size 32 date 1993/05/11 18:07:00 crc 3eeccdef sha1 1ecb3af5c43ede5c1a275423964d00393ef1e71c )
+	file ( name GEOS_6 size 0 date 1993/05/11 18:07:02 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name GEOWORKS.006 size 729088 date 1993/05/11 18:07:56 crc b284f53d sha1 1e5f5d333285e925b770ebc5785ba9fa34c97d87 )
+)
+game (
+	name "[GEOS2-7] Geoworks Ensemble v2.0 [7-7]"
+	file ( name _._ size 4 date 1993/06/07 16:13:02 crc 8bc21544 sha1 66928e6cbb59c3a3bce606959ef4a865fe04e642 )
+	file ( name DISK.ID size 32 date 1993/05/11 18:08:14 crc 3f2ea7d8 sha1 a86aee332b1aebfc80bae56384b02d6035592f4a )
+	file ( name GEOS_7 size 0 date 1993/05/11 18:08:14 crc 00000000 sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709 )
+	file ( name GEOWORKS.007 size 525706 date 1993/05/11 18:08:54 crc 3c76a4c8 sha1 dc634c2acfe21323ddde64a09950b6ffd1705278 )
+)
