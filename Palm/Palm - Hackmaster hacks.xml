@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Palm - Hackmaster hacks</name>
+		<description>Palm - Hackmaster hacks</description>
+		<category>Standard DatFile</category>
+		<version>2026-03-16</version>
+		<date>2026-03-16</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+	</header>
+	<machine name="Voltage Calib Hack v1.0 (1998-06-05)(Strobel, Peter)[Hack]">
+		<description>Voltage Calib Hack v1.0 (1998-06-05)(Strobel, Peter)[Hack]</description>
+		<rom name="readme10.txt" size="8704" crc="dd7ba6ec" md5="a6f8d0ac96f0d66633718f64ea2d6394" sha1="89df520996be44d20e689344201ee7f0cc3b0a7a" />
+		<rom name="VCAL.EXE" size="31571" crc="c1cbe5ee" md5="97cc0b13defce19c9e392e490c537b2e" sha1="860e784e452b88e805d61206bb1888923875e6ae" />
+		<rom name="vcal.prc" size="868" crc="34b3dc38" md5="ad0903c834eda41d45744bcbde29401b" sha1="bf127f2adac48318391e0f01d79aab46cc924ec5" />
+	</machine>
+	<machine name="Voltage Display Hack v1.0 (1998-04-05)(Strobel, Peter)[Hack]">
+		<description>Voltage Display Hack v1.0 (1998-04-05)(Strobel, Peter)[Hack]</description>
+		<rom name="readme10.txt" size="4824" crc="1d8fc685" md5="9c5f77ebeba3902fd346b135bcb6bc2e" sha1="e0b4942d846006bc50e4aaf4e6a0f4559e14fae1" />
+		<rom name="vdisp.prc" size="1222" crc="150498b7" md5="09e11fdc4f09ad5c911f6e5a8b2845bc" sha1="2658cbd957988d1855c85c495cba6a1e6fc40c0c" />
+	</machine>
+</datafile>

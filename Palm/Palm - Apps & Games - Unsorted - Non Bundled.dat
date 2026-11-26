@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Palm - Apps &amp; Games - Unsorted - Non Bundled</name>
+		<description>The big messy unsorted Palm collection</description>
+		<category>Standard DatFile</category>
+		<version>20251025</version>
+		<date>2025-10-25</date>
+		<author>t23</author>
+		<email>-insert email-</email>
+		<homepage>-insert homepage-</homepage>
+		<url>-insert url-</url>
+		<comment>-insert comment-</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="3D Demo (1996-07-13).prc">
+		<description>3D Demo (1996-07-13).prc</description>
+		<rom name="3D Demo (1996-07-13).prc" size="3681" crc="2ab5c305" md5="737ecc1f5d1e9075160b4cb234f1fdda" sha1="669de9e805bdf42c1a1a5a4dbee7629d49003e45"/>
+	</machine>
+	<machine name="3lttt v1.0 (1997-09-22).prc">
+		<description>3lttt v1.0 (1997-09-22).prc</description>
+		<rom name="3lttt v1.0 (1997-09-22).prc" size="7712" crc="42f684bb" md5="04ae2dd185d4d074886fcbb115085cca" sha1="31d79f8041ab602a88feb7bf7a1360777fc570a6"/>
+	</machine>
+	<machine name="5 Effects (-).prc">
+		<description>5 Effects (-).prc</description>
+		<rom name="5 Effects (-).prc" size="8562" crc="54f0581b" md5="cf62e1949b005a95f0be22aa51e0ad8e" sha1="4a897bde32604d8cc15dd4d2188bf68ea0f3e349"/>
+	</machine>
+	<machine name="501 Scorekeeper v2.0 (-).prc">
+		<description>501 Scorekeeper v2.0 (-).prc</description>
+		<rom name="501 Scorekeeper v2.0 (-).prc" size="7497" crc="91f1d6a7" md5="925a1ade7b40eb22a0db6b8450f6d323" sha1="085c410065e040b692b898e5f277125a7d4991dd"/>
+	</machine>
+	<machine name="5x5 (-).prc">
+		<description>5x5 (-).prc</description>
+		<rom name="5x5 (-).prc" size="3868" crc="d3eff19b" md5="0fb45d90c765a54ad5cbab2cd6f9042d" sha1="393b11da966751437a9f071274351da0226fce44"/>
+	</machine>
+	<machine name="9 Peg v1.1 (1998).prc">
+		<description>9 Peg v1.1 (1998).prc</description>
+		<rom name="9 Peg v1.1 (1998).prc" size="4572" crc="8f8fda75" md5="8bbad628a15c3c9967a3755b6edf4c99" sha1="c9e3795a4771cb40aee07c62e836384147388597"/>
+	</machine>
+	<machine name="___M3 v1.0 (1998).prc">
+		<description>___M3 v1.0 (1998).prc</description>
+		<rom name="___M3 v1.0 (1998).prc" size="7727" crc="2929171a" md5="aa8e93d08b62a52f2ea7722af16383d4" sha1="029171fefcb6fb9a8937d0877547cf5fb23a2121"/>
+	</machine>
+	<machine name="Abacus v1.02 (1997-10-17).prc">
+		<description>Abacus v1.02 (1997-10-17).prc</description>
+		<rom name="Abacus v1.02 (1997-10-17).prc" size="29237" crc="9f5b150f" md5="3f37586386bbb40ab4740d4bc43cb90e" sha1="ba9ba414aae40d8d1c687cff568b72cf8f342bd1"/>
+	</machine>
+	<machine name="AddAssist v1.0 (1998-06-25).prc">
+		<description>AddAssist v1.0 (1998-06-25).prc</description>
+		<rom name="AddAssist v1.0 (1998-06-25).prc" size="27465" crc="642221d2" md5="58b7c9741c4a81b3736991020914ea91" sha1="46838ae1337deb881914984f46d26b1220a676d1"/>
+	</machine>
+	<machine name="Adder (1998-04-19).prc">
+		<description>Adder (1998-04-19).prc</description>
+		<rom name="Adder (1998-04-19).prc" size="4120" crc="01fa4cdb" md5="f41636ec25d00f056c529b360929a037" sha1="2c2acb27081d366b3e010b76bcc5c7b2cefa4e91"/>
+	</machine>
+	<machine name="Adventure Solitaire v2.7 (2006-12-11).prc">
+		<description>Adventure Solitaire v2.7 (2006-12-11).prc</description>
+		<rom name="Adventure Solitaire v2.7 (2006-12-11).prc" size="211703" crc="af52838a" md5="96772fe3a18220064ae501619c78ba51" sha1="0bb42ab214baf78495b88a1c3a440f4a8eb9f178"/>
+	</machine>
+	<machine name="Agenda v1.03 (1997-10-17).prc">
+		<description>Agenda v1.03 (1997-10-17).prc</description>
+		<rom name="Agenda v1.03 (1997-10-17).prc" size="22743" crc="ee81f055" md5="90d975a120e5a2016811c383aa94a634" sha1="79d60a4178eb2f04469e2fbbcaa63a9c05d8123d"/>
+	</machine>
+	<machine name="AlarmBeep v1.0 (1998-03-16).prc">
+		<description>AlarmBeep v1.0 (1998-03-16).prc</description>
+		<rom name="AlarmBeep v1.0 (1998-03-16).prc" size="808" crc="fdfb1b53" md5="4f8b57580862661f0a673ce054bd7edf" sha1="6634ee8b83284fbba3d30978181ecccb6a71b13f"/>
+	</machine>
+	<machine name="Alog v1.0 (1997-08-12).prc">
+		<description>Alog v1.0 (1997-08-12).prc</description>
+		<rom name="Alog v1.0 (1997-08-12).prc" size="19437" crc="a090ef14" md5="e4d627e0ee911341a84db0de6d7294f2" sha1="be98272692bf09359c3b47e0bec62d8add320aca"/>
+	</machine>
+	<machine name="AlphaQ v1.0 (-).prc">
+		<description>AlphaQ v1.0 (-).prc</description>
+		<rom name="AlphaQ v1.0 (-).prc" size="39039" crc="26ce7271" md5="6bd0334a6b05916e6ceab2b4cbc89248" sha1="024d693cb356aeb6adaf326df5cbd8da1d9ed237"/>
+	</machine>
+	<machine name="AlwaysOn v1.1 (1998).prc">
+		<description>AlwaysOn v1.1 (1998).prc</description>
+		<rom name="AlwaysOn v1.1 (1998).prc" size="2464" crc="28cd839c" md5="7d4c121ddff205d78ef8441794e5a014" sha1="a5cc9c96e51d16b7c4c86993f718209d504686f5"/>
+	</machine>
+	<machine name="AnaClock (-).prc">
+		<description>AnaClock (-).prc</description>
+		<rom name="AnaClock (-).prc" size="12555" crc="ac429571" md5="0bb288867fb521ded9d26a1b05ed07d0" sha1="6e91ac26485adfcf9185fc3c6c6f2262927c32fd"/>
+	</machine>
+	<machine name="Analog Clock (1996-09-23).prc">
+		<description>Analog Clock (1996-09-23).prc</description>
+		<rom name="Analog Clock (1996-09-23).prc" size="6379" crc="ad0064e2" md5="56b579b04c29ce78b936159fb3ea1abf" sha1="bb8c351912ff9de6ba3bc3ff31c889b55282be72"/>
+	</machine>
+	<machine name="Angelus v2.0 (2006-12-18).prc">
+		<description>Angelus v2.0 (2006-12-18).prc</description>
+		<rom name="Angelus v2.0 (2006-12-18).prc" size="246415" crc="b543cc61" md5="a9443c87d6f708617998800ceeb59987" sha1="ca56d58cd46398dab6ffe93e529d90381ef4e9e4"/>
+	</machine>
+	<machine name="AppHack (1996-07-08).prc">
+		<description>AppHack (1996-07-08).prc</description>
+		<rom name="AppHack (1996-07-08).prc" size="3739" crc="18dae317" md5="ad347793ad801e8d01b85a9935de6ae6" sha1="258c27b7482d224da7f9199c2f8bdf84b32694b2"/>
+	</machine>
+	<machine name="AppList v2.1 (1998).prc">
+		<description>AppList v2.1 (1998).prc</description>
+		<rom name="AppList v2.1 (1998).prc" size="3608" crc="86322fc8" md5="ae6141e58f38d21d142af134ba4de515" sha1="8329325067c9f7147d7979c346e8364c45145b9a"/>
+	</machine>
+	<machine name="AppMan v1.01 (1997).prc">
+		<description>AppMan v1.01 (1997).prc</description>
+		<rom name="AppMan v1.01 (1997).prc" size="22445" crc="eec00503" md5="ce75a8b2336326ce89956f821e2bbff5" sha1="6bb34389f228a69e02185a7e72bf6924ae50008a"/>
+	</machine>
+	<machine name="Arranger v1.12 (1998).prc">
+		<description>Arranger v1.12 (1998).prc</description>
+		<rom name="Arranger v1.12 (1998).prc" size="39201" crc="70c15db3" md5="2ace0b78d39a452abee276cdd6db1a5f" sha1="1556cf0f2c385fc2b141082a5e9d6793acdcf192"/>
+	</machine>
+	<machine name="AsciiChart (1997-04-13).prc">
+		<description>AsciiChart (1997-04-13).prc</description>
+		<rom name="AsciiChart (1997-04-13).prc" size="5160" crc="dd54d519" md5="a36928b5a70f30b551383c12d04be2cc" sha1="479fcd726c767830979c714a041ade4574a7885e"/>
+	</machine>
+	<machine name="Assets Manager v1.03 (1998).prc">
+		<description>Assets Manager v1.03 (1998).prc</description>
+		<rom name="Assets Manager v1.03 (1998).prc" size="30308" crc="5efcb731" md5="f0eb3e580023836df8d4f7bf25731b16" sha1="5e609f31d39a72557988c482ac504f6a75d80aa1"/>
+	</machine>
+	<machine name="ATool v0.8 (1998-05-30).prc">
+		<description>ATool v0.8 (1998-05-30).prc</description>
+		<rom name="ATool v0.8 (1998-05-30).prc" size="14872" crc="e9bd03ca" md5="dd27d5720f4558bc0a7326c9690e3729" sha1="432bd0119ce8d5e6b83ddb4d9f53e8e69749650b"/>
+	</machine>
+	<machine name="AutoDuel v1.0 (1998).prc">
+		<description>AutoDuel v1.0 (1998).prc</description>
+		<rom name="AutoDuel v1.0 (1998).prc" size="12815" crc="2d9b2037" md5="4cca6e70d3e7d32b92fdd170fe8aee8b" sha1="6c8e308ba73fe5b2990376b48065cd099214c272"/>
+	</machine>
+	<machine name="AutoMobil v1.5 (1998-12-12).prc">
+		<description>AutoMobil v1.5 (1998-12-12).prc</description>
+		<rom name="AutoMobil v1.5 (1998-12-12).prc" size="32835" crc="3786130b" md5="557bd3413524d78b4e79b428f0fd4f04" sha1="3346d35803378a0e8db5059381f707668209becd"/>
+	</machine>
+	<machine name="Babel v2.0 (-).prc">
+		<description>Babel v2.0 (-).prc</description>
+		<rom name="Babel v2.0 (-).prc" size="3383" crc="78725330" md5="a74d541456646ffeea78a6a8fde8f772" sha1="31876dea730a2ed8bb27859da422e0f705604f52"/>
+	</machine>
+	<machine name="Backgammon v1.3b1 (1998-10-12).prc">
+		<description>Backgammon v1.3b1 (1998-10-12).prc</description>
+		<rom name="Backgammon v1.3b1 (1998-10-12).prc" size="38085" crc="136fb254" md5="fa731713306063d4bfae7c5dbdb820cc" sha1="1d6da604d7d4befd2bee98da68f9d2fd69d35126"/>
+	</machine>
+	<machine name="Ball (1996-07-29).prc">
+		<description>Ball (1996-07-29).prc</description>
+		<rom name="Ball (1996-07-29).prc" size="17515" crc="8b53a342" md5="5d25a8ec248ad9a3ba31cbc264b9c313" sha1="a12be0a8f0b2bb2027611310022d0a2a73eb33b9"/>
+	</machine>
+	<machine name="Battery v0.2 (-).prc">
+		<description>Battery v0.2 (-).prc</description>
+		<rom name="Battery v0.2 (-).prc" size="2578" crc="5794980a" md5="f61ae2d05b7720b78db33f212dabe743" sha1="76f13377c545a7938da8974a14130b3b6115d180"/>
+	</machine>
+	<machine name="BattleShip v1.3 (-).prc">
+		<description>BattleShip v1.3 (-).prc</description>
+		<rom name="BattleShip v1.3 (-).prc" size="15380" crc="be210a79" md5="7ec4196c26e0863b9968d765a4463977" sha1="29f354ee8b17f13d862e09317ffb074d76b95147"/>
+	</machine>
+	<machine name="beep v1.7 (1998-05-16).prc">
+		<description>beep v1.7 (1998-05-16).prc</description>
+		<rom name="beep v1.7 (1998-05-16).prc" size="3636" crc="d3171f0a" md5="7dfff7baa6eaa9a70f00f5b98927714c" sha1="44395cd7e4fb92370580b089145e4cac9ad4af35"/>
+	</machine>
+	<machine name="Big Tipper 2 v2.0 (1997-12-08).prc">
+		<description>Big Tipper 2 v2.0 (1997-12-08).prc</description>
+		<rom name="Big Tipper 2 v2.0 (1997-12-08).prc" size="10119" crc="4101d696" md5="55713de2ca4097bfeda11681663c582a" sha1="9037a4142eacc1f0c0c5072c7c54ddd2f998e730"/>
+	</machine>
+	<machine name="BigClip v0.94 (1997).prc">
+		<description>BigClip v0.94 (1997).prc</description>
+		<rom name="BigClip v0.94 (1997).prc" size="14378" crc="4dd8384b" md5="bbbdf6f37301097c869fbdaba6636022" sha1="6a6069e62df0eb5c7b5827d3b0d3f32fc6e806be"/>
+	</machine>
+	<machine name="BigClock v1.61+ (-).prc">
+		<description>BigClock v1.61+ (-).prc</description>
+		<rom name="BigClock v1.61+ (-).prc" size="20705" crc="863f4c14" md5="32f9eaed8e575b199bb2414ab4655f12" sha1="a8e3d98700b8dabe7868cd6808ff1c42e811c2c4"/>
+	</machine>
+	<machine name="Bikini v1.2 (1998-09-10).prc">
+		<description>Bikini v1.2 (1998-09-10).prc</description>
+		<rom name="Bikini v1.2 (1998-09-10).prc" size="11948" crc="5a35e4d8" md5="fd05cd32d3c2e92a7625cbde646e259b" sha1="1edd81810a15a303c456e1f55cde9f80e937fd8e"/>
+	</machine>
+	<machine name="BinCalc (1997-05-30).prc">
+		<description>BinCalc (1997-05-30).prc</description>
+		<rom name="BinCalc (1997-05-30).prc" size="22668" crc="9786bc29" md5="e760322e1e88378be5e5bfd83ca15be9" sha1="cac7c7edbf73e1309eb8432c6999a051e1df3fee"/>
+	</machine>
+	<machine name="BioTables (1998-03-01).prc">
+		<description>BioTables (1998-03-01).prc</description>
+		<rom name="BioTables (1998-03-01).prc" size="20911" crc="205fae42" md5="e8048c37b92fb005bfa520cd9d496240" sha1="762ed26a45fecce70b5768120e53c2338a3523ce"/>
+	</machine>
+	<machine name="Blackjack v1.1 (1997-05-15).prc">
+		<description>Blackjack v1.1 (1997-05-15).prc</description>
+		<rom name="Blackjack v1.1 (1997-05-15).prc" size="25079" crc="39fe8a35" md5="cf99ae165719e97dd4149bb94ee0bfd6" sha1="99a8c4a82d784a596ade82d238c4bb64e811331b"/>
+	</machine>
+	<machine name="Bleeper v1.1 (1998).prc">
+		<description>Bleeper v1.1 (1998).prc</description>
+		<rom name="Bleeper v1.1 (1998).prc" size="7121" crc="f23db0f8" md5="128d11675e625478f783066be1faf064" sha1="4560a92c8d8ae351e6bc4834e5ef8e50ad1868cf"/>
+	</machine>
+	<machine name="BlockParty v1.0 (-).prc">
+		<description>BlockParty v1.0 (-).prc</description>
+		<rom name="BlockParty v1.0 (-).prc" size="15505" crc="c136ec4e" md5="3cf8ad34d3ff429c25d9a80a596bb369" sha1="5550d0147da2d6be0d778990d28aec86564b44db"/>
+	</machine>
+	<machine name="Blocks Beta 1 (1996-06-12).prc">
+		<description>Blocks Beta 1 (1996-06-12).prc</description>
+		<rom name="Blocks Beta 1 (1996-06-12).prc" size="10947" crc="49b27696" md5="a3ac1db6bf78ad251d9f6d85bffa51a9" sha1="c60681bd6845cce9afb9f1b50a33ca936c1a114c"/>
+	</machine>
+	<machine name="BMeter v1.1 (1996-05-16).prc">
+		<description>BMeter v1.1 (1996-05-16).prc</description>
+		<rom name="BMeter v1.1 (1996-05-16).prc" size="4094" crc="86c585b2" md5="b9d9efdf924f7ea45401f594e6db250e" sha1="43ab8c0c43e0c6a5e2104ee797eaac235bdff033"/>
+	</machine>
+	<machine name="BMIc (1996-05-16).prc">
+		<description>BMIc (1996-05-16).prc</description>
+		<rom name="BMIc (1996-05-16).prc" size="9335" crc="af5db8e8" md5="6c300f6e227216a96a93ad2941417c6b" sha1="5aa448d73566e613da37195f3b3124840d63f527"/>
+	</machine>
+	<machine name="Browser (1997-01-08).prc">
+		<description>Browser (1997-01-08).prc</description>
+		<rom name="Browser (1997-01-08).prc" size="22204" crc="5c336411" md5="915135bd2221b5d4948771ddc3878b37" sha1="452f336beb983b99b71f83871517bd70a4ae32b9"/>
+	</machine>
+	<machine name="Bunny v2.0 (-).prc">
+		<description>Bunny v2.0 (-).prc</description>
+		<rom name="Bunny v2.0 (-).prc" size="6108" crc="ea029540" md5="fac6c027b1be5a616934b827216cdd07" sha1="f14a821d37205c242b7c30500cd3a65f18e50241"/>
+	</machine>
+	<machine name="Buzzword v0.6 (-).prc">
+		<description>Buzzword v0.6 (-).prc</description>
+		<rom name="Buzzword v0.6 (-).prc" size="10679" crc="30b957df" md5="e56782c893fda39d595a9cfda0b92dae" sha1="10957d198886b7f0343a04ad70f79fa3d4e5cea7"/>
+	</machine>
+	<machine name="CalConvert v1.0 (1996-09-18).prc">
+		<description>CalConvert v1.0 (1996-09-18).prc</description>
+		<rom name="CalConvert v1.0 (1996-09-18).prc" size="8964" crc="7509ccf9" md5="72df3ea247a75fc6c20e146414437487" sha1="bd3454ed4819a99d137f459b0585fd05a6d0d796"/>
+	</machine>
+	<machine name="Call Tracker v1.4b2 (1998-10-15).prc">
+		<description>Call Tracker v1.4b2 (1998-10-15).prc</description>
+		<rom name="Call Tracker v1.4b2 (1998-10-15).prc" size="82454" crc="c517aee5" md5="3ec8589eb0bf2f42d9840aa4bdc01b9d" sha1="3dd37870fc68169925b81041e74628d0b0d9b358"/>
+	</machine>
+	<machine name="Cannon v1.5 (1997-12-26).prc">
+		<description>Cannon v1.5 (1997-12-26).prc</description>
+		<rom name="Cannon v1.5 (1997-12-26).prc" size="8903" crc="0e59b7d8" md5="64f5b499d70a85ffaf920af2e65f6678" sha1="e77f65a259130d9932c37d750cb56a8ea6490f2a"/>
+	</machine>
+	<machine name="cbasPad v0.77 (1997-05-20).prc">
+		<description>cbasPad v0.77 (1997-05-20).prc</description>
+		<rom name="cbasPad v0.77 (1997-05-20).prc" size="40269" crc="9f1ad749" md5="66156fbc6316c10285d155caba233f3c" sha1="07f9ed45351f8ceca711c778d4183b086d50d3f3"/>
+	</machine>
+	<machine name="CFL '98 v1.0 (1998-10-27).prc">
+		<description>CFL '98 v1.0 (1998-10-27).prc</description>
+		<rom name="CFL '98 v1.0 (1998-10-27).prc" size="10064" crc="8fcd43c4" md5="d958a76ce62b48f5ce982f29161ed819" sha1="30ba9bba4e7444734ed33a73f5804179f6528b44"/>
+	</machine>
+	<machine name="CharSet v1.0 (1998-08-10).prc">
+		<description>CharSet v1.0 (1998-08-10).prc</description>
+		<rom name="CharSet v1.0 (1998-08-10).prc" size="4231" crc="98d316fd" md5="4b75583d0be1b3198deb4bedd526317d" sha1="a6e134d94cb09ba27465ce8f9e4c1f43468aae8a"/>
+	</machine>
+	<machine name="Checkers v0.95 (1997).prc">
+		<description>Checkers v0.95 (1997).prc</description>
+		<rom name="Checkers v0.95 (1997).prc" size="5383" crc="6b1e8343" md5="91c4dda7a4ab423767d8918fefd060e4" sha1="c9dfc65a8fac7f91973efe6f668c09638ca98e75"/>
+	</machine>
+	<machine name="CheckIt v1.1 (1998).prc">
+		<description>CheckIt v1.1 (1998).prc</description>
+		<rom name="CheckIt v1.1 (1998).prc" size="31043" crc="cc03ae2f" md5="72e21d5851cf5b922cdcd46dc1b7b9d8" sha1="67ac287fcad166e5160df4a9198b694ce4eab46f"/>
+	</machine>
+	<machine name="Chess Timer (1997).prc">
+		<description>Chess Timer (1997).prc</description>
+		<rom name="Chess Timer (1997).prc" size="5938" crc="b01a0f84" md5="c6a37902e325d8258c21069f9c49449b" sha1="03fa0da5414fb88f35c042ccf5709c85bdb1db67"/>
+	</machine>
+	<machine name="ChessGenius v2.0 (2003-11-25).prc">
+		<description>ChessGenius v2.0 (2003-11-25).prc</description>
+		<rom name="ChessGenius v2.0 (2003-11-25).prc" size="162336" crc="13935431" md5="0265ecc4ad598e6ca51f2a6e59708214" sha1="d95794adb48d6e1c7e699e5746c268cbcbec75c5"/>
+	</machine>
+	<machine name="ChessRec (1998).prc">
+		<description>ChessRec (1998).prc</description>
+		<rom name="ChessRec (1998).prc" size="37035" crc="b602ca1d" md5="42dd52ed776d3545ff8a625fe4d3ad9f" sha1="808f026b14aec4ef9a30a9bbeef6893508690a42"/>
+	</machine>
+	<machine name="Chinese Checkers (1997).prc">
+		<description>Chinese Checkers (1997).prc</description>
+		<rom name="Chinese Checkers (1997).prc" size="13137" crc="54d5febc" md5="54c35b7036134aeea176906ee54d6870" sha1="fffc1c4a06e40b55f2086c7c9d866d6e4520485c"/>
+	</machine>
+	<machine name="Clipper v1.1 (1998-10-05).prc">
+		<description>Clipper v1.1 (1998-10-05).prc</description>
+		<rom name="Clipper v1.1 (1998-10-05).prc" size="28309" crc="122b7917" md5="91ce6fc5dca6daec02ae744ecb869672" sha1="f131f70d59849f77b0cfcc69629f0c1a5249135d"/>
+	</machine>
+	<machine name="ClipView v0.1 (-).prc">
+		<description>ClipView v0.1 (-).prc</description>
+		<rom name="ClipView v0.1 (-).prc" size="1910" crc="43bd702c" md5="06d02c5df8400b5a05a39d3f8ab1369b" sha1="dbb4a6d28b9e06359be83dde7cae3ed85ff879d3"/>
+	</machine>
+	<machine name="Commute (1997).prc">
+		<description>Commute (1997).prc</description>
+		<rom name="Commute (1997).prc" size="23686" crc="980205f6" md5="54d6f8e3de37ebfa3334aba05d392830" sha1="e0179da06c3893166b9897cac6d90d077b6129dc"/>
+	</machine>
+	<machine name="Connect 4 v1.0.0 (-).prc">
+		<description>Connect 4 v1.0.0 (-).prc</description>
+		<rom name="Connect 4 v1.0.0 (-).prc" size="12619" crc="9435df64" md5="de610aaf5ce41ff00a1cd166adeeef7a" sha1="e916463cfc37f1354c02e23b90b6506bc57da261"/>
+	</machine>
+	<machine name="Counter v1.0 (1998).prc">
+		<description>Counter v1.0 (1998).prc</description>
+		<rom name="Counter v1.0 (1998).prc" size="8767" crc="c6dfa2a2" md5="f07a2ca119b3ad936e935b3e8248f287" sha1="e323a38ae3874326df90a600abfc27adc4cd40c2"/>
+	</machine>
+	<machine name="Country Codes v0.1 (1997-11-19).prc">
+		<description>Country Codes v0.1 (1997-11-19).prc</description>
+		<rom name="Country Codes v0.1 (1997-11-19).prc" size="10878" crc="4f265cca" md5="6968ea4e66947d2c54aff8daf1133c60" sha1="5929ff780a27ae402da3b9ba5b375cd8ff7a8d31"/>
+	</machine>
+	<machine name="Cribbage v2.1 (-).prc">
+		<description>Cribbage v2.1 (-).prc</description>
+		<rom name="Cribbage v2.1 (-).prc" size="21373" crc="55fa7cd8" md5="8840c898bc2be09ed92f04eb21396563" sha1="4a56a543c1022fea0e9e1b5b569003e365ddf89c"/>
+	</machine>
+	<machine name="Crosswords v1.0.2 (1998).prc">
+		<description>Crosswords v1.0.2 (1998).prc</description>
+		<rom name="Crosswords v1.0.2 (1998).prc" size="19973" crc="77394006" md5="30596573c7a972f29a5466f744eb5b66" sha1="d4ba8695fa3e62f6545d36c2582bfadc8629d492"/>
+	</machine>
+	<machine name="Cuarenta v2.7 (1998-04-22).prc">
+		<description>Cuarenta v2.7 (1998-04-22).prc</description>
+		<rom name="Cuarenta v2.7 (1998-04-22).prc" size="16994" crc="01c38077" md5="2affcecfbae31f00ed6602f48be094b7" sha1="8b596ebefb03c18a40a6ccf564e2fcb4e578afe4"/>
+	</machine>
+	<machine name="CurrEx (1996-07-30).prc">
+		<description>CurrEx (1996-07-30).prc</description>
+		<rom name="CurrEx (1996-07-30).prc" size="3643" crc="0620e330" md5="35c6b778b2251a293ae3e77e70fe0aa1" sha1="27cf8b8c4e2bd93a02dfd4a7e6022f3ed36e4d18"/>
+	</machine>
+	<machine name="CWimp v2.7 beta (2001).prc">
+		<description>CWimp v2.7 beta (2001).prc</description>
+		<rom name="CWimp v2.7 beta (2001).prc" size="38842" crc="36c45eff" md5="dfa14179b7b1844bbbeed9f865ad445e" sha1="e9c8959d7af0063149702c673834b7aaf92026a6"/>
+	</machine>
+	<machine name="daleks v1.1 (1998-06-07).prc">
+		<description>daleks v1.1 (1998-06-07).prc</description>
+		<rom name="daleks v1.1 (1998-06-07).prc" size="11820" crc="e378cfef" md5="89a06d29baa8336b951a27b434956633" sha1="5e28445d4864d2cc91b08c00410c40b8a2c4b06f"/>
+	</machine>
+	<machine name="Dali Clock v2.32 (2010-04-19).prc">
+		<description>Dali Clock v2.32 (2010-04-19).prc</description>
+		<rom name="Dali Clock v2.32 (2010-04-19).prc" size="35798" crc="809153ca" md5="b345cac7bd09fe6718d6142b3a78c14f" sha1="062478a2229ae08fb5f60d361332971b78b6438c"/>
+	</machine>
+	<machine name="Darn It v1.02 (1998-05-28).prc">
+		<description>Darn It v1.02 (1998-05-28).prc</description>
+		<rom name="Darn It v1.02 (1998-05-28).prc" size="12063" crc="41480b00" md5="fcf7fbf2d5601906e3c879f80923823d" sha1="5d8d8ad27f5ea2750c6395f45f0f1def4bb6ea79"/>
+	</machine>
+	<machine name="Das Blinken Lights v1.0 (-).prc">
+		<description>Das Blinken Lights v1.0 (-).prc</description>
+		<rom name="Das Blinken Lights v1.0 (-).prc" size="2506" crc="5c392ad6" md5="68ac8889d0fe7de5635d1efc6ac1282b" sha1="90d7fca200e4609e4fbc80a8b6aaa445d6ba16fb"/>
+	</machine>
+	<machine name="Database Manager v1.0b1 (1998-05-31).prc">
+		<description>Database Manager v1.0b1 (1998-05-31).prc</description>
+		<rom name="Database Manager v1.0b1 (1998-05-31).prc" size="50858" crc="2ebafcbf" md5="3374c9ce61d5248c5587a564ce3f8f95" sha1="abf237ca813a783497caf9ad9c0665ea4d4b491a"/>
+	</machine>
+	<machine name="Date Dif v1.3 (1998).prc">
+		<description>Date Dif v1.3 (1998).prc</description>
+		<rom name="Date Dif v1.3 (1998).prc" size="9747" crc="8ce8bcec" md5="17ccc2dfc5fcb085dbc9436eb10fe8f6" sha1="ea93ef75da2f993b63cbf7feaca4c2a6a39abfb0"/>
+	</machine>
+	<machine name="Datebook+ v1.0 (1997-02-15).prc">
+		<description>Datebook+ v1.0 (1997-02-15).prc</description>
+		<rom name="Datebook+ v1.0 (1997-02-15).prc" size="52099" crc="a2ae6c91" md5="061111209d5c791f318ace2643651e71" sha1="cea4df420963e08ead45c2a93fd9bc1718f6b176"/>
+	</machine>
+	<machine name="DateList v1.2 (1998).prc">
+		<description>DateList v1.2 (1998).prc</description>
+		<rom name="DateList v1.2 (1998).prc" size="5367" crc="655319ac" md5="3d5c50803e9309c03d3654203c7cfefa" sha1="d06636c959d17c89d031192785cd194cdb7276be"/>
+	</machine>
+	<machine name="Dates! v1.60 (1998-01-31).prc">
+		<description>Dates! v1.60 (1998-01-31).prc</description>
+		<rom name="Dates! v1.60 (1998-01-31).prc" size="7735" crc="b89d51a8" md5="72c1ee11a40a66d26d5bb8ce9130a2db" sha1="2036576e89a5c980b95b08739b31dc1d8ea74128"/>
+	</machine>
+	<machine name="DB Explorer v1.01 (1998-05-09).prc">
+		<description>DB Explorer v1.01 (1998-05-09).prc</description>
+		<rom name="DB Explorer v1.01 (1998-05-09).prc" size="20563" crc="352b3f3f" md5="a8664d366c2c62237a4a6301f4f8bdcb" sha1="226e1b96baffc5faf8565ca24c55588e9e180e71"/>
+	</machine>
+	<machine name="Decider v0.92 (1997).prc">
+		<description>Decider v0.92 (1997).prc</description>
+		<rom name="Decider v0.92 (1997).prc" size="5502" crc="792e844f" md5="447a99cda2f341b20f9320eb4f1d7c95" sha1="8b7f5851aea8cda6a91b0745a971e4634bdb913e"/>
+	</machine>
+	<machine name="DI27 Communication v1.10 (1998-10-08).prc">
+		<description>DI27 Communication v1.10 (1998-10-08).prc</description>
+		<rom name="DI27 Communication v1.10 (1998-10-08).prc" size="26174" crc="482d71bb" md5="dea0fbc7a9c76cbdcdd3b8289783ba42" sha1="e772bfa7f134304299737bcc8ef3980b7cc807c3"/>
+	</machine>
+	<machine name="Diary v1.0 (1998-08-21).prc">
+		<description>Diary v1.0 (1998-08-21).prc</description>
+		<rom name="Diary v1.0 (1998-08-21).prc" size="25524" crc="14683643" md5="4c9ecc9831359b7d428075041c81bd94" sha1="7ae2acec07bec57fed341f284d7b0849d5b47333"/>
+	</machine>
+	<machine name="DicePro v2.0 (1998).prc">
+		<description>DicePro v2.0 (1998).prc</description>
+		<rom name="DicePro v2.0 (1998).prc" size="32641" crc="f95d78c5" md5="b011404e007fdc4c8e8b0f866b94c042" sha1="c0611060f855195531d596ca8d3c2952322f579e"/>
+	</machine>
+	<machine name="Dive Computer v1.0 (-).prc">
+		<description>Dive Computer v1.0 (-).prc</description>
+		<rom name="Dive Computer v1.0 (-).prc" size="15332" crc="22388407" md5="f520e0c4c48eaf567a8ce3ce49d69f4b" sha1="9beef66e6cf7487c1378c960457998a28d15d8af"/>
+	</machine>
+	<machine name="DiveLog v0.73 (1998-10-19).prc">
+		<description>DiveLog v0.73 (1998-10-19).prc</description>
+		<rom name="DiveLog v0.73 (1998-10-19).prc" size="29679" crc="8ce58720" md5="e7757659ef2fac76656795ebb743f889" sha1="b086c5a26b87ee3f73a6403a14d6c9d72c132f03"/>
+	</machine>
+	<machine name="E-Racer v1.1 (-).prc">
+		<description>E-Racer v1.1 (-).prc</description>
+		<rom name="E-Racer v1.1 (-).prc" size="7592" crc="d0c91a52" md5="cba6b568f0db780294bed149c89dface" sha1="3dbf1bcc863abdab0d2b9e5ac045896ab317df60"/>
+	</machine>
+	<machine name="Easy-Coach (1998).prc">
+		<description>Easy-Coach (1998).prc</description>
+		<rom name="Easy-Coach (1998).prc" size="45026" crc="e56f2b51" md5="d5db307da333a1bd1b16023cd84c6fc3" sha1="b41ce1b678b31ad38dd3dc2e0dd2b5b3caa576f0"/>
+	</machine>
+	<machine name="Ebony Ivory v1.00 (1997-07-25).prc">
+		<description>Ebony Ivory v1.00 (1997-07-25).prc</description>
+		<rom name="Ebony Ivory v1.00 (1997-07-25).prc" size="3882" crc="5fd1f764" md5="305948b08642c3c36f6bd1a38fdc7efd" sha1="8ddeb67d4332cd4d4fb157d5624a4925e3f29358"/>
+	</machine>
+	<machine name="EEToolkit v1.0 (1998-04-13).prc">
+		<description>EEToolkit v1.0 (1998-04-13).prc</description>
+		<rom name="EEToolkit v1.0 (1998-04-13).prc" size="26466" crc="bb18baca" md5="db6f32df3265f51c67c9f522453cca60" sha1="aa3255307e066ddded5fbdd97e32db57d176d005"/>
+	</machine>
+	<machine name="EggTimer v1.0 (1997-07-15).prc">
+		<description>EggTimer v1.0 (1997-07-15).prc</description>
+		<rom name="EggTimer v1.0 (1997-07-15).prc" size="5934" crc="858b242e" md5="7139ec37a15e150cefe2740b97b5df69" sha1="7b557eda0a8945ba0143eeba63f3108fdfbb77ed"/>
+	</machine>
+	<machine name="eightBall v1.0 (1997-06-09).prc">
+		<description>eightBall v1.0 (1997-06-09).prc</description>
+		<rom name="eightBall v1.0 (1997-06-09).prc" size="6063" crc="dae4a89a" md5="cb490970af0ea7453a7dfda1ecbf9ff6" sha1="4a3e8dc63cec7d02dd5b379e3c412cd7233851e6"/>
+	</machine>
+	<machine name="Eliza v1.00 (-).prc">
+		<description>Eliza v1.00 (-).prc</description>
+		<rom name="Eliza v1.00 (-).prc" size="16905" crc="ea8361bd" md5="b9eb0088fd5fd6fa893708ff7de2a8c4" sha1="c0b0b3b501582316699854683d5dcc82a0fdbdd7"/>
+	</machine>
+	<machine name="ErlangB v1.0 (1998).prc">
+		<description>ErlangB v1.0 (1998).prc</description>
+		<rom name="ErlangB v1.0 (1998).prc" size="17679" crc="2e5f273d" md5="9e928bfdf05016d220d81f42ef1474dc" sha1="0ff4d0ac3e9167cca2942f369b73dfabb1aaafb5"/>
+	</machine>
+	<machine name="EtchASketch v1.0 (-).prc">
+		<description>EtchASketch v1.0 (-).prc</description>
+		<rom name="EtchASketch v1.0 (-).prc" size="2487" crc="83fd9c43" md5="62f9b18f3f40c6d5dcd16ad58319f80e" sha1="be32f9bdbc45ca19b0645a8cdaf4f90975d3678a"/>
+	</machine>
+	<machine name="EtherType v1.0 (1998-04-15).prc">
+		<description>EtherType v1.0 (1998-04-15).prc</description>
+		<rom name="EtherType v1.0 (1998-04-15).prc" size="60136" crc="df1a509d" md5="f05e80d5a961bca25be0bf8c05e5acd2" sha1="1626cf788f0ce9a340c314909952185fc68a2c46"/>
+	</machine>
+	<machine name="eurocalc v1.0.0 (1998).prc">
+		<description>eurocalc v1.0.0 (1998).prc</description>
+		<rom name="eurocalc v1.0.0 (1998).prc" size="11683" crc="835a3f69" md5="97073d7389e1b8d14e98803d98f4252b" sha1="764dc4fa9fefc0eee38b093152ae31af83d67c0f"/>
+	</machine>
+	<machine name="EZTip v1.01 (-).prc">
+		<description>EZTip v1.01 (-).prc</description>
+		<rom name="EZTip v1.01 (-).prc" size="27665" crc="5488c48d" md5="127f1fb18e7ba2ead4e3fbfe9e6052f0" sha1="4cb9547fde8ca16c9a07d704123f4f724460a8d7"/>
+	</machine>
+	<machine name="FactorPad v0.0 (-).prc">
+		<description>FactorPad v0.0 (-).prc</description>
+		<rom name="FactorPad v0.0 (-).prc" size="5740" crc="22cacba1" md5="84a6227d1303eb66d8de8470ef459b93" sha1="02fcee2475f5a3e6fa97cb09e953d0c7bcefb0d9"/>
+	</machine>
+	<machine name="Fax v0.13 (-).prc">
+		<description>Fax v0.13 (-).prc</description>
+		<rom name="Fax v0.13 (-).prc" size="34008" crc="0739fe45" md5="cfaedd69b919199dbc914f3348bd53f9" sha1="eca6bb9c823d3c6717d9e1e83183576c3a45090d"/>
+	</machine>
+	<machine name="FCalc (1996-07-12).prc">
+		<description>FCalc (1996-07-12).prc</description>
+		<rom name="FCalc (1996-07-12).prc" size="11819" crc="e3f0449c" md5="5df82452cd042aab75f5d6dfddce8e12" sha1="513d97307a2b2dd59c4880fddf000b51c4f52516"/>
+	</machine>
+	<machine name="File-X-Fer v0.2 (-).prc">
+		<description>File-X-Fer v0.2 (-).prc</description>
+		<rom name="File-X-Fer v0.2 (-).prc" size="12964" crc="f77f5856" md5="ac83c0dd84f543c4d265b766071bac10" sha1="9fbf5665e218a3753c084f699617e7a85bb50eba"/>
+	</machine>
+	<machine name="Fill Up v1.3 (-).prc">
+		<description>Fill Up v1.3 (-).prc</description>
+		<rom name="Fill Up v1.3 (-).prc" size="27064" crc="aa1641a5" md5="ce900559eb4a4cb8a5fb0039c4dda38c" sha1="f38019a9bfcf40f9fbd75ddcdaf83447111542aa"/>
+	</machine>
+	<machine name="Finder v1.0 (1997).prc">
+		<description>Finder v1.0 (1997).prc</description>
+		<rom name="Finder v1.0 (1997).prc" size="10410" crc="eee7e833" md5="4085f4cfd30a9ffb9395a09395684dc0" sha1="0e4d6964df8ef45c461e15042f407aa91a031e13"/>
+	</machine>
+	<machine name="FireEscape v.97 (1998-10-19).prc">
+		<description>FireEscape v.97 (1998-10-19).prc</description>
+		<rom name="FireEscape v.97 (1998-10-19).prc" size="9052" crc="9d747b9c" md5="1732288a96d646b7b254cc971f85410f" sha1="afec252091d47b54324207a5e8ff2196747bb54a"/>
+	</machine>
+	<machine name="FiveSeeds v1.2 (1998).prc">
+		<description>FiveSeeds v1.2 (1998).prc</description>
+		<rom name="FiveSeeds v1.2 (1998).prc" size="9162" crc="a3912f53" md5="3f8070be6a62211fab68d6999485a473" sha1="b13acdd3f1872b77a1b799978f09287f13d73763"/>
+	</machine>
+	<machine name="Flash! v1.4.3 (1998-04-25).prc">
+		<description>Flash! v1.4.3 (1998-04-25).prc</description>
+		<rom name="Flash! v1.4.3 (1998-04-25).prc" size="54928" crc="1bac254a" md5="801ebd0f8a21e5de3656405f550a3ffc" sha1="e833c2b1347ad8ac59831d84a8d98d34c5ea48a3"/>
+	</machine>
+	<machine name="Flip v1.03 (1998-08-06).prc">
+		<description>Flip v1.03 (1998-08-06).prc</description>
+		<rom name="Flip v1.03 (1998-08-06).prc" size="43105" crc="cf64a321" md5="acff2f3d426e0c932aef7f45839ada39" sha1="0e93401e4086cd08c3025140130aa71455576754"/>
+	</machine>
+	<machine name="FlipIt v1.10 (1996).prc">
+		<description>FlipIt v1.10 (1996).prc</description>
+		<rom name="FlipIt v1.10 (1996).prc" size="7148" crc="72634f58" md5="8094308515b1e2989b4dfea727d10dee" sha1="1823c387049a8da038116ef74a6a5e9498374a32"/>
+	</machine>
+	<machine name="FlipView v.9 (1998-08-28).prc">
+		<description>FlipView v.9 (1998-08-28).prc</description>
+		<rom name="FlipView v.9 (1998-08-28).prc" size="20350" crc="b28a3a97" md5="fb54cbc7143cd35d9fd61a5e9ce3b644" sha1="8856bb3b0bf6c160f428043cf1b8d440bd314fab"/>
+	</machine>
+	<machine name="Food v0.95b (-).prc">
+		<description>Food v0.95b (-).prc</description>
+		<rom name="Food v0.95b (-).prc" size="28839" crc="4b1cfcc9" md5="4c2deb883486aa17a276f7a3c833e13a" sha1="2fdeedcfb7c1e6afc7945d867400580d5e86bf5a"/>
+	</machine>
+	<machine name="Foreign v2.4 (1998).prc">
+		<description>Foreign v2.4 (1998).prc</description>
+		<rom name="Foreign v2.4 (1998).prc" size="17898" crc="82fef795" md5="35b2d0464f3e6ee4a31f3fa1e5c8fe04" sha1="2979de7fc04c970e3eb6ca70d32ab96eb54d44d2"/>
+	</machine>
+	<machine name="Formula (1997).prc">
+		<description>Formula (1997).prc</description>
+		<rom name="Formula (1997).prc" size="39915" crc="fc758ea3" md5="7c2ad2f5dae9804dce95791a5551252c" sha1="41d5e0b74bbed2ef5bcb74b2210943cc61958459"/>
+	</machine>
+	<machine name="Formulas v1.2b4 (1998-10-13).prc">
+		<description>Formulas v1.2b4 (1998-10-13).prc</description>
+		<rom name="Formulas v1.2b4 (1998-10-13).prc" size="41567" crc="335883a7" md5="929b46e2a78596fbb2194b8fe622ad0b" sha1="df4b84c3ed0e3d1970383f877cb3af3860021154"/>
+	</machine>
+	<machine name="Found Me_ (1997-04-16).prc">
+		<description>Found Me_ (1997-04-16).prc</description>
+		<rom name="Found Me_ (1997-04-16).prc" size="2471" crc="7d22fc74" md5="bcd0ba17cd3796fa67f983e07672d269" sha1="411e8be2713bcf529573a1e6f28fac7f74fcd878"/>
+	</machine>
+	<machine name="Fours v1.0 (1998).prc">
+		<description>Fours v1.0 (1998).prc</description>
+		<rom name="Fours v1.0 (1998).prc" size="14275" crc="ddb999a2" md5="bace4063f38271f93bfcfcbfcbca9b0f" sha1="4fd9418a5c7650cf860eb9c3cada4d4a97dd4c5b"/>
+	</machine>
+	<machine name="FPS Util v3.0.3 (1998-07-09).prc">
+		<description>FPS Util v3.0.3 (1998-07-09).prc</description>
+		<rom name="FPS Util v3.0.3 (1998-07-09).prc" size="30270" crc="44cbe490" md5="5120f25858344e1e29f5f4d9012e0bbc" sha1="acfda08b8214cf596c261e7ba65a1d7ffe853e2b"/>
+	</machine>
+	<machine name="FpsClock (1997-02-08).prc">
+		<description>FpsClock (1997-02-08).prc</description>
+		<rom name="FpsClock (1997-02-08).prc" size="9176" crc="3774eae4" md5="6014519a057569568fedfba28c3c5e70" sha1="90c160360b7281de0bbeb8fca91b4baf345398db"/>
+	</machine>
+	<machine name="FreeCell (1997-01-09).prc">
+		<description>FreeCell (1997-01-09).prc</description>
+		<rom name="FreeCell (1997-01-09).prc" size="15838" crc="460b2fd2" md5="75f9c831d5b6afeb2a1b81f72cfbce7a" sha1="863dfb2a535560586b67a986297762098ccd5bb5"/>
+	</machine>
+	<machine name="FretBoard v0.9 (-).prc">
+		<description>FretBoard v0.9 (-).prc</description>
+		<rom name="FretBoard v0.9 (-).prc" size="12428" crc="44aba161" md5="f533554363cfa6c9ad274a78fe88c413" sha1="19e8ca6dd4a6da4b6df4d796ab07feb0bc6521fe"/>
+	</machine>
+	<machine name="Frogs Vs Cars v1.0 (1998-08-17).prc">
+		<description>Frogs Vs Cars v1.0 (1998-08-17).prc</description>
+		<rom name="Frogs Vs Cars v1.0 (1998-08-17).prc" size="25271" crc="74871429" md5="244f08efae5e002acf30257b89be7204" sha1="5109fc054a55b6ebdf2b0e099f88886adec89b1c"/>
+	</machine>
+	<machine name="Go To Jail! (1998).prc">
+		<description>Go To Jail! (1998).prc</description>
+		<rom name="Go To Jail! (1998).prc" size="31490" crc="32d73b30" md5="d84473c633195dbe507745e4c8928fbe" sha1="519ad54c5d266b0ea9bb3b5671600a8305557dee"/>
+	</machine>
+	<machine name="Golf Scorer v1.1 (-).prc">
+		<description>Golf Scorer v1.1 (-).prc</description>
+		<rom name="Golf Scorer v1.1 (-).prc" size="30931" crc="ba099134" md5="b38a80e6b2f03fd5b90711ca2c74518b" sha1="b5bdd560a8dffd0914ae9014740b853dce906d6f"/>
+	</machine>
+	<machine name="Image Viewer v2.0 (1997).prc">
+		<description>Image Viewer v2.0 (1997).prc</description>
+		<rom name="Image Viewer v2.0 (1997).prc" size="24981" crc="d387ad83" md5="75e69938041cbbc4932760c341262e34" sha1="143c1ea19c7a5029948540329022147b22daaf46"/>
+	</machine>
+	<machine name="Invaders (-).prc">
+		<description>Invaders (-).prc</description>
+		<rom name="Invaders (-).prc" size="8325" crc="5456eaa6" md5="ff19f8ec7194396d8209807681c1d173" sha1="c1489269872beaf303825230d0752a9346407580"/>
+	</machine>
+	<machine name="Invert v1.0 (1997).prc">
+		<description>Invert v1.0 (1997).prc</description>
+		<rom name="Invert v1.0 (1997).prc" size="1205" crc="6fee75e8" md5="c9f6e51eb6ae7c113d3787975d26f2e8" sha1="4bea6faf39c391f0c4a0cbc413a75849beebe333"/>
+	</machine>
+	<machine name="IR Ping v0.1 (-).prc">
+		<description>IR Ping v0.1 (-).prc</description>
+		<rom name="IR Ping v0.1 (-).prc" size="8254" crc="c18c424e" md5="7f184bb5ace411ef6ff9b6eedd9b1367" sha1="069d95d36ef8d2cdafe79967657e79a504a6faca"/>
+	</machine>
+	<machine name="IRBattleship v1.0 (1998-10-22).prc">
+		<description>IRBattleship v1.0 (1998-10-22).prc</description>
+		<rom name="IRBattleship v1.0 (1998-10-22).prc" size="19342" crc="cec70683" md5="e05c479c0b37a20662f5648b691aa9c9" sha1="ba85916810a68682f6ed723f50e803b9ffc8aa84"/>
+	</machine>
+	<machine name="JT WOF v1.20 (1997).prc">
+		<description>JT WOF v1.20 (1997).prc</description>
+		<rom name="JT WOF v1.20 (1997).prc" size="13738" crc="27ef1aa5" md5="a6bd2c90f1975ad2f2fb7d7d957dd655" sha1="4813ce6c3ee293aa152de0991c782bba97f08064"/>
+	</machine>
+	<machine name="Julian2 v1.0 (1998-05-19).prc">
+		<description>Julian2 v1.0 (1998-05-19).prc</description>
+		<rom name="Julian2 v1.0 (1998-05-19).prc" size="4220" crc="e07fb2c0" md5="57bc5d1bf0c5064de6c20cd91c94272a" sha1="ea3a2590159adce7197bfa0a0ee73b5ebfaf7bf4"/>
+	</machine>
+	<machine name="kanji Concentrate (1996-09-26).prc">
+		<description>kanji Concentrate (1996-09-26).prc</description>
+		<rom name="kanji Concentrate (1996-09-26).prc" size="16891" crc="d1b004e6" md5="5ec72a0e9ef42c606fc55a2ca3b643ec" sha1="4cc602ba4078efe185391abe44405fb87aa9bd9b"/>
+	</machine>
+	<machine name="KidsPilot v1.0 (1998-08-27).prc">
+		<description>KidsPilot v1.0 (1998-08-27).prc</description>
+		<rom name="KidsPilot v1.0 (1998-08-27).prc" size="10993" crc="a3600c77" md5="32c624e2ff9509d1ee22a693bc64838e" sha1="146c9656f735711478b9423c0cafd1c0e6e5a9de"/>
+	</machine>
+	<machine name="king v1.0 (1998-02-26).prc">
+		<description>king v1.0 (1998-02-26).prc</description>
+		<rom name="king v1.0 (1998-02-26).prc" size="8449" crc="56a20b7d" md5="dd9b221bab08c1b0d07a78605ddba5a9" sha1="f906acc358a400aeca46581274160452a37c0b66"/>
+	</machine>
+	<machine name="Klondike (1997-06-09).prc">
+		<description>Klondike (1997-06-09).prc</description>
+		<rom name="Klondike (1997-06-09).prc" size="18102" crc="e87754cf" md5="347514fbf69da34e93575ddebb5c454c" sha1="94619d49aa14338ef0e880b7f6c1e44b91480bd3"/>
+	</machine>
+	<machine name="Kniffel (1998).prc">
+		<description>Kniffel (1998).prc</description>
+		<rom name="Kniffel (1998).prc" size="13131" crc="d6949974" md5="0e5628ceaebce043560fb06efdc2a593" sha1="8ad954885e7f07076b83f8075dfdc4e290dcd0e2"/>
+	</machine>
+	<machine name="Knight v1.0 (-).prc">
+		<description>Knight v1.0 (-).prc</description>
+		<rom name="Knight v1.0 (-).prc" size="10201" crc="366fe0c4" md5="50dac002e8f1577fda8ababe11274ebd" sha1="812596aa8b43c44d6ab4998357f98b1e867ac18d"/>
+	</machine>
+	<machine name="KnightPad v0.9.2 (1998-06-18).prc">
+		<description>KnightPad v0.9.2 (1998-06-18).prc</description>
+		<rom name="KnightPad v0.9.2 (1998-06-18).prc" size="36773" crc="a5f134ef" md5="aac34239144d2e40ba92ab438c9970ed" sha1="452135bee28770a0cc95541ab37456e2ca2984c6"/>
+	</machine>
+	<machine name="Launcher v0.75 (1996-09-12).prc">
+		<description>Launcher v0.75 (1996-09-12).prc</description>
+		<rom name="Launcher v0.75 (1996-09-12).prc" size="13166" crc="c2ce6373" md5="48eca3ac0b160626080427b224cf1fa0" sha1="4766e94a0ba8c13930f373772370caa4f327d26d"/>
+	</machine>
+	<machine name="LauncherIII v1.40 (1997).prc">
+		<description>LauncherIII v1.40 (1997).prc</description>
+		<rom name="LauncherIII v1.40 (1997).prc" size="25931" crc="7878bf59" md5="5b4f96262f038f1bc1d989147252c1ac" sha1="cad0f7ccc20bff0ed6effb561153861933196992"/>
+	</machine>
+	<machine name="LClock v1.0 (-).prc">
+		<description>LClock v1.0 (-).prc</description>
+		<rom name="LClock v1.0 (-).prc" size="19105" crc="c263b622" md5="dcd0f90cb34aeba866617fab97338b81" sha1="542ed94cad7821aded59e7ac567251e9be567d52"/>
+	</machine>
+	<machine name="Learn Alpha v1.2 (-).prc">
+		<description>Learn Alpha v1.2 (-).prc</description>
+		<rom name="Learn Alpha v1.2 (-).prc" size="7258" crc="38c87ad7" md5="2f22b1f52da8249c31327fec0828ebb6" sha1="a8770fca2fb31558504542a5723b692978d81c26"/>
+	</machine>
+	<machine name="Lid v0.10 (1998-04-10).prc">
+		<description>Lid v0.10 (1998-04-10).prc</description>
+		<rom name="Lid v0.10 (1998-04-10).prc" size="9175" crc="cadb094d" md5="506baaeeb8745291f89beccfc9a9adb2" sha1="8140d610a3143b2f1e29c4fd213ad38122558c94"/>
+	</machine>
+	<machine name="List v0.94 (1998-10-02).prc">
+		<description>List v0.94 (1998-10-02).prc</description>
+		<rom name="List v0.94 (1998-10-02).prc" size="21326" crc="da4669b2" md5="a0570333153bbc2a10cf5e099b2a26e0" sha1="b675e7730d8f2c7d9fbf0cc0a29b3d2246861f49"/>
+	</machine>
+	<machine name="LockMe! v1.1.0 (1998).prc">
+		<description>LockMe! v1.1.0 (1998).prc</description>
+		<rom name="LockMe! v1.1.0 (1998).prc" size="4837" crc="66904e08" md5="1bee1c0cb2ad94a89866d49d798960db" sha1="0a27bfa0c5aa3820b5efdc0f02b129356ac4dfc2"/>
+	</machine>
+	<machine name="LogViewer for NiftyServe v1.0 (1998-08-21).prc">
+		<description>LogViewer for NiftyServe v1.0 (1998-08-21).prc</description>
+		<rom name="LogViewer for NiftyServe v1.0 (1998-08-21).prc" size="13904" crc="e5ff6eb0" md5="5955ca02c91d4ef143f50a85d4bd5408" sha1="f120eff7fd0dca13feae467f91a3b5f5683c6b3a"/>
+	</machine>
+	<machine name="LongTime v0.9 (1998-07-25).prc">
+		<description>LongTime v0.9 (1998-07-25).prc</description>
+		<rom name="LongTime v0.9 (1998-07-25).prc" size="2460" crc="c00518b0" md5="ef3b763c8680b24a3c664bad3b8d6824" sha1="e917df9adc9a3acc6ac2e56f2b6f38b7e2a50786"/>
+	</machine>
+	<machine name="LookAtMe v1.4 (1997).prc">
+		<description>LookAtMe v1.4 (1997).prc</description>
+		<rom name="LookAtMe v1.4 (1997).prc" size="12946" crc="73b7872f" md5="a25da99cd651a96530a68bd53694cb88" sha1="f07d91e6f09cc6986944e68049071d4e2122519c"/>
+	</machine>
+	<machine name="Lotto v1.0 (-).prc">
+		<description>Lotto v1.0 (-).prc</description>
+		<rom name="Lotto v1.0 (-).prc" size="3550" crc="de9a1ddd" md5="454cccea3d06a6ee27ac15fc92edb665" sha1="6fe1ec0c5e25cc15998b3d1472bc0060e14ff54e"/>
+	</machine>
+	<machine name="Magic Rulings (-).prc">
+		<description>Magic Rulings (-).prc</description>
+		<rom name="Magic Rulings (-).prc" size="2693" crc="20747deb" md5="75f9c09ff2efe2d36983e69e8ecf0188" sha1="a36cf9f0f52d313ec3d8a49f12e51bdca91900c8"/>
+	</machine>
+	<machine name="Mahjong v1.0 (2003-03-28).prc">
+		<description>Mahjong v1.0 (2003-03-28).prc</description>
+		<rom name="Mahjong v1.0 (2003-03-28).prc" size="478550" crc="40357b1d" md5="7808d41a25d53cfad17e4aa5f0b13524" sha1="b498d3e78d5f18a86ebabc96208312f2def86072"/>
+	</machine>
+	<machine name="MahJongg Calculator (1998).prc">
+		<description>MahJongg Calculator (1998).prc</description>
+		<rom name="MahJongg Calculator (1998).prc" size="14089" crc="4524f03a" md5="7e66751e88c4b03ea10ec12dd309e48c" sha1="ac076cf622f6f258a8349dfc92ff75dcc0a4900a"/>
+	</machine>
+	<machine name="Mahjongg v1.0 (2000)(Astraware).prc">
+		<description>Mahjongg v1.0 (2000)(Astraware).prc</description>
+		<rom name="Mahjongg v1.0 (2000)(Astraware).prc" size="138963" crc="56afa05e" md5="e4796196b9380573d60e02107c6d37bd" sha1="e93389f183274920b2f42ab355762d4bcda1893a"/>
+	</machine>
+	<machine name="MahJongg v1.1a (1998).prc">
+		<description>MahJongg v1.1a (1998).prc</description>
+		<rom name="MahJongg v1.1a (1998).prc" size="17828" crc="f93d6db6" md5="f66809a97af86b10dcfe6abb59e605c8" sha1="0855322063e1ba2447e512e698571620b9a01477"/>
+	</machine>
+	<machine name="MakiGame (1997).prc">
+		<description>MakiGame (1997).prc</description>
+		<rom name="MakiGame (1997).prc" size="8953" crc="809231ba" md5="ba9ab2918428b9a3895bfe7c4869f7a2" sha1="a082f03928c48adcca26d42273993defaadb8f21"/>
+	</machine>
+	<machine name="MAM v1.1 (1998-10-18).prc">
+		<description>MAM v1.1 (1998-10-18).prc</description>
+		<rom name="MAM v1.1 (1998-10-18).prc" size="56674" crc="7e12c093" md5="7dff7fd2fea6f520d2f0e57932dda07a" sha1="9a667ac8c431b2bafb2908fce74125f45a2e089e"/>
+	</machine>
+	<machine name="MapBook v1.0 (1998-10-15).prc">
+		<description>MapBook v1.0 (1998-10-15).prc</description>
+		<rom name="MapBook v1.0 (1998-10-15).prc" size="25640" crc="d8e62fd9" md5="01c6fa6ceb0411a0b08f5d5382eb2ac7" sha1="d8586ea6fa66fb6de0fc10c60d7d1b749435193c"/>
+	</machine>
+	<machine name="Marbles v1.0 (1998).prc">
+		<description>Marbles v1.0 (1998).prc</description>
+		<rom name="Marbles v1.0 (1998).prc" size="6185" crc="cd0ffbe4" md5="ab503fb12b8af1fc0a9b098d465d8976" sha1="1a579d8f2eacd873c7965df4358870723a7e5526"/>
+	</machine>
+	<machine name="Mass Transit v1.0b2 (1998-06-30).prc">
+		<description>Mass Transit v1.0b2 (1998-06-30).prc</description>
+		<rom name="Mass Transit v1.0b2 (1998-06-30).prc" size="10248" crc="52f5e8a3" md5="a2c411852d24a8f17362fc0b0bc294cf" sha1="75f2cfb5e2bbc3271842afd7f9ba211390933ee0"/>
+	</machine>
+	<machine name="Match 15 v1.0 (-).prc">
+		<description>Match 15 v1.0 (-).prc</description>
+		<rom name="Match 15 v1.0 (-).prc" size="7443" crc="b0254dca" md5="29f8a9db17b16fbeb97eb8416563865d" sha1="bf4512b0beaaa0ef2d4d26e72c92cf3253a6657b"/>
+	</machine>
+	<machine name="Moon Phase v1.5 (1998).prc">
+		<description>Moon Phase v1.5 (1998).prc</description>
+		<rom name="Moon Phase v1.5 (1998).prc" size="23976" crc="56dbccea" md5="cf87656f9fcadbd23af509786d6b6e86" sha1="bda114b1061101d29e18f57533ef73fe9592f364"/>
+	</machine>
+	<machine name="MoonMan v0.3 (1997).prc">
+		<description>MoonMan v0.3 (1997).prc</description>
+		<rom name="MoonMan v0.3 (1997).prc" size="20889" crc="c723a171" md5="49f82ed90139e60f8b48d912c8c317c1" sha1="aeddfe252ab90712214ab4093135beaa58a9ecb4"/>
+	</machine>
+	<machine name="Palm Alarm v1.5 (1998-03-31).prc">
+		<description>Palm Alarm v1.5 (1998-03-31).prc</description>
+		<rom name="Palm Alarm v1.5 (1998-03-31).prc" size="10654" crc="2508b67d" md5="083ac79f928980d63ed51d2ee94ac212" sha1="7eda6874a7f9d2e2424317329161976b31df57b3"/>
+	</machine>
+	<machine name="Pendragon Forms v1.2.03 (1998-03-08).prc">
+		<description>Pendragon Forms v1.2.03 (1998-03-08).prc</description>
+		<rom name="Pendragon Forms v1.2.03 (1998-03-08).prc" size="78440" crc="b45a5441" md5="a3a5e22d4dd67e8691ee1698ddcc6043" sha1="fb406d58cc0dfaa45eae7de0ccde1446c321fe71"/>
+	</machine>
+	<machine name="Pilot VT100 v0.8.0 (1998).prc">
+		<description>Pilot VT100 v0.8.0 (1998).prc</description>
+		<rom name="Pilot VT100 v0.8.0 (1998).prc" size="9882" crc="b5f1ec9f" md5="4231dd3c5f0d618443c623c09f1c6781" sha1="9f624752079f01f98ff9e59adee68f8505c2ada5"/>
+	</machine>
+	<machine name="PilotSenso v0.95 (-).prc">
+		<description>PilotSenso v0.95 (-).prc</description>
+		<rom name="PilotSenso v0.95 (-).prc" size="6537" crc="729972d2" md5="f03aefda116499571117138eeca0240a" sha1="e3b529dba51a4dd4a85dfdb766f1eed9e6863030"/>
+	</machine>
+	<machine name="PITCH v1.00 (1998-03-10).prc">
+		<description>PITCH v1.00 (1998-03-10).prc</description>
+		<rom name="PITCH v1.00 (1998-03-10).prc" size="5730" crc="1f574cac" md5="b2589bec62db94b5b308694014c484ab" sha1="5a751441d377adef89d5314f325b746347824d7b"/>
+	</machine>
+	<machine name="Planetarium v1.6 (1998).prc">
+		<description>Planetarium v1.6 (1998).prc</description>
+		<rom name="Planetarium v1.6 (1998).prc" size="44338" crc="03033dc5" md5="2733930f9b5e6ae8ee6c0f73df77dfd6" sha1="ef091ddafaa7ddc48ffa4036e7a72bbd83208a0e"/>
+	</machine>
+	<machine name="Plonk v1.00 (1997).prc">
+		<description>Plonk v1.00 (1997).prc</description>
+		<rom name="Plonk v1.00 (1997).prc" size="5611" crc="80b00736" md5="102f0c14eb9e18e43699096b38397846" sha1="ef512df70204d7d7e7622ec48903dc593baccfc4"/>
+	</machine>
+	<machine name="Plumb v1.1 (1998-04-17).prc">
+		<description>Plumb v1.1 (1998-04-17).prc</description>
+		<rom name="Plumb v1.1 (1998-04-17).prc" size="25935" crc="ab20d097" md5="419b59f45d7086c06c3d72f97e5884d1" sha1="f98ba52822bd4ee23642adf9c0433ef6e94eacf7"/>
+	</machine>
+	<machine name="PocketAlbum v0.5 (1997-06-25).prc">
+		<description>PocketAlbum v0.5 (1997-06-25).prc</description>
+		<rom name="PocketAlbum v0.5 (1997-06-25).prc" size="8790" crc="18d22f92" md5="ce88dc799cb0b258fb93a14cd106ed59" sha1="e360a80f85fcc1a66e52db742032573dddeda351"/>
+	</machine>
+	<machine name="Q Draw (1997-10-01).prc">
+		<description>Q Draw (1997-10-01).prc</description>
+		<rom name="Q Draw (1997-10-01).prc" size="26896" crc="30b502fc" md5="83ccda8f771925a206bb133d1229f413" sha1="6fd9f6c2d79e2d52f8a7411ab2ba9defa8b669ba"/>
+	</machine>
+	<machine name="QED v1.44 (-).prc">
+		<description>QED v1.44 (-).prc</description>
+		<rom name="QED v1.44 (-).prc" size="14917" crc="ae3d3d25" md5="128db3756cb3e6e2c6c32ca8ea2b1abc" sha1="f373ce7ed6ba848f1658eb256bfd28a833554700"/>
+	</machine>
+	<machine name="QMate v1.3.0 (1997-09-11).prc">
+		<description>QMate v1.3.0 (1997-09-11).prc</description>
+		<rom name="QMate v1.3.0 (1997-09-11).prc" size="40957" crc="49845447" md5="69c7a06e5e07e86a631716ee0b708cae" sha1="3d411963196c4ea428ba152a35fdc7be8aebfc5d"/>
+	</machine>
+	<machine name="QMate v1.4.2G (1998-07-06).prc">
+		<description>QMate v1.4.2G (1998-07-06).prc</description>
+		<rom name="QMate v1.4.2G (1998-07-06).prc" size="49393" crc="e9127c63" md5="ff36173993a6ed52060735873b9e280c" sha1="8da6ece74d69b515d954139f20ab5e1cf939554a"/>
+	</machine>
+	<machine name="Quartus Forth v0.7.6ß (1998).prc">
+		<description>Quartus Forth v0.7.6ß (1998).prc</description>
+		<rom name="Quartus Forth v0.7.6ß (1998).prc" size="36311" crc="f47ca70c" md5="4a6f0642f34d896c38d6e1acf3fb7c9d" sha1="c1fb56f84039cd416bf6f2e1e6ce3845255845dd"/>
+	</machine>
+	<machine name="Quest v3.1 (1998-10-14).prc">
+		<description>Quest v3.1 (1998-10-14).prc</description>
+		<rom name="Quest v3.1 (1998-10-14).prc" size="49615" crc="41ec7c60" md5="0d96723b54aae64147ecef02080d41a0" sha1="f0f54a6316fd8b8f11b64b9ae668eaaf00242004"/>
+	</machine>
+	<machine name="Quicksheet Plug-In (1998-09-15).prc">
+		<description>Quicksheet Plug-In (1998-09-15).prc</description>
+		<rom name="Quicksheet Plug-In (1998-09-15).prc" size="9777" crc="a57945a8" md5="bb89d3bf4bb631afe487fd68e2d890dc" sha1="6027bf6cbdfec00dc3e2c423d37e03573b98fcc7"/>
+	</machine>
+	<machine name="QuickStats v1.0 (1997-11-19).prc">
+		<description>QuickStats v1.0 (1997-11-19).prc</description>
+		<rom name="QuickStats v1.0 (1997-11-19).prc" size="6211" crc="aad8767e" md5="27e85147b66e2fca093a985f10691570" sha1="c864d8392becf58219f2612c75fe9ddc86f48f09"/>
+	</machine>
+	<machine name="Quotes v1.0 (1998-08-07).prc">
+		<description>Quotes v1.0 (1998-08-07).prc</description>
+		<rom name="Quotes v1.0 (1998-08-07).prc" size="32813" crc="34446850" md5="9dd2223f8deed89aedfd472478fd89bb" sha1="f23f6265fceb2354c52d960b2219b078859564a1"/>
+	</machine>
+	<machine name="Rally 1000 v2.1 (-).prc">
+		<description>Rally 1000 v2.1 (-).prc</description>
+		<rom name="Rally 1000 v2.1 (-).prc" size="24849" crc="40b05e2e" md5="aafd7af765e5643f8a479fe51496830f" sha1="7395d357379f58b45d6e15423a8f79e8f9aaf60b"/>
+	</machine>
+	<machine name="Ram Hog v2.1 (1998).prc">
+		<description>Ram Hog v2.1 (1998).prc</description>
+		<rom name="Ram Hog v2.1 (1998).prc" size="11111" crc="7910e6d7" md5="5ada11c2d3b5e518ee52ab2b4d565966" sha1="f8c7a16cefa4fec8e5c462c68795b402f5157824"/>
+	</machine>
+	<machine name="Recoder v1.0 (-).prc">
+		<description>Recoder v1.0 (-).prc</description>
+		<rom name="Recoder v1.0 (-).prc" size="2821" crc="4cdecc75" md5="6dfd23be1bcde90d749b75509c9db4df" sha1="f1bf6d9ecdb67abe371f4274847605cd9dbdf442"/>
+	</machine>
+	<machine name="RegAid v1.1.2 (1998-05-07).prc">
+		<description>RegAid v1.1.2 (1998-05-07).prc</description>
+		<rom name="RegAid v1.1.2 (1998-05-07).prc" size="11736" crc="35b78134" md5="4437336c1137c50883b09cc2f91214a4" sha1="469fe815d363187dc7d0a8f2393b9734ba7e0138"/>
+	</machine>
+	<machine name="Renju v1.4 (1998-05-22).prc">
+		<description>Renju v1.4 (1998-05-22).prc</description>
+		<rom name="Renju v1.4 (1998-05-22).prc" size="18838" crc="00e7f1e4" md5="b7119ffd0ba55d0db0d1214d4c198cba" sha1="2f9d9b3a878b420fc16abed5ca69aa80c12c4d75"/>
+	</machine>
+	<machine name="Reversi Master v1.2 (1998-09-26).prc">
+		<description>Reversi Master v1.2 (1998-09-26).prc</description>
+		<rom name="Reversi Master v1.2 (1998-09-26).prc" size="28196" crc="333a86dd" md5="cac8249c141e132c12e89e65f585597d" sha1="a9a7ae47982b76af40820e411a72dfc63c2d981a"/>
+	</machine>
+	<machine name="Reversi v1.00 (-).prc">
+		<description>Reversi v1.00 (-).prc</description>
+		<rom name="Reversi v1.00 (-).prc" size="6557" crc="914c7b75" md5="04d760710394b13a281ed36fe05f1695" sha1="5eb6c56a7109f5808096999e35b5bf7d42af9c83"/>
+	</machine>
+	<machine name="Ringtris v1.0 (1997-11-23).prc">
+		<description>Ringtris v1.0 (1997-11-23).prc</description>
+		<rom name="Ringtris v1.0 (1997-11-23).prc" size="8191" crc="15149311" md5="2dca308f9f39ee7ecb9f2de3866e48cc" sha1="9862ad1f5f52c2ea0e52a6233253c01a25bb1140"/>
+	</machine>
+	<machine name="Road Defender v0.20 (1998-03-25).prc">
+		<description>Road Defender v0.20 (1998-03-25).prc</description>
+		<rom name="Road Defender v0.20 (1998-03-25).prc" size="4547" crc="bb9b5c29" md5="c51444deaf14b2eed4105572bfc30940" sha1="e592ae21676c153e2815fdbc662055b896127fb6"/>
+	</machine>
+	<machine name="Rocks v2.0 (1997-05-05).prc">
+		<description>Rocks v2.0 (1997-05-05).prc</description>
+		<rom name="Rocks v2.0 (1997-05-05).prc" size="30515" crc="41faff0f" md5="0ec7a959e67562fb5591cd44d496a360" sha1="7d2f465a8270a3827b30ead31e022d11d51deb25"/>
+	</machine>
+	<machine name="RollEm (1996-08-29).prc">
+		<description>RollEm (1996-08-29).prc</description>
+		<rom name="RollEm (1996-08-29).prc" size="1839" crc="7a998256" md5="f71f7f558c7491aa70a28143d12acc0d" sha1="73c6c7f76f1052bc4da7454b55f3702339eb9e50"/>
+	</machine>
+	<machine name="Rolling Cubes v1.0 (-).prc">
+		<description>Rolling Cubes v1.0 (-).prc</description>
+		<rom name="Rolling Cubes v1.0 (-).prc" size="4081" crc="6966f381" md5="96849a72850b86ade3dce88b9a01d601" sha1="d339b3d77fcd11fbd1aa2b9dfa7fa5c0d9cfda27"/>
+	</machine>
+	<machine name="Rot13 Code (-).prc">
+		<description>Rot13 Code (-).prc</description>
+		<rom name="Rot13 Code (-).prc" size="1874" crc="a4499a5f" md5="1b884c4852df30299ed85565ea225f29" sha1="00abdba90cad3ebf948adeba365ff9eb53241f9e"/>
+	</machine>
+	<machine name="rPremium v1.0 (1998).prc">
+		<description>rPremium v1.0 (1998).prc</description>
+		<rom name="rPremium v1.0 (1998).prc" size="9170" crc="d3d45502" md5="db7a1efa4a72e8ce797798f3a5e93547" sha1="d59e6614a774f36b18288faa696f1109db846177"/>
+	</machine>
+	<machine name="RPS v0.10 (1998-01-17).prc">
+		<description>RPS v0.10 (1998-01-17).prc</description>
+		<rom name="RPS v0.10 (1998-01-17).prc" size="5608" crc="f0c7fe80" md5="ef82707636a504c478809837d9681d7e" sha1="e0c32c6240640c3c9912920193b3c94a5993d27d"/>
+	</machine>
+	<machine name="Salvo v1.3 (-).prc">
+		<description>Salvo v1.3 (-).prc</description>
+		<rom name="Salvo v1.3 (-).prc" size="18498" crc="23edf81b" md5="04f1e615afb34962e371448209d84e5f" sha1="856941f622a5678280cd15c9e3f60757bb1911e5"/>
+	</machine>
+	<machine name="Same v1.0 (1998).prc">
+		<description>Same v1.0 (1998).prc</description>
+		<rom name="Same v1.0 (1998).prc" size="7514" crc="f4a5ac06" md5="31f69f2be64c65408e92638e73b56e64" sha1="504d3878e7df0737a293b022d87a098704cc598c"/>
+	</machine>
+	<machine name="Sample App v1.0 (-).prc">
+		<description>Sample App v1.0 (-).prc</description>
+		<rom name="Sample App v1.0 (-).prc" size="1889" crc="54637c86" md5="64ef8828ab1a8511bc5059d7dc4f0efb" sha1="fdf2c70286327434152df9ee66176090423174a5"/>
+	</machine>
+	<machine name="Schedule v1.80 (1997).prc">
+		<description>Schedule v1.80 (1997).prc</description>
+		<rom name="Schedule v1.80 (1997).prc" size="5253" crc="7579fb2e" md5="b50aa2820e5ab6f2fdc8f8893f4795fe" sha1="1154328df11eee0ce3ab5b5ba67c00a1bdeb3564"/>
+	</machine>
+	<machine name="ScoreSheet v1.0 (1998).prc">
+		<description>ScoreSheet v1.0 (1998).prc</description>
+		<rom name="ScoreSheet v1.0 (1998).prc" size="12881" crc="018fc571" md5="7b4488232c32a5b84c273c65d49a892b" sha1="0b00139dd3b9c52010532a69602b735a1d337ea1"/>
+	</machine>
+	<machine name="ScratchPad v1.00 (1997).prc">
+		<description>ScratchPad v1.00 (1997).prc</description>
+		<rom name="ScratchPad v1.00 (1997).prc" size="4729" crc="698ca7c1" md5="8b3a94c8a1852f44bf0ac61247441f52" sha1="0a31a4229f56b0bf6e8fdc84a86c86a16b47a155"/>
+	</machine>
+	<machine name="Scribble v1.5 (-).prc">
+		<description>Scribble v1.5 (-).prc</description>
+		<rom name="Scribble v1.5 (-).prc" size="1971" crc="1b96a70c" md5="eabc6f7335a1ec7e517085761ab6dc43" sha1="d9bc169d0c8a9e179d01d69015eaab6d04e8cea7"/>
+	</machine>
+	<machine name="Scribble v2.3 (-).prc">
+		<description>Scribble v2.3 (-).prc</description>
+		<rom name="Scribble v2.3 (-).prc" size="2082" crc="39ee7b4d" md5="553ce565ce40055681b3826db8e680e9" sha1="fae53e7c9e1e738ecd70f20eb5b9efa65bff0146"/>
+	</machine>
+	<machine name="Secret v1.5 (1997).prc">
+		<description>Secret v1.5 (1997).prc</description>
+		<rom name="Secret v1.5 (1997).prc" size="14671" crc="a0c513bf" md5="760d10a0cabb19046a7973f7d0d29b7c" sha1="944c55c87fe34bbf1cdbab54244a87d852c43e6a"/>
+	</machine>
+	<machine name="SFCave v0.03 (1998).prc">
+		<description>SFCave v0.03 (1998).prc</description>
+		<rom name="SFCave v0.03 (1998).prc" size="6507" crc="7da419eb" md5="cbf90dc452db9e386e1eb3ae6d786f01" sha1="d2f0a10bf6a40623a0b98b4e65f147fc296733e4"/>
+	</machine>
+	<machine name="ShopList v1.01 (1998-03-24).prc">
+		<description>ShopList v1.01 (1998-03-24).prc</description>
+		<rom name="ShopList v1.01 (1998-03-24).prc" size="28487" crc="4bc33e65" md5="0908149ea1122b1b6d627f1070318261" sha1="4e81bed56dc24999770a6c02f9f0806e872b45d4"/>
+	</machine>
+	<machine name="Shopping v1.0 (-).prc">
+		<description>Shopping v1.0 (-).prc</description>
+		<rom name="Shopping v1.0 (-).prc" size="18422" crc="9e23e888" md5="12779bb948c49bd5295f92d660c3c62c" sha1="e9b50c4a786f0c3d0d44253b1d8b736d0eddedb2"/>
+	</machine>
+	<machine name="Sigma v1.1 (2002-06-29).prc">
+		<description>Sigma v1.1 (2002-06-29).prc</description>
+		<rom name="Sigma v1.1 (2002-06-29).prc" size="32466" crc="a04cd239" md5="487f4a1bfc8fec0ed9017b0377bfe921" sha1="0f1451de50410bfc86dcaa72468ed4cd4af0e8fe"/>
+	</machine>
+	<machine name="SimpleCalc v1.0 (1997-03-28).prc">
+		<description>SimpleCalc v1.0 (1997-03-28).prc</description>
+		<rom name="SimpleCalc v1.0 (1997-03-28).prc" size="3178" crc="9c5ef7b6" md5="d408f2e5f42a3eea213c5bfcdbe7bcf9" sha1="d8e30e8102af4c3caf406f7573af19822d341d83"/>
+	</machine>
+	<machine name="SimpleTerm (1997-02-14).prc">
+		<description>SimpleTerm (1997-02-14).prc</description>
+		<rom name="SimpleTerm (1997-02-14).prc" size="7398" crc="6a42c5d3" md5="f1a60b44b8980bfe3368b0a9f497c408" sha1="ee192105e66fe0ab593be37ce3ea10a9529a474c"/>
+	</machine>
+	<machine name="SimpleTron v0.1 (1997-01-25).prc">
+		<description>SimpleTron v0.1 (1997-01-25).prc</description>
+		<rom name="SimpleTron v0.1 (1997-01-25).prc" size="12274" crc="c23b8372" md5="ba9cb410ca193930f487a0e6c1c4d99a" sha1="3e723ac6b074e422a79436a99550575b881e1c77"/>
+	</machine>
+	<machine name="SingleNumber v1.6 (1997-04-17).prc">
+		<description>SingleNumber v1.6 (1997-04-17).prc</description>
+		<rom name="SingleNumber v1.6 (1997-04-17).prc" size="26934" crc="60b41a7a" md5="1eac25bf7ce475c3ebb0a3b02ed9b7bd" sha1="653981977bc6d27a5a2797e0d8261833bddf8e0b"/>
+	</machine>
+	<machine name="SiteSwap v0.05 (-).prc">
+		<description>SiteSwap v0.05 (-).prc</description>
+		<rom name="SiteSwap v0.05 (-).prc" size="18912" crc="f6b4fc9c" md5="d6163444d087f960e8cf3303afb275c1" sha1="5ec3d38faa3d3abd00704881cf29da79583184d8"/>
+	</machine>
+	<machine name="Sketch Pad v2.0 (1998-05-27).prc">
+		<description>Sketch Pad v2.0 (1998-05-27).prc</description>
+		<rom name="Sketch Pad v2.0 (1998-05-27).prc" size="19670" crc="ab8137eb" md5="4337c5d44356639a9ccc5a7be32accf1" sha1="7f52e0ca06925ba53cac08f5ba6c8538eccd7a39"/>
+	</machine>
+	<machine name="SmartShop (1997).prc">
+		<description>SmartShop (1997).prc</description>
+		<rom name="SmartShop (1997).prc" size="21103" crc="34917938" md5="f8f69b1167c0468bb041811ab8832fde" sha1="f68f925277c2e578139b1de6f1c9737fb8280c14"/>
+	</machine>
+	<machine name="Smith Chart v1.1 (-).prc">
+		<description>Smith Chart v1.1 (-).prc</description>
+		<rom name="Smith Chart v1.1 (-).prc" size="17337" crc="306b0b7a" md5="cbee604b914901b7982050270c1eb82d" sha1="1ef436236800869dfbc967b3c35cfb765ea22cfd"/>
+	</machine>
+	<machine name="SnailMailer v1.0.2 (1998-08-19).prc">
+		<description>SnailMailer v1.0.2 (1998-08-19).prc</description>
+		<rom name="SnailMailer v1.0.2 (1998-08-19).prc" size="17145" crc="a7e6e6a7" md5="d7d21ab1b77093e2030522ece5ccf34f" sha1="8af60cc83c49824ccf9812f5538a6f1ac9b1ad07"/>
+	</machine>
+	<machine name="Snapshot v1.0 (1998-07-25).prc">
+		<description>Snapshot v1.0 (1998-07-25).prc</description>
+		<rom name="Snapshot v1.0 (1998-07-25).prc" size="2835" crc="13d26d28" md5="49f2bf4d2d2fc50b96f638b98b77ce0b" sha1="6acbe3e40398bace123b6ee9700226bce9f12141"/>
+	</machine>
+	<machine name="SoftGPS v1.00 (-).prc">
+		<description>SoftGPS v1.00 (-).prc</description>
+		<rom name="SoftGPS v1.00 (-).prc" size="2936" crc="16e2ce14" md5="a5b8f8129983083477d4e1ff2177798c" sha1="0fe8be0032b9b8a975ba99d8db2408eccfd7d323"/>
+	</machine>
+	<machine name="Solitaire v1.5 (1998-07-23).prc">
+		<description>Solitaire v1.5 (1998-07-23).prc</description>
+		<rom name="Solitaire v1.5 (1998-07-23).prc" size="97293" crc="6e284014" md5="cb417d802bc978ec9daaaa1551843912" sha1="a22b37db036defbb963f7ae6db9c838f13fd0a58"/>
+	</machine>
+	<machine name="SolitaireFree v2.0 (1998-07-09).prc">
+		<description>SolitaireFree v2.0 (1998-07-09).prc</description>
+		<rom name="SolitaireFree v2.0 (1998-07-09).prc" size="35842" crc="6b88cf64" md5="11b86f6323bb48b35988f994ed12513c" sha1="39377b07e6e927d63d7162c4648be55e2f1391d8"/>
+	</machine>
+	<machine name="Sort (1996-08-30).prc">
+		<description>Sort (1996-08-30).prc</description>
+		<rom name="Sort (1996-08-30).prc" size="985" crc="f1201aec" md5="e0e0a6929408588e1ec59bb5d27ac5d1" sha1="e45f7eecad476ed452e72750ad3a1b16774891c9"/>
+	</machine>
+	<machine name="Space War v3.0 (2001-07-18).prc">
+		<description>Space War v3.0 (2001-07-18).prc</description>
+		<rom name="Space War v3.0 (2001-07-18).prc" size="119048" crc="1ec3e8bd" md5="e2a02056231af9860b0165c1efc764ba" sha1="0e890cadd638667018d71b194979d5c4a377ab8f"/>
+	</machine>
+	<machine name="SpaceTrader v1.2.2 (2005-12-05).prc">
+		<description>SpaceTrader v1.2.2 (2005-12-05).prc</description>
+		<rom name="SpaceTrader v1.2.2 (2005-12-05).prc" size="395315" crc="ad9dcf61" md5="0c9ce07d5a37a7f3f4be6af744a88a3a" sha1="4c78c6a090a790ddfb0e25e359ef5438a8862e5a"/>
+	</machine>
+	<machine name="Spades v1.7 (1998).prc">
+		<description>Spades v1.7 (1998).prc</description>
+		<rom name="Spades v1.7 (1998).prc" size="36188" crc="17e7f7be" md5="51a3316148751a21f04d8f8fd428497e" sha1="ed184d499d3fe0d61ad285c4ca7040e22c689ac3"/>
+	</machine>
+	<machine name="Speaker v1.0 (-).prc">
+		<description>Speaker v1.0 (-).prc</description>
+		<rom name="Speaker v1.0 (-).prc" size="15332" crc="a463970f" md5="88efea4ddc22789ceb134ac32ec71021" sha1="03fa4f2b9009d3bae59bf310b34423cd3fb7563c"/>
+	</machine>
+	<machine name="Spec v2.1 (1998-04-19).prc">
+		<description>Spec v2.1 (1998-04-19).prc</description>
+		<rom name="Spec v2.1 (1998-04-19).prc" size="9754" crc="ce4b6349" md5="576049bb19da4eb0eb8b05d35ca57022" sha1="f31a804f25b1e6e709adcd4dad38790d08a99418"/>
+	</machine>
+	<machine name="Spirals v0.40 (1998-07-26).prc">
+		<description>Spirals v0.40 (1998-07-26).prc</description>
+		<rom name="Spirals v0.40 (1998-07-26).prc" size="11930" crc="04933a16" md5="6cecb5bb6f4e7251c570e36c3f57add8" sha1="4b109124e8c3dd3c08876d6c70f4e19e027b1cf4"/>
+	</machine>
+	<machine name="SprengMeister (1998).prc">
+		<description>SprengMeister (1998).prc</description>
+		<rom name="SprengMeister (1998).prc" size="9713" crc="c31a7b7e" md5="2065080bad75bea82f4a7dea813d8acc" sha1="1c3d7bac47fcbf7810a8fdc80f50503ea274070d"/>
+	</machine>
+	<machine name="StarBattle (-).prc">
+		<description>StarBattle (-).prc</description>
+		<rom name="StarBattle (-).prc" size="17460" crc="0d0891ec" md5="add2358bfa29b2aef0bb5f0c2d4a77b7" sha1="04c6611ef31eb7367a495fc0e2d048bcb9547037"/>
+	</machine>
+	<machine name="StockWatch v0.6b (1998-09-17).prc">
+		<description>StockWatch v0.6b (1998-09-17).prc</description>
+		<rom name="StockWatch v0.6b (1998-09-17).prc" size="32401" crc="c896c12b" md5="534b9c740090ff145e8c503b7d369b6e" sha1="f898b6af74aba462d1c0a99e3772fccda6f99662"/>
+	</machine>
+	<machine name="Stop (1998-08-20).prc">
+		<description>Stop (1998-08-20).prc</description>
+		<rom name="Stop (1998-08-20).prc" size="5299" crc="83a67ff3" md5="5226ccc4bee889c1663701397ff0324c" sha1="7f4ea8daefd1799f2b2bc576092aa1780a76a47e"/>
+	</machine>
+	<machine name="Stop3Watch v1.10 (1998).prc">
+		<description>Stop3Watch v1.10 (1998).prc</description>
+		<rom name="Stop3Watch v1.10 (1998).prc" size="21934" crc="25d9d93b" md5="a23d79ecba8208978e9dde97af17570c" sha1="0de8773584719219cc3c0926285260e9f8446e0b"/>
+	</machine>
+	<machine name="Strategic Commander v1.1 (2003-02-09).prc">
+		<description>Strategic Commander v1.1 (2003-02-09).prc</description>
+		<rom name="Strategic Commander v1.1 (2003-02-09).prc" size="337167" crc="23a411d9" md5="e20af887777df3c897914f49dcfb68a1" sha1="0d9c96546004aae50acec438b7de13dc3015030b"/>
+	</machine>
+	<machine name="SubtractionSubmarine! v0.10 (1998-03-14).prc">
+		<description>SubtractionSubmarine! v0.10 (1998-03-14).prc</description>
+		<rom name="SubtractionSubmarine! v0.10 (1998-03-14).prc" size="8571" crc="deb6d0d5" md5="646468f50a604b6684828177211c3973" sha1="9f5d4bda0c80330ced43d4df708227289b50de7e"/>
+	</machine>
+	<machine name="Sums v1.4 (1997).prc">
+		<description>Sums v1.4 (1997).prc</description>
+		<rom name="Sums v1.4 (1997).prc" size="12939" crc="e4db4df5" md5="38fcacee90909c846d7226024de025fe" sha1="6d71a662852c397178d6fbee6730200a1cbeb681"/>
+	</machine>
+	<machine name="Sun Clock v1.02 (2000-11-28).prc">
+		<description>Sun Clock v1.02 (2000-11-28).prc</description>
+		<rom name="Sun Clock v1.02 (2000-11-28).prc" size="14266" crc="92fd2116" md5="ae4c0c25b7a15e71915ad966af4ab256" sha1="9f23daec7c37f79851462c9c4dc52d6b5dc80385"/>
+	</machine>
+	<machine name="SuperCat v1.0 (1998-08-17).prc">
+		<description>SuperCat v1.0 (1998-08-17).prc</description>
+		<rom name="SuperCat v1.0 (1998-08-17).prc" size="12511" crc="7afd7b9e" md5="2e0df020b298b004e9e96aa4731a17db" sha1="f454ab7ec595c93c3994ec7e25f09ca4dad8194c"/>
+	</machine>
+	<machine name="SuperDuper v1.0 (1998-05-28).prc">
+		<description>SuperDuper v1.0 (1998-05-28).prc</description>
+		<rom name="SuperDuper v1.0 (1998-05-28).prc" size="6526" crc="b0d24f69" md5="7a9e8ee6063a1e4884572abe4c872a74" sha1="d9b048387c4a709e09e2c04a7d5b617725aca49c"/>
+	</machine>
+	<machine name="SuperNames v1.0b8 (1998-10-30).prc">
+		<description>SuperNames v1.0b8 (1998-10-30).prc</description>
+		<rom name="SuperNames v1.0b8 (1998-10-30).prc" size="114914" crc="c1a27faf" md5="e7e58e03e09339cd0e90592924da39d5" sha1="f6de0717091935506f758b35fd4aa7a412ecb5ad"/>
+	</machine>
+	<machine name="SuperPad v0.92 (1996-08-16).prc">
+		<description>SuperPad v0.92 (1996-08-16).prc</description>
+		<rom name="SuperPad v0.92 (1996-08-16).prc" size="14059" crc="6b0a63a6" md5="8f615212387675aa1349517775eb4cfc" sha1="1a2454d283ab7c9689e01068f755a4d3a7dcc102"/>
+	</machine>
+	<machine name="Sweetheart (-).prc">
+		<description>Sweetheart (-).prc</description>
+		<rom name="Sweetheart (-).prc" size="2120" crc="ee079ad9" md5="dad8066e43bce80318470cb0198814c3" sha1="cad8e23531c977c79781cc5262072b00e5360a6e"/>
+	</machine>
+	<machine name="T-Map v0.2 (1997-08-07).prc">
+		<description>T-Map v0.2 (1997-08-07).prc</description>
+		<rom name="T-Map v0.2 (1997-08-07).prc" size="26899" crc="9c7bba6d" md5="885fc82a212b708d8e3fdb8414916a5f" sha1="692544082fbcaf88aba4f06802250db337adf7c7"/>
+	</machine>
+	<machine name="TaleLight v1.2 (1998).prc">
+		<description>TaleLight v1.2 (1998).prc</description>
+		<rom name="TaleLight v1.2 (1998).prc" size="10986" crc="843bb647" md5="5c53c494b68ff30e721927f96d0a4e0a" sha1="6235dadaf553f0f904d30c89486c54b99b8787c6"/>
+	</machine>
+	<machine name="TAMAR Hebrew Calendar v0.2.1 (-).prc">
+		<description>TAMAR Hebrew Calendar v0.2.1 (-).prc</description>
+		<rom name="TAMAR Hebrew Calendar v0.2.1 (-).prc" size="23638" crc="a356d866" md5="4a798127dd0aacab03f0053f435aff75" sha1="f3b10ba633b6aef00f1a16f667e32e930910c749"/>
+	</machine>
+	<machine name="Tank! v1.5 (199-).prc">
+		<description>Tank! v1.5 (199-).prc</description>
+		<rom name="Tank! v1.5 (199-).prc" size="25485" crc="4f979176" md5="1a745c7b26d35af7a2716e037edba528" sha1="2145765b21686cfe5af34ce0dccd4c4dc80c91fe"/>
+	</machine>
+	<machine name="TapTest v1.0 (1997-03-16).prc">
+		<description>TapTest v1.0 (1997-03-16).prc</description>
+		<rom name="TapTest v1.0 (1997-03-16).prc" size="1381" crc="de388a46" md5="828f5ff2286aa037c17dfdb56477c196" sha1="9b9aaa7c365551bbf72fdd039707704ebf4dfc38"/>
+	</machine>
+	<machine name="Tarea PLUS v2.2.4 (1998-04-27).prc">
+		<description>Tarea PLUS v2.2.4 (1998-04-27).prc</description>
+		<rom name="Tarea PLUS v2.2.4 (1998-04-27).prc" size="51759" crc="ec231bac" md5="99e1fce9bcd64aed0a48c5dd27699bbd" sha1="7755a41ce08733611d5b5e9b9f4b54737b72bd13"/>
+	</machine>
+	<machine name="Taxi v1.0 (-).prc">
+		<description>Taxi v1.0 (-).prc</description>
+		<rom name="Taxi v1.0 (-).prc" size="9776" crc="07f384d5" md5="1f5be4be82be95e3dbc1ba6735b46dfe" sha1="e4f5daf728c91180aa7a7dcace80341ab915892b"/>
+	</machine>
+	<machine name="TC Assist v1.20 (1998).prc">
+		<description>TC Assist v1.20 (1998).prc</description>
+		<rom name="TC Assist v1.20 (1998).prc" size="9061" crc="35c0091b" md5="d8509b60b5be32f82ce626366a829213" sha1="5d9cd8f57a5185ba129c6ecad83f6284b2f6bbbe"/>
+	</machine>
+	<machine name="Telefon-Rechner v2.6 (1998).prc">
+		<description>Telefon-Rechner v2.6 (1998).prc</description>
+		<rom name="Telefon-Rechner v2.6 (1998).prc" size="14892" crc="9a2aec2d" md5="367bb7e712bf2b7aaf15f52ef68976e8" sha1="0154e89c02bb6c68d2232d2d7cc28ba8c6dab451"/>
+	</machine>
+	<machine name="TenPin v1.0.1 (-).prc">
+		<description>TenPin v1.0.1 (-).prc</description>
+		<rom name="TenPin v1.0.1 (-).prc" size="12445" crc="46a67bf5" md5="ecd997ff2482c536720f3ebfd3a80dba" sha1="4a136d048beb533353427cb104a7b5d08bdab48c"/>
+	</machine>
+	<machine name="Tessellation v1.0.2 (2004-03-21).prc">
+		<description>Tessellation v1.0.2 (2004-03-21).prc</description>
+		<rom name="Tessellation v1.0.2 (2004-03-21).prc" size="33622" crc="537b2e0c" md5="147226a1446dc4a2131207dd28447203" sha1="138aef212f2f3ae81d67fb6ee6bd1e5a74874c32"/>
+	</machine>
+	<machine name="TETRIS v1.00 (1997-09-15).prc">
+		<description>TETRIS v1.00 (1997-09-15).prc</description>
+		<rom name="TETRIS v1.00 (1997-09-15).prc" size="10813" crc="94886df8" md5="b791f8d0abfcb6c8f2c7b3ce3710b74f" sha1="be907d3645df4c0a674d1d7c51f744671a68d691"/>
+	</machine>
+	<machine name="TG Telnet v1.0.0 (-).prc">
+		<description>TG Telnet v1.0.0 (-).prc</description>
+		<rom name="TG Telnet v1.0.0 (-).prc" size="14418" crc="f9ed6db0" md5="031c228243b77d2a97d6d0727b372800" sha1="2abcf52c36c24c0d757c7e3744aa59518ef16971"/>
+	</machine>
+	<machine name="TicTacToe v0.91 (1998).prc">
+		<description>TicTacToe v0.91 (1998).prc</description>
+		<rom name="TicTacToe v0.91 (1998).prc" size="4793" crc="8dccbd03" md5="67371a113f3d60635c610078a4131b87" sha1="c0c8e326c68314837b40547217cab103d705bbd2"/>
+	</machine>
+	<machine name="Tide Tool v1.1 (1997).prc">
+		<description>Tide Tool v1.1 (1997).prc</description>
+		<rom name="Tide Tool v1.1 (1997).prc" size="43642" crc="fc2f4ec3" md5="84f1dff2b83d48020776c8d2ca1eb0e4" sha1="8dc15a2d3db250e6af17476f604801b9ecbece89"/>
+	</machine>
+	<machine name="Tides v1.1 (1998-08-11).prc">
+		<description>Tides v1.1 (1998-08-11).prc</description>
+		<rom name="Tides v1.1 (1998-08-11).prc" size="7282" crc="8b2da84e" md5="56e3c0c8ff85ad3dc6bdeea8babce154" sha1="ecb58162d08b0c1a9fab6c7e7de4c4b12c0278e8"/>
+	</machine>
+	<machine name="TikTok (1998).prc">
+		<description>TikTok (1998).prc</description>
+		<rom name="TikTok (1998).prc" size="12268" crc="61ddcb7c" md5="8f4b8e3db1af45d2ac63511f9e8899f9" sha1="0ef7f913c25b36a9b3d74cc098e7904c816d569d"/>
+	</machine>
+	<machine name="Time++ v0.2 (1997).prc">
+		<description>Time++ v0.2 (1997).prc</description>
+		<rom name="Time++ v0.2 (1997).prc" size="9729" crc="99f0a042" md5="0b06c5dd5fba1b5bbfbaa402089f0395" sha1="e7b07fac5ba923bb28a9e8c6e513fdc1f4272d17"/>
+	</machine>
+	<machine name="Timecode v1.0 (1998).prc">
+		<description>Timecode v1.0 (1998).prc</description>
+		<rom name="Timecode v1.0 (1998).prc" size="5964" crc="fa04af93" md5="41536c821c92725ba58516158f79ad7e" sha1="035203e98d3e4cd75561982ab620d027a57f39a3"/>
+	</machine>
+	<machine name="TimeLog v1.05.00 (1998-02-05).prc">
+		<description>TimeLog v1.05.00 (1998-02-05).prc</description>
+		<rom name="TimeLog v1.05.00 (1998-02-05).prc" size="41187" crc="f33c08d3" md5="f86c2e02d19eef3513c1070a04916187" sha1="9b1651af7cd9cfcfa4a9ecef8e50013c76b80ffd"/>
+	</machine>
+	<machine name="TimePALm v1.0 (1998).prc">
+		<description>TimePALm v1.0 (1998).prc</description>
+		<rom name="TimePALm v1.0 (1998).prc" size="4027" crc="23f04f92" md5="3c38f99d344c64c278f51d00890d9052" sha1="90d3fb240d14221ad606ae67745a30bc34f1ce66"/>
+	</machine>
+	<machine name="Timer (1996-07-14).prc">
+		<description>Timer (1996-07-14).prc</description>
+		<rom name="Timer (1996-07-14).prc" size="2294" crc="2bc27e28" md5="dbe8a59abfe046401a64cdfd54288c7d" sha1="e6c9f4ffc31028aef292e8039fea201ec5faa516"/>
+	</machine>
+	<machine name="Timesheet v1.2.1 (1998).prc">
+		<description>Timesheet v1.2.1 (1998).prc</description>
+		<rom name="Timesheet v1.2.1 (1998).prc" size="20588" crc="e88d68f8" md5="fe8f8651346aaa93ea86c4550763adde" sha1="b57559a06dbd5a554c639e8c2df9922dcc529259"/>
+	</machine>
+	<machine name="TimeSync v1.0 (1998-01-27).prc">
+		<description>TimeSync v1.0 (1998-01-27).prc</description>
+		<rom name="TimeSync v1.0 (1998-01-27).prc" size="4954" crc="1943e494" md5="5682ecb1e1730e8e16bb6c7c03e65eff" sha1="db80c63799d7fc259aa50b39d030893c358362f5"/>
+	</machine>
+	<machine name="Timezone v1.0 (1997).prc">
+		<description>Timezone v1.0 (1997).prc</description>
+		<rom name="Timezone v1.0 (1997).prc" size="2458" crc="72010e2b" md5="25d5f277f8a68ab8021e454bf8598b68" sha1="ed2cd3c7e4204bef170d2f477a0ccb242f3d4d6d"/>
+	</machine>
+	<machine name="Tiny Sheet v1.20b (1997).prc">
+		<description>Tiny Sheet v1.20b (1997).prc</description>
+		<rom name="Tiny Sheet v1.20b (1997).prc" size="40855" crc="dbd65d66" md5="7c88609e6066f158e222231ed28e1014" sha1="269a20c97bfb4bc628227e0d99e2de10f95d719a"/>
+	</machine>
+	<machine name="Tiny Viewer v1.04 (-).prc">
+		<description>Tiny Viewer v1.04 (-).prc</description>
+		<rom name="Tiny Viewer v1.04 (-).prc" size="8197" crc="f8a6c435" md5="877630614089bc7c2273ac7518ef2f12" sha1="1b9cfb4c6706f150bd911ae595b7ca84cc1441b3"/>
+	</machine>
+	<machine name="TinyLife (1998).prc">
+		<description>TinyLife (1998).prc</description>
+		<rom name="TinyLife (1998).prc" size="20019" crc="1bb9b339" md5="aea11c183c9d558d3a0bbcc00a139c28" sha1="ed79fe311be1d0603bd278b6d1b64771b21d3b37"/>
+	</machine>
+	<machine name="TipCalc v1.0 (1997-10-31).prc">
+		<description>TipCalc v1.0 (1997-10-31).prc</description>
+		<rom name="TipCalc v1.0 (1997-10-31).prc" size="4500" crc="aeb0bfeb" md5="2b2204c614058c1560ee2998dc91122c" sha1="0bd2419802febca92cd5ec93576d6d95192ed6bc"/>
+	</machine>
+	<machine name="Tipsy v0.3.1 (1998-10-09).prc">
+		<description>Tipsy v0.3.1 (1998-10-09).prc</description>
+		<rom name="Tipsy v0.3.1 (1998-10-09).prc" size="23208" crc="457031de" md5="a4d56ce6f0f69586f1e4c2bbd6f6a253" sha1="c1c0d4f2437df063b2d60d1f6ba69777bb467de3"/>
+	</machine>
+	<machine name="tipU v1.0 (1998-08-11).prc">
+		<description>tipU v1.0 (1998-08-11).prc</description>
+		<rom name="tipU v1.0 (1998-08-11).prc" size="27914" crc="984f8f69" md5="195518c599d4daf4ee706c6f27f1cd21" sha1="42964ad98a8b8dc5f5743b37e93f1652adeb3148"/>
+	</machine>
+	<machine name="ToDo PLUS v2.2.4 (1998-04-27).prc">
+		<description>ToDo PLUS v2.2.4 (1998-04-27).prc</description>
+		<rom name="ToDo PLUS v2.2.4 (1998-04-27).prc" size="51914" crc="43df587b" md5="bfdb0e20b16fc92755a77ef1e8d7514a" sha1="ffe1d262416ff13d9941c41f232e5bca61d04af5"/>
+	</machine>
+	<machine name="TOMSGPS v0.2.1 (-).prc">
+		<description>TOMSGPS v0.2.1 (-).prc</description>
+		<rom name="TOMSGPS v0.2.1 (-).prc" size="5385" crc="12568feb" md5="8cd2530fb2f386e151250c3f4e205625" sha1="0a2a7078094172524314b9a6f27f9a7db99dcd2e"/>
+	</machine>
+	<machine name="Top Gun Postman v1.2 (1997-01-14).prc">
+		<description>Top Gun Postman v1.2 (1997-01-14).prc</description>
+		<rom name="Top Gun Postman v1.2 (1997-01-14).prc" size="33821" crc="1fc722b6" md5="adc8acb57d89d40a59ad791a28fcaa18" sha1="5c8658bd6870b980fb21133f5b1a3a82a1acc75c"/>
+	</machine>
+	<machine name="Trading Card Manager v1.1 (1998-04-19).prc">
+		<description>Trading Card Manager v1.1 (1998-04-19).prc</description>
+		<rom name="Trading Card Manager v1.1 (1998-04-19).prc" size="21098" crc="0aef1608" md5="bacfc7c75b44fe6f387da0ae2391836b" sha1="e58413d7e08f759d26fdaedfcbdfe076c95c3ba5"/>
+	</machine>
+	<machine name="Travel Clock v1.3.0 (1998-03-17).prc">
+		<description>Travel Clock v1.3.0 (1998-03-17).prc</description>
+		<rom name="Travel Clock v1.3.0 (1998-03-17).prc" size="11097" crc="ea4ac6b9" md5="c10115a22558d64fe3e584b24849870c" sha1="0111235a9f5e759a843982b4a02b182a7674b394"/>
+	</machine>
+	<machine name="Traveler v1.01 (1997).prc">
+		<description>Traveler v1.01 (1997).prc</description>
+		<rom name="Traveler v1.01 (1997).prc" size="27147" crc="af8c873f" md5="04662366aecfb95e70b6beca4132dd75" sha1="61d0559eb0c0e622c31fc03c538680911ae6f83e"/>
+	</machine>
+	<machine name="Traverse (-).prc">
+		<description>Traverse (-).prc</description>
+		<rom name="Traverse (-).prc" size="4327" crc="3433f691" md5="48aa5f0b755b4833514fb7378fa577e4" sha1="0889fde6041273db0ba6e6c3f3b5f382c2860db9"/>
+	</machine>
+	<machine name="Tricorder (1996-12-05).prc">
+		<description>Tricorder (1996-12-05).prc</description>
+		<rom name="Tricorder (1996-12-05).prc" size="8872" crc="1498b74c" md5="4a37687720096b20c91c40f95eabef38" sha1="0eb9f99d9474805bfe57872e7c9667444873458e"/>
+	</machine>
+	<machine name="Trip v2.01 (1998-09-24).prc">
+		<description>Trip v2.01 (1998-09-24).prc</description>
+		<rom name="Trip v2.01 (1998-09-24).prc" size="45446" crc="81cf4c06" md5="c7e2742b7ab48de551449a984b844c81" sha1="16472a305b42e93d78e7fc093829ac3da5456e77"/>
+	</machine>
+	<machine name="Tronic (1997).prc">
+		<description>Tronic (1997).prc</description>
+		<rom name="Tronic (1997).prc" size="3931" crc="451b28bd" md5="b3358b54442861f69d7dbba8e763a73e" sha1="9caca13be19f474b21f89c78ce27aa32dc6d8649"/>
+	</machine>
+	<machine name="Turmite v1.0b1 (1998-01-29).prc">
+		<description>Turmite v1.0b1 (1998-01-29).prc</description>
+		<rom name="Turmite v1.0b1 (1998-01-29).prc" size="17444" crc="16cf0b21" md5="f731b66a2c7a4ae1845808ab8ba988c5" sha1="79ac0b1ccd3836e15fcfd307e639b28cfa0a4fc2"/>
+	</machine>
+	<machine name="Tyranny v2.0 (1998-01-17).prc">
+		<description>Tyranny v2.0 (1998-01-17).prc</description>
+		<rom name="Tyranny v2.0 (1998-01-17).prc" size="26700" crc="e16f84c4" md5="6daae2630d9cd9f2147ab11b39aae43b" sha1="def1df5b9a8cb516de88f3e65512b5d3e854311e"/>
+	</machine>
+	<machine name="Uptime v0.9 (1997).prc">
+		<description>Uptime v0.9 (1997).prc</description>
+		<rom name="Uptime v0.9 (1997).prc" size="2116" crc="3ff023b5" md5="ae4e808941c71ca3fbfb443022b0b767" sha1="ed20bdaec4ed49374f6a95176688547d001c8dcb"/>
+	</machine>
+	<machine name="Visca Control v1.0 (-).prc">
+		<description>Visca Control v1.0 (-).prc</description>
+		<rom name="Visca Control v1.0 (-).prc" size="11693" crc="ff8dd732" md5="483cdf846ff76bcf13eae03a8ea3014c" sha1="6194c6a249d212d17e81484c7040e410e345183c"/>
+	</machine>
+	<machine name="VLARP v1.4 (1998).prc">
+		<description>VLARP v1.4 (1998).prc</description>
+		<rom name="VLARP v1.4 (1998).prc" size="7504" crc="032ca1fb" md5="2fee87600fb6ebb641abbd35f204bd0c" sha1="45daf83e0a42d220a874460654300efa660c201f"/>
+	</machine>
+	<machine name="Web Tracker v1.1 (1998-08-13).prc">
+		<description>Web Tracker v1.1 (1998-08-13).prc</description>
+		<rom name="Web Tracker v1.1 (1998-08-13).prc" size="23326" crc="5ab9b0f5" md5="07d46d7f3d84812d1552bb724e9833a6" sha1="59ebc5fc0634bb1e1aed5f4648de49d7ede6e258"/>
+	</machine>
+	<machine name="WedgeTV Demo v0.4b (1998-09-27).prc">
+		<description>WedgeTV Demo v0.4b (1998-09-27).prc</description>
+		<rom name="WedgeTV Demo v0.4b (1998-09-27).prc" size="77967" crc="ccb4c328" md5="810e4d7eaf27d724defab81c16ff76b1" sha1="5f47a9ef860bb2d1d94bf262006c1247300eb4e1"/>
+	</machine>
+	<machine name="WeekView v1.0 (1998-05-03).prc">
+		<description>WeekView v1.0 (1998-05-03).prc</description>
+		<rom name="WeekView v1.0 (1998-05-03).prc" size="45685" crc="694629aa" md5="24ae7f170266436d58a30d3620a6a1f4" sha1="58d44eb47873c49a26c9f3f732f38385e28eed74"/>
+	</machine>
+	<machine name="Whack-em v0.8 (-).prc">
+		<description>Whack-em v0.8 (-).prc</description>
+		<rom name="Whack-em v0.8 (-).prc" size="4070" crc="6c394442" md5="7ce03fdeca9c4114256e323a329869eb" sha1="eb43d9b5c82d5aba5bcb1e7a18f702f768eaffd6"/>
+	</machine>
+	<machine name="What's the Score v1.2 (1997).prc">
+		<description>What's the Score v1.2 (1997).prc</description>
+		<rom name="What's the Score v1.2 (1997).prc" size="9960" crc="c33c6ea6" md5="e49e015c45b4c2b157510811182fa470" sha1="cd9b82f755146f70b3f28e96d3525972d66d6078"/>
+	</machine>
+	<machine name="WhoDunIt v1.0 (2005-10-27).prc">
+		<description>WhoDunIt v1.0 (2005-10-27).prc</description>
+		<rom name="WhoDunIt v1.0 (2005-10-27).prc" size="538606" crc="2e7e7431" md5="0d17169c46380a4979c31d403bff288a" sha1="70b8bcbb1fc6a96c7ef532745b85fc2a4d2768ff"/>
+	</machine>
+	<machine name="WindComp v0.6 (1997).prc">
+		<description>WindComp v0.6 (1997).prc</description>
+		<rom name="WindComp v0.6 (1997).prc" size="9726" crc="781fdca9" md5="f67c9943a1d7ebab14976b681f3f49d5" sha1="c359a871ca3751a9d6da5ee25c48fc3677fa727a"/>
+	</machine>
+	<machine name="World Cup '98 v1.0 (1998-06-23).prc">
+		<description>World Cup '98 v1.0 (1998-06-23).prc</description>
+		<rom name="World Cup '98 v1.0 (1998-06-23).prc" size="22379" crc="99221a6f" md5="8021b8ab03590d12afa0a001b3a2d8ce" sha1="c00f7abede14b14feefc092713c2087a59414e8c"/>
+	</machine>
+	<machine name="World Finder v1.0 (1997-08-22).prc">
+		<description>World Finder v1.0 (1997-08-22).prc</description>
+		<rom name="World Finder v1.0 (1997-08-22).prc" size="13579" crc="738fcbd4" md5="4ad007c9da6336f58f53daa54123f8b7" sha1="67aafa78b17fba4682cc93ec13cbf5a6812ef546"/>
+	</machine>
+	<machine name="World Time Zone Clock v1.1 (1998).prc">
+		<description>World Time Zone Clock v1.1 (1998).prc</description>
+		<rom name="World Time Zone Clock v1.1 (1998).prc" size="41064" crc="e1cfe571" md5="defdc52baf9ea228fb5f06186033378a" sha1="7346dd7f00ac3531387531427537fdb70f228169"/>
+	</machine>
+	<machine name="WorldTime v1.1 (1996-09-05).prc">
+		<description>WorldTime v1.1 (1996-09-05).prc</description>
+		<rom name="WorldTime v1.1 (1996-09-05).prc" size="8068" crc="9ee0868d" md5="7602f4c6b5d43a1156a43813a9213c46" sha1="aaa8d8481e7f6d1be5f92fc8ea69c422405cf334"/>
+	</machine>
+	<machine name="WPM v1.00 (-).prc">
+		<description>WPM v1.00 (-).prc</description>
+		<rom name="WPM v1.00 (-).prc" size="9234" crc="a9dfb41e" md5="b1f4cc52d482e081d599c7acd1ea62c1" sha1="2e709a4596a95977cbafb0ca7a080951b52c93de"/>
+	</machine>
+	<machine name="WristRest (1997-01-07).prc">
+		<description>WristRest (1997-01-07).prc</description>
+		<rom name="WristRest (1997-01-07).prc" size="3330" crc="92b75e73" md5="c81a3f09504f67ee78c76da61003d899" sha1="82b0518463fb54cd8051ed81109aac8dbf1f656b"/>
+	</machine>
+	<machine name="XBombe v1.0 (1997).prc">
+		<description>XBombe v1.0 (1997).prc</description>
+		<rom name="XBombe v1.0 (1997).prc" size="13793" crc="ef1e239d" md5="f055ecc37a6e1a16817c53d99d7f2af4" sha1="bc07b5966d902aaa3a575c6bf8d0a8e81ee8b96d"/>
+	</machine>
+	<machine name="xpad (1996-09-04).prc">
+		<description>xpad (1996-09-04).prc</description>
+		<rom name="xpad (1996-09-04).prc" size="10192" crc="bf55d083" md5="6a58222728f24fe2ab80f5c3699a108e" sha1="f561dff9df00679ceb70c05c7737e0b5ef68090c"/>
+	</machine>
+	<machine name="Y2K v2.0 (1998-08-10).prc">
+		<description>Y2K v2.0 (1998-08-10).prc</description>
+		<rom name="Y2K v2.0 (1998-08-10).prc" size="7812" crc="90cf3bb6" md5="cfe8083a2cfde012a89ce80985632e35" sha1="8da0eebe7a73b36db605524b817f54b5edb098bb"/>
+	</machine>
+	<machine name="YearCal v0.0b (1997).prc">
+		<description>YearCal v0.0b (1997).prc</description>
+		<rom name="YearCal v0.0b (1997).prc" size="10368" crc="298c3f60" md5="c686fffd5e27f2fef23bcdbaa9523d73" sha1="652997a0a4b212b8a0ccc9acb419e6957743943d"/>
+	</machine>
+	<machine name="yMCal (1997-02-05).prc">
+		<description>yMCal (1997-02-05).prc</description>
+		<rom name="yMCal (1997-02-05).prc" size="14403" crc="e360c136" md5="20232737c25c347cec8bfa6222e63069" sha1="be9dc6cfaca8e861c9243c321b2ada1bb324df13"/>
+	</machine>
+	<machine name="yMemFrag (1997-01-18).prc">
+		<description>yMemFrag (1997-01-18).prc</description>
+		<rom name="yMemFrag (1997-01-18).prc" size="2679" crc="1ff1b861" md5="f4c9e195a9083ba51ebd60fc55867861" sha1="2899335932e9e8767173331f1bffd18aed9c5336"/>
+	</machine>
+	<machine name="YourShare (1998-21-03).prc">
+		<description>YourShare (1998-21-03).prc</description>
+		<rom name="YourShare (1998-21-03).prc" size="11112" crc="49250304" md5="043badba7da32fb668fd050be5030a7d" sha1="5af52b12e9bf89da74caf3eab85f2ac449b28325"/>
+	</machine>
+	<machine name="ypfile (1997-01-25).prc">
+		<description>ypfile (1997-01-25).prc</description>
+		<rom name="ypfile (1997-01-25).prc" size="6138" crc="c94d9dde" md5="c04e15c224fcb9bff2c485ce33b96bc6" sha1="8b390899abb84f12efc0831612f9ac05486cbc82"/>
+	</machine>
+	<machine name="Z-DOC v5.0.0b2 (1998).prc">
+		<description>Z-DOC v5.0.0b2 (1998).prc</description>
+		<rom name="Z-DOC v5.0.0b2 (1998).prc" size="10820" crc="575cbb8d" md5="99cca5df3fb2b5a48b5bc104f274707a" sha1="96ab867a3b0ea18cb3d1bdd1e39305ecf3f267d8"/>
+	</machine>
+	<machine name="ZFortune v0.0.12 (-).prc">
+		<description>ZFortune v0.0.12 (-).prc</description>
+		<rom name="ZFortune v0.0.12 (-).prc" size="11524" crc="ecbe8b35" md5="2aea7737192c6c6498144ed08d95355b" sha1="29e5dd1335277e01e6c821288724ad10872156f4"/>
+	</machine>
+	<machine name="• TIMER • (-).prc">
+		<description>• TIMER • (-).prc</description>
+		<rom name="• TIMER • (-).prc" size="5959" crc="13dad704" md5="5d4605ebb091766a1973c6a219baa012" sha1="51d71678835313ffabe7f11b863497fb57179dde"/>
+	</machine>
+	<machine name="Biorhythms v1.0 (1996-09-24).prc">
+		<description>Biorhythms v1.0 (1996-09-24).prc</description>
+		<rom name="Biorhythms v1.0 (1996-09-24).prc" size="5709" crc="076d2565" md5="338eeead1449d1a853c1f461839cd967" sha1="9efc3a866ae18aad6e1e50ec7f6de967553b0bce"/>
+	</machine>
+	<machine name="BootyCall v1.0 (2000-03-06).prc">
+		<description>BootyCall v1.0 (2000-03-06).prc</description>
+		<rom name="BootyCall v1.0 (2000-03-06).prc" size="67103" crc="81145037" md5="138de20409bba75c6c70292e3d5da7ac" sha1="5abb715a51a2d7bd632bd28235786c9594edcc70"/>
+	</machine>
+	<machine name="BPM Count v1.0 (1998-08-31).prc">
+		<description>BPM Count v1.0 (1998-08-31).prc</description>
+		<rom name="BPM Count v1.0 (1998-08-31).prc" size="2979" crc="9633f556" md5="66f498c075798d031b19bc0594fb34bc" sha1="7d902c91806f701f2c453569ac9f47e7debb7564"/>
+	</machine>
+	<machine name="Digi-Guppie (1997).prc">
+		<description>Digi-Guppie (1997).prc</description>
+		<rom name="Digi-Guppie (1997).prc" size="5936" crc="6f8004eb" md5="52534d6238a205f6245de2abd0cc4908" sha1="609b14942aa92bdb57ae1a53539e493af83bfa3b"/>
+	</machine>
+	<machine name="Dinky Pad (1996-07-30).prc">
+		<description>Dinky Pad (1996-07-30).prc</description>
+		<rom name="Dinky Pad (1996-07-30).prc" size="20165" crc="46052fce" md5="c11f385951cb25efe1a479bcdc5930f3" sha1="5cd87b7a6500aa4d553ff76b3a267af35885ba96"/>
+	</machine>
+	<machine name="DirectSync v0.2.1 (1997).prc">
+		<description>DirectSync v0.2.1 (1997).prc</description>
+		<rom name="DirectSync v0.2.1 (1997).prc" size="25320" crc="d01c8701" md5="028a6d44c0f1389cc5ca335a37c0fd60" sha1="ba33040fe435779b3ff664a3543a93f0e3a5b0e4"/>
+	</machine>
+	<machine name="ICQ v1.0.1 (1998-10-20).prc">
+		<description>ICQ v1.0.1 (1998-10-20).prc</description>
+		<rom name="ICQ v1.0.1 (1998-10-20).prc" size="95519" crc="7c57670f" md5="1346ffeb8b2bc709ae8b165211acde69" sha1="bac76abdcb8d35c0109520ed83176ada7ecac2a3"/>
+	</machine>
+	<machine name="pkgm v1.2.6 (1998-01-27).prc">
+		<description>pkgm v1.2.6 (1998-01-27).prc</description>
+		<rom name="pkgm v1.2.6 (1998-01-27).prc" size="31287" crc="0eabe10a" md5="2d3ad6dd892abe793c0a3eb2058159c2" sha1="86cff166ea044fa1f8abf62a7c9d42d495660279"/>
+	</machine>
+	<machine name="PlaceTrace v1.3 (1998-10-08).prc">
+		<description>PlaceTrace v1.3 (1998-10-08).prc</description>
+		<rom name="PlaceTrace v1.3 (1998-10-08).prc" size="58108" crc="4effd82e" md5="f94e7e383c7e2ad5833b39ec384111c0" sha1="fe7ff94b1fa63f8d06917918da3bd0eacbe52906"/>
+	</machine>
+	<machine name="PocketRace v0.5.0 (1997-08-28).prc">
+		<description>PocketRace v0.5.0 (1997-08-28).prc</description>
+		<rom name="PocketRace v0.5.0 (1997-08-28).prc" size="11175" crc="c26dbcd6" md5="0ccf3dd8a6205f40735be124252b5f21" sha1="988f425780de567dee06c7832dc8011a6182a9be"/>
+	</machine>
+	<machine name="PostCalc v0.70 (-).prc">
+		<description>PostCalc v0.70 (-).prc</description>
+		<rom name="PostCalc v0.70 (-).prc" size="3921" crc="5e630c95" md5="194c4d1c338710ac25f5404b2d19617c" sha1="4d82859de1b2f147c7293fc9778aff03d857a96b"/>
+	</machine>
+	<machine name="Potelo v1.00 (-).prc">
+		<description>Potelo v1.00 (-).prc</description>
+		<rom name="Potelo v1.00 (-).prc" size="29211" crc="d7430cbc" md5="38cbfeb1907030d6081a9b57cf2a789d" sha1="23e94db412eb7858ac5e20888d4ad9f87751b293"/>
+	</machine>
+	<machine name="PregCalc v2.0pe (1998-05-17).prc">
+		<description>PregCalc v2.0pe (1998-05-17).prc</description>
+		<rom name="PregCalc v2.0pe (1998-05-17).prc" size="17440" crc="cfb4ff24" md5="b621a76991cd270b3b51fb1dea6d69f0" sha1="7a79453c7db3de82f144b0ad6850604556b90d6a"/>
+	</machine>
+	<machine name="ProxiWeb v1 (-).prc">
+		<description>ProxiWeb v1 (-).prc</description>
+		<rom name="ProxiWeb v1 (-).prc" size="58416" crc="ea688c24" md5="8d543ff9496ea14fe6d4b6c13b666696" sha1="b56bc1a960283e216b56f5650b3e6ec712f535fe"/>
+	</machine>
+	<machine name="pSNK v1.0 (1997).prc">
+		<description>pSNK v1.0 (1997).prc</description>
+		<rom name="pSNK v1.0 (1997).prc" size="6539" crc="5182b76f" md5="c5e7195b5f46b614c5ff607e163ab5d6" sha1="530c5f05d150ca693008fd5a61fd56deacffab9a"/>
+	</machine>
+	<machine name="• PS • (-).prc">
+		<description>• PS • (-).prc</description>
+		<rom name="• PS • (-).prc" size="9817" crc="364f2240" md5="5ae911ccf4a750a8b6ddf97270269665" sha1="37dc46ad68b101d7b907d2c30449bce749cb7b63"/>
+	</machine>
+	<machine name="(dot) Note (1998).prc">
+		<description>(dot) Note (1998).prc</description>
+		<rom name="(dot) Note (1998).prc" size="11578" crc="53dea4bd" md5="32fd0dca6a231008af1be9a2c501ed89" sha1="74035027c3e6d4ffa5f9ca7bf6d6f93032f61af4"/>
+	</machine>
+	<machine name="Bridge v0.61 (1998-02-06).prc">
+		<description>Bridge v0.61 (1998-02-06).prc</description>
+		<rom name="Bridge v0.61 (1998-02-06).prc" size="31955" crc="d9f2ca71" md5="440e8632a83bbae5d367fae4c3feb120" sha1="a585e8749f6afc2699b3bc71b513a818142f12f8"/>
+	</machine>
+	<machine name="cap v1.0 (1997-11-21).prc">
+		<description>cap v1.0 (1997-11-21).prc</description>
+		<rom name="cap v1.0 (1997-11-21).prc" size="5282" crc="996cac40" md5="442919328e3f449e74a67c088819d1ab" sha1="abc634e2b811a7e96cf9cce0cbc957611f360327"/>
+	</machine>
+	<machine name="Cargo v1.0.1 (1998).prc">
+		<description>Cargo v1.0.1 (1998).prc</description>
+		<rom name="Cargo v1.0.1 (1998).prc" size="14645" crc="bc5f6814" md5="9938089e5f5625534e49e80540e83a4e" sha1="78aed131f6e001bfc23851ccf19acdda36afcb56"/>
+	</machine>
+	<machine name="Dianameter v1.0 (-).prc">
+		<description>Dianameter v1.0 (-).prc</description>
+		<rom name="Dianameter v1.0 (-).prc" size="7816" crc="95f2a430" md5="c53ab51497de45ed8fabaa3a309f5c3a" sha1="96da67a9e346bfc88cfe22eae3e516fdeddf1a22"/>
+	</machine>
+	<machine name="diapason (-).prc">
+		<description>diapason (-).prc</description>
+		<rom name="diapason (-).prc" size="5677" crc="a3cae1c9" md5="868dabd617c34b49810c8fc8d262e92b" sha1="36e35ceb791c2efd085562f63e043684e5796702"/>
+	</machine>
+	<machine name="Dictionary v1.00 (1997).prc">
+		<description>Dictionary v1.00 (1997).prc</description>
+		<rom name="Dictionary v1.00 (1997).prc" size="16017" crc="d72a2ce6" md5="ec2ff3e2634fc2a9909fd7a9fcf38c7b" sha1="8a8c9e18b51498cedd56a11b8f760e02929ec718"/>
+	</machine>
+	<machine name="Doc (1997-09-28).prc">
+		<description>Doc (1997-09-28).prc</description>
+		<rom name="Doc (1997-09-28).prc" size="33545" crc="4a3f8321" md5="118feaea2516a80a9c4316f1bb755c22" sha1="55f80c3fd404e2ae62890c14dafa86479cb0c4a7"/>
+	</machine>
+	<machine name="DopeWars v2.4.6 (2005-12-10).prc">
+		<description>DopeWars v2.4.6 (2005-12-10).prc</description>
+		<rom name="DopeWars v2.4.6 (2005-12-10).prc" size="39685" crc="a875d6cc" md5="d984b8d63a5be014ace86569e034ad78" sha1="e9ccbe654449ba70db71268c77b5105a628b3845"/>
+	</machine>
+	<machine name="Dots v1.2.0 (1997).prc">
+		<description>Dots v1.2.0 (1997).prc</description>
+		<rom name="Dots v1.2.0 (1997).prc" size="18773" crc="da728cd1" md5="1574c949041890a1b197fbff59dee677" sha1="75c1e8a1e4a40b00a86a94832803279e8cfff227"/>
+	</machine>
+	<machine name="GemHunt v1.0 (1996-11-04).prc">
+		<description>GemHunt v1.0 (1996-11-04).prc</description>
+		<rom name="GemHunt v1.0 (1996-11-04).prc" size="13609" crc="0fbcbd5c" md5="b4811fc4a3bd74e106858e5d85f0538f" sha1="5ad53e73fcc71839923c5db096fe6b00211fb2c8"/>
+	</machine>
+	<machine name="GetChar (1998).prc">
+		<description>GetChar (1998).prc</description>
+		<rom name="GetChar (1998).prc" size="2726" crc="1e603f4e" md5="18bb83b340400ad43090dc09b2049358" sha1="895e91fe0cd963626672b3c1644e9ceeda02e0c9"/>
+	</machine>
+	<machine name="Gibraltar v1.0 (1997-09-26).prc">
+		<description>Gibraltar v1.0 (1997-09-26).prc</description>
+		<rom name="Gibraltar v1.0 (1997-09-26).prc" size="3354" crc="d45c64ae" md5="39843ac3a1e05c9378947b50d256eda7" sha1="efa3b9d0466496e1a6d61bbdff3611c61749e863"/>
+	</machine>
+	<machine name="Golf Score v1.2 (1998).prc">
+		<description>Golf Score v1.2 (1998).prc</description>
+		<rom name="Golf Score v1.2 (1998).prc" size="20414" crc="c444beb9" md5="badc8fdbe8583526842c772bc56266ec" sha1="254f10fc2fb16a4d6dfdc4cdaf540dd57de127ca"/>
+	</machine>
+	<machine name="Graffiti Help (1997-05-02).prc">
+		<description>Graffiti Help (1997-05-02).prc</description>
+		<rom name="Graffiti Help (1997-05-02).prc" size="4720" crc="2184a5ca" md5="9dfc1ea6d127129bfc25e676871adb8b" sha1="710fda8ea7cf6992c2341fd5e049043ae8f0f708"/>
+	</machine>
+	<machine name="Go Rec (1997).prc">
+		<description>Go Rec (1997).prc</description>
+		<rom name="Go Rec (1997).prc" size="17855" crc="32e42701" md5="944f622b532de20ebfa5257974fca723" sha1="2e0c00618c4d7bf6bf94092a299120374c9c063a"/>
+	</machine>
+	<machine name="GoMoku v1 (1997-06-05).prc">
+		<description>GoMoku v1 (1997-06-05).prc</description>
+		<rom name="GoMoku v1 (1997-06-05).prc" size="10957" crc="110b7496" md5="ad2e8be40a7872e20373bbc31cacbc00" sha1="7022ba6031cd3c2dfcbd1f56fe2421ec4d1d05be"/>
+	</machine>
+	<machine name="GrafAid v1.0.0 (-).prc">
+		<description>GrafAid v1.0.0 (-).prc</description>
+		<rom name="GrafAid v1.0.0 (-).prc" size="2073" crc="b73b5f86" md5="461963204f25ea7e0a6dc5837722e516" sha1="88a418e8f30300c5819ebd0348bcf9c15b958dd6"/>
+	</machine>
+	<machine name="Grouper v1.2 (1998).prc">
+		<description>Grouper v1.2 (1998).prc</description>
+		<rom name="Grouper v1.2 (1998).prc" size="15774" crc="632f9326" md5="da1540d2f22cf3d88ebed1c30876f7ff" sha1="9572f6f648eac6b04c7bec6290483a11fe073825"/>
+	</machine>
+	<machine name="HeapInfo v1.0 (1998-02-20).prc">
+		<description>HeapInfo v1.0 (1998-02-20).prc</description>
+		<rom name="HeapInfo v1.0 (1998-02-20).prc" size="5367" crc="ea50f8e3" md5="6757822a7cd4c168b58a12fe45eaf33f" sha1="56adf6e72fa10320b903b2213bec9279c9ccf2d7"/>
+	</machine>
+	<machine name="HeartCalc v1.0.1 (1998).prc">
+		<description>HeartCalc v1.0.1 (1998).prc</description>
+		<rom name="HeartCalc v1.0.1 (1998).prc" size="7592" crc="1dde1fd8" md5="1a2d3acdf85ac752765fdf5d6beae8db" sha1="7012dff1cc5ab480ad750f2a4390e6218120437a"/>
+	</machine>
+	<machine name="HexCalc v1.0 (1997).prc">
+		<description>HexCalc v1.0 (1997).prc</description>
+		<rom name="HexCalc v1.0 (1997).prc" size="6188" crc="cca93fa7" md5="c4c1f89bf9c1d02a3ffb5aaeb68a0eb7" sha1="71a37a827eecc08f74135ef85be915a558c0448e"/>
+	</machine>
+	<machine name="HexCalc v1.0 (1998-02-03).prc">
+		<description>HexCalc v1.0 (1998-02-03).prc</description>
+		<rom name="HexCalc v1.0 (1998-02-03).prc" size="14885" crc="81877841" md5="5e2980c716a05394e24fc292ff1974c9" sha1="c92b4435863f293ec2480e0d8e4dd617398949a1"/>
+	</machine>
+	<machine name="High5 v1.00 (1998).prc">
+		<description>High5 v1.00 (1998).prc</description>
+		<rom name="High5 v1.00 (1998).prc" size="13867" crc="45c1208f" md5="21ef2f1d80a4ffd86c6250b38903d100" sha1="6f71ae3e5a95c7e198b98cea03a10c90761bcc6c"/>
+	</machine>
+	<machine name="Highway v1.1 (1998-09-05).prc">
+		<description>Highway v1.1 (1998-09-05).prc</description>
+		<rom name="Highway v1.1 (1998-09-05).prc" size="36089" crc="eb73e9d9" md5="ee87e5aef5b85c3df2c001ba57226cc7" sha1="e8e0c704652fabd23db35e38f5bbc1dd64083885"/>
+	</machine>
+	<machine name="Hit Point (1998-06-14).prc">
+		<description>Hit Point (1998-06-14).prc</description>
+		<rom name="Hit Point (1998-06-14).prc" size="16095" crc="c8585306" md5="21118e208cbf869ac4da8706a82b38f0" sha1="fcbe55cad33008e48fe52f9ae041a43714e3e858"/>
+	</machine>
+	<machine name="HMaki v2.2 (1998-09-01).prc">
+		<description>HMaki v2.2 (1998-09-01).prc</description>
+		<rom name="HMaki v2.2 (1998-09-01).prc" size="12146" crc="b5f2967c" md5="f8ce82b3579aeb2e70f5196a8608800a" sha1="9b74e1a12ecb233c3833bf757d0e8bcdfc58e10c"/>
+	</machine>
+	<machine name="Insider v1.6 (1997).prc">
+		<description>Insider v1.6 (1997).prc</description>
+		<rom name="Insider v1.6 (1997).prc" size="13465" crc="2b80cf5e" md5="bd3619f32ba7d457faf67c53e5d4a14d" sha1="ba3dcedb8d9bb5f7722616f2ead57c7ed4628f89"/>
+	</machine>
+	<machine name="Match v1.2 (1997-03-07).prc">
+		<description>Match v1.2 (1997-03-07).prc</description>
+		<rom name="Match v1.2 (1997-03-07).prc" size="10166" crc="71096de7" md5="ac3b589ab69aeaacd33da9fba7f53408" sha1="004a12c9c96758a4a10c04fdd4844c26f8c888f8"/>
+	</machine>
+	<machine name="MathCars v1.0 (1997-11-10).prc">
+		<description>MathCars v1.0 (1997-11-10).prc</description>
+		<rom name="MathCars v1.0 (1997-11-10).prc" size="17124" crc="720b0197" md5="0bce5f06e75e5b7f94c2a4eee1d4e38e" sha1="83566295ea49cb25a8cfa3914df99e0b03299d44"/>
+	</machine>
+	<machine name="Metronome v0.02b (1998).prc">
+		<description>Metronome v0.02b (1998).prc</description>
+		<rom name="Metronome v0.02b (1998).prc" size="4670" crc="96607974" md5="3d13f87767be106b0022f3b0f5d12cef" sha1="1525cae100eb66fc9617d0c4f51ebaffe09f2370"/>
+	</machine>
+	<machine name="Accu4Pilot v2.0 (1998-05-19).prc">
+		<description>Accu4Pilot v2.0 (1998-05-19).prc</description>
+		<rom name="Accu4Pilot v2.0 (1998-05-19).prc" size="2646" crc="b01bfad5" md5="9ea6d9cdd1353bedbd4f9fdc426fbd38" sha1="e89c0a789404e6979c83a8c6de67c3db89ef840e"/>
+	</machine>
+	<machine name="Doodle (1997).prc">
+		<description>Doodle (1997).prc</description>
+		<rom name="Doodle (1997).prc" size="5372" crc="7f10bc24" md5="ec6ab7bbc3cfa75f64cf235e8fbf108e" sha1="d48c730f37b463e30e6f3e51d9eb76070fc1ec44"/>
+	</machine>
+	<machine name="Dotty v1.0 (1998).prc">
+		<description>Dotty v1.0 (1998).prc</description>
+		<rom name="Dotty v1.0 (1998).prc" size="8534" crc="626fa75b" md5="2f4d6007511b73258009cd6768fd9f41" sha1="3dd3a14b0be730eeee417db3d9c64579aa882f73"/>
+	</machine>
+	<machine name="Drinks! (1998-06-01).prc">
+		<description>Drinks! (1998-06-01).prc</description>
+		<rom name="Drinks! (1998-06-01).prc" size="15081" crc="03c16d8a" md5="61dd144849d359fc3009d5bb09438a68" sha1="60ff11c1a41c67fb0b3804f9c6712cbc16c31d62"/>
+	</machine>
+	<machine name="Kalk v1.0.0 (1997-08-11).prc">
+		<description>Kalk v1.0.0 (1997-08-11).prc</description>
+		<rom name="Kalk v1.0.0 (1997-08-11).prc" size="30906" crc="28c1bb88" md5="bce5f3aeb9af25875941755b586f725e" sha1="1f5f76917612900b31517abfafdba0830f5a2f9f"/>
+	</machine>
+	<machine name="Maus (1996-11-15).prc">
+		<description>Maus (1996-11-15).prc</description>
+		<rom name="Maus (1996-11-15).prc" size="2360" crc="57a9fd91" md5="bc7c209420edb9fcc9a7de3320ff7c8e" sha1="0555daff000ebb644b43f729765db22867bb87cf"/>
+	</machine>
+	<machine name="McRazor (1998).prc">
+		<description>McRazor (1998).prc</description>
+		<rom name="McRazor (1998).prc" size="4229" crc="4d1e93a5" md5="49e3cbd9ac7685da2def5260d5ee690e" sha1="8a48895240e0e82d9c7485cab02000bfe17971bf"/>
+	</machine>
+	<machine name="Microtrek v1.0 (1998-10-09).prc">
+		<description>Microtrek v1.0 (1998-10-09).prc</description>
+		<rom name="Microtrek v1.0 (1998-10-09).prc" size="24091" crc="db241a3b" md5="9c8d990d22c35174c40eccd2ba5166d9" sha1="a4cdbc7bd9c3a2ecf4a80b4dec6319b697a60d6c"/>
+	</machine>
+	<machine name="MidiMonitor v1.0 (1998-05-24).prc">
+		<description>MidiMonitor v1.0 (1998-05-24).prc</description>
+		<rom name="MidiMonitor v1.0 (1998-05-24).prc" size="9416" crc="a453fc6e" md5="dde71f24663eeba8aac0297ce070df10" sha1="5d01ff98e643eec4838a75769c5985784a693ec8"/>
+	</machine>
+	<machine name="MineSweeper v1.2a (1998).prc">
+		<description>MineSweeper v1.2a (1998).prc</description>
+		<rom name="MineSweeper v1.2a (1998).prc" size="13508" crc="7f05f2fd" md5="1bbdafa9a1ded12c800a760a07ee83bf" sha1="e8006ef459627c603157c200795c4ae9b5847735"/>
+	</machine>
+	<machine name="Money (1996-08-29).prc">
+		<description>Money (1996-08-29).prc</description>
+		<rom name="Money (1996-08-29).prc" size="34118" crc="21755fea" md5="5f44761ddeab1f66183d4988d93c2811" sha1="41979eca41362aed98152079b20b2f6cc59e230c"/>
+	</machine>
+	<machine name="Moon (1997-04-09).prc">
+		<description>Moon (1997-04-09).prc</description>
+		<rom name="Moon (1997-04-09).prc" size="12737" crc="8b88519e" md5="bd1c2f9f4e6b76910efd6f8cb2d9def4" sha1="71dc05fd46006d2b283b97e6a71d710b9b58a117"/>
+	</machine>
+	<machine name="MorseCode (1997-04-17).prc">
+		<description>MorseCode (1997-04-17).prc</description>
+		<rom name="MorseCode (1997-04-17).prc" size="3790" crc="67bf5c30" md5="535688ce01bf8b3858a796808e4fc654" sha1="3c412c4fcb800e2befd91f1b0d75d05b0481cd06"/>
+	</machine>
+	<machine name="Neko (1997-07-02).prc">
+		<description>Neko (1997-07-02).prc</description>
+		<rom name="Neko (1997-07-02).prc" size="9032" crc="1b36cad5" md5="089befaf6994a30802bfc7af74d33833" sha1="9fea20b621559220e40b08380c9270c2e43c2fe6"/>
+	</machine>
+	<machine name="NoMess v1.03 (-).prc">
+		<description>NoMess v1.03 (-).prc</description>
+		<rom name="NoMess v1.03 (-).prc" size="21644" crc="b566419a" md5="f55a0bf70c2e1e6ed298166c4bf809f9" sha1="88e4b5d8ef3cdba8d6e9dd10ef75775bd014367f"/>
+	</machine>
+	<machine name="NotaBene (1996-07-04).prc">
+		<description>NotaBene (1996-07-04).prc</description>
+		<rom name="NotaBene (1996-07-04).prc" size="10468" crc="678dcaf5" md5="b008f9efecfa82f1578ac767da032620" sha1="f951fdccc2b81d9ead6a592e2eba241fb1e1a2f0"/>
+	</machine>
+	<machine name="NoteTaker v1.1a (1998).prc">
+		<description>NoteTaker v1.1a (1998).prc</description>
+		<rom name="NoteTaker v1.1a (1998).prc" size="28605" crc="5c12d4aa" md5="74eb464620f45ec47e56fa3fbdc613b3" sha1="3a62df5ac0aafc11ca05d755e0ecd7f78a71e6d6"/>
+	</machine>
+	<machine name="OffsetTool v0.1 (1998).prc">
+		<description>OffsetTool v0.1 (1998).prc</description>
+		<rom name="OffsetTool v0.1 (1998).prc" size="7728" crc="814080f0" md5="774018915b611a4892cdbc3eadeb19fa" sha1="6beb3336228bcf381e12bea9d0a458bf8891d5dd"/>
+	</machine>
+	<machine name="Ohm v2.0 (1998-03-30).prc">
+		<description>Ohm v2.0 (1998-03-30).prc</description>
+		<rom name="Ohm v2.0 (1998-03-30).prc" size="6515" crc="5b015f19" md5="f8079726d246d2caa0bed6b697beb0c7" sha1="6ab1a2cf15c320ca186c0ea4f3ee52ff103fd911"/>
+	</machine>
+	<machine name="OligoCalc v1.04 (-).prc">
+		<description>OligoCalc v1.04 (-).prc</description>
+		<rom name="OligoCalc v1.04 (-).prc" size="7340" crc="088ee967" md5="9327d483114ee198239f933089226d37" sha1="7289f5b09315c1334edd48519af49836f24c4d9b"/>
+	</machine>
+	<machine name="Outliner v1.3a (1997-06-25).prc">
+		<description>Outliner v1.3a (1997-06-25).prc</description>
+		<rom name="Outliner v1.3a (1997-06-25).prc" size="58301" crc="1c6f2c86" md5="893fde7a789ba4a72fc683e69e807696" sha1="f240d0f8591ca51fbb969be5b51aac9900b4a3c6"/>
+	</machine>
+	<machine name="Overload v0.2 (1998-06-08).prc">
+		<description>Overload v0.2 (1998-06-08).prc</description>
+		<rom name="Overload v0.2 (1998-06-08).prc" size="9370" crc="a6739d61" md5="1677d6ccc0036fff2c6e0c5d8cfdfeea" sha1="02997b9e49a6e0663788f80681af6de0b60b2aa5"/>
+	</machine>
+	<machine name="OXO v1.0 (1997).prc">
+		<description>OXO v1.0 (1997).prc</description>
+		<rom name="OXO v1.0 (1997).prc" size="13305" crc="7327b26e" md5="eeda2bd75f33f545370cf504c4317fb3" sha1="95edd3acfcb0ba36bd33291344ad4679d88a019d"/>
+	</machine>
+	<machine name="PalmGolf v1.0 (1998-08-06).prc">
+		<description>PalmGolf v1.0 (1998-08-06).prc</description>
+		<rom name="PalmGolf v1.0 (1998-08-06).prc" size="71746" crc="38ee6105" md5="1ccc52e421e0571c36a5c33fd45b4136" sha1="57c230316f597b19cf3b9d4747d418860004cbca"/>
+	</machine>
+	<machine name="Palmpad v1.1 (1998-07-27).prc">
+		<description>Palmpad v1.1 (1998-07-27).prc</description>
+		<rom name="Palmpad v1.1 (1998-07-27).prc" size="55668" crc="60635341" md5="66833316b327f3c30f2f97d220a81b72" sha1="34ce98edb9545a77a0781bcc7c56b61dbaf6a6e1"/>
+	</machine>
+	<machine name="PalmPilotApp v1.0 (1997-11-02).prc">
+		<description>PalmPilotApp v1.0 (1997-11-02).prc</description>
+		<rom name="PalmPilotApp v1.0 (1997-11-02).prc" size="3181" crc="7c327fa4" md5="0efd8685172fd19d9d498a843ff8576f" sha1="40eb5748fd467420154f11b282c78ca194046fcb"/>
+	</machine>
+	<machine name="Palmscape vPR 4.1a5 (1997-09-29).prc">
+		<description>Palmscape vPR 4.1a5 (1997-09-29).prc</description>
+		<rom name="Palmscape vPR 4.1a5 (1997-09-29).prc" size="70510" crc="a43d8652" md5="d7a3705c070b6ceb38500e70d4a44ec2" sha1="909f160885f0ce334777a31582af892d72e42ace"/>
+	</machine>
+	<machine name="PalmTelnet v0.41 (-).prc">
+		<description>PalmTelnet v0.41 (-).prc</description>
+		<rom name="PalmTelnet v0.41 (-).prc" size="21949" crc="09a89dd8" md5="8b919181dd8ab06cbc85c944592f3f5a" sha1="4d492386b358e05afa15cb3af8ba36c59da2bdbc"/>
+	</machine>
+	<machine name="PalmTerm v1.0 (1997).prc">
+		<description>PalmTerm v1.0 (1997).prc</description>
+		<rom name="PalmTerm v1.0 (1997).prc" size="16644" crc="2f7812a8" md5="abf726912201d9de1e6132719ad73338" sha1="661002f31c9c16ce1406a21ee56017ba2ffcd9f5"/>
+	</machine>
+	<machine name="PalmVNC v1.1 (1998).prc">
+		<description>PalmVNC v1.1 (1998).prc</description>
+		<rom name="PalmVNC v1.1 (1998).prc" size="34198" crc="eda813d4" md5="dd7639f54d261df1e07d85f170a87f57" sha1="7fdfbaae9c76985c7e5dee05fb4a2594acd7829f"/>
+	</machine>
+	<machine name="Password Store v1.53 (1998-10-13).prc">
+		<description>Password Store v1.53 (1998-10-13).prc</description>
+		<rom name="Password Store v1.53 (1998-10-13).prc" size="27459" crc="91383631" md5="9654f82695b9032f85899a64cc2902c6" sha1="e8c1568b7e2d007e4fba175981bd5591b9e862e8"/>
+	</machine>
+	<machine name="PilotFORTH v0.5.7 (1997).prc">
+		<description>PilotFORTH v0.5.7 (1997).prc</description>
+		<rom name="PilotFORTH v0.5.7 (1997).prc" size="8141" crc="777ae4ac" md5="e662459670770fc627694f03232a761e" sha1="9f32e8ade6d4b16afa9d95443c4791e3383b50fa"/>
+	</machine>
+	<machine name="Palm Globe v1.00 (1998).prc">
+		<description>Palm Globe v1.00 (1998).prc</description>
+		<rom name="Palm Globe v1.00 (1998).prc" size="30529" crc="2daffa30" md5="d91db4611fec6eab0af8591677afaf80" sha1="8b5fc091ddcbca9c0572e43f621446d5aabfe90b"/>
+	</machine>
+	<machine name="PalmZone v1.0 (1998).prc">
+		<description>PalmZone v1.0 (1998).prc</description>
+		<rom name="PalmZone v1.0 (1998).prc" size="7808" crc="81b79554" md5="fe57f06471a3738c3fe707bfe5141bc3" sha1="2ad8dbf318ed38c7ef09eb08582f36ff1457ed50"/>
+	</machine>
+	<machine name="PanaRead v1.0 (1998-04-16).prc">
+		<description>PanaRead v1.0 (1998-04-16).prc</description>
+		<rom name="PanaRead v1.0 (1998-04-16).prc" size="67197" crc="e54bef98" md5="f15e3993d2c8a5c56a14fd2351204d5d" sha1="aacfb2bfc444339d3f2c6433aa48ebab72c7dc35"/>
+	</machine>
+	<machine name="Patience (1998).prc">
+		<description>Patience (1998).prc</description>
+		<rom name="Patience (1998).prc" size="45843" crc="c7a09d66" md5="0a91200173ea4fd076aa56ecf7789550" sha1="61aab6e4ae42c461075103166f42a8d5b0a44a52"/>
+	</machine>
+	<machine name="PbBeer v1.0 (1998-05-20).prc">
+		<description>PbBeer v1.0 (1998-05-20).prc</description>
+		<rom name="PbBeer v1.0 (1998-05-20).prc" size="33866" crc="20394f16" md5="7870d039aceeb5930b93c3a3bb8c1da6" sha1="6f9f8250ab0a14094028f326430cdfc9acd1dcc2"/>
+	</machine>
+	<machine name="PbCigar v1.1 (1998-08-03).prc">
+		<description>PbCigar v1.1 (1998-08-03).prc</description>
+		<rom name="PbCigar v1.1 (1998-08-03).prc" size="36823" crc="48acb9ca" md5="9efb125d8b2df9ae35a8171f9a713c8b" sha1="0e464a717d79458ac7b1f881f710109a759d08b8"/>
+	</machine>
+	<machine name="PbWine v1.2 (1998-05-20).prc">
+		<description>PbWine v1.2 (1998-05-20).prc</description>
+		<rom name="PbWine v1.2 (1998-05-20).prc" size="39239" crc="7d1ef09e" md5="65a71068644e5743a48274cc06a312ac" sha1="679ed4f8b73647a54fb1082fff4bfc189b95113e"/>
+	</machine>
+	<machine name="Pegged! (1998).prc">
+		<description>Pegged! (1998).prc</description>
+		<rom name="Pegged! (1998).prc" size="19663" crc="9ff729f6" md5="f791f7f1054cc58169b4c10378cef8de" sha1="e967d5135dd32e4becfa63747b2fb4d2cb76782b"/>
+	</machine>
+	<machine name="pegs v1.0 (1997-09-22).prc">
+		<description>pegs v1.0 (1997-09-22).prc</description>
+		<rom name="pegs v1.0 (1997-09-22).prc" size="4814" crc="214e0e58" md5="5cd4d7a93669d4eb0d1d5bd43db2a173" sha1="adc2989c5e151eafa15910f55e77759c84c59782"/>
+	</machine>
+	<machine name="PenDraw v1.0 (1997).prc">
+		<description>PenDraw v1.0 (1997).prc</description>
+		<rom name="PenDraw v1.0 (1997).prc" size="10268" crc="54ed7fce" md5="9be7f835ac24ffbafd95a030a6a5ed88" sha1="1fef19f7d914aaf984df8689b8b86aa8205458df"/>
+	</machine>
+	<machine name="Perplex v1.0 (-).prc">
+		<description>Perplex v1.0 (-).prc</description>
+		<rom name="Perplex v1.0 (-).prc" size="7240" crc="d370282f" md5="130973916e88f8e414158e3d89ffab52" sha1="ff157716ce839fd24da147c01a3db0e71fe0bf0c"/>
+	</machine>
+	<machine name="PilotCaddy v1.1 (-).prc">
+		<description>PilotCaddy v1.1 (-).prc</description>
+		<rom name="PilotCaddy v1.1 (-).prc" size="17904" crc="5082d86b" md5="e19f4aec2d6debaebd083346e236fc05" sha1="ffeed013f6c225d41959599cde85960491dd3399"/>
+	</machine>
+	<machine name="PilotOTP (1997-04-03).prc">
+		<description>PilotOTP (1997-04-03).prc</description>
+		<rom name="PilotOTP (1997-04-03).prc" size="52706" crc="9a3bd6ca" md5="f96c942ef76c9f1a6072eed4dcd3a111" sha1="5d6bce244afd75a7405fd933c30318b224d0e300"/>
+	</machine>
+	<machine name="pilOTP (1996-09-30).prc">
+		<description>pilOTP (1996-09-30).prc</description>
+		<rom name="pilOTP (1996-09-30).prc" size="26789" crc="9a241bba" md5="4cbfaaf41d29146b9ebb6ec5a906793c" sha1="42f6b29ea68d357d314984d5b8d4ea42a223eb6b"/>
+	</machine>
+	<machine name="PilotQ v1.0 (-).prc">
+		<description>PilotQ v1.0 (-).prc</description>
+		<rom name="PilotQ v1.0 (-).prc" size="13886" crc="f46eb5ae" md5="1b732b8da0cd46e54af8955457f22541" sha1="58a7cc431d872692a4c56a9d507e39c120553f47"/>
+	</machine>
+	<machine name="PilotTalk v1.0 (1997-11-17).prc">
+		<description>PilotTalk v1.0 (1997-11-17).prc</description>
+		<rom name="PilotTalk v1.0 (1997-11-17).prc" size="9509" crc="2b63e0d9" md5="baeda541f8ddcf5354257faeab804787" sha1="bf926496eaf45fcc375d34698cff77dcf825fe16"/>
+	</machine>
+	<machine name="pintcalc v1.0 (1998-09-17).prc">
+		<description>pintcalc v1.0 (1998-09-17).prc</description>
+		<rom name="pintcalc v1.0 (1998-09-17).prc" size="18272" crc="d18792ba" md5="59eb2ffe81ebd5d386bf6de4337d4f58" sha1="26de46bbe9e0ebec765ed7d4146e8db30c394b66"/>
+	</machine>
+	<machine name="PitRacer v1.01 (1998-07-30).prc">
+		<description>PitRacer v1.01 (1998-07-30).prc</description>
+		<rom name="PitRacer v1.01 (1998-07-30).prc" size="52722" crc="63990153" md5="c936bbbecaf7718abdc5c33ef60361af" sha1="4dbe30b29d88192266e1c6fa1fe21043af931862"/>
+	</machine>
+	<machine name="PocketC v1.0 (1998-04-28).prc">
+		<description>PocketC v1.0 (1998-04-28).prc</description>
+		<rom name="PocketC v1.0 (1998-04-28).prc" size="45693" crc="47392b6b" md5="5cada9952d2218d9aa075512157f67e7" sha1="63e63ee97baa2e234fc91ae4053fde131c74f784"/>
+	</machine>
+	<machine name="PocketChess v1.1 (-).prc">
+		<description>PocketChess v1.1 (-).prc</description>
+		<rom name="PocketChess v1.1 (-).prc" size="29383" crc="178dd8be" md5="f7f1ea21a02aa211c80fae4f9a3191c2" sha1="5872cb4c9ce18198f99d3f6a30f712b613ee1295"/>
+	</machine>
+	<machine name="PocketSynth (1997-06-01).prc">
+		<description>PocketSynth (1997-06-01).prc</description>
+		<rom name="PocketSynth (1997-06-01).prc" size="15569" crc="bfddc3c4" md5="ffefe06a69daffbbec810a11e4a0e8d6" sha1="2aa36410f6977514b1356cbcf78536627f607dd0"/>
+	</machine>
+	<machine name="Pong v1.0 (1997).prc">
+		<description>Pong v1.0 (1997).prc</description>
+		<rom name="Pong v1.0 (1997).prc" size="19330" crc="702eff0d" md5="76172a7618f69d635f8f395b2a235f63" sha1="229b97658482592fde7ed38c8d6c1801e855bbfa"/>
+	</machine>
+	<machine name="Portfolio v1.0 (1998).prc">
+		<description>Portfolio v1.0 (1998).prc</description>
+		<rom name="Portfolio v1.0 (1998).prc" size="19912" crc="ce8ff02b" md5="e2baf779b068ec22314a26b0a1121311" sha1="42ed9976e80e3131bb528e58cf1e17a9cb0f174f"/>
+	</machine>
+	<machine name="PTE v1.1 (1998-08-31).prc">
+		<description>PTE v1.1 (1998-08-31).prc</description>
+		<rom name="PTE v1.1 (1998-08-31).prc" size="61743" crc="444728de" md5="26087e7a7908c58d6e23966bfaf2908b" sha1="4a4544eeb4333c1631bc5a8e95a5b96e2cf0d49e"/>
+	</machine>
+	<machine name="Push v1.0 (1997).prc">
+		<description>Push v1.0 (1997).prc</description>
+		<rom name="Push v1.0 (1997).prc" size="23529" crc="3f05cbe2" md5="08864550a5bc9b7fa55b7395dd9911dd" sha1="03eb426a9a6a9562dbadd0405ef8ad4741da1004"/>
+	</machine>
+	<machine name="Peyes v1.0.0 (1997).prc">
+		<description>Peyes v1.0.0 (1997).prc</description>
+		<rom name="Peyes v1.0.0 (1997).prc" size="3353" crc="3fb1583c" md5="c00f7d3c4528e1f6ed36bf3dc946db04" sha1="6861e036956bc7c8b5cd48c7dc1e047059276ad2"/>
+	</machine>
+	<machine name="Pilot Go v1.0 (1997).prc">
+		<description>Pilot Go v1.0 (1997).prc</description>
+		<rom name="Pilot Go v1.0 (1997).prc" size="19517" crc="bb303b95" md5="92a956abae266e1381f2348b8a492ffe" sha1="83390bfbd57f7d0fc5303363e616aff9c73f1f66"/>
+	</machine>
+	<machine name="Pilot_Convert v1007 (1997-11-30).prc">
+		<description>Pilot_Convert v1007 (1997-11-30).prc</description>
+		<rom name="Pilot_Convert v1007 (1997-11-30).prc" size="16952" crc="4cdadf91" md5="e0fbe3276e2891525387ea19dbd2ed2e" sha1="09253b0e950b553b184e7eb4a368fdc74f16190c"/>
+	</machine>
+	<machine name="PilotHack v1.01 (-).prc">
+		<description>PilotHack v1.01 (-).prc</description>
+		<rom name="PilotHack v1.01 (-).prc" size="5231" crc="14b2421e" md5="21d861feddd23e68bdedbdc551760ce0" sha1="201ec39a0ac0c026e59b772bf33aac31c4b1a360"/>
+	</machine>
+	<machine name="PiloWorms v1.0d1 (1998-01-07).prc">
+		<description>PiloWorms v1.0d1 (1998-01-07).prc</description>
+		<rom name="PiloWorms v1.0d1 (1998-01-07).prc" size="6917" crc="dfb412cc" md5="503b7b30d6ffac215a17e8d8de9e2a77" sha1="c47b690d13f906f69d6838406488cd06a807b772"/>
+	</machine>
+	<machine name="Convertor (1998).prc">
+		<description>Convertor (1998).prc</description>
+		<rom name="Convertor (1998).prc" size="17193" crc="c74d2963" md5="d80cb9fa5f490e1a13f79aace0e43fd8" sha1="8bd5379a051b9ba1c9a89c1a1728248aff81e9bc"/>
+	</machine>
+	<machine name="Convertor v2.1 (1998).prc">
+		<description>Convertor v2.1 (1998).prc</description>
+		<rom name="Convertor v2.1 (1998).prc" size="30347" crc="12cbc7a3" md5="9c98f0542b557127d059c7c1489a22f2" sha1="8c5250f7e7d244fe5de106e8a1a01aedcedbb380"/>
+	</machine>
+	<machine name="Cross St. v0.21 (-).prc">
+		<description>Cross St. v0.21 (-).prc</description>
+		<rom name="Cross St. v0.21 (-).prc" size="3747" crc="b9345a46" md5="e21dc9f321ed42e5ee91bc716e027b04" sha1="8bb1bf0b5d261296ec129d86e7470295a0c67a0f"/>
+	</machine>
+	<machine name="DigiChek v0.1 (-).prc">
+		<description>DigiChek v0.1 (-).prc</description>
+		<rom name="DigiChek v0.1 (-).prc" size="3670" crc="aec899bd" md5="3f70746ec269c97c091a064367064bc8" sha1="d6a10865770cde909e72677c81545859a91e6b79"/>
+	</machine>
+	<machine name="EEToolkit v1.0 (1998-04-13).prc">
+		<description>EEToolkit v1.0 (1998-04-13).prc</description>
+		<rom name="EEToolkit v1.0 (1998-04-13).prc" size="25271" crc="b9941407" md5="1b9aaf3aba31d8452f119f76e743c966" sha1="bb1cf23c2e0d5ff3b77df55a4109ecf9a51a1d0a"/>
+	</machine>
+	<machine name="GrayDemo (1996-08-18).prc">
+		<description>GrayDemo (1996-08-18).prc</description>
+		<rom name="GrayDemo (1996-08-18).prc" size="1325" crc="2ce3dfd8" md5="837821b5c37622b40be0579fc56ae006" sha1="8f069e206ea62ff931e8bf882b6e8326ea7a7541"/>
+	</machine>
+	<machine name="Jigsaw v1.0 (-).prc">
+		<description>Jigsaw v1.0 (-).prc</description>
+		<rom name="Jigsaw v1.0 (-).prc" size="33137" crc="fe432a2d" md5="cc36a85644214176eb8ad91a726c4eda" sha1="5aedd0b42c8cff555fd3879c3412a82756a7de7b"/>
+	</machine>
+	<machine name="McChords (1998).prc">
+		<description>McChords (1998).prc</description>
+		<rom name="McChords (1998).prc" size="5070" crc="e624f595" md5="eeefdc6195ecf1ab6386d96a5a949a7c" sha1="b5cc91211a90d09bd5d3b54365bbacdb0e9f3681"/>
+	</machine>
+	<machine name="MissileCmd v1.0.1 (1997-06-03).prc">
+		<description>MissileCmd v1.0.1 (1997-06-03).prc</description>
+		<rom name="MissileCmd v1.0.1 (1997-06-03).prc" size="13456" crc="223c8b05" md5="a1f76620005857b532179e7163b86485" sha1="bab5411b05a98ae3a4b54a9da502d0c801f6f8f6"/>
+	</machine>
+	<machine name="MSS v0.10 (1998-03-22).prc">
+		<description>MSS v0.10 (1998-03-22).prc</description>
+		<rom name="MSS v0.10 (1998-03-22).prc" size="8406" crc="04e04de4" md5="b7fec2f1dcb189cadd1c694f397b6d58" sha1="330248559a4d1179a12c7564533585c88498c4dc"/>
+	</machine>
+	<machine name="PalmDraw v1.00 (-).prc">
+		<description>PalmDraw v1.00 (-).prc</description>
+		<rom name="PalmDraw v1.00 (-).prc" size="39954" crc="ea58c4d9" md5="5571b68b66a7c7b8747d2520f1bc8d79" sha1="3862f89bd41dcd34f370b4ee1e3f072e4f72fb46"/>
+	</machine>
+	<machine name="PalmIRC v1.0 (1998-04-20).prc">
+		<description>PalmIRC v1.0 (1998-04-20).prc</description>
+		<rom name="PalmIRC v1.0 (1998-04-20).prc" size="19248" crc="ad4264c9" md5="fb4533b0aa84763b4e741457e1901ff5" sha1="ca54a24ddac454c6767887996a042056905674fd"/>
+	</machine>
+	<machine name="PalmProj v1.0 (1998-01-20).prc">
+		<description>PalmProj v1.0 (1998-01-20).prc</description>
+		<rom name="PalmProj v1.0 (1998-01-20).prc" size="17384" crc="d35c9069" md5="f28c86c7d875bdff0d90fe561b6023b4" sha1="c2132726892ce5248ecfbff5f081ec331d41bbef"/>
+	</machine>
+	<machine name="PilotCE v1.0 (-).prc">
+		<description>PilotCE v1.0 (-).prc</description>
+		<rom name="PilotCE v1.0 (-).prc" size="36486" crc="c6d48284" md5="6060e7e4f6ac27107807abced92da1a7" sha1="e8a69e1203f48b6a0aaec32fc8ff1d70d0b5a6ca"/>
+	</machine>
+	<machine name="PilotWatch v1.3 (-).prc">
+		<description>PilotWatch v1.3 (-).prc</description>
+		<rom name="PilotWatch v1.3 (-).prc" size="24825" crc="85fadb92" md5="9cbb5536c03731c785ab8118fcfbbe12" sha1="826dccfccf976ad791496082870e5709b787e847"/>
+	</machine>
+	<machine name="PipeLine (1998).prc">
+		<description>PipeLine (1998).prc</description>
+		<rom name="PipeLine (1998).prc" size="14722" crc="e0b84b77" md5="adb5cc62d8f1b3ad9a1015df28509a7d" sha1="c3f0a2cc0a13e3619a563fc81b3c3ff5d16bc525"/>
+	</machine>
+	<machine name="PITICalc v1.0 (1998-08-05).prc">
+		<description>PITICalc v1.0 (1998-08-05).prc</description>
+		<rom name="PITICalc v1.0 (1998-08-05).prc" size="9834" crc="01809ef9" md5="5cbd61cf9d961a600efd724b89ccd3f4" sha1="4d4fbae24e69f3778788a611ce3806e497ef8c22"/>
+	</machine>
+	<machine name="• MS • (1996-05-16).prc">
+		<description>• MS • (1996-05-16).prc</description>
+		<rom name="• MS • (1996-05-16).prc" size="15574" crc="1d518242" md5="d24e56aa63459cb3558d8b14909e016a" sha1="889a08a38a0ce02fa2da1cd79f3879efc6cf64fa"/>
+	</machine>
+	<machine name="# Decipher (-).prc">
+		<description># Decipher (-).prc</description>
+		<rom name="# Decipher (-).prc" size="2840" crc="0cc38bc4" md5="0f9d8f700d79feb480fc013a7dfb316d" sha1="ccec88bb726fb7b9e6e5ebe8ff90206f38a22b6c"/>
+	</machine>
+	<machine name="Days To Go v1.0 (1997).prc">
+		<description>Days To Go v1.0 (1997).prc</description>
+		<rom name="Days To Go v1.0 (1997).prc" size="4678" crc="78bc6018" md5="7d7d87cf73a1c4a481fcd7283b66138a" sha1="01bbdb7ca21cc5a5605943d66ce8fcac5723c5ac"/>
+	</machine>
+	<machine name="Dungeoneers v0.1 (-).prc">
+		<description>Dungeoneers v0.1 (-).prc</description>
+		<rom name="Dungeoneers v0.1 (-).prc" size="23816" crc="13a86fc8" md5="72b287fce406820aaebc8b756bfe389d" sha1="ecd8646cb791b6675356f13cb40c0651d99380b1"/>
+	</machine>
+	<machine name="Finger v1.1 (1997-09-11).prc">
+		<description>Finger v1.1 (1997-09-11).prc</description>
+		<rom name="Finger v1.1 (1997-09-11).prc" size="4585" crc="ebb2f420" md5="d99f51f78003c97c83891c6f936f85b8" sha1="31c416f22335aa9d9f34a6d9a5595e10c4cc30e4"/>
+	</machine>
+	<machine name="HandMemo v1.0 (1998-08-03).prc">
+		<description>HandMemo v1.0 (1998-08-03).prc</description>
+		<rom name="HandMemo v1.0 (1998-08-03).prc" size="19939" crc="1f0140ae" md5="c071912bdc347f270a874b97e45d90b5" sha1="a39a7ca7e0dc51dbaaba4a2b21b55b23746cca06"/>
+	</machine>
+	<machine name="HandMemo3 v1.0 (1998-08-03).prc">
+		<description>HandMemo3 v1.0 (1998-08-03).prc</description>
+		<rom name="HandMemo3 v1.0 (1998-08-03).prc" size="21574" crc="290db7b0" md5="1bc89d586e6a8473b29111b9de378a63" sha1="425795391dc6e3d2266c0a69160c89a9b445c4f5"/>
+	</machine>
+	<machine name="HandW v1.0 (1998-06-17).prc">
+		<description>HandW v1.0 (1998-06-17).prc</description>
+		<rom name="HandW v1.0 (1998-06-17).prc" size="7214" crc="dd5934c3" md5="f42c7b2fe90cc341d24bb03877bdbefe" sha1="0ec5c8c6518a721d88369e6c4360e6cdc11f120a"/>
+	</machine>
+	<machine name="HandyShop v1.04 (1998).prc">
+		<description>HandyShop v1.04 (1998).prc</description>
+		<rom name="HandyShop v1.04 (1998).prc" size="31162" crc="e42dcf46" md5="1ca598bcab75ed0032bf88b3f796e11f" sha1="d8a1566c9c5c08ac5b5654b32c93f1a286c4953d"/>
+	</machine>
+	<machine name="Intro v1.0 (-).prc">
+		<description>Intro v1.0 (-).prc</description>
+		<rom name="Intro v1.0 (-).prc" size="63350" crc="da4667a5" md5="7cbe06edc4bb3d832b942386d61b91e4" sha1="dfb8cb626f552351c8eeedbbe0e3f66b8d00b229"/>
+	</machine>
+	<machine name="Mahjong v1.0 (2003-03-28).prc">
+		<description>Mahjong v1.0 (2003-03-28).prc</description>
+		<rom name="Mahjong v1.0 (2003-03-28).prc" size="360379" crc="9c93735b" md5="817a99eb912ced29dc0bec022e04a81b" sha1="a521fb987315090033757c3d94d3abeee63aa0d7"/>
+	</machine>
+	<machine name="Maze Race v0.1 (1997).prc">
+		<description>Maze Race v0.1 (1997).prc</description>
+		<rom name="Maze Race v0.1 (1997).prc" size="8399" crc="53b1a2f7" md5="e5523db0a0a6cccab08c6105d852a64d" sha1="12cb04b34690b4f0254403da2fb591121e64e838"/>
+	</machine>
+	<machine name="MazeMad v0.05 (1997).prc">
+		<description>MazeMad v0.05 (1997).prc</description>
+		<rom name="MazeMad v0.05 (1997).prc" size="5743" crc="8adf4ff7" md5="8f03d06a3d5cc7a5e4abab23b130f936" sha1="0ee1e8b994a3dbf99120caf7f14b087e7deca5d8"/>
+	</machine>
+	<machine name="Med v0.62 (1997-05-15).prc">
+		<description>Med v0.62 (1997-05-15).prc</description>
+		<rom name="Med v0.62 (1997-05-15).prc" size="39348" crc="bb084d7a" md5="ac91f5b5ebd1bdbbdae5c1c7654738ca" sha1="35d394cc05f198ba5e2286918b716c4c4c015df7"/>
+	</machine>
+	<machine name="Memory v0.2.1 (1998).prc">
+		<description>Memory v0.2.1 (1998).prc</description>
+		<rom name="Memory v0.2.1 (1998).prc" size="6042" crc="592bc4cd" md5="0c272f1c1f16b8ee8ebd9bad2104ef4e" sha1="02a0ac0ed7fb941e4cb7ba77bb4a5b05fb4d982c"/>
+	</machine>
+	<machine name="MetriCalc (1997-01-13).prc">
+		<description>MetriCalc (1997-01-13).prc</description>
+		<rom name="MetriCalc (1997-01-13).prc" size="14013" crc="7f0b0a11" md5="89a5e66ce9a4b899137644a64b45aeba" sha1="b89e8ee69a4d3794ce08a5e3577169a9fcb759b5"/>
+	</machine>
+	<machine name="MMPlayer v1.0 (-).prc">
+		<description>MMPlayer v1.0 (-).prc</description>
+		<rom name="MMPlayer v1.0 (-).prc" size="63812" crc="bccda172" md5="1beebaf713bc7cca562130bef0420185" sha1="41252aafea43319a97844728081d1d2ee17b87ff"/>
+	</machine>
+	<machine name="MTH v0.20 (1998-03-14).prc">
+		<description>MTH v0.20 (1998-03-14).prc</description>
+		<rom name="MTH v0.20 (1998-03-14).prc" size="7984" crc="5a64d0c0" md5="11d82687fd9d45788ad1f243ca48c92d" sha1="1431bb8e784d9466026634ae0180e251b106c3e0"/>
+	</machine>
+	<machine name="NAP v1.0 (1998-09-22).prc">
+		<description>NAP v1.0 (1998-09-22).prc</description>
+		<rom name="NAP v1.0 (1998-09-22).prc" size="10107" crc="a4e4e4cd" md5="8b8039ce7a740661334a8dfcf51672ab" sha1="40e7458835765bb7a2ce0ce543ee01c1d7376b14"/>
+	</machine>
+	<machine name="Navigator v1.0 (1998-04-15).prc">
+		<description>Navigator v1.0 (1998-04-15).prc</description>
+		<rom name="Navigator v1.0 (1998-04-15).prc" size="54894" crc="5c303e26" md5="3ac136f7f79795921fa055911e7cbae1" sha1="6305593db4ea43aede5ea908667feac91f023268"/>
+	</machine>
+	<machine name="Note Quiz v0.1 (1998).prc">
+		<description>Note Quiz v0.1 (1998).prc</description>
+		<rom name="Note Quiz v0.1 (1998).prc" size="7449" crc="9bd7dd5b" md5="9b94c73f3e83c69510ffcff7a08fa728" sha1="724884458fb0ff6f12507b6acca44ac0ff45ad76"/>
+	</machine>
+	<machine name="PAC v0.2 (-).prc">
+		<description>PAC v0.2 (-).prc</description>
+		<rom name="PAC v0.2 (-).prc" size="11199" crc="5282e69c" md5="cb36fe820d0103124d77670d571c304c" sha1="07f1c8a5b93e7c3d949ef0a13e23ea1dceded943"/>
+	</machine>
+	<machine name="PalmDOS v0.7 (1998-07-12).prc">
+		<description>PalmDOS v0.7 (1998-07-12).prc</description>
+		<rom name="PalmDOS v0.7 (1998-07-12).prc" size="13680" crc="b4dfaf5e" md5="b92a6a476b66d57106900492100f70f7" sha1="0966fc3353e44753c9cd69d1fed53387c1b17f3d"/>
+	</machine>
+	<machine name="Pick-A-Pair v0.9.2 (-).prc">
+		<description>Pick-A-Pair v0.9.2 (-).prc</description>
+		<rom name="Pick-A-Pair v0.9.2 (-).prc" size="9460" crc="2e5b58e9" md5="69c3b7500a60fb93b32d99942df1c29a" sha1="d740a9c85f29d9f499b6a6edffd97126162e302e"/>
+	</machine>
+	<machine name="Pyramid v3.2 (1998-08-01).prc">
+		<description>Pyramid v3.2 (1998-08-01).prc</description>
+		<rom name="Pyramid v3.2 (1998-08-01).prc" size="23898" crc="07e8d634" md5="405393092e683cbaec817d9de056e80a" sha1="8378e54824ae53a00501e45509c19ca0d5e0c1d8"/>
+	</machine>
+	<machine name="VCRplus v1.0 (1997-04-28).prc">
+		<description>VCRplus v1.0 (1997-04-28).prc</description>
+		<rom name="VCRplus v1.0 (1997-04-28).prc" size="14637" crc="d11889c7" md5="e66def50ba1c8349c96e6968075ef9fd" sha1="ce65c224afe1b44bd40ec7b4999b42d13a195b85"/>
+	</machine>
+	<machine name="Vexed v1.5 (2005-05-17).prc">
+		<description>Vexed v1.5 (2005-05-17).prc</description>
+		<rom name="Vexed v1.5 (2005-05-17).prc" size="377619" crc="f9c2e798" md5="3dd81fb2b3961e6fa0e784fbe8ac6f4d" sha1="2fbf290ced709f8702b33bfa21e6b45842e0274f"/>
+	</machine>
+</datafile>

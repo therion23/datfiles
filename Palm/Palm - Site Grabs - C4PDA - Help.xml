@@ -5,8 +5,8 @@
 		<name>Palm - Site Grabs - C4PDA - Help</name>
 		<description>Palm - Site Grabs - C4PDA - Help</description>
 		<category>Standard DatFile</category>
-		<version>20261124</version>
-		<date>2026-11-24</date>
+		<version>20261126</version>
+		<date>2026-11-26</date>
 		<author>Grab by goldfishdev, cleanup and dat by t23</author>
 		<email></email>
 		<homepage></homepage>
@@ -806,7 +806,7 @@
 		<description>Angry Birds 1.0 (t81412)</description>
 		<rom name="Angry Birds BR\Angry Birds BR.prc" size="1099018" crc="06006531" md5="0fab2ed42169beac8048c993b44d70a5" sha1="8c171791a3f2842b6f161e570d779a993938b0d1" />
 		<rom name="Angry Birds\Angry Birds.prc" size="1153403" crc="cde53edc" md5="ee30dde1c602d19263ca64ca8cf41057" sha1="fab75a98299916cb9f171925a9c38c490702b029" />
-		<rom name="JavaVM Completo EspaF1ol\JavaVM Completo Español.prc" size="1224618" crc="693a518e" md5="2944eb243602bd4802ac1916725fb5ba" sha1="4e974cc6f3fb9118dab7c5d16360b86deeb774f0" />
+		<rom name="JavaVM Completo Español\JavaVM Completo Español.prc" size="1224618" crc="693a518e" md5="2944eb243602bd4802ac1916725fb5ba" sha1="4e974cc6f3fb9118dab7c5d16360b86deeb774f0" />
 		<rom name="JVM\ARM4T\J9JavaVMMidp20.prc" size="1693018" crc="3a94c045" md5="426b8edaac8d77e27327901705076556" sha1="d0c21ad590a9e4344ee302c15e7cc7ea00bec064" />
 		<rom name="JVM\ARM4T\J9JavaVMMidp20_de.prc" size="48655" crc="6cf6d497" md5="364a5ffe99e0c4874c5fc75e6176cb0f" sha1="baf541e6c68dc028d7c2f515eb4b7dc96e8aa7a4" />
 		<rom name="JVM\ARM4T\J9JavaVMMidp20_es.prc" size="49466" crc="37507b47" md5="3ca10f32ef3c8055de886af2d75b65ac" sha1="cf4765c35fce518aaf78ae90526245656a7700d6" />
@@ -3739,38 +3739,38 @@
 		<rom name="HNT-MSW1\Browser Software\mobirus\Japanese\XiinoManual31J.pdf" size="1183782" crc="12ef8024" md5="e61e44e56367604f7d8e0ec1eab2726f" sha1="1b3e2595d704f059ce63e824560e0565cf348327" />
 		<rom name="HNT-MSW1\English\HNTMSW_enEN.prc" size="113465" crc="4e202749" md5="7198122967a2085a80fc23ba410880b3" sha1="d57558590d6d3590fd4a29cd1eededf1b213aae5" />
 		<rom name="HNT-MSW1\Japanese\HNTMSW_jpJP.prc" size="112038" crc="7c8e0918" md5="e7999ed094b1318936003afbda05cdd6" sha1="de407047c38425de895b49f5eabf99e58f78cd2b" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\filelist.xml" size="1342" crc="3ec5b906" md5="2b45cc395c7daf5fde9f6db536daa925" sha1="3bc567a7df0b02d3c3246bae0610ae773c7fc60e" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\master03.htm" size="811" crc="24b7cc5f" md5="4afa2e2970065e1843df1bb00bac31c1" sha1="7a21eaeff8716a6564c7e3a78558008d5a5396d0" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\master03.xml" size="517" crc="315ea95f" md5="472c92f71cdcf6c1a0df9d131ce74d6a" sha1="c7153fab7d214739920a622805df48daf2e08f8c" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\master03_stylesheet.css" size="9673" crc="67ded100" md5="04309cb0f724db03690dafe350d27bee" sha1="24d6f8d9fc184c19892efc7c0204046c4a5d7a81" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\pres.xml" size="2837" crc="bbaf36e6" md5="539d8cfc21916cea786a555dc5ec4ef8" sha1="2678e26c726a2e726939de761c325172772ddfa8" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\preview.wmf" size="21400" crc="84a381e6" md5="bba44484a4a3a3a416c7d4917fa582a7" sha1="ee38c48660fff922d8867b62941cea51765868ea" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001.htm" size="56152" crc="682c70c6" md5="73e0bc53ac156f548a564de0c5ff82f1" sha1="4926805e907c6fa1da9d21032b439ae28bb1c53e" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001.xml" size="29797" crc="de805982" md5="afa5ae18c7912f8867114d59eafe8a44" sha1="ce8a2135c11f1cc14aab5974ff9b59926104f75f" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image001.png" size="7305" crc="9314729b" md5="746e4819d7641a87507963504f7879d8" sha1="83f56a5a89ddb7565a5ec1a9591216e8392c3e38" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image002.jpg" size="2142" crc="8f040d08" md5="daaad2434889eb016ec6ebfaf6eb0a73" sha1="e9da41e03f489e151d38fcfb4490acafd72bc531" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image003.gif" size="943" crc="d3abdb49" md5="6373c003047cc5874c098100373337a6" sha1="86de2c03adc5ba453f34cc54dc54a49f01612fa2" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image004.gif" size="287" crc="62389719" md5="0fa095199b769a19eab3c81191c35fd6" sha1="b1ecaa19a66bd8ccf60b703ab8888136db168400" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image005.gif" size="304" crc="5b4fe912" md5="13de064a80c4520a9c39a4e8f2b4f214" sha1="0cc9d22614c195be5c1cd58f7b41b0a6d98eef60" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image006.gif" size="179" crc="cccfc38e" md5="79c0f63a5954ad17cfbb9510236001a3" sha1="62b3b423afceb607e4fbf79b04be599d06a0332e" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image007.gif" size="295" crc="a1d19372" md5="88b0ad36cc1b1c0567ddc1716e8d5ab7" sha1="88eac5ba0e9bb7a406724469105755af7b55cac4" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image008.gif" size="1553" crc="132cfac4" md5="655b30877776234177284e3c0a3ff79e" sha1="5ceb420dd7dd48276b1b83b175a66a1bef3d201a" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image009.jpg" size="27104" crc="94afc954" md5="1718667ddd559c3a5316ffd3d0bf7418" sha1="ee474205fbd7a9ccc06273c4953e5b991560e8da" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image010.jpg" size="1475" crc="23f208f5" md5="4db1036623799a95bb07bdd29133c264" sha1="c59161aeb6fc908f998099787d0374cc996478f4" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image011.jpg" size="35036" crc="c8f404b7" md5="bb0390b9e620e3d6567ac85e20b983ed" sha1="5daa6d70ee50cc08c2c948800f4cefa6e5873555" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image012.jpg" size="1618" crc="48dacbc1" md5="c53a2874ea7e0466c3b7234affd11683" sha1="a62f8d58a39c75b518b07e19fe151d756ddb4c8b" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image013.gif" size="76" crc="7e35b0b0" md5="d0cd34023c37d7231373a546e3bb3289" sha1="9211c1cf35e950b23605078b6709854e8f4d5c1a" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image014.gif" size="1920" crc="8e1e1044" md5="57fce88001dd7fc87e6bcef8f0a5ee73" sha1="9c824d27a74e436fd44446cf2fbabbb0ce8918b5" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image015.jpg" size="66752" crc="ce130ff7" md5="46ed7f1b68ff31885267239dbe8c1486" sha1="e7150d6850f370ed4ef6489ffb216caceba8d262" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image016.gif" size="373" crc="d854b7f9" md5="9fcb3cafddf97a08dd13e7df197d4c1e" sha1="bc3909ba8c56f24ca8c5b09b9f013182c1cce9ca" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image017.jpg" size="12991" crc="cbe44c61" md5="7c9593163f1709c4f295e82cacbcb200" sha1="9429c575f2e364d8b04d5b45574a718b47b7f67f" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image018.jpg" size="521" crc="183210f3" md5="9ecea77736be0e0a65d60442bee61852" sha1="bbffcd3876e3f56d05f8c1ed82980007bf2916ee" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image019.jpg" size="1964" crc="171d850d" md5="a05339065833ddd58898d5a666875b10" sha1="ddb7e2be0154419d499e59bee6b561cd565fb811" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image020.gif" size="194" crc="44a48bb2" md5="929c99c0d830393d584d39c12fb48914" sha1="0016d565322b5f40c5fcd97bf97a51c44ccae42b" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image021.jpg" size="6451" crc="82d90135" md5="a1866579f0186df593ed262b8a15146b" sha1="53ec4af58245eff4685f21618a633090e72d0c26" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image022.jpg" size="1085" crc="0451d2b9" md5="395218aa53dfc0057e91f8049a71661b" sha1="7735a6501554f6e49fbb8c45a233a9664de85340" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.files\slide0001_image023.gif" size="136" crc="4cc25be2" md5="72e252d8e0d3ad4ad736b89854831f05" sha1="9e3fc5ea3353880a2242d61681ca1afd7ad831d2" />
-		<rom name="HNT-MSW1\Japanese\û│ÉⁿLANïΣèyòö.htm" size="2643" crc="7115711b" md5="6c2fc11fc13c4c6093b160f587a1e5d1" sha1="f1abda249fce4a7b39a59acdd1d6de94751f4b0e" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\filelist.xml" size="1342" crc="3ec5b906" md5="2b45cc395c7daf5fde9f6db536daa925" sha1="3bc567a7df0b02d3c3246bae0610ae773c7fc60e" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\master03.htm" size="811" crc="24b7cc5f" md5="4afa2e2970065e1843df1bb00bac31c1" sha1="7a21eaeff8716a6564c7e3a78558008d5a5396d0" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\master03.xml" size="517" crc="315ea95f" md5="472c92f71cdcf6c1a0df9d131ce74d6a" sha1="c7153fab7d214739920a622805df48daf2e08f8c" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\master03_stylesheet.css" size="9673" crc="67ded100" md5="04309cb0f724db03690dafe350d27bee" sha1="24d6f8d9fc184c19892efc7c0204046c4a5d7a81" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\pres.xml" size="2837" crc="bbaf36e6" md5="539d8cfc21916cea786a555dc5ec4ef8" sha1="2678e26c726a2e726939de761c325172772ddfa8" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\preview.wmf" size="21400" crc="84a381e6" md5="bba44484a4a3a3a416c7d4917fa582a7" sha1="ee38c48660fff922d8867b62941cea51765868ea" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001.htm" size="56152" crc="682c70c6" md5="73e0bc53ac156f548a564de0c5ff82f1" sha1="4926805e907c6fa1da9d21032b439ae28bb1c53e" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001.xml" size="29797" crc="de805982" md5="afa5ae18c7912f8867114d59eafe8a44" sha1="ce8a2135c11f1cc14aab5974ff9b59926104f75f" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image001.png" size="7305" crc="9314729b" md5="746e4819d7641a87507963504f7879d8" sha1="83f56a5a89ddb7565a5ec1a9591216e8392c3e38" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image002.jpg" size="2142" crc="8f040d08" md5="daaad2434889eb016ec6ebfaf6eb0a73" sha1="e9da41e03f489e151d38fcfb4490acafd72bc531" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image003.gif" size="943" crc="d3abdb49" md5="6373c003047cc5874c098100373337a6" sha1="86de2c03adc5ba453f34cc54dc54a49f01612fa2" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image004.gif" size="287" crc="62389719" md5="0fa095199b769a19eab3c81191c35fd6" sha1="b1ecaa19a66bd8ccf60b703ab8888136db168400" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image005.gif" size="304" crc="5b4fe912" md5="13de064a80c4520a9c39a4e8f2b4f214" sha1="0cc9d22614c195be5c1cd58f7b41b0a6d98eef60" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image006.gif" size="179" crc="cccfc38e" md5="79c0f63a5954ad17cfbb9510236001a3" sha1="62b3b423afceb607e4fbf79b04be599d06a0332e" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image007.gif" size="295" crc="a1d19372" md5="88b0ad36cc1b1c0567ddc1716e8d5ab7" sha1="88eac5ba0e9bb7a406724469105755af7b55cac4" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image008.gif" size="1553" crc="132cfac4" md5="655b30877776234177284e3c0a3ff79e" sha1="5ceb420dd7dd48276b1b83b175a66a1bef3d201a" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image009.jpg" size="27104" crc="94afc954" md5="1718667ddd559c3a5316ffd3d0bf7418" sha1="ee474205fbd7a9ccc06273c4953e5b991560e8da" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image010.jpg" size="1475" crc="23f208f5" md5="4db1036623799a95bb07bdd29133c264" sha1="c59161aeb6fc908f998099787d0374cc996478f4" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image011.jpg" size="35036" crc="c8f404b7" md5="bb0390b9e620e3d6567ac85e20b983ed" sha1="5daa6d70ee50cc08c2c948800f4cefa6e5873555" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image012.jpg" size="1618" crc="48dacbc1" md5="c53a2874ea7e0466c3b7234affd11683" sha1="a62f8d58a39c75b518b07e19fe151d756ddb4c8b" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image013.gif" size="76" crc="7e35b0b0" md5="d0cd34023c37d7231373a546e3bb3289" sha1="9211c1cf35e950b23605078b6709854e8f4d5c1a" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image014.gif" size="1920" crc="8e1e1044" md5="57fce88001dd7fc87e6bcef8f0a5ee73" sha1="9c824d27a74e436fd44446cf2fbabbb0ce8918b5" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image015.jpg" size="66752" crc="ce130ff7" md5="46ed7f1b68ff31885267239dbe8c1486" sha1="e7150d6850f370ed4ef6489ffb216caceba8d262" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image016.gif" size="373" crc="d854b7f9" md5="9fcb3cafddf97a08dd13e7df197d4c1e" sha1="bc3909ba8c56f24ca8c5b09b9f013182c1cce9ca" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image017.jpg" size="12991" crc="cbe44c61" md5="7c9593163f1709c4f295e82cacbcb200" sha1="9429c575f2e364d8b04d5b45574a718b47b7f67f" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image018.jpg" size="521" crc="183210f3" md5="9ecea77736be0e0a65d60442bee61852" sha1="bbffcd3876e3f56d05f8c1ed82980007bf2916ee" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image019.jpg" size="1964" crc="171d850d" md5="a05339065833ddd58898d5a666875b10" sha1="ddb7e2be0154419d499e59bee6b561cd565fb811" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image020.gif" size="194" crc="44a48bb2" md5="929c99c0d830393d584d39c12fb48914" sha1="0016d565322b5f40c5fcd97bf97a51c44ccae42b" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image021.jpg" size="6451" crc="82d90135" md5="a1866579f0186df593ed262b8a15146b" sha1="53ec4af58245eff4685f21618a633090e72d0c26" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image022.jpg" size="1085" crc="0451d2b9" md5="395218aa53dfc0057e91f8049a71661b" sha1="7735a6501554f6e49fbb8c45a233a9664de85340" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.files\slide0001_image023.gif" size="136" crc="4cc25be2" md5="72e252d8e0d3ad4ad736b89854831f05" sha1="9e3fc5ea3353880a2242d61681ca1afd7ad831d2" />
+		<rom name="HNT-MSW1\Japanese\無線LAN倶楽部.htm" size="2643" crc="7115711b" md5="6c2fc11fc13c4c6093b160f587a1e5d1" sha1="f1abda249fce4a7b39a59acdd1d6de94751f4b0e" />
 		<rom name="HNT-MSW1\MSWLANInstallationCD.ico" size="2238" crc="cf5e7eba" md5="e6a98a39c39739bb4b85b66f43ebaab0" sha1="93c67f04e656941ac8b6ea7e4f5aa4f2587b0791" />
 		<rom name="HNT-MSW1\Readme_EN.txt" size="4956" crc="30823992" md5="eef6c92fa02562b29d56ce6e1ae5b81b" sha1="008ae8c823859a9475eebe6905e9ca99289dbb2c" />
 		<rom name="HNT-MSW1\Readme_JP.txt" size="5680" crc="e8edeefa" md5="5393ad0af88cf0b69146d67ebbcb001b" sha1="ade7eaad6a6b13bbca481cdd9ed6fe6aed99a649" />

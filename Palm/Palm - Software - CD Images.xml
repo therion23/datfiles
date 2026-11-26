@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Palm - Software - CD Images</name>
+		<description>Palm - Software - CD Images</description>
+		<category>Standard DatFile</category>
+		<version>20261126</version>
+		<date>2025-11-26</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Games For Palm Handhelds">
+		<description>Games For Palm Handhelds</description>
+		<rom name="439-40393.iso" size="599146496" crc="326983a2" md5="9aefc53943105e9f8d1d83e0b01146ef" sha1="40c50d92bdfd7e6e2b280ad9f4b039c7c89e15d3"/>
+	</machine>
+	<machine name="Action2Pak">
+		<description>Action2Pak</description>
+		<rom name="Action2Pak.bin" size="24244416" crc="915c87f0" md5="2d1d51a415fcc191e5e23924ce8ccc68" sha1="5e1efe1052cafa1436d4490f9564b5dd5461fce9"/>
+		<rom name="Action2Pak.cue" size="76" crc="1553ad7b" md5="ccf014eb611db42a97dffa5d5ba9da29" sha1="f78460c89b6b743cb1e2af815c8310e8f259e0d8"/>
+	</machine>
+	<machine name="Adobe Acrobat Reader PalmOS">
+		<description>Adobe Acrobat Reader PalmOS</description>
+		<rom name="adobe-acrobat-reader-palmos.iso" size="20299776" crc="27548b5e" md5="f9690239f414031fe9c85ffe6d20ebb4" sha1="57cf6d016dc730077e1c5e4ea2e2d5cd952cc0fe"/>
+	</machine>
+	<machine name="Bonus Software Disk (Hybrid) (Palm, 2001)">
+		<description>Bonus Software Disk (Hybrid) (Palm, 2001)</description>
+		<rom name="Bonus Software Disk (Hybrid).iso" size="676861952" crc="cb332ec8" md5="b3c367905653848abb95797526cb1d73" sha1="0f808ac0791b8efd1e2a76f0eaa1cf0276c61fbf"/>
+	</machine>
+	<machine name="100 Great Games Vol 3 and 50 Great Utilities Vol 2">
+		<description>100 Great Games Vol 3 and 50 Great Utilities Vol 2</description>
+		<rom name="global star.bin" size="83133792" crc="e22a5a7d" md5="aed7c8a92d27e739cf9706c54be6f274" sha1="4ffa447028e2b4da0c48db16c04308aa15720113"/>
+		<rom name="global star.cue" size="77" crc="9a1149d6" md5="7906b20f3e6a50529c044a5f02b440a0" sha1="3cb34c0192c0b2d55b69a5fbafbd2a2e96004c70"/>
+	</machine>
+	<machine name="Mr Taxi">
+		<description>Mr Taxi</description>
+		<rom name="mrtaxi.iso" size="421675008" crc="85037a9c" md5="54f24d18444da15e686475d3b82fc42e" sha1="85ef69137a5375489bada134d163243bb84d6a09"/>
+	</machine>
+	<machine name="Palm Pilot Collection (Explore the World of Software) (1998)">
+		<description>Palm Pilot Collection (Explore the World of Software) (1998)</description>
+		<rom name="Palm Pilot Collection (Explore the World of Software) (1998).iso" size="128692224" crc="89abfd0c" md5="ab030a5cc1606df5325e04f831564c00" sha1="ea09d17c8712450c2a98f3031633765cbdf0da14"/>
+	</machine>
+	<machine name="Palm Mahjong">
+		<description>Palm Mahjong</description>
+		<rom name="palm-mahjong.iso" size="3407872" crc="da9be13a" md5="0aac60c10c0985b4edf295f8f6a21617" sha1="f92da18f43c11cb389e91c3712ff0d11f55426b1"/>
+	</machine>
+	<machine name="PALM software (possibly homemade)">
+		<description>PALM software (possibly homemade)</description>
+		<rom name="PALM_software.iso" size="185139200" crc="d780e871" md5="ad2b7471efc800651744912e805b4dac" sha1="261978cddfc5bbe553d40fde29e1e3acfb74b33e"/>
+	</machine>
+	<machine name="IMIL">
+		<description>IMIL</description>
+		<rom name="PalmCD1.iso" size="669081600" crc="296411ab" md5="1f6c998cab9f31710d691328f5cf16c1" sha1="8ba905fe2c064207a06f27968fa1780c862a2e3f"/>
+	</machine>
+	<machine name="Palmpark.com">
+		<description>Palmpark.com</description>
+		<rom name="PalmparkCD.iso" size="556404736" crc="715a9a4c" md5="2656ec91b10e20f61b2001d02ff3f011" sha1="0ff98a88b2af378ade2e25cc22a9838caa300477"/>
+	</machine>
+	<machine name="Palm Pilot Ultimate Guide CD (Hybrid)">
+		<description>Palm Pilot Ultimate Guide CD (Hybrid)</description>
+		<rom name="PalmPilotUltimateGuideCD (Hybrid).iso" size="651429888" crc="afed06bc" md5="b59bcc7cdc87973ef535a174742bb5a0" sha1="1ed9ff9ad9294c92abd4ce8fe979f94f80592b67"/>
+	</machine>
+	<machine name="Pilowar.ru Palm OS Collection 6.0 CD 1">
+		<description>Pilowar.ru Palm OS Collection 6.0 CD 1</description>
+		<rom name="PalmSoft.nrg" size="732289180" crc="f6e369e4" md5="61bb5a3b1f0a0378965947e3dd33ec26" sha1="8f8d427056df6ade37c82593154056b8b0685c84"/>
+	</machine>
+	<machine name="PDA Essentials (Issue 27) (Highbury Entertainment)">
+		<description>PDA Essentials (Issue 27) (Highbury Entertainment)</description>
+		<rom name="PDA Essentials (Issue 27) (Highbury Entertainment).iso" size="647108608" crc="0c164312" md5="130c938f31634ebf8b25c9071f312d03" sha1="53bd547a00083c47aa41ba5d99ad48ba6bf6b4b1"/>
+	</machine>
+	<machine name="PDA Essentials (Issue 32) - Mobile Email Toolkit">
+		<description>PDA Essentials (Issue 32) - Mobile Email Toolkit</description>
+		<rom name="PDA_Essentials_32_-_Mobile_Email_Toolkit.iso" size="643258368" crc="6ed3441b" md5="a81a72ed2c6eb8932baf49c7733e87d3" sha1="f36c56d9a93d23fab07e1380acb5788c8add20fe"/>
+	</machine>
+	<machine name="Pilot Computing 99 (Bytesize)">
+		<description>Pilot Computing 99 (Bytesize)</description>
+		<rom name="PILOT99.bin" size="334560240" crc="d45fbd4a" md5="4e7c88a0d5f917c2e985ef80f205f8f0" sha1="c9588f791c0d267b56eaef28e2f316a08cdaf1df"/>
+		<rom name="PILOT99.cue" size="73" crc="a672d0ea" md5="f543482b3d1b31f35a33e2934359ef9c" sha1="3c18a3607257b43f57f50ad1e5d07b5e0f0cfb64"/>
+	</machine>
+	<machine name="Pilowar.ru Palm OS Collection 6.0 DVD">
+		<description>Pilowar.ru Palm OS Collection 6.0 DVD</description>
+		<rom name="pilowar.ru-palm-collection-6.0.iso" size="2981042176" crc="1f3c05c3" md5="100077fef9a8de1ec471e783ae2da242" sha1="3c1efee6b7242e53046639caafb0b6df5e188f33"/>
+	</machine>
+	<machine name="Puzzle Bobble Palm">
+		<description>puzzle-bobble-palm</description>
+		<rom name="puzzle-bobble-palm.iso" size="20905984" crc="61675f29" md5="95905bc147deb544da2a4a8111aaed2f" sha1="dc0a7badb1d2d4086b04cc069e7df7229b0bef9a"/>
+	</machine>
+	<machine name="Handmark Scrabble">
+		<description>Handmark Scrabble</description>
+		<rom name="Scrabble.bin" size="10814496" crc="90b40ff1" md5="7ea4505721803aa71de6e58777d746f7" sha1="4205f027f81e34952d326dab72f20313aaec4334"/>
+		<rom name="Scrabble.cue" size="74" crc="b0aa365a" md5="9cbfaf4b09606c50ae91888b074a32c6" sha1="cff9b531daf4f9470dec96e77a1d215a99b5a141"/>
+		<rom name="Scrabble.txt" size="21" crc="b0e2b3bb" md5="d8252b280b4bfd21f726e84795db474b" sha1="2c3faf49818fdd1bbaa6c290e92640b1cf43abc1"/>
+	</machine>
+	<machine name="The Ultimate Palm CD">
+		<description>The Ultimate Palm CD</description>
+		<rom name="The_Ultimate_Palm_CD.ISO" size="652341248" crc="7957f043" md5="541557f05c5b4776442156639d0045af" sha1="39ca97e053d38bc507ee43ec98304d5175ded910"/>
+	</machine>
+	<machine name="TomTom CityMaps 3.0 Europe">
+		<description>TomTom CityMaps 3.0 Europe</description>
+		<rom name="TomTom CityMaps 3.0 Europe.iso" size="680882176" crc="4a5dffe6" md5="5da8bbec718e20c83f9922a89d82e372" sha1="c84af692bd85ab39e83c47a542f9af5e34fe0b00"/>
+	</machine>
+	<machine name="TomTom Route Planner - Route 4.10">
+		<description>TomTom Route Planner - Route 4.10</description>
+		<rom name="TomTom Route Planner Newest!.ccd" size="772" crc="33f8920e" md5="b68a09b09d16ea28117de57f8c1a9548" sha1="8ffb4cdcad36b1410a53883d7d69715fc5de2924"/>
+		<rom name="TomTom Route Planner Newest!.cue" size="92" crc="975df229" md5="d152f6f7b7844875f536fca69c841366" sha1="66477227ee484988916f3a61b507ead21fe4c4a6"/>
+		<rom name="TomTom Route Planner Newest!.img" size="744866640" crc="9786627c" md5="d418239571341ad2a152185f1bd1340a" sha1="73fa3be142d2c3285e0b21d5951bf082b2d4ae33"/>
+		<rom name="TomTom Route Planner Newest!.sub" size="30402720" crc="c9315e56" md5="f0c36f9094b3fedef946d900879fcf02" sha1="1ce0f8e9d78e71bf890d52a09de4b8eff37b5ef7"/>
+	</machine>
+	<machine name="ASCII Palm Magazine Vol3">
+		<description>ASCII Palm Magazine Vol3</description>
+		<rom name="ASCII Palm Magazine Vol3.iso" size="272154624" crc="27c6ea62" md5="b33801cbfe53e64ef8cc116803bc131e" sha1="716e3246787aea057cb981efa7a1065cf892a82c"/>
+	</machine>
+	<machine name="ASCII Palm Magazine Vol4">
+		<description>ASCII Palm Magazine Vol4</description>
+		<rom name="ASCII Palm Magazine Vol4.iso" size="409835520" crc="45576376" md5="d29bc845f1e3fa260f1f0bf7461ccf73" sha1="91564bc6f9d71f816d2e8b8938d87acfb17d7a38"/>
+	</machine>
+	<machine name="ASCII Palm Online Taizen">
+		<description>ASCII Palm Online Taizen</description>
+		<rom name="ASCII Palm Online Taizen.iso" size="536772608" crc="a154ec59" md5="e057b826cf6ce96d77248b23d9313f89" sha1="4686213b62cc6155321cc1503f3b028fafb1a70b"/>
+	</machine>
+	<machine name="Chip Special 2004-05 Pocitac v Kapse">
+		<description>Chip Special 2004-05 Pocitac v Kapse</description>
+		<rom name="Chip Special 2004-05 Pocitac v Kapse.iso" size="280264704" crc="8784f1fc" md5="52a30beb27770c4074054f0fe5ff0d17" sha1="e4bbf0ab364b9acb6d3d1169019ee57f14a535f7"/>
+	</machine>
+	<machine name="Dilbert Productivity Pack">
+		<description>Dilbert Productivity Pack</description>
+		<rom name="Dilbert Productivity Pack for Palm Computing Organizers (USA).bin" size="40249776" crc="c1e35af0" md5="76eddbc1241cbbe198e9cf07876c8e34" sha1="4acd3bf66a14fc2247db744096672ed6cb6f8f0b"/>
+		<rom name="Dilbert Productivity Pack for Palm Computing Organizers (USA).cue" size="127" crc="39d178d6" md5="dc374bbef86e70e3e71cbe0d94be3a24" sha1="c142efd0fe5cef557679b483c080118270d42d56"/>
+	</machine>
+	<machine name="MacAddict 55">
+		<description>MacAddict 55</description>
+		<rom name="MacAddict 55.iso" size="676231168" crc="885e3649" md5="835f83c2c7e93d99740d54b5354f1f7d" sha1="f6659f7d35875e2f9904f631e1212c006b6aa1bc"/>
+	</machine>
+	<machine name="Maximum CD 2000-04">
+		<description>Maximum CD 2000-04</description>
+		<rom name="maximum-cd-2000-04.iso" size="668338176" crc="4434ea22" md5="4517af4507a8ac59962a8ee9625b8c9a" sha1="b259492a4f91decbeac16f044c027303c1dcf515"/>
+	</machine>
+	<machine name="Palm Locus Marukajiri">
+		<description>Palm Locus Marukajiri</description>
+		<rom name="Palm Locus Marukajiri.iso" size="43921408" crc="29e43922" md5="274817d4d86a2a5fc5d8d8868299dbf2" sha1="00779b31cc67003dec10df7ccdb894b94fb45b59"/>
+	</machine>
+	<machine name="Palm Solutions CD">
+		<description>Palm Solutions CD</description>
+		<rom name="Palm Solutions CD.iso" size="198230016" crc="e535560a" md5="a1a08948ad9065d7b0c1a308b0be3e7b" sha1="3a786f27911346acc59e0405035b08f3e40c0f61"/>
+	</machine>
+	<machine name="Palmgear Magazine Vol1 Palmware Super Selection">
+		<description>Palmgear Magazine Vol1 Palmware Super Selection</description>
+		<rom name="Palmgear Magazine Vol1 Palmware Super Selection.iso" size="272623616" crc="0d9f4ec3" md5="836b4d8d719cdc7d050255d456a13315" sha1="2deddd19a6470febeac48a46cf808be465d276a3"/>
+	</machine>
+	<machine name="Pocket PDA 5">
+		<description>Pocket PDA 5</description>
+		<rom name="Pocket PDA 5.iso" size="104867840" crc="6ea6593c" md5="66b43e702faa0456f9826b69c3b5dd94" sha1="acbc433ebf7c1d54c88cace63ce286fbea2fe599"/>
+	</machine>
+	<machine name="SimplyPack III">
+		<description>SimplyPack III</description>
+		<rom name="SimplyPack III.iso" size="7141376" crc="82bd546b" md5="3084e5dbaa4c585e21483f6126cf7959" sha1="7c82d78c0bffab2a14f005d55add9086b82d291a"/>
+	</machine>
+	<machine name="SimplyPack IV">
+		<description>SimplyPack IV</description>
+		<rom name="SimplyPack IV.iso" size="25493504" crc="430b1569" md5="2a4d40a1100f7a82d782484711b07a19" sha1="95c58eba7673b38b56703f69a1006a20104cf7d7"/>
+	</machine>
+	<machine name="Sony Clie Best Off-CD">
+		<description>Sony Clie Best Off-CD</description>
+		<rom name="Sony Clie Best Off-CD.iso" size="107640832" crc="278edecf" md5="b33f6d74d304faa2575cb7006a9c3858" sha1="4a1b39da89851bb133aa28d06516cf16d039ab99"/>
+	</machine>
+	<machine name="Svet Pocitacu 2005-22">
+		<description>Svet Pocitacu 2005-22</description>
+		<rom name="Svet-pocitacu_2005-22_cd.bin" size="536966304" crc="fd0b82f2" md5="a7e8c038eba5e242f411881328879e8e" sha1="84e41e75467baf8741094d5b2ca25f8d1e58059d"/>
+		<rom name="Svet-pocitacu_2005-22_cd.cue" size="90" crc="e2bd5e15" md5="8103f241ad9913bc0b7661234a95b8df" sha1="0257c8c18f4ed0168a4a83cbc5bfdd4c84d5379e"/>
+	</machine>
+	<machine name="WinGear Palm Utilities 2001">
+		<description>WinGear Palm Utilities 2001</description>
+		<rom name="WinGear Palm Utilities 2001.iso" size="393975808" crc="77968b97" md5="cb39405e2682c52b36a99ca85f5ec4d3" sha1="1abd20fa87776cd682563d2c20c7115e44c5a21c"/>
+	</machine>
+	<machine name="Chip Mobile Special 2001 (Germany)">
+		<description>Chip Mobile Special 2001 (Germany)</description>
+		<rom name="Chip Mobile Special 2001 (Germany).iso" size="554434560" crc="7575b399" md5="f7faef63c42740c1d469a2eb69bd36d1" sha1="f9894fb2879373d43236a32b81d049579ee3d27c"/>
+	</machine>
+	<machine name="Mad Gab">
+		<description>Mad Gab</description>
+		<rom name="Palm-MadGab-CD.iso" size="18907136" crc="2b0651c4" md5="8c26acff0ffa6eccb352052e0f147b9e" sha1="50fc0aec51daf60d042f9f423b550cb315d9443d"/>
+	</machine>
+	<machine name="PDA Bible">
+		<description>PDA Bible</description>
+		<rom name="PDA Bible.bin" size="96450816" crc="cddd3e5b" md5="5deb874707e679a21dccc6a5b023d4ff" sha1="cbfd762fae1f04ffd31fac57c1f1fa3f0d06fa06"/>
+		<rom name="PDA Bible.cue" size="75" crc="73917557" md5="ee4148fd43ad306e48c6e1b107c51d83" sha1="e48eec06eb82b3aacf6cf546efdcdff9c62f0073"/>
+	</machine>
+	<machine name="TomTom Navigator 5">
+		<description>TomTom Navigator 5</description>
+		<rom name="TomTom Navigator 5.iso" size="70885376" crc="63f0c301" md5="b086d21ac5978db3b06b45b17d128b98" sha1="cd79486419c670f29d4f72d620a4efea281b07bc"/>
+	</machine>
+	<machine name="Palm Pocket Magazine CD">
+		<description>Palm Pocket Magazine CD</description>
+		<rom name="Palm Pocket Magazine CD.iso" size="551911424" crc="ec1c1225" md5="ae69cd49869d07cabffb56ea2bdeca97" sha1="2bae718d7039d3011b56c3d6c79278131f485f48"/>
+	</machine>
+	<machine name="Berlitz PDA Italian Premier">
+		<description>Berlitz PDA Italian Premier</description>
+		<rom name="Berlitz PDA Italian Premier.bin" size="30296112" crc="6dbe26ab" md5="6448a209cf058f5e71ba7c4d1bd07306" sha1="7d7e11c58fd495314c59ef957d2f82f8d38c8516"/>
+		<rom name="Berlitz PDA Italian Premier.cue" size="93" crc="51a6d01a" md5="7a673482d52f0f9ca9e33d2800d166ba" sha1="dba29cc77627258cd4f24f4189b4f3c1e53d7384"/>
+	</machine>
+	<machine name="Berlitz PDA Mandarin Chinese and Japanese Premier">
+		<description>Berlitz PDA Mandarin Chinese and Japanese Premier</description>
+		<rom name="Berlitz PDA Mandarin Chinese and Japanese Premier.bin" size="41571600" crc="4206dba9" md5="09737797f56491798b738baae9228d6b" sha1="701c8c504615057b4b8159a9653868ed5fea981b"/>
+		<rom name="Berlitz PDA Mandarin Chinese and Japanese Premier.cue" size="115" crc="80c67f53" md5="c9f75508045cd19f704795f160999f9a" sha1="3fc58daf8a36b52b3adccfc7ecb4e6c0aa23ae4a"/>
+	</machine>
+	<machine name="Franklin Planner">
+		<description>Franklin Planner</description>
+		<rom name="Franklin Planner Manual.pdf" size="7093153" crc="f28f9c6d" md5="71d943cf96d301637d928a4e683ed0fe" sha1="2b524c9ab312352b9f537c1f2ff766f68d84ebd4"/>
+		<rom name="Franklin Planner.iso" size="557977600" crc="85909b25" md5="4b07d1bf313c1f5967d61b2eba478dfa" sha1="2bea80694dc7c35425f08066406688b57b5ed08d"/>
+	</machine>
+	<machine name="Garmin MapSource City Select 5">
+		<description>Garmin MapSource City Select 5</description>
+		<rom name="Users\gk\Desktop\MapSource City Select 5 Disk 1.cdr" size="681945088" crc="1b420f84" md5="b41ee9c1364f31fabaed1bae006c0326" sha1="7ab177b15d868c5ab34523e1a99955918a5080a7"/>
+		<rom name="Users\gk\Desktop\MapSource City Select 5 Disk 2.cdr" size="279955456" crc="9a14850b" md5="88b13a126e52a5d6e1ce66f248f90344" sha1="99ac5ffadcaba09a574479ea0242832a1efce5a9"/>
+	</machine>
+	<machine name="MacMillan Plus Pack">
+		<description>MacMillan Plus Pack</description>
+		<rom name="MacMillan Plus Pack.iso" size="35502080" crc="51ffe15d" md5="a7dc4c33d5c9d66ecd2639b633c8a12a" sha1="7a84dc857432ef8dc811bc70a68f9988e17a47ec"/>
+	</machine>
+	<machine name="Magellan Map Companion (Magellan)">
+		<description>Magellan Map Companion (Magellan)</description>
+		<rom name="Magellan Map Companion (Magellan).iso" size="375848960" crc="f1d61ae5" md5="4bfde743c461c700617ce0f5cb333ea8" sha1="d0f1e9ccc838dd315feaa256dff2cbad9eb9cefd"/>
+	</machine>
+	<machine name="Magellan NAV Companion">
+		<description>Magellan NAV Companion</description>
+		<rom name="NAVComp.prc" size="251223" crc="4854a7cb" md5="f166fc7bb74a88b89027b9bd408b407c" sha1="35fb3e22379dbc2c89a2028fe12434dcfb50ba8d"/>
+		<rom name="NavCompanion V3.20.iso" size="9836544" crc="51b56955" md5="03f673dd99871c0b1082ec56b6476d2f" sha1="446068d4bf06d917be4cd29f48e5bd52bdc3606e"/>
+	</machine>
+	<machine name="Palm Digest (CN)">
+		<description>Palm Digest (CN)</description>
+		<rom name="Palm Digest (CN).iso" size="863686656" crc="44fd46ff" md5="20b5aa61c7200e33a4415941e6252411" sha1="86486400355ebab832e9122b50fd05b5769f15ea"/>
+	</machine>
+	<machine name="Palm Education Solutions 2002">
+		<description>Palm Education Solutions 2002</description>
+		<rom name="Palm Education Solutions 2002.iso" size="440510464" crc="963e0796" md5="adc82e1bafd7ee39a361a6ad9a47be9b" sha1="0c7f84851015bfef1b4c47dfbe79861661ed288a"/>
+	</machine>
+	<machine name="Palm Education Solutions 2003">
+		<description>Palm Education Solutions 2003</description>
+		<rom name="Palm Education Solutions 2003.iso" size="531632128" crc="5d9e5304" md5="86f731c4d274067dcdeb3a51f8d96306" sha1="3e3498b1e3b7a61b392ff105223233d77973db34"/>
+	</machine>
+	<machine name="Palm OS Collection 2 (DE)">
+		<description>Palm OS Collection 2 (DE)</description>
+		<rom name="PALMOSCOLLECTION.bin" size="806369088" crc="d042afdb" md5="c38f9bb0c49e6fbe98b61ea16d88bee5" sha1="68932eb5f259f05a91f949264cfe4bb7d26d66bd"/>
+		<rom name="PALMOSCOLLECTION.cue" size="82" crc="7ba4dc43" md5="b9208f3ba90e60a91689f4ed833f89b2" sha1="3c2561f539ef8d1faa3488b9a8d4d657a9d75f26"/>
+	</machine>
+	<machine name="Palmsoft9000 Compendium CD">
+		<description>Palmsoft9000 Compendium CD</description>
+		<rom name="Palmsoft9000 Compendium CD.iso" size="396570624" crc="c5b22bd0" md5="57839889c188eb03a9a21d386120efd5" sha1="8c76277d619a3f187720ae12ad874609ada40b71"/>
+	</machine>
+	<machine name="Que PalmPilot Companion">
+		<description>Que PalmPilot Companion</description>
+		<rom name="Que PalmPilot Companion.iso" size="26779648" crc="bf4e2e02" md5="bf2f680523be4492872b59a329b9ac4d" sha1="eae69f0823f78840c53941208068f58b675a5471"/>
+	</machine>
+	<machine name="Rand McNally Street Finder Disc 1">
+		<description>Rand McNally Street Finder Disc 1</description>
+		<rom name="Rand McNally Street Finder Disc 1.iso" size="645222400" crc="80319639" md5="6c576aeacfcc3bc13f3e5bf155280355" sha1="369a0f62e036c3489ce4b5d77039e539430ae5dd"/>
+	</machine>
+	<machine name="Rand McNally Street Finder Disc 2">
+		<description>Rand McNally Street Finder Disc 2</description>
+		<rom name="Rand McNally Street Finder Disc 2.iso" size="679827456" crc="0a795781" md5="0251b852053865587242459376bff08d" sha1="60e626a6a2362638bf1931fd2371855ff82029de"/>
+	</machine>
+	<machine name="TomTom CityMaps Europe v1.0 Disc 1">
+		<description>TomTom CityMaps Europe v1.0 Disc 1</description>
+		<rom name="TomTom CityMaps Europe v1.0 Disc 1.iso" size="648249344" crc="45d65cff" md5="c61b3e02ea799ab864afbaea962ed9ee" sha1="ff85df27120eda056ebb47ac79a5dba47f2a9aae"/>
+	</machine>
+	<machine name="TomTom CityMaps Europe v1.0 Disc 2">
+		<description>TomTom CityMaps Europe v1.0 Disc 2</description>
+		<rom name="TomTom CityMaps Europe v1.0 Disc 2.iso" size="534870016" crc="fdc8f759" md5="58d894b6123119d47adb64ef1daaa4aa" sha1="ada4186f5e7a1f9155b9fd40273839649c43fe5b"/>
+	</machine>
+	<machine name="TomTom CityMaps Europe v2.0 (Magellan GPS)">
+		<description>TomTom CityMaps Europe v2.0 (Magellan GPS)</description>
+		<rom name="TomTom CityMaps Europe v2.0 (Magellan GPS).iso" size="672929792" crc="bcde1735" md5="247a9d21564ccbeb04670d0468de7748" sha1="715fb668bafbc4d224ecb35434f5e2928fa29dd0"/>
+	</machine>
+	<machine name="TomTom Navigator for PalmOS - Great Britain (April 2004) - QZTHE-VSV2M-6JMGS">
+		<description>TomTom Navigator for PalmOS - Great Britain (April 2004) - QZTHE-VSV2M-6JMGS</description>
+		<rom name="TomTom Navigator for PalmOS - Great Britain (April 2004) - QZTHE-VSV2M-6JMGS.iso" size="640024576" crc="4aee2a9f" md5="b6aec121b93b02be10bd6493830d3c5d" sha1="459564b1bd7128dcea0ab77ef21934fc4f9e1723"/>
+	</machine>
+	<machine name="TomTom RoutePlanner Europe (Magellan GPS)">
+		<description>TomTom RoutePlanner Europe (Magellan GPS)</description>
+		<rom name="TomTom RoutePlanner Europe (Magellan GPS).iso" size="95500288" crc="b6ccfb62" md5="49bae44f6e86a621ed370a7089929370" sha1="52e85aeab25874c703ad877d05d64b2b51144039"/>
+	</machine>
+	<machine name="Yellow Computing Software Collection">
+		<description>Yellow Computing Software Collection</description>
+		<rom name="Yellow Computing Software Collection.iso" size="296310784" crc="1c7b2b66" md5="7c6624e5ceb41fb1e164c3d71c553520" sha1="539d81c4bb5a930ff55630b5d76fc6ad2fd99c88"/>
+	</machine>
+	<machine name="1333 Applications">
+		<description>1333 Applications</description>
+		<rom name="1333 Applications.iso" size="405391360" crc="7114ea56" md5="bef272044379310a7f364c6563f08f79" sha1="030cc61e120a25ec26e7d63cf82e3189c5730f3f" />
+	</machine>
+	<machine name="O'Reilly PalmPilot The Ultimate Guide CD">
+		<description>O'Reilly PalmPilot The Ultimate Guide CD</description>
+		<rom name="O'Reilly PalmPilot The Ultimate Guide CD.iso" size="650182656" crc="38cd1f59" md5="03680ee805821a3a7fa1780b4f1031bc" sha1="b700103684146062bf09d440fb632303e4fd0902" />
+	</machine>
+	<machine name="Palm Magazine CD 1 (ESI)">
+		<description>Palm Magazine CD 1 (ESI)</description>
+		<rom name="Palm Magazine CD 1 (ESI).iso" size="296685568" crc="eb1f8875" md5="fc04b2c719629a30351f346eacf8dd5c" sha1="40a18c0647db367ba1a682708193801255696b96" />
+		<rom name="Palm Magazine CD 1 (ESI).jpg" size="712929" crc="a96246ef" md5="aaad1222872b6538e18312a622d31ffc" sha1="c82f670ac11ee363b4dbfbd587ca7aa30a0bdac1" />
+	</machine>
+	<machine name="Palm Magazine CD 3 (ESI)">
+		<description>Palm Magazine CD 3 (ESI)</description>
+		<rom name="Palm Magazine CD 3 (ESI).iso" size="232962048" crc="93492abc" md5="ae40ea4fd8f376f545d54e00e2956dda" sha1="6edb66f22d062b2649e5510efe94c63b12171af5" />
+		<rom name="Palm Magazine CD 3 (ESI).jpg" size="702974" crc="2d4b9784" md5="0ede76ff4fbce3326e97df9575b91be5" sha1="b1f1204c7727bf86cbf9417c2c4ea49749728d73" />
+	</machine>
+	<machine name="Palm Power Up Pack 1500 (CP932)">
+		<description>Palm Power Up Pack 1500 (CP932)</description>
+		<rom name="Palm Power Up Pack 1500 (CP932).iso" size="736962560" crc="bc03f1e1" md5="1cd96ab9eb91d1e3c2c15ac3253291e7" sha1="cc191f2ca9db21beb09c7ad1913330f7226c6f31" />
+	</machine>
+	<machine name="Palm Source 99">
+		<description>Palm Source 99</description>
+		<rom name="Palm Source 99.iso" size="320952320" crc="ced72f36" md5="5415ce7ec8c5adf733ab6a8c9836197b" sha1="21dccd28b0fdedb4310c4e8fcd2b91e321f9e9ad" />
+	</machine>
+	<machine name="Super Jeux pour Palm OS">
+		<description>Super Jeux pour Palm OS</description>
+		<rom name="Super Jeux pour Palm OS.iso" size="489883648" crc="22e54897" md5="0061e297c330a1056df814687e249557" sha1="fd2cf99c256878e1648170318150f336a35ff00b" />
+		<rom name="Super Jeux pour Palm OS.jpg" size="4583125" crc="ed891ce3" md5="13a5258794f381f9571a7423f144a728" sha1="8a1a2b7d729961954a695ab74dad6b26aa721ddc" />
+	</machine>
+	<machine name="Super OZ SO-30 PalmPilot Volume 1">
+		<description>Super OZ SO-30 PalmPilot Volume 1</description>
+		<rom name="Super OZ SO-30 PalmPilot Volume 1.iso" size="105850880" crc="75fe6dc9" md5="4f65026833ce627791aab47f417ebf80" sha1="8180f88f0a492a5918079a309a0cb57cb7bff3d3" />
+	</machine>
+	<machine name="Super OZ SO-30 PalmPilot Volume 2">
+		<description>Super OZ SO-30 PalmPilot Volume 2</description>
+		<rom name="Super OZ SO-30 PalmPilot Volume 2.iso" size="82731008" crc="446495eb" md5="031ee91df4e444d4665a86fa59f278e0" sha1="4732688fd1d97f55cf73fa7bcd31b19535b44804" />
+	</machine>
+	<machine name="Tools For Palm OS">
+		<description>Tools For Palm OS</description>
+		<rom name="Tools For Palm OS.iso" size="272885760" crc="c54d8c3f" md5="d02d32cbabf69c9fe27d23ec5b308c24" sha1="7f4ae1228bae280e403a093f3ea3962765533f69" />
+	</machine>
+	<machine name="Walnut Creek CDROM - Hand Held Organizer Toolkit - March 1998">
+		<description>Walnut Creek CDROM - Hand Held Organizer Toolkit - March 1998</description>
+		<rom name="Walnut Creek CDROM - Hand Held Organizer Toolkit - March 1998.iso" size="202184704" crc="746db76c" md5="c702915ec3d72ba65ab58298bf4cd376" sha1="439f0d8ea7daa0fd95202b01ab4b6c92cdaf0f2c" />
+	</machine>
+</datafile>

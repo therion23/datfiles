@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Palm - Apps &amp; Games - Miscellaneous</name>
+		<description>The big messy uncategorized Palm collection</description>
+		<category>Standard DatFile</category>
+		<version>20251025</version>
+		<date>2025-10-25</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Oblique Strategies v1.0 (1998)(Foster, Lonnie)[OS 1][+Src]">
+		<description>Oblique Strategies v1.0 (1998)(Foster, Lonnie)[OS 1][+Src]</description>
+		<rom name="license.txt" size="18321" crc="0767480b" md5="ad4652e2dcfd4a0ecf91a2c01a7defd5" sha1="b6bf3e6e140e34af95f38bd7e59b9517cc88506d"/>
+		<rom name="obstrat.prc" size="3398" crc="48fc96ab" md5="12c8d70143227035f42b994db1013721" sha1="7b3307b342e4b058a55c1ce3de625e1223393f22"/>
+		<rom name="ObStratDB_all.PDB" size="7749" crc="5b180b6a" md5="13e0c02abc23f1c389d0aee08d035edb" sha1="66a000874c144afb8ffc890fc670149fbf754c43"/>
+		<rom name="ObStratDB_diary.PDB" size="962" crc="da72b3dc" md5="ee3e8053581dee485f45159549db4197" sha1="f3e2dc168983238b6a8edb54efef702c8a63c287"/>
+		<rom name="ObStratDB_Ed1.PDB" size="4722" crc="f5fa53f7" md5="95455c4ed104ec705f6e94f16234b7c7" sha1="e8ade16311e7070f7a501c22a351c7e04d6c3ca5"/>
+		<rom name="ObStratDB_Ed2.PDB" size="5286" crc="f0f30977" md5="8eb878c50925f278912d9d187b193094" sha1="d427e38f8bbf1bc3ea19c27515bbb4b45f1addaf"/>
+		<rom name="ObStratDB_Ed3.PDB" size="4984" crc="2f207994" md5="68d9e4221bb5de39bcd30f8a5c2e5d1e" sha1="4e881c7ccd0ca7b93773e7619721882078b5fc06"/>
+		<rom name="ObStratDB_Ed4.PDB" size="3572" crc="9fe8e8df" md5="ec0a6dd26d7a814864756db07efa2d58" sha1="3471f4d292390b5e245b3b3d294dee02204115af"/>
+		<rom name="ObStratDB_lonnie.PDB" size="6575" crc="7aef6371" md5="6c92353257e032b1e59169d3a53a6ffc" sha1="a51aceb8ae15f52e94d01120da7c5a90b04a114d"/>
+		<rom name="ObStratDB_signal.PDB" size="1216" crc="6f9b47d7" md5="f5afa3526ba1526c08168639a02627c4" sha1="ad81e3e18e52672870039e353d27e3519abd20b4"/>
+		<rom name="readme.txt" size="5563" crc="77cd2a25" md5="1aeab1dcbaa084d3f00e8e2ef0511cca" sha1="d9243fa9949297547ef9205c095e7c23ac43ec12"/>
+		<rom name="src\makedata\makedata.bmp" size="190" crc="05f2452a" md5="5933515775ee9503732c7be714110404" sha1="be6170bfa9530b08554c9db8bca3dac0e8c7d7cc"/>
+		<rom name="src\makedata\makedata.c" size="6999" crc="36294239" md5="3882403a643ca9afbd6775a0e097cbe2" sha1="cd87e8776ebb9ff958da414eb3d70d22c2cc5a13"/>
+		<rom name="src\makedata\makedata.h" size="8103" crc="c8026d2c" md5="f03f01fba0805b5d5fe4eff8ae96fe2e" sha1="be6dd063e147a1594b190b1400d6318e8c4f5213"/>
+		<rom name="src\makedata\makedata.rcp" size="909" crc="a3850ed3" md5="ef7949bdf410d61f8d63236cb90107b2" sha1="5511a2b08401ed2adf3132523ae5677da7c93557"/>
+		<rom name="src\makedata\makedata_1.h" size="6236" crc="d54f8e33" md5="dfafee48592581b404619d2503d94529" sha1="f82f1a7d364f4d98f1314eb7c558803feec8c6ff"/>
+		<rom name="src\makedata\makedata_2.h" size="6802" crc="794d1ad5" md5="aee21e443c42ea60e8a99a275fe5d02a" sha1="3b3dc43d98eb131e86f60e8e255f7a2346f2b326"/>
+		<rom name="src\makedata\makedata_3.h" size="6498" crc="8138f32c" md5="1c3c829caa37b824c30ec254f4d71c63" sha1="927b9b43e7da438054d1b031959303d986ffeab6"/>
+		<rom name="src\makedata\makedata_4.h" size="5087" crc="b36301f7" md5="6cf7837140f849230ecd109a522da049" sha1="58a5b330ba69cbb6cf6e9e20dcd6a0402d22337c"/>
+		<rom name="src\makedata\makedata_all.h" size="9258" crc="0986419e" md5="2778bddbf99de68ab53ec66e86b3aefe" sha1="bd6b931554af2084a1e04aede5d1463a8411a6e2"/>
+		<rom name="src\makedata\makedata_diary.h" size="2485" crc="104f1711" md5="60fad171073696cdd288ea6140b9d845" sha1="ad81a150a224cd8f8e696bfaa0d3a13c9ff17ec8"/>
+		<rom name="src\makedata\makedata_lonnie.h" size="8103" crc="c8026d2c" md5="f03f01fba0805b5d5fe4eff8ae96fe2e" sha1="be6dd063e147a1594b190b1400d6318e8c4f5213"/>
+		<rom name="src\makedata\makedata_signal.h" size="2943" crc="4913dcb3" md5="469b53a8850e8b39237577c3c5bdabb1" sha1="66b7f2e6d186af4fb0f7828b9cd6e77db001d1d6"/>
+		<rom name="src\makedata\makefile" size="454" crc="cb190d88" md5="4053314112e64c968e1b642af2b416bc" sha1="83b498d572cc2abb2a16972e2712467dc42a588f"/>
+		<rom name="src\makedata\readme.txt" size="1927" crc="29ff713e" md5="128b1678532f99059bbae83998a60097" sha1="5ae837f725d83247086cc7cd27f366feb34eda4c"/>
+		<rom name="src\makedata\resource.h" size="248" crc="8d632c83" md5="3cf2cea3dcf05016d03d22eca29bdc94" sha1="2210367202510712df3f321f72a15639c2b7ada4"/>
+		<rom name="src\Makefile" size="522" crc="6b1b6989" md5="60f48faea873df8be9ce09b98b31d6cb" sha1="3811fe8e3548e2135a5edd44ee36066e8e8c532c"/>
+		<rom name="src\obstrat.bmp" size="190" crc="05f2452a" md5="5933515775ee9503732c7be714110404" sha1="be6170bfa9530b08554c9db8bca3dac0e8c7d7cc"/>
+		<rom name="src\obstrat.c" size="11770" crc="9c46d4b9" md5="0caa0a5468c35472fd78c2b77664045e" sha1="172135abd7a57507edf8ce8f411d07b8653b53ab"/>
+		<rom name="src\obstrat.h" size="1365" crc="9c8881b9" md5="1fb537e2b9ef5f50f62ba5dca9b12d1b" sha1="6b6a0ec1eed0dcd1437b055c36794aa1ee1fa906"/>
+		<rom name="src\obstrat.rcp" size="1594" crc="5b7ab092" md5="c25273cfa2e96992e6be7c053553514f" sha1="c44fde1667dd239c5d53c3517f2d11a7fbd83f64"/>
+		<rom name="src\resource.h" size="534" crc="8aabed22" md5="696c7e49c23ee24dbe8aac907d4adca1" sha1="9bceac4de472f3bb02fe46424ecd8b7eec1ca9cb"/>
+		<rom name="src\smallico.bmp" size="98" crc="79d4ee1e" md5="551eddd98b310fb4801d32ef5256cb62" sha1="9ca71562130085547bcc016cde921f4bbbe21de5"/>
+	</machine>
+</datafile>

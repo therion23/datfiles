@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>Magazines - Microcards - Poche Computers</name>
+		<description>Magazines - Microcards - Poche Computers</description>
+		<category>Standard DatFile</category>
+		<version>20261126</version>
+		<date>2026-11-26</date>
+		<author>t23</author>
+		<email></email>
+		<homepage></homepage>
+		<url></url>
+		<comment></comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Poche Computers Volume 1 (Microcards)">
+		<description>Poche Computers Volume 1 (Microcards)</description>
+		<rom name="info.txt" size="62" crc="daedc61b" md5="a9f2d1f6fef0b2e6b8e03ca3a4411f99" sha1="bd2123bba175a4e2dfb4f415b6fb79868ebfcbfd" />
+		<rom name="PocheComputers1.pdf" size="12662521" crc="9cd6c6fe" md5="84f413cda93a4219bb42b190b46b2fbf" sha1="88477eefc9f2445e5617fdf375229de17e8f8abe" />
+	</machine>
+	<machine name="Poche Computers Volume 2 (Microcards)">
+		<description>Poche Computers Volume 2 (Microcards)</description>
+		<rom name="info.txt" size="62" crc="daedc61b" md5="a9f2d1f6fef0b2e6b8e03ca3a4411f99" sha1="bd2123bba175a4e2dfb4f415b6fb79868ebfcbfd" />
+		<rom name="PocheComputers2.pdf" size="19118055" crc="93d88ba1" md5="14df2c62ca3adead9fcfe2fa9e2ded70" sha1="61937203f9d73278e5a8dfdba3f2dbdb902d8bad" />
+	</machine>
+	<machine name="Poche Computers Volume 3 (Microcards)">
+		<description>Poche Computers Volume 3 (Microcards)</description>
+		<rom name="info.txt" size="62" crc="daedc61b" md5="a9f2d1f6fef0b2e6b8e03ca3a4411f99" sha1="bd2123bba175a4e2dfb4f415b6fb79868ebfcbfd" />
+		<rom name="PocheComputers3.pdf" size="19518967" crc="d11135c9" md5="57117aeae46bc480262856c7e4274de5" sha1="80b0de48bc485c6c1126b78b48fa92fba0dcb48e" />
+	</machine>
+	<machine name="Poche Computers Volume 4 (Microcards)">
+		<description>Poche Computers Volume 4 (Microcards)</description>
+		<rom name="info.txt" size="62" crc="daedc61b" md5="a9f2d1f6fef0b2e6b8e03ca3a4411f99" sha1="bd2123bba175a4e2dfb4f415b6fb79868ebfcbfd" />
+		<rom name="PocheComputers4.pdf" size="19757829" crc="af82fa5d" md5="a5a4ac3ce6624c4bb9c47039d65716e4" sha1="ab9eb743e04eea81571ec693b89b05906ea21941" />
+	</machine>
+</datafile>
